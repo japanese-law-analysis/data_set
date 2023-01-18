@@ -1,0 +1,1271 @@
+- -
+平成１９年（行ケ）第１０１９６号 審決取消請求事件
+平成２０年８月６日判決言渡，平成２０年７月９日口頭弁論終結
+判 決
+原 告 エービー イニティオ ソフトウェア コーポレーション
+訴訟代理人弁理士 平木祐輔，関谷三男，渡辺敏章，大塩剛
+被 告 特許庁長官 鈴木隆史
+指定代理人 山崎達也，吉岡浩，山本章裕，森山啓
+主 文
+原告の請求を棄却する。
+訴訟費用は原告の負担とする。
+この判決に対する上告及び上告受理の申立てのための付加期間を３０日と定める。
+事実及び理由
+第１ 原告の求めた裁判
+「特許庁が不服２００４−１０３１８号事件について平成１９年１月２３日にし
+た審決を取り消す。」との判決
+第２ 事案の概要
+本件は，特許出願の拒絶査定に対する不服審判請求を不成立とした審決の取消し
+を求める事案である。
+(1) 原告は，平成９年７月１日（パリ条約による優先権主張・１９９６年（平
+成８年）７月２日，アメリカ合衆国），名称を「ファイルの設定状態の復元」とす
+る発明につき，特許出願（国際出願。以下「本件出願」という。）をした（特願平
+- -
+(2) 原告は，平成１６年２月９日付けで，本件出願につき拒絶査定を受けたの
+で，同年５月１７日，拒絶査定不服審判を請求した（不服２００４−１０３１８号
+事件として係属）。
+(3) 特許庁は，平成１９年１月２３日，「本件審判の請求は，成り立たない。」
+との審決をし，同年２月６日，その謄本を原告に送達した。
+審決が対象としたのは，平成１６年６月１６日付け手続補正（甲６）により補正
+された請求項１に記載された発明（以下「本願発明」という。）であり，その要旨
+は次のとおりである。
+「【請求項１】 ネイティブファイルシステムのネイティブファイルおよびディ
+レクトリ動作のセットヘトランザクションセマンティクスを追加するためのコンピ
+ュータプログラムライブラリを記録したコンピュータ読取り可能な記録媒体であっ
+て，前記ライブラリが１つ以上のルーチンファミリのセットを有し，このようなル
+ーチンファミリの各々が最低１つのネイティブファイルまたはディレクトリ動作と
+関連し，そして，最低１つのネイティブファイルまたはディレクトリ動作の代わり
+に呼出されるように構成され，このようなルーチンファミリの各々が，
+(a)ファミリの関連ネイティブファイルまたはディレクトリ動作の１つと機能的に
+同等である結果をコンピュータに提供させて，一方でこのようなネイティブファイ
+ルまたはディレクトリ動作をロールバックするために必要な情報を記憶するコンピ
+ュータ命令を含む実行ルーチンと，
+(b)コンピュータに，関連実行ルーチンの結果をコミットさせるコンピュータ命令
+を含む終了ルーチンと，
+(c)コンピュータに，関連実行ルーチンの結果をロールバックさせるコンピュータ
+命令を含むアンドゥルーチンと，
+- -
+を有することを特徴とするコンピュータ読取り可能な記録媒体。」
+審決は，本願発明は下記引用例に記載された発明（以下「引用発明」という。）
+に基づいて当業者が容易に発明をすることができたものであるから，特許法２９条
+引用例 １９９２年（平成４年）１月にサンフランシスコで開催された「１９９
+による「LIBTP: Portable, Modular Transactions for UNIX」と題する論文（甲１）
+審決の理由中，引用例の記載事項及び引用発明の認定，本願発明と引用発明との
+一致点及び相違点の認定並びに相違点についての判断に係る部分は，以下のとおり
+である（符号及び明らかな誤記を改めた部分，略称を本判決が指定したものに改め
+た部分並びに本訴における証拠番号を付記した部分がある。）。
+(1) 引用例の記載事項及び引用発明の認定
+引用例には，以下のように記載されている。
+ア「Although these properties are most frequently discussed in the context of databases,
+they are useful programming paradigms for more general purpose applications. There are
+several different situations where transactions can be used to replace current ad-hoc
+mechanisms.
+fashion. For examp1e, the traditional UNIX file system uses ordering constraints to
+achieve recoverability in the face of crashes. When a new file is created, its inode is
+written to disk before the new file is added to the directory structure. This guarantees
+that, if the system crashes between the two I/O's, the directory does not contain are
+reference to an invalid inode. In actuality, the desired effect is that these two updates
+- -
+have the transactional property of atomicity (either both writes are visible or neither
+is). Rather than bui1ding special purpose recovery mechanisms into the file system or
+related tools (e.g. fsck(8)), one could use general purpose transaction recovery protocols
+after system failure. Any application that needs to keep multip1e, related files (or
+directories) consistent should do so using transactions. Source code control systems, such
+as RCS and SCCS, should use transaction semantics to allow the checking in of groups of
+related files. In this way, if the check-in fails, the transaction may be aborted,
+backing out the partial check-in leaving the source repository in a consistent state.
+A second situation where transactions can be used to replace current ad-hoc mechanisms
+is in applications where concurrent updates to a shared file are desired, but there is
+logical consistency of the data which needs to be preserved. For example, when the password
+file is updated, file locking is used to disallow concurrent access. Transaction semantics
+on the password files would allow concurrent updates, while preserving the logical
+consistency of the password database. Similarly, UNIX utilities which rewrite files face a
+potential race condition between their rewriting a file and another process reading the
+file. For example, the compiler (more precisely, the assembler) may have to rewrite a file
+to which it has write permission in a directory to which it does not have write permission.
+While the .o file is being written, another utility such as nm(1) or ar(1) may read the
+file and produce invalid results since the file has not been completely written. Currently,
+some utilities use special purpose code to handle such cases while others ignore the
+problem and force users to live with the consequences.」（９〜１０頁「1. Introduction」
+の第２ないし第４段落（９頁２３行〜１０頁４行））
+（仮訳）
+「これらの性質はデータベースに関する文脈でしばしば議論されるが，より一般的な目的の
+アプリケーションのためにも有用なプログラミングパラダイムである。現に用いられているア
+ドホックなメカニズムに換えてトランザクションを用いることが可能であるいくつかの状況が
+- -
+ある。
+そうした状況の一つは，複数のファイル又は複数のファイルの複数の部分が原子的に(in
+atomic fashion)更新される必要がある時に生ずる。例えば，伝統的な UNIX ファイルシステム
+はクラッシュに直面した場合の回復可能性を達成するために順番どおりに（書き込みを）行う
+という制約を用いている。新しいファイルが生成される時，その新しいファイルがディレクト
+リ構造に追加される前にそのｉノードがディスクに書き込まれる。このことによって，そのシ
+ステムがその二つの I/O の間でクラッシュした場合においても，そのディレクトリが無効な i
+ノードの参照を含まないことを保証する。実際には，望まれていた効果は，これらの二つの更
+新がトランザクションとしての原子性(atomicity)（双方の書き込みが見える(visible)，ある
+いは，いずれもが見えない(invisible)，のいずれか）を備えていることである。・・・・・
+・・・（中略）・・・・・・・・・・・・
+現に用いられているアドホックなメカニズムに換えてトランザクションを用いることが可能
+であるような二つ目の状況は，共有ファイルに対する同時的な(concurrent)更新が望まれるが，
+論理的なデータの一貫性は維持されていなければならないようなアプリケーションにおいて生
+ずる。例えばパスワードファイルを更新するとき，同時的なアクセスを不許可にするためにフ
+ァイルロッキングが用いられる。パスワードファイルにおいてトランザクションセマンティッ
+クスにより，パスワードデータベースの論理的な一貫性を維持しながら，パスワードファイル
+を同時に更新することが許容される。同様に，ファイルをリライトする UNIX ユーティリティ
+は，それらのファイルのリライトと他のプロセスからの読出しとの間の潜在的な競合状態に直
+面している。例えば，コンパイラ（正確にはアセンブラ）は書き込み許可を有しないディレク
+トリ中の書き込み許可を有するファイルをリライトしなければならないかもしれない。その
+.o ファイルが書き込まれている間に nm(1)や ar(1)のような他のユーティリティがファイ
+ルを読み，ファイルが完全に書き込まれていないために無価値な結果を生成するかもしれない。
+現状では，いくつかのユーティリティではこうした状況を取り扱うための特別なコードを用い
+るが，他のユーティリティではこの問題は無視されてその帰結を受け入れる(live with the
+consequences)ことをユーザは強いられている。」
+- -
+イ「In this paper, we present a simple library which provides transaction semantics
+(atomicity, consistency, isolation, and durability. The 4.4BSD database access methods
+have been modified to use this library optionally providing shared buffer management
+between applications, locking, and transaction semantics. Any UNIX program may
+transaction protect its data by requesting transaction protection with the db(3) library
+or by adding appropriate calls to the transaction manager, buffer manager, lock manager,
+and log manager. The library routines may be linked into the host app1ication and called by
+subroutine interface, or they may reside in a separate server process. The server
+architecture provides for network access and better protection mechanisms.」（１０頁「1.
+Introduction」の第５段落（５〜１１行））
+（仮訳）
+「この論文では，トランザクションセマンティクス（原子性，同時性，分離性，永続性）を
+提供する簡単なライブラリについて解説する。4.4BSD のデータベースアクセスメソッドは，選
+択的にアプリケーション間での共有バッファ管理，ロッキング及びトランザクションセマンテ
+ィクスを提供するように，このライブラリを用いて改変された。どのような UNIX プログラム
+もこの db(3)ライブラリを用いたトランザクション保護を要求するか，又は，トランザクショ
+ンマネージャ，バッファマネージャ，ロックマネージャ及びログマネージャに対する適切な呼
+出 (call)を 追 加 す る こ と に よ っ て ， そ の デ ー タ に対 す る トラ ン ザク シ ョ ン保 護 を行 う
+(transaction protect)ことができる。これらのライブラリルーチンはホストとなるアプリケー
+ションにリンクされてサブルーチンインターフェースにより呼び出されることができる，又は，
+分離したサーバープロセスとして存在することができる。このサーバーアーキテクチャにより
+ネットワークアクセスとより良い保護メカニズムが提供される。」
+ウ「3.2. Module Architecture
+The preceding sections described modules for managing the transaction log, locks, and a
+cache of shared buffers. In addition, we need to provide functionality for transaction
+begin, commit, and abort processing, necessitating a transaction manager. In order to
+- -
+arbitrate concurrent access to locks and buffers, we include a process management module
+which manages a collection of semaphores used to block and release processes. Finally, in
+order to provide a simple, standard interface we have modified the database access
+routines (db(3)). For the purposes of this paper we call the modified package the Record
+Manager. Figure one shows the main interfaces and architecture of LIBTP.
+The Log Manager enforces the write-ahead logging protocol. Its primitive operations are
+log, log̲commit, log̲read, log̲roll and log̲unroll. The log call performs a buffered write
+of the specified log record and returns a unique log sequence number (LSN). This LSN may
+then be used to retrieve a record from the log using the log̲read call. The log interface
+knows very little about the internal format of the log records it receives. Rather, all log
+records are referenced by a header structure, a log record type, and a character buffer
+containing the data to be logged. The log record type is used to call the appropriate redo
+and undo routines during abort and commit processing. While we have used the Log Manager to
+provide before and after image logging, it may also be used for any of the logging
+algorithms discussed.
+The log̲commit operation behaves exactly like the log operation but guarantees that the
+log has been forced to disk before returning. A discussion of our commit strategy appears
+in the implementation section (section 4.2). Log̲unroll reads log records from the log,
+following backward transaction pointers and calling the appropriate undo routines to
+implement transaction abort. In a similar manner, log̲roll reads log records sequentially
+forward, calling the appropriate redo routines to recover committed transactions after a
+system crash.
+The Buffer Manager uses a Pool of shared memory to provide a least-recently-used (LRU)
+block cache. Although the current library provides an LRU cache, it would be simple to add
+- -
+alternate replacement policies as suggested by [CHOU85] or to provide multiple buffer
+pools with different policies. Transactions request pages from the buffer manager and keep
+them pinned to ensure that they are not written to disk while they are in a logically
+inconsistent state. When page replacement is necessary, the Buffer Manager finds an
+unpinned page and then checks with the Log Manager to ensure that the write-ahead protocol
+is enforced.
+The Lock Manager supports general purpose locking (single writer, multiple readers)
+which is currently used to provide two-phase locking and high concurrency B-tree locking,
+However, the general purpose nature of the lock manager provides the ability to support a
+variety of locking protocols. Currently, all locks are issued at the granularity of a page
+(the size of a buffer in the buffer pool) which is identified by two 4-byte integers (a file
+id and page number). This provides the necessary information to extend the Lock Manager to
+perform hierarchical locking [GRAY76]. The current implementation does not support locks
+at other granularities and does not promote locks; these are obvious future additions to
+the system.
+If an incoming lock request cannot be granted, the requesting process is queued for the
+lock and descheduled. When a lock is released, the wait queue is traversed and any newly
+compatible locks are granted. Locks are located via a file and page hash table and are
+chained both by object and by transaction, facilitating rapid traversal of the lock table
+during transaction commit and abort.
+The primary interfaces to the lock manager are lock, unlock, and lock̲unlock̲all. Lock
+obtains a new lock for a specific object. There are also two variants of the lock request,
+lock̲upgrade and lock̲downgrade, which allow the caller to atomically trade a lock of one
+type for a lock of another. Unlock releases a specific mode of lock on a specific object.
+Lock̲unlock̲all releases all the locks associated with a specific transaction.
+- -
+The Process Manager acts as a user-level scheduler to make processes wait on unavailable
+locks and pending buffer cache I/O. For each process, a semaphore is maintained upon which
+that process waits when it needs to be descheduled. When a process needs to be run, its
+semaphore is cleared, and the operating system reschedules it. No sophisticated scheduling
+algorithm is applied; if the lock for which a process was waiting becomes available, the
+process is made runnable. It would have been possible to change the kernel's process
+scheduler to interact more efficiently with the lock manager, but doing so would have
+compromised our commitment to a user-level package.
+The Transaction Manager provides the standard interface of txn̲begin, txn̲commit, and
+txn-abort, It keeps track of all active transactions, assigns unique transaction
+identifiers, and directs the abort and commit processing. When a txn̲begin is issued, the
+Transaction Manager assigns the next available transaction identifier, allocates a
+per-process transaction structure in shared memory, increments the count of active
+transactions, and returns the new transaction identifier to the calling process. The
+in-memory transaction structure contains a pointer into the lock table for locks held by
+this transaction, the last log sequence number, a transaction state (idle, running,
+aborting, or committing), an error code, and a semaphore identifier.
+At commit, the Transaction Manager calls log̲commit to record the end of transaction and
+to flush the log. Then it directs the Lock Manager to release all locks associated with the
+given transaction. If a transaction aborts, the Transaction Manager calls on log̲unroll to
+read the transaction's log records and undo any modifications to the database. As in the
+commit case, it then calls lock̲unlock̲all to release the transaction's locks.
+The Record Manager supports the abstraction of reading and writing records to a database.
+- -
+We have modified the database access routines db(3) [BSD91] to call the log, lock, and
+buffer managers. In order to provide functionality to perform undo and redo, the Record
+Manager defines a collection of log record types and the associated undo and redo routines.
+The Log Manager performs a table lookup on the record type to call the appropriate routines.
+For example, the B-tree access method requires two log record types: insert and delete. A
+replace operation is implemented as a delete followed by an insert and is logged
+accordingly.」（１２頁４１行〜１４頁３９行）
+（仮訳）
+「３．２．モジュールアーキテクチャ
+前のセクションにおいて，トランザクションログ，ロック，共有バッファキャッシュの管理
+を行うためのモジュールが記述された。それに加えて，トランザクションの開始処理，コミッ
+ト処理及びアボート処理の機能が提供されなければならず，トランザクションマネージャが不
+可欠である。ロックとバッファに対する競合する同時的なアクセスを調停するために，プロセ
+スのブロックとリリースに用いられるセマフォの集合を管理するプロセス管理モジュールを含
+めることとする。最後に簡単で標準化されたインターフェースを提供するために，データベー
+スアクセスルーチン(db(3))を変更した。この論文においては，この変更されたパッケージを
+レコードマネージャと呼ぶこととする。図１に LIBTP の主なインターフェースとアーキテクチ
+ャが示されている。
+ログマネージャはライトアヘッドロギングプロトコルを強制する。そのプリミティブ操作は
+log，log̲commit，log̲roll，log̲unroll である。log 呼出は，特別なログレコードに対するバ
+ッファされた書き込みを実行して，唯一のログ順序番号(LSN)を返す。この LSN は log̲read 呼
+出を用いてログからレコードを獲得するために用いられる。この log インターフェースは，そ
+れが受け取るログレコードの内部形式についてはほとんど知らない。むしろ全てのログレコー
+ドは，ヘッダの構造，ログレコードの種類とログとして書き込まれるべきデータを含むキャラ
+クタバッファによって参照される。このログレコードの種別は，アボート処理とコミット処理
+- -
+の間に適切な redo と undo のルーチンを呼び出すために用いられる。ここではログマネージャ
+を用いて事前及び事後のログを提供しているが，議論されたロギングアルゴリズムのいずれを
+用いることも可能であろう。
+log̲commit 操作は，確かに log 操作と同じように振舞うが，戻る前にディスクへの書き込み
+が強制される。私たちが採用するコミット戦略についての議論は実装に関する節（section
+ンポインタを伴って，トランザクションのアボートを実装した適切な undo ルーチンを呼び出
+す。同様なやり方で，Log̲roll はログレコードを前向きに連続して読み，システムのクラッシ
+ュ後に既にコミット済みトランザクションの回復を行うための適切な redo ルーチンを呼び出
+す。
+バッファマネージャは，共有メモリのプールを使って least-recently-used(LRU)のブロック
+キャッシュを提供する。現在のライブラリはＬＲＵキャッシュを提供しているが，［CHOU85］
+に示唆されるように代替の置換戦略を加えたり，異なる戦略による複数のバッファプールを提
+供することは簡単であろう。トランザクションはバッファマネージャにページを要求し，これ
+らを常駐化して論理的に非定常状態にある間はディスクへの書き込みが行われないことを保証
+する。ページの置換が必要なときは，バッファマネージャは常駐化されていないページを探し
+てそしてログマネージャにおいてライトアヘッドプロトコルが確実に強制されるようにチェッ
+クする。
+ロックマネージャは，２相ロッキングと高い並列度を有する B-tree ロッキングを提供する
+ために用いられる一般的な目的のロッキング（単一書き込み者と複数の読出し者）をサポート
+する。しかしながら，ロックマネージャが一般的な目的のものであるという性質によって，さ
+まざまなロッキングプロトコルをサポートする能力が提供される。現状では，全てのロックは
+ァプールのバッファの大きさ）で発行される。これは，ロックマネージャを階層的ロッキング
+- -
+を実行するように拡張するための必要な情報を提供する。現在の実装では他の粒度のロックを
+サポートしていないし，ロックのプロモートを行わない。・・・・・（中略）・・・・
+トランザクションマネージャは，txn̲begin，txn̲commit，txn̲abort の標準インターフェー
+スを提供する。それは，全てのアクティブなトランザクションの進路を追い，唯一のトランザ
+クション識別子を割当て，そしてアボート処理とコミット処理を指揮する。txn̲begin が発行
+されるとき，トランザクションマネージャは次に利用可能なトランザクション識別子を割当て，
+共有メモリ上にプロセス毎のトランザクション構造をアロケートし，アクティブトランザクシ
+ョン数をインクリメントし，呼出元プロセスに対して新しいトランザクション識別子を返す。
+メモリ内のトランザクション構造は，そのトランザクションによって保持されているロックの
+ためのロックテーブルへのポインタ，過去最近のログ順序番号，トランザクションの状態（ア
+イドル，実行中，アボート処理中，コミット処理中），エラーコード及びセマフォアの識別子
+を含む。
+コミットの際，トランザクションマネージャは log̲commit を呼び出してトランザクション
+の終了を記録し，ログをディスクへ書き出す(flush)。そして，ロックマネージャにそのトラ
+ンザクションに関連して保持された全てのロックを開放するように指示する。もしトランザク
+ションがアボートしたら，トランザクションマネージャは log̲unroll をコールしてトランザ
+クションのログレコードを読み，データベースになされた変更について undo する。それから，
+コミットの場合と同様に，トランザクションのロックを開放するために lock̲unlock̲all を呼
+び出す。
+レコードマネージャは抽象化されたデータベースへのレコードの読出しと書き込みをサポー
+トする。データベースアクセスルーチンの db(3)がログ，ロック及びバッファの各マネージャ
+を呼び出すように変更された。undo と redo を実行する機能を提供するために，レコードマネ
+ージャはログレコードの種別と関係する undo と redo のルーチンを定義する。ログマネージャ
+がそのレコード種別をテーブルから探し，適切なルーチンを呼び出す。例えば B-tree アクセ
+- -
+スメソッドは２つのログレコード種別，挿入と削除，を必要とする。置き換え操作は挿入が引
+き続くような削除として実装され，そのようにログに記録される。」
+エ「3.3. Application Architectures
+The structure of LIBTP allows application designers to trade off performance and
+protection. Since a large portion of LIBTP's functionality is provided by managing
+structures in shared memory, its structures are subject to corruption by applications when
+the library is linked directly with the application. For this reason, LIBTP is designed to
+allow compilation into a separate server process which may be accessed via a socket
+interface. In this way LIBTP's data structures are protected from application code, but
+communication overhead is increased. When applications are trusted, LIBTP may be compiled
+directly into the application providing improved performance. Figures two and three show
+the two alternate application architectures.
+There are potentially two modes in which one might use LIBTP in a server based
+architecture. In the first, the server would provide the capability to respond to requests
+to each of the low level modules (lock, log, buffer, and transaction managers).
+Unfortunately, the performance of such a system is likely to be blindingly slow since
+modifying piece of data would require three or possibly four separate communications: one
+to lock the data, one to obtain the data, one to log the modification, and possibly one to
+transmit the modified data. Figure four shows the relative performance for retrieving a
+single record using the record level call versus using the lower level buffer management
+and locking calls. The 2:1 ratio observed in the single process case reflects the
+additional overhead of parsing eight commands rather than one while the 3:1 ratio observed
+in the client/server architecture reflects both the parsing and the communication
+overheard. Although there may be applications which could tolerate such performance, it
+seems far more feasible to support a higher level interface, such as that provided by a
+query language (e.g. SQL [SQL86]).
+- -
+Although LIBTP does not have an SQL parser, we have built a server application using the
+toolkit command language (TCL) [OUST90]. The server supports a command line interface
+similar to the subroutine interface defined in db(3). Since it is based on TCL, it provides
+control structures as well.」（１４頁４０行〜１５頁１１行）
+（仮訳）
+「３．３．アプリケーションアーキテクチャ
+LIBTP の構造によって，アプリケーションプログラム設計者が性能と保護のトレードオフを
+行えるようになる。LIBTP の機能の大部分は共有メモリの構造を管理することによって与えら
+れるものであり，そうした構造はこのライブラリがアプリケーションにリンクされたときには，
+そのアプリケーションにおける『なまり』(corruption)に支配される。このため，LIBTP はソ
+ケットインターフェースを通じてアクセスできるような分離したサーバプロセスとしてのコン
+パイレーションを許容するように設計されている。このようにすると，LIBTP のデータ構造は
+アプリケーションコードから保護されるが，通信のオーバーヘッドは増加する。アプリケーシ
+ョンが信頼できるときには，性能を向上させるために LIBTP をアプリケーション中に直接組み
+込むようにコンパイルすることができる。図２と図３にはその二つの代替的なアプリケーショ
+ンアーキテクチャが示されている。
+・・・・・・（中略）・・・・・・・・
+そのような性能を許容できるようなアプリケーションがあるのか否かはともかく，あたかも質
+問言語において提供されているかのような高いレベルのインターフェースをサポートすること
+はとても実現性が高い。LIBTP は SQL パーザを備えていないが，私たちはツールキットコマン
+ド言語(TCL)を用いてサーバアプリケーションを作成した。そのサーバは db(3)において定義さ
+れたサブルーチンインターフェースに類似したコマンドラインのインターフェースをサポート
+する。
+・・・・・・・・・・（以下略）・・・・・・・」
+オ「4.4. Transaction Protected Access Methods
+The B-tree and length recno (record number) access methods have been modified to provide
+- -
+transaction protection. Whereas the previously published interface to the access routines
+had separate open calls for each of the access methods, we now have an integrated open call
+with the following calling conventions:
+DB *dbopen (const char *file, int flags, int mode, DBTYPE type,
+int dbflags, const void *openinfo)
+where file is the name of the file being opened, flags and mode are the standard arguments
+to open(2), type is one of the access method types, dbflags indicates the mode of the
+buffer pool and transaction protection, and openinfo is the access method specific
+information. Currently, the possible values for dbflags are DB̲SHARED and DB̲TP indicating
+that buffers should be kept in a shared buffer pool and that the file should be transaction
+protected.
+The modifications required to add transaction protection to an access method are quite
+simple and localized.
+The following code fragments show how to transaction protect several updates to a B-tree.
+In the unprotected case, an open call is followed by a read call to obtain the meta-data for
+the B-tree. Instead, we issue an open to the buffer manager to obtain a file id and a buffer
+request to obtain the meta-date as shown below.
+char *path;
+int fid, flags, len, mode;
+/* Obtain a file id with which to access the buffer pool */
+- -
+fid = buf̲open(path, flags, mode);
+/* Read the meta data (page 0) for the B-tree */
+if (tp̲lock(fid, 0, READ̲LOCK))
+return error;
+meta̲data̲ptr = buf̲get(fid, 0, BF̲PIN, &len);
+The BF̲PIN argument to buf̲get indicates that we wish to leave this page pinned in memory
+so that it is not swapped out while we are accessing it. The last argument to buf̲get
+returns the number of bytes on the page that were valid so that the access method may
+initialize the page if necessary.
+Next, consider inserting a record on a particular page of a B-tree. In the unprotected
+case, we read the page, call̲bt̲insertat, and write the page. Instead, we lock the page,
+request the buffer, log the change, modify the page, and release the buffer.
+int fid, len, pageno; /* Identifies the buffer */
+int index; /* Location at which to insert the new pair */
+DBT *keyp, *datap; /* Key/Data pair to be inserted */
+DATUM *d; /* Key/data structure to insert */
+/* Lock and request the buffer */
+if (tp̲lock(fid, pageno, WRITE̲LOCK))
+return error;
+buffer̲ptr = buf̲get(fid, pageno, BF̲PIN, &len);
+/* Log and perform the update */
+log̲insdel(BTREE̲INSERT, fid, pageno, keyp, datap);
+̲bt̲insertat(buffer̲ptr, d, index);
+buf̲unpin(buffer̲ptr);
+Succinctly, the algorithm for turning unprotected code into protected code is to replace
+read operations with lock and buf-get operations and write operations with log and
+- -
+buf̲unpin operations.」（１７頁２６行〜１８頁末行）
+（仮訳）
+「４．４．トランザクションによる保護を受けるアクセスメソッド
+B-Tree と固定長レコードナンバーへのアクセスメソッドがトランザクションによる保護を提
+供するように変更された。これらのルーチンに対する以前に公開されたインターフェースにお
+いて，それぞれのアクセスメソッドに対する分離したオープン呼出しを備えていたが，その代
+替となる以下の呼出しによる統合したオープンコールを用いることとした。
+DB *dbopen（以下，省略）
+ここで，file はこれからオープンされようとしているファイル名，flags と mode は open(2)に
+おける標準の引数，type はアクセスメソッドのタイプの一つ，dbflags はバッファプールとト
+ランザクション保護のモードを指示，openinfo はそのアクセスメソッドに特有の情報である。
+現時点では，dbflags の値として可能な値は DB̲SHARED と DB̲TP であり，これらの値はそれぞ
+れバッファを共有バッファプールに保持すべきであることと，そのファイルに対してトランザ
+クション保護がされるべきであるということを指示するものである。
+アクセスメソッドに対してトランザクション保護を追加するために要求される変更は，たい
+へん簡単で局所的である。
+(buf̲get,buf̲unpin)で置き換える。
+出を置く。
+次のコードの断片は B-tree に対する複数の更新についてどのようにしてトランザクション
+による保護を行うかを示すものである。保護がない場合であれば open 呼出に続いて B-tree の
+- -
+メタデータを獲得するための read 呼出がなされるが，ここではそうせずに，次に示すように，
+ファイル id を獲得するためにバッファマネージャに対するオープン呼出と，そのメタデータ
+を獲得するためのバッファリクエストを発行する。
+char *path;（以下，省略）
+buf̲get 呼出の引数である BF̲PIN は，アクセスを行っている間にこのページをスワップアウ
+トしないように，このページをメモリに常駐化したままとすることを望んでいることを指示す
+る。buf̲get の最後の引数は，必要に応じてアクセスメソッドにおいて初期化することができ
+るように有効とされたページのバイト数を返す。
+次に B-tree の特定のページにレコードを挿入してみよう。保護がない場合であれば，ペー
+ジを読み，̲bt̲insertat を呼出し，ページを書き出すが，ここではそうせずに，ページをロッ
+クし，バッファを要求し，ログに変更を記録し，ページを変更し，そしてバッファをリリース
+する。
+int fid, len, pageno;（以下，省略）
+簡単にいえば，保護されていないコードを保護されたコードに改良する手順は，read 操作を
+lock と buf̲get 操作に置き換え，write 操作を log と buf̲unpin 操作で置き換えることであ
+る。」と，記載されている。
+すなわち，引用例には，
+「伝統的な UNIX ファイルシステムにおける新しいファイルの生成等のように複数のファイ
+ルの複数の部分が原子的に更新される必要がある場合や共有ファイルに対する同時的な更新が
+望まれる一方で論理的なデータの一貫性を維持する必要が生ずる場合に，ライブラリに属する
+ルーチンに対する適切な呼出を追加することによって，トランザクションセマンティクスを提
+供するための該ライブラリ（LIBTP）であって，
+前記ライブラリがログマネージャ，バッファマネージャ，ロックマネージャ，トランザクシ
+ョンマネージャの各々を実現するルーチンを含むものであって，これらのルーチンにおいては，
+ログマネージャの実行によりコミット処理及びアボート処理の際参照される事前及び事後のロ
+グ取得処理を行い，トランザクションマネージャ等を実現する各ルーチンの実行により
+- -
+txn̲commit プリミティブによって起動されるコミット処理を行い，トランザクションマネージ
+ャ等を実現する各ルーチンの実行により txn̲abort プリミティブによって起動されるアボート
+処理を行うライブラリを含むことを特徴とするファイルの更新処理方法」に関する発明が開示
+されている（引用発明）。
+(2) 本願発明と引用発明との一致点及び相違点の認定
+本願発明と，引用発明とを対比すると，
+両者は共に，コンピュータプログラムのトランザクション処理に関するものであって，
+引用発明の「伝統的な UNIX ファイルシステム」が本願発明の「ネイティブファイルシステ
+ム」に相当し，
+引用発明における「新しいファイルの生成等のように複数のファイルの複数の部分が原子的
+に更新される必要がある場合や共有ファイルに対する同時的な更新が望まれる一方で論理的な
+データの一貫性を維持する必要が生ずる場合」に実行されているファイル生成等の具体的なフ
+ァイル操作は，トランザクションの保護の対象となるファイル操作を含む実行ルーチンである
+ので，これは，本願発明の「ネイティブファイルシステムにおけるファイル及びディレクトリ
+の操作」を含むルーチンに対応するとともに「関連実行ルーチン」に相当し，
+引用発明における「ライブラリ（LIBTP）」は，ネイティブファイルシステムに必要に応じ
+てトランザクションセマンティクスを追加あるいは提供するためのコンピュータプログラムル
+ーチンの集合であるので，これは本願発明の「ライブラリ」に相当し，
+引用発明におけるライブラリを構成するルーチン（あるいはルーチンファミリ）である「ロ
+グマネージャ，バッファマネージャ，ロックマネージャ，トランザクションマネージャの各々
+を実現するルーチン」の各々は，本願発明の「ルーチン」あるいは「ルーチンファミリ」に相
+当し，又，引用発明においてもこれらのルーチンが複数あり，本願発明と同様に，「セット」
+を構成していると言うことができる。
+引用発明の「コミット処理及びアボート処理の際参照される事前及び事後のログを取得する
+処理」は，トランザクション処理におけるログ取得の処理であるので，本願発明の「ファイル
+又はディレクトリ動作をロールバックするために必要な情報を記憶するコンピュータ命令を含
+- -
+む実行ルーチン」に相当し，
+引用発明の「txn̲commit プリミティブによって起動されるコミット処理」は，トランザクシ
+ョン処理におけるコミット処理であるので，本願発明の「関連実行ルーチンの結果をコミット
+させるコンピュータ命令を含む終了ルーチン」に相当し，
+引用発明の「txn̲abort プリミティブによって起動されるアボート処理」は，トランザクシ
+ョン処理におけるロールバック処理であるので，本願発明の「関連実行ルーチンの結果をロー
+ルバックさせるコンピュータ命令を含むアンドゥルーチン」に相当している。
+したがって，両者は共に，
+ネイティブファイルシステムのネイティブファイルおよびディレクトリ動作のセットへトラ
+ンザクションセマンティクスを追加するためのコンピュータプログラムライブラリであって，
+前記ライブラリが１つ以上のルーチンファミリのセットを有し，このようなルーチンファミリ
+の各々が，
+(a)このようなネイティブファイルまたはディレクトリ動作をロールバックするために必要な
+情報を記憶するコンピュータ命令を含む実行ルーチンと，
+(b)コンピュータに，関連実行ルーチンの結果をコミットさせるコンピュータ命令を含む終了
+ルーチンと，
+(c)コンピュータに，関連実行ルーチンの結果をロールバックさせるコンピュータ命令を含む
+アンドゥルーチンと，
+を有することを特徴とするコンピュータプログラムライブラリ
+である点で一致する。
+ただ，
+相違点(1)
+本願発明においては，「ルーチンファミリの各々が最低１つのネイティブファイルまたはデ
+ィレクトリ動作と関連し，そして最低１つのネイティブファイルまたはディレクトリ動作の代
+わりに呼び出されるように構成され」，(a)の実行ルーチンにおいて「ファミリの関連ネイテ
+ィブファイルまたはディレクトリ動作の１つと機能的に同等である結果をコンピュータに提供
+- -
+させる」とともに，このようなルーチンファミリ「の各々」が上記の(a)から(c)の処理を実現
+するルーチンを有する，すなわち，ネイティブファイルまたはディレクトリ動作についてのト
+ランザクションを実現するために必要な処理を呼び出す際ネイティブファイルシステム上でネ
+イティブファイル又はディレクトリ操作の呼出のための API をそのまま用いて，かつ，ライブ
+ラリに属するルーチンの実行によってネイティブファイル又はディレクトリ動作の機能を実現
+するように構成されているのに対し，引用発明においては，ネイティブファイル又はディレク
+トリ操作の呼出のための API とは異なった追加された API(txn̲commit プリミティブ等)を用い
+るように構成され，ライブラリに属するルーチンの実行ではなくネイティブファイルシステム
+の実行によってネイティブファイル又はディレクトリ動作の機能を実現するように構成されて
+いる点，
+及び，
+相違点(2)
+本願発明は「コンピュータ読取り可能な記録媒体」に関する発明であるのに対して，引用発
+明はコンピュータプログラムライブラリに関する発明である点，
+で両者は相違している。
+(3) 相違点についての判断
+ア 相違点(1)について
+例えば，特開平６−１４９６３３号公報（甲３）や特開平６−３５７８２号公報（甲４）に
+見られるように，一般にシステムコールを用いて実現されている機能の拡張や機能の追加を行
+うにあたって，システムコールの API と同じ API によって呼び出されそのシステムコールの機
+能と拡張機能とを実現するように構成されたルーチンを用いることによって，システムコール
+の呼び出し側であるアプリケーションの修正の手間を軽減あるいは不要にする技術は周知技術
+である。
+また，引用発明においてもトランザクションセマンティクスの導入という機能追加を行うに
+あたってアプリケーション修正の手間を軽減することは当業者にとって自明の事項である。
+又，一般に，複数のルーチンにより実現されている機能を１つのルーチンで実現することは
+- -
+当業者が通常行うことであって，このことはシステムコールを実現するルーチンについても同
+様であると言うことができる。
+してみると，引用発明においても，こうした周知技術を採用して，ネイティブファイルシス
+テム上でネイティブファイル又はディレクトリ操作の呼出のための API をそのまま用いること
+を可能とするために，ライブラリに属するルーチンの実行によってネイティブファイル又はデ
+ィレクトリ動作の機能を実現するように構成して本願発明のようにすることは，当業者が適宜
+選択設計すべきことであり，その効果も当業者が通常予測すべき範囲のものにすぎないもので
+ある。
+したがって，相違点(1)は格別の相違点であるものと言うことはできない。
+イ 相違点(2)について
+一般に，コンピュータ上でコンピュータプログラムライブラリを実行するためには，該プロ
+グラムライブラリをコンピュータ読取り可能な記録媒体に記憶させて実行させなければならな
+いものである。したがって，相違点(2)も格別の相違点であるものとは言えない。
+したがって，本願発明は，引用発明から当業者が容易に発明することができたものである。
+(4) 審決の「むすび」
+以上の通りであるので，本願発明は，引用発明から当業者が容易に発明をすることができた
+ものであり，特許法２９条２項の規定により特許を受けることができない。
+第３ 当事者の主張の要点
+審決は，以下のとおり，引用発明の認定及び本願発明と引用発明の一致点の認定
+をそれぞれ誤り，また，両発明の相違点を看過した結果，本願発明が特許法２９条
+されるべきである。
+(1) 前提となる技術内容（データベースシステムとファイルシステム）等につ
+いて
+- -
+ア(ｱ) 一般に，コンピュータシステムは，データベースシステムとファイルシ
+ステムに分類され，前者においては，データはデータベースに保管され，後者にお
+いては，データはファイルに保管される。また，前者におけるトランザクションは，
+データ動作（データの読み出し及び書き込み。引用例に記載されているものはこれ
+に相当する。）に関するものであり，後者におけるトランザクションは，ファイル
+動作（ファイルの作成，削除，名前変更等。本願発明の「ネイティブファイルシス
+テムのネイティブファイルおよびディレクトリ動作」はこれに相当する。）に関す
+るものである。
+(ｲ)ａ この点を敷衍すると，本件出願に係る平成１６年６月１６日付け手続補
+正書（甲６）による補正後の明細書（特許請求の範囲につき甲６，その余につき甲
+甲５に係るものである。）の記載（６頁２１〜２４行）によれば，複合データ処理
+アプリケーションの操作動作には，「ファイル（操作）動作」と「データ（操作）
+動作」の２つが存在し，技術的に異なるものとして区別されていることが明らかで
+あるところ，本願明細書及び本件出願に係る図面（甲５）においては，本願発明の
+実施例として，「ファイルおよびディレクトリ動作」（なお，「ディレクトリ」と
+は，ファイルの集合を表す単位である。）が，「データ動作」と明確に区別して記
+載されている。したがって，本願発明の「ネイティブファイルおよびディレクトリ
+動作」は，「データ動作」を包含するものではない。
+ｂ これに対し，引用例においては，「ファイルおよびディレクトリ動作」にト
+ランザクションセマンティクスを追加することについての記載や，そのためのルー
+チンファミリについての記載はない。
+イ 従来，トランザクションは，データベースシステムにおいて利用されており，
+ファイルシステムにおいては利用されていなかった（多くのオペレーティングシス
+テムは，本来的に，ファイル及びディレクトリ動作のためのトランザクション処理
+を提供することができなかった。）。
+- -
+ウ 本願発明の目的は，データベースシステムにおいて発展してきたトランザク
+ション処理技術をファイルシステムに適用することにあり，本願発明は，ファイル
+及びディレクトリ動作にトランザクションセマンティクスを付与するものであると
+ころ，引用例には，トランザクション処理技術をファイルシステムに適用すること
+についての記載がない。
+(2) 取消事由１（引用発明の認定の誤り）
+審決は，「伝統的な UNIX ファイルシステムにおける新しいファイルの生成等の
+ように複数のファイルの複数の部分が原子的に更新される必要がある場合や共有フ
+ァイルに対する同時的な更新が望まれる一方で論理的なデータの一貫性を維持する
+必要が生ずる場合に，ライブラリに属するルーチンに対する適切な呼出を追加する
+ことによって，トランザクションセマンティクスを提供するための該ライブラリ
+（LIBTP）であって，前記ライブラリがログマネージャ，バッファマネージャ，ロ
+ックマネージャ，トランザクションマネージャの各々を実現するルーチンを含むも
+のであって，これらのルーチンにおいては，ログマネージャの実行によりコミット
+処理及びアボート処理の際参照される事前及び事後のログ取得処理を行い，トラン
+ザクションマネージャ等を実現する各ルーチンの実行により txn̲commit プリミテ
+ィブによって起動されるコミット処理を行い，トランザクションマネージャ等を実
+現する各ルーチンの実行により txn̲abort プリミティブによって起動されるアボー
+ト処理を行うライブラリを含むことを特徴とするファイルの更新処理方法」に関す
+る発明を，引用発明と認定したが，以下のとおり，この認定は誤りである。
+ア 審決は，引用発明を，「伝統的な UNIX ファイルシステムにおける新しいフ
+ァイルの生成等のように複数のファイルの複数の部分が原子的に更新される必要が
+ある場合」（以下「審決が認定した第１の場合」という。）と「共有ファイルに対
+する同時的な更新が望まれる一方で論理的なデータの一貫性を維持する必要が生ず
+る場合」（以下「審決が認定した第２の場合」という。）に，トランザクションセ
+マンティクスを提供するためのライブラリ（ＬＩＢＴＰ）の各ルーチンを実行する
+- -
+ものと認定した。
+しかしながら，審決が認定した第１の場合及び第２の場合は，トランザクション
+が必要な一般的な場合とそれに対する従来の解決方法についての記載である引用例
+の「１．序論」（なお，以下，外国語で作成された書証中の記載の引用及びその箇
+所の特定は，翻訳文による。）に記載され，他方，引用例の「３．アーキテクチ
+ャ」，「４．実装」等には，引用例の主要なテーマである，データベースシステム
+に対するデータ動作にトランザクションセマンティクスを付与する技術であるライ
+ブラリ（ＬＩＢＴＰ）が記載されているにとどまり（したがって，ファイル及びデ
+ィレクトリ動作にトランザクションセマンティクスを付与するものではない。），
+「１．序論」に記載された内容と，「３．アーキテクチャ」，「４．実装」等に記
+載された内容とを結合した１つの発明は，引用例のどこにも記載されていない
+（「１．序論」には，従来技術の問題点や引用発明（ライブラリ（ＬＩＢＴＰ））
+の目的は記載されているが，審決が認定した引用発明（ライブラリ（ＬＩＢＴ
+Ｐ））の必須の構成は記載されていないし，「１．序論」に記載された構成と「３．
+アーキテクチャ」，「４．実装」等に記載された構成とが技術的に関連して所定の
+機能を提供するものとも考えられない。）のであるから，両者を結合した１つの発
+明を引用発明と認定することは不当である。
+なお，被告は，「引用例の『３．アーキテクチャ』，『４．実装』等の記載は，
+『１．序論』の記載を受け，『従来のＵＮＩＸファイルシステム』にトランザクシ
+ョンセマンテイクスを付与する技術について論じたものである」と主張するが，引
+用例には，「従来のＵＮＩＸファイルシステム」にトランザクションセマンティク
+スを付与する技術は記載されていない。
+また，被告の主張するとおり，引用例の「３．アーキテクチャ」，「４．実装」
+等の記載が「１．序論」の記載を受けたものであるならば，被告は，引用例に１つ
+の発明が記載されていないことを自認していることになる。
+イ 引用例の「１．序論」に記載された内容と，「３．アーキテクチャ」，「４．
+- -
+実装」等に記載されたライブラリ（ＬＩＢＴＰ）とは，以下のとおり，技術的な整
+合性を有しないから，両者を結合しても，１つの発明を構成することはできない。
+(ｱ) 審決が認定した第１の場合は，引用例の「１．序論」の第３段落の記載に
+相当するものであるが，同段落には，審決が認定した第１の場合に，「（書き込み
+についての）順序制約（ordering constraints）を使用して，クラッシュに直面し
+た場合の回復可能性を達成する」と記載されており，トランザクションセマンティ
+クスを提供するためのライブラリ（ＬＩＢＴＰ）の各ルーチンを実行するとは記載
+されていない。
+(ｲ) 審決が認定した第２の場合は，引用例の「１．序論」の第４段落の記載に
+相当するものであるが，同段落には，審決が認定した第２の場合の例として，「パ
+スワードファイルが更新される場合」及び「ファイル書き換えとファイルを読み取
+る別のプロセス間の潜在的競合条件に直面」したとき（これらは，いずれも，デー
+タベースにおける処理を問題とするものである。）が挙げられ，トランザクション
+セマンティクスを提供するためのライブラリ（ＬＩＢＴＰ）の各ルーチンを実行す
+るとは記載されていない。
+ウ 審決は，引用発明を，「伝統的なＵＮＩＸファイルシステムにおける新しい
+ファイルの生成等のように複数のファイルの複数の部分が原子的に更新される必要
+がある場合・・・に，・・・トランザクションセマンティクスを提供するための該
+ライブラリ（ＬＩＢＴＰ）であって，・・・を行うライブラリを含むことを特徴と
+するファイルの更新処理方法」に関する発明と認定した。
+しかしながら，引用例には，新しいファイルの生成に対してトランザクションセ
+マンティクスを提供するためのライブラリ（ＬＩＢＴＰ）についての記載はないし，
+また，引用例の「１．序論」の第５段落の記載によれば，引用例に開示されている
+ＬＩＢＴＰは，４．４ＢＳＤ(Berkeley Software Distribution)データベースにお
+けるデータ動作に対してトランザクションセマンティクスを提供するものであり
+（これは，ＬＩＢＴＰについて説明する甲７の論文（１９９９年（平成１１年）６
+- -
+月にモントレーで開催された「１９９９年ＵＳＥＮＩＸ年次技術会議」の予稿集に
+収載された Margo Seltzer らによる「Berkeley DB」と題するもの。以下「甲７論
+文」という。）の記載（２頁３０行〜３頁３行）からも明らかである。），ファイ
+ルシステム，すなわち，ファイル及びディレクトリ動作に対してトランザクション
+セマンティクスを提供するものではないから，引用例に「ファイルの更新処理方
+法」が記載されているとはいえない。
+なお，被告は，「引用例の記載によれば，当該ライブラリ（ＬＩＢＴＰ）は，Ｕ
+ＮＩＸプログラムにトランザクション保護を提供するために適切なコールを追加す
+るものであるから，これを当該データベースアクセス法に限定する必要はない」と
+主張するが，引用例には，ライブラリ（ＬＩＢＴＰ）をデータベースアクセス法に
+限定する必要はないとの記載はないし，そのような事実を認めることもできない。
+したがって，審決の上記認定が誤りであることは明らかである。
+(3) 取消事由２（本願発明と引用発明の一致点の認定の誤り）
+ア 審決は，本願発明と引用発明とを対比するに当たって，「引用発明における
+『新しいファイルの生成等のように複数のファイルの複数の部分が原子的に更新さ
+れる必要がある場合や共有ファイルに対する同時的な更新が望まれる一方で論理的
+なデータの一貫性を維持する必要が生ずる場合』に実行されているファイル生成等
+の具体的なファイル操作は，トランザクションの保護の対象となるファイル操作を
+含む実行ルーチンであるので，これは，本願発明の『ネイティブファイルシステム
+におけるファイル及びディレクトリの操作』を含むルーチンに対応するとともに
+『関連実行ルーチン』に相当し，」と認定したが，以下のとおり，この認定は誤り
+である。
+(ｱ) 審決の上記認定中，「実行されているファイル生成等の具体的なファイル
+操作」に関し，審決が認定した第１の場合及び第２の場合は，引用例の「１．序
+論」に記載されているところ，同箇所には，トランザクションが必要な場合及び従
+来の解決方法が記載されているのみであるから，これだけでは，審決が認定した第
+- -
+イル操作」が何を意味するのか不明である。また，仮に，「実行されているファイ
+ル生成等の具体的なファイル操作」が引用例に記載されたＬＩＢＴＰを意味するの
+であるとしても，これは，データベースに対するデータ動作にトランザクションセ
+マンティクスを提供するものであり，ファイル及びディレクトリ動作（ファイル生
+成等の具体的なファイル操作）にトランザクションセマンティクスを提供するもの
+ではない。したがって，引用例に，このような「ファイル生成等の具体的なファイ
+ル操作」が記載されているとはいえない。
+(ｲ) 審決の上記認定中，「ファイル生成等の具体的なファイル操作は，トラン
+ザクションの保護の対象となるファイル操作を含む実行ルーチンであるので，」に
+関しても，上記(ｱ)のとおり，「ファイル生成等の具体的なファイル操作」が何を
+意味するのか不明であるし，仮に，引用例に記載されたＬＩＢＴＰを意味するので
+あるとしても，これは，ファイル操作にトランザクション保護を与えるものではな
+い。
+(ｳ) 審決の上記認定中，「ファイル生成等の具体的なファイル操作は，・・・
+本願発明の『ネイティブファイルシステムにおけるファイル及びディレクトリの操
+作』を含むルーチンに対応するとともに『関連実行ルーチン』に相当し，」に関し
+ても，上記(ｱ)のとおり，「ファイル生成等の具体的なファイル操作」が何を意味
+するのか不明であるし，引用例に記載されたＬＩＢＴＰとも異なるものであるから，
+このようなファイル操作が，本願発明の「ネイティブファイルシステムにおけるフ
+ァイル及びディレクトリの操作」に対応すると認定することはできない。
+イ 審決は，本願発明と引用発明とを対比するに当たって，「引用発明における
+『ライブラリ（LIBTP）』は，ネイティブファイルシステムに必要に応じてトラン
+ザクションセマンティクスを追加あるいは提供するためのコンピュータプログラム
+ルーチンの集合であるので，これは本願発明の『ライブラリ』に相当し，」と認定
+した。
+- -
+しかしながら，引用発明のライブラリ（ＬＩＢＴＰ）は，引用例の「１．序論」
+の第５段落において説明されているところ，それによれば，データベース処理に対
+してトランザクションセマンティクスを提供するものであり，ネイティブファイル
+又はディレクトリ動作に対してトランザクションセマンティクスを提供するもので
+はないから，同ライブラリ（ＬＩＢＴＰ）は，本願発明の「ライブラリ」に相当す
+るものではない。
+したがって，審決の上記認定は誤りである。
+ウ 審決は，本願発明と引用発明とを対比するに当たって，「引用発明における
+ライブラリを構成するルーチン（あるいはルーチンファミリ）である『ログマネー
+ジャ，バッファマネージャ，ロックマネージャ，トランザクションマネージャの各
+々を実現するルーチン』の各々は，本願発明の『ルーチン』あるいは『ルーチンフ
+ァミリ』に相当し，又，引用発明においてもこれらのルーチンが複数あり，本願発
+明と同様に，『セット』を構成していると言うことができる。」と認定したが，以
+下のとおり，この認定は誤りである。
+(ｱ) 引用例の「３．２．モジュールアーキテクチャ」には，ログマネージャ，
+バッファマネージャ，ロックマネージャ，トランザクションマネージャ等について
+記載されているところ，そのうち，「３．２．２．バッファマネージャ」の記載に
+よれば，引用発明のバッファマネージャは，ディスクへのデータの書き込みを管理
+するものであり，データベース処理を管理するものであって，ファイル及びディレ
+クトリ動作に関する処理を行うものではない。したがって，引用発明のバッファマ
+ネージャは，本願発明の「ルーチン」あるいは「ルーチンファミリ」に相当するも
+のではない。
+(ｲ) 引用例の「３．２．３．ロックマネージャ」の記載によれば，引用発明の
+ロックマネージャは，データの書き込み及び読み出しの競合を管理するものであり，
+データベース処理を管理するものであって，ファイル及びディレクトリ動作に関す
+る処理を行うものではない。したがって，引用発明のロックマネージャは，本願発
+- -
+明の「ルーチン」あるいは「ルーチンファミリ」に相当するものではない。
+(ｳ) 引用例の「３．２．５．トランザクションマネージャ」の記載によれば，
+引用発明のトランザクションマネージャは，データベースにおけるデータの更新を
+管理するものであり，ファイル及びディレクトリ動作に関する処理を行うものでは
+ない。したがって，引用発明のトランザクションマネージャは，本願発明の「ルー
+チン」あるいは「ルーチンファミリ」に相当するものではない。
+エ 審決は，本願発明と引用発明とを対比するに当たって，「引用発明の『コミ
+ット処理及びアボート処理の際参照される事前及び事後のログを取得する処理』は，
+トランザクション処理におけるログ取得の処理であるので，本願発明の『ファイル
+又はディレクトリ動作をロールバックするために必要な情報を記憶するコンピュー
+タ命令を含む実行ルーチン』に相当し，」と認定した。
+しかしながら，上記認定における引用発明の「コミット処理及びアボート処理の
+際参照される事前及び事後のログを取得する処理」は，引用例の「３．２．２．バ
+ッファマネージャ」に記載された内容を指すものであり，データベース処理に関す
+るものであって，ファイル又はディレクトリ動作に関するものではないから，本願
+発明の「ファイル又はディレクトリ動作をロールバックするために必要な情報を記
+憶するコンピュータ命令を含む実行ルーチン」に相当するものではない。
+したがって，審決の上記認定は誤りである。
+オ 審決は，本願発明と引用発明とを対比するに当たり，「引用発明の『txn̲commit
+プリミティブによって起動されるコミット処理』は，トランザクション処理におけ
+るコミット処理であるので，本願発明の『関連実行ルーチンの結果をコミットさせ
+るコンピュータ命令を含む終了ルーチン』に相当し，」と認定した。
+しかしながら，上記認定における引用発明の「txn̲commit プリミティブによっ
+て起動されるコミット処理」は，引用例の「３．２．５．トランザクションマネー
+ジャ」に記載された内容を指すものであり，データベースシステムにおけるデータ
+動作に関するものであって，ファイル又はディレクトリ動作に関するものではない
+- -
+から，本願発明の「関連実行ルーチンの結果をコミットさせるコンピュータ命令を
+含む終了ルーチン」に相当するものではない。
+したがって，審決の上記認定は誤りである。
+カ 審決は，本願発明と引用発明とを対比するに当たり，「引用発明の『txn̲abort
+プリミティブによって起動されるアボート処理』は，トランザクション処理におけ
+るロールバック処理であるので，本願発明の『関連実行ルーチンの結果をロールバ
+ックさせるコンピュータ命令を含むアンドゥルーチン』に相当している。」と認定
+した。
+しかしながら，上記認定における引用発明の「txn̲abort プリミティブによって
+起動されるアボート処理」は，引用例の「３．２．５．トランザクションマネージ
+ャ」に記載された内容を指すものであるところ，同処理は，データベースにされた
+変更についてｕｎｄｏする処理であり，データ動作に関するものであって，ファイ
+ル又はディレクトリ動作に関するものではないから，本願発明の「関連実行ルーチ
+ンの結果をロールバックさせるコンピュータ命令を含むアンドゥルーチン」に相当
+するものではない。
+したがって，審決の上記認定は誤りである。
+キ 審決は，本願発明と引用発明とが，「ネイティブファイルシステムのネイテ
+ィブファイルおよびディレクトリ動作のセットへトランザクションセマンティクス
+を追加するためのコンピュータプログラムライブラリであって，前記ライブラリが
+が，(a)このようなネイティブファイルまたはディレクトリ動作をロールバックす
+るために必要な情報を記憶するコンピュータ命令を含む実行ルーチンと，(b)コン
+ピュータに，関連実行ルーチンの結果をコミットさせるコンピュータ命令を含む終
+了ルーチンと，(c)コンピュータに，関連実行ルーチンの結果をロールバックさせ
+るコンピュータ命令を含むアンドゥルーチンと，を有することを特徴とするコンピ
+ュータプログラムライブラリ」である点で一致すると認定したが，以下のとおり，
+- -
+この認定は誤りである。
+(ｱ) 審決が認定した引用発明は，引用例の「１．序論」に記載された内容とそ
+の後の部分に記載されたＬＩＢＴＰを組み合わせたものであるところ，ＬＩＢＴＰ
+は，データベース処理に関するものであるから，同発明における処理は，データベ
+ース処理であるデータ動作に関するものである。
+なお，引用例には，ライブラリ（ＬＩＢＴＰ）が，本願発明（ネイティブファイ
+ルまたはディレクトリ動作をロールバックするために必要な情報を記憶するコンピ
+ュータ命令を含む。）の実行ルーチン，終了ルーチン及びアンドゥルーチンを含む
+との記載はないし，そのような事実を認めることもできない。
+(ｲ) したがって，引用発明は，「ネイティブファイルシステムのネイティブフ
+ァイルおよびディレクトリ動作のセットへトランザクションセマンティクスを追加
+するためのコンピュータプログラムライブラリ」ではないし，「(a)このようなネ
+イティブファイルまたはディレクトリ動作をロールバックするために必要な情報を
+記憶するコンピュータ命令を含む実行ルーチン」を含むものでもないから，審決の
+上記一致点の認定は誤りである。
+(4) 取消事由３（本願発明と引用発明の相違点の看過）
+本願発明と引用発明は，「本願発明は，『ネイティブファイルシステムのネイテ
+ィブファイルおよびディレクトリ動作のセットへトランザクションセマンティクス
+を追加するもの』であるのに対し，引用発明は，『データの読み出し，書き込み等
+のデータ動作に対してトランザクションセマンティクスを追加するもの』である
+点」（以下「原告主張相違点」という。）において相違するのであり，審決は，か
+かる相違点の存在を看過したものである。
+なお，被告は，「引用例においては，『１．序論』に記載された『従来のＵＮＩ
+Ｘファイルシステム』にトランザクションセマンティクスを提供するための具体的
+な実装の例として，『３．アーキテクチャ』，『４．実装』等に記載されたライブ
+ラリ（ＬＩＢＴＰ）についての説明がされている」と主張するが，「１．序論」に
+- -
+は，審決が認定した引用発明の必須の構成が記載されているわけではなく，また，
+「１．序論」に記載された内容と「３．アーキテクチャ」，「４．実装」等に記載
+された内容とが，技術的に関連して所定の機能を提供するものでもないから，被告
+の上記主張は失当である。
+(1) 原告の主張(1)（前提となる技術内容等について）に対し
+ア 原告は，コンピュータシステムがデータベースシステムとファイルシステム
+に分類され，引用発明は前者に関するものであり，本願発明は後者に関するもので
+ある旨主張する。
+(ｱ) しかしながら，両者は別のものではなく，ともに，コンピュータが大量の
+データを記憶装置に格納・保管し，必要に応じてこれを取り出したり，更新・削除
+を行ったりするシステムである。両者は，データを記憶装置に記憶する処理をハー
+ドウェア的側面に重点を置いて見たときには，「ファイルシステム」と捉えられ，
+記憶装置に記憶されるデータに対する処理というソフトウェア的側面に重点を置い
+て見たときには，「データベースシステム」と捉えられる。
+(ｲ) そして，平成５年４月２５日発行の坂下善彦ら著「分散システム入門（初
+版）」（乙１。以下「乙１文献」という。）に記載されている（１５７頁８行〜１
+記憶装置（主にハードディスク）に記憶（二次記憶）される（データベースシステ
+ムによって処理されたデータは，ファイルシステムに引き渡され，ファイルシステ
+ムの機能によって記憶装置（ハードディスク）に記憶される）ことは周知の事項で
+ある。すなわち，データベースシステムは，通常，ファイルシステムを利用して構
+築されているものであり，データベースのデータも，ハードディスクに保管される
+際には，ファイルシステムの操作により，ファイルとして保管されるのであるから，
+原告の上記主張は失当である。
+- -
+イ 原告は，本願発明がファイルシステムにトランザクションセマンティクスを
+付与するものであるのに対し，引用例にはその点についての記載がない旨主張する。
+(ｱ) しかしながら，引用例の「１．序論」の記載（１頁２９行〜３頁５行）に
+よれば，引用例は，汎用的なプログラムが用いるファイルシステムにトランザクシ
+ョンセマンティクスを提供するライブラリについて論じているものであり，「３．
+アーキテクチャ」及び「４．実装」で説明されているライブラリ（ＬＩＢＴＰ）が
+それに当たる。
+(ｲ) そして，上記アのとおり，データベースシステムは，ファイルシステムを
+利用して構築されるシステムであり，従来は，データベースシステムがファイルシ
+ステムを利用するため，ファイルシステムに属するルーチン（open，read, write
+等）が用いられていたところ，引用例の「４．実装」の記載（１６頁２２行〜１７
+頁１行）によれば，これらのルーチンを，トランザクションセマンティクスを付与
+するための新たなルーチン（buf̲open，buf̲get, buf̲unpin 等）に置き換えればよ
+く（すなわち，buf̲open，buf̲get，buf̲unpin 等は，既存のファイルシステムに属
+するルーチンである open，read，write 等の機能を含んだ上でトランザクション保
+護を追加するための機能を持ったルーチンであるとともに，引用例に記載されたラ
+イブラリ（ＬＩＢＴＰ）の一部である。），これらの置き換えにより，データベー
+スシステムとしても利用されるファイルシステムに，トランザクションセマンティ
+クスが付与されるものである。
+なお，このためには，４．４ＢＳＤデータベースアクセスルーチンの対応するル
+ーチンの呼出しを置き換えるとともに，ファイルシステム側に，置き換えられたル
+ーチンに対応するルーチンを加える必要があるが，当該置き換えられるルーチンが
+の「１．序論」の記載からも明らかである。
+(ｳ) また，平成５年１月２０日発行の塩谷修ら著「実用ＵＮＩＸシステムプロ
+グラミング（第２版）」（乙２。以下「乙２文献」という。）に記載されている
+- -
+（１５６頁２１行〜１６０頁３６行）とおり，既存のファイルシステムに属する
+open システムコールは，モード指定する際，Ｏ＿ＣＲＥＡＴを指定すると，file
+で指定した path 名のファイルを作成する動作を行うことが周知であり，これは，
+本願明細書にいう「ファイル動作」を行うことと同じであるから，引用例に記載さ
+れたルーチン open も，本願明細書にいう「ファイル動作」を行っていることにな
+る。
+そうすると，既存のファイルシステムに属するルーチン open の機能を含んだ上
+でトランザクション保護を追加するための機能を持ったルーチン buf̲open は，本
+願明細書にいう「ファイル動作」に対しトランザクションセマンティクスを追加す
+るルーチンであるということができ，したがって，buf̲open を含むライブラリで
+あるＬＩＢＴＰが，本願明細書にいう「ファイル動作」のセットに対しトランザク
+ションセマンティクスを追加する構成であることは明らかである。
+そして，引用例に記載されたルーチン（「コミット処理及びアボート処理の際参
+照される事前及び事後のログを取得する処理」等）も，ネイティブファイルシステ
+ムのネイティブファイル及びディレクトリ動作のセットに対しトランザクションセ
+マンティクスを追加するルーチン（buf̲open 等）の「ログを取得する処理」等を
+行うものであるから，本願発明の「ネイティブファイルシステムのネイティブファ
+イルおよびディレクトリ動作のセットへトランザクションセマンティクスを追加す
+る」との構成と，引用例に記載されたライブラリ（ＬＩＢＴＰ）とが，技術的に異
+なるものであるということはできない。
+(ｴ) このように，引用発明は，ファイルシステムにトランザクションセマンテ
+ィクスを付与するものであるから，原告の上記主張は根拠がなく失当である。
+(2) 取消事由１（引用発明の認定の誤り）に対し
+ア 原告は，引用例の「１．序論」に記載された内容と，「３．アーキテクチ
+ャ」，「４．実装」等に記載された内容とを結合した１つの発明を引用発明とした
+審決の認定に誤りがある旨主張する。
+- -
+しかしながら，引用例の「３．アーキテクチャ」，「４．実装」等の記載は，
+「１．序論」の記載を受け，「従来のＵＮＩＸファイルシステム」にトランザクシ
+ョンセマンティクスを付与する技術であるライブラリ（ＬＩＢＴＰ）について論じ
+たものであるから，引用発明は，従来のＵＮＩＸのファイルシステムにトランザク
+ションセマンティクスを付与するものである。
+また，一般に，「序論」は，本論の前置きとして，本論の手がかりとなる事項を
+記述したものであるところ，引用例においても，本論に相当する「３．アーキテク
+チャ」，「４．実装」等は，「１．序論」を受けて論じられている。
+したがって，原告の上記主張は失当である。
+イ 原告は，引用例の「１．序論」に記載された内容と，「３．アーキテクチ
+ャ」，「４．実装」等に記載されたライブラリ（ＬＩＢＴＰ）とは，技術的な整合
+性を有しないから，両者を結合しても，１つの発明を構成することはできない旨主
+張する。
+しかしながら，原告が主張する審決が認定した第１の場合及び第２の場合は，い
+ずれも，引用例に記載された従来技術に関するものであるところ，上記アのとおり，
+引用例の「３．アーキテクチャ」，「４．実装」等の記載は，「１．序論」の記載
+を受け，「従来のＵＮＩＸファイルシステム」にトランザクションセマンテイクス
+を付与する技術について論じたものであるから，「１．序論」に記載された内容と，
+「３．アーキテクチャ」，「４．実装」等に記載されたライブラリ（ＬＩＢＴＰ）
+は，１つの発明についてのものであり，したがって，原告の上記主張は根拠がなく
+失当である。
+ウ 原告は，引用例に開示されているＬＩＢＴＰは，４．４ＢＳＤデータベース
+におけるデータ動作に対してトランザクションセマンティクスを提供するものであ
+り，ファイル及びディレクトリ動作に対してトランザクションセマンティクスを提
+供するものではないから，引用例に「ファイルの更新処理方法」が記載されている
+とはいえない旨主張する。
+- -
+(ｱ) しかしながら，引用例の記載（３頁４〜８行）によれば，４．４ＢＳＤデ
+ータベースアクセス法は，「３．アーキテクチャ」，「４．実装」等に記載された
+「従来のＵＮＩＸファイルシステム」にトランザクションセマンティクスを付与す
+るライブラリ（ＬＩＢＴＰ）を使用するように修正された上，トランザクションセ
+マンティクスを付与されている。このことからすると，４．４ＢＳＤデータベース
+アクセス法とライブラリ（ＬＩＢＴＰ）とは，別のものであるといえる。
+そして，引用例の記載（３頁８〜１１行）によれば，当該ライブラリ（ＬＩＢＴ
+Ｐ）は，ＵＮＩＸプログラムにトランザクション保護を提供するために適切なコー
+ルを追加するものであるから，これを当該データベースアクセス法に限定する必要
+はない。
+(ｲ) また，上記(1)のとおり，データベースシステムは，ファイルシステムを利
+用したものであり，他のＵＮＩＸプログラムも，二次記憶を利用する際にはファイ
+ルシステムを利用するものであることからすると，引用例に記載されたライブラリ
+（ＬＩＢＴＰ）は，ファイルシステムについてのライブラリであるといえる。
+(ｳ) なお，原告は，引用例に開示されているＬＩＢＴＰがデータ動作に対して
+トランザクションセマンティクスを提供するものであることは，甲７論文の記載か
+らも明らかである旨主張するが，甲７論文には，ＬＩＢＴＰがデータベースシステ
+ムそのものであるとの記載はないし，上記(ｱ)のとおり，４．４ＢＳＤ（バークレ
+イＤＢ）とＬＩＢＴＰは別のものであり，他のＵＮＩＸプログラムにおいても，Ｌ
+ＩＢＴＰを利用することが可能であるから，原告の上記主張は根拠がなく失当であ
+る。
+エ 以上のとおりであるから，審決の引用発明の認定には，何らの誤りもない。
+(3) 取消事由２（本願発明と引用発明の一致点の認定の誤り）に対し
+ア 原告は，審決がした本願発明と引用発明との対比に関し，引用発明における
+「実行されているファイル生成等の具体的なファイル操作」が何を意味するのか不
+明であるし，仮にＬＩＢＴＰを意味するとしても，これはファイル生成等の具体的
+- -
+なファイル操作にトランザクションセマンティクスを提供するものではないから，
+審決の「引用発明における・・・ファイル生成等の具体的なファイル操作は，トラ
+ンザクションの保護の対象となるファイル操作を含む実行ルーチンであるので，こ
+れは，本願発明の『ネイティブファイルシステムにおけるファイル及びディレクト
+リの操作』を含むルーチンに対応するとともに『関連実行ルーチン』に相当」する
+との認定は誤りであると主張する。
+しかしながら，引用例の「１．序論」に「新たなファイルが作成される場合」と
+例示されているように，引用例に従来技術として示されているファイル操作は，フ
+ァイル生成等の具体的なファイル操作である。
+また，引用例の「１．序論」には，従来技術として，審決が認定した第１の場合
+及び第２の場合における「伝統的なＵＮＩＸファイルシステム」での解決方法が記
+載されているところ，これを，トランザクションセマンティクスを提供することに
+より解決する方法が，「３．アーキテクチャ」，「４．実装」等に記載されたライ
+ブラリ（ＬＩＢＴＰ）であるから，「引用発明における・・・ファイル生成等の具
+体的なファイル操作は，トランザクションの保護の対象となるファイル操作を含む
+実行ルーチンである」こと，これが「本願発明の『ネイティブファイルシステムに
+おけるファイル及びディレクトリの操作』を含むルーチンに対応するとともに『関
+連実行ルーチン』に相当」することは明らかである。
+したがって，原告の上記主張は失当である。
+イ 原告は，審決がした本願発明と引用発明との対比に関し，引用発明のライブ
+ラリ（ＬＩＢＴＰ）は，データベース処理に対してトランザクションセマンティク
+スを提供するものであり，ネイティブファイル又はディレクトリ動作に対してトラ
+ンザクションセマンティクスを提供するものではないから，審決の「引用発明にお
+ける『ライブラリ（LIBTP）』は，ネイティブファイルシステムに必要に応じてト
+ランザクションセマンティクスを追加あるいは提供するためのコンピュータプログ
+ラムルーチンの集合であるので，これは本願発明の『ライブラリ』に相当」すると
+- -
+の認定は誤りであると主張する。
+しかしながら，上記(2)ウのとおり，引用例に記載されたライブラリ（ＬＩＢＴ
+Ｐ）は，ファイルシステムについてのライブラリであるから，本願発明のライブラ
+リに相当する。したがって，原告の上記主張は根拠がなく失当である。
+ウ 原告は，審決がした本願発明と引用発明との対比に関し，引用発明のバッフ
+ァマネージャ，ロックマネージャ及びトランザクションマネージャは，ファイル及
+びディレクトリ処理動作に関する処理を行うものではないから，審決の「引用発明
+における・・・『・・・バッファマネージャ，ロックマネージャ，トランザクショ
+ンマネージャの各々を実現するルーチン』の各々は，本願発明の『ルーチン』ある
+いは『ルーチンファミリ』に相当し，又，引用発明においてもこれらのルーチンが
+複数あり，本願発明と同様に，『セット』を構成していると言うことができる。」
+との認定は誤りであると主張する。
+しかしながら，上記(1)のとおり，データベースは，ディスクに対応する二次記
+憶へのデータの書き込みにファイルシステムを利用しており，ディスクへのデータ
+の書き込みを管理するものも，ファイルシステムに属するのであるから，引用発明
+のバッファマネージャ，ロックマネージャ及びトランザクションマネージャは，い
+ずれも，ファイルシステムのルーチンであるといえる。
+そうすると，審決の上記認定には何らの誤りもなく，したがって，原告の上記主
+張は失当である。
+エ 原告は，審決がした本願発明と引用発明との対比に関し，引用発明の「コミ
+ット処理及びアボート処理の際参照される事前及び事後のログを取得する処理」は
+引用例の「３．２．２．バッファマネージャ」に，「txn̲commit プリミティブに
+よって起動されるコミット処理」及び「txn̲abort プリミティブによって起動され
+るアボート処理」はいずれも引用例の「３．２．５．トランザクションマネージ
+ャ」に，それぞれ記載された内容を指すものであり，データベース処理に関するも
+のであって，ファイル又はディレクトリ動作に関するものではないから，審決がし
+- -
+た「引用発明の『コミット処理及びアボート処理の際参照される事前及び事後のロ
+グを取得する処理』は，トランザクション処理におけるログ取得の処理であるので，
+本願発明の『ファイル又はディレクトリ動作をロールバックするために必要な情報
+を記憶するコンピュータ命令を含む実行ルーチン』に相当し」との認定，「引用発
+明の『txn̲commit プリミティブによって起動されるコミット処理』は，トランザ
+クション処理におけるコミット処理であるので，本願発明の『関連実行ルーチンの
+結果をコミットさせるコンピュータ命令を含む終了ルーチン』に相当し」との認定，
+及び「引用発明の『txn̲abort プリミティブによって起動されるアボート処理』は，
+トランザクション処理におけるロールバック処理であるので，本願発明の『関連実
+行ルーチンの結果をロールバックさせるコンピュータ命令を含むアンドゥルーチ
+ン』に相当している」との認定は，いずれも誤りであると主張する。（取消事由２
+のエないしカ）
+しかしながら，上記(1)のとおり，データベースシステムは，ファイルシステム
+を利用して構築されるシステムであること，上記(2)アのとおり，引用発明は，
+「従来のＵＮＩＸファイルシステム」にトランザクションセマンティクスを付与す
+るものであること，引用例においては，「１．序論」に記載された「従来のＵＮＩ
+Ｘファイルシステム」にトランザクションセマンティクスを提供するための具体的
+な実装の例として，「３．アーキテクチャ」，「４．実装」等に記載されたライブ
+ラリ（ＬＩＢＴＰ）についての説明がされていることに照らすと，引用発明の「コ
+ミット処理及びアボート処理の際参照される事前及び事後のログを取得する処理」，
+「txn̲commit プリミティブによって起動されるコミット処理」及び「txn̲abort プ
+リミティブによって起動されるアボート処理」は，それぞれ，本願発明の「ファイ
+ル又はディレクトリ動作をロールバックするために必要な情報を記憶するコンピュ
+ータ命令を含む実行ルーチン」，「関連実行ルーチンの結果をコミットさせるコン
+ピュータ命令を含む終了ルーチン」及び「関連実行ルーチンの結果をコミットさせ
+るコンピュータ命令を含むアンドゥルーチン」に相当するといえるから，原告の上
+- -
+記各主張はいずれも理由がなく，審決の上記各認定に誤りはない。
+オ 原告は，引用発明のＬＩＢＴＰは，データベース処理に関するものであって，
+同発明における処理は，データベース処理であるデータ動作に関するものであるか
+ら，引用発明は，「ネイティブファイルシステムのネイティブファイルおよびディ
+レクトリ動作のセットへトランザクションセマンティクスを追加するためのコンピ
+ュータプログラムライブラリ」ではないし，「(a)このようなネイティブファイル
+またはディレクトリ動作をロールバックするために必要な情報を記憶するコンピュ
+ータ命令を含む実行ルーチン」を含むものではないとして，本願発明と引用発明と
+が，「ネイティブファイルシステムのネイティブファイルおよびディレクトリ動作
+のセットへトランザクションセマンティクスを追加するためのコンピュータプログ
+ラムライブラリであって，前記ライブラリが１つ以上のルーチンファミリのセット
+を有し，このようなルーチンファミリの各々が，(a)このようなネイティブファイ
+ルまたはディレクトリ動作をロールバックするために必要な情報を記憶するコンピ
+ュータ命令を含む実行ルーチンと，・・・を有することを特徴とするコンピュータ
+プログラムライブラリ」である点で一致するとした審決の認定が誤りであると主張
+する。
+しかしながら，上記エのとおり，データベースシステムは，ファイルシステムを
+利用して構築されるシステムであること，引用発明は，「従来のＵＮＩＸファイル
+システム」にトランザクションセマンティクスを付与するものであること，引用例
+においては，「１．序論」に記載された「従来のＵＮＩＸファイルシステム」にト
+ランザクションセマンティクスを提供するための具体的な実装の例として，「３．
+アーキテクチャ」，「４．実装」等に記載されたライブラリ（ＬＩＢＴＰ）につい
+ての説明がされていることにかんがみれば，引用発明の「ライブラリ（ＬＩＢＴ
+Ｐ）」は，「ネイティブファイルシステムのネイティブファイルおよびディレクト
+リ動作のセットヘトランザクションセマンテイクスを追加するためのコンピュータ
+プログラムライブラリ」であるとともに，「このようなネイティブファイルまたは
+- -
+ディレクトリ動作をロールバックするために必要な情報を記憶するコンピュータ命
+令を含む実行ルーチン」を含んでいるといえるから，審決のした一致点の認定に誤
+りはなく，原告の上記主張は失当である。
+カ 以上のとおり，審決がした本願発明と引用発明との対比・一致点の認定に誤
+りはない。
+(4) 取消事由３（本願発明と引用発明の相違点の看過）に対し
+原告は，本願発明と引用発明は，原告主張相違点において相違するものであり，
+審決は，かかる相違点の存在を看過したものであると主張する。
+しかしながら，上記(3)エのとおり，引用例においては，「１．序論」に記載さ
+れた「従来のＵＮＩＸファイルシステム」にトランザクションセマンティクスを提
+供するための具体的な実装の例として，「３．アーキテクチャ」，「４．実装」等
+に記載されたライブラリ（ＬＩＢＴＰ）についての説明がされていることに照らす
+と，引用発明は，「ネイティブファイルシステムのネイティブファイルおよびディ
+レクトリ動作のセットへトランザクションセマンティクスを追加するもの」である
+ということができるから，原告主張相違点は存在せず，審決に相違点看過の誤りは
+ない。
+第４ 当裁判所の判断
+ルおよびディレクトリ動作」に対しトランザクションセマンティクスを付与するも
+のといえるか）について
+(1) 引用例には，次の各記載がある。
+ア「概要
+・・・。従来のＵＮＩＸシステムにおいては，トランザクションを使用するための唯一容易
+な方法は，データベースシステムを購入することである。このようなシステムは処理速度が遅
+くコストがかかることが多く，所望されている通りの機能性を提供しないこともある。本論文
+- -
+は，４．４ＢＳＤ（Berkeley Software Distribution）データベースアクセスルーチン（ｄｂ
+（３））を使用する簡易型非プロプライエタリ・トランザクションライブラリーであるＬＩＢ
+ＴＰの設計，実装および性能について提示している。」（１頁５〜１３行）
+イ「１．序論
+トランザクションはデータベースシステムで使用されて，同時アクセスするユーザーがデー
+タベースのインテグリティを破壊することなくマルチオペレーション更新を適用できるように
+する。これは，原子性，一貫性，分離性および耐久性という特性を提供する。原子性とは，ト
+ランザクションを構成する更新一式が単一のユニットとして適用されるべきである，つまりす
+べてがデータベースに適用されるか，すべてが欠けているかのいずれかでなければならないこ
+とを意味する。一貫性とは，トランザクションがデータベースをある論理的一貫性の状態から
+別の論理的一貫性の状態に移すことを要求するものである。分離特性は，同時トランザクショ
+ンが，トランザクションを順次実行することによって得られる結果と区別できない結果を生成
+することを要求するものである。最後に，耐久性とは，トランザクションがコミットされると，
+その結果がシステム障害を越えて保存されることを要求するものである・・・。
+これらの特性についてはデータベースと関連してしばしば議論されるところであるが，これ
+らは，より汎用なアプリケーションにとって有用なプログラミングパラダイムである。現在の
+アドホック機構に取って代り，トランザクションを使用できる複数の様々な状況がある。
+そうした状況の１つは，複数のファイルまたは複数のファイルの一部が原子的に更新される
+必要がある場合である。例えば，従来のＵＮＩＸファイルシステムは順序制約を使用して，ク
+ラッシュに直面した場合の回復可能性を達成する。新たなファイルが作成される場合，その新
+たなファイルがディレクトリ構造に追加される前にそれのｉノードがディスクに書き込まれ
+る。」（１頁１７行〜２頁８行）
+ウ「現行のアドホック機構に取って代り，トランザクションが使用できる第２の状況は，共
+有ファイルの同時更新が所望されるが，データの論理的一貫性を維持する必要があるというア
+プリケーションにおいてである。例えば，パスワードファイルが更新される場合，ファイルロ
+ックを使用して同時アクセスを許可しない。パスワードファイルに対するトランザクションセ
+- -
+マンティクスでは，パスワードデータベースの論理的一貫性を維持しつつ同時更新を可能にす
+る。」（２頁２０〜２５行）
+エ「本論文において，トランザクションセマンティクス（原子性，一貫性，分離性および耐
+久性）を提供する簡易型ライブラリーを提示する。４．４ＢＳＤデータベースアクセス法は，
+このライブラリーを使用するために修正されており，任意に，アプリケーション間の共有バッ
+ファ管理，ロッキングおよびトランザクションセマンティクスを提供する。ｄｂ（３）ライブ
+ラリーによるトランザクション保護をリクエストすることによって，・・・ＵＮＩＸプログラ
+ムはそのデータをトランザクション保護することができる。」（３頁４〜１１行）
+オ「３．アーキテクチャ
+ライブラリーは，トランザクション処理に必要なサービスに洗練されたインタフェースを提
+供するように設計されている。これらのサービスは回復，同時実行制御および共有データ管理
+である。まず，回復，同時実行制御およびバッファ管理実装における設計トレードオフについ
+て論じてから，ライブラリーアーキテクチャおよびモジュール全体について説明することにす
+る。」（４頁２８行〜５頁３行）
+カ「４．実装」（１３頁８行）
+キ「４．４トランザクション保護アクセス法
+・・・
+アクセス法にトランザクション保護を追加するのに必要な修正は極めて単純であり局所的で
+ある。
+ｔ，ｂｕｆ＿ｕｎｐｉｎ）で置換する。
+く。
+- -
+頁８行〜１７頁１行）
+(2) また，ＵＮＩＸシステムに関する乙２文献には，次の各記載がある。
+ア「６．１．３ ファイルの作成とオープン
+・・・
+ここでは，creat，open システムコールを紹介します。
+【creat】
+・・・
+ファイルを作り，書き込みの準備を行います。
+すでに存在するファイルに上書きの準備を行います。
+・・・
+・存在するファイルに対して creat コールを行った場合，ファイルのサイズは０にリセットさ
+れます。モードとオーナは変わりません。
+・ファイルが存在していない場合，ファイルのオーナおよびグループＩＤは・・・設定された
+ファイルが作られます。」（１５６頁２１行〜１５７頁「説明」５行）
+イ「【open】
+・・・
+ファイルをオープンします。」（１５９頁５〜７行）
+ウ「O̲CREAT
+ファイルが存在している場合，意味はありません。存在していない場合，creat コールと同
+じ機能が得られます。」（１６０頁１４〜１６行）
+(3) 上記(1)の各記載によれば，引用例は，既存のファイルシステムであるＵＮ
+ＩＸシステムのような汎用的なプログラムが用いるファイルシステムに対し，トラ
+ンザクションセマンティクスを提供するライブラリについて論じているものであり，
+引用例の「３．アーキテクチャ」及び「４．実装」において，そのライブラリにつ
+き，具体的に説明しているものと認められる。
+- -
+また，上記(1)キのとおり，引用例に記載されたライブラリ（ＬＩＢＴＰ）にお
+いては，ファイル処理にトランザクション保護機能を追加するために，プログラム
+中の open，read 及び write を，それぞれ buf̲open，buf̲get 及び buf̲unpin に置
+き換えることが行われているのであるから，buf̲open，buf̲get 及び buf̲unpin は，
+それぞれ既存のファイルシステムに属するルーチンである open，read 及び write
+の機能を含んだ上で，トランザクション保護機能を追加するための機能を有するル
+ーチンであると理解することができる。
+さらに，上記(2)の各記載によれば，既存のファイルシステムであるＵＮＩＸシ
+ステムに属するシステムコール open は，「ファイルを作り，書き込みの準備を行
+う」システムコールと同じ機能を有していることが認められる（なお，乙２文献が，
+平成５年１月２０日発行のＵＮＩＸシステムプログラミングに関する一般的な概説
+書であることにかんがみれば，このことは，本件特許出願当時は，当業者に周知の
+事項であったものと認められる。）。
+加えて，そもそも，ファイルシステムは，オペレーティングシステムが有する機
+能の１つであって，アプリケーションプログラムに応答し，外部の記憶媒体（ハー
+ドディスク等）に対してデータの書き込み，変更（更新，消去），読み出し等の動
+作を行うものであるところ，新しいファイルの生成，ファイル名の変更，ファイル
+の削除等の処理も，オペレーティングシステムからみれば，データの処理に他なら
+ないことは，経験則上明らかである（例えば，ファイルの生成は，新しいファイル
+についてのデータを生成することであり，ファイル名の変更は，ファイル名のデー
+タを更新することであり，ファイルの削除は，ファイルについてのデータを削除す
+ることである。）。
+以上からすると，引用例には，本願明細書にいう「ファイルおよびディレクトリ
+動作」に対しトランザクションセマンティクスを付与する技術についての記載があ
+ると認めるのが相当であり，引用例（特に，「３．アーキテクチャ」及び「４．実
+装」の各欄）に当該記載がない旨をいう原告の主張は，これを採用することができ
+- -
+ない。
+(4) そこで，以上を前提に，以下，各取消事由について検討する（したがって，
+以下，引用例（「３．アーキテクチャ」及び「４．実装」の各欄を含む。）に記載
+された技術が，本願明細書にいう「ファイルおよびディレクトリ動作」に対しトラ
+ンザクションセマンティクスを付与するものではないことを前提とする原告の主張
+は，いずれも，その前提を欠くものとして失当である。）。
+(1) 上記１のとおり，引用例（「３．アーキテクチャ」及び「４．実装」の各
+欄を含む。）には，本願明細書にいう「ファイルおよびディレクトリ動作」に対し
+トランザクションセマンティクスを付与する技術についての記載があると認められ
+るから，審決が引用する引用例の記載事項（前記第２の３(1)）によれば，引用発
+明は，審決が認定したとおりのもの（同）であると認めるのが相当である。
+(2)ア 原告は，引用例の「１．序論」に記載された内容と，「３．アーキテク
+チャ」，「４．実装」等に記載された内容とを結合した１つの発明は，引用例のど
+こにも記載されていないと主張する。
+しかしながら，原告の上記主張は，その前後の主張の内容から明らかなとおり，
+「引用例の『３．アーキテクチャ』，『４．実装』等には，引用例の主要なテーマ
+である，データベースシステムに対するデータ動作にトランザクションセマンティ
+クスを付与する技術であるライブラリ（ＬＩＢＴＰ）が記載されているにとどま
+（る）（したがって，ファイル及びディレクトリ動作にトランザクションセマンテ
+ィクスを付与するものではない。）」ことを前提とするものである。
+そうすると，上記１のとおり，原告の上記主張は，その前提を欠くものとして失
+当である。
+イ 原告は，審決が認定した第１の場合及び第２の場合が記載された引用例の
+「１．序論」には，いずれも，トランザクションセマンティクスを提供するための
+- -
+ライブラリ（ＬＩＢＴＰ）の各ルーチンを実行するとは記載されていないから，引
+用例の「１．序論」に記載された内容と，「３．アーキテクチャ」，「４．実装」
+等に記載された内容とは，技術的な整合性を有しておらず，両者を結合しても，１
+つの発明を構成することができないと主張する。
+しかしながら，審決（前記第２の３(1)）が引用するとおり，引用例の「３．ア
+ーキテクチャ」及び「４．実装」の欄には，トランザクションセマンティクスを提
+供するためのライブラリ（ＬＩＢＴＰ）の各ルーチンを実行することについての記
+載があるのであるから，原告の上記主張は，要するに，引用例の「３．アーキテク
+チャ」及び「４．実装」に記載された技術が，本願明細書にいう「ファイルおよび
+ディレクトリ動作」に対しトランザクションセマンティクスを付与するものではな
+いことを前提とするものと理解せざるを得ない。
+そうすると，上記１のとおり，原告の上記主張は，その前提を欠くものとして失
+当である。
+(3) 以上のとおり，審決の引用発明の認定に原告主張の誤りはないから，取消
+事由１は，理由がない。
+(1) 前記１のとおり，引用例（「３．アーキテクチャ」及び「４．実装」の各
+欄を含む。）には，本願明細書にいう「ファイルおよびディレクトリ動作」に対し
+トランザクションセマンティクスを付与する技術についての記載があると認められ
+るから，本願発明と引用発明とは，審決が両発明を対比した上で認定したとおりの
+点（前記第２の３(2)）で一致すると認めるのが相当である。
+(2) 原告は，審決が，本願発明と引用発明との対比において，「引用発明にお
+ける『新しいファイルの生成等のように複数のファイルの複数の部分が原子的に更
+新される必要がある場合や共有ファイルに対する同時的な更新が望まれる一方で論
+理的なデータの一貫性を維持する必要が生ずる場合』に実行されているファイル生
+- -
+成等の具体的なファイル操作は，トランザクションの保護の対象となるファイル操
+作を含む実行ルーチンであるので，これは，本願発明の『ネイティブファイルシス
+テムにおけるファイル及びディレクトリの操作』を含むルーチンに対応するととも
+に『関連実行ルーチン』に相当する」と認定したことに関し，当該「実行されてい
+るファイル生成等の具体的なファイル操作」が何を指すのか不明であるなどと主張
+する。
+しかしながら，原告の上記主張は，その前後の主張の内容から明らかなとおり，
+「審決が認定した第１の場合及び第２の場合は，引用例の『１．序論』に記載され
+ているところ，同箇所には，トランザクションが必要な場合及び従来の解決方法が
+記載されているのみである」ことを前提とするものである。
+そして，前記１において説示したところに照らし，審決（前記第２の３(1)）が
+摘記した引用例の「３．アーキテクチャ」及び「４．実装」の各欄には，審決の上
+記認定における「実行されているファイル生成等の具体的なファイル操作」につい
+ての具体的記載があることは明らかであるから，原告の上記主張は，要するに，引
+用例の「３．アーキテクチャ」及び「４．実装」に記載された技術が，本願明細書
+にいう「ファイルおよびディレクトリ動作」に対しトランザクションセマンティク
+スを付与するものではないことを前提とするものと理解せざるを得ない。
+そうすると，前記１のとおり，原告の上記主張は，その前提を欠くものとして失
+当である。
+(3) 以上のとおり，本願発明と引用発明の一致点についての審決の認定に原告
+主張の誤りはないから，取消事由２は，理由がない。
+前記１において説示したところに照らせば，本願発明は，原告主張相違点に係る
+引用発明の構成を備えるものであり，そうすると原告主張相違点は存在しないから，
+審決に本願発明と引用発明の相違点を看過した誤りはなく，取消事由３は，理由が
+- -
+ない。
+よって，原告の主張する審決取消事由はいずれも理由がないから，原告の請求は
+棄却されるべきである。
+知的財産高等裁判所第４部
+裁判長裁判官
+石 原 直 樹
+裁判官
+榎 戸 道 也
+裁判官
+浅 井 憲
