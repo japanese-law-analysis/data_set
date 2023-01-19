@@ -16,6 +16,13 @@
 
 `precedent/list.json`ファイルの生成範囲などが書かれています。
 
+
+## precedent/text_files/*.txt
+
+`precedent/list.json`に書かれている全ての判例のテキストファイルが置かれています。
+
+[pdf2txt_precedent](https://github.com/japanese-law-analysis/pdf2txt_precedent)を使用して生成しています。
+
 # ライセンス
 
 著作権法第十三条の規定により、法令・判決は著作権が発生しません。よって、これをもとに生成した本データセットも著作権が発生しません。
