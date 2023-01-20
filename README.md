@@ -2,6 +2,16 @@
 
 フォルダ・ファイルとその中身は以下のようになっています。
 
+# law
+
+法令関係が入っています
+
+## law/list.json
+
+[e-gov法令検索](https://elaws.e-gov.go.jp/)からダウンロードできる法令データの一覧です。
+
+[listup_law](https://github.com/japanese-law-analysis/listup_law)を使用して生成しています。
+
 # precedent
 
 判例関係が入っています。
