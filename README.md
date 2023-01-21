@@ -12,6 +12,12 @@
 
 [listup_law](https://github.com/japanese-law-analysis/listup_law)を使用して生成しています。
 
+## law/repeal_list.json
+
+[e-gov法令検索/廃止法令一覧](https://elaws.e-gov.go.jp/repeal/)からダウンロードできる廃止された法令データの一覧です。
+
+[listup_law](https://github.com/japanese-law-analysis/listup_law)を使用して生成しています。
+
 # precedent
 
 判例関係が入っています。
