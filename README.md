@@ -18,6 +18,12 @@
 
 [listup_law](https://github.com/japanese-law-analysis/listup_law)を使用して生成しています。
 
+## law/ryakusyou.json
+
+「～（以下「～」という。）」や「～（～をいう。）」のような略称・定義規定を解析し、略称部分と正式名称部分を抜き出したリストです。
+
+[analysis_ryakusyou](https://github.com/japanese-law-analysis/analysis_ryakusyou)を使用して解析・生成しています。
+
 # precedent
 
 判例関係が入っています。
