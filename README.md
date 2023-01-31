@@ -18,6 +18,12 @@
 
 [listup_law](https://github.com/japanese-law-analysis/listup_law)を使用して生成しています。
 
+## law/yomikae.json
+
+「～～とあるのは～～と読み替えるものとする。」のような読み替え文を解析し、読み替えられる対象の文言と読み替え後の文言を抽出したリストです。
+
+[analysis_yomikae](https://github.com/japanese-law-analysis/analysis_yomikae)を使用して解析・生成しています。
+
 ## law/ryakusyou.json
 
 「～（以下「～」という。）」や「～（～をいう。）」のような略称・定義規定を解析し、略称部分と正式名称部分を抜き出したリストです。
