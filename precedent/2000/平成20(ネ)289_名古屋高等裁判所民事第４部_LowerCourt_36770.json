@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 7,
+    "day": 3
+  },
+  "case_number": "平成20(ネ)289",
+  "case_name": "親子関係不存在確認請求控訴事件",
+  "court_name": "名古屋高等裁判所民事第４部",
+  "result": "その他",
+  "original_court_name": "名古屋家庭裁判所\n        　豊橋支部",
+  "original_case_number": "平成17(家ホ)8",
+  "original_result": "その他",
+  "gist": "韓国籍を有するＡとその嫡出子として同国の戸籍に記載されている控訴人（一審被告）との実親子関係につき，Ａの子である被控訴人（一審原告）らが，その不存在確認請求することが権利の濫用に当たるとされた事例\n（平成２０年３月１８日最高裁判所第三小法廷判決（平成１８年（受）第２０５６号）の差戻審における判決）",
+  "lawsuit_id": "36770",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=36770",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/770/036770_hanrei.pdf",
+  "contents": ""
+}

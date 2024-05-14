@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 7,
+    "day": 23
+  },
+  "case_number": "平成20(ワ)3224",
+  "case_name": "敷金返還請求事件",
+  "court_name": "京都地方裁判所第６民事部",
+  "result": "その他",
+  "gist": "居住用建物の賃貸借契約における保証金の解約引き特約及び更新料特約が，消費者契約法１０条に該当し無効であると判断された事例",
+  "lawsuit_id": "37862",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=37862",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/862/037862_hanrei.pdf",
+  "contents": ""
+}

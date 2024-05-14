@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 12,
+    "month": 4,
+    "day": 7
+  },
+  "case_number": "平成11(許)42",
+  "case_name": "転付命令申立て却下決定に対する執行抗告棄却決定に対する許可抗告事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "破棄自判",
+  "article_info": "民集　第54巻4号1355頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成11(ラ)808",
+  "original_date": {
+    "era": "Heisei",
+    "year": 11,
+    "month": 9,
+    "day": 28
+  },
+  "gist": "質権が設定されている金銭債権の被転付適格",
+  "case_gist": "質権が設定されている金銭債権は，券面額ある債権として被転付適格を有する。",
+  "ref_law": "民事執行法159条，民法362条",
+  "lawsuit_id": "57039",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57039",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/039/057039_hanrei.pdf"
+}

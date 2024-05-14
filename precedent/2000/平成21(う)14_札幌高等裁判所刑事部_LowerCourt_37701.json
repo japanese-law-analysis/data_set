@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 5,
+    "day": 26
+  },
+  "case_number": "平成21(う)14",
+  "case_name": "強盗殺人",
+  "court_name": "札幌高等裁判所刑事部",
+  "result": "棄却",
+  "original_court_name": "札幌地方裁判所",
+  "original_case_number": "平成20(わ)866",
+  "original_result": "その他",
+  "gist": "被告人が，友人と共謀して釣具店から釣り具を万引きし，逃走しようと普通乗用自動車に乗り込んだところ，被害店舗店員の被害者が同車のボンネットにしがみついたため，逮捕を免れる目的で，そのまま同車を発進させて蛇行走行した後，ブレーキをかけて停車した同車から被害者が路上に転落して転倒するや，再び同車を発進させ，被害者が死に至るかもしれないことを認識しながら，車底部で被害者を引きずったまま走行させて殺害したという公訴事実に対し，被害者を車底部に挟み込んだ認識のなかった被告人には殺意が認められないとの被告人側の主張を第１審同様に認めず，量刑についても無期懲役を維持し，被告人の控訴を棄却した事例",
+  "lawsuit_id": "37701",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=37701",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/701/037701_hanrei.pdf",
+  "contents": ""
+}

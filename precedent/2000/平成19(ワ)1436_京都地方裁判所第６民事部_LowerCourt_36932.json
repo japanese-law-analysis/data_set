@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 9,
+    "day": 24
+  },
+  "case_number": "平成19(ワ)1436",
+  "case_name": "損害賠償請求事件等",
+  "court_name": "京都地方裁判所第６民事部",
+  "gist": "１　ごみ袋の製造請負契約において，納期限に契約の仕様書に適合した製品が納品されなかったとして，債務不履行に基づく損害賠償請求が一部認容された事例\n２　ゴミ袋の製造請負契約において，履行期限までに物件の製造を完了し，その引渡しをする見込みがない時には注文者は解除できる旨の解除条項に基づく契約解除は有効であるとして，解除が違法であると主張する不法行為に基づく損害賠償請求が棄却された事例",
+  "lawsuit_id": "36932",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=36932",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/932/036932_hanrei.pdf",
+  "contents": ""
+}

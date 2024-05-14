@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 12,
+    "day": 14
+  },
+  "case_number": "平成18(ネ)961",
+  "case_name": "鉱害賠償債務不存在確認請求控訴事件",
+  "court_name": "福岡高等裁判所第４民事部",
+  "result": "棄却",
+  "original_court_name": "福岡地方裁判所\n        　久留米支部",
+  "original_case_number": "平成14(ワ)388",
+  "original_result": "その他",
+  "gist": "福岡県南部の炭鉱において石炭を採掘していた被控訴人が，その採掘やこれに伴う坑内揚水によって，その所有に係る不動産に地盤沈下が生じたとして，被控訴人に対する鉱業法１０９条に基づく鉱害賠償請求権の存在を主張する控訴人らに対し，鉱害賠償債務の不存在の確認を求めた事案につき，本件に顕れた各証拠によっては，被控訴人の坑内揚水等と控訴人ら所有不動産の地盤沈下との間に因果関係が認められないとして，被控訴人の請求を認容した原審判決に対し，控訴審においても，被控訴人の坑内揚水等と控訴人らの損害について相当因果関係の立証がないとして，原審の判断を相当とした事例。",
+  "lawsuit_id": "36267",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=36267",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/267/036267_hanrei.pdf",
+  "contents": ""
+}

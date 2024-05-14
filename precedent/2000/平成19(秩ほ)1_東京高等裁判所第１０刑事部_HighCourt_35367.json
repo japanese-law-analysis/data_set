@@ -1,0 +1,21 @@
+{
+  "trial_type": "HighCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 4,
+    "day": 25
+  },
+  "case_number": "平成19(秩ほ)1",
+  "case_name": "法廷等の秩序維持に関する法律による制裁決定に対する抗告事件",
+  "court_name": "東京高等裁判所第１０刑事部",
+  "result": "棄却",
+  "article_info": "第60巻2号1頁",
+  "original_court_name": "東京地方裁判所",
+  "gist": "法廷等の秩序維持に関する法律に基づき地方裁判所がした制裁を科する裁判に対する本人を補佐する弁護士の抗告申立権",
+  "case_gist": "法廷等の秩序維持に関する法律に基づき地方裁判所がした制裁を科する裁判に対し，事件につき本人を補佐する弁護士は，抗告申立権を有しない。",
+  "lawsuit_id": "35367",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail3?id=35367",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/367/035367_hanrei.pdf",
+  "contents": ""
+}

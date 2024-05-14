@@ -1,0 +1,21 @@
+{
+  "trial_type": "HighCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 10,
+    "day": 16
+  },
+  "case_number": "平成20(う)487",
+  "case_name": "麻薬及び向精神薬取締法違反被告事件",
+  "court_name": "東京高等裁判所",
+  "result": "破棄自判",
+  "article_info": "第61巻4号1頁",
+  "original_court_name": "横浜地方裁判所",
+  "gist": "裁判所が証人尋問の決定をした後に強制送還された外国人の供述調書を刑訴法３２１条１項２号ないし３号に基づき証拠とすることが許容された事例",
+  "case_gist": "裁判所が外国人について証人尋問の決定をしているにもかかわらず強制送還が行われた場合であっても，裁判所及び検察官が証人尋問の実現に向けて尽力し，入国管理当局も可能な限りこれに協力しようとしていたなど判示の事情の下においては，当該外国人の捜査官に対する供述調書を刑訴法３２１条１項２号ないし３号に基づき証拠とすることが許容される。",
+  "lawsuit_id": "37649",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail3?id=37649",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/649/037649_hanrei.pdf",
+  "contents": ""
+}

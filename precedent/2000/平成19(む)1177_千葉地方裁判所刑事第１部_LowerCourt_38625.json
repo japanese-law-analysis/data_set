@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 7,
+    "day": 27
+  },
+  "case_number": "平成19(む)1177",
+  "case_name": "",
+  "court_name": "千葉地方裁判所刑事第１部",
+  "result": "棄却",
+  "gist": "共犯者や参考人が国外退去となる事態を利用して不起訴処分をしたことなどを理由に，共犯者等の供述調書の証拠能力を争うなどの主張に関連して，弁護人が申し立てた共犯者等に対する不起訴裁定書の証拠開示命令請求につき，主張との関連性の程度，開示の必要性の程度，開示により生じる弊害等を具体的に検討した上，相当とは認められないことを理由に請求を棄却した事例",
+  "lawsuit_id": "38625",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=38625",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/625/038625_hanrei.pdf",
+  "contents": ""
+}

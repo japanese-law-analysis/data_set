@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 12,
+    "day": 18
+  },
+  "case_number": "平成17(ワ)4050",
+  "case_name": "保険金請求",
+  "court_name": "名古屋地方裁判所民事第６部",
+  "result": "棄却",
+  "gist": "所有権留保売買における買主による保険金（車両保険）請求について，保険契約の申込書及び保険証券に車両所有者（車両被保険者）として所有権留保者（ローン会社）の記載がある場合は，買主が自己のために車両保険契約を締結したものとは認められないとして請求が棄却された事例",
+  "lawsuit_id": "34028",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=34028",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/028/034028_hanrei.pdf",
+  "contents": "Ö\n"
+}

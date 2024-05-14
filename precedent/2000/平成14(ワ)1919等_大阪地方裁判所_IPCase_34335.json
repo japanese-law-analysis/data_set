@@ -1,0 +1,18 @@
+{
+  "trial_type": "IPCase",
+  "date": {
+    "era": "Heisei",
+    "year": 16,
+    "month": 1,
+    "day": 15
+  },
+  "case_number": "平成14(ワ)1919等",
+  "case_name": "損害賠償請求事件（中間判決）",
+  "court_name": "大阪地方裁判所",
+  "right_type": "著作権",
+  "lawsuit_type": "民事訴訟",
+  "lawsuit_id": "34335",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail7?id=34335",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/335/034335_hanrei.pdf",
+  "contents": ""
+}

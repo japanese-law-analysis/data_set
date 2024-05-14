@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 2,
+    "day": 28
+  },
+  "case_number": "平成20(く)77",
+  "case_name": "",
+  "court_name": "東京高等裁判所第1刑事部",
+  "result": "棄却",
+  "lawsuit_id": "38649",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=38649",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/649/038649_hanrei.pdf",
+  "contents": ""
+}

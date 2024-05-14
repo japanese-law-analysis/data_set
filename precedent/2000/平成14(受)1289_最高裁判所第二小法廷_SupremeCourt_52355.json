@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 16,
+    "month": 10,
+    "day": 4
+  },
+  "case_number": "平成14(受)1289",
+  "case_name": "書類閲覧等請求事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第58巻7号1771頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成13(ネ)6349",
+  "original_date": {
+    "era": "Heisei",
+    "year": 14,
+    "month": 5,
+    "day": 7
+  },
+  "gist": "清算の結了した株式会社の利害関係人が商法４２９条の規定に基づき同条前段所定の帳簿及び重要な資料の閲覧又は謄写の請求をすることの可否",
+  "case_gist": "清算の結了した株式会社の利害関係人は，商法４２９条の規定に基づき，同条後段所定の保存者に対し，同条前段所定の帳簿及び重要な資料の閲覧又は謄写の請求をすることはできない。",
+  "ref_law": "商法429条",
+  "lawsuit_id": "52355",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52355",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/355/052355_hanrei.pdf"
+}

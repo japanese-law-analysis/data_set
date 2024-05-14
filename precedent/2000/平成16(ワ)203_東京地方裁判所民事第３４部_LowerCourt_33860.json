@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 11,
+    "day": 22
+  },
+  "case_number": "平成16(ワ)203",
+  "case_name": "損害賠償",
+  "court_name": "東京地方裁判所民事第３４部",
+  "result": "その他",
+  "gist": "余命約半年との予測の下に、大腸癌の切除手術を受けた患者が、約７か月後に転院先の病院で死亡した事案において、担当医師に早期にカテーテル感染症を疑ってカテーテルを抜去すべき義務を怠った過失を認め、その精神的損害に対する慰謝料１２００万円の支払請求が認められた事例。",
+  "lawsuit_id": "33860",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=33860",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/860/033860_hanrei.pdf",
+  "contents": ""
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 13,
+    "month": 10,
+    "day": 26
+  },
+  "case_number": "平成13(受)94",
+  "case_name": "条件付所有権移転仮登記抹消登記手続請求事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第55巻6号1001頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成12(ネ)1693",
+  "original_date": {
+    "era": "Heisei",
+    "year": 12,
+    "month": 10,
+    "day": 26
+  },
+  "gist": "転用目的の農地の売買につき農地法５条所定の許可を得るための手続が執られていない場合における買主の自主占有の開始時期",
+  "case_gist": "農地を農地以外のものにするために買い受けた者は，農地法５条所定の許可を得るための手続が執られなかったとしても，特段の事情のない限り，代金を支払い農地の引渡しを受けた時に，所有の意思をもって農地の占有を始めたものと解するのが相当である。",
+  "ref_law": "民法162条，農地法5条",
+  "lawsuit_id": "52334",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52334",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/334/052334_hanrei.pdf"
+}

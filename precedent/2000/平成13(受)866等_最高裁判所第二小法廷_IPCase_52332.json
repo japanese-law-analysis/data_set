@@ -1,0 +1,17 @@
+{
+  "trial_type": "IPCase",
+  "date": {
+    "era": "Heisei",
+    "year": 16,
+    "month": 2,
+    "day": 13
+  },
+  "case_number": "平成13(受)866等",
+  "case_name": "製作販売差止等請求事件",
+  "court_name": "最高裁判所第二小法廷",
+  "right_type": "不正競争",
+  "lawsuit_type": "民事訴訟",
+  "lawsuit_id": "52332",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail7?id=52332",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/332/052332_hanrei.pdf"
+}

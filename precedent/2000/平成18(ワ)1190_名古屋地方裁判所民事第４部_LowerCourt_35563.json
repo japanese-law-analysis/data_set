@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 6,
+    "day": 14
+  },
+  "case_number": "平成18(ワ)1190",
+  "case_name": "損害賠償請求",
+  "court_name": "名古屋地方裁判所民事第４部",
+  "gist": "患者の遺族が，(1)医師の患者に対する前立腺がんの告知及び治療が不適切であった，(2)仮に患者が適切にがん告知を受けながら治療を拒んだのであれば患者の家族に対して患者のがんを告知すべきであったとして，不法行為又は債務不履行に基づく損害賠償を求めたところ，患者に対するがん告知は適切であったなどとした上で，患者が告知を受けながら適切な治療を拒否した場合に，医師には患者の家族にがんを告知する義務はないとされた事例",
+  "lawsuit_id": "35563",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=35563",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/563/035563_hanrei.pdf",
+  "contents": ""
+}

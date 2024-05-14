@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 3,
+    "day": 6
+  },
+  "case_number": "平成15(う)179",
+  "case_name": "医師法違反被告事件",
+  "court_name": "札幌高等裁判所刑事部",
+  "result": "棄却",
+  "original_court_name": "札幌地方裁判所",
+  "original_case_number": "平成14(わ)95",
+  "original_result": "その他",
+  "gist": "当時救命救急センターの責任者であった被告人が，研修のため同センターに配置された歯科医師３人らと共謀の上，同歯科医師らをして歯科に属さない疾病に関わる患者らに医行為を行わせたとして，無免許医業罪の成立を認めた原判決（罰金６万円，１日換算５０００円）に対し，歯科医師による救命救急センターにおける研修は歯科医療にとって不可欠であり，社会的相当性が認められるから違法性が阻却され，被告人は無罪であることを主な理由としてなされた被告人の控訴を棄却した事例",
+  "lawsuit_id": "36093",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=36093",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/093/036093_hanrei.pdf",
+  "contents": ""
+}

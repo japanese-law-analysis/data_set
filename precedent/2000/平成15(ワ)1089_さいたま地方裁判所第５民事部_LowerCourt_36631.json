@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 3,
+    "day": 28
+  },
+  "case_number": "平成15(ワ)1089",
+  "case_name": "損害賠償請求事件",
+  "court_name": "さいたま地方裁判所第５民事部",
+  "gist": "交通事故により胸郭出口症候群に罹患したと認定し，その症状は後遺障害等級１２級１２号に該当するとしつつ，胸郭出口症候群の牽引症状により力仕事等に支障があることを考慮して労働能力喪失率を２０％，将来の回復可能性はないとした事案。",
+  "lawsuit_id": "36631",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=36631",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/631/036631_hanrei.pdf",
+  "contents": "a\n1 1\n2 2\n3 3\n4 4\npain\npain\nRoos test\n"
+}

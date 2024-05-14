@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 12,
+    "day": 17
+  },
+  "case_number": "平成20(受)1192",
+  "case_name": "損害填補金請求事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第63巻10号2566頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成19(ネ)4389",
+  "original_date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 4,
+    "day": 16
+  },
+  "gist": "被害者が自賠法７３条１項所定の他法令給付に当たる年金の受給権を有する場合に，政府が同法７２条１項によりてん補すべき損害額を算定するに当たって控除すべき年金の額",
+  "case_gist": "被害者が自賠法７３条１項所定の他法令給付（同項に掲げる法令に基づく同法７２条１項による損害のてん補に相当する給付）に当たる年金の受給権を有する場合において，政府が同法７２条１項によりてん補すべき損害額は，支給を受けることが確定した年金の額を控除するのではなく，当該受給権に基づき被害者が支給を受けることになる将来の給付分も含めた年金の額を控除して，これを算定すべきである。\n（反対意見がある。）",
+  "ref_law": "（自賠法）自動車損害賠償保障法72条1項，（自賠法）自動車損害賠償保障法73条1項",
+  "lawsuit_id": "38273",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=38273",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/273/038273_hanrei.pdf",
+  "contents": ""
+}

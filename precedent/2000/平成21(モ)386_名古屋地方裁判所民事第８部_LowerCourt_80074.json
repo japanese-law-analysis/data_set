@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 9,
+    "day": 8
+  },
+  "case_number": "平成21(モ)386",
+  "case_name": "文書提出命令申立事件",
+  "court_name": "名古屋地方裁判所民事第８部",
+  "gist": "１　勾留請求書において「被疑事実の要旨」として引用されている「司法警察員送致書記載の犯罪事実」が明らかになる司法警察員送致書の当該記載部分（青少年の氏名等個人を特定できる記載を除く）が民訴法２２０条３号所定のいわゆる法律関係文書に該当するとされた事例 \n２　民訴法２２０条３号所定のいわゆる法律関係文書に該当することを理由としてされた上記司法警察員送致書の記載部分の文書提出命令の申立てに対して，刑訴法４７条に基づきその提出を拒否した本件文書の所持者である国の判断が，裁量権の範囲を逸脱しかつこれを濫用したものとされた事例",
+  "lawsuit_id": "80074",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=80074",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/074/080074_hanrei.pdf",
+  "contents": ""
+}

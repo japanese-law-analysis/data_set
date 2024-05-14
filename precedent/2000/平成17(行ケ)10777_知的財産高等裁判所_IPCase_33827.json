@@ -1,0 +1,18 @@
+{
+  "trial_type": "IPCase",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 11,
+    "day": 22
+  },
+  "case_number": "平成17(行ケ)10777",
+  "case_name": "審決取消請求事件",
+  "court_name": "知的財産高等裁判所",
+  "right_type": "特許権",
+  "lawsuit_type": "行政訴訟",
+  "lawsuit_id": "33827",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail7?id=33827",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/827/033827_hanrei.pdf",
+  "contents": "Tungsten and Other Refractory Metals for VLSI Applications\nSuresh Sachdev TUNGSTEN INTERCONNECTS IN VLSI\nthe 18th 1986 International Conference on SOLID STATE DEVICES AND\nMATERIALS Extended Abstracts K. Suguro High\nAspect Ratio Hole Filling with CVD Tungsten for Multi-level Interconnection\nTungsten and Other Refractory Metals for VLSI Applications David W.\nWoodruff ADHESION OF NON-SELECTIVE CVD TUNGSTEN TO\nSILICON DIOXIDE\n1986 International Electron Devices Meeting Technical Digest S.\nOgawa THERMALLY STABLE W/SILICIDE/Si CONTACT\na c\nSuresh Sachdev and Sunil D.Mehta, TUNGSTEN INTERCONNECTS IN\nVLSI ,Tungsten and Other Refractory Metals for VLSI Applications,1986,p.161-171\nK.Suguro et al., High Aspect Ratio Hole Filling with CVD Tungsten for Multi-level\nInterconnection ,Extended Abstracts of the 18th 1986 International Conference on SOLID STATE\nDEVICES AND MATERIALS, ,p.503-506\n2WF +3Si 2W+3SiF 1\n2WF +3H 2W+6HF 2\nWF +3/2SiH W+3/2SiF +H 3\nWF +2SiH WSi +6HF+H 4\nDavid W.Woodruff et al., ADHESION OF NON-SELECTIVE CVD TUNGSTEN\nTO SILICON DIOXIDE ,Tungsten and Other Refractory Metals for VLSI Applications,Materials\nResearch Society ,1986,p.173-183\nS.Ogawa et al., THERMALLY STABLE W/SILICIDE/Si CONTACT ,International\nElectron Devices Meeting,1986 technical digest, ,p.62-65\n18 16\na c\n6 2       WF H\nm\n3 1 2\nb selectively deposited CVD tungsten to\nserve as a diffusion barrier or to refill contacts and vias for achieving improved step\ncoverage of the aluminum deposited over it.\nEncroachment of selective CVD tungsten has been a\nmajor issue inhibiting its application in VLSI metallization. This encroachment can\ndegrade the properties of the junction underneath the contact and cause increased leakage,\ndefeating the purpose of using tungsten as a contact barrier.\nselectively\ndeposited CVD tungsten selective CVD tungsten\nblanket CVD tungsuten\nBLANKET\nTUNGSTEN\nTungsten and Other\nRefractory Metals for VLSI Applications E.K. Broadbent A.E.Morgan\nJ.M.Deblasi P.Van der Putte A.Reader B.Coulman B.J.Burrow D.K.Sadana\nGROWTH OF SELECTIVE TUNGSTEN ON SELF-ALIGNED Ti AND PtNi\nSILICIDES BY LOW PRESSURE CHEMICAL VAPOR DEPOSITION\nJ.Vac.Sci.Technol.B5 6 Eliot K. Broadbent Nucleation and growth of\nchemically vapor deposited tungsten on various subustrate materials:A review\n11 a c\nTungsten and Other\nRefractory Metals for VLSI Applications D.C.PAINE\nMICROSTRUCTURAL CHARACTERIZATION OF LPCVD TUNGSTEN\nINTERFACES\n"
+}

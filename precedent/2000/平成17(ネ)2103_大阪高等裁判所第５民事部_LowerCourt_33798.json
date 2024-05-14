@@ -1,0 +1,20 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 8,
+    "day": 31
+  },
+  "case_number": "平成17(ネ)2103",
+  "case_name": "不当利得返還等請求控訴事件",
+  "court_name": "大阪高等裁判所第５民事部",
+  "result": "その他",
+  "original_court_name": "大阪地方裁判所",
+  "original_case_number": "平成16(ワ)8326",
+  "gist": "１　リボルビング方式による貸付けについて，貸金業法１７条１項に定める事項を記載した書面の交付がなかったとして，同法４３条のみなし弁済の適用が否定された事例\n\n２　貸金業者は，超過利息を元本に充当したのちに生じた過払金（不当利得金）については，悪意の受益者に当たるから，その受領の日から利息を付して債務者に返還することを要する",
+  "lawsuit_id": "33798",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=33798",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/798/033798_hanrei.pdf",
+  "contents": ""
+}

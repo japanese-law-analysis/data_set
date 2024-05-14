@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 7,
+    "day": 9
+  },
+  "case_number": "平成18(ワ)3346",
+  "case_name": "賃金支払等請求事件",
+  "court_name": "京都地方裁判所第６民事部",
+  "result": "棄却",
+  "gist": "嘱託職員に対して一般職員より低い賃金処遇をしたことが違法ではないとされた事案",
+  "lawsuit_id": "36669",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=36669",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/669/036669_hanrei.pdf",
+  "contents": ""
+}

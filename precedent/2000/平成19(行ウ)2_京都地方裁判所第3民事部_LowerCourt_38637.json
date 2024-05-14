@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 12,
+    "day": 25
+  },
+  "case_number": "平成19(行ウ)2",
+  "case_name": "処分取消請求等",
+  "court_name": "京都地方裁判所第3民事部",
+  "result": "その他",
+  "gist": "犬猫等の死体の収集業務で手数料を着服したなどとして懲戒免職及び損害賠償命令の各処分を受けた市職員の原告ら３人が，着服の事実はないなどとしてこれらの処分の取消を求めたところ，うち１人については着服が一切ないとして懲戒免職及び損害賠償命令の取消請求のいずれもが認容され，他の２人については一部着服等が認められないとして，損害賠償命令の取消請求は一部認容されたが，懲戒免職の取消請求は棄却された事例。",
+  "lawsuit_id": "38637",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=38637",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/637/038637_hanrei.pdf",
+  "contents": ""
+}

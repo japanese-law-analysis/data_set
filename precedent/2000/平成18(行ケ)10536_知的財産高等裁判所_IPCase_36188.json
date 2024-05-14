@@ -1,0 +1,18 @@
+{
+  "trial_type": "IPCase",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 3,
+    "day": 27
+  },
+  "case_number": "平成18(行ケ)10536",
+  "case_name": "審決取消請求事件",
+  "court_name": "知的財産高等裁判所",
+  "right_type": "特許権",
+  "lawsuit_type": "行政訴訟",
+  "lawsuit_id": "36188",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail7?id=36188",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/188/036188_hanrei.pdf",
+  "contents": "IEEE TRANSACTIONS ON\nNUCLEAR SCIENCE, VOL.39, NO.4 Simon R.Cherry\nHigh Sensitivity, Total Body PET Scannnig Using 3D Data Acquisition\nand Reconstruction\nECAT-831/08-12 CTI/Siemens,\nKnoxville, TN\nIEEE\nIEEE TRANSACTIONS ON NUCLEAR SCIENCE, VOL.44,\nNO.4 J.R.N Symonds-Tayler Design and\nPerformance of an Acquisition and Control System for a Positron Camera with\nNovel Detectors\nIEEE TRANSACTIONS ON NUCLEAR SCIENCE , VOL. 41, NO.4\nM Dahlbom Charactrization Of Sampling Schemes\nFor Whole Body PET Imaging\n1996 IEEE NUCLEAR SCIENCE SYMPOSIUM\nConference Record Scott F. Schubert Whole Body\nPET Using Overlapped 3D Acquisition and Weighted Image Summation\nIEEE TRANSACTIONS ON MEDICAL\nIMAGING, VOL.16,NO.2 Jeffrey A. Fessler\nGrouped-coordinate ascent algorithms for penalized-likelihood transmission\nimage reconstruction\nIEEE TRANSACTIONS ON NUCLEAR SCIENCE, VOL.43, NO.4\nRobin J. Smith Post-injection Transmission Scans\nin a PET Camera Operating without Septa with Simultaneous Measurement of\nEmission Activity Contamination.\nThe Journal of Neuclear Medecine, Vol.36, No.12\nP. Duffy Cutler Dosiemetry of Copper-64-labeled\nMonoclonal Antibody 1A3 as Determined by PET Imaging of Torso\n"
+}

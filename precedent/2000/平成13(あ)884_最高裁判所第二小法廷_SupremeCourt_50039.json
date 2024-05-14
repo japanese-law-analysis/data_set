@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 15,
+    "month": 1,
+    "day": 14
+  },
+  "case_number": "平成13(あ)884",
+  "case_name": "斡旋贈賄，斡旋収賄被告事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第57巻1号1頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成10(う)360",
+  "original_date": {
+    "era": "Heisei",
+    "year": 13,
+    "month": 4,
+    "day": 25
+  },
+  "gist": "公務員が請託を受けて公正取引委員会の委員長に対し同委員会が調査中の審査事件を告発しないように働き掛けることとあっせん収賄罪の成否",
+  "case_gist": "公務員が，請託を受けて，公正取引委員会が私的独占の禁止及び公正取引の確保に関する法律違反の疑いで調査中の審査事件について，同委員会の委員長に対し，これを告発しないように働き掛けることは，刑法（平成７年法律第９１号による改正前のもの）１９７条ノ４にいう「職務上相当ノ行為ヲ為サザラシム可ク」あっせんすることに当たる。",
+  "ref_law": "刑法（平成7年法律第91号による改正前のもの）197条ノ4，刑法（平成7年法律第91号による改正前のもの）198条，私的独占の禁止及び公正取引の確保に関する法律73条1項，私的独占の禁止及び公正取引の確保に関する法律96条1項",
+  "lawsuit_id": "50039",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50039",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/039/050039_hanrei.pdf"
+}

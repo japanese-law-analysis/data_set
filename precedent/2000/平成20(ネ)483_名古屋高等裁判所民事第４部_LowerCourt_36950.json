@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 9,
+    "day": 30
+  },
+  "case_number": "平成20(ネ)483",
+  "case_name": "損害賠償請求控訴事件",
+  "court_name": "名古屋高等裁判所民事第４部",
+  "result": "その他",
+  "original_court_name": "名古屋地方裁判所",
+  "original_case_number": "平成19(ワ)1995",
+  "original_result": "その他",
+  "gist": "１　交通事故によりペットである犬が負傷した場合において，治療費，慰謝料等を損害として認めた事例\n２　車に同乗させていた犬が交通事故により負傷した場合において，犬用シートベルトなど動物の体を固定するための装置を装着させるなどの措置を講じていなかったことを理由に過失相殺を認めた事例",
+  "lawsuit_id": "36950",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=36950",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/950/036950_hanrei.pdf",
+  "contents": ""
+}

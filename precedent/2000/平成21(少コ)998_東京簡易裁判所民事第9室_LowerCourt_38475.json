@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 8,
+    "day": 7
+  },
+  "case_number": "平成21(少コ)998",
+  "case_name": "敷金返還請求(本訴，通常手続移行)，解約違約金等請求(反訴)",
+  "court_name": "東京簡易裁判所民事第9室",
+  "result": "その他",
+  "lawsuit_id": "38475",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=38475",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/475/038475_hanrei.pdf",
+  "contents": "1 1 2\n3 2\n¥52,000 1.05\n¥23,000 1.05\n1,300 17.28 1.05\n4 3\n5 3\n0.9 2.3 2 4.14\n¥1,300 4.14\n1.05 ¥5,651\n¥52,000 34.77 ¥1,495\n¥52,000 1.05\n"
+}

@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 6,
+    "day": 26
+  },
+  "case_number": "平成19(わ)78",
+  "case_name": "殺人",
+  "court_name": "新潟地方裁判所刑事部",
+  "gist": "うつ病の診断による入院歴があり，その後も定期的な通院と服薬を行っていた被告人が，自宅で，介護サービス時を除きほとんど一人で介護していた寝たきりの義母である被害者を，介護に疲れて殺害した殺人の事案につき，反復性うつ病性障害（中等症）の影響による心神耗弱の状態であった旨認定した上，執行猶予の判決を宣告した事例。",
+  "lawsuit_id": "35627",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=35627",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/627/035627_hanrei.pdf",
+  "contents": ""
+}

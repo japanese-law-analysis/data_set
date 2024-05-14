@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 10,
+    "day": 11
+  },
+  "case_number": "平成19(う)106",
+  "case_name": "住居侵入、強盗殺人",
+  "court_name": "札幌高等裁判所刑事部",
+  "result": "棄却",
+  "original_court_name": "釧路地方裁判所",
+  "original_case_number": "平成18(わ)110",
+  "original_result": "その他",
+  "gist": "被告人が深夜，かつての同僚であった被害者方に侵入し，被害者を殺害して現金約１１万円を強取したという公訴事実に対し，被害者の同意を得て同人方に立ち入った上，口論となった際，被害者から投げつけるようにして交付された数万円を受領し，なおも激情する同人からマキリで切りつけられたため，これを奪い取ってやむを得ず刺殺してしまった後，強盗被害に遭ったように見せかける偽装工作をしたという被告人側の主張を第１審（無期懲役）同様に認めず，被告人の控訴を棄却した事例",
+  "lawsuit_id": "35368",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=35368",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/368/035368_hanrei.pdf",
+  "contents": ""
+}

@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 1,
+    "day": 26
+  },
+  "case_number": "平成18(ワ)1117",
+  "case_name": "不当利得返還請求事件",
+  "court_name": "京都地方裁判所第３民事部",
+  "gist": "隔地者間で連鎖販売契約(特定商取引に関する法律37条2項)を締結した場合において，連鎖販売業を行う者による承諾の通知が発せられる前に，相手方が連鎖販売の内容を明らかにする書面を受領し，それから20日が経過しても，クーリングオフ(同法40条1項)は制限されない。",
+  "lawsuit_id": "34127",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=34127",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/127/034127_hanrei.pdf",
+  "contents": ""
+}

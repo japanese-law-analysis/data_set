@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 7,
+    "day": 22
+  },
+  "case_number": "平成19(行ウ)19",
+  "case_name": "損害賠償等を求める請求事件",
+  "court_name": "さいたま地方裁判所第４民事部",
+  "gist": "Ｄ村（現在はＩ市）が村の観光施設の整備工事の一環として宗教法人の所有する神社の屋根の葺き替え工事を行い，同工事代金を支出したことが，政教分離原則に反し，また補助金支出の手続を定めた規則等に反して違法であると主張してなされた地方自治法２４２条の２第１項４号に基づく損害賠償等の請求が棄却された事例。",
+  "lawsuit_id": "38043",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=38043",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/043/038043_hanrei.pdf",
+  "contents": ""
+}

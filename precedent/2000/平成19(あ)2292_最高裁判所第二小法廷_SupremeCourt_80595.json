@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 9,
+    "day": 25
+  },
+  "case_number": "平成19(あ)2292",
+  "case_name": "器物損壊，住居侵入，殺人未遂，傷害被告事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集刑　第297号301頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 11,
+    "day": 1
+  },
+  "gist": "被告人と本件犯行とを結びつける共犯者の供述の証拠価値に疑問があり，原判決には，審理を尽くさず，ひいては重大な事実誤認をした疑いが顕著であるとして，原判決を破棄し事件を原審に差し戻した事例",
+  "ref_law": "刑訴法411条1号，刑訴法411条3号",
+  "lawsuit_id": "80595",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=80595",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/595/080595_hanrei.pdf",
+  "contents": ""
+}

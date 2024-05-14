@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 9,
+    "day": 12
+  },
+  "case_number": "平成18(わ)3913",
+  "case_name": "道路交通法違反被告事件",
+  "court_name": "大阪地方裁判所第７刑事部",
+  "gist": "無免許，かつ，高度に酒気を帯びた状態で，赤信号を無視して自動車の運転をした被告人に対し，検察官が懲役８か月及び罰金９０００円の求刑をしたのに対し，懲役刑については求刑を超え，かつ，罰金刑を併せて科することは相当でないとして，懲役１年・執行猶予５年の判決が言い渡された事例",
+  "lawsuit_id": "33573",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=33573",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/573/033573_hanrei.pdf",
+  "contents": ""
+}

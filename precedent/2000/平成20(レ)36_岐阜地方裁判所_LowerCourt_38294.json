@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 9,
+    "day": 16
+  },
+  "case_number": "平成20(レ)36",
+  "case_name": "損害賠償請求控訴事件",
+  "court_name": "岐阜地方裁判所",
+  "result": "棄却",
+  "original_court_name": "多治見簡易裁判所",
+  "original_case_number": "平成19(少コ)9",
+  "original_result": "その他",
+  "gist": "旅行会社の添乗員が点呼を怠り，ツアー旅行中の顧客を観光地に１人で置き去りにしたとして，旅行会社の民法７１５条に基づく責任を認めた事例",
+  "lawsuit_id": "38294",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=38294",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/294/038294_hanrei.pdf",
+  "contents": ""
+}

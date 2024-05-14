@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 17,
+    "month": 6,
+    "day": 24
+  },
+  "case_number": "平成16(行フ)7",
+  "case_name": "訴えの変更許可決定に対する抗告棄却決定に対する許可抗告事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集民　第217号277頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成16(行ス)59",
+  "original_date": {
+    "era": "Heisei",
+    "year": 16,
+    "month": 10,
+    "day": 5
+  },
+  "gist": "指定確認検査機関の確認に係る建築物について確認をする権限を有する建築主事が置かれた地方公共団体と行政事件訴訟法２１条１項所定の「当該処分又は裁決に係る事務の帰属する国又は公共団体」",
+  "case_gist": "指定確認検査機関による建築基準法６条の２第１項の確認に係る建築物について，同法６条１項の確認をする権限を有する建築主事が置かれた地方公共団体は，指定確認検査機関の当該確認につき行政事件訴訟法２１条１項所定の「当該処分又は裁決に係る事務の帰属する国又は公共団体」に当たる。",
+  "ref_law": "行政事件訴訟法21条1項，建築基準法4条，建築基準法6条1項，建築基準法6条の2，建築基準法第4章の2第2節　指定確認検査機関",
+  "lawsuit_id": "62616",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62616",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/616/062616_hanrei.pdf"
+}

@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 2,
+    "day": 7
+  },
+  "case_number": "平成17(ネ)1549",
+  "case_name": "保証債務請求控訴",
+  "court_name": "東京高等裁判所第１民事部",
+  "result": "その他",
+  "original_court_name": "東京地方裁判所",
+  "original_case_number": "平成14(ワ)25525",
+  "original_result": "その他",
+  "gist": "被控訴人らの取引先に対する貸付金債権について，被控訴人らと控訴人に合併される前の信用組合との間でされた連帯保証契約は，当時の信用組合の理事長らの権限濫用によるものであり，被控訴人らは当該権限濫用について，悪意又は知らないことにつき過失があるから，民法９３条ただし書の類推により，前記信用組合を吸収合併した控訴人は連帯保証契約上の責任を負担しないなどとされた事例",
+  "lawsuit_id": "34499",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=34499",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/499/034499_hanrei.pdf",
+  "contents": ""
+}

@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 3,
+    "day": 25
+  },
+  "case_number": "平成19(わ)102",
+  "case_name": "収賄、贈賄",
+  "court_name": "山形地方裁判所刑事部",
+  "gist": "市役所職員である被告人Ａが，情報処理関係の会社の社員である被告人Ｂらより，賄賂としてノートパソコン等を収受したとの公訴事実につき，その賄賂性を否定する被告人らの弁解を排斥した上，上記賄賂性を認める共犯者の供述及び種々の間接事実などから上記パソコン等の賄賂性を認定した事例。",
+  "lawsuit_id": "36324",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=36324",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/324/036324_hanrei.pdf",
+  "contents": ""
+}

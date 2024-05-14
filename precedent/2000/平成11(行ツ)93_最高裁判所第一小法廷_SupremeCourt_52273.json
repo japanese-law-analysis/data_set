@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 14,
+    "month": 7,
+    "day": 11
+  },
+  "case_number": "平成11(行ツ)93",
+  "case_name": "住民訴訟請求事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第56巻6号1204頁",
+  "original_court_name": "福岡高等裁判所\n        　宮崎支部",
+  "original_case_number": "平成4(行コ)2",
+  "original_date": {
+    "era": "Heisei",
+    "year": 10,
+    "month": 12,
+    "day": 1
+  },
+  "gist": "知事が大嘗祭に参列した行為が憲法２０条３項に違反しないとされた事例",
+  "case_gist": "知事が大嘗祭に参列した行為は，大嘗祭が皇位継承の際に通常行われてきた皇室の伝統儀式であること，他の参列者と共に参列して拝礼したにとどまること，参列が公職にある者の社会的儀礼として天皇の即位に祝意を表する目的で行われたことなど判示の事情の下においては，憲法２０条３項に違反しない。",
+  "ref_law": "憲法20条",
+  "lawsuit_id": "52273",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52273",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/273/052273_hanrei.pdf"
+}

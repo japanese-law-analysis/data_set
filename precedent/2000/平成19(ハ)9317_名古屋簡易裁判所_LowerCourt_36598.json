@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 5,
+    "day": 8
+  },
+  "case_number": "平成19(ハ)9317",
+  "case_name": "貸金返還請求本訴事件・損害賠償請求反訴事件",
+  "court_name": "名古屋簡易裁判所",
+  "gist": "貸金業者が貸金契約の債務者から債務整理のカウンセリングを依頼された財団法人Ａ協会（多重債務者に対し，消費者保護の見地から，公正・中立なカウンセリング等を行い，その生活再建と救済を図ること，クレジットの健全な利用についての啓発を行い，多重債務者の発生の未然防止を図ることを目的とする財団法人）との和解交渉を拒んだことが債務者に対する不法行為に当たらないとされた事例",
+  "lawsuit_id": "36598",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=36598",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/598/036598_hanrei.pdf",
+  "contents": ""
+}

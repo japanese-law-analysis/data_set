@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 9,
+    "day": 2
+  },
+  "case_number": "平成18(行ウ)25",
+  "case_name": "岐阜県庁裏金損害賠償履行請求等住民訴訟事件",
+  "court_name": "岐阜地方裁判所",
+  "result": "却下",
+  "gist": "岐阜県で裏金が作られたなどとして提起された住民訴訟につき，住民監査請求自体が特定されておらず，適法な住民監査請求を経ていないとされた事例",
+  "lawsuit_id": "38233",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=38233",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/233/038233_hanrei.pdf",
+  "contents": ""
+}

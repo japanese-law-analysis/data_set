@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 4,
+    "day": 26
+  },
+  "case_number": "平成17(ワ)1309",
+  "case_name": "損害賠償請求",
+  "court_name": "名古屋地方裁判所民事第４部",
+  "result": "棄却",
+  "gist": "右足親指陥入爪の切除を受けた患者が，担当医師において，手術に関する説明義務を怠り，適応のない術式の手術を行った上，手術中に神経を損傷し，かつ，手術後も適切な治療を怠ったため，反射性交感神経性ジストロフィー及び座骨神経痛を患ったと主張して損害賠償の支払を求めたが，同主張がすべて排斥され，請求が棄却された事例",
+  "lawsuit_id": "34794",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=34794",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/794/034794_hanrei.pdf",
+  "contents": "¯\n"
+}

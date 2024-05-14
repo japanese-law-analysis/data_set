@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 13,
+    "month": 11,
+    "day": 5
+  },
+  "case_number": "平成8(あ)267",
+  "case_name": "所得税法違反，業務上横領被告事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第55巻6号546頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成6(う)1301",
+  "original_date": {
+    "era": "Heisei",
+    "year": 8,
+    "month": 2,
+    "day": 26
+  },
+  "gist": "業務上横領罪における不法領得の意思が肯定された事例",
+  "case_gist": "株式会社の取締役経理部長が会社の株式の買占めに対抗するための工作費用として会社の資金を第三者に交付した場合において，会社の不利益を回避する意図を有していたとしても，交付金額が高額であるなど交付行為が会社にとって重大な経済的負担を伴い，違法行為を目的とするものとされるおそれもあったのに，交付の相手方や工作の具体的内容等につき調査をしたり，その結果の報告を求めたりした形跡がうかがわれず，また自己の弱みを隠す意図等をも有していたなどの事情（判文参照）の下においては，交付の意図は専ら会社のためにするところにはなく，業務上横領罪における不法領得の意思があったと認められる。",
+  "ref_law": "刑法（平成7年法律第91号による改正前のもの）253条",
+  "lawsuit_id": "50180",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50180",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/180/050180_hanrei.pdf"
+}

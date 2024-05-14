@@ -1,0 +1,21 @@
+{
+  "trial_type": "HighCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 9,
+    "day": 18
+  },
+  "case_number": "平成19(う)1539",
+  "case_name": "詐欺被告事件",
+  "court_name": "東京高等裁判所第６刑事部",
+  "result": "破棄自判",
+  "article_info": "第60巻3号8頁",
+  "original_court_name": "新潟地方裁判所",
+  "gist": "１　包括一罪を構成する一連の行為の中間に別罪の確定裁判が介在した場合と刑法４５条後段の適用\n２　包括一罪を構成する一連の行為が執行猶予付き懲役刑を言い渡した確定裁判の前後にまたがって行われた場合と刑法２５条の適用",
+  "case_gist": "１　包括一罪を構成する一連の行為の中間に別罪の確定裁判が介在した場合，その包括一罪は確定裁判を経た罪と刑法４５条後段の併合罪の関係に立つものではない。\n２　包括一罪を構成する一連の行為が執行猶予付き懲役刑を言い渡した確定裁判の前後にまたがって行われた場合，刑法２５条１項１号により刑の執行を猶予することはできない。",
+  "lawsuit_id": "35695",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail3?id=35695",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/695/035695_hanrei.pdf",
+  "contents": "A\nA\nB\nB\n"
+}

@@ -1,0 +1,17 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Heisei",
+    "year": 15,
+    "month": 12,
+    "day": 24
+  },
+  "case_number": "平成15(行コ)6",
+  "case_name": "文書開示拒否処分取消請求控訴事件（原審・仙台地方裁判所平成１２年（行ウ）第１０号）",
+  "court_name": "仙台高等裁判所",
+  "field": "行政",
+  "lawsuit_id": "35729",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=35729",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/729/035729_hanrei.pdf",
+  "contents": ""
+}

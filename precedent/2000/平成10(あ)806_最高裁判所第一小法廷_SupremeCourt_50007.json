@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 13,
+    "month": 7,
+    "day": 19
+  },
+  "case_number": "平成10(あ)806",
+  "case_name": "詐欺被告事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "刑集　第55巻5号371頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成9(う)1133",
+  "original_date": {
+    "era": "Heisei",
+    "year": 10,
+    "month": 6,
+    "day": 3
+  },
+  "gist": "請負人が欺罔手段を用いて請負代金を本来の支払時期より前に受領した場合と刑法２４６条１項の詐欺罪の成否",
+  "case_gist": "請負人が受領する権利を有する請負代金を欺罔手段を用いて不当に早く受領したとしてその代金全額について刑法２４６条１項の詐欺罪が成立するには，欺罔手段を用いなかった場合に得られたであろう請負代金の支払とは社会通念上別個の支払に当たるといい得る程度の期間，支払時期を早めたものであることを要する。",
+  "ref_law": "刑法（平成7年法律第91号による改正前のもの）246条1項",
+  "lawsuit_id": "50007",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50007",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/007/050007_hanrei.pdf"
+}

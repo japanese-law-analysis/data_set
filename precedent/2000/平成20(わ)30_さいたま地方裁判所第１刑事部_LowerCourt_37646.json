@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 3,
+    "day": 11
+  },
+  "case_number": "平成20(わ)30",
+  "case_name": "自動車運転過失致死被告事件",
+  "court_name": "さいたま地方裁判所第１刑事部",
+  "original_court_name": "さいたま地方裁判所",
+  "gist": "走行中のマイクロバスのセンタードアが開いて小学生児童が転落し，後続車に轢過されて死亡した事故に関し，同バスの運転者にセンタードアの施錠等義務を怠った過失を認め，禁錮１年６月，執行猶予３年に処した事例",
+  "lawsuit_id": "37646",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=37646",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/646/037646_hanrei.pdf",
+  "contents": ""
+}

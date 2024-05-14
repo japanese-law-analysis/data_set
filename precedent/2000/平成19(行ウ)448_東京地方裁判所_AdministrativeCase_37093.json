@@ -1,0 +1,19 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 5,
+    "day": 23
+  },
+  "case_number": "平成19(行ウ)448",
+  "case_name": "たばこ小売販売業不許可処分取消請求事件",
+  "court_name": "東京地方裁判所",
+  "field": "行政",
+  "gist": "製造たばこの対面販売による店舗営業が停止された後に引き続き設置されているたばこ自動販売機が，たばこ事業法施行規則２０条２号所定の最寄りの小売販売業者の営業所に当たるとされた事例",
+  "case_gist": "製造たばこの対面販売による店舗営業が停止された後に引き続き設置されているたばこ自動販売機につき，たばこ事業法施行規則２０条２号所定の「営業所」とは，製造たばこの小売販売を反復継続して行う施設又は設備をいうものと解するのが相当とした上，前記自動販売機は製造たばこの小売販売を反復継続して行う設備に当たることが明らかであるから，同号所定の最寄りの小売販売業者の営業所に当たるとした事例",
+  "lawsuit_id": "37093",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=37093",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/093/037093_hanrei.pdf",
+  "contents": ""
+}

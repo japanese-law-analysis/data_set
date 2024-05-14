@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 12,
+    "month": 7,
+    "day": 18
+  },
+  "case_number": "平成10(行ツ)43",
+  "case_name": "原爆被爆者医療給付認定申請却下処分取消請求事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第198号529頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "平成5(行コ)17",
+  "original_date": {
+    "era": "Heisei",
+    "year": 9,
+    "month": 11,
+    "day": 7
+  },
+  "gist": "原子爆弾被爆者の医療等に関する法律八条一項に基づく認定の要件であるいわゆる放射線起因性の意義及びその立証の程度",
+  "case_gist": "原子爆弾被爆者の医療等に関する法律八条一項に基づく認定の要件であるいわゆる放射線起因性は、原子爆弾の放射線と被爆者の現に医療を要する負傷又は疾病ないしは治ゆ能力低下との間に通常の因果関係があることを意味し、右認定拒否処分の取消訴訟において、被処分者は、右因果関係について高度の蓋然性を立証することを要する。",
+  "ref_law": "原子爆弾被爆者の医療等に関する法律7条1項・原子爆弾被爆者の医療等に関する法律8条1項",
+  "lawsuit_id": "62417",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62417",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/417/062417_hanrei.pdf"
+}

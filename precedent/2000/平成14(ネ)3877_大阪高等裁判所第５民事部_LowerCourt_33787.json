@@ -1,0 +1,20 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 8,
+    "day": 31
+  },
+  "case_number": "平成14(ネ)3877",
+  "case_name": "保険金請求控訴事件",
+  "court_name": "大阪高等裁判所第５民事部",
+  "result": "棄却",
+  "original_court_name": "神戸地方裁判所\n        　伊丹支部",
+  "original_case_number": "平成13(ワ)120",
+  "gist": "旅行中の台湾のホテルにおいて自室で転倒した際，持っていた箸が右眼に刺さったという事故につき，海外旅行傷害保険契約の約款にいう「急激かつ偶然な外来の事故」であることが認められた事例",
+  "lawsuit_id": "33787",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=33787",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/787/033787_hanrei.pdf",
+  "contents": ""
+}

@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 2,
+    "day": 16
+  },
+  "case_number": "平成17(ワ)1425",
+  "case_name": "損害賠償等請求事件",
+  "court_name": "さいたま地方裁判所第１民事部",
+  "result": "棄却",
+  "gist": "消費者に対し継続的にＬＰガスを供給することによって本件設備等の設置費用を回収し得る権利ないし地位は，法律上保護されるべき利益ということはできず，これを被侵害利益とする不法行為の主張は認められないとした事例",
+  "lawsuit_id": "34401",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=34401",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/401/034401_hanrei.pdf",
+  "contents": "2 5\n"
+}

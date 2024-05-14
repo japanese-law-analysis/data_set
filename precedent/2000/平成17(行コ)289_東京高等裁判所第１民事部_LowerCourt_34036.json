@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 10,
+    "day": 11
+  },
+  "case_number": "平成17(行コ)289",
+  "case_name": "公務外認定処分取消請求控訴事件（通称　地公災基金東京都支部長公務外認定処分取消）",
+  "court_name": "東京高等裁判所第１民事部",
+  "result": "棄却",
+  "original_court_name": "東京地方裁判所",
+  "original_case_number": "平成14(行ウ)331",
+  "original_result": "棄却",
+  "gist": "看護師に発症した全身性エリテマトーデスと同人の公務との間に相当因果関係が認められないとして，当該全身性エリテマトーデスが公務上の疾病に当らないとされた事例",
+  "lawsuit_id": "34036",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=34036",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/036/034036_hanrei.pdf",
+  "contents": ""
+}

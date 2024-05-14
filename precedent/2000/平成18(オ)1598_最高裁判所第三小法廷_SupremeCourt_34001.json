@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 1,
+    "day": 16
+  },
+  "case_number": "平成18(オ)1598",
+  "case_name": "損害賠償等請求事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第223号1頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成17(ネ)5913",
+  "original_date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 7,
+    "day": 18
+  },
+  "gist": "判決の基本となる口頭弁論に関与していない裁判官が判決をした裁判官として署名押印していることを理由に上告裁判所が原判決を破棄する場合における口頭弁論の要否",
+  "case_gist": "上告裁判所は，判決の基本となる口頭弁論に関与していない裁判官が判決をした裁判官として署名押印していることを理由として原判決を破棄する場合には，必ずしも口頭弁論を経ることを要しない。",
+  "ref_law": "民訴法87条，民訴法140条，民訴法297条，民訴法312条2項1号，民訴法313条，民訴法319条",
+  "lawsuit_id": "34001",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=34001",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/001/034001_hanrei.pdf",
+  "contents": ""
+}

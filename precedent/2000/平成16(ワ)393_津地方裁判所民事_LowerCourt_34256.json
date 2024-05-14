@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 10,
+    "day": 3
+  },
+  "case_number": "平成16(ワ)393",
+  "case_name": "損害賠償請求事件",
+  "court_name": "津地方裁判所民事",
+  "result": "棄却",
+  "gist": "飲酒運転車に同乗中事故により死亡した被害者について，会社の後輩である運転者が連日の勤務により疲労状態にあること及び事故直前に共に飲酒していて運転者が飲酒による影響を受けていたことを十分認識しながら事故車に同乗した事実を斟酌し，損害の公平な分担の見地から危険への接近も含む過失を認定し50パーセントの過失相殺を認めた事例",
+  "lawsuit_id": "34256",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=34256",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/256/034256_hanrei.pdf",
+  "contents": "a bc\n1 1\n2 2\n3 3\n4 4 3\n5 5 4\n6 6\n7 7\n8 8\n"
+}

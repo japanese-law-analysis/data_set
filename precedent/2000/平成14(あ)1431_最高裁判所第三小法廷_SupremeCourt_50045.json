@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 17,
+    "month": 10,
+    "day": 7
+  },
+  "case_number": "平成14(あ)1431",
+  "case_name": "業務上横領，商法違反被告事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第59巻8号779頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成11(う)1267",
+  "original_date": {
+    "era": "Heisei",
+    "year": 14,
+    "month": 4,
+    "day": 23
+  },
+  "gist": "商社の代表取締役社長が行った巨額の融資につき特別背任罪における加害目的が認められた事例",
+  "case_gist": "商社の代表取締役社長がその任務に違背して巨額の融資を行った場合において，融資実行の動機は同社の利益よりも自己らの利益を図ることにあり，同社に損害を加えることの認識，認容もあったなど判示の事実関係の下では，特別背任罪における図利目的はもとより加害目的をも認めることができる。",
+  "ref_law": "商法（平成2年法律第64号による改正前のもの）486条1項，刑法247条",
+  "lawsuit_id": "50045",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50045",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/045/050045_hanrei.pdf",
+  "contents": ""
+}

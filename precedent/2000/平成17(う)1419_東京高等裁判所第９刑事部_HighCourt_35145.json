@@ -1,0 +1,21 @@
+{
+  "trial_type": "HighCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 2,
+    "day": 28
+  },
+  "case_number": "平成17(う)1419",
+  "case_name": "殺人被告事件",
+  "court_name": "東京高等裁判所第９刑事部",
+  "result": "破棄自判",
+  "article_info": "第60巻1号3頁",
+  "original_court_name": "横浜地方裁判所",
+  "gist": "重度の昏睡状態に陥った患者から気管内挿管チューブを抜管するなどした医師につき殺人罪が成立するとされた事例",
+  "case_gist": "医師が，重度の昏睡状態に陥った患者から自発呼吸のために不可欠な気管内挿管チューブを抜管するなどして死亡させたときは，治療中止についての当該患者の意思が不明であり，同人の死期が切迫していたとは認められないという判示事実関係の下では，その抜管が患者の家族の要請に基づくものであっても，殺人罪が成立する。",
+  "lawsuit_id": "35145",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail3?id=35145",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/145/035145_hanrei.pdf",
+  "contents": ""
+}

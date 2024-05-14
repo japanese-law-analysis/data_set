@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 10,
+    "day": 30
+  },
+  "case_number": "平成19(ワ)2302",
+  "case_name": "損害賠償請求事件",
+  "court_name": "京都地方裁判所第３民事部",
+  "result": "棄却",
+  "gist": "一級建築士が構造計算書を偽装したいわゆる耐震強度偽装事件において，建築確認をした建築主事に過失があったとして，その所属する自治体に対してされた損害賠償請求につき，建築基準法は，建築物についての建築主の所有権を直接保護の対象としていない以上，建築主事が建築基準関係規定適合性の判断を誤っても，建築主事に故意又は重過失がない限り，原則として違法とは評価できないとした上，当該建築主事に重過失は認められないとして，請求を棄却した事例。",
+  "lawsuit_id": "38331",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=38331",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/331/038331_hanrei.pdf",
+  "contents": ""
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 16,
+    "month": 12,
+    "day": 21
+  },
+  "case_number": "平成16(あ)2031",
+  "case_name": "公職選挙法違反被告事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第58巻9号1086頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "平成16(う)92",
+  "original_date": {
+    "era": "Heisei",
+    "year": 16,
+    "month": 7,
+    "day": 26
+  },
+  "gist": "１　投票を電話により依頼する者及びそのための要員を確保して候補者の支援組織に派遣する者と公職選挙法２２１条１項２号にいう「選挙運動者」\n２　公職選挙法２２１条１項２号にいう「特殊の直接利害関係を利用して誘導をしたとき」に当たるとされた事例",
+  "case_gist": "１　投票を電話により依頼する者及びそのための要員を確保して候補者の支援組織に派遣する者は，いずれも公職選挙法２２１条１項２号にいう「選挙運動者」に当たる。\n２　候補者の支援組織となった労働組合の幹部が，労働者派遣事業等を営む会社の支店の支店長や従業員を選挙運動者として，これらの者に対し，選挙運動の報酬として上記労働組合から上記支店に金員を支払う旨の意思を表示したときは，公職選挙法２２１条１項２号にいう「特殊の直接利害関係を利用して誘導をしたとき」に当たる。",
+  "ref_law": "公職選挙法221条1項2号",
+  "lawsuit_id": "50077",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50077",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/077/050077_hanrei.pdf"
+}

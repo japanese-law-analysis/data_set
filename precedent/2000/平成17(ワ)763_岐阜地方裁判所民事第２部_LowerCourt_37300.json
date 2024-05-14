@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 1,
+    "day": 28
+  },
+  "case_number": "平成17(ワ)763",
+  "case_name": "損害賠償請求事件",
+  "court_name": "岐阜地方裁判所民事第２部",
+  "result": "その他",
+  "gist": "心筋梗塞及び非ウイルス性慢性肝炎患者の主治医である内科・循環器科の開業医には，肝がん発見のために定期的に腫瘍マーカー検査及び超音波検査を実施する義務があり，これを怠り肝がんの発見が遅れて患者が死亡したことについて過失があるとした事例",
+  "lawsuit_id": "37300",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=37300",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/300/037300_hanrei.pdf",
+  "contents": ""
+}

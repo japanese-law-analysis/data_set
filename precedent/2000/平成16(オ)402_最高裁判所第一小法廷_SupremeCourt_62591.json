@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 17,
+    "month": 12,
+    "day": 15
+  },
+  "case_number": "平成16(オ)402",
+  "case_name": "土地所有権移転登記抹消登記手続請求事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第218号1191頁",
+  "original_court_name": "福岡高等裁判所\n        　宮崎支部",
+  "original_case_number": "平成15(ネ)194",
+  "original_date": {
+    "era": "Heisei",
+    "year": 15,
+    "month": 11,
+    "day": 25
+  },
+  "gist": "甲名義の不動産につき乙，Ｙが順次相続したことを原因として直接Ｙに対して所有権移転登記がされている場合において甲の共同相続人であるＸが上記登記の全部抹消を求めることの可否",
+  "case_gist": "甲名義の不動産につき，甲から乙，乙からＹが順次相続したことを原因として直接Ｙに対して所有権移転登記がされている場合に，甲の相続につき共同相続人Ｘが存在するときは，Ｙが上記不動産につき共有持分権を有しているとしても，Ｘは，Ｙに対し，上記不動産の共有持分権に基づき，上記登記の全部抹消を求めることができる。",
+  "ref_law": "民法249条，民法898条，不動産登記法66条，不動産登記法68条",
+  "lawsuit_id": "62591",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62591",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/591/062591_hanrei.pdf"
+}

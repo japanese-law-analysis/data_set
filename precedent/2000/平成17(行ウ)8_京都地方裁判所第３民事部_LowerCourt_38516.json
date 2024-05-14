@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 12,
+    "day": 14
+  },
+  "case_number": "平成17(行ウ)8",
+  "case_name": "生活保護変更決定取消等請求事件",
+  "court_name": "京都地方裁判所第３民事部",
+  "result": "棄却",
+  "gist": "生活保護基準の改定により老齢加算が削減・廃止されたことに伴ってされた生活保護費を減額する内容の生活保護変更決定の取消し及び老齢加算の削減・廃止のないことを前提とする生活保護決定をすることの義務付けを求める請求が，いずれも棄却された事例",
+  "lawsuit_id": "38516",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=38516",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/516/038516_hanrei.pdf",
+  "contents": ""
+}

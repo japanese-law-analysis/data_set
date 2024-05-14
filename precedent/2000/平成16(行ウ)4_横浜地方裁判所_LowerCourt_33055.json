@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 5,
+    "day": 22
+  },
+  "case_number": "平成16(行ウ)4",
+  "case_name": "横浜市立保育園廃止処分取消請求事件",
+  "court_name": "横浜地方裁判所",
+  "result": "その他",
+  "gist": "横浜市がその設置する市立保育所４園を廃止し民営化したことが違法であるとされた事例。",
+  "lawsuit_id": "33055",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=33055",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/055/033055_hanrei.pdf",
+  "contents": ""
+}

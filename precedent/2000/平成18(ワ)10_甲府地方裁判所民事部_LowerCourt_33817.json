@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 10,
+    "day": 27
+  },
+  "case_number": "平成18(ワ)10",
+  "case_name": "交通事故による損害賠償請求事件",
+  "court_name": "甲府地方裁判所民事部",
+  "gist": "信号機の設置されていない横断歩道上の交通事故（歩行者対四輪車）において，歩行者に過失相殺すべき落ち度がないとされた事例",
+  "lawsuit_id": "33817",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=33817",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/817/033817_hanrei.pdf",
+  "contents": "3,490,300 14.375 0.7 35,121,143.75\n3,490,300 14.375 0.3 35,121,143.75\n"
+}

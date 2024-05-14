@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 4,
+    "day": 9
+  },
+  "case_number": "平成15(あ)279",
+  "case_name": "業務上過失傷害，道路交通法違反被告事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第61巻3号321頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和63(う)1007",
+  "original_date": {
+    "era": "Heisei",
+    "year": 15,
+    "month": 1,
+    "day": 15
+  },
+  "gist": "第１審の無罪判決に対し検察官が控訴を申し立て控訴審に係属中に所在不明となった被告人に対する公判期日召喚状等の付郵便送達が有効とされた事例",
+  "case_gist": "第１審の無罪判決に対し検察官が控訴を申し立て，控訴申立通知書の送達を受けた被告人が，控訴審裁判所に刑訴規則６２条１項の住居等を届け出ず，当時居住していた場所あてに送達された書類を異議なく受領し，その後所在不明となるなどの判示の事実関係の下においては，控訴審裁判所が上記場所にあてて行った被告人に対する公判期日召喚状等の書留郵便に付する送達は，有効である。",
+  "ref_law": "刑訴法54条，刑訴規則62条1項，刑訴規則（平成15年最高裁判所規則第7号による改正前のもの）63条1項",
+  "lawsuit_id": "34503",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=34503",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/503/034503_hanrei.pdf",
+  "contents": ""
+}

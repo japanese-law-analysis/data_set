@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 10,
+    "day": 27
+  },
+  "case_number": "平成18(許)21",
+  "case_name": "競売申立て却下決定に対する執行抗告棄却決定に対する許可抗告事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "破棄自判",
+  "article_info": "民集　第60巻8号3234頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成18(ラ)174",
+  "original_date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 4,
+    "day": 5
+  },
+  "gist": "登録自動車を目的とする民法上の留置権による競売において民事執行法１８１条１項１号所定の「担保権の存在を証する確定判決」に該当するための要件",
+  "case_gist": "登録自動車を目的とする民法上の留置権による競売においては，その被担保債権が当該自動車に関して生じたことが主要事実として認定されている確定判決であれば，債権者による当該自動車の占有の事実が認定されていなくとも，民事執行法１８１条１項１号所定の「担保権の存在を証する確定判決」に当たる。",
+  "ref_law": "民事執行法181条1項1号，民事執行法195条，民事執行規則176条2項，民法295条1項",
+  "lawsuit_id": "33737",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=33737",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/737/033737_hanrei.pdf",
+  "contents": ""
+}

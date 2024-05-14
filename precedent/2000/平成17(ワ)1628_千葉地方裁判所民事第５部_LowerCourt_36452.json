@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 3,
+    "day": 27
+  },
+  "case_number": "平成17(ワ)1628",
+  "case_name": "保険金請求事件",
+  "court_name": "千葉地方裁判所民事第５部",
+  "gist": "１　火災保険の目的物である建物に生じた火災が，被保険者の故意により生じたとは認められないとして，保険金支払についての免責が否定された事例　２  火災保険金受領以前に未払込分割保険料の全額を一時に払込まなければならない旨を定めた特約条項が，未払込分割保険料支払債務の期限利益喪失を定めた規定であり，同債務について，保険金支払債務に対する先履行義務があること，又はこれと同時履行の関係にあることを定めたものではないとされた事例",
+  "lawsuit_id": "36452",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=36452",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/452/036452_hanrei.pdf",
+  "contents": ""
+}

@@ -1,0 +1,20 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 1,
+    "day": 18
+  },
+  "case_number": "平成18(ネ)1417",
+  "case_name": "損害賠償請求控訴事件",
+  "court_name": "大阪高等裁判所第６民事部",
+  "result": "その他",
+  "original_court_name": "大阪地方裁判所",
+  "original_case_number": "平成16(ワ)11937",
+  "gist": "同族会社の専務取締役であった男性が出張先で死亡した事案について，同人の業務の実態から同社が同人に対して雇用上の安全配慮義務を負うとして同人の死亡についての損害賠償責任を認めた事例",
+  "lawsuit_id": "34599",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=34599",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/599/034599_hanrei.pdf",
+  "contents": ""
+}

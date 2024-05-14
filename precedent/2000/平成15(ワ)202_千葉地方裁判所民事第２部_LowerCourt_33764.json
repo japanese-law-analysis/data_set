@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 9,
+    "day": 11
+  },
+  "case_number": "平成15(ワ)202",
+  "case_name": "損害賠償請求事件",
+  "court_name": "千葉地方裁判所民事第２部",
+  "gist": "ぜん息の治療薬を服用した直後におう吐等の症状を訴えて被告の開設する病院を受診し，血液吸着療法，輸血等の治療を受けた患者が，受診から約１７時間後に出血性ショックにより死亡したことについて，被告が患者の中心静脈ラインを確保するため右鼠径部にカテーテルを挿入した際に血管を損傷した過失があり，その損傷による出血が出血性ショックの原因であるとして，被告の損害賠償義務が認められた事例",
+  "lawsuit_id": "33764",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=33764",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/764/033764_hanrei.pdf",
+  "contents": ""
+}

@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 3,
+    "day": 30
+  },
+  "case_number": "平成18(行ク)22",
+  "case_name": "文書提出命令申立",
+  "court_name": "名古屋地方裁判所民事第９部",
+  "result": "却下",
+  "gist": "滞納処分（電話加入権等の差押え）の取消訴訟において法人県民税の分納等に関する稟議書等についてされた文書提出命令の申立てをインカメラ手続を経た上で却下した事例",
+  "lawsuit_id": "34814",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=34814",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/814/034814_hanrei.pdf",
+  "contents": ""
+}

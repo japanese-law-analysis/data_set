@@ -1,0 +1,20 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 2,
+    "day": 26
+  },
+  "case_number": "平成17(う)398",
+  "case_name": "住居侵入，強盗殺人（認定罪名強盗致死），強盗殺人未遂（認定罪名強盗致傷），銃砲刀剣類所持等取締法違反，強盗殺人",
+  "court_name": "福岡高等裁判所第３刑事部",
+  "result": "破棄自判",
+  "original_court_name": "大分地方裁判所",
+  "original_case_number": "平成14(わ)59",
+  "gist": "第一審が外国人３人を被告人とする強盗殺人等被告事件について，殺意の共謀を認定せず，強盗致死傷罪等が成立するとして，被告人Aを無期懲役，被告人Bを有期懲役，被告人C（犯行時未成年）を別の強盗殺人罪と併せて無期懲役に処したが，Aについては，同種事案の量刑，相被告人との犯情の軽重及び被害弁償の事実等を考慮すると重すぎるとして酌量減軽の上，有期懲役とし，他の被告人については，控訴を棄却した事例",
+  "lawsuit_id": "34471",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=34471",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/471/034471_hanrei.pdf",
+  "contents": ""
+}

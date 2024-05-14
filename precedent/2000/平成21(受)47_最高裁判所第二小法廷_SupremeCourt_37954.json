@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 9,
+    "day": 4
+  },
+  "case_number": "平成21(受)47",
+  "case_name": "不当利得返還請求事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第63巻7号1445頁",
+  "original_court_name": "広島高等裁判所",
+  "original_case_number": "平成20(ネ)22",
+  "original_date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 10,
+    "day": 8
+  },
+  "gist": "貸金業者が借主に貸金の支払を請求し借主から弁済を受ける行為が不法行為を構成する場合",
+  "case_gist": "貸金業者が借主に対し貸金の支払を請求し借主から弁済を受ける行為が不法行為を構成するのは，貸金業者が当該貸金債権が事実的，法律的根拠を欠くものであることを知りながら，又は通常の貸金業者であれば容易にそのことを知り得たのに，あえてその請求をしたなど，その行為の態様が社会通念に照らして著しく相当性を欠く場合に限られ，この理は，当該貸金業者が過払金の受領につき民法７０４条所定の悪意の受益者であると推定されるときであっても異ならない。",
+  "ref_law": "民法704条，民法709条",
+  "lawsuit_id": "37954",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=37954",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/954/037954_hanrei.pdf",
+  "contents": ""
+}

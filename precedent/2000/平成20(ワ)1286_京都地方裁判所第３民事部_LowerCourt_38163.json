@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 9,
+    "day": 25
+  },
+  "case_number": "平成20(ワ)1286",
+  "case_name": "更新料支払い請求事件",
+  "court_name": "京都地方裁判所第３民事部",
+  "result": "棄却",
+  "gist": "原告が，被告に対し，賃貸借契約の更新に際して更新料１０万６０００円の支払を求めたところ，被告が，更新料条項は消費者契約法１０条に反して無効であると主張した。本判決は，更新料を賃料の補充とみることは困難であって，更新拒絶権放棄の対価や賃借権強化の対価ということもできないとした上で，更新料の額や原告と被告との間の情報量の格差等の事情を考慮して，更新料条項が消費者契約法１０条に反して無効であるとした事案である。",
+  "lawsuit_id": "38163",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=38163",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/163/038163_hanrei.pdf",
+  "contents": ""
+}

@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 11,
+    "day": 17
+  },
+  "case_number": "平成20(ワ)483",
+  "case_name": "損害賠償請求事件",
+  "court_name": "千葉地方裁判所民事第２部",
+  "gist": "精神薄弱者更生施設の入所者が，後遺症を残す傷害を負ったことにつき，同施設を運営する社会福祉法人に対し，同法人の職員の不法行為を理由とする使用者責任に基づく損害賠償を求める前訴を提起して請求棄却の判決を受け，これが確定した後に，同法人に対して提起した準委任契約による安全配慮義務違反を理由とする損害賠償を求める訴えが，実質的に前訴の蒸し返しであるなどして信義則上許されないとされた事例",
+  "lawsuit_id": "37183",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=37183",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/183/037183_hanrei.pdf",
+  "contents": ""
+}

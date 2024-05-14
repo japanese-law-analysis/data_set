@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 3,
+    "day": 15
+  },
+  "case_number": "平成17(ワ)16",
+  "case_name": "損害賠償請求事件",
+  "court_name": "青森地方裁判所弘前支部",
+  "gist": "原告の設置する灰溶融施設の運転維持管理業務を受託した被告が，同施設の灰溶融炉設備について，手順書に従わないで不適正な運転操作を行ったことにより，炉内で水蒸気爆発が発生して同設備が破損するなどしたと認定して，被告に債務不履行責任を負わせた上，同設備は不適正な運転操作や水蒸気爆発の発生を防止するための対策が十分に講じられておらず，通常有すべき安全性を欠いていたもので，原告には委託契約に基づく付随義務ないし安全配慮義務に違反した過失があると認定して，２割の過失相殺をした事例",
+  "lawsuit_id": "34519",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=34519",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/519/034519_hanrei.pdf",
+  "contents": ""
+}

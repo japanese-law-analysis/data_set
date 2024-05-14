@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 4,
+    "day": 15
+  },
+  "case_number": "平成15(ワ)10018",
+  "case_name": "損害賠償請求事件",
+  "court_name": "大阪地方裁判所第20民事部",
+  "gist": "証券取引所の副理事長であった者が，同取引所の開設する証券取引市場における取引高をかさ上げするために，取引需要に基づかない取引を自ら指示して設立させた会社に実行させ，また，同取引に係る注文を受発注する証券会社の設立を主導し，そのために必要な資金を自らが代表取締役に就任している同取引所の１００％子会社から出捐させたことは，同取引所に対する善管注意義務違反となるとされた事例",
+  "lawsuit_id": "36330",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=36330",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/330/036330_hanrei.pdf",
+  "contents": ""
+}

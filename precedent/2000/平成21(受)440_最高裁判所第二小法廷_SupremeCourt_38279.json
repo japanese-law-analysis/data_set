@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 12,
+    "day": 18
+  },
+  "case_number": "平成21(受)440",
+  "case_name": "損害賠償請求本訴，同反訴事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第232号825頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成20(ネ)2511",
+  "original_date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 11,
+    "day": 11
+  },
+  "gist": "いわゆる管理監督者に該当する労働者が深夜割増賃金を請求することの可否",
+  "case_gist": "労働基準法４１条２号所定のいわゆる管理監督者に該当する労働者は，同法３７条３項に基づく深夜割増賃金を請求することができる。",
+  "ref_law": "労働基準法37条1項，労働基準法37条3項，労働基準法41条",
+  "lawsuit_id": "38279",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=38279",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/279/038279_hanrei.pdf",
+  "contents": ""
+}

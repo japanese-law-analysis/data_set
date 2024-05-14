@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 12,
+    "month": 9,
+    "day": 25
+  },
+  "case_number": "平成10(あ)148",
+  "case_name": "私的独占の禁止及び公正取引の確保に関する法律違反被告事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第54巻7号689頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成9(の)1",
+  "original_date": {
+    "era": "Heisei",
+    "year": 9,
+    "month": 12,
+    "day": 24
+  },
+  "gist": "指名競争入札等に関する合意が私的独占の禁止及び公正取引の確保に関する法律二条六項にいう「公共の利益に反して」された不当な取引制限に当たるとされた事例",
+  "case_gist": "指名競争入札等に参加する者らが、従前の受注割合と利益を維持することを主要な目的とし、幹事会社が入札ごとに決定して連絡する受注予定会社、受注予定価格のとおり受注できるように入札等を行うこととした合意は、私的独占の禁止及び公正取引の確保に関する法律の目的に実質的に反しないと認められる例外的なものには当たらず、同法二条六項にいう「公共の利益に反して」の要件に当たる。",
+  "ref_law": "私的独占の禁止及び公正取引の確保に関する法律2条6項，私的独占の禁止及び公正取引の確保に関する法律3条，私的独占の禁止及び公正取引の確保に関する法律89条1項1号",
+  "lawsuit_id": "51215",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51215",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/215/051215_hanrei.pdf"
+}

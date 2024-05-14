@@ -1,0 +1,21 @@
+{
+  "trial_type": "HighCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 17,
+    "month": 11,
+    "day": 17
+  },
+  "case_number": "平成17(う)1100",
+  "case_name": "出資の受入れ，預り金及び金利等の取締りに関する法律違反，組織的な犯罪の処罰及び犯罪収益の規制等に関する法律違反，貸金業の規制等に関する法律違反被告事件",
+  "court_name": "東京高等裁判所第４刑事部",
+  "result": "破棄自判",
+  "article_info": "第58巻4号1頁",
+  "original_court_name": "東京地方裁判所",
+  "gist": "組織的な犯罪の処罰及び犯罪収益の規制等に関する法律１３条２項，１６条１項ただし書にいう「犯罪被害財産」の意義",
+  "case_gist": "組織的な犯罪の処罰及び犯罪収益の規制等に関する法律１３条２項，１６条１項ただし書にいう没収・追徴が禁止される「犯罪被害財産」とは，「刑事手続上，訴因として当該財産に係る犯罪行為及び被害者が特定されているもの」をいう。",
+  "lawsuit_id": "34715",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail3?id=34715",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/715/034715_hanrei.pdf",
+  "contents": ""
+}

@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 17,
+    "month": 11,
+    "day": 29
+  },
+  "case_number": "平成16(あ)807",
+  "case_name": "銃砲刀剣類所持等取締法違反被告事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第288号543頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 16,
+    "month": 2,
+    "day": 24
+  },
+  "gist": "暴力団組長を警護するための配下組員らによるけん銃等の所持につき同組長に共謀共同正犯の成立を認めた控訴審の判断が是認された事例",
+  "ref_law": "刑訴法411条，刑法60条",
+  "lawsuit_id": "57859",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57859",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/859/057859_hanrei.pdf"
+}

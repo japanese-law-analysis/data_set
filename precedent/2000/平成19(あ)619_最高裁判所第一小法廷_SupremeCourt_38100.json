@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 10,
+    "day": 21
+  },
+  "case_number": "平成19(あ)619",
+  "case_name": "児童福祉法違反，児童買春，児童ポルノに係る行為等の処罰及び児童の保護等に関する法律違反被告事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第63巻8号1070頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_case_number": "平成18(う)339",
+  "original_date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 3,
+    "day": 8
+  },
+  "gist": "児童福祉法３４条１項６号違反の児童に淫行をさせる罪と児童買春・児童ポルノ等処罰法７条３項の児童ポルノ製造罪とが併合罪の関係にあるとされた事例",
+  "case_gist": "被害児童に性交又は性交類似行為をさせて撮影することをもって児童ポルノを製造した場合においては，児童福祉法３４条１項６号違反の児童に淫行をさせる罪と児童買春・児童ポルノ等処罰法７条３項の児童ポルノ製造罪は，観念的競合の関係にはなく，併合罪の関係にある。",
+  "ref_law": "児童福祉法34条1項6号，児童買春，児童ポルノに係る行為等の処罰及び児童の保護等に関する法律7条3項，刑法54条1項前段，刑法45条前段，少年法（平成20年法律第71号による改正前のもの）37条",
+  "lawsuit_id": "38100",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=38100",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/100/038100_hanrei.pdf",
+  "contents": ""
+}

@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 2,
+    "day": 20
+  },
+  "case_number": "平成19(行コ)2",
+  "case_name": "損害賠償請求（差戻）控訴事件",
+  "court_name": "名古屋高等裁判所金沢支部         　第１部",
+  "result": "その他",
+  "original_court_name": "福井地方裁判所",
+  "original_case_number": "平成16(行ウ)12",
+  "original_result": "その他",
+  "gist": "公務出張の事実がないのにされた県の旅費支出について，当時県知事の職にあった者に対する地方自治法（平成１４年法律第４号による改正前のもの）２４２条の２第１項４号に基づく損害賠償請求が棄却された事例",
+  "lawsuit_id": "35892",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=35892",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/892/035892_hanrei.pdf",
+  "contents": ""
+}

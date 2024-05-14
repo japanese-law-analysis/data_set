@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 6,
+    "day": 6
+  },
+  "case_number": "平成17(ワ)2531",
+  "case_name": "不当利得返還請求事件",
+  "court_name": "さいたま地方裁判所第１民事部",
+  "gist": "被告（銀行）の貸付について借受人の借入金債務を保証し，その保証債務を履行した原告（信用保証協会）が，被告に対し，保証契約に要素の錯誤があると主張して代位弁済金につき不当利得返還請求をした事案において，原告は，借受人に企業としての実体がないのに企業実体を有すると信じていたということができるから，上記保証契約はその重要な部分に要素の錯誤があり，かつ，原告に重大な過失があったということはできないとして，原告の被告に対する請求を認容した事例。",
+  "lawsuit_id": "35045",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=35045",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/045/035045_hanrei.pdf",
+  "contents": "a\nb\na\nb\na\nb\na\nb\n"
+}

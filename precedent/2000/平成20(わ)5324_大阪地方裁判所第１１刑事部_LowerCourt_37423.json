@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 3,
+    "day": 3
+  },
+  "case_number": "平成20(わ)5324",
+  "case_name": "麻薬及び向精神薬取締法違反被告事件",
+  "court_name": "大阪地方裁判所第１１刑事部",
+  "gist": "被告人が麻薬指定される前に購入していたメチロンの一部を施用してその残量を所持していたという事案について，検察官が論告で指摘する諸点（判文参照）を考慮しても，当該薬物がメチロンであるとの認識はあったが，麻薬等の違法な薬物との認識はなかった旨の被告人の弁解を排斥できないとして，無罪が言い渡された事例",
+  "lawsuit_id": "37423",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=37423",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/423/037423_hanrei.pdf",
+  "contents": ""
+}

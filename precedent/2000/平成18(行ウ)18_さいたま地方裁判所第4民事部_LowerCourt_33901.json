@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 10,
+    "day": 25
+  },
+  "case_number": "平成18(行ウ)18",
+  "case_name": "公文書開示請求事件",
+  "court_name": "さいたま地方裁判所第4民事部",
+  "gist": "情報公開条例の目的に照らし，個人識別情報の開示については，識別される本人の同意があってもこれを開示することはできないとして，原告の開示請求のうち個人識別情報部分を非公開した処分は適法であるとした事例",
+  "lawsuit_id": "33901",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=33901",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/901/033901_hanrei.pdf",
+  "contents": ""
+}

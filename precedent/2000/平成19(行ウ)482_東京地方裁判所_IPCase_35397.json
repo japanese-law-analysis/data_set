@@ -1,0 +1,18 @@
+{
+  "trial_type": "IPCase",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 11,
+    "day": 9
+  },
+  "case_number": "平成19(行ウ)482",
+  "case_name": "処分取消請求事件",
+  "court_name": "東京地方裁判所",
+  "right_type": "特許権",
+  "lawsuit_type": "行政訴訟",
+  "lawsuit_id": "35397",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail7?id=35397",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/397/035397_hanrei.pdf",
+  "contents": ""
+}

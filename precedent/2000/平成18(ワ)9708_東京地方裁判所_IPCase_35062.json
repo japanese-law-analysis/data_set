@@ -1,0 +1,18 @@
+{
+  "trial_type": "IPCase",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 8,
+    "day": 24
+  },
+  "case_number": "平成18(ワ)9708",
+  "case_name": "特許権侵害行為差止請求事件",
+  "court_name": "東京地方裁判所",
+  "right_type": "特許権",
+  "lawsuit_type": "民事訴訟",
+  "lawsuit_id": "35062",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail7?id=35062",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/062/035062_hanrei.pdf",
+  "contents": ""
+}

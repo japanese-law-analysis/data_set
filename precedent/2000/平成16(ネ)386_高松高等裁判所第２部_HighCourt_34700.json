@@ -1,0 +1,22 @@
+{
+  "trial_type": "HighCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 17,
+    "month": 6,
+    "day": 16
+  },
+  "case_number": "平成16(ネ)386",
+  "case_name": "損害賠償請求事件",
+  "court_name": "高松高等裁判所第２部",
+  "result": "その他",
+  "article_info": "第58巻2号1頁",
+  "original_court_name": "徳島地方裁判所",
+  "original_case_number": "平成15(ワ)269",
+  "gist": "手形権利者を差押債権者とする異議申立預託金返還請求権の差押えがされた場合に銀行が徳島手形交換所規則等に基づき異議申立提供金の返還を求めるために必要な手続につき詳細に判示した事例",
+  "case_gist": "銀行が手形権利者を差押債権者とする異議申立預託金返還請求権の差押命令正本の送達を受けた場合，銀行は，徳島手形交換所規則等に基づき，手形権利者から差押命令送達届提出依頼書の提出を受けた上，更に手形の原本及び差押命令正本の送達通知書の提示を受けて，同命令正本及び手形訴訟の判決正本により，請求債権が異議申立てに係る不渡り手形債権であることを確認した後でなければ，差押命令送達届を同手形交換所に提出して異議申立提供金の返還を求めることができない。",
+  "lawsuit_id": "34700",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail3?id=34700",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/700/034700_hanrei.pdf",
+  "contents": "1 5\n"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 13,
+    "month": 2,
+    "day": 22
+  },
+  "case_number": "平成12(行フ)3",
+  "case_name": "補助参加申出の却下決定に対する抗告棄却決定に対する許可抗告事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "破棄差戻",
+  "article_info": "集民　第201号201頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成12(行ス)10",
+  "original_date": {
+    "era": "Heisei",
+    "year": 12,
+    "month": 4,
+    "day": 13
+  },
+  "gist": "労働者災害補償保険法に基づく保険給付の不支給決定取消訴訟において事業主が労働基準監督署長を補助するため訴訟に参加することが許される場合",
+  "case_gist": "労働者災害補償保険法に基づく保険給付の不支給決定取消訴訟において，事業主は，その事業が労働保険の保険料の徴収等に関する法律１２条３項各号所定の一定規模以上の事業である場合には，労働基準監督署長を補助するため訴訟に参加することが許される。",
+  "ref_law": "行政事件訴訟法7条，民訴法42条，労働保険の保険料の徴収等に関する法律12条3項",
+  "lawsuit_id": "62487",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62487",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/487/062487_hanrei.pdf"
+}

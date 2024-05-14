@@ -1,0 +1,18 @@
+{
+  "trial_type": "IPCase",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 3,
+    "day": 12
+  },
+  "case_number": "平成19(行ウ)717",
+  "case_name": "再審査請求事件",
+  "court_name": "東京地方裁判所",
+  "right_type": "特許権",
+  "lawsuit_type": "行政訴訟",
+  "lawsuit_id": "36088",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail7?id=36088",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/088/036088_hanrei.pdf",
+  "contents": ""
+}

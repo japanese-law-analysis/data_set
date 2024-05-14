@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 2,
+    "day": 10
+  },
+  "case_number": "平成20(少コ)1346",
+  "case_name": "損害賠償請求事件(通常手続移行)",
+  "court_name": "東京簡易裁判所民事第9室",
+  "result": "棄却",
+  "lawsuit_id": "37696",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=37696",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/696/037696_hanrei.pdf",
+  "contents": "a\n34.10 114.15 121.62\n179.92 179.92 161.70\n"
+}

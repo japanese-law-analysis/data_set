@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 10,
+    "day": 27
+  },
+  "case_number": "平成18(ワ)406",
+  "case_name": "交通事故による損害賠償請求事件",
+  "court_name": "甲府地方裁判所民事部",
+  "gist": "一定の期間内に支出した治療費のみを請求する旨明示した前訴において敗訴した原告が，その後の後遺症の治療費を請求する後訴を提起することが，実質的に紛争の蒸し返しであり，信義則に照らして許されないとして，その訴えが却下された事例",
+  "lawsuit_id": "33815",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=33815",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/815/033815_hanrei.pdf",
+  "contents": ""
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 13,
+    "month": 4,
+    "day": 20
+  },
+  "case_number": "平成10(オ)897",
+  "case_name": "保険金請求事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第55巻3号682頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成9(ネ)2740",
+  "original_date": {
+    "era": "Heisei",
+    "year": 10,
+    "month": 1,
+    "day": 26
+  },
+  "gist": "生命保険契約に付加された災害割増特約についての約款に基づき災害死亡保険金の支払を請求する場合における偶発的な事故についての主張立証責任",
+  "case_gist": "生命保険契約に付加された災害割増特約における災害死亡保険金の支払事由を不慮の事故による死亡とする約款に基づき，保険者に対して災害死亡保険金の支払を請求する者は，発生した事故が偶発的な事故であることについて主張，立証すべき責任を負う。\n（補足意見がある。）",
+  "ref_law": "商法第3編第10章保険，民法91条，民訴法第2編第3章第1節総則",
+  "lawsuit_id": "52229",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52229",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/229/052229_hanrei.pdf"
+}

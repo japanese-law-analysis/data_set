@@ -1,0 +1,21 @@
+{
+  "trial_type": "HighCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 17,
+    "month": 9,
+    "day": 7
+  },
+  "case_number": "平成17(う)703",
+  "case_name": "証券取引法違反被告事件",
+  "court_name": "東京高等裁判所第９刑事部",
+  "result": "棄却",
+  "article_info": "第58巻3号42頁",
+  "original_court_name": "東京地方裁判所",
+  "gist": "証券取引法違反（相場操縦）の事案において同法１９８条の２第２項により被告人から没収不能財産の価額全部を追徴することができるとされた事例",
+  "case_gist": "証券取引法違反（相場操縦）の事案において，例外的に追徴の共犯者の一部への限定や共犯者間での追徴額の均分化等の措置を採る前提条件を満たしていないなどの本件事情（判文参照）の下では，同法１９８条の２第２項により被告人から没収不能財産の価額全部を追徴することができる。",
+  "lawsuit_id": "34707",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail3?id=34707",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/707/034707_hanrei.pdf",
+  "contents": ""
+}

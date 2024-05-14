@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 7,
+    "day": 20
+  },
+  "case_number": "平成19(行コ)3",
+  "case_name": "固定資産税・都市計画税の減免申請不許可処分取消（原審・旭川地方裁判所平成１６年（行ウ）第２号）",
+  "court_name": "札幌高等裁判所第２民事部",
+  "result": "棄却",
+  "original_court_name": "旭川地方裁判所",
+  "original_case_number": "平成16(行ウ)2",
+  "original_result": "棄却",
+  "gist": "控訴人が登記簿上の所有名義を有する不動産（旭川朝鮮会館管理会が管理する会館及びその敷地）についてした平成１６年度ないし平成１８年度の固定資産税等の各減免申請を，旭川市長（第１事件被控訴人，第２・第３事件処分行政庁）がそれぞれ不許可とした処分について，いずれも裁量権の逸脱又は濫用はないとした原審判決が維持された事例",
+  "lawsuit_id": "35020",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=35020",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/020/035020_hanrei.pdf",
+  "contents": "1 12\n6 6\n7 1\n12 3\n"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 15,
+    "month": 12,
+    "day": 22
+  },
+  "case_number": "平成15(行ヒ)16",
+  "case_name": "労働委員会救済命令取消請求事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第212号483頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成12(行コ)161",
+  "original_date": {
+    "era": "Heisei",
+    "year": 14,
+    "month": 10,
+    "day": 24
+  },
+  "gist": "労働組合の組合員に対する雇入れの拒否と労働組合法７条１号本文にいう不利益な取扱い及び同条３号の支配介入",
+  "case_gist": "労働組合の組合員に対する雇入れの拒否は，それが従前の雇用契約関係における不利益な取扱いにほかならないとして不当労働行為の成立を肯定することができる場合に当たるなどの特段の事情がない限り，労働組合法７条１号本文にいう不利益な取扱いにも，同条３号の支配介入にも当たらない。\n（反対意見がある。）",
+  "ref_law": "労働組合法7条1号，労働組合法7条3号",
+  "lawsuit_id": "76101",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=76101",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/101/076101_hanrei.pdf"
+}

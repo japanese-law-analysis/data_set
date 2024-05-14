@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 12,
+    "day": 16
+  },
+  "case_number": "平成21(ワ)126",
+  "case_name": "損害賠償請求事件",
+  "court_name": "岐阜地方裁判所",
+  "result": "棄却",
+  "gist": "１　公文書を偽造した旨保全異議申立書に記載し，本案の口頭弁論で陳述したことにつき正当な訴訟活動の範囲内の行為であるとして不法行為の成立を否定した事例\n２　告発につき，犯罪の嫌疑をかけるに足りる相当な根拠を確認した上で行ったとして不法行為の成立を否定した事例",
+  "lawsuit_id": "38412",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=38412",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/412/038412_hanrei.pdf",
+  "contents": ""
+}

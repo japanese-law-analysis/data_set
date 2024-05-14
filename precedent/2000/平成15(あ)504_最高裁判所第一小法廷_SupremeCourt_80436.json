@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 9,
+    "day": 7
+  },
+  "case_number": "平成15(あ)504",
+  "case_name": "強盗殺人，死体遺棄，強盗予備被告事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第290号161頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 15,
+    "month": 1,
+    "day": 20
+  },
+  "gist": "死刑の量刑が維持された事例（堺の夫婦強盗殺人等事件）",
+  "lawsuit_id": "80436",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=80436",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/436/080436_hanrei.pdf",
+  "contents": ""
+}

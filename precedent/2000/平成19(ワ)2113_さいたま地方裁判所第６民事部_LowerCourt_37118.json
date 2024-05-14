@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 9,
+    "day": 24
+  },
+  "case_number": "平成19(ワ)2113",
+  "case_name": "共有持分確認等請求事件",
+  "court_name": "さいたま地方裁判所第６民事部",
+  "gist": "被告は相続欠格者であって，原告が唯一の相続人として被相続人の共有持分を相続したと主張する原告の共有持分確認請求訴訟において，被告は，日付の記載のない遺言書に，被相続人の意思に基づかずに日付を記載し，未だ有効に作成されたものとはいえない遺言書を外形を整えて完成させたのであり，民法８９１条５号にいう変造をした者に当たるとして，原告の請求を認容した事例",
+  "lawsuit_id": "37118",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=37118",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/118/037118_hanrei.pdf",
+  "contents": "a\na\n"
+}

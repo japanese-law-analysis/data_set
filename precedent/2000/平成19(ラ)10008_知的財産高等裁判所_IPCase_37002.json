@@ -1,0 +1,18 @@
+{
+  "trial_type": "IPCase",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 9,
+    "day": 29
+  },
+  "case_number": "平成19(ラ)10008",
+  "case_name": "特許権侵害差止等仮処分決定取消決定に対する保全抗告事件",
+  "court_name": "知的財産高等裁判所",
+  "right_type": "特許権",
+  "lawsuit_type": "民事仮処分",
+  "lawsuit_id": "37002",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail7?id=37002",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/002/037002_hanrei.pdf",
+  "contents": ""
+}

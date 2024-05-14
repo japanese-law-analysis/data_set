@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 9,
+    "day": 11
+  },
+  "case_number": "平成18(許)13",
+  "case_name": "債権差押命令及び転付命令に対する執行抗告却下決定に対する執行抗告棄却決定に対する許可抗告事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "民集　第60巻7号2622頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成18(ラ)122",
+  "original_date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 2,
+    "day": 14
+  },
+  "gist": "強制執行を受けた債務者がその請求債権につき強制執行を行う権利の放棄又は不執行の合意があったことを主張して裁判所に強制執行の排除を求める場合に執るべき手続",
+  "case_gist": "強制執行を受けた債務者が，その請求債権につき強制執行を行う権利の放棄又は不執行の合意があったことを主張して裁判所に強制執行の排除を求める場合には，執行抗告又は執行異議の方法によることはできず，請求異議の訴えによるべきである。",
+  "ref_law": "民事執行法10条，民事執行法11条，民事執行法35条",
+  "lawsuit_id": "33513",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=33513",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/513/033513_hanrei.pdf",
+  "contents": ""
+}

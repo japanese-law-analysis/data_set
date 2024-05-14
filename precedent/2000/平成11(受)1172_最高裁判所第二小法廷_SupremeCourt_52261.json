@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 15,
+    "month": 2,
+    "day": 21
+  },
+  "case_number": "平成11(受)1172",
+  "case_name": "預金返還，仮執行の原状回復及び損害賠償請求事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第57巻2号95頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_case_number": "平成10(ネ)465",
+  "original_date": {
+    "era": "Heisei",
+    "year": 11,
+    "month": 7,
+    "day": 15
+  },
+  "gist": "損害保険代理店が保険契約者から収受した保険料のみを入金する目的で開設した普通預金口座の預金債権が損害保険会社にではなく損害保険代理店に帰属するとされた事例",
+  "case_gist": "損害保険会社甲の損害保険代理店である乙が，保険契約者から収受した保険料のみを入金する目的で金融機関に「甲代理店乙」名義の普通預金口座を開設したが，甲が乙に金融機関との間での普通預金契約締結の代理権を授与しておらず，同預金口座の通帳及び届出印を乙が保管し，乙のみが同預金口座への入金及び同預金口座からの払戻し事務を行っていたという判示の事実関係の下においては，同預金口座の預金債権は，甲にではなく，乙に帰属する。\n（反対意見がある。）",
+  "ref_law": "民法666条",
+  "lawsuit_id": "52261",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52261",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/261/052261_hanrei.pdf"
+}

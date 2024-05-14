@@ -1,0 +1,20 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 9,
+    "day": 14
+  },
+  "case_number": "平成17(ネ)2518",
+  "case_name": "保険金請求控訴事件",
+  "court_name": "大阪高等裁判所第５民事部",
+  "result": "破棄自判",
+  "original_court_name": "大阪地方裁判所",
+  "original_case_number": "平成13(ワ)9663",
+  "gist": "船舶を保険の目的とする動産総合保険契約に基づき，船舶が火災により焼損したことが保険事故に該当するとしてされた損害保険金請求に対し，保険会社が，火災は請求者の前代表者らの故意に基づき発生したものであるとの免責事由を主張した事案において，火災に至った具体的原因は不明であるというほかなく，保険会社が主張する免責事由を認めることができないとされた事例",
+  "lawsuit_id": "34059",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=34059",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/059/034059_hanrei.pdf",
+  "contents": ""
+}

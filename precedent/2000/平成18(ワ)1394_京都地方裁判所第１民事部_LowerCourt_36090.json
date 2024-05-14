@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 2,
+    "day": 29
+  },
+  "case_number": "平成18(ワ)1394",
+  "case_name": "損害賠償請求事件",
+  "court_name": "京都地方裁判所第１民事部",
+  "gist": "被告の設置する病院に入院中に，心タンポナーデを発症して死亡した患者の相続人らが提起した損害賠償請求訴訟において，被告病院の医師らには，患者が心タンポナーデを発症し，ショックに陥った後，直ちに心嚢液の排液措置をとるべき義務を怠った過失があると認め，過失と患者の死亡との間に因果関係を認めることはできないが，同過失がなければ，患者が実際に死亡した時点においてなお生存していた相当程度の可能性があるとして，被告に，慰謝料等合計1100万円の支払いを命じた事案",
+  "lawsuit_id": "36090",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=36090",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/090/036090_hanrei.pdf",
+  "contents": ""
+}

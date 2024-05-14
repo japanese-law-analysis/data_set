@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 1,
+    "day": 30
+  },
+  "case_number": "平成18(ワ)9925",
+  "case_name": "損害賠償請求事件",
+  "court_name": "大阪地方裁判所第１２民事部",
+  "gist": "いわゆるヤミ金融業者が債権回収に名を借りて行った過酷な取立てが恐喝行為に当たるとされた上，同行為と債務者の自殺との間に相当因果関係が認められた事例",
+  "lawsuit_id": "37336",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=37336",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/336/037336_hanrei.pdf",
+  "contents": "294 7400 1 0.3 7.7217 1593 1257\n3 4\n3 6\n1 2\n3 6\n1 2\n3 6\n1 2\n3 6\n.\n3 5\n3 , 4\n3 4\n3 , 4\n3 4\n1 3 4\n3 4\n1 2 3 7\n3 1\n"
+}

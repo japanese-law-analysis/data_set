@@ -1,0 +1,18 @@
+{
+  "trial_type": "IPCase",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 10,
+    "day": 23
+  },
+  "case_number": "平成18(ワ)6548",
+  "case_name": "損害賠償等請求事件",
+  "court_name": "東京地方裁判所",
+  "right_type": "特許権",
+  "lawsuit_type": "民事訴訟",
+  "lawsuit_id": "35291",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail7?id=35291",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/291/035291_hanrei.pdf",
+  "contents": "a\nb\nc\nd b\nHigh\ne\na\nb\nc\nd\na\nb\nc\nd\ne\na\nb\nc\nd\nHIP5500 HIGH VOLTAGE 500V POWER    DC\nSUPPLY DRIVER IC\nSELF-OSCILLATING HALF-BRIDGE DRIVER\na\nFIGURE11. DEMO BOARD SCHEMATIC\nFIGURE3. OSCILLATORS WAVEFORMS\ntDEAD TIME\nUnder-Voltage Lockout\nFIGURE2. HIP5500 FUNCTIONAL\nBLOCK DIAGRAM\nb\nFIG2\nc\n1 b\nd\ne\nUV detect\nUV detect\nUV detect\nUV detect\nUV detect\nUV\ndetect\nf\nC.Powerdown\ng\nFeatures\nUndervoltage lockout\nFunctional Block\nDiagram UV DETECT\nUV DETECT\nDEAD TIME\nTechnical Overview of IR215x\nProducts\na Copyright Intersil Americas Inc. 2001. All Rights   9\nReserved\nb\nc 1 d\nd\ne\nHigh\nf UV detect\nUV detect\nUV detect\nUV detect\nUV detect\nUV detect\ng\nUV detect\nUV detect\nf\na\nb\nc\nd\nc\na a\nb b\nc c\nd d\na\nb a\nc\nd\ne\na\nb\nc\na\nb\na\nb\nb\nSP600\nand SP601 an HVIC MOSFET/IGT Driver for Half-Bridge Topologies\na\n5 6\nb\nb\na\nb\n5 6\nb\nc b\n5 c 6 b 8 b\na\nb\nb 8 a\nc\na\nb\na\n4 d\nc\na\nb\nsurface mount\npackage\n"
+}

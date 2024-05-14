@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 4,
+    "day": 23
+  },
+  "case_number": "平成20(ワ)1079",
+  "case_name": "契約条項使用差止等請求事件",
+  "court_name": "京都地方裁判所第６民事部",
+  "result": "その他",
+  "gist": "金銭消費貸借契約において，借主が弁済期限前に貸付金の全額を返済する場合に，借主が利息及び遅延損害金以外の金員（違約金）を貸主に交付する旨を定める契約条項が，貸付けの内容によっては消費者契約法１０条に該当し無効であることを理由に，同法１２条３項により，当該契約条項を含む契約の締結の停止等が認められた事例",
+  "lawsuit_id": "37602",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=37602",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/602/037602_hanrei.pdf",
+  "contents": ""
+}

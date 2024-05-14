@@ -1,0 +1,21 @@
+{
+  "trial_type": "HighCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 5,
+    "day": 29
+  },
+  "case_number": "平成18(う)1897",
+  "case_name": "傷害致死，傷害，岐阜県青少年健全育成条例違反被告事件",
+  "court_name": "東京高等裁判所第１０刑事部",
+  "result": "破棄自判",
+  "article_info": "第60巻2号2頁",
+  "original_court_name": "長野地方裁判所",
+  "gist": "無罪の公訴事実に係る未決勾留日数のうち勾留されていない有罪の公訴事実の本刑に算入し得る日数",
+  "case_gist": "勾留事実について無罪が宣告された場合において，勾留事実による未決勾留日数のうち，非勾留事実の本刑に算入し得る日数は，非勾留事実との弁論併合の時点からではなく，非勾留事実が追起訴された時点からのものと解するのが相当である。",
+  "lawsuit_id": "35366",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail3?id=35366",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/366/035366_hanrei.pdf",
+  "contents": ""
+}

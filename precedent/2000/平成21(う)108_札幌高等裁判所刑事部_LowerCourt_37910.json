@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 7,
+    "day": 30
+  },
+  "case_number": "平成21(う)108",
+  "case_name": "窃盗未遂",
+  "court_name": "札幌高等裁判所刑事部",
+  "result": "破棄自判",
+  "original_court_name": "釧路簡易裁判所",
+  "original_case_number": "平成20(ろ)14",
+  "original_result": "その他",
+  "gist": "工場の解体工事を無断で行い金属部品を取り外そうとしたとして被告人を有罪とした原判決を破棄し，窃盗の故意を認定するには合理的な疑いが残るとして無罪を言い渡した事例",
+  "lawsuit_id": "37910",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=37910",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/910/037910_hanrei.pdf",
+  "contents": ""
+}

@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 7,
+    "day": 12
+  },
+  "case_number": "平成17(行ウ)99",
+  "case_name": "不当利得返還等（住民訴訟）請求事件",
+  "court_name": "大阪地方裁判所第７民事部",
+  "gist": "市職員によって構成される職員互助会が，市から補給金の支出を受けた上で，これを各組合員（市職員）のための企業年金保険契約の保険料に充てていたことにつき，当該補給金の支出が違法であって市が職員互助会に対して，損害賠償請求権等を有しているのに，その行使を怠っているとして提起された地方自治法２４２条の２第１項４号に基づく住民訴訟が，その前提となる住民監査請求が監査請求期間を経過してされた不適法なものであるとして，却下された事例",
+  "lawsuit_id": "35026",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=35026",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/026/035026_hanrei.pdf",
+  "contents": ""
+}

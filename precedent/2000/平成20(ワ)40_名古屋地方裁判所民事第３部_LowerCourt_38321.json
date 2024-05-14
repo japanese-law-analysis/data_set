@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 11,
+    "day": 25
+  },
+  "case_number": "平成20(ワ)40",
+  "case_name": "（交通）損害賠償請求事件",
+  "court_name": "名古屋地方裁判所民事第３部",
+  "gist": "聴覚障害者であるＸが交通事故により手関節，肩関節に傷害を負い後遺障害が残った事案において，Ｘの手話言語能力喪失による後遺障害について，口話と手話の手段の違いに照らし，意思疎通が可能かどうか，手話能力がどの程度失われているかを中心に個別的に判断するのが相当であるとし，自賠責後遺障害１２級相当と認定された事例",
+  "lawsuit_id": "38321",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=38321",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/321/038321_hanrei.pdf",
+  "contents": ""
+}

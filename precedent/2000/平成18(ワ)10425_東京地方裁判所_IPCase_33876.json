@@ -1,0 +1,18 @@
+{
+  "trial_type": "IPCase",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 11,
+    "day": 30
+  },
+  "case_number": "平成18(ワ)10425",
+  "case_name": "損害賠償請求事件",
+  "court_name": "東京地方裁判所",
+  "right_type": "特許権",
+  "lawsuit_type": "民事訴訟",
+  "lawsuit_id": "33876",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail7?id=33876",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/876/033876_hanrei.pdf",
+  "contents": "ROM\nROM\nROM\nROM\nROM\nROM\nROM\nROM\nROM\nROM\nTelnet\nATIS\nROM\nATIS\nROM\nROM\nROM\nROM\nROM\nROM\nROM\nROM\nROM\nROM Read only memory\nROM\nROM\nROM\nROM\nATIS\nROM\n104 105 106 ,107 ROM\n108 ROM\nROM\nROM\nATIS\nROM\nROM\nROM\nATIS\n104 105\n106 , 107 ROM 108\nROM\nROM\nROM\nROM\n107ROM\nROM\nROM\nROM\nROM\nROM\nROM\na\nb\nc\nROM\nROM\nROM\n"
+}

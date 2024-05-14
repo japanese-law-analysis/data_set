@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 4,
+    "day": 27
+  },
+  "case_number": "平成17(受)1735",
+  "case_name": "損害賠償等請求事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第224号325頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成14(ネ)2621",
+  "original_date": {
+    "era": "Heisei",
+    "year": 17,
+    "month": 3,
+    "day": 18
+  },
+  "gist": "「日本国政府と中華人民共和国政府の共同声明」５項と日中戦争の遂行中に生じた中華人民共和国の国民の日本国又はその国民若しくは法人に対する請求権の帰すう",
+  "case_gist": "日中戦争の遂行中に生じた中華人民共和国の国民の日本国又はその国民若しくは法人に対する請求権は，「日本国政府と中華人民共和国政府の共同声明」５項によって，裁判上訴求する権能を失ったというべきである。",
+  "ref_law": "日本国との平和条約14条(b)，日本国政府と中華人民共和国政府の共同声明5項，日本国と中華人民共和国との間の平和友好条約前文",
+  "lawsuit_id": "34591",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=34591",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/591/034591_hanrei.pdf",
+  "contents": ""
+}

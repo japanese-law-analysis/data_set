@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 10,
+    "day": 30
+  },
+  "case_number": "平成21(少コ)2202",
+  "case_name": "(通常手続移行)敷金返還請求",
+  "court_name": "東京簡易裁判所民事第9室",
+  "result": "その他",
+  "lawsuit_id": "38474",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=38474",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/474/038474_hanrei.pdf",
+  "contents": ""
+}

@@ -1,0 +1,20 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 8,
+    "day": 31
+  },
+  "case_number": "平成18(レ)34",
+  "case_name": "損害賠償請求控訴",
+  "court_name": "京都地方裁判所第２民事部",
+  "original_court_name": "京都簡易裁判所",
+  "original_case_number": "平成18(ハ)10112",
+  "original_result": "棄却",
+  "gist": "民事訴訟において相手方代理人弁護士の訴訟活動を非難し，その名誉を毀損する答弁書を提出した行為等が，訴訟活動として必要性がないことなどを理由に，不法行為に該当するとされた事例",
+  "lawsuit_id": "33520",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=33520",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/520/033520_hanrei.pdf",
+  "contents": "\u0001\n2 2\n"
+}

@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 7,
+    "day": 5
+  },
+  "case_number": "平成18(受)597",
+  "case_name": "根抵当権設定登記抹消登記手続等請求事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集民　第225号1頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成17(ネ)2420",
+  "original_date": {
+    "era": "Heisei",
+    "year": 17,
+    "month": 12,
+    "day": 14
+  },
+  "gist": "信用保証協会を債権者とし被担保債権の範囲を保証委託取引により生ずる債権として設定された根抵当権の被担保債権に，信用保証協会の根抵当債務者に対する保証債権は含まれるか",
+  "case_gist": "信用保証協会を債権者とし被担保債権の範囲を保証委託取引により生ずる債権として設定された根抵当権の被担保債権に，信用保証協会の根抵当債務者に対する保証債権は含まれない。",
+  "ref_law": "民法398条の2第2項，民法446条，民法643条，信用保証協会法20条1項",
+  "lawsuit_id": "34890",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=34890",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/890/034890_hanrei.pdf",
+  "contents": ""
+}

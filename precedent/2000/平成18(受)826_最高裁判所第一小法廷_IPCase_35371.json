@@ -1,0 +1,18 @@
+{
+  "trial_type": "IPCase",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 11,
+    "day": 8
+  },
+  "case_number": "平成18(受)826",
+  "case_name": "特許権侵害差止請求事件",
+  "court_name": "最高裁判所第一小法廷",
+  "right_type": "特許権",
+  "lawsuit_type": "民事訴訟",
+  "lawsuit_id": "35371",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail7?id=35371",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/371/035371_hanrei.pdf",
+  "contents": ""
+}

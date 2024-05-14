@@ -1,0 +1,20 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 12,
+    "day": 15
+  },
+  "case_number": "平成18(う)303",
+  "case_name": "住居侵入，窃盗，窃盗未遂",
+  "court_name": "福岡高等裁判所第１刑事部",
+  "result": "棄却",
+  "original_court_name": "大分地方裁判所",
+  "original_case_number": "平成16(わ)469",
+  "gist": "原審で無罪を言い渡した住居侵入，窃盗被告事件について，検察官から控訴申立てがあった事案において，\n本件当時，被告人が窃盗目的で本件旅館に来ていたと推認され，時間的，場所的に本件犯行を行う可能性が十分にあったと言えるが，本件各証拠によっては，被告人と本件犯行との直接的な結びつきは立証されておらず，別の犯人が本件犯行を行った可能性は排除されていないから，被告人を犯人であると断定するには，合理的な疑いを差し挟む余地があるとして，控訴を棄却した事例",
+  "lawsuit_id": "34101",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=34101",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/101/034101_hanrei.pdf",
+  "contents": "\u0001\n\u0001\n\u0001\u0001\n"
+}

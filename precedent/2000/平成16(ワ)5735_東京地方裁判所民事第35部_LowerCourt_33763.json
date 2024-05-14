@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 10,
+    "day": 25
+  },
+  "case_number": "平成16(ワ)5735",
+  "case_name": "損害賠償請求事件",
+  "court_name": "東京地方裁判所民事第35部",
+  "result": "その他",
+  "gist": "相続税の物納申請に対する許可が遅延したことにつき，その審査を担当した税務署職員の職務上の法的義務違反を認めた事例",
+  "lawsuit_id": "33763",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=33763",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/763/033763_hanrei.pdf",
+  "contents": ""
+}

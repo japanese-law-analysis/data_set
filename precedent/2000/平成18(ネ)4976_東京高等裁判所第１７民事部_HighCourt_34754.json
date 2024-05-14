@@ -1,0 +1,22 @@
+{
+  "trial_type": "HighCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 12,
+    "day": 13
+  },
+  "case_number": "平成18(ネ)4976",
+  "case_name": "和解無効確認請求事件",
+  "court_name": "東京高等裁判所第１７民事部",
+  "result": "棄却",
+  "article_info": "第59巻4号21頁",
+  "original_court_name": "東京地方裁判所",
+  "original_case_number": "平成18(ワ)9909",
+  "gist": "権利の帰属を定める内容の遺言書の真否及び権利の帰属に関する争いをやめるためにした和解について遺言書の真正に関する錯誤を理由に上記和解の無効を主張することができないとした事例",
+  "case_gist": "当事者間に権利の帰属を定める内容の遺言書の真否及び当該権利の帰属について争いがあり，当事者が，互いに譲歩して争いをやめるために権利の帰属について定め，証書真否確認請求訴訟を取り下げること等を内容とする和解をしたとの判示の事実関係の下では，遺言書の真否が当該権利の帰属の前提となる事実の存否の性質を有するものであっても，当事者の一方は，遺言書の真正に関する錯誤を理由に上記和解の無効を主張することはできない。",
+  "lawsuit_id": "34754",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail3?id=34754",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/754/034754_hanrei.pdf",
+  "contents": ""
+}

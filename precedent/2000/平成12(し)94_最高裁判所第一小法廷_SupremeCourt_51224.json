@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 12,
+    "month": 6,
+    "day": 27
+  },
+  "case_number": "平成12(し)94",
+  "case_name": "勾留の裁判に対する異議申立て棄却決定に対する特別抗告事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第54巻5号461頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成12(け)10",
+  "original_date": {
+    "era": "Heisei",
+    "year": 12,
+    "month": 5,
+    "day": 19
+  },
+  "gist": "第一審裁判所が犯罪の証明がないことを理由として無罪の判決を言い渡した場合と控訴審における勾留",
+  "case_gist": "第一審裁判所が犯罪の証明がないことを理由として無罪の判決を言い渡した場合であっても、控訴審裁判所は、記録等の調査により、右無罪判決の理由の検討を経た上でもなお罪を犯したことを疑うに足りる相当の理由があると認めるときは、勾留の理由があり、かつ、控訴審における適正、迅速な審理のためにも勾留の必要性があると認める限り、その審理の段階を問わず、被告人を勾留することができる。\n（反対意見がある。）",
+  "ref_law": "刑訴法60条1項，刑訴法345条",
+  "lawsuit_id": "51224",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51224",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/224/051224_hanrei.pdf"
+}

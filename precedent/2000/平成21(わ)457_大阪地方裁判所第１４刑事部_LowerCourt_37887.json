@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 5,
+    "day": 21
+  },
+  "case_number": "平成21(わ)457",
+  "case_name": "国家公務員法違反，行政機関の保有する個人情報の保護に関する法律違反被告事件",
+  "court_name": "大阪地方裁判所第１４刑事部",
+  "gist": "刑務官であった被告人が，受刑者から他の刑務所職員の住所等を教えるようにそそのかされ，これにより，同受刑者に対して，職員名簿によって知った同刑務所の保有個人情報である同刑務所職員の住所等が書いてあるメモ紙を見せ，これを教えた事案で，被告人に対し懲役１０か月，３年間執行猶予の判決が言い渡された事例",
+  "lawsuit_id": "37887",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=37887",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/887/037887_hanrei.pdf",
+  "contents": ""
+}

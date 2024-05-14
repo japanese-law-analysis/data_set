@@ -1,0 +1,20 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 3,
+    "day": 23
+  },
+  "case_number": "平成18(ネ)3265",
+  "case_name": "損害賠償請求控訴事件",
+  "court_name": "大阪高等裁判所第５民事部",
+  "result": "棄却",
+  "original_court_name": "大阪地方裁判所",
+  "original_case_number": "平成17(ワ)4979",
+  "gist": "賃料債権の差押えをした債権者がその取立てを求めたのに対し，第三債務者（賃借人）が賃貸人に対する貸金債権を自働債権，将来の賃料債権を受働債権とする相殺の意思表示をしたと主張する事案において，当該相殺の意思表示は期限又は条件を付したものとして無効であるか，相殺の意思表示の当時相殺適状になかったとして，相殺の効力が認められなかった事例",
+  "lawsuit_id": "35151",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=35151",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/151/035151_hanrei.pdf",
+  "contents": ""
+}

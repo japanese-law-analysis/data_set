@@ -1,0 +1,20 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 10,
+    "day": 19
+  },
+  "case_number": "平成18(ラ)769",
+  "case_name": "証人尋問共助事件における証人の証言拒絶についての決定に対する抗告事件",
+  "court_name": "東京高等裁判所第２４民事部",
+  "result": "その他",
+  "original_court_name": "東京地方裁判所",
+  "original_result": "その他",
+  "gist": "米国アリゾナ州地区連邦地方裁判所の嘱託により実施された税務調査等につき取材しニュース記事を配信した共同通信記者に対する証人尋問において，取材源に関する記者の証言拒絶権が認められた事例",
+  "lawsuit_id": "33758",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=33758",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/758/033758_hanrei.pdf",
+  "contents": ""
+}

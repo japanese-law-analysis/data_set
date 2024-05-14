@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 10,
+    "day": 13
+  },
+  "case_number": "平成15(ワ)58",
+  "case_name": "損害賠償請求事件",
+  "court_name": "山口地方裁判所岩国支部",
+  "result": "その他",
+  "gist": "交通事故後に全身が痛むようになり，後に「線維筋痛症」と診断された原告が，加害者らを被告として治療費などの損害賠償請求について，原告の線維筋痛症が本件事故による頸椎捻挫等と無関係に生じたものとは考えがたく，両者の間に一応の因果関係の存在が認められるとして，原告の請求を一部容認した事例。",
+  "lawsuit_id": "34159",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=34159",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/159/034159_hanrei.pdf",
+  "contents": ""
+}

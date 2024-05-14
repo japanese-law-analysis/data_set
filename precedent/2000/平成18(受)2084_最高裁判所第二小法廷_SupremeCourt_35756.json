@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 2,
+    "day": 15
+  },
+  "case_number": "平成18(受)2084",
+  "case_name": "損害賠償請求事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第62巻2号377頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成17(ネ)5757",
+  "original_date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 8,
+    "day": 9
+  },
+  "gist": "証券取引法（平成１６年法律第９７号による改正前のもの）１７条に定める損害賠償責任の責任主体は同法にいう発行者等に限られるか",
+  "case_gist": "証券取引法（平成１６年法律第９７号による改正前のもの）１７条に定める損害賠償責任の責任主体は，重要な事項について虚偽の表示があり又は重要な事実の表示が欠けている目論見書その他の表示を使用して有価証券を取得させたといえる者であれば足り，同法にいう発行者，有価証券の募集若しくは売出しをする者，引受人若しくは証券会社等，又はこれと同視できる者に限られない。",
+  "ref_law": "証券取引法（平成16年法律第97号による改正前のもの）17条，金融商品取引法17条",
+  "lawsuit_id": "35756",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=35756",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/756/035756_hanrei.pdf",
+  "contents": ""
+}

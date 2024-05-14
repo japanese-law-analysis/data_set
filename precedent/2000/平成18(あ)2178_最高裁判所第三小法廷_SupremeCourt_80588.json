@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 6,
+    "day": 9
+  },
+  "case_number": "平成18(あ)2178",
+  "case_name": "強盗殺人，建造物侵入，窃盗，窃盗未遂，死体遺棄被告事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第296号751頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 9,
+    "day": 29
+  },
+  "gist": "死刑の量刑が維持された事例（パチンコ店員強殺事件）",
+  "lawsuit_id": "80588",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=80588",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/588/080588_hanrei.pdf",
+  "contents": ""
+}

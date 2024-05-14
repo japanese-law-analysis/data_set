@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 1,
+    "day": 30
+  },
+  "case_number": "平成19(ワ)1793",
+  "case_name": "更新料返還等請求事件",
+  "court_name": "京都地方裁判所第４民事部",
+  "gist": "賃貸借契約における更新料を支払う旨の約定が，民法90条及び消費者契約法10条により無効であるとはいえないと判断された事例",
+  "lawsuit_id": "35752",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=35752",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/752/035752_hanrei.pdf",
+  "contents": ""
+}

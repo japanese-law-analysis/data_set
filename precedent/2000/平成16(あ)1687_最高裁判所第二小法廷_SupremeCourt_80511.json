@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 9,
+    "day": 28
+  },
+  "case_number": "平成16(あ)1687",
+  "case_name": "監禁，強盗殺人未遂，現住建造物等放火未遂，銃砲刀剣類所持等取締法違反，強盗致死，覚せい剤取締法違反，逮捕監禁，殺人，公務執行妨害，窃盗被告事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第292号199頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 16,
+    "month": 7,
+    "day": 6
+  },
+  "gist": "死刑の量刑が維持された事例（宇都宮マンション監禁強盗致死等事件）",
+  "lawsuit_id": "80511",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=80511",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/511/080511_hanrei.pdf",
+  "contents": ""
+}

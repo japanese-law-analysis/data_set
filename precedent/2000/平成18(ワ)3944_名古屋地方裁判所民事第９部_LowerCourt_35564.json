@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 6,
+    "day": 28
+  },
+  "case_number": "平成18(ワ)3944",
+  "case_name": "編集著作権侵害差止等請求",
+  "court_name": "名古屋地方裁判所民事第９部",
+  "gist": "間取図作成ソフトが間取図パーツの選択について創作性を有する編集著作物に当たらないとされた事例",
+  "lawsuit_id": "35564",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=35564",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/564/035564_hanrei.pdf",
+  "contents": ""
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 13,
+    "month": 3,
+    "day": 12
+  },
+  "case_number": "平成12(あ)873",
+  "case_name": "薬事法違反，銀行法違反被告事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第55巻2号97頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成11(う)2076",
+  "original_date": {
+    "era": "Heisei",
+    "year": 12,
+    "month": 5,
+    "day": 25
+  },
+  "gist": "１　銀行法２条２項２号にいう「為替取引を行うこと」の意義\n２　銀行法２条２項２号にいう「為替取引を行うこと」に当たるとされた事例",
+  "case_gist": "１　銀行法２条２項２号にいう「為替取引を行うこと」とは，顧客から，隔地者間で直接現金を輸送せずに資金を移動する仕組みを利用して資金を移動することを内容とする依頼を受けて，これを引き受けること，又はこれを引き受けて遂行することをいう。\n２  送金依頼人から，外国への送金の依頼を受け，送金資金を受領した上，直接現金を同国内に輸送せずに，同国在住の共犯者に対し送金先銀行口座等を連絡して支払方を指図し，同国内にある銀行口座の資金を用いて送金依頼人の指定する銀行口座等に送金受任額相当額を入金させた行為は，銀行法２条２項２号にいう「為替取引を行うこと」に当たる。",
+  "ref_law": "銀行法2条2項2号，銀行法4条1項，銀行法61条，銀行法64条1項3号",
+  "lawsuit_id": "50024",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50024",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/024/050024_hanrei.pdf"
+}

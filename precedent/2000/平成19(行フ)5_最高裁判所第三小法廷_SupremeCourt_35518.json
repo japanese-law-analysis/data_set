@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 12,
+    "day": 18
+  },
+  "case_number": "平成19(行フ)5",
+  "case_name": "執行停止決定に対する許可抗告事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集民　第226号603頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成19(行タ)55",
+  "original_date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 7,
+    "day": 19
+  },
+  "gist": "弁護士に対する業務停止３月の懲戒処分によって生ずる社会的信用の低下，業務上の信頼関係の毀損等の損害が，行政事件訴訟法２５条２項にいう「重大な損害」に当たるとされた事例",
+  "case_gist": "弁護士が業務停止３月の懲戒処分を受けた場合において，当該弁護士が当該業務停止期間中に期日が指定されているものだけで３１件の訴訟案件を受任していたなどの事実関係の下では，上記処分によって当該弁護士に生ずる社会的信用の低下，業務上の信頼関係の毀損等の損害は，行政事件訴訟法２５条２項にいう「重大な損害」に当たる。\n（補足意見がある。）",
+  "ref_law": "行政事件訴訟法25条2項，行政事件訴訟法25条3項，弁護士法56条，弁護士法57条1項2号",
+  "lawsuit_id": "35518",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=35518",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/518/035518_hanrei.pdf",
+  "contents": ""
+}

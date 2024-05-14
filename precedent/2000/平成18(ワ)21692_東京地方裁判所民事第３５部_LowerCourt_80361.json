@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 7,
+    "day": 31
+  },
+  "case_number": "平成18(ワ)21692",
+  "case_name": "損害賠償請求",
+  "court_name": "東京地方裁判所民事第３５部",
+  "result": "棄却",
+  "lawsuit_id": "80361",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=80361",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/361/080361_hanrei.pdf",
+  "contents": ""
+}

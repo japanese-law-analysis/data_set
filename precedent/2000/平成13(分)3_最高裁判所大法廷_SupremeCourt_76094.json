@@ -1,0 +1,22 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 13,
+    "month": 3,
+    "day": 30
+  },
+  "case_number": "平成13(分)3",
+  "case_name": "裁判官に対する懲戒申立て事件",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "決定",
+  "result": "その他",
+  "article_info": "集民　第201号737頁",
+  "original_court_name": "福岡高等裁判所",
+  "gist": "裁判官の行為が犯罪の嫌疑を受けた妻を支援，擁護するものとして許容される限界を超え裁判所法４９条に該当するとされた事例",
+  "case_gist": "裁判官が，妻に対する被疑事件の捜査が逮捕可能な程度に進行した段階において，事実を確認してこれを認めたならば示談をするようにとの趣旨で検事から捜査情報の開示を受けたのに対し，妻が事実を否認したことから，捜査機関の有する証拠や立論の疑問点，問題点等を記載した書面を作成し，妻及びその弁護に当たる弁護士に交付するなどした行為は，判示の事情の下においては，犯罪の嫌疑を受けた妻を支援，擁護するものとして許容される限界を超えたものであり，裁判所法４９条に該当する。\n（反対意見がある。）",
+  "ref_law": "裁判所法49条，裁判官分限法2条",
+  "lawsuit_id": "76094",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=76094",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/094/076094_hanrei.pdf"
+}

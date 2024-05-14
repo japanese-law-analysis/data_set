@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 16,
+    "month": 10,
+    "day": 1
+  },
+  "case_number": "平成16(許)5",
+  "case_name": "配当表に対する異議申立て却下決定に対する抗告審の取消決定に対する許可抗告事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "破棄自判",
+  "article_info": "集民　第215号199頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成15(ラ)1171",
+  "original_date": {
+    "era": "Heisei",
+    "year": 16,
+    "month": 2,
+    "day": 6
+  },
+  "gist": "破産者が株式会社である場合において破産財団から放棄された財産を目的とする別除権につき破産者の破産宣告当時の代表取締役に対してした別除権放棄の意思表示の効力",
+  "case_gist": "破産者が株式会社である場合において，破産財団から放棄された財産を目的とする別除権につき，別除権者が破産者の破産宣告当時の代表取締役に対してした別除権放棄の意思表示は，これを有効とみるべき特段の事情の存しない限り，無効である。",
+  "ref_law": "破産法96条，破産法197条12号，破産法277条，商法254条3項，商法417条，民法653条",
+  "lawsuit_id": "62619",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62619",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/619/062619_hanrei.pdf"
+}

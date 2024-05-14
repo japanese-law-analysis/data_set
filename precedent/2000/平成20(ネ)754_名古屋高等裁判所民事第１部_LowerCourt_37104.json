@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 11,
+    "day": 27
+  },
+  "case_number": "平成20(ネ)754",
+  "case_name": "損害賠償請求控訴事件",
+  "court_name": "名古屋高等裁判所民事第１部",
+  "result": "その他",
+  "original_court_name": "名古屋地方裁判所",
+  "original_case_number": "平成19(ワ)577",
+  "original_result": "その他",
+  "gist": "服役中の１審原告所有の不動産に対して公示送達の方法によりされた不動産競売開始決定及び不動産引渡命令の送達手続に違法があるとする国家賠償請求につき，送達手続は適法，有効であるとして請求が棄却された事例",
+  "lawsuit_id": "37104",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=37104",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/104/037104_hanrei.pdf",
+  "contents": "3 2\n"
+}

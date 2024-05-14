@@ -1,0 +1,16 @@
+{
+  "trial_type": "IPCase",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 10,
+    "day": 30
+  },
+  "case_number": "平成18(ワ)17608",
+  "case_name": "損害賠償等請求事件(損害賠償等請求本訴，手数料支払請求反訴事件)",
+  "court_name": "東京地方裁判所",
+  "lawsuit_id": "37015",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail7?id=37015",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/015/037015_hanrei.pdf",
+  "contents": ""
+}

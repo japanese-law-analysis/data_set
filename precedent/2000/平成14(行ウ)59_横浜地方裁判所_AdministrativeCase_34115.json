@@ -1,0 +1,16 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Heisei",
+    "year": 15,
+    "month": 11,
+    "day": 5
+  },
+  "case_number": "平成14(行ウ)59",
+  "case_name": "行政文書不開示処分取消請求事件",
+  "court_name": "横浜地方裁判所",
+  "field": "行政",
+  "lawsuit_id": "34115",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=34115",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/115/034115_hanrei.pdf"
+}

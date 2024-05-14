@@ -1,0 +1,20 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 3,
+    "day": 16
+  },
+  "case_number": "平成18(ネ)2271",
+  "case_name": "遺言無効確認請求控訴事件",
+  "court_name": "大阪高等裁判所第５民事部",
+  "result": "棄却",
+  "original_court_name": "大阪地方裁判所\n        　岸和田支部",
+  "original_case_number": "平成15(ワ)843",
+  "gist": "秘密証書遺言につき，遺言能力の欠如及び方式違背による遺言無効の主張が退けられた事例",
+  "lawsuit_id": "35149",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=35149",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/149/035149_hanrei.pdf",
+  "contents": ""
+}

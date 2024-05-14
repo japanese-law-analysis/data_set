@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 10,
+    "day": 22
+  },
+  "case_number": "平成21(う)127",
+  "case_name": "強制わいせつ未遂",
+  "court_name": "札幌高等裁判所刑事部",
+  "result": "破棄自判",
+  "original_court_name": "釧路地方裁判所",
+  "original_case_number": "平成20(わ)137",
+  "original_result": "その他",
+  "gist": "温水器の修理に訪れた女性宅で強制わいせつ未遂に及んだとして被告人を有罪とした原判決を破棄し，女性の供述の信用性に疑問があるとして無罪を言い渡した事例",
+  "lawsuit_id": "38151",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=38151",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/151/038151_hanrei.pdf",
+  "contents": ""
+}

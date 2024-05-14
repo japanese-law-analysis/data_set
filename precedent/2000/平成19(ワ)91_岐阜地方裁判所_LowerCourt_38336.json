@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 12,
+    "day": 16
+  },
+  "case_number": "平成19(ワ)91",
+  "case_name": "損害賠償請求事件",
+  "court_name": "岐阜地方裁判所",
+  "result": "その他",
+  "gist": "１  国立大学法人は国家賠償法１条１項にいう「公共団体」にあたらない。\n２　国立大学の教員による大学院生に対する休学強要等のハラスメント行為につき不法行為責任を認めた事例",
+  "lawsuit_id": "38336",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=38336",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/336/038336_hanrei.pdf",
+  "contents": ""
+}

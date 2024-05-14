@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 16,
+    "month": 11,
+    "day": 2
+  },
+  "case_number": "平成16(行ツ)23",
+  "case_name": "所得税更正処分取消等請求事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第215号517頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成15(行コ)175",
+  "original_date": {
+    "era": "Heisei",
+    "year": 15,
+    "month": 10,
+    "day": 15
+  },
+  "gist": "１　親族が居住者と別に事業を営む場合における所得税法５６条の適用の有無\n２　親族が居住者と別に事業を営む場合に所得税法５６条を適用してされた課税処分と憲法１４条１項",
+  "case_gist": "１　所得税法５６条は，居住者と生計を一にする配偶者その他の親族が居住者と別に事業を営む場合であっても，その居住者の営む事業に従事したことなどの同条所定の要件が満たされる限り，適用される。\n２　配偶者その他の親族が居住者と別に事業を営む場合にその居住者の事業所得等の金額の計算に所得税法５６条を適用してされた課税処分は，憲法１４条１項に違反しない。",
+  "ref_law": "憲法14条1項，所得税法56条，所得税法57条",
+  "lawsuit_id": "62607",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62607",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/607/062607_hanrei.pdf"
+}

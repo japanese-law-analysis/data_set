@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 12,
+    "day": 4
+  },
+  "case_number": "平成21(行ヒ)199",
+  "case_name": "所得税更正処分取消等請求事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第232号541頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成20(行コ)318",
+  "original_date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 2,
+    "day": 26
+  },
+  "gist": "租税特別措置法（平成１４年法律第７９号による改正前のもの）４０条の４第１項は，「所得に対する租税に関する二重課税の回避及び脱税の防止のための日本国政府とシンガポール共和国政府との間の協定」７条１項に違反するか",
+  "case_gist": "租税特別措置法（平成１４年法律第７９号による改正前のもの）４０条の４第１項は，「所得に対する租税に関する二重課税の回避及び脱税の防止のための日本国政府とシンガポール共和国政府との間の協定」７条１項に違反しない。",
+  "ref_law": "租税特別措置法（平成14年法律第79号による改正前のもの）40条の4第1項，租税特別措置法（平成14年法律第79号による改正前のもの）40条の4第2項，租税特別措置法（平成15年法律第8号による改正前のもの）40条の4第3項，所得に対する租税に関する二重課税の回避及び脱税の防止のための日本国政府とシンガポール共和国政府との間の協定7条1項",
+  "lawsuit_id": "38223",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=38223",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/223/038223_hanrei.pdf",
+  "contents": ""
+}

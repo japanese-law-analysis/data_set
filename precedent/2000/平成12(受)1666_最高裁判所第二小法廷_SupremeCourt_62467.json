@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 13,
+    "month": 11,
+    "day": 16
+  },
+  "case_number": "平成12(受)1666",
+  "case_name": "詐害行為取消請求事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集民　第203号459頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成11(ネ)2894",
+  "original_date": {
+    "era": "Heisei",
+    "year": 12,
+    "month": 9,
+    "day": 27
+  },
+  "gist": "商標権の譲渡行為が詐害行為として取り消された場合に受益者が第三者から支払を受けた当該商標権の使用許諾料相当額を不当利得として債権者が債務者に代位して返還請求をすることの可否",
+  "case_gist": "商標権の譲渡行為が詐害行為として取り消された場合に，受益者が第三者から支払を受けた当該商標権の使用許諾料相当額を不当利得として債権者が債務者に代位して返還請求をすることはできない。",
+  "ref_law": "民法424条，民法425条",
+  "lawsuit_id": "62467",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62467",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/467/062467_hanrei.pdf"
+}

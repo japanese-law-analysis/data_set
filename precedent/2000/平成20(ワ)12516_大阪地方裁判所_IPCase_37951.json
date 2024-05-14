@@ -1,0 +1,18 @@
+{
+  "trial_type": "IPCase",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 9,
+    "day": 3
+  },
+  "case_number": "平成20(ワ)12516",
+  "case_name": "損害賠償請求事件",
+  "court_name": "大阪地方裁判所",
+  "right_type": "特許権",
+  "lawsuit_type": "民事訴訟",
+  "lawsuit_id": "37951",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail7?id=37951",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/951/037951_hanrei.pdf",
+  "contents": "1 5\n1 5\n1 2\n3 4 5\n1 3 4\n1 5\nUFO\nUFO\nUFO\nUFO\nUFO\n10 10 10 10\n20 22 24\n10 10 10\n10 1,10\n10 1,10 30\n1,30 30 10 30\n10 24\n32 22\n32 32 30\n34 22\n22 40 42\n44 46\n40 40\n30 36 34\n22 22\n44 42\n10 1,10 2,\n10 1,10 2,\n10 32\n10 32\n24 22\nUFO\n"
+}

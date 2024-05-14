@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 5,
+    "day": 20
+  },
+  "case_number": "平成18(あ)2618",
+  "case_name": "傷害被告事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第62巻6号1786頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成18(う)2017",
+  "original_date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 11,
+    "day": 29
+  },
+  "gist": "被告人が，自らの暴行により相手方の攻撃を招き，これに対する反撃としてした傷害行為について，正当防衛が否定された事例",
+  "case_gist": "相手方から攻撃された被告人がその反撃として傷害行為に及んだが，被告人は，相手方の攻撃に先立ち，相手方に対して暴行を加えているのであって，相手方の攻撃は，被告人の暴行に触発された，その直後における近接した場所での一連，一体の事態ということができ，被告人は不正の行為により自ら侵害を招いたものといえるから，相手方の攻撃が被告人の上記暴行の程度を大きく超えるものでないなどの本件の事実関係の下においては，被告人の上記傷害行為は，被告人において何らかの反撃行為に出ることが正当とされる状況における行為とはいえない。",
+  "ref_law": "刑法36条",
+  "lawsuit_id": "36365",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=36365",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/365/036365_hanrei.pdf",
+  "contents": ""
+}

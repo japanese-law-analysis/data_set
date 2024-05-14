@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 8,
+    "day": 9
+  },
+  "case_number": "平成18(ワ)2348",
+  "case_name": "所有権移転登記手続請求事件",
+  "court_name": "さいたま地方裁判所第５民事部",
+  "gist": "原告の申立てにより被告の代表者死亡を理由とする被告の特別代理人を選任しながら，詳細な事実認定の上，原告の供述等は信用できないとして原告の請求を棄却した事案。",
+  "lawsuit_id": "35090",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=35090",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/090/035090_hanrei.pdf",
+  "contents": "1 1\n2 2 3\n1 2\n1 3\n1 4\n2 3\na\nb\nc\nd\ne\n1 4\n2 3\n5 4 1 4\na\nb\nc\nd\ne\n1 8\n"
+}

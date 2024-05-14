@@ -1,0 +1,18 @@
+{
+  "trial_type": "IPCase",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 10,
+    "day": 24
+  },
+  "case_number": "平成18(ワ)17644",
+  "case_name": "損害賠償請求事件",
+  "court_name": "東京地方裁判所",
+  "right_type": "特許権",
+  "lawsuit_type": "民事訴訟",
+  "lawsuit_id": "33696",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail7?id=33696",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/696/033696_hanrei.pdf",
+  "contents": ""
+}

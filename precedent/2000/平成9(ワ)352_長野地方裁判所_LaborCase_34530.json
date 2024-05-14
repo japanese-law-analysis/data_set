@@ -1,0 +1,17 @@
+{
+  "trial_type": "LaborCase",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 3,
+    "day": 10
+  },
+  "case_number": "平成9(ワ)352",
+  "case_name": "損害賠償等請求事件（通称　鹿島建設強制労働損害賠償）",
+  "court_name": "長野地方裁判所",
+  "field": "労働",
+  "lawsuit_id": "34530",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail6?id=34530",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/530/034530_hanrei.pdf",
+  "contents": "No.\n1 468\n2 4\n3 397\n4 397\n5 450\n6 450\n7 450\n"
+}

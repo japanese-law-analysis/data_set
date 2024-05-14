@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 5,
+    "day": 22
+  },
+  "case_number": "平成18(行ウ)165",
+  "case_name": "損害賠償等請求事件（住民訴訟）",
+  "court_name": "大阪地方裁判所第２民事部",
+  "gist": "破綻した第三セクターの再建のために市が追加出資をするとともにその債権を劣後債権化し金融機関の債権について損失補償することなどを内容とする特定調停を成立させたこと等が違法であるとしてされた地方自治法２４２条の２第１項４号に基づく損害賠償等の請求が棄却された事例",
+  "lawsuit_id": "37692",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=37692",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/692/037692_hanrei.pdf",
+  "contents": ""
+}

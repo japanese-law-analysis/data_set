@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 3,
+    "day": 20
+  },
+  "case_number": "平成18(ハ)16345",
+  "case_name": "損害賠償",
+  "court_name": "東京簡易裁判所民事第５室",
+  "result": "却下",
+  "lawsuit_id": "35204",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=35204",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/204/035204_hanrei.pdf",
+  "contents": ""
+}

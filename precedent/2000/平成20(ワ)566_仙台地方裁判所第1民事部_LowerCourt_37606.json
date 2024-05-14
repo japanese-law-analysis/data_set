@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 4,
+    "day": 22
+  },
+  "case_number": "平成20(ワ)566",
+  "case_name": "損害賠償請求事件",
+  "court_name": "仙台地方裁判所第1民事部",
+  "gist": "交差点を左折していた大型貨物自動車と，その左後方から進行してきた原動機付自転車との衝突事故について，大型貨物自動車の運転者には不法行為に基づく損害賠償責任は認められないが，その運行供用者には自動車損害賠償保障法３条に基づく損害賠償責任は認められるとして，被害者の遺族に対する賠償を命じた事例",
+  "lawsuit_id": "37606",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=37606",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/606/037606_hanrei.pdf",
+  "contents": ""
+}

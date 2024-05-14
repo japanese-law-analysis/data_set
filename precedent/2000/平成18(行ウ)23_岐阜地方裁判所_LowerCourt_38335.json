@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 12,
+    "day": 16
+  },
+  "case_number": "平成18(行ウ)23",
+  "case_name": "義務付け等請求事件",
+  "court_name": "岐阜地方裁判所",
+  "result": "却下",
+  "gist": "換地処分に基づいて清算金の徴収及び交付を求める義務付け訴訟につき，土地改良法８９条の２第１１項所定の通知を欠くとして，土地改良区の被告適格を否定した事例",
+  "lawsuit_id": "38335",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=38335",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/335/038335_hanrei.pdf",
+  "contents": ""
+}

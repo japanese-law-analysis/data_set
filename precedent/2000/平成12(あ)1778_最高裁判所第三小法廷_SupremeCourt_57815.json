@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 17,
+    "month": 1,
+    "day": 25
+  },
+  "case_number": "平成12(あ)1778",
+  "case_name": "殺人被告事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第287号1頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 12,
+    "month": 10,
+    "day": 26
+  },
+  "gist": "死刑の量刑が維持された事例（仙台・高知の連続保険金目的殺人事件）",
+  "lawsuit_id": "57815",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57815",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/815/057815_hanrei.pdf"
+}

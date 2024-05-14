@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 7,
+    "day": 27
+  },
+  "case_number": "平成15(ネ)964",
+  "case_name": "損害賠償",
+  "court_name": "福岡高等裁判所第５民事部",
+  "result": "破棄自判",
+  "original_court_name": "福岡地方裁判所\n        　小倉支部",
+  "original_case_number": "平成14(ワ)436",
+  "original_result": "その他",
+  "gist": "小学校のプールにおいて発生した事故に関し，当時，同校の児童及び両親であった被控訴人らが，同校を設置する地方公共団体である控訴人に対し，同校の教諭らに過失があったとして国家賠償法に基づく損害賠償を求めた事案について，同教諭らの過失を認める一方で，重篤な後遺障害が発生したことについては，被控訴人の身体的素因が影響しているとして，損害の減額を認めるとともに，将来の介護費用等に相当する損害については定期金賠償を命じた事例",
+  "lawsuit_id": "33954",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=33954",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/954/033954_hanrei.pdf",
+  "contents": ""
+}

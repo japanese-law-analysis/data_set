@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 5,
+    "day": 15
+  },
+  "case_number": "平成18(う)268",
+  "case_name": "廃棄物の処理及び清掃に関する法律違反被告事件",
+  "court_name": "広島高等裁判所",
+  "result": "破棄自判",
+  "original_court_name": "山口地方裁判所\n        　下関支部",
+  "original_case_number": "平成17(わ)258",
+  "original_result": "その他",
+  "gist": "採石業等を営む被告会社の採石所の所長兼工場長である被告人Ｂ及び採石作業を指揮監督する被告人Ｃが、共謀の上、採石事業により生じた鉱さい約５５５６トンを海岸に投棄した廃棄物の処理及び清掃に関する法律違反被告事件について、被告らが投棄した鉱さいとされている岩石は、商品になり得る岩石と全く品質の異ならないものが、採石の過程で採取しにくい場所に滑落しただけであるから、「かす」または「くず」に該当するというには、疑問の余地があるとして、本件岩石を廃棄物の処理及び清掃に関する法律２条４項１号、同法施行令２条８号の「鉱さい」と認定した原判決には、この限度において判決に影響を及ぼす法令適用の誤り及び事実誤認があるとして破棄自判した事案",
+  "lawsuit_id": "35209",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=35209",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/209/035209_hanrei.pdf",
+  "contents": ""
+}

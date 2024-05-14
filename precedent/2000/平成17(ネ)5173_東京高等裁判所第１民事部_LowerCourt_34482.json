@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 3,
+    "day": 28
+  },
+  "case_number": "平成17(ネ)5173",
+  "case_name": "損害賠償請求控訴",
+  "court_name": "東京高等裁判所第１民事部",
+  "result": "その他",
+  "original_court_name": "宇都宮地方裁判所",
+  "original_case_number": "平成13(ワ)427",
+  "original_result": "その他",
+  "gist": "いじめを苦にした中学生の自殺につき，いじめを阻止しなかった教員らの安全配慮義務違反を認め，同義務違反と自殺との間には，事実的因果関係を認めたが，相当因果関係は認められないとして，慰謝料１０００万円及び弁護士費用１００万円の損害を認めた事例",
+  "lawsuit_id": "34482",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=34482",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/482/034482_hanrei.pdf",
+  "contents": ""
+}

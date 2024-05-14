@@ -1,0 +1,20 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 6,
+    "day": 14
+  },
+  "case_number": "平成17(ネ)3157",
+  "case_name": "損害賠償請求控訴事件",
+  "court_name": "大阪高等裁判所第２民事部",
+  "result": "棄却",
+  "original_court_name": "京都地方裁判所",
+  "original_case_number": "平成15(ワ)662",
+  "gist": "女性弁護士が，所属する弁護士会の旧会館に飾られていた裸婦画をセクハラの危険を理由として新会館に展示しないよう要求して周囲の人々の嘲笑の的になっているとの内容の週刊誌の記事について，名誉を毀損されたとして出版社を相手にした損害賠償請求が，真実性の証明が認められず，真実と信じたことについて相当の理由も認められないとして一部認容された事例",
+  "lawsuit_id": "33844",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=33844",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/844/033844_hanrei.pdf",
+  "contents": ""
+}

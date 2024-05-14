@@ -1,0 +1,17 @@
+{
+  "trial_type": "LaborCase",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 7,
+    "day": 27
+  },
+  "case_number": "平成13(行ウ)411等",
+  "case_name": "不当労働行為救済命令取消請求事件（通称　住友重機械工業救済命令取消）",
+  "court_name": "東京地方裁判所",
+  "field": "労働",
+  "lawsuit_id": "37743",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail6?id=37743",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/743/037743_hanrei.pdf",
+  "contents": "106/913 9/58 115/971 11.6 15.5 11.8\n101/896 7/58 108/954 11.3 12.1 11.3\n97/900 7/56 104/956 10.8 12.5 10.9\n73/893 4/54 77/947 8.2 7.4 8.1\n54/889 6/55 60/944 6.1 10.9 6.4\n54/861 4/53 58/914 6.3 7.5 6.3\n47/803 0/48 47/851 5.9 0.0 5.5\n532/6155 37/382 569/6537 8.6 9.7 8.7\n"
+}

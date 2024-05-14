@@ -1,0 +1,17 @@
+{
+  "trial_type": "LaborCase",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 1,
+    "day": 28
+  },
+  "case_number": "平成17(ワ)26903",
+  "case_name": "賃金等請求事件（通称　日本マクドナルド割増賃金請求）",
+  "court_name": "東京地方裁判所",
+  "field": "労働",
+  "lawsuit_id": "37801",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail6?id=37801",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/801/037801_hanrei.pdf",
+  "contents": "3 2\n3 2\n3 2\n- 33 -- 34 -\n"
+}

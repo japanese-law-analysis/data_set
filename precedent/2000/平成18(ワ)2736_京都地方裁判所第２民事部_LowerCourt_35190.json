@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 9,
+    "day": 11
+  },
+  "case_number": "平成18(ワ)2736",
+  "case_name": "損害賠償請求事件",
+  "court_name": "京都地方裁判所第２民事部",
+  "gist": "証券会社の顧客である原告が，証券会社の社員から特別に有利な投資があるとの勧誘を受け，投資資金として当該社員の指定する振込先へ２００万円を送金したが，実際には，証券会社の業務とは無関係に当該社員が仕組んだ詐欺であった。原告が２００万円の損害について証券会社の使用者責任を追及したのに対し，本判決は，証券会社の責任を認めつつ，原告の過失も大きいとして，証券会社に５５万円の賠償を命じた。",
+  "lawsuit_id": "35190",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=35190",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/190/035190_hanrei.pdf",
+  "contents": ""
+}

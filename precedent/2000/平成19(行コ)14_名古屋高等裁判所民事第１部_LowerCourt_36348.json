@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 4,
+    "day": 24
+  },
+  "case_number": "平成19(行コ)14",
+  "case_name": "政務調査費返還代位請求控訴事件",
+  "court_name": "名古屋高等裁判所民事第１部",
+  "result": "その他",
+  "original_court_name": "名古屋地方裁判所",
+  "original_case_number": "平成17(行ウ)47",
+  "original_result": "その他",
+  "gist": "名古屋市から市議会の一会派（自由民主党名古屋市会議員団）に交付された政務調査費のうち上記会派が団費あるいは共通経費として管理する金員中，余剰金として処理された部分が，市の条例で定められた政務調査費の目的外の支出であるとして，市長に対し，上記会派に市への返還を請求するよう命じた事例",
+  "lawsuit_id": "36348",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=36348",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/348/036348_hanrei.pdf",
+  "contents": ""
+}

@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 11,
+    "day": 9
+  },
+  "case_number": "平成18(ネ)377",
+  "case_name": "損害賠償",
+  "court_name": "福岡高等裁判所第３民事部",
+  "result": "破棄自判",
+  "original_court_name": "福岡地方裁判所\n        　小倉支部",
+  "original_case_number": "平成16(ワ)279",
+  "original_result": "棄却",
+  "gist": "１　従業員が多額の使い込みをした際，雇い主が，今後まじめに働けば，刑事上の責任を問わないが，仮に再度使い込み等をしたら，親兄弟も連帯して，使い込み額を弁償するとの約定書を，従業員とその親兄弟から提出させていた場合，そのような約定も有効である。\n２　したがって，従業員が再度使い込み等すれば，上記約定書に基づき親兄弟に対して弁償を求めることは許される。ただし，そこに記載された全額を請求できるわけではなく，親兄弟の資力，雇い主の落ち度などの諸事情を考慮して，一定の限度に制限される。",
+  "lawsuit_id": "33847",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=33847",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/847/033847_hanrei.pdf",
+  "contents": ""
+}

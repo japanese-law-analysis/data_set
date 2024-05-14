@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 12,
+    "day": 3
+  },
+  "case_number": "平成18(あ)2516",
+  "case_name": "盗品等有償譲受け，詐欺，組織的な犯罪の処罰及び犯罪収益の規制等に関する法律違反被告事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第61巻9号821頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成18(う)821",
+  "original_date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 11,
+    "day": 2
+  },
+  "gist": "数罪が科刑上一罪の関係にある場合において，その最も重い罪の刑は懲役刑のみであるがその他の罪に罰金刑の任意的併科の定めがあるときに，最も重い罪の懲役刑にその他の罪の罰金刑を併科することの可否",
+  "case_gist": "数罪が科刑上一罪の関係にある場合において，その最も重い罪の刑は懲役刑のみであるがその他の罪に罰金刑の任意的併科の定めがあるときには，最も重い罪の懲役刑にその他の罪の罰金刑を併科することができる。",
+  "ref_law": "刑法54条1項",
+  "lawsuit_id": "35462",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=35462",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/462/035462_hanrei.pdf",
+  "contents": ""
+}

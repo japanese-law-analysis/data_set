@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 2,
+    "day": 14
+  },
+  "case_number": "平成17(あ)1601",
+  "case_name": "強姦，恐喝，窃盗，電子計算機使用詐欺被告事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第60巻2号165頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成16(う)1867",
+  "original_date": {
+    "era": "Heisei",
+    "year": 17,
+    "month": 6,
+    "day": 16
+  },
+  "gist": "窃取したクレジットカードの名義人氏名等を冒用してこれらをクレジットカード決済代行業者の使用する電子計算機に入力送信して電子マネーの利用権を取得した行為が電子計算機使用詐欺罪に当たるとされた事例",
+  "case_gist": "窃取したクレジットカードの名義人氏名，番号等を冒用して，これらを，インターネットを介し，クレジットカード決済代行業者の使用する電子計算機に入力送信して名義人本人が電子マネーの購入を申し込んだとする虚偽の情報を与え，その購入に関する不実の電磁的記録を作成し，電子マネーの利用権を取得した行為は，電子計算機使用詐欺罪に当たる。",
+  "ref_law": "刑法246条の2",
+  "lawsuit_id": "50388",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50388",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/388/050388_hanrei.pdf"
+}

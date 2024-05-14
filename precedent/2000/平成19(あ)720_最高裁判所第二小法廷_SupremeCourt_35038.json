@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 8,
+    "day": 8
+  },
+  "case_number": "平成19(あ)720",
+  "case_name": "不正アクセス行為の禁止等に関する法律違反，私電磁的記録不正作出，同供用被告事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第61巻5号576頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成18(う)1216",
+  "original_date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 3,
+    "day": 27
+  },
+  "gist": "不正アクセス行為の禁止等に関する法律８条１号の罪と私電磁的記録不正作出罪との罪数関係",
+  "case_gist": "不正アクセス行為の禁止等に関する法律３条所定の不正アクセス行為を手段として私電磁的記録不正作出の行為が行われた場合であっても，同法８条１号の罪と私電磁的記録不正作出罪とは，牽連犯の関係にはない。",
+  "ref_law": "刑法45条，刑法54条1項，刑法161条の2第1項，不正アクセス行為の禁止等に関する法律3条1項，不正アクセス行為の禁止等に関する法律3条2項1号，不正アクセス行為の禁止等に関する法律8条1号",
+  "lawsuit_id": "35038",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=35038",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/038/035038_hanrei.pdf",
+  "contents": ""
+}

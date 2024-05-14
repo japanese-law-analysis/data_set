@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 4,
+    "day": 28
+  },
+  "case_number": "平成20(受)804",
+  "case_name": "損害賠償請求事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第63巻4号853頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成18(ネ)5133",
+  "original_date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 1,
+    "day": 31
+  },
+  "gist": "被害者を殺害した加害者が被害者の相続人において被害者の死亡の事実を知り得ない状況を殊更に作出したため相続人がその事実を知ることができなかった場合における上記殺害に係る不法行為に基づく損害賠償請求権と民法７２４条後段の除斥期間",
+  "case_gist": "被害者を殺害した加害者が被害者の相続人において被害者の死亡の事実を知り得ない状況を殊更に作出し，そのために相続人はその事実を知ることができず，相続人が確定しないまま上記殺害の時から２０年が経過した場合において，その後相続人が確定した時から６か月内に相続人が上記殺害に係る不法行為に基づく損害賠償請求権を行使したなど特段の事情があるときは，民法１６０条の法意に照らし，同法７２４条後段の効果は生じない。\n（意見がある。）",
+  "ref_law": "民法160条，民法724条",
+  "lawsuit_id": "37556",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=37556",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/556/037556_hanrei.pdf",
+  "contents": ""
+}

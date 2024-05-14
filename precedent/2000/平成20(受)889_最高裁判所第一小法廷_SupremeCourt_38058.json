@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 10,
+    "day": 8
+  },
+  "case_number": "平成20(受)889",
+  "case_name": "著作権侵害差止等請求事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第232号25頁",
+  "original_court_name": "知的財産高等裁判所",
+  "original_case_number": "平成19(ネ)10073",
+  "original_date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 2,
+    "day": 28
+  },
+  "gist": "著作者が自然人である著作物について，当該自然人が著作者である旨がその実名をもって表示されて公表された場合における旧著作権法（昭和４５年法律第４８号による改正前のもの）による著作権の存続期間",
+  "case_gist": "著作者が自然人である著作物の旧著作権法（昭和４５年法律第４８号による改正前のもの）による著作権の存続期間については，当該自然人が著作者である旨がその実名をもって表示され，当該著作物が公表された場合には，仮に団体の著作名義の表示があったとしても，同法６条ではなく同法３条が適用され，当該著作者の死亡の時点を基準に定められる。",
+  "ref_law": "旧著作権法（昭和45年法律第48号による改正前のもの）3条，旧著作権法（昭和45年法律第48号による改正前のもの）6条",
+  "lawsuit_id": "38058",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=38058",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/058/038058_hanrei.pdf",
+  "contents": ""
+}

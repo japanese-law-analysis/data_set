@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 3,
+    "day": 13
+  },
+  "case_number": "平成17(ワ)3846",
+  "case_name": "不正競争防止法に基づく差止等請求事件",
+  "court_name": "名古屋地方裁判所民事第９部",
+  "gist": "産業用ロボットシステムの製造販売等を目的とするＸ社の管理する設計図面，設計ＣＡＤデータ等が営業秘密に当たるとされた上，Ｘ社と同種の産業用ロボットを取り扱う会社Ｙ１，Ｙ２においてＸ社を退社したＹ３，Ｙ４の設計等に係る産業用ロボットを製造，販売した行為が不正競争防止法２条１項７号，８号の不正競争行為に当たるとされた事例",
+  "lawsuit_id": "36593",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=36593",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/593/036593_hanrei.pdf",
+  "contents": ""
+}

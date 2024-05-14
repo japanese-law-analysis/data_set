@@ -1,0 +1,16 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 15,
+    "month": 1,
+    "day": 31
+  },
+  "case_number": "平成14(わ)150",
+  "case_name": "傷害，殺人被告",
+  "court_name": "高松地方裁判所",
+  "lawsuit_id": "8727",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=8727",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/727/008727_hanrei.pdf",
+  "contents": "1 13 10 29\n2 1\n2 30\n4 1\n3 14 2 19 9\n11 20\n1 3\n10 11 20\n11 20\n1 2 204 3\n199 1 2\n45 47 10 3\n14 10\n21 180\n181 1\n2 1\n3 1\n15 1 31\n"
+}

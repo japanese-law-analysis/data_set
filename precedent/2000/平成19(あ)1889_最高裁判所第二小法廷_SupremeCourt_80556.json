@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 1,
+    "day": 28
+  },
+  "case_number": "平成19(あ)1889",
+  "case_name": "公職選挙法違反被告事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第293号11頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 9,
+    "day": 7
+  },
+  "gist": "公職選挙法１２９条，１３８条１項，２３９条１項１号，３号，２４３条１項３号，公職選挙法（平成１９年法律第３号による改正前のもの）１４２条１項の合憲性",
+  "ref_law": "憲法21条，憲法31条，憲法39条，憲法98条2項，公職選挙法129条，公職選挙法138条1項，公職選挙法239条1項1号，公職選挙法239条1項3号，公職選挙法243条1項3号，公職選挙法（平成19年法律第3号による改正前のもの）142条1項，市民的及び政治的権利に関する国際規約19条，市民的及び政治的権利に関する国際規約25条",
+  "lawsuit_id": "80556",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=80556",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/556/080556_hanrei.pdf",
+  "contents": ""
+}

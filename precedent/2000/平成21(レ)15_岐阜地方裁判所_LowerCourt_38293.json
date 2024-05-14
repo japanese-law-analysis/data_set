@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 10,
+    "day": 21
+  },
+  "case_number": "平成21(レ)15",
+  "case_name": "損害賠償請求控訴事件",
+  "court_name": "岐阜地方裁判所",
+  "result": "棄却",
+  "original_court_name": "岐阜簡易裁判所",
+  "original_case_number": "平成20(ハ)2051",
+  "original_result": "棄却",
+  "gist": "コイン式駐車場の利用につき，契約が成立していないとされた事例",
+  "lawsuit_id": "38293",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=38293",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/293/038293_hanrei.pdf",
+  "contents": ""
+}

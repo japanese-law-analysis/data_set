@@ -1,0 +1,22 @@
+{
+  "trial_type": "HighCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 17,
+    "month": 12,
+    "day": 13
+  },
+  "case_number": "平成17(う)184",
+  "case_name": "指定漁業の許可及び取締り等に関する省令違反被告事件",
+  "court_name": "高松高等裁判所第１部",
+  "result": "破棄自判",
+  "article_info": "第58巻4号7頁",
+  "original_court_name": "高知地方裁判所",
+  "original_case_number": "平成17(わ)58",
+  "gist": "第三者が制限物権を有する物を当該第三者に告知，弁解，防御の機会を与えることなく指定漁業の許可及び取締り等に関する省令１０６条２項本文により没収することと憲法３１条，２９条",
+  "case_gist": "第三者が制限物権を有する物を，当該第三者に告知，弁解，防御の機会を与えることなく，指定漁業の許可及び取締り等に関する省令１０６条２項本文により没収することは，憲法３１条，２９条に違反する。",
+  "lawsuit_id": "34708",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail3?id=34708",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/708/034708_hanrei.pdf",
+  "contents": ""
+}

@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 12,
+    "day": 13
+  },
+  "case_number": "平成18(う)89",
+  "case_name": "傷害",
+  "court_name": "広島高等裁判所岡山支部         　第１部",
+  "result": "破棄自判",
+  "original_court_name": "岡山簡易裁判所",
+  "original_case_number": "平成17(ろ)174",
+  "original_result": "その他",
+  "gist": "被告人が内縁関係にあった被害者に対し，暴行を加え傷害を負わせたという傷害２件の公訴事実について，捜査段階での被告人の自白及び被害者の供述は信用することができず，他に公訴事実を認めるに足る証拠は存在せず，公訴事実が合理的な疑いを超える程度に証明されているとは言い難い。\n　よって，同事実を認定した原判決には，判決に影響を及ぼすことが明らかな事実の誤認があるとして，原判決を破棄した上で，無罪を言い渡した事案",
+  "lawsuit_id": "34051",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=34051",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/051/034051_hanrei.pdf",
+  "contents": ""
+}

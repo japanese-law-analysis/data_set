@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 7,
+    "day": 14
+  },
+  "case_number": "平成21(行コ)4",
+  "case_name": "違法確認等請求控訴事件",
+  "court_name": "名古屋高等裁判所民事第４部",
+  "result": "棄却",
+  "original_court_name": "名古屋地方裁判所",
+  "original_case_number": "平成19(行ウ)39",
+  "original_result": "その他",
+  "gist": "児童福祉施設最低基準（昭和２３年厚生省令第６３号）は，平成２０年厚生労働省令第８９号（平成２０年４月１日施行）による改正前から，保育所に設ける調理室には，乳児又は幼児に提供する食事を調理するために必要な調理機器を設置することを要求していたとされた事例",
+  "lawsuit_id": "37913",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=37913",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/913/037913_hanrei.pdf",
+  "contents": ""
+}

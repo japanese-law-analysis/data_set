@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 1,
+    "day": 24
+  },
+  "case_number": "平成19(ネ)812",
+  "case_name": "預託金返還請求控訴事件",
+  "court_name": "名古屋高等裁判所民事第４部",
+  "result": "その他",
+  "original_court_name": "名古屋地方裁判所\n        　豊橋支部",
+  "original_case_number": "平成19(ワ)304",
+  "original_result": "その他",
+  "gist": "ゴルフクラブの理事会のした預託金据置期間延長決議に対し会員のした同意に要素の錯誤がないとされた事例",
+  "lawsuit_id": "35959",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=35959",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/959/035959_hanrei.pdf",
+  "contents": ""
+}

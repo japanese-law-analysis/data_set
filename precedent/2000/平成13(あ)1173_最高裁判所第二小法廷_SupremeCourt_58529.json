@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 2,
+    "day": 24
+  },
+  "case_number": "平成13(あ)1173",
+  "case_name": "強盗殺人，死体遺棄，強盗，殺人，窃盗被告事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第289号121頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 13,
+    "month": 6,
+    "day": 14
+  },
+  "gist": "死刑の量刑が維持された事例（四日市の古美術商強盗殺人等事件）",
+  "lawsuit_id": "58529",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58529",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/529/058529_hanrei.pdf"
+}

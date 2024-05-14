@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 3,
+    "day": 20
+  },
+  "case_number": "平成18(あ)2197",
+  "case_name": "建造物損壊，公務執行妨害被告事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第61巻2号66頁",
+  "original_court_name": "広島高等裁判所",
+  "original_case_number": "平成18(う)115",
+  "original_date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 9,
+    "day": 28
+  },
+  "gist": "１　建造物に取り付けられた物が建造物損壊罪の客体に当たるか否かの判断基準\n２　住居の玄関ドアが建造物損壊罪の客体に当たるとされた事例",
+  "case_gist": "１　建造物に取り付けられた物が建造物損壊罪の客体に当たるか否かは，当該物と建造物との接合の程度のほか，当該物の建造物における機能上の重要性をも総合考慮して決すべきである。\n２　住居の玄関ドアとして，外壁と接続し，外界とのしゃ断，防犯，防風，防音等の重要な役割を果たしている物（判文参照）は，適切な工具を使用すれば損壊せずに取り外しが可能であるとしても，建造物損壊罪の客体に当たる。",
+  "ref_law": "(１，２につき）刑法260条前段",
+  "lawsuit_id": "34384",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=34384",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/384/034384_hanrei.pdf",
+  "contents": ""
+}

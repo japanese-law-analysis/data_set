@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 12,
+    "day": 21
+  },
+  "case_number": "平成16(ワ)3505",
+  "case_name": "損害賠償請求事件",
+  "court_name": "東京地方裁判所民事第１４部",
+  "result": "棄却",
+  "lawsuit_id": "34041",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=34041",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/041/034041_hanrei.pdf",
+  "contents": ""
+}

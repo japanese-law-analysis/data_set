@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 16,
+    "month": 4,
+    "day": 19
+  },
+  "case_number": "平成15(あ)1796",
+  "case_name": "電気通信事業法違反被告事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第58巻4号281頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成15(う)1040",
+  "original_date": {
+    "era": "Heisei",
+    "year": 15,
+    "month": 7,
+    "day": 30
+  },
+  "gist": "盗聴録音された通話内容を再生して第三者に聞かせた行為につき自らは盗聴録音に関与していないとしても電気通信事業法（平成１１年法律第１３７号による改正前のもの）１０４条１項の罪が成立するとされた事例",
+  "case_gist": "電気通信事業者が現に取り扱っていた通信の際に盗聴録音された通話内容を再生して十数名の第三者に聞かせるなどした判示の行為は，たとえ自らは盗聴録音に関与していないとしても，電気通信事業法（平成１１年法律第１３７号による改正前のもの）１０４条１項の罪を構成する。",
+  "ref_law": "電気通信事業法4条，電気通信事業法（平成11年法律第137号による改正前のもの）104条",
+  "lawsuit_id": "50062",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50062",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/062/050062_hanrei.pdf"
+}

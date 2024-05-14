@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 10,
+    "day": 19
+  },
+  "case_number": "平成17(行ヒ)390",
+  "case_name": "病院開設許可処分取消請求事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第226号141頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成17(行コ)76",
+  "original_date": {
+    "era": "Heisei",
+    "year": 17,
+    "month": 9,
+    "day": 13
+  },
+  "gist": "医療法（平成１８年法律第８４号による改正前のもの）７条に基づく病院の開設許可の取消訴訟と同病院の開設地の付近において医療施設を開設し医療行為をする医療法人等の原告適格",
+  "case_gist": "医療法（平成１８年法律第８４号による改正前のもの）７条に基づく病院の開設許可の取消訴訟につき，同病院の開設地の市又はその付近において医療施設を開設し医療行為をする医療法人，社会福祉法人及び医師並びに同市内の医師等の構成する医師会は，原告適格を有しない。",
+  "ref_law": "医療法（平成18年法律第84号による改正前のもの）7条，医療法（平成18年法律第84号による改正前のもの）30条の3，医療法（平成18年法律第84号による改正前のもの）30条の7，行政事件訴訟法9条",
+  "lawsuit_id": "35281",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=35281",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/281/035281_hanrei.pdf",
+  "contents": ""
+}

@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 9,
+    "day": 2
+  },
+  "case_number": "平成20(わ)719",
+  "case_name": "競売入札妨害，贈賄被告事件",
+  "court_name": "大阪地方裁判所第１４刑事部",
+  "gist": "建設会社の代表取締役であった被告人が，公共工事の競争入札に関し，共犯者である公園事務所長や町長から非公表の入札書比較価格や最低制限比較価格を内密に知らせてもらい，前者及びそのあっせんに対する謝礼として，公園事務所長外１名に対し合計１００万円の賄賂を渡すなどしたことに対し，執行猶予付判決が言い渡された事例",
+  "lawsuit_id": "36829",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=36829",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/829/036829_hanrei.pdf",
+  "contents": ""
+}

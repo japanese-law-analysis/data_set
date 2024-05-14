@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 12,
+    "month": 2,
+    "day": 29
+  },
+  "case_number": "平成10(行ツ)19",
+  "case_name": "審決取消請求事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第54巻2号709頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成4(行ケ)14",
+  "original_date": {
+    "era": "Heisei",
+    "year": 9,
+    "month": 8,
+    "day": 7
+  },
+  "gist": "「植物の新品種を育種し増殖する方法」に係る発明の育種過程における反復可能性",
+  "case_gist": "「植物の新品種を育種し増殖する方法」に係る発明の育種過程における反復可能性は、科学的にその植物を再現することが当業者において可能であれば足り、その確率が高いことを要しない。",
+  "ref_law": "特許法2条1項，特許法29条1項",
+  "lawsuit_id": "52244",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52244",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/244/052244_hanrei.pdf"
+}

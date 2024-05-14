@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 17,
+    "month": 7,
+    "day": 19
+  },
+  "case_number": "平成17(行ツ)73",
+  "case_name": "選挙無効請求事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第59巻6号1817頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成15(行ケ)551",
+  "original_date": {
+    "era": "Heisei",
+    "year": 16,
+    "month": 12,
+    "day": 9
+  },
+  "gist": "衆議院小選挙区選出議員の選挙において当選人となった議員が辞職したことにより選挙訴訟の訴えの利益が失われる場合",
+  "case_gist": "衆議院小選挙区選出議員の選挙を無効とする判決を求める訴訟は，当該選挙において当選人となった議員が辞職した場合において，その選挙に関し，辞職した議員以外の者が繰上補充又は当選人の更正決定により当選人となる可能性がなく，かつ，上記訴訟の結果選挙の一部のみが無効とされる可能性もないときは，その訴えの利益を失う。",
+  "ref_law": "公職選挙法33条の2第7項，公職選挙法95条2項，公職選挙法96条，公職選挙法109条，公職選挙法112条1項，公職選挙法113条1項，公職選挙法204条，公職選挙法205条1項，公職選挙法208条1項",
+  "lawsuit_id": "52432",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52432",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/432/052432_hanrei.pdf"
+}

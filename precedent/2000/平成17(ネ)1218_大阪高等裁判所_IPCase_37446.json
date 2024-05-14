@@ -1,0 +1,18 @@
+{
+  "trial_type": "IPCase",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 3,
+    "day": 19
+  },
+  "case_number": "平成17(ネ)1218",
+  "case_name": "実用新案権侵害差止等請求控訴事件",
+  "court_name": "大阪高等裁判所",
+  "right_type": "実用新案権",
+  "lawsuit_type": "民事訴訟",
+  "lawsuit_id": "37446",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail7?id=37446",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/446/037446_hanrei.pdf",
+  "contents": "1 1\n3 4\n5 6\n5 6\n14 16\nb 5 6\na 7\nmm\n1 4\nmm\nmm\n1 4\n2 2\n3 3\n-\n4 4\na\nb\nb\nb\nb\n5 6\n2 2\nmm\nmm\n2 3 4 5\n6 10 11\n11 4\n1 11\n2 5\n3 2 3 6\nmm\n5 7\n6 8\n7 5 9\n7 7 8\n8 7 8\n1 8 5\n2 8\n3 8\n"
+}

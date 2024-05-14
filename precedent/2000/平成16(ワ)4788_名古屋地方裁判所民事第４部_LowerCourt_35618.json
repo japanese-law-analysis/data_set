@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 10,
+    "day": 25
+  },
+  "case_number": "平成16(ワ)4788",
+  "case_name": "損害賠償請求",
+  "court_name": "名古屋地方裁判所民事第４部",
+  "gist": "ＹがＸ社の代表取締役であり，かつ，Ａ社の事実上の主宰者であるという場合において，Ａ社がＸ社の営業の部類に属する取引を行ったことにつきＹに競業避止義務違反が認められるが，Ａ社に同取引による利益が認められないという事情の下で，Ｙに対し，Ｙが得た利益の額をＸ社の被った損害額と推定して損害賠償を命じた事例",
+  "lawsuit_id": "35618",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=35618",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/618/035618_hanrei.pdf",
+  "contents": ""
+}

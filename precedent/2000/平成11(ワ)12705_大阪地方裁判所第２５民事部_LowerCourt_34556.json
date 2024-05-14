@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 4,
+    "day": 13
+  },
+  "case_number": "平成11(ワ)12705",
+  "case_name": "損害賠償請求事件",
+  "court_name": "大阪地方裁判所第２５民事部",
+  "gist": "銀行の平成９年９月の中間決算期におけるいわゆる税法基準に基づいた貸倒引当金の繰入処理等を記載した半期報告書について，税法基準はその当時における公正な会計慣行とされていたものであり，同報告書のうちに重要な事項について虚偽の記載があるとはいえないとされた事例",
+  "lawsuit_id": "34556",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=34556",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/556/034556_hanrei.pdf",
+  "contents": ""
+}

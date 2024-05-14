@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 10,
+    "day": 30
+  },
+  "case_number": "平成17(ネ)73",
+  "case_name": "損害賠償（通称　北海道銀行損害賠償）",
+  "court_name": "札幌高等裁判所第３民事部",
+  "result": "棄却",
+  "original_court_name": "札幌地方裁判所",
+  "original_case_number": "平成14(ワ)2587",
+  "original_result": "棄却",
+  "gist": "地方銀行の行員の自殺は過酷な長時間労働やノルマの設定等による精神的，肉体的負荷を原因としてうつ病に罹患した結果によるもので，行員の自殺と業務との間には相当因果関係があるとして，遺族から地方銀行に対しなされた不法行為又は債務不履行に基づく損害賠償請求が，行員の自殺は予見できず，また，自殺を防止するための措置を採ることができたとは認められないとしてその請求が棄却された事例",
+  "lawsuit_id": "35384",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=35384",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/384/035384_hanrei.pdf",
+  "contents": ""
+}

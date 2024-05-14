@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 14,
+    "month": 9,
+    "day": 12
+  },
+  "case_number": "平成11(行ヒ)50",
+  "case_name": "奈良県食糧費情報公開請求事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集民　第207号77頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成10(行コ)14",
+  "original_date": {
+    "era": "Heisei",
+    "year": 11,
+    "month": 1,
+    "day": 21
+  },
+  "gist": "請求書に記載された債権者の取引銀行名及び口座番号並びにこれに押なつされた印影が奈良県情報公開条例（平成８年奈良県条例第２８号）１０条３号に該当しないとされた事例",
+  "case_gist": "飲食業者が奈良県に交付した飲食代金の請求書に記載した振込送金先を指定する趣旨の取引銀行名及び口座番号並びに同請求書に押なつした当該業者の印影は，判示の事情の下においては，「法人（国及び地方公共団体を除く。）その他の団体に関する情報又は事業を営む個人の当該事業に関する情報」についての非開示事由を定める奈良県情報公開条例（平成８年奈良県条例第２８号）１０条３号に該当しない。",
+  "ref_law": "奈良県情報公開条例（平成8年奈良県条例第28号）10条3号",
+  "lawsuit_id": "76092",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=76092",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/092/076092_hanrei.pdf"
+}

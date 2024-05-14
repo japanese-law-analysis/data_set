@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 11,
+    "day": 15
+  },
+  "case_number": "平成18(行コ)34",
+  "case_name": "行政文書不開示処分取消請求控訴事件（原審・名古屋地方裁判所平成１７年(行ウ)第３７号，第４４号）",
+  "court_name": "名古屋高等裁判所民事第４部",
+  "result": "棄却",
+  "original_court_name": "名古屋地方裁判所",
+  "original_case_number": "平成17(行ウ)37",
+  "original_result": "その他",
+  "gist": "エネルギーの使用の合理化に関する法律に基づいて事業者が提出した定期報告書中の「燃料等の使用量，電気の使用量」等の情報が，行政機関の保有する情報の公開に関する法律５条２号イの不開示情報に当たらないとして，行政文書の公開が命じられた事例",
+  "lawsuit_id": "35484",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=35484",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/484/035484_hanrei.pdf",
+  "contents": ""
+}

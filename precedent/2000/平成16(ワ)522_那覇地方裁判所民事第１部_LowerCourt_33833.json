@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 11,
+    "day": 1
+  },
+  "case_number": "平成16(ワ)522",
+  "case_name": "損害賠償請求事件",
+  "court_name": "那覇地方裁判所民事第１部",
+  "result": "その他",
+  "gist": "原告らに対して外国為替証拠金取引の勧誘を行った会社の取締役であった被告らに対して，各被告らが取締役在任中に取引を開始した原告らの損害について，商法（平成１７年法律第８７号による改正前のもの）２６６条ノ３第１項の責任を認めた事例。",
+  "lawsuit_id": "33833",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=33833",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/833/033833_hanrei.pdf",
+  "contents": ""
+}

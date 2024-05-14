@@ -1,0 +1,20 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 4,
+    "day": 20
+  },
+  "case_number": "平成18(レ)79",
+  "case_name": "敷金返還請求控訴事件",
+  "court_name": "京都地方裁判所第２民事部",
+  "original_court_name": "木津簡易裁判所",
+  "original_case_number": "平成18(ハ)106",
+  "original_result": "棄却",
+  "gist": "控訴人が，被控訴人との間で締結した賃貸借契約には，賃貸借契約終了時に敷金の一部を返還しない旨のいわゆる敷引特約が付されており，被控訴人から敷金35万円のうち5万円しか返還されなかったことから，上記敷引特約が消費者契約法10条により全部無効であるとして，被控訴人に対し，敷金残金30万円などの返還を求めたところ，上記敷引特約は消費者契約法10条により無効であると判断された事例",
+  "lawsuit_id": "34596",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=34596",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/596/034596_hanrei.pdf",
+  "contents": "a b c\n2 4\n"
+}

@@ -1,0 +1,19 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 10,
+    "day": 16
+  },
+  "case_number": "平成19(ネ)222",
+  "case_name": "損害賠償等請求控訴事件",
+  "court_name": "広島高等裁判所第４部",
+  "original_court_name": "広島地方裁判所",
+  "original_case_number": "平成15(ワ)2047",
+  "gist": "本件は，民間人登用校長の自殺に関して公表された報告書により名誉を毀損されたとする教職員団体とその所属教員が報告書作成者の属する県及び市等に対し慰謝料を請求し，また，同教員が上記事件後に受けた二度の異動処分は人事権の裁量を逸脱した違法なものであるとして同様に慰謝料を請求した事案である。\n本判決は，各報告書の名誉毀損性を認めた上，その内容は重要な部分で真実とは認められないとし，また，同教員に対する第二次異動処分は，これを正当とする合理的事由がなく違法であるとし，県及び市の国家賠償法に基づく責任をいずれも一部認めた（なお，併せて相手方とされた県，市教育委員会に対する訴えは不適法として却下している。）。",
+  "lawsuit_id": "37088",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=37088",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/088/037088_hanrei.pdf",
+  "contents": ""
+}

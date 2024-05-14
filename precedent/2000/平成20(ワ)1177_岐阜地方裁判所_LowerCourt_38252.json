@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 10,
+    "day": 9
+  },
+  "case_number": "平成20(ワ)1177",
+  "case_name": "損害賠償請求事件",
+  "court_name": "岐阜地方裁判所",
+  "result": "その他",
+  "gist": "受刑者の発信する文書について，刑務所職員の糊付け封緘処理に過失があるとされた事例",
+  "lawsuit_id": "38252",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=38252",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/252/038252_hanrei.pdf",
+  "contents": ""
+}

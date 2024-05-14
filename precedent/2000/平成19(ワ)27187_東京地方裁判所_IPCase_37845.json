@@ -1,0 +1,18 @@
+{
+  "trial_type": "IPCase",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 7,
+    "day": 15
+  },
+  "case_number": "平成19(ワ)27187",
+  "case_name": "特許権侵害差止等",
+  "court_name": "東京地方裁判所",
+  "right_type": "特許権",
+  "lawsuit_type": "民事訴訟",
+  "lawsuit_id": "37845",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail7?id=37845",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/845/037845_hanrei.pdf",
+  "contents": ""
+}

@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 16,
+    "month": 6,
+    "day": 25
+  },
+  "case_number": "平成10(あ)551",
+  "case_name": "営利誘拐，監禁，強盗殺人，死体遺棄，みのしろ金目的拐取，拐取者みのしろ金取得被告事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第285号503頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 10,
+    "month": 3,
+    "day": 17
+  },
+  "gist": "死刑の量刑が維持された事例（岩手，福島の営利誘拐，強盗殺人等事件）",
+  "lawsuit_id": "74580",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74580",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/580/074580_hanrei.pdf"
+}

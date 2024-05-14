@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 6,
+    "day": 24
+  },
+  "case_number": "平成19(受)1146",
+  "case_name": "損害賠償請求事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第228号385頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成17(ネ)3272",
+  "original_date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 3,
+    "day": 29
+  },
+  "gist": "Ｙが投資資金名下にＸから金員を騙取した場合に，Ｘからの不法行為に基づく損害賠償請求においてＹが詐欺の手段として配当金名下にＸに交付した金員の額を損益相殺等の対象としてＸの損害額から控除することは，民法７０８条の趣旨に反するものとして許されないとされた事例",
+  "case_gist": "Ｙが自己を介して米国債を購入すれば高額の配当金を得ることができると架空の事実を申し向けてＸから金員を騙取した場合において，Ｙが，詐欺の発覚を防ぎ，更なる詐欺を実行するための手段として，あたかも米国債を購入して配当金を得たかのように装い，配当金名下にＸに金員を交付したという事情の下では，ＸのＹに対する不法行為に基づく損害賠償請求において同金員の額を損益相殺ないし損益相殺的な調整の対象としてＸの損害額から控除することは，民法７０８条の趣旨に反するものとして許されない。\n（反対意見がある。）",
+  "ref_law": "民法708条，民法709条，刑法246条1項",
+  "lawsuit_id": "36505",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=36505",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/505/036505_hanrei.pdf",
+  "contents": ""
+}

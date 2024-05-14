@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 7,
+    "day": 6
+  },
+  "case_number": "平成16(行コ)4",
+  "case_name": "事業認定取消請求，収用採決取消請求控訴事件（原審・岐阜地方裁判所平成１１年（行ウ）第６号，平成１３年（行ウ）第１１号）",
+  "court_name": "名古屋高等裁判所民事第４部",
+  "result": "棄却",
+  "original_court_name": "岐阜地方裁判所",
+  "original_case_number": "平成11(行ウ)6",
+  "original_result": "棄却",
+  "gist": "建設大臣（当時）がした一級河川木曽川水系徳山ダム建設工事及びこれに伴う附帯工事に関する事業認定処分は，その裁量に濫用・逸脱は認められず適法であり，また，これを前提としてγ１がした権利取得裁決及び明渡裁決も適法であるとして，これらの取消請求がいずれも否定された事案",
+  "lawsuit_id": "33502",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=33502",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/502/033502_hanrei.pdf",
+  "contents": "\u0001\n"
+}

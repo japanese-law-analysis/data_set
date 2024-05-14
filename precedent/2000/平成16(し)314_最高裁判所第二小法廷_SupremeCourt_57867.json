@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 16,
+    "month": 11,
+    "day": 11
+  },
+  "case_number": "平成16(し)314",
+  "case_name": "強制的措置許可決定に対する特別抗告事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第286号569頁",
+  "original_court_name": "東京家庭裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 16,
+    "month": 9,
+    "day": 30
+  },
+  "gist": "家庭裁判所の強制的措置許可決定に対する特別抗告の可否（消極）",
+  "ref_law": "少年法6条3項，少年法18条2項，児童福祉法27条の3，刑訴法433条",
+  "lawsuit_id": "57867",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57867",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/867/057867_hanrei.pdf"
+}

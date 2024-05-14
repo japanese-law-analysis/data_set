@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 2,
+    "day": 29
+  },
+  "case_number": "平成17(あ)959",
+  "case_name": "逮捕監禁，強姦，殺人被告事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第293号373頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 17,
+    "month": 3,
+    "day": 29
+  },
+  "gist": "被害者１名の殺人等の事案につき死刑の量刑が維持された事例（三島女子短大生焼殺事件）",
+  "lawsuit_id": "80564",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=80564",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/564/080564_hanrei.pdf",
+  "contents": ""
+}

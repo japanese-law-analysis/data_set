@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 14,
+    "month": 9,
+    "day": 24
+  },
+  "case_number": "平成10(オ)1046",
+  "case_name": "損害賠償請求事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第207号175頁",
+  "original_court_name": "仙台高等裁判所\n        　秋田支部",
+  "original_case_number": "平成8(ネ)37",
+  "original_date": {
+    "era": "Heisei",
+    "year": 10,
+    "month": 3,
+    "day": 9
+  },
+  "gist": "医師が末期がんの患者の家族に病状等を告知しなかったことが診療契約に付随する義務に違反するとされた事例",
+  "case_gist": "患者が末期がんにり患し余命が限られていると診断したが患者本人にはその旨を告知すべきでないと判断した医師及び同患者の担当を引き継いだ医師らが，患者の家族に対して病状等を告知しなかったことは，容易に連絡を取ることができ，かつ，告知に適した患者の家族がいたなどの判示の事情の下においては，診療契約に付随する義務に違反する。\n（反対意見がある。）",
+  "ref_law": "民法415条",
+  "lawsuit_id": "76088",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=76088",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/088/076088_hanrei.pdf"
+}

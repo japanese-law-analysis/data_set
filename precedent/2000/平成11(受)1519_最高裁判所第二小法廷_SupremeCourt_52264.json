@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 15,
+    "month": 4,
+    "day": 18
+  },
+  "case_number": "平成11(受)1519",
+  "case_name": "約定金，寄託金返還請求事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第57巻4号366頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成10(ネ)3601",
+  "original_date": {
+    "era": "Heisei",
+    "year": 11,
+    "month": 9,
+    "day": 29
+  },
+  "gist": "１　法律行為が公序に反することを目的とするものであるかどうかを判断する基準時\n２  証券取引法４２条の２第１項３号が平成３年法律第９６号による同法の改正前に締結された損失保証や特別の利益の提供を内容とする契約に基づく履行の請求をも禁止していることと憲法２９条",
+  "case_gist": "１  法律行為が公序に反することを目的とするものであるとして無効になるかどうかは，法律行為がされた時点の公序に照らして判断すべきである。\n２　証券取引法４２条の２第１項３号が，平成３年法律第９６号による同法の改正前に締結された損失保証や特別の利益の提供を内容とする契約に基づいてその履行を請求する場合を含め，顧客等に対する損失補てんや利益追加のための財産上の利益の提供を禁止していることは，憲法２９条に違反しない。",
+  "ref_law": "民法90条，憲法29条，証券取引法42条の2第1項3号",
+  "lawsuit_id": "52264",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52264",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/264/052264_hanrei.pdf"
+}

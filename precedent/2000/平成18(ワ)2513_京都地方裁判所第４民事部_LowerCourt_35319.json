@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 10,
+    "day": 9
+  },
+  "case_number": "平成18(ワ)2513",
+  "case_name": "損害賠償請求事件",
+  "court_name": "京都地方裁判所第４民事部",
+  "gist": "1　商業施設の駐車場内において通行車両が男児を轢下し死亡させた交通事故につき，同児の両親及び姉の損害賠償請求を一部認容した事案\n2　交通事故の被害者がPTSD等の精神疾患に罹患したことによる治療費等の損害につき，交通事故による損害と認めなかった事案。\n3　いわゆる懲罰的・制裁的慰謝料の請求を認めなかった事案",
+  "lawsuit_id": "35319",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=35319",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/319/035319_hanrei.pdf",
+  "contents": ""
+}

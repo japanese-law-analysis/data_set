@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 7,
+    "day": 6
+  },
+  "case_number": "平成21(む)87",
+  "case_name": "",
+  "court_name": "鳥取地方裁判所",
+  "result": "棄却",
+  "lawsuit_id": "38622",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=38622",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/622/038622_hanrei.pdf",
+  "contents": "20  7  3  A\n1     316  15  1  7\nB  20  7\n21  7  3\nB  A\nA\nA\nA\n20  7  3\nB\nA\n"
+}

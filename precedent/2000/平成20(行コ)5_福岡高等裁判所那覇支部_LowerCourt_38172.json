@@ -1,0 +1,20 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 10,
+    "day": 15
+  },
+  "case_number": "平成20(行コ)5",
+  "case_name": "泡瀬干潟埋立公金支出差止等請求控訴事件",
+  "court_name": "福岡高等裁判所那覇支部",
+  "result": "その他",
+  "original_court_name": "那覇地方裁判所",
+  "original_result": "その他",
+  "gist": "沖縄県知事及び沖縄市長に対してされた，中城湾港泡瀬地区公有水面埋立事業・臨海部土地造成事業に関する一切の公金の支出等の差止めを求める請求が，判決確定時までに支払義務が生じた部分並びに調査費及びこれに伴う人件費に関する部分を除き，認容された事例",
+  "lawsuit_id": "38172",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=38172",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/172/038172_hanrei.pdf",
+  "contents": ""
+}

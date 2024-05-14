@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 10,
+    "day": 28
+  },
+  "case_number": "平成19(行ウ)18",
+  "case_name": "審査決定取消請求事件",
+  "court_name": "那覇地方裁判所",
+  "result": "その他",
+  "gist": "那覇空港のターミナルビルとして使用されていた建物の固定資産課税台帳登録価格について，固定資産評価審査委員会が適用した需給事情による減点補正率を０．９としたのが，同ビルの特殊性について十分検討しておらず違法であるとして，同委員会の審査申出に対する決定が取り消された事例",
+  "lawsuit_id": "37046",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=37046",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/046/037046_hanrei.pdf",
+  "contents": "\u0001\n"
+}

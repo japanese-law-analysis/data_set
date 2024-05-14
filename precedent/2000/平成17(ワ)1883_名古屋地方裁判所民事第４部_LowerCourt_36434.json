@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 2,
+    "day": 13
+  },
+  "case_number": "平成17(ワ)1883",
+  "case_name": "損害賠償請求事件",
+  "court_name": "名古屋地方裁判所民事第４部",
+  "gist": "県立病院において２度にわたり脳動脈瘤頸部クリッピング術を受けた患者に意識障害，右上下肢麻痺及び左下肢麻痺の後遺障害が残ったことについて，医師に，?第１の手術の際に動脈瘤ではなく前交通動脈にクリップを掛けた過失が認められるが結果との間の相当因果関係は認められないとされ，?第２の手術の前に説明義務違反が認められるとされた事例",
+  "lawsuit_id": "36434",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=36434",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/434/036434_hanrei.pdf",
+  "contents": ""
+}

@@ -1,0 +1,21 @@
+{
+  "trial_type": "HighCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 3,
+    "day": 6
+  },
+  "case_number": "平成20(う)1168",
+  "case_name": "詐欺被告事件",
+  "court_name": "東京高等裁判所第４刑事部",
+  "result": "棄却",
+  "article_info": "第62巻1号23頁",
+  "original_court_name": "東京地方裁判所",
+  "gist": "販売した建物の安全性に重大な瑕疵があることを知りながらその残代金の支払を受けた行為につき不作為による詐欺罪が成立するとされた事例",
+  "case_gist": "マンション販売会社の代表取締役が，その販売したマンションの構造計算書の計算結果が虚偽であり，建物の安全性が建築基準法に規定する構造計算によって確認されていないことを認識しながら，マンション居室の買主から残代金の支払を受けた行為は，買主に対し建物の安全性に重大な瑕疵がある旨を告げるなどして残代金の支払請求を一時的にでも撤回すべき作為義務に反するものとして，不作為による詐欺罪に当たる。",
+  "lawsuit_id": "37956",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail3?id=37956",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/956/037956_hanrei.pdf",
+  "contents": ""
+}

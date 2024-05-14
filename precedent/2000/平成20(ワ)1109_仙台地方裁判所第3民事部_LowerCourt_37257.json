@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 11,
+    "day": 25
+  },
+  "case_number": "平成20(ワ)1109",
+  "case_name": "建物区分所有法５９条に基づく競売等請求事件",
+  "court_name": "仙台地方裁判所第3民事部",
+  "gist": "マンションにおける被告の行為が，建物の管理又は使用に関し，区分所有者の共同の利益に反するものに該当し，かつ，将来，同種の行為に及ぶ危険性が高いとして，建物区分所有等に関する法律５９条１項に基づく区分所有権及び敷地利用権の競売申立てを認容した事例",
+  "lawsuit_id": "37257",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=37257",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/257/037257_hanrei.pdf",
+  "contents": "1 2 3 6\n"
+}

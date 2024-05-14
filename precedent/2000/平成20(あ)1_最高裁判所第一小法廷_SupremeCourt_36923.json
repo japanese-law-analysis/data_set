@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 10,
+    "day": 16
+  },
+  "case_number": "平成20(あ)1",
+  "case_name": "道路交通法違反，道路運送車両法違反，自動車損害賠償保障法違反，危険運転致死被告事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第62巻9号2797頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "平成19(う)402",
+  "original_date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 11,
+    "day": 19
+  },
+  "gist": "刑法（平成１９年法律第５４号による改正前のもの）２０８条の２第２項後段にいう赤色信号を「殊更に無視し」の意義",
+  "case_gist": "刑法（平成１９年法律第５４号による改正前のもの）２０８条の２第２項後段にいう赤色信号を「殊更に無視し」とは，およそ赤色信号に従う意思のないものをいい，赤色信号であることの確定的な認識がない場合であっても，信号の規制自体に従うつもりがないため，その表示を意に介することなく，たとえ赤色信号であったとしてもこれを無視する意思で進行する行為も，これに含まれる。",
+  "ref_law": "刑法（平成19年法律第54号による改正前のもの）208条の2第2項後段",
+  "lawsuit_id": "36923",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=36923",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/923/036923_hanrei.pdf",
+  "contents": ""
+}

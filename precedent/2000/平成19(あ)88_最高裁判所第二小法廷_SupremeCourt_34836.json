@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 6,
+    "day": 19
+  },
+  "case_number": "平成19(あ)88",
+  "case_name": "覚せい剤取締法違反被告事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第61巻4号369頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_case_number": "平成18(う)101",
+  "original_date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 12,
+    "day": 14
+  },
+  "gist": "１　検察官の出席がないまま判決を宣告した後退廷した被告人を呼び戻して検察官出席の上再度行った判決の宣告が法的な効果を有しないとされた事例\n２　検察官の出席がないまま行われた第１審の判決宣告手続の違法と判決に対する影響の有無",
+  "case_gist": "１　第１審の裁判官が，判決宣告期日として指定告知した日時に，検察官の出席がない法廷で，判決を宣告した上，被告人の退廷を許し，被告人が法廷外に出た後，勾留場所に戻った被告人を呼び戻して検察官出席の上再度行った判決の宣告は，法的な効果を有しない。\n２　検察官の出席がないまま行われた第１審の判決宣告手続には，判決に影響を及ぼすことが明らかな違法がある。",
+  "ref_law": "（１，２につき）刑訴法282条2項，刑訴法342条，刑訴規則35条　（２につき）刑訴法379条",
+  "lawsuit_id": "34836",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=34836",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/836/034836_hanrei.pdf",
+  "contents": ""
+}

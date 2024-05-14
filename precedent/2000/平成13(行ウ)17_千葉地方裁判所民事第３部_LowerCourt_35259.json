@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 8,
+    "day": 21
+  },
+  "case_number": "平成13(行ウ)17",
+  "case_name": "産業廃棄物処理施設設置許可処分取消請求事件",
+  "court_name": "千葉地方裁判所民事第３部",
+  "result": "その他",
+  "gist": "県知事が事業者に対してした産業廃棄物の管理型最終処分場の設置許可につき周辺住民が提起した取消訴訟において，周辺住民が生命，身体等に係る重大な被害を直接に受けるおそれがある災害等が想定される程度に事業者の経理的基礎を欠く違法があるとして，上記許可が取り消された事例",
+  "lawsuit_id": "35259",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=35259",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/259/035259_hanrei.pdf",
+  "contents": ""
+}

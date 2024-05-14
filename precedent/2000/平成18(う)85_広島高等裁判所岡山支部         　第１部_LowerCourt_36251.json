@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 2,
+    "day": 27
+  },
+  "case_number": "平成18(う)85",
+  "case_name": "住居侵入，強盗殺人，（岡山地裁平成１７年（わ）第２２２号について原判決認定罪名・強盗致死），道路交通法違反，道路運送車両法違反，自動車損害賠償保障法違反",
+  "court_name": "広島高等裁判所岡山支部         　第１部",
+  "result": "破棄自判",
+  "original_court_name": "岡山地方裁判所",
+  "original_case_number": "平成17(わ)21",
+  "original_result": "その他",
+  "gist": "原判決は，金品強取の目的で住居に侵入した後，被害者の頸部を絞めて頸部圧迫に基づく窒息により死亡させた事案に関し，被告人が未必的にも殺意を有していたとは認められず，強盗致死罪の限度で刑事責任を負うのに止まると判断し，その後敢行された被殺者１名の強盗殺人等と併せて無期懲役を言い渡したが，原判決には殺意について事実の誤認があるとして，これを破棄し，死刑を言い渡した事例",
+  "lawsuit_id": "36251",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=36251",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/251/036251_hanrei.pdf",
+  "contents": ""
+}

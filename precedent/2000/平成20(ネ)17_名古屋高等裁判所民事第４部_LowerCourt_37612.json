@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 2,
+    "day": 26
+  },
+  "case_number": "平成20(ネ)17",
+  "case_name": "損害賠償請求控訴事件",
+  "court_name": "名古屋高等裁判所民事第４部",
+  "result": "その他",
+  "original_court_name": "名古屋地方裁判所",
+  "original_case_number": "平成16(ワ)3089",
+  "original_result": "その他",
+  "gist": "1　健康食品である粉末あまめしばを摂取した後に閉塞性細気管支炎を発症した消費者につき同食品の摂取と同疾患との間に因果関係があるとされた事例\n2　健康食品である粉末あまめしばに製造物責任法2条2項の「欠陥」があるとされた事例\n3　健康食品を摂取した消費者が閉塞性細気管支炎を発症したことにつき，疫学的見地から，消費者の体質ないし素因が相当程度影響しているとして，損害額からその4割を減額した事例",
+  "lawsuit_id": "37612",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=37612",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/612/037612_hanrei.pdf",
+  "contents": ""
+}

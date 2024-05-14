@@ -1,0 +1,18 @@
+{
+  "trial_type": "IPCase",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 1,
+    "day": 28
+  },
+  "case_number": "平成18(行ケ)10305",
+  "case_name": "審決取消請求事件",
+  "court_name": "知的財産高等裁判所",
+  "right_type": "特許権",
+  "lawsuit_type": "行政訴訟",
+  "lawsuit_id": "35640",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail7?id=35640",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/640/035640_hanrei.pdf",
+  "contents": "sin cos\nsin cos\nsin cos\n10 11\nsin cos\nsin t\nt\n12 sin\ncos\nsin cos\n/ 11 12\n1 3 4\nsin cos\nV\nsin cos\nt\n1 2 3\nsin cos\np\nr r r\nr r\nr\nsin\nsin 5\n7 8\nsin sin 7\ncos sin 8\ntan sin cos\ntan 9\nsin cos\n3 5 10\nsin t\ncos sin t sin cos t 10\nsin cos\nsin cos\nsin\ncos\nsin\nsin\n3 10\nsin t\nsin t\nsin cos\nsin cos\n6 8\n3 2\nsin cos\n/\ntan sin\ncos\nsin cos\nsin cos\nsin cos\ntan\ntan\nsin\ncos\nsin cos\n4 8\n"
+}

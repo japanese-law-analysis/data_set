@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 2,
+    "day": 15
+  },
+  "case_number": "平成18(ワ)2187",
+  "case_name": "損害賠償請求事件",
+  "court_name": "名古屋地方裁判所民事第５部",
+  "result": "その他",
+  "gist": "１　大手英会話学校が受講生の所属する校舎を廃止して近隣校に移転統合を行ったことが外国語会話レッスン受講契約の債務不履行とはならないとされた事例\n　　　　　　　　２　特定継続的役務提供契約において中途解約の際に契約時単価とは別の単価を用いて清算を行う旨の清算規定が特定商取引に関する法律４９条２項に反し無効とされた事例\n　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　３　いわゆるポイント制レッスンシステムによる外国語会話レッスン受講契約の中途解約の際に有効期限を経過したポイント及び契約継続中に無償で付与されたポイントがいずれも清算対象とはならないとされた事例",
+  "lawsuit_id": "34509",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=34509",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/509/034509_hanrei.pdf",
+  "contents": ""
+}

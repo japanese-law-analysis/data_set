@@ -1,0 +1,20 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 12,
+    "day": 11
+  },
+  "case_number": "平成17(ネ)154",
+  "case_name": "住民基本台帳ネットワーク差止等請求控訴事件",
+  "court_name": "名古屋高等裁判所金沢支部",
+  "result": "破棄自判",
+  "original_court_name": "金沢地方裁判所",
+  "original_case_number": "平成14(ワ)836",
+  "gist": "住民基本台帳ネットワーク（住基ネット）は，被控訴人らのプライバシー権（自己情報コントロール権），氏名権及び行政権力による包括的管理からの自由をいずれも侵害するものではなく，憲法１３条に違反しないとされた事例",
+  "lawsuit_id": "34009",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=34009",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/009/034009_hanrei.pdf",
+  "contents": ""
+}

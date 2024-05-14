@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 12,
+    "day": 18
+  },
+  "case_number": "平成21(受)35",
+  "case_name": "債務不存在確認等，遺言無効確認等請求事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第63巻10号2900頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成20(ネ)870",
+  "original_date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 9,
+    "day": 18
+  },
+  "gist": "遺留分減殺請求を受けた受遺者が，民法１０４１条所定の価額を弁償する旨の意思表示をしたが，目的物の現物返還請求も価額弁償請求も受けていない場合において，受遺者の提起した弁償すべき額の確定を求める訴えに確認の利益があるか",
+  "case_gist": "遺留分権利者から遺留分減殺請求を受けた受遺者が，民法１０４１条所定の価額を弁償する旨の意思表示をしたが，遺留分権利者から目的物の現物返還請求も価額弁償請求もされていない場合において，弁償すべき額につき当事者間に争いがあり，受遺者が判決によってこれが確定されたときは速やかに支払う意思がある旨を表明して，弁償すべき額の確定を求める訴えを提起したときは，受遺者においておよそ価額を弁償する能力を有しないなどの特段の事情がない限り，上記訴えには確認の利益がある。",
+  "ref_law": "民法1041条1項，民訴法134条",
+  "lawsuit_id": "38277",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=38277",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/277/038277_hanrei.pdf",
+  "contents": ""
+}

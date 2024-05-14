@@ -1,0 +1,19 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 10,
+    "day": 17
+  },
+  "case_number": "平成19(行ウ)751",
+  "case_name": "航空機飛行制限等請求事件",
+  "court_name": "東京地方裁判所",
+  "field": "行政",
+  "gist": "米軍の海軍施設に原子力艦船が入港している間，同施設周辺の経路を飛行機が飛行する内容の飛行計画に対し，航空法９７条１項に基づく承認をすることの差止めを求める訴えにつき，飛行経路周辺等に居住する住民の原告適格が否定された事例",
+  "case_gist": "米軍の海軍施設に原子力艦船が入港している間，同施設周辺の経路を飛行機が飛行する内容の飛行計画に対し，航空法９７条１項に基づく承認をすることの差止めを求める訴えにつき，航空法が飛行計画の通報だけでなく，国土交通大臣による飛行計画の承認を要することとしたのは，航空機相互間の衝突防止等の航空交通管制の観点から，飛行計画を審査，承認することにより，安全かつ円滑な航空機の航行を確保しようとするものであり，航空路の周辺に居住する者の個別的利益を保護すべきものとする趣旨を含むものであると解することは困難であるとして，飛行経路の周辺等に居住する住民の原告適格を否定した事例",
+  "lawsuit_id": "37573",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=37573",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/573/037573_hanrei.pdf",
+  "contents": "VOR/DME\nVOR/DME\nVOR/DME\nVOR/DME\nVOR\nDME\nAIP\nRJTD\nVOR/DME VOR\nDME\nVOR/DME\n1 1\n2 1\nTRANSITION\n3 1\n4 2\n5 2\n6 2\nATM\nATM\nEDCT\nATM\nTRANSITION\nTRANSITION\n"
+}

@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 5,
+    "day": 31
+  },
+  "case_number": "平成17(ネ)374",
+  "case_name": "損害賠償，損害賠償等請求控訴事件",
+  "court_name": "名古屋高等裁判所民事第３部",
+  "result": "棄却",
+  "original_court_name": "名古屋地方裁判所",
+  "original_case_number": "平成11(ワ)764",
+  "original_result": "棄却",
+  "gist": "第２次世界大戦中に朝鮮半島から女子勤労挺身隊員として来日し，軍需工場で労働に従事した控訴人らが，その実態は強制連行，強制労働であったとして被控訴人らに謝罪広告の掲載と損害賠償を求めたのに対し，強制連行，強制労働の事実を認め，被控訴人国には損害賠償等の責任があり，被控訴人会社にもその責任を認める余地があると判断したものの，被控訴人らには日韓請求権協定（昭和４０年条約２７号）に基づき請求に応じる義務はないとの主張が許されるとして，控訴人らの各請求をいずれも棄却した原判決を維持した事例",
+  "lawsuit_id": "35028",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=35028",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/028/035028_hanrei.pdf",
+  "contents": ""
+}

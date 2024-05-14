@@ -1,0 +1,18 @@
+{
+  "trial_type": "IPCase",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 11,
+    "day": 28
+  },
+  "case_number": "平成16(ワ)10667",
+  "case_name": "損害賠償等請求事件",
+  "court_name": "東京地方裁判所",
+  "right_type": "特許権",
+  "lawsuit_type": "民事訴訟",
+  "lawsuit_id": "35446",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail7?id=35446",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/446/035446_hanrei.pdf",
+  "contents": "1 1\nJapan Sales Office\nTokyo\nOffice\npoint\nof origin\n2 2\n3 3\n4 3\n5 3\na data generating\ncircuit 211 which generates the data pattern corresponding to the distortion\nmeasurement signal the data pattern\nthe distortion\nmeasurement signal\n6 3\n7 3\n8 3\nM maximum length code\n9 3\n10 3\n11 3\n12 3\n13 3\n14 4\n15 5\n16 5\n17 6\nH\nH\nH\namplitude modulation : phase modulation :\namplitude phase modulation :\nshift keying :\namplitude shift keying frequency shift keying\nphase shift keying amplitude phase shift keying\n18 7\n19 8\n20 9\n1,308,874,000 10,500+7,000 0.2 0.25=1,145,270,000\n1,941,452,000 10,500+7,000 0.2 0.25=1,698,770,000\nH14/07/01 H15/8\nH13/05/20 H14/6\nH13/05/19\n3328861 12.9-1.4 / 20.7+16.5\n1,029,083\n1,387,409 18.2-1.4 / 21.7+18.3\n582,712\n78535 23.9-5.3 / 24.0+13.9 38,542\n582,712 38,542=544,170\n1,029,083 582,712 446,371\n544,170 10,500+7,000 0.20 0.25=4 7,615\n446,371\n10,500+7,000 0.2 0.25=3 9,057\n175+1,854+5,536 1,000,000 0.05\n1/2= 1 8,913\n10,004+6,166 1,000,000 0.05 1/2=4\n5,186+8,238 1,000,000 0.05 1/2= 3\n3,560\nH13/05/19\n4 7,615\n3 9,057 11 4,527 16 9,877 4 425\n3 3560 29 7091\n11 4,527 16 9,877 4 425\n3 3560 21 419\n425 3 3560 7 3895\n7,615 11 4,527 4 425 12 1717\n\"Wafers\" means processed silicon wafers containing finished die for the\nProducts manufactured by MELCO and sold to Centillium Communications, Inc.\nJapan Sales Office\nTokyo Office\nADSL\nADSL CO\nCopperLite\nCopperFlite\nMaximus\nADSL CPE\nUniversal Optimizer\nUniversal Flite Optimizer\nUtopia\nUniversal CopperFlite\nParadia\nPC PC OS\nCPE DSLAM CO\nBAS IP\nOS\nPC PC OS\nPC PC\nPC\nPC\nPC CPE\nPC CPE\nADSL\nADSL DSLAM\nDSLAM CO\nDSLAM NTT NTT\nDSLAM NTT STNet\nCO ADSL\nIP DSLAM BAS\nBAS\nPC\nPC\nIP PC\nPC PC\nOS\nITU-T G992.1 AnnexC\nITU-T G992.2 AnnexC ADSL\nCPE DSLAM CO\nCO CPE\nADSL\nCO DSLAM NTT NTT\nADSL\nSN\nCO CPE ADSL CO CPE\nADSL\nCPE\nCO\nR-REVERB1 R-REVERB2 R-REVERB3 CO\nC-RATES1 C-MSG1\nR-MEDLEY\n-QAM IDFT\n/ R-MEDLEY\n69/68 4000 symbol/ 2 bit 8.118 kbps\n31 CPE CO\nCO CPE R-MEDLEY\nDFT\nR-MEDLEY\n4-QAM\n4-QAM\nSNR\nCPE\n32 kbps kbps\n32,64,96\nC-RATES2\nCPE\nCPE\n512 kbps\n640 kbps\nPC PC OS\nCPE DSLAM CO\nBAS IP NMS\nOS\nPC OS PC\nOS PC PC\nPC\nPC\nCPE\nCPE\nADSL\nADSL DSLAM\nDSLAM CO\nDSLAM\nDSLAM\nCO ADSL\nIP BAS IP\nBAS\nPC\nPC\nIP PC\nPC PC\nOS\nADSL\nITU-T G\nAnnex C ITU-T G Annex C CPE\nCO ADSL\nADSL CO CPE\nADSL\nCO CPE\nCO\nCO CPE\nADSL\nSN\nADSL\nNMS\nCO\nCO CPE ADSL CO CPE\nADSL ADSL\nCPE ADSL CO\nR-REVERB R-REVERB\nR-QUIET R-QUIET R-REVERB CO\nCPE C-RATES C-MSG\nCPE\nCO\nR-MEDLEY R-MEDLEY\nR-MEDLEY CO\nR-MEDLEY SN\nR-MEDLEY 4-QAM\n4-QAM R-MEDLEY\nR-MEDLEY UPRD\n4-QAM\nIDFT\nIDFT\nIDFT\nR-MEDLEY\nIDFT\nIDFT\nR-MEDLEY\nsymbol/s bit\nR-MEDLEY\nR-MEDLEY\nDBM\nCO CPE R-MEDLEY\nCO FFT\nR-MEDLEY 4-QAM\nSN SN\nSN SNR\nCO CPE ADSL\nSNR\nCO CPE C-RATES C-RATES\nCO CPE\nCPE\nADSL C-RATES\nADSL\nADSL\n"
+}

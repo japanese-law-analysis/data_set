@@ -1,0 +1,15 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 17,
+    "month": 4,
+    "day": 5
+  },
+  "case_number": "平成16(わ)64",
+  "case_name": "被告人Ａに対する業務上過失致死傷等，被告人Ｂに対する道路運送車両法違反等各被告事件",
+  "court_name": "函館地方裁判所刑事部",
+  "lawsuit_id": "8707",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=8707",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/707/008707_hanrei.pdf"
+}

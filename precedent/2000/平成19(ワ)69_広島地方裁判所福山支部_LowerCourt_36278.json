@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 2,
+    "day": 21
+  },
+  "case_number": "平成19(ワ)69",
+  "case_name": "建物明渡等請求事件",
+  "court_name": "広島地方裁判所福山支部",
+  "gist": "本件は，別紙目録記載の建物（以下，「本件建物」という。）及び駐車場（以下，「本件駐車場」という。）を所有して管理する原告が，賃貸借契約は賃料不払いを理由に解除されたとして，本件建物及び駐車場の賃借人の連帯保証人である被告に対し，平成９年１月分以降（約１０年分）の未払賃料及び賃料相当損害金として約３００万円の支払いを求めた事案である。",
+  "lawsuit_id": "36278",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=36278",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/278/036278_hanrei.pdf",
+  "contents": "a b\nc\nd e\nf g\nh\ni\nj\nk\n"
+}

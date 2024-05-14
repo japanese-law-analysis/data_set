@@ -1,0 +1,18 @@
+{
+  "trial_type": "IPCase",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 3,
+    "day": 25
+  },
+  "case_number": "平成20(ネ)10077",
+  "case_name": "損害賠償請求控訴事件",
+  "court_name": "知的財産高等裁判所",
+  "right_type": "特許権",
+  "lawsuit_type": "民事訴訟",
+  "lawsuit_id": "37488",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail7?id=37488",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/488/037488_hanrei.pdf",
+  "contents": "FeliCa\nSuica\nFeliCa Suica\nFeliCa FeliCa\nSuica\nSuica FeliCa\nFeliCa Suica\nFeliCa\nSuica FeliCa\nSuica\nFeliCa\nSuica\nSuica\nSuica\nSuica\nFeliCa RC-S850\nRC-S851/852 RC-S860 Version1.07\nFeliCa\nPolling\nPolling\nPolling\nRequest Service\nRequest Service\nRequest Service\nSuica\nSuica\nSuica\nSuica\nSuica\nSuica\nFeliCa\nFeliCa\nFeliCa 1253 3000\n380 0.05 19\nFeliCa\nFeliCa\nFeliCa\n1253 9000 1120\n1120 0.05 56\na\nSuica\nSuica\nSuica 500 290\n14 5000\nb\nc\n14 5000 0.05 7250\na\nSuica\nSuica\n0.03 90\nSuica\n90 1000 11 99\nb\nc\n99 0.05 4 9500\nc\nc 7250\n4 9500 5 6750\na\nSuica\nSuica\nSuica 500 1200\nb\nc\n60 0.05 3\na\nSuica\nSuica\nSuica\n90 275 14 90\n730 17 90 1060 11 34 6500\n111 6900 104 9400 251 2800\nb\nc\n251 2800 0.05\n12 5600\nc\nc 3 12\n5600 15 5600\nFeliCa\na\nb\nc\na\nb\nc\nPolling\nPolling\nPolling\nRequest Service\nRequest Service\na\nDs\nb Polling\nPolling\nRequest Service\n"
+}

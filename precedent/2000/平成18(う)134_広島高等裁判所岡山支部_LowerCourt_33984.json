@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 11,
+    "day": 22
+  },
+  "case_number": "平成18(う)134",
+  "case_name": "業務上過失傷害",
+  "court_name": "広島高等裁判所岡山支部",
+  "result": "破棄自判",
+  "original_court_name": "岡山簡易裁判所",
+  "original_case_number": "平成18(ろ)16",
+  "original_result": "その他",
+  "gist": "被告人は普通乗用自動車（軽四）を運転中，先行する大型貨物自動車の動静を注視しなかったため同車に追突する交通事故を起こしたが，本件事故によって大型貨物自動車の運転者に原判決のとおりの傷害を負わせた事実を認定することができないので，同事実を認定した原判決には，判決に影響を及ぼすことが明らかな事実の誤認があるとして，原判決を破棄した上で，無罪を言い渡した事案",
+  "lawsuit_id": "33984",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=33984",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/984/033984_hanrei.pdf",
+  "contents": ""
+}

@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 10,
+    "day": 26
+  },
+  "case_number": "平成15(あ)2277",
+  "case_name": "殺人予備，殺人，殺人未遂被告事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第292号331頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 15,
+    "month": 9,
+    "day": 18
+  },
+  "gist": "死刑の量刑が維持された事例（オウム真理教弁護士一家殺人等事件）",
+  "lawsuit_id": "80515",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=80515",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/515/080515_hanrei.pdf",
+  "contents": ""
+}

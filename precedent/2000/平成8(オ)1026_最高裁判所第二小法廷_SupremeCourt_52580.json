@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 12,
+    "month": 3,
+    "day": 31
+  },
+  "case_number": "平成8(オ)1026",
+  "case_name": "譴責処分無効確認等請求事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第54巻3号1255頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成6(ネ)3792",
+  "original_date": {
+    "era": "Heisei",
+    "year": 8,
+    "month": 1,
+    "day": 31
+  },
+  "gist": "一箇月に満たない期間に集中的に高度な知識、技能を修得させることを目的として行われる訓練期間中における年次有給休暇の請求に対する時季変更権の行使",
+  "case_gist": "事業遂行に必要な技術者の養成と能力向上を図るため、各職場の代表者を参加させて、一箇月に満たない比較的短期間に集中的に高度な知識、技能を修得させ、これを職場に持ち帰らせることによって、各職場全体の業務の改善、向上に資することを目的として行われた訓練の期間中に、訓練に参加している労働者から年次有給休暇が請求されたときは、使用者は、当該休暇期間における具体的な訓練の内容がこれを欠席しても予定された知識、技能の修得に不足を生じさせないものであると認められない限り、事業の正常な運営を妨げるものとして時季変更権を行使することができる。",
+  "ref_law": "労働基準法39条4項",
+  "lawsuit_id": "52580",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52580",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/580/052580_hanrei.pdf"
+}

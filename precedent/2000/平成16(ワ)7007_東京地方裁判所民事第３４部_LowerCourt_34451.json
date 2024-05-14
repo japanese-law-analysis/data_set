@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 3,
+    "day": 16
+  },
+  "case_number": "平成16(ワ)7007",
+  "case_name": "損害賠償請求事件",
+  "court_name": "東京地方裁判所民事第３４部",
+  "gist": "被告の設置する病院で分娩をした産婦が、分娩後に大量出血とともに呼吸停止及び心停止を起こし、多臓器不全により死亡した事案において、患者の急変の原因は羊水塞栓症によるものである蓋然性が高いとした上で、担当医師らには、帝王切開ではなく経膣分娩を選択した過失及び急変時に行うべき措置を怠った過失等のいずれの過失も認められないとして、患者の遺族からの損害賠償請求が棄却された事例。",
+  "lawsuit_id": "34451",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=34451",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/451/034451_hanrei.pdf",
+  "contents": ""
+}

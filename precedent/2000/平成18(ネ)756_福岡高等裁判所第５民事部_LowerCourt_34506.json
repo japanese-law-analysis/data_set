@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 3,
+    "day": 15
+  },
+  "case_number": "平成18(ネ)756",
+  "case_name": "配当異議の訴え控訴事件",
+  "court_name": "福岡高等裁判所第５民事部",
+  "result": "棄却",
+  "original_court_name": "福岡地方裁判所",
+  "original_case_number": "平成17(ワ)2572",
+  "original_result": "棄却",
+  "gist": "不動産を目的とする１個の根抵当権が，元本の確定後において数個の債権を担保しており，そのうちの１個のみについての保証人が当該債権に係る残債務全額につき代位弁済した場合，根抵当権の実行による売却代金の配当について，債権者（根抵当権設定時の債権者から元本確定後に被担保債権を譲り受けてその地位を承継した者を含む。）は代位弁済者に優先すると解すべきであるとして，同様の見解に立って被控訴人に全額配当することとした配当表を相当とし，この場合代位弁済者と債権者とは根抵当権を同順位で準共有するとの見解に立って配当額の変更を求めた控訴人の請求を否定した。",
+  "lawsuit_id": "34506",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=34506",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/506/034506_hanrei.pdf",
+  "contents": "1 A\nA\n2 A\nA\n3 A\nA\n4 A\nA\n"
+}

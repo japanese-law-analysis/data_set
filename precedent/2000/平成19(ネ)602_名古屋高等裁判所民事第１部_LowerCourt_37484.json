@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 11,
+    "day": 27
+  },
+  "case_number": "平成19(ネ)602",
+  "case_name": "損害賠償等本訴請求，損害賠償各反訴請求控訴事件",
+  "court_name": "名古屋高等裁判所民事第１部",
+  "result": "その他",
+  "original_court_name": "名古屋地方裁判所\n        　豊橋支部",
+  "original_case_number": "平成13(ワ)161",
+  "original_result": "その他",
+  "gist": "１審被告らが１審原告組合を解散等に追い込むことを企て，１審原告組合の組合員を同組合から脱退させる等の不法行為をしたとする１審原告の１審被告らに対する損害賠償請求事件について，これを一部認容した原判決を変更し，１審被告らの不法行為により，１審原告組合は売上げが大幅に減少したとして，１審被告らに請求額全額を支払うよう命じた事例",
+  "lawsuit_id": "37484",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=37484",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/484/037484_hanrei.pdf",
+  "contents": ""
+}

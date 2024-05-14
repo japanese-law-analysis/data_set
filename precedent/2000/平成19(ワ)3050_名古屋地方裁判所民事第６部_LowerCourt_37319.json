@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 12,
+    "day": 19
+  },
+  "case_number": "平成19(ワ)3050",
+  "case_name": "預金等返還請求",
+  "court_name": "名古屋地方裁判所民事第６部",
+  "gist": "証券投資信託の受益者であるＸが，受益証券を販売したＹ会社に対して，信託契約の解約実行請求の意思表示をしたにもかかわらずＹ会社がその時点においてこれに応じなかったとして損害賠償を請求した事案において，Ｘは，Ｙ会社に対し，受益証券の換金を申し出たものの，委託者に対する信託契約の解約実行請求とＹ会社による受益証券の買取りのいずれの換金方法によるかの指示をしなかったとして，解約実行請求の意思表示をしたものとは認められないとされた事例",
+  "lawsuit_id": "37319",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=37319",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/319/037319_hanrei.pdf",
+  "contents": ""
+}

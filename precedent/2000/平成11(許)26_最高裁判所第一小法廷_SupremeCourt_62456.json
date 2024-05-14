@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 12,
+    "month": 3,
+    "day": 10
+  },
+  "case_number": "平成11(許)26",
+  "case_name": "文書提出命令に対する許可抗告事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "破棄自判",
+  "article_info": "集民　第197号341頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成11(ウ)145",
+  "original_date": {
+    "era": "Heisei",
+    "year": 11,
+    "month": 6,
+    "day": 9
+  },
+  "gist": "教科用図書検定調査審議会の作成した文書が民訴法二二〇条三号後段の文書に当たらないとされた事例",
+  "case_gist": "文部大臣の諮問機関である教科用図書検定調査審議会が作成した教科用図書についての判定内容を記載した書面及びその内容を記載した文部大臣に対する報告書は、民訴法二二〇条三号後段の文書に当たらない。",
+  "ref_law": "民訴法220条3号，学校教育法21条1項，学校教育法51条，教科用図書検定規則（平成元年文部省令第20号）7条",
+  "lawsuit_id": "62456",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62456",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/456/062456_hanrei.pdf"
+}

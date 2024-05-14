@@ -1,0 +1,16 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 14,
+    "month": 5,
+    "day": 9
+  },
+  "case_number": "平成9(ワ)1092",
+  "case_name": "損害賠償請求本訴(甲事件)，損害賠償請求反訴(乙事件)，損害賠償の立替金請求(丙事件)",
+  "court_name": "岡山地方裁判所",
+  "lawsuit_id": "8075",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=8075",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/075/008075_hanrei.pdf",
+  "contents": ""
+}

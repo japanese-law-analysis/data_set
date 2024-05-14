@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 12,
+    "month": 9,
+    "day": 7
+  },
+  "case_number": "平成11(受)94",
+  "case_name": "損害賠償請求事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第199号477頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成10(ネ)1818",
+  "original_date": {
+    "era": "Heisei",
+    "year": 10,
+    "month": 10,
+    "day": 28
+  },
+  "gist": "不法行為によって扶養者が死亡した場合における被扶養者の将来の扶養利益喪失による損害額の算定方法",
+  "case_gist": "不法行為によって扶養者が死亡した場合における被扶養者の将来の扶養利益喪失による損害額は、扶養者の生前の収入、そのうち被扶養者の生計の維持に充てるべき部分、被扶養者各人につき扶養利益として認められるべき比率割合、扶養を要する状態が存続すべき期間などの具体的事情に応じて算定すべきである。",
+  "ref_law": "民法416条，民法709条，民法877条",
+  "lawsuit_id": "69637",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=69637",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/637/069637_hanrei.pdf"
+}

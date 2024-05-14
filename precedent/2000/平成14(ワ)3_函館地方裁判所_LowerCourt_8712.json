@@ -1,0 +1,15 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 15,
+    "month": 3,
+    "day": 25
+  },
+  "case_number": "平成14(ワ)3",
+  "case_name": "土地所有権移転登記手続等",
+  "court_name": "函館地方裁判所",
+  "lawsuit_id": "8712",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=8712",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/712/008712_hanrei.pdf"
+}

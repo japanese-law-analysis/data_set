@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 11,
+    "day": 28
+  },
+  "case_number": "平成18(ネ)3454",
+  "case_name": "地位確認等請求控訴事件（通称　中野区非常勤保育士再任用拒否）",
+  "court_name": "東京高等裁判所第１７民事部",
+  "result": "その他",
+  "original_court_name": "東京地方裁判所",
+  "original_case_number": "平成16(ワ)5565",
+  "original_result": "その他",
+  "gist": "地方公共団体が長期にわたり１年間の任用期間を繰り返して任用していた非常勤保育士の再任用を拒否したことにつき，任用が公法上の関係であり，裁判所が当事者双方の合理的意思解釈によってその内容を定めることができないこと等のため，解雇権濫用法理を類推して再任用を擬制する余地はないが，再任用の期待権を違法に侵害したとして慰謝料の支払いを命じた事例",
+  "lawsuit_id": "35519",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=35519",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/519/035519_hanrei.pdf",
+  "contents": ""
+}

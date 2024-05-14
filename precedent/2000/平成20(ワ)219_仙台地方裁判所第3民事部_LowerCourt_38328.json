@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 12,
+    "day": 24
+  },
+  "case_number": "平成20(ワ)219",
+  "case_name": "損害賠償請求事件",
+  "court_name": "仙台地方裁判所第3民事部",
+  "gist": "精神科医療における治療方針や治療計画等は，個々の患者の状況を前提にして，診療当時の医療水準において要求される医学的知見にしたがって判断されるべきものであるところ，本件事情の下では，被告病院の診療内容，家族への指導・環境調整，外泊許可に関する判断に，過失ないし債務不履行は認められないと判断された事案。",
+  "lawsuit_id": "38328",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=38328",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/328/038328_hanrei.pdf",
+  "contents": ""
+}

@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 1,
+    "day": 22
+  },
+  "case_number": "平成19(受)1919",
+  "case_name": "預金取引記録開示請求事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第63巻1号228頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成18(ネ)5846",
+  "original_date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 8,
+    "day": 29
+  },
+  "gist": "１　金融機関の預金者に対する預金口座の取引経過開示義務の有無\n２　共同相続人の一人が被相続人名義の預金口座の取引経過開示請求権を単独で行使することの可否",
+  "case_gist": "１　金融機関は，預金契約に基づき，預金者の求めに応じて預金口座の取引経過を開示すべき義務を負う。\n２　預金者の共同相続人の一人は，共同相続人全員に帰属する預金契約上の地位に基づき，被相続人名義の預金口座の取引経過の開示を求める権利を単独で行使することができる。",
+  "ref_law": "（１，２につき)民法645条，民法656条，民法666条　（２につき）民法252条，民法264条，民法898条",
+  "lawsuit_id": "37210",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=37210",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/210/037210_hanrei.pdf",
+  "contents": ""
+}

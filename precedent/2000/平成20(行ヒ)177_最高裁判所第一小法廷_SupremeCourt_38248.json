@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 12,
+    "day": 10
+  },
+  "case_number": "平成20(行ヒ)177",
+  "case_name": "第二次納税義務告知処分取消請求事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第63巻10号2516頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成19(行コ)375",
+  "original_date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 2,
+    "day": 27
+  },
+  "gist": "１　遺産分割協議は国税徴収法３９条にいう第三者に利益を与える処分に当たり得るか\n２　滞納者に詐害の意思のあることは国税徴収法３９条所定の第二次納税義務の成立要件か",
+  "case_gist": "１　国税の滞納者を含む共同相続人の間で成立した遺産分割協議は，滞納者である相続人にその相続分に満たない財産を取得させ，他の相続人にその相続分を超える財産を取得させるものであるときは，国税徴収法３９条にいう第三者に利益を与える処分に当たり得る。\n２　滞納者に詐害の意思のあることは，国税徴収法３９条所定の第二次納税義務の成立要件ではない。",
+  "ref_law": "（１，２につき）国税徴収法39条　（１につき）民法907条1項　（２につき）民法424条1項本文",
+  "lawsuit_id": "38248",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=38248",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/248/038248_hanrei.pdf",
+  "contents": ""
+}

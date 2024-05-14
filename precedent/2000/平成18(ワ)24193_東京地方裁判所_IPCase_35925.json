@@ -1,0 +1,18 @@
+{
+  "trial_type": "IPCase",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 2,
+    "day": 20
+  },
+  "case_number": "平成18(ワ)24193",
+  "case_name": "補償金請求事件",
+  "court_name": "東京地方裁判所",
+  "right_type": "特許権",
+  "lawsuit_type": "民事訴訟",
+  "lawsuit_id": "35925",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail7?id=35925",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/925/035925_hanrei.pdf",
+  "contents": "1 1\n2 2\n3 3\n4 4\nC\n5 5\n1 4\n2 4\n6 7\n2 3\n"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 12,
+    "month": 9,
+    "day": 22
+  },
+  "case_number": "平成9(オ)42",
+  "case_name": "損害賠償請求事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第54巻7号2574頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成7(ネ)2314",
+  "original_date": {
+    "era": "Heisei",
+    "year": 8,
+    "month": 9,
+    "day": 26
+  },
+  "gist": "医師が過失により医療水準にかなった医療を行わなかったことと患者の死亡との間の因果関係の存在は証明されないが右医療が行われていたならば患者がその死亡の時点においてなお生存していた相当程度の可能性の存在が証明される場合における医師の不法行為の成否",
+  "case_gist": "医師が過失により医療水準にかなった医療を行わなかったことと患者の死亡との間の因果関係の存在は証明されないけれども、右医療が行われていたならば患者がその死亡の時点においてなお生存していた相当程度の可能性の存在が証明される場合には、医師は、患者が右可能性を侵害されたことによって被った損害を賠償すべき不法行為責任を負う。",
+  "ref_law": "民法709条",
+  "lawsuit_id": "54798",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54798",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/798/054798_hanrei.pdf"
+}

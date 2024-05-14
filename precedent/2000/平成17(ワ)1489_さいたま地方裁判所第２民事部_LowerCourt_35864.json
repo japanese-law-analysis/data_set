@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 1,
+    "day": 30
+  },
+  "case_number": "平成17(ワ)1489",
+  "case_name": "目隠設置請求事件",
+  "court_name": "さいたま地方裁判所第２民事部",
+  "gist": "土地の境界線をはさんで，双方の土地に建物が建築され，いずれの建物も１メートル以内に窓が設置されている場合に，双方の土地の所有者が互いに民法２３５条に基づき目隠しの設置を求めたところ，一方の所有者の請求のみが認められ，他方の所有者の請求が権利濫用になるとされた事例。",
+  "lawsuit_id": "35864",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=35864",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/864/035864_hanrei.pdf",
+  "contents": ""
+}

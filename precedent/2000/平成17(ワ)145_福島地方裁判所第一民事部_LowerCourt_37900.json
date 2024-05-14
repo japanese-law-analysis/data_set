@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 11,
+    "day": 18
+  },
+  "case_number": "平成17(ワ)145",
+  "case_name": "損害賠償請求事件",
+  "court_name": "福島地方裁判所第一民事部",
+  "result": "棄却",
+  "gist": "高等学校の校舎内において意識を失い，その後，病院において医師らによる診療を受けたが，ウイルス性脳炎による後遺障害を負ったことについて，医師らが，ヘルペス脳炎の可能性を認識し得たにもかかわらず確実な鑑別のための検査をして治療を開始するなどの義務を怠った結果であり，また，高等学校の教職員が，診断に有益と考えられる諸情報を病院等に正確に伝達するなどの安全配慮義務を怠ったこともその一因であるとして，被告ら（地方公共団体，医療法人，医師）に対し，国家賠償法１条１項等に基づき損害賠償請求をしたが請求が棄却された事案",
+  "lawsuit_id": "37900",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=37900",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/900/037900_hanrei.pdf",
+  "contents": ""
+}

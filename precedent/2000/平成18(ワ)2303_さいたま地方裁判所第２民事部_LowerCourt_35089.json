@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 8,
+    "day": 29
+  },
+  "case_number": "平成18(ワ)2303",
+  "case_name": "損害賠償請求事件",
+  "court_name": "さいたま地方裁判所第２民事部",
+  "gist": "警察官が現場で被害申告を受理しなかったことについて\n違法性が認めらないとされた事例",
+  "lawsuit_id": "35089",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=35089",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/089/035089_hanrei.pdf",
+  "contents": ""
+}

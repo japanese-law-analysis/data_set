@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 7,
+    "day": 10
+  },
+  "case_number": "平成20(受)1728",
+  "case_name": "不当利得返還等請求事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第63巻6号1170頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成20(ネ)1474",
+  "original_date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 7,
+    "day": 16
+  },
+  "gist": "期限の利益喪失特約の下での利息制限法所定の制限を超える利息の支払の任意性を否定した最高裁判所の判決の言渡し日以前にされた制限超過部分の支払について，貸金業者が同特約の下でこれを受領したことのみを理由として当該貸金業者を民法７０４条の「悪意の受益者」と推定することの可否",
+  "case_gist": "期限の利益喪失特約の下での利息制限法所定の制限を超える利息の支払の任意性を初めて否定した最高裁平成１６年（受）第１５１８号同１８年１月１３日第二小法廷判決・民集６０巻１号１頁の言渡し日以前にされた制限超過部分の支払について，貸金業者が同特約の下でこれを受領したことのみを理由として当該貸金業者を民法７０４条の「悪意の受益者」と推定することはできない。",
+  "ref_law": "民法136条，民法704条，貸金業の規制等に関する法律（平成18年法律第115号による改正前のもの）43条1項，利息制限法1条1項",
+  "lawsuit_id": "37822",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=37822",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/822/037822_hanrei.pdf",
+  "contents": ""
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 12,
+    "month": 10,
+    "day": 20
+  },
+  "case_number": "平成11(受)461",
+  "case_name": "株主ゴルフ会員権等確認請求事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集民　第200号69頁",
+  "original_court_name": "高松高等裁判所",
+  "original_case_number": "平成10(ネ)357",
+  "original_date": {
+    "era": "Heisei",
+    "year": 11,
+    "month": 1,
+    "day": 26
+  },
+  "gist": "権利能力のない社団であるゴルフクラブが規約に従い総会の決議によってした構成員の資格要件を変更する旨の規約の改正と右決議について承諾をしていない構成員に対する効力の有無",
+  "case_gist": "権利能力のない社団であるゴルフクラブが規約に従い総会の決議によってした構成員の資格要件であるゴルフ場経営会社の株式保有数を「二株以上」から「三株以上」に変更する旨の規約の改正は、特段の事情がない限り、右決議について承諾をしていない構成員に対しても、その効力を有する",
+  "ref_law": "民法33条，民法第3編第2章契約",
+  "lawsuit_id": "62435",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62435",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/435/062435_hanrei.pdf"
+}

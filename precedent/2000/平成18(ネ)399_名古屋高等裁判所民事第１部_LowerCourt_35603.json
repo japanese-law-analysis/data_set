@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 10,
+    "day": 25
+  },
+  "case_number": "平成18(ネ)399",
+  "case_name": "損害賠償請求控訴事件",
+  "court_name": "名古屋高等裁判所民事第１部",
+  "result": "その他",
+  "original_court_name": "名古屋地方裁判所",
+  "original_case_number": "平成16(ワ)1804",
+  "original_result": "その他",
+  "gist": "人工的な代用血管であるステントグラフトを血管内に留置する井上式ステントグラフト内挿術による治療を受けた際，左外腸骨動脈が破損して出血性ショックを起こして死亡したのは，執刀医の治療方針選択の過失，手術適応判断の過失，手技上の過失等があると主張した事件につき，手技上の過失を認め，不法行為に基づく損害賠償を認めた事例",
+  "lawsuit_id": "35603",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=35603",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/603/035603_hanrei.pdf",
+  "contents": ""
+}

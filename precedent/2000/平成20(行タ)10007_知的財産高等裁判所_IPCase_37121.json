@@ -1,0 +1,16 @@
+{
+  "trial_type": "IPCase",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 12,
+    "day": 16
+  },
+  "case_number": "平成20(行タ)10007",
+  "case_name": "訴訟記録閲覧等制限申立事件",
+  "court_name": "知的財産高等裁判所",
+  "lawsuit_id": "37121",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail7?id=37121",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/121/037121_hanrei.pdf",
+  "contents": ""
+}

@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 5,
+    "day": 23
+  },
+  "case_number": "平成19(ワ)6473",
+  "case_name": "損害賠償請求事件",
+  "court_name": "大阪地方裁判所第11民事部",
+  "gist": "被告がその管理運営するインターネット上の掲示板に書かれた原告を中傷する書き込みを削除しなかったことは，被告の掲示板に係る管理義務に違反した行為であり，原告に対する不法行為となるとされた事例",
+  "lawsuit_id": "36587",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=36587",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/587/036587_hanrei.pdf",
+  "contents": ""
+}

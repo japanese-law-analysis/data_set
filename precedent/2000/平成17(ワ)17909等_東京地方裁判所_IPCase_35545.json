@@ -1,0 +1,18 @@
+{
+  "trial_type": "IPCase",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 12,
+    "day": 26
+  },
+  "case_number": "平成17(ワ)17909等",
+  "case_name": "特許権移転登録抹消登録請求事件",
+  "court_name": "東京地方裁判所",
+  "right_type": "特許権",
+  "lawsuit_type": "民事訴訟",
+  "lawsuit_id": "35545",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail7?id=35545",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/545/035545_hanrei.pdf",
+  "contents": "H16.7.14 003971\nH16.7.29 003971\nH16.9.2 004883\nH17.2.23 004883\nH17.3.15 001703\nH17.7.27 001703\nH18.3.1 005932\nH18.4.14 002290\nH18.5.17 002290\nH19.8.1 006665\n"
+}

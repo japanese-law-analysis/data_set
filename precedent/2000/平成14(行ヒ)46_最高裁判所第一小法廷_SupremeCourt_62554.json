@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 15,
+    "month": 3,
+    "day": 27
+  },
+  "case_number": "平成14(行ヒ)46",
+  "case_name": "公金返還請求事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集民　第209号335頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成13(行コ)25",
+  "original_date": {
+    "era": "Heisei",
+    "year": 13,
+    "month": 10,
+    "day": 31
+  },
+  "gist": "町が新庁舎竣工式に際し来賓に記念品として１人当たり５０００円相当の商品券を贈呈するために行った公金の支出が違法ではないとされた事例",
+  "case_gist": "町が新庁舎竣工式に際し来賓１４８人に記念品として１人当たり５０００円相当の商品券を贈呈したことは，上記来賓が新庁舎の建設に尽力したなどの事情から招待された者であり，上記商品券が町商工会の発行した町内の商店のみで利用することができるもので，そのために支出された費用が７４万円にとどまったなど原判示の事実関係の下においては，社会通念上儀礼の範囲を逸脱したものとまではいえず，上記公金の支出は違法ではない。",
+  "ref_law": "地方自治法（平成11年法律第87号による改正前のもの）2条2項，地方自治法（平成11年法律第87号による改正前のもの）232条1項，地方自治法（平成14年法律第4号による改正前のもの）242条の2第1項",
+  "lawsuit_id": "62554",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62554",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/554/062554_hanrei.pdf"
+}

@@ -1,0 +1,16 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 3,
+    "day": 24
+  },
+  "case_number": "平成20(わ)404",
+  "case_name": "",
+  "court_name": "神戸地方裁判所第４刑事部",
+  "lawsuit_id": "37705",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=37705",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/705/037705_hanrei.pdf",
+  "contents": "a b c d\nA\nA\nB\nA\nA B\nC\nA A\nA\nB\nA\nA B A\nC\nA\nC\nC\nC\nC\nC\nA\nA\nA A\nA C C\nA\nA\nB A\nA\nA\n"
+}

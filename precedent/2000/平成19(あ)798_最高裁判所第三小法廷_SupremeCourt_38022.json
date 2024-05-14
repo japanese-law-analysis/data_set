@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 9,
+    "day": 28
+  },
+  "case_number": "平成19(あ)798",
+  "case_name": "国際的な協力の下に規制薬物に係る不正行為を助長する行為等の防止を図るための麻薬及び向精神薬取締法等の特例等に関する法律違反，覚せい剤取締法違反被告事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第63巻7号868頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成18(う)1563",
+  "original_date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 3,
+    "day": 23
+  },
+  "gist": "宅配便業者の運送過程下にある荷物について，荷送人や荷受人の承諾を得ずに，捜査機関が検証許可状によることなくエックス線検査を行うことは適法か",
+  "case_gist": "荷送人の依頼に基づき宅配便業者の運送過程下にある荷物について，捜査機関が，捜査目的を達成するため，荷送人や荷受人の承諾を得ずに，これに外部からエックス線を照射して内容物の射影を観察する行為は，検証としての性質を有する強制処分に当たり，検証許可状によることなくこれを行うことは違法である。",
+  "ref_law": "刑訴法197条1項，刑訴法218条1項",
+  "lawsuit_id": "38022",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=38022",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/022/038022_hanrei.pdf",
+  "contents": ""
+}

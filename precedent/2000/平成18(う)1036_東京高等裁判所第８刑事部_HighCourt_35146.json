@@ -1,0 +1,21 @@
+{
+  "trial_type": "HighCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 1,
+    "day": 19
+  },
+  "case_number": "平成18(う)1036",
+  "case_name": "各治安維持法違反被告事件",
+  "court_name": "東京高等裁判所第８刑事部",
+  "result": "棄却",
+  "article_info": "第60巻1号1頁",
+  "original_court_name": "横浜地方裁判所",
+  "gist": "再審公判における免訴判決に対する被告人の上訴権",
+  "case_gist": "再審の公判であろうとも，免訴の判決に対しては，被告人から無罪を主張して上訴することはできない。",
+  "lawsuit_id": "35146",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail3?id=35146",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/146/035146_hanrei.pdf",
+  "contents": ""
+}

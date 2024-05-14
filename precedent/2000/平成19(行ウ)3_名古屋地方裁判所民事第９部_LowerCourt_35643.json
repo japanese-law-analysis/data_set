@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 9,
+    "day": 19
+  },
+  "case_number": "平成19(行ウ)3",
+  "case_name": "建築確認処分取消請求",
+  "court_name": "名古屋地方裁判所民事第９部",
+  "gist": "指定確認検査機関のした建築確認に建築基準法５３条１項の建ぺい率規制違反を看過した違法があるとして建築確認処分が取り消された事例",
+  "lawsuit_id": "35643",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=35643",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/643/035643_hanrei.pdf",
+  "contents": ""
+}

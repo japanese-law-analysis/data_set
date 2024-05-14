@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 7,
+    "day": 14
+  },
+  "case_number": "平成17(行ウ)8",
+  "case_name": "不当利得返還代位等請求事件",
+  "court_name": "青森地方裁判所第２民事部",
+  "result": "棄却",
+  "gist": "合併に伴う各協議のうち，議員定数に関する協議は法定の告示を欠き無効であるが，在任特例に関する協議は法定の告示を欠くものの効力を生じているから，合併により成立した市の市議会議員は後者の協議に基づき合併時からその身分を有しているとされた事例。",
+  "lawsuit_id": "33360",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=33360",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/360/033360_hanrei.pdf",
+  "contents": ""
+}

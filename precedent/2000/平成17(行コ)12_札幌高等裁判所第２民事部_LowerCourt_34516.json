@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 3,
+    "day": 30
+  },
+  "case_number": "平成17(行コ)12",
+  "case_name": "国民年金不支給処分取消，障害基礎年金不支給決定取消等，損害賠償",
+  "court_name": "札幌高等裁判所第２民事部",
+  "result": "棄却",
+  "original_court_name": "札幌地方裁判所",
+  "original_case_number": "平成12(行ウ)30",
+  "original_result": "棄却",
+  "gist": "大学在学中に疾病・受傷によって障害を負った控訴人らが，障害基礎年金の支給裁定を求めたところ，支給要件を認定すべき日において国民年金に任意加入しておらず，被保険者に当たらないとして，障害基礎年金を支給しない旨の決定を受けたため，学生を国民年金の強制適用の対象から除外した国民年金法の規定が憲法に違反する等と主張して，被控訴人社会保険庁長官に対し，各不支給決定の取消しを求めるとともに，適切な立法措置を講ずることを怠った違法があるとして，被控訴人国に対してした損害賠償請求がいずれも棄却された事例",
+  "lawsuit_id": "34516",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=34516",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/516/034516_hanrei.pdf",
+  "contents": "1 4 1 3\n1 3 1 2 1 6 1 4\n"
+}

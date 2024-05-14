@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 12,
+    "day": 10
+  },
+  "case_number": "平成16(あ)1394",
+  "case_name": "殺人，殺人未遂，爆発物取締罰則違反，火炎びんの使用等の処罰に関する法律違反，逮捕監禁致死，死体損壊被告事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第299号565頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 16,
+    "month": 5,
+    "day": 28
+  },
+  "gist": "死刑の量刑が維持された事例（オウム真理教地下鉄サリン殺人等事件）",
+  "lawsuit_id": "80602",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=80602",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/602/080602_hanrei.pdf",
+  "contents": ""
+}

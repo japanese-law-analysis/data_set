@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 15,
+    "month": 11,
+    "day": 11
+  },
+  "case_number": "平成15(許)23",
+  "case_name": "売却許可決定に対する執行抗告棄却決定に対する許可抗告事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "民集　第57巻10号1524頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成14(ラ)2281",
+  "original_date": {
+    "era": "Heisei",
+    "year": 15,
+    "month": 3,
+    "day": 26
+  },
+  "gist": "１　不動産競売の入札書の入札価額欄の記載の不備と入札の効力\n２　不動産競売の入札が入札書の入札価額欄の記載の不備により無効であるとされた事例",
+  "case_gist": "１　不動産競売の入札の手続において，入札書の入札価額欄の記載に不備があり，同欄の記載内容からみて，入札価額が一義的に明確であると認められないときは，その入札書による入札は無効である。\n２　不動産競売の入札の手続において，位ごとに区切られた入札価額欄の枠内に各位の数字を記載するものとされた入札書が用いられ，その千万から十までの各位にはそれぞれ数字が記載されているが，一の位には何も記載がされていないときは，当該入札書による入札は無効である。",
+  "ref_law": "民事執行法64条，民事執行法188条，民事執行規則38条2項4号，民事執行規則49条，民事執行規則173条1項",
+  "lawsuit_id": "52396",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52396",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/396/052396_hanrei.pdf"
+}

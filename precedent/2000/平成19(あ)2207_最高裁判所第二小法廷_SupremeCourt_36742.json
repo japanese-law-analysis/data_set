@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 8,
+    "day": 27
+  },
+  "case_number": "平成19(あ)2207",
+  "case_name": "非現住建造物等放火，詐欺未遂被告事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第62巻7号2702頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "平成19(う)248",
+  "original_date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 10,
+    "day": 31
+  },
+  "gist": "火災原因の調査，判定に関し特別の学識経験を有する私人が燃焼実験を行ってその考察結果を報告した書面について，刑訴法３２１条３項は準用できないが，同条４項の書面に準じて同項により証拠能力が認められるとされた事例",
+  "case_gist": "火災原因の調査，判定に関し特別の学識経験を有する私人が燃焼実験を行ってその考察結果を報告した本件書面（判文参照）については，刑訴法３２１条３項所定の書面の作成主体が「検察官，検察事務官又は司法警察職員」と規定されていること及びその趣旨に照らし同項の準用はできないが，同条４項の書面に準ずるものとして同項により証拠能力を有する。",
+  "ref_law": "刑訴法321条3項，刑訴法321条4項",
+  "lawsuit_id": "36742",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=36742",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/742/036742_hanrei.pdf",
+  "contents": ""
+}

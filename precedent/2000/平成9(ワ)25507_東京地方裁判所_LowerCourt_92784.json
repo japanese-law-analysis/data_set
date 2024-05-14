@@ -1,0 +1,15 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 17,
+    "month": 10,
+    "day": 31
+  },
+  "case_number": "平成9(ワ)25507",
+  "case_name": "損害賠償等請求事件",
+  "court_name": "東京地方裁判所",
+  "lawsuit_id": "92784",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=92784",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/784/092784_hanrei.pdf"
+}

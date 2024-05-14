@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 3,
+    "day": 25
+  },
+  "case_number": "平成20(む)327",
+  "case_name": "証拠開示請求に関する裁定決定",
+  "court_name": "福岡地方裁判所第３刑事部",
+  "result": "その他",
+  "lawsuit_id": "87234",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=87234",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/234/087234_hanrei.pdf",
+  "contents": ""
+}

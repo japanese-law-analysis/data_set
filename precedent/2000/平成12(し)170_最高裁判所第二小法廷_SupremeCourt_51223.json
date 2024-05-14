@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 12,
+    "month": 9,
+    "day": 27
+  },
+  "case_number": "平成12(し)170",
+  "case_name": "勾留取消し請求却下決定に対する異議申立て棄却決定に対する特別抗告事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第54巻7号710頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成12(け)13",
+  "original_date": {
+    "era": "Heisei",
+    "year": 12,
+    "month": 8,
+    "day": 10
+  },
+  "gist": "勾留の裁判に対する異議申立て棄却決定が確定した後に右異議申立てと同一の論拠に基づき勾留を違法として取り消すことの可否",
+  "case_gist": "勾留の裁判に対する異議申立てが棄却され、右棄却決定がこれに対する特別抗告も棄却されて確定した場合においては、右異議申立てと同一の論拠に基づいて勾留を違法として取り消すことはできない。",
+  "ref_law": "刑訴法87条1項，刑訴法420条1項，刑訴法420条2項，刑訴法428条2項",
+  "lawsuit_id": "51223",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51223",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/223/051223_hanrei.pdf"
+}

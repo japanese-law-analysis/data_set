@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 15,
+    "month": 6,
+    "day": 2
+  },
+  "case_number": "平成15(さ)1",
+  "case_name": "公衆に著しく迷惑をかける暴力的不良行為等の防止に関する条例（昭和３７年大阪府条例第４４号）違反被告事件についてした略式命令に対する非常上告事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集刑　第284号353頁",
+  "original_court_name": "大阪簡易裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 14,
+    "month": 7,
+    "day": 29
+  },
+  "gist": "常習一罪の一部につき常習罪として有罪の確定裁判があることを看過してその余につき非常習罪として発せられた略式命令に対する非常上告",
+  "ref_law": "刑訴法458条1号",
+  "lawsuit_id": "57853",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57853",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/853/057853_hanrei.pdf"
+}

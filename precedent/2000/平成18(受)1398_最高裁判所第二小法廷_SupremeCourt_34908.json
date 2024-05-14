@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 7,
+    "day": 6
+  },
+  "case_number": "平成18(受)1398",
+  "case_name": "建物収去土地明渡請求事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第61巻5号1940頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "平成18(ネ)36",
+  "original_date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 5,
+    "day": 16
+  },
+  "gist": "土地を目的とする先順位の甲抵当権が消滅した後に後順位の乙抵当権が実行された場合において，土地と地上建物が甲抵当権の設定時には同一の所有者に属していなかったが乙抵当権の設定時には同一の所有者に属していたときの法定地上権の成否",
+  "case_gist": "土地を目的とする先順位の甲抵当権と後順位の乙抵当権が設定された後，甲抵当権が設定契約の解除により消滅し，その後，乙抵当権の実行により土地と地上建物の所有者を異にするに至った場合において，当該土地と建物が，甲抵当権の設定時には同一の所有者に属していなかったとしても，乙抵当権の設定時に同一の所有者に属していたときは，法定地上権が成立する。",
+  "ref_law": "民法388条",
+  "lawsuit_id": "34908",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=34908",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/908/034908_hanrei.pdf",
+  "contents": ""
+}

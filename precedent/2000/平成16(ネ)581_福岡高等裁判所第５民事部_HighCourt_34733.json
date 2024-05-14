@@ -1,0 +1,22 @@
+{
+  "trial_type": "HighCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 3,
+    "day": 9
+  },
+  "case_number": "平成16(ネ)581",
+  "case_name": "損害賠償請求事件",
+  "court_name": "福岡高等裁判所第５民事部",
+  "result": "その他",
+  "article_info": "第59巻1号3頁",
+  "original_court_name": "福岡地方裁判所\n        　小倉支部",
+  "original_case_number": "平成13(ワ)1470",
+  "gist": "マンションの共用部分の瑕疵が，補修後も区分所有権の交換価値を低下させていることを理由として，売主の瑕疵担保責任が認められた事例",
+  "case_gist": "新築マンションの共用部分の外壁タイルに大規模な補修工事を要する瑕疵がある場合に，補修によりその機能上の問題が解消された後においても，その瑕疵に起因して一般的に受ける不安感・不快感が認められることなどにより，区分所有権の交換価値が低下しているなど判示の事情の下では，区分所有者は，売主の瑕疵担保責任に基づき交換価値の低下分について損害賠償を請求することができる。",
+  "lawsuit_id": "34733",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail3?id=34733",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/733/034733_hanrei.pdf",
+  "contents": ""
+}

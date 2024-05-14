@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 2,
+    "day": 18
+  },
+  "case_number": "平成19(あ)1230",
+  "case_name": "業務上横領被告事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第62巻2号37頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "平成18(う)244",
+  "original_date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 5,
+    "day": 31
+  },
+  "gist": "家庭裁判所から選任された未成年後見人が未成年被後見人所有の財物を横領した場合と刑法２４４条１項の準用の有無",
+  "case_gist": "家庭裁判所から選任された未成年後見人が業務上占有する未成年被後見人所有の財物を横領した場合，未成年後見人と未成年被後見人との間に刑法２４４条１項所定の親族関係があっても，その後見事務は公的性格を有するものであり，同条項は準用されない。",
+  "ref_law": "刑法244条1項，刑法253条，刑法255条",
+  "lawsuit_id": "35770",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=35770",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/770/035770_hanrei.pdf",
+  "contents": ""
+}

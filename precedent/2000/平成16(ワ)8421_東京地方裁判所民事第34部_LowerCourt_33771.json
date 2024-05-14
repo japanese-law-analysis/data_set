@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 10,
+    "day": 27
+  },
+  "case_number": "平成16(ワ)8421",
+  "case_name": "損害賠償請求",
+  "court_name": "東京地方裁判所民事第34部",
+  "result": "棄却",
+  "gist": "多発性硬化症を発症し、一度寛解したものの再発が起こり、障害が残存している場合において、多発性硬化症の診断が遅延した過失、多発性硬化症の再発を招いた過失及び再発時の治療が不適切であった過失をいずれも否定した事例",
+  "lawsuit_id": "33771",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=33771",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/771/033771_hanrei.pdf",
+  "contents": "CT\nMRI\nCT\nCT MRI\nMRI\nCT\nMRI\nMR\nI\nCT\nCT\nIII\nMRI\nT2\nADE\nM\nmg\nMRI\nMRI\nMRI\nMRI\nmg\nmg\nMRI\nMRI\nMRI\nMRI\nmultiple sclerosis: MS\nMcDonald\nFU\ntumefactive MS lesion\nACTH\nMS\nMS\nMS\nMS MS\nMS\nMRI\nMS\nMRI\nMS\nMS\nMS\nMS\nMS MRI CT\nMS\nCT MRI\nMS\nMS\nMRI\nMRI\nMRI MS\nMS\nMS\nMS\nMS\nMS\nMS\nMS\nMS\nMS\nMRI\nMS\nMS\n"
+}

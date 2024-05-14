@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 12,
+    "month": 11,
+    "day": 27
+  },
+  "case_number": "平成9(あ)821",
+  "case_name": "政治資金規正法違反被告事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第54巻9号875頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成8(う)944",
+  "original_date": {
+    "era": "Heisei",
+    "year": 9,
+    "month": 5,
+    "day": 21
+  },
+  "gist": "政治資金規正法（平成六年法律第四号による改正前のもの）二五条一項が定める同法一二条一項の報告書に虚偽の記入をする罪と身分犯",
+  "case_gist": "政治資金規正法（平成六年法律第四号による改正前のもの）二五条一項が定める同法一二条一項の報告書に虚偽の記入をする罪は、犯人の身分によって構成すべき犯罪ではない。",
+  "ref_law": "政治資金規正法（平成6年法律第4号による改正前のもの）12条1項，政治資金規正法（平成6年法律第4号による改正前のもの）25条1項",
+  "lawsuit_id": "51232",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51232",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/232/051232_hanrei.pdf"
+}

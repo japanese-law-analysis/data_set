@@ -1,0 +1,22 @@
+{
+  "trial_type": "HighCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 17,
+    "month": 1,
+    "day": 19
+  },
+  "case_number": "平成16(う)2752",
+  "case_name": "道路交通法違反被告事件",
+  "court_name": "東京高等裁判所第５刑事部",
+  "result": "棄却",
+  "article_info": "第58巻1号1頁",
+  "original_court_name": "東京簡易裁判所",
+  "original_case_number": "平成15(ろ)732",
+  "gist": "道路交通法７１条６号の委任の範囲",
+  "case_gist": "道路運送車両法による自動車登録番号標又は車両番号標に，赤外線を吸収し又は反射するための物を取り付け又は付着させて自動車を運転することを禁止した東京都道路交通規則８条１３号及び千葉県道路交通法施行細則９条９号は，道路交通法７１条６号が公安委員会に委任した事項の範囲を逸脱するものではない。",
+  "lawsuit_id": "34701",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail3?id=34701",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/701/034701_hanrei.pdf",
+  "contents": ""
+}

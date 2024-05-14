@@ -1,0 +1,20 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 8,
+    "day": 31
+  },
+  "case_number": "平成17(行コ)112",
+  "case_name": "退去強制令書発付処分取消請求控訴事件",
+  "court_name": "大阪高等裁判所第５民事部",
+  "result": "その他",
+  "original_court_name": "大阪地方裁判所",
+  "original_case_number": "平成15(行ウ)100",
+  "gist": "タイ国籍を有する母娘に在留特別許可を付与しなかったことが，法務大臣の裁量を逸脱し又は濫用するものとは認められないとして，母娘の異議に対して法務大臣がした異議の申出は理由がない旨の裁決及び入国管理局主任審査官がした退去強制令書発付処分がいずれも適法とされた事例",
+  "lawsuit_id": "33799",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=33799",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/799/033799_hanrei.pdf",
+  "contents": ""
+}

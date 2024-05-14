@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 9,
+    "day": 16
+  },
+  "case_number": "平成19(行ウ)78",
+  "case_name": "労働者災害補償保険給付不支給決定処分取消請求事件",
+  "court_name": "名古屋地方裁判所民事第１部",
+  "gist": "運送会社の従業員が自動車運転の業務に従事中に交通事故現場に遭遇し，横転した事故車両内に閉じ込められた人を救出した上で事故車両を起こそうとしていた際に，後続車両に追突されて死亡したという事案について，同死亡が業務上の死亡に当たるとされた事例",
+  "lawsuit_id": "37072",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=37072",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/072/037072_hanrei.pdf",
+  "contents": ""
+}

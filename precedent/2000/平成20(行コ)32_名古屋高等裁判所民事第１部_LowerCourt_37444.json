@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 2,
+    "day": 26
+  },
+  "case_number": "平成20(行コ)32",
+  "case_name": "損害賠償（住民訴訟）請求等控訴事件",
+  "court_name": "名古屋高等裁判所民事第１部",
+  "result": "その他",
+  "original_court_name": "津地方裁判所",
+  "original_case_number": "平成18(行ウ)17",
+  "original_result": "棄却",
+  "gist": "三重県桑名市議会の会派が開催した講演会の講師謝金等の開催費用を同会派の政務調査費から支出したのは違法であるとして，同市民である控訴人が地方自治法に基づき桑名市長を相手に，不当利得返還請求を怠る事実の違法確認及び同会派所属議員に講演会の開催費用を請求するよう求めた住民訴訟につき，これをいずれも棄却した原判決を変更し，上記怠る事実の違法確認請求は認容すべきとされた事例",
+  "lawsuit_id": "37444",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=37444",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/444/037444_hanrei.pdf",
+  "contents": ""
+}

@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 11,
+    "day": 17
+  },
+  "case_number": "平成18(わ)171",
+  "case_name": "殺人被告事件",
+  "court_name": "鹿児島地方裁判所刑事部",
+  "gist": "殺人罪で起訴された被告人が，指紋鑑定や血痕のＤＮＡ鑑定の信用性などを争い，犯人性を否認したが，犯人性に関する間接事実を総合的に検討した結果，被告人が犯人であることは合理的な疑いを容れる余地なく，これを認めることができるとして，被告人に無期懲役が言い渡された事例",
+  "lawsuit_id": "33949",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=33949",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/949/033949_hanrei.pdf",
+  "contents": "\u0001\n"
+}

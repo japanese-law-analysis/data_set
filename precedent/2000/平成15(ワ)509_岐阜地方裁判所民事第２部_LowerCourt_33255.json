@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 3,
+    "day": 29
+  },
+  "case_number": "平成15(ワ)509",
+  "case_name": "損害賠償請求事件",
+  "court_name": "岐阜地方裁判所民事第２部",
+  "result": "棄却",
+  "gist": "左足アキレス腱皮下部分断裂に対する治療方法として，医師が選択した保存的療法が不適切であるとともに，同療法を行った医師に施術上の過失があるうえ，同療法に関する医師からの説明が不十分であったとする損害賠償請求が，医師に過失及び説明義務違反はなかったとして棄却された事例",
+  "lawsuit_id": "33255",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=33255",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/255/033255_hanrei.pdf",
+  "contents": ""
+}

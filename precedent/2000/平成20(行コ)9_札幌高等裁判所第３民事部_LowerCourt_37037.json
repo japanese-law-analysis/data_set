@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 11,
+    "day": 13
+  },
+  "case_number": "平成20(行コ)9",
+  "case_name": "一級建築士免許取消処分等取消請求控訴事件（原審・札幌地方裁判所平成１８年（行ウ）第２７号",
+  "court_name": "札幌高等裁判所第３民事部",
+  "result": "棄却",
+  "original_court_name": "札幌地方裁判所",
+  "original_case_number": "平成18(行ウ)27",
+  "original_result": "棄却",
+  "gist": "控訴人らが被控訴人らから受けた一級建築士免許又は建築士事務所登録を取り消すとした行政処分に裁量権の逸脱・濫用，理由不備の違法があるとして各処分の取消しを求めたが，一級建築士に対する行政処分につき裁量権逸脱・濫用，理由不備の違法はなく，一級建築士に対する処分を前提とした建築士事務所に対する行政処分も違法性がないことを理由にその請求が棄却された事例",
+  "lawsuit_id": "37037",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=37037",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/037/037037_hanrei.pdf",
+  "contents": ""
+}

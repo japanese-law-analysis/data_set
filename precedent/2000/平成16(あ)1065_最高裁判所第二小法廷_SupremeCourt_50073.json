@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 16,
+    "month": 12,
+    "day": 10
+  },
+  "case_number": "平成16(あ)1065",
+  "case_name": "宅地建物取引業法違反被告事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第58巻9号1061頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成15(う)1436",
+  "original_date": {
+    "era": "Heisei",
+    "year": 16,
+    "month": 4,
+    "day": 13
+  },
+  "gist": "民事執行法上の競売手続により宅地又は建物を買い受ける行為と宅地建物取引業法２条２号にいう宅地又は建物の「売買」",
+  "case_gist": "民事執行法上の競売手続により宅地又は建物を買い受ける行為は，宅地建物取引業法２条２号にいう宅地又は建物の「売買」に当たる。",
+  "ref_law": "宅地建物取引業法2条2号，宅地建物取引業法12条1項，宅地建物取引業法79条2号，民事執行法第2章第2節第1款第2目　強制競売，民事執行法188条",
+  "lawsuit_id": "50073",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50073",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/073/050073_hanrei.pdf"
+}

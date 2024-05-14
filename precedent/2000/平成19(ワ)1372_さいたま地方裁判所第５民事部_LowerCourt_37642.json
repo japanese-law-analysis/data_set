@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 3,
+    "day": 13
+  },
+  "case_number": "平成19(ワ)1372",
+  "case_name": "損害賠償請求事件",
+  "court_name": "さいたま地方裁判所第５民事部",
+  "gist": "建物解体工事により約３か月の間，散発的に，ある程度継続的に解体工事敷地境界線部分において９４デシベルに達する騒音が発生していたと認め，音源から居住地が離れることによる騒音の減衰を考慮し，居住地の敷地において８５デシベルを越える騒音被害を受けていたと認められる原告らにつき，民法７０９条に基づき，解体工事施工業者に各自１０万円の慰謝料支払責任を認めた事案。",
+  "lawsuit_id": "37642",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=37642",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/642/037642_hanrei.pdf",
+  "contents": "a\n1 1\n2 2\n3 3\nb b\nb\nlog\nlog 85/30\n"
+}

@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 3,
+    "day": 26
+  },
+  "case_number": "平成17(ワ)1231",
+  "case_name": "損害賠償等請求事件",
+  "court_name": "千葉地方裁判所民事２部",
+  "result": "棄却",
+  "gist": "保健所長から「その他の公衆浴場」として営業許可を受けた原告が，県との水道給水契約において一般公衆浴場用の水道料金よりも高い従量料金を定める条例の規定が適用されることについて，保健所職員が説明を怠ったなどと主張して，県に対し損害賠償等を求めた請求が棄却された事例",
+  "lawsuit_id": "34885",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=34885",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/885/034885_hanrei.pdf",
+  "contents": ""
+}

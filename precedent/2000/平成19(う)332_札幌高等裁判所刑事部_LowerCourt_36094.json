@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 3,
+    "day": 13
+  },
+  "case_number": "平成19(う)332",
+  "case_name": "殺人未遂被告事件",
+  "court_name": "札幌高等裁判所刑事部",
+  "result": "棄却",
+  "original_court_name": "札幌地方裁判所",
+  "original_case_number": "平成18(わ)1664",
+  "original_result": "その他",
+  "gist": "被告人が，交際相手と別れた自己の不満やいら立ちを解消するために，１か月足らずの間に２回にわたり帰宅途中の女性各１人を殺意をもってそれぞれ多数回刃物で突き刺したが，いずれも重傷を負わせたものの殺害の目的を遂げなかったという殺人未遂２件の公訴事実について，各事実とも犯人ではないとして争った被告人側の主張を第１審（懲役１８年）同様に認めず，被告人の控訴を棄却した事例",
+  "lawsuit_id": "36094",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=36094",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/094/036094_hanrei.pdf",
+  "contents": ""
+}

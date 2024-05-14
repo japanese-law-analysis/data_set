@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 6,
+    "day": 12
+  },
+  "case_number": "平成19(ネ)929",
+  "case_name": "弁護士報酬等請求控訴事件",
+  "court_name": "名古屋高等裁判所民事第１部",
+  "result": "棄却",
+  "original_court_name": "名古屋地方裁判所",
+  "original_case_number": "平成18(ワ)3715",
+  "original_result": "その他",
+  "gist": "名古屋市の住民である１審原告らが，名古屋市が発注した公共工事の指名競争入札について談合が行われたなどと主張して，上記工事を受注した建設会社等に対して住民訴訟を提起し，同訴訟において，上記建設会社等に対して損害賠償金の支払を命じる判決が確定したので，名古屋市に対し上記住民訴訟に要した弁護士報酬額の範囲内で相当と認められる額の支払を請求したところ，これを一部認容した原判決が維持された事例",
+  "lawsuit_id": "36588",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=36588",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/588/036588_hanrei.pdf",
+  "contents": ""
+}

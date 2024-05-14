@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 6,
+    "day": 19
+  },
+  "case_number": "平成16(あ)455",
+  "case_name": "殺人，銃砲刀剣類所持等取締法違反被告事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第291号693頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 16,
+    "month": 1,
+    "day": 23
+  },
+  "gist": "死刑の量刑が維持された事例（中国人夫婦殺害事件）",
+  "lawsuit_id": "80504",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=80504",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/504/080504_hanrei.pdf",
+  "contents": ""
+}

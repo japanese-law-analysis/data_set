@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 3,
+    "day": 27
+  },
+  "case_number": "平成19(受)1280",
+  "case_name": "供託金還付請求権帰属確認請求本訴，同反訴事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第63巻3号449頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成18(ネ)3290",
+  "original_date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 4,
+    "day": 27
+  },
+  "gist": "譲渡禁止の特約に反して債権を譲渡した債権者が同特約の存在を理由に譲渡の無効を主張することの可否",
+  "case_gist": "譲渡禁止の特約に反して債権を譲渡した債権者が同特約の存在を理由に譲渡の無効を主張することは，債務者にその無効を主張する意思があることが明らかであるなどの特段の事情がない限り，許されない。",
+  "ref_law": "民法466条",
+  "lawsuit_id": "37486",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=37486",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/486/037486_hanrei.pdf",
+  "contents": ""
+}

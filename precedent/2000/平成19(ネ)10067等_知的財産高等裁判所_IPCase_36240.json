@@ -1,0 +1,18 @@
+{
+  "trial_type": "IPCase",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 3,
+    "day": 27
+  },
+  "case_number": "平成19(ネ)10067等",
+  "case_name": "損害賠償請求控訴事件",
+  "court_name": "知的財産高等裁判所",
+  "right_type": "商標権",
+  "lawsuit_type": "民事訴訟",
+  "lawsuit_id": "36240",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail7?id=36240",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/240/036240_hanrei.pdf",
+  "contents": ""
+}

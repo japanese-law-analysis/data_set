@@ -1,0 +1,23 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 14,
+    "month": 9,
+    "day": 26
+  },
+  "case_number": "平成13(行ニ)5",
+  "case_name": "訴訟参加申立て事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "却下",
+  "article_info": "集民　第207号327頁",
+  "original_court_name": "最高裁判所",
+  "original_case_number": "平成13(行ツ)59",
+  "gist": "救済を申し立てなかった労働者がその所属する労働組合の救済申立てに係る救済命令の取消訴訟に行政事件訴訟法２２条１項に基づく参加をすることの許否",
+  "case_gist": "自ら救済を申し立てなかった労働者がその所属する労働組合の救済申立てに係る救済命令の取消訴訟に行政事件訴訟法２２条１項に基づく参加をすることは，当該救済命令の内容が当該労働者に対する賃金相当額の支払を命じるものであるなど当該労働者個人の雇用関係上の権利にかかわるものであっても，許されない。",
+  "ref_law": "行政事件訴訟法22条1項，労働組合法27条",
+  "lawsuit_id": "76096",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=76096",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/096/076096_hanrei.pdf"
+}

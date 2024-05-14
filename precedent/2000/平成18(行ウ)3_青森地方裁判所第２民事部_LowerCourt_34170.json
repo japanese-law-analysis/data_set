@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 2,
+    "day": 23
+  },
+  "case_number": "平成18(行ウ)3",
+  "case_name": "産業廃棄物収集運搬業許可取消処分取消請求事件",
+  "court_name": "青森地方裁判所第２民事部",
+  "result": "棄却",
+  "gist": "原告の元代表取締役が産業廃棄物収集運搬業の許可の取消事由とされている，暴力団員による不当な行為の防止等に関する法律２条６号に規定する「暴力団員」に該当することが判明したことを理由として青森県知事がした上記許可の取消処分が違法であるとはいえないとされた事例。",
+  "lawsuit_id": "34170",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=34170",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/170/034170_hanrei.pdf",
+  "contents": ""
+}

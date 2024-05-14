@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 12,
+    "month": 5,
+    "day": 1
+  },
+  "case_number": "平成12(許)5",
+  "case_name": "面接交渉の審判に対する原審判変更決定に対する許可抗告事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "民集　第54巻5号1607頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "平成11(ラ)199",
+  "original_date": {
+    "era": "Heisei",
+    "year": 11,
+    "month": 10,
+    "day": 26
+  },
+  "gist": "婚姻関係が破綻して父母が別居状態にある場合に子と同居していない親と子の面接交渉について家庭裁判所が相当な処分を命ずることの可否",
+  "case_gist": "婚姻関係が破綻して父母が別居状態にある場合に、子と同居していない親と子の面接交渉につき父母の間で協議が調わないとき、又は協議をすることができないときは、家庭裁判所は、民法七六六条を類推適用し、家事審判法九条一項乙類四号により、右面接交渉について相当な処分を命ずることができる。",
+  "ref_law": "民法766条・民法818条3項・民法820条　家事審判法9条1項乙類4号",
+  "lawsuit_id": "52319",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52319",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/319/052319_hanrei.pdf"
+}

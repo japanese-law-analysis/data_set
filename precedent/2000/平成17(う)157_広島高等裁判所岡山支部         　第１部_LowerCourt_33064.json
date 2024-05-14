@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 3,
+    "day": 22
+  },
+  "case_number": "平成17(う)157",
+  "case_name": "業務上過失致死、道路交通法違反",
+  "court_name": "広島高等裁判所岡山支部         　第１部",
+  "result": "破棄自判",
+  "original_court_name": "岡山地方裁判所\n        　倉敷支部",
+  "original_case_number": "平成17(わ)82",
+  "original_result": "その他",
+  "gist": "業務上過失致死、道路交通法違反被告事件について、原裁判所が検察官に対し、結審後に求刑を重くする方向で求釈明をしたのは、裁判官の職務を逸脱したもので判決に影響を及ぼす訴訟手続の法令違反があること及び量刑不当を理由とする控訴に対し、妥当な訴訟指揮とはいえないものの裁判所の公平を害するとまではいえないとし、さらに原判決後、刑事和解が成立するなど、被告人のために斟酌するべき事情を加えると刑期の点でいささか重きに過ぎるとして、原判決を破棄した事例",
+  "lawsuit_id": "33064",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=33064",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/064/033064_hanrei.pdf",
+  "contents": ""
+}

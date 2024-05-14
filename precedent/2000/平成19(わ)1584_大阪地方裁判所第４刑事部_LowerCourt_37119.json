@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 10,
+    "day": 31
+  },
+  "case_number": "平成19(わ)1584",
+  "case_name": "証券取引法違反被告事件",
+  "court_name": "大阪地方裁判所第４刑事部",
+  "gist": "共犯者３名らと共謀し，誘引目的で，株券の売買が繁盛であると誤解させ，かつ，株券の相場を変動させるべき一連の取引を行うとともに，売買の状況等に関して他人に誤解を生じさせる目的で，仮装売買及び馴合売買を行ったとして，証券取引法１５９条２項１号，同条１項１号・５号の成立を認めた事例",
+  "lawsuit_id": "37119",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=37119",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/119/037119_hanrei.pdf",
+  "contents": ""
+}

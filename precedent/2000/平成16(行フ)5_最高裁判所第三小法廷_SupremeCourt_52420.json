@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 17,
+    "month": 3,
+    "day": 29
+  },
+  "case_number": "平成16(行フ)5",
+  "case_name": "訴状一部却下命令に対する抗告棄却決定に対する許可抗告事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "破棄自判",
+  "article_info": "民集　第59巻2号477頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成16(行ス)34",
+  "original_date": {
+    "era": "Heisei",
+    "year": 16,
+    "month": 7,
+    "day": 30
+  },
+  "gist": "同一の敷地にあって一つのリゾートホテルを構成している複数の建物の固定資産課税台帳の登録価格についてされた審査申出の棄却決定の取消しを求める各請求が互いに行政事件訴訟法１３条６号所定の関連請求に当たるとされた事例",
+  "case_gist": "同一の敷地にあって一つのリゾートホテルを構成している同一人所有の複数の建物について，固定資産課税台帳に登録された同一年度の価格につき需給事情による減点補正がされていないのは違法であるとしてされた審査の申出を棄却する固定資産評価審査委員会の決定のうち，所有者が各建物の適正な時価と主張する価格を超える部分の取消しを求める各請求は，互いに行政事件訴訟法１３条６号所定の関連請求に当たる。",
+  "ref_law": "行政事件訴訟法13条6号，行政事件訴訟法16条1項，民訴法9条1項",
+  "lawsuit_id": "52420",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52420",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/420/052420_hanrei.pdf"
+}

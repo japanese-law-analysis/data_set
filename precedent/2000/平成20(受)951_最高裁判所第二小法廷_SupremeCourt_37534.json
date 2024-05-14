@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 4,
+    "day": 17
+  },
+  "case_number": "平成20(受)951",
+  "case_name": "株主総会等決議不存在確認請求事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第230号395頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "平成19(ネ)524",
+  "original_date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 2,
+    "day": 27
+  },
+  "gist": "株式会社の取締役等の解任又は選任を内容とする株主総会決議不存在確認の訴えの係属中に当該株式会社が破産手続開始の決定を受けた場合における訴えの利益の消長",
+  "case_gist": "株式会社の取締役又は監査役の解任又は選任を内容とする株主総会決議不存在確認の訴えの係属中に当該株式会社が破産手続開始の決定を受けても，上記訴訟についての訴えの利益は当然には消滅しない。",
+  "ref_law": "会社法830条，破産法30条，民法653条，民訴法第2編第1章訴え",
+  "lawsuit_id": "37534",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=37534",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/534/037534_hanrei.pdf",
+  "contents": ""
+}

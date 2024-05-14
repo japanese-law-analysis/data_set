@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 2,
+    "day": 27
+  },
+  "case_number": "平成19(ネ)1048",
+  "case_name": "不当利得返還請求控訴事件",
+  "court_name": "名古屋高等裁判所民事第２部",
+  "result": "その他",
+  "original_court_name": "岐阜地方裁判所\n        　御嵩支部",
+  "original_case_number": "平成19(ワ)14",
+  "original_result": "その他",
+  "gist": "貸金業者である被控訴人に対する過払金返還請求権の消滅時効の起算点を基本契約の終了時ないしこれに基づく一個の連続した貸付取引の終了時であると判断するとともに，制限超過利息の元本充当による貸金債務の消滅後に被控訴人が行った弁済の請求及び受領行為について不法行為を構成すると判断した事例",
+  "lawsuit_id": "36191",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=36191",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/191/036191_hanrei.pdf",
+  "contents": ""
+}

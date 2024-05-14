@@ -1,0 +1,18 @@
+{
+  "trial_type": "IPCase",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 3,
+    "day": 27
+  },
+  "case_number": "平成18(ネ)10058等",
+  "case_name": "著作権料金請求控訴事件",
+  "court_name": "知的財産高等裁判所",
+  "right_type": "著作権",
+  "lawsuit_type": "民事訴訟",
+  "lawsuit_id": "34433",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail7?id=34433",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/433/034433_hanrei.pdf",
+  "contents": ""
+}

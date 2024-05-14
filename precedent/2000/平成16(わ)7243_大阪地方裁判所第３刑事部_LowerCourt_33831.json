@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 10,
+    "day": 25
+  },
+  "case_number": "平成16(わ)7243",
+  "case_name": "電磁的公正証書原本不実記録、同供用被告事件",
+  "court_name": "大阪地方裁判所第３刑事部",
+  "gist": "老舗の和菓子屋の１１億４６８０万円の第三者割当増資について，株式の払込みは仮装であり，当該増資に関して登記簿原本に不実の記録をさせるなどしたとして，代表取締役ら３名に懲役刑（執行猶予付き）が言い渡された事例",
+  "lawsuit_id": "33831",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=33831",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/831/033831_hanrei.pdf",
+  "contents": ""
+}

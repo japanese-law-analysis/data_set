@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 1,
+    "day": 10
+  },
+  "case_number": "平成19(わ)886",
+  "case_name": "覚せい剤取締法違反",
+  "court_name": "神戸地方裁判所第２刑事部",
+  "gist": "鑑定書の信用性なし，故意否認，心神喪失（いずれも排斥）",
+  "lawsuit_id": "35782",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=35782",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/782/035782_hanrei.pdf",
+  "contents": ""
+}

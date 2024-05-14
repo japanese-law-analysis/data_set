@@ -1,0 +1,21 @@
+{
+  "trial_type": "HighCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 17,
+    "month": 8,
+    "day": 18
+  },
+  "case_number": "平成17(う)123",
+  "case_name": "道路交通法違反教唆（予備的訴因及び原審認定罪名道路交通法違反幇助），犯人隠避被告事件",
+  "court_name": "札幌高等裁判所刑事部",
+  "result": "棄却",
+  "article_info": "第58巻3号40頁",
+  "original_court_name": "札幌簡易裁判所",
+  "gist": "死者を隠避させる行為と犯人隠避罪の成否",
+  "case_gist": "犯人がすでに死亡していた場合であっても，捜査機関に誰が犯人か分かっていない段階で，自己が犯人である旨虚偽の事実を警察官に述べる行為は，犯人隠避罪を構成する。",
+  "lawsuit_id": "34706",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail3?id=34706",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/706/034706_hanrei.pdf",
+  "contents": ""
+}

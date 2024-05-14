@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 11,
+    "day": 22
+  },
+  "case_number": "平成15(ワ)1090",
+  "case_name": "損害賠償請求事件",
+  "court_name": "京都地方裁判所第７民事部",
+  "gist": "精神保健及び精神障害者福祉に関する法律(平成11年改正前)33条1項に規定する医療保護入院の前提となる指定医の診察を受けさせる目的で，原告の家族の依頼を受けた医師が問診を十分にしないまま，町職員らが原告を押さえ付けた状態で，医師が精神安定剤を注射して，病院に搬送した行為につき，医師及び町職員の行為が違法とされた事例",
+  "lawsuit_id": "33874",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=33874",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/874/033874_hanrei.pdf",
+  "contents": ""
+}

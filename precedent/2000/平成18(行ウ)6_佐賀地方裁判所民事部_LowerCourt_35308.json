@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 10,
+    "day": 5
+  },
+  "case_number": "平成18(行ウ)6",
+  "case_name": "処分取消請求事件",
+  "court_name": "佐賀地方裁判所民事部",
+  "result": "その他",
+  "gist": "株式会社が，営業目的でした佐賀市情報公開条例に基づく建築物に関する公文書の公開請求に対する，佐賀市長の部分公開決定について，建物の住居表示並びに建物の位置及び配置に関する情報は，「法令等の規定により，何人も閲覧できるとされている情報」ないしこれに準じた情報に当たるとして，同情報が記載された文書を非公開とした部分が取り消された事例",
+  "lawsuit_id": "35308",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=35308",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/308/035308_hanrei.pdf",
+  "contents": ""
+}

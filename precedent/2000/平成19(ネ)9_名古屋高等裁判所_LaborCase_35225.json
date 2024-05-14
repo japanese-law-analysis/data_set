@@ -1,0 +1,16 @@
+{
+  "trial_type": "LaborCase",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 9,
+    "day": 13
+  },
+  "case_number": "平成19(ネ)9",
+  "case_name": "解雇予告手当請求控訴事件",
+  "court_name": "名古屋高等裁判所",
+  "lawsuit_id": "35225",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail6?id=35225",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/225/035225_hanrei.pdf",
+  "contents": ""
+}

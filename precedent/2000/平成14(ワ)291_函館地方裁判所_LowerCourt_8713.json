@@ -1,0 +1,15 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 15,
+    "month": 3,
+    "day": 25
+  },
+  "case_number": "平成14(ワ)291",
+  "case_name": "損害賠償請求",
+  "court_name": "函館地方裁判所",
+  "lawsuit_id": "8713",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=8713",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/713/008713_hanrei.pdf"
+}

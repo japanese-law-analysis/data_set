@@ -1,0 +1,17 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Heisei",
+    "year": 15,
+    "month": 7,
+    "day": 31
+  },
+  "case_number": "平成15(行コ)9",
+  "case_name": "裁決取消請求控訴事件（原審・徳島地方裁判所平成１２年（行ウ）第１４号）",
+  "court_name": "高松高等裁判所",
+  "field": "行政",
+  "lawsuit_id": "38488",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=38488",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/488/038488_hanrei.pdf",
+  "contents": ""
+}

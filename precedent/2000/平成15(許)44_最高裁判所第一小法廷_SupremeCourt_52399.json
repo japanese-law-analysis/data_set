@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 16,
+    "month": 4,
+    "day": 8
+  },
+  "case_number": "平成15(許)44",
+  "case_name": "移送申立て却下決定に対する抗告審の取消決定に対する許可抗告事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "破棄差戻",
+  "article_info": "民集　第58巻4号825頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "平成15(ラ)284",
+  "original_date": {
+    "era": "Heisei",
+    "year": 15,
+    "month": 9,
+    "day": 8
+  },
+  "gist": "不正競争防止法３条１項に基づく不正競争による侵害の差止めを求める訴え及び差止請求権の不存在確認を求める訴えと民訴法５条９号",
+  "case_gist": "不正競争防止法３条１項に基づく不正競争による侵害の差止めを求める訴え及び差止請求権の不存在確認を求める訴えは，いずれも民訴法５条９号所定の訴えに該当する。",
+  "ref_law": "民訴法5条9号，不正競争防止法3条1項",
+  "lawsuit_id": "52399",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52399",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/399/052399_hanrei.pdf"
+}

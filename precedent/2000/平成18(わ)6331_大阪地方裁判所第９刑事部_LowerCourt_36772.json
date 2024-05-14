@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 6,
+    "day": 26
+  },
+  "case_number": "平成18(わ)6331",
+  "case_name": "殺人被告事件",
+  "court_name": "大阪地方裁判所第９刑事部",
+  "gist": "実兄の背部を洋出刃包丁で刺突して殺害した事案につき，その行為が統合失調症の陰性症状による人格水準の低下とストレスによる病状の悪化の影響による人格変化に基づいたものとして心神喪失が認められ，無罪が言い渡された事例",
+  "lawsuit_id": "36772",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=36772",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/772/036772_hanrei.pdf",
+  "contents": ""
+}

@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 7,
+    "day": 10
+  },
+  "case_number": "平成19(行ヒ)318",
+  "case_name": "特許取消決定取消請求事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第62巻7号1905頁",
+  "original_court_name": "知的財産高等裁判所",
+  "original_case_number": "平成18(行ケ)10314",
+  "original_date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 6,
+    "day": 29
+  },
+  "gist": "特許異議申立事件の係属中に複数の請求項に係る訂正請求がされた場合，特許異議の申立てがされている請求項についての特許請求の範囲の減縮を目的とする訂正は，訂正の対象となっている請求項ごとに個別にその許否を判断すべきか",
+  "case_gist": "特許異議申立事件の係属中に複数の請求項に係る訂正請求がされた場合，特許異議の申立てがされている請求項についての特許請求の範囲の減縮を目的とする訂正は，訂正の対象となっている請求項ごとに個別にその許否を判断すべきであり，一部の請求項に係る訂正事項が訂正の要件に適合しないことのみを理由として，他の請求項に係る訂正事項を含む訂正の全部を認めないとすることは許されない。",
+  "ref_law": "特許法（平成15年法律第47号による改正前のもの）113条，特許法（平成15年法律第47号による改正前のもの）120条の4第2項，特許法134条の2第1項",
+  "lawsuit_id": "36604",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=36604",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/604/036604_hanrei.pdf",
+  "contents": ""
+}

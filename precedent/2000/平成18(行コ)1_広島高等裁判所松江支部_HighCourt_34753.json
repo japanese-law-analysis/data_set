@@ -1,0 +1,22 @@
+{
+  "trial_type": "HighCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 10,
+    "day": 11
+  },
+  "case_number": "平成18(行コ)1",
+  "case_name": "公文書開示決定取消請求控訴事件（原審・鳥取地方裁判所平成１７年（行ウ）第５号）",
+  "court_name": "広島高等裁判所松江支部",
+  "result": "棄却",
+  "article_info": "第59巻4号1頁",
+  "original_court_name": "鳥取地方裁判所",
+  "original_case_number": "平成17(行ウ)5",
+  "gist": "宗教法人法２５条４項に基づき宗教法人から所轄庁に提出された書類の管理事務の法定受託事務該当性",
+  "case_gist": "宗教法人法２５条４項に基づき宗教法人から所轄庁（鳥取県）に提出された財産目録等の書類の管理事務は，地方自治法２条９項１号に規定する法定受託事務である。",
+  "lawsuit_id": "34753",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail3?id=34753",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/753/034753_hanrei.pdf",
+  "contents": ""
+}

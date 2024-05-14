@@ -1,0 +1,18 @@
+{
+  "trial_type": "IPCase",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 10,
+    "day": 11
+  },
+  "case_number": "平成17(ワ)22834",
+  "case_name": "債務不存在確認等請求事件",
+  "court_name": "東京地方裁判所",
+  "right_type": "特許権",
+  "lawsuit_type": "民事訴訟",
+  "lawsuit_id": "33700",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail7?id=33700",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/700/033700_hanrei.pdf",
+  "contents": "a\nb\nc\nd\n1 3\n3 4\n1 4\n1 1\n"
+}

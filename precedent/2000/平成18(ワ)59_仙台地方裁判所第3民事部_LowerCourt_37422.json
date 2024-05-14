@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 2,
+    "day": 26
+  },
+  "case_number": "平成18(ワ)59",
+  "case_name": "債務不存在確認等請求事件",
+  "court_name": "仙台地方裁判所第3民事部",
+  "gist": "移動型パン販売業をフランチャイズ展開する企業組合について，組合の賛助会員に対する債務不履行が認められ，債務不履行に基づく賛助会員契約の解除が認められた事例。移動型パン販売に使用する車両を購入した賛助会員について，組合による債務不履行を理由としては車両の購入契約を解除することはできないとされた事例。",
+  "lawsuit_id": "37422",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=37422",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/422/037422_hanrei.pdf",
+  "contents": ""
+}

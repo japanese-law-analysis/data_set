@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 1,
+    "day": 13
+  },
+  "case_number": "平成20(行ク)23",
+  "case_name": "文書提出命令申立て事件",
+  "court_name": "名古屋地方裁判所民事第９部",
+  "gist": "市議会の会派の所属議員が政務調査費の支出に関して同会派の経理責任者に対して提出した領収書及びその支出内容等を記載した「政務調査費報告書」につき民訴法２２０条４号ニ所定の自己利用文書に該当しないとされた事例",
+  "lawsuit_id": "37432",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=37432",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/432/037432_hanrei.pdf",
+  "contents": ""
+}

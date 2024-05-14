@@ -1,0 +1,21 @@
+{
+  "trial_type": "HighCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 11,
+    "day": 18
+  },
+  "case_number": "平成20(う)1744",
+  "case_name": "業務上過失致死，道路交通法違反被告事件",
+  "court_name": "東京高等裁判所",
+  "result": "破棄自判",
+  "article_info": "第61巻4号6頁",
+  "original_court_name": "東京地方裁判所",
+  "gist": "公判前整理手続を経た後の公判審理の段階でされた訴因変更請求が許されるとされた事例",
+  "case_gist": "公判前整理手続において争点となっていなかった事項に関し，公判で証人尋問等を行った結果明らかとなった事実関係に基づいて，訴因を変更する必要が生じたものであり，仮に許可したとしても，必要となる追加的証拠調べはかなり限定されていて，審理計画を大幅に変更しなければならなくなるようなものではなかったなど判示の事情の下においては，公判前整理手続を経た後の公判審理の段階でされた訴因変更請求が許される。",
+  "lawsuit_id": "37653",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail3?id=37653",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/653/037653_hanrei.pdf",
+  "contents": "B\n"
+}

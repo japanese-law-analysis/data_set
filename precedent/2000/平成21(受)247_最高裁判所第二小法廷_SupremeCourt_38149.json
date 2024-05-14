@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 11,
+    "day": 9
+  },
+  "case_number": "平成21(受)247",
+  "case_name": "不当利得金返還請求事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第63巻9号1987頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_case_number": "平成19(ネ)260",
+  "original_date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 10,
+    "day": 16
+  },
+  "gist": "民法７０４条後段の規定の趣旨",
+  "case_gist": "民法７０４条後段の規定は，悪意の受益者が不法行為の要件を充足する限りにおいて不法行為責任を負うことを注意的に規定したものにすぎず，悪意の受益者に対して不法行為責任とは異なる特別の責任を負わせたものではない。",
+  "ref_law": "民法704条後段，民法709条",
+  "lawsuit_id": "38149",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=38149",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/149/038149_hanrei.pdf",
+  "contents": ""
+}

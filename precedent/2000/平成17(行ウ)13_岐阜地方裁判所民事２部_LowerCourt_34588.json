@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 3,
+    "day": 7
+  },
+  "case_number": "平成17(行ウ)13",
+  "case_name": "農地転用届出受理処分取消請求事件",
+  "court_name": "岐阜地方裁判所民事２部",
+  "result": "その他",
+  "gist": "農地転用届出受理処分が土地の所有者の意思に基づかないでなされた無効な届出によるものであり，違法であるとして，取り消された事例",
+  "lawsuit_id": "34588",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=34588",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/588/034588_hanrei.pdf",
+  "contents": ""
+}

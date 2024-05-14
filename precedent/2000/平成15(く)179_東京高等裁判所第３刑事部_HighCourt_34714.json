@@ -1,0 +1,21 @@
+{
+  "trial_type": "HighCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 17,
+    "month": 3,
+    "day": 10
+  },
+  "case_number": "平成15(く)179",
+  "case_name": "再審開始決定に対する即時抗告申立事件",
+  "court_name": "東京高等裁判所第３刑事部",
+  "result": "棄却",
+  "article_info": "第58巻1号6頁",
+  "original_court_name": "横浜地方裁判所",
+  "gist": "大赦による赦免と再審請求の可否",
+  "case_gist": "大赦により赦免されたときでも，有罪確定判決につき無罪を主張して再審を請求することが許される。",
+  "lawsuit_id": "34714",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail3?id=34714",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/714/034714_hanrei.pdf",
+  "contents": ""
+}

@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 2,
+    "day": 22
+  },
+  "case_number": "平成19(受)528",
+  "case_name": "所有権移転登記抹消登記手続等請求本訴，貸金請求反訴，所有権移転登記抹消登記手続請求事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第62巻2号576頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "平成17(ネ)790",
+  "original_date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 12,
+    "day": 21
+  },
+  "gist": "１　会社の行為が商行為に該当することの主張立証責任\n２　会社の貸付けが当該会社の代表者の情宜に基づいてされたものとみる余地があっても，当該貸付けに係る債権が商行為によって生じた債権に当たるとされた事例",
+  "case_gist": "１　会社の行為は商行為と推定され，これを争う者において当該行為が当該会社の事業のためにするものでないこと，すなわち当該会社の事業と無関係であることの主張立証責任を負う。\n２　会社の貸付けが当該会社の代表者の情宜に基づいてされたものとみる余地があっても，それだけでは当該会社の事業と無関係であることの立証がされたということはできず，他にこれをうかがわせるような事情が存しない以上，当該貸付けに係る債権は，商行為によって生じた債権に当たる。",
+  "ref_law": "（１，２につき）会社法5条，商法4条1項，商法503条，民訴法第2編第4章第1節　総則",
+  "lawsuit_id": "35796",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=35796",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/796/035796_hanrei.pdf",
+  "contents": ""
+}

@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 10,
+    "day": 29
+  },
+  "case_number": "平成16(ワ)18933",
+  "case_name": "損害賠償",
+  "court_name": "東京地方裁判所民事第３０部",
+  "result": "棄却",
+  "lawsuit_id": "35392",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=35392",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/392/035392_hanrei.pdf",
+  "contents": ""
+}

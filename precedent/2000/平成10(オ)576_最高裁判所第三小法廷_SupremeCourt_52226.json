@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 13,
+    "month": 11,
+    "day": 27
+  },
+  "case_number": "平成10(オ)576",
+  "case_name": "損害賠償請求事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第55巻6号1154頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成8(ネ)1678",
+  "original_date": {
+    "era": "Heisei",
+    "year": 9,
+    "month": 9,
+    "day": 19
+  },
+  "gist": "乳がんの手術に当たり当時医療水準として未確立であった乳房温存療法について医師の知る範囲で説明すべき診療契約上の義務があるとされた事例",
+  "case_gist": "乳がんの手術に当たり，当時医療水準として確立していた胸筋温存乳房切除術を採用した医師が，未確立であった乳房温存療法を実施している医療機関も少なくなく，相当数の実施例があって，乳房温存療法を実施した医師の間では積極的な評価もされていること，当該患者の乳がんについて乳房温存療法の適応可能性のあること及び当該患者が乳房温存療法の自己への適応の有無，実施可能性について強い関心を有することを知っていたなど判示の事実関係の下においては，当該医師には，当該患者に対し，その乳がんについて乳房温存療法の適応可能性のあること及び乳房温存療法を実施している医療機関の名称や所在をその知る範囲で説明すべき診療契約上の義務がある。",
+  "ref_law": "民法415条",
+  "lawsuit_id": "52226",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52226",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/226/052226_hanrei.pdf"
+}

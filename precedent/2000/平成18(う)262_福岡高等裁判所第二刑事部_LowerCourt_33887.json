@@ -1,0 +1,20 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 10,
+    "day": 19
+  },
+  "case_number": "平成18(う)262",
+  "case_name": "強盗致死（変更後の訴因　強盗殺人）",
+  "court_name": "福岡高等裁判所第二刑事部",
+  "result": "棄却",
+  "original_court_name": "長崎地方裁判所",
+  "original_case_number": "平成16(わ)15",
+  "gist": "被告人が共犯者２名と共謀の上，金融業を営む被害者夫婦を殺害して金品を強取しようとしたが，金品の発見にいたらずその目的を遂げなかったものの，その際，被害者である妻を殺害した事案につき，懲役１５年の求刑に対して無期懲役を言い渡した原審の判断を維持した事例",
+  "lawsuit_id": "33887",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=33887",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/887/033887_hanrei.pdf",
+  "contents": ""
+}

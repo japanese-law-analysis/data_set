@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 6,
+    "day": 24
+  },
+  "case_number": "平成17(ワ)3223",
+  "case_name": "損害賠償請求事件",
+  "court_name": "名古屋地方裁判所民事第４部",
+  "gist": "被告病院で出生したＡに脳性麻痺による後遺障害が残ったことにつき，徐脈の発生時期が争われた事案において，准看護師の認識する前から徐脈が生じており，准看護師には分娩監視を怠った過失が認められ，同過失と上記後遺障害との間の因果関係も認められるが，分娩監視が適切になされていたとしても，一定の後遺障害の残った可能性が高いとして，その点を損害額の算定にあたって考慮し，原告らの損害賠償請求の一部を認容した事例",
+  "lawsuit_id": "38036",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=38036",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/036/038036_hanrei.pdf",
+  "contents": ""
+}

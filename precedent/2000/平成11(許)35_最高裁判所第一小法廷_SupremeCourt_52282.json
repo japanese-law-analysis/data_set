@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 12,
+    "month": 12,
+    "day": 14
+  },
+  "case_number": "平成11(許)35",
+  "case_name": "文書提出命令申立て却下決定に対する抗告審の取消決定に対する許可抗告事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "破棄自判",
+  "article_info": "民集　第54巻9号2709頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成11(ラ)87",
+  "original_date": {
+    "era": "Heisei",
+    "year": 11,
+    "month": 9,
+    "day": 8
+  },
+  "gist": "信用金庫の会員が代表訴訟において信用金庫の貸出稟議書につき文書提出命令の申立てをしたことと当該貸出稟議書が民訴法二二〇条四号ハ所定の「専ら文書の所持者の利用に供するための文書」に当たらない特段の事情",
+  "case_gist": "信用金庫の会員が代表訴訟において信用金庫の貸出稟議書につき文書提出命令の申立てをしたことは、当該貸出稟議書が民訴法二二〇条四号ハ所定の「専ら文書の所持者の利用に供するための文書」に当たらない特段の事情とはいえない。\n（反対意見がある。）",
+  "ref_law": "民訴法220条4号，信用金庫法39条，商法267条",
+  "lawsuit_id": "52282",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52282",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/282/052282_hanrei.pdf"
+}

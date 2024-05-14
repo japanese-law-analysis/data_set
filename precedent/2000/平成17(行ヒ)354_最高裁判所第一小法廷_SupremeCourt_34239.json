@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 3,
+    "day": 8
+  },
+  "case_number": "平成17(行ヒ)354",
+  "case_name": "遺族厚生年金不支給処分取消請求事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第61巻2号518頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成16(行コ)241",
+  "original_date": {
+    "era": "Heisei",
+    "year": 17,
+    "month": 5,
+    "day": 31
+  },
+  "gist": "厚生年金保険の被保険者であった叔父と内縁関係にあった姪が厚生年金保険法に基づき遺族厚生年金の支給を受けることのできる配偶者に当たるとされた事例",
+  "case_gist": "厚生年金保険の被保険者であった叔父と姪との内縁関係が，叔父と先妻との子の養育を主たる動機として形成され，当初から反倫理的，反社会的な側面を有していたものとはいい難く，親戚間では抵抗感なく承認され，地域社会等においても公然と受け容れられ，叔父の死亡まで約４２年間にわたり円満かつ安定的に継続したなど判示の事情の下では，近親者間における婚姻を禁止すべき公益的要請よりも遺族の生活の安定と福祉の向上に寄与するという厚生年金保険法の目的を優先させるべき特段の事情が認められ，上記姪は同法に基づき遺族厚生年金の支給を受けることのできる配偶者に当たる。\n（反対意見がある。）",
+  "ref_law": "厚生年金保険法3条2項，厚生年金保険法59条1項，民法734条1項",
+  "lawsuit_id": "34239",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=34239",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/239/034239_hanrei.pdf",
+  "contents": ""
+}

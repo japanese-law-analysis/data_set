@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 3,
+    "day": 28
+  },
+  "case_number": "平成16(ワ)1301",
+  "case_name": "損害賠償請求事件",
+  "court_name": "さいたま地方裁判所第１民事部",
+  "gist": "被告の弁護士としての事務処理は，著しく不十分であると認定した上で，２００万円の限度で慰謝料請求を認めた事例",
+  "lawsuit_id": "34626",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=34626",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/626/034626_hanrei.pdf",
+  "contents": ""
+}

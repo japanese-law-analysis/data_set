@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 6,
+    "day": 1
+  },
+  "case_number": "平成18(行ウ)7",
+  "case_name": "砂利採取計画認可取消等請求事件",
+  "court_name": "青森地方裁判所第２民事部",
+  "result": "却下",
+  "gist": "砂利採取法に基づく砂利採取計画の認可に関し，既に行われた認可の取消しを求める訴えはいわゆる裁決主義に違反するとともに訴えの利益を欠くものであるとして，将来の認可の差止めを求める訴えは処分のがい然性を欠くとともに請求の特定を欠くものとして，いずれも不適法であるとされた事例",
+  "lawsuit_id": "34750",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=34750",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/750/034750_hanrei.pdf",
+  "contents": ""
+}

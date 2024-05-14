@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 4,
+    "day": 16
+  },
+  "case_number": "平成20(わ)48",
+  "case_name": "殺人被告事件",
+  "court_name": "鹿児島地方裁判所",
+  "gist": "被告人の犯行当時の責任能力の有無，程度について争われた事案。\n　被告人の病状，犯行動機が理解できないこと，及び責任能力を否定した起訴後の精神鑑定が尊重するに十分足りるものであることなどを理由として，犯行当時，責任能力が失われていた合理的疑いが残るとして，無罪とした。",
+  "lawsuit_id": "37700",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=37700",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/700/037700_hanrei.pdf",
+  "contents": "\u0001\n\u0001\n\u0001\n\u0001\n\u0001\n\u0001\n\u0001\n\u0001\n"
+}

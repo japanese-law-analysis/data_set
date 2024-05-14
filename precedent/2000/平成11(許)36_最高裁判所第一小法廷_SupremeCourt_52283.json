@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 12,
+    "month": 12,
+    "day": 14
+  },
+  "case_number": "平成11(許)36",
+  "case_name": "文書提出命令申立て却下決定に対する抗告審の取消決定に対する許可抗告事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "却下",
+  "article_info": "民集　第54巻9号2743頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成11(ラ)87",
+  "original_date": {
+    "era": "Heisei",
+    "year": 11,
+    "month": 9,
+    "day": 8
+  },
+  "gist": "文書提出命令の申立てについての決定に対して抗告の利益を有する者の範囲",
+  "case_gist": "文書提出命令の申立てについての決定に対しては、文書の提出を命じられた所持者及び申立てを却下された申立人以外の者は抗告の利益を有しない。",
+  "ref_law": "民訴法223条4項",
+  "lawsuit_id": "52283",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52283",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/283/052283_hanrei.pdf"
+}

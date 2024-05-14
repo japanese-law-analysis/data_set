@@ -1,0 +1,20 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 3,
+    "day": 30
+  },
+  "case_number": "平成18(ネ)305",
+  "case_name": "損害賠償請求事件",
+  "court_name": "大阪高等裁判所第５民事部",
+  "result": "その他",
+  "original_court_name": "京都地方裁判所",
+  "original_case_number": "平成16(ワ)2009",
+  "gist": "退任した取締役に対して退職慰労金を支給しない旨の議案を株主総会に提出した取締役会の措置が当該取締役の人格権的利益を侵害した違法なものであり，当該株式会社は当該取締役に対して不法行為責任を負うとされた事例",
+  "lawsuit_id": "35152",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=35152",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/152/035152_hanrei.pdf",
+  "contents": ""
+}

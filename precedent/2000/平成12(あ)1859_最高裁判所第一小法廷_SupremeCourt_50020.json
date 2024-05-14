@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 13,
+    "month": 10,
+    "day": 25
+  },
+  "case_number": "平成12(あ)1859",
+  "case_name": "強盗被告事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第55巻6号519頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成12(う)433",
+  "original_date": {
+    "era": "Heisei",
+    "year": 12,
+    "month": 9,
+    "day": 25
+  },
+  "gist": "刑事未成年者に指示命令して強盗を実行させた者につき強盗の共同正犯が成立するとされた事例",
+  "case_gist": "Ａ子が生活費欲しさから強盗を計画し，１２歳１０か月の長男Ｂに指示命令して強盗を実行させた場合においても，当時Ｂには是非弁別の能力があり，Ａ子の指示命令はＢの意思を抑圧するに足る程度のものではなく，Ｂは自らの意思によりその実行を決意した上，臨機応変に対処して強盗を完遂し，Ｂが奪ってきた金品をすべてＡ子が領得したなど判示の事実関係の下では，Ａ子につき強盗の間接正犯又は教唆犯ではなく共同正犯が成立する。",
+  "ref_law": "刑法41条，刑法60条，刑法61条，刑法236条1項",
+  "lawsuit_id": "50020",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50020",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/020/050020_hanrei.pdf"
+}

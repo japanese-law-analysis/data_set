@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 1,
+    "day": 31
+  },
+  "case_number": "平成14(行ウ)3",
+  "case_name": "県営北方住宅建設費差止・返還請求事件",
+  "court_name": "岐阜地方裁判所民事２部",
+  "result": "棄却",
+  "gist": "県営住宅建設事業における建築費が不相当に高額であるなどとして，県知事と担当職員らに対して建築費の返還等を求めた住民訴訟において，県の建築方針や建築費の額などについて，行政庁の判断として社会通念上著しく不相当な裁量権の逸脱又は濫用はなかったとして請求が棄却された事例",
+  "lawsuit_id": "34163",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=34163",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/163/034163_hanrei.pdf",
+  "contents": ""
+}

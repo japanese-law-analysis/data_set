@@ -1,0 +1,20 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 10,
+    "day": 2
+  },
+  "case_number": "平成20(う)69",
+  "case_name": "殺人，傷害被告事件",
+  "court_name": "広島高等裁判所第１部",
+  "result": "破棄差戻",
+  "original_court_name": "山口地方裁判所",
+  "original_case_number": "平成19(わ)49",
+  "gist": "被告人が，自分を襲ってきた男性を殺害し，同人と行動を共にしていた男性に傷害を負わせたという殺人，傷害被告事件において，殺人につき過剰防衛の成立を認めて被告人を懲役４年に処し，傷害につき正当防衛の成立を認めて被告人を無罪とした原判決について，傷害の被害者及び被告人の各供述の信用性判断を誤った結果，事実を誤認し，さらに，刑事訴訟法３２１条１項２号前段に基づく目撃者の検察官調書の取調請求を却下した原審の訴訟手続には法令違反があり，これら事実誤認及び訴訟手続の法令違反が判決に影響を及ぼすことは明らかであるとして，原判決を破棄し，原裁判所に差し戻した事例",
+  "lawsuit_id": "37024",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=37024",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/024/037024_hanrei.pdf",
+  "contents": "43 46\n1 1\n70 41\n"
+}

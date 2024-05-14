@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 10,
+    "day": 23
+  },
+  "case_number": "平成21(行コ)14",
+  "case_name": "撤去義務等不存在確認請求控訴事件",
+  "court_name": "名古屋高等裁判所民事第２部",
+  "result": "棄却",
+  "original_court_name": "名古屋地方裁判所",
+  "original_case_number": "平成19(行ウ)43",
+  "original_result": "その他",
+  "gist": "送信された画像等によって人物の年齢等を確認し，１８歳以上であると認められた場合に，遠隔操作によって電源を入れ，商品購入が可能となる販売機は，育成条例に定める「自動販売機」に該当するとして，同販売機に収納された図書につき同条例に基づく撤去義務を負うとされた事例",
+  "lawsuit_id": "38190",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=38190",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/190/038190_hanrei.pdf",
+  "contents": ""
+}

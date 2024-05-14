@@ -1,0 +1,17 @@
+{
+  "trial_type": "LaborCase",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 3,
+    "day": 22
+  },
+  "case_number": "平成15(ネ)3620等",
+  "case_name": "損害賠償・立替金請求控訴事件（通称　神奈川都市交通賃金請求）",
+  "court_name": "東京高等裁判所",
+  "field": "労働",
+  "lawsuit_id": "37809",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail6?id=37809",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/809/037809_hanrei.pdf",
+  "contents": ""
+}

@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 11,
+    "day": 27
+  },
+  "case_number": "平成21(行コ)12",
+  "case_name": "行政処分取消等請求控訴事件",
+  "court_name": "札幌高等裁判所第２民事部",
+  "result": "破棄自判",
+  "original_court_name": "旭川地方裁判所",
+  "original_case_number": "平成20(行ウ)10",
+  "original_result": "その他",
+  "gist": "市が設置管理していた老人福祉施設を民間に移管するに際し，受託者を公募し，市の設置した選定委員会が応募者（控訴人）を候補者として選定したにもかかわらず，市長がこの候補者を受託者としないこととした処分が取り消された事例",
+  "lawsuit_id": "38231",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=38231",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/231/038231_hanrei.pdf",
+  "contents": ""
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 13,
+    "month": 11,
+    "day": 27
+  },
+  "case_number": "平成10(行ツ)22",
+  "case_name": "供託金取戻却下決定取消請求事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第55巻6号1334頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成9(行コ)33",
+  "original_date": {
+    "era": "Heisei",
+    "year": 9,
+    "month": 8,
+    "day": 25
+  },
+  "gist": "１　弁済供託における供託金取戻請求権の消滅時効の起算点\n２　債権者不確知を原因とする弁済供託に係る供託金取戻請求の却下処分が違法とされた事例",
+  "case_gist": "１　弁済供託における供託金取戻請求権の消滅時効は，過失なくして債権者を確知することができないことを原因とする弁済供託の場合を含め，供託者が免責の効果を受ける必要が消滅した時から進行する。\n２　過失なくして債権者を確知することができないことを原因として賃料債務についてされた弁済供託につき，同債務の各弁済期の翌日から民法１６９条所定の５年の時効期間が経過した時から更に１０年が経過する前にされた供託金取戻請求に対し，同取戻請求権の消滅時効が完成したとしてこれを却下した処分は，違法である。",
+  "ref_law": "供託法8条2項，民法166条1項，民法167条1項，民法169条，民法496条1項",
+  "lawsuit_id": "52245",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52245",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/245/052245_hanrei.pdf"
+}

@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 2,
+    "day": 21
+  },
+  "case_number": "平成16(ワ)8288",
+  "case_name": "損害賠償請求事件",
+  "court_name": "大阪地方裁判所第２３民事部",
+  "gist": "１　医師（医療機関）は，患者から診療や治療の結果等のてん末について説明・報告を求められたときは，その時期に説明・報告することが相当でない特段の事情がない限り，診療契約に基づき当該事項を説明・報告する義務を負う。\n２　手術の結果予期しない重篤な後遺症が残った患者から手術のてん末について説明を求められた医師（医療機関）が診療録を示すことができなかったことについて，当該診療録を示せないことが紛失によるものであったとしても，当該医師（医療機関）には診療契約に基づくてん末報告義務の不履行があるとされた事例",
+  "lawsuit_id": "36157",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=36157",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/157/036157_hanrei.pdf",
+  "contents": ""
+}

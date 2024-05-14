@@ -1,0 +1,16 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 14,
+    "month": 6,
+    "day": 14
+  },
+  "case_number": "平成10(ワ)1019",
+  "case_name": "慰謝料等請求(甲事件)，損害賠償請求(乙事件)，損害賠償請求(丙事件)，損害賠償請求(丁事件)，損害賠償等請求(戊事件)",
+  "court_name": "岡山地方裁判所",
+  "lawsuit_id": "8070",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=8070",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/070/008070_hanrei.pdf",
+  "contents": ""
+}

@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 9,
+    "day": 27
+  },
+  "case_number": "平成18(行コ)92",
+  "case_name": "各閲覧謄写申請不許可処分取消請求控訴事件（原審・東京地方裁判所平成１５年（行ウ）第１５２号，平成１６年（行ウ）第４７５号）",
+  "court_name": "東京高等裁判所第１民事部",
+  "result": "その他",
+  "original_court_name": "東京地方裁判所",
+  "original_case_number": "平成15(行ウ)152",
+  "original_result": "その他",
+  "gist": "独占禁止法６９条は，事件記録の閲覧謄写請求について，請求権者を「利害関係人」と定める以外に，これを制限することを許容する規定を置いていないのであり，このような法の規定の下において，いかなる内容・範囲の文書の閲覧謄写を認めるかを行政機関による法律の規定に基づかない判断に委ねていると解釈することはできない。審判事件を主催する行政機関が，法的根拠もなく独占禁止法６９条の規定に基づく利害関係人による事件記録の閲覧謄写請求を制限することは，審判手続への関係者等の協力を得ることができなくなるなど，同制度の運営に支障を来すおそれがあるとしても許されないとした事例",
+  "lawsuit_id": "33998",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=33998",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/998/033998_hanrei.pdf",
+  "contents": ""
+}

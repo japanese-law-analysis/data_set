@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 1,
+    "day": 17
+  },
+  "case_number": "平成16(ワ)1607",
+  "case_name": "保険金請求事件",
+  "court_name": "さいたま地方裁判所第６民事部",
+  "gist": "車両「盗難」事故があったとして保険契約に基づき保険金を請求する者は，事故の発生が保険契約者等の意思に基づかないものであることについて主張立証すべき責任を負わないが，「車両が第三者により持ち去られたこと」については主張立証する必要があるとした上で，車両が第三者に持ち去られた事実を認めることができないとして，原告の請求を棄却した事例。",
+  "lawsuit_id": "34234",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=34234",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/234/034234_hanrei.pdf",
+  "contents": ""
+}

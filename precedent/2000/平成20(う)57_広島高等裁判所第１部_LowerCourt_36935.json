@@ -1,0 +1,20 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 9,
+    "day": 2
+  },
+  "case_number": "平成20(う)57",
+  "case_name": "殺人未遂，殺人，銃砲刀剣類所持等取締法違反被告事件",
+  "court_name": "広島高等裁判所第１部",
+  "result": "破棄差戻",
+  "original_court_name": "山口地方裁判所",
+  "original_case_number": "平成19(わ)184",
+  "gist": "いずれも，殺意をもって，女性に対し所携の包丁で切りつけたものの殺害するに至らず，男性に対し同包丁で多数回突き刺すなどして死亡させて殺害したという殺人未遂，殺人，銃砲刀剣類所持等取締法違反被告事件について，有罪とした原判決に対し，原審で取り調べた証拠によって認められる事実からだけでは，女性に対する殺意が認められないなどとして，原審における審理不尽を理由として原判決を破棄し，差し戻した事案",
+  "lawsuit_id": "36935",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=36935",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/935/036935_hanrei.pdf",
+  "contents": ""
+}

@@ -1,0 +1,21 @@
+{
+  "trial_type": "HighCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 17,
+    "month": 8,
+    "day": 16
+  },
+  "case_number": "平成17(う)629",
+  "case_name": "窃盗，住居侵入，強盗殺人被告事件",
+  "court_name": "東京高等裁判所第１２刑事部",
+  "result": "破棄自判",
+  "article_info": "第58巻3号38頁",
+  "original_court_name": "千葉地方裁判所",
+  "gist": "窃盗犯人による事後の殺害が窃盗の機会継続中に行われたとはいえないとされた事例",
+  "case_gist": "被害者方に侵入して財物を窃取した犯人が，誰からも追跡されることなく隣接する自宅に戻り，約１０分ないし１５分後，罪跡隠滅の目的で，被害者方において家人を殺害したなど判示の事実関係の下では，その殺害は窃盗の機会の継続中に行われたものとはいえない。",
+  "lawsuit_id": "34705",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail3?id=34705",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/705/034705_hanrei.pdf",
+  "contents": "ab\n"
+}

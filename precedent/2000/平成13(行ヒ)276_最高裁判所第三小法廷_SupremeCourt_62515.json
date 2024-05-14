@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 17,
+    "month": 2,
+    "day": 1
+  },
+  "case_number": "平成13(行ヒ)276",
+  "case_name": "所得税更正処分取消請求事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集民　第216号279頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成13(行コ)12",
+  "original_date": {
+    "era": "Heisei",
+    "year": 13,
+    "month": 6,
+    "day": 27
+  },
+  "gist": "１　受贈者が贈与者から資産を取得するために要した付随費用の額と所得税法３８条１項にいう「資産の取得に要した金額」\n２　ゴルフ会員権の受贈者が贈与を受けた際に支払った名義書換手数料の額と，所得税法３８条１項にいう「資産の取得に要した金額」",
+  "case_gist": "１　受贈者が贈与者から資産を取得するために要した付随費用の額は，受贈者が同資産を譲渡した場合に所得税法６０条１項に基づいてされる譲渡所得の金額の計算において，同法３８条１項にいう「資産の取得に要した金額」に当たる。\n２　ゴルフ会員権の受贈者が贈与を受けた際に支払った名義書換手数料の額は，受贈者が同会員権を譲渡した場合に所得税法６０条１項に基づいてされる譲渡所得の金額の計算において，同法３８条１項にいう「資産の取得に要した金額」に算入される。",
+  "ref_law": "所得税法33条3項，所得税法38条1項，所得税法60条1項，民法第3編第2章　契約",
+  "lawsuit_id": "62515",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62515",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/515/062515_hanrei.pdf"
+}

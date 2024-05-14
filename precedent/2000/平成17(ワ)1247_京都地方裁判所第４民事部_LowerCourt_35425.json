@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 10,
+    "day": 23
+  },
+  "case_number": "平成17(ワ)1247",
+  "case_name": "損害賠償請求事件",
+  "court_name": "京都地方裁判所第４民事部",
+  "gist": "被告の設置・運営する病院に入院中の喘息患者に対し，同病院の医師が，喘息治療薬として適応承認を受けていない薬剤を投与し，その後同患者が死亡したことにつき，同薬剤の投与にあたって十分な説明・同意を欠いており，同薬剤の投与自体が違法であるとした上，死亡との因果関係も肯定されるとして，同患者の相続人である原告らの損害賠償請求を一部認容した事案",
+  "lawsuit_id": "35425",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=35425",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/425/035425_hanrei.pdf",
+  "contents": ""
+}

@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 12,
+    "day": 26
+  },
+  "case_number": "平成19(ワ)807",
+  "case_name": "慰謝料請求事件",
+  "court_name": "仙台地方裁判所第１民事部",
+  "gist": "被告が，承諾を得ないで，かつて同居していた原告名義の転居届を提出して，原告宛ての郵便物を被告の自宅に転送させたことが不法行為に当たるとして，慰謝料の支払を命じられた事例",
+  "lawsuit_id": "36037",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=36037",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/037/036037_hanrei.pdf",
+  "contents": ""
+}

@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 10,
+    "day": 25
+  },
+  "case_number": "平成18(ネ)1825",
+  "case_name": "遺言無効確認請求控訴事件",
+  "court_name": "東京高等裁判所第１民事部",
+  "result": "破棄自判",
+  "original_court_name": "東京地方裁判所",
+  "original_case_number": "平成17(ワ)21146",
+  "original_result": "その他",
+  "gist": "遺言内容の記載された書面には遺言者の署名押印を欠き，検認時に既に開封されていた封筒には遺言者の署名押印がある場合の遺言が，自筆証書遺言として無効とされた事例",
+  "lawsuit_id": "34037",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=34037",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/037/034037_hanrei.pdf",
+  "contents": ""
+}

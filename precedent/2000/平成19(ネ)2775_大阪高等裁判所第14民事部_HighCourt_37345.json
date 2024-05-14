@@ -1,0 +1,22 @@
+{
+  "trial_type": "HighCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 9,
+    "day": 24
+  },
+  "case_number": "平成19(ネ)2775",
+  "case_name": "敷金返還請求権確認等請求事件",
+  "court_name": "大阪高等裁判所第14民事部",
+  "result": "その他",
+  "article_info": "第61巻3号1頁",
+  "original_court_name": "大阪地方裁判所",
+  "original_case_number": "平成17(ワ)12817",
+  "gist": "転借人が転貸人（賃借人）に提供した敷金をもって転貸人が賃貸人に敷金を提供した場合において同敷金返還請求権を信託目的とする旨の合意をしたとまでは認められないとされた事例",
+  "case_gist": "転借人が転貸人（賃借人）に提供した敷金をもって転貸人が賃貸人に敷金を提供した場合において，転借人と転貸人との間で賃貸人に対する敷金返還請求権が分別管理されることが当事者間で予定されていたとはいえず，実質的な賃貸借関係が転借人と賃貸人との間にあって転貸人が形式的に介在したに過ぎないという事情もないなど判示の事実関係の下においては，転借人と転貸人との間で，賃貸人に対する敷金返還請求権を信託目的とする旨の合意をして信託契約をしたとまでは認められない。",
+  "lawsuit_id": "37345",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail3?id=37345",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/345/037345_hanrei.pdf",
+  "contents": ""
+}

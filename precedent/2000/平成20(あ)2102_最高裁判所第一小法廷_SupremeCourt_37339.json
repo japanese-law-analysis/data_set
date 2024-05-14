@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 2,
+    "day": 24
+  },
+  "case_number": "平成20(あ)2102",
+  "case_name": "傷害被告事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第63巻2号1頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成20(う)1041",
+  "original_date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 10,
+    "day": 14
+  },
+  "gist": "急迫不正の侵害に対する反撃として複数の暴行を加えた場合において，単独で評価すれば防衛手段としての相当性が認められる当初の暴行のみから傷害が生じたとしても，１個の過剰防衛としての傷害罪が成立するとされた事例",
+  "case_gist": "急迫不正の侵害に対する反撃として複数の暴行を加えた場合において，単独で評価すれば防衛手段としての相当性が認められる当初の暴行のみから傷害が生じたとしても，同暴行とその後の防衛の程度を超えた暴行とが一連一体のものであり，同一の防衛の意思に基づく１個の行為と認めることができる本件事実関係の下では，全体的に考察して１個の過剰防衛としての傷害罪の成立を認めるのが相当であり，傷害が生じた経緯は有利な情状として考慮すれば足りる。",
+  "ref_law": "刑法36条",
+  "lawsuit_id": "37339",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=37339",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/339/037339_hanrei.pdf",
+  "contents": ""
+}

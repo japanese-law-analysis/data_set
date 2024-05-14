@@ -1,0 +1,16 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 3,
+    "day": 27
+  },
+  "case_number": "平成21(む)266",
+  "case_name": "",
+  "court_name": "広島地方裁判所",
+  "lawsuit_id": "38597",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=38597",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/597/038597_hanrei.pdf",
+  "contents": "AB  CA\n316  15  1\n316  15  1  7\nA\n316  14  2\n316  15  1  6\nA  5  7\nA\nA\n6  7\n316  26  1\n"
+}

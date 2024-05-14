@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 17,
+    "month": 10,
+    "day": 11
+  },
+  "case_number": "平成17(許)14",
+  "case_name": "遺産分割審判に対する抗告審の変更決定に対する許可抗告事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "破棄差戻",
+  "article_info": "民集　第59巻8号2243頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成16(ラ)1157",
+  "original_date": {
+    "era": "Heisei",
+    "year": 17,
+    "month": 2,
+    "day": 28
+  },
+  "gist": "相続が開始して遺産分割未了の間に第２次の相続が開始した場合において第２次被相続人から特別受益を受けた者があるときの持戻しの要否",
+  "case_gist": "相続が開始して遺産分割未了の間に相続人が死亡した場合において，第２次被相続人が取得した第１次被相続人の遺産についての相続分に応じた共有持分権は，実体上の権利であって第２次被相続人の遺産として遺産分割の対象となり，第２次被相続人から特別受益を受けた者があるときは，その持戻しをして具体的相続分を算定しなければならない",
+  "ref_law": "民法896条，民法898条，民法899条，民法900条，民法903条，民法907条，家事審判法9条乙類10号，家事審判規則104条",
+  "lawsuit_id": "52436",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52436",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/436/052436_hanrei.pdf"
+}

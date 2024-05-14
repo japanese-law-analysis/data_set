@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 5,
+    "day": 11
+  },
+  "case_number": "平成21(む)843",
+  "case_name": "証拠開示命令請求事件",
+  "court_name": "京都地方裁判所第３刑事部",
+  "result": "棄却",
+  "gist": "本件捜査，起訴が政治弾圧目的でなされたものであるとして公訴権の濫用を主張し，その主張に関連してされた弁護人からの証拠開示命令請求が，主張との関連性，開示の必要性が認められないとして棄却された事例",
+  "lawsuit_id": "38561",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=38561",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/561/038561_hanrei.pdf",
+  "contents": ""
+}

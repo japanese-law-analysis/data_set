@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 11,
+    "day": 30
+  },
+  "case_number": "平成21(少エ)61",
+  "case_name": "損害賠償請求",
+  "court_name": "東京簡易裁判所民事第9室",
+  "result": "その他",
+  "lawsuit_id": "38476",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=38476",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/476/038476_hanrei.pdf",
+  "contents": "1 3\n"
+}

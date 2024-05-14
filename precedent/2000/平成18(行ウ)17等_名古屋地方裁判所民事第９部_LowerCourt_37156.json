@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 10,
+    "day": 30
+  },
+  "case_number": "平成18(行ウ)17等",
+  "case_name": "重加算税賦課決定処分等取消，消費税等の更正処分等取消請求事件",
+  "court_name": "名古屋地方裁判所民事第９部",
+  "gist": "１　消費税及び地方消費税の更正処分及び過少申告加算税賦課決定処分の取消しを求める訴訟において，消費税法７条１項３号又は同項５号，同法施行令１７条２項４号所定の輸出免税取引に該当することの主張立証責任は納税者である原告が負うとされた事例\n ２　国内から国外への航空貨物の運送に係る取引につき，消費税法７条１項３号又は同項５号，同法施行令１７条２項４号所定の輸出免税取引に該当するとの主張が排斥された事例",
+  "lawsuit_id": "37156",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=37156",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/156/037156_hanrei.pdf",
+  "contents": ""
+}

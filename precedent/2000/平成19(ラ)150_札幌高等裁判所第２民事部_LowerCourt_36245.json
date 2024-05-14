@@ -1,0 +1,20 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 3,
+    "day": 12
+  },
+  "case_number": "平成19(ラ)150",
+  "case_name": "相続財産管理人の権限外行為許可申立却下審判に対する抗告事件",
+  "court_name": "札幌高等裁判所第２民事部",
+  "result": "却下",
+  "original_court_name": "釧路家庭裁判所",
+  "original_result": "却下",
+  "gist": "限定承認における相続財産管理人が訴訟を提起することは権限外行為に当たらないとした事例",
+  "lawsuit_id": "36245",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=36245",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/245/036245_hanrei.pdf",
+  "contents": ""
+}

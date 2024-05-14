@@ -1,0 +1,18 @@
+{
+  "trial_type": "IPCase",
+  "date": {
+    "era": "Heisei",
+    "year": 14,
+    "month": 12,
+    "day": 26
+  },
+  "case_number": "平成12(ワ)22457",
+  "case_name": "営業秘密の使用差止等請求事件（中間判決）",
+  "court_name": "東京地方裁判所",
+  "right_type": "不正競争",
+  "lawsuit_type": "民事訴訟",
+  "lawsuit_id": "34343",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail7?id=34343",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/343/034343_hanrei.pdf",
+  "contents": ""
+}

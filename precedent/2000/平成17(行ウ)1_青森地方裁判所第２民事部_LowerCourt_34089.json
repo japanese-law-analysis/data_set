@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 2,
+    "day": 2
+  },
+  "case_number": "平成17(行ウ)1",
+  "case_name": "行政文書一部非開示処分取消請求事件",
+  "court_name": "青森地方裁判所第２民事部",
+  "result": "棄却",
+  "gist": "青森県情報公開条例に基づく同県警察本部交通部交通指導課及び同生活安全部少年課の捜査諸雑費に関する資料の開示請求に対する一部非開示処分について，開示を求めた情報はいずれも開示請求の例外事由に当たる情報であるとされた事例。",
+  "lawsuit_id": "34089",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=34089",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/089/034089_hanrei.pdf",
+  "contents": ""
+}

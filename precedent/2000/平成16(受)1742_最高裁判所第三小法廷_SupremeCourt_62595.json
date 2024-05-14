@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 17,
+    "month": 4,
+    "day": 26
+  },
+  "case_number": "平成16(受)1742",
+  "case_name": "自治会費等請求事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集民　第216号639頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成16(ネ)946",
+  "original_date": {
+    "era": "Heisei",
+    "year": 16,
+    "month": 7,
+    "day": 15
+  },
+  "gist": "権利能力のない社団である県営住宅の自治会の会員がいつでも当該自治会に対する一方的意思表示により退会することができるとされた事例",
+  "case_gist": "県営住宅の入居者によって構成され，権利能力のない社団である自治会の会員は，当該自治会が，会員相互の親ぼくを図ること，快適な環境の維持管理及び共同の利害に対処すること，会員相互の福祉・助け合いを行うことを目的として設立されたものであり，いわゆる強制加入団体でもなく，その規約において会員の退会を制限する規定を設けていないという事情の下においては，いつでも当該自治会に対する一方的意思表示により退会することができる。",
+  "ref_law": "民法33条，民法37条",
+  "lawsuit_id": "62595",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62595",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/595/062595_hanrei.pdf"
+}

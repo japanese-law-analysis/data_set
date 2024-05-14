@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 2,
+    "day": 15
+  },
+  "case_number": "平成17(ワ)3537",
+  "case_name": "損害賠償請求事件",
+  "court_name": "名古屋地方裁判所民事第４部",
+  "result": "棄却",
+  "gist": "末期の肝癌及びその副腎転移を患い，抗癌剤の動注療法などの治療を受け続け，最後にＲＦＡ（ラジオ波焼灼術又はラジオ波凝固療法ともいう。）と呼ばれる治療法を受けた後に死亡した患者の家族である原告らが，治療方法の選択に関する過誤，術技上の過誤，経過観察義務等の過誤及び説明義務等の過誤があるなどと主張して，損害賠償を求めたものの，原告らの請求が棄却された事例",
+  "lawsuit_id": "34508",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=34508",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/508/034508_hanrei.pdf",
+  "contents": ""
+}
