@@ -1,4 +1,4 @@
 tmp
 *.sh
-jorei/*.json
-!jorei/list.json
+jorei/*/*.json
+!jorei/*/list.json
