@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 9,
+    "day": 9
+  },
+  "case_number": "平成19(ワ)2175",
+  "case_name": "国家賠償請求事件",
+  "court_name": "仙台地方裁判所第3民事部",
+  "gist": "冷凍倉庫用の建物に係る固定資産税等の課税について，被告担当職員には，固定資産評価基準に係る非木造家屋経年減点補正率基準表の区分７(2)にいう「冷凍倉庫用のもの」を，文理解釈に従った冷凍倉庫と解釈した上で，課税対象物件の現況を調査し，社会通念上，文理解釈に従った冷凍倉庫として実際に使用されていると判断された建物については，上記基準表区分７(2)に定められた経年減点補正率を適用すべき職務上の注意義務があったにもかかわらず，これを怠ったことから，国家賠償法１条１項の違法性及び過失があると判断された事例。",
+  "lawsuit_id": "80687",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=80687",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/687/080687_hanrei.pdf",
+  "contents": ""
+}

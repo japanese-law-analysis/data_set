@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 30,
+    "month": 12,
+    "day": 14
+  },
+  "case_number": "平成28(行コ)285",
+  "case_name": "各原爆症認定申請却下処分取消請求控訴事件",
+  "court_name": "東京高等裁判所",
+  "result": "棄却",
+  "original_court_name": "東京地方裁判所",
+  "original_case_number": "平成25(行ウ)406",
+  "lawsuit_id": "88459",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=88459",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/459/088459_hanrei.pdf"
+}

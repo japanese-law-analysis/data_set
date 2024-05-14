@@ -1,0 +1,16 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 29,
+    "month": 11,
+    "day": 27
+  },
+  "case_number": "平成28(ワ)1532",
+  "case_name": "損害賠償等請求事件",
+  "court_name": "大阪地方裁判所第１８民事部",
+  "gist": "社会福祉法人の元理事長が不明朗な土地取引を主導し（①），同法人に約４７００万円の損失が生じている（②）疑いがある旨の新聞記事について，①については真実相当性を肯定し，②については掲載当時，損失額が約９２０万円に減少し，同記事の取材及び執筆等をした者においてその事実を知っていたとして，真実相当性を否定した事例",
+  "lawsuit_id": "87342",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=87342",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/342/087342_hanrei.pdf"
+}

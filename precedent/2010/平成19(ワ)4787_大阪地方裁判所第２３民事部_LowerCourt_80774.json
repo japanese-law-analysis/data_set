@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 9,
+    "day": 9
+  },
+  "case_number": "平成19(ワ)4787",
+  "case_name": "損害賠償請求事件",
+  "court_name": "大阪地方裁判所第２３民事部",
+  "gist": "不正改造されたガス湯沸器の不完全燃焼を原因とする一酸化炭素中毒による死傷事故について，ガス湯沸器が製造・販売された時点においてこれに欠陥が存在したことやガス湯沸器を製造又は販売した会社らにおいてこれを回収する義務があったこと等を否定したが，ガス湯沸器を販売した会社の従業員の過失に基づく不正改造により上記死傷事故が発生したことを認めて，同社に使用者責任（民法７１５条１項）に基づく損害賠償を命じた事例",
+  "lawsuit_id": "80774",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=80774",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/774/080774_hanrei.pdf",
+  "contents": ""
+}

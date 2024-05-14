@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 3,
+    "day": 31
+  },
+  "case_number": "平成21(ワ)1260",
+  "case_name": "損害賠償請求事件",
+  "court_name": "京都地方裁判所第７民事部",
+  "result": "その他",
+  "gist": "学習塾の教室内で，アスペルガー障害と幻覚妄想等の精神病様症状の影響により心神耗弱の状態にあった塾講師により，計画的に殺害された12歳の小学生の両親が，塾講師の使用者であった被告会社に損害賠償を求めた事件において，故意による犯罪行為を犯した塾講師の責任と，塾講師の選任・監督の過失に根拠がある被告会社の責任とは，別途に算定されるべきであるとの被告会社の主張を排斥して，使用者責任が代位責任であることを根拠に，塾講師と同額の責任が認められた事例。",
+  "lawsuit_id": "80141",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=80141",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/141/080141_hanrei.pdf",
+  "contents": ""
+}

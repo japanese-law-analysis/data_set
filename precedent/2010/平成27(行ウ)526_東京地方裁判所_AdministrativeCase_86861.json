@@ -1,0 +1,18 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Heisei",
+    "year": 28,
+    "month": 12,
+    "day": 9
+  },
+  "case_number": "平成27(行ウ)526",
+  "case_name": "運転免許取消処分取消請求事件",
+  "court_name": "東京地方裁判所",
+  "field": "行政",
+  "gist": "交差点の具体的形状を誤認した場合における交差点安全進行義務違反該当性",
+  "case_gist": "交差点を認識した車両等の運転者が，当該交差点の具体的形状を認識・把握することが客観的に可能であったにもかかわらず，これを誤認したため，交差道路を通行する車両等に気付かず，安全な速度と方法で進行すべき義務を怠った場合，当該行為は，当該交差点の状況に応じた安全進行をしなかったものとして，交差点安全進行義務（道路交通法３６条４項）違反に該当する。",
+  "lawsuit_id": "86861",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=86861",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/861/086861_hanrei.pdf"
+}

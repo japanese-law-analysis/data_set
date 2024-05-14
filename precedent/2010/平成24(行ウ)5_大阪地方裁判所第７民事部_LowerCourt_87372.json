@@ -1,0 +1,16 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 29,
+    "month": 12,
+    "day": 7
+  },
+  "case_number": "平成24(行ウ)5",
+  "case_name": "違法支出金返還請求事件等",
+  "court_name": "大阪地方裁判所第７民事部",
+  "gist": "大阪府の住民である原告らが，大阪府による超高層ビルの購入及び同ビルへの部局移転につき，当時の知事が，同ビルの耐震性等について十分な調査をすることなく，防災拠点となるべき大阪府庁舎として使用する目的で同ビルを購入する旨の契約を締結し，同ビル及びその敷地の購入費用並びに上記部局移転に要した費用を支出したことは違法であるなどと主張して，当時の知事に対する損害賠償請求をすることを求めた住民訴訟で，上記契約締結及び同契約に基づく各費用の支出が違法とはいえないなどとして，いずれも棄却された事例。",
+  "lawsuit_id": "87372",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=87372",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/372/087372_hanrei.pdf"
+}

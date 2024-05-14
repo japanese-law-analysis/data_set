@@ -1,0 +1,18 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Heisei",
+    "year": 28,
+    "month": 4,
+    "day": 26
+  },
+  "case_number": "平成25(行ウ)701",
+  "case_name": "不当利得返還等請求事件",
+  "court_name": "東京地方裁判所",
+  "field": "行政",
+  "gist": "市町村が自ら所有する不動産について地方税法３４３条２項及び７０２条２項を適用して登記簿又は補充課税台帳に賦課期日現在の所有者として登記又は登録されている真の所有者ではない者に対して固定資産税及び都市計画税を課することの可否",
+  "case_gist": "市町村が自ら所有する不動産について地方税法３４３条２項及び７０２条２項を適用して登記簿又は補充課税台帳に賦課期日現在の所有者として登記又は登録されている真の所有者ではない者に対して固定資産税及び都市計画税を課することは想定されていないものと解するのが相当である。",
+  "lawsuit_id": "86445",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=86445",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/445/086445_hanrei.pdf"
+}

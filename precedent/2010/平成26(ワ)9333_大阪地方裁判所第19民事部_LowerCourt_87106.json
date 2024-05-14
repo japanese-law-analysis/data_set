@@ -1,0 +1,16 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 29,
+    "month": 6,
+    "day": 23
+  },
+  "case_number": "平成26(ワ)9333",
+  "case_name": "損害賠償請求事件",
+  "court_name": "大阪地方裁判所第19民事部",
+  "gist": "水泳教室に参加した練習生が水泳中に熱中症にり患して死亡した場合において，同水泳教室の指導者に同練習生を一定時間ごとに強制的にプールから上げて給水させるなどの措置をとるべき注意義務違反があり，同指導者が同措置をとっていたならば同練習生がその死亡の時点においてなお生存していた相当程度の可能性があったとして，同指導者に不法行為責任があるとされた事例",
+  "lawsuit_id": "87106",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=87106",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/106/087106_hanrei.pdf"
+}

@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 26,
+    "month": 10,
+    "day": 1
+  },
+  "case_number": "平成24(わ)352",
+  "case_name": "恐喝",
+  "court_name": "京都地方裁判所第１刑事部",
+  "gist": "恐喝被告事件につき，暴力団からの脱退を承認する見返りに現金を脅し取られた旨の被害者の供述の信用性が認められず，関係証拠を総合しても，被告人が恐喝行為を行ったとは認められないとして，無罪が言い渡された事例",
+  "lawsuit_id": "84745",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=84745",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/745/084745_hanrei.pdf",
+  "contents": ""
+}

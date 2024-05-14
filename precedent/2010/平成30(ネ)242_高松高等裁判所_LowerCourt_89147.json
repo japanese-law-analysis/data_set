@@ -1,0 +1,19 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Reiwa",
+    "year": 1,
+    "month": 12,
+    "day": 12
+  },
+  "case_number": "平成30(ネ)242",
+  "case_name": "損害賠償請求控訴事件",
+  "court_name": "高松高等裁判所",
+  "result": "棄却",
+  "original_court_name": "高知地方裁判所",
+  "original_case_number": "平成28(ワ)129",
+  "original_result": "棄却",
+  "lawsuit_id": "89147",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=89147",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/147/089147_hanrei.pdf"
+}

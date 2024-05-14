@@ -1,0 +1,18 @@
+{
+  "trial_type": "IPCase",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 3,
+    "day": 11
+  },
+  "case_number": "平成19(ワ)15556",
+  "case_name": "著作権侵害差止等請求事件",
+  "court_name": "大阪地方裁判所",
+  "right_type": "著作権",
+  "lawsuit_type": "民事訴訟",
+  "lawsuit_id": "80054",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail7?id=80054",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/054/080054_hanrei.pdf",
+  "contents": "LED\nASP\nDoPa\nDoPa\nDoPa D\nNAS\nnb@info\nNTT\nDoPa\nDoPa FOMA\nDoPa\nDoPa\nnb@info\n=\nASP\nFTPSystem exe\nNB_ACAdpter exe\nNB_ANTType exe\nNB_BoxInfo exe\nNB_CNTType exe\nNB_Cnv exe\nNB_Cnv exe\nNB_CnvOriginal exe\nNB_CorpInfo exe\nNB_DbDel exe\nNB_FtpMail exe\nNB_FtpSv exe\nNB_Jyanru exe\nNB_Keiho exe\nNB_Kisyo exe\nNB_Kisyo exe\nNB_Kisyu exe\nNB_Kokyaku exe\nNB_LEDContnts exe\nNB_LEDKeiyaku exe\nNB_Menu exe\nNB_Parameter exe\nNB_Port exe\nNB_Restart exe\nNB_SelSend exe\nNB_SetUp exe\nNB_SndDt exe\nNB_Version exe\nNB_Yoho exe\n"
+}

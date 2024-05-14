@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 30,
+    "month": 4,
+    "day": 18
+  },
+  "case_number": "平成29(ネ)426",
+  "case_name": "鑑定報酬等請求控訴，同附帯控訴事件",
+  "court_name": "名古屋高等裁判所民事第４部",
+  "original_court_name": "岐阜地方裁判所",
+  "original_case_number": "平成27(ワ)306",
+  "gist": "臨床心理士である被控訴人が，刑事事件の主任弁護人である控訴人に対し，被告人と面接等を行った上で精神鑑定書を作成する旨の準委任契約を控訴人との間で締結したとして，鑑定報酬等を請求したところ，被控訴人は，契約成立以前から，控訴人が被告人及び被告人の母親の代理人として被告人との面接及び鑑定書の作成を依頼する意思であることを知っていたから，控訴人は契約当事者としての責任を負うものではないとして，請求が棄却された事例。",
+  "lawsuit_id": "88124",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=88124",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/124/088124_hanrei.pdf"
+}

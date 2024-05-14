@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 2,
+    "day": 25
+  },
+  "case_number": "平成21(わ)1391",
+  "case_name": "強盗致傷被告事件",
+  "court_name": "さいたま地方裁判所第５刑事部",
+  "gist": "工具を万引きした被告人が，自動車で逃げようとした際，被告人を制止しようとした被害者からの逮捕を免れるべく，自動車を発進走行させて同人を振り切って転倒させ，全治約１週間を要する傷害を負わせたという事後強盗致傷の事案に関し，懲役３年・執行猶予４年（保護観察付き）に処した事例",
+  "lawsuit_id": "80609",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=80609",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/609/080609_hanrei.pdf",
+  "contents": ""
+}

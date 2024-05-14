@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 26,
+    "month": 6,
+    "day": 6
+  },
+  "case_number": "平成25(ネ)809",
+  "case_name": "損害賠償請求控訴，同附帯控訴事件",
+  "court_name": "名古屋高等裁判所民事第4部",
+  "original_court_name": "津地方裁判所",
+  "original_case_number": "平成23(ワ)409",
+  "gist": "α市の斎場建設計画で用地取得に過大な費用を支出し，市に損害を与えたとして，同市が前市長に対し適正額との差額相当額などの損害賠償を請求し，認容された事例",
+  "lawsuit_id": "84539",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=84539",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/539/084539_hanrei.pdf"
+}

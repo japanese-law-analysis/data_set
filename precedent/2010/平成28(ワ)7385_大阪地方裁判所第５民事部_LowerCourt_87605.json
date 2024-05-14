@@ -1,0 +1,16 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 30,
+    "month": 3,
+    "day": 7
+  },
+  "case_number": "平成28(ワ)7385",
+  "case_name": "地位確認等請求事件",
+  "court_name": "大阪地方裁判所第５民事部",
+  "gist": "被告（国立研究開発法人）から独立行政法人が運営する病院への異動命令（本件異動命令）を拒否したことを理由として懲戒解雇となった原告が，被告に対し，同解雇は無効であるとして，労働契約上の権利を有する地位にあることの確認等を求めた事案において，本件異動命令は，転籍出向に該当するにもかかわらず，原告の同意を欠き，また，人事権の濫用ないし懲戒権の濫用に当たり，上記解雇は無効であるとして，原告の請求に係る地位の確認及び一部賞与を除く賃金等の支払が認められた事案",
+  "lawsuit_id": "87605",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=87605",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/605/087605_hanrei.pdf"
+}

@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 7,
+    "day": 16
+  },
+  "case_number": "平成21(受)120",
+  "case_name": "建物明渡等，賃借権確認請求事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第234号307頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成20(ネ)3048",
+  "original_date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 9,
+    "day": 25
+  },
+  "gist": "賃貸人から賃借人に対して借地借家法３８条２項所定の書面の交付があったとした原審の認定に経験則又は採証法則に反する違法があるとされた事例",
+  "case_gist": "賃貸人が定期建物賃貸借契約の締結に先立ち説明書面の交付があったことにつき主張立証をしていないに等しいにもかかわらず，賃貸借契約に係る公正証書に説明書面の交付があったことを相互に確認する旨の条項があり，賃借人において上記公正証書の内容を承認していることのみから，借地借家法３８条２項において賃貸借契約の締結に先立ち契約書とは別に交付するものとされている説明書面の交付があったとした原審の認定には，経験則又は採証法則に反する違法がある。",
+  "ref_law": "借地借家法38条，民訴法247条",
+  "lawsuit_id": "80459",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=80459",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/459/080459_hanrei.pdf",
+  "contents": ""
+}

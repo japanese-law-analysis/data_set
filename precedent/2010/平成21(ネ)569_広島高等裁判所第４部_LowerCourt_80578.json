@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 6,
+    "day": 24
+  },
+  "case_number": "平成21(ネ)569",
+  "case_name": "離婚等請求控訴事件",
+  "court_name": "広島高等裁判所第４部",
+  "result": "棄却",
+  "original_court_name": "山口家庭裁判所\n        　宇部支部",
+  "original_case_number": "平成20(家ホ)13",
+  "original_result": "その他",
+  "gist": "未成熟子を有する夫婦の離婚事件において，平成２２年４月より国から支給されることになった子ども手当を，子の養育費の算定にあたり，考慮すべきかどうかが争われた事案である。\n　本判決は，子ども手当の支給について，それが単年度限りの法律に基づくものであること，支給の趣旨・要件などを踏まえ，子の養育費の算定にあたって考慮すべきではないとした。",
+  "lawsuit_id": "80578",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=80578",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/578/080578_hanrei.pdf",
+  "contents": ""
+}

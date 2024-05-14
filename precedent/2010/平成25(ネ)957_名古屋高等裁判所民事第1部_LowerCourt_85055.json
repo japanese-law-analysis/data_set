@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 27,
+    "month": 2,
+    "day": 26
+  },
+  "case_number": "平成25(ネ)957",
+  "case_name": "損害賠償請求控訴事件",
+  "court_name": "名古屋高等裁判所民事第1部",
+  "original_court_name": "名古屋地方裁判所",
+  "original_case_number": "平成23(ワ)7490",
+  "gist": "行方不明になった民事訴訟の被告の転居先を調べるため，弁護士法に基づき郵便局に転居先照会をしたのに拒否されたのは違法だとして，控訴人弁護士会らが被控訴人に損害賠償を求めた訴訟につき，被控訴人が照会事項の全部について報告を拒絶したことは正当な理由を欠くものであり，被控訴人に過失があったものとして控訴人弁護士会の請求を一部認容した事案。",
+  "lawsuit_id": "85055",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=85055",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/055/085055_hanrei.pdf"
+}

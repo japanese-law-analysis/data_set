@@ -1,0 +1,16 @@
+{
+  "trial_type": "LaborCase",
+  "date": {
+    "era": "Heisei",
+    "year": 28,
+    "month": 6,
+    "day": 29
+  },
+  "case_number": "平成27(行ウ)17",
+  "case_name": "不当労働行為救済命令取消請求事件",
+  "court_name": "東京地方裁判所",
+  "field": "労働",
+  "lawsuit_id": "86553",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail6?id=86553",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/553/086553_hanrei.pdf"
+}

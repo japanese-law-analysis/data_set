@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 23,
+    "month": 3,
+    "day": 10
+  },
+  "case_number": "平成22(行ウ)17",
+  "case_name": "公文書部分公開決定取消請求事件",
+  "court_name": "京都地方裁判所第３民事部",
+  "result": "棄却",
+  "gist": "京都府警察での懲戒処分に関する情報公開請求に対し，京都府警察本部長が公文書部分公開決定をしたため，原告が，そこで不開示とされた部分の一部の公開を求めて，同決定の取消しを請求した訴訟において，当該部分の記載は条例の定める非公開情報に該当し，同決定は適法であるとして，請求が棄却された事例",
+  "lawsuit_id": "81237",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=81237",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/237/081237_hanrei.pdf",
+  "contents": ""
+}

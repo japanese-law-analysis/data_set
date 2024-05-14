@@ -1,0 +1,19 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 29,
+    "month": 10,
+    "day": 26
+  },
+  "case_number": "平成27(ネ)6308",
+  "case_name": "損害賠償請求控訴事件",
+  "court_name": "東京高等裁判所",
+  "result": "その他",
+  "original_court_name": "さいたま地方裁判所",
+  "original_case_number": "平成25(ワ)1578",
+  "lawsuit_id": "87257",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=87257",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/257/087257_hanrei.pdf",
+  "contents": ""
+}

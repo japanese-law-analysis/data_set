@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 30,
+    "month": 3,
+    "day": 13
+  },
+  "case_number": "平成29(う)1154",
+  "case_name": "公職選挙法違反",
+  "court_name": "東京高等裁判所第２刑事部",
+  "result": "棄却",
+  "original_court_name": "東京地方裁判所",
+  "original_case_number": "平成28特(わ)807",
+  "lawsuit_id": "87665",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=87665",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/665/087665_hanrei.pdf"
+}

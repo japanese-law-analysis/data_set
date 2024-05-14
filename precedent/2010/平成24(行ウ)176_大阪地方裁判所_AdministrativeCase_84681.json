@@ -1,0 +1,18 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Heisei",
+    "year": 26,
+    "month": 3,
+    "day": 14
+  },
+  "case_number": "平成24(行ウ)176",
+  "case_name": "所得税更正処分取消等請求事件",
+  "court_name": "大阪地方裁判所",
+  "field": "行政",
+  "gist": "所得税法６０条１項１号所定の事由により取得した減価償却資産から生じる不動産所得の金額の計算において償却費算定の基礎となる耐用年数と減価償却資産の耐用年数等に関する省令３条１項",
+  "case_gist": "所得税法６０条１項１号所定の事由によって減価償却資産を取得した場合，その減価償却資産から生じる不動産所得の金額の計算において償却費算定の基礎となる耐用年数を定めるに当たっては，減価償却資産の耐用年数等に関する省令３条１項の適用はない。",
+  "lawsuit_id": "84681",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=84681",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/681/084681_hanrei.pdf"
+}

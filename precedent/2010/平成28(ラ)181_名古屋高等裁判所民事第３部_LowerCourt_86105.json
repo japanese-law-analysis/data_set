@@ -1,0 +1,16 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 28,
+    "month": 6,
+    "day": 17
+  },
+  "case_number": "平成28(ラ)181",
+  "case_name": "売却許可決定に対する執行抗告事件",
+  "court_name": "名古屋高等裁判所民事第３部",
+  "gist": "一つの不動産競売事件の同一の開札期日における複数の売却単位の買受申出保証金を合算して提供してした入札が有効とされた事例",
+  "lawsuit_id": "86105",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=86105",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/105/086105_hanrei.pdf"
+}

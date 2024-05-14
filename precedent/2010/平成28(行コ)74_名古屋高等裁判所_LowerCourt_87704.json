@@ -1,0 +1,19 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 30,
+    "month": 3,
+    "day": 7
+  },
+  "case_number": "平成28(行コ)74",
+  "case_name": "原爆症認定申請却下処分取消等請求控訴事件",
+  "court_name": "名古屋高等裁判所",
+  "original_court_name": "名古屋地方裁判所",
+  "original_case_number": "平成23(行ウ)149",
+  "original_result": "棄却",
+  "gist": "長崎市内で被爆した控訴人ら２ 名の原子爆弾被爆者に対する援護に関する法律１ １ 条１ 項に基づく原爆症認定の申請に対し，上記各申請をいずれも却下する旨の厚生労働大臣がした各処分につき，同法１０ 条の「医療」とは，積極的な治療を伴うか否かを問うべきではなく，被爆者が経過観察のために通院している場合であっても， 認定に係る負傷又は疾病が「現に医療を要する状態にある」と認めるのが相当であると解した上で， 控訴人らの各申請に係る疾病のうち左乳がん及び慢性甲状腺炎については， いまだ経過観察が必要であったから， 放射線起因性のほか要医療性も認められるとして， 上記疾病を対象とする申請を却下したことはいずれも違法であるとした事例",
+  "lawsuit_id": "87704",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=87704",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/704/087704_hanrei.pdf"
+}

@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 23,
+    "month": 1,
+    "day": 20
+  },
+  "case_number": "平成21(受)788",
+  "case_name": "著作権侵害差止等請求事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第65巻1号399頁",
+  "original_court_name": "知的財産高等裁判所",
+  "original_case_number": "平成20(ネ)10055",
+  "original_date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 1,
+    "day": 27
+  },
+  "gist": "放送番組等の複製物を取得することを可能にするサービスの提供者が複製の主体と解される場合",
+  "case_gist": "放送番組等の複製物を取得することを可能にするサービスにおいて，サービスを提供する者が，その管理，支配下において，テレビアンテナで受信した放送を複製の機能を有する機器に入力していて，当該機器に録画の指示がされると放送番組等の複製が自動的に行われる場合，その録画の指示を当該サービスの利用者がするものであっても，当該サービスを提供する者はその複製の主体と解すべきである。\n(補足意見がある。）",
+  "ref_law": "著作権法21条，著作権法98条",
+  "lawsuit_id": "81015",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=81015",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/015/081015_hanrei.pdf",
+  "contents": ""
+}

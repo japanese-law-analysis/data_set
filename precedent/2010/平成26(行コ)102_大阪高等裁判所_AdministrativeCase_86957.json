@@ -1,0 +1,18 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Heisei",
+    "year": 28,
+    "month": 2,
+    "day": 25
+  },
+  "case_number": "平成26(行コ)102",
+  "case_name": "原爆症認定義務付等請求控訴事件（原審・大阪地方裁判所平成２２年（行ウ）第５６号［第１事件］，同第１３９号［第２事件］）",
+  "court_name": "大阪高等裁判所",
+  "field": "行政",
+  "gist": "原子爆弾被爆者に対する援護に関する法律１１条１項に基づく原爆症認定の申請を却下する処分が適法であるとされた事例",
+  "case_gist": "原子爆弾被爆者に対する援護に関する法律１１条１項に基づく原爆症認定の申請をした被爆者が，その申請疾病（心筋梗塞）について放射線起因性が認められず，上記申請を却下する処分は適法であるとして，同処分の取消請求を棄却するとともに，厚生労働大臣に対し，原爆症認定をすることの義務付けを求める部分を却下した事例。",
+  "lawsuit_id": "86957",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=86957",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/957/086957_hanrei.pdf"
+}

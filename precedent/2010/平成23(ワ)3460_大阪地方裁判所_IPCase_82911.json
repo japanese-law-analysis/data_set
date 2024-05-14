@@ -1,0 +1,17 @@
+{
+  "trial_type": "IPCase",
+  "date": {
+    "era": "Heisei",
+    "year": 25,
+    "month": 1,
+    "day": 17
+  },
+  "case_number": "平成23(ワ)3460",
+  "case_name": "商標権侵害差止等請求事件",
+  "court_name": "大阪地方裁判所",
+  "right_type": "商標権",
+  "lawsuit_type": "民事訴訟",
+  "lawsuit_id": "82911",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail7?id=82911",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/911/082911_hanrei.pdf"
+}

@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 9,
+    "day": 15
+  },
+  "case_number": "平成20(ワ)3967",
+  "case_name": "損害賠償請求事件",
+  "court_name": "京都地方裁判所第1民事部",
+  "result": "その他",
+  "gist": "都市計画法上の第二種住宅地域において，被告会社が建築基準法に違反して製菓工場を操業したことについて，同工場の操業に基づく騒音及び臭気により近隣住民である原告らが受けた被害は受忍限度を超えていたとして，原告らの被告会社に対する損害賠償請求を一部認容するとともに，被告京都市には，建築基準法所定の使用制限命令の発令等を怠った違法があるとは認められないとして，被告京都市に対する国家賠償法上の損害賠償請求を棄却した事例。",
+  "lawsuit_id": "80771",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=80771",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/771/080771_hanrei.pdf",
+  "contents": "1 6 7\n"
+}

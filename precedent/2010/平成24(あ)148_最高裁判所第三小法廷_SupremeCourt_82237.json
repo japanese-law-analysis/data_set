@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 24,
+    "month": 3,
+    "day": 26
+  },
+  "case_number": "平成24(あ)148",
+  "case_name": "道路交通法違反，自動車運転過失傷害被告事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第307号759頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 23,
+    "month": 12,
+    "day": 20
+  },
+  "gist": "補佐人提出の上告趣意を判断対象とした事例",
+  "ref_law": "刑訴法42条，刑訴法376条１項，刑訴法407条，刑訴法414条",
+  "lawsuit_id": "82237",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=82237",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/237/082237_hanrei.pdf",
+  "contents": "平成２４年（あ）第１４８号  道路交通法違反，自動車運転過失傷害被告事件\n平成２４年３月２６日  第三小法廷決定\n主          文\n本件上告を棄却する。\n理          由\n弁護人東山尋明の上告趣意は，憲法違反をいう点を含め，実質は事実誤認，量刑\n不当の主張であり，補佐人Ａの上告趣意は，事実誤認，単なる法令違反の主張であ\nって，いずれも刑訴法４０５条の上告理由に当たらない。\nよって，同法４１４条，３８６条１項３号，１８１条１項ただし書により，裁判\n官全員一致の意見で，主文のとおり決定する。\n(裁判長裁判 官  寺田逸 郎  裁判官  田原睦 夫  裁判官  岡部喜 代子  裁判 官\n大谷剛彦  裁判官  大橋正春)\n"
+}

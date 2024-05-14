@@ -1,0 +1,19 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 26,
+    "month": 9,
+    "day": 18
+  },
+  "case_number": "平成26(ネ)148",
+  "case_name": "貸金請求控訴事件",
+  "court_name": "名古屋高等裁判所民事第3部",
+  "result": "棄却",
+  "original_court_name": "名古屋地方裁判所",
+  "original_case_number": "平成25(ワ)1293",
+  "gist": "不在者財産管理人が，不在者が相続した財産を家庭裁判所の許可を得て売却した行為が，不在者にとって，民法９２１条１号の単純承認に当たるため，後に，不在者が相続の開始があったことを知ったときから３か月以内にした相続放棄は無効であるとされた事例",
+  "lawsuit_id": "84633",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=84633",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/633/084633_hanrei.pdf"
+}

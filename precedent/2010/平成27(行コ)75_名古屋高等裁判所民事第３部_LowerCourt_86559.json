@@ -1,0 +1,19 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 28,
+    "month": 12,
+    "day": 1
+  },
+  "case_number": "平成27(行コ)75",
+  "case_name": "遺族補償給付等不支給処分取消請求控訴事件",
+  "court_name": "名古屋高等裁判所民事第３部",
+  "result": "棄却",
+  "original_court_name": "名古屋地方裁判所",
+  "original_case_number": "平成26(行ウ)5",
+  "gist": "夫が自殺したのは過重な業務に起因するものであるとしてした労働者災害補償保険法による遺族補償給付及び葬祭料の支給請求に対し労働基準監督署長がした不支給処分の取消請求につき，前記夫がうつ病を発症したことに業務起因性は認められないが，その後の同人の業務による心理的負荷と，同人のうつ病の増悪により自殺を図り死亡したこととの間に相当因果関係を認めるのが相当であるとして，前記取消請求を認容した事例（なお，参考として原審判決を別紙１として添付した。）。",
+  "lawsuit_id": "86559",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=86559",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/559/086559_hanrei.pdf"
+}

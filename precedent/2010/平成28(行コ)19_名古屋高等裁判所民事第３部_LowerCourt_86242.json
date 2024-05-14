@@ -1,0 +1,19 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 28,
+    "month": 7,
+    "day": 28
+  },
+  "case_number": "平成28(行コ)19",
+  "case_name": "難民不認定処分等取消請求控訴事件",
+  "court_name": "名古屋高等裁判所民事第３部",
+  "original_court_name": "名古屋地方裁判所",
+  "original_case_number": "平成23(行ウ)109",
+  "original_result": "棄却",
+  "gist": "ウガンダ共和国の国籍を有する外国人に対して法務大臣がした難民の認定をしない処分の取消請求等につき，当該外国人が反政府活動を行っている野党において指導的立場にないとしても，ウガンダ政府が当該野党党員一般に対して迫害行為を行っていることからすれば，当該野党党員として積極的な活動をしている当該外国人がウガンダ政府から迫害を受けるおそれはあるとして，前記請求等を認容した事例",
+  "lawsuit_id": "86242",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=86242",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/242/086242_hanrei.pdf"
+}

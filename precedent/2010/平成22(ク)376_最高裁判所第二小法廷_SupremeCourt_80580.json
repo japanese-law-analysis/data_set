@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 8,
+    "day": 4
+  },
+  "case_number": "平成22(ク)376",
+  "case_name": "人身保護請求棄却決定に対する特別抗告事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集民　第234号355頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成21(人ナ)9",
+  "original_date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 2,
+    "day": 18
+  },
+  "gist": "子の父親が母親らに対し子の引渡し等を求める人身保護請求事件において，人身保護法１１条１項に基づく決定によるのではなく，審問手続を経た上で判決により判断を示すべきであるとされた事例",
+  "case_gist": "子の父親が子を拘束している母親らに対して人身保護法に基づき子の引渡し等を求める人身保護請求事件において，父親が外国裁判所の確定判決により子の単独監護権者に指定され，上記確定判決は外国判決の承認の要件を満たしているなど判示の事情の下では，裁判所は，人身保護法１１条１項に基づく決定によるのではなく，審問手続を経た上で判決により判断を示すべきである。",
+  "ref_law": "人身保護法11条，人身保護法16条，人身保護規則21条",
+  "lawsuit_id": "80580",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=80580",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/580/080580_hanrei.pdf",
+  "contents": ""
+}

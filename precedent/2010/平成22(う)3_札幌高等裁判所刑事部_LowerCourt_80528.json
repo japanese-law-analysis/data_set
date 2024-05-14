@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 7,
+    "day": 8
+  },
+  "case_number": "平成22(う)3",
+  "case_name": "自動車運転過失致死傷被告事件",
+  "court_name": "札幌高等裁判所刑事部",
+  "result": "破棄自判",
+  "original_court_name": "札幌地方裁判所",
+  "original_case_number": "平成21(わ)205",
+  "original_result": "その他",
+  "gist": "目撃者の供述の信用性を否定し，被告人の赤信号看過の過失を認定するに足りる証拠がないとして，原審の有罪判決を破棄して無罪を言い渡した事例",
+  "lawsuit_id": "80528",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=80528",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/528/080528_hanrei.pdf",
+  "contents": ""
+}

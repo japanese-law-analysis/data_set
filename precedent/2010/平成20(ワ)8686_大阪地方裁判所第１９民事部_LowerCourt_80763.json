@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 9,
+    "day": 15
+  },
+  "case_number": "平成20(ワ)8686",
+  "case_name": "損害賠償請求事件",
+  "court_name": "大阪地方裁判所第１９民事部",
+  "gist": "１　警察官の暴行による自白の強要があったと認定することはできないとされた事例　　　\n２　被疑者が取調官から暴行を受けたとして弁護人の接見を希望し，弁護人から接見申出がされた場合において，接見申出があったとの連絡を受けてからも，接見指定のための手続を行うこともなく，約１０分間取調べを続けた後に接見をさせた行為は，即時の接見をさせたものということはできず，国家賠償法上違法であるとされた事例",
+  "lawsuit_id": "80763",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=80763",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/763/080763_hanrei.pdf",
+  "contents": ""
+}

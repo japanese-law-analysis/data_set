@@ -1,0 +1,16 @@
+{
+  "trial_type": "LaborCase",
+  "date": {
+    "era": "Heisei",
+    "year": 28,
+    "month": 4,
+    "day": 11
+  },
+  "case_number": "平成25(ワ)23687",
+  "case_name": "地位確認等請求事件",
+  "court_name": "東京地方裁判所",
+  "field": "労働",
+  "lawsuit_id": "86285",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail6?id=86285",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/285/086285_hanrei.pdf"
+}

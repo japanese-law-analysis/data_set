@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 29,
+    "month": 7,
+    "day": 27
+  },
+  "case_number": "平成28(う)206",
+  "case_name": "業務上過失致死",
+  "court_name": "札幌高等裁判所刑事部",
+  "result": "破棄自判",
+  "original_court_name": "札幌地方裁判所",
+  "gist": "認知症を患う高齢要介護者のための共同生活住宅であるグループホームにおける火災事故により入居者７名が焼死した事故につき，同ホームの運営等の業務全般を統括するとともに，建物について管理する権原を有し，その設備等の設置，維持及び防火管理の業務に従事していた同ホームの運営事業者である法人の代表取締役に業務上過失致傷罪が成立するとされた事例",
+  "lawsuit_id": "87185",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=87185",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/185/087185_hanrei.pdf"
+}

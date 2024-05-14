@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 9,
+    "day": 16
+  },
+  "case_number": "平成21(う)228",
+  "case_name": "傷害",
+  "court_name": "福岡高等裁判所第３刑事部",
+  "result": "破棄自判",
+  "original_court_name": "福岡地方裁判所\n        　小倉支部",
+  "original_case_number": "平成19(わ)500",
+  "original_result": "その他",
+  "gist": "看護師である被告人が，高齢患者の足親指の爪を爪切りニッパーで指先より深い箇所まで切り取ったなどとして傷害罪を認定した第１審判決を破棄し，被告人の行為は，傷害罪の構成要件には該当するが，正当業務行為として違法性が阻却されるとして，被告人に無罪を言い渡した事例",
+  "lawsuit_id": "80708",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=80708",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/708/080708_hanrei.pdf",
+  "contents": ""
+}

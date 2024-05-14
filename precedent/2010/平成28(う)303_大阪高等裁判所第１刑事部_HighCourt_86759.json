@@ -1,0 +1,21 @@
+{
+  "trial_type": "HighCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 28,
+    "month": 12,
+    "day": 13
+  },
+  "case_number": "平成28(う)303",
+  "case_name": "危険運転致死傷被告事件",
+  "court_name": "大阪高等裁判所第１刑事部",
+  "result": "棄却",
+  "article_info": "第69巻2号12頁",
+  "original_court_name": "神戸地方裁判所\n        　姫路支部",
+  "original_case_number": "平成27(わ)672",
+  "gist": "「人又は車の通行を妨害する目的」（平成２５年法律第８６号による改正前の刑法２０８条の２第２項前段）があるとされる場合",
+  "case_gist": "「人又は車の通行を妨害する目的」には，人又は車の自由かつ安全な通行を妨げることを積極的に意図する場合のほか，危険回避のためやむを得ないような状況等もないのに，人又は車の自由かつ安全な通行を妨げる可能性があることを認識しながら，あえて走行中の自動車の直前に進入し，その他通行中の人又は車に著しく接近し，かつ，重大な交通の危険を生じさせる速度で自動車を運転する場合も含まれる。",
+  "lawsuit_id": "86759",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail3?id=86759",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/759/086759_hanrei.pdf"
+}

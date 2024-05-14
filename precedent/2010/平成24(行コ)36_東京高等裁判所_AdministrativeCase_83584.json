@@ -1,0 +1,18 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Heisei",
+    "year": 25,
+    "month": 1,
+    "day": 16
+  },
+  "case_number": "平成24(行コ)36",
+  "case_name": "観察処分期間更新処分取消請求控訴事件",
+  "court_name": "東京高等裁判所",
+  "field": "行政",
+  "gist": "無差別大量殺人行為を行った団体の規制に関する法律５条４項に基づく観察処分の期間更新決定に当たり新たに同条３項６号所定の報告義務を課すことの可否",
+  "case_gist": "無差別大量殺人行為を行った団体の規制に関する法律５条４項に基づく観察処分の期間更新決定に当たり，観察処分後の対象団体の特性の変化又は新たに判明した事情等に応じ，派生的・付随的な処分として新たに同条３項６号所定の報告義務を課すことができる。",
+  "lawsuit_id": "83584",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=83584",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/584/083584_hanrei.pdf"
+}

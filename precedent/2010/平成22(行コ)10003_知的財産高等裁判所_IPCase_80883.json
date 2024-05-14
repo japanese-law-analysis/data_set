@@ -1,0 +1,18 @@
+{
+  "trial_type": "IPCase",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 11,
+    "day": 30
+  },
+  "case_number": "平成22(行コ)10003",
+  "case_name": "手続却下処分取消請求控訴事件",
+  "court_name": "知的財産高等裁判所",
+  "right_type": "その他",
+  "lawsuit_type": "行政訴訟",
+  "lawsuit_id": "80883",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail7?id=80883",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/883/080883_hanrei.pdf",
+  "contents": ""
+}

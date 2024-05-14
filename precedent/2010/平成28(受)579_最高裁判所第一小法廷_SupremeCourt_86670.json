@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 29,
+    "month": 4,
+    "day": 6
+  },
+  "case_number": "平成28(受)579",
+  "case_name": "預金返還等請求事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集民　第255号129頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成27(ネ)984",
+  "original_date": {
+    "era": "Heisei",
+    "year": 27,
+    "month": 11,
+    "day": 18
+  },
+  "gist": "共同相続された定期預金債権及び定期積金債権は，相続開始と同時に当然に相続分に応じて分割されるか",
+  "case_gist": "共同相続された定期預金債権及び定期積金債権は，いずれも，相続開始と同時に当然に相続分に応じて分割されることはない。",
+  "ref_law": "民法４２７条，民法８９８条，民法８９９条",
+  "lawsuit_id": "86670",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=86670",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/670/086670_hanrei.pdf"
+}

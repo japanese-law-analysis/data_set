@@ -1,0 +1,15 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 29,
+    "month": 8,
+    "day": 25
+  },
+  "case_number": "平成28(わ)89",
+  "case_name": "詐欺，殺人，電磁的公正証書原本不実記録・同供用，有印私文書偽造・同行使，詐欺未遂",
+  "court_name": "甲府地方裁判所",
+  "lawsuit_id": "87246",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=87246",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/246/087246_hanrei.pdf"
+}

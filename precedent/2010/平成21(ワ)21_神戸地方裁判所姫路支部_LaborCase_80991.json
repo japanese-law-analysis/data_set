@@ -1,0 +1,16 @@
+{
+  "trial_type": "LaborCase",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 12,
+    "day": 8
+  },
+  "case_number": "平成21(ワ)21",
+  "case_name": "労働契約上の地位確認請求事件（通称　三菱重工業黙示の労働契約）",
+  "court_name": "神戸地方裁判所姫路支部",
+  "lawsuit_id": "80991",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail6?id=80991",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/991/080991_hanrei.pdf",
+  "contents": ""
+}

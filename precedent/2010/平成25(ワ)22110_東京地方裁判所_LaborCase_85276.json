@@ -1,0 +1,16 @@
+{
+  "trial_type": "LaborCase",
+  "date": {
+    "era": "Heisei",
+    "year": 27,
+    "month": 3,
+    "day": 12
+  },
+  "case_number": "平成25(ワ)22110",
+  "case_name": "労働関係存在確認等請求事件",
+  "court_name": "東京地方裁判所",
+  "field": "労働",
+  "lawsuit_id": "85276",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail6?id=85276",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/276/085276_hanrei.pdf"
+}

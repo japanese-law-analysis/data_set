@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Reiwa",
+    "year": 1,
+    "month": 7,
+    "day": 16
+  },
+  "case_number": "平成30(行コ)15",
+  "case_name": "損害賠償請求控訴事件",
+  "court_name": "名古屋高等裁判所民事第１部",
+  "original_court_name": "名古屋地方裁判所",
+  "original_case_number": "平成28(行ウ)114",
+  "gist": "民間企業である補助参加人が，市から無償提供を受けた土地を市に返還せず，他の企業に売却したのは債務不履行又は不法行為にあたるとして，同市民である被控訴人らが同市長である控訴人に対し，補助参加人に損害賠償金６３億円の支払を請求することを求めた件につき，補助参加人には土地の一部について市への返還義務があったとして，土地の全部について返還義務があったとした原判決を変更した事例。",
+  "lawsuit_id": "88861",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=88861",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/861/088861_hanrei.pdf"
+}

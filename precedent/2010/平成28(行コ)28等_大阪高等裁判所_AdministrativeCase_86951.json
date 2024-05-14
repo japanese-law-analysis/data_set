@@ -1,0 +1,18 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Heisei",
+    "year": 28,
+    "month": 9,
+    "day": 8
+  },
+  "case_number": "平成28(行コ)28等",
+  "case_name": "固定資産評価審査決定取消請求控訴事件，同附帯控訴事件",
+  "court_name": "大阪高等裁判所",
+  "field": "行政",
+  "gist": "公図上公道に接続しない土地に実際の利用上何らかの通路が開設されている場合に当該土地の固定資産課税台帳に登録すべき価格を決定するに当たり固定資産評価基準（昭和３８年自治省告示第１５８号）所定の無道路地の評点算出法を適用することの当否",
+  "case_gist": "公図上公道に接続しない土地であっても，当該土地及びその周辺の個別具体的な状況に照らし，実際の利用上何らかの通路が開設されている場合は，固定資産課税台帳に登録すべき価格を決定するに当たり固定資産評価基準（昭和３８年自治省告示第１５８号）所定の無道路地の評点算出法を適用すべきでない。",
+  "lawsuit_id": "86951",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=86951",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/951/086951_hanrei.pdf"
+}

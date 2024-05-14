@@ -1,0 +1,15 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 29,
+    "month": 3,
+    "day": 29
+  },
+  "case_number": "平成26(ワ)26",
+  "case_name": "損害賠償請求事件",
+  "court_name": "宮崎地方裁判所延岡支部",
+  "lawsuit_id": "86666",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=86666",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/666/086666_hanrei.pdf"
+}

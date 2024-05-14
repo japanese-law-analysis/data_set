@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 29,
+    "month": 3,
+    "day": 10
+  },
+  "case_number": "平成27(あ)63",
+  "case_name": "窃盗被告事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集刑　第321号1頁",
+  "original_court_name": "広島高等裁判所",
+  "original_case_number": "平成26(う)1",
+  "original_date": {
+    "era": "Heisei",
+    "year": 26,
+    "month": 12,
+    "day": 11
+  },
+  "gist": "置き忘れられた現金在中の封筒を窃取したとされる事件について，封筒内に現金が在中していたとの事実を動かし難い前提として被告人以外には現金を抜き取る機会のあった者がいなかったことを理由に被告人による窃取を認定した第１審判決及び原判決の判断が論理則，経験則等に照らして不合理で是認できないとされた事例",
+  "ref_law": "刑法２３５条，刑訴法４１１条３号",
+  "lawsuit_id": "86587",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=86587",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/587/086587_hanrei.pdf"
+}

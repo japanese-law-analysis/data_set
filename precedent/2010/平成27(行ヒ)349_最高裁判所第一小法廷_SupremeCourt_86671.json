@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 29,
+    "month": 4,
+    "day": 6
+  },
+  "case_number": "平成27(行ヒ)349",
+  "case_name": "じん肺管理区分決定処分取消等請求事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第71巻4号637頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "平成26(行コ)4",
+  "original_date": {
+    "era": "Heisei",
+    "year": 27,
+    "month": 4,
+    "day": 16
+  },
+  "gist": "じん肺管理区分が管理１に該当する旨の決定を受けた常時粉じん作業に従事する労働者等が管理４に該当するとして提起した当該決定の取消訴訟の係属中に死亡した場合における労働者災害補償保険法１１条１項に規定する者による訴訟承継の成否",
+  "case_gist": "じん肺管理区分が管理１に該当する旨の決定を受けた常時粉じん作業に従事する労働者又は常時粉じん作業に従事する労働者であった者が管理４に該当するとして提起した当該決定の取消訴訟の係属中に死亡した場合には，労働者災害補償保険法１１条１項に規定する者が当該訴訟を承継する。",
+  "ref_law": "民訴法１２４条１項，じん肺法４条，じん肺法１３条２項，じん肺法１５条，じん肺法２３条，労働者災害補償保険法１１条１項，労働者災害補償保険法１２条の８第２項，労働基準法７５条，労働基準法施行規則３５条，労働基準法施行規則別表第１の２第５号，行政事件訴訟法９条１項",
+  "lawsuit_id": "86671",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=86671",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/671/086671_hanrei.pdf"
+}

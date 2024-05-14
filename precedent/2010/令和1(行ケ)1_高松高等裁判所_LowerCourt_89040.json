@@ -1,0 +1,16 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Reiwa",
+    "year": 1,
+    "month": 10,
+    "day": 16
+  },
+  "case_number": "令和1(行ケ)1",
+  "case_name": "選挙無効請求事件",
+  "court_name": "高松高等裁判所",
+  "result": "棄却",
+  "lawsuit_id": "89040",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=89040",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/040/089040_hanrei.pdf"
+}

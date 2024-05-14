@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 3,
+    "day": 8
+  },
+  "case_number": "平成20(ワ)2006",
+  "case_name": "損害賠償請求事件",
+  "court_name": "京都地方裁判所第１民事部",
+  "result": "棄却",
+  "gist": "会社の従業員に対する労務提供の内容ないし方法に関する注意義務違反が雇用契約上の債務不履行に当たるとする損害賠償請求について，商事消滅時効の成立を認めた事例",
+  "lawsuit_id": "80808",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=80808",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/808/080808_hanrei.pdf",
+  "contents": "\u0001\n"
+}

@@ -1,0 +1,19 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 28,
+    "month": 7,
+    "day": 13
+  },
+  "case_number": "平成27(行コ)71",
+  "case_name": "難民不認定処分取消等請求控訴事件",
+  "court_name": "名古屋高等裁判所民事第４部",
+  "original_court_name": "名古屋地方裁判所",
+  "original_case_number": "平成26(行ウ)136",
+  "original_result": "棄却",
+  "gist": "ネパール国籍を有する男性が，帰国すれば，政治的意見を理由に特定の政治組織から迫害を受けるおそれがあるなどと主張して，法務大臣がした難民の認定をしない処分の取消請求等を求めたところ，控訴審においてこれを棄却した原審を取り消した事例（なお，参考として原審判決を別紙１（ＰＤＦファイル）として添付した。）",
+  "lawsuit_id": "86395",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=86395",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/395/086395_hanrei.pdf"
+}

@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 11,
+    "day": 8
+  },
+  "case_number": "平成19(あ)337",
+  "case_name": "被告人Ａに対する住居侵入，強盗殺人，現住建造物等放火，死体損壊，殺人，詐欺，被告人Ｂに対する住居侵入，強盗殺人，現住建造物等放火，死体損壊，殺人被告事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第302号1頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 1,
+    "day": 16
+  },
+  "gist": "死刑の量刑が維持された事例（北九州，大分の連続殺人事件）",
+  "lawsuit_id": "81396",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=81396",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/396/081396_hanrei.pdf",
+  "contents": ""
+}

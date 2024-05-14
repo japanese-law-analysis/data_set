@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 29,
+    "month": 10,
+    "day": 18
+  },
+  "case_number": "平成29(行コ)19",
+  "case_name": "法人税更正処分取消等請求控訴事件",
+  "court_name": "名古屋高等裁判所",
+  "original_court_name": "名古屋地方裁判所",
+  "original_case_number": "平成26(行ウ)56",
+  "gist": "１ 内国法人に係る特定外国子会社等の行う地域統括業務が租税特別措置法（ 平成２ １ 年法律第１ ３ 号による改正前のもの又は平成２ ２ 年法律第６ 号による改正前のもの） ６ ６ 条の６ 第３ 項にいう株式の保有に係る事業に含まれるとはいえないとされた事例。\n２ 内国法人に係る特定外国子会社等の行う地域統括業務が租税特別措置法（ 平成２ １ 年法律第１ ３ 号による改正前のもの又は平成２ ２ 年法律第６ 号による改正前のもの） ６ ６ 条の６ 第３ 項及び４ 項にいう主たる事業であるとされた事例。",
+  "lawsuit_id": "87705",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=87705",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/705/087705_hanrei.pdf"
+}

@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 11,
+    "day": 4
+  },
+  "case_number": "平成22(ネ)94",
+  "case_name": "損害賠償請求控訴，同附帯控訴事件",
+  "court_name": "名古屋高等裁判所民事第３部",
+  "result": "その他",
+  "original_court_name": "岐阜地方裁判所",
+  "original_case_number": "平成19(ワ)91",
+  "original_result": "その他",
+  "gist": "大学院修士課程に在籍していた中国人留学生の被控訴人（附帯控訴人）が，控訴人（附帯被控訴人）である研究指導教員から休学を強要されるなどのアカデミック・ハラスメントを受けたと主張し，同教員に対し損害賠償を求めた訴訟において，公共団体である国立大学法人に講師として雇用されて学生に対する教育活動をゆだねられた職員は国家賠償法１条１項の「公務員」に該当し，国立大学法人が被害者に対し損害賠償責任を負っている以上，職員個人が重ねて民事上の損害賠償責任を負うことはないとした事案",
+  "lawsuit_id": "80916",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=80916",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/916/080916_hanrei.pdf",
+  "contents": "\u0001\n\u0001\n\u0001\n\u0001\n\u0001\n\u0001\n\u0001\n\u0001\n\u0001\n\u0001\n\u0001\n\u0001\n\u0001\n\u0001\n"
+}

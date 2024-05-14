@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 23,
+    "month": 2,
+    "day": 17
+  },
+  "case_number": "平成22(ネ)229",
+  "case_name": "応援妨害予防等請求控訴事件",
+  "court_name": "名古屋高等裁判所民事第４部",
+  "result": "その他",
+  "original_court_name": "名古屋地方裁判所",
+  "original_case_number": "平成20(ワ)3188",
+  "original_result": "その他",
+  "gist": "プロ野球を主催する１２球団及びプロ野球の運営を統括する社団法人が，特定の応援団の申請した楽器，応援旗等を使用して観客を組織化し又は統率して行われる集団による応援の申請を不許可としたこと，及び，特定の応援団の団員に対して，プロ野球の試合等の入場券の販売を拒否し，球場等への立入りを禁止する旨を通知したことが，いずれも違法とはいえないとされた事例",
+  "lawsuit_id": "81140",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=81140",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/140/081140_hanrei.pdf",
+  "contents": "3 5 6\n1 1\n2 1 2 1\n2 1 2\n3 4 3 4\n3 4 3 4\n1 3 2 4\n3 2\n4 5\n1 1 3\n1 3\n1 3 1 3\n2 4 6\n2 4 5\n"
+}

@@ -1,0 +1,18 @@
+{
+  "trial_type": "IPCase",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 12,
+    "day": 24
+  },
+  "case_number": "平成21(ワ)34337",
+  "case_name": "特許権侵害差止等請求事件",
+  "court_name": "東京地方裁判所",
+  "right_type": "特許権",
+  "lawsuit_type": "民事訴訟",
+  "lawsuit_id": "80997",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail7?id=80997",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/997/080997_hanrei.pdf",
+  "contents": "1,322 2017 2,666,474\n579 965.8 559,198\n1,337 903.2 1,207,578\n394 903.2 355,860\n1,322 2017 2,666,474\n579 965.8 559,198\n1,337 903.2 1,207,578\n394 903.2 355,860\n2,666,474 559,198 1,207,578 355,860 4,789,110\n1 2\n"
+}

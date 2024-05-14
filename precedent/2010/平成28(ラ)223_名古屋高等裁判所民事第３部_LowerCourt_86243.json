@@ -1,0 +1,20 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 28,
+    "month": 8,
+    "day": 2
+  },
+  "case_number": "平成28(ラ)223",
+  "case_name": "移送却下決定に対する即時抗告棄却決定に対する再抗告事件",
+  "court_name": "名古屋高等裁判所民事第３部",
+  "result": "棄却",
+  "original_court_name": "名古屋地方裁判所",
+  "original_case_number": "平成28(ソ)1",
+  "original_result": "棄却",
+  "gist": "法定管轄裁判所に訴えが提起され，専属的合意管轄裁判所への移送申立てがされた場合に，訴訟の著しい遅滞を避け，又は当事者間の衡平を図るため必要があると認められた場合には，専属的合意管轄裁判所に移送せずに，法定管轄裁判所において審理することが許される。",
+  "lawsuit_id": "86243",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=86243",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/243/086243_hanrei.pdf"
+}

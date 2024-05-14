@@ -1,0 +1,18 @@
+{
+  "trial_type": "IPCase",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 3,
+    "day": 31
+  },
+  "case_number": "平成19(ワ)35324",
+  "case_name": "特許権侵害差止請求",
+  "court_name": "東京地方裁判所",
+  "right_type": "特許権",
+  "lawsuit_type": "民事訴訟",
+  "lawsuit_id": "80132",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail7?id=80132",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/132/080132_hanrei.pdf",
+  "contents": ""
+}

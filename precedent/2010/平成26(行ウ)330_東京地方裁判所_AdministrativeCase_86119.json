@@ -1,0 +1,18 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Heisei",
+    "year": 28,
+    "month": 3,
+    "day": 8
+  },
+  "case_number": "平成26(行ウ)330",
+  "case_name": "α西地区第一種市街地再開発事業に係る資産価額",
+  "court_name": "東京地方裁判所",
+  "field": "行政",
+  "gist": "第一種市街地再開発事業の完成の期待と都市再開発法８０条１項にいう「相当の価額」",
+  "case_gist": "第一種市街地再開発事業に関する都市計画等の見込み，決定等に基づく事業の完成の期待は，それに起因する施行地区内の宅地の価格の上昇が都市再開発法８０条１項所定の評価基準日の時点で既に発生していると評価できる限り，当該宅地の同項にいう「相当の価額」の算定において考慮する余地がある。",
+  "lawsuit_id": "86119",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=86119",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/119/086119_hanrei.pdf"
+}

@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 9,
+    "day": 17
+  },
+  "case_number": "平成22(少コ)1647",
+  "case_name": "損害賠償請求事件(交通)(通常手続移行)",
+  "court_name": "東京簡易裁判所民事第9室",
+  "result": "棄却",
+  "lawsuit_id": "81153",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=81153",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/153/081153_hanrei.pdf",
+  "contents": "ab c d\nB\nC\nab c\n"
+}

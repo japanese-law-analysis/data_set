@@ -1,0 +1,17 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 1,
+    "day": 29
+  },
+  "case_number": "平成20(行ケ)21等",
+  "case_name": "審決取消請求事件",
+  "court_name": "東京高等裁判所",
+  "field": "独禁",
+  "lawsuit_id": "80649",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=80649",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/649/080649_hanrei.pdf",
+  "contents": ""
+}

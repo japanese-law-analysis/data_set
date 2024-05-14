@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 4,
+    "day": 13
+  },
+  "case_number": "平成21(受)1216",
+  "case_name": "損害賠償等請求事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集民　第234号31頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "平成20(ネ)475",
+  "original_date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 3,
+    "day": 19
+  },
+  "gist": "前訴において相手方が虚偽の事実を主張して裁判所を欺罔し勝訴の確定判決を取得したことを理由とする不法行為に基づく損害賠償請求が許されないとされた事例",
+  "case_gist": "前訴において当事者が攻撃防御を尽くした事実認定上の争点等について，前訴判決と基本的には同一の証拠関係の下における証拠評価が異なった結果，異なる事実が認定されるに至ったにすぎないなど判示の事情の下においては，前訴における相手方の主張や供述が上記のような認定事実に反するというだけでは，前訴において相手方が虚偽の事実を主張して裁判所を欺罔し勝訴の確定判決を取得したというには足りず，このことを理由として不法行為に基づく損害賠償請求をすることは許されない。",
+  "ref_law": "民法709条",
+  "lawsuit_id": "80107",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=80107",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/107/080107_hanrei.pdf",
+  "contents": ""
+}

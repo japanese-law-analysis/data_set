@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 11,
+    "day": 25
+  },
+  "case_number": "平成22(行ト)63",
+  "case_name": "執行停止申立て却下決定に対する抗告棄却決定に対する特別抗告及び許可抗告事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "民集　第64巻8号1951頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成22(行ス)76",
+  "original_date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 10,
+    "day": 22
+  },
+  "gist": "検察審査会法４１条の６第１項所定の検察審査会による起訴をすべき旨の議決の適否につき行政事件訴訟を提起して争い，これを本案とする行政事件訴訟法２５条２項の執行停止の申立てをすることができるか",
+  "case_gist": "検察審査会法４１条の６第１項所定の検察審査会による起訴をすべき旨の議決の適否については，行政事件訴訟を提起して争うことはできず，これを本案とする行政事件訴訟法２５条２項の執行停止の申立てをすることもできない。",
+  "ref_law": "検察審査会法41条の6第1項，検察審査会法41条の10第1項，行政事件訴訟法1条，行政事件訴訟法25条2項",
+  "lawsuit_id": "80854",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=80854",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/854/080854_hanrei.pdf",
+  "contents": ""
+}

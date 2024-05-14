@@ -1,0 +1,18 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Heisei",
+    "year": 27,
+    "month": 12,
+    "day": 8
+  },
+  "case_number": "平成25(行ウ)113",
+  "case_name": "特別障害給付金受給資格消滅処分取消請求事件",
+  "court_name": "東京地方裁判所",
+  "field": "行政",
+  "gist": "クローン病の傷病により特定障害者に対する特別障害給付金の支給に関する法律の規定する特別障害給付金を受給していた者に対してされた当該特別障害給付金の受給資格が消滅したとする処分が違法とされた事例",
+  "case_gist": "クローン病の傷病により特定障害者に対する特別障害給付金の支給に関する法律の規定する特別障害給付金の支給を受けていた者に対してされた当該特別障害給付金の受給資格が消滅したとする処分が，当該処分がされた時点において同人が国民年金法３０条２項，国民年金法施行令４条の６，別表の規定する障害等級に相当する障害の状態にあったとして，違法とされた事例",
+  "lawsuit_id": "85857",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=85857",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/857/085857_hanrei.pdf"
+}

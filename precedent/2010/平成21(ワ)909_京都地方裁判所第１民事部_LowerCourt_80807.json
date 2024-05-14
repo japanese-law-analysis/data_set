@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 3,
+    "day": 31
+  },
+  "case_number": "平成21(ワ)909",
+  "case_name": "共有物分割請求事件",
+  "court_name": "京都地方裁判所第１民事部",
+  "result": "その他",
+  "gist": "不動産の共有物分割請求において，全面的価格賠償の方法の適否を検討するに当たり，賠償すべき価格の基準となる不動産価格について，これに設定されている担保権の被担保債権の額を控除すべきでないとした事例",
+  "lawsuit_id": "80807",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=80807",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/807/080807_hanrei.pdf",
+  "contents": ""
+}

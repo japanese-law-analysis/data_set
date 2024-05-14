@@ -1,0 +1,16 @@
+{
+  "trial_type": "LaborCase",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 12,
+    "day": 15
+  },
+  "case_number": "平成21(ワ)3362",
+  "case_name": "地位確認等請求事件（通称　京阪バス諭旨解雇）",
+  "court_name": "京都地方裁判所",
+  "lawsuit_id": "81005",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail6?id=81005",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/005/081005_hanrei.pdf",
+  "contents": ""
+}

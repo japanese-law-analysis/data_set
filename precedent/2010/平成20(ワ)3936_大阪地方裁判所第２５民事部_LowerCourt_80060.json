@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 3,
+    "day": 26
+  },
+  "case_number": "平成20(ワ)3936",
+  "case_name": "不当利得金返還等請求事件",
+  "court_name": "大阪地方裁判所第２５民事部",
+  "gist": "証券会社である被告の従業員が顧客である原告らに被告の発行した仕組債を勧誘して購入させたことについて，当該仕組債の内容が複雑で賭博性も高いこと，当該仕組債の購入が原告らの過去の取引経験に照らして適合性がないこと，当該仕組債についての被告の従業員の説明の内容が誤解を招くものであったことから，説明義務に違反し，不法行為が成立するとされた事例",
+  "lawsuit_id": "80060",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=80060",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/060/080060_hanrei.pdf",
+  "contents": ""
+}

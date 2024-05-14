@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 2,
+    "day": 5
+  },
+  "case_number": "平成19(ワ)3946",
+  "case_name": "損害賠償請求事件",
+  "court_name": "名古屋地方裁判所民事第８部",
+  "gist": "愛知県青少年保護育成条例（昭和３６年愛知県条例第１３号）違反の罪（いわゆる淫行処罰規定）により逮捕，勾留，公訴提起され，その後，無罪判決が確定した場合において\n１　同条例違反の被疑事実に基づく司法警察員の逮捕状請求及び逮捕状に基づく逮捕の違法性が肯定された事例\n２　同条例違反の被疑事実に基づく検察官の勾留請求及び勾留状の執行の違法性が否定された事例\n３　同条例違反の被疑事実について誤った前提により虚偽の自白を取得した検察官の取調べの違法性が肯定された事例\n４　同条例違反の公訴事実に基づく検察官の公訴提起の違法性が肯定された事例",
+  "lawsuit_id": "80085",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=80085",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/085/080085_hanrei.pdf",
+  "contents": ""
+}

@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 4,
+    "day": 26
+  },
+  "case_number": "平成21(ワ)5475",
+  "case_name": "建物収去土地明渡等請求事件",
+  "court_name": "大阪地方裁判所第１８民事部",
+  "gist": "大阪市が所有する土地の賃借人（妻）が当該土地上の建物を夫の暴力団事務所として使用させた行為が土地賃貸借契約上の用法遵守義務等に違反し信頼関係を裏切る不信行為に該当するとして当該土地賃貸借契約の解除を認め，土地の占有者（妻）に対する建物収去土地明渡及び建物の占有者（夫）に対する建物退去土地明渡の各請求が認容された事例",
+  "lawsuit_id": "80173",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=80173",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/173/080173_hanrei.pdf",
+  "contents": ""
+}

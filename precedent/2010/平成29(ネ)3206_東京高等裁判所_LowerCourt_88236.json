@@ -1,0 +1,19 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 30,
+    "month": 10,
+    "day": 25
+  },
+  "case_number": "平成29(ネ)3206",
+  "case_name": "各安倍首相靖國神社参拝違憲確認等請求控訴事件",
+  "court_name": "東京高等裁判所",
+  "result": "棄却",
+  "original_court_name": "東京地方裁判所",
+  "original_case_number": "平成26(ワ)9825",
+  "lawsuit_id": "88236",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=88236",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/236/088236_hanrei.pdf",
+  "contents": ""
+}

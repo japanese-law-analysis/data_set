@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 2,
+    "day": 23
+  },
+  "case_number": "平成18(行ヒ)79",
+  "case_name": "損害賠償請求事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第233号55頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "平成16(行コ)22",
+  "original_date": {
+    "era": "Heisei",
+    "year": 17,
+    "month": 11,
+    "day": 30
+  },
+  "gist": "市営と畜場の廃止に当たり市が利用業者等に対してした支援金の支出が，国有財産法１９条，２４条２項の類推適用又は憲法２９条３項に基づく損失補償金の支出として適法なものであるとはいえないとされた事例",
+  "case_gist": "市営と畜場の廃止に当たり市が利用業者等に対してした支援金の支出は，当該と畜場の利用資格に制限がなく，利用業者等と市との間に委託契約等の継続的契約関係はない上，当該と畜場は関係法令の改正等に伴い必要となる施設の新築が実現困難であるためにやむなく廃止されたという事実関係の下においては，利用業者等が当該と畜場を事実上独占的に使用する状況が継続していたとしても，国有財産法１９条，２４条２項の類推適用又は憲法２９条３項に基づく損失補償金の支出として適法なものであるとはいえない。",
+  "ref_law": "憲法29条3項，国有財産法19条，国有財産法24条2項",
+  "lawsuit_id": "38481",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=38481",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/481/038481_hanrei.pdf",
+  "contents": ""
+}

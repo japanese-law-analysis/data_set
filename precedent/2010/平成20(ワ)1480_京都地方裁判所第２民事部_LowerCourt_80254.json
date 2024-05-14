@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 5,
+    "day": 13
+  },
+  "case_number": "平成20(ワ)1480",
+  "case_name": "国家賠償請求事件",
+  "court_name": "京都地方裁判所第２民事部",
+  "result": "その他",
+  "gist": "医療少年院に入院中の少年が，入院前に収容されていた少年鑑別所でベルトを首に巻き付けて両手で引っ張ったり，同少年院の医師に対して希死念慮の存在を伝えたりしていた等の具体的事情の下では，同少年院の職員らには，少年がベルトを用いて自殺することについての予見可能性があり，同少年に対しベルトを漫然と貸与したという過失があったと認められる。",
+  "lawsuit_id": "80254",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=80254",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/254/080254_hanrei.pdf",
+  "contents": "2 2\n"
+}

@@ -1,0 +1,18 @@
+{
+  "trial_type": "IPCase",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 12,
+    "day": 13
+  },
+  "case_number": "平成22(ネ)10069",
+  "case_name": "報酬金請求控訴事件",
+  "court_name": "知的財産高等裁判所",
+  "right_type": "著作権",
+  "lawsuit_type": "民事訴訟",
+  "lawsuit_id": "80923",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail7?id=80923",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/923/080923_hanrei.pdf",
+  "contents": ""
+}

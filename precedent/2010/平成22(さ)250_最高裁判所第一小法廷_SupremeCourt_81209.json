@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 7,
+    "day": 22
+  },
+  "case_number": "平成22(さ)250",
+  "case_name": "道路交通法違反被告事件に係る略式命令に対する非常上告事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集刑　第301号29頁",
+  "original_court_name": "室蘭簡易裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 16,
+    "month": 11,
+    "day": 30
+  },
+  "gist": "反則行為に当たる速度違反を非反則行為と誤認してされた略式命令に対する非常上告",
+  "ref_law": "刑訴法458条1号",
+  "lawsuit_id": "81209",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=81209",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/209/081209_hanrei.pdf",
+  "contents": ""
+}

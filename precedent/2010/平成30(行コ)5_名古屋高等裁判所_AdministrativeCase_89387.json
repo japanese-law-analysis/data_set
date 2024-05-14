@@ -1,0 +1,15 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Reiwa",
+    "year": 1,
+    "month": 5,
+    "day": 30
+  },
+  "case_number": "平成30(行コ)5",
+  "case_name": "司法修習生の給費制廃止違憲国家賠償等請求控訴事件",
+  "court_name": "名古屋高等裁判所",
+  "lawsuit_id": "89387",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=89387",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/387/089387_hanrei.pdf"
+}

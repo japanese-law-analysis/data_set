@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 12,
+    "day": 16
+  },
+  "case_number": "平成18(ワ)987",
+  "case_name": "損害賠償請求事件",
+  "court_name": "さいたま地方裁判所第１民事部",
+  "gist": "１　歯科医院での治療中に患者が局所麻酔剤を原因とするアナフィラキシーショックにより死亡したことについて，歯科医師である被告に患者の観察等によりバイタルサインを確認すべき注意義務を怠った過失があるとされた事例\n２　被告が上記患者につき上記注意義務を尽くしていれば患者が死亡時において生存していた相当程度の可能性があったとして不法行為に基づく損害賠償が認められた事例",
+  "lawsuit_id": "81297",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=81297",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/297/081297_hanrei.pdf",
+  "contents": ""
+}

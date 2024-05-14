@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 30,
+    "month": 10,
+    "day": 18
+  },
+  "case_number": "平成30(ネ)2899",
+  "case_name": "損害賠償請求控訴事件",
+  "court_name": "東京高等裁判所",
+  "result": "その他",
+  "original_court_name": "甲府地方裁判所",
+  "original_case_number": "平成29(ワ)238",
+  "lawsuit_id": "88727",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=88727",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/727/088727_hanrei.pdf"
+}

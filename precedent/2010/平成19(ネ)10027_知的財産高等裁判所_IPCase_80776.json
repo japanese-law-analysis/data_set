@@ -1,0 +1,18 @@
+{
+  "trial_type": "IPCase",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 10,
+    "day": 20
+  },
+  "case_number": "平成19(ネ)10027",
+  "case_name": "特許権侵害差止等請求控訴事件",
+  "court_name": "知的財産高等裁判所",
+  "right_type": "特許権",
+  "lawsuit_type": "民事訴訟",
+  "lawsuit_id": "80776",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail7?id=80776",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/776/080776_hanrei.pdf",
+  "contents": ""
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 24,
+    "month": 4,
+    "day": 2
+  },
+  "case_number": "平成20(き)18",
+  "case_name": "再審請求事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "その他",
+  "article_info": "集民　第307号823頁",
+  "original_court_name": "最高裁判所第一小法廷",
+  "original_case_number": "平成18(あ)1863",
+  "original_date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 11,
+    "day": 22
+  },
+  "gist": "上告棄却の確定決定に対する再審請求について，刑訴規則２８５条２項による訴訟手続の停止決定を取り消した事例",
+  "lawsuit_id": "82340",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=82340",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/340/082340_hanrei.pdf",
+  "contents": "平成２０年（き）第１８号  再審請求事件\n平成２４年４月２日  第二小法廷決定\n決          定\n上記の者からの再審請求事件について，当裁判所は，その訴訟手続を停止する必\n要がなくなったものと認め，平成２０年１１月２１日にした訴訟手続停止決定を取\nり消す。\n( 裁 判 長 裁 判 官   須 藤 正 彦   裁 判 官   古 田 佑 紀   裁 判 官   竹 内 行 夫   裁 判 官\n千葉勝美)\n"
+}

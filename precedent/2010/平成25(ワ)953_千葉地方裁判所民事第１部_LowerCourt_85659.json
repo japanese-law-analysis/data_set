@@ -1,0 +1,16 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 27,
+    "month": 9,
+    "day": 9
+  },
+  "case_number": "平成25(ワ)953",
+  "case_name": "損害賠償請求事件",
+  "court_name": "千葉地方裁判所民事第１部",
+  "gist": "検察官が，公判前整理手続が進行中の刑事事件で勾留中の被告人から，弁護人らとの間の接見の内容にわたる記載を含むノート及び弁護人ら宛ての信書の草稿等に当たる便せんの任意提出を受けた行為について，弁護人らが，弁護人に固有の秘密交通権を侵害する違法な行為に当たると主張して，国に対し，国家賠償法１条１項に基づき，損害賠償を求めた事案において，検察官がノートの任意提出を受けたことは違法ではないが，便せんの任意提出を受けたことは違法であるとして，慰謝料請求を認容した事例",
+  "lawsuit_id": "85659",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=85659",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/659/085659_hanrei.pdf"
+}

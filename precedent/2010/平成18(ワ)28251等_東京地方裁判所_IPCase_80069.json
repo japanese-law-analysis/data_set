@@ -1,0 +1,18 @@
+{
+  "trial_type": "IPCase",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 3,
+    "day": 11
+  },
+  "case_number": "平成18(ワ)28251等",
+  "case_name": "ロイヤリティ請求事件，損害賠償請求事件",
+  "court_name": "東京地方裁判所",
+  "right_type": "その他",
+  "lawsuit_type": "民事訴訟",
+  "lawsuit_id": "80069",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail7?id=80069",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/069/080069_hanrei.pdf",
+  "contents": ""
+}

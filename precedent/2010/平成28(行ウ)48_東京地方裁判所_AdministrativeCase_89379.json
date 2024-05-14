@@ -1,0 +1,15 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Reiwa",
+    "year": 1,
+    "month": 5,
+    "day": 30
+  },
+  "case_number": "平成28(行ウ)48",
+  "case_name": "道路占用許可処分取消及び裁決取消請求事件",
+  "court_name": "東京地方裁判所",
+  "lawsuit_id": "89379",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=89379",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/379/089379_hanrei.pdf"
+}

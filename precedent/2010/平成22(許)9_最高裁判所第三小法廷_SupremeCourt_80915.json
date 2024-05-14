@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 12,
+    "day": 7
+  },
+  "case_number": "平成22(許)9",
+  "case_name": "株式価格決定申立て却下決定に対する抗告審の取消決定に対する許可抗告事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "破棄自判",
+  "article_info": "民集　第64巻8号2003頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成21(ラ)2163",
+  "original_date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 2,
+    "day": 18
+  },
+  "gist": "社債等振替法１２８条１項所定の振替株式についての会社法１７２条１項に基づく価格の決定の申立てを受けた会社が，裁判所における株式価格決定申立て事件の審理において，申立人が株主であることを争った場合における，社債等振替法１５４条３項所定の通知の要否",
+  "case_gist": "社債等振替法１２８条１項所定の振替株式についての会社法１７２条１項に基づく価格の決定の申立てを受けた会社が，裁判所における株式価格決定申立て事件の審理において，申立人が株主であることを争った場合には，その審理終結までの間に社債等振替法１５４条３項所定の通知がされることを要する。",
+  "ref_law": "会社法172条1項，（社債等振替法）社債，株式等の振替に関する法律128条1項，（社債等振替法）社債，株式等の振替に関する法律154条3項",
+  "lawsuit_id": "80915",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=80915",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/915/080915_hanrei.pdf",
+  "contents": ""
+}

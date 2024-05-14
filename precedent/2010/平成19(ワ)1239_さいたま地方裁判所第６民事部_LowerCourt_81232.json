@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 7,
+    "day": 23
+  },
+  "case_number": "平成19(ワ)1239",
+  "case_name": "損害賠償請求事件",
+  "court_name": "さいたま地方裁判所第６民事部",
+  "gist": "不動産業者との間で土地を購入し，併せて同土地上に自宅建物を建築することを請け負わせる契約を締結した後に，同土地に大量の産業廃棄物が埋設されていることが判明したことが同土地の隠れた瑕疵に当たるとして，買主から当該業者に対する損害賠償請求が一部認められた事例",
+  "lawsuit_id": "81232",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=81232",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/232/081232_hanrei.pdf",
+  "contents": "3 3\n6 4\n8 7\n1 2\n"
+}

@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 23,
+    "month": 3,
+    "day": 23
+  },
+  "case_number": "平成19(ワ)1127",
+  "case_name": "保険金請求事件",
+  "court_name": "岐阜地方裁判所",
+  "result": "棄却",
+  "gist": "実質的保険金受取人である者の故意行為によって死亡事故が生じたとして，免責条項により保険金の支払が免責されるとした事例",
+  "lawsuit_id": "81310",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=81310",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/310/081310_hanrei.pdf",
+  "contents": "糙\n糙\n"
+}

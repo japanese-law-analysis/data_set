@@ -1,0 +1,19 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 30,
+    "month": 2,
+    "day": 28
+  },
+  "case_number": "平成29(行コ)3",
+  "case_name": "退去強制令書発付処分等取消請求控訴事件",
+  "court_name": "名古屋高等裁判所",
+  "original_court_name": "名古屋地方裁判所",
+  "original_case_number": "平成28(行ウ)45",
+  "original_result": "棄却",
+  "gist": "不法残留のフィリピン国籍を有する外国人女性である控訴人に対し，法務大臣から権限の委任を受けた入国管理局長がした出入国管理及び難民認定法４９条１項に基づく控訴人の異議の申出には理由がない旨の裁決及び入国管理局主任審査官がした退去強制令書発付処分につき，控訴人と日本人男性との間に安定かつ成熟した実質的な夫婦関係が成立していたにもかかわらず，その実態を十分に把握せず，上記処分による控訴人夫婦の不利益や控訴人にも酌むべき事情があることを無視又は著しく軽視する一方で，控訴人に不利な情状を過度に重大視したものとして，裁量権の範囲を逸脱又は濫用した違法なものであると認め，同処分を取り消した事例",
+  "lawsuit_id": "87709",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=87709",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/709/087709_hanrei.pdf"
+}

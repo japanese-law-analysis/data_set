@@ -1,0 +1,18 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Heisei",
+    "year": 28,
+    "month": 7,
+    "day": 21
+  },
+  "case_number": "平成28(行コ)47",
+  "case_name": "食品衛生法に基づく水俣病の法定調査等の義務付け行政訴訟等請求控訴事件（原審・東京地方裁判所平成２６年（行ウ）第２２４号）",
+  "court_name": "東京高等裁判所",
+  "field": "行政",
+  "gist": "食品衛生法５８条２項所定の調査と抗告訴訟の対象",
+  "case_gist": "食品衛生法５８条２項所定の調査は，抗告訴訟の対象となる行政処分に当たらない。",
+  "lawsuit_id": "86947",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=86947",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/947/086947_hanrei.pdf"
+}

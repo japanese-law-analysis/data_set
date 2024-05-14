@@ -1,0 +1,15 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 30,
+    "month": 3,
+    "day": 19
+  },
+  "case_number": "平成29(わ)471",
+  "case_name": "過失運転致死傷被告事件",
+  "court_name": "大津地方裁判所",
+  "lawsuit_id": "87916",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=87916",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/916/087916_hanrei.pdf"
+}

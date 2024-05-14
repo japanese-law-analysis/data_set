@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 4,
+    "day": 19
+  },
+  "case_number": "平成18(ワ)13143",
+  "case_name": "損害賠償請求事件",
+  "court_name": "大阪地方裁判所第１５民事部",
+  "gist": "信号機により交通整理の行われている交差点において，直進単車と対向車線から右折する四輪車（大阪府警警察官運転）が，双方ともに青信号で交差点に進入して衝突し，単車運転者が，高次脳機能障害等の傷害を負い，後遺障害等級別表第二併合第３級と認定された交通事故に関し，過失割合を，直進単車１５：右折四輪車８５とし，後遺障害逸失利益算定における労働能力喪失率を，７９％とした事例",
+  "lawsuit_id": "80255",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=80255",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/255/080255_hanrei.pdf",
+  "contents": "1 3 4\n4 3 4\n"
+}

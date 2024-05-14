@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 23,
+    "month": 2,
+    "day": 10
+  },
+  "case_number": "平成22(行ウ)10",
+  "case_name": "弁護士会照会回答拒否の違法確認等請求事件",
+  "court_name": "岐阜地方裁判所",
+  "result": "その他",
+  "gist": "弁護士法２３条の２による照会への回答を消防署が正当な理由なく拒否したことが，公権力の行使によって「違法に他人に損害を加えた」（国家賠償法１条１項）場合にあたるとされた事例",
+  "lawsuit_id": "81228",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=81228",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/228/081228_hanrei.pdf",
+  "contents": "迂\n"
+}

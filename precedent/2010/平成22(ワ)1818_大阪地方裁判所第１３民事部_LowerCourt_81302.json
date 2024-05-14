@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 23,
+    "month": 4,
+    "day": 15
+  },
+  "case_number": "平成22(ワ)1818",
+  "case_name": "損害賠償請求事件",
+  "court_name": "大阪地方裁判所第１３民事部",
+  "gist": "警察官が捜索差押え時に撮影された被疑者の手錠姿の写真を紛失して第三者の目に触れ得る状態にしたことが，被疑者に精神的苦痛を与えるものであって違法であるとして，被疑者からの国家賠償請求が認められた事例。",
+  "lawsuit_id": "81302",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=81302",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/302/081302_hanrei.pdf",
+  "contents": ""
+}

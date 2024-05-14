@@ -1,0 +1,21 @@
+{
+  "trial_type": "HighCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 28,
+    "month": 10,
+    "day": 27
+  },
+  "case_number": "平成28(う)493",
+  "case_name": "児童買春，児童ポルノに係る行為等の規制及び処罰並びに児童の保護等に関する法律違反，強制わいせつ，犯罪による収益の移転防止に関する法律違反被告事件",
+  "court_name": "大阪高等裁判所第５刑事部",
+  "result": "棄却",
+  "article_info": "第69巻2号1頁",
+  "original_court_name": "神戸地方裁判所",
+  "original_case_number": "平成27(わ)1051",
+  "gist": "強制わいせつ罪の成立と性的意図の要否",
+  "case_gist": "客観的に被害者の性的自由を侵害する行為がなされ，犯人がその旨認識していれば，犯人に性的意図が認められないにしても，強制わいせつ罪が成立する。",
+  "lawsuit_id": "86760",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail3?id=86760",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/760/086760_hanrei.pdf"
+}

@@ -1,0 +1,16 @@
+{
+  "trial_type": "IPCase",
+  "date": {
+    "era": "Heisei",
+    "year": 23,
+    "month": 3,
+    "day": 24
+  },
+  "case_number": "平成21(ワ)21841",
+  "case_name": "職務発明対価請求事件",
+  "court_name": "東京地方裁判所",
+  "lawsuit_id": "81306",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail7?id=81306",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/306/081306_hanrei.pdf",
+  "contents": "Laser On Photodiode\n101,036,000  1500  5  40  50  50  50\n378,885,000\n71,726,000  2000  5  40  50  50  50\n358,630,000\n"
+}

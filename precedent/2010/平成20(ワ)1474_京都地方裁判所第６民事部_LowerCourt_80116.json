@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 3,
+    "day": 23
+  },
+  "case_number": "平成20(ワ)1474",
+  "case_name": "地位確認等請求事件（通称　日本電信電話黙示の労働契約）",
+  "court_name": "京都地方裁判所第６民事部",
+  "result": "棄却",
+  "gist": "いわゆる多重の偽装請負がなされ，注文者が請負人の労働者を指揮命令して作業に従事させていたとしても，注文者と当該労働者との間に使用従属関係が存しないことなどから，両者の間に労働契約が成立していたとはいえないとされた事例",
+  "lawsuit_id": "80116",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=80116",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/116/080116_hanrei.pdf",
+  "contents": ""
+}

@@ -1,0 +1,16 @@
+{
+  "trial_type": "LaborCase",
+  "date": {
+    "era": "Heisei",
+    "year": 29,
+    "month": 3,
+    "day": 8
+  },
+  "case_number": "平成26(ワ)16874",
+  "case_name": "地位確認等請求事件",
+  "court_name": "東京地方裁判所",
+  "field": "労働",
+  "lawsuit_id": "87559",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail6?id=87559",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/559/087559_hanrei.pdf"
+}

@@ -1,0 +1,18 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Heisei",
+    "year": 29,
+    "month": 2,
+    "day": 7
+  },
+  "case_number": "平成28(行ウ)176",
+  "case_name": "措置入院処分の取消し請求事件",
+  "court_name": "東京地方裁判所",
+  "field": "行政",
+  "gist": "入院措置が解除された後における措置入院決定の取消しを求める訴えの利益",
+  "case_gist": "精神保健及び精神障害者福祉に関する法律２９条１項による措置入院決定を受けた者の入院措置が解除された後においても，当該措置入院決定の取消しを求める訴えの利益は失われない。",
+  "lawsuit_id": "87042",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=87042",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/042/087042_hanrei.pdf"
+}

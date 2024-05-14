@@ -1,0 +1,17 @@
+{
+  "trial_type": "LaborCase",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 1,
+    "day": 18
+  },
+  "case_number": "平成19(行ウ)615",
+  "case_name": "遺族補償給付不支給決定処分取消等請求事件（通称　川崎南労基署長遺族補償等不支給処分取消）",
+  "court_name": "東京地方裁判所",
+  "field": "労働",
+  "lawsuit_id": "81430",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail6?id=81430",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/430/081430_hanrei.pdf",
+  "contents": ""
+}

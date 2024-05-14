@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 28,
+    "month": 2,
+    "day": 10
+  },
+  "case_number": "平成26(行コ)91",
+  "case_name": "法人税更正処分取消等請求控訴事件",
+  "court_name": "名古屋高等裁判所民事第４部",
+  "original_court_name": "名古屋地方裁判所",
+  "original_case_number": "平成23(行ウ)116",
+  "gist": "税務署長から海外子会社の所得をタックスヘイブン対策税制により本社の所得と認定され，約１２億円を追徴課税された一審原告が課税処分の取消を求めた事案について，控訴審において請求を一部認めた原判決を取り消し，一審原告の請求を棄却した事例",
+  "lawsuit_id": "85848",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=85848",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/848/085848_hanrei.pdf"
+}

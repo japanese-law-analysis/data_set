@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 23,
+    "month": 5,
+    "day": 26
+  },
+  "case_number": "平成23(う)7",
+  "case_name": "住居侵入，強盗強姦，強盗致傷（認定罪名　住居侵入，強盗強姦）被告事件",
+  "court_name": "広島高等裁判所第１部",
+  "result": "破棄自判",
+  "original_court_name": "広島地方裁判所",
+  "original_case_number": "平成22(わ)522",
+  "original_result": "その他",
+  "gist": "裁判員裁判対象事件である住居侵入，強盗強姦，強盗致傷（認定罪名　住居侵入，強盗強姦）被告事件について，控訴審において，懲役１１年に処した一審判決の量刑が重過ぎるとし，量刑不当の主張を認め，一審判決を破棄し，懲役８年に処した事例",
+  "lawsuit_id": "81415",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=81415",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/415/081415_hanrei.pdf",
+  "contents": ""
+}

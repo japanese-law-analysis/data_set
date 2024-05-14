@@ -1,0 +1,18 @@
+{
+  "trial_type": "IPCase",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 12,
+    "day": 14
+  },
+  "case_number": "平成22(行ウ)276",
+  "case_name": "決定取消請求事件",
+  "court_name": "東京地方裁判所",
+  "right_type": "特許権",
+  "lawsuit_type": "行政訴訟",
+  "lawsuit_id": "80938",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail7?id=80938",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/938/080938_hanrei.pdf",
+  "contents": ""
+}

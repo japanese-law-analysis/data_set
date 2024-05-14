@@ -1,0 +1,15 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 30,
+    "month": 2,
+    "day": 23
+  },
+  "case_number": "平成28(わ)428",
+  "case_name": "電子計算機使用詐欺，窃盗，殺人，死体損壊，死体遺棄，強盗殺人，有印私文書偽造・同行使，電磁的公正証書原本不実記録・同供用，詐欺被告事件",
+  "court_name": "静岡地方裁判所刑事第１部",
+  "lawsuit_id": "88245",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=88245",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/245/088245_hanrei.pdf"
+}

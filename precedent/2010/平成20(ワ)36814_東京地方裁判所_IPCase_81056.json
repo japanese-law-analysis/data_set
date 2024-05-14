@@ -1,0 +1,18 @@
+{
+  "trial_type": "IPCase",
+  "date": {
+    "era": "Heisei",
+    "year": 23,
+    "month": 1,
+    "day": 20
+  },
+  "case_number": "平成20(ワ)36814",
+  "case_name": "特許権侵害差止等請求事件",
+  "court_name": "東京地方裁判所",
+  "right_type": "特許権",
+  "lawsuit_type": "民事訴訟",
+  "lawsuit_id": "81056",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail7?id=81056",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/056/081056_hanrei.pdf",
+  "contents": "scatter diagram, scattergram, scatterplot\nscatter diagram\nJIS\nGalai CIS-1 System\nShape Factor\nShape Factor 2\nLaboratory Practice\nAEROSOL AGE\nJuliet\nSysmex Journal\nSysmex Journal\nYELLOW IRIS\nJuliet\nJuliet\n3 4\n1/2\n-d -d 5\n15 30 15\n30 30 15\n117,000 17 133,793,389\n1 2\n"
+}

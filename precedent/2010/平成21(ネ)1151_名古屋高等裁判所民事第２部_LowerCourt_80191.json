@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 4,
+    "day": 15
+  },
+  "case_number": "平成21(ネ)1151",
+  "case_name": "養子縁組無効確認請求控訴事件",
+  "court_name": "名古屋高等裁判所民事第２部",
+  "result": "棄却",
+  "original_court_name": "名古屋家庭裁判所",
+  "original_case_number": "平成20(家ホ)366",
+  "original_result": "その他",
+  "gist": "養親子関係という真の身分関係を形成する意思とは異なり，相続を阻止する等何らかの方便として養子縁組の形式を利用したに過ぎない場合は，縁組意思を欠くものとして養子縁組を無効とした事例",
+  "lawsuit_id": "80191",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=80191",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/191/080191_hanrei.pdf",
+  "contents": ""
+}

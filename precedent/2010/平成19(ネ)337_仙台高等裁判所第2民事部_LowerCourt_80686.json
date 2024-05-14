@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 4,
+    "day": 22
+  },
+  "case_number": "平成19(ネ)337",
+  "case_name": "損害賠償請求控訴事件",
+  "court_name": "仙台高等裁判所第2民事部",
+  "result": "その他",
+  "original_court_name": "仙台地方裁判所",
+  "original_case_number": "平成17(ワ)693",
+  "original_result": "棄却",
+  "gist": "左大腿部に熱傷を負った控訴人が，その原因は当時ズボンのポケットに収納していた携帯電話機の異常発熱であるとして，当該携帯電話機の製造業者に対し，製造物責任法３条又は民法７０９条に基づいて損害賠償を求めた事案について，携帯電話機の異常発熱が原因となって低温熱傷を受傷したと認定し，製造物責任法２条２項にいう欠陥があったことを認めた事例",
+  "lawsuit_id": "80686",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=80686",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/686/080686_hanrei.pdf",
+  "contents": ""
+}

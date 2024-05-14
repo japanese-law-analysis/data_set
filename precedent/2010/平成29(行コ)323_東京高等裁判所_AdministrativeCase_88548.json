@@ -1,0 +1,16 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Heisei",
+    "year": 29,
+    "month": 11,
+    "day": 29
+  },
+  "case_number": "平成29(行コ)323",
+  "case_name": "苦情申出不採択無効確認等請求控訴事件",
+  "court_name": "東京高等裁判所",
+  "field": "行政",
+  "lawsuit_id": "88548",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=88548",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/548/088548_hanrei.pdf"
+}

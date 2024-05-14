@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 23,
+    "month": 2,
+    "day": 10
+  },
+  "case_number": "平成21(行ウ)18",
+  "case_name": "損害賠償請求事件",
+  "court_name": "仙台地方裁判所第3民事部",
+  "gist": "国直轄道路事業負担金（国土交通省管轄の河川国道事務所を移転するための敷地取得費用の一部）について，その支出の目的，効果と地方公共団体に対して生じることが想定される受益との関連性並びに費用負担の方法及び金額の相当性等の見地からみて不合理といえないとして，道路法５０条１項，２項などの法令に基づき国が市に負担を求めることができるとされた事例",
+  "lawsuit_id": "81105",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=81105",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/105/081105_hanrei.pdf",
+  "contents": "()\n"
+}

@@ -1,0 +1,16 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 30,
+    "month": 1,
+    "day": 24
+  },
+  "case_number": "平成27(ワ)8334",
+  "case_name": "地位確認等請求事件",
+  "court_name": "大阪地方裁判所第５民事部",
+  "gist": "有期雇用職員として被告で就労していた原告が，無期雇用職員である被告の正職員との間における賃金額や賞与の有無等の労働条件の相違につき，労働契約法２０条に違反する不合理な相違であるなどと主張して損害賠償等を請求した事案で，原告が主張する被告の正職員との間の労働条件の相違は，いずれも労働契約法２０条の不合理な労働条件の相違にはあたらないなどとして，請求が棄却された事例",
+  "lawsuit_id": "87573",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=87573",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/573/087573_hanrei.pdf"
+}

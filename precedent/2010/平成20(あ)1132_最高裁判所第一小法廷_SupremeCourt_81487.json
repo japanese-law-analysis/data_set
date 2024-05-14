@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 23,
+    "month": 7,
+    "day": 7
+  },
+  "case_number": "平成20(あ)1132",
+  "case_name": "威力業務妨害被告事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第65巻5号619頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成18(う)1859",
+  "original_date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 5,
+    "day": 29
+  },
+  "gist": "卒業式の開式直前に保護者らに対して大声で呼び掛けを行い，これを制止した教頭らに対して怒号するなどし，卒業式の円滑な遂行を妨げた行為をもって刑法２３４条の罪に問うことが，憲法２１条１項に違反しないとされた事例",
+  "case_gist": "卒業式の開式直前に，式典会場である体育館において，主催者に無断で，保護者らに対して，国歌斉唱のときには着席してほしいなどと大声で呼び掛けを行い，これを制止した教頭らに対して怒号するなどし，その場を喧噪状態に陥れるなどして，卒業式の円滑な遂行に支障を生じさせた行為をもって，刑法２３４条の罪に問うことは，憲法２１条１項に違反しない。\n(補足意見がある。）",
+  "ref_law": "憲法21条1項，刑法234条",
+  "lawsuit_id": "81487",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=81487",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/487/081487_hanrei.pdf",
+  "contents": ""
+}

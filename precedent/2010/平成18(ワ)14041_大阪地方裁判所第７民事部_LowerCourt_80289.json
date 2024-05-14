@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 4,
+    "day": 15
+  },
+  "case_number": "平成18(ワ)14041",
+  "case_name": "損害賠償請求事件",
+  "court_name": "大阪地方裁判所第７民事部",
+  "gist": "市がその設置・運営する保育所の運営を社会福祉法人に委託したこと等が，当該保育所に入所し保育を受けてきた児童の保護者らに対する国家賠償法上の違法行為又は契約上の債務不履行に該当しないとして，当該保護者らから市に対する国家賠償法１条又は債務不履行に基づく損害賠償請求が棄却された事例",
+  "lawsuit_id": "80289",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=80289",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/289/080289_hanrei.pdf",
+  "contents": ""
+}

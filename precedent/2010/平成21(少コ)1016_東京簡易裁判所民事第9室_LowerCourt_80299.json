@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 2,
+    "day": 8
+  },
+  "case_number": "平成21(少コ)1016",
+  "case_name": "(通常手続移行)貸金請求事件",
+  "court_name": "東京簡易裁判所民事第9室",
+  "result": "棄却",
+  "lawsuit_id": "80299",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=80299",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/299/080299_hanrei.pdf",
+  "contents": ""
+}

@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 27,
+    "month": 2,
+    "day": 24
+  },
+  "case_number": "平成27(す)109",
+  "case_name": "訴訟終了宣言の決定に対する不服申立て事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第69巻1号214頁",
+  "original_court_name": "最高裁判所第二小法廷",
+  "original_case_number": "平成26(あ)1866",
+  "original_date": {
+    "era": "Heisei",
+    "year": 27,
+    "month": 2,
+    "day": 4
+  },
+  "gist": "最高裁判所がした訴訟終了宣言の決定に対する不服申立ての許否",
+  "case_gist": "最高裁判所がした訴訟終了宣言の決定に対しては不服申立てをすることは許されない。",
+  "ref_law": "刑訴法３５９条，刑訴法４１９条，刑訴法４３３条１項，裁判所法７条２号",
+  "lawsuit_id": "84885",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=84885",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/885/084885_hanrei.pdf",
+  "contents": "平成２７年（す）第１０９号，第１１８号\n訴訟終了宣言の決定に対する不服申立て事件\n平成２７年２月２４日  第二小法廷決定\n主          文\n本件申立てを棄却する。\n理          由\n本件は，申立人の上告取下げに伴い当裁判所がした訴訟終了宣言の決定に対する\n不服申立てであるところ，終審である最高裁判所がした訴訟終了宣言の決定に対し\nては不服申立てをすることが許されないから，本件申立ては不適法である。\nよって，裁判官全員一致の意見で，主文のとおり決定する。\n(裁判長裁判官  小貫芳信  裁判官  千葉勝美  裁判官  鬼丸かおる  裁判官\n山本庸幸）\n"
+}

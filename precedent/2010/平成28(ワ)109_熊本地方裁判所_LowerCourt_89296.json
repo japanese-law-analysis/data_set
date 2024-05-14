@@ -1,0 +1,15 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Reiwa",
+    "year": 1,
+    "month": 6,
+    "day": 28
+  },
+  "case_number": "平成28(ワ)109",
+  "case_name": "国家賠償請求事件",
+  "court_name": "熊本地方裁判所",
+  "lawsuit_id": "89296",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=89296",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/296/089296_hanrei.pdf"
+}

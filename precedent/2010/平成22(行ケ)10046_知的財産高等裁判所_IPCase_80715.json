@@ -1,0 +1,18 @@
+{
+  "trial_type": "IPCase",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 9,
+    "day": 30
+  },
+  "case_number": "平成22(行ケ)10046",
+  "case_name": "審決取消請求事件",
+  "court_name": "知的財産高等裁判所",
+  "right_type": "特許権",
+  "lawsuit_type": "行政訴訟",
+  "lawsuit_id": "80715",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail7?id=80715",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/715/080715_hanrei.pdf",
+  "contents": "NA-F55Y6 Technical Guide 1991\nNo.347\nTechnical Guide\nYes Yes\nLED\nLED\nThe present invention relates to an automatic washing machine which\nautomatically carries out the steps of washing, rinsing and dehydrating ,\nand more particularly to an automatic washing machine which can indicate\nthe occurrence of abnormal operation in the steps of washing, rinsing and\ndraining.\nFIG.4 shows a block diagram of an electric circuit 25 which carries out\nthe controls 1 to 7 described above. The electrical circuit 25 comprises\nan LSI central processing unit 26, a drive circuit 30, , an\nindication circuit 38, a buzzer circuit 39,\nIf T T that is, water level in the tub 5 does not reach the\npredetermined full level , the abnormal indication by the indication mode X\nis made and the operation is stopped.\nT T\nX\n"
+}

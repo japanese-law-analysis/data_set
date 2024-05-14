@@ -1,0 +1,16 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 10,
+    "day": 14
+  },
+  "case_number": "平成20(行ウ)212",
+  "case_name": "損害賠償等請求事件（住民訴訟）",
+  "court_name": "大阪地方裁判所第７民事部",
+  "gist": "市の住民が，副市長らが労働組合との会合に参加するために公用車を使用したことは違法であるとして提起した住民訴訟において，当該会合が酒類の提供を伴うものであり，意見交換の内容や結果を記載した公文書が作成されていないなど判示の事実関係の下では，当該会合に公務関連性を認めることはできず，これに参加するために公用車を使用することは市に対する不法行為となるとした事例",
+  "lawsuit_id": "80833",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=80833",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/833/080833_hanrei.pdf"
+}

@@ -1,0 +1,16 @@
+{
+  "trial_type": "LaborCase",
+  "date": {
+    "era": "Heisei",
+    "year": 27,
+    "month": 10,
+    "day": 13
+  },
+  "case_number": "平成27(行コ)2",
+  "case_name": "会場使用許可処分義務付等，会場使用許可処分の義務付け等請求控訴事件",
+  "court_name": "大阪高等裁判所",
+  "field": "労働",
+  "lawsuit_id": "85731",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail6?id=85731",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/731/085731_hanrei.pdf"
+}

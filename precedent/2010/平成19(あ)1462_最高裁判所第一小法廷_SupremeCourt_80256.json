@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 5,
+    "day": 31
+  },
+  "case_number": "平成19(あ)1462",
+  "case_name": "証券取引法違反被告事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第300号191頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成18(う)1290",
+  "original_date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 7,
+    "day": 11
+  },
+  "gist": "虚偽記載半期報告書提出罪及び虚偽記載有価証券報告書提出罪について，当該会社と会計監査契約を締結していた監査法人に所属する公認会計士に会社代表取締役らとの各共同正犯の成立を認めた原判断が是認された事例",
+  "ref_law": "刑法60条，刑法65条1項，証券取引法（平成17年法律第87号による改正前のもの）24条1項，証券取引法（平成18年法律第65号による改正前のもの）24条の5第1項，証券取引法（平成18年法律第65号による改正前のもの）197条1項1号，証券取引法（平成17年法律第87号による改正前のもの）198条6号，証券取引法（平成18年法律第65号による改正前のもの）207条1項1号，証券取引法（平成18年法律第65号による改正前のもの）207条1項2号",
+  "lawsuit_id": "80256",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=80256",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/256/080256_hanrei.pdf",
+  "contents": ""
+}

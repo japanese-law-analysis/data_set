@@ -1,0 +1,17 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Heisei",
+    "year": 31,
+    "month": 2,
+    "day": 27
+  },
+  "case_number": "平成27(行ウ)288",
+  "case_name": "保険金等還付請求事件，ファックス送信費用等請求事件，保険金等還付金等請求事件",
+  "court_name": "大阪地方裁判所",
+  "gist": "健康保険の保険料，厚生年金保険の保険料及び児童手当の拠出金に係る過納金と民法７０３条及び７０４条前段の適用の有無",
+  "case_gist": "健康保険の保険料，厚生年金保険の保険料及び児童手当の拠出金に係る過納金については，民法７０３条及び７０４条前段の規定が適用される。",
+  "lawsuit_id": "89358",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=89358",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/358/089358_hanrei.pdf"
+}

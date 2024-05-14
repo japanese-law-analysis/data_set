@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 30,
+    "month": 5,
+    "day": 10
+  },
+  "case_number": "平成29(ネ)696",
+  "case_name": "査定に対する異議控訴事件",
+  "court_name": "名古屋高等裁判所",
+  "original_court_name": "名古屋地方裁判所",
+  "original_case_number": "平成28(ワ)3433",
+  "gist": "平成１８年法律第８３号による改正前の老人保健法（同改正後の題名・高齢者の医療の確保に関する法律）に基づいて保険医療機関である医療法人に対して診療報酬の支払をしていた市町村が，当該医療法人に対して有する①過誤請求・不正請求に係る診療報酬の返還請求権，②同法４２条３項に定める加算金の請求権は，いずれも私法上の金銭債権であり，その消滅時効期間については，地方自治法２３６条１項の適用はなく，民法１６７条１項により１０年である。",
+  "lawsuit_id": "87837",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=87837",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/837/087837_hanrei.pdf"
+}

@@ -1,0 +1,16 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 26,
+    "month": 12,
+    "day": 17
+  },
+  "case_number": "平成24(行ウ)222",
+  "case_name": "戒告処分取消等請求事件",
+  "court_name": "大阪地方裁判所第５民事部",
+  "gist": "大阪市交通局の職員に対して入れ墨の有無等に関する調査に回答することを義務付ける大阪市交通局長の職務命令は，社会的差別の原因となるおそれがあると認められる事項に関する個人情報の収集を禁止する大阪市個人情報保護条例６条２項に反して同情報を収集することを目的とするものであって違法であるから，上記職務命令に違反したことを理由とする上記職員に対する戒告処分も違法であるとして，上記戒告処分が取り消された事例",
+  "lawsuit_id": "84843",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=84843",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/843/084843_hanrei.pdf"
+}

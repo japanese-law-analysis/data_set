@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 11,
+    "day": 17
+  },
+  "case_number": "平成21(ワ)278",
+  "case_name": "損害賠償請求事件",
+  "court_name": "神戸地方裁判所姫路支部",
+  "gist": "１歳９か月（当時）の子がいわゆるこんにゃくゼリーを食べた際にこれをのどに詰まらせ死亡した事故につき，両親がこんにゃくゼリーの設計上の欠陥による製造物責任及び不法行為に基づく損害賠償を製造会社等に対し求めた事案について，こんにゃくゼリーは通常有すべき安全性を備えており製造物責任法上の欠陥はないとして，請求を棄却した事例",
+  "lawsuit_id": "80901",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=80901",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/901/080901_hanrei.pdf",
+  "contents": ""
+}

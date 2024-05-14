@@ -1,0 +1,15 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 30,
+    "month": 3,
+    "day": 23
+  },
+  "case_number": "平成28(ワ)11478",
+  "case_name": "損害賠償等請求事件",
+  "court_name": "大阪地方裁判所第24民事部",
+  "lawsuit_id": "87663",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=87663",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/663/087663_hanrei.pdf"
+}

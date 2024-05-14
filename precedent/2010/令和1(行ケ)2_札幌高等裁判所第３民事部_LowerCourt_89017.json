@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Reiwa",
+    "year": 1,
+    "month": 10,
+    "day": 24
+  },
+  "case_number": "令和1(行ケ)2",
+  "case_name": "選挙無効請求事件",
+  "court_name": "札幌高等裁判所第３民事部",
+  "result": "棄却",
+  "gist": "令和元年７月２１日に行われた参議院議員通常選挙（本件選挙）について，北海道選挙区の選挙人である原告が，公職選挙法が定める参議院（選挙区選出）の議員定数配分規定は，人口比例に基づいて定数配分しておらず，憲法に違反して無効であり，これに基づく本件選挙の北海道選挙区における選挙も無効であると主張したが，違憲状態であるが憲法違反とは認められないとして，原告の請求を棄却した。",
+  "lawsuit_id": "89017",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=89017",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/017/089017_hanrei.pdf"
+}
