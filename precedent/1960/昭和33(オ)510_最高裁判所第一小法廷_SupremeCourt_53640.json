@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 11,
+    "day": 8
+  },
+  "case_number": "昭和33(オ)510",
+  "case_name": "損害賠償並びに慰藉料請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第16巻11号2216頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 2,
+    "day": 10
+  },
+  "gist": "電気工作物に瑕疵があるとされた事例。",
+  "case_gist": "三五〇〇ボルト以下の高圧架空送電線のゴム被覆が破損していたため感電事故が生じた場合、行政上の取締規定からは右電線にゴム被覆を用いることが必要でなく、また、終戦後の国内物資の欠乏からその電力会社管下の破損したゴム被覆高圧送電線を全部完全なものに取り替えることは極めて困難な状況にあつても、事故現場の電線の修補することが絶対不可能でないかぎりは、右送電線を所有する電力会社は、右事故によつて生じた損害を賠償する責任がある。",
+  "ref_law": "民法717条",
+  "lawsuit_id": "53640",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53640",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/640/053640_hanrei.pdf"
+}

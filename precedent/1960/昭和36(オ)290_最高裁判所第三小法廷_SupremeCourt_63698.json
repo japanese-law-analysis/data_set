@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 2,
+    "day": 6
+  },
+  "case_number": "昭和36(オ)290",
+  "case_name": "違法処分取消請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第58号557頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 9,
+    "day": 12
+  },
+  "gist": "誤つて二重に農地買収計画が樹立された場合に後の計画が違法とされなかつた事例",
+  "case_gist": "誤つて二重に農地買収計画が樹立された場合、いずれか一方が違法であり無効であることは勿論であるが、後の計画が違法であるとは断定できない。",
+  "ref_law": "自作農創設特別措置法6条",
+  "lawsuit_id": "63698",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63698",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/698/063698_hanrei.pdf"
+}

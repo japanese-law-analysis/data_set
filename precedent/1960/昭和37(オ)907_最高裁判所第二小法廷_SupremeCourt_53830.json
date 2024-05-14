@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 3,
+    "day": 1
+  },
+  "case_number": "昭和37(オ)907",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第17巻2号290頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 5,
+    "day": 17
+  },
+  "gist": "移転料の提供により借家法第一条の二にいわゆる正当の事由を具備したと認め引換給付の判決をしても違法ではないとされた事例。",
+  "case_gist": "家屋賃貸人において借財返済のため賃貸家屋を高価に売却する必要があるが、他方賃借人が理髪業者であつて、他に適当な移転先がない等原判決認定のような事情がある場合において、賃貸人が移転料を支払うという申出と同時に解約の申入をし、かつ移転料と引換えに明渡を求める申立をしたときは、それをもつて正当事由を具備したと判断し、移転料と引換えに明渡を命ずる判決をしても違法ではない。",
+  "ref_law": "借家法1条の2",
+  "lawsuit_id": "53830",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53830",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/830/053830_hanrei.pdf"
+}

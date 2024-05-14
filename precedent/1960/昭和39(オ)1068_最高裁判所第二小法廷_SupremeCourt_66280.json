@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 10,
+    "day": 8
+  },
+  "case_number": "昭和39(オ)1068",
+  "case_name": "山林立木等所有権確認請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第80号677頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和35(ネ)964",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 5,
+    "day": 28
+  },
+  "gist": "山林売買の仲介人を代理人と認める慣習の有無",
+  "case_gist": "およそ山林売買取引における仲介人は、それが売主の依頼に基づくものであるかぎり、売主の代理人と認められる慣習があると主張するが、右慣習のあることを認めるべき資料は存しない。",
+  "ref_law": "民法92条",
+  "lawsuit_id": "66280",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66280",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/280/066280_hanrei.pdf"
+}

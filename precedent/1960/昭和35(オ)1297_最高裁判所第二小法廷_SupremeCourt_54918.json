@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 8,
+    "day": 23
+  },
+  "case_number": "昭和35(オ)1297",
+  "case_name": "小切手金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第17巻6号851頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 6,
+    "day": 30
+  },
+  "gist": "銀行振出の自己宛小切手の期限後譲渡と小切手法第二一条の有無。",
+  "case_gist": "呈示期間経過後譲渡された小切手については、銀行振出の自己宛のものであつても、小切手法第二一条の適用がない。",
+  "ref_law": "小切手法21条，小切手法24条",
+  "lawsuit_id": "54918",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54918",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/918/054918_hanrei.pdf"
+}

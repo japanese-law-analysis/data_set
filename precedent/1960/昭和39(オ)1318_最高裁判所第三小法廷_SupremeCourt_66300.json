@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 3,
+    "day": 29
+  },
+  "case_number": "昭和39(オ)1318",
+  "case_name": "執行文付与に対する異議事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第82号785頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和38(ネ)2500",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 8,
+    "day": 26
+  },
+  "gist": "賃借人のした延滞賃料の弁済提供・供託金額の不足が債務の本旨に従わないものでないとされた事例",
+  "case_gist": "賃料債務について履行遅滞にある賃借人が、賃貸人から賃貸借を解除される前に右延滞賃料額金一、六二〇円を弁済のため提供し、供託した場合において、右金額が正当な債務額より遅延損害金たる金一二円七〇銭ないし一四円が不足するとしても、右弁済提供および供託が、ただちに、債務の本旨に従わないものであるとはいえない。",
+  "ref_law": "民法493条，民法494条",
+  "lawsuit_id": "66300",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66300",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/300/066300_hanrei.pdf"
+}

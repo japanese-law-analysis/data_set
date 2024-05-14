@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 12,
+    "day": 24
+  },
+  "case_number": "昭和41(あ)392",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "刑集　第22巻13号1567頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 11,
+    "day": 26
+  },
+  "gist": "公職選挙法第一三八条第一項の戸別訪問罪と面接ないし投票等依頼の要否",
+  "case_gist": "公職選挙法第一三八条第一項の戸別訪問罪の成立要件としては、選挙に関し、投票を得もしくは得しめまたは得しめない目的をもつて、選挙人方を戸別に訪れ、面会を求める行為をすれば足り、必ずしもそれ以上に当該選挙人に面接するとか、さらには口頭で投票しまたは投票しないことを依頼するとかの行為に及ぶことを要しない。",
+  "ref_law": "公職選挙法138条1項，公職選挙法239条3号",
+  "lawsuit_id": "50811",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50811",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/811/050811_hanrei.pdf"
+}

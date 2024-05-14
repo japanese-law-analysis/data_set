@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 7,
+    "day": 13
+  },
+  "case_number": "昭和38(あ)1417",
+  "case_name": "義務上横領、商品取引所法違反",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "刑集　第20巻6号583頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 4,
+    "day": 15
+  },
+  "gist": "いわゆる委託証拠金充用証券は商品取引所法第九二条にいう「物」に含まれるか",
+  "case_gist": "商品仲買人が、商品市場における売買取引を受託するにあたり、委託者から担保として徴する委託証拠金の代用たる有価証券（いわゆる委託証拠金充用証券）は、商品取引所法第九二条にいう、商品仲買人が委託者から預託を受けて、又はその者の計算において占有する物には含まれないと解すべきである。",
+  "ref_law": "商品取引所法92条，商品取引所法97条，商品取引所法155条",
+  "lawsuit_id": "51756",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51756",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/756/051756_hanrei.pdf"
+}

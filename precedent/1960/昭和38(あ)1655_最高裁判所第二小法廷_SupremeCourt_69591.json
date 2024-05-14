@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 9,
+    "day": 18
+  },
+  "case_number": "昭和38(あ)1655",
+  "case_name": "道路交通法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第152号877頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 6,
+    "day": 13
+  },
+  "gist": "犯罪の構成要件はすべて法律そのもので定められなければならないか。",
+  "case_gist": "犯罪の構成要件は、すべて法律そのもので定められなければならないものではなく、法律の授権によつて、その一部を公安委員会規則によつて定めることもできることは、当裁判所の判例（昭和二七年（あ）第四五三三号同三三年七月九日大法廷判決、刑集一二巻一一号二四〇七頁・昭和三一年（あ）第四二八九号同三七年五月三〇日大法廷判決、裁判集一四二巻八四七頁）の趣旨とするところである。",
+  "ref_law": "憲法31条，憲法73条6号，道路交通法68条，道路交通法118条1項3号，警察法12条",
+  "lawsuit_id": "69591",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=69591",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/591/069591_hanrei.pdf"
+}

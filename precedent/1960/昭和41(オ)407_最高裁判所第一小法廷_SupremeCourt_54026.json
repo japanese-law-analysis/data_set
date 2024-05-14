@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 11,
+    "day": 10
+  },
+  "case_number": "昭和41(オ)407",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第20巻9号1756頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和40(ネ)280",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 12,
+    "day": 21
+  },
+  "gist": "所持人が白地手形の補充をした場合と手形法第一〇条の適用",
+  "case_gist": "手形法第一〇条の規定は、白地手形を取得した所持人が自ら補充に関する合意と異なる補充をした場合にも、適用される。",
+  "ref_law": "手形法10条",
+  "lawsuit_id": "54026",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54026",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/026/054026_hanrei.pdf"
+}

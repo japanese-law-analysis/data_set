@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 2,
+    "day": 24
+  },
+  "case_number": "昭和32(オ)1146",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第15巻2号304頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 8,
+    "day": 31
+  },
+  "gist": "一　借家法第七条に基づく賃料増減請求の効力。\n二　統制額を越える家賃増額請求と地代家賃統制令第三条。",
+  "case_gist": "一　借家法第七条に基づく賃料増減の請求は形成的効力を有し、請求者の一方的意思表示が相手方に到達した時に同条所定の理由が存するときは、賃料は以後相当額に増減せられたものと解すべきである。\n二　家賃統制額が月額一〇一六円である場合、月額一五〇〇円への家賃増額請求につき、右統制額を限度として増額の効果を認めることは、地代家賃統制令第三条の趣旨に違反するものではない。",
+  "ref_law": "借家法7条，地代家賃統制令3条",
+  "lawsuit_id": "54845",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54845",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/845/054845_hanrei.pdf"
+}

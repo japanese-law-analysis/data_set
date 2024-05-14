@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 3,
+    "day": 27
+  },
+  "case_number": "昭和40(行ツ)76",
+  "case_name": "再調査請求棄却決定処分等取消請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第94号663頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和38(ネ)75",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 6,
+    "day": 4
+  },
+  "gist": "旧所得税法（昭和二二年法律第二二号）による処分で再調査の決定および審査の決定を経たものにつき、再調査の決定を対象として提起した取消訴訟の適否",
+  "case_gist": "旧所得税法（昭和二二年法律第二二号）による処分で、同法所定の再調査の決定および審査の決定を経たものに対する取消訴訟は、その原処分または審査の決定を対象として提起すべく、中間的な再調査の決定を対象とする訴訟は許されないものと解すべきである。",
+  "ref_law": "旧所得税法（昭和22年法律第22号）51条，行政事件訴訟特例法1条",
+  "lawsuit_id": "70195",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70195",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/195/070195_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 12,
+    "day": 1
+  },
+  "case_number": "昭和33(あ)2268",
+  "case_name": "業務妨害、電車往来危険",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第15巻11号1807頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 6,
+    "day": 23
+  },
+  "gist": "刑法第一二五条第一項の電車往来危険の意義。",
+  "case_gist": "刑法第一二五条第一項の電車往来危険罪における危険とは、電車の顛覆、衝突等の事故発生の可能性ある状態をいう。",
+  "ref_law": "刑法125条1項",
+  "lawsuit_id": "55802",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55802",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/802/055802_hanrei.pdf"
+}

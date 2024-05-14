@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 5,
+    "day": 2
+  },
+  "case_number": "昭和40(オ)272",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集民　第87号407頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和31(ネ)1749",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 11,
+    "day": 26
+  },
+  "gist": "借家の所有権移転登記と借家法第一条",
+  "case_gist": "甲から乙へ家屋所有権が譲渡により移転したる後、甲から右家屋を賃借して引渡を受けた丙は、その後に右所有権移転登記を受けた乙に対し、右賃借権を以て対抗することができる。",
+  "ref_law": "民法177条，借家法1条",
+  "lawsuit_id": "70180",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70180",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/180/070180_hanrei.pdf"
+}

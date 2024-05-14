@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 5,
+    "day": 25
+  },
+  "case_number": "昭和36(オ)478",
+  "case_name": "請求異議",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第60号897頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 1,
+    "day": 21
+  },
+  "gist": "債権者による弁済充当指定の意思表示または債権者と債務者間の弁済充当の合意が黙示的になされたと解された事例",
+  "lawsuit_id": "77662",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77662",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/662/077662_hanrei.pdf"
+}

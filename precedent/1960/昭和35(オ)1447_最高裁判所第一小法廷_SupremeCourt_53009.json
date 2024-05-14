@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 5,
+    "day": 21
+  },
+  "case_number": "昭和35(オ)1447",
+  "case_name": "請求異議",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第18巻4号608頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 10,
+    "day": 8
+  },
+  "gist": "一　代表取締役職務代行者が招集した臨時社員総会における決議の効力\n二　職務執行停止仮処分の効力。",
+  "case_gist": "一　有限会社の代表取締役職務代行者が臨時社員総会を招集した場合でも、該総会における決議は、当然無効と解すべきではなく、商法第二四七条所定の決議取消の訴によつて取り消しうるにすぎないものと解すべきである。\n二　仮処分により代表取締役の職務の執行を停止された者が代表者としてなした行為は、無効であつて、後に仮処分が取り消されても、遡つて有効となるものではない。",
+  "ref_law": "商法270条，商法271条，商法247条，商法252条，有限会社法32条，有限会社法41条",
+  "lawsuit_id": "53009",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53009",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/009/053009_hanrei.pdf"
+}

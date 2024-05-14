@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 3,
+    "day": 15
+  },
+  "case_number": "昭和36(オ)848",
+  "case_name": "請求異議",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第59号331頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 5,
+    "day": 22
+  },
+  "gist": "訴訟当事者の死亡と判決の当事者の表示",
+  "case_gist": "訴訟当事者が死亡した場合、判決に承継人を当事者と表示することなく、そのまま死亡した当事者を表示したとしても違法とはいえない。",
+  "ref_law": "民訴法191条1項4号",
+  "lawsuit_id": "74367",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74367",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/367/074367_hanrei.pdf"
+}

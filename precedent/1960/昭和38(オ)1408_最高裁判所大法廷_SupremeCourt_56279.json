@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 11,
+    "day": 1
+  },
+  "case_number": "昭和38(オ)1408",
+  "case_name": "慰藉料請求",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第21巻9号2249頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和38(ネ)1010",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 9,
+    "day": 17
+  },
+  "gist": "不法行為による慰藉料請求権は相続の対象となるか",
+  "case_gist": "不法行為による慰藉料請求権は、被害者が生前に請求の意思を表明しなくても、相続の対象となる。",
+  "ref_law": "民法710条，民法711条",
+  "lawsuit_id": "56279",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56279",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/279/056279_hanrei.pdf"
+}

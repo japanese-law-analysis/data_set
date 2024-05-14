@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 2,
+    "day": 27
+  },
+  "case_number": "昭和37(オ)952",
+  "case_name": "境界確定、石塀撤去請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第72号305頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 5,
+    "day": 30
+  },
+  "gist": "生垣やトタン塀が旧来設置されていたからといつて、必ずしもその線が土地境界線であるとは認められないとされた事例。",
+  "case_gist": "（省略）",
+  "lawsuit_id": "63838",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63838",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/838/063838_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 10,
+    "day": 4
+  },
+  "case_number": "昭和37(オ)143",
+  "case_name": "寄託金返還請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第17巻9号1170頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 10,
+    "day": 30
+  },
+  "gist": "商法第二六六条ノ三における取締役の行為と第三者の損害との間に相当因果関係があるとされた事例。",
+  "case_gist": "会社が、その発行する新株式の申込証拠金にのみ充当する契約のもとに金員の委託を受けた場合において、その新株式の発行もせず、右会社の取締役副社長んたる甲の出席した役員会で該金員を同会社の経営費に流用する旨議決したうえ、甲においてこれを右議決どおり使用する等原判示のような事情（原判決理由参照）があるときは、甲の右行為と右金員委託者の損害との間には相当因果関係がある。",
+  "ref_law": "商法266条ノ3",
+  "lawsuit_id": "53091",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53091",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/091/053091_hanrei.pdf"
+}

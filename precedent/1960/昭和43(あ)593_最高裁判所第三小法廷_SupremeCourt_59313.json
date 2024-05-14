@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 7,
+    "day": 25
+  },
+  "case_number": "昭和43(あ)593",
+  "case_name": "公務執行妨害、傷害",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第172号313頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 2,
+    "day": 26
+  },
+  "gist": "監獄法に規定する懲罰と憲法三九条後段",
+  "case_gist": "監獄法に規定する懲罰を受けた後、更に同一事実に基づいて刑事訴追を受け、有罪判決の言渡を受けても、憲法三九条後段に違反しない。",
+  "ref_law": "監獄法59条，監獄法60条，憲法39条後段",
+  "lawsuit_id": "59313",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59313",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/313/059313_hanrei.pdf"
+}

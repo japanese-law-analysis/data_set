@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 11,
+    "day": 14
+  },
+  "case_number": "昭和43(あ)921",
+  "case_name": "道路交通法違反、業務上過失傷害",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第22巻12号1343頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 4,
+    "day": 8
+  },
+  "gist": "刑訴法第四〇二条に反しないとされた事例",
+  "case_gist": "第一審が被告人に対し禁錮一〇月の刑を言い渡したのを第二審が懲役八月に変更しても、第一審判決を被告人に不利益に変更したとはいえない。",
+  "ref_law": "刑訴法402条，刑法10条1項",
+  "lawsuit_id": "50921",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50921",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/921/050921_hanrei.pdf"
+}

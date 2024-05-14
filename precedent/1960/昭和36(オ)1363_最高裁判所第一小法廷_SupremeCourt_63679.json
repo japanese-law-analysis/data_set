@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 6,
+    "day": 21
+  },
+  "case_number": "昭和36(オ)1363",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第61号315頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 9,
+    "day": 16
+  },
+  "gist": "任意に弁済した利息制限法超過利息の元本充当の有無。",
+  "case_gist": "利息制限法を超過した利息を任意に支払つたときは、その超過部分の返還を請求できないものであつて、その際元本が残存するからといつて、これを元本の支払に充てたものとすることはできない。（昭和三五年（オ）第一〇二三号、同三七年六月一三日大法廷判決参照）",
+  "ref_law": "利息制限法1条，利息制限法2条",
+  "lawsuit_id": "63679",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63679",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/679/063679_hanrei.pdf"
+}

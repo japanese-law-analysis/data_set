@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 7,
+    "day": 9
+  },
+  "case_number": "昭和33(あ)2671",
+  "case_name": "強盗",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第17巻6号579頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 11,
+    "day": 27
+  },
+  "gist": "警察官による人物確認のためのひそかな写真撮影の対象とされた者と共に撮影された者において、そのフイルム装填の写真機を強取した行為が違法と認められた事例。",
+  "case_gist": "警察官が甲に対する収監の必要上、その人物確認の手段として、ひそかに、甲と思われる人物の写真を撮影するにあたり、これと同道していた乙および丙を分離して撮影することが困難であつたため、乙および丙をも同時に撮影したとしても、その撮影行為は違法でなく、被撮影者らにおいて、暴行をもつて右警察官の反抗を抑圧して、自己らの撮影されたフイルムの装填してある写真機を強取することは刑法上許された行為ではない。",
+  "ref_law": "刑法36条，刑法236条",
+  "lawsuit_id": "51631",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51631",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/631/051631_hanrei.pdf"
+}

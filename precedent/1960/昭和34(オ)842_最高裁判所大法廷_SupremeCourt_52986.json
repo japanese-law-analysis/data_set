@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 3,
+    "day": 10
+  },
+  "case_number": "昭和34(オ)842",
+  "case_name": "家屋収去土地明渡請求",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第19巻2号397頁",
+  "original_court_name": "広島高等裁判所",
+  "original_case_number": "昭和33(ネ)223",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 6,
+    "day": 3
+  },
+  "gist": "従前の土地の一部を賃借する者は土地区画整理法第八五条の定める権利申告の手続をしない場合に仮換地を使用収益しうるか。",
+  "case_gist": "従前の土地の一部を賃借する者は、土地区画整理法第八五条の定める権利申告の手続をして土地区画整理事業の施行者からかりに使用収益しうべき部分の指定を受けないかぎり、仮換地につき現実に使用収益をすることができない。",
+  "ref_law": "土地区画整理法85条，土地区画整理法98条",
+  "lawsuit_id": "52986",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52986",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/986/052986_hanrei.pdf"
+}

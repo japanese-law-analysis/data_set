@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 10,
+    "day": 4
+  },
+  "case_number": "昭和36(オ)1388",
+  "case_name": "商標権侵害禁止請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第17巻9号1155頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 9,
+    "day": 20
+  },
+  "gist": "類似商標の使用について商品が類似するかどうかの判断の基準。",
+  "case_gist": "類似商法を使用する商品（自転車）が商標の指定商品（タイヤー）と用途において密接な関連を有し同一の店舗で同一の需要者に販売されるのが通常であるからといつて、直ちにその商品が指定商品に類似するとはいえない。",
+  "ref_law": "旧商標法（大正10年法律99号）2条1項9号，旧商標法（大正10年法律99号）7条1項",
+  "lawsuit_id": "53049",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53049",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/049/053049_hanrei.pdf"
+}

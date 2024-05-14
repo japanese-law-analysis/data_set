@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 3,
+    "day": 25
+  },
+  "case_number": "昭和39(オ)240",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第78号415頁",
+  "original_court_name": "高松高等裁判所",
+  "original_case_number": "昭和37(ネ)154",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 12,
+    "day": 4
+  },
+  "gist": "訴訟代理人の口頭弁論期日の出頭の有無は口頭弁論の方式に関する事項か。",
+  "case_gist": "訴訟代理人が口頭弁論期日に出頭したかどうかは、口頭弁論の方式に関する事項であつて、民訴法第一四七条本文により調書によつてのみ証することができるものである。",
+  "ref_law": "民訴法147条",
+  "lawsuit_id": "63950",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63950",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/950/063950_hanrei.pdf"
+}

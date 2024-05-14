@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 11,
+    "day": 26
+  },
+  "case_number": "昭和40(オ)449",
+  "case_name": "工作物撤去等請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第93号479頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "昭和34(ネ)500",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 12,
+    "day": 7
+  },
+  "gist": "土地所有権に基づく同土地上の工作物の撤去を求めることが権利濫用と認められた事例",
+  "case_gist": "土地所有者が同土地上の配水管等の撤去を求めることによつて受ける利益は比較的僅少であるのに、右配水管等の設備が市民約七万人の利用のため巨額の資金、多数の日子を費して敷設掘鑿されたものであり、これを撤去して原状に回復して新たに替地を求めて同一設備を完成するためには多額の費用と日子を要する等判示事実関係のあるときには、右工作物の撤去を求めることは権利の濫用である。",
+  "ref_law": "民法1条",
+  "lawsuit_id": "70183",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70183",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/183/070183_hanrei.pdf"
+}

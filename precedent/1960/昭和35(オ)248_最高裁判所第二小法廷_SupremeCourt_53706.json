@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 4,
+    "day": 21
+  },
+  "case_number": "昭和35(オ)248",
+  "case_name": "宅地買収不服、所有権確認請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第15巻4号850頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 11,
+    "day": 30
+  },
+  "gist": "行政処分無効確認訴訟提起後に右処分が取り消された場合と訴の利益。",
+  "case_gist": "行政処分無効確認訴訟は国家賠償請求の目的で提起されたものであるからといつて、処分庁が右処分を取り消した後においても、なおその法律上の利益があるということはできない。",
+  "ref_law": "行政事件訴訟特例法1条，国家賠償法1条",
+  "lawsuit_id": "53706",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53706",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/706/053706_hanrei.pdf"
+}

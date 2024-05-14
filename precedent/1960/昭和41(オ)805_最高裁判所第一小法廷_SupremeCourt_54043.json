@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 7,
+    "day": 10
+  },
+  "case_number": "昭和41(オ)805",
+  "case_name": "責任役員等確認請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第23巻8号1423頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和36(ネ)793",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 4,
+    "day": 8
+  },
+  "gist": "一、宗教法人の代表役員および責任役員の地位にあることの確認を求める訴と確認の利益\n\n二、上告審における不服申立の範囲の拡張",
+  "case_gist": "一、宗教法人の代表役員および責任役員の地位にあることの確認を求める訴は、当該宗教法人を相手方としないかぎり、確認の利益がない。\n\n二、控訴判決に対して適法な上告があつた場合においては、当初不服申立の範囲を控訴判決の一部に限定したときでも、上告人は、上告理由書提出期間内においては、右不服申立の範囲を拡張することができる。",
+  "ref_law": "民訴法225条，民訴法398条1項，民訴法402条，民訴規則50条，宗教法人法18条",
+  "lawsuit_id": "54043",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54043",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/043/054043_hanrei.pdf"
+}

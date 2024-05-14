@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 10,
+    "day": 28
+  },
+  "case_number": "昭和40(オ)676",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第80号887頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_case_number": "昭和38(ネ)41",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 3,
+    "day": 31
+  },
+  "gist": "印鑑証明の過誤があつても、市は損害賠償責任が生じないとされた事例",
+  "case_gist": "（省略）",
+  "ref_law": "国家賠償法1条",
+  "lawsuit_id": "66467",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66467",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/467/066467_hanrei.pdf"
+}

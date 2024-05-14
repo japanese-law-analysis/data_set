@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 12,
+    "day": 22
+  },
+  "case_number": "昭和32(あ)2418",
+  "case_name": "賍物運搬",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第14巻14号2198頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 8,
+    "day": 31
+  },
+  "gist": "既遂後の窃盗犯人と共同して賍物を運搬した者の罪責。",
+  "case_gist": "既遂後の窃盗犯人と共同して賍物を運搬した者は、本犯が賍物罪に問われなくても、賍物運搬罪の責を免れない。",
+  "ref_law": "刑法256条2項，刑法60条",
+  "lawsuit_id": "51570",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51570",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/570/051570_hanrei.pdf"
+}

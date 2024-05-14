@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 10,
+    "day": 19
+  },
+  "case_number": "昭和29(あ)3655",
+  "case_name": "中型機船底曳網漁業取締規則違反",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第14巻12号1611頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 4,
+    "day": 6
+  },
+  "gist": "第三者の所有にかかる物件の没収と上告理由。",
+  "case_gist": "第三者の所有にかかる物件につき没収の言渡しがあつたからといつて、被告人においてこれを違憲無効であると主張抗争することは許されない。",
+  "ref_law": "中型機船底曳網漁業取締規則8条，中型機船底曳網漁業取締規則27条1項，中型機船底曳網漁業取締規則37条2項，中型機船底曳網漁業取締規則8条の規定に基く中型機船底曳網漁業の禁止区域（昭和22年農林省告示76号），憲法29条，憲法31条，憲法32条，刑訴法405条",
+  "lawsuit_id": "55759",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55759",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/759/055759_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 4,
+    "day": 9
+  },
+  "case_number": "昭和40(行ツ)22",
+  "case_name": "商標登録拒絶査定不服審判審決取消請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第90号923頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和39(行ケ)44",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 1,
+    "day": 26
+  },
+  "gist": "商標法第三条第一項第三号にいう商品の用途表示に該当しないと認められた商標の事例",
+  "case_gist": "片仮名で「ジム」と横書きされて成り「事務用機械器具」を指定商品とする商標は、右指定商品の用途を表示するものとは認めがたく、商標法第三条第一項第三号に該当しない。",
+  "ref_law": "商標法3条",
+  "lawsuit_id": "66499",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66499",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/499/066499_hanrei.pdf"
+}

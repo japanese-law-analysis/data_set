@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 7,
+    "day": 16
+  },
+  "case_number": "昭和40(行ツ)109",
+  "case_name": "公売処分取消並びに土地所有権移転登記抹消登記手続請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第91号729頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_case_number": "昭和39(行コ)1",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 9,
+    "day": 30
+  },
+  "gist": "滞納者の所有財産に対し右滞納者以外の者の滞納税金をも併せて徴収するために行なわれた滞納処分の適否",
+  "case_gist": "滞納者の所有財産に対する滞納処分が、その滞納者の滞納税金のみならず、誤つて他の者の滞納税金をも徴収するために行なわれた場合には、右処分の瑕疵は、他の滞納者の滞納税金に対するものとしてなされた部分についてのみ存し、その滞納処分全体を違法ならしめるものではない。",
+  "ref_law": "旧国税徴収法24条",
+  "lawsuit_id": "70193",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70193",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/193/070193_hanrei.pdf"
+}

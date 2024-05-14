@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 8,
+    "day": 27
+  },
+  "case_number": "昭和40(オ)903",
+  "case_name": "所有権移転登記手続請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第92号79頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和40(ネ)198",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 6,
+    "day": 15
+  },
+  "gist": "選定当事者の和解の権限",
+  "case_gist": "選定当事者は、選定者から特別の委任を受けないでも、訴訟上の和解をすることができ、その権限は、選定行為においてもこれを制限することができないものと解すべきである。",
+  "ref_law": "民訴法47条1項，民訴法81条2項",
+  "lawsuit_id": "66487",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66487",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/487/066487_hanrei.pdf"
+}

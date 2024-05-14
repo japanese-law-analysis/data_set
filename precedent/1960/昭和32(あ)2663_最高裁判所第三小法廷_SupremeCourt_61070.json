@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 10,
+    "day": 3
+  },
+  "case_number": "昭和32(あ)2663",
+  "case_name": "収賄",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第139号471頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 8,
+    "day": 9
+  },
+  "gist": "保安庁第一幕僚監部厚生課長が保安庁共済組合の実務主掌者として行う同組合の事務は刑法第七条にいう公務に属するか。",
+  "case_gist": "保安庁第一幕僚監部厚生課長が昭和二三年六月三〇日法律第六九号（旧）国家公務員共済組合法七条により同時に保安庁共済組合の実務主掌者として行う同組合の事務は刑法七条にいう公務に属するものと解すべきである。",
+  "ref_law": "刑法7条，刑法197条，（旧）国家公務員共済組合法（昭和23年6月30日法律第69号）7条，保安庁第一幕僚監部組織規程（昭和27年総理府令第45号）19条",
+  "lawsuit_id": "61070",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61070",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/070/061070_hanrei.pdf"
+}

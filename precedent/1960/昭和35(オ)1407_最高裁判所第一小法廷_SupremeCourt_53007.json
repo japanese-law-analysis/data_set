@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 12,
+    "day": 27
+  },
+  "case_number": "昭和35(オ)1407",
+  "case_name": "家屋明渡退去等請求並び解雇無効確認請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第15巻12号3152頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 9,
+    "day": 28
+  },
+  "gist": "一　共産党の同調者であることの自認と裁判上の自白\n二　石炭産業は、昭和二五年七月一八日付連合国最高司令官の内閣総理大臣あて書簡にいわゆる「その他の重要産業」に該当するか",
+  "case_gist": "一　共産党の同調者であることを自認したことは、民訴法第二五七条にいう事実を自白したものと解すべきである。\n二　石炭産業は、昭和二五年七月一八日付連合国最高司令官の内閣総理大臣あて書簡にいわゆる「その他の重要産業」に該当する。",
+  "ref_law": "民訴法257条，昭和25年7月18日付連合国最高司令官の内閣総理大臣あて書簡",
+  "lawsuit_id": "53007",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53007",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/007/053007_hanrei.pdf"
+}

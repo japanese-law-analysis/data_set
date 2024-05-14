@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 8,
+    "day": 24
+  },
+  "case_number": "昭和42(オ)430",
+  "case_name": "建物収去、土地明渡等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第88号257頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和38(ネ)190",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 1,
+    "day": 16
+  },
+  "gist": "賃貸借契約が賃料不払により解除された場合と建物買取請求権の成否",
+  "case_gist": "第三者が賃借土地上の建物を取得した場合でも、賃貸人が賃借権の譲渡を承諾しないうちに土地賃貸借契約が賃料不払により解除されたときは、第三者は建物買取請求権を有しない。",
+  "ref_law": "借地法10条",
+  "lawsuit_id": "70285",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70285",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/285/070285_hanrei.pdf"
+}

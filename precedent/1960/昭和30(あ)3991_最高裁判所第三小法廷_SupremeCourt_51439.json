@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 12,
+    "day": 13
+  },
+  "case_number": "昭和30(あ)3991",
+  "case_name": "贈賄",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第14巻13号1911頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 11,
+    "day": 8
+  },
+  "gist": "一　税務署の直税課資料係の大蔵事務官は、所得額または所得税額決定の基礎となる資料の調査蒐集の職務権限を有するか。\n二　刑法第一九八条の贈賄罪の成立には、贈賄者に収賄者の職務権限に対応する義務があることを必要とするか。",
+  "case_gist": "税務署の直税課資料係の大蔵事務官は、所得額や所得税額決定の起訴となる資料の調査蒐集の職務権限を有する。",
+  "ref_law": "刑法197条，刑法198条，大蔵省組織規程（昭和27年8月大蔵省令110号による改正前のもの）141条（現行142条）",
+  "lawsuit_id": "51439",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51439",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/439/051439_hanrei.pdf"
+}

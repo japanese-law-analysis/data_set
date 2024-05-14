@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 9,
+    "day": 29
+  },
+  "case_number": "昭和32(オ)435",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第15巻8号2228頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 2,
+    "day": 6
+  },
+  "gist": "一　裁判所に賃料の確定を請求し得べき場合。\n二　右請求に基く賃料確定の方法。",
+  "case_gist": "一　賃貸借の目的物たる家屋のうち一棟が譲渡され、借家法第一条第一項により賃借人と譲受人間に賃貸借がその効力を生じたに拘らず、当事者の合意等により賃料が確定しない場合には、当事者の請求により裁判所がこれを定め得るものと解するが相当である。\n二　右請求のあつた場合、裁判所は、原則として、賃貸借が効力を生じた当時における諸般の事情を標準として賃料を決定すべきであるが、賃貸借の効力発生後口頭弁論終結までの間に事情の変更があれば、右事情変更後の賃料は、当事者から賃料増減の請求があると否とに拘らず変更した事情を参酌して別異に定むべきである。",
+  "ref_law": "民法388条，借家法1条1項，借家法7条",
+  "lawsuit_id": "52893",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52893",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/893/052893_hanrei.pdf"
+}

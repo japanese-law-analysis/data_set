@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 3,
+    "day": 23
+  },
+  "case_number": "昭和34(オ)671",
+  "case_name": "所有権移転登記等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第59号485頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 5,
+    "day": 7
+  },
+  "gist": "登記官吏の過誤によつて抹消された処分禁止の仮処分登記の効力",
+  "case_gist": "登記官吏の過誤によつて抹消された処分禁止の仮処分登記は、右抹消後回復登記前の登記簿上の所有権取得者に対して効力を有する。",
+  "ref_law": "民訴法755条，民法177条，不動産登記法68条",
+  "lawsuit_id": "74309",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74309",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/309/074309_hanrei.pdf"
+}

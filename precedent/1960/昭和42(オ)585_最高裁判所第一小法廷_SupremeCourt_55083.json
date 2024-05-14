@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 6,
+    "day": 13
+  },
+  "case_number": "昭和42(オ)585",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第22巻6号1183頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和40(ネ)2772",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 2,
+    "day": 27
+  },
+  "gist": "建物の附合を否定した判断に違法があるとされた事例",
+  "case_gist": "建物新築部分の従前の建物への附合の成否については、当該新築部分の構造、利用方法を考察し、右部分が従前の建物に接して築造され、構造上建物としての独立性を欠き、従前の建物と一体となつて利用され取引されるべき状態にあるときは、右部分は従前の建物に附合したものと解すべきであつて、新築部分が従前の建物とその基礎、柱、屋根などの部分において構造的に接合していないことから、ただちに附合の成立を否定することは許されない。",
+  "ref_law": "民法242条",
+  "lawsuit_id": "55083",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55083",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/083/055083_hanrei.pdf"
+}

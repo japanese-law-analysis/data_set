@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 6,
+    "day": 15
+  },
+  "case_number": "昭和42(オ)235",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第87号1041頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和41(ネ)222",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 12,
+    "day": 7
+  },
+  "gist": "裁判上の和解の条項にもとづいて成立すべき契約の履行を求める訴において、その裁判上の解に関与した裁判官は民訴法第三五条第六号にいう前審の裁判に関与したものに当るか",
+  "case_gist": "裁判上の和解の条項にもとづいて成立すべき契約の履行を求める訴において、その裁判上の和解に関与した裁判官は民訴法第三五条第六号にいう前審の裁判に関与したものに当らない。",
+  "ref_law": "民訴法35条6号",
+  "lawsuit_id": "70273",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70273",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/273/070273_hanrei.pdf"
+}

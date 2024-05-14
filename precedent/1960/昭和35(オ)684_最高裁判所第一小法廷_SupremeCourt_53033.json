@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 8,
+    "day": 31
+  },
+  "case_number": "昭和35(オ)684",
+  "case_name": "実用新案出願拒絶査定に対する抗告審決取消請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第15巻7号2040頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 4,
+    "day": 7
+  },
+  "gist": "実用新案登録出願人の名義変更届出と出訴期間の遵守。",
+  "case_gist": "実用新案登録の共同出願人の一人が登録出願拒絶査定に対する抗告審決の取消請求訴訟を提起した後において、他の者の登録を受ける権利の持分全部を譲り受けて単独の権利人となつた場合においても、出訴期間内にその旨の名義変更の届出をしなければ、右訴は、不適法であつて却下を免かれない。",
+  "ref_law": "行政事件訴訟特例法5条，旧実用新案法（大正10年法律97号）26条，旧特許法（大正10年法律96号）12条3項",
+  "lawsuit_id": "53033",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53033",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/033/053033_hanrei.pdf"
+}

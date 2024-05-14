@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 2,
+    "day": 22
+  },
+  "case_number": "昭和42(オ)718",
+  "case_name": "境界確定請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第22巻2号270頁",
+  "original_court_name": "東京地方裁判所",
+  "original_case_number": "昭和37(し)127",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 9,
+    "day": 30
+  },
+  "gist": "一、上告裁判所である高等裁判所の意見が前に上告裁判所である大審院の法令の解釈についてした判決に反するとして事件が最高裁判所に移送された事例\n二、境界確定の訴と取得時効",
+  "case_gist": "一、（省略）\n二、取得時効の成否は、境界確定の訴における境界確定とは関係がない。",
+  "ref_law": "民訴法406条ノ2，民訴規則58条2号，民法162条，民法223条，民訴法225条",
+  "lawsuit_id": "54092",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54092",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/092/054092_hanrei.pdf"
+}

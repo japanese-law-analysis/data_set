@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 3,
+    "day": 9
+  },
+  "case_number": "昭和35(あ)2075",
+  "case_name": "恐喝、恐喝未遂",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第15巻3号500頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 7,
+    "day": 21
+  },
+  "gist": "国外にいる証人の検察官に対する供述録取書を証拠として採用することと憲法第三七条第二項。",
+  "case_gist": "証人が外国旅行中であつて、これに対する反対尋問の機会を被告人に与えることができない場合であつても、その証人の検察官に対する供述録取書を証拠として採用することは憲法第三七条第二項に違反しない。",
+  "ref_law": "憲法37条2項，刑訴法321条1項2号",
+  "lawsuit_id": "51706",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51706",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/706/051706_hanrei.pdf"
+}

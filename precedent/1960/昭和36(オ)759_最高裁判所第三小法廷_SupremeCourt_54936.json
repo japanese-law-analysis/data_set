@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 9,
+    "day": 17
+  },
+  "case_number": "昭和36(オ)759",
+  "case_name": "賃借権確認請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第17巻8号955頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 4,
+    "day": 19
+  },
+  "gist": "民法第六〇二条の期間をこえる土地賃貸借の抵当権者及び競落人に対する効力。",
+  "case_gist": "民法第六〇二条所定の期間をこえる土地賃貸借は、その登記が抵当権設定登記後になされたものである以上、同条所定期間内においても、抵当権者及び競落人に対抗できない。",
+  "ref_law": "民法395条，民法602条",
+  "lawsuit_id": "54936",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54936",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/936/054936_hanrei.pdf"
+}

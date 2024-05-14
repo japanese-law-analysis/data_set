@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 4,
+    "day": 16
+  },
+  "case_number": "昭和38(オ)1341",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第73号103頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 8,
+    "day": 21
+  },
+  "gist": "国税滞納処分に基づく差押登記後になされた当該差押目的物たる不動産を目的とする賃貸借契約による賃借権の対抗力。",
+  "case_gist": "国税滞納処分に基づく差押登記後になされた、当該差押目的物たる不動産を目的とする賃貸借契約による賃借権は、公売処分の結果その不動産を買い受けた者に対抗できない。",
+  "ref_law": "国税徴収法68条",
+  "lawsuit_id": "63872",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63872",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/872/063872_hanrei.pdf"
+}

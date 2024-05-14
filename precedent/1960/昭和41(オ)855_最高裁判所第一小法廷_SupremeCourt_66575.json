@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 1,
+    "day": 26
+  },
+  "case_number": "昭和41(オ)855",
+  "case_name": "建物所有権移転登記手続請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第86号155頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和40(ネ)2250",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 4,
+    "day": 22
+  },
+  "gist": "弁論主義違反がないとされた事例",
+  "case_gist": "売主甲の代理人乙と買主丙との間に売買契約が成立したとの主張に対し、甲の代理人丁が乙の仲介により丙との間に当該売買契約を成立させた事実を認定した点に弁論主義違反の違法はない。",
+  "ref_law": "民訴法186条",
+  "lawsuit_id": "66575",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66575",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/575/066575_hanrei.pdf"
+}

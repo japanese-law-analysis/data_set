@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 9,
+    "day": 26
+  },
+  "case_number": "昭和38(オ)147",
+  "case_name": "自動車譲渡代金請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第21巻7号1870頁",
+  "original_court_name": "広島高等裁判所",
+  "original_case_number": "昭和37(ネ)21",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 11,
+    "day": 13
+  },
+  "gist": "一　定款に記載のない財産引受と追認の許否\n二　定款に記載のない財産引受と発起人等の権利義務",
+  "case_gist": "一　定款に記載のない財産引受は、成立後の会社が追認しても、有効とならない。\n二　発起人または発起人組合は、特約の存する場合、民法第一一七条の類推適用により履行の責に任ずべき場合等の特別の事情の認められないかぎり、定款に記載のない財産引受に基づいて、財産引受により会社に帰属すべきものとされた契約上の権利を取得し、またその契約上の義務を負担するものではない。",
+  "ref_law": "商法168条1項6号",
+  "lawsuit_id": "54946",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54946",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/946/054946_hanrei.pdf"
+}

@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 6,
+    "day": 14
+  },
+  "case_number": "昭和37(オ)305",
+  "case_name": "所得税更正処分取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第66号517頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 12,
+    "day": 25
+  },
+  "gist": "請求書中に「再調査」の文言がある等の事情のもとで税務署長に対する再調査請求をしたのではなく国税局長に対し直接審査請求をしたものと認めて審査請求を切下した処分が違法でないとされた事例。",
+  "case_gist": "（省略）",
+  "lawsuit_id": "66094",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66094",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/094/066094_hanrei.pdf"
+}

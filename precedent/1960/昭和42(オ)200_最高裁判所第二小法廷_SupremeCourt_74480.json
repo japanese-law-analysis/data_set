@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 12,
+    "day": 22
+  },
+  "case_number": "昭和42(オ)200",
+  "case_name": "認知請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第89号583頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和40(ネ)47",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 11,
+    "day": 25
+  },
+  "gist": "内縁の夫との間に出生した子の推定と民法第七七二条の準用",
+  "case_gist": "内縁の妻が、内縁関係成立の日から二〇〇日後、解消の日から三〇〇日以内に分娩した子は、民法七七二条の趣旨を類推し、内縁の夫の子と推定すべきである。（最高裁判所昭和二九年一月二一日第一小法廷判決参照）",
+  "ref_law": "民法772条",
+  "lawsuit_id": "74480",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74480",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/480/074480_hanrei.pdf"
+}

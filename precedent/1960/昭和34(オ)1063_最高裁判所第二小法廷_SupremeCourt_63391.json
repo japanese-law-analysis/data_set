@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 10,
+    "day": 5
+  },
+  "case_number": "昭和34(オ)1063",
+  "case_name": "不動産売買契約無効確認等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第62号693頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 7,
+    "day": 13
+  },
+  "gist": "不動産を二重に譲り受け登記を経由した者に悪意もしくは過失がある場合と第一の譲受人の所有権。",
+  "case_gist": "不動産が二重に譲渡され、第二の譲受人が先に登記を経由した場合には、その者の悪意もしくは過失の有無にかかわらず、第一の譲受人は、所有権を対抗することはできない。",
+  "ref_law": "民法177条",
+  "lawsuit_id": "63391",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63391",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/391/063391_hanrei.pdf"
+}

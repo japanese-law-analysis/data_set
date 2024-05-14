@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 3,
+    "day": 30
+  },
+  "case_number": "昭和24(あ)2427",
+  "case_name": "公正証書原本不実記載、同行使、土地家屋調査士法違反等",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第15巻3号605頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 11,
+    "day": 25
+  },
+  "gist": "一　土地台帳と刑法第一五七条第一項にいわゆる権利義務に関する公正証書。\n二　土地家屋調査士法第一二条にいわゆる虚偽の測量にあたるものとされた事例。",
+  "case_gist": "一　土地台帳は、刑法第一五七条第一項にいわゆる権利義務に関する公正証書にあたる。\n二　土地の分筆申告書に添附するため、県庁から借り受けた図面を縮小変形して架空の地積とした測量図を作成することは、土地家屋調査士法第一二条にいわゆる虚偽の測量にあたる。",
+  "ref_law": "刑法第157条1項，土地台帳法1条，土地台帳法5条，土地台帳法10条，土地台帳法26条，土地台帳法施行細則12条2項，土地家屋調査士法12条，土地家屋調査士法22条",
+  "lawsuit_id": "51674",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51674",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/674/051674_hanrei.pdf"
+}

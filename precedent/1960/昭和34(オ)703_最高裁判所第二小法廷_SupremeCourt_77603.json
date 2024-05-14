@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 4,
+    "day": 20
+  },
+  "case_number": "昭和34(オ)703",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第60号307頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 4,
+    "day": 20
+  },
+  "gist": "一日金一万円の違約金のとり決めが無効ではないとされた事例",
+  "case_gist": "家屋を売却し、その明渡を約した者が、約定した期日までに明渡義務の履行ができないときは遅延日数一日につき損害金として金一万円を支払う旨約した場合も、買主において右家屋を自己の営業拡張に充てるため早急の明渡を欲したこと等原判決認定の右契約締結に至る事情（原判決の引用する第一審判決理由参照）からみれば、他に特段の事情の認められないかぎり、右損害賠償額の予約をもつて直ちに公序良俗に反する無効のものということはできない。",
+  "ref_law": "民法90条，民法420条",
+  "lawsuit_id": "77603",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77603",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/603/077603_hanrei.pdf"
+}

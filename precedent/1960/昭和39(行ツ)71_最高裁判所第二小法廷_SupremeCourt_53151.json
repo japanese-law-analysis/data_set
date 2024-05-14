@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 12,
+    "day": 18
+  },
+  "case_number": "昭和39(行ツ)71",
+  "case_name": "当選無効請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第18巻10号2193頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 5,
+    "day": 22
+  },
+  "gist": "一　候補者の旧名に合致するとともに他の候補者の氏名にも近似する記載のある投票の効力。\n二　前項の投票に対する公職選挙法第六八条の二の規定の適用の有無。",
+  "case_gist": "一　「Ｄ正夫」と記載された投票は、それを候補者Ｄ吉左衛門の旧名正夫を記載したものとも、候補者Ｄ正雄の名を誤記したものとも認めることのできる場合には、無効と解すべきである。\n二　前項の投票に対しては、公職選挙法第六八条の二の規定は適用されない。",
+  "ref_law": "公職選挙法68条，公職選挙法68条の2",
+  "lawsuit_id": "53151",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53151",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/151/053151_hanrei.pdf"
+}

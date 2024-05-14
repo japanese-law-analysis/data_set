@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 7,
+    "day": 20
+  },
+  "case_number": "昭和35(あ)112",
+  "case_name": "昭和二五年東京都条例第四四号集会、集団行進及び集団示威運動に関する条例違反",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "刑集　第14巻9号1243頁",
+  "original_court_name": "東京地方裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 8,
+    "day": 8
+  },
+  "gist": "昭和二五年東京都条例第四四号集会、集団行進及び集団示威運動に関する条例の合憲性。",
+  "case_gist": "昭和二五年東京都条例第四四号集会、集団行進及び集団示威運動に関する条例は憲法第二一条に違反しない。",
+  "ref_law": "昭和25年東京都条例44号集会、集団行進及び集団示威運動に関する条例，憲法21条",
+  "lawsuit_id": "51694",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51694",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/694/051694_hanrei.pdf"
+}

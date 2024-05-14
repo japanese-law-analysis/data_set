@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 12,
+    "day": 6
+  },
+  "case_number": "昭和41(オ)299",
+  "case_name": "商品取引清算金請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第85号565頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_case_number": "昭和40(ネ)48",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 12,
+    "day": 24
+  },
+  "gist": "限月一一月の先物取引として約定されたことの解釈",
+  "case_gist": "商品商場における売買取引の委託契約について、限月一一月の先物取引として約定されたことが認定判示されている以上、その当月である一一月末日限り売買差金および約定手数料の清算をして決済すべき約定であつたことが明確に認定判断されているものと解される。",
+  "ref_law": "商品取引所法第9章",
+  "lawsuit_id": "66537",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66537",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/537/066537_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 3,
+    "day": 28
+  },
+  "case_number": "昭和33(オ)416",
+  "case_name": "建物所有権移転登記請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第17巻2号397頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 2,
+    "day": 14
+  },
+  "gist": "一　登記簿上第三者の所有名義になつている建物の譲渡人の取得登記前譲渡人の債権者がなした右第三者より譲渡人への代位による所有権移転登記ならびに譲渡人に対する仮差押の登記は有効か\n二　右仮差押の登記後譲渡人の所有権取得登記がなされた場合の効力",
+  "case_gist": "一　甲が登記簿上乙の所有名義になつている甲所有の建物を丙に譲渡した後、丙の所有権取得登記前に、甲の債権者丁が右建物についてなした乙より甲への代位による所有権移転登記ならびに甲を債務者とする仮差押の登記は、いずれも有効である。\n二　右仮差押の登記後丙の所有権取得登記がなされても、丙は建物所有権取得をもつて丁に対抗することができない。",
+  "ref_law": "民法177条，民法423条，民訴法737条，民訴法751条1項，不動産登記法46条ノ2",
+  "lawsuit_id": "53635",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53635",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/635/053635_hanrei.pdf"
+}

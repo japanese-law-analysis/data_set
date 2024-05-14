@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 4,
+    "day": 12
+  },
+  "case_number": "昭和37(あ)3074",
+  "case_name": "窃盗、業務上過失傷害、道路交通法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第147号39頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 12,
+    "day": 6
+  },
+  "gist": "少年法第二〇条による送致決定と除斥の原因。",
+  "case_gist": "少年法第二〇条による検察官送致の決定をした裁判官が後にその刑事事件の審判に関与しても裁判官除斥の原因とならない（当裁判所昭和二七年（あ）第五四七四号同二九年二月二六日第二小法廷決定、刑集八巻二号一九八頁参照）。",
+  "ref_law": "少年法20条，刑訴法20条6号，刑訴法20条7号",
+  "lawsuit_id": "61369",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61369",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/369/061369_hanrei.pdf"
+}

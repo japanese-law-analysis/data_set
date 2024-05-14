@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 8,
+    "day": 4
+  },
+  "case_number": "昭和37(あ)2678",
+  "case_name": "外国人登録法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集刑　第152号423頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 9,
+    "day": 12
+  },
+  "gist": "刑訴法第四一一条第一号にあたるとされた事例。",
+  "case_gist": "記録によれば、第一審において、被告人に対する起訴罪名甲乙丙の各罪の事実につき有罪を認め、甲乙の罪につき懲役刑を丙の罪につき罰金刑を言渡したところ、検察官から右甲乙の各罪に関する部分を限つて控訴の申立がなされ、被告人からは右判決に対して控訴の申立がなされないまま、その申立期間を経過したことが認められるにもかかわらず、第二審において、右第一審判決にかかる事件の全部について審判し、右丙罪についても、第一審判決を破棄したうえ、被告人を罰金刑に処する旨の判決をしている。右によれば第二審は被告人に対する丙罪について、係属していない事件の審判をした違法があり、この違法は判決に影響があるから刑訴法第四一一条第一号により破棄を免れない。",
+  "ref_law": "刑訴法411条1号，刑訴法357条",
+  "lawsuit_id": "69581",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=69581",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/581/069581_hanrei.pdf"
+}

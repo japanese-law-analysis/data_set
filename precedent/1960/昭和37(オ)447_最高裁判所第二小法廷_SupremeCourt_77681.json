@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 2,
+    "day": 19
+  },
+  "case_number": "昭和37(オ)447",
+  "case_name": "否認権行使による金員返還請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第77号449頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和33(ネ)1004",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 1,
+    "day": 24
+  },
+  "gist": "書証の採否に理由不備の違法があるとされた事例。",
+  "case_gist": "証言のみにより、成立に争のない書証（借金の内払を記載した振替伝票）を無視した事実認定は、理由不備の違法がある。",
+  "ref_law": "民訴法395条6号",
+  "lawsuit_id": "77681",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77681",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/681/077681_hanrei.pdf"
+}

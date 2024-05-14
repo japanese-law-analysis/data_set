@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 6,
+    "day": 22
+  },
+  "case_number": "昭和31(オ)782",
+  "case_name": "枕木所有権確認請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第16巻7号1374頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 5,
+    "day": 10
+  },
+  "gist": "伐木所有権を対抗できない事例。",
+  "case_gist": "立木法の適用を受けない立木の買受人が明認方法を施さないうちに、伐採等により右立木が伐木となつた場合、右買受人は、右伐木に自己を表示するための刻印を施したとしても、立木当時既に公示方法の欠缺を主張する正当な利益を有していた第三者に対しては、右伐木所有権を対抗できないものと解すべきである。",
+  "ref_law": "民法177条，民法178条",
+  "lawsuit_id": "52868",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52868",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/868/052868_hanrei.pdf"
+}

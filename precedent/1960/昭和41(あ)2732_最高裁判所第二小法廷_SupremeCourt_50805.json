@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 8,
+    "day": 28
+  },
+  "case_number": "昭和41(あ)2732",
+  "case_name": "有印私文書偽造、同行使、有印公文書偽造、同行使、詐欺、背任、公正証書原本不実記載、同行使、業務上横領",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第21巻7号863頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 10,
+    "day": 31
+  },
+  "gist": "公正証書原本不実記載罪とその行使罪と詐欺罪との関係",
+  "case_gist": "甲から金員を騙取するため、乙名義の偽造の委任状等を登録官吏に提出し、乙の不動産の登記簿の原本に抵当権が設定された旨の不実の記載をさせて、これを行使するとともに、甲にその登録済権利証を示して、抵当権設定登録を経由した旨誤信させ、同人から借用金名下に金員を騙取したときは、公正証書原本不実記載罪とその行使罪と詐欺罪との牽連犯となる。",
+  "ref_law": "刑法45条，刑法54条1項，刑法157条1項，刑法158条1項，刑法246条1項",
+  "lawsuit_id": "50805",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50805",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/805/050805_hanrei.pdf"
+}

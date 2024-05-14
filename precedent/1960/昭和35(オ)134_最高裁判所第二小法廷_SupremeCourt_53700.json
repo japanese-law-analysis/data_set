@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 1,
+    "day": 25
+  },
+  "case_number": "昭和35(オ)134",
+  "case_name": "占有回収請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第17巻1号41頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 11,
+    "day": 9
+  },
+  "gist": "強制執行によつて物の占有を解かれた者と占有回収の訴の許否。",
+  "case_gist": "強制執行によつて物の占有を解かれた場合には、右執行行為が著しく違法性を帯び、外観上も私人の私力行使と同視しできるようなときを除いて、占有回収の訴によつてその物の返還を請求することは許されない。",
+  "ref_law": "民法200条",
+  "lawsuit_id": "53700",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53700",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/700/053700_hanrei.pdf"
+}

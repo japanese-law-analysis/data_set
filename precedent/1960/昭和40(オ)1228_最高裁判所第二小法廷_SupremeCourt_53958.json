@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 11,
+    "day": 25
+  },
+  "case_number": "昭和40(オ)1228",
+  "case_name": "鮮魚代金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第20巻9号1946頁",
+  "original_court_name": "札幌高等裁判所\n        　函館支部",
+  "original_case_number": "昭和39(ネ)67",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 5,
+    "day": 27
+  },
+  "gist": "組合契約の無効と組合員のした組合名義による物件売渡契約の効力",
+  "case_gist": "組合員が組合名義で第三者に対し物件の売渡契約を締結した場合には、当該組合契約が無効であつても、右組合員は右第三者に対し代金債権を有する。",
+  "ref_law": "民法667条，民法668条",
+  "lawsuit_id": "53958",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53958",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/958/053958_hanrei.pdf"
+}

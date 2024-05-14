@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 9,
+    "day": 22
+  },
+  "case_number": "昭和34(オ)1180",
+  "case_name": "行政処分取消請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第14巻11号2282頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 9,
+    "day": 22
+  },
+  "gist": "出訴期間の遵守の有無と職権調査。",
+  "case_gist": "出訴期間遵守の有無は職権調査事項である。",
+  "ref_law": "行政事件訴訟特例法5条，自作農創設特別措置47条の2",
+  "lawsuit_id": "52955",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52955",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/955/052955_hanrei.pdf"
+}

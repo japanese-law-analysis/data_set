@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 7,
+    "day": 21
+  },
+  "case_number": "昭和40(オ)11",
+  "case_name": "損害賠償請求事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第20巻6号1235頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "昭和36(ネ)383",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 9,
+    "day": 28
+  },
+  "gist": "民法第七一五条第一項の被用者にあたると認められた事例",
+  "case_gist": "土木工事請負人が道路工事に使用するため運転手助手づきの貨物自動車を借り受けた場合において、その助手が、請負人の現場監督の指揮に従い、貨物自動車の運転助手として砂利、土、石等の運搬に関与し、時には自ら貨物自動車を運転もし、これらの仕事については助手の雇主の指図をうけたことがなく、かつ請負人の飯場に起居していた等判示の事情があるときには、民法第七一五条の適用上、助手は土木工事請負人の被用者にあたると解するのが相当である。",
+  "ref_law": "民法715条1項",
+  "lawsuit_id": "53957",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53957",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/957/053957_hanrei.pdf"
+}

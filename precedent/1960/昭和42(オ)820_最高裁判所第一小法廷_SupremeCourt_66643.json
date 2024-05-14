@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 1,
+    "day": 25
+  },
+  "case_number": "昭和42(オ)820",
+  "case_name": "保証金返還請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第90号121頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和39(ネ)1097",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 4,
+    "day": 27
+  },
+  "gist": "修繕は賃借人がする旨の契約条項が賃貸人が修繕義務を負わないとの趣旨にすぎないとされた事例",
+  "case_gist": "原判決判示のごとき事実関係のもとにおいては、「入居後の大小修繕は賃借人がする」旨の住居用家屋についての契約条項は、単に賃貸人が民法第六〇六条第一項所定の修繕義務を負わないとの趣旨にすぎず、賃借人が右家屋の使用中に生じる一切の汚損、破損個所を自己の費用で修繕し、右家屋を賃借当初と同一状態で維持すべき義務を負うとの趣旨ではないと解するのが相当である。",
+  "ref_law": "民法606条",
+  "lawsuit_id": "66643",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66643",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/643/066643_hanrei.pdf"
+}

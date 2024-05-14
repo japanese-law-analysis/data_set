@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 4,
+    "day": 15
+  },
+  "case_number": "昭和39(オ)723",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第83号201頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和37(ネ)1238",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 3,
+    "day": 6
+  },
+  "gist": "自動車の修理等を目的とする会社の自動車修理見習工が事業用の自動車を私用のため運転中に起した事故と会社の賠償責任",
+  "case_gist": "自動車の修理等を目的とする会社の自動車修理見習工が会社の事業に使用する自動車を私用のため運転した場合、その運転中に起こした事故により与えた損害については、特別の事情のないかぎり、自動車損害賠償保障法第三条により、会社に賠償責任がある。",
+  "ref_law": "自動車損害賠償保障法3条",
+  "lawsuit_id": "77751",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77751",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/751/077751_hanrei.pdf"
+}

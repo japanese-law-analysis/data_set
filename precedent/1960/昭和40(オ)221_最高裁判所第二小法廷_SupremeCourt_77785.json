@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 5,
+    "day": 6
+  },
+  "case_number": "昭和40(オ)221",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第83号477頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和37(ネ)2831",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 11,
+    "day": 25
+  },
+  "gist": "一　七四歳までの労働可能年令期を認めた事例\n二　慰謝料額における過失相殺の割合と物質的損害額のそれとは同一であることを要するか",
+  "case_gist": "一　死者の労働可能年令期は、死者の年令（死亡時六〇歳）、職業（クリーニング業）、健康状態（きわめて健康）その他諸般の事情を考慮して認定すべきであつて、労働可能年令期を七四歳と認定・判断しても違法とはいえない。\n二　慰謝料額の算出のときにしんしやくすべき被害者の過失の割合と物質的損害の賠償額のそれとは同一の割合であることを要するものではない。",
+  "ref_law": "民法709条，民法722条",
+  "lawsuit_id": "77785",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77785",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/785/077785_hanrei.pdf"
+}

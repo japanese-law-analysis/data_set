@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 11,
+    "day": 24
+  },
+  "case_number": "昭和38(オ)912",
+  "case_name": "契約金請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第85号269頁",
+  "original_court_name": "広島高等裁判所\n        　松江支部",
+  "original_case_number": "昭和37(ネ)28",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 5,
+    "day": 31
+  },
+  "gist": "約束手形の交付により既存債務を消滅させる合意の成立を認めることが経験則に違反するとされた事例",
+  "case_gist": "既存債務のため手形を交付する場合、右手形の交付は弁済の方法としてなされたものと推認すべく、現実の弁済を得た事実の認められない以上は、特段の事情のない限り、既存の債務を終了せしめる効果を伴うものではない。原審の確定した事実関係（判決理由参照）の下では、原判決認定の合意（本件手形の交付により、上告人に対する被上告人の本件約定債務を終了させる旨の合意）の成立を認めるに足る特段の事情があるとは解せられない。",
+  "ref_law": "民法493条，民法482条，民法513条",
+  "lawsuit_id": "66264",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66264",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/264/066264_hanrei.pdf"
+}

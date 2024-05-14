@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 11,
+    "day": 21
+  },
+  "case_number": "昭和35(あ)1096",
+  "case_name": "営利誘拐",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第16巻11号1570頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 4,
+    "day": 4
+  },
+  "gist": "営利誘拐罪における営利の目的の意義。",
+  "case_gist": "営利誘拐罪における営利の目的とは、誘拐行為によつて財産上の利益を得ることを動機とする場合をいうものであり、その利益は、必ずしも被誘拐者自身の負担によつて得られるものに限らず、誘拐行為に対して第三者から報酬として受ける財産上の利益をも包含する。",
+  "ref_law": "刑法225条",
+  "lawsuit_id": "56986",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56986",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/986/056986_hanrei.pdf"
+}

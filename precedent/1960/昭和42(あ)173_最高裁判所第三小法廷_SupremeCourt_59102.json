@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 6,
+    "day": 27
+  },
+  "case_number": "昭和42(あ)173",
+  "case_name": "業務上過失傷害",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第163号725頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 12,
+    "day": 21
+  },
+  "lawsuit_id": "59102",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59102",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/102/059102_hanrei.pdf"
+}

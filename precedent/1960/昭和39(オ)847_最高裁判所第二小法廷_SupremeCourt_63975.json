@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 3,
+    "day": 5
+  },
+  "case_number": "昭和39(オ)847",
+  "case_name": "離婚無効確認等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第78号67頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和38(ネ)247",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 4,
+    "day": 15
+  },
+  "gist": "協議離婚無効確認と右無効による重婚を理由とする婚姻の取消とが併せて訴求され認容された事例。",
+  "lawsuit_id": "63975",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63975",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/975/063975_hanrei.pdf"
+}

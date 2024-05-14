@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 2,
+    "day": 24
+  },
+  "case_number": "昭和39(行ツ)75",
+  "case_name": "贈与税再調査決定取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第86号385頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和37(ネ)2711",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 6,
+    "day": 11
+  },
+  "gist": "贈与税課税権の消滅時効の起算日",
+  "case_gist": "贈与税課税権の消滅時効の起算日は、贈与によつて財産を取得した年の翌年の三月一日であると解するのが相当である。",
+  "ref_law": "旧相続税法（昭和30年法律39号による改正前のもの）35条の2，旧会計法（昭和31年法律113号による改正前のもの）31条",
+  "lawsuit_id": "66393",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66393",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/393/066393_hanrei.pdf"
+}

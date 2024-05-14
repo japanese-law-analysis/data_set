@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 2,
+    "day": 11
+  },
+  "case_number": "昭和34(あ)1399",
+  "case_name": "強姦致傷、器物損壊",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第132号201頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 7,
+    "day": 7
+  },
+  "gist": "強姦（未遂）行為と致傷との間に因果関係ありとした事例。",
+  "case_gist": "一　原判決がその認定した事実関係の下において、本件強姦行為と致傷との間に因果関係あるものと判断したのは正当と認める。\n二　（註。原判決の要旨）甲女は被告人から強姦されかかつたので、その難を避けるため、窮余気転を利かし、その際に被告人の手を逃れ、更に八畳の間を経て、二階屋根に出て、同所より二米七〇糎位下の地上に飛下り救を求めた。そのため同女は右地上降下の衝撃により治療一ケ月を要する腰椎打撲の障害を負うたものである。所論のように、たとえ同女が誤つて屋根から落ちたとしても、被告人の本件強姦（未遂）の所為と同女の右受傷との間には因果関係の存すること論をまたない。",
+  "ref_law": "刑法181条",
+  "lawsuit_id": "61165",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61165",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/165/061165_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 11,
+    "day": 29
+  },
+  "case_number": "昭和34(オ)613",
+  "case_name": "農地交換分合計画無効確認請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第14巻13号2882頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 4,
+    "day": 6
+  },
+  "gist": "相関連する農地交換分合計画のうち一部について無効確認を求める訴の当否。",
+  "case_gist": "相関連する農地交換分合計画のうち自己に利害関係のある部分のみについて無効確認を求める訴はゆるされる。",
+  "ref_law": "行政事件訴訟特例法1条，土地改良法97条",
+  "lawsuit_id": "52979",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52979",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/979/052979_hanrei.pdf"
+}

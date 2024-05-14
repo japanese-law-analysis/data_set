@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 9,
+    "day": 8
+  },
+  "case_number": "昭和39(オ)189",
+  "case_name": "養子縁組無効確認請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第18巻7号1423頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 10,
+    "day": 18
+  },
+  "gist": "養子縁組の追認と民法第一一六条但書の類推適用の有無。",
+  "case_gist": "養子縁組の追認には、民法第一一六条但書の規定は類推適用されないものと解するのが相当である。",
+  "ref_law": "民法116条，民法797条，旧民法843条",
+  "lawsuit_id": "53906",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53906",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/906/053906_hanrei.pdf"
+}

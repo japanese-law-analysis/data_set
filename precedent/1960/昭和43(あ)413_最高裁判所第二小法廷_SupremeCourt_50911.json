@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 7,
+    "day": 11
+  },
+  "case_number": "昭和43(あ)413",
+  "case_name": "傷害、銃砲刀剣類等所持取締法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第23巻8号1052頁",
+  "original_court_name": "広島高等裁判所\n        　松江支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 1,
+    "day": 29
+  },
+  "gist": "故障したけん銃につきその修理が合法的にできるか否かにかかわらず銃砲刀類等所持取締法（昭和四〇年法律第四七号による改正前のもの）二条一項にいう「銃砲」にあたるとされた事例",
+  "case_gist": "故障したけん銃であつても、通常の修理により弾丸発射機能を回復させることが技術的に可能である場合には、その修理が合法的にできるか否かにかかわらず、銃砲刀剣類等所持取締法（昭和四〇年法律第四七号による改正前のもの）二条一項にいう「銃砲」にあたる。",
+  "ref_law": "銃砲刀剣類等所持取締法（昭和40年法律47号による改正前のもの）2条1項",
+  "lawsuit_id": "50911",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50911",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/911/050911_hanrei.pdf"
+}

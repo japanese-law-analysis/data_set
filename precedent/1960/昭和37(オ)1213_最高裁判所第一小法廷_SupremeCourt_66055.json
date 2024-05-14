@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 3,
+    "day": 14
+  },
+  "case_number": "昭和37(オ)1213",
+  "case_name": "貸金請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第65号145頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 7,
+    "day": 9
+  },
+  "gist": "書証の排斥につき審理不尽、理由不備の違法があるとの少数意見が付せられた事例。",
+  "case_gist": "（少数意見）「金額百万円振出人東京中央区Ｅ株式会社代表取締役Ｄなる小切手の支払に関し、一切の責任をＢ１、Ｂ２連名の上保証申上げます。Ｂ１（印）Ｂ２（印）」なる証書を差し入れた事実を認め、その書証としての成立を認めた以上は、特段の事情のない限り、右記載に反する認定判断をすべきでないのに、原判決は右特段の事情の存在について審理不尽、理由不備の違法があるとすべきである。",
+  "ref_law": "民訴法394条，民訴法395条1項6号",
+  "lawsuit_id": "66055",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66055",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/055/066055_hanrei.pdf"
+}

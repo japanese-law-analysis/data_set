@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 12,
+    "day": 23
+  },
+  "case_number": "昭和34(あ)1492",
+  "case_name": "酒税法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第136号763頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 6,
+    "day": 30
+  },
+  "gist": "判決において罰金等臨時措置法第二条第一項の適用を示すことの要否。",
+  "case_gist": "罰金等臨時措置法第二条第一項は、刑法第一五条と同様、罰金刑の最低額を規定しているに過ぎない刑法総則的な規定であるから、判決において特に該法条を挙示する必要はない。",
+  "ref_law": "罰金等臨時措置法2条1項，刑訴法335条1項",
+  "lawsuit_id": "61169",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61169",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/169/061169_hanrei.pdf"
+}

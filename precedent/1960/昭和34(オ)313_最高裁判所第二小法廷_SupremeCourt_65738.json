@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 6,
+    "day": 16
+  },
+  "case_number": "昭和34(オ)313",
+  "case_name": "建物収去土地明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第52号221頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 12,
+    "day": 24
+  },
+  "lawsuit_id": "65738",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=65738",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/738/065738_hanrei.pdf"
+}

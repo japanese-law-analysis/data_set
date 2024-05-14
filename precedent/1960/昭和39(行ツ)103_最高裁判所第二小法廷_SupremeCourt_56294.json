@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 5,
+    "day": 21
+  },
+  "case_number": "昭和39(行ツ)103",
+  "case_name": "町長選挙無効訴訟",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第19巻4号879頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和38(ナ)24",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 9,
+    "day": 21
+  },
+  "gist": "選挙運動費用法定額を過少に告示して執行した選挙が無効とされた事例。",
+  "case_gist": "公職選挙法第一九四条および同法施行令第一二七条による選挙運動費用額が一八四、〇〇〇円であるべきところ、これを八四、〇〇〇円と告示して執行した町長選挙は、無効と解するのが相当である。",
+  "ref_law": "公職選挙法194条，公職選挙法196条，公職選挙法205条，公職選挙法施行令127条",
+  "lawsuit_id": "56294",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56294",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/294/056294_hanrei.pdf"
+}

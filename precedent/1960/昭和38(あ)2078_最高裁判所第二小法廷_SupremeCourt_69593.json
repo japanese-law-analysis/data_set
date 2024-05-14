@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 8,
+    "day": 28
+  },
+  "case_number": "昭和38(あ)2078",
+  "case_name": "賍物寄蔵、傷害、銃砲刀剣類等所持取締令違反、火薬類取締法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第152号679頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 6,
+    "day": 25
+  },
+  "gist": "控訴審において主張判断のない訴訟手続に関する主張であるとして適法な上告理由にあたらないとされた事例。",
+  "case_gist": "所論は、原判決は、令状なくして違憲違法の押収手続により押収された物件を証拠として、その支持する第一審判決判示事実を有罪と認定しているから、原判決は憲法第三五条に違反する旨主張するが、かかる論旨は、原審で主張も判断もなかつた訴訟手続に関する主張であるから適法な上告理由に当らない（昭和三五年（あ）第一七二一号、同三六年七月一九日大法廷決定、刑集一五巻七号一一九四頁参照）。",
+  "ref_law": "刑訴法405条，刑訴法218条，刑訴法219条，憲法35条",
+  "lawsuit_id": "69593",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=69593",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/593/069593_hanrei.pdf"
+}

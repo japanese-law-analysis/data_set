@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 11,
+    "day": 15
+  },
+  "case_number": "昭和42(オ)524",
+  "case_name": "所有権移転登記等抹消登記手続等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第93号233頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和41(ネ)278",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 1,
+    "day": 27
+  },
+  "gist": "民法第九四条第二項の適用または類推適用がないとされた事例",
+  "case_gist": "部落民全員が、その総有に属する土地について、入会権者として登記の必要に迫られ、単に登記の便宜から、右部落民の一部の者のために売買による所有権移転登記を経由した場合には、民法第九四条第二項の適用または類推適用がない。",
+  "ref_law": "民法94条2項，民法263条",
+  "lawsuit_id": "70292",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70292",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/292/070292_hanrei.pdf"
+}

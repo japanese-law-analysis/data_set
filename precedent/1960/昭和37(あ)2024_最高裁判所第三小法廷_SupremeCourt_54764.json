@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 10,
+    "day": 13
+  },
+  "case_number": "昭和37(あ)2024",
+  "case_name": "競売入札妨害",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第18巻8号507頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 7,
+    "day": 24
+  },
+  "gist": "一　刑法第九六条ノ三第二項のいわゆる談合罪の主体。\n二　談合罪の成立には競買等の希望者全員の参加が必要か。",
+  "case_gist": "一　刑法第九六条ノ三第二項のいわゆる談合罪の主体は、競買等の希望者に限られるものではなく、自らはその希望をもたないものであつても、自己と特別な関係にある競買等の希望者があつて、これに影響を及ぼすことのできる地位にあるものであれば足りる。\n二　刑法第九六条ノ三第二項の罪が成立するためには、競買等の希望者全員が談合に参加することは必要でないものと解するが相当である（昭和三〇年（あ）第二七一八号同三二年一二月一三日第二小法廷判決、刑集一一巻一三号三二〇七頁参照）。",
+  "ref_law": "刑法96条ノ3，刑法96条ノ3第2項",
+  "lawsuit_id": "54764",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54764",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/764/054764_hanrei.pdf"
+}

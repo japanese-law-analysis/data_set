@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 8,
+    "day": 17
+  },
+  "case_number": "昭和35(あ)242",
+  "case_name": "強姦致死、殺人",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第15巻7号1244頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 12,
+    "day": 28
+  },
+  "gist": "強姦の目的で暴行を加え婦女を死亡させた後の姦淫行為。",
+  "case_gist": "婦女を強姦する目的で暴行を加えその婦女を死亡させ、その直後姦淫したときは、姦淫行為が婦女の死亡後であるとしてもこれを包括して強姦致死罪と解すべきである。",
+  "ref_law": "刑法181条",
+  "lawsuit_id": "50641",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50641",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/641/050641_hanrei.pdf"
+}

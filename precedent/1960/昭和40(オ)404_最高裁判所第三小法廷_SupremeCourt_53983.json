@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 4,
+    "day": 23
+  },
+  "case_number": "昭和40(オ)404",
+  "case_name": "農地金納小作料による損害賠償請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第22巻4号1008頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和39(ネ)762",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 1,
+    "day": 28
+  },
+  "gist": "農地調整法第九条の二、同法施行令第一二条に基づく昭和二一年農林省告示第一四号は憲法第二九条に違反するか",
+  "case_gist": "農地調整法第九条の二および同法施行令第一二条に基づく昭和二一年農林省告示第一四号は、憲法第二九条に違反しない。",
+  "ref_law": "憲法29条，農地調整法9条ノ2，農地調整法施行令12条，昭和21年農林省告示14号",
+  "lawsuit_id": "53983",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53983",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/983/053983_hanrei.pdf"
+}

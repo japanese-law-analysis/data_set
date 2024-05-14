@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 2,
+    "day": 2
+  },
+  "case_number": "昭和35(オ)119",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第58号501頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 11,
+    "day": 17
+  },
+  "gist": "証人尋問中の当事者本人に対する退任命令の有無と口頭弁論調書の証明力",
+  "case_gist": "口頭弁論の方式に関する事項は、調書の記載のみによつて証明できるから、証人尋問中、当事者本人の退廷を命じたことの違法をいう所論は、右調書にその旨の記載がない以上採用できない。",
+  "ref_law": "民訴法147条，民訴法298条",
+  "lawsuit_id": "63530",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63530",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/530/063530_hanrei.pdf"
+}

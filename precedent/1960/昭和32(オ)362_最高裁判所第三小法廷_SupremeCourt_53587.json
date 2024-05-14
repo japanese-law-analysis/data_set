@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 4,
+    "day": 26
+  },
+  "case_number": "昭和32(オ)362",
+  "case_name": "詐害行為取消請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第14巻6号1046頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 1,
+    "day": 26
+  },
+  "gist": "一　債権者取消権における詐害の意思\n二　抵当権の設定が詐害行為となる場合に、抵当権の目的たる不動産が競売されたときは、債務者に回復すべきものは何か\n三　受益者に利益が残存しない場合における同人の義務",
+  "case_gist": "一　詐害行為の成立には、債務者がその債権者を害することを知つて法律行為をしたことを要するが、必ずしも害することを意図し、もしくは欲してこれをしたことを要しないと解すべきである。\n二　抵当権の設定が詐害行為として取り消される場合において、抵当権の目的たる不動産がすでに競売されたときは、受益者である抵当権者は、優先弁済金を債務者に返還すべきである。\n三　前項の場合に、受益者がうけるべき優先弁済金債権を他人に無償で譲渡した結果、利得が残存しなくなつたとしても、右受益者は、優先弁済金の返還に代わる損害を賠償する義務を免れない。",
+  "ref_law": "民法424条",
+  "lawsuit_id": "53587",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53587",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/587/053587_hanrei.pdf"
+}

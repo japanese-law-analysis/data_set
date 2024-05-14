@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 6,
+    "day": 5
+  },
+  "case_number": "昭和39(オ)79",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第74号29頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 9,
+    "day": 30
+  },
+  "gist": "民法第七一五条の「事業ノ執行ニ付キ」に当るとされた事例。",
+  "case_gist": "雇主宅に住み込みの店員が営業時間終了後、雇主所有の単車を運転して映画を見ようとして出かけた帰り途に発生せしめた事故であって、単車の鍵の私用は禁じられていたという事情があっても、右店員は運転免許を有して雇主所有の単車を運転して食肉の運搬等に従事していた者であり、随時単車の鍵を持ち出せる状態にあった等原判示の事実関係のもとでは、右運転は雇主の事業の執行に付きなされたものと認められる。",
+  "ref_law": "民法715条",
+  "lawsuit_id": "66362",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66362",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/362/066362_hanrei.pdf"
+}

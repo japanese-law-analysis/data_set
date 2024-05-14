@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 7,
+    "day": 6
+  },
+  "case_number": "昭和38(オ)1455",
+  "case_name": "所得税更正決定取消請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第79号683頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和35(ネ)737",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 10,
+    "day": 3
+  },
+  "gist": "国税局作成の所得標準率を適用した推計事業所得金額の妥当性の推定",
+  "case_gist": "国税局作成に係る商工庶業所得標準率表に掲げた当該年度の所得標準率を適用し、かつ右標準率作成につき考慮外に置かれた特別経費を控除して推計された事業所得金額は、右所得標準率の当該事業に対する適用が具体的に妥当しない事実の証明のないかぎり、一応右事業所得金額とするに足りる真実近似性を保有するものと推定するのを妨げない。",
+  "ref_law": "所得税法（昭和29年52号による改正前のもの）46条",
+  "lawsuit_id": "74407",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74407",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/407/074407_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 12,
+    "day": 25
+  },
+  "case_number": "昭和37(オ)1355",
+  "case_name": "抵当権設定登記手続等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第18巻10号2260頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 9,
+    "day": 25
+  },
+  "gist": "被担保債権の一部弁済とその抵当権設定登記。",
+  "case_gist": "抵当権設定登記をする前に被担保債権の一部が弁済されても、債権者はその債権全額について右登録手続を請求することができる。",
+  "ref_law": "民法369条1項，不動産登記法117条",
+  "lawsuit_id": "53090",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53090",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/090/053090_hanrei.pdf"
+}

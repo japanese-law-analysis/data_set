@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 12,
+    "day": 9
+  },
+  "case_number": "昭和39(オ)1240",
+  "case_name": "所有権取得登記並びに仮登記の各抹消登記手続請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第81号345頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和38(ネ)2470",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 7,
+    "day": 16
+  },
+  "gist": "債権者代位と債務者の資力",
+  "case_gist": "金銭債権を有する者が、その債権を保全するため債務者の第三者に対して有する権利を代位行使できるのは、債務者の資力がその債務を弁済するについて十分でない場合にかぎられると解するのが相当である（昭和三九年（オ）第七四〇号同四〇年一〇月一二日第三小法廷判決参照）。",
+  "ref_law": "民法423条",
+  "lawsuit_id": "66293",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66293",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/293/066293_hanrei.pdf"
+}

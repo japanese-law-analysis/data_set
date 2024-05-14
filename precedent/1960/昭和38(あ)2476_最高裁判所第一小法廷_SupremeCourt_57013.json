@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 4,
+    "day": 9
+  },
+  "case_number": "昭和38(あ)2476",
+  "case_name": "脅迫、銃砲刀剣類等所持取締法違反、公務執行妨害",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第18巻4号127頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 9,
+    "day": 27
+  },
+  "gist": "被疑者の逮捕引致後における留置場所変更の適否。",
+  "case_gist": "逮捕状の執行によつて引致された被疑者を留置の必要ある場合に、他の警察署の代用監獄に押送拘置することは違法な措置ではない。",
+  "ref_law": "刑訴法200条，刑訴法209条，刑訴法75条，監獄法1条3項",
+  "lawsuit_id": "57013",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57013",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/013/057013_hanrei.pdf"
+}

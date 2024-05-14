@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 4,
+    "day": 13
+  },
+  "case_number": "昭和38(オ)453",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第78号607頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "昭和36(ネ)414",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 1,
+    "day": 22
+  },
+  "gist": "支払確保のために振り出された約束手形上の権利の時効消滅と利得償還請求権の成否。",
+  "case_gist": "約束手形上の権利が時効によつて消滅した場合において、それが支払確保のために振り出された手形であるかぎり、右時効消滅以前に原因債権の消滅時効が完成していても、受取人から振出人に対する利得償還請求権は発生しない。",
+  "lawsuit_id": "63897",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63897",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/897/063897_hanrei.pdf"
+}

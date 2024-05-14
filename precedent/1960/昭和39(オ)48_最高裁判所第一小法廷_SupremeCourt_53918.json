@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 7,
+    "day": 28
+  },
+  "case_number": "昭和39(オ)48",
+  "case_name": "株式引渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第20巻6号1251頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和37(ネ)2393",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 10,
+    "day": 21
+  },
+  "gist": "過失により株式譲受人の名義書換請求に応じない株式会社は当該株式の譲渡を否認することができるか。",
+  "case_gist": "株式譲受人から株式会社に対し株式名義の書換の請求をした場合において、会社の過失により書換が行なわれなかつたときは、会社は、株式名義の書換のないことを理由として、株式の譲渡を否認することができない。",
+  "ref_law": "商法206条",
+  "lawsuit_id": "53918",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53918",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/918/053918_hanrei.pdf"
+}

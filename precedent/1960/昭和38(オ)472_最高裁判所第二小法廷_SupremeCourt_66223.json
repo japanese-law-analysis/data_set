@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 10,
+    "day": 23
+  },
+  "case_number": "昭和38(オ)472",
+  "case_name": "審決取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第75号995頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 1,
+    "day": 31
+  },
+  "gist": "図形と文字の結合した商標につきその一方を要部と認めてその部分をもつて類否を判定することの当否。",
+  "case_gist": "文字と図形を結合した商標でも、その結合の態様によつてその一方が見る者の注意を引きやすい部分であれば、それを要部と認めて、その部分をもつて類否を判定することを失当とはいえない。",
+  "ref_law": "旧商標法（大正10年法律99号）2条",
+  "lawsuit_id": "66223",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66223",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/223/066223_hanrei.pdf"
+}

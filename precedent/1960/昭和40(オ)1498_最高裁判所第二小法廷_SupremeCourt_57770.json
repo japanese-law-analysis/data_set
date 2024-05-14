@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 5,
+    "day": 27
+  },
+  "case_number": "昭和40(オ)1498",
+  "case_name": "所有権移転登記抹消登記手続請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第20巻5号1004頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和39(ネ)713",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 10,
+    "day": 13
+  },
+  "gist": "抵当不動産の売却と詐害行為の成否",
+  "case_gist": "債務者が、被担保債権額以下の実価を有する抵当不動産を相当な価格で売却し、その代金を当該債務の弁済に充てて抵当権の消滅をはかる場合には、右不動産売却行為は、民法第四二四条所定の債権者を害する行為にはあたらない。",
+  "ref_law": "民法424条",
+  "lawsuit_id": "57770",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57770",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/770/057770_hanrei.pdf"
+}

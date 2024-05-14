@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 2,
+    "day": 16
+  },
+  "case_number": "昭和36(オ)113",
+  "case_name": "家屋明渡等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第58号721頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 11,
+    "day": 29
+  },
+  "gist": "調停申立書によつて解約申入があつたと認められた事例",
+  "case_gist": "調停申立書の文意と証言により、当該申立書により解約申入がなされたと認定できる。",
+  "ref_law": "借家法1条の2",
+  "lawsuit_id": "63657",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63657",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/657/063657_hanrei.pdf"
+}

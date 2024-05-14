@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 6,
+    "day": 3
+  },
+  "case_number": "昭和40(あ)155",
+  "case_name": "業務上横領、有価証券偽造、同行使、詐欺",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第19巻4号431頁",
+  "original_court_name": "福岡高等裁判所\n        　宮崎支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 12,
+    "day": 8
+  },
+  "gist": "有価証券の偽造に当るとされた事例。",
+  "case_gist": "Ａ株式会社の社員ではあるが、同会社を代表または代理して同会社名義の約束手形を振出す権限のない甲野太郎が、約束手形の振出人欄に、「鹿児島市ａ町ｂ　Ａ株式会社鹿児島出張所」および「甲野太郎」ときざんだゴム印をそれぞれ押し、かつ甲野太郎の名下に「甲野」ときざんだ丸印を押した約束手形を作成する行為は、有価証券の偽造に当る。",
+  "ref_law": "刑法162条1項",
+  "lawsuit_id": "51769",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51769",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/769/051769_hanrei.pdf"
+}

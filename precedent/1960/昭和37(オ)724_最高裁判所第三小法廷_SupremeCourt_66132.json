@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 6,
+    "day": 30
+  },
+  "case_number": "昭和37(オ)724",
+  "case_name": "土地所有権移転登記手続等請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第74号345頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 3,
+    "day": 20
+  },
+  "gist": "未成年者の負担する債務がその法定代理人の責に帰すべき事由により履行不能となった場合と未成年者の責任。",
+  "case_gist": "未成年者の負担する債務がその法定代理人の責に帰すべき事由により履行不能となったときは、当該債務がその法定代理人の行為によって生じたかどうかを問わず、その未成年者はその履行不能について責を負うものと解するのが相当である。",
+  "ref_law": "民法415条",
+  "lawsuit_id": "66132",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66132",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/132/066132_hanrei.pdf"
+}

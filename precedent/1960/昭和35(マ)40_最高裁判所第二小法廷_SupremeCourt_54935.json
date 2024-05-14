@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 12,
+    "day": 9
+  },
+  "case_number": "昭和35(マ)40",
+  "case_name": "建物収去土地明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "その他",
+  "article_info": "民集　第14巻14号3268頁",
+  "original_court_name": "名古屋地方裁判所",
+  "original_case_number": "昭和29(ワ)266",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 12,
+    "day": 20
+  },
+  "gist": "一審で確定した判決の更正の申立と民訴法第一九四条第一項の「裁判所」",
+  "case_gist": "一審において確定した判決の更正の申立に関しては、その判決原本と記録とが、関連事件が上告審に係属したため上告裁判所にあつたとしても、右上告裁判所は民訴法第一九四条第一項にいう「裁判所」にあたらない。",
+  "ref_law": "民訴法194条1項",
+  "lawsuit_id": "54935",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54935",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/935/054935_hanrei.pdf"
+}

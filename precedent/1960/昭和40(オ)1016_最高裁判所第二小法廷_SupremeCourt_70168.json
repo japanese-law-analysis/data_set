@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 6,
+    "day": 30
+  },
+  "case_number": "昭和40(オ)1016",
+  "case_name": "所有権移転登記抹消登記手続等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集民　第87号1441頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和36(ネ)2906",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 5,
+    "day": 31
+  },
+  "gist": "民法第一七七条の登記の欠缺を主張する正当な利益を有する第三者に当らないとされた事例",
+  "case_gist": "甲が乙との間で自己所有の建物につき代物弁済の予約を締結し、乙が右予約に基づく完結権を行使したが、その所有権移転登記前に右完結の意思表示を撤回し、しかる後関係書類を利用して、右建物を自己名義に所有権移転登記を経由した場合には、乙から右建物を買受けてその旨の所有権移転登記を受けた丙および丙からこれを賃借した丁らは甲に対し右建物につき登記の欠缺を主張する正当な利益を有する第三者あたらない。",
+  "ref_law": "民法177条",
+  "lawsuit_id": "70168",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70168",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/168/070168_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 5,
+    "day": 4
+  },
+  "case_number": "昭和32(オ)355",
+  "case_name": "立木所有権確認等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第15巻5号1253頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 1,
+    "day": 23
+  },
+  "gist": "明認方法は対抗力の存続の要件か。",
+  "case_gist": "物件変動の対抗要件としての明認方法は、第三者が利害関係を取得した当時にも存在するものでなければ、これをもつて当該第三者に対抗することはできない。",
+  "ref_law": "民法177条",
+  "lawsuit_id": "57679",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57679",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/679/057679_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 9,
+    "day": 25
+  },
+  "case_number": "昭和41(あ)1257",
+  "case_name": "収賄、加重収賄、有印虚偽公文書作成、同行使",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "刑集　第22巻9号871頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 3,
+    "day": 10
+  },
+  "gist": "没収に代えて追徴すべき賄賂の価額の算定基準時",
+  "case_gist": "授受された賄賂が没収不能となりその価額を追徴すべき場合には、授受後においてその物の価額の増減があつたとしても、その物の授受当時の価額を追徴額とすべきである。",
+  "ref_law": "刑法197条ノ5，刑法19条ノ2",
+  "lawsuit_id": "50783",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50783",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/783/050783_hanrei.pdf"
+}

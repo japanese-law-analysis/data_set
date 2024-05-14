@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 12,
+    "day": 16
+  },
+  "case_number": "昭和41(オ)798",
+  "case_name": "建物明渡、手附金返還並びに損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第85号685頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和39(ネ)135",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 4,
+    "day": 19
+  },
+  "gist": "一　賃貸人の承諾をえた賃借権の譲渡による旧賃借人が賃貸借関係から離脱した旨の判断については、当事者の主張を要するか\n二　所有者兼賃貸人からする賃借人に対する損害賠償の請求について同人の占有関係を確定しないでこれを排斥することが適法とされた事例",
+  "case_gist": "一　賃貸人の承諾をえた賃借権の譲渡による旧賃借人が賃貸借関係から離脱した旨の判断については、当事者の主張を要しない。けだし、これは、適法な賃借権の譲渡の事実から生ずる法律上の効果にすぎないからである。\n二　所有者兼賃貸人から賃借人に対する損害賠償の請求は、賃貸借の終了による原状回復義務の債務不履行にもとづくものであると解せられる場合には、その終了が認められない以上、賃借人の占有関係を確定しないで、右請求を排斥しても、違法ではない。",
+  "ref_law": "民訴法186条，民訴法39条，民法613条，民法416条",
+  "lawsuit_id": "66569",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66569",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/569/066569_hanrei.pdf"
+}

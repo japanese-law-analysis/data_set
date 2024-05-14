@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 6,
+    "day": 8
+  },
+  "case_number": "昭和35(オ)1408",
+  "case_name": "共有持分権移転登記等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第61号121頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 9,
+    "day": 30
+  },
+  "gist": "相互銀行法第二条第一項第一号に違反する講契約は公序良俗に反するか。",
+  "case_gist": "講の実態が営業的無尽であつて、相互銀行法第二条第一項第一号に違反するとしても、これをもつて直ちに講と加入者との間の講に関する契約が公序良俗に違反し無効となるものではない。",
+  "ref_law": "民法90条，相互銀行法2条1項1号",
+  "lawsuit_id": "63546",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63546",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/546/063546_hanrei.pdf"
+}

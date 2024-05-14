@@ -1,0 +1,22 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 3,
+    "day": 16
+  },
+  "case_number": "昭和34(オ)212",
+  "case_name": "山林所有権確認、妨害排除請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第15巻3号524頁",
+  "original_court_name": "大阪高等裁判所",
+  "gist": "第一審被告が参加人を相手方として上告を申し立てた場合における第一審原告の地位。",
+  "case_gist": "所有権確認訴訟の係属中、訴訟の目的たる権利を原告から譲り受けたことを主張して訴訟参加をした者が、第二審で勝訴し、被告が参加人を相手方として上告の申立をしたときは、原告のためにもその効力を生じ、同人は被上告人たる地位を取得したものと解すべきである。",
+  "ref_law": "民訴法62条，民訴法71条，民訴法73条",
+  "lawsuit_id": "54908",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54908",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/908/054908_hanrei.pdf"
+}

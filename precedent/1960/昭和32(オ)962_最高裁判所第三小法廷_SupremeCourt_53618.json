@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 4,
+    "day": 25
+  },
+  "case_number": "昭和32(オ)962",
+  "case_name": "離婚請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第15巻4号891頁",
+  "original_court_name": "広島高等裁判所\n        　松江支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 7,
+    "day": 5
+  },
+  "gist": "一離婚原因に関する当事者の主張の解釈。\n\n二民法第七七〇条第一項第五号の離婚原因の成立を認め得ないとされた事例。",
+  "case_gist": "一民法第七七〇条第一項第四号の離婚原因を主張して離婚の訴を提起したからといつて、反対の事情のないかぎり同条項第五号の離婚原因も主張されているものと解することは許されない。\n二妻が精神病にかかつているけれども回復の見込がないと断じ得ないため民法第七七〇条第一項第四号の離婚原因を認め得ない場合に、右精神病治療のため相当長期入院加療を擁するところ夫の財政状態および家庭環境が原判示（原判決理由参照）の如くであるというだけの理由で、同条項第五号の離婚原因の成立を認めることは相当でない。",
+  "ref_law": "民法770条1項4号，民法770条1項5号",
+  "lawsuit_id": "53618",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53618",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/618/053618_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 9,
+    "day": 29
+  },
+  "case_number": "昭和41(オ)1417",
+  "case_name": "立替金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第88号623頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_case_number": "昭和38(ネ)294",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 9,
+    "day": 30
+  },
+  "gist": "商品取引所法第九七条に違反して委託手数料および委託証拠金なしに売買取引がなされた場合における商品仲買人と委託者との間の契約の効力",
+  "case_gist": "商品仲買人が、商品取引所法第九七条に違反して、委託手数料および委託証拠金を徴することなく商品市場における売買取引をしても、右違反は、商品仲買人と委託者との間の契約の効力に影響を及ぼすものではない。",
+  "ref_law": "商品取引所法97条",
+  "lawsuit_id": "70216",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70216",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/216/070216_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 5,
+    "day": 30
+  },
+  "case_number": "昭和43(オ)186",
+  "case_name": "所有権移転登記手続請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第91号191頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和38(ネ)2849",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 11,
+    "day": 24
+  },
+  "gist": "売買契約解除の前提としての催告が信義則に反し無効とされた事例",
+  "case_gist": "土地の売買契約において、買主が該売買契約によつて所有権を取得し、その引渡をも受けた後に、売主が、買主不知の間に、該土地に第三者のため根抵当権および地上権の設定登記をしたものである等原判示事情がある場合（原判決理由参照）に、売主が残代金の支払を催告し、その不払を理由に土地の売買契約を解除したときは、右催告は信義則に反し無効である。",
+  "ref_law": "民法1条2項，民法540条1項，民法541条",
+  "lawsuit_id": "70326",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70326",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/326/070326_hanrei.pdf"
+}

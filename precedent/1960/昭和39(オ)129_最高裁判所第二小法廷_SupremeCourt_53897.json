@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 11,
+    "day": 19
+  },
+  "case_number": "昭和39(オ)129",
+  "case_name": "取立請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第19巻8号1986頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和36(ネ)384",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 9,
+    "day": 10
+  },
+  "gist": "債権が重複して差し押えられた場合において第三債務者が無効な転付命令を取得した債権者に対し善意無過失で弁済したときと民法第四八一条第一項の規定の適用の有無。",
+  "case_gist": "甲が、乙に対する債権に基づいて、乙の丙に対する債権を差し押えて取立命令を得た後に、乙に対する他の債権者丁が、同一債権を重ねて差し押えて無効な転付命令を得た場合には、たとい丙が善意無過失で丁に弁済しても、甲は、民法第四八一条第一項の規定に基づき、丙に対して重ねて弁済を請求することができる。",
+  "ref_law": "民法481条1項，民法478条",
+  "lawsuit_id": "53897",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53897",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/897/053897_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 8,
+    "day": 17
+  },
+  "case_number": "昭和38(オ)70",
+  "case_name": "貸金請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集民　第80号61頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "昭和36(ネ)433",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 8,
+    "day": 29
+  },
+  "gist": "債務者が任意に支払つた利息制限の制限をこえる利息・損害金は当然に残存元本に充当されるか",
+  "case_gist": "債務者が利息制限法所定の制限をこえる金銭消費貸借上の利息、損害金に支払つたときは、右制限をこえる部分は、民法第四九一条により、残存元本に充当されるものと解すべきである。",
+  "lawsuit_id": "66248",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66248",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/248/066248_hanrei.pdf"
+}

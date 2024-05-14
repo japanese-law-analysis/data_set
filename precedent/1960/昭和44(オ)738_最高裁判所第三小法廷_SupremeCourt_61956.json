@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 12,
+    "day": 23
+  },
+  "case_number": "昭和44(オ)738",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第97号921頁",
+  "original_court_name": "高松高等裁判所",
+  "original_case_number": "昭和43(ネ)141",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 4,
+    "day": 10
+  },
+  "gist": "事故死の被害者の喪失する将来得べかりし利益を確定することができないとした判断と経験則違背の違法の有無",
+  "case_gist": "事故死の被害者がその生前病弱で勤労意欲に乏しく昼間から飲酒にふけることもあつて、同人の事故死の当時の収入額がその生活費にも満たなかつた等の事実関係のもとにおいて、同人がその事故死により喪失する将来得べかりし利益の存在ないし金額を確定することができないとした判断には、経験則違背の違法はない。",
+  "ref_law": "民法709条",
+  "lawsuit_id": "61956",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61956",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/956/061956_hanrei.pdf"
+}

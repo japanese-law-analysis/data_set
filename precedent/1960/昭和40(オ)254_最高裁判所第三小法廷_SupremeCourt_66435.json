@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 11,
+    "day": 30
+  },
+  "case_number": "昭和40(オ)254",
+  "case_name": "賃料値上請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第81号237頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和39(ネ)457",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 12,
+    "day": 22
+  },
+  "gist": "借地法第一二条の賃料増額の基準。",
+  "case_gist": "借地法第一二条による賃料増額請求があつた場合においては、裁判所は、同条所定の諸契機を考量して相当な賃料を確定すべきであつて、従来の賃料にその後における地価高騰率を乗じてのみ算出しなければならないものではない。",
+  "ref_law": "借地法12条",
+  "lawsuit_id": "66435",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66435",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/435/066435_hanrei.pdf"
+}

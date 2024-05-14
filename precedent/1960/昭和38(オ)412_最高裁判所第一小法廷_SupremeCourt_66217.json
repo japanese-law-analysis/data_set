@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 8,
+    "day": 13
+  },
+  "case_number": "昭和38(オ)412",
+  "case_name": "根抵当権設定登記抹消登記手続請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第75号53頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 1,
+    "day": 21
+  },
+  "gist": "不動産所有権を取得したが本登記手続を経ない仮登記権利者は右不動産上の抵当権者に対し被担保債権の弁済を理由に抵当権設定登記の抹消登記手続を請求しうるか。",
+  "case_gist": "不動産所有権を取得したが本登記手続を経ない仮登記権利者は、右不動産上の抵当権者に対し被担保債務が弁済されたことを理由に当該抵当権設定登記の抹消登記手続を請求し得ない。",
+  "ref_law": "民法177条，不動産登記法2条",
+  "lawsuit_id": "66217",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66217",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/217/066217_hanrei.pdf"
+}

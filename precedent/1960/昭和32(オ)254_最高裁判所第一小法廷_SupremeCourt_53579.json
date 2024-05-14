@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 6,
+    "day": 9
+  },
+  "case_number": "昭和32(オ)254",
+  "case_name": "紙代金請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第14巻7号1304頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 12,
+    "day": 25
+  },
+  "gist": "民法第一一〇条の基本代理権の存否および同法第七一五条の業務執行の範囲内か否かの判断につき審理不尽理由不備の違法があるとされた事例。",
+  "case_gist": "民法第一一〇条の基本代理権の存否および同法第七一五条の業務執行の範囲内か否かの判断にあたり、本人および使用者の事業運営の機構、制度上のたてまえからのみ判断し、右運営の実状に即して判断をしないときは、審理不審理由不備の違法がある。",
+  "ref_law": "民法110条，民法715条，民訴法395条1項6号",
+  "lawsuit_id": "53579",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53579",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/579/053579_hanrei.pdf"
+}

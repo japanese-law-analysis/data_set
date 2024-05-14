@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 9,
+    "day": 20
+  },
+  "case_number": "昭和41(あ)941",
+  "case_name": "道路交通法違反、業務上過失傷害",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第160号773頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 3,
+    "day": 28
+  },
+  "gist": "道路交通法施行令第二七条（昭和四〇年政令第二五八号による改正前のもの）の「酒気を帯びた場合のアルコールの程度」を認定するには、科学的判定によることを要するか",
+  "case_gist": "被告人が、身体に道路交通法施行令第二七条に定める程度以上にアルコールを保有する状態にあつたことの認定は、必ずしも検知機その他特別のいわゆる科学的判定法によることを要せず、事故前の飲酒量および飲酒状況等の資料を総合してこれを認定し得る。",
+  "ref_law": "道路交通法65条，道路交通法117条の2第1号，道路交通法施行令27条（昭和40年政令258号による改正前のもの、現行26条の2）",
+  "lawsuit_id": "61514",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61514",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/514/061514_hanrei.pdf"
+}

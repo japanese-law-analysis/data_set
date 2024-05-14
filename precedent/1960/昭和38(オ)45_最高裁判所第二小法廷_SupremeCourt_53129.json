@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 4,
+    "day": 17
+  },
+  "case_number": "昭和38(オ)45",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第18巻4号543頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 10,
+    "day": 25
+  },
+  "gist": "会社が商業登記簿上の名称以外の名称を用いて振り出した手形が当該会社提出の手形と認められた事例。",
+  "case_gist": "商業登記簿上の名称が「Ｄ（平仮名）林業株式会社」である会社が営業上「Ｄ林業株式会社」の名称を用いるのを常とし、手形取引においてもその名称を用いていた場合、右名称を用いて振り出した手形は右会社振出の手形として有効である。",
+  "ref_law": "手形法1条，手形法75条7号，商法16条",
+  "lawsuit_id": "53129",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53129",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/129/053129_hanrei.pdf"
+}

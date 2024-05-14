@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 12,
+    "day": 26
+  },
+  "case_number": "昭和33(あ)2187",
+  "case_name": "特別公務員暴行",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第15巻12号2058頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 10,
+    "day": 3
+  },
+  "gist": "一　告発の意義\n二　弁護士会は人権に関する事件につき告発し、また、事件を裁判所の審判に対することを請求する権能を有するか",
+  "case_gist": "一　告発とは、犯人または告訴権者以外の者が、捜査機関に対し、犯罪事実を申告してその訴追を求める意思表示である。\n二　弁護士会は、人権に関する事件につき弁護士会自身として告発をし、また、事件を裁判所の審判に付することを請求する権能を有する。",
+  "ref_law": "刑訴法239条1項，刑訴法262条，弁護士法1条，弁護士法31条，弁護士法42条2項",
+  "lawsuit_id": "55800",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55800",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/800/055800_hanrei.pdf"
+}

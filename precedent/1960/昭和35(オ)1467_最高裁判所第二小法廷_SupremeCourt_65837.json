@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 4,
+    "day": 14
+  },
+  "case_number": "昭和35(オ)1467",
+  "case_name": "市議会議員選挙の効力に関する訴願裁決取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第50号369頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 9,
+    "day": 30
+  },
+  "lawsuit_id": "65837",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=65837",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/837/065837_hanrei.pdf"
+}

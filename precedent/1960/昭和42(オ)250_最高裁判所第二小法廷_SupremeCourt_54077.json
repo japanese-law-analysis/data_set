@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 8,
+    "day": 2
+  },
+  "case_number": "昭和42(オ)250",
+  "case_name": "転付金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第22巻8号1558頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和41(ネ)1489",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 12,
+    "day": 21
+  },
+  "gist": "他人の有する債権を譲渡する契約をしてその譲渡通知をした者がその後同債権を取得した場合における右譲渡および通知の効力",
+  "case_gist": "他人の有する債権を譲渡する契約をし、その債権の債務者に対して確定日附のある譲渡通知をした者が、その後同債権を取得した場合には、なんらの意思表示を要しないで、当然に同債権は譲受人に移転し、右譲受人は、同債権の譲受をもつて、その後右譲渡人から同債権の譲渡を受けた第三者に対抗することができる。",
+  "ref_law": "民法466条，民法467条，民法560条",
+  "lawsuit_id": "54077",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54077",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/077/054077_hanrei.pdf"
+}

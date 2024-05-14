@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 12,
+    "day": 14
+  },
+  "case_number": "昭和36(オ)1183",
+  "case_name": "換地予定地変更指定無効確認",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第63号667頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 6,
+    "day": 29
+  },
+  "gist": "行政処分自庁取消の要件。",
+  "case_gist": "私人に権利を設定しまたは義務を免除する行政処分は、その成立に瑕疵があつても、処分庁において職権でこれを取り消し、変更し得るには、当該処分を取り消し、変更することの公益上の必要性が、処分関係人をしてその取消・変更による不利益を受忍させるに足るほど緊要なものであることを必要とする。",
+  "ref_law": "行政事件訴訟特別法1条",
+  "lawsuit_id": "65932",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=65932",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/932/065932_hanrei.pdf"
+}

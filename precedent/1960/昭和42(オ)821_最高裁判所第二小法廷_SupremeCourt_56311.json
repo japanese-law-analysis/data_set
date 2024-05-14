@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 11,
+    "day": 24
+  },
+  "case_number": "昭和42(オ)821",
+  "case_name": "建物収去土地明渡請求事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第21巻9号2460頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和39(ネ)1317",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 3,
+    "day": 31
+  },
+  "gist": "民法第五九七条第二項但書の類推適用により土地使用貸借の解約が有効とされた事例",
+  "case_gist": "父母を貸主とし、子を借主として成立した返還時期の定めがない土地の使用貸借であつて、使用の目的は、建物を所有して会社の経営をなし、あわせて、右経営から生ずる収益により老父母を扶養する等判示内容のものである場合において、借主は、さしたる理由もなく老父母に対する扶養をやめ、兄弟とも往来をたち、使用貸借当事者間における信頼関係は地を払うにいたつた等原判決確定の事実関係（原判決理由参照）があるときは、民法第五九七条第二項但書を類推適用して、貸主は借主に対し使用貸借を解約できるものと解すべきである。",
+  "ref_law": "民法597条2項",
+  "lawsuit_id": "56311",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56311",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/311/056311_hanrei.pdf"
+}

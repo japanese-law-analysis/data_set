@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 9,
+    "day": 10
+  },
+  "case_number": "昭和39(オ)804",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第80号243頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和38(ネ)1551",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 4,
+    "day": 20
+  },
+  "gist": "賃借人が賃貸人の所有権に基づく妨害排除請求権を代位行使する場合の要件",
+  "case_gist": "賃借人が賃貸人から未だ賃借物件の引渡を受けないうちでも、賃借人は賃貸人の所有権に基づく妨害排除請求権を代位行使して、右物件の不法占拠者に対して明渡請求ができる。",
+  "ref_law": "民法423条",
+  "lawsuit_id": "66363",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66363",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/363/066363_hanrei.pdf"
+}

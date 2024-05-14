@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 8,
+    "day": 23
+  },
+  "case_number": "昭和37(あ)659",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第16巻8号1322頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 2,
+    "day": 27
+  },
+  "gist": "選挙権、被選挙権の停止は刑訴法第三八一条等の「刑の量定」に含まれるか",
+  "case_gist": "公職選挙法第二五二条にいう選挙権、被選挙権の停止は刑法にいわゆる刑ではないが、それに関する裁判所の裁量は刑訴第三八一条同第四一一条第二号にいわゆる「刑の量定」には含まれる。",
+  "ref_law": "公職選挙法252条，刑訴法381条，刑訴法411条2号，刑法9条，刑法10条",
+  "lawsuit_id": "51754",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51754",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/754/051754_hanrei.pdf"
+}

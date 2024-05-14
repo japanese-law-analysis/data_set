@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 12,
+    "day": 21
+  },
+  "case_number": "昭和37(オ)537",
+  "case_name": "立木引渡請求本訴、損害賠償請求反訴",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第19巻9号2212頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "昭和33(ネ)362",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 1,
+    "day": 30
+  },
+  "gist": "立木の不法伐採搬出を理由とする損害賠償請求が権利の濫用にあたるとされた事例。",
+  "case_gist": "債権者が譲渡担保ならびに代物弁済契約に基づいて債務者から立木の所有権を取得したことを理由に右立木につき伐採搬出を許す旨の仮処分命令を得て、これを伐採搬出したが、右契約が臨時物資需給調整法に基づく木炭需給調整規則（昭和二四年農林省令第七四号）に違反する木炭出荷義務を担保するためになされたために無効であり、したがつて、債権者が右立木の所有権の取得し得ないとされた場合であつても、右契約締結が債務者の懇請によりその窮状を救うためになされたものであり、また、債務者側に右契約に関し原判示の事情（原判決引用の一審判決理由参照）があるときは、債務者から債権者に対し右立木の不法伐採搬出を理由とする損害賠償を求めることは、権利の濫用にあたる。",
+  "ref_law": "民法1条",
+  "lawsuit_id": "53812",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53812",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/812/053812_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 9,
+    "day": 27
+  },
+  "case_number": "昭和37(オ)588",
+  "case_name": "建物明渡等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第17巻8号1069頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 2,
+    "day": 28
+  },
+  "gist": "借家人の無断増築が著しい不信行為であるとして無催告の賃貸借契約解除が有効とされた事例。",
+  "case_gist": "土蔵造り瓦葺二階建家屋（建坪六坪）の賃借人が賃貸人所有の右敷地またはこれに隣接する同人所有地上に木造瓦葺二階建居宅一棟（建坪約六坪）を無断で建増ししたような場合においては、賃貸人は著しい不信行為のなれたことを理由として催告なしに賃貸借契約を解除することができる。",
+  "ref_law": "民法541条，民法543条，民法616条，民法594条1項",
+  "lawsuit_id": "54942",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54942",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/942/054942_hanrei.pdf"
+}

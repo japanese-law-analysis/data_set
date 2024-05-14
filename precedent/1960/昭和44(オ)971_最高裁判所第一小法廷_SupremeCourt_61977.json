@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 12,
+    "day": 4
+  },
+  "case_number": "昭和44(オ)971",
+  "case_name": "売買代金請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第97号701頁",
+  "original_court_name": "広島高等裁判所",
+  "original_case_number": "昭和44(ネ)86",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 5,
+    "day": 27
+  },
+  "gist": "書証の申出と写の提出",
+  "case_gist": "挙証者がみずから所持する文書に関する書証の申出は、証すべき事実を表示して文書を提出してすれば足り、同時にその写を提出することはその有効要件ではない。",
+  "ref_law": "民訴法258条，民訴法311条，民訴規則39条",
+  "lawsuit_id": "61977",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61977",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/977/061977_hanrei.pdf"
+}

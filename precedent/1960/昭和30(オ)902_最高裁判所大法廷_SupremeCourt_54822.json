@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 12,
+    "day": 21
+  },
+  "case_number": "昭和30(オ)902",
+  "case_name": "配当異議",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第14巻14号3140頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 8,
+    "day": 9
+  },
+  "gist": "旧国税徴収法第二条第一項は憲法第二九条に違反するか",
+  "case_gist": "旧国税徴収法（昭和二五年法律第六九号、同二六年法律第七八号による改正後）第二条第一項は憲法第二九条に違反するものではない。",
+  "ref_law": "旧国税徴収法（明治30年法律21号―昭和25年法律第69号、同26年法律78号による改正後）2条1項，憲法30条，憲法84条，憲法29条，憲法98条",
+  "lawsuit_id": "54822",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54822",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/822/054822_hanrei.pdf"
+}

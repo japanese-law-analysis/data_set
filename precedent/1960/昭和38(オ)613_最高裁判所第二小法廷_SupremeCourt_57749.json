@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 2,
+    "day": 26
+  },
+  "case_number": "昭和38(オ)613",
+  "case_name": "判決無効確認請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第19巻1号166頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 1,
+    "day": 29
+  },
+  "gist": "判決の無効確認を求める訴の許否。",
+  "case_gist": "現在の権利または法律関係の存否の確認を求めるのでなく、単に判決の無効確認を求めることは、許されない。",
+  "ref_law": "民訴法第2編第1章，民訴法225条",
+  "lawsuit_id": "57749",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57749",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/749/057749_hanrei.pdf"
+}

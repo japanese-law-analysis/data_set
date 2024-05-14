@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 9,
+    "day": 1
+  },
+  "case_number": "昭和41(あ)2689",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第164号139頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 10,
+    "day": 28
+  },
+  "gist": "適法な起訴状と解された事例",
+  "case_gist": "第一葉には「起訴状」の表題のもとに「左記被告事件につき公訴を提起し、略式命令を請求する。」との記載に次いで検察官の署名押印があるほか年月日、検察庁名、あて名の裁判所名、被告人の本籍、住居、職業、氏名、年齢および罪名、罰状が具体的に記載され、第二葉には「別紙」として右罰状に該当する被告人の犯罪事実が記載され、その二葉の間に検察官の職印による契印が施されている書面は、その犯罪事実が公訴事実である旨の表示を欠いていても、適法な起訴状と解すべきである。",
+  "ref_law": "刑訴法256条1項，刑訴法256条2項，刑訴法256条3項，刑訴法338条4号，刑訴規則58条",
+  "lawsuit_id": "59030",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59030",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/030/059030_hanrei.pdf"
+}

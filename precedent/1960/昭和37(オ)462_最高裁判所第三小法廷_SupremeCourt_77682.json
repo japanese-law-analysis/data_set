@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 4,
+    "day": 30
+  },
+  "case_number": "昭和37(オ)462",
+  "case_name": "損害金請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第65号781頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 1,
+    "day": 25
+  },
+  "gist": "履行遅滞が債務者の責に帰すべき事由に基づくときに限り賠償額を支払う旨の損害賠償額の予定がされた場合における賠償額支払義務の判断。",
+  "case_gist": "損害賠償額の予定が、債務者においてその責に帰すべき事由に基づき債務の履行を遅滞したときに限り賠償額を支払う約旨である場合には、賠償額支払義務の有無は、当該約旨に従つて判断すべきである。",
+  "ref_law": "民法420条1項",
+  "lawsuit_id": "77682",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77682",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/682/077682_hanrei.pdf"
+}

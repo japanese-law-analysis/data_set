@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 3,
+    "day": 24
+  },
+  "case_number": "昭和34(あ)1599",
+  "case_name": "業務上過失致死",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第132号631頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 7,
+    "day": 9
+  },
+  "gist": "業務上過失致死罪の認定と補強証拠の範囲。",
+  "case_gist": "業務上過失致死罪の認定について、原判決の判示は、要するに自白の外必要とされる補強証拠は、当該事件の客観的事実関係についてこれを認むべき証拠があれば十分で、被告人の過失の有無という主観的要件についてはその必要がないというに帰するから、同趣旨の当裁判所大法廷判決（判例集四巻一一号二四〇二頁以下）に徴し、原判決には、所論の憲法三八条三項の違反並びに判例違反（昭和二三年（れ）第七七号同二四年五月一八日大法廷判決、判例集三巻六号七三四頁）は認められない。",
+  "ref_law": "憲法38条3項，刑訴法319条2項，刑法211条",
+  "lawsuit_id": "61171",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61171",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/171/061171_hanrei.pdf"
+}

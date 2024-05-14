@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 12,
+    "day": 22
+  },
+  "case_number": "昭和38(オ)315",
+  "case_name": "売掛代金請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第85号779頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和37(ネ)1977",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 11,
+    "day": 26
+  },
+  "gist": "高等裁判所のした控訴却下判決が上告審としての裁判と解された事例",
+  "case_gist": "地方裁判所が控訴審としてした判決に対する再審事件の判決に対し高等裁判所に提起された控訴を不適法として却下した原判決は、その主文および理由を総合すると、上告審としての裁判と解されるから、これに対しては、民訴法第四〇九条ノ二の特別上告のみが許される。",
+  "ref_law": "民訴法393条1項，民訴法409条ノ2，民訴法1項，民訴法423条",
+  "lawsuit_id": "66209",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66209",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/209/066209_hanrei.pdf"
+}

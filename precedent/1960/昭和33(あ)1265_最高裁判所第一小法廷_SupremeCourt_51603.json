@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 6,
+    "day": 23
+  },
+  "case_number": "昭和33(あ)1265",
+  "case_name": "たばこ専売法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第14巻8号1080頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 5,
+    "day": 29
+  },
+  "gist": "たばこ専売法第二九条第二項に違反する事例。",
+  "case_gist": "公社または指定小売人でない者が、指定小売人から売り渡された「製造たばこ」を、本件のように反覆継続してする意図の下に他に販売したとき（九ケ月二一日間約四九回にわたり新生合計四六、二五九個、ピース合計八七、五八〇個、光合計一四、八八〇個を同一パチンコ屋に販売）は、たばこ専売法第二九条第二項に違反する。",
+  "ref_law": "たばこ専売法29条2項，たばこ専売法71条5号",
+  "lawsuit_id": "51603",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51603",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/603/051603_hanrei.pdf"
+}

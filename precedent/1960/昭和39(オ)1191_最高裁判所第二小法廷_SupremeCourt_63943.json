@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 4,
+    "day": 2
+  },
+  "case_number": "昭和39(オ)1191",
+  "case_name": "建物収去土地明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第78号519頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和28(ネ)840",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 7,
+    "day": 3
+  },
+  "gist": "借地権譲渡の承諾をしなかつたことに権利濫用がないとされた事例。",
+  "case_gist": "借地権譲渡人より譲受人の方が賃料支払に不安がなく、地主において土地使用について当面の計画をもたなくても、判示事情のもとでは、借地権譲渡の承諾をしなかつたことに権利濫用はない。",
+  "ref_law": "民法612条，民法1条3項",
+  "lawsuit_id": "63943",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63943",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/943/063943_hanrei.pdf"
+}

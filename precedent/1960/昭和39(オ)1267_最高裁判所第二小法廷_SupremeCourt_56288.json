@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 6,
+    "day": 18
+  },
+  "case_number": "昭和39(オ)1267",
+  "case_name": "土地所有権移転登記抹消登記手続請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第19巻4号986頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和37(ネ)58",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 6,
+    "day": 30
+  },
+  "gist": "無権代理人が本人を相続した場合における無権代理行為の効力。",
+  "case_gist": "無権代理人が本人を相続し、本人と代理人との資格が同一人に帰するにいたつた場合には、本人がみずから法律行為をしたのと同様な法律上の地位を生じたものと解するのが相当である。",
+  "ref_law": "民法113条，民法117条，民法896条",
+  "lawsuit_id": "56288",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56288",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/288/056288_hanrei.pdf"
+}

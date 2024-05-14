@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 3,
+    "day": 24
+  },
+  "case_number": "昭和33(オ)5",
+  "case_name": "農地買収処分等無効確認請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第15巻3号558頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 8,
+    "day": 30
+  },
+  "gist": "買収計画の縦覧期間の不足は右計画に基く買収処分の当然無効の原因となるか。",
+  "case_gist": "買収計画の縦覧期間が一日不足していたということだけでは、右計画に基く買収処分は当然無効となるものではない。",
+  "ref_law": "自作農創設特別措置法6条5項，行政事件訴訟特例法1条",
+  "lawsuit_id": "54891",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54891",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/891/054891_hanrei.pdf"
+}

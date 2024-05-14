@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 1,
+    "day": 30
+  },
+  "case_number": "昭和37(あ)346",
+  "case_name": "道路運送法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第150号353頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 1,
+    "day": 13
+  },
+  "gist": "道路運送法第四条第一項、第一二八条の第一号の合憲性。",
+  "case_gist": "道路運送法第四条第一項、第一二八条第一号が憲法第二二条第一項に違反するものでないこと当裁判所大法廷の判例（昭和三五年（あ）第二八五四号同三八年一二月四日判決）の趣旨に徴し明らかである。",
+  "ref_law": "道路運送法4条1項，道路運送法128条1号，憲法22条1項",
+  "lawsuit_id": "58760",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58760",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/760/058760_hanrei.pdf"
+}

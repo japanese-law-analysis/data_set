@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 5,
+    "day": 7
+  },
+  "case_number": "昭和38(あ)1657",
+  "case_name": "道路交通法違反、重過失致死",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第18巻4号136頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 6,
+    "day": 6
+  },
+  "gist": "刑訴法第四〇二条に違反しないとされた事例。",
+  "case_gist": "第一審が被告人に対し禁錮二年六月の刑を言い渡したのを第二審が懲役二年に変更しても、第一審判決を被告人に不利益に変更したとはいえない。",
+  "ref_law": "刑法10条1項，刑訴法402条",
+  "lawsuit_id": "57010",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57010",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/010/057010_hanrei.pdf"
+}

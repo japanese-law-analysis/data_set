@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 12,
+    "day": 8
+  },
+  "case_number": "昭和38(オ)1080",
+  "case_name": "日直手当請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第20巻10号2059頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "昭和37(ネ)54",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 2,
+    "day": 28
+  },
+  "gist": "一般職に属する地方公務員の日直手当請求権の消滅時効",
+  "case_gist": "一般職に属する地方公務員の日直手当請求権は、二年の短期時効によつて消滅するものと解するのが相当である。",
+  "ref_law": "会計法30条，労働基準法115条",
+  "lawsuit_id": "53843",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53843",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/843/053843_hanrei.pdf"
+}

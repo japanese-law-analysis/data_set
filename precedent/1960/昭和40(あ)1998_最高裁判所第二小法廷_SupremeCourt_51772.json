@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 7,
+    "day": 7
+  },
+  "case_number": "昭和40(あ)1998",
+  "case_name": "殺人未遂、銃砲刀剣類等所持取締法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第20巻6号554頁",
+  "original_court_name": "福岡高等裁判所\n        　宮崎支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 6,
+    "day": 22
+  },
+  "gist": "殺人未遂罪につき誤想過剰防衛が認められた事例。",
+  "case_gist": "被告人の長男甲が乙に対し、乙がまだなんらの侵害行為に出ていないのに、これに対し所携のチエーンで殴りかかつた上、なお攻撃を加えることを辞さない意思をもつて、庖丁を擬した乙と対峙していた際に、甲の叫び声を聞いて表道路に飛び出した被告人は、右のごとき事情を知らず、甲が乙から一方的に攻撃を受けているものと誤信し、その侵害を排除するため乙に対し猟銃を発射し、散弾の一部を同人の右頸部前面鎖骨上部に命中させたものであること、その他原判決認定の事実関係（原判文参照）のもとにおいては、被告人の本件所為は、誤想防衛であるが、その防衛の程度を超えたものとして、刑法第三六条第二項により処断すべきものである。",
+  "ref_law": "刑法36条，刑法38条，刑法199条，刑法203条",
+  "lawsuit_id": "51772",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51772",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/772/051772_hanrei.pdf"
+}

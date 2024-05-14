@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 7,
+    "day": 13
+  },
+  "case_number": "昭和36(あ)1186",
+  "case_name": "外国為替及び外国貿易管理法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集刑　第143号403頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 4,
+    "day": 5
+  },
+  "gist": "外国為替及び外国貿易管理法第二六条により非居住者に対する債権を取り立てる場合標準決済方法によることを要するか。",
+  "case_gist": "外国為替及び外国貿易管理法第二六条により非居住者に対する債権を取り立てる場合、標準決済方法によることは、同条の要求するところではなく、外国為替管理例第一〇条第一項が標準決済方法によるべきことを定めているのは、同法第二六条の委任によらないもので、罰則を伴う義務を定めたものではない。",
+  "ref_law": "外国為替及び外国貿易管理法26条，外国為替及び外国貿易管理法70条7号（昭和33年5月15日法律156号による改正前のもの），外国為替管理令10条",
+  "lawsuit_id": "58711",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58711",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/711/058711_hanrei.pdf"
+}

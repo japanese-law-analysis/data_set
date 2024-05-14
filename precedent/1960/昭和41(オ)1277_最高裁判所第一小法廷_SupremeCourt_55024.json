@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 6,
+    "day": 22
+  },
+  "case_number": "昭和41(オ)1277",
+  "case_name": "持分権確認および所有権移転登記抹消登記手続等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第21巻6号1479頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_case_number": "昭和39(ネ)188",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 4,
+    "day": 27
+  },
+  "gist": "共有持分の放棄と民法第九四条",
+  "case_gist": "他の共有者に対してなされた共有持分の放棄の意思表示が、右共有者との通謀による虚偽のものであるときは、右意思表示については、民法第九四条が類推適用される。",
+  "ref_law": "民法94条，民法255条",
+  "lawsuit_id": "55024",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55024",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/024/055024_hanrei.pdf"
+}

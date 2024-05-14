@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 1,
+    "day": 28
+  },
+  "case_number": "昭和40(オ)936",
+  "case_name": "売掛代金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第82号185頁",
+  "original_court_name": "広島高等裁判所",
+  "original_case_number": "昭和38(ネ)45",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 5,
+    "day": 12
+  },
+  "gist": "文書提出命令違背の効果",
+  "case_gist": "文書提出命令に違背して文書を提出しなかつたとしても、その効果は単に当該文書の記載内容についての相手方の主張を真実と認めうるにすぎないのであつて、契約等の成否に関する認定は、その文書が提出された場合と同様、裁判所の自由な心証による判断に委ねられていると解すべきである。",
+  "ref_law": "民訴法311条，民訴法316条",
+  "lawsuit_id": "66489",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66489",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/489/066489_hanrei.pdf"
+}

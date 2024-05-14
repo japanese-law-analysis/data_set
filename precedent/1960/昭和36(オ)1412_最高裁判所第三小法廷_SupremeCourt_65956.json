@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 12,
+    "day": 3
+  },
+  "case_number": "昭和36(オ)1412",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第70号1頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 9,
+    "day": 27
+  },
+  "gist": "定置漁業の免許の優先順位の制度を無意味にする漁業権免許処分が漁業法第一条に違背し無効であるとされた事例。",
+  "case_gist": "他の漁場における定置漁業権免許申請において優先順位にないため競願に敗れ、その存立のため必要な漁業権を取得する見込のなくなつた者を救済するためにのみ新漁場を設定してなされた定置漁業権免許処分は、漁業法第一条に違背し無効である。",
+  "ref_law": "漁業法1条，漁業法16条",
+  "lawsuit_id": "65956",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=65956",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/956/065956_hanrei.pdf"
+}

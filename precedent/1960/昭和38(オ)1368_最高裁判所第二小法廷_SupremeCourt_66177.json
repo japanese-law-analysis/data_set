@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 7,
+    "day": 3
+  },
+  "case_number": "昭和38(オ)1368",
+  "case_name": "土地建物所有権利確認請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第74号407頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 9,
+    "day": 10
+  },
+  "gist": "所有権にもとづく家屋明渡請求訴訟の確定判決と所有権の存否についての既判力。",
+  "case_gist": "所有権にもとづく家屋鋭渡請求訴訟の確定判決において、右所有権の存否が判断されていても、右判断は、理由中の判断にすぎず、所有権の存否について既判力を生じない。",
+  "ref_law": "民訴法199条",
+  "lawsuit_id": "66177",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66177",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/177/066177_hanrei.pdf"
+}

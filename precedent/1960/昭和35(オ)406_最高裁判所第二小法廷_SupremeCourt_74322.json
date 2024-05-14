@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 3,
+    "day": 23
+  },
+  "case_number": "昭和35(オ)406",
+  "case_name": "土地所有権移転登記手続請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第59号543頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 1,
+    "day": 30
+  },
+  "gist": "訴訟当事者の一方と一定の身分関係にある証人の証人能力と証拠価値",
+  "case_gist": "証人らが訴訟当事者の一方の妻あるいは妻の兄の関係にあるとしても、その一事によつて右証人らが証人能力を有しないとか、証言の証拠価値が薄弱であるとかは断定できない。",
+  "ref_law": "民訴法第2編第3章第2節，民訴法185条",
+  "lawsuit_id": "74322",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74322",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/322/074322_hanrei.pdf"
+}

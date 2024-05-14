@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 3,
+    "day": 14
+  },
+  "case_number": "昭和41(オ)54",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第90号647頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "昭和39(ネ)427",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 10,
+    "day": 18
+  },
+  "gist": "加害自動車と同一方向に進行していた被害自転車の衝突において自転車に過失があるかどうかを判断するにつき審理不尽・理由不備・理由そごの違法があるとされた事例",
+  "case_gist": "加害自動車と同一方向に進行していた被害自転車とが衝突した場合において、自転車に過失があるかどうかを判断するにつき、自転車が道路上で方向を転ずるのを自動車の運転手が三・二メートル手前で発見したと認定しながら、判示事情のもとで自転車が自動車の直前においてＵターンしたと認むべきではないと認定し、自転車には過失はないと判断したのは、審理不尽・理由不備・理由そごの違法がある。",
+  "ref_law": "民法709条，民法722条2項，自動車損害賠償保障法3条，民訴法394条，民訴法395条1項6号",
+  "lawsuit_id": "66554",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66554",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/554/066554_hanrei.pdf"
+}

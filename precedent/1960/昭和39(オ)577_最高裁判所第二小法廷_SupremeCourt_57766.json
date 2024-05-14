@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 6,
+    "day": 10
+  },
+  "case_number": "昭和39(オ)577",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第20巻5号1029頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_case_number": "昭和34(ネ)375",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 12,
+    "day": 28
+  },
+  "gist": "自動車運送事業の営業名義を貸与した者が名義借受人の雇傭する運転手の過失による自動車事故について損害賠償責任があるとされた事例",
+  "case_gist": "免許を受けて自動車の運送事業を営む者が他人をして違法にその営業名義を使用して自動車運送事業を営ませた場合、名義貸与者とその借受人の事業の執行方法につき原判決確定の事実関係があるときは（原判決理由参照）、名義借受人の雇傭する運転手がその事業の執行に関し第三者に加えた自動車事故による損害について、名義貸与者は賠償責任を負担する。",
+  "ref_law": "民法715条，商法23条",
+  "lawsuit_id": "57766",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57766",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/766/057766_hanrei.pdf"
+}

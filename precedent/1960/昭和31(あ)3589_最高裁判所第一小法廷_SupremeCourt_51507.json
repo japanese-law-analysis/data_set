@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 4,
+    "day": 28
+  },
+  "case_number": "昭和31(あ)3589",
+  "case_name": "収賄、贈賄",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第14巻6号778頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 9,
+    "day": 10
+  },
+  "gist": "一　贈収賄罪における職務と密接な関係のある行為にあたる事例\n二　村助役がその本来の職務行為の一部につき関与しない旨の内規や申合せがある場合と刑法第一九七条の職務",
+  "case_gist": "一　村議会議員であり且つ土木委員会委員である者に、同委員会として慣例上、村で施行する土木工事につき村長の諮問（判決理由参照）に応じまたは随時工事監督にあたつた行為は、右議員または委員としての職務と密接な関係の行為にあたる。\n二　村助役は村で施行する土木事業に関与しない旨の内規や申合せがあつたとしても、同助役が本来の職務行為としてこれに関与した場合は、右行為は刑法第一九七条にいう職務にあたる。",
+  "ref_law": "刑法197条，地方自治法96条1項9号，地方自治法100条1項，地方自治法109条3項，地方自治法243条2項",
+  "lawsuit_id": "51507",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51507",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/507/051507_hanrei.pdf"
+}

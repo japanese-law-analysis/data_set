@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 10,
+    "day": 26
+  },
+  "case_number": "昭和41(あ)915",
+  "case_name": "軽犯罪法違反、鉄道営業法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第20巻8号1014頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 3,
+    "day": 26
+  },
+  "gist": "軽犯罪法第一条第三二号違反の罪と鉄道営業法第三五条違反の罪との罪数関係",
+  "case_gist": "勧誘、客引を目的とする立ち入りを禁ぜられた国鉄ａ駅構内に、右目的で立ち入つた軽犯罪法第一条第三二号違反の罪と、鉄道係員の許諾を受けないで同駅構内において旅館宿泊の勧誘をした鉄道営業法第三五条違反の罪とは、併合罪の関係にある。",
+  "ref_law": "軽犯罪法1条32号，鉄道営業法35条，刑法45条，刑法54条1項",
+  "lawsuit_id": "50820",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50820",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/820/050820_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 12,
+    "day": 14
+  },
+  "case_number": "昭和41(あ)961",
+  "case_name": "商法違反、公正証書原本不実記載、同行使",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "刑集　第21巻10号1369頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 3,
+    "day": 24
+  },
+  "gist": "預合罪および応預合罪の成否",
+  "case_gist": "増資にあたり、株式引受人の会社に対する債権が真実に存在し、かつこれを弁済する資力が会社にある場合には、会社が株式払込取扱銀行から金融を受けて株式引受人に対する債務を弁済し株式引受人が右弁済金を引受株式の払込金に充当するという払込方法がとられたとしても、直ちに商法第四九一条の預合罪および応預合罪が成立するとはいえない。",
+  "ref_law": "商法491条",
+  "lawsuit_id": "50821",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50821",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/821/050821_hanrei.pdf"
+}

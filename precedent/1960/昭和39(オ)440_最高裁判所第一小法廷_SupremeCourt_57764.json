@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 4,
+    "day": 28
+  },
+  "case_number": "昭和39(オ)440",
+  "case_name": "動産引渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第20巻4号900頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和37(ネ)659",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 12,
+    "day": 5
+  },
+  "gist": "一　会社更生手続の開始と譲渡担保権者の取戻権の有無\n二　会社更生手続の開始と譲渡担保権者の権利行使の方法",
+  "case_gist": "一　会社更生手続の開始当時において、更生会社と債権者間の譲渡担保契約に基づいて債権者に取得された物件の所有権の帰属が確定的でなく、両者間になお債権関係が存続している場合には、当該譲渡担保権者は、物件の所有権を主張して、その取戻を請求することはできない。\n二　前項の場合において、譲渡担保権者は、更生担保権者に準じて、その権利の届出をし、更生手続によつてのみ権利行使をすべきである。",
+  "ref_law": "会社更生法62条，会社更生法67条1項，会社更生法123条，会社更生法124条，会社更生法126条，会社更生法159条",
+  "lawsuit_id": "57764",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57764",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/764/057764_hanrei.pdf"
+}

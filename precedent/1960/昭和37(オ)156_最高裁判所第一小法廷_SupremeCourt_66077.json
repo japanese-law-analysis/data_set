@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 7,
+    "day": 2
+  },
+  "case_number": "昭和37(オ)156",
+  "case_name": "立木代金請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第74号395頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 11,
+    "day": 30
+  },
+  "gist": "一　被参加人が補助参加人のなした控訴の申立を遅滞なく取り消した場合の控訴の申立の効力。\n\n二　補助参加人のなした控訴の申立が権利の濫用と認められた事例。",
+  "case_gist": "一　一審における補助参加人が控訴の申立をなした後、被参加人が遅滞なくこれを取り消した場合には、右控訴の申立は効力を生じない。\n\n二　補助参加人は被参加人を勝訴させることによって自己の利益を確保するため、被参加人を補助する目的をもって訴訟に関与するものであるから、一審における補助参加人が控訴を申し立てると同時に被参加人および被控訴人双方を相手方として当事者参加の申立をなし、右申立が被参加人の請求そのものを否定せんとするものであるときは、右控訴の申立は権利の濫用として許されない。",
+  "ref_law": "民訴法360条1項，民訴法69条2項，民法1条",
+  "lawsuit_id": "66077",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66077",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/077/066077_hanrei.pdf"
+}

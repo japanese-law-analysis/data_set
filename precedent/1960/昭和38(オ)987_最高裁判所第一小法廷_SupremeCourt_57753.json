@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 4,
+    "day": 7
+  },
+  "case_number": "昭和38(オ)987",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第20巻4号499頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和37(ネ)1293",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 2,
+    "day": 27
+  },
+  "gist": "不法行為により死亡した者の得べかりし普通恩給の受給利益喪失の損害賠償債権を相続した者が当該被害者の死亡により扶助料の受給権を取得した場合と扶助料額の限度における損害賠償額の減縮の適否",
+  "case_gist": "不法行為により死亡した者の得べかりし普通恩給の受給利益喪失の損害賠償債権を相続した者が、当該被害者の死亡により、扶助料の受給権を取得した場合には、当該相続人が請求することができる損害賠償額は、扶助料額の限度において減縮すべきものと解するのが相当である。",
+  "ref_law": "民法709条",
+  "lawsuit_id": "57753",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57753",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/753/057753_hanrei.pdf"
+}

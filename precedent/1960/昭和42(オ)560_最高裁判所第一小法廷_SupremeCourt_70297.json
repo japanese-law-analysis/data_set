@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 6,
+    "day": 6
+  },
+  "case_number": "昭和42(オ)560",
+  "case_name": "土地所有権移転登記抹消登記手続請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第91号219頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和40(ネ)427",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 12,
+    "day": 21
+  },
+  "gist": "一、遺贈の承認放棄に関する規定の死因贈与への準用の有無\n二、権利移転の過程において実体と異なるが現在の実体的権利関係に合致しているため登記の抹消請求が許されないとされた事例",
+  "case_gist": "一、遺贈の承認および放棄に関する規定は死因贈与に準用されない。\n二、甲の所有していた不動産について、その相続人でない乙に相続を原因とする所有権移転登記がされ、乙から丙に贈与を原因とする所有権移転登記がされているが、実体上は甲から丙に右不動産が死因贈与され、現在丙がその所有者である場合には、甲の相続人が乙および丙に対し右各登記の抹消を請求することはできない。",
+  "ref_law": "民法986条，民法554条，民法177条",
+  "lawsuit_id": "70297",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70297",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/297/070297_hanrei.pdf"
+}

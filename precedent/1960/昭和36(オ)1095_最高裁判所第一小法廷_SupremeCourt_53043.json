@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 4,
+    "day": 22
+  },
+  "case_number": "昭和36(オ)1095",
+  "case_name": "債権譲渡否認等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第19巻3号689頁",
+  "original_court_name": "高松高等裁判所",
+  "original_case_number": "昭和35(ネ)98",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 6,
+    "day": 28
+  },
+  "gist": "否認権の行使による返還金に付すべき利息の利率。",
+  "case_gist": "破産会社の銀行に対する債権譲渡行為が否認された結果、右銀行が該債権の取立によつて得た金員相当額を返還する場合において、これに付すべき利息は、年六分の商事法定利率によるのが相当である。",
+  "ref_law": "破産法72条，破産法77条，商法514条",
+  "lawsuit_id": "53043",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53043",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/043/053043_hanrei.pdf"
+}

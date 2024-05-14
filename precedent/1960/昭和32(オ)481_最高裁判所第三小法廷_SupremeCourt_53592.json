@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 6,
+    "day": 14
+  },
+  "case_number": "昭和32(オ)481",
+  "case_name": "農地買収不服",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第14巻8号1342頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 1,
+    "day": 9
+  },
+  "gist": "一　強行法規の違背と行政処分の当然無効原因。\n二　買収計画書の記載要件。\n三　買収計画を公告することについての農業委員会の議決の要否。",
+  "case_gist": "一　強制法規の違背がすべて行政処分の当然無効の原因となるものではなく、その違背が重大かつ明白である場合にかぎつて、その無効原因となるものと解すべきである。\n二　買収計画書には、計画の樹立が農業委員会の議決に基くものである旨の記載を要するものではなく、また、これに議決に関与した委員の署名を要するものではない。\n三　買収計画の樹立につき農業委員会の議決がある以上、右計画を公告するについては、その議決を要しない。",
+  "ref_law": "行政事件訴訟特例法1条，自作農創設特別措置法6条",
+  "lawsuit_id": "53592",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53592",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/592/053592_hanrei.pdf"
+}

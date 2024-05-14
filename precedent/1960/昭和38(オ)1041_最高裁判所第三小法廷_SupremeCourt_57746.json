@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 4,
+    "day": 26
+  },
+  "case_number": "昭和38(オ)1041",
+  "case_name": "家屋明渡等請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第20巻4号826頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和36(ネ)197",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 6,
+    "day": 14
+  },
+  "gist": "無権代理人が無償代理行為の目的物を取得した場合における法律関係",
+  "case_gist": "甲が乙の無権代理人として乙所有の不動産を丙に売り渡す契約を締結した後乙から右不動産の譲渡をうけてその所有権を取得するにいたつた場合において、丙が民法第一一七条にいう履行を選択したときは、前記売買契約は、甲と丙との間に成立したと同様の効果を生ずる。",
+  "ref_law": "民法113条，民法117条",
+  "lawsuit_id": "57746",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57746",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/746/057746_hanrei.pdf"
+}

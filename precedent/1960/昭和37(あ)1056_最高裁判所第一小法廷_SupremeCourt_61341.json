@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 7,
+    "day": 11
+  },
+  "case_number": "昭和37(あ)1056",
+  "case_name": "強姦致傷",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第147号725頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 3,
+    "day": 30
+  },
+  "gist": "数個の犯罪事実認定に関する証拠説示の方法。",
+  "case_gist": "有罪の言渡をするには、どの証拠で、どの事実を認めたかを明らかにする必要はあるけれども、必ずしも、各犯罪事実ごとに個別的にこれを認めた証拠の標目を示さなければならないものではなく、原判文と本件記録とを照し合せると、どの証拠でどの事実を認めたかが明らかであるから、原判決には所論のような違法は認められない（昭和二五年（あ）第一〇六八号同年九月一九日第三小法廷判決、刑集四巻九号一六九五頁参照）。",
+  "ref_law": "刑訴法335条",
+  "lawsuit_id": "61341",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61341",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/341/061341_hanrei.pdf"
+}

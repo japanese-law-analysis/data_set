@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 4,
+    "day": 9
+  },
+  "case_number": "昭和36(オ)548",
+  "case_name": "審査決定取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第19巻3号582頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和32(行)9",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 3,
+    "day": 3
+  },
+  "gist": "免税所得と課税所得とがある場合における純損失繰戻による還付金額算定の方法。",
+  "case_gist": "免税所得と課税所得とがある場合における純損失繰戻による還付金額は、当該年度の純損失を前年度の免税所得と課税所得とに両所得の比に按分して繰り戻すいわゆる按分法によつて算定するのが相当である。",
+  "ref_law": "所得税法（昭和29年法律52号による改正前）20条，所得税法（昭和29年法律52号による改正前）36条",
+  "lawsuit_id": "53072",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53072",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/072/053072_hanrei.pdf"
+}

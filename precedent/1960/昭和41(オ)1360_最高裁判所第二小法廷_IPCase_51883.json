@@ -1,0 +1,17 @@
+{
+  "trial_type": "IPCase",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 10,
+    "day": 17
+  },
+  "case_number": "昭和41(オ)1360",
+  "case_name": "意匠権侵害排除、損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "right_type": "意匠権",
+  "lawsuit_type": "民事訴訟",
+  "lawsuit_id": "51883",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail7?id=51883",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/883/051883_hanrei.pdf"
+}

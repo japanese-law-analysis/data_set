@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 2,
+    "day": 22
+  },
+  "case_number": "昭和34(オ)832",
+  "case_name": "商標権不存在確認等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第58号811頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 6,
+    "day": 5
+  },
+  "gist": "商標法（昭和三四年改正前）第一三条の営業廃止の意義",
+  "case_gist": "商標権者が単に経済上の理由から事業を中止したに過ぎず、営業を廃止する主観的意図が認められない場合には、商標法（昭和三四年改正前）の営業廃止にあたらない。",
+  "ref_law": "商標法（昭和34年改正前）13条",
+  "lawsuit_id": "63487",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63487",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/487/063487_hanrei.pdf"
+}

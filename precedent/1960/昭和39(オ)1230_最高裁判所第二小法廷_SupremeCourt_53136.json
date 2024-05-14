@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 4,
+    "day": 16
+  },
+  "case_number": "昭和39(オ)1230",
+  "case_name": "競売無効確認請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第19巻3号658頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "昭和39(ネ)176",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 7,
+    "day": 15
+  },
+  "gist": "弁済期到来前にした抵当権の実行と競落人の所有権の取得。",
+  "case_gist": "抵当権者が債権の履行期の到来前に抵当権を実行した場合であつても、競落許可決定により競落代金が支払われて競売手続が完了した以上、競落人は有効に競落不動産の所有権を取得する。",
+  "ref_law": "民法396条1項，民訴法686条，競売法2条1項，競売法32条",
+  "lawsuit_id": "53136",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53136",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/136/053136_hanrei.pdf"
+}

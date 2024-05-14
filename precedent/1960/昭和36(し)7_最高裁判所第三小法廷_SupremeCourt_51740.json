@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 2,
+    "day": 7
+  },
+  "case_number": "昭和36(し)7",
+  "case_name": "予備的訴因追加申立に対する異議申立を却下し予備的訴因の追加を許可する旨の決定に対する特別抗告",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第15巻2号304頁",
+  "original_court_name": "金沢地方裁判所\n        　小松支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 1,
+    "day": 19
+  },
+  "gist": "予備的訴因の追加を許可する旨の決定と特別抗告。",
+  "case_gist": "予備的訴因の追加を許可する旨の決定のごときは、「訴訟手続に関し判決前にした決定」であつても、刑訴第四三三条第一項にいわゆる「この法律により不服を申し立てることができない決定」にあたらない。",
+  "ref_law": "刑訴法256条，刑訴法312条，刑訴法420条，刑訴法433条1項",
+  "lawsuit_id": "51740",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51740",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/740/051740_hanrei.pdf"
+}

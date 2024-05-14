@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 9,
+    "day": 10
+  },
+  "case_number": "昭和39(あ)2465",
+  "case_name": "有印私物書偽造、同行使、詐欺、横領",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第156号347頁",
+  "original_court_name": "仙台高等裁判所\n        　秋田支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 9,
+    "day": 29
+  },
+  "gist": "一個の欺罔行為により財産上不法の利益を得かつ財物を騙取した場合における罪数。",
+  "case_gist": "一個の欺罔行為により財産上不法の利益を得、かつ、財物を騙取した場合は、単一なる詐欺罪を構成するものと解すべきである。",
+  "ref_law": "刑法246条",
+  "lawsuit_id": "61431",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61431",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/431/061431_hanrei.pdf"
+}

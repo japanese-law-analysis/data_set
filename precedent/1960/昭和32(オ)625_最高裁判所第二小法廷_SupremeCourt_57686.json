@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 5,
+    "day": 26
+  },
+  "case_number": "昭和32(オ)625",
+  "case_name": "第三者異議",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第15巻5号1398頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 3,
+    "day": 29
+  },
+  "gist": "いわゆる断行の仮処分と第三者異議の訴。",
+  "case_gist": "いわゆる断行の仮処分として板塀の一部分が撤去され、執行が終了した場合には、右板塀の所有権に基づく第三者異議の訴は許されない。",
+  "ref_law": "民訴法549条，民訴法760条",
+  "lawsuit_id": "57686",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57686",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/686/057686_hanrei.pdf"
+}

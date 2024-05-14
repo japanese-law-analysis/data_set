@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 3,
+    "day": 12
+  },
+  "case_number": "昭和39(さ)11",
+  "case_name": "略式命令に対する非常上告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集刑　第155号53頁",
+  "original_court_name": "西郷簡易裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 5,
+    "day": 19
+  },
+  "lawsuit_id": "76036",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=76036",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/036/076036_hanrei.pdf"
+}

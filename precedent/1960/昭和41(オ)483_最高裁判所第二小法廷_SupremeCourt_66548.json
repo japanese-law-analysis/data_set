@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 7,
+    "day": 1
+  },
+  "case_number": "昭和41(オ)483",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第84号7頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和39(ネ)259",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 1,
+    "day": 27
+  },
+  "gist": "賃貸借契約中の賃借人のする転貸等については賃貸人の書面による承諾を要する旨の特約の効力",
+  "case_gist": "賃貸借契約中の賃借人のする転貸等については賃貸人の書面による承諾を要する旨の特約は、合理的な目的をもつてされた法律行為の方式の制限についてのものとして、有効である。",
+  "ref_law": "民法91条，民法第3編第2章第1節，民法612号",
+  "lawsuit_id": "66548",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66548",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/548/066548_hanrei.pdf"
+}

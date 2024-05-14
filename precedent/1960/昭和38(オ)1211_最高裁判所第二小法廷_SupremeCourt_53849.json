@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 7,
+    "day": 10
+  },
+  "case_number": "昭和38(オ)1211",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第18巻6号1093頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 7,
+    "day": 10
+  },
+  "gist": "一　相手方の陳述した事実に基づいてする訴の変更は請求の基礎に変更がる場合にも許されるか。\n\n二　前項の相手方の陳述した事実にはいわゆる積極否認の内容となる事実を含むか。",
+  "case_gist": "一　相手方の陳述した事実に基づいて訴の変更をする場合には、請求の基礎に変更があるときでも、相手方の同意の有無にかかわらず、訴の変更は許されると解すべきである。\n\n二　前項の場合における相手方の陳述した事実には、いわゆる積極否認の内容となる間接事実も含まれると解すべきである。",
+  "ref_law": "民訴法232条1項",
+  "lawsuit_id": "53849",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53849",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/849/053849_hanrei.pdf"
+}

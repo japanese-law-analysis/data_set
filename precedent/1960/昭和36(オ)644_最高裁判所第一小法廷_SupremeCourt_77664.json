@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 5,
+    "day": 17
+  },
+  "case_number": "昭和36(オ)644",
+  "case_name": "所有権移転登記抹消本訴並びに反訴請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第60号649頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 2,
+    "day": 28
+  },
+  "gist": "代理権消滅後、従前の代理権の範囲に属しない行為をした場合に表見代理が認められた事例",
+  "lawsuit_id": "77664",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77664",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/664/077664_hanrei.pdf"
+}

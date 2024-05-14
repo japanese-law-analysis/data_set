@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 3,
+    "day": 15
+  },
+  "case_number": "昭和42(オ)1079",
+  "case_name": "所有権移転登記手続請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第90号731頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和41(ネ)201",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 6,
+    "day": 12
+  },
+  "gist": "農地調整法（昭和二〇年法律第六四号による改正後のもの）第六条第三号にいわゆる農地には当該農地につき第三者のために小作契約が締結されている場合も含まれるか",
+  "case_gist": "農地調整法（昭和二〇年法律第六四号による改正後のもの）第六条第三号にいわゆる農地には、当該農地につき第三者のため小作契約が締結されている場合も含まれるものと解すべきである。",
+  "ref_law": "農地調整法（昭和20年法律第64号による改正後のもの）6条，農地調整法（昭和20年法律第64号による改正後のもの）5条",
+  "lawsuit_id": "66598",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66598",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/598/066598_hanrei.pdf"
+}

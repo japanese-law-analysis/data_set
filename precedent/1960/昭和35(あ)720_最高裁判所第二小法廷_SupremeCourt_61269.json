@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 9,
+    "day": 5
+  },
+  "case_number": "昭和35(あ)720",
+  "case_name": "公務執行妨害",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第144号129頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 3,
+    "day": 2
+  },
+  "lawsuit_id": "61269",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61269",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/269/061269_hanrei.pdf"
+}

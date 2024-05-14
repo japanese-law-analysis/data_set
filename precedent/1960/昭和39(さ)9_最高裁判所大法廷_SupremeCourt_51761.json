@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 4,
+    "day": 28
+  },
+  "case_number": "昭和39(さ)9",
+  "case_name": "森林法等被告事件の確定判決に対する非常上告",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第19巻3号344頁",
+  "original_court_name": "日南簡易裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 8,
+    "day": 21
+  },
+  "gist": "科刑権の制限に違反した簡易裁判所の確定判決に対する非常上告。",
+  "case_gist": "科刑権の制限に違反した簡易裁判所の確定判決に対する非常上告は、原裁判所の訴訟手続に刑事訴訟法第四五八条第二号に当る違法があるものとして理由がある。",
+  "ref_law": "刑訴法458条，森林法197条，裁判所法33条2項，裁判所法33条3項",
+  "lawsuit_id": "51761",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51761",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/761/051761_hanrei.pdf"
+}

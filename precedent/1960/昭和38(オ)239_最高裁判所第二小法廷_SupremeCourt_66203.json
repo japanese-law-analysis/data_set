@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 10,
+    "day": 16
+  },
+  "case_number": "昭和38(オ)239",
+  "case_name": "土地明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第75号843頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 11,
+    "day": 29
+  },
+  "gist": "農地賃貸借の不更新の通知または解約の申入と知事の許可の要否。",
+  "case_gist": "農地の賃貸借について更新しない旨の通知を発し、または解約の申入をする場合には、右通知または申入の効力の有無が訴訟上問題となるときであると否とを問わず、知事の許可を必要とし、右許可を得ないでした右通知または申入はその効力を生じないものと解すべきである。",
+  "ref_law": "農地法20条",
+  "lawsuit_id": "66203",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66203",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/203/066203_hanrei.pdf"
+}

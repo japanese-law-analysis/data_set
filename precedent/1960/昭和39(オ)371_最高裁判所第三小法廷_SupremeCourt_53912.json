@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 8,
+    "day": 24
+  },
+  "case_number": "昭和39(オ)371",
+  "case_name": "貸金請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第19巻6号1435頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和36(ネ)1010",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 11,
+    "day": 20
+  },
+  "gist": "債務者が債権者からの金員支払請求に対し支払確保のため振り出された手形の返還との引換給付の抗弁権を有する場合と履行遅滞の成否。",
+  "case_gist": "債務者は、債権者からの金員支払請求に対し右支払確保のために振り出された手形の返還と引換えに支払うべき旨の抗弁権を有する場合において、右手形の返還を受けていないときでも、当該債務の履行期を徒過している以上、履行遅滞の責任を負うべきである。",
+  "ref_law": "民法412条，民法533条，手形法第2編",
+  "lawsuit_id": "53912",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53912",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/912/053912_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 5,
+    "day": 28
+  },
+  "case_number": "昭和38(オ)1109",
+  "case_name": "所有権確認等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第79号223頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和34(ネ)1311",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 5,
+    "day": 14
+  },
+  "gist": "農地買収令書の交付に代わる公告の瑕疵が十数年後に行なわれた買収令書の交付によつて補正されるとした事例。",
+  "case_gist": "農地買収令書の交付に代えてなされた公告の瑕疵を補正するための買収令書の交付が買収の時期から起算して一四年七箇月余経過後に行なわれたものであつても、公告自体は買収計画の承認後遅滞なくなされ、それが有効であるものとして買収の時期に当該農地の所有権が国に移転し次いで国から買受人に移転したとして処理されており、しかも、公告後数年を出ずして提起された訴訟において公告の適否が争われてきた場合には、右公告の瑕疵は、買収令書の交付によつて補正されると解するのが相当である。",
+  "ref_law": "自作農創設特別措置法9条1項，農地法施行法2条1項1号",
+  "lawsuit_id": "74399",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74399",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/399/074399_hanrei.pdf"
+}

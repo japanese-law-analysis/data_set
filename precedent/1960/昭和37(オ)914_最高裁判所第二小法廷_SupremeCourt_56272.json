@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 1,
+    "day": 24
+  },
+  "case_number": "昭和37(オ)914",
+  "case_name": "家賃台帳無効確認請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第18巻1号113頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 5,
+    "day": 25
+  },
+  "gist": "市町村長の家賃台帳登載行為は、行政事件訴訟特例法第一条にいう行政庁の処分にあたるか。",
+  "case_gist": "市町村長が地代家賃統制令第一四条に基づき家賃台帳に家賃の停止統制額または認可統制額その他法所定の事項を記入する行為は、いわゆる公証行為ではあるが、行政事件訴訟特例法第一条にいう行政庁の処分にあたらない。",
+  "ref_law": "地代家賃統制令14条，行政事件訴訟特例法1条",
+  "lawsuit_id": "56272",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56272",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/272/056272_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 7,
+    "day": 10
+  },
+  "case_number": "昭和39(あ)1879",
+  "case_name": "業務上過失致死",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第156号129頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 8,
+    "day": 13
+  },
+  "gist": "必要的弁護事件でない業務上過失致死罪が併合罪の関係において処断刑が長期三年を超える場合必要的弁護事件となるか。",
+  "case_gist": "業務上過失致死罪の法定刑は、「三年以下の禁錮又は千円以下の罰金」（刑法第二一一条前段）であるから、本件被告人の二個の業務上過失致死罪は、それぞれ刑訴法第二八九条にいわゆる必要的弁護事件ではないものというべく、所論の如く、両者が併合罪の関係にあつてその処断刑が長期三年を超えることとなるからといつて、本件の如き場合には処断刑を基準として必要的弁護事件であるか否かを決すべきものと解すべきではない。",
+  "ref_law": "刑法211条前段，刑訴法289条",
+  "lawsuit_id": "61425",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61425",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/425/061425_hanrei.pdf"
+}

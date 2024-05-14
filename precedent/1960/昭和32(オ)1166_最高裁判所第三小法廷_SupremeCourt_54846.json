@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 3,
+    "day": 15
+  },
+  "case_number": "昭和32(オ)1166",
+  "case_name": "子の引渡請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第14巻3号430頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 9,
+    "day": 17
+  },
+  "gist": "一　幼児の引渡を求める訴訟においてその幼児が自由意思に基いて相手方の許に居住しているとはいえない事例\n二　幼児引渡の請求を認容する判決と憲法第二二条の居住移転の自由",
+  "case_gist": "一　幼児の引渡を求める訴訟において、その幼児が三歳に満たない頃からひき続き相手方のもとで養育されているというだけでは、右幼児は自由意思に基いて同所に居住しているとはいえない。\n二　いわゆる幼児引渡の請求は、幼児に対し親権を行使するにつきその妨害の排除を求める訴であるから、これを認容する判決は憲法第二二条所定の居住移転の自由となんら関係がない。",
+  "ref_law": "民法820条，憲法22条",
+  "lawsuit_id": "54846",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54846",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/846/054846_hanrei.pdf"
+}

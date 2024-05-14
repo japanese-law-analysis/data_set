@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 7,
+    "day": 20
+  },
+  "case_number": "昭和36(オ)190",
+  "case_name": "解雇無効確認等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第16巻8号1656頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 11,
+    "day": 18
+  },
+  "gist": "使用者の責に帰すべき事由によつて解雇された労働者が解雇期間内に他の職について利益を得た場合、使用者が、労働者に解雇期間中の賃金を支払うにあたり、右利得金額を賃金額から控除することの可否およびその限度。",
+  "case_gist": "使用者の責に帰すべき事由によつて解雇された労働者が解雇期間内に他の職について利益を得た場合、使用者が、労働者に解雇期間中の賃金を支払うにあたり、右利得金額を賃金額から控除することはできるが、その限度は、平均賃金の四割の範囲内にとどめるべきである。",
+  "ref_law": "民法536条2項，労働基準法26条，労働基準法24条1項",
+  "lawsuit_id": "53054",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53054",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/054/053054_hanrei.pdf"
+}

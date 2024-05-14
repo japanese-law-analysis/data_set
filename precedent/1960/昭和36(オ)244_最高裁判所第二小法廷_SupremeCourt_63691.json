@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 7,
+    "day": 21
+  },
+  "case_number": "昭和36(オ)244",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第53号305頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 12,
+    "day": 20
+  },
+  "gist": "加工に当らない事例。",
+  "case_gist": "工場構内の金属屑の混入した土砂より水洗式により笊、桶、スコップ等を用いて金属屑を選別し、これに要する経費が選別して得た金属屑の価格の八分の一以下である場合には、右選別は民法台二四六条にいう加工に当らない。",
+  "lawsuit_id": "63691",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63691",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/691/063691_hanrei.pdf"
+}

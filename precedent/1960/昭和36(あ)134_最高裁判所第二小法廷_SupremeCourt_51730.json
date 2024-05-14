@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 5,
+    "day": 13
+  },
+  "case_number": "昭和36(あ)134",
+  "case_name": "虚偽有印公文書作成教唆、同行使教唆、職権濫用、同教唆",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第17巻4号279頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 12,
+    "day": 10
+  },
+  "gist": "公務員職権濫用罪が成立するとされた事例。",
+  "case_gist": "執行力ある和解調書の正本には、土地を執行吏の保管に付し、その公示を命ずる旨の条項が存在しないのに、執行吏が職権を濫用し、右和解調書の執行として「本職之を占有保管する」旨虚偽の記載をした公示札を土地上に立てたときは、その土地がたまたま第三者の所有に属し、公示札表示の土地と異なるものであつても、公務員職権濫用罪が成立する。",
+  "ref_law": "刑法193条",
+  "lawsuit_id": "51730",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51730",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/730/051730_hanrei.pdf"
+}

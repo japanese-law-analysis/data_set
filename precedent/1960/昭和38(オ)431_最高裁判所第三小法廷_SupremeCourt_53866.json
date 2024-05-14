@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 3,
+    "day": 14
+  },
+  "case_number": "昭和38(オ)431",
+  "case_name": "土地所有権保存登記抹消登記手続等請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第21巻2号312頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "昭和33(ネ)259",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 12,
+    "day": 24
+  },
+  "gist": "一　不動産登記用紙の閉鎖の回復手続を求める訴の許否\n二　行政事件訴訟特例法のもとにおける行政処分の無効確認判決の効力",
+  "case_gist": "一　不動産登記用紙の閉鎖の回復手続を求める訴は、右閉鎖が違法にされた場合でも、許されない。\n二　行政事件訴訟特例法のもとにおける行政処分の無効確認判決は、第三者に対しても効力を有する。",
+  "ref_law": "不動産登記法24条ノ2，民訴法226条，民訴法225条，行政事件訴訟特例法1条，行政事件訴訟特例法12条",
+  "lawsuit_id": "53866",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53866",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/866/053866_hanrei.pdf"
+}

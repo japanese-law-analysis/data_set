@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 5,
+    "day": 6
+  },
+  "case_number": "昭和27(あ)520",
+  "case_name": "連合国占領軍財産等収受所持禁止令違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "刑集　第14巻7号861頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 1,
+    "day": 14
+  },
+  "gist": "刑法第四五条前段の併合罪につき懲役刑と罰金刑とが同法第四八条第一項によつて併科され罰金刑につき免訴すべき場合の判決破棄の範囲。",
+  "case_gist": "刑法第四五条前段の併合罪中甲罪につき懲役刑が、乙罪につき罰金刑が各選択され、両者が同法第四八条第一項により併科され懲役および罰金の言渡があつた後、乙罪につき大赦があつたときは、罰金を言渡した部分のみを破棄すべく、全部を破棄すべきものではない。",
+  "ref_law": "刑法45条，刑法48条1項，刑訴法411条5号",
+  "lawsuit_id": "51258",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51258",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/258/051258_hanrei.pdf"
+}

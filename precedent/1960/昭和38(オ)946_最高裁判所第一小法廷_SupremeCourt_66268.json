@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 9,
+    "day": 10
+  },
+  "case_number": "昭和38(オ)946",
+  "case_name": "商標登録無効確認等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第75号209頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 5,
+    "day": 7
+  },
+  "gist": "旧商標法（大正一〇年法律第九九号）施行当時に、商標登録がその商標登録出願権を承継しない者の出願に対してなされたことを理由として、直接裁判所に対し右商標登録の無効確認を求める訴を提起できるか。",
+  "case_gist": "旧商標法（大正一〇年法律第九六号）施行当時に、商標登録がその商標登録出願権を承継しない者の出願に対してなされたことを理由として商標登録の無効を主張する者は、先ず特許庁に対してその無効の審判を請求して登録無効の確定審決を受けるべきであり、右手続を経ないで、直接裁判所に商標登録無効確認訴訟を提起することは許されない。",
+  "ref_law": "旧商標法（大正10年法律99号）16条，旧商標法（大正10年法律99号）24条，旧特許法（大正10年法律96号）128条ノ2第4項",
+  "lawsuit_id": "66268",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66268",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/268/066268_hanrei.pdf"
+}

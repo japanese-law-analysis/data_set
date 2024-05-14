@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 1,
+    "day": 23
+  },
+  "case_number": "昭和35(オ)485",
+  "case_name": "山林所有権確認請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第71号133頁",
+  "original_court_name": "広島高等裁判所\n        　松江支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 2,
+    "day": 26
+  },
+  "gist": "いわゆる縁故者として国有山林の払下を受けた者の認定に審理不尽理由不備の違法があるとされた事例。",
+  "case_gist": "もと国有の係争山林が甲と乙ほか四名の共同名義で払い下げられ、右合計六名の名義で共有権保存登記がなされたが、係争山林は、さきに甲の先代で払下を受けたＤ宮およびＥの境内地を囲繞し、あわせて一つの神域を形成している関係にあるにかかわらず、その払下出願は、甲のほか右境内地の所有者でない乙ほか四名が加わつて、単にＤ宮の末社たるＥだけの信徒総代という名義でしたにすぎない等判示のような事情があるときは、係争山林の払下および登記が前記六名の名義でなされたことを主たる根拠として、その払下が右六名全員を縁故者としてなされたものと認めることは、審理不尽理由不備の違法がある。",
+  "ref_law": "民訴法395条6号",
+  "lawsuit_id": "74323",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74323",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/323/074323_hanrei.pdf",
+  "contents": ""
+}

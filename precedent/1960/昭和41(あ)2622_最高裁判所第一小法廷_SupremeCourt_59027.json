@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 3,
+    "day": 16
+  },
+  "case_number": "昭和41(あ)2622",
+  "case_name": "道路交通法違反、業務上過失致死",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第162号1051頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 10,
+    "day": 21
+  },
+  "gist": "交通法規に従つた自動車の運転と注意義務",
+  "case_gist": "対向車が被告人の運転する車両の進路である道路の左側部分を通り容易に右側に転じないような特殊な場合には、被告人が交通法規に従つてそのまま進行すれば対向車と衝突し、死傷の結果を生ずることが予見できるのであるから、自動車運転車としては、まさに警音器を吹鳴して対向車に避譲を促すとともに、すれ違つても安全なように減速して道路左端を進行するか、一時停車して対向車の通過を待つて進行するなど、臨機の措置を講じて危害の発生を未然に防止すべき注意義務がある。",
+  "ref_law": "刑法211条",
+  "lawsuit_id": "59027",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59027",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/027/059027_hanrei.pdf"
+}

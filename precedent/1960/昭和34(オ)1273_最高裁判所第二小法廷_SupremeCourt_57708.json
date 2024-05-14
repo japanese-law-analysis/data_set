@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 4,
+    "day": 19
+  },
+  "case_number": "昭和34(オ)1273",
+  "case_name": "家屋収去、土地明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第17巻3号518頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 10,
+    "day": 1
+  },
+  "gist": "一　民法附則第二五条第二項により新法によつて相続人となる者は、同法施行当時生存していることを要するか\n二　右同条同項による相続人が応急措置法施行前に死亡した場合におけるその相続の準拠法",
+  "case_gist": "一　民法附則第二五条第二項により新法によつて相続人となる者は、同法施行当時生存している必要はないものと解すべきである。\n二　右同条同項による相続人が応急措置法施行前に死亡した場合には、その相続については旧法を適用すべきである。",
+  "ref_law": "民法（昭和22年法律222号）附則25条",
+  "lawsuit_id": "57708",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57708",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/708/057708_hanrei.pdf"
+}

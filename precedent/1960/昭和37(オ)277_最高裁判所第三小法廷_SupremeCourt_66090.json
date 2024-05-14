@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 1,
+    "day": 22
+  },
+  "case_number": "昭和37(オ)277",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第64号115頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 12,
+    "day": 20
+  },
+  "gist": "賃借権の譲渡に対する黙示の承諾がないとされた事例。",
+  "case_gist": "賃借建物が賃貸人方の裏手に在り、その賃借権を譲り受けたとする者が賃貸人方の家人と顔をあわせた際挨拶をかわし平穏に交際をしてきたという事情があつても、一方、賃貸人としては右譲受人からの賃料名義の金員の受取を拒絶してきたため、同人において賃料相当額の供託をしていること、賃貸人は近隣に住む自己の賃借人を通じて右譲受人に対し右建物の明渡の請求を続けてきた等の事実関係のもとでは、賃借権譲渡について黙示の承諾があつたとは認め難い。",
+  "ref_law": "民法612条",
+  "lawsuit_id": "66090",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66090",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/090/066090_hanrei.pdf"
+}

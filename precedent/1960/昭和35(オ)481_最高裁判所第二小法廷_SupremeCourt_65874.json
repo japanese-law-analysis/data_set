@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 1,
+    "day": 25
+  },
+  "case_number": "昭和35(オ)481",
+  "case_name": "家屋明渡等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第64号171頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 1,
+    "day": 29
+  },
+  "gist": "借家法第一条の二の正当の事由がないとされた事例。",
+  "case_gist": "借家人が繁華街を遠ざかり、菓子店としての従来の収益を維持することの困難なことなどから賃貸人の解約申入に正当事由がないとされた。",
+  "ref_law": "借家法1条の2",
+  "lawsuit_id": "65874",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=65874",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/874/065874_hanrei.pdf"
+}

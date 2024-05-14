@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 1,
+    "day": 13
+  },
+  "case_number": "昭和41(行ツ)73",
+  "case_name": "選挙の無効請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第86号33頁",
+  "original_court_name": "高松高等裁判所",
+  "original_case_number": "昭和39(行ケ)2",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 5,
+    "day": 30
+  },
+  "gist": "瑕疵ある不在事由証明書による不在者投票請求の受理を違法と認めた事例",
+  "case_gist": "町長が公職選挙法施行令第五二条第一項所定の証明権限により作成した不在事由証明書であることに信頼して不在者投票を許容したものであつても、右証明書自在に不在事由を確認するに足りない記載の不備その他の瑕疵の存するかぎり、右不在者投票請求の受理は違法たるを免れない。",
+  "ref_law": "公職選挙法49条，同法施行令50条，同法施行令52条",
+  "lawsuit_id": "66588",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66588",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/588/066588_hanrei.pdf"
+}

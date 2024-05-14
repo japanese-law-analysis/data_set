@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 12,
+    "day": 23
+  },
+  "case_number": "昭和35(あ)1432",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "刑集　第14巻14号2221頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 5,
+    "day": 12
+  },
+  "gist": "公職選挙法第二二一条第三項にいう「公職の候補者」の意義。",
+  "case_gist": "公職選挙法第二二一条第三項にいう「公職の候補者」とは、同法の規定にもとづく正式の立候補届出または推薦届出により候補者としての地位を有するに至つた者をいうものと解すべきであり、今だ正式の届出をしない、いわゆる「立候補しようとする特定人」を包含しないものと解するを相当する。",
+  "ref_law": "公職選挙法221条1項1号，公職選挙法221条3項，公訴法411条1号",
+  "lawsuit_id": "51698",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51698",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/698/051698_hanrei.pdf"
+}

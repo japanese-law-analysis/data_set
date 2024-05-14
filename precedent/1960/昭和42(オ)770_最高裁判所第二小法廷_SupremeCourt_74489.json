@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 11,
+    "day": 10
+  },
+  "case_number": "昭和42(オ)770",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第89号149頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和34(ネ)1594",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 3,
+    "day": 27
+  },
+  "gist": "会社の運転手が私用のため会社所有の自動車を無断運行中事故を発生させた場合右会社が自動車損害賠償保障法第三条にいう「自己の為に自動車を運行の用に供する者」にあたるとされた事例",
+  "case_gist": "会社の運転手が会社所有の自動車を私用に使うことを禁止していた会社の規則に反して夜間右自動車を無断運転し帰社する途中事故を起こした等原判示事実関係（一、二審判決理由参照）のもとにおいては、右会社は、自動車損害賠償保障法第三条にいう「自己の為に自動車を運行の用に供する者」にあたると認めるのが相当である。",
+  "ref_law": "自動車損害賠償保障法3条",
+  "lawsuit_id": "74489",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74489",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/489/074489_hanrei.pdf"
+}

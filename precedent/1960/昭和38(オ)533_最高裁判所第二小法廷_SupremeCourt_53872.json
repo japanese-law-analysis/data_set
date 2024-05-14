@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 10,
+    "day": 23
+  },
+  "case_number": "昭和38(オ)533",
+  "case_name": "農地買収処分無効確認等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第18巻8号1784頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 1,
+    "day": 31
+  },
+  "gist": "所有者を誤認してなされた農地買収処分が無効と解された事例。",
+  "case_gist": "登記簿上の所有名義人が長年農地を所有していた場合において、その農地を第三者の所有と誤認してなされた買収処分は、たとえ、その第三者が右所有者の女婿であり、世帯主であつたとしても、これを無効と解すべきである。",
+  "ref_law": "自作農創設特別措置法9条",
+  "lawsuit_id": "53872",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53872",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/872/053872_hanrei.pdf"
+}

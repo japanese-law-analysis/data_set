@@ -1,0 +1,22 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 7,
+    "day": 13
+  },
+  "case_number": "昭和36(す)239",
+  "case_name": "訴訟費用の負担を命ずる裁判の執行免除の申立期間回復請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第15巻7号1082頁",
+  "original_court_name": "最高裁判所",
+  "gist": "訴訟費用の負担を命ずる裁判の執行免除の申立期間経過後の申立権回復請求。",
+  "case_gist": "訴訟費用の負担を命ずる裁判の執行免除の申立期間経過後の申立権回復請求は不適法である。",
+  "ref_law": "刑訴法500条，刑訴法362条",
+  "lawsuit_id": "50688",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50688",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/688/050688_hanrei.pdf"
+}

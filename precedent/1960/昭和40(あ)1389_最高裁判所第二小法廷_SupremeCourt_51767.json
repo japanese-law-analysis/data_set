@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 8,
+    "day": 26
+  },
+  "case_number": "昭和40(あ)1389",
+  "case_name": "出入国管理令違反、外国為替及び外国貿易管理法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "刑集　第20巻6号745頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 5,
+    "day": 31
+  },
+  "gist": "外国為替管理令第一九条第一項第二項に該当する者が支払手段等の輸出入にあたつて同令第二〇条の税関の確認を受けないことと外国為替及び外国貿易管理法第四五条第七〇条第一八号違反罪の成否。",
+  "case_gist": "外国為替管理令第一九条第一項もしくは第二項によつて、支払手段等を輸出又は輸入することのできる者が、その輸出入にあたつて、同令第二〇条に定める税関の確認を受けなかつたことは、外国為替及び外国貿易管理法第四五条、第七〇条第一八号違反の罪に該当しない。",
+  "ref_law": "外国為替及び外国貿易管理法45条，外国為替及び外国貿易管理法70条18号，外国為替管理令19条1項，外国為替管理令19条2項，外国為替管理令20条",
+  "lawsuit_id": "51767",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51767",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/767/051767_hanrei.pdf"
+}

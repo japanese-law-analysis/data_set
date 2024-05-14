@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 12,
+    "day": 8
+  },
+  "case_number": "昭和42(オ)802",
+  "case_name": "離婚無効確認請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第89号361頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和41(ネ)1700",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 4,
+    "day": 22
+  },
+  "gist": "無効の協議離婚の追認があつたと認められた事例",
+  "case_gist": "上告人と被上告人とが昭和二三年四、五月ごろ以降全くの別居状態にあり、事実上夫婦生活を営んでいないこと、右両名が昭和三七年三月三〇日の家事調停において、上告人が昭和二四年六月一一日付の届出をもつてなされた無効の協議離婚を認めることを前提にして、上告人が被上告人から右離婚にもとづく慰藉料の支払を受ける旨の合意をした等の事実完結のもとにおいては、上告人が右家事調停の際に、右無効の協議離婚を追認したと認めるものが相当である。",
+  "ref_law": "民法764条，民法739条，民法765条",
+  "lawsuit_id": "74491",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74491",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/491/074491_hanrei.pdf"
+}

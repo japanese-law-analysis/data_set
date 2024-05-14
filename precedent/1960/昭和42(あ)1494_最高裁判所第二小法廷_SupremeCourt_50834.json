@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 3,
+    "day": 16
+  },
+  "case_number": "昭和42(あ)1494",
+  "case_name": "道路交通法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第22巻3号81頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 5,
+    "day": 17
+  },
+  "gist": "道路交通法第二六条第一項にいわゆる車間距離の意義",
+  "case_gist": "道路交通法第二六条第一項の「その直前の車両等が急に停止したとき」とは、その車両等が制動機の制動力によつて停止した場合のみならず、それ以外の作用によつて異常な停止をした場合も含むものと解すべきである。",
+  "ref_law": "道路交通法26条1項，道路交通法120条1項2号",
+  "lawsuit_id": "50834",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50834",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/834/050834_hanrei.pdf"
+}

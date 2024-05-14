@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 1,
+    "day": 19
+  },
+  "case_number": "昭和33(オ)1106",
+  "case_name": "買戻等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第58号231頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 9,
+    "day": 8
+  },
+  "gist": "不動産の買戻特約と買主の代金不払",
+  "case_gist": "不動産の買戻特約がなされた場合に、買主が代金の支払を全然しないときには、売主は契約費用のみを提供して買戻権を行使できる。",
+  "ref_law": "民法579条，民法583条1項，民法541条",
+  "lawsuit_id": "63251",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63251",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/251/063251_hanrei.pdf"
+}

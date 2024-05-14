@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 10,
+    "day": 19
+  },
+  "case_number": "昭和34(オ)10",
+  "case_name": "懲罰決議等取消請求",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第14巻12号2633頁",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 10,
+    "day": 16
+  },
+  "gist": "地方公共団体の議会の議員に対する出席停止の懲罰議決と裁判権。",
+  "case_gist": "地方公共団体の議会の議員に対する出席停止の懲罰議決の適否は裁判権の外にある。",
+  "ref_law": "裁判所法3条，地方自治法134条，地方自治法135条",
+  "lawsuit_id": "52951",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52951",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/951/052951_hanrei.pdf"
+}

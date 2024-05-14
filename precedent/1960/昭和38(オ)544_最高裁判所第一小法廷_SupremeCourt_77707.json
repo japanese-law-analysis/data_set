@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 2,
+    "day": 4
+  },
+  "case_number": "昭和38(オ)544",
+  "case_name": "詐害行為取消等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第77号235頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 2,
+    "day": 28
+  },
+  "gist": "民法第四七四条第二項の解釈。",
+  "case_gist": "弁済をするにつき利害関係のある第三者は、債務者の意思に反しても弁済をすることができる。",
+  "ref_law": "民法474条2項",
+  "lawsuit_id": "77707",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77707",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/707/077707_hanrei.pdf"
+}

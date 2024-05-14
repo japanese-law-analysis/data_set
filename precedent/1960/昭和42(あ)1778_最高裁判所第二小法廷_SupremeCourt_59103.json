@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 8,
+    "day": 2
+  },
+  "case_number": "昭和42(あ)1778",
+  "case_name": "業務上過失傷害",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集刑　第168号641頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 6,
+    "day": 8
+  },
+  "gist": "刑訴法第四一一条第一号にあたるとされた事例―採証法則違背の場合",
+  "case_gist": "被告人の弁解に沿う目撃者の証言もあるのに、計算の便宜上の仮定あるいは実況見分調書添付図面の各点を縮尺によつて測定した数値を基礎にして計算した結果（原判文参照）に基づき、右弁解を排斥するのは、著しく採証法則に違背する判断である。",
+  "ref_law": "刑訴法411条1号",
+  "lawsuit_id": "59103",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59103",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/103/059103_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 6,
+    "day": 24
+  },
+  "case_number": "昭和31(あ)1708",
+  "case_name": "強制執行不正免脱",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "刑集　第14巻8号1103頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 4,
+    "day": 18
+  },
+  "gist": "一　刑法第九六条ノ二の「強制執行ヲ免ルル目約ヲ以テ」の意義\n二　執行名義の存在しない場合に同条の罪が成立するためには基本債権の存在することが必要か",
+  "case_gist": "一　刑法第九六条ノ二の「強制執行ヲ免ルル目約ヲ以テ」というためには、現実に強制執行を受けるおそれのある客観的な状態の下において、強制執行を免れる目的あることを要する。\n二　執行名義が存在せず、単に債権者が債権の履行請求訴訟を提起したという場合に、同条の罪が成立するためには、行為の当時における基本たる債権の存在が肯定されなければならない。",
+  "ref_law": "刑法96条ノ2",
+  "lawsuit_id": "51477",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51477",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/477/051477_hanrei.pdf"
+}

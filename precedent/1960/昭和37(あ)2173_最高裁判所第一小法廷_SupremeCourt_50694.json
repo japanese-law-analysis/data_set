@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 1,
+    "day": 23
+  },
+  "case_number": "昭和37(あ)2173",
+  "case_name": "非現住建造物放火、詐欺",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第18巻1号15頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 8,
+    "day": 10
+  },
+  "gist": "二個の刑が言渡された場合の未決勾留日数の裁定通算の方法。",
+  "case_gist": "被告人に対し二個の刑が言渡された場合の未決勾留日数の裁定通算は、まず、勾留状が発せられた罪に対する刑を本刑として、これに算入すべきである。",
+  "ref_law": "刑法21条，刑法45条後段，刑法50条",
+  "lawsuit_id": "50694",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50694",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/694/050694_hanrei.pdf"
+}

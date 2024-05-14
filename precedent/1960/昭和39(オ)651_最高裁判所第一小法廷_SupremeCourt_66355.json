@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 11,
+    "day": 10
+  },
+  "case_number": "昭和39(オ)651",
+  "case_name": "家屋明渡、同反訴、損害賠償請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第85号43頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和35(ネ)2046",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 2,
+    "day": 27
+  },
+  "gist": "控訴審口頭弁論における「第一審判決事実摘示のとおり陳述」の意味",
+  "case_gist": "控訴審口頭弁論において、原審口頭弁論の結果を陳述するに際し、「第一審判決事実摘示のとおり陳述する」旨弁論したときは、第一審の口頭弁論で主張した事項であつて、第一審判決の事実摘示に記載されていない事実は、控訴審口頭弁論では陳述されなかつたことになる。",
+  "ref_law": "民訴法377条，民訴法186条",
+  "lawsuit_id": "66355",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66355",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/355/066355_hanrei.pdf"
+}

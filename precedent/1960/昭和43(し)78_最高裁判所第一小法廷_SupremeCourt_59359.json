@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 11,
+    "day": 21
+  },
+  "case_number": "昭和43(し)78",
+  "case_name": "審判請求事件の抗告棄却決定に対する特別抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第169号527頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 9,
+    "day": 3
+  },
+  "gist": "いわゆる審判請求事件につき違憲の主張が判断の実益を欠くから適法な特別抗告理由にあたらないとされた事例",
+  "case_gist": "記録を調べてみると、申立人が本件被疑事実につき福島地方検察庁に告訴した当時すでに公訴時効の完成していたことが明らかであるから、同検察庁検察官森山英一が右被疑事実につき公訴を提起しない旨の処分をしたのは相当であるとした原決定の判断は相当であり、右被疑事実の内容である副検事による公訴提起が違憲であるかどうかの点について判断してみたところで、原決定の右判断になんら影響を及ぼすものではないから、所論違憲の主張は判断の実益を欠き、刑訴法第四三三条の抗告理由にあたらない。",
+  "ref_law": "刑訴法433条，刑訴法262条，刑訴法250条",
+  "lawsuit_id": "59359",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59359",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/359/059359_hanrei.pdf"
+}

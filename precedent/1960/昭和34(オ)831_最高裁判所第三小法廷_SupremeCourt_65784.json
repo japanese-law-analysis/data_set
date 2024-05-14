@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 12,
+    "day": 18
+  },
+  "case_number": "昭和34(オ)831",
+  "case_name": "売掛代金請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第63号687頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 4,
+    "day": 27
+  },
+  "gist": "継続してなした商品売買の代金の未済部分が消滅時効にかかるとされた事例。",
+  "case_gist": "商品売買の継続的取引において、各月取引分がその翌月に決済される取り決めであり、この取り決めが殆んど例外なく実行されていたときには、各月の取引高に対する代金の支払に一部未済があれば、その未済部分は独立に消滅時効にかかるものと解すべきである。",
+  "ref_law": "民法166条，民法173条1号",
+  "lawsuit_id": "65784",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=65784",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/784/065784_hanrei.pdf"
+}

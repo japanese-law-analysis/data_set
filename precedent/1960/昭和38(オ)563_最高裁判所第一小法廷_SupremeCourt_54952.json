@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 9,
+    "day": 26
+  },
+  "case_number": "昭和38(オ)563",
+  "case_name": "行政処分取消請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第17巻8号1060頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 2,
+    "day": 22
+  },
+  "gist": "立候補届不受理の取消を求める訴の適否。",
+  "case_gist": "選挙の立候補届を受理されなかつたからといつて、右不受理の取消を求める訴を提起することは、許されない。",
+  "ref_law": "行政事件訴訟法3条1項，公職選挙法202条，公職選挙法203条",
+  "lawsuit_id": "54952",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54952",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/952/054952_hanrei.pdf"
+}

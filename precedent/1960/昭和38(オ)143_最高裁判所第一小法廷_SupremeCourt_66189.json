@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 6,
+    "day": 27
+  },
+  "case_number": "昭和38(オ)143",
+  "case_name": "請求異議",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第66号759頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 9,
+    "day": 19
+  },
+  "gist": "公正証書の執行認諾の合意と民法第一一〇条。",
+  "case_gist": "公正証書の執行認諾の合意に民法第一一〇条の適用はない。",
+  "ref_law": "民法110条",
+  "lawsuit_id": "66189",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66189",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/189/066189_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 8,
+    "day": 25
+  },
+  "case_number": "昭和38(あ)515",
+  "case_name": "公務執行妨害、傷害",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第152号587頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 1,
+    "day": 21
+  },
+  "gist": "鉄道公安職員に対する暴行と公務執行妨害罪の成立。",
+  "case_gist": "鉄道公安職員は、日本国有鉄道法第三四条第一項により法令により公務に従事する者とみなされ、犯罪捜査のほか、鉄道公安職員基本規程により、鉄道業務の円滑な遂行のためこれを侵害するものを排除するなど警備的職務に従事するものであるから、その職務の執行にあたり、これに対して暴行を加えたときは、公務執行妨害罪が成立するものと解するのが相当である。",
+  "ref_law": "刑法95条，刑法7条，日本国有鉄道法34条1項，日本国有鉄道法32条，日本国有鉄道法2条，日本国有鉄道法3条，鉄道公安職員の職務に関する法律1条，鉄道公安職員の職務に関する法律8条，鉄道公安職員基本規程（昭和24年2月18日総裁達466号）3条，鉄道公安職員基本規程（昭和24年2月18日総裁達466号）5条",
+  "lawsuit_id": "69603",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=69603",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/603/069603_hanrei.pdf"
+}

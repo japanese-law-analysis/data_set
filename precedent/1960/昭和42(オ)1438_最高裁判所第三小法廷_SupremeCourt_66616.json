@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 9,
+    "day": 24
+  },
+  "case_number": "昭和42(オ)1438",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第92号369頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和42(ネ)105",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 9,
+    "day": 28
+  },
+  "gist": "交差点において追抜態勢にある自動車運転手の並進車に対する注意義務の範囲",
+  "case_gist": "交差点において追抜態勢にある自動車運転手は、特別の事情のないかぎり、並進車が交通法規に違反して進路を変えて、突然自車の進路に近寄つてくることまでも予想して、それによつて生ずる事故の発生を未然に防止するため徐行その他避譲措置をとるべき業務上の注意義務はないと解するのが相当である。",
+  "ref_law": "民法709条",
+  "lawsuit_id": "66616",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66616",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/616/066616_hanrei.pdf"
+}

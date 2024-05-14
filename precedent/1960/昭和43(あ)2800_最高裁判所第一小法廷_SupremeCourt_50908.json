@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 10,
+    "day": 2
+  },
+  "case_number": "昭和43(あ)2800",
+  "case_name": "名誉毀損",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第23巻10号1199頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 11,
+    "day": 25
+  },
+  "gist": "名誉毀損文書の原文の一部を起訴状に引用することが訴因を明示するための方法として違法でないとされた事例",
+  "case_gist": "本件起訴状における「外遊はもうかりまつせ、大阪府会滑稽譚」と題する文章原文の引用（起訴状参照）は、検察官が同文章のうち犯罪構成要件に該当すると思料する部分を抽出して記載したものであつて、本件訴因を明示するための方法として不当ではなく、また、裁判官に事件につき予断を生ぜしめるおそれのある書類の内容を引用したものというにはあたらない。",
+  "ref_law": "刑訴法256条",
+  "lawsuit_id": "50908",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50908",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/908/050908_hanrei.pdf"
+}

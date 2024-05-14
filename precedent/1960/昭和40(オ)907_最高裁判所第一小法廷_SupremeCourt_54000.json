@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 6,
+    "day": 26
+  },
+  "case_number": "昭和40(オ)907",
+  "case_name": "株券引渡等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第23巻7号1175頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和38(ネ)40",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 5,
+    "day": 31
+  },
+  "gist": "一、法人格のない財団として設立中の財団法人に訴訟上の当事者能力が認められた事例\n二、遺言による寄附行為の寄附財産について遺言執行者のした処分が有効とされた事例",
+  "case_gist": "一、遺言による寄附行為に基づく財団法人の設立を目的として、判示のように、代表機関を持ち、寄附財産を独立に管理運用し活動する財団は、設立中の財団法人として法人格のない財団にあたり、訴訟上の当事者能力を有する。\n二、遺言執行者が、遺言による寄附行為に基づく寄附財産として管理する相続財産の株式を、判示のように設立中の財団法人に帰属させ、その代表機関名義に名義を書き換える行為は、遺言の執行に必要な行為にあたり、これにより、相続人は株式についての権利を喪失する。",
+  "ref_law": "民法　34条・41条2項・42条2項・1012条1項・1013条，民訴法46条",
+  "lawsuit_id": "54000",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54000",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/000/054000_hanrei.pdf"
+}

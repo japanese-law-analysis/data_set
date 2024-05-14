@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 12,
+    "day": 15
+  },
+  "case_number": "昭和37(オ)550",
+  "case_name": "請求異議",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第20巻10号2089頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和35(ネ)1281",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 1,
+    "day": 31
+  },
+  "gist": "一　和解条項に基づく賃料不払による契約解除の事実は民訴法第五一八条第二項にいう「他ノ条件」にあたるか\n二　賃料不払を理由とする契約解除の効果を争つて和解調書に基づく執行力の排除を求めるための訴",
+  "case_gist": "一　和解調書において賃料を延滞したときは賃貸借契約を解除することができる旨の条項が定められた場合には、賃料不払による解除の事実は、民訴法第五一八条第二項にいう「他ノ条件」にあたらない。\n二　前項の場合において、賃料不払を理由とする契約解除の効果を争つて和解調書に基づく執行力の排除を求めるには、請求に関する異議の訴によるべきであつて、執行交付与に対する異議の訴によるべきではない。",
+  "ref_law": "民訴法518条2項，民訴法545条，民訴法546条",
+  "lawsuit_id": "53813",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53813",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/813/053813_hanrei.pdf"
+}

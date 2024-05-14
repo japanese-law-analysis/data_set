@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 8,
+    "day": 21
+  },
+  "case_number": "昭和36(オ)508",
+  "case_name": "農地買収無効確認請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第16巻8号1787頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 3,
+    "day": 1
+  },
+  "gist": "北海道旧土人保護法により無償下付を受けた土地の自作農創設特別措置法による買収の適否",
+  "case_gist": "北海道旧土人保護法により無償下付を受けた土地であつても、自作農創設特別措置法による買収は違法ではない。",
+  "ref_law": "自作農創設特別措置法3条1項，自作農創設特別措置法5条、北海道旧土人保護法1条、2条",
+  "lawsuit_id": "53068",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53068",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/068/053068_hanrei.pdf"
+}

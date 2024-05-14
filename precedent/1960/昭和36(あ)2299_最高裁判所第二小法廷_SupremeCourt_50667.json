@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 3,
+    "day": 23
+  },
+  "case_number": "昭和36(あ)2299",
+  "case_name": "殺人未遂",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第16巻3号305頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 7,
+    "day": 18
+  },
+  "gist": "殺人の目的で静脈内に空気を注射する行為と不能犯",
+  "case_gist": "殺人の目的で静脈内に空気を注射したときは、右空気の量が致死量以下であつても、右行為は不能犯とはいえない。",
+  "ref_law": "刑法203条，刑法199条",
+  "lawsuit_id": "50667",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50667",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/667/050667_hanrei.pdf"
+}

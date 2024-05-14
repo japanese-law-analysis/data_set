@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 6,
+    "day": 13
+  },
+  "case_number": "昭和42(オ)864",
+  "case_name": "強制執行異議",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第91号279頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和41(ネ)1500",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 4,
+    "day": 28
+  },
+  "gist": "第三者異議の訴と訴の利益",
+  "case_gist": "第三者異議の訴の係属中に強制執行が終了したときは、右訴はその利益を失う。",
+  "ref_law": "民訴法545条1項",
+  "lawsuit_id": "70305",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70305",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/305/070305_hanrei.pdf"
+}

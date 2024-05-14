@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 5,
+    "day": 29
+  },
+  "case_number": "昭和40(あ)311",
+  "case_name": "森林法違反、窃盗",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第19巻4号426頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 1,
+    "day": 26
+  },
+  "gist": "森林窃盗罪の既遂の時期。",
+  "case_gist": "窃取の意思をもつて森林の産物である立木を伐採したときは、その伐採行為の終了と同時に森林窃盗罪の既遂となる。",
+  "ref_law": "森林法197条",
+  "lawsuit_id": "50765",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50765",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/765/050765_hanrei.pdf"
+}

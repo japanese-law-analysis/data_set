@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 5,
+    "day": 31
+  },
+  "case_number": "昭和42(オ)1023",
+  "case_name": "所有権移転登記手続請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第22巻5号1137頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和40(ネ)475",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 6,
+    "day": 27
+  },
+  "gist": "遺言執行者がある場合と遺贈義務の履行を求める訴の被告適格",
+  "case_gist": "遺言執行者がある場合においては、特定不動産の受遺者から遺言の執行として目的不動産の所有権移転登記手続を求める訴の被告適格を有する者は、遺言執行者にかぎられ、相続人はその適格を有しない。",
+  "ref_law": "民訴法45条，民法1012条，民法1013条，民法1014条，民法1015条",
+  "lawsuit_id": "55061",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55061",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/061/055061_hanrei.pdf"
+}

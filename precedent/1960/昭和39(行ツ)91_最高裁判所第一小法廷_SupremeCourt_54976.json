@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 6,
+    "day": 27
+  },
+  "case_number": "昭和39(行ツ)91",
+  "case_name": "滞納処分取消請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第22巻6号1379頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和37(ネ)1292",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 7,
+    "day": 7
+  },
+  "gist": "国税徴収権の消滅時効の中断と民法第一五三条の準用の有無",
+  "case_gist": "徴税機関が、未納国税額につき納付を催告し、その後六箇月内に差押等の手段をとつたときは、民法第一五三条の準用により、国税徴収権の消滅時効は中断されるものと解すべきである。",
+  "ref_law": "旧国税徴収法（明治30年法律第21号）1条，旧国税徴収法（明治30年法律第21号）10条，会計法31条，民法147条，民法153条",
+  "lawsuit_id": "54976",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54976",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/976/054976_hanrei.pdf"
+}

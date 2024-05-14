@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 12,
+    "day": 25
+  },
+  "case_number": "昭和37(し)29",
+  "case_name": "強盗殺人被告事件の再審請求事件についてなした棄却決定に対する即時抗告の申立棄却決定に対する特別抗告",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第145号685頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 7,
+    "day": 3
+  },
+  "gist": "刑訴法第四四五条にいう「事実の取調」と憲法第三七条第二項。",
+  "case_gist": "憲法三七条二項は、刑事被告人に対し、受訴裁判所の訴訟手続において、すべての証人に対して審問する機会を充分に与えられる旨を規定したものであること当裁判所の判例（昭和二四年（つ）第九三号同二五年三月六日大法廷決定刑集四巻三号三〇九頁、昭和二五年（あ）第七九七号同二七年六月一八日大法廷判決刑集六巻六号八〇一頁）である。しからば第一審が再審請求の理由の有無についてする事実の取調として証人の尋問をするに当り、申立人に立会および尋問の機会を与えなかつたとしても、そのことをもつて憲法三七条二項に違反するということはできないのである。",
+  "ref_law": "刑訴法445条，刑訴規則33条，憲法37条2項",
+  "lawsuit_id": "76005",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=76005",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/005/076005_hanrei.pdf"
+}

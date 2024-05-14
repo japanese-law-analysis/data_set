@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 5,
+    "day": 15
+  },
+  "case_number": "昭和42(あ)2694",
+  "case_name": "詐欺、公文書毀棄、器物損壊",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第167号167頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 10,
+    "day": 27
+  },
+  "gist": "未完成の供述録取書は刑法第二五八条にいう公務所の用に供する文書にあたるか",
+  "case_gist": "司法警察員が被疑者の供述を録取した調書は、いまだ被疑者および司法警察員の署名押印がなくても、刑法第二五八条にいう公務所の用に供する文書にあたるものと解すべきである。",
+  "ref_law": "刑法258条，刑訴法198条",
+  "lawsuit_id": "59151",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59151",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/151/059151_hanrei.pdf"
+}

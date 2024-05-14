@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 5,
+    "day": 19
+  },
+  "case_number": "昭和38(オ)1021",
+  "case_name": "土地所有権確認等請求および反訴請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第20巻5号947頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和36(ネ)647",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 5,
+    "day": 23
+  },
+  "gist": "共有物の持分の価格が過半数をこえる者が共有物を単独で占有する他の共有者に対して共有物の明渡請求をすることができるか",
+  "case_gist": "共有物の持分の価格が過半数をこえる者は、共有物を単独で占有する他の共有者に対し、当然には、その占有する共有物の明渡を請求することができない。",
+  "ref_law": "民法249条",
+  "lawsuit_id": "57745",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57745",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/745/057745_hanrei.pdf"
+}

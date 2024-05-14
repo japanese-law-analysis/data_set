@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 12,
+    "day": 22
+  },
+  "case_number": "昭和40(オ)969",
+  "case_name": "詐害行為取消請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第20巻10号2168頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "昭和38(ネ)411",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 5,
+    "day": 10
+  },
+  "gist": "民法第九四条第二項の「善意」の立証責任",
+  "case_gist": "第三者が民法第九四条第二項の保護をうけるためには、自己が善意であつたことを立証しなければならない。",
+  "ref_law": "民法94条",
+  "lawsuit_id": "54002",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54002",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/002/054002_hanrei.pdf"
+}

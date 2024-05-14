@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 11,
+    "day": 24
+  },
+  "case_number": "昭和42(オ)813",
+  "case_name": "建物明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第89号257頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_case_number": "昭和41(ネ)161",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 3,
+    "day": 14
+  },
+  "gist": "判決の更正決定が許されるとされた事例",
+  "case_gist": "当事者の提出した書証、援用した証言ならびに本人尋問の結果の記載を逸脱したことが記載上明らかに認められる場合には、民訴法第一九四条にいう「明白ナル誤謬アルトキ」として更正決定することができる。",
+  "ref_law": "民訴法194条",
+  "lawsuit_id": "77803",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77803",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/803/077803_hanrei.pdf"
+}

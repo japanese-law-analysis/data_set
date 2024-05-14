@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 10,
+    "day": 31
+  },
+  "case_number": "昭和37(あ)343",
+  "case_name": "所得税法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第148号1037頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 1,
+    "day": 16
+  },
+  "gist": "清算取引所得（人絹の作物取引による所得）が所得税法第九条第一項第九号の一時所得ではなく、同法条第四号の事業所得と認められた事例。",
+  "case_gist": "清算所得を得る目的で自己の主宰する会社の人的物的施設を利用し又は他店を利用して、年間、売り買いともに数百件の人絹清算取引の委託をなし、取引金額二億円に近く、利益所得も約七八〇万円ないし約二、八〇〇万円にのぼる本件清算取引所得は、営利を目的とする継続的に行う事業による所得として所得税法上の事業所得と認むるを相当し、同法上の一時所得と認むべきものではないとした原判示は正当である。",
+  "ref_law": "所定得法9条1項4号，所得税法9条1項9号，所定得法69条1項，所得税法73条",
+  "lawsuit_id": "58759",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58759",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/759/058759_hanrei.pdf"
+}

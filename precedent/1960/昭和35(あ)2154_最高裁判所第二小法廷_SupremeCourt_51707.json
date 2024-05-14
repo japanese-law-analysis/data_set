@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 5,
+    "day": 10
+  },
+  "case_number": "昭和35(あ)2154",
+  "case_name": "賍物寄蔵",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第17巻4号261頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 8,
+    "day": 30
+  },
+  "gist": "終戦時米占領軍により投棄されて海底にある旧日本軍所属の爆発物件等の所有権の帰属。",
+  "case_gist": "終戦時日本政府から引渡され、引渡と同時に連合国の所有となつた旧日本軍所属の一切の兵器、爆薬、爆発物等のうち、連合国たる米占領軍により、作戦上の敵対行為の一時的抑制ないし危険性の除去手段として、海中に投棄された本件爆発物件等は、投棄後も依然として連合国の所有に属していたもので、昭和二七年四月二八日講和条約の発効後は日本政府に全面的に返還され、爾来海底有姿のまま日本国の所有に帰したものである。",
+  "ref_law": "刑法256条2項",
+  "lawsuit_id": "51707",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51707",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/707/051707_hanrei.pdf"
+}

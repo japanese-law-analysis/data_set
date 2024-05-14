@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 11,
+    "day": 24
+  },
+  "case_number": "昭和35(あ)1057",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第135号795頁",
+  "original_court_name": "仙台高等裁判所\n        　秋田支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 4,
+    "day": 6
+  },
+  "gist": "選挙人の氏名詐称について投票管理者側の知情と公職選挙法第二三七条の罪の成否。",
+  "case_gist": "仮に所論のように投票管理者その他の投票係員がその情（註、当該選挙人でない者が、他人名義の投票場入場券で入場し投票すること）を知つていたとしても、公職選挙法二三七条二項の罪の成立を妨げるものではない。",
+  "ref_law": "公職選挙法237条2項",
+  "lawsuit_id": "73080",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=73080",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/080/073080_hanrei.pdf"
+}

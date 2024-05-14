@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 10,
+    "day": 4
+  },
+  "case_number": "昭和36(あ)2883",
+  "case_name": "恐喝、横領、弁護士法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第16巻10号1418頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 11,
+    "day": 17
+  },
+  "gist": "弁護士法第七二条にあたるとされた事例。",
+  "case_gist": "弁護士でない者が報酬を得る目的で、原判示の事情のもとで債権者から債権の取立の委任を受けて、その取立のため請求、弁済の受領、債務の免除等の諸種の行為をすることは、弁護士法第七二条の、「その他一般の法律事件」に関して、「その他の法律事務」を取り扱つた場合に該当する。",
+  "ref_law": "弁護士法72条，弁護士法77条",
+  "lawsuit_id": "51736",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51736",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/736/051736_hanrei.pdf"
+}

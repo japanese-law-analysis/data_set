@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 3,
+    "day": 11
+  },
+  "case_number": "昭和38(あ)2395",
+  "case_name": "道路交通法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第18巻3号85頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 7,
+    "day": 17
+  },
+  "gist": "道路交通法第二条第一八号にいわゆる「駐車」にあたるとされた事例。",
+  "case_gist": "普通乗用自動車を運転中、電話をかける用件が生じたのでそのエンジンを止めた上、その傍から離れ、七メートル離れた、店頭の赤電話のところに行き、まず電話帳をくつて先方の番号を調べ、次いで電話をかけようとしたときは、いわゆる「運転者がその車両等を離れて直ちに運転することができない状態」にあつたものとして、道路交通法第二条第一八号後段に定める「駐車」にあたるものと解すべきである。",
+  "ref_law": "道路交通法2条18号，道路交通法45条2項，道路交通法120条1項5号",
+  "lawsuit_id": "50714",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50714",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/714/050714_hanrei.pdf"
+}

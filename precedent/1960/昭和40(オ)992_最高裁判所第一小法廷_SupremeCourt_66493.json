@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 9,
+    "day": 29
+  },
+  "case_number": "昭和40(オ)992",
+  "case_name": "不動産所有権確認請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集民　第84号473頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "昭和39(ネ)446",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 6,
+    "day": 7
+  },
+  "gist": "未墾地買収地の売渡を受けた者が右未墾地の登記簿を閉鎖することなく新たに保存登記を経由した場合にその後右土地を被買収者から譲り受けてその旨の取得登記を受けたときと民法第一七七条の適用",
+  "case_gist": "甲所有の山林につき国がいわゆる未墾地買収をした後、乙が甲から右山林を二重に譲り受けてその旨の所有権取得登記をした場合には、右取得登記以前に国から売渡を受けた丙が右山林の登記簿を閉鎖することなく、新たに所有権保存登記を了していたとしても、右保存登記は二重登記であつて効力がないから、結局、丙は右山林の所有権取得をもつて乙に対抗できない。",
+  "ref_law": "民法177条，自作農創設特別措置法30条，自作農創設特別措置法41条",
+  "lawsuit_id": "66493",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66493",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/493/066493_hanrei.pdf"
+}

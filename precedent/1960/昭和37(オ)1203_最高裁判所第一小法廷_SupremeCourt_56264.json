@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 7,
+    "day": 8
+  },
+  "case_number": "昭和37(オ)1203",
+  "case_name": "請求異議",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第19巻5号1170頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和35(ネ)162",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 7,
+    "day": 6
+  },
+  "gist": "任意競売と請求異議の訴。",
+  "case_gist": "競売法による競売手続には民訴法第五四五条は準用されないものと解するのが相当である。",
+  "ref_law": "競売法第1章，民訴法545条",
+  "lawsuit_id": "56264",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56264",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/264/056264_hanrei.pdf"
+}

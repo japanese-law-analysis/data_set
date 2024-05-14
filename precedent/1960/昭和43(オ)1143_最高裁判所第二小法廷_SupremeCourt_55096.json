@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 2,
+    "day": 28
+  },
+  "case_number": "昭和43(オ)1143",
+  "case_name": "農業協同組合理事当選取消決定無効確認請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第23巻2号547頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "昭和43(ネ)70",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 8,
+    "day": 7
+  },
+  "gist": "農業協同組合法四二条の二の趣旨",
+  "case_gist": "農業協同組合法四二条の二の規定は、単に同条所定の役職員に対し競業避止義務を課したにとどまり、その就任資格を制限した規定ではない。",
+  "ref_law": "農業協同組合法42条の2",
+  "lawsuit_id": "55096",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55096",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/096/055096_hanrei.pdf"
+}

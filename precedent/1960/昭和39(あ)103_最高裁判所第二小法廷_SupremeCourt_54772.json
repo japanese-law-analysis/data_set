@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 7,
+    "day": 9
+  },
+  "case_number": "昭和39(あ)103",
+  "case_name": "窃盗、常習特殊窃盗",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第18巻6号375頁",
+  "original_court_name": "福岡高等裁判所\n        　宮崎支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 10,
+    "day": 22
+  },
+  "gist": "一　常習犯の中間に別罪の確定裁判が介在した場合における罪数。\n\n二　右常習犯と確定裁判を経た罪とは併合罪か。\n\n三　刑訴法第四一一条第一号に当らないとされた事例。",
+  "case_gist": "一　常習犯の中間に別罪の確定裁判が介在しても、そのためにその常習犯が二個の常習犯に分割されるものではないと解すべきである。\n\n二　右の場合、その常習犯は別罪の裁判確定後に終了したものであるから、右確定裁判を経た罪とは刑法第四五条の併合罪の関係に立つものではない。\n\n三　原判決が、刑法第四五条の適用を誤り二個の刑を言い渡すべきであるのに一個の刑を言い渡した場合には、その違法は判決に影響を及ぼすこと明らかであるが、原判決を破棄しなければ著しく正義に反するものとは認められない。",
+  "ref_law": "刑法45条，盗犯等ノ防止及処分ニ関スル法律2条4号，刑訴法411条1号",
+  "lawsuit_id": "54772",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54772",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/772/054772_hanrei.pdf"
+}

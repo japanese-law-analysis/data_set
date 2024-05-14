@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 4,
+    "day": 12
+  },
+  "case_number": "昭和35(オ)76",
+  "case_name": "賃貸借解除請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "却下",
+  "article_info": "集民　第60号153頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 9,
+    "day": 25
+  },
+  "gist": "勝訴の当事者と上告の利益",
+  "case_gist": "勝訴の当事者は上告の利益を欠き、上告は不適法である。",
+  "ref_law": "民訴法393条",
+  "lawsuit_id": "77636",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77636",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/636/077636_hanrei.pdf"
+}

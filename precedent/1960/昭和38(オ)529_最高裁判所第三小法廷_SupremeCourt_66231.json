@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 10,
+    "day": 27
+  },
+  "case_number": "昭和38(オ)529",
+  "case_name": "所有権移転登記等請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第75号1037頁",
+  "original_court_name": "仙台高等裁判所\n        　秋田支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 2,
+    "day": 13
+  },
+  "gist": "審理不尽理由不備があるとされた事例。",
+  "case_gist": "株主が株金払込のために他より借り受けた借入金債務につき会社自体が弁済の責に任ずることは、異例に属するから、これに伴う求償関係について何ら審理を尽さず、漫然右事実を認定した点に理由不備の違法がある。",
+  "ref_law": "民訴法395条1項6号",
+  "lawsuit_id": "66231",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66231",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/231/066231_hanrei.pdf"
+}

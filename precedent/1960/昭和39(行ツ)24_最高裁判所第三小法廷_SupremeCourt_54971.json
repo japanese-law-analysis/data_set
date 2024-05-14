@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 1,
+    "day": 28
+  },
+  "case_number": "昭和39(行ツ)24",
+  "case_name": "土地所有権移転登記抹消登記手続等請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第23巻1号32頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "昭和37(ネ)232",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 12,
+    "day": 18
+  },
+  "gist": "一、土地改良法（昭和三九年法律第九四号による改正前のもの）五一条による一時利用地指定の性質\n\n二、一時利用地の指定を受けながら換地を交付されない者が右一時利用地を他人の換地とした処分の無効確認を求める利益の有無",
+  "case_gist": "一、土地改良法（昭和三九年法律第九四号による改正前のもの）五一条による一時利用地の指定は、その指定地につき存続期間の法定された一時的な使用収益を許容するものにすぎず、これを将来そのまま換地とするために行なう処分ではない。\n\n二、土地改良区の土地改良事業の施行にあたり、一時利用地の指定を受けながらこれに対応する換地を交付されなかつた者は、右一時利用地を他人の換地とした処分の無効確認を求める利益を有しない。",
+  "ref_law": "土地改良法（昭和39年法律第94号による改正前のもの）51条，行政事件訴訟特例法1条，行政事件訴訟法附則8条",
+  "lawsuit_id": "54971",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54971",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/971/054971_hanrei.pdf"
+}

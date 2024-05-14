@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 12,
+    "day": 4
+  },
+  "case_number": "昭和43(オ)851",
+  "case_name": "債権存在確認請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第23巻12号頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和41(ネ)1461",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 4,
+    "day": 26
+  },
+  "gist": "会社更生法一三八条一項後段の規定によつて調査することとなつた更生債権または更生担保権と届出期間の徒過を事由とする異議の許否",
+  "case_gist": "更生債権または更生担保権の届出が届出期間経過後になされ、しかも、会社更生法一二七条所定の要件をそなえないものであつても、管財人、更生債権者、更生担保権者および株主に異議がなく、調査の一般期日においてその調査をすることとなつた以上、前記の期間の徒過を事由とする異議は許されない。",
+  "ref_law": "会社更生法127条，会社更生法138条1項，会社更生法143条",
+  "lawsuit_id": "51930",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51930",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/930/051930_hanrei.pdf"
+}

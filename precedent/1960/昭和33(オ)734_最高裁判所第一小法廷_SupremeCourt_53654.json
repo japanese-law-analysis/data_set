@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 6,
+    "day": 2
+  },
+  "case_number": "昭和33(オ)734",
+  "case_name": "所有権移転登記手続請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第14巻7号1192頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 5,
+    "day": 27
+  },
+  "gist": "代物返済の予約が公序良俗に反するとはいえないとされた事例。",
+  "case_gist": "金融業者が、金二〇万円を、弁済期一ケ月後、利息一ケ月九分の約で貸し付けるにあたり、借主が右債務の支払を怠つたときは、貸主はその支払にかえて時価八〇万円を下らない不動産の所有権を取得することができる旨代物返済の予約をした場合であつても、貸主が、巨利を博すべくはじめから右不動産を処分する意図をもつて、借主側の窮迫、無経験ないし軽卒に乗じこれを提供させたものと認めがたいときは、ただちに右予約を公序良俗に反し無効のものと解することはできない。",
+  "ref_law": "民法90条，民法482条",
+  "lawsuit_id": "53654",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53654",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/654/053654_hanrei.pdf"
+}

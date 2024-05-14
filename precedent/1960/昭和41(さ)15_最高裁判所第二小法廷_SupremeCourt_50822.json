@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 2,
+    "day": 10
+  },
+  "case_number": "昭和41(さ)15",
+  "case_name": "強盗殺人、窃盜",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "刑集　第21巻1号271頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 11,
+    "day": 27
+  },
+  "gist": "非常上告における破棄自判の標準時",
+  "case_gist": "刑訴法第四五八条第一号但書により更になされるべき判決は、原判決の時を標準とするのが相当である。",
+  "ref_law": "刑訴法458条",
+  "lawsuit_id": "50822",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50822",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/822/050822_hanrei.pdf"
+}

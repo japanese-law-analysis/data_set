@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 3,
+    "day": 28
+  },
+  "case_number": "昭和42(あ)2625",
+  "case_name": "傷害、銃砲刀剣類所持等取締法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第166号565頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 10,
+    "day": 31
+  },
+  "lawsuit_id": "59144",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59144",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/144/059144_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 5,
+    "day": 25
+  },
+  "case_number": "昭和41(オ)358",
+  "case_name": "第三者異議",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第87号815頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "昭和40(ネ)208",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 12,
+    "day": 24
+  },
+  "gist": "登記の欠缺を主張しうる第三者にあたらないとされた事例",
+  "case_gist": "不動産の売買の事実を知つたうえ、両当事者の了承をえて売主の受けるべき売買代金から自己の売主に対する債権の弁済を受けた者は、右買主に対し、登記の欠缺を主張する正当の利益をする第三者にあたらない。",
+  "ref_law": "民法177条",
+  "lawsuit_id": "70225",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70225",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/225/070225_hanrei.pdf"
+}

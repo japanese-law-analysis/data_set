@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 3,
+    "day": 17
+  },
+  "case_number": "昭和32(オ)993",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第14巻3号451頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 6,
+    "day": 29
+  },
+  "gist": "運送人の債務不履行につき過失がないとはいえないとされた事例。",
+  "case_gist": "運送人甲の使用人乙が、かつて荷受人を天草郡ａ町丙（設立準備中の有限会社）とする物品運送に従事した際、丙の設立事務所に目的物を運送したことがあるにもかかわらず、約一ケ月後に締結された右と同様の荷受人の表示がある運送契約において、運送品を丁の指示に従い同人の居宅に配達してこれを滅失させたときは、前記設立事務所にはこれを示すに足りる設備もなく、丁は当時丙の設立準備委員の一人であり、かつ乙は配達をするにあたり丁から同人名義の甲に対する虚偽の注文書写を呈示されたなどの事情があつても、甲に運送契約上の債務不履行につき過失がないとはいえない。",
+  "ref_law": "商法577条",
+  "lawsuit_id": "54877",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54877",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/877/054877_hanrei.pdf"
+}

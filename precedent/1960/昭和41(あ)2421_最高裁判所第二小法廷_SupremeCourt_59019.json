@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 2,
+    "day": 20
+  },
+  "case_number": "昭和41(あ)2421",
+  "case_name": "窃盜、強盗、強盗未遂",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第162号441頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 9,
+    "day": 28
+  },
+  "gist": "ある罪について逮捕勾留中の被疑者が官に発覚していない同種の余罪を自発的に供述した場合と自首の成否",
+  "case_gist": "Ａ窃盗事実について逮捕勾留中の被疑者が、ＢないしＥの窃盗の各事実について、犯人の何人たるかは勿論、犯罪事実さえ全く官に発覚していない時期に、自発的に供述した時は自首が成立する。",
+  "ref_law": "刑法42条",
+  "lawsuit_id": "59019",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59019",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/019/059019_hanrei.pdf"
+}

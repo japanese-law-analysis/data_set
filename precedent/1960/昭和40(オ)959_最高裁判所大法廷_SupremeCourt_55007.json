@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 7,
+    "day": 17
+  },
+  "case_number": "昭和40(オ)959",
+  "case_name": "貸金請求",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第22巻7号1505頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和39(ネ)251",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 6,
+    "day": 9
+  },
+  "gist": "利息制限法所定の制限をこえる利息の定のある金銭消費貸借において遅延損害金について特約のない場合と遅延損害金の率",
+  "case_gist": "利息制限法所定の制限をこえる利息の定のある金銭消費貸借において遅延損害金について特約のない場合には、遅延損害金は、同法第一条第一項所定の利率にまで減縮される利息と同率に減縮されると解するのが相当である。",
+  "ref_law": "民法419条1項，利息制限法1条1項，利息制限法4条1項",
+  "lawsuit_id": "55007",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55007",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/007/055007_hanrei.pdf"
+}

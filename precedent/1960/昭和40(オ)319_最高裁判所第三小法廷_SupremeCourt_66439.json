@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 11,
+    "day": 22
+  },
+  "case_number": "昭和40(オ)319",
+  "case_name": "所有権移転登記抹消登記手続請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第85号215頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和38(ネ)501",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 12,
+    "day": 21
+  },
+  "gist": "裁判所は当事者双方不出頭の場合に弁論を終結し呼出をせずに判決言渡をすることができるか",
+  "case_gist": "裁判所は、訴訟が裁判をするに熟するときは、当事者双方不出頭の場合でも弁論を終結し、判決言渡期日を指定することができ、この場合には更めて呼出をせずに、該指定期日に判決を言渡しても違法ではない。",
+  "ref_law": "民訴法182条，民訴法238条",
+  "lawsuit_id": "66439",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66439",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/439/066439_hanrei.pdf"
+}

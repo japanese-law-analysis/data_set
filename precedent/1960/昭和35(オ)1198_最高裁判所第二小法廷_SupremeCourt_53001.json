@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 7,
+    "day": 20
+  },
+  "case_number": "昭和35(オ)1198",
+  "case_name": "農地売渡決議取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第16巻8号1621頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 8,
+    "day": 1
+  },
+  "gist": "農業委員会が国の所有農地についてした売渡決議及び関係書類の知事への進達は行政庁の処分か。",
+  "case_gist": "農業委員会が国の所有農地についてした売渡決議及び関係書類の知事への進達は、行政事件訴訟特例法にいう行政庁の処分ではない。",
+  "ref_law": "行政事件訴訟特例法1条，農地法36条，農地法37条，農地法38条",
+  "lawsuit_id": "53001",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53001",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/001/053001_hanrei.pdf"
+}

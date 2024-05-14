@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 4,
+    "day": 24
+  },
+  "case_number": "昭和43(オ)1091",
+  "case_name": "建物収去土地明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第23巻4号855頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和40(ネ)831",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 7,
+    "day": 10
+  },
+  "gist": "借地権の無断譲渡について賃貸人に対する背信行為と認められない特別の事情があるとされた事例",
+  "case_gist": "夫は宅地を賃貸し妻はその地上に建物を所有して同居生活をしていた夫婦の離婚に伴い、夫が妻へ借地権を譲渡した場合において、賃貸人は右同居生活および妻の建物所有を知つて夫に宅地を賃貸したものである等の判示事情があるときは、借地権の譲渡につき賃貸人の承諾がなくても、賃貸人に対する背信行為とは認められない特別の事情があるというべきである。",
+  "ref_law": "民法612条",
+  "lawsuit_id": "54113",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54113",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/113/054113_hanrei.pdf"
+}

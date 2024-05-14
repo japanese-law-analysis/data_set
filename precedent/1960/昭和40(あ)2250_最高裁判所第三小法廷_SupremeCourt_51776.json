@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 7,
+    "day": 26
+  },
+  "case_number": "昭和40(あ)2250",
+  "case_name": "公職選挙法違反、業務上横領",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "刑集　第20巻6号711頁",
+  "original_court_name": "札幌高等裁判所\n        　函館支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 9,
+    "day": 30
+  },
+  "gist": "訴因変更手続を要するとされた事例",
+  "case_gist": "当初起訴にかかる業務上横領の訴因が商法第四八六条第一項特別背任の訴因に変更されている以上、右変更前の業務上横領として認定する場合であつても、訴因罰条の変更ないし追加手続を経ることを要する。",
+  "ref_law": "刑訴法312条",
+  "lawsuit_id": "51776",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51776",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/776/051776_hanrei.pdf"
+}

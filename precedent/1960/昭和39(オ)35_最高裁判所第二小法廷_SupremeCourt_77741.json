@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 6,
+    "day": 17
+  },
+  "case_number": "昭和39(オ)35",
+  "case_name": "家屋明渡等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第83号789頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_case_number": "昭和35(ネ)326",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 11,
+    "day": 4
+  },
+  "gist": "法人格のない社団の合併手続と民法第六九条",
+  "case_gist": "法人格のない宗教団体およびその上位団体の規則に当該団体の合併ないし解散の手続に関する規定がない場合において、その団体が他の団体と合併しようとするときは、民法第六九条を類推適用して信徒総会の解散決議を経ることを要すると解するのが相当である。",
+  "ref_law": "民法69条",
+  "lawsuit_id": "77741",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77741",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/741/077741_hanrei.pdf"
+}

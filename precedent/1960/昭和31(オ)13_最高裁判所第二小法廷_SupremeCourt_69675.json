@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 3,
+    "day": 4
+  },
+  "case_number": "昭和31(オ)13",
+  "case_name": "貸金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第40号145頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 9,
+    "day": 30
+  },
+  "lawsuit_id": "69675",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=69675",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/675/069675_hanrei.pdf"
+}

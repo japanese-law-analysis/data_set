@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 10,
+    "day": 23
+  },
+  "case_number": "昭和37(オ)806",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第18巻8号1773頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 3,
+    "day": 30
+  },
+  "gist": "受領の催告をしなくても弁済のための現実の提供があるとされた事例。",
+  "case_gist": "債務者が賃料を持参して債権者の代理人である弁護士の事務所に赴いたが、当該弁護士が不在のため、現金の呈示ができない場合には、特段の事情のないかぎり、右弁護士の事務員に対しその受領の催告をしなくても、弁済のための現実の提供があつたものと解すべきである。",
+  "ref_law": "民法493条",
+  "lawsuit_id": "53824",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53824",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/824/053824_hanrei.pdf"
+}

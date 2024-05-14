@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 11,
+    "day": 7
+  },
+  "case_number": "昭和36(オ)787",
+  "case_name": "工場明渡等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第69号119頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 4,
+    "day": 20
+  },
+  "gist": "会社の具体的再建計画に基づく事業遂行の必要上、賃貸中の工場用建物についてなした解約申入が正当の事由を具備するとされた事例。",
+  "case_gist": "（省略）",
+  "lawsuit_id": "74363",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74363",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/363/074363_hanrei.pdf"
+}

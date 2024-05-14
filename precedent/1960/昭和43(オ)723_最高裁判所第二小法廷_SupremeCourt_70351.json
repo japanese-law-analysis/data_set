@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 12,
+    "day": 20
+  },
+  "case_number": "昭和43(オ)723",
+  "case_name": "養子縁組無効確認請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第93号747頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "昭和41(ネ)197",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 4,
+    "day": 24
+  },
+  "gist": "第三者の提起する養子縁組無効訴訟における訴の利益",
+  "case_gist": "養親の実子は、養親死亡後養子を相手方として養子縁組無効の訴を提起する訴の利益を有する。",
+  "ref_law": "民訴法225条，人事訴訟手続法24条，人事訴訟手続法26条，人事訴訟手続法2条2項",
+  "lawsuit_id": "70351",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70351",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/351/070351_hanrei.pdf"
+}

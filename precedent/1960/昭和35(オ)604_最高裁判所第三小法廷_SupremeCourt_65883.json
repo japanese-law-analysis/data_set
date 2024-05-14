@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 4,
+    "day": 2
+  },
+  "case_number": "昭和35(オ)604",
+  "case_name": "所有権移転登記手続請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第65号381頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 3,
+    "day": 16
+  },
+  "gist": "一、創設自作地の譲渡可能性\nニ、実際の農地売買契約の日時代金額と異る記載をもつてした許可申請書に基づく農地所有権移転についての知事の許可処分の効力",
+  "case_gist": "一、自作農創設特別措置法により政府より売渡を受けた農地でも知事の許可または農地委員会の承認があれば、その所有権を他に移転できる。\nニ、昭和二六年一月二五日に締結された農地売買契約につき、所有権移転の時期を昭和三一年一月二四日とし売買代金額も実際と異つた額が許可申請書に記載されていたとしても、原判示のもとでは、右に対する知事の許可処分は有効である。",
+  "lawsuit_id": "65883",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=65883",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/883/065883_hanrei.pdf"
+}

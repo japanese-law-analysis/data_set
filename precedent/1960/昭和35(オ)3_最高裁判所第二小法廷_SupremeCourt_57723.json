@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 4,
+    "day": 20
+  },
+  "case_number": "昭和35(オ)3",
+  "case_name": "建物引渡所有権移転登記手続等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第16巻4号955頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 10,
+    "day": 17
+  },
+  "gist": "本人が無権代理人を相続した場合における無権代理人行為の効力",
+  "case_gist": "本人が無権代理人の家督を相続した場合、被相続人の無権代理行為は、右相続により当然には有効となるものではない。",
+  "ref_law": "民法113条，民法117条",
+  "lawsuit_id": "57723",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57723",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/723/057723_hanrei.pdf"
+}

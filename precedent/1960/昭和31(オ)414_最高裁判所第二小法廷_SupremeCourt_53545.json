@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 4,
+    "day": 8
+  },
+  "case_number": "昭和31(オ)414",
+  "case_name": "牧野買収処分取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第14巻5号783頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 2,
+    "day": 18
+  },
+  "gist": "自作農創設特別措置法上の牧野に該当しないとされた事例。",
+  "case_gist": "旧森林法による施業案を編成し主務庁の認可を受け戦時中のため実施に至らなかつたが、右施業案の実施上枢要な地位を占める土地であつて、これを失うことが施業案全体に重大な影響があり、施業案の目的完遂を困難らしめるような土地は（本判決および原判決参照）、採草の用に供されていても、これを自作農創設特別措置法にいう牧野に該当しないものと解すべきである。",
+  "ref_law": "自作農創設特別措置法2条1項",
+  "lawsuit_id": "53545",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53545",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/545/053545_hanrei.pdf"
+}

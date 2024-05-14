@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 9,
+    "day": 25
+  },
+  "case_number": "昭和38(あ)2809",
+  "case_name": "強盗殺人",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第152号927頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 10,
+    "day": 31
+  },
+  "gist": "控訴取下により第一審判決が直ちに確定されたものとされた事例。",
+  "case_gist": "刑訴法第三六〇条の二の規定は、上訴の放棄にかぎつて制限を加えたもので、上訴の取下には準用されない。本件控訴取下の当時所論のように被告人が意思能力を欠いていたとは認められないから、被告人の控訴取下は有効であり、これによつて本件第一審の判決は直ちに確定したものというべきである。",
+  "ref_law": "360条の2，359条",
+  "lawsuit_id": "69596",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=69596",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/596/069596_hanrei.pdf"
+}

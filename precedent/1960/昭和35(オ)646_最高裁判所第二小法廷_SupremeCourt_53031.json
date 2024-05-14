@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 10,
+    "day": 12
+  },
+  "case_number": "昭和35(オ)646",
+  "case_name": "詐害行為取消並売掛代金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第16巻10号2130頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 2,
+    "day": 22
+  },
+  "gist": "詐害行為取消の訴と債権の消滅時効の中断。",
+  "case_gist": "債権者が受益者を相手どつて詐害行為取消の訴を提起しても、債権につき消滅時効中断の効力を生じない。",
+  "ref_law": "民法424条，民法147条",
+  "lawsuit_id": "53031",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53031",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/031/053031_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 2,
+    "day": 24
+  },
+  "case_number": "昭和39(オ)1397",
+  "case_name": "土地所有権移転登記手続請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第82号559頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和39(ネ)1030",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 9,
+    "day": 29
+  },
+  "gist": "知事の許可なくしてなされた農地売買契約の効力",
+  "case_gist": "知事の許可なくしてなされた農地の売買契約においても、特段の事情のないかぎり、売主は知事に対し所定の許可申請手続をなすべき義務を負い、また、もしその許可があつたときは、買主のため所有権移転登記手続をなすべき義務を負担するに至るものと解するのが相当である。",
+  "ref_law": "農地法3条",
+  "lawsuit_id": "66304",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66304",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/304/066304_hanrei.pdf"
+}

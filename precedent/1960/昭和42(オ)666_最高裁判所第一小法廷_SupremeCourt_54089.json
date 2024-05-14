@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 3,
+    "day": 28
+  },
+  "case_number": "昭和42(オ)666",
+  "case_name": "請求異議、損害金等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第22巻3号691頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "昭和41(ネ)387",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 3,
+    "day": 8
+  },
+  "gist": "裁判上の和解により成立した土地賃貸借と借地法第一一条",
+  "case_gist": "裁判上の和解により成立した土地賃貸借についても、土地の利用目的、地上建物の種類、設備、構造、賃貸期間等諸般の事情から、賃貸借当事者間に短期間にかぎり賃貸借を存続させる合意が成立したと認められる場合には、右賃貸借は、借地法第九条にいう一時使用の賃貸借に該当し、同法第一一条の適用を受けないと解すべきである。",
+  "ref_law": "借地法11条，借地法9条，民訴法203条",
+  "lawsuit_id": "54089",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54089",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/089/054089_hanrei.pdf"
+}

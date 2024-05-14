@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 9,
+    "day": 20
+  },
+  "case_number": "昭和44(ク)239",
+  "case_name": "仮処分執行停止決定申立事件の決定中申立却下部分に対する抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "却下",
+  "article_info": "集民　第96号601頁",
+  "original_court_name": "東京地方裁判所\n        　八王子支部",
+  "original_case_number": "昭和43(モ)802",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 6,
+    "day": 17
+  },
+  "gist": "仮処分決定に対する異議申立に伴う執行停止の申立につきされた裁判に対し不服申立をすることが許されるか",
+  "case_gist": "仮処分決定に対する異議申立に伴う執行停止の申立に対し、裁判所が実質的審査をしてその許否を決したときは、その裁判に対し不服申立をすることは許されない。",
+  "ref_law": "民訴法744条，民訴法756条，民訴法500条，民訴法512条",
+  "lawsuit_id": "66750",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66750",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/750/066750_hanrei.pdf"
+}

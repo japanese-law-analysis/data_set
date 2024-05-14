@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 12,
+    "day": 19
+  },
+  "case_number": "昭和42(あ)2677",
+  "case_name": "収賄",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集刑　第169号721頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 11,
+    "day": 14
+  },
+  "gist": "刑訴法第四〇〇条但書に違反するとされた事例",
+  "case_gist": "一審無罪の収賄事件の核心たる犯意の点について何ら事実の取調をすることなく、訴訟記録および一審で取り調べた証拠のみにより、犯罪事実の存在を確定し有罪の判決をしたことは、刑訴法第四〇〇条但書の解釈適用を誤り、当裁判所の判例に反する判断をしたものである。",
+  "ref_law": "刑訴法400条但書，刑訴法410条，刑法197条1項",
+  "lawsuit_id": "59149",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59149",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/149/059149_hanrei.pdf"
+}

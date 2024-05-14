@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 1,
+    "day": 23
+  },
+  "case_number": "昭和40(オ)186",
+  "case_name": "建物収去、土地明渡請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第90号17頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和37(ネ)747",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 11,
+    "day": 17
+  },
+  "gist": "登記の欠缺を主張するについて正当な利益を有する第三者にあたらないとされた事例",
+  "case_gist": "甲が乙から、建物を建て敷地とともに売却するいわゆる建売りのための土地購入資金を借り受け、丙らに対する右建売り代金から逐次弁済し、残債務決済の方法として、乙に対し右土地の所有権移転登記を経由した場合、乙は、右のように建売り代金から支払を受けたものであることおよび甲が、乙に対する右債務の関係上、一存で丙らに対し移転登記ができなかつたことを知つており、右土地について丙らに対し自己の所有権を強硬に主張したことがないなどの事情により、乙が丙らの所有権を承認していたものというべきときは、乙が丙らの登記欠缺を主張することは信義に反し許されず、乙は右登記欠缺を主張するについて正当な利益を有する第三者にあたらない。",
+  "ref_law": "民法177条",
+  "lawsuit_id": "66431",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66431",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/431/066431_hanrei.pdf"
+}

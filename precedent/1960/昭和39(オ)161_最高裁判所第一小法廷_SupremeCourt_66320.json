@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 10,
+    "day": 7
+  },
+  "case_number": "昭和39(オ)161",
+  "case_name": "認知請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第80号627頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和37(ネ)227",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 10,
+    "day": 29
+  },
+  "gist": "補助参加人の申立てた上告と上告費用の負担",
+  "case_gist": "補助参加人が上告を申立て被参加人が上告審において何ら訴訟行為をしていない場合上告棄却の結果上告費用を敗訴者負担とするにつき、これを上告人の負担とした事例。",
+  "ref_law": "民訴法89条，民訴法94条",
+  "lawsuit_id": "66320",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66320",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/320/066320_hanrei.pdf"
+}

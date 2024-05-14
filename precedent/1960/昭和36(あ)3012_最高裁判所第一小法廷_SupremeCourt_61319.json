@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 8,
+    "day": 23
+  },
+  "case_number": "昭和36(あ)3012",
+  "case_name": "法人税法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第144号67頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 10,
+    "day": 31
+  },
+  "gist": "任意に支払われた法定の制限超過の利息、損害金は残存元本に充当されるか。",
+  "case_gist": "金銭を目的とする消費貸借上の利息又は損害金の契約は、その額が利息制限法一条、四条の各一項にそれぞれ定められた利率によつて計算した金額を超えるときは、その超過部分につき無効であるが、債務者が、それを任意に支払つたときは、その後において、その契約の無効を主張し、既にした給付の返還を請求することができないばかりでなく、結果において返還を受けたと同一の経済的利益を生ずるような、残存元本への充当も許されないものと解すべきであることは、当裁判所の判例（昭和三五年（オ）一〇二三号、同三七年六月一三日大法廷判決）の示すところである。",
+  "ref_law": "利息制限法1条1項，利息制限法1条2項，利息制限法4条1項，利息制限法4条2項，利息制限法2条，法人税法48条1項",
+  "lawsuit_id": "61319",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61319",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/319/061319_hanrei.pdf"
+}

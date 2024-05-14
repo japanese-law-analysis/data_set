@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 4,
+    "day": 5
+  },
+  "case_number": "昭和32(オ)1139",
+  "case_name": "不当利得金返還請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第14巻5号738頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 9,
+    "day": 18
+  },
+  "gist": "一　国有林野払下取消訴訟は民事訴訟用印紙法第二条の財産権上の請求に係る訴訟か\n二　右訴訟の訴訟物の価額",
+  "case_gist": "一　国有林野整備臨時措置法に基く国有山林の払下が、買受人としての法定の適格を欠く後順位の申請人に対する違法な売払処分であるとして、競願者が提起した当該払下処分取消訴訟は、民事訴訟用印紙法第二条にいう財産権上の請求に係る訴訟である。\n二　右訴訟の訴状に貼用する印紙の額は、当該山林の価額を訴訟物の価額として算出すべきものである。",
+  "ref_law": "民事訴訟用印紙法2条，国有林野整備臨時措置法（昭和26年法律247号）1条1項，国有林野整備臨時措置法（昭和26年法律247号）1条2項",
+  "lawsuit_id": "53567",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53567",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/567/053567_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 7,
+    "day": 5
+  },
+  "case_number": "昭和43(行ツ)45",
+  "case_name": "大阪市議会議員東住吉区選挙区一般選挙無効確認等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第91号631頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和42(行ケ)9",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 1,
+    "day": 31
+  },
+  "gist": "候補者の経歴に虚偽の記載のある選挙公報の配布と選挙の効力",
+  "case_gist": "配布された選挙公報の候補者の経歴の記載に虚偽の部分があつたとしても、それがその候補者の提出した掲載文をそのまま掲載したものであるときは、その虚偽が軽微か否か、その公表が候補者の故意、悪意に基づくか否かをとわず、選挙の効力に影響しないものと解すべきである。",
+  "ref_law": "公職選挙法169条，公職選挙法172条の2",
+  "lawsuit_id": "70371",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70371",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/371/070371_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 6,
+    "day": 12
+  },
+  "case_number": "昭和44(オ)102",
+  "case_name": "土地明渡等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第95号493頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和41(ネ)700",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 10,
+    "day": 30
+  },
+  "gist": "一、延滞賃料支払の催告と敷金\n二、土地賃貸借契約の解除の意思表示が信義則違反または権利の濫用にあたらないとされた事例",
+  "case_gist": "一、賃料延滞を理由とする賃貸借契約解除の前提として延滞賃料支払の催告をする場合には、敷金の授受があつたときでも、延滞賃料全額についてすることができる。\n二、土地の賃貸借契約において、賃借人が、敷金として金五〇万円を差し入れていても、約二か月半分の賃料合計金四万余田の支払をしなかつた等原審認定の事実関係（原判決理由参照）のもとにおいては、右賃料支払の催告に応じなかつたことを理由として賃貸人がした右契約解除の意思表示は、信義則に反するものではなく、また、権利の濫用にわたるものでもない。",
+  "ref_law": "民法1条，民法541条",
+  "lawsuit_id": "66700",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66700",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/700/066700_hanrei.pdf"
+}

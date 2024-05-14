@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 7,
+    "day": 14
+  },
+  "case_number": "昭和40(オ)1084",
+  "case_name": "所有権移転登記手続請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第20巻6号1183頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和39(オ)2211",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 6,
+    "day": 22
+  },
+  "gist": "遺留分権利者の減殺請求権の性質。",
+  "case_gist": "遺留分権利者の減殺請求権は形成権であると解すべきである。",
+  "ref_law": "民法1031条",
+  "lawsuit_id": "53955",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53955",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/955/053955_hanrei.pdf"
+}

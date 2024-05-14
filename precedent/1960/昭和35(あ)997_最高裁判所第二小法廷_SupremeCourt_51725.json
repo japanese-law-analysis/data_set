@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 12,
+    "day": 2
+  },
+  "case_number": "昭和35(あ)997",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第14巻13号1786頁",
+  "original_court_name": "仙台高等裁判所\n        　秋田支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 4,
+    "day": 6
+  },
+  "gist": "一　選挙権および被選挙権の停止と法律の定める手続\n二　選挙人の氏名詐称について投票管理者の知情と公職選挙法第二三七条第二項の罪の成否",
+  "case_gist": "一　選挙権および被選挙権の停止は、正当な法律の手続による公判審理の結果による公職選挙法第二五二条第一項または第二項所定の処刑の事実に伴う法律条当然の効果であつて刑罰ではなく、公開の法律で宣告をしないからといつて法律の定める手続によらないものとはいえない。\n二　選挙人が他の選挙人の氏名を詐称しこれによつて投票をした以上、投票管理側の者がその情を知つていたと否とにかかわらず、公職選挙法第二三七条第二項の氏名を詐称して投票した罪が成立する。",
+  "ref_law": "公職選挙法252条1項，公職選挙法252条2項，公職選挙法237条2項，憲法31条，憲法82条",
+  "lawsuit_id": "51725",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51725",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/725/051725_hanrei.pdf"
+}

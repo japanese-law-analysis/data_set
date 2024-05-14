@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 9,
+    "day": 18
+  },
+  "case_number": "昭和37(あ)1751",
+  "case_name": "傷害誣告",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第144号651頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 12,
+    "day": 6
+  },
+  "gist": "無罪の判決の被告人の上訴。",
+  "case_gist": "被告人は、無罪の判決については、その理由の如何を問わずこれに対し上訴権を有しない。",
+  "ref_law": "刑訴法351条",
+  "lawsuit_id": "61353",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61353",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/353/061353_hanrei.pdf"
+}

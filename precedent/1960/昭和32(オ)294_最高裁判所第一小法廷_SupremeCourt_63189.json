@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 2,
+    "day": 15
+  },
+  "case_number": "昭和32(オ)294",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第58号605頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 12,
+    "day": 27
+  },
+  "gist": "法律上存在しない会社の取締役社長名義による約束手形の振出の効力",
+  "case_gist": "振出当時いまだ法律上存在しない会社の取締役社長何某として振出人欄に署名して振り出された約束手形は、右何某個人によつて振り出されたものと認めるものが相当である。",
+  "ref_law": "商法57条，手形法8条，手形法75条",
+  "lawsuit_id": "63189",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63189",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/189/063189_hanrei.pdf"
+}

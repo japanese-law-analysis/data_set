@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 5,
+    "day": 17
+  },
+  "case_number": "昭和35(し)12",
+  "case_name": "強姦保護処分に対する抗告棄却決定に対する再抗告",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第14巻7号866頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 2,
+    "day": 22
+  },
+  "gist": "少年の実母の内縁の夫は少年法第三五条の再抗告権者にあたるか。",
+  "case_gist": "少年保護事件において、少年の実母の内縁の夫は、少年法第三五条に定める再抗告権者にあたらない。",
+  "ref_law": "少年法35条，少年法32条",
+  "lawsuit_id": "51726",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51726",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/726/051726_hanrei.pdf"
+}

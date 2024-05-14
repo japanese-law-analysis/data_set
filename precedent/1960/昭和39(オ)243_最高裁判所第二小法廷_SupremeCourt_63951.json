@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 3,
+    "day": 5
+  },
+  "case_number": "昭和39(オ)243",
+  "case_name": "請求異議",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第78号31頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和36(ネ)2864",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 11,
+    "day": 27
+  },
+  "gist": "一時使用のための家屋賃貸借であると認定判断が是認された事例。",
+  "case_gist": "調停により合意された家屋使用関係が単なる明渡猶予ではなく、一時使用のための賃貸借と認定判断されたことを是認した事案。",
+  "ref_law": "借家法8条",
+  "lawsuit_id": "63951",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63951",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/951/063951_hanrei.pdf"
+}

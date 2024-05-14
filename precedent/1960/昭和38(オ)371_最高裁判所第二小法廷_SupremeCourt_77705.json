@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 1,
+    "day": 22
+  },
+  "case_number": "昭和38(オ)371",
+  "case_name": "建物収去土地明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第77号93頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和34(ネ)1470",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 9,
+    "day": 26
+  },
+  "gist": "地代家賃統制令による停止統制額ある土地を不法占有する者に対する損害賠償額。",
+  "case_gist": "地代家賃統制令による停止統制額のある土地を不法占有する者に対する損害賠償額は、該土地を新たに更地として賃貸することが予見される等の事情のもとでは、右停止統制額によらないで判定されてかまない。",
+  "ref_law": "民法709条，地代家賃統制令3条",
+  "lawsuit_id": "77705",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77705",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/705/077705_hanrei.pdf"
+}

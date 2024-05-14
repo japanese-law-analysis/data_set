@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 3,
+    "day": 4
+  },
+  "case_number": "昭和41(オ)611",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第23巻3号561頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和39(ネ)962",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 3,
+    "day": 7
+  },
+  "gist": "代理受領を承認した債務者が当該債務を本人に支払つた場合に不法行為の成立が認められた事例",
+  "case_gist": "甲の乙に対する手形金債権を担保する目的で、乙が丙に対する請負代金債権の代理受領を甲に委任し、丙が甲に対し右代理受領を承認しながら、請負代金を乙に支払つたため、甲が手形金債権の満足を受けられなくなつた場合において、丙が右承認の際担保の事実を知つていたなど原判示の事情（原判決理由参照）があるときは、丙は、甲に対し過失による不法行為責任を負う。",
+  "ref_law": "民法99条，民法709条",
+  "lawsuit_id": "55044",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55044",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/044/055044_hanrei.pdf"
+}

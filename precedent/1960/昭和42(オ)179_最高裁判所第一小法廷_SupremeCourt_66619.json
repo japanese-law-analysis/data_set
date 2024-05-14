@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 1,
+    "day": 25
+  },
+  "case_number": "昭和42(オ)179",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第90号53頁",
+  "original_court_name": "高松高等裁判所",
+  "original_case_number": "昭和37(ネ)169",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 11,
+    "day": 30
+  },
+  "gist": "賃貸期間を五年とする店舗の賃貸借契約が一時使用のためと認められた事例",
+  "case_gist": "店舗の貸賃借契約において、賃借人が当初右店舗を無断転借していたため、裁判上の和解により、遊戯場として使用する目的で特に期間を五年と定めて賃貸借契約を締結した等原判決認定の如き事情（原判決参照）があるときには、右賃貸期間にもかかわらず、これを借家法第八条にいう一時使用のための契約であると解するのが相当である。",
+  "ref_law": "借家法8条",
+  "lawsuit_id": "66619",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66619",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/619/066619_hanrei.pdf"
+}

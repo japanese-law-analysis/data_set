@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 12,
+    "day": 20
+  },
+  "case_number": "昭和34(あ)708",
+  "case_name": "単純収賄、贈賄",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第140号659頁",
+  "original_court_name": "福岡高等裁判所\n        　宮崎支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 2,
+    "day": 6
+  },
+  "gist": "戦時中の作戦から生じた爆発兵器類の処理に関し、地方自治法第一四八条に違反してなされた国の事務の機関委任の効力。",
+  "case_gist": "戦時中の作戦から生じた爆発兵器類の処理は通常の国の事務とは性質を異にし、最高権限を有する連合国最高司令官の指令に基く管理法令下の特殊な業務であるから、国から右事務の委任を受けた知事は、たとえその委任につき地方自治法第一四八条第一項によらない瑕疵があつても、これを理由に受任を拒みうべき筋合にはなく、右委任により知事に対し有効にその処理の責任と権限が発生する。",
+  "ref_law": "地方自治法148条1項，昭和20年9月2日連合国最高司令官指令1号，昭和20年9月3日連合国最高司令官指令2号，昭和25年2月6日SCAPIN2077号",
+  "lawsuit_id": "73069",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=73069",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/069/073069_hanrei.pdf"
+}

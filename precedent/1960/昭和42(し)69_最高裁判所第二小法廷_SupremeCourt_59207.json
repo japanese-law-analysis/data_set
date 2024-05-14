@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 12,
+    "day": 20
+  },
+  "case_number": "昭和42(し)69",
+  "case_name": "収賄被疑事件についてした準抗告棄却決定に対する特別抗告申立",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第165号487頁",
+  "original_court_name": "京都地方裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 11,
+    "day": 7
+  },
+  "gist": "刑訴規則第一四二条第一項第八号所定の事項の記載を欠いた逮捕状請求書によつて発付された逮捕状による逮捕およびこれにつづく勾留が違法ではないとされた事例",
+  "case_gist": "前に逮捕状の発付があつた同一被疑者に対する再度の逮捕状の発付が、いわゆる逮捕のむしかえしによる逮捕権の濫用と認められないときは、右逮捕状の請求書に刑訴規則第一四二条第一項第八号所定の事項の記載を欠いていても、右の逮捕およびこれにひきつづきなされた勾留は違法ではない。",
+  "ref_law": "刑訴法199条，刑訴規則142条1項",
+  "lawsuit_id": "59207",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59207",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/207/059207_hanrei.pdf"
+}

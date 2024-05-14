@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 9,
+    "day": 8
+  },
+  "case_number": "昭和35(あ)887",
+  "case_name": "業務上過失致死",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第14巻11号1437頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 3,
+    "day": 9
+  },
+  "gist": "一　刑訴法第三二一条第三項と実況見分調書\n二　刑訴法第三二一条第三項と憲法第三七条第二項前段",
+  "case_gist": "一　刑訴第三二一条第三項所定の書面には捜査機関が任意処分として行う検証の結果を記載したいわゆる実況見分調書も包含する。\n二　刑訴第三二一条第三項は憲法第三七条第二項前段に違反しない。",
+  "ref_law": "刑訴法321条3項，憲法37条2項",
+  "lawsuit_id": "55828",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55828",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/828/055828_hanrei.pdf"
+}

@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 6,
+    "day": 23
+  },
+  "case_number": "昭和33(オ)838",
+  "case_name": "貸金返還請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第52号419頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 6,
+    "day": 28
+  },
+  "gist": "原因関係に基く抗弁が附着する小切手上の債権と相殺の許否。",
+  "case_gist": "売買代金支払のため振出した小切手の振出人が、売買契約解除を理由として所持人遡求権行使による小切手金支払請求を拒否し得る場合には、右請求権を自動債権とする相殺は許されない。",
+  "lawsuit_id": "65664",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=65664",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/664/065664_hanrei.pdf"
+}

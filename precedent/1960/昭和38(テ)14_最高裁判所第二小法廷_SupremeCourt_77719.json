@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 2,
+    "day": 5
+  },
+  "case_number": "昭和38(テ)14",
+  "case_name": "損害賠償請求事件に対する特別上告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第77号321頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 12,
+    "day": 18
+  },
+  "gist": "憲法第一四条にいう社会的身分により差別の取扱をした場合にあたらないとされた事例。",
+  "case_gist": "不法行為による慰藉料額を算定するにあたり、加害者の前科、被害者の職業、社会的地位を参酌したからといつて、憲法第一四条にいう社会的身分により差別の取扱をした場合にあたらないと解すべきである（昭和二五年（あ）第二九二号同二五年一〇月一一日大法廷判決、刑集四巻一〇号二〇三七頁の趣旨に照し判決する）。",
+  "ref_law": "憲法14条",
+  "lawsuit_id": "77719",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77719",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/719/077719_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 12,
+    "day": 25
+  },
+  "case_number": "昭和37(オ)605",
+  "case_name": "町議会解散請求者署名名簿の署名の効力に関する異議決定取消請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第16巻12号2490頁",
+  "original_court_name": "佐賀地方裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 3,
+    "day": 20
+  },
+  "gist": "直接請求の署名簿そのものの効力を争うについて地方自治法第二五五条の四の適用の有無。",
+  "case_gist": "直接請求の署名簿そのものの効力を争うについても、地方自治法第二五五条の四の適用があり、同法第七四条の二の規定によつてのみ争訟を提起することができる。",
+  "ref_law": "地方自治法255条の4，地方自治法74条の2",
+  "lawsuit_id": "53816",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53816",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/816/053816_hanrei.pdf"
+}

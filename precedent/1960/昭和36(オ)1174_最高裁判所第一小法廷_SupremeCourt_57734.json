@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 4,
+    "day": 26
+  },
+  "case_number": "昭和36(オ)1174",
+  "case_name": "登記抹消請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第16巻4号992頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 7,
+    "day": 18
+  },
+  "gist": "民法第九七条ノ二第三項但書の過失の主張立証責任",
+  "case_gist": "民法第九七条ノ二第三項但書の主張立証責任は、公示による意思表示到達の無効を主張する者にある。",
+  "ref_law": "民法97条ノ21項3項，民訴法第2編第3章1節（257条の前）",
+  "lawsuit_id": "57734",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57734",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/734/057734_hanrei.pdf"
+}

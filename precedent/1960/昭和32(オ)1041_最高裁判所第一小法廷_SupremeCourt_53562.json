@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 4,
+    "day": 7
+  },
+  "case_number": "昭和32(オ)1041",
+  "case_name": "家屋明渡等請求及び建物所有権確認等反訴請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第14巻5号751頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 8,
+    "day": 26
+  },
+  "gist": "他人の使用人として家屋に居住するにすぎない者に対する家屋明渡ならびに賃料相当の損害金の請求の当否。",
+  "case_gist": "他人の使用人として家屋に居住するにすぎない者に対しては、特段の事情のないかぎり、その不法占有を理由として家屋の明渡ならびに賃料相当の損害金の支払を請求することはできない。",
+  "ref_law": "民法180条",
+  "lawsuit_id": "53562",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53562",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/562/053562_hanrei.pdf"
+}

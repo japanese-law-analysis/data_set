@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 12,
+    "day": 7
+  },
+  "case_number": "昭和35(オ)576",
+  "case_name": "請求異議",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第63号437頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 2,
+    "day": 5
+  },
+  "gist": "訴訟上の和解において約定された賃借人の従前からの延滞賃料の分割支払を賃借人が引き続き二回分以上怠つたときは、催告および解除の意思表示を要せず、当然に、賃貸借契約を終了せしめる趣旨が約定されたと解釈された事例。",
+  "lawsuit_id": "65880",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=65880",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/880/065880_hanrei.pdf"
+}

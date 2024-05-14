@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 4,
+    "day": 12
+  },
+  "case_number": "昭和38(オ)865",
+  "case_name": "売買無効確認・所有権移転登記抹消登記手続等請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第20巻4号560頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和37(ネ)410",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 4,
+    "day": 30
+  },
+  "gist": "弁論の併合と併合前にされた証拠調の結果",
+  "case_gist": "弁論の併合前にそれぞれの事件においてされた証拠調の結果は、併合後の事件においても、同一の性質のまま、証拠資料となる。",
+  "ref_law": "民訴法132条，民訴法第2編第3章第1節",
+  "lawsuit_id": "57752",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57752",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/752/057752_hanrei.pdf"
+}

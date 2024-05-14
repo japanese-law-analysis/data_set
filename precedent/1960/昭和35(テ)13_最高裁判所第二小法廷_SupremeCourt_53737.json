@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 11,
+    "day": 17
+  },
+  "case_number": "昭和35(テ)13",
+  "case_name": "実用新案権侵害禁止仮処分異議",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第15巻10号2502頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 2,
+    "day": 11
+  },
+  "gist": "民訴法第三九三条第三項等の合憲性",
+  "case_gist": "仮差押又は仮処分に関する判決に対し通常の上告を許さない旨定めた民訴法の規定は、憲法第三二条に違反しない。",
+  "ref_law": "憲法32条，民訴法393条3項，民訴法409条ノ2第2項",
+  "lawsuit_id": "53737",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53737",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/737/053737_hanrei.pdf"
+}

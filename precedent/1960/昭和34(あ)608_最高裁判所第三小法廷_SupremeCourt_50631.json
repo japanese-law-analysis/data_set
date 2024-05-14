@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 6,
+    "day": 20
+  },
+  "case_number": "昭和34(あ)608",
+  "case_name": "公正証書原本不実記載、同行使",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "刑集　第15巻6号984頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 2,
+    "day": 13
+  },
+  "gist": "住民票と刑法第一五七条第一項にいわゆる「権利義務ニ関スル公正証書」。",
+  "case_gist": "住民登録法による住民票は、刑法第一五七条第一項にいわゆる「権利義務ニ関スル公正証書」にあたる。",
+  "ref_law": "刑法157条1項，住民登録法1条，住民登録法4条",
+  "lawsuit_id": "50631",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50631",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/631/050631_hanrei.pdf"
+}

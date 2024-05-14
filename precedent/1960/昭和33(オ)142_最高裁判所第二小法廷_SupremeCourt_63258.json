@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 1,
+    "day": 19
+  },
+  "case_number": "昭和33(オ)142",
+  "case_name": "慰藉料請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第58号151頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 12,
+    "day": 13
+  },
+  "gist": "診断後症状が疫痢に急変した患者についての看護指導に関し医師に過失がないとされた事例",
+  "case_gist": "診察時に患者が嘔吐、下痢、発熱三九度五分、扁桃腺腫赤の症状を呈していたが浣腸を施し検便の結果、粘液、膿汁、血液が発見されず脳症状も現れていなかつた場合においては、いまだ疫痢を疑う段階になかつたものというべく、事後患者の症状が疫痢に急変する予想のもとに附添人に看護上特別の指導を与えなかつたとしても、当該医師に過失はない。",
+  "ref_law": "民法709条，民法711条，医師法23条",
+  "lawsuit_id": "63258",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63258",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/258/063258_hanrei.pdf"
+}

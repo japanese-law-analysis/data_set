@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 9,
+    "day": 24
+  },
+  "case_number": "昭和38(オ)638",
+  "case_name": "強制執行異議",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第75号445頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 3,
+    "day": 5
+  },
+  "gist": "経営委託の形式による店舗の使用関係が転貸借契約と認められた事例。",
+  "case_gist": "店舗建物の賃借人が、経営委託契約の形式のもとに店舗の一部を使用させ、該使用者は、自己の計算において、鳥禽類の仕入販売を行い、収益如何にかかわらず、前記賃借人に対し月額六〇〇〇円を下らない金員を支払うことを約した場合は、転貸借契約が成立したものと認めるのが相当である。",
+  "ref_law": "民法612条，民法643条",
+  "lawsuit_id": "66242",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66242",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/242/066242_hanrei.pdf"
+}

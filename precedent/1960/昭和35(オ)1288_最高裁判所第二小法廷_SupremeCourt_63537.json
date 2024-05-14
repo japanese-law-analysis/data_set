@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 8,
+    "day": 3
+  },
+  "case_number": "昭和35(オ)1288",
+  "case_name": "違法行政処分取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第62号27頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 8,
+    "day": 23
+  },
+  "gist": "鉱物が異種の鉱床中に存するかどうかと通商産業省鉱山局長通牒の鉱物の五分類",
+  "case_gist": "鉱物が異種の鉱床中に存するかどうかは鉱山局長通牒の五分類に拘束されることなく、個々の場合に当つて具体的に決せられるべきである。",
+  "ref_law": "鉱業法16条",
+  "lawsuit_id": "63537",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63537",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/537/063537_hanrei.pdf"
+}

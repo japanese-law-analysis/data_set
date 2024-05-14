@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 7,
+    "day": 6
+  },
+  "case_number": "昭和38(オ)1354",
+  "case_name": "家屋明渡等請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第79号677頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和31(ネ)455",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 8,
+    "day": 14
+  },
+  "gist": "民法第六〇六条は賃料額統制法令の施行のもとで適用があるか",
+  "case_gist": "民法第六〇六条は、賃料額統制法令の施行のもとでも、判示のような特段の事情がないかぎり、適用がある。",
+  "ref_law": "民法606条",
+  "lawsuit_id": "74404",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74404",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/404/074404_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 9,
+    "day": 15
+  },
+  "case_number": "昭和37(オ)1019",
+  "case_name": "土地所有権確認等請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第75号231頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 6,
+    "day": 15
+  },
+  "gist": "控訴期間の不遵守が控訴代理人の責に帰すべからざる事由によるかどうかにつき審理不尽の違法があるとされた事例。",
+  "case_gist": "大阪市内の郵便局に書留速達郵便物として差し出した控訴状が、通じて四日を費して名古屋市内の裁判所に配達され、控訴代理人の予知できない事情に基づく郵便物延着の疑をさしはさみうるにかかわらず、この間の事情を審究せず、右郵便物配達の時にはすでに控訴期間が経過していたとの理由で、控訴を不適法として却下した判決には、審理不尽の違法がある。",
+  "ref_law": "民訴法366条，民訴法159条，民訴法395条6号",
+  "lawsuit_id": "66034",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66034",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/034/066034_hanrei.pdf"
+}

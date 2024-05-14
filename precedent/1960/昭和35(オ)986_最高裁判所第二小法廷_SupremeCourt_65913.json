@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 11,
+    "day": 16
+  },
+  "case_number": "昭和35(オ)986",
+  "case_name": "不当利得金返還請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第63号223頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 5,
+    "day": 10
+  },
+  "gist": "当事者の主張しない事実を認定したものとはいえないとした事例。",
+  "case_gist": "合意解除の事実を当事者の主張に基づいて認定している以上、返還時期について主張と多少異る時期を認定しても弁論主義に違反したとはいえない。",
+  "ref_law": "民訴法186条",
+  "lawsuit_id": "65913",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=65913",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/913/065913_hanrei.pdf"
+}

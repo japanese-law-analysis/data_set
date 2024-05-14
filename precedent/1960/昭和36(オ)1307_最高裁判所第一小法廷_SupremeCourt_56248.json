@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 1,
+    "day": 23
+  },
+  "case_number": "昭和36(オ)1307",
+  "case_name": "債務不存在確認等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第18巻1号99頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 9,
+    "day": 18
+  },
+  "gist": "一　停止条件の成就を故意に妨げたとして報酬請求権が認められた事例\n二　停止条件の成就を故意に妨げた場合と不法行為の成立",
+  "case_gist": "一　山林売却斡旋依頼とともに判示内容の停止条件付報酬契約がなされた場合において、委任者が受任者を介せず右山林を他に売却したときは、受任者は条件が成就したものとみなして、約定報酬の請求ができる。\n二　停止条件の成就を故意に妨げた場合には、期待権侵害による不法行為が成立する。",
+  "ref_law": "民法130条，民法656条，民法648条，民法128条，民法709条",
+  "lawsuit_id": "56248",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56248",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/248/056248_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 4,
+    "day": 3
+  },
+  "case_number": "昭和42(オ)1126",
+  "case_name": "地位確認等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第95号31頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和41(ネ)1992",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 6,
+    "day": 12
+  },
+  "gist": "一、授業料の滞納により除籍された私立大学の学生の復学願出の許否につき大学が自由裁量権を有しないとされた事例\n二、右の場合における除籍学生の復学と大学の復学許可の意思表示の要否",
+  "case_gist": "一、授業料の滞納により除籍された私立大学の学生が、原判示（その引用する第一審判決の判示を含む。）のような大学の学生規定に基づき、所定期間内に適式な復学の願出をした場合には、大学は、その復学願出の許否につき、自由裁量権を有しない。\n二、右の場合においては、除籍学生は、その願出に対する大学の復学許可の意思表示を要せず、当然に、大学の学生としての身分を回復する。",
+  "ref_law": "学校教育法5条，学校教育法6条",
+  "lawsuit_id": "66602",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66602",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/602/066602_hanrei.pdf"
+}

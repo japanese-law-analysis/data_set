@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 10,
+    "day": 16
+  },
+  "case_number": "昭和39(オ)241",
+  "case_name": "建物収去、土地明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第75号861頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 10,
+    "day": 18
+  },
+  "gist": "後任理事が選任されるまでの間認められた退任理事の権限の存続期間。",
+  "case_gist": "後任理事の選任があるまでは退任理事になお従前の権限を行わせる旨寄附行為に規定されている場合の右権限の存続期間は、後任理事の選任手続に要する相当期間に限られると解すべきではない。",
+  "ref_law": "商法258条1項",
+  "lawsuit_id": "66329",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66329",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/329/066329_hanrei.pdf"
+}

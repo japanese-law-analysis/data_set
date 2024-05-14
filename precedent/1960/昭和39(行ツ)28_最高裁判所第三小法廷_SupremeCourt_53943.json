@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 10,
+    "day": 13
+  },
+  "case_number": "昭和39(行ツ)28",
+  "case_name": "行政処分無効確認請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第18巻8号1619頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 12,
+    "day": 6
+  },
+  "gist": "人事委員会に不利益処分の審査請求をした者と同委員会の議事録の閲覧請求権。",
+  "case_gist": "人事委員会に不利益処分の審査請求をした手続の当事者であつても、同委員会に対し、その議事録の閲覧を請求する権利が与えられているものではない。",
+  "ref_law": "地方公務員法11条3項，行政事件訴訟特例法1条",
+  "lawsuit_id": "53943",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53943",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/943/053943_hanrei.pdf"
+}

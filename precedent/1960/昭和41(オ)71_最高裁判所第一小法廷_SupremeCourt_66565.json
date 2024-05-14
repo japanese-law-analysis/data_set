@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 10,
+    "day": 6
+  },
+  "case_number": "昭和41(オ)71",
+  "case_name": "貸付請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第84号543頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和40(ネ)254",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 10,
+    "day": 18
+  },
+  "gist": "金銭消費貸借に基づき金員の支払を求める場合において準消費貸借に基づく金員の支払請求を認容することの可否",
+  "case_gist": "金銭消費貸借に基づき金員支払を求める場合において、その貸借が現金の授受によるものではなく、既存債務を目的として成立したいわゆる準消費貸借に基づく金員の支払請求として認容しても、当事者の主張の範囲内においてした認定でないとはいいえない。",
+  "ref_law": "民訴法186条",
+  "lawsuit_id": "66565",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66565",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/565/066565_hanrei.pdf"
+}

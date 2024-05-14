@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 7,
+    "day": 9
+  },
+  "case_number": "昭和37(オ)14",
+  "case_name": "土地建物所有権移転登記手続請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第18巻6号1060頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 7,
+    "day": 19
+  },
+  "gist": "民訴法第四二〇条第一項第七号、第二項所定の再審事由があるとされた事例。",
+  "case_gist": "宣誓した当事者本人の虚偽の陳述が判決の証拠となつた場合において、右陳述自体につき過料の制裁がされていなくても、右当事者が右陳述により裁判所を欺罔して民事の勝訴判決を得たことが詐欺罪にあたるものとして有罪の確定判決を受けたときは、民訴法第四二〇条第一項第七号、第二項所定の再審事由のある場合にあたるものと解するのが相当である。",
+  "ref_law": "民訴法420条1項7号，民訴法420条2項",
+  "lawsuit_id": "53793",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53793",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/793/053793_hanrei.pdf"
+}

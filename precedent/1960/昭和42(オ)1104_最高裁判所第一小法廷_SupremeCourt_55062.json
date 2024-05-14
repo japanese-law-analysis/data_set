@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 11,
+    "day": 21
+  },
+  "case_number": "昭和42(オ)1104",
+  "case_name": "建物明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第22巻12号2741頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和41(ネ)1978",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 7,
+    "day": 17
+  },
+  "gist": "家屋賃貸借契約において一箇月分の賃料の遅滞を理由に無催告解除を許容した特約条項の効力",
+  "case_gist": "家屋賃貸借契約において、一箇月分の賃料の遅滞を理由に催告なしで契約を解除することができる旨を定めた特約条項は、賃料の遅滞を理由に当該契約を解除するにあたり、催告をしなくても不合理とは認められない事情が存する場合には、催告なしで解除権を行使することが許される旨を定めた約定として有効と解するのが相当である。",
+  "ref_law": "民法541条，民法第3編第2章第7節第3款",
+  "lawsuit_id": "55062",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55062",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/062/055062_hanrei.pdf"
+}

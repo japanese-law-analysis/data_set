@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 6,
+    "day": 12
+  },
+  "case_number": "昭和39(あ)409",
+  "case_name": "恐喝、殺人",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第151号395頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 12,
+    "day": 20
+  },
+  "gist": "憲法第一四条にいわゆる社会的身分による差別的処遇をしたものではないとされた事例。",
+  "case_gist": "所論は、憲法第一四条違反をいうのであるが、所論「やくざ組織」内における地位が社会的身分に該当するか否かはともかく、原判決及びその維持する第一審判決は、被告人の「やくざ組織」内における親分としての地位を認定し、右地位が第一審判決判示第一、第二の恐喝の手段として被害者を畏怖させるため利用された事実を認定し、また被告人の右地位を一つの間接証拠として他の証拠と相俟つて第一審判示第三の殺人の共謀の事実を認定し、さらにこれらの事実を量刑の一資料としたにすぎず、被告人が「やくざ組織」内の親分としての地位にあることをもつて、直ちに被告人に対し不利益な差別的処遇をしたものではないから、所論違掲憲の主張は前提を欠く。",
+  "ref_law": "憲法14条",
+  "lawsuit_id": "76035",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=76035",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/035/076035_hanrei.pdf"
+}

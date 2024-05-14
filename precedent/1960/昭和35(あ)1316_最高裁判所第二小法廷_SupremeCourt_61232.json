@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 12,
+    "day": 9
+  },
+  "case_number": "昭和35(あ)1316",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集刑　第136号353頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 5,
+    "day": 31
+  },
+  "lawsuit_id": "61232",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61232",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/232/061232_hanrei.pdf"
+}

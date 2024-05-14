@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 10,
+    "day": 20
+  },
+  "case_number": "昭和42(オ)580",
+  "case_name": "国家賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第88号715頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和41(ネ)1841",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 2,
+    "day": 28
+  },
+  "gist": "名誉毀損による損害賠償請求が排斥された事例",
+  "case_gist": "刑訴第二六二条による付審判請求事件について被疑者にあてた該請求棄却決定の送達報告書に請求人の氏名が被疑者として表示され、右送達報告書が一件記録に編綴されていても、係官に請求人を侮辱する等その権利、利益を害する意思があったものと認められず、右表示が誤記であることは記録上一見して明白であり、かつ、右送達報告書が多数人の目にふれる性質のものとはいえない以上、右表示の誤りは客観的にみて請求人の権利、利益を侵害するものと認めるに値しないから、請求人が右表示の誤りによって精神的苦痛を蒙つたとしても、右精神的損害に対する賠償を請求することは許されない。",
+  "ref_law": "国家賠償法1条",
+  "lawsuit_id": "70299",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70299",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/299/070299_hanrei.pdf"
+}

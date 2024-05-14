@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 6,
+    "day": 20
+  },
+  "case_number": "昭和36(ヤ)28",
+  "case_name": "建物所有権確認等請求事件の判決に対する再審",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "却下",
+  "article_info": "集民　第66号591頁",
+  "original_court_name": "最高裁判所",
+  "original_case_number": "昭和33(オ)112",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 6,
+    "day": 9
+  },
+  "gist": "第一審判決事実摘示に基づく口頭弁論結果陳述と第二審の審理の対象。",
+  "case_gist": "第二審で第一審判決事実摘示のとおり第一審口頭弁論の結果を陳述した場合、たとい第一審において主張された事実でも、第一審判決事実摘示に記載せられていないかぎり、第二審の審理の対象とならない。",
+  "ref_law": "民訴法377条2項",
+  "lawsuit_id": "66029",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66029",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/029/066029_hanrei.pdf"
+}

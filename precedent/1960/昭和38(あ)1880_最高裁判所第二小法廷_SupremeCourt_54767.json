@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 7,
+    "day": 7
+  },
+  "case_number": "昭和38(あ)1880",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第18巻6号345頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 6,
+    "day": 27
+  },
+  "gist": "窃盗罪にあたるとされた事例。",
+  "case_gist": "他人の立木がはえている畑地の所有者が、立木の所有者に対し、その立木を永久に伐採しないことを確約した後他に売却するためこれを伐採する所為は、窃盗罪にあたる。",
+  "ref_law": "刑法235条",
+  "lawsuit_id": "54767",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54767",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/767/054767_hanrei.pdf"
+}

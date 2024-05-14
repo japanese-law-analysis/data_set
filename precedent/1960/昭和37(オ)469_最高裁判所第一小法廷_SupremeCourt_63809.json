@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 4,
+    "day": 16
+  },
+  "case_number": "昭和37(オ)469",
+  "case_name": "売掛残代金請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第73号87頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 1,
+    "day": 30
+  },
+  "gist": "判決言渡期日の告知。",
+  "case_gist": "当事者の一方が適法な呼出を受けながら口頭弁論期日に出頭しない場合に、裁判所が口頭弁論を終結し、裁判長において判決言渡期日を指定してこれを出頭当事者に告知したときは、その告知は、在廷しない当事者に対しても効力を有する。",
+  "ref_law": "民訴法190条2項，民訴法207条",
+  "lawsuit_id": "63809",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63809",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/809/063809_hanrei.pdf"
+}

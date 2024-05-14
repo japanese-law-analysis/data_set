@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 8,
+    "day": 31
+  },
+  "case_number": "昭和42(し)26",
+  "case_name": "勾留取消請求棄却の裁判に対する準抗告棄却決定に対する特別抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第21巻7号890頁",
+  "original_court_name": "東京地方裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 3,
+    "day": 27
+  },
+  "gist": "勾留の効力に影響がないとされた事例",
+  "case_gist": "甲被疑事実による勾留を利用して乙被疑事実につき取り調べた後、いつたん釈放し直ちに乙被疑事実により逮捕勾留した場合において、乙事実について公訴が提起され、その後も勾留理由があるときは、起訴前の段階における右のような勾留およびその勾留中の捜査官の取調べの当否は、起訴後における勾留の効力に影響を及ぼさない。",
+  "ref_law": "刑訴法60条，刑訴法87条",
+  "lawsuit_id": "50875",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50875",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/875/050875_hanrei.pdf"
+}

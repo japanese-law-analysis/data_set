@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 3,
+    "day": 1
+  },
+  "case_number": "昭和35(オ)82",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第17巻2号269頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 9,
+    "day": 30
+  },
+  "gist": "抵当権の順位の譲渡の効力。",
+  "case_gist": "甲が、乙に対する債権確保のため、乙所有の不動産につき順位一番の抵当権設定登記をうけ、その後停止条件付代物弁済契約による所有権移転請求権保全の仮登記をうけ、さらにその後丙が乙に対する債権担保のため右不動産につき順位二番の抵当権設定登記をうけた場合に、甲が丙に対し順位一番の抵当権の順位を譲渡してその旨の附記登記を経由したときは、その後条件の成就により甲が乙から右代物弁済をうけても、丙は、甲および乙に対し順位一番の抵当権をもつて対抗することができる。",
+  "ref_law": "民法375条，民法376条",
+  "lawsuit_id": "53729",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53729",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/729/053729_hanrei.pdf"
+}

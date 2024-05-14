@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 11,
+    "day": 10
+  },
+  "case_number": "昭和42(オ)264",
+  "case_name": "請求異議、貸金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第21巻9号2417頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_case_number": "昭和41(ネ)153",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 12,
+    "day": 21
+  },
+  "gist": "白紙委任状および印鑑証明書などが交付された場合に民法第一〇九条の適用が認められた事例",
+  "case_gist": "甲が、乙の消費貸借債務を保証するため、丙またはその委任する第三者に右保証契約締結の代理権を与える目的で、自己の白紙委任状および印鑑証明書などを丙に交付した場合において、乙が丙から右白紙委任状などの交付を受けてこれを利用し、みずから甲の代理人として貸主と連帯保証契約を締結したときは、甲は民法第一〇九条にいう「第三者ニ対シテ他人ニ代理権ヲ与ヘタル旨ヲ表示シタル者」にあたる。",
+  "ref_law": "民法109条",
+  "lawsuit_id": "56304",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56304",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/304/056304_hanrei.pdf"
+}

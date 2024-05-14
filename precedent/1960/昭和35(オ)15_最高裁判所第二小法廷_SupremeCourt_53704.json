@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 6,
+    "day": 7
+  },
+  "case_number": "昭和35(オ)15",
+  "case_name": "不動産所有権確認等本訴並反訴請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第17巻5号728頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 9,
+    "day": 29
+  },
+  "gist": "民法第九四条第二項にいう善意の有無を定める基準となる時期。",
+  "case_gist": "通謀虚偽の売買契約における買主が当該契約の目的物について第三者と売買予約を締結した場合において、その目的物の物件取得の法律関係につき、予約権利指が民法第九四条第二項にいう善意であるかどうかは、その売買予約成立の時ではなく、当該予約完結権の行使により売買契約が成立する時を基準として定めるべきである。",
+  "ref_law": "民法94条，民法556条",
+  "lawsuit_id": "53704",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53704",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/704/053704_hanrei.pdf"
+}

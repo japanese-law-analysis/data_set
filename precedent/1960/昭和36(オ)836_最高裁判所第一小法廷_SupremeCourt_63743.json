@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 10,
+    "day": 24
+  },
+  "case_number": "昭和36(オ)836",
+  "case_name": "離婚、親権者指定請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第68号511頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 3,
+    "day": 29
+  },
+  "gist": "現に当事者の一方が婚姻の継続を熱望していても婚姻を継続し難い重大な自由があるとされた事例。",
+  "lawsuit_id": "63743",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63743",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/743/063743_hanrei.pdf"
+}

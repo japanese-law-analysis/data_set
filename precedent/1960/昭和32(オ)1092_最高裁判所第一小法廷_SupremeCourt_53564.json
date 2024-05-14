@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 2,
+    "day": 11
+  },
+  "case_number": "昭和32(オ)1092",
+  "case_name": "動産所有権確認同引渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第14巻2号168頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 8,
+    "day": 30
+  },
+  "gist": "占有改定による占有の取得と民法第一九二条の適用の有無。",
+  "case_gist": "占有取得の方法が外観上の占有状態に変更を来たさない占有改定にとどまるときは、民法第一九二条の適用はない。",
+  "ref_law": "民法192条",
+  "lawsuit_id": "53564",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53564",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/564/053564_hanrei.pdf"
+}

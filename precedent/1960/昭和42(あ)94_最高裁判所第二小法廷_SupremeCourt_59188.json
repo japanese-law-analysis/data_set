@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 6,
+    "day": 9
+  },
+  "case_number": "昭和42(あ)94",
+  "case_name": "窃盗、外国人登録法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第163号505頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 12,
+    "day": 19
+  },
+  "gist": "外国人登録法第八条第一項第一八条第一項第一号の合憲性",
+  "case_gist": "居住地変更の登録を怠つた者を処罰する外国人登録法第八条第一項、第一八条第一項第一号の規定が憲法第二二条第一項に違反するものでないことは、当裁判所大法廷判決（昭和二五年（あ）第五八六号同二八年五月六日宣告、刑集七巻五号九三二頁）の趣旨に徴し明らかである。",
+  "ref_law": "憲法22条1項，外国人登録法8条1項，外国人登録法18条1項1号",
+  "lawsuit_id": "59188",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59188",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/188/059188_hanrei.pdf"
+}

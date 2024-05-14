@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 2,
+    "day": 27
+  },
+  "case_number": "昭和42(オ)24",
+  "case_name": "土地明渡等請求、同附帯控訴",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第90号455頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和37(ネ)1556",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 9,
+    "day": 14
+  },
+  "gist": "宗教団体法所定の地方長官の認可を得ない不動産長期賃貸借契約の同法廃止後における効力",
+  "case_gist": "宗教団体法による宗教団体のした同法第一〇条第一項所定の地方長官の認可を得ない不動産長期賃貸借契約は、その後宗教団体法が廃止され、同法に代わつて施行された宗教法人令およびさらにこれに代わる宗教法人法によれば、不動産長期賃貸借契約について地方長官の認可を要しないこととなつても、そのことにより当然に有効となるものではない。",
+  "ref_law": "宗教団体法（昭和14年法律第77号）10条，宗教法人令（昭和20年勅令第719号）11条，宗教法人令（昭和20年勅令第719号）附則，宗教法人法23条，宗教法人法24条，宗教法人法附則",
+  "lawsuit_id": "66623",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66623",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/623/066623_hanrei.pdf"
+}

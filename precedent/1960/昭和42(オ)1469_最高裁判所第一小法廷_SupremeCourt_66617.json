@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 3,
+    "day": 28
+  },
+  "case_number": "昭和42(オ)1469",
+  "case_name": "建物収去土地明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第90号831頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和40(ネ)715",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 9,
+    "day": 14
+  },
+  "gist": "債権者代位権による建物収去土地明渡請求権の行使方法",
+  "case_gist": "土地の賃借人は賃借権を保全するため賃貸人たる土地所有者に代位して土地の不法占拠者に対し建物収去及び土地明渡を請求することができ、かつその場合、直接自己に対し右収去明渡をなすべきことを請求することができるものと解するのが相当である。（参照、昭和二九年九月二四日第二小法廷判決集八巻九号一六五八頁）。",
+  "ref_law": "民法423条",
+  "lawsuit_id": "66617",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66617",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/617/066617_hanrei.pdf"
+}

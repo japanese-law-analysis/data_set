@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 6,
+    "day": 9
+  },
+  "case_number": "昭和39(オ)550",
+  "case_name": "船舶引渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第20巻5号1011頁",
+  "original_court_name": "札幌高等裁判所\n        　函館支部",
+  "original_case_number": "昭和31(ネ)31",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 11,
+    "day": 5
+  },
+  "gist": "民法第一九二条にいう「過失ナキ」ことの立証責任",
+  "case_gist": "民法第一九二条により動産の上に行使する権利を取得したことを主張する占有者は、同条にいう「過失ナキ」ことを立証する責任を負わない。",
+  "ref_law": "民法192条",
+  "lawsuit_id": "57765",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57765",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/765/057765_hanrei.pdf"
+}

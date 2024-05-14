@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 5,
+    "day": 31
+  },
+  "case_number": "昭和36(オ)781",
+  "case_name": "建物収去土地明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第60号995頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 4,
+    "day": 24
+  },
+  "gist": "隣接の他人家屋に差し掛けた木造小屋の所有を目的とする土地賃貸借が、借地法にいわゆる建物所有を目的とする賃貸借に当らないとされた事例",
+  "lawsuit_id": "77670",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77670",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/670/077670_hanrei.pdf"
+}

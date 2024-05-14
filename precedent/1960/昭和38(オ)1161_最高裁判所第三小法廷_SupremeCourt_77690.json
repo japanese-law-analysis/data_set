@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 4,
+    "day": 26
+  },
+  "case_number": "昭和38(オ)1161",
+  "case_name": "報酬金請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第83号375頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和37(ネ)1766",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 6,
+    "day": 29
+  },
+  "gist": "買主側の不動産取引業者が売主に対して仲介の報酬を請求できないとされた事例",
+  "case_gist": "買主側の不動産取引業者の行為が不動産の売買契約成立の機縁をもたらしたものとしても、判示事実関係のもとにおいては、売主からとくに依頼を受けるとかまたはこれと同視すべき事情のない以上、右取引業者は、売主に対して仲介の報酬を請求することはできない。",
+  "ref_law": "商法512条，商法550条2項，宅地建物取引業法17条",
+  "lawsuit_id": "77690",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77690",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/690/077690_hanrei.pdf"
+}

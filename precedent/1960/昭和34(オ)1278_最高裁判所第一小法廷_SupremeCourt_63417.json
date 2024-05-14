@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 1,
+    "day": 25
+  },
+  "case_number": "昭和34(オ)1278",
+  "case_name": "耕作権不存在確認請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第58号331頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 8,
+    "day": 14
+  },
+  "gist": "田地の利用関係につき農地委員会の承認または知事の許可を要しないとした事例",
+  "case_gist": "本件田地の利用関係は、金銭消費貸借と土地の無償貸付とを交換的に結びつけた一種の無名契約と解され、通常の賃貸借とは解されないから、右利用関係の消滅について農地委員会の承認または知事の許可を必要としない。",
+  "ref_law": "農地調整法9条3項，農地調整法9条5項，同法附則6条",
+  "lawsuit_id": "63417",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63417",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/417/063417_hanrei.pdf"
+}

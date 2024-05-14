@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 7,
+    "day": 20
+  },
+  "case_number": "昭和38(あ)783",
+  "case_name": "関税法違反、物品税法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第152号343頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 11,
+    "day": 28
+  },
+  "gist": "輸入貨物について虚偽の申告により免税輸入の許可を受けその後用途外使用の申請をして関税及び物品税を納付した場合における関税及び物品脱逋脱罪の成否。",
+  "case_gist": "輸入貨物について、当初より関税及び物品税を免れる目的をもつて虚偽の申告をして免税輸入の許可を受け、関税及び物品税を免れる罪は当該輸入貨物を保税地域より引取つたときに成立し、その後において用途外使用の申請をして関税及び物品税を納付しても一たん成立した罪が消滅することはない。",
+  "ref_law": "関税法110条1項，関税法138条，関税定率法15条2項，物品税法18条1項，輸入品に対する内国消費税の徴収等に関する法律7条3項，日本国とアメリカ合衆国との間の安全保障条約3条に基づく行政協定の実施に伴う関税法等の臨時特例に関する法律12条1項",
+  "lawsuit_id": "69605",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=69605",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/605/069605_hanrei.pdf"
+}

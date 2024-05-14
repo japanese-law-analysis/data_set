@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 12,
+    "day": 24
+  },
+  "case_number": "昭和43(オ)260",
+  "case_name": "損害賠償謝罪広告請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第22巻13号3428頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和41(ネ)51",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 12,
+    "day": 27
+  },
+  "gist": "仮処分命令が不当であるとして取り消された場合において仮処分申請人に過失があるとはいえないとされた事例",
+  "case_gist": "会社を被申請人とする仮処分命令が、同会社に対しては被保全権利が存在しないとして取り消された場合においても、右会社の取締役が会社の営業と競合する事業を個人として営んでいたため、仮処分申請人が被申請人を右取締役個人とすべきであるにもかかわらず、これを右会社と誤認した等判示の事実関係のもとにおいては、右仮処分命令を取り消す判決が確定しても、この一事をもつて、ただちに右申請人に過失があつたものとすることはできない。",
+  "ref_law": "民法709条，民訴法756条，民訴法745条2項",
+  "lawsuit_id": "55100",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55100",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/100/055100_hanrei.pdf"
+}

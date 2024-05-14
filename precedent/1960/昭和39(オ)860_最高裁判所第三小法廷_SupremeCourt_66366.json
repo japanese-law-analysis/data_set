@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 3,
+    "day": 28
+  },
+  "case_number": "昭和39(オ)860",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第86号735頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "昭和34(ネ)317",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 4,
+    "day": 28
+  },
+  "gist": "一　手形の書替と手形上の権利行使の方法\n二　手形の書替と手形法第三九条",
+  "case_gist": "一　約束手形が書替えられた場合において、旧手形に基づく債務が消滅しないときは、手形の所持人は、新旧いずれの手形によつても手形上の権利を行使することができる。\n二　約束手形の書替をした者が、新旧いずれか一方の手形による手形金請求を受けた場合には、右手形振出人は、新旧両手形をともに返還すべきことを請求することができる。",
+  "ref_law": "手形法38条，手形法39条",
+  "lawsuit_id": "66366",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66366",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/366/066366_hanrei.pdf"
+}

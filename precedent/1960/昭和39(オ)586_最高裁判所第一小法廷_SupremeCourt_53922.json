@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 1,
+    "day": 25
+  },
+  "case_number": "昭和39(オ)586",
+  "case_name": "立木贈与契約無効確認、杉丸太所有権確認、損害賠償請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第22巻1号1頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "昭和34(ネ)674",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 2,
+    "day": 5
+  },
+  "gist": "仮処分の目的物件が換価されその売得金が供託された場合と本案訴訟のきすう",
+  "case_gist": "所有権に基づいて伐採木の搬出禁止を求める本案訴訟の係属中に、仮処分に付されていたその目的物件が執行裁判所によつて換価され、売得金が供託された場合においても、本案裁判所は、目的物件が換価されなかつた場合とひとしく、本来の訴訟物たる権利ないし法律関係について審理し、判決することを妨げない。",
+  "ref_law": "民訴法226条，民訴法750条，民訴法756条",
+  "lawsuit_id": "53922",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53922",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/922/053922_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 12,
+    "day": 13
+  },
+  "case_number": "昭和32(あ)1768",
+  "case_name": "関税法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第136号435頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 6,
+    "day": 8
+  },
+  "gist": "輸入貨物につき関税法第一一八条第二項にいう「その没収することができないもの又は没収しないものの犯罪が行われた時の価格」の意義。",
+  "case_gist": "関税法第一一八条第二項にいう「その没収することができないもの又は没収しないものの犯罪が行われた時の価格」とは、輸入貨物についてはその犯罪が行われた当時における関税及び内国消費税込の国内卸売価格をいうものと解すべく、右国内卸売価格の内には、物の原価、関税、内国消費税の外更に通常の卸売取引における適正利潤を含む。",
+  "ref_law": "関税法（昭和29年法律61号）118条2項",
+  "lawsuit_id": "61053",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61053",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/053/061053_hanrei.pdf"
+}

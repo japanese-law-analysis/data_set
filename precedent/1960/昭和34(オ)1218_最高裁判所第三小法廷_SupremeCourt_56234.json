@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 3,
+    "day": 27
+  },
+  "case_number": "昭和34(オ)1218",
+  "case_name": "不動産所有権取得無効等請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第16巻3号615頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 4,
+    "day": 14
+  },
+  "gist": "いわゆる「土手脚」の部分を農地と不可分一体のものとしてなした買収処分が適法とされた事例",
+  "case_gist": "雨期増水の際氾濫する河川と本件現況畑の部分との間に三八度ないし四〇度の急坂地帯があり、本件土地を含む附近一帯の土質が軟弱であるところから附近の耕地と同様に右急坂に根張りのよい竹が植栽されていて、既に竹林として土砂の崩落が防がれていること、右のごとき竹林部分は附近の耕作者により「土手脚」と呼ばれ、農耕地の部分と分離して売買又は賃貸される例も全くないなど原審認定の事実関係のもとで、本件竹林部分を現況畑の部分と不可分一体のものとしてなした農地買収処分は適法である。",
+  "ref_law": "自作農創設特別措置法3条1項3号",
+  "lawsuit_id": "56234",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56234",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/234/056234_hanrei.pdf"
+}

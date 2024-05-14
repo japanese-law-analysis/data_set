@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 2,
+    "day": 28
+  },
+  "case_number": "昭和33(オ)989",
+  "case_name": "家屋収去、土地明渡請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第15巻2号324頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 8,
+    "day": 19
+  },
+  "gist": "賃借人のある建物について買取請求権が行使された場合における建物収去土地明渡を求める相手方の請求。",
+  "case_gist": "土地賃貸人からの建物収去土地明渡の請求において、建物所有者が借地法第一〇条により買取請求権を行使した場合に、その建物に賃借人があるときは、右収去明渡の請求には、建物の指図による占有移転を求める趣旨を包合するものと解すべきである。",
+  "ref_law": "借地法10条，民法184条，民訴法186条",
+  "lawsuit_id": "54905",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54905",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/905/054905_hanrei.pdf"
+}

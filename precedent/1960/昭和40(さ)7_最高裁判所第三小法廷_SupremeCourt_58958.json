@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 2,
+    "day": 22
+  },
+  "case_number": "昭和40(さ)7",
+  "case_name": "道路交通法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集刑　第158号473頁",
+  "original_court_name": "小樽簡易裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 3,
+    "day": 4
+  },
+  "gist": "道路交通法第四四条第三号にいう「駐車」に当らないとされた事例。−横断歩道を通過した先の側端から五米以内の場合−",
+  "case_gist": "道路交通法第四四条中、本件に適用されたのは三号であるが、同号には「横断歩道の手前の側端から前に五米以内の部分」とあつて、横断歩道の手前のみの駐車が禁止されているにすぎず、横断歩道を通過した先は、横断歩道の側端から五米以内の地点であつても、この規定の駐車禁止の対象とはなつていない。",
+  "ref_law": "道路交通法44条3号",
+  "lawsuit_id": "58958",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58958",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/958/058958_hanrei.pdf"
+}

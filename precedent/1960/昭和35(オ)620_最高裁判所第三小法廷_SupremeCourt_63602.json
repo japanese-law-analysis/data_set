@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 6,
+    "day": 26
+  },
+  "case_number": "昭和35(オ)620",
+  "case_name": "認証無効確認請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第61号409頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 3,
+    "day": 14
+  },
+  "gist": "一　宗教法人の規則認証と実質的審査権限の有無\n二　宗教法人所定の公告の場所",
+  "case_gist": "一　設立せんとする宗教法人の規則を認証するにつき、所轄庁は、いわゆる実質的審査権限を有しない。\n二　宗教法人所定の公告の場所は、当該宗教法人の事務所にのみ限定されるわけではない。",
+  "ref_law": "宗教法人法14条1項，宗教法人法13条，宗教法人法12条2項，同法附則5項",
+  "lawsuit_id": "63602",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63602",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/602/063602_hanrei.pdf"
+}

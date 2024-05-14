@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 11,
+    "day": 8
+  },
+  "case_number": "昭和33(あ)1832",
+  "case_name": "業務上過失傷害",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第140号47頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 7,
+    "day": 29
+  },
+  "gist": "訴因変更の手続を要しない事例。",
+  "case_gist": "原判決が訴因に「道路右側を北方に向つて歩行中の被害者に接触した」とあるのを訴因変更の手続を履まずに「道路左寄りから斜め右北方に向つて道路中央因りに出て来た被害者に接触した」という事実を認定したことは所論のとおりであるけれども、いずれにしても被告人が前方注視義務を怠つたことによつて道路上を歩行中の被害者に自己の運転する軽自動車を接触させたことについては同一であり、かかる細部の点に関する訴因事実の訂正は、訴因変更の手続を履まなくとも被告人の防禦に実質的な不利益を与えるものとは認められないから、原判決にはこの点において所論のような違反はない。",
+  "ref_law": "刑訴法312条",
+  "lawsuit_id": "73056",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=73056",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/056/073056_hanrei.pdf"
+}

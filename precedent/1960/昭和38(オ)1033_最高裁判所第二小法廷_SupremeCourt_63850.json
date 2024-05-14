@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 5,
+    "day": 1
+  },
+  "case_number": "昭和38(オ)1033",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第73号459頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 4,
+    "day": 5
+  },
+  "gist": "民法第六一二条の転貸に該当すると認められた事例。",
+  "case_gist": "たとえ甲会社と乙会社の代表取締役が同一人であつても、賃借人たる甲会社の業績不振のため、乙会社の管理のもとにこれを整理すべく、賃貸人に無断で賃借家屋を両者で共同占有しているときには、民法第六一二条の無断転貸に当ると認められる。",
+  "ref_law": "民法612条",
+  "lawsuit_id": "63850",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63850",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/850/063850_hanrei.pdf"
+}

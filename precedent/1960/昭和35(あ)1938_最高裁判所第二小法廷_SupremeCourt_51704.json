@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 1,
+    "day": 23
+  },
+  "case_number": "昭和35(あ)1938",
+  "case_name": "業務上過失傷害、道路交通取締法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第15巻1号251頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 7,
+    "day": 14
+  },
+  "gist": "業務上過失傷害罪の成立する事例。",
+  "case_gist": "農業を営む者が、自動三輪車の運転免許を受け、平素より自動三輪車により農産物、肥料等の運搬をしていた場合、その自動三輪車運転が、たまたま、農産物、肥料等の運搬に全く関係なく、自己の属する消防団の消防機械の定例手入指揮の帰途に為されたものであつても、その運転に関し注意義務を欠いたため人を傷害したときは、業務上過失傷害罪が成立する。",
+  "ref_law": "刑法211条",
+  "lawsuit_id": "51704",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51704",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/704/051704_hanrei.pdf"
+}

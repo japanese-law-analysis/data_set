@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 4,
+    "day": 5
+  },
+  "case_number": "昭和37(オ)994",
+  "case_name": "土地明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第65号449頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 5,
+    "day": 18
+  },
+  "gist": "当事間における物品の授受が賃料としてではなく社交上の儀礼的贈答としてなされたものとして農地の使用貸借の成立を認めた事例。",
+  "lawsuit_id": "66154",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66154",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/154/066154_hanrei.pdf"
+}

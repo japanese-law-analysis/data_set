@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 12,
+    "day": 15
+  },
+  "case_number": "昭和39(行ツ)4",
+  "case_name": "所有権確認等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第85号667頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和33(ネ)1315",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 10,
+    "day": 14
+  },
+  "gist": "自作農創設特別措置法にいう農地にあたらないと認められた事例",
+  "case_gist": "所有者において工場用地とするため既往の水田に地盛りを施して宅地に造成し、何びとにもこれを賃貸したことなく空地にしておいた土地で、戦時中その一部が所有者の承諾もなく家庭菜園に利用されていたと認められるものは、自作農創設特別措置法第三条にいう農地にあたらない。",
+  "ref_law": "自作農創設特別措置法2条，自作農創設特別措置法3条",
+  "lawsuit_id": "66387",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66387",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/387/066387_hanrei.pdf"
+}

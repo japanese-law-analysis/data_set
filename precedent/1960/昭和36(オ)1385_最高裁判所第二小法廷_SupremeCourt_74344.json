@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 3,
+    "day": 30
+  },
+  "case_number": "昭和36(オ)1385",
+  "case_name": "土地明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第59号759頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 10,
+    "day": 4
+  },
+  "gist": "土地の買受人の、前主から賃借して幼稚園の運動場に使用している対抗力を具備しない賃借人に対する明渡請求が権利の濫用にあたらないとされた事例",
+  "lawsuit_id": "74344",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74344",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/344/074344_hanrei.pdf"
+}

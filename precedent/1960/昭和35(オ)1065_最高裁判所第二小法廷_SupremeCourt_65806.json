@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 11,
+    "day": 30
+  },
+  "case_number": "昭和35(オ)1065",
+  "case_name": "所有権確認等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第63号365頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 6,
+    "day": 27
+  },
+  "gist": "上級審における印紙の追貼とその訴訟書類の効力。",
+  "case_gist": "訴訟書類の貼用印紙に不足があつても、その不足額が上級審において追貼されれば、右書類は当初に遡つて有効になるものと解すべきである。",
+  "ref_law": "民訴法228条，民訴用印紙法11条",
+  "lawsuit_id": "65806",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=65806",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/806/065806_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 2,
+    "day": 25
+  },
+  "case_number": "昭和42(オ)981",
+  "case_name": "建物明渡所有権移転請求権保全の仮登記の抹消登記手続等請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第94号413頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和41(ネ)861",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 5,
+    "day": 31
+  },
+  "gist": "農地法六八条によつて一時貸付を受けた権利の性質",
+  "case_gist": "農地法六八条によつて一時貸付を受けた権利は、農地法八〇条の終局的な処分をするまでの間の一時的な性質を有する権利ではあるが、この権利を譲渡し、または、該権利の対象たる土地を転貸する契約は、その当事者間では有効で、知事の承諾がないかぎり、右譲渡・転貸を国に対抗することができないにとどまる。",
+  "ref_law": "農地法68条",
+  "lawsuit_id": "70307",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70307",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/307/070307_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 10,
+    "day": 31
+  },
+  "case_number": "昭和36(オ)621",
+  "case_name": "地代増額請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第68号681頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 2,
+    "day": 10
+  },
+  "gist": "借地人が自己経営の旅館の敷地として借地を使用する場合と地代家賃統制令の適用の有無。",
+  "case_gist": "借地人が借地上に所有している建物を自己経営の旅館営業のために使用している場合には、建物の一部を居住の用に供していると否とにかかわらず、又、事業用床面積の広狭にかかわらず、右借地の地代について、地代家賃統制令の適用がない（昭和三七年二月一五日第一小法廷判決、民集一六巻二号二六五頁参照）。",
+  "ref_law": "地代家賃統制令23条2項但書",
+  "lawsuit_id": "63727",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63727",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/727/063727_hanrei.pdf"
+}

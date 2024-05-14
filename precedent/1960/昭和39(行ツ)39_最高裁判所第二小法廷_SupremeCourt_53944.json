@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 9,
+    "day": 18
+  },
+  "case_number": "昭和39(行ツ)39",
+  "case_name": "選挙無効確認請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第18巻7号1478頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 2,
+    "day": 18
+  },
+  "gist": "一　地方自治法第一四五条所定の退職時期繰上げにつき議会の同意を得た地方公共団体の長の退職申出の撤回がゆるされた事例。\n二　公職選挙法第二七〇条の二の規定の行政機関相互間の行為に対する適用の有無。",
+  "case_gist": "一　地方公共団体の長の退職申出は、地方自治法第一四五条所定の期日前に退職するため議会の同意を得た後であつても、まだ後任者の選挙の期日の告示などその効果をみだりに動かしがたい行為が行われず、長個人にも信義則上咎むべき事情の認められない原判決判示の事情（原判決理由参照）のもとにおいては、これを撤回することが許されると解すべきである。\n二　公職選挙法第二七〇条の二の規定は、行政機関相互の通知報告などの行為については、適用されない。",
+  "ref_law": "地方自治法145条，公職選挙法270条の1",
+  "lawsuit_id": "53944",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53944",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/944/053944_hanrei.pdf"
+}

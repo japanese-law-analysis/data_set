@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 6,
+    "day": 6
+  },
+  "case_number": "昭和34(オ)502",
+  "case_name": "建物收去土地明渡請求",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第16巻7号1265頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 3,
+    "day": 11
+  },
+  "gist": "借地法第四条第一項の合憲性。",
+  "case_gist": "借地法第四条第一項は、憲法第二九条に違反しない。",
+  "ref_law": "借地法4条1項，憲法29条1項，憲法29条2項",
+  "lawsuit_id": "52971",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52971",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/971/052971_hanrei.pdf"
+}

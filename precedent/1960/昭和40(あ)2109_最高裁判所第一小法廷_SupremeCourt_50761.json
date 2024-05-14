@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 3,
+    "day": 24
+  },
+  "case_number": "昭和40(あ)2109",
+  "case_name": "公務執行妨害、傷害",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第20巻3号129頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 9,
+    "day": 16
+  },
+  "gist": "一　執行吏が債権者たる会社の職員を補助者に使用することは執行吏執行等手続規則第一四条に違反するか\n二　刑法第九五条第一項にいう暴行脅迫の程度およびその客体。",
+  "case_gist": "一　執行吏が債権者たる会社の職員を補助者に使用することは、執行吏執行等手続規則第一四条に違反するとはいえない。\n二　刑法第九五条第一項に規定する公務執行妨害罪の成立には、公務員が職務の執行をなすに当り、その職務の執行を妨害するに足りる暴行脅迫がなされることを要するけれども、その暴行脅迫は、必ずしも直接に当該公務員自身に対して加えられることを要せず当該公務員の指揮に従いその手足となり、その職務の執行に密接不可分の関係において関与する補助者に対してなされるものでもよい。",
+  "ref_law": "執行吏執行等手続規則14条，刑法95条1項",
+  "lawsuit_id": "50761",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50761",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/761/050761_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 12,
+    "day": 19
+  },
+  "case_number": "昭和43(オ)275",
+  "case_name": "詐害行為取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第23巻12号2518頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和39(ネ)1930",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 12,
+    "day": 20
+  },
+  "gist": "譲渡担保の設定が詐害行為にならないとされた事例",
+  "case_gist": "牛乳小売業者が、継続的に牛乳の卸売を受けて来た仕入先に対し、右取引上の債務を担保するため、所有店舗に根抵当権を設定し代物弁済の予約を結んでいた場合において、代金の支払を遅滞したため、取引を打ち切り担保権を実行する旨の通知を受けるに及んで、これを免れて従前どおりの営業の継続をはかる目的のもとに、原判示（原判決理由参照）のように、右仕入先と示談のうえ、債務の支払猶予を受け、前記店舗を営業用動産や営業権等とともに現在および将来の債務の担保として譲渡担保に供したとき、右行為は、当時の諸般の事情に照らし、営業を継続するための仕入先に対する担保提供行為として合理的限度をこえず、かつ、他に適切な更生の道がなかつたものと認められるかぎり、詐害行為とならない。",
+  "ref_law": "民法424条",
+  "lawsuit_id": "51916",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51916",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/916/051916_hanrei.pdf"
+}

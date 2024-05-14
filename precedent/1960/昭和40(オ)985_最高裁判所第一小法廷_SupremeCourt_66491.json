@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 9,
+    "day": 22
+  },
+  "case_number": "昭和40(オ)985",
+  "case_name": "小切手金請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第84号469頁",
+  "original_court_name": "札幌高等裁判所\n        　函館支部",
+  "original_case_number": "昭和40(ネ)17",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 5,
+    "day": 11
+  },
+  "gist": "病気による出頭不能を理由とする期日変更申請の不許可を違法でないとした事例",
+  "case_gist": "期日変更申請書に添付された医師の診断書に「狭心症により入院加療中につき出席不能」と記載されていても、その診断書が当該期日より七ケ月以上前に作成されたものであるときは、右期日変更申請を却下しても違法ではない。",
+  "ref_law": "民訴法152条",
+  "lawsuit_id": "66491",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66491",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/491/066491_hanrei.pdf"
+}

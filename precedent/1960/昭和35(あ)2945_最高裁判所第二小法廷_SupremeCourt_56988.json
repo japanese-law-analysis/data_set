@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 5,
+    "day": 4
+  },
+  "case_number": "昭和35(あ)2945",
+  "case_name": "賍物故買、古物営業法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第16巻5号510頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 12,
+    "day": 1
+  },
+  "gist": "一　古物営業法第一七条にいう「その都度」の意義\n二　同法第二九条、第一七条の法意\n三　同法第二九条、第一七条の合憲性",
+  "case_gist": "一　古物営業法第一七条にいう「その都度」とは、「そのたびごとに」の意に解すべきである。\n二　同法第二九条で処罰する「同法第一七条の規定に違反した者」とは故意に所定の記帳をしなかつた者ばかりでなく、過失により記帳しなかつた者をも包含する法意であると解すべきである。\n三　同法第二九条、第一七条の規定は、憲法第三八条第一項に違反しない。",
+  "ref_law": "古物営業法17条，古物営業法29条，憲法38条1項",
+  "lawsuit_id": "56988",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56988",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/988/056988_hanrei.pdf"
+}

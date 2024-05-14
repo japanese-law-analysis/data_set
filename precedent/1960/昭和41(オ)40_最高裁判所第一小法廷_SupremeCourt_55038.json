@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 10,
+    "day": 19
+  },
+  "case_number": "昭和41(オ)40",
+  "case_name": "家屋明渡等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第21巻8号2078頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和35(ネ)1461",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 10,
+    "day": 4
+  },
+  "gist": "法人格のない社団に当たると認められた事例",
+  "case_gist": "普通地方公共団体の区域に属する特定地域の住民により結成された任意団体であつて、当該地方公共団体の下部行政区画でも、財産区でもなく、原判示のような規約に基づいて存続・活動しているもの（原判決理由参照）は、法人格のない社団に当たると解すべきである。",
+  "ref_law": "民法33条，民訴法46条",
+  "lawsuit_id": "55038",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55038",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/038/055038_hanrei.pdf"
+}

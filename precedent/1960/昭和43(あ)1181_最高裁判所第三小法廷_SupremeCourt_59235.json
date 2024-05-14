@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 12,
+    "day": 23
+  },
+  "case_number": "昭和43(あ)1181",
+  "case_name": "強盗致死、同未遂",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第174号751頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 5,
+    "day": 10
+  },
+  "gist": "接見交通の不法制限と自白の証拠能力",
+  "case_gist": "仮に、所論のように、当時被疑者であつた被告人と弁護人との間の接見交通に対し検察官による不法な制限があつたとしても、本件においては、その制限があるとされた以前の段階において被告人が犯行を全面的に自白しており、しかも、第一審の公判において、被告人側は所論の自白調書をすべて証拠とすることに同意していることが記録上明らかであるから、所論憲法三四条違反の主張は、結局判決に影響を及ぼさない訴訟法違反のあることを前提とするものであつて、適法な上告理由にあたらない。",
+  "ref_law": "憲法34条前段，憲法37条3項，憲法38条，刑訴法39条，刑訴法319条1項",
+  "lawsuit_id": "59235",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59235",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/235/059235_hanrei.pdf"
+}

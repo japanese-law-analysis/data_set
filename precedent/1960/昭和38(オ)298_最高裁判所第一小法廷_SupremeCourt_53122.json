@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 5,
+    "day": 7
+  },
+  "case_number": "昭和38(オ)298",
+  "case_name": "強制執行第三者異議請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第18巻4号574頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 12,
+    "day": 13
+  },
+  "gist": "第三者異議の訴の係属中に差押の解除がなされた場合と訴の利益。",
+  "case_gist": "第三者異議の訴の係属中に、執行債権者において当該差押物件が執行債務者の責任財産に属しないことを承認して強制執行の取消を求め、差押が解除された場合には、特別の事情のないかぎり、右訴の利益は失われる。",
+  "ref_law": "民訴法549条",
+  "lawsuit_id": "53122",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53122",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/122/053122_hanrei.pdf"
+}

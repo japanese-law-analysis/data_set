@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 2,
+    "day": 11
+  },
+  "case_number": "昭和38(オ)903",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第18巻2号315頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 5,
+    "day": 16
+  },
+  "gist": "農業協同組合の運転手が私用のため組合所有の自動車を無断運行中事故を発生させた場合右組合が自動車損害賠償保障法第三条にいう「自己の為に自動車を運行の用に供する者」にあたるとされた事例。",
+  "case_gist": "農業協同組合の運転手が、私用に使うことを禁止していた組合内視に違反して組合所有の自動車を無断運転し、帰宅する途中、事故を起した等判示の事実関係のもとにおいては、右組合は、自動車損害賠償保障法第三条にいう「自己の為に自動車を運行の用に供する者」にあたると認めるのが相当である。",
+  "ref_law": "自動車損害賠償保障法3条，民法715条",
+  "lawsuit_id": "53134",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53134",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/134/053134_hanrei.pdf"
+}

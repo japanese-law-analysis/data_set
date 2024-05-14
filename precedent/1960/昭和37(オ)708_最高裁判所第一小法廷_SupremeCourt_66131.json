@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 12,
+    "day": 19
+  },
+  "case_number": "昭和37(オ)708",
+  "case_name": "売掛代金請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第70号389頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 3,
+    "day": 30
+  },
+  "gist": "商人間の不法行為に基づく損害賠償債権の遅延損害金の法定利率。",
+  "case_gist": "商人間の不法行為に基づく損害賠償債権の遅延損害金の法定利率は、年五分の割合であつて、商法第五一四条を類推適用すべきではない。",
+  "ref_law": "民法404条，民法709条，商法514条",
+  "lawsuit_id": "66131",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66131",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/131/066131_hanrei.pdf"
+}

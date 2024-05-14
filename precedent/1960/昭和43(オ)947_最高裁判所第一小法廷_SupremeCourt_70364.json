@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 3,
+    "day": 6
+  },
+  "case_number": "昭和43(オ)947",
+  "case_name": "家屋明渡等及び家屋明渡当事者参加事件等",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第94号597頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和39(ネ)1116",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 5,
+    "day": 31
+  },
+  "gist": "当事者の相続人のする当事者参加の申立の効力",
+  "case_gist": "当事者の相続人は、自分の相続した分については、当事者参加の申立をすることはできないが、他の相続人が承継した訴訟の分については、他人間の訴訟として、右の申立をすることができる。",
+  "ref_law": "民訴法73条，民訴法71条，民訴法208条",
+  "lawsuit_id": "70364",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70364",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/364/070364_hanrei.pdf"
+}

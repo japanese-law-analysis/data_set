@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 12,
+    "day": 25
+  },
+  "case_number": "昭和38(オ)330",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第22巻13号3548頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和35(ネ)869",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 11,
+    "day": 27
+  },
+  "gist": "自己の債権の支払確保のため約束手形の裏書を受けた手形所持人が右原因債権の完済後に振出人に対してする手形金請求と権利の濫用",
+  "case_gist": "自己の債権の支払確保のため約束手形の裏書を受けた手形所持人は、その後右債権の完済を受けて裏書の原因関係が消滅したときは、特別の事情のないかぎり、以後右手形を保持すべき正当の権原を有しないことになり、手形上の権利を行使すべき実質的理由を失つたものであつて、右手形を返還しないで自己が所持するのを奇貨として、自己の形式的権利を利用し振出人に対し手形金を請求するのは、権利の濫用にあたり、振出人は、右所持人に対し手形金の支払を拒むことができる。",
+  "ref_law": "手形法77条，手形法17条，民法1条2項，民法1条3項",
+  "lawsuit_id": "54950",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54950",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/950/054950_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 10,
+    "day": 30
+  },
+  "case_number": "昭和35(オ)1360",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第62号1059頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 8,
+    "day": 24
+  },
+  "gist": "約束手形の振出人欄の肩書と押印から会社が振出人であるとされた事例。",
+  "case_gist": "振出人欄に「Ｂ」、その肩書部分に「たからや」の記載がなされ、右「Ｂ」名下に「有限会社Ｄ洋装店代表取締役印」の押印がなされている約束手形の振出人は、有限会社Ｄ洋装店と認めるのが相当である。",
+  "ref_law": "手形法75条",
+  "lawsuit_id": "63542",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63542",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/542/063542_hanrei.pdf"
+}

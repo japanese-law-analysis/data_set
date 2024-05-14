@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 4,
+    "day": 6
+  },
+  "case_number": "昭和39(オ)1051",
+  "case_name": "所有権移転登記手続等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第21巻3号533頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "昭和36(ネ)524",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 6,
+    "day": 10
+  },
+  "gist": "農地の買主が知事に対する許可申請手続をしない場合と売買契約の解除",
+  "case_gist": "畑を宅地に転用するための農地の売買契約がなされた場合において、売主が知事に対する許可申請手続に必要な書類を買主に交付したのに、買主が特段の事情もなく右許可申請手続をしないときには、売主は、これを理由に売買契約を解除することができる。",
+  "ref_law": "民法541条，農地法5条，農地法施行規則6条，農地法施行規則2条2項",
+  "lawsuit_id": "54957",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54957",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/957/054957_hanrei.pdf"
+}

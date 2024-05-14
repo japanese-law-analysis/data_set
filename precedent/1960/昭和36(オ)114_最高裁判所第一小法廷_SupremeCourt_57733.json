@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 1,
+    "day": 23
+  },
+  "case_number": "昭和36(オ)114",
+  "case_name": "審決取消請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第18巻1号50頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 11,
+    "day": 8
+  },
+  "gist": "連合商標として登録出願された商標が商品の誤認を生ぜしめるおそれがあるとされた事例。",
+  "case_gist": "「ヤグルト」または「ＹＡＧＵＬＴ」の文字からなりまたはこれらを要部として構成される商標は、「ヤクルト」の文字からなりまたはこれを要部として構成される商標の連合商標として登録出願されたものであつても、判示のような事実関係のもとにおいては、これをその指定商品たる乳酸清涼飲料類または乳酸菌飲料（但し、ヨーグルトを除く。）に使用すれば、乳酸菌飲料たるヨーグルトとの間に商品の誤認を生ぜしめるおそれがあるものと認むべきである。",
+  "ref_law": "旧商標法（大正10年法律99号）2条1項11号，旧商標法（大正10年法律99号）3条",
+  "lawsuit_id": "57733",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57733",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/733/057733_hanrei.pdf"
+}

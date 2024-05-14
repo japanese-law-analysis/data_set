@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 4,
+    "day": 21
+  },
+  "case_number": "昭和39(行ツ)33",
+  "case_name": "行政処分取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第87号237頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和37(ネ)911",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 12,
+    "day": 26
+  },
+  "gist": "一　法人税法（昭和二二年法律第二八号）第二五条第八項第一号による取消処分と同項第三号による取消処分との同一性の有無\n二　法人税法による審査の請求の手続において係争処分を他の処分に転換して維持することを許されないとされた事例",
+  "case_gist": "一　青色申告書提出承認の取消でも、法人税法（昭和二二年法律第二八号）第二五条第八項第一号によるものと同項第三号によるものとは、それぞれ別個の取消処分を構成するものと解すべきである。\n二　法人税法（昭和二二年法律第二八号）第二五条第八項第三号による取消処分を不服とする同法第三五条（昭和三七年法律第六七号による削除前）の審査の請求の手続において、右取消処分を同法第二五条第八項第一号該当の処分と認めて維持し、棄却決定をすることは許されない。",
+  "ref_law": "法人税法（昭和22年法律28号）25条8項，法人税法（昭和22年法律28号）35条",
+  "lawsuit_id": "70166",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70166",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/166/070166_hanrei.pdf"
+}

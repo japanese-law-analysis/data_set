@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 6,
+    "day": 20
+  },
+  "case_number": "昭和43(オ)448",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第95号521頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和40(ネ)2205",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 2,
+    "day": 27
+  },
+  "gist": "手形の騙取と手形の交付",
+  "case_gist": "振出人甲が信用金庫の保証を得た約束手形を約束どおり現金と引換えでなければ交付できないと拒絶したが、手形ブローカー乙から融資する者に見せてくるから貸してくれといわれてだまされてとりあげられたときは、右手形の交付があつたものというべきである。",
+  "ref_law": "手形法78条",
+  "lawsuit_id": "66678",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66678",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/678/066678_hanrei.pdf"
+}

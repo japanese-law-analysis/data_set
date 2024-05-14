@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 2,
+    "day": 10
+  },
+  "case_number": "昭和31(オ)326",
+  "case_name": "土地賃貸借契約等無効確認請求",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第14巻2号137頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 2,
+    "day": 8
+  },
+  "gist": "一　農地法第二〇条と憲法第一四条、第二九条\n二　当該法律関係と直接関係のない規則またはその属する法律全体の違憲性を理由とする違憲主張の適否。",
+  "case_gist": "一　農地法第二〇条は、憲法第一四条、第二九条に違背しない。\n二　ある法規（例えば農地法第二〇条）の適用される法律関係（例えば同条第一項の知事の不許可処分）の違憲を主張するのに、その法規の属する法律中当該法律関係と直接関係のない法規（例えば同法第三条）またはその法律全体（例えば農地法）の違憲性を理由とすることは、上告理由として許されない。",
+  "ref_law": "農地法20条，憲法14条，憲法29条，憲法81条，民訴法394条",
+  "lawsuit_id": "53543",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53543",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/543/053543_hanrei.pdf"
+}

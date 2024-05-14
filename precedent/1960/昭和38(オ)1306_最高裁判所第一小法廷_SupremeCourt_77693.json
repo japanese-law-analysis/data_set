@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 4,
+    "day": 14
+  },
+  "case_number": "昭和38(オ)1306",
+  "case_name": "司法行政処分の取消等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第83号167頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和37(ネ)2355",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 8,
+    "day": 9
+  },
+  "gist": "印紙追貼命令およびこれに関連する措置等に対する救済を裁判所法第八二条によつて求めることの許否",
+  "case_gist": "上告状についての印紙追貼命令およびこれに関連する措置等に対する救済は、民事訴訟法所定の不服申立方法によるべく、審級その他の定めから上訴による不服申立のみちのない場合においても、これに裁判所法第八二条に基づく司法行政監督上の措置を求めることはできない。",
+  "ref_law": "民訴法397条，民訴法370条，民訴法228条，裁判所法82条",
+  "lawsuit_id": "77693",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77693",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/693/077693_hanrei.pdf"
+}

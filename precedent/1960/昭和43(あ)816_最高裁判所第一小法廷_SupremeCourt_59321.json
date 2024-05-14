@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 11,
+    "day": 21
+  },
+  "case_number": "昭和43(あ)816",
+  "case_name": "賍物故買",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第169号483頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 3,
+    "day": 12
+  },
+  "gist": "刑訴法第四〇〇条但書の事実の取調の範囲",
+  "case_gist": "賍物故買被告事件につき、買い受け数量にも争いがあるが、争点の核心が知情の有無にある場合、控訴審が、右知情の点についてのみ事実の取調をしたうえ、前記数量の点をも含めて公訴事実どおりの事実を確定し、有罪の判決をすることは、刑訴法第四〇〇条但書に違反しない。",
+  "ref_law": "刑訴法400条但書",
+  "lawsuit_id": "59321",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59321",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/321/059321_hanrei.pdf"
+}

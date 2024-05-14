@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 11,
+    "day": 9
+  },
+  "case_number": "昭和36(オ)171",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第63号169頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 11,
+    "day": 17
+  },
+  "gist": "運送品到達の荷受人の荷受権限の移転に運送取扱委託者との合意が必要か。",
+  "case_gist": "貨物引換証の発行のない場合において、運送品が到達地に達した後は、運送取扱人は、運送取扱委託者との合意がなくても、荷受人から荷受権限の移転を受けた者に対し運送品を引き渡すことによつて、債務の本旨に従つた履行ができる。",
+  "ref_law": "商法568条，商法583条1項",
+  "lawsuit_id": "65961",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=65961",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/961/065961_hanrei.pdf"
+}

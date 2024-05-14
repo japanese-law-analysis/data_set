@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 3,
+    "day": 23
+  },
+  "case_number": "昭和36(オ)696",
+  "case_name": "建物収去土地明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第59号575頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 3,
+    "day": 31
+  },
+  "gist": "土地区画整理法による換地予定地の指定と従前の土地の賃貸借の効力",
+  "case_gist": "賃貸借の対象たる土地に対し、土地区画整理法に基づき換地予定地の指定がなされた結果、賃借人が従前の土地の使用収益を禁じられ、換地予定地の使用収益すべきことになつたとしても、これによつて従前の土地の賃貸借そのものが消滅に帰したわけではなく、その約定賃料もまた換地予定地の地積いかんにより当然増減するものではない。",
+  "ref_law": "民法601条，土地区画整理法99条，同施行法6条",
+  "lawsuit_id": "74358",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74358",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/358/074358_hanrei.pdf"
+}

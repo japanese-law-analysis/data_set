@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 5,
+    "day": 24
+  },
+  "case_number": "昭和37(オ)93",
+  "case_name": "建物収去、土地明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第17巻5号639頁",
+  "original_court_name": "福岡高等裁判所\n        　宮崎支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 10,
+    "day": 30
+  },
+  "gist": "対抗力を具備しない土地賃借権者に対する建物収去、土地明渡の請求が権利の濫用となるとされた事例。",
+  "case_gist": "甲が乙より土地を賃借した後、右土地の所有権が乙、丙、丁と順次譲渡された場合において、丙は乙の実子であり、丁は乙、丙その他これと血族または姻族関係にある者の同族会社であつて、その営業の実態は乙の個人営業をそのまま引き継いだものであり、乙がその中心となつている等原判示のような事情（原判決理由参照）があるときは、甲の右賃借権及びその所有の地上建物につき登記がなくても、丁において、甲の右賃借権が対抗力を有しないことを理由に建物収去、土地明渡を求めることは、権利の濫用として許されない。",
+  "ref_law": "民法1条，建物保護ニ関スル法律1条",
+  "lawsuit_id": "53832",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53832",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/832/053832_hanrei.pdf"
+}

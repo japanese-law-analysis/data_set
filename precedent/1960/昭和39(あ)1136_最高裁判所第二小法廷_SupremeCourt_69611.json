@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 10,
+    "day": 16
+  },
+  "case_number": "昭和39(あ)1136",
+  "case_name": "道路交通法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第152号1035頁",
+  "original_court_name": "仙台高等裁判所\n        　秋田支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 5,
+    "day": 12
+  },
+  "gist": "運転免許の停止処分と憲法第三九条。",
+  "case_gist": "運転免許の効力の停止処分は、道路交通法に定められた公安委員会の行う行政処分であつて、刑罰ではないのであるから、被告人が運転免許停止処分を受けた後、さらに同一事実につき刑事訴追を受け有罪判決を言い渡されたとしても、憲法第三九条に違反するものではない、このことは判例（昭和二九年（あ）二一五号、同三〇年六月一日大法廷判決、刑集九巻七号一一〇三頁・昭和二九年（オ）第二三六号、同三三年四月三〇日大法廷判決、民集一二巻六号九三八頁。）の趣旨に懲し明らかである（昭和三四年（あ）第一七八四号、同三五年三月一〇日第一小法廷判決、刑集一四巻三号三二六頁参照）。",
+  "ref_law": "道路交通法103条2項，道路交通法施行令38条，憲法39条",
+  "lawsuit_id": "69611",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=69611",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/611/069611_hanrei.pdf"
+}

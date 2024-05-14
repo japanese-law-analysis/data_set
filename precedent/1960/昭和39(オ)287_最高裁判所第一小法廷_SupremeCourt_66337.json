@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 7,
+    "day": 21
+  },
+  "case_number": "昭和39(オ)287",
+  "case_name": "売掛代金請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第84号137頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和36(ネ)426",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 11,
+    "day": 28
+  },
+  "gist": "債権譲渡の通知に審理不尽の違法が存するとされた事例",
+  "case_gist": "原審認定の事実関係のもとにおいては、甲四号証（債権譲渡通知書）の記載のみならず、右通知のなされるにいたつた経緯、とくに右通知を必要とするにいたつた基礎となる請求権の発生その他の法律関係の発生の経過等についても審理探究し、その他の証拠資料をも綜合して判定すべきであるのに、右の点について審理判断することなく、本訴請求権の譲渡通知はなされていないと認定したのは、違法である。",
+  "ref_law": "民法117条，民法467条，民法555条",
+  "lawsuit_id": "66337",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66337",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/337/066337_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 8,
+    "day": 17
+  },
+  "case_number": "昭和36(あ)148",
+  "case_name": "賭博場開張図利、証憑湮滅",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第15巻7号1293頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 10,
+    "day": 31
+  },
+  "gist": "捜査段階における参考人の隠匿と証憑湮滅罪の成立。",
+  "case_gist": "捜査段階における参考人も刑法第一〇四条にいわゆる他人の刑事被告事件に関する証憑に該当し、これを隠匿すれば証憑湮滅罪が成立する。",
+  "ref_law": "刑法104条",
+  "lawsuit_id": "50657",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50657",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/657/050657_hanrei.pdf"
+}

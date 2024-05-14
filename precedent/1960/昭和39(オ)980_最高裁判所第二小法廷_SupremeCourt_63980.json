@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 4,
+    "day": 30
+  },
+  "case_number": "昭和39(オ)980",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第78号835頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和38(ネ)334",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 5,
+    "day": 23
+  },
+  "gist": "賃貸家屋の取りこわしを目的としてなされた家屋賃貸借の解約申入れに正当事由があるとされた事例。",
+  "case_gist": "二戸建一棟の家屋の賃貸借において、戦災により、西側の一戸の西端側下半分が焼失したためその部分がトタン板で仮間仕切りをして修復され、南の一部は損壊のままであり、各室の天井の大半は黒こげとなつて使用にたえないため取り外されており、家屋全体として著しく居住にたえ難い状態であり、また、東側の一戸はそれだけで使用不能ではないが、屋根ひさしの一部、玄関入口の柱、外壁の上部等に表面黒こげの部分が残存している状態である。原判示の事情（原判決理由参照）があるときは、右家屋全体を解体して右土地に新たな建物を建築して土地全体の活用を計る意図のもとになされた右賃貸借の解約申入れには、正当事由がある。",
+  "ref_law": "借家法1条の2",
+  "lawsuit_id": "63980",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63980",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/980/063980_hanrei.pdf"
+}

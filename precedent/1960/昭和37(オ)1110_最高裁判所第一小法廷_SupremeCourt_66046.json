@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 3,
+    "day": 28
+  },
+  "case_number": "昭和37(オ)1110",
+  "case_name": "所有権移転登記手続等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第65号307頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 6,
+    "day": 15
+  },
+  "gist": "民法第五四二条にいう定期行為にあたらないとされた事例。",
+  "case_gist": "米国に移住のため在日財産処分の必要に迫られた者が渡米の日とにらみ合せて売買代金支払および登記手続履行の日時を定めて建物の売買契約をした場合でも、右期日までに代金支払がなされなければ相当の不便を感じることが推測されるだけで売買の目的を達しえない事情までは認められない以上、これを定期行為とみることはできない。",
+  "ref_law": "民法524条",
+  "lawsuit_id": "66046",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66046",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/046/066046_hanrei.pdf"
+}

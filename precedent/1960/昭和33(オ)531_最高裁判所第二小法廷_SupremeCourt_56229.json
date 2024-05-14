@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 3,
+    "day": 2
+  },
+  "case_number": "昭和33(オ)531",
+  "case_name": "株金等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第16巻3号423頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 4,
+    "day": 5
+  },
+  "gist": "株金払込を取扱つた銀行の株金保管義務",
+  "case_gist": "株式払込を取扱つた銀行は、その証明した払込金額を、会社成立の時まで保管すべきものであり、それ以前に発起人又は取締役に返還しても、これをもつて会社に対抗することができない。",
+  "ref_law": "商法189条，商法177条2項，商法178条，非訟事件手続法187条2項10号",
+  "lawsuit_id": "56229",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56229",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/229/056229_hanrei.pdf"
+}

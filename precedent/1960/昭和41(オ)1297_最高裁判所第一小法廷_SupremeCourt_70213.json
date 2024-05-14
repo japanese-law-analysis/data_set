@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 4,
+    "day": 27
+  },
+  "case_number": "昭和41(オ)1297",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第87号317頁",
+  "original_court_name": "高松高等裁判所",
+  "original_case_number": "昭和40(ネ)172",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 9,
+    "day": 13
+  },
+  "gist": "民法第一九二条の適用に関連し占有の開始に過失があるとされた事例",
+  "case_gist": "（省略）",
+  "lawsuit_id": "70213",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70213",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/213/070213_hanrei.pdf"
+}

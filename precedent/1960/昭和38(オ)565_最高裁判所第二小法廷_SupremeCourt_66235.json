@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 9,
+    "day": 18
+  },
+  "case_number": "昭和38(オ)565",
+  "case_name": "所有権移転登録抹消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第75号293頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 1,
+    "day": 30
+  },
+  "gist": "代理権を有する者のなした権限外の行為がその代理権となんら関係のない場合と民法第一一〇条の適用。",
+  "case_gist": "代理権を有する者のなした権限外の行為がその代理権となんら関係のない場合でも、相手方において代理人に権限があると信ずるに足る正当な理由があるときには、民法第一一〇条の適用がある。",
+  "ref_law": "民法110条",
+  "lawsuit_id": "66235",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66235",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/235/066235_hanrei.pdf"
+}

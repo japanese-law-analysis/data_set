@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 1,
+    "day": 20
+  },
+  "case_number": "昭和39(オ)324",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第86号87頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和36(ネ)1058",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 12,
+    "day": 19
+  },
+  "gist": "家屋を借用しこれに対し金員を支払う旨の約定が対価とは認められなかつた事例",
+  "case_gist": "家屋を借用し、借用人において該家屋の固定資産税および敷地の地代を負担する約定があつても、原判決認定の事実関係の下においては、右金員の支払は家屋使用の対価とは認められない。",
+  "ref_law": "民法601条",
+  "lawsuit_id": "66340",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66340",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/340/066340_hanrei.pdf"
+}

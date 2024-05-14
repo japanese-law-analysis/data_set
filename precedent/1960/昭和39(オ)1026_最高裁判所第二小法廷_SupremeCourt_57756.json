@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 4,
+    "day": 15
+  },
+  "case_number": "昭和39(オ)1026",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第20巻4号660頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和37(ネ)2718",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 3,
+    "day": 27
+  },
+  "gist": "株式会社の代表取締役に商法第二六六条ノ三第一項前段にいう職務を行なうについて重大な過失があるとされた事例",
+  "case_gist": "株式会社の代表取締役が、原判決認定の諸事情（原判決理由参照）のように、会社の事業拡張による収益増加により約束手形金の支払が可能であると軽率に考え、約束手形を振り出して金融を受け、会社の資産等を顧慮せずに調査不十分な事業に多額の投資をしてその会社の破綻を招いた場合には、右取締役は、右手形の振出に関し、商法第二六六条ノ三第一項前段にいう職務を行なうについて重大な過失があると認めるのが相当である。",
+  "ref_law": "商法266条の3第1項",
+  "lawsuit_id": "57756",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57756",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/756/057756_hanrei.pdf"
+}

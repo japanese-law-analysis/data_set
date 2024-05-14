@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 4,
+    "day": 3
+  },
+  "case_number": "昭和34(オ)109",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第60号1頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 10,
+    "day": 10
+  },
+  "gist": "監査役がその会社の訴訟代理人としてなした訴訟行為の効力",
+  "case_gist": "会社の監査役が、弁護士としてその会社が当事者となつている訴訟行為を受任遂行する場合は、商法第二七六条に違反するとしても、右訴訟行為は無効とはならない。",
+  "ref_law": "商法276条",
+  "lawsuit_id": "77589",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77589",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/589/077589_hanrei.pdf"
+}

@@ -1,0 +1,24 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 10,
+    "day": 14
+  },
+  "case_number": "昭和38(す)347",
+  "case_name": "裁判官忌避申立却下決定に対する異議申立",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第148号785頁",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 10,
+    "day": 4
+  },
+  "lawsuit_id": "58834",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58834",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/834/058834_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 6,
+    "day": 13
+  },
+  "case_number": "昭和42(あ)1563",
+  "case_name": "業務上過失傷害",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集刑　第167号601頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 5,
+    "day": 25
+  },
+  "gist": "被害者の自殺的行為まで予見することは不可能であるとされた事例",
+  "case_gist": "被告人の自動車が時速五〇粁で先行車との間に約八米の間隔をとつて追随している場合、先行車の左前方を走つていた被害車両が先行車をやりすごすと同時に、進路を右に転じ、瞬時に被告人の自動車の前面を通過しようとする行為は自殺的行為にひとしいもので、被告人としてはかような被害者の自殺的行為までも予見することは不可能であるといわなければならない。",
+  "ref_law": "刑法211条",
+  "lawsuit_id": "59096",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59096",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/096/059096_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 1,
+    "day": 21
+  },
+  "case_number": "昭和40(オ)1079",
+  "case_name": "家屋収去土地明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第82号135頁",
+  "original_court_name": "高松高等裁判所",
+  "original_case_number": "昭和35(ネ)387",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 6,
+    "day": 15
+  },
+  "gist": "地上建物の競落によつて競落人が取得した土地賃借権は、地主の承諾なくして地主に対抗できるか",
+  "case_gist": "土地賃借権が、地上建物の競落にともなつて移転したからといつて、その事由のみでは、いまだ、右賃借権の承継人が貸主の承諾なしに右承継を貸主に対抗できるものと解することはできない。",
+  "ref_law": "民法612条",
+  "lawsuit_id": "66403",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66403",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/403/066403_hanrei.pdf"
+}

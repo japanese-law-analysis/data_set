@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 5,
+    "day": 26
+  },
+  "case_number": "昭和42(し)10",
+  "case_name": "再審請求棄却決定に対する即時抗告棄却の決定に対する特別抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第21巻4号723頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 2,
+    "day": 14
+  },
+  "gist": "相被告人の公判廷における供述は刑訴法第四三五条第二号にいう「証言」に含まれるか",
+  "case_gist": "相被告人の公判廷における供述は、刑訴法第四三五条第二号にいう「証言」に含まれない。",
+  "ref_law": "刑訴法435条2号",
+  "lawsuit_id": "50874",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50874",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/874/050874_hanrei.pdf"
+}

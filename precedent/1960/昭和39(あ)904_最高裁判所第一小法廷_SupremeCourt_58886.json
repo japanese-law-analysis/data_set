@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 12,
+    "day": 17
+  },
+  "case_number": "昭和39(あ)904",
+  "case_name": "窃盗、窃盗幇助、賍物故買",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第153号699頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 3,
+    "day": 5
+  },
+  "gist": "窃盗幇助をした者がその賍物を故買した場合の罪数。",
+  "case_gist": "窃盗幇助をした者がその賍物を故買した場合には、窃盗罪と賍物故買の二罪が成立すると解するを相当する（昭和二四年（れ）第一五〇六号同年一〇月一日第二小法廷判決、刑集三巻一〇号一六二九頁・昭和二七年（あ）第五四四〇号同二八年三月六日第二小法廷判決、裁判集七五号四三五頁参照）。",
+  "ref_law": "刑法325条，刑法62条1項，刑法256条2項，刑法45条前段",
+  "lawsuit_id": "58886",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58886",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/886/058886_hanrei.pdf"
+}

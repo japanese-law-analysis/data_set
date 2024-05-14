@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 2,
+    "day": 5
+  },
+  "case_number": "昭和38(オ)835",
+  "case_name": "所得税更正処分取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第19巻1号106頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和36(ネ)1391",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 3,
+    "day": 13
+  },
+  "gist": "所得税の確定申告をしない場合において誤つてなされた過少申告による更生処分の取消を求める訴の利益。",
+  "case_gist": "所得税の確定申告書を提出すべき義務ある者が申告書を提出しなかつた場合においては、税務署長が、無申告による決定をなすべきであるのに、誤つて過少申告による更正処分をしても、右更生処分の取消を求める訴の利益は認められない。",
+  "ref_law": "所得税法（昭和37年法律67号による改正前のもの）44条1項，所得税法（昭和37年法律67号による改正前のもの）44条4項，行政事件訴訟法9条",
+  "lawsuit_id": "57751",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57751",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/751/057751_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 12,
+    "day": 6
+  },
+  "case_number": "昭和37(オ)422",
+  "case_name": "弁済金返還請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第16巻12号2313頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 1,
+    "day": 28
+  },
+  "gist": "一　執行行為に基づく弁済の否認と破産法第七二条第一号の適用\n二　破産法第七二条第一号による否認権行使における受益者の悪意の立証責任",
+  "case_gist": "一　破産者が強制執行を受けるについて害意ある加功をなした場合には、執行行為に基づく破産者の弁済は、破産法第七二条第一号によつて否認されうる。\n二　破産法第七二条第一号による否認権行使においては、否認を免れようとする受益者がその行為の当時破産債権者を害することを知らなかつたことの立証責任を負う。",
+  "ref_law": "破産法75条，破産法72条1号，民訴法258条",
+  "lawsuit_id": "53805",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53805",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/805/053805_hanrei.pdf"
+}

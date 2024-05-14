@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 12,
+    "day": 3
+  },
+  "case_number": "昭和38(オ)562",
+  "case_name": "株券返還等請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第17巻12号1596頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 12,
+    "day": 27
+  },
+  "gist": "一　証券業者の外務員の権限\n二　外務員を通じて証券業者と顧客との間で株式の売買取引の委託等がなされた場合における当該外務員と証券業者間の代理関係の有無",
+  "case_gist": "一　証券業者の外務員は、特別の事情の存しないかぎり、顧客から株式の売買取引の委託を受け、顧客との間で受渡のため株券又は金銭を授受し、いわゆる保護預り、名義貸契約に伴い株券の授受をなし、新株払込金を受領するにとき、証券業者を代理する権限がある。\n二　外務員と顧客との間に一般取引関係からする信用をこえる特別の個人的信頼関係が存し、顧客が外務員に対し証券業者の使用人たる地位を去つて自己のために行為することを求め、外務員がこれに応じたものと認められるだけの特別事情が存しないかぎり、外務員は、証券業者の代理であると解すべきである。",
+  "ref_law": "証券取引法56条1項",
+  "lawsuit_id": "53873",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53873",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/873/053873_hanrei.pdf"
+}

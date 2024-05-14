@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 5,
+    "day": 24
+  },
+  "case_number": "昭和42(あ)1530",
+  "case_name": "建造物損壊、窃盗",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第167号365頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 5,
+    "day": 23
+  },
+  "gist": "解体材料を領得する目的で建造物を解体しその材料を領得した場合と建造物損壊罪の成否",
+  "case_gist": "建造物の解体材料を領得する目的で、他人の工場を解体し、その材料を領得した場合には、窃盗罪のほかに、建造物損壊罪が成立する。",
+  "ref_law": "刑法260条，刑法235条",
+  "lawsuit_id": "59094",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59094",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/094/059094_hanrei.pdf"
+}

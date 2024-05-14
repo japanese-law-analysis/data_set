@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 4,
+    "day": 20
+  },
+  "case_number": "昭和35(オ)60",
+  "case_name": "山林立入禁止等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第60号345頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 10,
+    "day": 15
+  },
+  "gist": "弁論更新の補正",
+  "case_gist": "続行期日における裁判官の更迭によつて弁論が更新された場合には、それ以前における裁判官の更迭についての弁論の更新がなくても、そのかしは補正される。",
+  "ref_law": "民訴法187条1項，民訴法187条2項",
+  "lawsuit_id": "77633",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77633",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/633/077633_hanrei.pdf"
+}

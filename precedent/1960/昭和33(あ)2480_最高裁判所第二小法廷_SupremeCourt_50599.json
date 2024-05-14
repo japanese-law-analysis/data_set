@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 10,
+    "day": 13
+  },
+  "case_number": "昭和33(あ)2480",
+  "case_name": "名誉毀損",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第15巻9号1586頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 10,
+    "day": 28
+  },
+  "gist": "一　労働組合の執行委員会において公然他人の名誉を毀損する行為と憲法第二八条\n二　労働組合の執行委員会において公然他人の名誉を毀損する行為と刑法第三五条\n三　刑法第二三〇条第一項にいう公然の意義。",
+  "case_gist": "一　労働組合の執行委員会において公然他人の名誉を毀損する行為は、たとえ労働者の団結を強化する目的に出たものであつても、憲法第二八条の保障する権利行使に該当しない。\n二　右行為につき刑法第三五条の適用はない。\n三　多数人の面前において人の名誉を毀損すべき事実を摘示した場合は、その他数人が特定しているときであつても、刑法第二三〇条第一項の罪を構成する。",
+  "ref_law": "刑法230条1項，刑法35条，憲法28条，労働組合法1条",
+  "lawsuit_id": "50599",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50599",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/599/050599_hanrei.pdf"
+}

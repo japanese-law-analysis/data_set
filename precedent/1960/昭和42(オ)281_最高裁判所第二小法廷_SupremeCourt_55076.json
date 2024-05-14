@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 6,
+    "day": 30
+  },
+  "case_number": "昭和42(オ)281",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第21巻6号1526頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和40(ネ)1712",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 11,
+    "day": 28
+  },
+  "gist": "「失火ノ責任ニ関スル法律」と民法第七一五条",
+  "case_gist": "被用者が重大な過失によつて火を失したときは、使用者は、被用者の選任または監督について重大な過失がなくても、民法第七一五条第一項によつて賠償責任を負う。",
+  "ref_law": "失火ノ責任ニ関スル法律，民法715条",
+  "lawsuit_id": "55076",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55076",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/076/055076_hanrei.pdf"
+}

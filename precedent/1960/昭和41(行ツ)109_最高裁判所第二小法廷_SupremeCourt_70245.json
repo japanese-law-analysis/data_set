@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 9,
+    "day": 8
+  },
+  "case_number": "昭和41(行ツ)109",
+  "case_name": "法人税更正決定取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第88号367頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和38(ネ)188",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 9,
+    "day": 27
+  },
+  "gist": "理由附記を欠く行政処分の効力",
+  "case_gist": "行政処分は、法令に別段の規定がある場合のほか、その理由附記を欠く故をもつて違法となるものではない。",
+  "ref_law": "法人税法（昭和37年法律67号による改正前のもの）32条",
+  "lawsuit_id": "70245",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70245",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/245/070245_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 12,
+    "day": 23
+  },
+  "case_number": "昭和40(行ツ)17",
+  "case_name": "農地所有権移転許可処分の取消並に農地所有権確認等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第20巻10号2248頁",
+  "original_court_name": "広島高等裁判所",
+  "original_case_number": "昭和39(行コ)2",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 12,
+    "day": 17
+  },
+  "gist": "農業委員会の許可を受けない農地の賃借人らと当該農地の所有権移転につき知事が第三者に与えた許可処分の無効確認を求める原告適格",
+  "case_gist": "農地の所有者から賃借権等の設定を受け現に当該農地を耕作している者であつても、右賃借権等の設定について農業委員会の許可を受けていない以上、当該農地の所有権移転につき知事が第三者に与えた許可処分の無効確認を求める原告適格を有しない。",
+  "ref_law": "農地法3条1項本文，農地法2項1号，民訴法225条",
+  "lawsuit_id": "54006",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54006",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/006/054006_hanrei.pdf"
+}

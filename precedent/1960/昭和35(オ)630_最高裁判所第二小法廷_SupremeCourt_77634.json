@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 5,
+    "day": 25
+  },
+  "case_number": "昭和35(オ)630",
+  "case_name": "家屋収去土地明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第60号873頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 3,
+    "day": 7
+  },
+  "gist": "過大催告を無効としなかつた事例",
+  "case_gist": "催告の過大が特に著しい程度でなく、支払義務のある限度の弁済の提供に対する債権者の受領拒絶も考えられない事情のもとでは、過大催告は必しも無効でない。",
+  "ref_law": "民法541条",
+  "lawsuit_id": "77634",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77634",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/634/077634_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 8,
+    "day": 26
+  },
+  "case_number": "昭和31(オ)943",
+  "case_name": "不動産所有権移転登記手続請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第14巻10号1943頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 8,
+    "day": 6
+  },
+  "gist": "一　職務執行停止仮処分の効力発生の時期\n二　移転登記請求権がないとされた事例",
+  "case_gist": "一　後見人の職務執行停止の仮処分命令において、後見人に対する職務執行停止の効力はその命令正本が当該後見人に送達されたときに生ずる。\n二　甲所有の不動産を、その後見人乙が代理して丙に譲渡し、乙の職務執行停止の仮処分がなされた後乙は丙のために移転登記をなし、ついで丙は同不動産を丁に譲渡し移転登記をした場合に、甲は丁に対して自己に移転登記を請求する権利はない。",
+  "ref_law": "民訴法760条，民法177条，不動産登記法35条",
+  "lawsuit_id": "53558",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53558",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/558/053558_hanrei.pdf"
+}

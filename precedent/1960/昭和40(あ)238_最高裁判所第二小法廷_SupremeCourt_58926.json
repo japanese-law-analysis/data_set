@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 2,
+    "day": 21
+  },
+  "case_number": "昭和40(あ)238",
+  "case_name": "脅迫",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第158号321頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 12,
+    "day": 26
+  },
+  "gist": "いわゆる伝統的筆跡鑑定方法の証拠能力。",
+  "case_gist": "いゆゆる伝統的筆跡鑑定方法は、多分に鑑定人の経験と感に頼るところがあり、ことの性質上、その証明力には自ら限界があるとしても、そのことから直ちに、この鑑定方法が非科学的で、不合理であるということはできないのであつて、筆跡鑑定におけるこれまでの経験の集積と、その経験によつて裏付けられた判断は、鑑定人の単なる主観にすぎないもの、といえないことはもちろんである。したがつて、事実審裁判所の自由心証によつて、これを罪証に供すると否とは、その専権に属することがらであるといわなければならない。",
+  "ref_law": "刑訴法165条，刑訴法317条，刑訴法318条，刑訴法321条4項",
+  "lawsuit_id": "58926",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58926",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/926/058926_hanrei.pdf"
+}

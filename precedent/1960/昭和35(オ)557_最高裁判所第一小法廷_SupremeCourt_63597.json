@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 2,
+    "day": 15
+  },
+  "case_number": "昭和35(オ)557",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第58号633頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 2,
+    "day": 16
+  },
+  "gist": "旧民法第八八六条による親族会の同意を得ないでした親権者の法律行為の効力",
+  "case_gist": "旧民法第八八六条による親族会の同意を得なければならない法律行為を親権者が右同意なしに行つた場合、その行為は当然無効とならず、旧民法第八八七条による取消がなされていないかぎりは有効として取扱われる。",
+  "ref_law": "民法601条，旧民法886条，旧民法887条",
+  "lawsuit_id": "63597",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63597",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/597/063597_hanrei.pdf"
+}

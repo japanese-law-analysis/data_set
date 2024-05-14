@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 9,
+    "day": 3
+  },
+  "case_number": "昭和36(オ)383",
+  "case_name": "報酬金請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第67号389頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 12,
+    "day": 19
+  },
+  "gist": "当事者本人が別件訴訟において訴訟代理人として或る事項を陳述した事実を証拠とすることの可否。",
+  "case_gist": "当事者本人が別件訴訟において訴訟代理人として本件農地の坪当り時価を金五〇〇〇円と陳述したことをもつて、本件訴訟において、右農地の坪当り時価を同額と認定する資料に供しても何ら違法でない。",
+  "ref_law": "民訴法第2編第3章",
+  "lawsuit_id": "70101",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70101",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/101/070101_hanrei.pdf"
+}

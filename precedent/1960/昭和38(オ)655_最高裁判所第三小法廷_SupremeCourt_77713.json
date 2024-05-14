@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 5,
+    "day": 31
+  },
+  "case_number": "昭和38(オ)655",
+  "case_name": "参議院地方選出議員選挙無効確認請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第83号623頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "昭和37(ナ)2",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 3,
+    "day": 28
+  },
+  "gist": "公職選挙法別表第二の合憲性",
+  "case_gist": "一　公職選挙法別表第二が選挙区の選挙人の人口数に比例して改訂されていないため、議員の選出につき不均衡を生じていても、現在の程度では、憲法第一四条、第四四条、第四三条、第四七条、第一三条、第一一条、第七六条の趣旨に違反するということはできない。\n二　（補足意見がある）",
+  "ref_law": "公職選挙法14条，公職選挙法別表第2",
+  "lawsuit_id": "77713",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77713",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/713/077713_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 5,
+    "day": 2
+  },
+  "case_number": "昭和40(オ)823",
+  "case_name": "除名決議無効確認請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第95号257頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和39(ネ)328",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 4,
+    "day": 22
+  },
+  "gist": "労働組合の統制権の限界\n――特定候補以外の者のためにする組合員の政治活動の自由との関係について――",
+  "case_gist": "労働組合の推薦する特定候補以外の立候補者を支持する組合員の政治活動（選挙運動）を一般的・包括的に制限禁止し、これに違反する行動を行なつた組合員は統制違反として処分されるべき旨を決議した組合大会決議は、労働組合の統制権の限界を超えるものとして無効である。（福岡高裁昭和三九年（ネ）第三二八号同四〇年四月二二日判決、高民集一八巻三号二〇四頁参照）",
+  "ref_law": "憲法28条，憲法14条，憲法19条，憲法21条",
+  "lawsuit_id": "66484",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66484",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/484/066484_hanrei.pdf"
+}

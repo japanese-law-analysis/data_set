@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 10,
+    "day": 13
+  },
+  "case_number": "昭和39(オ)960",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第20巻8号1632頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和38(ネ)2516",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 2,
+    "day": 3
+  },
+  "gist": "振出日白地の確定日払手形による呈示の効力",
+  "case_gist": "確定日払の手形の所持人は、振出日白地のまま満期に支払のため呈示したとしても、裏書人に対する手形上の権利を行使することができない。",
+  "ref_law": "手形法1条，手形法38条，手形法43条",
+  "lawsuit_id": "53935",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53935",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/935/053935_hanrei.pdf"
+}

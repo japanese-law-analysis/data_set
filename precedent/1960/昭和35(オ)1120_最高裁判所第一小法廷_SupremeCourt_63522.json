@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 8,
+    "day": 30
+  },
+  "case_number": "昭和35(オ)1120",
+  "case_name": "臨時株主総会決議取消請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第62号329頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 7,
+    "day": 15
+  },
+  "gist": "株主総会決議取消の訴において請求を棄却した事例",
+  "case_gist": "株式会社の一部株主の代理人による決議権の行使が定款に違反したこと、他の一部株主に対する株主総会招集通知が欠缺したことの違法があつても、その違法が株主総会決議の結果に異動をおよぼすと認められないときは、右決議取消の請求を棄却することができる。",
+  "ref_law": "商法247条，商法251条（昭和25年法律167号による削除前）",
+  "lawsuit_id": "63522",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63522",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/522/063522_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 3,
+    "day": 18
+  },
+  "case_number": "昭和32(あ)612",
+  "case_name": "単純収賄、印紙犯罪処罰法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第14巻4号357頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 1,
+    "day": 30
+  },
+  "gist": "一　取引高税印紙は印紙犯罪処罰法にいう印紙か\n二　収賄罪の成立する事例",
+  "case_gist": "一　印紙犯罪処罰法制定後その施行中に政府が新に発行した取引高税印紙は印紙犯罪処罰法にいう印紙にあたる。\n二　地方法務局登記課商業法人登記係長で、登記官吏として主に商業法人登記に関する事務を担当し、補助的には法人関係の不動産登記に関する事務をも職務としていた者が、商業法人の土地建物の価格設定、家屋台帳訂正申告、所有権移転登記申請等に関し便宜な取計を受けたい趣旨の下に供与されるものであることの情を知りながら金員の供与を受けたときは、収賄罪が成立する。",
+  "ref_law": "印紙犯罪処罰法2条，取引高税法11条，刑法197条，不動産登記法11ノ2，非訴事件手続法139ノ2",
+  "lawsuit_id": "51582",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51582",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/582/051582_hanrei.pdf"
+}

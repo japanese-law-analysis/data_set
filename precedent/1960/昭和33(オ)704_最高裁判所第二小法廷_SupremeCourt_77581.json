@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 4,
+    "day": 20
+  },
+  "case_number": "昭和33(オ)704",
+  "case_name": "建物収去、土地明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第60号247頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 3,
+    "day": 29
+  },
+  "gist": "契約書の約款に対する原審の解釈が理由不備であるとされた事例",
+  "case_gist": "あまりにも約款の文言の文理解釈とかけはなれているのみならず、認定事実関係からうかがわれる当事者の真意にそわない原審の約旨の解釈は、到底人をして納得せしめるに足る十分の理由を備えたといえない。",
+  "ref_law": "民訴法395条1項6号",
+  "lawsuit_id": "77581",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77581",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/581/077581_hanrei.pdf"
+}

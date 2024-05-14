@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 9,
+    "day": 4
+  },
+  "case_number": "昭和39(あ)1891",
+  "case_name": "関税法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第19巻6号610頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 6,
+    "day": 30
+  },
+  "gist": "いわゆる免税自動車の譲受と関税逋脱犯の成立時期。",
+  "case_gist": "いわゆる免税自動車の譲受につき、輸入申告、関税納付、輸入免許等の事前手続を経ることなく、これに引き取れば、引取時において直ちに関税逋脱犯が成立する。",
+  "ref_law": "日本国とアメリカ合衆国との間の安全保障条約第3条に基く行政協定の実施に伴う関税法等の臨時特例に関する法律（昭和27年法律112号）11条，日本国とアメリカ合衆国との間の安全保障条約第3条に基く行政協定の実施に伴う関税法等の臨時特例に関する法律（昭和27年法律112号）12条，同法施行令13条，旧関税法（明治32年法律61号―昭和23年法律107号により改正のもの）75条",
+  "lawsuit_id": "50734",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50734",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/734/050734_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 10,
+    "day": 23
+  },
+  "case_number": "昭和37(オ)68",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第75号955頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 10,
+    "day": 30
+  },
+  "gist": "警察法第六一条第一項の解釈。",
+  "case_gist": "司法警察職員がその管轄区域内で関税法第一一二条の賍物罪の捜査を進めた結果、その本犯についても捜査をする必要が生じたときは、当該司法警察職員は、警察法第六一条第一項の適用上、管轄区域外でも、その本犯の捜査をすることができる。",
+  "ref_law": "警察法61条1項，刑訴法9条2項",
+  "lawsuit_id": "66130",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66130",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/130/066130_hanrei.pdf"
+}

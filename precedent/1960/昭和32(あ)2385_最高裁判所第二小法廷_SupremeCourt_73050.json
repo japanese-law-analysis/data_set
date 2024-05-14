@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 10,
+    "day": 26
+  },
+  "case_number": "昭和32(あ)2385",
+  "case_name": "有印公文書変造、同行使、詐欺",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第135号633頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 8,
+    "day": 8
+  },
+  "gist": "詐欺罪成立の範囲（相当の価値ある物を担保として金員の交付を受けた場合）",
+  "case_gist": "焼付鍍金を施した仏像がそれ相当の価値はあるとしても、原審是認の一審判示の様に真実に反する誇大な事実を告知して相手方を誤信させ金員の交付を受けた場合は、その交付を受けた金員全体につき詐欺罪が成立するものと解すべきである。",
+  "ref_law": "刑法246条",
+  "lawsuit_id": "73050",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=73050",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/050/073050_hanrei.pdf"
+}

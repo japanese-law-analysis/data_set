@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 12,
+    "day": 4
+  },
+  "case_number": "昭和38(オ)365",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第18巻10号2043頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 12,
+    "day": 26
+  },
+  "gist": "いわゆるドライブクラブ方式による自動車賃貸業者と自動車損害賠償保障法第三条の適用の有無。",
+  "case_gist": "原審認定のようなドライブクラブ方式による自動車賃貸業者から自動車を借り受けた者がこれを運転使用しているときは、右自動車賃貸業者は、自動車損害賠償保障法第三条にいう「自己のために自動車を運行の用に供する者」にあたらない。",
+  "ref_law": "自動車損害賠償保障法3条",
+  "lawsuit_id": "53125",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53125",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/125/053125_hanrei.pdf"
+}

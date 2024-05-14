@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 2,
+    "day": 29
+  },
+  "case_number": "昭和40(オ)1110",
+  "case_name": "所有権移転登記等抹消登記手続請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第22巻2号454頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_case_number": "昭和39(ネ)202",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 5,
+    "day": 31
+  },
+  "gist": "抵当権実行による競売手続の開始と同一債権保全のために締結された代物弁済の予約完結権行使の許否",
+  "case_gist": "貸金債権担保のため不動産に抵当権が設定され、あわせて同一債権保全のため右不動産について代物弁済の予約が締結された場合において、右抵当権の実行による競売手続が開始したときは、右競売手続が競売申立の取下その他の事由により終了しないかぎり、債権者が代物弁済の予約の完結権を行使することは許されない。",
+  "ref_law": "民法369条，民法482条",
+  "lawsuit_id": "53956",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53956",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/956/053956_hanrei.pdf"
+}

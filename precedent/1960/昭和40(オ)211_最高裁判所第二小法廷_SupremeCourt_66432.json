@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 1,
+    "day": 14
+  },
+  "case_number": "昭和40(オ)211",
+  "case_name": "保険金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第82号25頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和38(ネ)2554",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 11,
+    "day": 26
+  },
+  "gist": "譲渡担保契約において目的物の所有権が債務者に復帰する時期を債務完済の時と異なる時期と約定することの可否",
+  "case_gist": "譲渡担保契約において目的の所有権が債務者に復帰する時期を債務完済の時と異なる時期と約定することは差し支えない。",
+  "ref_law": "民法176条，民法482条",
+  "lawsuit_id": "66432",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66432",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/432/066432_hanrei.pdf"
+}

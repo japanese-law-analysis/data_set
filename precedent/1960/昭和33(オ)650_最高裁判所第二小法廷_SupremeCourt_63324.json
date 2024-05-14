@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 8,
+    "day": 28
+  },
+  "case_number": "昭和33(オ)650",
+  "case_name": "分配金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第53号527頁",
+  "original_court_name": "広島高等裁判所\n        　松江支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 5,
+    "day": 23
+  },
+  "gist": "農業委員会のいわゆる調停によつて成立した和解契約が有効であるために、農業委員会に右調停をなすべき職務権限があることの要否。",
+  "case_gist": "和解契約は、その成立に至る過程において第三者があつせん仲介することは、その妨げとなるものではないから、農業委員会のいわゆる調停によつて成立した和解契約は、その農業委員会に右調停をなすべき職務権限があると否とに関係なく、有効である。",
+  "lawsuit_id": "63324",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63324",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/324/063324_hanrei.pdf"
+}

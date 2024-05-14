@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 9,
+    "day": 22
+  },
+  "case_number": "昭和38(あ)884",
+  "case_name": "単純収賄",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第152号883頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 3,
+    "day": 6
+  },
+  "gist": "控訴審において主張判断のなかつた実体法規に関する違憲の主張が上告理由として不適法とされた事例。",
+  "case_gist": "自衛隊員である被告人に対する収賄被告事件の控訴審において、主張判断のなかつた「防衛庁設置法および自衛隊法が憲法第九条に違反して無効であるから、被告人は公務員ではないのにかかわらず、これを公務員として処罰した第一審判決を是認した原判決は違憲である」との主張は、適法な上告理由に当らない。",
+  "ref_law": "刑訴法405条，憲法9条，刑法7条",
+  "lawsuit_id": "69606",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=69606",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/606/069606_hanrei.pdf"
+}

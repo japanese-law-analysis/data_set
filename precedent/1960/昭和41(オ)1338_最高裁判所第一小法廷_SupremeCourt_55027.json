@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 3,
+    "day": 27
+  },
+  "case_number": "昭和41(オ)1338",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第23巻3号601頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和39(ネ)2215",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 9,
+    "day": 26
+  },
+  "gist": "訴訟行為をさせることを主たる目的としてされた手形の裏書と手形抗弁",
+  "case_gist": "訴訟行為をさせることを主たる目的としてされた手形の裏書は、隠れた取立委任のためにされたものにほかならないが、右の場合には、信託法一一条の規定により、たんに手形外の取立委任の合意が無効となるにとどまらず、裏書自体も無効となり、すべての手形債務者は、被裏書人たる所持人が手形上無権利者であることを主張してその手形上の請求を拒絶することができる。",
+  "ref_law": "手形法77条1項1号，手形法14条，手形法17条，信託法11条，信託法1条",
+  "lawsuit_id": "55027",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55027",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/027/055027_hanrei.pdf"
+}

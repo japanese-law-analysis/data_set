@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 3,
+    "day": 1
+  },
+  "case_number": "昭和35(オ)712",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第65号9頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 3,
+    "day": 22
+  },
+  "gist": "一　雇傭成立後五年を経過して締結された身元保証契約の効力\n二　雇傭後五年経過してなされた身元保証契約の効力",
+  "case_gist": "一　身元保証契約は、雇傭成立後五年を経過して締結されても無効ではない。\n二　雇傭関係成立後五年以上経過してなされた身元保証契約も無効ではない。",
+  "ref_law": "身元保証に関する法律1条，身元保証に関する法律2条，身元保証に関する法律6条，身元保証法1条，身元保証法2条，身元保証法6条",
+  "lawsuit_id": "65888",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=65888",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/888/065888_hanrei.pdf"
+}

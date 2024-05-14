@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 2,
+    "day": 26
+  },
+  "case_number": "昭和37(あ)1164",
+  "case_name": "道路運送法違反",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第18巻2号48頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 3,
+    "day": 27
+  },
+  "gist": "犯罪後の法律による刑の変更と事物管轄。",
+  "case_gist": "犯罪後の法律により刑の変更があつた場合における事物管轄は、刑法第六条の規定により当該犯罪事実に適用すべき罰条の法定刑によつて定まる。",
+  "ref_law": "刑法6条，裁判所法24条，裁判所法33条，道路運送法（昭和35年法律141号による改正前のもの）101条1項，道路運送法（昭和35年法律141号による改正前のもの）130条3号，道路運送法（昭和35年法律141号による改正後のもの）101条1項，道路運送法（昭和35年法律141号による改正後のもの）128条3第2号",
+  "lawsuit_id": "50689",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50689",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/689/050689_hanrei.pdf"
+}

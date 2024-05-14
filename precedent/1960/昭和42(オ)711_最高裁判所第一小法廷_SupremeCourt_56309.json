@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 12,
+    "day": 21
+  },
+  "case_number": "昭和42(オ)711",
+  "case_name": "普通預金払戻請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第21巻10号2613頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和38(ネ)720",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 2,
+    "day": 27
+  },
+  "gist": "預金通帳を呈示しない無権限者の請求に対して銀行のした預金の払戻に過失がないとされた事例",
+  "case_gist": "無権限者が預金通帳を呈示しないで預金の払戻を請求し、銀行がその支払をした場合であつても、払戻請求書に押捺された会社代表者の印影が届出の印影と合致し、請求者が当該会社の代表者を補助して会社の設立事務に従事し、設立後は取締役の一員となつていたことを当該係員において知つているなど判示の事情があるときは、銀行がその者に預金の払戻を請求する代理権限があると信じたことに過失はない。",
+  "ref_law": "民法478条",
+  "lawsuit_id": "56309",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56309",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/309/056309_hanrei.pdf"
+}

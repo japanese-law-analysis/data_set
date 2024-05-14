@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 2,
+    "day": 6
+  },
+  "case_number": "昭和43(あ)1940",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第170号225頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 8,
+    "day": 21
+  },
+  "gist": "公職選挙法一三八条一項の趣旨",
+  "case_gist": "公職選挙法一三八条一項は、選挙運動としての戸別訪問には、種々の弊害を伴い選挙の公正を害するおそれがあるため、選挙に関し同条所定の目的をもつて戸別訪問することを全面的に禁止しているのであつて、戸別訪問のうち、選挙人に対する買収、威迫、利益誘導等選挙の公正を害する実質的違反行為を伴い、またはこのような害悪の生ずる明白かつ現在の危険があると認められるもののみを禁止しているのではない。",
+  "ref_law": "公職選挙法138条1項，公職選挙法239条3号",
+  "lawsuit_id": "59257",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59257",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/257/059257_hanrei.pdf"
+}

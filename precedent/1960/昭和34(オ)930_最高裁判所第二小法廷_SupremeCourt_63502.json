@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 2,
+    "day": 23
+  },
+  "case_number": "昭和34(オ)930",
+  "case_name": "立木並びに伐木所有権確認、損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第58号901頁",
+  "original_court_name": "福岡高等裁判所\n        　宮崎支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 6,
+    "day": 18
+  },
+  "gist": "立木所有権について対抗問題の生ずる余地がないとされた事例",
+  "case_gist": "土地ならびにその地上の立木の所有者甲から土地は乙へ、立木は丙へそれぞれ譲渡する旨の合意が三者間で成立した場合には、乙と丙との間で立木所有権について対抗問題を生ずる余地はない。",
+  "ref_law": "民法177条",
+  "lawsuit_id": "63502",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63502",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/502/063502_hanrei.pdf"
+}

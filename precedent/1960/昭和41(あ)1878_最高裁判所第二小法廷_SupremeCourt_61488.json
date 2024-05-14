@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 5,
+    "day": 26
+  },
+  "case_number": "昭和41(あ)1878",
+  "case_name": "傷害致死",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集刑　第163号435頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 7,
+    "day": 15
+  },
+  "gist": "未決勾留と労役場留置の執行とが競合する場合においてその未決勾留日数を本刑に裁定算入することの適否",
+  "case_gist": "勾留と競合して罰金刑の帰刑処分たる労役場留置の執行が行なわれた場合には、自由刑の執行が競合して行なわれた場合と同様、その勾留日数を刑法第二一条により本刑に算入することは違法と解すべきである（昭和二九年（あ）第三八九号同三二年一二月二五日大法廷判決、刑集一一巻一四号三三七七頁参照）。",
+  "ref_law": "刑法21条，刑法18条，刑訴法411条1号",
+  "lawsuit_id": "61488",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61488",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/488/061488_hanrei.pdf"
+}

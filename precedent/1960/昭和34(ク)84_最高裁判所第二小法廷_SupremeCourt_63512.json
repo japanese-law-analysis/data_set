@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 1,
+    "day": 22
+  },
+  "case_number": "昭和34(ク)84",
+  "case_name": "建物収去土地明渡請求事件の却下決定に対する抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集民　第58号315頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和33(ネオ)368",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 1,
+    "day": 16
+  },
+  "gist": "上告理由書を原裁判所に提出せしめ、期間徒過の場合に上告却下決定をすることは憲法第三二条に違反しないか",
+  "case_gist": "上告理由書を原裁判所に提出せしめ、提出期間徒過の場合に原審において上告却下の裁判をすることは、憲法第三二条に違反しない。",
+  "ref_law": "憲法32条，民訴法398条，民訴法399条",
+  "lawsuit_id": "63512",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63512",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/512/063512_hanrei.pdf"
+}

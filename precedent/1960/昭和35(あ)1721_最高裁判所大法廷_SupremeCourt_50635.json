@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 7,
+    "day": 19
+  },
+  "case_number": "昭和35(あ)1721",
+  "case_name": "強姦、賍物牙保、恐喝未遂",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第15巻7号1194頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 5,
+    "day": 23
+  },
+  "gist": "控訴審において主張判断のない訴訟手続に関する主張を上告理由とすることの適否。",
+  "case_gist": "控訴審において主張判断のない訴訟手続に関する主張は、適法な上告理由とならない。",
+  "ref_law": "刑訴法405条，刑法180条",
+  "lawsuit_id": "50635",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50635",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/635/050635_hanrei.pdf"
+}

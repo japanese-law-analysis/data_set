@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 2,
+    "day": 6
+  },
+  "case_number": "昭和32(オ)1144",
+  "case_name": "株式売買残代金請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第58号513頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 9,
+    "day": 12
+  },
+  "gist": "証券取引所の定める受託契約準則の効力",
+  "case_gist": "取引所の会員たる証券業者と顧客との間の株式売買委託契約については、当事者間に別段の特約がない限り、証券取引所の定める受託契約準則に従つて契約したものと認めるべきである。",
+  "ref_law": "証券取引法130条",
+  "lawsuit_id": "63153",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63153",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/153/063153_hanrei.pdf"
+}

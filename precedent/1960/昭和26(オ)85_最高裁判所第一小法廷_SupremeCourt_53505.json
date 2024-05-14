@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 6,
+    "day": 2
+  },
+  "case_number": "昭和26(オ)85",
+  "case_name": "檀徒総代確認等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第14巻9号1565頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 12,
+    "day": 26
+  },
+  "gist": "一　寺法が公益に反しないとされた事例\n二　檀徒総代の同意なくして制定された寺院規則の効力\n三　宗教団体法第三二条の地方長官の認可の性質。",
+  "case_gist": "一　原審認定のような内容の寺法（原判決理由参照）は公益に反するとはいえない。\n二　檀徒総代の同意なくして制定された寺院規則は無効である。\n三　宗教団体法第三二条の地方長官の認可は、寺院規則の効力を完成させるためのものであつて、独立の創設的効力を有しない。",
+  "ref_law": "民法90条，宗教団体法32条",
+  "lawsuit_id": "53505",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53505",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/505/053505_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 11,
+    "day": 25
+  },
+  "case_number": "昭和37(オ)863",
+  "case_name": "関税賦課処分取消等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集民　第85号395頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和35(ネ)1029",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 4,
+    "day": 24
+  },
+  "gist": "免税自動車が通関手続未了のまま転々譲渡された場合と当該犯罪貨物の関税の納税義務者",
+  "case_gist": "免税自動車が通関手続未了のまま転々譲渡された場合には、当該犯罪貨物の関税の納税義務者は、最初にその自動車の引渡を受けた者であると解すべきである。",
+  "ref_law": "日本国とアメリカ合衆国との間の安全保障条約3条に基く行政協定の実施に伴う関税法等の臨時特例に関する法律6条，旧関税法（明治32年法律61号、但し、昭和27年法律198号による改正後のもの。）83条4項",
+  "lawsuit_id": "66143",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66143",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/143/066143_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 1,
+    "day": 16
+  },
+  "case_number": "昭和42(オ)353",
+  "case_name": "根抵当権登記抹消請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第23巻1号18頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和40(ネ)48",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 12,
+    "day": 26
+  },
+  "gist": "一、抵当権放棄の相手方\n\n二、登記の欠缺を主張することができないいわゆる背信的悪意者にあたるとされた事例",
+  "case_gist": "一、抵当権の放棄は、その当時の目的物の所有者に対する意思表示によつて、その効力を生ずる。\n\n二、根抵当権設定者である会社の代表者甲が、目的物の譲受人乙を代理して根抵当権者丙の根抵当権放棄の意思表示を受領した場合において、その被担保債権の債務者である協同組合の代表者丁が、甲とともに丙との交渉にあたり、その際右意思表示がされた事実を知りながら、その後に右根抵当権を被担保債権とともに譲り受けたときは、丁は、特段の事情がないかぎり、いわゆる背信的悪意者として、根抵当権の放棄による消滅についての登記の欠缺を主張する正当な利益を有する第三者にあたらないものと解するのが相当である。",
+  "ref_law": "民法2編10章3節，民法177条",
+  "lawsuit_id": "55078",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55078",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/078/055078_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 9,
+    "day": 27
+  },
+  "case_number": "昭和42(オ)418",
+  "case_name": "土地所有権確認請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第92号435頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和40(ネ)945",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 1,
+    "day": 26
+  },
+  "gist": "立会書記官の氏名の記載を欠く口頭弁論調書の効力",
+  "case_gist": "立会書記官の氏名の記載を欠く口頭弁論調書は無効である。",
+  "ref_law": "民訴法143条2号，民訴法147条",
+  "lawsuit_id": "66627",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66627",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/627/066627_hanrei.pdf"
+}

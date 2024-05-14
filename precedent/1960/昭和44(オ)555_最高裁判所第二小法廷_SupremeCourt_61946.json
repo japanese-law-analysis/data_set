@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 10,
+    "day": 31
+  },
+  "case_number": "昭和44(オ)555",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第97号143頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和43(ネ)403",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 11,
+    "day": 19
+  },
+  "gist": "不法行為による慰籍料請求権は相続の対象となるか",
+  "case_gist": "不法行為による慰籍料請求権は、被害者が生前に請求の意思を表明しなくても、相続の対象となる。\n（色川裁判官の反対意見がある。）",
+  "ref_law": "民法710条，民法711条",
+  "lawsuit_id": "61946",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61946",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/946/061946_hanrei.pdf"
+}

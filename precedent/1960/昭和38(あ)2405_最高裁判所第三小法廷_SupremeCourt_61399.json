@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 7,
+    "day": 16
+  },
+  "case_number": "昭和38(あ)2405",
+  "case_name": "道路運送法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第168号379頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 7,
+    "day": 17
+  },
+  "gist": "一般乗合旅客自動車運送事業を営む会社が認可を受けずに運転系統を延長して運行した行為と昭和三一年法律第一六八号による改正前の道路運送法違反罪の成否",
+  "case_gist": "一般乗合旅客自動車運送事業を営む被告会社が事業計画の一部である運転系統を延長して運行し、しかも、従前の運転系統の終起点において、いわゆる終点扱いをしなかつた場合には、右延長部分の運送につき運賃を収受しなくても、有償の運送事業における事業計画の変更となり、運輸大臣の認可を受けていない以上、昭和三一年法律第一六八号による改正前の道路運送法に違反する。",
+  "ref_law": "道路運送法（昭和31年法律168号による改正前のもの）2条2項，道路運送法（昭和31年法律168号による改正前のもの）18条1項，道路運送法（昭和31年法律168号による改正前のもの）130条1号",
+  "lawsuit_id": "61399",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61399",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/399/061399_hanrei.pdf"
+}

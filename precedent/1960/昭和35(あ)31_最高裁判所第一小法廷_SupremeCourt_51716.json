@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 4,
+    "day": 28
+  },
+  "case_number": "昭和35(あ)31",
+  "case_name": "強制執行妨害、公正証書原本不実記載、同行使",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第14巻6号836頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 11,
+    "day": 5
+  },
+  "gist": "刑法第九六条ノ二の罪の成立。",
+  "case_gist": "刑法第九六条ノ二の犯罪の成立には、仮差押、仮処分その他の強制執行を免れる目的あるをもつて足り、その失効の全部または一部の行われたことを要するものでない。",
+  "ref_law": "刑法96条ノ2",
+  "lawsuit_id": "51716",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51716",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/716/051716_hanrei.pdf"
+}

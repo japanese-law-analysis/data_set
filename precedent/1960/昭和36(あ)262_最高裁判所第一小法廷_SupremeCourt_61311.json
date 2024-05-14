@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 2,
+    "day": 15
+  },
+  "case_number": "昭和36(あ)262",
+  "case_name": "塩専売法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第141号149頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 11,
+    "day": 25
+  },
+  "gist": "鯨の塩蔵用として使用した塩またはいわゆる荷後塩からそれらの夾雑物を水で洗い落したものを売り渡した行為につき塩専売法第二三条第二項（販売制限）を適用した事例",
+  "case_gist": "原審の確定した事実関係の下においては、本件行為に（註、被告人は日本専売公社の指定した元売人または小売人でないのに、鯨の塩蔵用として使用した塩またはいわゆる荷後塩からそれらの夾雑物を水で洗い落したものを販売した。）塩専売法第二三条第二項を適用したことは正当であつて、所論の違法は認められない。註。本件は昭和三一年（あ）第二七四三号同三四年五月二二日第二小法廷（判例集一三巻五号七六一頁）の破棄差戻判決後の上告審である。",
+  "ref_law": "塩専売法23条2項，塩専売法47条2号，塩専売法42条1項",
+  "lawsuit_id": "61311",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61311",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/311/061311_hanrei.pdf"
+}

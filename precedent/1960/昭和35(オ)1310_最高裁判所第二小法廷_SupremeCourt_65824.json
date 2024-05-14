@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 5,
+    "day": 31
+  },
+  "case_number": "昭和35(オ)1310",
+  "case_name": "不動産所有権移転登記手続等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第66号231頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 6,
+    "day": 24
+  },
+  "gist": "理由不備があるとされた事例",
+  "case_gist": "弁済猶予の合意があつた旨の主張を含むと解する余地があるのに漫然と約定利息の支払をしなくなつた時期に停止条件成就によつて代物弁済の効果が生じたとした点に理由不備がある。",
+  "ref_law": "民訴法395条1項6号",
+  "lawsuit_id": "65824",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=65824",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/824/065824_hanrei.pdf"
+}

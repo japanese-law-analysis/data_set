@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 11,
+    "day": 16
+  },
+  "case_number": "昭和36(オ)873",
+  "case_name": "退職手当金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第63号247頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 5,
+    "day": 22
+  },
+  "gist": "一　条例で特別職に対する退職金の給付はその都度議会への議決で定めるとしている場合の右退職金の性質\n二　退職金の給与を議会の議決で定めた後に右の議決を取り消すことの可否",
+  "case_gist": "一　条例で特別職に対する退職金の給付は、その都度議会の決議で定めることにしてあつても、右退職金の給与は公法上の給与であつて、民法上の贈与ではない。\n二　退職金の給与を議会の議決で定めた後、右の給与について予算上の措置が講じられていなかつたからといつて、さきの議決を取り消すことはゆるされない。",
+  "ref_law": "地方自治法205条，地方自治法239条の4第1項，民法549条",
+  "lawsuit_id": "66016",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66016",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/016/066016_hanrei.pdf"
+}

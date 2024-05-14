@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 11,
+    "day": 22
+  },
+  "case_number": "昭和41(オ)285",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第85号243頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和40(ネ)400",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 12,
+    "day": 6
+  },
+  "gist": "借家法第七条賃料増額請求権の行使と賃料改訂約定との関係の一場合",
+  "case_gist": "「賃料につき将来の事情の変動に応じ当事者双方協議の上改訂を為すことができる」旨の約定があるからといつて借家法第七条に基づく形成権としての賃料増額請求権が行使できなくなるものではない。",
+  "ref_law": "借家法7条",
+  "lawsuit_id": "66535",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66535",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/535/066535_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 4,
+    "day": 25
+  },
+  "case_number": "昭和43(し)68",
+  "case_name": "証拠書類閲覧に関する命令に対し検察官のした異議を棄却する決定に対する特別抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第23巻4号248頁",
+  "original_court_name": "大阪地方裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 7,
+    "day": 30
+  },
+  "gist": "訴訟指揮権に基づく証拠開示命令",
+  "case_gist": "裁判所は、証拠調の段階に入つた後、弁護人から、具体的必要性を示して、一定の証拠を弁護人に閲覧させるよう検察官に命ぜられたい旨の申出がなされた場合、事案の性質、審理の状況、閲覧を求める証拠の種類および内容、閲覧の時期、程度および方法、その他諸般の事情を勘案し、その閲覧が被告人の防禦のため特に重要であり、かつこれにより罪証隠滅、証人威迫等の弊害を招来するおそれがなく、相当と認めるときは、その訴訟指揮権に基づき、検察官に対し、その所持する証拠を弁護人に閲覧させることを命ずることができる。",
+  "ref_law": "刑訴法294条，刑訴法299条1項，刑訴法300条",
+  "lawsuit_id": "50930",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50930",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/930/050930_hanrei.pdf"
+}

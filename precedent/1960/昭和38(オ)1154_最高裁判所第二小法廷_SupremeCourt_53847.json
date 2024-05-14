@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 7,
+    "day": 24
+  },
+  "case_number": "昭和38(オ)1154",
+  "case_name": "建物所有権確認等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第18巻6号1198頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 12,
+    "day": 15
+  },
+  "gist": "抹消回復登記につき「登記上利害ノ関係ヲ有スル第三者」に当らないとされた事例。",
+  "case_gist": "甲名義の所有権保存登記がなされた甲所有の建物について、二重に乙名義の所有権保存登記がなされ、次いで、甲名義の登記が不法に抹消された後に、丙が乙名義の登記に基づき右建物の所有権取得登記を経由した場合、丙は、甲名義の登記の抹消回復登記につき「登記上利害ノ関係ヲ有スル第三者」に当らない。",
+  "ref_law": "不動産登記法67条",
+  "lawsuit_id": "53847",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53847",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/847/053847_hanrei.pdf"
+}

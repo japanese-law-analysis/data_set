@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 2,
+    "day": 1
+  },
+  "case_number": "昭和34(オ)979",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第58号441頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 6,
+    "day": 30
+  },
+  "gist": "賃貸借の合意解除と転借人の権利",
+  "case_gist": "賃貸人の承諾ある転貸借の場合には、転借人に不信な行為があるなどして、賃貸人と賃借人との間で賃貸借を合意解除することが信義誠実の原則に反しないような特段の事由のあるほか、右合意解除により転借人の権利は消滅しない。",
+  "ref_law": "民法612条",
+  "lawsuit_id": "63508",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63508",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/508/063508_hanrei.pdf"
+}

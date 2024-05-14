@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 12,
+    "day": 15
+  },
+  "case_number": "昭和36(あ)2030",
+  "case_name": "詐欺、横領",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第140号459頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 6,
+    "day": 26
+  },
+  "gist": "前科を量刑上参酌することと憲法第三九条。",
+  "case_gist": "原判決が被告人の前科を量刑上参酌したからといつて何ら憲法三九条に違反するものでないことは、当裁判所大法廷判決（昭和二四年（れ）第一二六〇号、同年一二月二一日宣告、刑集三巻一二号二〇六二号）の趣旨に照らし明らかである。",
+  "ref_law": "刑法56条，刑法57条，憲法39条",
+  "lawsuit_id": "73107",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=73107",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/107/073107_hanrei.pdf"
+}

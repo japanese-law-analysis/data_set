@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 3,
+    "day": 23
+  },
+  "case_number": "昭和41(行ツ)61",
+  "case_name": "町長選挙における選挙及び当選の効力に関する審査申立についての裁決取消等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第21巻2号419頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_case_number": "昭和38(ナ)1",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 3,
+    "day": 30
+  },
+  "gist": "一　弁護士法第二五条第四号違反の訴訟行為の効力\n二　候補者の氏名の記載以外に人の氏名と判読できる無色の記載の跡のある投票が有効と認められた事例",
+  "case_gist": "一　弁護士法第二五条第四号違反の訴訟行為であつても、相手方において、これを知りまたは知りうべき事情にありながら事実審の口頭弁論の終結時までに異議を述べなかつたときは、後日にいたりその無効を主張することを許されないものと解すべきである。\n二　候補者の氏名の記載以外に人の氏名と判読できる無色の記載が存する投票であつても、それが不在者投票を許された者または不在者投票の立会人が不在者投票用封筒の表面または裏面に署名した際に封筒内の投票用紙についた記載の跡と推測できるものであるときは、右投票を無効と解すべきではない。",
+  "ref_law": "弁護士法25条，公職選挙法68条",
+  "lawsuit_id": "54058",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54058",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/058/054058_hanrei.pdf"
+}

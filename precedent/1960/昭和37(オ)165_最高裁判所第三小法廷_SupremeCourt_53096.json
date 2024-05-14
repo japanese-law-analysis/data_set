@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 3,
+    "day": 10
+  },
+  "case_number": "昭和37(オ)165",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第18巻3号458頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 11,
+    "day": 27
+  },
+  "gist": "出張所長が商法第四二条の表見支配人にあたるとされた事例。",
+  "case_gist": "肥料販売会社の支店管下の出張所が、相場の著しい変動ある肥料の仕入にはとくに右支店の許可を要するが、それ以外はこれを要せずに仕入をすることもでき、年間四千万円にも達する肥料を所在県下に販売し、それに伴う運送ならびに代金の回収等を行い、出張所長の下に三名の職員を使用し、職員の給料を除いて日常経費を原則としてその取立金でまかなう等判示のようなものであるときは、右出張所を商法上の支店と解して妨げないから、同出張所長は、商法第四二条の表見支配人にあたると解すべきである。",
+  "ref_law": "商法42条",
+  "lawsuit_id": "53096",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53096",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/096/053096_hanrei.pdf"
+}

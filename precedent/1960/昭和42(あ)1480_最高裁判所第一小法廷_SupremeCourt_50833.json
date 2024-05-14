@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 11,
+    "day": 2
+  },
+  "case_number": "昭和42(あ)1480",
+  "case_name": "不動産侵奪",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第21巻9号1179頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 5,
+    "day": 12
+  },
+  "gist": "不動産侵奪罪にあたるとされた事例",
+  "case_gist": "板塀で囲み上部をトタン板で覆つてある他人所有の土地を、所有者の黙認のもとに、建築資材などの置場として使用していた者が、台風による右囲いの倒壊後、所有者が工事中止方を強硬に申し入れたにもかかわらず、右土地の周囲に高さ二・七五メートルのコンクリートブロツク塀を構築し、その上をトタン板で覆い、建築資材などを置く倉庫として使用した行為は、不動産侵奪罪に該当する。",
+  "ref_law": "刑法235条ノ2",
+  "lawsuit_id": "50833",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50833",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/833/050833_hanrei.pdf"
+}

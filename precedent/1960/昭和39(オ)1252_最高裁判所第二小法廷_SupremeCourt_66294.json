@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 10,
+    "day": 21
+  },
+  "case_number": "昭和39(オ)1252",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第84号635頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和36(オ)13",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 7,
+    "day": 20
+  },
+  "gist": "印鑑証明請求書の「委任する者の氏名押印」欄に代理人と称する者がその委任者本人の記名押印をして印鑑証明の交付を申請した場合において、市吏員が右請求書を受理して印鑑証明をしても過失がないとした事例",
+  "case_gist": "（省略）",
+  "lawsuit_id": "66294",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66294",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/294/066294_hanrei.pdf"
+}

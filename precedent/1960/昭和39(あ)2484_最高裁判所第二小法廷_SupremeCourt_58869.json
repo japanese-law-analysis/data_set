@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 5,
+    "day": 20
+  },
+  "case_number": "昭和39(あ)2484",
+  "case_name": "売春防止法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第155号771頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 10,
+    "day": 28
+  },
+  "gist": "売春防止法第一三条第二項によつて懲役刑に罰金刑を併科し更に家賃相当額を追徴することの可否と追徴額の算定。",
+  "case_gist": "売春防止法第一三条第二項によつて懲役刑に併科すると定められた罰金刑は、刑罰であつて没収または追徴とはその性質を異にするから、被告人に罰金刑が併科された場合においても、右行為により取得した家賃相当額を刑法第一九条第一項第三号、第一九条ノ二によつて追徴することができ、かつその際いわゆる適正賃料額を控除することを要しない。",
+  "ref_law": "売春防止法13条2項，刑法19条1項3号，刑法19条ノ2",
+  "lawsuit_id": "58869",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58869",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/869/058869_hanrei.pdf"
+}

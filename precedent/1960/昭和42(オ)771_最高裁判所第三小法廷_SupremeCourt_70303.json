@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 11,
+    "day": 5
+  },
+  "case_number": "昭和42(オ)771",
+  "case_name": "損害賠償請求、同附帯控訴事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第93号51頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和39(ネ)744",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 3,
+    "day": 28
+  },
+  "gist": "有体動産に対する強制執行につき執行吏に過失があるとはいえないとされた事例",
+  "case_gist": "執行吏が有体動産に対する強制執行において、第三者所有のジュークボックスおよびこれに内蔵されていたレコードを債務者の所有と誤認し、かつ、ジュークボックス内に金銭が内蔵されていたことを看過した場合でも、右ジュークボックスおよびレコードを債務者が占有し、かつ、本件執行当時執行の行なわれた県内ではジュークボックスがほとんど普及しておらず、執行吏もこれについては特別の知識を有せず、その差押も本件がはじての経験であつたことなど原判示の事情のもとにおいては、右執行吏に過失があるとはいえない。",
+  "ref_law": "民訴法566条1項，国家賠償法1条1項",
+  "lawsuit_id": "70303",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70303",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/303/070303_hanrei.pdf"
+}

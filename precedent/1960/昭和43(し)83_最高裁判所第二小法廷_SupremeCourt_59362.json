@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 10,
+    "day": 25
+  },
+  "case_number": "昭和43(し)83",
+  "case_name": "準抗告申立棄却決定に対する特別抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第169号209頁",
+  "original_court_name": "前橋地方裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 10,
+    "day": 2
+  },
+  "gist": "保釈請求却下決定に対する準抗告申立棄却決定謄本が被告人と弁護人との双方に日を異にして送達された場合と抗告申立期間の起算日",
+  "case_gist": "保釈請求却下決定に対する準抗告申立棄却決定の謄本が、被告人と申立人である弁護人との双方に日を異にして送達された場合における抗告申立の期間は、被告人本人に送達された日から起算すべきである。",
+  "ref_law": "刑訴法88条1項，刑訴法41条，刑訴法355条，刑訴法358条，刑訴法433条，刑訴規則34条",
+  "lawsuit_id": "59362",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59362",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/362/059362_hanrei.pdf"
+}

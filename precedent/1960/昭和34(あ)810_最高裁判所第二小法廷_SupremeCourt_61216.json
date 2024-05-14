@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 1,
+    "day": 12
+  },
+  "case_number": "昭和34(あ)810",
+  "case_name": "変造私文書行使、詐欺未遂",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第141号1頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 3,
+    "day": 30
+  },
+  "gist": "変造にかかる預金通帳による変造金額の払戻請求と詐欺罪成立の範囲",
+  "case_gist": "真実の預金額よりも多額に変造した預金通帳を行使して、払戻名義の下にその変造金額の交付を受けたときは、その全額につき詐欺罪が成立する。",
+  "ref_law": "刑法246条1項，刑法162条，刑法163条",
+  "lawsuit_id": "61216",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61216",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/216/061216_hanrei.pdf"
+}

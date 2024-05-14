@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 2,
+    "day": 24
+  },
+  "case_number": "昭和40(あ)1717",
+  "case_name": "有価証券偽造、同行使、横領",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第158号487頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 7,
+    "day": 12
+  },
+  "gist": "共謀の判示方法。",
+  "case_gist": "共謀共同正犯における共謀の事実は罪となるべき事実であるから、証拠によつてその内容が証明されなければならないが、右共謀の内容が証拠によつて認定できる以上、判決文には単に「共謀の上」と判示しても違法とはいえないことは、当裁判所の判例−昭和二九年（あ）第一〇五六号、同三三年五月二八日大法廷判決、刑集一二巻八号一七一九頁−とするところである。",
+  "ref_law": "刑訴法335条1項，刑法60条",
+  "lawsuit_id": "58910",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58910",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/910/058910_hanrei.pdf"
+}

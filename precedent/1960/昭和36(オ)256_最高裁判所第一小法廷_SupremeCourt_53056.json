@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 10,
+    "day": 3
+  },
+  "case_number": "昭和36(オ)256",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第17巻9号1133頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 12,
+    "day": 21
+  },
+  "gist": "一　無尽義務第一〇条違反の効力\n二　金員貸付行為と相互銀行の目的の範囲",
+  "case_gist": "一　無尽業法第一〇条の規定は、行政上の取締規定であつて、これに違反する資金運用行為そのものの無効をきたさない。\n二　定款所定の目的そのものに該当しない金員貸付行為であつても、これが客観的、抽象的にみて、右の目的遂行に必要な行為であると解されるかぎり、相互銀行の目的の範囲内の行為というを妨げない。",
+  "ref_law": "無尽業法10条，無尽業法39条，民法91条，民法43条",
+  "lawsuit_id": "53056",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53056",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/056/053056_hanrei.pdf"
+}

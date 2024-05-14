@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 5,
+    "day": 25
+  },
+  "case_number": "昭和33(オ)1023",
+  "case_name": "株式取引受理請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第15巻5号1322頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 9,
+    "day": 4
+  },
+  "gist": "証券業者の外務員につき労働基準法第二〇条の適用がないとされた事例。",
+  "case_gist": "証券業者と外務員間の契約により、外務員は右業者の顧客から株式その他の有価証券の売買又はその委託の媒介、取次又はその代理の注文を受けた場合これを業者に通じて売買その他の有価証券取引を成立させるいわゆる外務行為に従事すべき義務を負担し、業者はこれに対する報酬として出来高に応じ賃金を支払うと共に外務員のした有価証券の売買委託を受理すべき義務を負担しておるときは、業者の右契約解除につき労働基準法第二〇条の適用はない。",
+  "ref_law": "労働基準法20条，証券取引法56条，民法627条，民法651条",
+  "lawsuit_id": "57696",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57696",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/696/057696_hanrei.pdf"
+}

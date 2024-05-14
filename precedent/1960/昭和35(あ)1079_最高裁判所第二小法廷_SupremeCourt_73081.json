@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 9,
+    "day": 2
+  },
+  "case_number": "昭和35(あ)1079",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第135号227頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 4,
+    "day": 19
+  },
+  "gist": "控訴審が第一審判決の法令の適用に誤りありとして破棄自判した場合と第一審判決の証拠の援用。",
+  "case_gist": "控訴審が第一審判決の法令の適用に誤りありとしてこれを破棄自判するにあたり、第一審判決の認定した事実に法令を適用したのみでその証拠を引用せずまたはその証拠の標目を掲げていないとしても、控訴審は第一審判決挙示の同一の証拠を援用した趣旨と解するのを相当とする。",
+  "ref_law": "刑訴法400条但書，刑訴法335条1項，刑訴法380条",
+  "lawsuit_id": "73081",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=73081",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/081/073081_hanrei.pdf"
+}

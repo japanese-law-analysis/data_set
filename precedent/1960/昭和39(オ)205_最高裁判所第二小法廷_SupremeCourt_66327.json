@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 9,
+    "day": 25
+  },
+  "case_number": "昭和39(オ)205",
+  "case_name": "家屋明渡等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第75号513頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 10,
+    "day": 24
+  },
+  "gist": "小切手の提供が賃料債務の本旨に従つた履行の提供にあたるとされた事例。",
+  "case_gist": "賃借人が賃貸人のため賃料を受領する権限のある者に対して、賃料額と同額の額面金額の小切手を持参提供し、もし現金を必要とするなら今日は日曜日であるから明日小切手を現金化して持参するからと申し入れ、これが受領され、かつ、小切手による賃料の支払は従前も行われたことがあるような場合には、賃料債務の本旨に従つた履行の提供がなされたものと解するのが相当である。",
+  "ref_law": "民法493条",
+  "lawsuit_id": "66327",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66327",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/327/066327_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 8,
+    "day": 2
+  },
+  "case_number": "昭和42(オ)1066",
+  "case_name": "建物収去土地明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第92号55頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和41(ネ)987",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 5,
+    "day": 31
+  },
+  "gist": "取立払の定のある債務について債権者が取立に赴かなくても解除権の行使が許されるとされた事例",
+  "case_gist": "取立払の定のある賃料について、増額請求を受けた賃借人が、賃貸人の一箇月分の賃料の取立にさいしてその全額の支払を拒絶し、その後引続き適正額の賃料の支払をも拒絶する態度を示している等判示事実関係のもとにおいては、賃貸人が客観的に適正とされる額によつて五年分の賃料を自己の住所へ持参して支払うよう催告し、催告期間内に賃借人の住所に取立のため赴かなかつたとしても、賃借人が弁済の準備をしその旨を賃貸人に通知して取立を促がす等の措置に出ないで催告期間を徒過したときには、賃貸人は、賃貸借契約を解除することができる。",
+  "ref_law": "民法484条，民法493条，民法541条，民法601条，民法1条2項",
+  "lawsuit_id": "66595",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66595",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/595/066595_hanrei.pdf"
+}

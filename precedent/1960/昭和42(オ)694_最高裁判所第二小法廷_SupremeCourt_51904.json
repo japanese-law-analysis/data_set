@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 11,
+    "day": 14
+  },
+  "case_number": "昭和42(オ)694",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第23巻11号2023頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_case_number": "昭和36(ネ)55",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 3,
+    "day": 29
+  },
+  "gist": "代理人が権限を濫用して約束手形の振出人のためにした手形上の保証と手形受取人に対する国税滞納処分として手形を差し押えた国に対する保証人の責任",
+  "case_gist": "代理人が、自己の利益をはかるため、代理権限を濫用して、約束手形の振出人のために、本人名義で手形上の保証をした場合において、代理人から手形の交付を受けた手形受取人が権限濫用の事実を知りうべきであったときは、受取人に対する国税滞納処分として右手形を差し押えて占有するに至つた国において、差押当時受取人の知情の点につき善意であつたことを主張立証しないかぎり、本人である保証人は、国に対し、手形上の保証による責任を負わない。",
+  "ref_law": "民法93条但書，民法94条2項，手形法77条3項，手形法32条",
+  "lawsuit_id": "51904",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51904",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/904/051904_hanrei.pdf"
+}

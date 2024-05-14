@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 8,
+    "day": 25
+  },
+  "case_number": "昭和40(オ)1226",
+  "case_name": "所有権移転登記手続請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第88号285頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和40(ネ)92",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 8,
+    "day": 2
+  },
+  "gist": "支払停止後破産申立前になされた仮登記に基づいて破産管財人に対する本登録請求が認められた事例",
+  "case_gist": "売主の支払停止前になされた農地の売買について、知事の許可がなかつたため、買主において右支払停止後破産申立前に所有権移転請求権保全の仮登記を経たが、破産宣告が右仮登記後一年を超えてなされたときは、右仮登記についてもはや破産法第七四条第一項による否認をしえなくなり、買主は、右仮登記に基づいて、破産管財人に対し知事の許可を条件とする本登記を求めることができる。",
+  "ref_law": "破産法84条，破産法72条，不動産登記法2条",
+  "lawsuit_id": "70175",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70175",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/175/070175_hanrei.pdf"
+}

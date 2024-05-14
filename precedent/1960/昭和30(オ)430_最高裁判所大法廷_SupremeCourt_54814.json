@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 3,
+    "day": 9
+  },
+  "case_number": "昭和30(オ)430",
+  "case_name": "決議無効確認並びに損害賠償請求",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第14巻3号355頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 2,
+    "day": 28
+  },
+  "gist": "地方公共団体の議会の議員の任期満了後における除名処分の取消を求める訴の利益",
+  "case_gist": "地方公共団体の議会議員の任期が満了したときは、除名処分の取消を求める訴の利益は失われる。",
+  "ref_law": "行政事件訴訟特例法1条，地方自治法134条，地方自治法135条，地方自治法137条",
+  "lawsuit_id": "54814",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54814",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/814/054814_hanrei.pdf"
+}

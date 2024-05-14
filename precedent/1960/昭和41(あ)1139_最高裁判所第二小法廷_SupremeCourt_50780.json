@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 5,
+    "day": 26
+  },
+  "case_number": "昭和41(あ)1139",
+  "case_name": "傷害致死",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第21巻4号710頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 4,
+    "day": 23
+  },
+  "gist": "盗犯等の防止及処分に関する法律第一条第二項の法意",
+  "case_gist": "盗犯等の防止及処分に関する法律第一条第二項は、同条第一項各号の場合において、自己または他人の生命、身体または貞操に対する現在の危険がないのに、恐怖、驚愕、興奮または狼狽により、その危険があるものと誤信して、これを排除するため現場で犯人を殺傷した場合に適用される規定であつて、行為者にそのような誤信のない場合には適用がないものと解するのが相当である。",
+  "ref_law": "盗犯等の防止及処分に関する法律1条，刑法36条，刑法205条1項",
+  "lawsuit_id": "50780",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50780",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/780/050780_hanrei.pdf"
+}

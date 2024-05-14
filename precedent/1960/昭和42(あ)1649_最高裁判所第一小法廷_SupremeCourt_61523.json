@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 3,
+    "day": 21
+  },
+  "case_number": "昭和42(あ)1649",
+  "case_name": "収賄、贈賄、詐欺",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第166号475頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 5,
+    "day": 18
+  },
+  "lawsuit_id": "61523",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61523",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/523/061523_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 1,
+    "day": 25
+  },
+  "case_number": "昭和36(オ)276",
+  "case_name": "土地明渡等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第58号345頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 12,
+    "day": 20
+  },
+  "gist": "増額請求にかかる賃料額と争いのない従前の賃料額による催告がなされた場合の効果",
+  "case_gist": "増額請求額による賃料額と争いのない従前の賃料額による催告とがそれぞれなされた場合において、従前の額の提供さえあれば賃貸人としてはその受領を拒絶しなかつたであろうことが明らかなときは、賃借人がその提供をもせずに催告期間を徒過すれば、解除されてもやむをえない。",
+  "ref_law": "民法541条",
+  "lawsuit_id": "63696",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63696",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/696/063696_hanrei.pdf"
+}

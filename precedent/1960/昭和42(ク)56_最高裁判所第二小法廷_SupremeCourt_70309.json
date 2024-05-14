@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 5,
+    "day": 19
+  },
+  "case_number": "昭和42(ク)56",
+  "case_name": "訴訟費用額確定決定に対する抗告棄却の決定に対する抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集民　第87号463頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_case_number": "昭和41(ラ)34",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 10,
+    "day": 5
+  },
+  "gist": "嘱託による当事者本人尋問期日と訴訟代理人の出頭費用",
+  "case_gist": "当事者本人尋問が嘱託によつて行なわれた場合において、その証拠調期日に右当事者の訴訟代理人が出頭するに要した費用は、訴訟費用に含まれる。",
+  "ref_law": "民事訴訟費用法1条",
+  "lawsuit_id": "70309",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70309",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/309/070309_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 11,
+    "day": 6
+  },
+  "case_number": "昭和38(オ)1475",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第76号1頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 10,
+    "day": 11
+  },
+  "gist": "手残り手形上の権利と新手形金の弁済との関係。",
+  "case_gist": "書替え後のいわゆる手残手形（旧手形）の期限後裏書譲渡をうけた者は、その後新手形について弁済があつたことにより手形債権を喪失する。",
+  "ref_law": "手形法20条",
+  "lawsuit_id": "63881",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63881",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/881/063881_hanrei.pdf"
+}

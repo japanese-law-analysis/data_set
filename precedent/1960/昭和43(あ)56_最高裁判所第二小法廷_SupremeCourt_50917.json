@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 11,
+    "day": 1
+  },
+  "case_number": "昭和43(あ)56",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "刑集　第22巻12号1319頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 12,
+    "day": 13
+  },
+  "gist": "一　公職選挙法第一三八条第一項の戸別訪問にあたらないとされた事例\n二　同条同項違反の罪が成立するためには二戸以上の訪問が必要か",
+  "case_gist": "一　選挙人の居宅またはその敷地内にに立ち入ることなく、たまたま屋外の敷地内に出ていた選挙人に、道路上から声をかけ、投票を依頼したにすぎない場合には、右行為は、公職選挙法第一三八条第一項の戸別訪問にあたらない。\n二　同条同項違反の罪が成立するためには、少なくとも二戸以上を訪問することが必要である。",
+  "ref_law": "公職選挙法138条1項，公職選挙法239条3号",
+  "lawsuit_id": "50917",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50917",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/917/050917_hanrei.pdf"
+}

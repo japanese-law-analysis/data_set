@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 2,
+    "day": 5
+  },
+  "case_number": "昭和39(オ)561",
+  "case_name": "土地所有権移転登記手続請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第77号305頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 1,
+    "day": 17
+  },
+  "gist": "書証の通常有する意味内容に反してなした事実の認定が採証法則に違背するとされた事例。",
+  "case_gist": "甲乙間の売買契約の成立を推認させる書証（乙を宛名人とする甲名義の売買代金領収証）を、乙が甲の代理人として丙と売買契約を締結した旨の事実認定の資料に供した判決は、該書証の意味を別異に解すべき特段の事情がないかぎり、採証法則に違背する。",
+  "ref_law": "民訴法185条",
+  "lawsuit_id": "77747",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77747",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/747/077747_hanrei.pdf"
+}

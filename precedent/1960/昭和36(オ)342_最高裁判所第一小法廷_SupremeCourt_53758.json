@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 11,
+    "day": 30
+  },
+  "case_number": "昭和36(オ)342",
+  "case_name": "所有権移転登記手続請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第15巻10号2629頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 1,
+    "day": 20
+  },
+  "gist": "事務管理者が本人の名でした法律行為の効果。",
+  "case_gist": "事務管理者が本人の名でした法律行為の効果は、当然には本人に及ぶものではない。",
+  "ref_law": "民法697条，民法702条2項",
+  "lawsuit_id": "53758",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53758",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/758/053758_hanrei.pdf"
+}

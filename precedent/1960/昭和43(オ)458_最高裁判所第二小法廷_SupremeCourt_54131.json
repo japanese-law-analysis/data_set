@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 9,
+    "day": 20
+  },
+  "case_number": "昭和43(オ)458",
+  "case_name": "離婚本訴離婚等反訴請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第22巻9号1938頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和37(ネ)1439",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 12,
+    "day": 22
+  },
+  "gist": "判決手続による婚姻費用の請求とその分担額の決定",
+  "case_gist": "民法第七六〇条の規定による婚姻費用の分担額は、協議がととのわないかぎり、家庭裁判所が決定すべきであつて、通常裁判所が判決手続で判定すべきものではない。",
+  "ref_law": "民法760条，家事審判法9条1項乙類3号",
+  "lawsuit_id": "54131",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54131",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/131/054131_hanrei.pdf"
+}

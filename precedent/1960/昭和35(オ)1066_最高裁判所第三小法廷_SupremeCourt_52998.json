@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 2,
+    "day": 6
+  },
+  "case_number": "昭和35(オ)1066",
+  "case_name": "家屋収去、土地明渡請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第16巻2号233頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 6,
+    "day": 16
+  },
+  "gist": "一時使用のための借地権とされた事例",
+  "case_gist": "地主の長男が医学修業中であり、卒業後その土地で医業を開始することを予定していたので、借地期間を右医業開始確定の時までとするため、契約にあたり、地上に建築せらるべき建物を戦災復旧用建坪一五坪のバラツク住宅と限定し、特に一時使用を条件とする旨契約書に明記されていた場合には、たとえ右開業時期が明確に定まつていなかつたため、一応期間を三年とし、その後も開業に至らずして期間を更新し、またその間に借地権譲渡、地代増額等の事情があつても、一時使用のための借地権というを妨げない。",
+  "ref_law": "借地法9条",
+  "lawsuit_id": "52998",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52998",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/998/052998_hanrei.pdf"
+}

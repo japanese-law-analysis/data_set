@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 9,
+    "day": 17
+  },
+  "case_number": "昭和38(オ)481",
+  "case_name": "土地所有権等確認請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第75号237頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 2,
+    "day": 6
+  },
+  "gist": "確認の利益がないとされた事例。",
+  "case_gist": "農業協同組合員であるからといつて、組合と第三者との間の土地売買の無効を主張し該土地が依然組合の所有に属することの確認を求める利益があるとはいえない。",
+  "ref_law": "民訴法225条",
+  "lawsuit_id": "66224",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66224",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/224/066224_hanrei.pdf"
+}

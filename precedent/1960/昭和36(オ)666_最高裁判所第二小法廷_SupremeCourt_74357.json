@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 3,
+    "day": 30
+  },
+  "case_number": "昭和36(オ)666",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "却下",
+  "article_info": "集民　第59号735頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 2,
+    "day": 27
+  },
+  "gist": "上告人提出の上告理由書と目すべき書面に最高裁判所規則の定める方式により上告理由として適法な記載がないとして上告を却下した事例",
+  "lawsuit_id": "74357",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74357",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/357/074357_hanrei.pdf",
+  "contents": "主        文\n本件上告を却下する。\n上告費用は上告人の負担とする。\n理        由\n上告人提出の上告理由書と目すべき書面には、いずれも最高裁判所規則の定める\n方式により上告理由として適法な記載がなされているとは認められない。\nよつて、民訴三九九条ノ三、三九九条一項二号後段、三九八条二項、九五条、八\n九条に従い、裁判官全員の一致で、主文のとおり判決する。\n最高裁判所第二小法廷\n裁判長裁判官        藤      田      八      郎\n裁判官        池      田              克\n裁判官        河      村      大      助\n裁判官        奥      野      健      一\n裁判官        山      田      作  之  助\n"
+}

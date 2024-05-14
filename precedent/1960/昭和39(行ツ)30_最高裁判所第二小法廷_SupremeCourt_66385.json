@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 6,
+    "day": 26
+  },
+  "case_number": "昭和39(行ツ)30",
+  "case_name": "当選の効力に関する訴願の裁決取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第74号335頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 1,
+    "day": 13
+  },
+  "gist": "公職選挙法第六八条の二の適用範囲。",
+  "case_gist": "たとえ投票の記載が二人以上の候補者の氏名、氏または名（もしくは通称）に類似するところがあるにしても、なおその記載から、そのうちの一候補者にあてた投票と推認できるものについては、公職選挙法第六八条の二の規定の適用はない。",
+  "ref_law": "公職選挙法68条の2",
+  "lawsuit_id": "66385",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66385",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/385/066385_hanrei.pdf"
+}

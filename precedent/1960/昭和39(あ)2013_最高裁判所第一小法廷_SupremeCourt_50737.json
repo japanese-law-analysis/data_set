@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 5,
+    "day": 27
+  },
+  "case_number": "昭和39(あ)2013",
+  "case_name": "業務上横領、背任",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第19巻4号396頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 5,
+    "day": 26
+  },
+  "gist": "一　横領罪ではなく背任罪が成立するとされた事例。\n二　刑訴法第四一一条第一号にあたらないとされた事例。",
+  "case_gist": "一　農業協同組合の組合長である被告人が、任務に背いて組合名義をもつて約束手形を振出したときは、背任罪が成立し、その手形を組合の当座預金から払出して支払つた行為もまた右背任罪の一部であつて、別に横領罪を構成するものではない。\n二　原判決の認定する被告人の犯行が、合計二四回総額一、三四一万円に達する業務上横領並びに合計六回総額二、二三〇万円に達する背任の所為である場合において、原判決が法令の適用を誤り、背任罪とすべきものを業務上横領として処断したのが、そのうち合計四回総額一六五万円にすぎないときは、原判決を破棄しなければ著しく正義に反するとはいえない。",
+  "ref_law": "刑法247条，刑法253条，刑訴法411条1号",
+  "lawsuit_id": "50737",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50737",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/737/050737_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 12,
+    "day": 2
+  },
+  "case_number": "昭和41(オ)954",
+  "case_name": "所有権移転登記等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第85号521頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和40(ネ)300",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 5,
+    "day": 13
+  },
+  "gist": "準禁治産宣告を受けていない場合に心神耗弱中の法律行為の取消ができるか",
+  "case_gist": "心神耗弱者は準禁治産宣告を受けて始めて無能力者として法定の取消権を取得するものであり、その場合に該らない以上、心神耗弱中の法律行為であることのみを理由として、その行為を取消すことはできない。",
+  "ref_law": "民法11条，民法12条",
+  "lawsuit_id": "66578",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66578",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/578/066578_hanrei.pdf"
+}

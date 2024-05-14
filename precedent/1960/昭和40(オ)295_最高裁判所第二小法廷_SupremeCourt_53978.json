@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 3,
+    "day": 31
+  },
+  "case_number": "昭和40(オ)295",
+  "case_name": "示談金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第21巻2号475頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和37(ネ)1257",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 12,
+    "day": 8
+  },
+  "gist": "騙取した金銭による債務の弁済と弁済受領者の不当利得の成否",
+  "case_gist": "金銭の騙取者がその金銭で自己の債務を弁済した場合において、債権者がこれを善意で受領したときは、債権者の右金銭の取得は、被騙取者に対する関係で、不当利得とならない。",
+  "ref_law": "民法703条",
+  "lawsuit_id": "53978",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53978",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/978/053978_hanrei.pdf"
+}

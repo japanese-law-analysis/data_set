@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 4,
+    "day": 11
+  },
+  "case_number": "昭和43(あ)1035",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "刑集　第23巻4号225頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 4,
+    "day": 15
+  },
+  "gist": "選挙の告示前に年賀状を発送する行為といわゆる事前運動罪の成否",
+  "case_gist": "選挙の告示前に、単に新年のあいさつのみを記載し、なんら選挙に関する直接または間接の文言を記載していない年賀状を選挙人に発送する行為は、公職選挙法一二九条、二三九条一号のいわゆる事前運動罪にあたらない。",
+  "ref_law": "公職選挙法129条，公職選挙法239条1号，公職選挙法146条2項",
+  "lawsuit_id": "50882",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50882",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/882/050882_hanrei.pdf"
+}

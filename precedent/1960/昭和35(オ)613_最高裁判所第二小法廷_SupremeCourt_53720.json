@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 12,
+    "day": 26
+  },
+  "case_number": "昭和35(オ)613",
+  "case_name": "不当利得金返還請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第16巻12号2544頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 3,
+    "day": 15
+  },
+  "gist": "土地区画整理中の土地の売買と換地清算交付金の帰属。",
+  "case_gist": "土地区画整理中の土地の売買契約において、当事者が換地予定地を売買の目的として代金を定め、換地清算交付金についてはなんらの特約もしなかつた場合、その後予定どおり換地がなされたときは、清算交付金は売主に帰属するものと解すべきである。",
+  "ref_law": "都市計画法（昭和29年法律120号による改正前）12条，耕地整理法（明治42年法律30号）4条，耕地整理法（明治42年法律30号）5条，土地区画整理法12条，土地区画整理法129条",
+  "lawsuit_id": "53720",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53720",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/720/053720_hanrei.pdf"
+}

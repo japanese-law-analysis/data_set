@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 2,
+    "day": 16
+  },
+  "case_number": "昭和42(オ)1118",
+  "case_name": "建物明渡等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第22巻2号226頁",
+  "original_court_name": "広島高等裁判所",
+  "original_case_number": "昭和40(ネ)123",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 6,
+    "day": 21
+  },
+  "gist": "実体上無効な抵当権による競売の効力",
+  "case_gist": "抵当権の設定契約が無効であるときは、右抵当権が実行され、当該不動産が競落されても、競落人は、右不動産の所有権を取得することができない。",
+  "ref_law": "競売法2条",
+  "lawsuit_id": "54064",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54064",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/064/054064_hanrei.pdf"
+}

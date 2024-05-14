@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 7,
+    "day": 14
+  },
+  "case_number": "昭和38(オ)508",
+  "case_name": "農地買収処分無効確認請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第74号573頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 1,
+    "day": 30
+  },
+  "gist": "土地の一部に対する農地買収処分において令書上の買収部分の表示の不備にかかわらず買収の対象の特定が認められた事例。",
+  "case_gist": "土地の一部に対する農地買収処分において、買収令書上は、分筆、地目変換前の土地台帳の表示に基づき買収の対象及び範囲の地番、地目、地積を表示し、かつ土地の一部買収であることを摘要欄に付記するだけで、買収部分の図面の添付もない場合でも、これら記載から推して関係当事者が買収部分を容易に看取することができ、ことに処分の相手方において十分それを了知しえた事情の存するときは、右処分は処分の対象の特定を欠く無効のものということはできない。",
+  "ref_law": "自作農創設特別措置法9条",
+  "lawsuit_id": "66228",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66228",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/228/066228_hanrei.pdf"
+}

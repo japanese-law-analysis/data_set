@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 2,
+    "day": 26
+  },
+  "case_number": "昭和39(行ツ)42",
+  "case_name": "市議会議員当選無効請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第77号611頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和38(ナ)13",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 2,
+    "day": 14
+  },
+  "gist": "一　訴訟代理人の他の受任事件の都合による第一回口頭弁論期日変更申請拒否の適否。\n二　公職選挙法第二五一条の二の規定は憲法第一二条および第一三条に違反するか。",
+  "case_gist": "一　訴訟代理人たる弁護士の他の受任事件の都合による第一回口頭弁論期日の変更申請は、当事者の出頭しがたい顕著な事由に基づくものとは認めがたく、これを許容しなくても違法とすることはできない。\n二　公職選挙法第二五一条の二の規定は、憲法第一二条および第一三条に違反しない。",
+  "ref_law": "民訴法152条，民訴規則14条，公職選挙法251条の2，憲法12条，憲法13条",
+  "lawsuit_id": "77771",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77771",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/771/077771_hanrei.pdf"
+}

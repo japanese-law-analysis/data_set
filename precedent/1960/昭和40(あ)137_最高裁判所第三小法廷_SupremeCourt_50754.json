@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 6,
+    "day": 10
+  },
+  "case_number": "昭和40(あ)137",
+  "case_name": "建造物損壊、建造物侵入、暴力行為等処罰ニ関スル法律違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第20巻5号374頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 12,
+    "day": 28
+  },
+  "gist": "いわゆる闘争手段としてのビラ貼り行為が刑法第二六〇条にいう建造物の損壊に該当するとされた事例",
+  "case_gist": "Ａ公社職員をもつて構成するＢ労働組合東海地方本部副執行委員長等の地位にある被告人らが、多数の者と共謀の上、闘争手段として、当局に対する要求事項を記載したビラを、建造物またはその構成部分たる同公社東海電気通信局庁舎の壁、窓ガラス戸、ガラス扉、シヤツター等に、三回にわたり糊で貼付した所為は、ビラの枚数が一回に約四、五百枚ないし約二五〇〇枚という多数であり、貼付方法が同一場所一面に数枚、数十枚または数百枚を密接集中させて貼付したこと等原審の認定した事実関係（原判文参照）のもとにおいては、右建造物の効用を減損するものであり、刑法第二六〇条にいう建造物の損壊に該当する。",
+  "ref_law": "刑法260条",
+  "lawsuit_id": "50754",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50754",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/754/050754_hanrei.pdf"
+}

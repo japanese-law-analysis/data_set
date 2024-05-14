@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 8,
+    "day": 20
+  },
+  "case_number": "昭和38(オ)392",
+  "case_name": "家屋明渡損害賠償請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第75号67頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 10,
+    "day": 20
+  },
+  "gist": "賃貸借終了後の損害金としての金員請求が延滞賃料としての請求の趣意を含むかどうかが争われた事例。",
+  "case_gist": "賃貸借終了後の損害金としての金員請求は、「賃貸借が原告主張の時点より後に終了したとすれば、その時までは賃料として請求する」との趣意を含むと解するのが一般であるが、本件における事情（当審判決理由参照）のもとにおいては、賃料請求としての趣意を含むものと解するのは相当でない。",
+  "ref_law": "民訴法第2編第1章",
+  "lawsuit_id": "66213",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66213",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/213/066213_hanrei.pdf"
+}

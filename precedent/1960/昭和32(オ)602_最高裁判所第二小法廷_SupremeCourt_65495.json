@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 10,
+    "day": 27
+  },
+  "case_number": "昭和32(オ)602",
+  "case_name": "株券所有権確認等本訴株券引渡等反訴請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第55号413頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 4,
+    "day": 12
+  },
+  "lawsuit_id": "65495",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=65495",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/495/065495_hanrei.pdf"
+}

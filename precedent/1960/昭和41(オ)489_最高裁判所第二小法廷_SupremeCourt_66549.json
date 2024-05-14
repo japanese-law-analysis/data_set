@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 7,
+    "day": 15
+  },
+  "case_number": "昭和41(オ)489",
+  "case_name": "請求異議",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第84号121頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和39(ネ)439",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 2,
+    "day": 1
+  },
+  "gist": "民法第八二六条の利益相反行為と行為の動機",
+  "case_gist": "民法第八二六条にいう利益相反行為に該当するか否かは、親権者が子を代理してなした行為の外形によつて決すべきであり、その行為の実質的な効果を顧慮して決すべきでない。",
+  "ref_law": "民法826条",
+  "lawsuit_id": "66549",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66549",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/549/066549_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 2,
+    "day": 16
+  },
+  "case_number": "昭和36(オ)378",
+  "case_name": "建物収去、土地明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第58号727頁",
+  "original_court_name": "福岡高等裁判所\n        　宮崎支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 1,
+    "day": 16
+  },
+  "gist": "賃料の増減、期間更新の約款ある賃貸借契約が一時使用のためのものと認められた事例",
+  "case_gist": "経済的変動により賃料額が不相当となつたときは、協定のうえこれを増減することができるし、期間を更新することもできる旨の約款があつても、その賃貸借を一時使用のためのものと認定できないことはない。",
+  "ref_law": "借家法9条",
+  "lawsuit_id": "63706",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63706",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/706/063706_hanrei.pdf"
+}

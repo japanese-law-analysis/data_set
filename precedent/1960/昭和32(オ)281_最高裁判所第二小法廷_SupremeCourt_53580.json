@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 6,
+    "day": 9
+  },
+  "case_number": "昭和32(オ)281",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第15巻6号1546頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 12,
+    "day": 27
+  },
+  "gist": "被用者が権限なくして手形を振出した場合に使用者責任が認められた事例。",
+  "case_gist": "甲協同組合の書記として、組合の引取関係金融関係の事務及び手形事務を担当し、理事長の記名印、印鑑等を保管していた乙が、その権限を濫用し、取引関係のない丙の以来に応じ、右記名印、印鑑等を使用して組合理事長名義をもつて約束手形を作成し、丙に交付したときは、甲組合は、特段の事情のないかぎり、右手形を丙から取得した善意無過失の丁に対し、民法第七一五条により使用者としての責任を負わなければならない。",
+  "ref_law": "民法715条",
+  "lawsuit_id": "53580",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53580",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/580/053580_hanrei.pdf"
+}

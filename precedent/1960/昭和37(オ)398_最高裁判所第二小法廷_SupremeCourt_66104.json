@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 5,
+    "day": 31
+  },
+  "case_number": "昭和37(オ)398",
+  "case_name": "請求異議",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第66号281頁",
+  "original_court_name": "福岡高等裁判所\n        　宮崎支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 1,
+    "day": 22
+  },
+  "gist": "建物買取請求権放棄の判断に審理不尽理由不備の違法があるとされた事例。",
+  "case_gist": "裁判上の和解において建物買取請求権を留保した形跡がないからといつて、和解の趣旨から見て借地法第四条第二項による買取請求権も同法第一〇条による買取請求権も当然に放棄されたと判断することには、審理不尽、理由不備の違法がある。",
+  "ref_law": "借地法4条2項，借地法10条，民訴法395条6号",
+  "lawsuit_id": "66104",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66104",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/104/066104_hanrei.pdf"
+}

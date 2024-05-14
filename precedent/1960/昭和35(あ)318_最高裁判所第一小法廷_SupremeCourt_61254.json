@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 6,
+    "day": 16
+  },
+  "case_number": "昭和35(あ)318",
+  "case_name": "業務上過失致死、道路交通取締法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第134号101頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 12,
+    "day": 24
+  },
+  "lawsuit_id": "61254",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61254",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/254/061254_hanrei.pdf"
+}

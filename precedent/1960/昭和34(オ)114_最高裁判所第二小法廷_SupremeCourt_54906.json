@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 12,
+    "day": 2
+  },
+  "case_number": "昭和34(オ)114",
+  "case_name": "農地買収無効確認等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第14巻13号2909頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 11,
+    "day": 24
+  },
+  "gist": "一　自作農創設維持の事業により創設された自作地でその旨の登記を経由したものを遡及買収の対象とすることの許否\n二　公正証書が偽造の委任状に基づき作成された場合と請求異議の訴",
+  "case_gist": "一　自作農創設維持の事業により創設された自作地でその旨の登記を経由したものであつても、当然に遡及買収から除外されるものではない。\n二　偽造の委任状に基づき作成された公正証書が債務名義の場合には請求異議の訴によりその執行力の排除を争うことができる。",
+  "ref_law": "自作農創設特別措置法6条の2，民訴法545条，民訴法559条3，民訴法560条，民訴法522条",
+  "lawsuit_id": "54906",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54906",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/906/054906_hanrei.pdf"
+}

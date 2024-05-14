@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 11,
+    "day": 8
+  },
+  "case_number": "昭和37(あ)88",
+  "case_name": "殺人予備",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第16巻11号1522頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 11,
+    "day": 27
+  },
+  "gist": "殺人予備罪の共同正犯にあたるとされた事例。",
+  "case_gist": "殺人の目的を有する者から、これに使用する毒物の入手を依頼され、その使途を認識しながら、右毒物を入手して依頼者に手交した者は、右毒物による殺人が予備に終つた場合に、殺人予備罪の共同正犯としての責任を負うものと解すべきである。",
+  "ref_law": "刑法201条，刑法199条，刑法60条",
+  "lawsuit_id": "57007",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57007",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/007/057007_hanrei.pdf"
+}

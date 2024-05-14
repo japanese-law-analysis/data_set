@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 5,
+    "day": 26
+  },
+  "case_number": "昭和32(オ)191",
+  "case_name": "調停及び和解無効並びに借地権確認請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第15巻5号1336頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 12,
+    "day": 5
+  },
+  "gist": "錯誤による調停無効の主張と民法第六九六条。",
+  "case_gist": "借地権の期間満了による建物収去土地明渡の調停において期限後における借地権の消滅が合意せられた以上、借地法第六条の法定更新による期限後の借地権存続につき錯誤があつたことを理由として右調停の効力を争うことは、民法第六九六条により許されない。",
+  "ref_law": "民法696条",
+  "lawsuit_id": "57675",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57675",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/675/057675_hanrei.pdf"
+}

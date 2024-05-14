@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 12,
+    "day": 22
+  },
+  "case_number": "昭和41(あ)1172",
+  "case_name": "殺人",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "刑集　第20巻10号1233頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 4,
+    "day": 28
+  },
+  "gist": "刑訴法第四〇〇条但書に違反するとされた事例",
+  "case_gist": "殺人の公訴事実について、第一審が殺意の証明がないとして傷害致死の犯罪事実を認定したのに対し、控訴審が何らみずから事実の取調をしないで第一審で取り調べた証拠のみによつて未必の殺意があると認定し、殺人罪として処断することは、刑訴法第四〇〇条但書の解釈上許されない。",
+  "ref_law": "刑法199条，刑法205条，刑訴法400条",
+  "lawsuit_id": "50782",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50782",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/782/050782_hanrei.pdf"
+}

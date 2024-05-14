@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 10,
+    "day": 29
+  },
+  "case_number": "昭和40(オ)520",
+  "case_name": "契約金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第80号893頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和35(ネ)812",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 1,
+    "day": 29
+  },
+  "gist": "いわゆる積極否認の内容をなす事実の認定と当事者の主張の要否",
+  "case_gist": "いわゆる積極否認の内容をなす事実の認定は、裁判所の事実および証拠の判断の権限の行使に属するものであり、このような事実については、当事者の主張を要しない（大審院大正二年一一月一〇日判決、民録一九輯八八六頁参照）。",
+  "ref_law": "民訴法186条",
+  "lawsuit_id": "66451",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66451",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/451/066451_hanrei.pdf"
+}

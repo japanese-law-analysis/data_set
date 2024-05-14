@@ -1,0 +1,15 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 6,
+    "day": 5
+  },
+  "case_number": "昭和39(う)2137",
+  "case_name": "破壊活動防止法等違反被告事件",
+  "court_name": "東京高等裁判所第一刑事部",
+  "lawsuit_id": "20956",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=20956",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/956/020956_hanrei.pdf"
+}

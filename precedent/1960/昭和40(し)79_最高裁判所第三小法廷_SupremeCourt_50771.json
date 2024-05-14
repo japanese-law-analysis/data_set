@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 10,
+    "day": 19
+  },
+  "case_number": "昭和40(し)79",
+  "case_name": "勾留についてなした異議申立棄却決定に対する特別抗告",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第20巻8号864頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 10,
+    "day": 13
+  },
+  "gist": "一　上訴提起後における原裁判所の勾留の権限\n二　受訴裁判所が勾留する場合における勾留質問の要否",
+  "case_gist": "一　原裁判所は上訴提起後であつても、訴訟記録がまだ上訴裁判所に到達しない間は、被告人を勾留することができる\n二　勾留をする裁判所が、すでに被告事件の審理の際、被告事件に関する陳述を聞いている場合には、改めて刑訴法第六一条のいわゆる勾留質問をしなければならないものではない",
+  "ref_law": "（一につき）刑訴法60条，（一につき）刑訴法97条，刑訴規則92条，（二につき）刑訴法61条",
+  "lawsuit_id": "50771",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50771",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/771/050771_hanrei.pdf"
+}

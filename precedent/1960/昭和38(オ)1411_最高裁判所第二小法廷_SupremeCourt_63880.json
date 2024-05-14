@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 4,
+    "day": 16
+  },
+  "case_number": "昭和38(オ)1411",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第78号615頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_case_number": "昭和38(ネ)54",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 9,
+    "day": 20
+  },
+  "gist": "特別事情に基づく損害賠償の要件である当該事情の予見の有無を判断する基準時。",
+  "case_gist": "特別事情に基づく損害賠償の要件である、当事者がその事情を予見しまたは予見しうるべきであつたかどうかは、債務不履行の時を標準として判断すべきである。",
+  "ref_law": "民法416条",
+  "lawsuit_id": "63880",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63880",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/880/063880_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 9,
+    "day": 12
+  },
+  "case_number": "昭和39(行ツ)65",
+  "case_name": "所得税更正処分取消請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第88号387頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和37(ネ)2090",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 4,
+    "day": 8
+  },
+  "gist": "青色申告者に対する更正処分につき更正通知書に理由の附記を必要とする場合",
+  "case_gist": "所得税法（昭和二二年法律第二七号で同二九年法律第五二号による改正前のもの）第四六条の二第二項により更正通知書に理由の附記を要するのは、青色申告書提出承認のあつた所得について更正処分のあつた場合に限られ、それ以外の部分に関する更正は、いわゆる白色申告に対する更正と同様に処理されれば足りるものと解すべきである。",
+  "ref_law": "所得税法（昭和22年法律27号で同29年法律52号による改正前のもの）46条，所得税法（昭和22年法律27号で同29年法律52号による改正前のもの）46条の2",
+  "lawsuit_id": "70167",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70167",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/167/070167_hanrei.pdf"
+}

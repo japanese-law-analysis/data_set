@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 12,
+    "day": 12
+  },
+  "case_number": "昭和37(オ)729",
+  "case_name": "農地買収取消請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第70号231頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 3,
+    "day": 26
+  },
+  "gist": "農地所有者の意思に反する第三者の耕作と農地法第一五条による買収の適否。",
+  "case_gist": "農地所有者の意思に反して第三者が不法に耕作している場合は、農地法第一五条により買収すべき場合に該らない。",
+  "ref_law": "農地法15条",
+  "lawsuit_id": "66134",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66134",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/134/066134_hanrei.pdf"
+}

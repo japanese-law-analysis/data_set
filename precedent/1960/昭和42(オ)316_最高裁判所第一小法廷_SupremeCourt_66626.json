@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 5,
+    "day": 29
+  },
+  "case_number": "昭和42(オ)316",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集民　第95号421頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和35(ネ)492",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 11,
+    "day": 25
+  },
+  "gist": "一、共有持分に基づく所有権保存登記抹消請求の許否\n二、所有権保存登記の全部抹消を求める請求と更正登記手続を命ずる判決",
+  "case_gist": "一、共有者の一人の単独名義に所有権の登記がされている場合には、その登記が保存登記であり、かつ、第三者のための登記が存在しないときでも、他の共有者は、右所有権の登記につき、自己の持分についてのみの一部抹消（更正）登記手続を求めることができるにすぎず、その全部の抹消登記手続を求めることはできない。\n二、共有者の一人から他の共有者に対する所有権保存登記全部の抹消登記手続を求める請求は、共有持分に応ずる更正登記手続を求める申立を包含するものと解して、その限度でこれを認容することができる。",
+  "ref_law": "民法249条，不動産登記法63条，民訴法186条",
+  "lawsuit_id": "66626",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66626",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/626/066626_hanrei.pdf"
+}

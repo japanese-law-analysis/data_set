@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 6,
+    "day": 29
+  },
+  "case_number": "昭和41(オ)63",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第87号1387頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和40(ネ)116",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 11,
+    "day": 10
+  },
+  "gist": "手形偽造行為が民法第七一五条にいう「事業ノ執行ニ付キ」なした行為にあたるとされた事例",
+  "case_gist": "会社営業部係長として手形割引、再割引およびこれに関する一切の業務を担当していた者が、手形割引名下に金員を騙取する意図のもとに、かつて右営業部で割引および再割引したことのある約束手形をモデルにし、これと同一内容の偽物の約束手形（いわゆるダブル券）を作成したときは、右手形偽造行為は民法第七一五条にいう「事業ノ執行ニ付キ」なした行為と解するのが相当である。",
+  "ref_law": "民法715条",
+  "lawsuit_id": "70235",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70235",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/235/070235_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 12,
+    "day": 8
+  },
+  "case_number": "昭和41(オ)819",
+  "case_name": "婚姻予約不履行損害賠償請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第85号629頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和40(ネ)428",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 4,
+    "day": 28
+  },
+  "gist": "内縁不当破棄と不法行為の成否",
+  "case_gist": "内縁を不当に破棄された者は相手方に対し不法行為を理由として損害賠償を求めることもできる。",
+  "ref_law": "民法709条",
+  "lawsuit_id": "66571",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66571",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/571/066571_hanrei.pdf"
+}

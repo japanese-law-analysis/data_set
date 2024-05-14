@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 7,
+    "day": 2
+  },
+  "case_number": "昭和39(オ)1110",
+  "case_name": "売掛代金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第79号639頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和39(ネ)134",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 6,
+    "day": 25
+  },
+  "gist": "民訴法第三二六条の解釈",
+  "case_gist": "私文書の作成名義人の印影が、当該名義人の印章によつて顕出されたものであるときは、反証のないかぎり、該印影は本人の意思に基づいて顕出されたものと事実上推定するのを相当とする。",
+  "ref_law": "民訴法326条",
+  "lawsuit_id": "74434",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74434",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/434/074434_hanrei.pdf"
+}

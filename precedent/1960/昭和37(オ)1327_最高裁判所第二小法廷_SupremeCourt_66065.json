@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 12,
+    "day": 6
+  },
+  "case_number": "昭和37(オ)1327",
+  "case_name": "地代値上等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集民　第70号99頁",
+  "original_court_name": "広島高等裁判所\n        　松江支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 9,
+    "day": 21
+  },
+  "gist": "地代家賃統制令第二三条第二項三号の解釈を誤つた違法があるとされた事例。",
+  "lawsuit_id": "66065",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66065",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/065/066065_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 5,
+    "day": 10
+  },
+  "case_number": "昭和35(オ)1254",
+  "case_name": "国税徴収法の差押処分取消請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集民　第60号589頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 8,
+    "day": 3
+  },
+  "gist": "工場抵当権の効力が第三者所有の機械・器具にも及ぶと認められた事例",
+  "case_gist": "会社が銀行と手形取引契約を結び、会社の代表取締役が、担保貸主兼保証人として、銀行と右会社の債務を担保するため、自己所有の建物と同建物内に備え付けられている会社所有の機械・器具について工場抵当法第二条による根抵当権設定契約を締結し、その旨の登記を経由した場合においては、該根抵当権の効力は、右機械・器具にも及ぶものと解するものを相当とする。",
+  "ref_law": "工場抵当法2条，工場抵当法3条",
+  "lawsuit_id": "77617",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77617",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/617/077617_hanrei.pdf"
+}

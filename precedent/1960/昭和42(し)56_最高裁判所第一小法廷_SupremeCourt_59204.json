@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 2,
+    "day": 29
+  },
+  "case_number": "昭和42(し)56",
+  "case_name": "押収物還付に関する準抗告棄却の決定に対する特別抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第166号305頁",
+  "original_court_name": "山形地方裁判所\n        　酒田支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 9,
+    "day": 27
+  },
+  "gist": "押収物に関する所有権および還付請求権放棄の意思表示の撤回が許されないとされた事例",
+  "case_gist": "領置の際、提出者が「被害者に返して下さい」、または「私はいりません」もしくは「いりません」と申し出ている場合に、その申出が錯誤に基づいたものと認めるべきなんらの証跡もないときは、その申出の撤回を許すべきではない。",
+  "ref_law": "刑訴法123条1項，刑訴法221条，刑訴法222条，刑訴法430条",
+  "lawsuit_id": "59204",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59204",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/204/059204_hanrei.pdf"
+}

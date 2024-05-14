@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 10,
+    "day": 4
+  },
+  "case_number": "昭和36(オ)1304",
+  "case_name": "家屋明渡等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第68号191頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 8,
+    "day": 30
+  },
+  "gist": "転借人が爾後転借物を賃貸人のために占有する旨の意思を表示したことが転貸人（賃借人）に対する関係で転貸借終了による目的物返還義務を履行したことにならないとされた事例。",
+  "lawsuit_id": "63673",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63673",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/673/063673_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 11,
+    "day": 15
+  },
+  "case_number": "昭和39(行ツ)102",
+  "case_name": "弁護士名簿登録請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第22巻12号2578頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和38(行ナ)15",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 8,
+    "day": 28
+  },
+  "gist": "「弁護士法第五条第三号に規定する大学を定める法律」にいう「法律学を研究する大学院」の意義",
+  "case_gist": "「弁護士法第五条第三号に規定する大学を定める法律」にいう「法律学を研究する大学院」とは、その実体が法律学の研究を目的としているというに値する大学院を指し、実際においては、法律学またはその特定部門の研究を目的とする研究科が設けられ、その所定の課程の修了者に法学博士または法学修士の学位を授与できるような大学院がこれにあたる。",
+  "ref_law": "弁護士法5条，弁護士法5条3号に規定する大学を定める法律，学校教育法66条，学校教育法68条，学位規則5条，学位規則6条",
+  "lawsuit_id": "54969",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54969",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/969/054969_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 8,
+    "day": 28
+  },
+  "case_number": "昭和34(オ)554",
+  "case_name": "鉱業権譲渡無効確認並同登録抹消請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第62号289頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 1,
+    "day": 27
+  },
+  "gist": "他人間の法律関係について確認を求める利益がないとされた事例",
+  "case_gist": "会社が他に鉱業権を譲渡した場合に、右会社の債権者または株主であるからといつて、ただその一事により直ちに、同人が右鉱業権の譲受人に対し、その譲渡契約が無効であることを理由として右鉱業権が会社に属することの確認を求める利益を有するとはいえない。",
+  "ref_law": "民訴法225条",
+  "lawsuit_id": "63461",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63461",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/461/063461_hanrei.pdf"
+}

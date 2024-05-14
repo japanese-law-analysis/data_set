@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 12,
+    "day": 26
+  },
+  "case_number": "昭和36(オ)1247",
+  "case_name": "家屋及び土地明渡等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第70号585頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 5,
+    "day": 10
+  },
+  "gist": "民訴第一八六条に違反しないとされた事例。",
+  "case_gist": "口頭弁論において明示的に陳述されておらなくとも、当事者が、書証、尋問事項書を提出、供述を援用する等により、一定の主要事実の主張をしていると認められるときは、裁判所が該事実を認定したうえ、これを判決の基礎にしても、民訴第一八六条に違反するとはいえない。",
+  "ref_law": "民訴法186条",
+  "lawsuit_id": "65940",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=65940",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/940/065940_hanrei.pdf"
+}

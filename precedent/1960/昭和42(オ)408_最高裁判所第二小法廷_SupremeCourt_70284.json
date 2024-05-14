@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 10,
+    "day": 6
+  },
+  "case_number": "昭和42(オ)408",
+  "case_name": "所有権移転登記抹消承諾請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第88号665頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和40(ネ)1886",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 1,
+    "day": 25
+  },
+  "gist": "有限会社法第四〇条第一項第一号にいう「営業ノ全部又ハ重要ナル一部ノ譲渡」の意義",
+  "case_gist": "会社の営業用財産の全部または重要な一部の譲渡であつても、それが営業を構成する各個の財産としてのみの譲渡であるときは、そのために、譲渡会社が当然営業を廃止し、またはその営業の規模を大幅に縮小するのやむなきにいたる等、当該譲渡会社の運命に重大な影響を及ぼす場合であつても、有限会社法第四〇条第一項第一号にいう「営業ノ全部又ハ重要ナル一部ノ譲渡」に当たらない。",
+  "ref_law": "有限会社法40条1項1号",
+  "lawsuit_id": "70284",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70284",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/284/070284_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 5,
+    "day": 28
+  },
+  "case_number": "昭和35(し)18",
+  "case_name": "証書保全請求についてなした却下に対する特別抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第14巻7号925頁",
+  "original_court_name": "函館簡易裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 5,
+    "day": 7
+  },
+  "gist": "証拠保全手続は控訴審に適用があるか。",
+  "case_gist": "証拠保全手続は控訴審には適用がないと解するのが相当である。",
+  "ref_law": "刑訴法179条，刑訴法433条1項，刑訴規則137条，刑訴規則217条3号",
+  "lawsuit_id": "51727",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51727",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/727/051727_hanrei.pdf"
+}

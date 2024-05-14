@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 2,
+    "day": 25
+  },
+  "case_number": "昭和32(オ)562",
+  "case_name": "建物明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第39号687頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 3,
+    "day": 30
+  },
+  "gist": "利息制限法違反の利息と代物弁済の効力。",
+  "case_gist": "代物弁済の基本となつた消費貸借債務に利息制限法違反の利息が包含\nされていても、既に任意に代物弁済が行われた場合には、その代物弁\n済は有効と解すべきである。",
+  "lawsuit_id": "65490",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=65490",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/490/065490_hanrei.pdf"
+}

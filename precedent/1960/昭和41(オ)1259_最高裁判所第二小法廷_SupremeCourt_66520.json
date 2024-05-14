@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 2,
+    "day": 24
+  },
+  "case_number": "昭和41(オ)1259",
+  "case_name": "建物収去土地明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第86号377頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和40(ネ)374",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 8,
+    "day": 6
+  },
+  "gist": "賃料の数次にわたる値上げ等の事実と一時使用の賃貸借の認定",
+  "case_gist": "賃料が数次にわたつて値上げされたことや賃料が当該借地の固定資産税を上廻つていることは、一時使用のための賃貸借契約であると認定するについて妨げとなるものではない。",
+  "ref_law": "借地法9条",
+  "lawsuit_id": "66520",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66520",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/520/066520_hanrei.pdf"
+}

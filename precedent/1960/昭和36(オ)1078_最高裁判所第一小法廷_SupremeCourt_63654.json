@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 1,
+    "day": 18
+  },
+  "case_number": "昭和36(オ)1078",
+  "case_name": "訴願裁決取消請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第58号143頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 6,
+    "day": 28
+  },
+  "gist": "補充選挙人名簿の違法と選挙の自由公正",
+  "case_gist": "原審確定の事実関係のもとでは、補充選挙人名簿が法定の調製期限に調製されず、その縦覧期日に正式に縦覧に供されなかつたことの違法は、選挙の自由を公正を害したものとはいえない。",
+  "ref_law": "公職選挙法26条，公職選挙法27条",
+  "lawsuit_id": "63654",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63654",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/654/063654_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 9,
+    "day": 20
+  },
+  "case_number": "昭和43(オ)356",
+  "case_name": "所有権移転登記手続本訴、同反訴請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第92号343頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和40(ネ)416",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 12,
+    "day": 12
+  },
+  "gist": "一、売買代金の支払時期について不確定な期限を定めたものと認められた事例\n二、実体上の権利関係と異なる仮登記が有効とされた事例",
+  "case_gist": "一、土地の売買契約締結に際して、目的土地の一部を第三者が占有している場合に、売主が、右第三者の占有は権原に基づかないもので少なくとも一年位のうち明渡を受けて買主に目的土地を明け渡す旨言明したため、買主においてこれを信用し、右第三者使用部分の明渡が完了すると同時に残代金を支払うことを約したときには、右残代金の支払時期について不確定な期限を定めたものと解すべきである。\n二、売買契約は成立したが未だ買主に目的不動産の所有権は移転していない時機において、右売買を原因とする買主のための所有権移転仮登記は有効である。",
+  "ref_law": "民法135条",
+  "lawsuit_id": "66672",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66672",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/672/066672_hanrei.pdf"
+}

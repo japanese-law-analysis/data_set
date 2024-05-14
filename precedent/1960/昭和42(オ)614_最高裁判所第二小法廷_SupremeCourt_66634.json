@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 1,
+    "day": 19
+  },
+  "case_number": "昭和42(オ)614",
+  "case_name": "抵当権設定登記並びに株券引渡等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第90号11頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和40(ネ)91",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 3,
+    "day": 9
+  },
+  "gist": "仮登記仮処分命令にもとづいてされた仮登記の抹消ないし変更の登記をする手続",
+  "case_gist": "仮登記仮処分命令にもとづいてされた仮登記の抹消ないし変更の登記をするには、必ず当事者の申請または裁判所の判決を経ることを要し、非訟事件手続法に従い当該仮登記仮処分命令の取消ないし変更を求める手続によつてすることは許されない。",
+  "ref_law": "不動産登記法33条",
+  "lawsuit_id": "66634",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66634",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/634/066634_hanrei.pdf"
+}

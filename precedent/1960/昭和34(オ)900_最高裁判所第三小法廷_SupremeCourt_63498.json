@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 2,
+    "day": 13
+  },
+  "case_number": "昭和34(オ)900",
+  "case_name": "損害賠償等請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第58号601頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 6,
+    "day": 15
+  },
+  "gist": "節操のない行状をしたと虚偽の事実を告げられたことによる精神的苦痛につき不法による損害賠償請求権があるとされた事例",
+  "case_gist": "甲女が乙男の妾であり、乙男は水商売を営む者である事情のもとでも、判示のごとく甲女が実情よりもはるかに節操のない行状をしたかのように乙男に精神的苦痛を与えた丙は、それが故意過失に出たものであるかぎり、不法行為として損害賠償義務を甲女に対して負わねばならない。",
+  "ref_law": "民法710条",
+  "lawsuit_id": "63498",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63498",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/498/063498_hanrei.pdf"
+}

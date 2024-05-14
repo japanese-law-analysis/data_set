@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 4,
+    "day": 18
+  },
+  "case_number": "昭和37(あ)1778",
+  "case_name": "不法監禁傷害、道路交通法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第17巻3号248頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 6,
+    "day": 21
+  },
+  "gist": "不法監禁罪が成立する事例。",
+  "case_gist": "婦女を強いて姦淫しようと企て、自己の運転する第二種原動機付自転車荷台に乗車せしめ、一〇〇〇メートル余り疾走した場合は、不法監禁罪が成立する。",
+  "ref_law": "刑法220条1項",
+  "lawsuit_id": "51745",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51745",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/745/051745_hanrei.pdf"
+}

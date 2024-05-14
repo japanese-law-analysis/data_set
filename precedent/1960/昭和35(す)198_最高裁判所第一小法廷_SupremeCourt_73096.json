@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 9,
+    "day": 14
+  },
+  "case_number": "昭和35(す)198",
+  "case_name": "私文書偽造等被告事件の棄却決定に対する上訴権回復請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第135号327頁",
+  "original_court_name": "最高裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 4,
+    "day": 21
+  },
+  "gist": "上訴権回復請求の事由にあたらない事例。",
+  "case_gist": "刑訴三六二条にいわゆる「責に帰することができない事由」とは、上訴不能の事由が上訴権者またはその代人の故意または過失にもとずかないことをいうものであり（昭和三一年七月四日第一小法廷決定、刑集一〇巻七号一〇一五頁参照）、所論の如く、当裁判所の裁判宣告期日の通知及び裁判宣告の行われた当時被告人が欧米諸国に旅行中であつたがため裁判宣告の行われた事実を知らず、従つて法廷の期間内に不服の申立をすることができなかつたことは、これに該当する事由にならないことが明らかである。",
+  "ref_law": "刑訴法362条",
+  "lawsuit_id": "73096",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=73096",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/096/073096_hanrei.pdf"
+}

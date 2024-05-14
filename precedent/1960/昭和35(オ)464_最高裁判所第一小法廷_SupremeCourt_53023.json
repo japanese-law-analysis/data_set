@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 9,
+    "day": 1
+  },
+  "case_number": "昭和35(オ)464",
+  "case_name": "訴願裁決取消請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第14巻11号2055頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 1,
+    "day": 29
+  },
+  "gist": "投票管理者が投票立会人の意見を聞かないで代理投票補助者を選任した違法と右代理投票の効力。",
+  "case_gist": "投票管理者が投票立会人の意見を聞かないで代理投票補助者を選任した違法があるというだけでは、右補助者による代理投票は無効とはならない。",
+  "ref_law": "公職選挙法48条",
+  "lawsuit_id": "53023",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53023",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/023/053023_hanrei.pdf"
+}

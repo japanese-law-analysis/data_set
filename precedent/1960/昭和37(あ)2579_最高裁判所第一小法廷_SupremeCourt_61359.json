@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 1,
+    "day": 21
+  },
+  "case_number": "昭和37(あ)2579",
+  "case_name": "業務上横領、横領、詐欺、贈賄、背任、有印虚偽公文書作成、同行使等",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第154号61頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 9,
+    "day": 12
+  },
+  "lawsuit_id": "61359",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61359",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/359/061359_hanrei.pdf"
+}

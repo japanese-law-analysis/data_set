@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 3,
+    "day": 3
+  },
+  "case_number": "昭和34(あ)1540",
+  "case_name": "道路交通取締法行違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第14巻3号253頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 7,
+    "day": 28
+  },
+  "gist": "道路において演説をなし人寄をする場合を許可制とした道路交通取締法令の合憲性。",
+  "case_gist": "道路において演説をなし人寄をする場合を許可制とした道路交通取締法第二六条第一項第四号、第二九条第一号、同法施行令第六九条第一項および昭和二九年北海道公安委員会規則第一二号道路交通取締法施行細則第二六条第八号の各規程は、憲法第二一条に違反しない。",
+  "ref_law": "道路交通取締法26条1項4号，道路交通取締法29条1号，道路交通取締法施行令69条1項，昭和29年北海道公安委員会規則12号道路交通取締法施行細則26条8号，憲法21条",
+  "lawsuit_id": "51651",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51651",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/651/051651_hanrei.pdf"
+}

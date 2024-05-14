@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 5,
+    "day": 30
+  },
+  "case_number": "昭和35(オ)842",
+  "case_name": "売掛代金請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第15巻5号1471頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 4,
+    "day": 27
+  },
+  "gist": "卸売商人が転売を目的とする者に売却した商品代金債権と民法第一七三条第一号の適用の有無。",
+  "case_gist": "民法第一七三条第一号は、卸売商人が、消費者に対し売却した商品の代金債権についてのみならず、転売を目的とする者に対し売却した商品の代金債権についても適用がある。",
+  "ref_law": "民法173条1号",
+  "lawsuit_id": "57727",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57727",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/727/057727_hanrei.pdf"
+}

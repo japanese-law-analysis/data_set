@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 6,
+    "day": 11
+  },
+  "case_number": "昭和44(し)25",
+  "case_name": "保釈に関する準抗告棄却決定に対する抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第23巻7号941頁",
+  "original_court_name": "東京地方裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 4,
+    "day": 14
+  },
+  "gist": "被告人の署名のない弁護人選任届によつてした弁護人選任の効力と憲法三七条三項",
+  "case_gist": "氏名を記載することができない合理的な理由がないのに、被告人の署名のない弁護人選任届によつてした弁護人選任を無効と解釈しても、憲法三七条三項に違反しない。",
+  "ref_law": "憲法37条3項，刑訴法30条1項，刑訴規則1条2項，刑訴規則18条，刑訴規則60条",
+  "lawsuit_id": "50971",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50971",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/971/050971_hanrei.pdf"
+}

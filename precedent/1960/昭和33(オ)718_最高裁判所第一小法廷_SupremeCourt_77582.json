@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 5,
+    "day": 25
+  },
+  "case_number": "昭和33(オ)718",
+  "case_name": "土地所有権移転登記手続請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第51号121頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 5,
+    "day": 28
+  },
+  "lawsuit_id": "77582",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77582",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/582/077582_hanrei.pdf"
+}

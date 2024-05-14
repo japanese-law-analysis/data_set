@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 4,
+    "day": 22
+  },
+  "case_number": "昭和38(あ)1759",
+  "case_name": "贈賄",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第19巻3号177頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 6,
+    "day": 11
+  },
+  "gist": "日本国有鉄道の職員による国鉄共済組合の業務の執行は刑法第一九七条第一項の職務に属するか。",
+  "case_gist": "日本国有鉄道の職員が、公共企業体職員等共済組合法第二条、第八五条に基づき、日本国有鉄道総裁の命によつて国鉄共済組合の業務に従事する場合において、その業務の執行は、刑法第一九七条第一項の職務に該当する。",
+  "ref_law": "公共企業体職員等共済組合法2条，公共企業体職員等共済組合法85条，日本国有鉄道法34条，刑法197条1項",
+  "lawsuit_id": "51757",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51757",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/757/051757_hanrei.pdf"
+}

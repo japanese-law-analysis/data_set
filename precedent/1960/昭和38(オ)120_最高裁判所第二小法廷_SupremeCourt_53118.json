@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 12,
+    "day": 11
+  },
+  "case_number": "昭和38(オ)120",
+  "case_name": "株主総会決議無効確認請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第18巻10号2143頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 10,
+    "day": 31
+  },
+  "gist": "株主総会における株式会社役員退職慰労金支給に関する「金額、支給期日、支払方法を取締役会に一任する」との決議を有効とした事例。",
+  "case_gist": "株式会社役員に対する退職慰労金支給に関する「金額、支給期日、支払方法を取締役会に一任する」との株主総会決議をした場合でも、右決議は、当該会社において慣例となつている一定の支給基準によつて支給すべき趣旨であるときは、商法第二六九条の趣旨に反して無効であるということはできない。",
+  "ref_law": "商法269条",
+  "lawsuit_id": "53118",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53118",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/118/053118_hanrei.pdf"
+}

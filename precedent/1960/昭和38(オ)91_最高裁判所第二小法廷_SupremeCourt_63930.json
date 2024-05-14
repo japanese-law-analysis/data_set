@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 4,
+    "day": 17
+  },
+  "case_number": "昭和38(オ)91",
+  "case_name": "土地明渡等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第73号229頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 11,
+    "day": 5
+  },
+  "gist": "賃貸借の成立が否定された事例。",
+  "case_gist": "地主が売却代金六万円を土地使用人との共同事業に出資するとともに土地の使用を認め、共同事業による利益分配金を受領することを約していた場合において、数年後に右合意の内容を明確にするための覚書の案について「賃貸」などの表現を訂正して「使用」などの用語を用いてはじめて覚書に捺印したような判示の事情のあるときには、地主において判示のような金員を受領していても、賃貸借の成立は認められない。",
+  "ref_law": "民法601条，民法614条",
+  "lawsuit_id": "63930",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63930",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/930/063930_hanrei.pdf"
+}

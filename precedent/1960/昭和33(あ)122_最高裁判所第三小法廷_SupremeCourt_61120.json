@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 7,
+    "day": 4
+  },
+  "case_number": "昭和33(あ)122",
+  "case_name": "詐欺",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第138号613頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 11,
+    "day": 6
+  },
+  "gist": "価格相当の目的物（骨董品）の提供と詐欺罪成立の範囲。",
+  "case_gist": "原判決は、本件詐欺被害者等は何れも、本件売買の目的物（註。骨董品）は判示元公爵家所蔵品である旨の被告人の虚言を信用したためこれを買受けたものであつて、そうでなければ本件売買は行われなかつたものであると認定しており、右認定に誤りはないこと記録に徴して明らかである。されば右の如く、真実を告知するときは相手方が金員を交付しないような場合において、目的物の出所来歴などにつき真実に反する事実を告知してその旨相手方を誤信させ、金員の交付を受けた場合は、仮令価格相当の目的物を提供したとしても、その交付を受けた金員全額につき詐欺罪が成立するものと解すべきである。",
+  "ref_law": "刑法246条",
+  "lawsuit_id": "61120",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61120",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/120/061120_hanrei.pdf"
+}

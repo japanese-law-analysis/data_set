@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 4,
+    "day": 17
+  },
+  "case_number": "昭和38(オ)671",
+  "case_name": "保証債務履行請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第73号239頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和36(ネ)2363",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 3,
+    "day": 4
+  },
+  "gist": "融資契約に定められた限度をこえて貸付が行われたのち一部弁済があつた場合と保証人の責任。",
+  "case_gist": "融資契約で定められた貸付限度をこえる金額の貸付が行われ、のち一部弁済があつた場合は、該弁済が融資契約による限度内の元金に充当されたのか、それをこえる元金に充当されたのかを確定しないかぎり、融資契約についての保証人の責任の範囲を判定しえないと解すべきである。",
+  "ref_law": "民法448条，民法490条",
+  "lawsuit_id": "63913",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63913",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/913/063913_hanrei.pdf"
+}

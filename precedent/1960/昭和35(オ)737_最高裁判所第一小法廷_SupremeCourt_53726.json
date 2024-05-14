@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 10,
+    "day": 15
+  },
+  "case_number": "昭和35(オ)737",
+  "case_name": "保険金請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第18巻8号1637頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 4,
+    "day": 9
+  },
+  "gist": "信用保険契約における損害填補の範囲。",
+  "case_gist": "保険者が填補すべき損害の範囲を契約所定の保険事故たる被傭者の不正行為によつて直接惹起された損害のみとする信用保険契約にあつては、特約のないかぎり、右不正行為による損害の調査のため被保険者たる雇主が公認会計士に支払つた費用ならびに右不正行為の告訴手続および本件保険金請求訴訟提起等のため弁護士に支払つた費用は、右填補すべき損害の範囲に含まれない。",
+  "ref_law": "商法629条，商法638条2項",
+  "lawsuit_id": "53726",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53726",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/726/053726_hanrei.pdf"
+}

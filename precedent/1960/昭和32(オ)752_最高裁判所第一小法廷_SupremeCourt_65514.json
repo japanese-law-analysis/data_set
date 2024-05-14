@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 4,
+    "day": 7
+  },
+  "case_number": "昭和32(オ)752",
+  "case_name": "遺言無効確認請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第41号47頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 5,
+    "day": 10
+  },
+  "lawsuit_id": "65514",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=65514",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/514/065514_hanrei.pdf"
+}

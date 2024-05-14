@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 6,
+    "day": 14
+  },
+  "case_number": "昭和36(オ)892",
+  "case_name": "所有権移転登記手続請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第66号499頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 5,
+    "day": 26
+  },
+  "gist": "中間省略登記の請求と中間省略の同意。",
+  "case_gist": "中間省略登記の請求を認容するには、右省略について登記名義人、中間者の同意が必要である。",
+  "ref_law": "民法177条",
+  "lawsuit_id": "66018",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66018",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/018/066018_hanrei.pdf"
+}

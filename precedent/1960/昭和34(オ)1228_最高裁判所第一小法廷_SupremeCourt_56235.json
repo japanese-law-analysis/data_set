@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 1,
+    "day": 28
+  },
+  "case_number": "昭和34(オ)1228",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第18巻1号180頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 9,
+    "day": 16
+  },
+  "gist": "手形裏書が商法第二六五条の取引にあたらないとされた事例。",
+  "case_gist": "会社が約束手形を取締役に裏書譲渡するに際し、取締役から手形金額と同額の金員の交付を受けた場合においては、右手形裏書は、商法第二六五条の取引に該当しない。",
+  "ref_law": "商法265条",
+  "lawsuit_id": "56235",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56235",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/235/056235_hanrei.pdf"
+}

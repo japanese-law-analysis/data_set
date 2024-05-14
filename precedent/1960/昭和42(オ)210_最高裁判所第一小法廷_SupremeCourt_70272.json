@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 5,
+    "day": 2
+  },
+  "case_number": "昭和42(オ)210",
+  "case_name": "離婚請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第91号29頁",
+  "original_court_name": "広島高等裁判所",
+  "original_case_number": "昭和39(ネ)224",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 12,
+    "day": 7
+  },
+  "gist": "重婚的内縁関係にある配偶者（夫）からの離婚の請求を認容した判断に審理不尽理由不備の違法があるとされた事例",
+  "case_gist": "甲男が乙女との婚姻継続中、丙女およびその死後丁女と事実上の婚姻関係に入つたことは、もとより不貞の評価を免れず、それ以前すでに乙女との間の婚姻関係が決定的に破綻していたとするのでないかぎり、これが現実に破綻するに至つた原因は、甲男のした右重婚的内縁にあるものと認めるのが相当で、原審が甲男の再度にわたる重婚的内縁を認めながら、これが乙女との間の婚姻関係に及ぼした影響の有無に触れることなく、甲男の本訴請求を認容したのは、審理不尽・理由不備の違法を免れない。",
+  "ref_law": "民法770条1項5号，民訴法395条1項6号",
+  "lawsuit_id": "70272",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70272",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/272/070272_hanrei.pdf"
+}

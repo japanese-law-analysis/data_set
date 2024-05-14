@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 9,
+    "day": 24
+  },
+  "case_number": "昭和43(オ)381",
+  "case_name": "土地明渡等本訴並びに同反訴請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第22巻9号1959頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和40(ネ)718",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 12,
+    "day": 26
+  },
+  "gist": "仮換地の特定の一部分につき売買契約を締結した場合の右契約の解釈",
+  "case_gist": "仮換地の特定の一部分につき売買契約を締結したが、その部分が従前の土地のどの部分に対応するかについて合意がなく、かつ、これを確定することができないときは、仮換地全体の面積に対する当該部分の面積の比率に応じた従前の土地の共有持分につき売買契約が締結され、その持分について処分の効果が生ずるとともに、従前の土地についての持分に基づいて仮換地の当該特定部分を使用収益する権能を認める合意があつたものと解すべきである。",
+  "ref_law": "特別都市計画法（昭和21年法律第19号）14条，土地区画整理法99条，民法555条",
+  "lawsuit_id": "54130",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54130",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/130/054130_hanrei.pdf"
+}

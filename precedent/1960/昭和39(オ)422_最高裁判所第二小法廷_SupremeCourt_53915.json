@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 12,
+    "day": 17
+  },
+  "case_number": "昭和39(オ)422",
+  "case_name": "建物収去土地明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第19巻9号2159頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和38(ネ)1699",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 1,
+    "day": 27
+  },
+  "gist": "賃借地上の建物が買戻特約付で第三者に売り渡された場合において右建物の敷地について賃借権の譲渡または転貸がなされなかつたものと解された事例。",
+  "case_gist": "土地賃借人が、第三者に対し、借地上の建物を買戻特約付で売り渡した場合において、当該売買が、実質上、第三者の債権担保の目的でなされたものであり、終局的確定的に権利を転移する趣旨のものでなく、かつ、買戻権がなお土地賃借人に留保されており、また、土地賃借人が前記建物売買後も引き続きその使用を許容されていた判示の事情のもとにおいては、右建物の敷地について民法第六一二条にいう賃借権の譲渡または転貸がなされなかつたものと解するのが相当である。",
+  "ref_law": "民法612条",
+  "lawsuit_id": "53915",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53915",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/915/053915_hanrei.pdf"
+}

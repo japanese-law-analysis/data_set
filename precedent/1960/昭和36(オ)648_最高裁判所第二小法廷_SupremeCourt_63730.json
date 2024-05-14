@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 8,
+    "day": 10
+  },
+  "case_number": "昭和36(オ)648",
+  "case_name": "家屋明渡等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第62号123頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 4,
+    "day": 27
+  },
+  "gist": "賃借家屋に生じた腐敗損傷を理由に修繕義務と賃料支払義務の同時履行関係または賃料の当然減額を主張できないとされた事例",
+  "lawsuit_id": "63730",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63730",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/730/063730_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 4,
+    "day": 5
+  },
+  "case_number": "昭和38(オ)7",
+  "case_name": "町議会議員選挙の当選の効力に関する訴願裁決取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第65号459頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 10,
+    "day": 26
+  },
+  "gist": "候補者の氏を誤記したものと認められた事例。",
+  "case_gist": "「新本」の「本」は、その音感等から「保」の誤記と認められるとし、かかる誤記のありうることを説明した上で、「新本」と記載された投票には、候補者新保Ｄに対して投票しようとする選挙人の意思が表明されていることが明らかであるとした原判旨は首肯できる。",
+  "ref_law": "公職選挙法68条7号",
+  "lawsuit_id": "66255",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66255",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/255/066255_hanrei.pdf"
+}

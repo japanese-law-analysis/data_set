@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 10,
+    "day": 29
+  },
+  "case_number": "昭和40(オ)789",
+  "case_name": "抵当権設定仮登記抹消登記請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第80号897頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和39(ネ)891",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 4,
+    "day": 6
+  },
+  "gist": "私文書の作成名義人の印影がその印章によつて顕出されたときと真正の推定",
+  "case_gist": "私文書の作成名義人の印影がその名義人の印章によつて顕出されたものであるときは、反証のないかぎり、その印影は本人の意思に基づいて顕出されたものと事実上推定するのを相当とする（昭和三九年（オ）一一一〇号、同四〇年七月二日二小判裁判集民事七九巻六三九頁・同三九年（オ）七一号、同三九年五月一二日三小判民集一八巻四号五九七頁各参照）。",
+  "ref_law": "民訴法326条",
+  "lawsuit_id": "66478",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66478",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/478/066478_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 1,
+    "day": 28
+  },
+  "case_number": "昭和36(あ)2147",
+  "case_name": "業務上過失傷害、同致死",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第150号291頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 7,
+    "day": 18
+  },
+  "gist": "踏切を通過しようとする場合における自動車運転手の業務上の注意義務。",
+  "case_gist": "自動車の運転手たる者は、踏切を通過するに当つては、たとえ踏切遮断機が設置されている場合でも、その故障又はこれを操作する踏切警手の過失等のため、踏切遮断機の解放中に列車、電車等が踏切を通過することが絶無とは云えないから、踏切遮断機のみを信頼することなく、必らず踏切の前で一時停車をした上、自ら踏切の左右を見透すとか、列車又は電車等の進行音に注意し、なお場合によつては車掌を下車させて誘導させる等の方法によつて、踏切通過が絶対に安全であることを確認した上で踏切を通過すべきであり、特に踏切現場が左右の見透困難な場合においては尚一層念を入れて踏切通過の安全を確認すべき業務上の注意義務がある。",
+  "ref_law": "刑法211条，道路交通法取締法15条",
+  "lawsuit_id": "58720",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58720",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/720/058720_hanrei.pdf"
+}

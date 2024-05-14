@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 4,
+    "day": 17
+  },
+  "case_number": "昭和36(オ)1033",
+  "case_name": "建物所有権確認請求本訴並びに反訴",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第73号133頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 6,
+    "day": 28
+  },
+  "gist": "時効による未登記不動産の所有権取得とその対抗要件。",
+  "case_gist": "時効により未登記不動産の所有権を取得しても、その登記がないときは、時効完成後保存登記を受けた旧所有者から所有権を譲り受け、その登記を経た第三者に対し、その善意であると否とを問わず、時効による所有権の取得をもつて対抗し得ないと解するのを相当とする。",
+  "ref_law": "民法177条",
+  "lawsuit_id": "63651",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63651",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/651/063651_hanrei.pdf"
+}

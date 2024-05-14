@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 10,
+    "day": 3
+  },
+  "case_number": "昭和35(オ)1277",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第68号145頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 8,
+    "day": 24
+  },
+  "gist": "連合国最高司令官の命令に基づき法務府特別審査局係官がしたアカハタの印刷等に関する資料・器材等の差押封印行為の違法性の有無。",
+  "case_gist": "違法性がない。",
+  "ref_law": "昭和25．6．26連合国最高司令官の内閣総理大臣あてアカハタの発行停止に関する書簡",
+  "lawsuit_id": "63534",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63534",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/534/063534_hanrei.pdf"
+}

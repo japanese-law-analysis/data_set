@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 9,
+    "day": 12
+  },
+  "case_number": "昭和43(オ)362",
+  "case_name": "家屋明渡請求，同附帯控訴事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第92号271頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_case_number": "昭和40(ネ)123",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 1,
+    "day": 31
+  },
+  "gist": "家屋の一部無断転貸につき背信行為に当らない特段の事情があるとはいえないとした事例",
+  "case_gist": "賃貸借が裁判所の調停によつて成立し、その調停条項中には無断転貸禁止の条項があつたばかりでなく、賃借人に中間利得があり、賃貸人が本件解除前あらかじめ転借人に無断転借は承認できない旨を告知している等原審認定の諸事実（原判決理由参照）があれば、賃借人の義務違反の程度は強く、本件家屋の一部転貸が背信行為に当らないとはいえない。",
+  "ref_law": "民法612条",
+  "lawsuit_id": "66673",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66673",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/673/066673_hanrei.pdf"
+}

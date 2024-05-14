@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 6,
+    "day": 30
+  },
+  "case_number": "昭和37(ク)243",
+  "case_name": "生活費請求事件の審判に対する抗告棄却決定に対する特別抗告",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "民集　第19巻4号1114頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和37(ラ)252",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 6,
+    "day": 20
+  },
+  "gist": "一　家事審判法第九条第一項乙類第三号の婚姻費用の分担に関する処分の審判の合憲性。\n二　婚姻費用の分担に関する審判の効力。\n三　家庭裁判所は審判時から過去に遡つて婚姻費用の分担に関する処分をすることができるか。",
+  "case_gist": "一　家事審判法第九条第一項乙類第三号の婚姻費用の分担に関する処分の審判は、憲法第三二条、第八二条に違反しない。\n二　婚姻費用分担義務を前提とする審判がなされた場合でも、右分担義務の存否については、別に訴を提起することを妨げない。\n三　家庭裁判所は、審判時から過去に遡つて、婚姻費用の分担に関する処分をすることができる。",
+  "ref_law": "憲法32条，憲法82条，民法760条，家事審判法9条1項乙類3号，家事審判法7条，家事審判法15条，家事審判規則6条",
+  "lawsuit_id": "56273",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56273",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/273/056273_hanrei.pdf"
+}

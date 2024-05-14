@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 7,
+    "day": 26
+  },
+  "case_number": "昭和31(あ)3670",
+  "case_name": "相互銀行法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第14巻10号1295頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 9,
+    "day": 19
+  },
+  "gist": "相互銀行法第四条違反の罪と営利の目的の要否。",
+  "case_gist": "相互銀行法第四条違反の罪は、いやしくも反覆継続の意思をもつて同法第二条第一項第一号に規定する業務を行つたと認めうる場合には、営利の目的の有無にかかわらず成立すると解すべきである。",
+  "ref_law": "相互銀行法2条1項1号，相互銀行法3条，相互銀行法4条，相互銀行法23条",
+  "lawsuit_id": "51509",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51509",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/509/051509_hanrei.pdf"
+}

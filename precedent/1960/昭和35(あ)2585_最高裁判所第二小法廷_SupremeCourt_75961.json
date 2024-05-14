@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 5,
+    "day": 18
+  },
+  "case_number": "昭和35(あ)2585",
+  "case_name": "現住建造物放火",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第142号223頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 6,
+    "day": 23
+  },
+  "lawsuit_id": "75961",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=75961",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/961/075961_hanrei.pdf"
+}

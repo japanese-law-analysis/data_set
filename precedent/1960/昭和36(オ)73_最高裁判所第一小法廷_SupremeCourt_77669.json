@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 5,
+    "day": 31
+  },
+  "case_number": "昭和36(オ)73",
+  "case_name": "家屋明渡並びに賃料損害金請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第60号981頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 11,
+    "day": 25
+  },
+  "gist": "家屋明渡を求める調停の申立は賃貸借解約の申入れとなるか",
+  "case_gist": "賃貸家屋明渡を求める調停の申立がなされたときは、特別の事情の認められない限り、これによつて家屋賃貸借の解約の申入れの意思表示がなされたものと解するものを相当とする。",
+  "ref_law": "借家法1条の2，借家法3条",
+  "lawsuit_id": "77669",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77669",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/669/077669_hanrei.pdf"
+}

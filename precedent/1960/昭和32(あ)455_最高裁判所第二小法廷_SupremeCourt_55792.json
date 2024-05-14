@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 8,
+    "day": 19
+  },
+  "case_number": "昭和32(あ)455",
+  "case_name": "営利誘拐（結婚誘拐）",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "刑集　第14巻10号1407頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 11,
+    "day": 15
+  },
+  "gist": "代理人による告訴の取消。",
+  "case_gist": "代理人による告訴の取消は、その代理権の存在が実質的に証明される限り適法有効であつて、必ずしも被害者本人の委任状の添付または告訴取消調書に「代理」の記載があることを要しない。",
+  "ref_law": "刑訴法240条",
+  "lawsuit_id": "55792",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55792",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/792/055792_hanrei.pdf"
+}

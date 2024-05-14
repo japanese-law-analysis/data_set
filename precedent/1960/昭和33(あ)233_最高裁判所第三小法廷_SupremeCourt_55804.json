@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 12,
+    "day": 26
+  },
+  "case_number": "昭和33(あ)233",
+  "case_name": "封印破棄、横領",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第15巻12号2046頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 12,
+    "day": 25
+  },
+  "gist": "横領罪および封印破棄罪が成立する事例。",
+  "case_gist": "執行吏により仮処分の標示と封印との施された物件につき代理占有保管方の委任を受けた者が、売却する意思をもつてこれを指定された場所から搬出し、他の場所の倉庫に預け入れたときには、横領と差押の標示ならびに封印を無効ならしめた犯罪が成立する。",
+  "ref_law": "刑法252条1項，刑法96条",
+  "lawsuit_id": "55804",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55804",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/804/055804_hanrei.pdf"
+}

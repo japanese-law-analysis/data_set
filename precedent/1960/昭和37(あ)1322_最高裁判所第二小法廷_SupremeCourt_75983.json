@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 4,
+    "day": 22
+  },
+  "case_number": "昭和37(あ)1322",
+  "case_name": "関税法違反、外国為替及び外国貿易管理法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第151号63頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 3,
+    "day": 29
+  },
+  "gist": "韓国銀行券は関税法上の貨物か。",
+  "case_gist": "韓国銀行券が関税法にいう貨物に当るとした原判示は相当である（昭和三〇年（あ）第四七六号同三二年一〇月一一日第二小法廷決定、刑集一一巻一〇号二五七一頁・昭和三五年（あ）第七〇四号同三七年一〇月三〇日第三小法廷判決、刑集一六巻一〇号一四三四頁各参照）。",
+  "ref_law": "関税法1条，関税法2条1号，関税法2条2号，関税法2条3号，関税法2条4号，関税法3条，関税法111条1項，関税定率法3条，関税定率法1条，関税定率法同法別表（昭和36年法律第26号による改正前のもの）1140",
+  "lawsuit_id": "75983",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=75983",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/983/075983_hanrei.pdf"
+}

@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 8,
+    "day": 3
+  },
+  "case_number": "昭和37(オ)511",
+  "case_name": "土地所有権移転登記手続請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "却下",
+  "article_info": "集民　第62号65頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 2,
+    "day": 19
+  },
+  "gist": "上告理由書提出期限を一日徒過したため上告却下を言渡された事例",
+  "lawsuit_id": "63812",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63812",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/812/063812_hanrei.pdf"
+}

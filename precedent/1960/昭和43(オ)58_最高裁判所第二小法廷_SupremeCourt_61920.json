@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 10,
+    "day": 17
+  },
+  "case_number": "昭和43(オ)58",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第97号35頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和41(ネ)258",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 10,
+    "day": 31
+  },
+  "gist": "一、運送取扱人ないし運送人の運送契約上の債務不履行に基づく賠償請求権と不法行為に基づく賠償請求権との関係\n二、国際海上物品運送法一四条と運送人または荷役業者に対する不法行為に基づく損害賠償責任",
+  "case_gist": "一、運送取扱人ないし運送人の運送契約上の債務不履行に基づく賠償請求権と不法行為に基づく賠償請求権は競合し、右不法行為責任は、運送品の取扱上通常予想される事態ではなく、契約本来の目的範囲を著しく逸脱する場合にだけ限定されるものではない。\n二、国際海上物品運送法一四条は運送人または荷役業者に対する不法行為に基づく損害賠償請求については適用されない。",
+  "ref_law": "民法709条，民法415条，商法766条，商法566条，国際海上物品運送法14条，国際海上物品運送法3条",
+  "lawsuit_id": "61920",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61920",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/920/061920_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 9,
+    "day": 22
+  },
+  "case_number": "昭和38(オ)145",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第75号359頁",
+  "original_court_name": "広島高等裁判所\n        　松江支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 11,
+    "day": 30
+  },
+  "gist": "強制執行による不法行為が肯定される場合。",
+  "case_gist": "強制執行が執行機関の行為として執行法上適法である場合であつても、債権者と債務者の実体私法上の関係において、その執行の申立ないし追行若しくは執行の結果につき債権者に故意または過失が認められて民法第七〇九条の要件に該当する限りは、その債権者は、不法行為による損害賠償の責を免れない。",
+  "ref_law": "民法709条",
+  "lawsuit_id": "66192",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66192",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/192/066192_hanrei.pdf"
+}

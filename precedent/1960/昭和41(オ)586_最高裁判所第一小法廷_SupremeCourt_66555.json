@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 12,
+    "day": 1
+  },
+  "case_number": "昭和41(オ)586",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第85号489頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "昭和40(ネ)217",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 2,
+    "day": 23
+  },
+  "gist": "白地補充権なくして白地要件が補充された約束手形につき振出人に手形金支払義務があるとされた事例",
+  "case_gist": "会社の資力を仮装するため単に見せ手形として使用する約束のもとに振出人欄に記名押印し振出日および受取人欄を空欄として交付された約束手形につき、相手方が約旨に反して右空欄を補充した場合であつても、さらに裏書譲渡を受けた所持人が悪意重過失なくして右約束手形を取得したものである以上、振出人は所持人に対して手形金支払義務を負うものと解すべきである。",
+  "ref_law": "手形法77条2項，手形法10条",
+  "lawsuit_id": "66555",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66555",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/555/066555_hanrei.pdf"
+}

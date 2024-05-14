@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 5,
+    "day": 1
+  },
+  "case_number": "昭和43(秩ち)2",
+  "case_name": "法廷等の秩序維持に関する法律による制裁の決定に対する抗告棄却の決定に対する特別抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "民集　第22巻5号1061頁",
+  "original_court_name": "福岡高等裁判所\n        　宮崎支部",
+  "original_case_number": "昭和42(秩ほ)2",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 11,
+    "day": 28
+  },
+  "gist": "法廷等の秩序維持に関する法律による制裁の裁判に対し氏名の記載のない申立書によつてした抗告申立の適否",
+  "case_gist": "法廷等の秩序維持に関する法律による制裁の裁判に対し、氏名を記載することができない合理的な理由がないのに、抗告人を氏名不詳者と表示してその氏名を記載していない申立書によつてした抗告申立は不適法である。",
+  "ref_law": "法廷等の秩序維持に関する法律5条1項，法廷等の秩序維持に関する法律5条2項，法廷等の秩序維持に関する法律6条，法廷等の秩序維持に関する規則16条",
+  "lawsuit_id": "55119",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55119",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/119/055119_hanrei.pdf"
+}

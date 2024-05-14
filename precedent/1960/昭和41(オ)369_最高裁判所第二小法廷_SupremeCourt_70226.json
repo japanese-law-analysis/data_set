@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 8,
+    "day": 25
+  },
+  "case_number": "昭和41(オ)369",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第88号293頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和35(ネ)491",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 12,
+    "day": 22
+  },
+  "gist": "訴訟代理人があるため訴訟手続が中断しない場合と当事者の表示",
+  "case_gist": "当事者が死亡したが、訴訟代理人があるため、訴訟手続を中断しないまま口頭弁論を終結した場合には、相続人が何人であるか明らかであるかぎり、判決には当事者として新当事者を表示するを相当とし、旧当事者を表示しているときは、民訴法第一九四条によつて更正することができる。",
+  "ref_law": "民訴法213条，民訴法194条",
+  "lawsuit_id": "70226",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70226",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/226/070226_hanrei.pdf"
+}

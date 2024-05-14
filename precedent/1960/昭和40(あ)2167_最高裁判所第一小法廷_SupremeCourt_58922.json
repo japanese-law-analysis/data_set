@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 4,
+    "day": 7
+  },
+  "case_number": "昭和40(あ)2167",
+  "case_name": "銃砲刀剣類等所持取締法違反、火薬類取締法違反、関税法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第159号11頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 9,
+    "day": 14
+  },
+  "gist": "銃砲刀剣類等所持取締法違反の罪と火薬類取締法違反の罪との罪数関係",
+  "case_gist": "原判決およびその是認する第一審判決が、第一審判示第四の拳銃二丁の所持につき銃砲刀剣類等所持取締法違反の包括罪に、実砲の所持につき火薬類取締法違反の罪に問擬し、両者を一個の行為にして数個の罪名にふれるものであるとした判示は正当である。",
+  "ref_law": "銃砲刀剣類等所持取締法3条1項，銃砲刀剣類等所持取締法31条1号，火薬類取締法21条，火薬類取締法59条2号，刑法54条1項前段，刑法45条",
+  "lawsuit_id": "58922",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58922",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/922/058922_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 6,
+    "day": 17
+  },
+  "case_number": "昭和31(オ)119",
+  "case_name": "建物収去土地明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第14巻8号1396頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 11,
+    "day": 29
+  },
+  "gist": "敷地不法占有と家屋収去請求の相手方。",
+  "case_gist": "仮処分申請に基き、裁判所の嘱託により家屋所有権保存登記がなされている場合であつても、仮処分前に家屋を未登記のまま第三者に譲渡しその敷地を占拠していない右保存登記名義人に対し、敷地所有者から敷地不法占有を理由として家屋収去請求をすることは許されない。",
+  "ref_law": "民法176条，民法177条",
+  "lawsuit_id": "53536",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53536",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/536/053536_hanrei.pdf"
+}

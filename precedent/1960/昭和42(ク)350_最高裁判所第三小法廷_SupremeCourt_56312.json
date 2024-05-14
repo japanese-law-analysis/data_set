@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 12,
+    "day": 15
+  },
+  "case_number": "昭和42(ク)350",
+  "case_name": "執行方法異議申立棄却決定に対する抗告棄却の決定に対する抗告",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "民集　第21巻10号2602頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和42(ラ)441",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 9,
+    "day": 5
+  },
+  "gist": "執行方法異議事件の審理と憲法第三二条第八二条",
+  "case_gist": "抵当権の不存在を理由とする競売開始決定に対する異議事件の裁判は、公開の法廷における審理を経なくても、憲法第三二条、第八二条に違反しない。",
+  "ref_law": "民訴法544条，憲法32条，憲法82条",
+  "lawsuit_id": "56312",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56312",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/312/056312_hanrei.pdf"
+}

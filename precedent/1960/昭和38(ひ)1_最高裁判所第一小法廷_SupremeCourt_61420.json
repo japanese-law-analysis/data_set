@@ -1,0 +1,24 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 4,
+    "day": 25
+  },
+  "case_number": "昭和38(ひ)1",
+  "case_name": "爆発物取締罰則違反被告事件の上告棄却の判決に対する上告審において生じた費用の補償請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第147号97頁",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 8,
+    "day": 31
+  },
+  "lawsuit_id": "61420",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61420",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/420/061420_hanrei.pdf"
+}

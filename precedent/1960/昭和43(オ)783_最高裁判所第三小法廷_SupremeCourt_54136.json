@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 10,
+    "day": 8
+  },
+  "case_number": "昭和43(オ)783",
+  "case_name": "土地建物所有権移転登記抹消登記手続（本訴）家屋明渡（反訴）請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第22巻10号2172頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和41(ネ)1853",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 4,
+    "day": 24
+  },
+  "gist": "一、抵当権の設定契約の無効とその抵当権に基づく競売手続の効果\n二、民法第八二六条の利益相反行為にあたるとされた事例",
+  "case_gist": "一、抵当権の設定契約が無効のときには、その抵当権に基づく競売により、抵当物件が競落されても、競落人はその所有権を取得することができない。\n二、第三者の金銭債務について、親権者がみずから連帯保証をするとともに、子の代理人として、同一債務について連帯保証をし、かつ、親権者と子が共有する不動産について抵当権を設定するなどの判示事実関係のもとでは、子のためにされた連帯保証債務負担行為および抵当権設定行為は、民法第八二六条にいう利益相反行為にあたる。",
+  "ref_law": "民法369条，民法826条，競売法2条",
+  "lawsuit_id": "54136",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54136",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/136/054136_hanrei.pdf"
+}

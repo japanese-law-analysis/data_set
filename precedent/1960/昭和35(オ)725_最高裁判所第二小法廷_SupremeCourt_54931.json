@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 2,
+    "day": 24
+  },
+  "case_number": "昭和35(オ)725",
+  "case_name": "健康保険任意継続被保険者資格取得の承認に対する審査棄却決定取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第15巻2号314頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 3,
+    "day": 11
+  },
+  "gist": "健康保険法第二〇条第一項の不知と同条第二項の正当事由。",
+  "case_gist": "被保険者資格を喪失した者が右資格を継続するには資格喪失の日から一〇日以内にその申請をしなければならない旨の健康保険法第二〇条第一項の規定を知らなかつたということだけでは、右期間経過後に資格継続の申請をするにつき正当の事由があるものということはできない。",
+  "ref_law": "健康保険法（昭和32年法律42号による改正前のもの）20条",
+  "lawsuit_id": "54931",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54931",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/931/054931_hanrei.pdf"
+}

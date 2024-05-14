@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 11,
+    "day": 10
+  },
+  "case_number": "昭和36(オ)1198",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第20巻9号1697頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和35(ネ)2471",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 6,
+    "day": 28
+  },
+  "gist": "一　約束手形の受取人欄の抹消と手形の変造\n二　受取人欄の記載が変造された手形の所持人による手形金請求の許否",
+  "case_gist": "一　約束手形の受取人欄の記載が無権限で抹消された場合は手形の変造にあたり、振出人は、変造前の文言に従つて責任を負う。\n\n二　前項の場合、変造後の当該手形の所持人は、当初の受取人から同手形を取得した経路とその取得をもつて振出人に対抗しうる事由を主張立証しないかぎり、振出人に対し手形金の支払を請求することができない。",
+  "ref_law": "手形法69条",
+  "lawsuit_id": "53745",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53745",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/745/053745_hanrei.pdf"
+}

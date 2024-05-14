@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 2,
+    "day": 9
+  },
+  "case_number": "昭和35(あ)1002",
+  "case_name": "収賄、贈賄",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第15巻2号308頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 3,
+    "day": 7
+  },
+  "gist": "公務員の将来命ぜられるべき職務に関し収賄罪の成立する事例。",
+  "case_gist": "葉たばこ収納に際し専売公社地方局長の任命により鑑定人としての職務を執行する権限を有すべき同公社支局技術課長が、その具体的職務の執行を予期し、これに関し不正の利益を収受したときは、たとえ右具体的職務の執行が地方局長の任命といえ条件にかかつていたとしても、収賄罪の成立を妨げるものでない。",
+  "ref_law": "刑法197条1項",
+  "lawsuit_id": "51691",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51691",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/691/051691_hanrei.pdf"
+}

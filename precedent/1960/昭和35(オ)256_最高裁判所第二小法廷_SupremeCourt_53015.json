@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 12,
+    "day": 1
+  },
+  "case_number": "昭和35(オ)256",
+  "case_name": "資産再評価額等変更請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第15巻11号2637頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 12,
+    "day": 3
+  },
+  "gist": "個人の資産再評価差額を零とした審査決定のみの取消を求める利益の有無。",
+  "case_gist": "個人の資産再評価差額を零とする審査決定のみの取消を求める法律上の利益はない。",
+  "ref_law": "資産再評価法65条，資産再評価法72条，資産再評価法75条，行政事件訴訟特例法1条，所得税法（昭和28年法律173号による改正前）10条の5",
+  "lawsuit_id": "53015",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53015",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/015/053015_hanrei.pdf"
+}

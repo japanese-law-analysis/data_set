@@ -1,0 +1,20 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 2,
+    "day": 17
+  },
+  "case_number": "昭和38(オ)960",
+  "case_name": "所有権移転登記手続等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集民　第82号405頁",
+  "original_case_number": "昭和38(オ)960",
+  "gist": "上告取下による訴訟終了の有無に関する争いにつき最高裁判所が終局判決をした事例",
+  "lawsuit_id": "66270",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66270",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/270/066270_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 9,
+    "day": 10
+  },
+  "case_number": "昭和40(あ)611",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第156号381頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 1,
+    "day": 18
+  },
+  "gist": "公職選挙法違反罪において一個の行為にして法定外文書の頒布につき単純一罪を、金銭供与申込につき数罪を構成する場合の適条。",
+  "case_gist": "被告人の本件所為中、法定外選挙運動文書の頒布は単純一罪を、各供与申込は被申込人ごとに一罪を構成し、頒布罪と供与申込罪とは一個の行為にして数個の罪名に触れる場合であるから、刑法第五四条第一項前段により、結局全部一罪として処断すべき場合に該当し、この点に関する第一、二審の判示は正当である。",
+  "ref_law": "公職選挙法142条，公職選挙法221条，公職選挙法243条3号，刑法54条1項，刑法10条",
+  "lawsuit_id": "61472",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61472",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/472/061472_hanrei.pdf"
+}

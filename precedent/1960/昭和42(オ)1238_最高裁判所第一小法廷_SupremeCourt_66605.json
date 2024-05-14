@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 9,
+    "day": 11
+  },
+  "case_number": "昭和42(オ)1238",
+  "case_name": "売買代金請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集民　第96号489頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和39(ネ)617",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 7,
+    "day": 31
+  },
+  "gist": "地方公共団体の長が議会の議決を経ないで当該地方公共団体を代表してした債務保証行為の効力",
+  "case_gist": "地方公共団体の長が議会の議決を経ないで当該地方公共団体を代表して他人の債務を保証する行為は無効である。",
+  "ref_law": "地方自治法（昭和38年法律第99号による改正前のもの）96条1項8号",
+  "lawsuit_id": "66605",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66605",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/605/066605_hanrei.pdf"
+}

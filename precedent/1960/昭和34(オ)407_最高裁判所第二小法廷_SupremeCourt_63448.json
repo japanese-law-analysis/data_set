@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 6,
+    "day": 1
+  },
+  "case_number": "昭和34(オ)407",
+  "case_name": "株券名義書換本訴及び反訴",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第61号1頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 1,
+    "day": 22
+  },
+  "gist": "商法の一部を改正する法律施行法（昭和二六年法律第二一〇号）第一一条但書の法意",
+  "case_gist": "商法の一部を改正する法律施行法（昭和二六年法律第二一〇号）第一一条但書の規定は、会社が新法施行後に名義書換の請求を受けた場合に、その譲渡が新法執行前か後か会社にとつて不明な場合において、会社に免責を得させるために設けられたものであつて、善意取得に関する商法第二二九条の適用を認めたものではない。",
+  "ref_law": "商法の一部を改正する法律施行法（昭和26年法律210号）11条，商法229条",
+  "lawsuit_id": "63448",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63448",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/448/063448_hanrei.pdf"
+}

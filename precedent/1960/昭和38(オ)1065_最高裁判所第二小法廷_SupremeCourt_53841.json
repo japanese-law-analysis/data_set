@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 8,
+    "day": 2
+  },
+  "case_number": "昭和38(オ)1065",
+  "case_name": "農地買収処分無効確認請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第19巻6号1337頁",
+  "original_court_name": "高松高等裁判所",
+  "original_case_number": "昭和31(ネ)170",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 6,
+    "day": 14
+  },
+  "gist": "一　地主所有の果樹が生立する果樹園に対する農地買収の適否。\n二　自作農創設特別措置法第三条第五項第二号の規定による買収と買収面積制限の有無。",
+  "case_gist": "一　地主所有の果樹が生立する果樹園であつても、自作農創設特別措置法による農地買収の対象となる。\n二　自作農創設特別措置法第三条第五項第二号によるいわゆる仮装自作地の買収については、同条第一項第二号、第三号所定の買収面積の制限を受けない。",
+  "ref_law": "自作農創設特別措置法2条，自作農創設特別措置法3条",
+  "lawsuit_id": "53841",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53841",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/841/053841_hanrei.pdf"
+}

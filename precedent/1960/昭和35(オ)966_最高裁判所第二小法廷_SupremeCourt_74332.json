@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 3,
+    "day": 16
+  },
+  "case_number": "昭和35(オ)966",
+  "case_name": "建物明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第59号421頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 5,
+    "day": 24
+  },
+  "gist": "家屋賃貸借契約における強制執行による権利金債権の実行または契約解除当日における滞納賃料支払と契約解除の効力",
+  "case_gist": "賃料不払を理由として家屋賃貸借契約が解除された場合に、その後に右契約に伴う権利金債権につき強制執行がなされ、かつ契約解除当日に滞納賃料が支払われたとしても右解除の効力は左右されない。",
+  "ref_law": "民法541条",
+  "lawsuit_id": "74332",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74332",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/332/074332_hanrei.pdf"
+}

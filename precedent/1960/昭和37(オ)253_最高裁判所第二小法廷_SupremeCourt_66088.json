@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 5,
+    "day": 31
+  },
+  "case_number": "昭和37(オ)253",
+  "case_name": "商品代金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集民　第66号275頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 12,
+    "day": 26
+  },
+  "gist": "控訴審において訴が変更された場合と新訴に対する主文の判示方法。",
+  "case_gist": "控訴審で訴の変更があつた新請求を認容すべき旨を判示しながら、主文で控訴棄却の判示をするのは、民訴法第三八四条の解釈を誤り、理由そごとなる。",
+  "ref_law": "民訴法232条，民訴法236条，民訴法384条",
+  "lawsuit_id": "66088",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66088",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/088/066088_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 11,
+    "day": 12
+  },
+  "case_number": "昭和38(オ)621",
+  "case_name": "預金払戻請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第76号15頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 2,
+    "day": 28
+  },
+  "gist": "銀行支店預金係長が他へ転出後もとの支店の支店長保管の押切印および預金係員の認印を盗用して預金通帳を作成交付することによつてなした不法行為が、民法第七一五条の銀行の「事業ノ執行ニ付キ」なした行為にあたらないとされた事例。",
+  "case_gist": "甲銀行乙支店預金係長であつた丙が、他の支店に転出後、乙支店の支店長保管の押切印および預金係員の認印を盗用して預金通帳を作成交付することによつてなした不法行為であつて、右預金通帳を被害者たる組合の組合長に授受した経過が原判示のように乙支店の通常の預金業務とは外形上も著しく異るものである等原判決認定の事実関係（原判決理由参照）のもとにおいては、右不法行為は、民法第七一五条の銀行の「事業ノ執行ニ付キ」なした行為にあたらないと解すべきである。",
+  "ref_law": "民法715条",
+  "lawsuit_id": "63909",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63909",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/909/063909_hanrei.pdf"
+}

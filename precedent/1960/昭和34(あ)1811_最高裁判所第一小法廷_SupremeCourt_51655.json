@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 3,
+    "day": 10
+  },
+  "case_number": "昭和34(あ)1811",
+  "case_name": "公文書偽造、商標法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第14巻3号333頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 8,
+    "day": 6
+  },
+  "gist": "物品税表示証紙は公文書か",
+  "case_gist": "物品税表示証紙は刑法第一五五条第三項の公文書にあたるものと解するのが相当である。",
+  "ref_law": "刑法155条3項，物品税法16条の2第4項，物品税法16条の2第5項，昭和26年5月25日大蔵省告示678号",
+  "lawsuit_id": "51655",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51655",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/655/051655_hanrei.pdf"
+}

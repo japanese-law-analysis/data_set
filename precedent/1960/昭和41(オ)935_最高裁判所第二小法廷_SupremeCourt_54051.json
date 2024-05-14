@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 2,
+    "day": 24
+  },
+  "case_number": "昭和41(オ)935",
+  "case_name": "所有権移転登記請求、同反訴請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第21巻1号209頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和35(ネ)936",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 4,
+    "day": 20
+  },
+  "gist": "判決の公示送達の不知を理由とする上訴の追完が許された事例",
+  "case_gist": "被告とその法定代理人が住民登録をした場所に居住し、原告が訴提起直前に右居住の場所に被告の法定代理人を訪ねて訴の目的である債務の履行につき折衝したことがあつたにもかかわらず、原告から訴状の受送達者の住所が不明であるとして公示送達の申立がされ、よつて被告の法定代理人に対する第一審判決正本の送達にいたるまでのすべての書類の送達が公示送達により行なわれた場合において、被告の法定代理人が控訴期間の経過後はじめて判決正本の公示送達の事実を知り、ただちに控訴を提起したときは民訴法第一五九条にいう「其ノ責ニ帰スヘカラサル事由ニ因リ不変期間ヲ遵守スルコト能ハサリシ場合」にあたるものとして、右控訴は適法であると解すべきである。",
+  "ref_law": "民訴法159条",
+  "lawsuit_id": "54051",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54051",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/051/054051_hanrei.pdf"
+}

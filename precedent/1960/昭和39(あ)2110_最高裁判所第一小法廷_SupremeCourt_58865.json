@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 2,
+    "day": 25
+  },
+  "case_number": "昭和39(あ)2110",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第154号859頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 9,
+    "day": 7
+  },
+  "gist": "刑訴法第三八八条の合憲性",
+  "case_gist": "控訴審では、被告人のためにする弁論は、弁護人でなければ、これをすることができない旨を規定する刑訴法第三八八条は立法政策の問題であつて、憲法第三一条に違反するものでないことは、昭和当二三年七月一九日大法廷判決（刑集二巻八号九二二頁）、昭和二五年二月一日大法廷判決（刑集四巻二号八八頁）および昭和三一年七月一八日大法廷判決（刑集一〇巻七号一一四七頁）の趣旨に徴して明らかである。",
+  "ref_law": "刑訴法388条，憲法31条",
+  "lawsuit_id": "58865",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58865",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/865/058865_hanrei.pdf"
+}

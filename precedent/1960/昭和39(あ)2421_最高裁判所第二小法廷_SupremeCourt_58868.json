@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 3,
+    "day": 26
+  },
+  "case_number": "昭和39(あ)2421",
+  "case_name": "恐喝、恐喝未遂",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第155号289頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 10,
+    "day": 20
+  },
+  "gist": "権利行使と恐喝罪成否に関する判例変更の有無。",
+  "case_gist": "一　判例違反を主張する所論引用の大正二年（れ）第一二一一号同年一二月二三日大審院判決は、当裁判所の判例によりすでに変更されたものである（昭和二七年（あ）第六五九六号同三〇年一〇月一四日第二小法廷判決、刑集九巻一一号二一七三頁・昭和三一年（あ）第四六九号同三三年五月六日第三小法廷判決、刑集一二巻七号一三三六頁参照）。\n二　（所論引用の大審院判決の要旨）正当な権利者が欺罔または恐喝の手段を用いて、義務者から正数以外の財物または正数以上の利益を取得した場合、詐欺恐喝の罪は、右権利の範囲外において領得した財産または利益の部分につき成立する。",
+  "ref_law": "刑訴法405条，刑法249条",
+  "lawsuit_id": "58868",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58868",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/868/058868_hanrei.pdf"
+}

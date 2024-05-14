@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 9,
+    "day": 29
+  },
+  "case_number": "昭和36(オ)1119",
+  "case_name": "配当表変更異議請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第18巻7号1541頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 7,
+    "day": 14
+  },
+  "gist": "仮差押された不動産に対し本差押がなされるまでの間に右不動産の所有権が移転した場合と配当要求の効力。",
+  "case_gist": "債権者が債務者所有の不動産に対し仮差押執行後、債務者が右不動産の所有権を第三者に譲渡し、その登記を経由した場合には、右仮差押がそのまま本差押となつたときでも、その効力の利益をうける者は依然仮差押債権者のみにとどまり、その利益は、一般私債権者たると租税債権者たるとを問わず、配当要求をなした債権者におよぶものではない。",
+  "ref_law": "民訴法646条，民訴法698条，民訴法737条",
+  "lawsuit_id": "53740",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53740",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/740/053740_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 12,
+    "day": 1
+  },
+  "case_number": "昭和40(あ)1137",
+  "case_name": "法人税法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第161号433頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 3,
+    "day": 30
+  },
+  "gist": "操業権の解除条件付売買による売却益金の帰属事業年度",
+  "case_gist": "第一審判決判示にかかる農林大臣の中部千島さけ、ます流網漁業の操業許可に関する権利の売却益をもつて、昭和三四年事業年度の所得として申告すべきものとし、これについて被告人らにおける法人税逋脱の罪の成立を認めた原判決の判断は、正当と認められる（第一審判決参照。）",
+  "ref_law": "法人税8条1項（昭和37年3月21日法律45号、同年4月2日法律67号による改正前のもの）",
+  "lawsuit_id": "58900",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58900",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/900/058900_hanrei.pdf"
+}

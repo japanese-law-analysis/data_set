@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 2,
+    "day": 13
+  },
+  "case_number": "昭和37(オ)579",
+  "case_name": "土地所有権移転登記手続請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第72号145頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 10,
+    "day": 18
+  },
+  "gist": "不動産が順次譲渡された場合の前主は後主に対する関係で民法第一七七条の第三者に該当するか。",
+  "case_gist": "不動産が甲乙丙と順次譲渡された場合、現在の登記名義人たる甲が丙から直接転移登記手続を求められるにあたつて、甲は民法第一七七条にいう第三者として、丙に対しその物権取得を否認できる関係にはない。",
+  "ref_law": "民法177条",
+  "lawsuit_id": "63818",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63818",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/818/063818_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 10,
+    "day": 13
+  },
+  "case_number": "昭和35(オ)437",
+  "case_name": "譲渡所得額認定取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第15巻9号2332頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 12,
+    "day": 26
+  },
+  "gist": "一　所得税法第九条第一項第八号にいう収入金額の意義。\n二　譲渡資産上の抵当権を抹消するための第三者の債務の弁済は所得税法第一一条の四の雑損か。\n三　譲渡資産上の抵当権を抹消するため第三者の債務の弁済に要した費用は所得税法第九条第一項第八号の経費にあたるか。",
+  "case_gist": "一　所得税法第九条第一項第八号にいう収入金額とは、譲渡資産の客観的な価額を指すものではなく、現実の収入金額を指すものと解すべきである。\n二　譲渡資産上の抵当権を抹消するため、第三者の債務を弁済しても、その費用は、所得税法第一一条の四の雑損にあたらない。\n三　譲渡資産上の抵当権を抹消するため、第三者の債務を弁済しても、その費用は所得税法第九条第一項第八号の経費にあたらない。",
+  "ref_law": "所得税法9条1項8号，所得税法11条の4",
+  "lawsuit_id": "53710",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53710",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/710/053710_hanrei.pdf"
+}

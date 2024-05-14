@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 12,
+    "day": 18
+  },
+  "case_number": "昭和39(オ)811",
+  "case_name": "仮登記抹消手続及抵当権設定登記抹消手続等再審請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第76号567頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 3,
+    "day": 26
+  },
+  "gist": "控訴審における本案判決の存在と第一審判決に対する再審の訴の適否。",
+  "case_gist": "控訴審において本案判決がなされた場合においては、第一審判決に対し再審の訴を提起することは許されない。",
+  "ref_law": "民訴法420条3項",
+  "lawsuit_id": "63973",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63973",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/973/063973_hanrei.pdf"
+}

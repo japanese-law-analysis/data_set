@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 10,
+    "day": 10
+  },
+  "case_number": "昭和35(オ)1086",
+  "case_name": "所有権移転登記抹消等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第68号317頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 6,
+    "day": 30
+  },
+  "gist": "後見監督人が被後見人を代理した場合と民法第八六六条による取消権の成否。",
+  "case_gist": "被後見人の財産等を後見人が譲り受ける行為につき、後見監督人が被後見人を代理した場合または親族会の同意があつた場合でも、被後見人は、民法第八六六条による取消権を失わない。",
+  "ref_law": "民法866条",
+  "lawsuit_id": "63520",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63520",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/520/063520_hanrei.pdf"
+}

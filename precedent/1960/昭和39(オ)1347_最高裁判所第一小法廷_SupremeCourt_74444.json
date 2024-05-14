@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 6,
+    "day": 24
+  },
+  "case_number": "昭和39(オ)1347",
+  "case_name": "貸金請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集民　第79号503頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "昭和37(ネ)577",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 8,
+    "day": 27
+  },
+  "gist": "一　準消費貸借契約と利息制限法\n二　制限超過部分の充当の順序。",
+  "case_gist": "一　準消費貸借契約にも利息制限法の適用がある。\n二　制限を超過して任意に支払われた利息部分は、先ず弁済期までの全制限利息に充当さるべく、残余ある場合初めて元本に充当される。",
+  "ref_law": "民法588条，民法489条，利息制限法1条1項",
+  "lawsuit_id": "74444",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74444",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/444/074444_hanrei.pdf"
+}

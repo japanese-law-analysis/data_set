@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 1,
+    "day": 19
+  },
+  "case_number": "昭和33(オ)815",
+  "case_name": "所有権確認請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第58号189頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 10,
+    "day": 30
+  },
+  "gist": "一、権利質の実行としてなされた特殊預金設定の方法による保険金請求権の取立の効力\n二、保険金請求権に質権を設定しまたは右質権者が保険金を特殊預金設定の方法で受領するには企業整備資金措置法第一四条による政府の許可を要するか",
+  "case_gist": "一、保険金請求権が貸金債権に対する権利質の目的となつている場合、その質権の実行として、債権者名義のいわゆる特殊預金設定の方法により保険金の取立がなされたときは、貸金債権は、これにより有効に決済される。\n二、保険金請求権に質権を設定し、または、右質権者が保険金を特殊預金設定の方法で受領するには、企業整備資金措置法第一四条による政府の許可を要しない。",
+  "ref_law": "民法367条1項，臨時資金調整法施行令9条ノ4，企業整備資金措置法14条，同法施行令3条",
+  "lawsuit_id": "63343",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63343",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/343/063343_hanrei.pdf"
+}

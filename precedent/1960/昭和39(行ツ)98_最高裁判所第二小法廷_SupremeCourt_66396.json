@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 12,
+    "day": 24
+  },
+  "case_number": "昭和39(行ツ)98",
+  "case_name": "訴訟関係信書検閲禁止請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第81号789頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和38(ネ)1177",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 6,
+    "day": 5
+  },
+  "gist": "請求を追加的に併合したうえで旧訴を取り下げることによる任意的当事者変更が許された事例",
+  "case_gist": "原告が、刑務所長を被告とする訴訟関係発信書類披閲の違法確認を求める訴訟において、これと関連する矯正管区長に対する請求を追加的に併合したうえで旧訴を取り下げることにより、被告を右刑務所長から矯正管区長に任意的に変更することは許される。",
+  "ref_law": "行政事件訴訟法19条，民訴法236条",
+  "lawsuit_id": "66396",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66396",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/396/066396_hanrei.pdf"
+}

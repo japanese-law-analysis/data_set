@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 4,
+    "day": 15
+  },
+  "case_number": "昭和40(オ)1287",
+  "case_name": "家屋収去土地明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第83号217頁",
+  "original_court_name": "福岡高等裁判所\n        　宮崎支部",
+  "original_case_number": "昭和35(ネ)127",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 8,
+    "day": 19
+  },
+  "gist": "地代請求訴訟における請求棄却の確定判決の既判力",
+  "case_gist": "地代請求訴訟における請求棄却の確定判決の既判力は、その判決理由中に示された当該土地賃貸借契約の存否の判断について生ずることなく、また、その既判力標準時以前の過去の時点における当該地代請求権の存否についてまで及ぶものではない。",
+  "ref_law": "民訴法199条1項",
+  "lawsuit_id": "77779",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77779",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/779/077779_hanrei.pdf"
+}

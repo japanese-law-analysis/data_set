@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 7,
+    "day": 21
+  },
+  "case_number": "昭和36(あ)3052",
+  "case_name": "建築基準法違反、公衆浴場法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "刑集　第18巻6号412頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 11,
+    "day": 14
+  },
+  "gist": "公衆浴場法第二条第一項の「公衆浴場」にあたるとされた事例。",
+  "case_gist": "本件組合浴場のように、利用者は組合員たる資格を有するものに限定されていても、当該地域の住民であるかぎり組合への加入脱退は各人の自由であるなど、組合の組織、構成の実態に照らし利用者の性格が一般公衆性、社会性を具有するものと認められるもの（判文参照）は、公衆浴場法第二条第一項の「公衆浴場」にあたるものと解すべきである。",
+  "ref_law": "公衆浴場法1条，公衆浴場法2条1項，公衆浴場法8条1号",
+  "lawsuit_id": "54760",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54760",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/760/054760_hanrei.pdf"
+}

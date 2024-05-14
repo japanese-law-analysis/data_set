@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 5,
+    "day": 7
+  },
+  "case_number": "昭和37(オ)1170",
+  "case_name": "建物収去土地明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第79号43頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和36(ネ)305",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 7,
+    "day": 19
+  },
+  "gist": "建物保護に関する法律により賃借権をもつて第三者に対抗しうる土地の範囲。",
+  "case_gist": "一筆の土地全部の賃借人が地上に登記ある建物を所有するにいたつたときは、その後右土地が分筆され、建物の存在しない部分の土地所有権を取得した者がある場合においても、これに対し賃借権を対抗することができる。",
+  "ref_law": "建物保護ニ関スル法律1条",
+  "lawsuit_id": "74378",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74378",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/378/074378_hanrei.pdf"
+}

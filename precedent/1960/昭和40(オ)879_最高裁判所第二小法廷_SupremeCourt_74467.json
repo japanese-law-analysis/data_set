@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 11,
+    "day": 17
+  },
+  "case_number": "昭和40(オ)879",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第89号197頁",
+  "original_court_name": "高松高等裁判所",
+  "original_case_number": "昭和39(ネ)52",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 5,
+    "day": 19
+  },
+  "gist": "受寄者の寄託者に対する寄託物返還義務が受寄者の責に帰すべき事由によつて履行不能となつた場合において、寄託者の填補賠償が認められなかつた事例",
+  "case_gist": "寄託者が寄託物（本件自動車）の所有者でなく、当該寄託物はその真の所有者の手中に帰つたなどの原判決確定の事実関係の場合においては、受寄者の責に帰すべき事由により寄託者に対する寄託物返還義務が履行不能になつたとしても、寄託者は、寄託物の価格相当の損害を蒙つたものということはできないから、受寄者に対し寄託物である本件自動車の返還に代る填補賠償（本件自動車の価格相当の損害賠償）を請求することはできない。",
+  "ref_law": "商法617条",
+  "lawsuit_id": "74467",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74467",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/467/074467_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 10,
+    "day": 28
+  },
+  "case_number": "昭和41(あ)631",
+  "case_name": "猥せつ誘拐",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第161号285頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 2,
+    "day": 16
+  },
+  "gist": "公判廷に被告人が出頭したか否かと公判調書の記載",
+  "case_gist": "記録によると、原審第一回公判調書には、昭和四一年二月四日の同公判期日が何時に開廷されたかの記載はないが、被告人は出頭した旨記載されている。そして、刑訴法第五二条によれば、公判期日における訴訟手続で公判調書に記載されているものは、同調書のみによつて証明することを要し、他の反証を許さないのであるから、結局、被告人は同公判期日に出頭し審理に立会つたものと認めるの外はない。",
+  "ref_law": "刑訴法52条，刑訴規則44条1項6号",
+  "lawsuit_id": "59056",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59056",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/056/059056_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 11,
+    "day": 24
+  },
+  "case_number": "昭和37(オ)522",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第18巻9号1952頁",
+  "original_court_name": "仙台高等裁判所\n        　秋田支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 2,
+    "day": 19
+  },
+  "gist": "手形を所持しない手形権利者の裁判上の請求と時効中断の有無。",
+  "case_gist": "手形権利者が手形を所持しないでなした裁判上の請求によつても、時効中断の効力がある。",
+  "ref_law": "民法147条1号，手形法38条1項，手形法39条1項",
+  "lawsuit_id": "53105",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53105",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/105/053105_hanrei.pdf"
+}

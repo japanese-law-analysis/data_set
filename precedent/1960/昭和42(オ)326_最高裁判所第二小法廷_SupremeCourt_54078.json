@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 3,
+    "day": 1
+  },
+  "case_number": "昭和42(オ)326",
+  "case_name": "借地権確認等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第22巻3号473頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和38(ネ)320",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 12,
+    "day": 14
+  },
+  "gist": "一筆の従前地全部を賃借する者が適法な賃借権の届出をした場合であつても換地予定地または仮換地について使用収益の権能を有しないとされた事例",
+  "case_gist": "一筆の従前地全部が賃貸借の目的となつている場合において、当該賃借人が特別都市計画法施行令第四五条但書所定の期間内に賃借権の届出をしたにもかかわらず、土地区画整理施行者が、特別都市計画法第一三条第二項による通知または土地区画整理法第九八条による指定をする必要がないものとして、これをしなかつた等原判示のような事情（原判決理由参照）があるとしても、その通知または指定がないかぎり、右賃借人は換地予定地または仮換地?ついて使用収益の権能を有しない。",
+  "ref_law": "特別都市計画法13条，土地区画整理法98条",
+  "lawsuit_id": "54078",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54078",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/078/054078_hanrei.pdf"
+}

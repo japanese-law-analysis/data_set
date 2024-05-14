@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 11,
+    "day": 8
+  },
+  "case_number": "昭和36(オ)355",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第63号95頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 12,
+    "day": 16
+  },
+  "gist": "原告の当事者表示を「Ｄ組合」とすべきところを誤つて「Ｄ組合北海道支部」とした事件において第一審における右表示の訂正が許された事例。",
+  "lawsuit_id": "65980",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=65980",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/980/065980_hanrei.pdf"
+}

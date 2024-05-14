@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 12,
+    "day": 20
+  },
+  "case_number": "昭和43(オ)852",
+  "case_name": "商品先物取引仕切損金等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第93号763頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和42(ネ)2918",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 5,
+    "day": 27
+  },
+  "gist": "商品の清算取引の委託者が委託証拠金の追加差入をする意思のないことが明白な場合と商品仲買人の委託建玉の処分権",
+  "case_gist": "商品の清算取引において、仲買人は、委託者が追証拠金を預託する意思のないことが明白なときは、特段の事情のないかぎり、東京穀物商品取引所受託契約準則第八条第三項所定の期限まで待つことなくただちに手仕舞をすることができる。",
+  "ref_law": "東京穀物商品取引所受託契約準則8条3項，東京穀物商品取引所受託契約準則13条，商品取引所法96条",
+  "lawsuit_id": "70358",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70358",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/358/070358_hanrei.pdf"
+}

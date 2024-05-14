@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 10,
+    "day": 27
+  },
+  "case_number": "昭和41(オ)1287",
+  "case_name": "証書の不真正確認請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第88号829頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和40(ネ)1490",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 8,
+    "day": 17
+  },
+  "gist": "民訴法第二二五条による証書真否確認の訴が許されないとされた事例",
+  "case_gist": "証書の成立の真正が確定されても、原告の主張する土地占有権原である賃貸借契約もしくは使用貸借契約に基づく権利の存否について直接証明があつたことにならないため、右土地に関する権利関係の争がこれによつて解決されたことにならず、しかも、原告および被告間の別件訴訟において被告が原告に対して右土地につき建物収去土地明渡請求権を有することが確定されている以上、原告が被告に対して右証書の真否の確認を求める訴は、その利益を欠き許されない。",
+  "ref_law": "民訴法225条",
+  "lawsuit_id": "70211",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70211",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/211/070211_hanrei.pdf"
+}

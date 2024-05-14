@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 11,
+    "day": 30
+  },
+  "case_number": "昭和36(オ)321",
+  "case_name": "建物収去土地明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第56号467頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 11,
+    "day": 24
+  },
+  "gist": "建物が借地法第一七条第一項但書にいう朽廃の程度に達したと判定された事例。",
+  "case_gist": "建築以来六三年余を経た草葺平家建居宅の柱の大半は下部が腐蝕し、屋根には一部雨漏りがあり、周囲の壁も地面に接着する部分において一部くずれ落ち、家屋の傾斜は倒壊をおそれられる状態であり、近隣の人もそれをおそれて警察署に陳情し、その結果警察署の警告が発せられた等原審認定の事実関係のもとで当該家屋が既に朽廃の状況にあつたと判定したことは是認できる。当時右家屋において結婚式や葬式が行われ数十人が危険を感ずることなく集つたことのあつた事実だけで直ちに朽廃に達していなかつたと判定しなければならないことはない。",
+  "lawsuit_id": "65976",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=65976",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/976/065976_hanrei.pdf"
+}

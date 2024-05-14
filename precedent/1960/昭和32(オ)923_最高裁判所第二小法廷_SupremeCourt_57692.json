@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 5,
+    "day": 26
+  },
+  "case_number": "昭和32(オ)923",
+  "case_name": "農地売買契約無効確認等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第15巻5号1404頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 6,
+    "day": 24
+  },
+  "gist": "一　農地の売買契約において「知事の許可を得ることを条件とする」ことの意義\n二　農地の売主が故意に知事の許可を得ることを妨げた場合と民法第一三〇条の類推適用の有無",
+  "case_gist": "一　知事の許可を得ることを条件として農地の売買契約をしたとしても、いわゆる停止条件を附したものということはできない。\n\n二　農地の売主が故意に知事の許可を得ることを妨げたとしても、買主は条件を成就したものとみなすことはできない。",
+  "ref_law": "民法127条，民法130条，農地法3条",
+  "lawsuit_id": "57692",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57692",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/692/057692_hanrei.pdf"
+}

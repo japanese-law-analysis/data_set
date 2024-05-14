@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 6,
+    "day": 14
+  },
+  "case_number": "昭和37(さ)2",
+  "case_name": "道路交通法違反（非常上告）",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "刑集　第16巻7号1245頁",
+  "original_court_name": "水戸簡易裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 8,
+    "day": 31
+  },
+  "gist": "一　原動機付自転車には後写鏡の装置が必要か\n二　起訴状に記載された事実が真実であつても、何らの罪となるべき事実を包含していない場合に、その事実につき略式命令が確定したときと非常上告",
+  "case_gist": "一　原動機付自転車の保安基準について規定した道路運送車両法四四条には、後写鏡については何ら定めがない。従つて原動機付自転車については、後写鏡の装置は必要がないものと解しなければならない。\n二　起訴状に記載された事実が真実であつても、何らの罪となるべき事実を包含していない場合に、その事実につき略式命令が確定したときは、非常上告により原略式命令を破棄し、公訴を棄却すべきである。",
+  "ref_law": "道路運送車両法44条，道路交通法62条，道路交通法119条1項5号，刑訴法339条1項2号，刑訴法458条1号",
+  "lawsuit_id": "50703",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50703",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/703/050703_hanrei.pdf"
+}

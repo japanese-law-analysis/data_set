@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 11,
+    "day": 13
+  },
+  "case_number": "昭和38(オ)725",
+  "case_name": "所得金額審査決定取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第76号85頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 3,
+    "day": 29
+  },
+  "gist": "所得税法に所得推計の明文の置かれた以前における所得推計の適否。",
+  "case_gist": "所得税法に所得推計の規定が置かれる以前においても、信頼しうる調査資料を欠くため所得の実額調査のできない場合に、適当な合理的な推計方法をもつて所得額を算定することは、同法の当然許容していたところと解すべきである。",
+  "ref_law": "所得税法45条",
+  "lawsuit_id": "63916",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63916",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/916/063916_hanrei.pdf"
+}

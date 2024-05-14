@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 5,
+    "day": 20
+  },
+  "case_number": "昭和39(す)365",
+  "case_name": "管轄指定の請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "却下",
+  "article_info": "集刑　第159号761頁",
+  "original_court_name": "最高裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 17,
+    "month": 8,
+    "day": 21
+  },
+  "gist": "日本統治下の朝鮮総督府裁判所が言い渡した有罪の確定判決に対する再審請求の管轄裁判所の指定を最高裁判所に請求することの適否",
+  "case_gist": "大邱覆審法院の如き日本の統治下における朝鮮総督府裁判所令（明治四五年三月一八日制令四号）に基づく裁判所において有罪の言渡を受けた者が、その確定判決に対する再審請求を前提として最高裁判所に管轄指定の請求をなすことを認めた法律の規定がないから、本件請求は不適法である。",
+  "ref_law": "朝鮮総督府裁判所令（明治45年3月18日制令4号），刑訴法16条，刑訴法438条",
+  "lawsuit_id": "58896",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58896",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/896/058896_hanrei.pdf"
+}

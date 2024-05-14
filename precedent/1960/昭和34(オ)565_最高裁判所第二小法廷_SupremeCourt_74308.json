@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 3,
+    "day": 30
+  },
+  "case_number": "昭和34(オ)565",
+  "case_name": "慰藉料請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第59号711頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 3,
+    "day": 14
+  },
+  "gist": "不法行為責任の判定と被侵害権利の種別の明示の要否",
+  "case_gist": "不法行為の責任を判定するためにはいかなる権利が侵害されたかの権利の種別を明示することを要しない。",
+  "ref_law": "民法709条，民法710条",
+  "lawsuit_id": "74308",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74308",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/308/074308_hanrei.pdf"
+}

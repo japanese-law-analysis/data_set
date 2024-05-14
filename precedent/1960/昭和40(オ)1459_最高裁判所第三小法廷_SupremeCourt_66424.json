@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 7,
+    "day": 5
+  },
+  "case_number": "昭和40(オ)1459",
+  "case_name": "不当利得金返還請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第84号13頁",
+  "original_court_name": "札幌高等裁判所\n        　函館支部",
+  "original_case_number": "昭和39(ネ)71",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 9,
+    "day": 30
+  },
+  "gist": "一　双務契約の当事者の一方が債務の履行をしない意思を明らかにした場合と同時履行の抗弁\n二　催告の特定",
+  "case_gist": "一　双務契約の当事者の一方が自己の債務の履行をしない意思を明確にした場合には、相手方が自己の債務の弁済の提供をしなくても、右当事者の一方は、自己の債務の不履行について、履行遅滞の責を免れることをえないものと解するのが相当である（昭和三八年（オ）第三二二号、同四一年三月二二日第三小法廷判決参照）。\n二　特定の取引にもとづいてその目的物件の引渡を催告している以上、数量を示さなくても、その催告は適法である。",
+  "ref_law": "民法533条，民法415条，民法545条",
+  "lawsuit_id": "66424",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66424",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/424/066424_hanrei.pdf"
+}

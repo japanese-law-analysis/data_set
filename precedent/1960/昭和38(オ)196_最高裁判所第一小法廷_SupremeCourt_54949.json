@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 9,
+    "day": 26
+  },
+  "case_number": "昭和38(オ)196",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第17巻8号1040頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 10,
+    "day": 30
+  },
+  "gist": "特別事情の予見可能ありとして、不法行為と損害との間に、相当因果関係の存在が認められた事例。",
+  "case_gist": "自動車運転手甲がガソリンを使用して自動三輪車のクラツチを洗滌するに際し、その作業を助けるため甲の傍近くから電灯を照射している乙がいる等判示の事情の存する場合においては、甲が、自己の過失によりガソリンの入つている罐に引火炎上させ狼狽してこれを投げすてたときは、右炎上したガソリン罐が乙にあたりその衣服を炎上させ乙に火傷を負わせて死にいたらしめるであろうことを予見しうるものであるから、甲の前記クラツチ洗滌行為と乙の死亡との間には相当因果関係が存すると解すべきである。",
+  "ref_law": "民法709条，民法416条2項",
+  "lawsuit_id": "54949",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54949",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/949/054949_hanrei.pdf"
+}

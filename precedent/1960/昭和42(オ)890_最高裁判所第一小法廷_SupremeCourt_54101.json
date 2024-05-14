@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 9,
+    "day": 12
+  },
+  "case_number": "昭和42(オ)890",
+  "case_name": "建物収去土地明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第22巻9号1896頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和41(ネ)269",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 4,
+    "day": 27
+  },
+  "gist": "利害の共通する共同訴訟人間における補助参加関係の成否",
+  "case_gist": "通常の共同訴訟においては、共同訴訟人間に共通の利害関係があるときでも、補助参加の申出をしないかぎり、当然には補助参加をしたと同一の効果を生ずるものではない。",
+  "ref_law": "民訴法61条，民訴法64条，民訴法69条",
+  "lawsuit_id": "54101",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54101",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/101/054101_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 4,
+    "day": 10
+  },
+  "case_number": "昭和36(オ)323",
+  "case_name": "家屋明渡等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第73号71頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 11,
+    "day": 21
+  },
+  "gist": "賃貸人が賃貸借契約解除後その効力を争う賃借人が賃料として供託した金員を受領した場合の効果。",
+  "case_gist": "賃貸人が賃貸借契約解除の意思表示をなした後に、右解除の効力を争う賃借人が右解除の日以降の賃料として供託した金員を受領した場合であつても、右受領により賃貸借の解除の効果を消滅せしめ、もしくはそのときに新たな賃貸借契約を締結したものと認めるべき特別の事情でもあれば格別、却つて右供託金受領の前後を通じて賃貸借契約が解除されたことを主張して家屋明渡訴訟を維持している場合には右解除の効力に影響はない。",
+  "ref_law": "民法494条，民法540条",
+  "lawsuit_id": "63703",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63703",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/703/063703_hanrei.pdf"
+}

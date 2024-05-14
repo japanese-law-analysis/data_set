@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 3,
+    "day": 9
+  },
+  "case_number": "昭和35(オ)918",
+  "case_name": "労働者災害補償保険金不支給処分再審査裁決取消請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第49号203頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 5,
+    "day": 30
+  },
+  "lawsuit_id": "70086",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70086",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/086/070086_hanrei.pdf"
+}

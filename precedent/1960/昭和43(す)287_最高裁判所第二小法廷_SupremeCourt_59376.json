@@ -1,0 +1,22 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 2,
+    "day": 1
+  },
+  "case_number": "昭和43(す)287",
+  "case_name": "裁判解釈の申立および刑執行停止決定の取消の申立",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第170号175頁",
+  "original_court_name": "最高裁判所",
+  "gist": "一　未確定の裁判の解釈を求める申立の適否\n二　刑訴法四四八条二項の刑の執行停止決定の効力は何時まで存続するか",
+  "case_gist": "一　未だ確定していない裁判に対し解釈の申立をなすことは許されない。\n二　刑訴法四四八条二項の刑の執行停止決定は、再審の裁判の言渡によつて効力を失う。",
+  "ref_law": "刑訴法501条，刑訴法448条2項",
+  "lawsuit_id": "59376",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59376",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/376/059376_hanrei.pdf"
+}

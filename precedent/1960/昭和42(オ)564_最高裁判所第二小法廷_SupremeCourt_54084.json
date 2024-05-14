@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 8,
+    "day": 2
+  },
+  "case_number": "昭和42(オ)564",
+  "case_name": "所有権確認請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第22巻8号1571頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和40(ネ)609",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 2,
+    "day": 14
+  },
+  "gist": "登記の欠缺を主張することができないいわゆる背信的悪意者にあたるとされた事例",
+  "case_gist": "甲が乙から山林を買い受けて二三年余の間これを占有している事実を知つている丙が、甲の所有権取得登記がされていないのに乗じ、甲に高値で売りつけて利益を得る目的をもつて、右山林を乙から買い受けてその旨の登記を経た等判示の事情がある場合には、丙はいわゆる背信的悪意者として、甲の所有権取得について登記の欠缺を主張する正当な利益を有する第三者にあたらない。",
+  "ref_law": "民法177条",
+  "lawsuit_id": "54084",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54084",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/084/054084_hanrei.pdf"
+}

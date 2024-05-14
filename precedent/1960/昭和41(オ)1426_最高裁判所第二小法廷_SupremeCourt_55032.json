@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 6,
+    "day": 2
+  },
+  "case_number": "昭和41(オ)1426",
+  "case_name": "家屋明渡など請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第21巻6号1433頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "昭和40(ネ)355",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 9,
+    "day": 26
+  },
+  "gist": "借家法第一条にいう「建物」には建物の一部が含まれるか",
+  "case_gist": "建物の一部であつても、障壁等によつて他の部分と区画され、独占的排他的支配が可能な構造・規模を有するものは、借家法第一条にいう「建物」にあたる。",
+  "ref_law": "借家法1条",
+  "lawsuit_id": "55032",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55032",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/032/055032_hanrei.pdf"
+}

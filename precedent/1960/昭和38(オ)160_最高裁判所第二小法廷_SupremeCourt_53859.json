@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 3,
+    "day": 18
+  },
+  "case_number": "昭和38(オ)160",
+  "case_name": "登記抹消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第20巻3号464頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "昭和34(ネ)265",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 11,
+    "day": 22
+  },
+  "gist": "所有権保存登記およびその後順次経由された所有権移転登記の抹消登記手続請求訴訟において一部の被告に敗訴した場合におけるその余の被告に対する請求についての訴の利益の有無",
+  "case_gist": "所有権保存登記およびその後順次経由された所有権移転登記の抹消登記手続請求訴訟において、最終登記名義人を被告とする請求について敗訴の判決があつた場合でも、その余の被告らに対する請求は訴の利益を失うものではない。",
+  "ref_law": "民訴法226条",
+  "lawsuit_id": "53859",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53859",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/859/053859_hanrei.pdf"
+}

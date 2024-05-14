@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 10,
+    "day": 27
+  },
+  "case_number": "昭和31(オ)686",
+  "case_name": "不動産所有権移転登記手続請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第14巻12号2733頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 5,
+    "day": 31
+  },
+  "gist": "一　民法第五四一条の催告と付遅滞の要否\n二　受領遅滞にある者のする催告の要件。",
+  "case_gist": "一　契約解除の前提としての催告が有効であるためには、少くとも催告と同時に相手方が遅滞に付されることを要する。\n二　双務契約上の債務の受領遅滞にある者が契約解除の前提としての催告をするためには、受領遅滞を解消させた上でこれをしなければならない。",
+  "ref_law": "民法541条，民法413条",
+  "lawsuit_id": "52863",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52863",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/863/052863_hanrei.pdf"
+}

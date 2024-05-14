@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 5,
+    "day": 23
+  },
+  "case_number": "昭和38(あ)2389",
+  "case_name": "横領、詐欺",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第18巻4号166頁",
+  "original_court_name": "福岡高等裁判所\n        　宮崎支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 9,
+    "day": 6
+  },
+  "gist": "累犯となる前科の認定とその証拠摘示の要否。",
+  "case_gist": "累犯となる前科の事実は、審理において適法な証拠調をした証拠によりこれを認定することができる限り、判決においては、その事実を判示すれば足り、必らずしもこれを認定する証拠の標目を挙示するを要しない。",
+  "ref_law": "刑訴法44条1項，刑訴法305条，刑訴法335条1項",
+  "lawsuit_id": "57012",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57012",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/012/057012_hanrei.pdf"
+}

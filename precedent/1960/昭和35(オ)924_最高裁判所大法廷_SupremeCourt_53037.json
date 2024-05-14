@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 10,
+    "day": 30
+  },
+  "case_number": "昭和35(オ)924",
+  "case_name": "貸金請求",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第17巻9号1266頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 4,
+    "day": 8
+  },
+  "gist": "弁護士法第二五条第一号違反の訴訟行為の効力。",
+  "case_gist": "弁護士法第二五条第一号違反の訴訟行為であつても、相手方がこれを知り又は知り得たにもかかわらず異議を述べることなく訴訟手続を進行させ、第二審の口頭弁論が終結したときは、相手方は、後日に至りその無効を主張することは許されないものと解するのが相当である。",
+  "ref_law": "弁護士法25条",
+  "lawsuit_id": "53037",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53037",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/037/053037_hanrei.pdf"
+}

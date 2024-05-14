@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 6,
+    "day": 17
+  },
+  "case_number": "昭和31(オ)524",
+  "case_name": "離婚、損害賠償（本訴）、離婚、慰藉料（反訴）請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第14巻8号1408頁",
+  "original_court_name": "広島高等裁判所\n        　松江支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 4,
+    "day": 13
+  },
+  "gist": "妻の醜業従事が離婚原因とならないとされた事例。",
+  "case_gist": "妻が醜業に従事したことがあつても、原審認定のような事情（原判決理由参照）がある場合は、夫からのこれを理由とする離婚の請求は許されない。",
+  "ref_law": "民法770条",
+  "lawsuit_id": "53548",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53548",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/548/053548_hanrei.pdf"
+}

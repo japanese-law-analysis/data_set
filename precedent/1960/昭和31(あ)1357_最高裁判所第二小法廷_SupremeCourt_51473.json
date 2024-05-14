@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 7,
+    "day": 15
+  },
+  "case_number": "昭和31(あ)1357",
+  "case_name": "詐欺、現住建造物放火幇助",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第14巻9号1152頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 2,
+    "day": 10
+  },
+  "gist": "故意犯（現住建造物放火幇助）と過失犯（失火）との間に公訴事実の同一性の認められた事例。",
+  "case_gist": "被告人に対する本件現住建造物放火幇助の公訴事実と失火の公訴事実（各判文参照）との間には同一性があるものと認むべきである。",
+  "ref_law": "憲法39条，刑訴法312条，刑訴法337条1号，刑法116条，刑法108条，刑法62条",
+  "lawsuit_id": "51473",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51473",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/473/051473_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 2,
+    "day": 25
+  },
+  "case_number": "昭和42(オ)475",
+  "case_name": "贈与売買契約無効確認等請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第94号403頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和38(ネ)792",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 1,
+    "day": 18
+  },
+  "gist": "偽造登記に続いて経由された登記が有効とされた事例",
+  "case_gist": "丁所有の不動産について、登記簿上の所有名義が丁から戊、戊から己に順次移転している場合に、丁から戊への移転登記は、戊において、何ら実質関係がないのに、丁の登記関係書類を偽造して経由したものであつても、その後、丁が右不動産を、己の所有名義とすることを承諾し、己に贈与し、戊が右の趣旨に従つて己のために移転登記を経由したものであるときは、己の登記は有効である。",
+  "ref_law": "民法177条，不動産登記法26条",
+  "lawsuit_id": "70289",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70289",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/289/070289_hanrei.pdf"
+}

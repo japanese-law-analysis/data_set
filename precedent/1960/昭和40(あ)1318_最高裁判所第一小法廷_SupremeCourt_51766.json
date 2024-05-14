@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 4,
+    "day": 21
+  },
+  "case_number": "昭和40(あ)1318",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第20巻4号275頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 3,
+    "day": 13
+  },
+  "gist": "観念的競合犯の公訴時効",
+  "case_gist": "一個の行為が数個の罪名に触れる場合における公訴の時効期間算定については、各別に論ずることなく、これを一体として観察し、その最も重い罪の刑につき定めた時効期間によるのを相当とする。",
+  "ref_law": "刑法54条1項前段，刑訴法250条，公職選挙法（昭和37年法律112号による改正前）253条",
+  "lawsuit_id": "51766",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51766",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/766/051766_hanrei.pdf"
+}

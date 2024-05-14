@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 4,
+    "day": 16
+  },
+  "case_number": "昭和38(オ)1297",
+  "case_name": "建物明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第73号97頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 8,
+    "day": 16
+  },
+  "gist": "無断転貸を理由とする賃貸借契約解除と催告の要否。",
+  "case_gist": "家屋賃借人が賃貸家屋を無断転貸したことを理由に家屋賃貸借契約を解除するには、賃貸人において賃借人に対し予め転貸を中止すべき旨の催告をすることを要しない。",
+  "ref_law": "民法612条",
+  "lawsuit_id": "63870",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63870",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/870/063870_hanrei.pdf"
+}

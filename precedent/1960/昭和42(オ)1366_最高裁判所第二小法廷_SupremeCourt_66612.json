@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 7,
+    "day": 4
+  },
+  "case_number": "昭和42(オ)1366",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第96号17頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和36(ネ)1216",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 9,
+    "day": 18
+  },
+  "gist": "代金支払遅延を理由としてした国の国有財産売払契約の解除が信義則に反するとされた事例",
+  "case_gist": "国有財産たる土地建物の売払契約において、国が代金支払期限を再度にわたつて猶予した後に、代金支払遅滞を理由として右契約を解除した場合であつても、国が契約の相手方の事業目的の達成を積極的に助成する意図のもとに右契約を締結し、契約締結後においても右意図のもとに相手方に対し相当好意的な態度を示してきたなど判示の事情があるときは、右契約解除の意思表示は、信義誠実の原則に反し無効である。",
+  "ref_law": "民法1条2項",
+  "lawsuit_id": "66612",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66612",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/612/066612_hanrei.pdf"
+}

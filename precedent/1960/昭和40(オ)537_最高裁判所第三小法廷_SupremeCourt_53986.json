@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 1,
+    "day": 17
+  },
+  "case_number": "昭和40(オ)537",
+  "case_name": "賃借権確認、賃貸借契約解除無効確認請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第21巻1号1頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和37(ネ)2203",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 2,
+    "day": 25
+  },
+  "gist": "土地の賃貸人が賃借権の譲渡につき承諾をする義務を負う場合と賃借権譲受人の賃貸人に対する借地権取得の主張の可否",
+  "case_gist": "土地の賃貸人が調停の合意により将来一定の条件のもとに賃借権の譲渡について承諾をする義務を負う場合において、賃借人が該合意に基づき承諾を求める手続をつくしたときは、賃貸人の現実の承諾がなくても、賃借権譲受人は賃借権の譲受をもつて賃貸人に対抗することができると解するのが相当である。",
+  "ref_law": "民法612条",
+  "lawsuit_id": "53986",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53986",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/986/053986_hanrei.pdf"
+}

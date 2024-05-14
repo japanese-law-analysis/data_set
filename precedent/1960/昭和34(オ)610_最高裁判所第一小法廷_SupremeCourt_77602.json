@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 5,
+    "day": 24
+  },
+  "case_number": "昭和34(オ)610",
+  "case_name": "建物収去土地明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第60号791頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 3,
+    "day": 13
+  },
+  "gist": "建物所在の地番等の表示を誤つた所有権保存登記に建物保護法上の登記の効力があるとされた事例",
+  "case_gist": "建物の所有権保存登記の表示欄の記載を誤り「ａ町ｂ番のｃ、家屋番号ｄ番」と記載されかつ本屋と附属建物とをとり違えて記載されたところ、その後更正登記がなされ「ａ町ｅ番、ｂ番のｃ、家屋番号ｄ番」と記載しかつ本屋と附属建物とを入れ替えて記載され、両者の表示欄を全体として観察すれば、実質的に同一性を表示しているものと認められる場合には、右保存登記は、右登記の頭初に遡つて、建物保護法第一条第一項の建物の登記としての効力を有する。",
+  "ref_law": "建物保護法1条1項",
+  "lawsuit_id": "77602",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77602",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/602/077602_hanrei.pdf"
+}

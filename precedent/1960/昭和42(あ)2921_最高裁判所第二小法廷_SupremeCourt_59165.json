@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 3,
+    "day": 14
+  },
+  "case_number": "昭和42(あ)2921",
+  "case_name": "背任、横領",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第170号659頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 11,
+    "day": 21
+  },
+  "gist": "横領罪が成立するとされた事例",
+  "case_gist": "一　一審判決認定の事実関係の下で、被告人の所為を横領罪に当るとした原判断は正当である。\n二　（原判断の大要は、次のとおり）「不動産（時価千万円位相当）の所有者からその不動産を担保として銀行から資金の融資を受け、一年以内に礼金（五〇万円位）を添えきれいにして返す旨の約で、一時登記名義を移すために必要な書類等を預かり、移転登記を経て、法律上これを占有した者が、期限内に弁済できる見込がないのにかかわらず、他人から四〇七万円を期限二ケ月半の約で借り受けるにあたり右不動産につき右債務不履行を停止条件とする代物弁済契約をなし、その旨の登記をなすが如きは、原状回復義務の履行不能を予見しつつ不動産を処分するものにほかならず所有者でなければできない処分行為で、横領罪を構成する。」",
+  "ref_law": "刑法252条，刑法247条",
+  "lawsuit_id": "59165",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59165",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/165/059165_hanrei.pdf"
+}

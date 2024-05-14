@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 11,
+    "day": 24
+  },
+  "case_number": "昭和33(オ)544",
+  "case_name": "強制執行異議",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第14巻13号2853頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 3,
+    "day": 7
+  },
+  "gist": "一　仮登記によつて保全された不動産売買予約上の権利の譲渡と対抗要件\n二　売買予約上の権利の譲渡以前になされた仮差押の効力",
+  "case_gist": "一　不動産売買予約上の権利を仮登記によつて保全した場合に、右予約上の権利の譲渡を予約義務者その他の第三者に対抗するためには、仮登記に権利移転の附記登記をすれば足り、債権譲渡の対抗要件を具備する心要はないと解すべきである。\n二　右の場合において、仮登記後附記登記前に第三者により仮差押の登記がなされたとしても、その後右不動産につき売買予約完結の意思表示がなされ、これに基いて所有権移転の本登記がなされた以上、仮差押債権者はその仮差押をもつて所有権取得者に対抗することはできない。",
+  "ref_law": "民法556条，民法467条，不動産登記法2条，不動産登記法7条",
+  "lawsuit_id": "52930",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52930",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/930/052930_hanrei.pdf"
+}

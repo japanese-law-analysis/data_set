@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 6,
+    "day": 27
+  },
+  "case_number": "昭和41(オ)1429",
+  "case_name": "家屋収去、土地明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第91号503頁",
+  "original_court_name": "札幌高等裁判所\n        　函館支部",
+  "original_case_number": "昭和41(ネ)26",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 10,
+    "day": 6
+  },
+  "gist": "業務執行組合員に組合代理が認められるとされた事例",
+  "case_gist": "民法上の組合において、規約に基づいて会長に選任された組合員が、かつて組合を代表して第三者との間で重要な組合財産に関して交換契約を締結し、各組合員において右契約の有効なることを前提として、これによつて得た土地を使用して共同の事業を営んでいた等判示の事実関係のもとにおいては、右組合員は対外的にも総組合員を代理する権限を有していたものと認めるのが相当である。",
+  "ref_law": "民法670条",
+  "lawsuit_id": "70217",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70217",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/217/070217_hanrei.pdf"
+}

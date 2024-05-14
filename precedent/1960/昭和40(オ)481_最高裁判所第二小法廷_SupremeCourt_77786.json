@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 6,
+    "day": 17
+  },
+  "case_number": "昭和40(オ)481",
+  "case_name": "賃借権確認、建物収去土地明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第83号833頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和38(ネ)685",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 1,
+    "day": 18
+  },
+  "gist": "民訴法第三八七条の法意",
+  "case_gist": "民訴法第三八七条は、判決の成立手続が違法な場合を規定しているのであつて、判決内容が弁論主義に違背している場合には適用されない。",
+  "ref_law": "民訴法387条",
+  "lawsuit_id": "77786",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77786",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/786/077786_hanrei.pdf"
+}

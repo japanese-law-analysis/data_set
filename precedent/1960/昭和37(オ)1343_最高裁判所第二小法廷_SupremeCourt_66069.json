@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 12,
+    "day": 27
+  },
+  "case_number": "昭和37(オ)1343",
+  "case_name": "売買契約無効確認等請求同参加",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集民　第70号689頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 8,
+    "day": 8
+  },
+  "gist": "第二審における訴の追加的変更と主文。",
+  "case_gist": "第二審で訴の追加的変更がなされ、右請求が失当と判断される場合には、たまたま第一審判決と主文の文言を同じくするときでも、単に控訴棄却の判決をすべきでなく、右訴訟について請求棄却の判決をすべきである。（しかし、右の場合、第二審判決の理由中に右新請求が失当である旨説示され、控訴棄却の主文が掲げられているときには、右新請求に対しても判決がなされたものと解すべきである。）",
+  "ref_law": "民訴法232条，民訴法384条",
+  "lawsuit_id": "66069",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66069",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/069/066069_hanrei.pdf"
+}

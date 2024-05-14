@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 4,
+    "day": 17
+  },
+  "case_number": "昭和36(オ)1216",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集民　第73号179頁",
+  "original_court_name": "広島高等裁判所\n        　松江支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 8,
+    "day": 25
+  },
+  "gist": "伐倒木の混合が生じたとするにつき審理不尽があるとされた事例。",
+  "case_gist": "山林の立木伐倒による損害賠償請求について、右伐倒木に混合が生じたとするには、如何なる割合で主従の区別があるのか、またはその区別をすることができない場合であるかを明らかにしなければ審理不尽となる。",
+  "ref_law": "民法243条，民法244条，民法245条，民訴法395条6号",
+  "lawsuit_id": "63661",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63661",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/661/063661_hanrei.pdf"
+}

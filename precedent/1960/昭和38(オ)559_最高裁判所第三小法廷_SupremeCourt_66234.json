@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 1,
+    "day": 18
+  },
+  "case_number": "昭和38(オ)559",
+  "case_name": "建物収去土地明渡請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第82号49頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和35(ネ)2211",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 1,
+    "day": 30
+  },
+  "gist": "宅地の一部について賃借権を有する者の換地予定地または仮換地の上に有する使用収益権",
+  "case_gist": "従前の土地の一部について賃借権を有する者は、土地区画整理の施行者から、特別都市計画法の下においては換地予定地について使用収益とすることのできる範囲の指定を、また、土地区画整理法の下においては仮換地について仮りに賃借権の目的となるべき宅地またはその部分の指定をうけなければ、土地所有者との関係においても、換地予定地または仮換地を使用することはできない。",
+  "ref_law": "特別都市計画法13条，特別都市計画法14条，土地区画整理法98条",
+  "lawsuit_id": "66234",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66234",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/234/066234_hanrei.pdf"
+}

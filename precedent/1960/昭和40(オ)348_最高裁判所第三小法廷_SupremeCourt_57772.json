@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 4,
+    "day": 26
+  },
+  "case_number": "昭和40(オ)348",
+  "case_name": "貸金等併合請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第20巻4号849頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和37(ネ)266",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 11,
+    "day": 30
+  },
+  "gist": "農業協同組合の金員貸付が組合の目的の範囲内に属しないとされた事例",
+  "case_gist": "農業協同組合が組合員以外の者に対し、組合の目的事業と全く関係のない土建業の人夫賃の支払のため金員を貸し付けた等原判示の事情（原判決理由参照）のもとにおいては、当該貸付は組合の目的の範囲内に属しないと解すべきである。",
+  "ref_law": "民法43条，農業協同組合法10条",
+  "lawsuit_id": "57772",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57772",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/772/057772_hanrei.pdf"
+}

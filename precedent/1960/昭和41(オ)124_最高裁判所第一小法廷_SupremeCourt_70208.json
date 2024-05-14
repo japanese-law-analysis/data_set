@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 7,
+    "day": 18
+  },
+  "case_number": "昭和41(オ)124",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第91号753頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和38(ネ)3068",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 11,
+    "day": 24
+  },
+  "gist": "建物保護法による対抗力を有しない土地賃借権が当該土地の譲渡により消滅に帰した場合と賃貸人の賃借人に対する不法行為の成否",
+  "case_gist": "建物保護法による対抗力を有しない土賃賃借権がある場合に、賃貸人である土地所有者Ｙが当該土地を他に譲渡し、そのため賃借人Ｘがその賃借人たる地位を土地譲受人甲に対して主張しえなくなつたとしても、これにより債務不履行が成立することのあるのは格別、これをもつて、ただちにＹが違法にＸの権利を侵害したものということはできない。",
+  "ref_law": "民法415条，民法709条",
+  "lawsuit_id": "70208",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70208",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/208/070208_hanrei.pdf"
+}

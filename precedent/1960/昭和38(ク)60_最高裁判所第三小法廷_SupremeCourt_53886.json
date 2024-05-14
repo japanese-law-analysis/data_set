@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 3,
+    "day": 27
+  },
+  "case_number": "昭和38(ク)60",
+  "case_name": "信託法四八条に基づく必要処分に関する決定に対する抗告",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "その他",
+  "article_info": "民集　第17巻2号393頁",
+  "original_court_name": "長野地方裁判所\n        　松本支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 2,
+    "day": 15
+  },
+  "gist": "信託法第四八条にいう「其ノ他必要ナル処分ヲ命スル」裁判に対する不服申立の許否。",
+  "case_gist": "非訴訟事件手続法第七一条ノ五第二項により不服申立が禁止されるのは、信託財産の管理人等の選任または改任の裁判のみであつて、信託法第四八条にいう「其ノ他必要ナル処分ヲ命スル」場合はこれにあたらないものと解すべきである。",
+  "ref_law": "信託法48条，非訟事件手続法20条1項，非訟事件手続法71条ノ5第2項",
+  "lawsuit_id": "53886",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53886",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/886/053886_hanrei.pdf"
+}

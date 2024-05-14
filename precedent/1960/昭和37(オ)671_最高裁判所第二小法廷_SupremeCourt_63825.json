@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 10,
+    "day": 18
+  },
+  "case_number": "昭和37(オ)671",
+  "case_name": "土地所有権確認等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第68号429頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 2,
+    "day": 12
+  },
+  "gist": "確認の利益の有無を争う事実と弁論主義。",
+  "case_gist": "原審において主張なく認定のない事実をもつて原判決の確認の利益に関する判断を非難することは、上告理由として採用できない。",
+  "ref_law": "民訴法225条，民訴法186条",
+  "lawsuit_id": "63825",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63825",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/825/063825_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 5,
+    "day": 4
+  },
+  "case_number": "昭和33(オ)446",
+  "case_name": "農地買収決定取消請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第15巻5号1306頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 2,
+    "day": 17
+  },
+  "gist": "一　行政処分が不存在と認められない事例\n二　行政処分の瑕疵が治癒されたものと認められた事例",
+  "case_gist": "一　村農業委員会の議決を経ないで作成された農地買収計画が公告され、所定の期間縦覧に供され、右期間の満了前に原案どおり買収計画を樹立する旨の委員会の議決が成立し、しかも農地所有者が計画の樹立を知り行政上の不服手段を尽し得たという事実関係の下においては、たとえ、公告当時においては計画樹立につき委員会の議決がなされていなかつたという瑕疵があつても、農地買収計画が存在しなかつたということはできない。\n二　右事実関係の下においては、買収計画の公告当時計画樹立につき委員会の議決がなかつたという瑕疵は、農地所有者に対する関係においては、治癒されたものと解すべきである。",
+  "ref_law": "自作農創設特別措置法6条，行政事件訴訟特例法1条",
+  "lawsuit_id": "57701",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57701",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/701/057701_hanrei.pdf"
+}

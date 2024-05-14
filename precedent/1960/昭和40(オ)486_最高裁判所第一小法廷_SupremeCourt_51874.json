@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 11,
+    "day": 27
+  },
+  "case_number": "昭和40(オ)486",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第23巻11号2265頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和38(ネ)1628",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 1,
+    "day": 28
+  },
+  "gist": "使用者責任と民法七二四条の加害者を知ることの意義",
+  "case_gist": "使用者責任において民法七二四条の加害者を知るとは、被害者が、使用者ならびに使用者と不法行為者との間に使用関係がある事実に加えて、一般人が当該不法行為が使用者の事業の執行につきなされたものであると判断するに足りる事実をも認識することをいうと解するのが相当である。",
+  "ref_law": "民法715条，民法724条",
+  "lawsuit_id": "51874",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51874",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/874/051874_hanrei.pdf"
+}

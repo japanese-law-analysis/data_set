@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 11,
+    "day": 7
+  },
+  "case_number": "昭和43(あ)979",
+  "case_name": "保護者遺棄致死",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第169号355頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 4,
+    "day": 11
+  },
+  "gist": "泥酔者は刑法第二一八条第一項の「病者」にあたるか",
+  "case_gist": "高度の酩酊により身体の自由を失い、他人の扶助を要する状態にある者は、刑法第二一八条第一項の「病者」にあたる。（被告人と情交関係にある被害者が駅前で酔いつぶれているのを見つけ、同人宅に連れ帰える途中、酔をさまさせるため全裸にして田圃中に放置したため、凍死させたという事案）",
+  "ref_law": "刑法218条1項，刑法219条，刑法217条",
+  "lawsuit_id": "59331",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59331",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/331/059331_hanrei.pdf"
+}

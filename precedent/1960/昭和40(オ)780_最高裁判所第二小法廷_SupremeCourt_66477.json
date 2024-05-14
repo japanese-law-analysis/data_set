@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 11,
+    "day": 26
+  },
+  "case_number": "昭和40(オ)780",
+  "case_name": "建物収去土地明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第81号169頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和38(ネ)74",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 3,
+    "day": 30
+  },
+  "gist": "訴訟費用の裁判に対する上告理由の可否",
+  "case_gist": "訴訟費用の裁判に対する上告理由は、本案の裁判に対する上告理由がすべて採用されないときは、採用できない。",
+  "ref_law": "民訴法361条",
+  "lawsuit_id": "66477",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66477",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/477/066477_hanrei.pdf"
+}

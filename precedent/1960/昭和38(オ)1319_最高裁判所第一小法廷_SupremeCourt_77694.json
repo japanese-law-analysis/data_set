@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 6,
+    "day": 2
+  },
+  "case_number": "昭和38(オ)1319",
+  "case_name": "所有権移転登記手続請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第83号675頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "昭和36(ネ)435",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 8,
+    "day": 28
+  },
+  "gist": "一　移転登記請求訴訟の被告から二重譲渡を受けた者は民訴法第二〇一条の承継人にあたるか\n二　仮執行宣言付判決に基づく登記の効力",
+  "case_gist": "一　不動産買受人甲が売渡人乙に対し所有権移転登記手続履践の請求訴訟を起こし、甲勝訴の判決が確定した場合において、乙から同一不動産の二重譲渡を受けた丙が、右訴の事実審の口頭弁論終結後にその所有権移転登記を経たとしても、丙は、前示確定判決について、民訴法第二〇一条第一項の承継人にあたらない。\n二　登記義務者の登記申請意思の陳述を求める請求を認容する判決に誤つて仮執行宣言が付せられ、右仮執行宣言付判決に基づいて登記がなされた場合でも、右判決が確定した後は、右登記を有効と解して妨げない。",
+  "ref_law": "民訴法201条，民法177条，不動産登記法25条",
+  "lawsuit_id": "77694",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77694",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/694/077694_hanrei.pdf"
+}

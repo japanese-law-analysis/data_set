@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 6,
+    "day": 2
+  },
+  "case_number": "昭和37(あ)389",
+  "case_name": "詐欺、有価証券偽造、同行使、横領",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第151号315頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 12,
+    "day": 26
+  },
+  "gist": "刑訴法第四〇〇条但書に違反しないとされた事例。",
+  "case_gist": "第一審が被告人の所為を詐欺の幇助として認定したのに対し、控訴審が被告人質問によつて事実の取調を行なつたうえ、同一の事実関係を前提として、これを詐欺の共同正犯に問擬した措置は、刑訴法第四〇〇条但書の許さないところではない。",
+  "ref_law": "刑訴法400条，刑法246条，刑法60条，刑法62条",
+  "lawsuit_id": "76001",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=76001",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/001/076001_hanrei.pdf"
+}

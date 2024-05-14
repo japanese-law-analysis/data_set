@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 8,
+    "day": 21
+  },
+  "case_number": "昭和33(オ)388",
+  "case_name": "納品代金請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第16巻9号1809頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 2,
+    "day": 5
+  },
+  "gist": "一　債権者の代理人と称して債権を行使する者に対する民法第四七八条の適用の有無\n二　債権の準占有者に対する弁済と弁済者の善意無過失",
+  "case_gist": "一　債権者の代理人と称して債権を行使する者についても民法第四七八条が適用される。\n二　債権の準占有者に対する弁済が有効とされるためには、弁済者が善意かつ無過失であることを要する。",
+  "ref_law": "民法478条",
+  "lawsuit_id": "52923",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52923",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/923/052923_hanrei.pdf"
+}

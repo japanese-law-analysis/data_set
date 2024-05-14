@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 3,
+    "day": 10
+  },
+  "case_number": "昭和39(オ)78",
+  "case_name": "即時和解無効確認請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第82号665頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和38(ネ)157",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 9,
+    "day": 30
+  },
+  "gist": "株式会社が当事者となつてした即決和解の無効確認請求訴訟において、確認の利益がないとされた事例",
+  "case_gist": "株式会社の共同代表取締役の一員であると主張するのみで、他に、右会社が当事者となつてした即決和解の無効確認を求めるにつき、即時確定の利益の存在を肯定するに足る主張のない場合においては、右確認を求める訴は、確認の利益を欠くものと解するのが相当である。",
+  "ref_law": "民訴法225条",
+  "lawsuit_id": "66361",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66361",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/361/066361_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 9,
+    "day": 10
+  },
+  "case_number": "昭和40(オ)60",
+  "case_name": "売買代金返還並損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第80号271頁",
+  "original_court_name": "広島高等裁判所",
+  "original_case_number": "昭和38(ネ)124",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 11,
+    "day": 5
+  },
+  "gist": "民法第五四五条第二項の利息債務の発生と同法第五四六条第五三三条の同時履行の抗弁権の関係",
+  "case_gist": "民法第五四五条第二項の利息債務は、実質は不当利得返還の法理より生ずるもので、同法第五四六条第五三三条所定の同時履行の抗弁権にかかわりなく発生し、ただその債務の履行が右抗弁権の作用をこうむるにすぎないと解すべきである。",
+  "ref_law": "民法545条，民法546条，民法533条，民法415条，民法419条，民法703条",
+  "lawsuit_id": "66458",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66458",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/458/066458_hanrei.pdf"
+}

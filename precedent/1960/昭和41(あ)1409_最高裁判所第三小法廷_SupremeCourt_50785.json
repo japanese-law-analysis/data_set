@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 11,
+    "day": 22
+  },
+  "case_number": "昭和41(あ)1409",
+  "case_name": "詐欺",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第20巻9号1035頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 5,
+    "day": 9
+  },
+  "gist": "犯罪の主観的要素を同種前科の内容によつて認定することの適否",
+  "case_gist": "犯罪の客観的要素が他の証拠によつて認められる事案において、詐欺の故意のごとき主観的要素を、被告人の同種前科の内容によつて認定しても違法でない。",
+  "ref_law": "刑法246条，刑訴法317条",
+  "lawsuit_id": "50785",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50785",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/785/050785_hanrei.pdf"
+}

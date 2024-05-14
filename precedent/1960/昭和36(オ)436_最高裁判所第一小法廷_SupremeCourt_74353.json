@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 1,
+    "day": 28
+  },
+  "case_number": "昭和36(オ)436",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第71号401頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 11,
+    "day": 21
+  },
+  "gist": "控訴審においてした請求の拡張を実質的には附帯控訴であるとして右拡張部分を認容しても不利益変更にならないとされた事例。",
+  "case_gist": "控訴審においてした請求の拡張が、その実質において附帯控訴と認めうるものであり、それに対して相手方が異議を述べず、その方式も民訴法第三七四条、第三六七条に反する点が認められない場合には、右拡張部分を認容しても、不利益変更の原則に違反しない。",
+  "ref_law": "民訴法372条，民訴法374条，民訴法367条，民訴法385条",
+  "lawsuit_id": "74353",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74353",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/353/074353_hanrei.pdf"
+}

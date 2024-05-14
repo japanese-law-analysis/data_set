@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 1,
+    "day": 17
+  },
+  "case_number": "昭和42(し)71",
+  "case_name": "業務上過失致死被告事件の略式命令に対する正式裁判請求棄却決定に対する即時抗告棄却の決定に対する特別抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第22巻1号1頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 10,
+    "day": 31
+  },
+  "gist": "被告人の支配人からの正式裁判請求の適否",
+  "case_gist": "略式手続における代理人または弁護人に該当せず、被告人の法定代理人または保佐人にも該当しない被告人の支配人からの正式裁判請求は不適法である。",
+  "ref_law": "刑訴法353条，刑訴法355条，刑訴法465条，刑訴法467条，刑訴法468条1項，商法38条1項",
+  "lawsuit_id": "50877",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50877",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/877/050877_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 10,
+    "day": 20
+  },
+  "case_number": "昭和41(オ)352",
+  "case_name": "所有権移転登記手続請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第84号615頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和38(ネ)893",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 12,
+    "day": 21
+  },
+  "gist": "競売法による競売手続完了前に抵当権が消滅したがその旨の抹消登記をしなかつた場合と競落人の目的不動産の所有権取得の有無",
+  "case_gist": "競売法による競売手続において、その手続の完了前に競売の基本である抵当権が消滅した場合には、右消滅による抵当権抹消登記手続を経由すると否とを問わず、競落人は目的不動産の所有権を取得できない（昭和三七年（オ）第一一二号同年八月二八日第三小法廷判決、民集一六巻八号一七九九頁参照）。",
+  "ref_law": "競売法2条，民法177条",
+  "lawsuit_id": "66543",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66543",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/543/066543_hanrei.pdf"
+}

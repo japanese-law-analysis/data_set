@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 4,
+    "day": 18
+  },
+  "case_number": "昭和42(あ)2109",
+  "case_name": "有印公文書偽造",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第22巻4号290頁",
+  "original_court_name": "仙台高等裁判所\n        　秋田支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 7,
+    "day": 18
+  },
+  "gist": "利害の相反する被告人らが選任した同一弁護人の出頭のもとでなされた審判の適法性",
+  "case_gist": "刑訴規則第二九条第二項は、国選弁護人についての規定であつて、私選弁護人について規定するものではなく、利害の相反する被告人らが選任した同一の弁護人の出頭のもとで審判がなされたとしても、訴訟法上、これを違法とすべき理由はない。",
+  "ref_law": "刑訴規則29条2項",
+  "lawsuit_id": "50843",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50843",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/843/050843_hanrei.pdf"
+}

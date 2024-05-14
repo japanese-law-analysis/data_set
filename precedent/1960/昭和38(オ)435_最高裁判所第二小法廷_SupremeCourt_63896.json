@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 5,
+    "day": 29
+  },
+  "case_number": "昭和38(オ)435",
+  "case_name": "建物収去土地明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第73号723頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 11,
+    "day": 26
+  },
+  "gist": "一　控訴審における請求の基礎の変更に基づく請求の拡張と相手方が異議を述べなかつた場合の効果。\n二　書面の提出または送達のない訴の変更と責問権の喪失。",
+  "case_gist": "一　控訴審における請求の拡張は、請求の基礎に変更がない場合は勿論、たとえ請求の基礎に変更があつても、相手方が異議なく応訴した場合は許されるべきである。\n二　請求の拡張についての書面の提出または送達の欠缺は、責問権の喪失によつて治癒される。",
+  "ref_law": "民訴法232条",
+  "lawsuit_id": "63896",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63896",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/896/063896_hanrei.pdf"
+}

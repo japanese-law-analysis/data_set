@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 6,
+    "day": 23
+  },
+  "case_number": "昭和42(オ)359",
+  "case_name": "土地家屋所有権移転登記手続請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第87号1229頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和39(ネ)2968",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 12,
+    "day": 23
+  },
+  "gist": "差押にかかる不動産を目的とした代物弁済予約の効力",
+  "case_gist": "滞納処分により差押えられている不動産の目的として代物弁済の予約がされても、予約当事者間においては有効である。",
+  "ref_law": "民法482条，民訴法644条",
+  "lawsuit_id": "70281",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70281",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/281/070281_hanrei.pdf"
+}

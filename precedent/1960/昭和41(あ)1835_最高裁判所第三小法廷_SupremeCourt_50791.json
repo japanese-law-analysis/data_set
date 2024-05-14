@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 11,
+    "day": 28
+  },
+  "case_number": "昭和41(あ)1835",
+  "case_name": "私文書偽造、同行使、詐欺",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第21巻9号1277頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 4,
+    "day": 18
+  },
+  "gist": "共同代表取締役の一人が他の共同代表取締役の署名印章を冒用して共同代表の形でした会社名義の文書の作成と文書偽造罪の成立",
+  "case_gist": "数人の代表取締役が共同して会社を代表する定めがある場合に、その一人が、他の代表取締役の署名もしくは印章を冒用して、共同代表の形で会社名義の文書を作成する行為は、文書偽造罪を構成する。",
+  "ref_law": "刑法159条1項，商法261条2項",
+  "lawsuit_id": "50791",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50791",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/791/050791_hanrei.pdf"
+}

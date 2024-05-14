@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 11,
+    "day": 30
+  },
+  "case_number": "昭和39(オ)1113",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第19巻8号2049頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和37(ネ)1144",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 5,
+    "day": 29
+  },
+  "gist": "被用者の手形偽造行為が民法第七一五条にいう「事業ノ執行ニ付キ」なした行為にあたるとされた事例。",
+  "case_gist": "会社の会計係中の手形係として判示のような手形作成準備事務を担当していた係員が、手形係を免じられた後に会社名義の約束手形を偽造した場合であつても、右係員が、なお会計係に所属して割引手形を銀行に使送する等の職務を担当し、かつ、会社の施設機構および事業運営の実情から、右係員が権限なしに手形を作成することが客観的に容易である状態に置かれている等判示のような事情があるときは、右手形偽造行為は、民法第七一五条にいう「事業ノ執行ニ付キ」なした行為と解するのが相当である。",
+  "ref_law": "民法715条",
+  "lawsuit_id": "53891",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53891",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/891/053891_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 4,
+    "day": 18
+  },
+  "case_number": "昭和36(あ)1346",
+  "case_name": "傷害、殺人",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第147号71頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 5,
+    "day": 4
+  },
+  "gist": "盗犯等ノ防止及処分ニ関スル法律第一条第一項第三号にあたらないとされた事例。",
+  "case_gist": "屋外において喧嘩し住居に引き揚げた者が後を追つて住居に入つてきた相手方と引き続き喧嘩闘争中相手方を殺害したときは、防衛のためにした場合であつても、盗犯等ノ防止及処分ニ関スル法律第一条第一項第三号にあたらない。",
+  "ref_law": "盗犯等ノ防止及び処分ニ関スル法律1条1項3号",
+  "lawsuit_id": "61295",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61295",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/295/061295_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 9,
+    "day": 29
+  },
+  "case_number": "昭和41(オ)158",
+  "case_name": "土地所有権移転登記手続等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第20巻7号1408頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和33(ネ)2757",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 9,
+    "day": 6
+  },
+  "gist": "代物弁済契約の認定に違法があるとされた事例",
+  "case_gist": "契約書に特定不動産をもつて代物弁済をなす旨の記載がなされている場合でも、右不動産の売却代金から原判示の貸金債権を精算のうえ残額を債務者に返還する旨の約定が債権者債務者間になされている等原審認定（原判決理由参照）の事情のもとにおいては、前記代物弁済なる記載に依拠して前記契約が代物弁済契約であると認定することは違法である。",
+  "ref_law": "民法482条",
+  "lawsuit_id": "54017",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54017",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/017/054017_hanrei.pdf"
+}

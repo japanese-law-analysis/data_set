@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 9,
+    "day": 28
+  },
+  "case_number": "昭和37(オ)365",
+  "case_name": "建物収去、土地明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第62号619頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 12,
+    "day": 20
+  },
+  "gist": "所有権取得と民法第一条適用の有無。",
+  "case_gist": "所有権の行使に民法第一条第三項の適用はあるが、所有権の取得に同条項の適用はない。",
+  "ref_law": "民法1条",
+  "lawsuit_id": "63804",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63804",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/804/063804_hanrei.pdf"
+}

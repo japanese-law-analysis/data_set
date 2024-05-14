@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 6,
+    "day": 22
+  },
+  "case_number": "昭和36(あ)139",
+  "case_name": "単純収賄",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第15巻6号1004頁",
+  "original_court_name": "仙台高等裁判所\n        　秋田支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 12,
+    "day": 7
+  },
+  "gist": "金員の貸与を受け賄賂を収受した場合とその金額の追徴。",
+  "case_gist": "公務員たる被告人がその職務に関し金員の貸与を受け賄賂を収受した場合、その金員の没収ができないときは、刑法第一九条第一項第三号、第二項、第一九条ノ二によつて、被告人からその金額を追徴することができる。",
+  "ref_law": "刑法197条ノ5（昭和33年法律107号による改正前197条ノ4），刑法19条1項3号，刑法2項，刑法19条ノ2",
+  "lawsuit_id": "50654",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50654",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/654/050654_hanrei.pdf"
+}

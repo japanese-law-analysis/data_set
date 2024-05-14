@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 9,
+    "day": 24
+  },
+  "case_number": "昭和39(オ)1336",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第19巻6号1668頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和38(ネ)374",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 8,
+    "day": 31
+  },
+  "gist": "動物の占有者が保管者を選任して動物の保管をさせた場合における民法第七一八条の責任。",
+  "case_gist": "動物の占有者は、自己に代つて動物を保管する者を選任してこれに保管をさせた場合において、「動物ノ種類及ビ性質ニ従ヒ相当ノ注意ヲ以テ」その保管者を選任・監督したときは、その動物が他人に加えた損害を賠償する責任を免れるものと解するのが相当である。",
+  "ref_law": "民法718条",
+  "lawsuit_id": "53898",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53898",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/898/053898_hanrei.pdf"
+}

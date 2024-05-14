@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 3,
+    "day": 3
+  },
+  "case_number": "昭和32(オ)1216",
+  "case_name": "家屋明渡等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第15巻3号354頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 9,
+    "day": 28
+  },
+  "gist": "抵当権設定契約とともに停止条件付代物弁済の本契約をすることは許されるか。",
+  "case_gist": "抵当権設定契約とともに停止条件付代物弁済の本契約をすることも許される。",
+  "ref_law": "民法369条，民法482条",
+  "lawsuit_id": "54848",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54848",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/848/054848_hanrei.pdf"
+}

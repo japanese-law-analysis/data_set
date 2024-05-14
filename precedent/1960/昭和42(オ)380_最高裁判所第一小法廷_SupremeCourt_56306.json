@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 12,
+    "day": 14
+  },
+  "case_number": "昭和42(オ)380",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第21巻10号2586頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和40(ネ)1062",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 12,
+    "day": 27
+  },
+  "gist": "賃貸家屋の所有権および未払賃料債権の譲受人が所有権の取得登記前にした右賃料の支払の催告について賃貸借契約の解除の前提としての催告の効力を認めた事例",
+  "case_gist": "賃貸家屋の所有権および未払賃料債権の譲受人が、賃借人に対て、右債権譲渡の通知後に、譲受にかかる賃料の支払を催告した場合には、その後譲受人が右家屋の所有権の取得登記を経由した等判示事実関係のもとにおいては、右催告について、民法第五四一条所定の契約解除の前提としての催告の効力を認めることができる。",
+  "ref_law": "民法541条",
+  "lawsuit_id": "56306",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56306",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/306/056306_hanrei.pdf"
+}

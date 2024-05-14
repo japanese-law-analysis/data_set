@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 11,
+    "day": 13
+  },
+  "case_number": "昭和36(あ)2298",
+  "case_name": "法人税法違反、贈賄",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集刑　第153号45頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 6,
+    "day": 8
+  },
+  "gist": "理由齟齬ないし理由不備の違法があつて刑事訴訟法第四一一条第一号に当るとされた事例。",
+  "case_gist": "「期末原料在庫高を正当とすれば、当該年度における生産量と原料の消費量とが計算上非常にくいちがうことにならざるを得ないのであつて、この点よりするも第一審判決認定の期末原料在庫高は誤りである」との主張に対し、「生産量と消費量とにそのようなくいちがいの存することは記録上否定し得ないけれども、記録にあらわれた被告会社の事業内容その他の状況から見て、それら多額の原料の消費に見合う記帳外の原料の受入れがなかつたとはたやすく断定し難い」として右期末在庫高に関する第一審判決の認定を支持した原判決には理由齟齬ないし理由不備の違法があり、刑事訴訟法第四一一条第一号に当る。",
+  "ref_law": "刑訴法411条1号，刑訴法378条4号，法人税法9条1号",
+  "lawsuit_id": "58725",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58725",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/725/058725_hanrei.pdf"
+}

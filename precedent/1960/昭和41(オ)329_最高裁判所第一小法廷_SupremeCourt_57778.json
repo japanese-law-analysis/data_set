@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 6,
+    "day": 16
+  },
+  "case_number": "昭和41(オ)329",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第20巻5号1046頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和39(ネ)2294",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 12,
+    "day": 22
+  },
+  "gist": "受取人白地の約束手形による手形金請求の許否。",
+  "case_gist": "受取人白地のままの約束手形によつては、手形金の請求をすることはできない。",
+  "ref_law": "手形法10条，手形法38条",
+  "lawsuit_id": "57778",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57778",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/778/057778_hanrei.pdf"
+}

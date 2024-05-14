@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 11,
+    "day": 21
+  },
+  "case_number": "昭和44(オ)714",
+  "case_name": "自動車引渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第97号433頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和39(ネ)540",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 3,
+    "day": 25
+  },
+  "gist": "民法一九二条の適用につき占有取得者に過失があるとされた事例",
+  "case_gist": "質屋営業および金融業を営む甲が乙から軽自動車を金融のため買い受けるにあたり、乙においてこれを丙からいわゆる所有権留保の割賦販売の方法により買い受けその代金を完済していないためいまだ所有権を取得していないものであり、このことについては右軽自動車が一見新車と認めうるものであつたことから甲においても疑問を抱くべきであつたのに、甲は、知人の紹介を受けたほかは、乙の処分の事情および処分権限の有無につきなんら調査をしないで、乙に処分権限があるものと信じ、その引渡を受けたものであるときは、甲の右軽自動車の占有開始につき過失がある。",
+  "ref_law": "民法192条",
+  "lawsuit_id": "61952",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61952",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/952/061952_hanrei.pdf"
+}

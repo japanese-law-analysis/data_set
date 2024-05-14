@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 5,
+    "day": 18
+  },
+  "case_number": "昭和36(あ)2694",
+  "case_name": "窃盗、賍物運搬",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第142号279頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 10,
+    "day": 12
+  },
+  "gist": "刑法第二五条第二項但書の法意",
+  "case_gist": "刑法二五条二項但書の規定が、懲役または禁錮の執行を猶予され且つ猶予の期間中保護観察に付された者に対し、その期間内に犯した罪について、一年以下の懲役または禁錮の刑を言渡す場合においても、その刑の執行を猶予することを得ないとしているのは、かかる犯人には、再度の執行猶予を相当とする情状がないとするによるものであつて、裁判所の裁量を認めないのは、けだし、刑の正当なる適当の基準を定めたものというべきであり、立法政策の問題に過ぎない。",
+  "ref_law": "刑法25条2項但書",
+  "lawsuit_id": "75975",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=75975",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/975/075975_hanrei.pdf"
+}

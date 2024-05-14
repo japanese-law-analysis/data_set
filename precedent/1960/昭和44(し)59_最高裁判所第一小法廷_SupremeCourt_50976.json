@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 9,
+    "day": 18
+  },
+  "case_number": "昭和44(し)59",
+  "case_name": "提出命令に対する特別抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第23巻9号1146頁",
+  "original_court_name": "福岡地方裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 8,
+    "day": 28
+  },
+  "gist": "一　裁判所のした提出命令は刑訴法四二〇条二項にいう押収に関する決定にあたるか\n二　いわゆる付審判請求事件についてなされた提出命令に対する不服申立の方法",
+  "case_gist": "一　裁判所のした提出命令は、刑訴法四二〇条二項にいう押収に関する決定にあたる。\n二　いわゆる付審判請求事件についてなされた提出命令に対しては、刑訴法四一九条による抗告をすることができる。",
+  "ref_law": "刑訴法99条2項，刑訴法420条1項，刑訴法420条2項，刑訴法262条1項，刑訴法352条，刑訴法419条，刑訴法433条",
+  "lawsuit_id": "50976",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50976",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/976/050976_hanrei.pdf"
+}

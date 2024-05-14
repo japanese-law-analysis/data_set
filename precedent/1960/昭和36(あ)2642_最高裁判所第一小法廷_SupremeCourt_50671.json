@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 4,
+    "day": 12
+  },
+  "case_number": "昭和36(あ)2642",
+  "case_name": "道路交通法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第16巻4号387頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 10,
+    "day": 10
+  },
+  "gist": "道路交通法第三三条第一項にいう踏切にあたる事例",
+  "case_gist": "本件琴参踏切（原判決参照）のごとく、いゆる併用軌道が道路を斜に横断し、いわゆる新設軌道に接続しているときは、その道路と交差する部分は、道路交通法第三三条第一項にいう踏切にあたる。",
+  "ref_law": "道路交通法33条1項，軌道建設規程3条",
+  "lawsuit_id": "50671",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50671",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/671/050671_hanrei.pdf"
+}

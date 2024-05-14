@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 8,
+    "day": 24
+  },
+  "case_number": "昭和40(行ツ)24",
+  "case_name": "当選無効裁決取消請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第80号91頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和39(行ケ)1",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 1,
+    "day": 16
+  },
+  "gist": "候補者の氏名のほか「○」印を記載した投票の効力",
+  "case_gist": "候補者の氏名の記載のほか、その上部「○」印を附記した投票を他事記載として無効と解することは、公職選挙法第六七条後段に違反せず、また憲法第一五条の解釈を誤るものではない。",
+  "ref_law": "憲法15条，公職選挙法67条，公職選挙法68条",
+  "lawsuit_id": "66500",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66500",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/500/066500_hanrei.pdf"
+}

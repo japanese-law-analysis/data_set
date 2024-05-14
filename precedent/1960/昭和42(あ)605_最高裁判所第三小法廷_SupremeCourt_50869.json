@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 9,
+    "day": 19
+  },
+  "case_number": "昭和42(あ)605",
+  "case_name": "売春防止法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第21巻7号985頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 2,
+    "day": 22
+  },
+  "gist": "売春防止法第一二条のいわゆる管理売春の罪が成立するとされた事例",
+  "case_gist": "居住場所で旅館を経営する者が、売春婦らとの契約に基づいて、同女らを毎夕ほぼ定刻にその旅館に出勤集合させ、いつでも客の求めに応じうるような態勢で、翌朝三時ごろまで同旅館一階のたまり場において待機させ、その間無断で外出することを許さず、客があれば、みずからこれを売春婦にあてがい、対価の半額を取得して、同旅館二階の客室か又は同所が満員の場合自己の指示する旅館において客に売春をさせていたときは、売春婦らを自己の占有する場所に居住させて売春をさせることを業としたものとして、売春防止法第一二条のいわゆる管理売春の罪が成立する。",
+  "ref_law": "売春防止法12条",
+  "lawsuit_id": "50869",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50869",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/869/050869_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 8,
+    "day": 2
+  },
+  "case_number": "昭和39(行ツ)44",
+  "case_name": "自動車運転免許取消処分の取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第19巻6号1393頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和38(ネ)1524",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 2,
+    "day": 14
+  },
+  "gist": "自動車等運転免許証の有効期間の経過と右運転免許取消処分の取消訴訟における訴の利益の存否。",
+  "case_gist": "自動車等運転免許の取消処分の取消を求める訴訟の継続中、当該運転免許証の有効期間が経過した場合でも、その訴は利益を失われない。",
+  "ref_law": "道路交通法101条，道路交通法105条，行政事件訴訟法9条",
+  "lawsuit_id": "53945",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53945",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/945/053945_hanrei.pdf"
+}

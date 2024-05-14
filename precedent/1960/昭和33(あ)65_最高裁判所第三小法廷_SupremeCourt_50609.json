@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 10,
+    "day": 31
+  },
+  "case_number": "昭和33(あ)65",
+  "case_name": "収賄",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第15巻9号1653頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 12,
+    "day": 12
+  },
+  "gist": "起訴状謄本不送達による公訴棄却の決定がなされた後その確定前に同一の事実についてさらに公訴を提起することは二重起訴にあたるか。",
+  "case_gist": "起訴状謄本不送達による公訴棄却の決定がなされた後、その確定前に同一の事実についてさらに公訴の提起があつた場合、その後右決定が確定したときは、二重の起訴のあつた場合にあたらない。",
+  "ref_law": "刑訴法338条3号，刑訴法339条1項1号，刑訴法339条2項，刑訴法271条",
+  "lawsuit_id": "50609",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50609",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/609/050609_hanrei.pdf"
+}

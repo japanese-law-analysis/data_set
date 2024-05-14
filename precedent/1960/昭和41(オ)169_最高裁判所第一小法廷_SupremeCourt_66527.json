@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 7,
+    "day": 14
+  },
+  "case_number": "昭和41(オ)169",
+  "case_name": "家屋明渡請求事件および附帯控訴",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第84号69頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和36(ネ)292",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 11,
+    "day": 9
+  },
+  "gist": "補償金の提供により借家法第一条ノ二にいわゆる正当の事由を具備したものと認め引換給付の判決をした事例",
+  "case_gist": "旅館を営業する建物賃貸人が新館を増築しながら、賃貸中の建物のうち付属建物部分の存在によつて正面玄関口が利用できないため、物置代りに使用しており、建物賃借人に対して賃貸借の解約申入をしたがその後当事者間で、二年後に右付属建物を明け渡せば六五〇万の補償金を支払う旨合意されたこともあるとともに、賃借人側においても、賃借建物全部の使用を絶対に必要とするとは必ずしもいい難い等原判示の事情（原判決理由参照）があるときは、右解約申入は、補償金として六五〇万円を支払うのと引換えに右付属建物の明渡を求める限度において正当事由を具備するものと判断し、補償金と引換に明渡を命ずる判決をしても違法ではない。",
+  "ref_law": "借家法1条ノ2",
+  "lawsuit_id": "66527",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66527",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/527/066527_hanrei.pdf"
+}

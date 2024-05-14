@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 2,
+    "day": 23
+  },
+  "case_number": "昭和36(オ)502",
+  "case_name": "源泉徴収所得税徴収決定処分無効確認請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第58号945頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 1,
+    "day": 31
+  },
+  "gist": "違憲の判断の必要のない事項について違憲の判断をしたと認められた事例",
+  "case_gist": "所得税法第四二条第三項にいう源泉徴収義務者でない者に対してなされた源泉徴収所得税徴収決定は、同法条の解釈適用をあやまつた違法があるに過ぎないものであるから、裁判所が右の処分は憲法第三〇条、第八四条に違反すると認定したことは、違憲の判断の必要のない事項についてなされた無用な判断というべきである。",
+  "ref_law": "憲法30条，憲法84条，所得税法42条3項",
+  "lawsuit_id": "63714",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63714",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/714/063714_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 10,
+    "day": 29
+  },
+  "case_number": "昭和37(オ)296",
+  "case_name": "ごみ焼場設置条例無効確認等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第18巻8号1809頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 12,
+    "day": 14
+  },
+  "gist": "いわゆる抗告訴訟の対象たる行政庁の公権力行使にあたる行為の要件。",
+  "case_gist": "国または公共団体の行なう行為のうち、それが仮りに違法なものであるとしても、正当な権限を有する機関によつて取り消されまたはその無効が確認されるまでは法律上または事実上有効なものとして取り扱われるものでなければ、いわゆる抗告訴訟の対象たる行政庁の公権力の行使にあたる行為とはいえない。",
+  "ref_law": "行政事件訴訟特例法1条",
+  "lawsuit_id": "53801",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53801",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/801/053801_hanrei.pdf"
+}

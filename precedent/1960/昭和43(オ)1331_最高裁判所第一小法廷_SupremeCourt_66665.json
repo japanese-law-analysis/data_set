@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 4,
+    "day": 3
+  },
+  "case_number": "昭和43(オ)1331",
+  "case_name": "人身保護請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第95号47頁",
+  "original_court_name": "福岡地方裁判所\n        　小倉支部",
+  "original_case_number": "昭和43(人)1",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 12,
+    "day": 3
+  },
+  "gist": "夫婦の一方から他方に対する人身保護法に基づく幼児引渡請求許否の判断基準",
+  "case_gist": "夫婦の一方が他方に対し、人身保護法に基づき、共同親権に服する幼児の引渡を請求した場合には、夫婦のいずれに監護させるのが子の幸福に適するかを主眼として子に対する拘束状態の当不当を定め、その請求の許否を決すべきである。",
+  "ref_law": "人身保護法2条1項，人身保護規則3条，人身保護規則4条",
+  "lawsuit_id": "66665",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66665",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/665/066665_hanrei.pdf"
+}

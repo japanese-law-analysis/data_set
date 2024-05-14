@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 8,
+    "day": 28
+  },
+  "case_number": "昭和39(あ)2588",
+  "case_name": "建造物侵入",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第164号17頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 9,
+    "day": 22
+  },
+  "gist": "建造物侵入罪（不退去罪）が成立するとされた事例",
+  "case_gist": "Ｄ労働組合員約六〇名が、鉄道管理、局係員の制止無視して、午前八時過ぎごろ、管理局庁舎屋上に立入り、屋上から懸垂幕をたらしたり、鉄道旗を掲揚中の柱に組合旗を併わせて掲げたりしたうえ、同庁舎四階から屋上に通ずる出入口の戸を屋上の側から押えて閉鎖し、同管理局関係者の屋上への立入を阻止する態勢をととのえ、次いで同庁舎前に参集した約二〇〇名の組合員らと呼応し一団となつて労働歌を合唱したり、スクラムを組んでデモ行進をしたりして、かなり喧騒をきわめたので、同管理局長が、右屋上参集者に対し、庁舎外への退去を要求したのにかかわらず午前四時ごろまで右屋上にとどまり、庁舎外に退去しなかつたときは、建造物侵入罪（不退去罪）が成立する。",
+  "ref_law": "憲法28条，刑法130条",
+  "lawsuit_id": "61433",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61433",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/433/061433_hanrei.pdf"
+}

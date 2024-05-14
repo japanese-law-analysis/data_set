@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 5,
+    "day": 31
+  },
+  "case_number": "昭和43(オ)236",
+  "case_name": "占有回収請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第91号205頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和41(ネ)827",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 12,
+    "day": 19
+  },
+  "gist": "訴訟告知書が被告知者に送達されなかつた違法と訴訟当事者間における判決の効力",
+  "case_gist": "訴訟告知書が被告知者に送達されなくても、その違法は訴訟当事者間における判決の結論に影響しない。",
+  "ref_law": "民訴法70条，民訴法76条，民訴法77条，民訴法78条",
+  "lawsuit_id": "70329",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70329",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/329/070329_hanrei.pdf"
+}

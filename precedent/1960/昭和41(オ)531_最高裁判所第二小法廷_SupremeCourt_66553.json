@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 3,
+    "day": 3
+  },
+  "case_number": "昭和41(オ)531",
+  "case_name": "競売無効並びに所有権移転登記抹消、競売無効耕作権確認等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第86号427頁",
+  "original_court_name": "広島高等裁判所",
+  "original_case_number": "昭和39(ネ)127",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 12,
+    "day": 6
+  },
+  "gist": "競売による農地の所有権の移転と知事の許可の要否",
+  "case_gist": "競売による農地の所有権の移転についても、農地法第三条第一項本文の規定による知事の許可を受けることを要し、その許可がないかぎり、競落人は当該農地の所有権を取得することができない。",
+  "ref_law": "農地法3条1項，農地法3条4項",
+  "lawsuit_id": "66553",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66553",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/553/066553_hanrei.pdf"
+}

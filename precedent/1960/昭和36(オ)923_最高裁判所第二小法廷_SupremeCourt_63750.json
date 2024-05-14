@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 6,
+    "day": 22
+  },
+  "case_number": "昭和36(オ)923",
+  "case_name": "貸金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第61号363頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 4,
+    "day": 26
+  },
+  "gist": "期日変更につき顕著な事由がないとされた事例。",
+  "case_gist": "控訴審第１回口頭弁論期日変更申請にあたつて提出された診断書に「肋間神経痛のため右胸痛著しく、向後当分安静加療を要するものと認める」旨の記載があるにとどまり、右期日に出頭できない程度の状態かどうかの判定資料のない場合に、右期日変更申請を却下し、即日弁論を終結した点に違法はない。",
+  "ref_law": "民訴法152条",
+  "lawsuit_id": "63750",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63750",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/750/063750_hanrei.pdf"
+}

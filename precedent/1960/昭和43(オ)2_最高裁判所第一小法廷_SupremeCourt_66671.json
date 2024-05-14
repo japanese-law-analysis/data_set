@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 7,
+    "day": 31
+  },
+  "case_number": "昭和43(オ)2",
+  "case_name": "建物収去土地明渡等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第96号429頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和39(ネ)1427",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 9,
+    "day": 14
+  },
+  "gist": "一時使用のため借地権を設定したことが明らかな場合と認めることができるとされた事例",
+  "case_gist": "土地賃貸借契約のさい、都市計画事業の施行による区画整理が予定され、賃貸人においてその実施後の土地を自ら使用する計画を有し、賃借人もこれを諒承し、地上に仮設建物のみを所有しうる一時使用のための賃貸借であることを公正証書に明記して、契約を締結した場合においては、賃借人が前所有者から土地を賃借しその上に建物を所有していて、新所有者との間に賃貸借を継続する趣旨で、右契約が締結されたものであり、当時賃貸人（新所有者）において区画整理実施の時期を予想しえなかつたなど判示の事実関係があつても、一時使用のため借地権を設定したことが明らかな場合にあたるものと認めて妨げないものと解すべきである。",
+  "ref_law": "借地法9条",
+  "lawsuit_id": "66671",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66671",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/671/066671_hanrei.pdf"
+}

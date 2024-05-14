@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 12,
+    "day": 17
+  },
+  "case_number": "昭和43(あ)1260",
+  "case_name": "道路交通法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "刑集　第22巻13号1508頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 5,
+    "day": 24
+  },
+  "gist": "道路標識の設置方法が適切でないため適法かつ有効な右折進行禁止の規制がなされていないものとされた事例",
+  "case_gist": "道路標識は、いかなる車両のいかなる通行を規制するのか容易に判別できる方法で設置すべきものであり、本件右折進行禁止の道路標識のように、その支柱に、形式外観および記載内容において、禁止、制限の対象となる車両の種類等を特定する補助標識とまぎらわしい標示板を取りつけた規制標識（判文参照）によつては、適法かつ有効な右折進行禁止の規制がなされているものとはいえない。",
+  "ref_law": "道路交通法7条1項，道路交通法9条，道路交通法119条1項1号，同法施行令7条，道路標識、区画線及び道路標示に関する命令2条",
+  "lawsuit_id": "50886",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50886",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/886/050886_hanrei.pdf"
+}

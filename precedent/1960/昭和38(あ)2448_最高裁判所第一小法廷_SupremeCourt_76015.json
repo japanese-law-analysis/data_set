@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 6,
+    "day": 25
+  },
+  "case_number": "昭和38(あ)2448",
+  "case_name": "収賄、贈賄、業務上横領、詐欺",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第151号475頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 3,
+    "day": 27
+  },
+  "gist": "船長の職務に密接な行為にあたるとされた事例。",
+  "case_gist": "燃料の油質検査、積込数量の確認は法令に根拠のある船長の職務行為そのものではないが、これらの行為は法令で当該船舶の最高責任者として機関長その他の海員を指揮監督し、航海の安全について一切の責任を持つとされている船長としては、その職務に附随し、実際の慣行により事実上公務員の職務として行うべき当然の行為であつて、賄賂と関連性をもつ職務に密接な行為である。",
+  "ref_law": "刑法197条1項，船員法7条，船員法8条，船員法9条，船員法10条，船舶安全法18条",
+  "lawsuit_id": "76015",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=76015",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/015/076015_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 3,
+    "day": 23
+  },
+  "case_number": "昭和34(あ)1904",
+  "case_name": "麻薬取締法違反、関税法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第14巻4号439頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 9,
+    "day": 17
+  },
+  "gist": "中国語で記載した上告趣意書の適否",
+  "case_gist": "中国語で記載した上告趣意書は不適法である。",
+  "ref_law": "裁判所法74条，刑訴法177条",
+  "lawsuit_id": "51660",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51660",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/660/051660_hanrei.pdf"
+}

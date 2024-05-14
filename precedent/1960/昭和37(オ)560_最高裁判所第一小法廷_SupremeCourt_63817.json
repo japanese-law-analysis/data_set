@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 10,
+    "day": 3
+  },
+  "case_number": "昭和37(オ)560",
+  "case_name": "審決取消請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第68号183頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 2,
+    "day": 20
+  },
+  "gist": "実用新案の新規性がないとされた事例。",
+  "lawsuit_id": "63817",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63817",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/817/063817_hanrei.pdf"
+}

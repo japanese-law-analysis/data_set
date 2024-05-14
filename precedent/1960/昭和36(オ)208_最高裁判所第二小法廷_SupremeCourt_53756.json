@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 12,
+    "day": 13
+  },
+  "case_number": "昭和36(オ)208",
+  "case_name": "所有権確認並びに境界確認請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第17巻12号1696頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 11,
+    "day": 15
+  },
+  "gist": "他人所有地の立木についての取得時効の成否。",
+  "case_gist": "他人の所有する土地に権原によらずして自己所有の樹木を植え付けてその時から右立木のみにつき所有の意思をもつて平穏かつ公然に二〇年間占有した者は、時効により右立木の所有権を取得する。",
+  "ref_law": "民法162条1項",
+  "lawsuit_id": "53756",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53756",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/756/053756_hanrei.pdf"
+}

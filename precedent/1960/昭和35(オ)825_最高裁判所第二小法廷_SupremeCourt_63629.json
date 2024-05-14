@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 6,
+    "day": 8
+  },
+  "case_number": "昭和35(オ)825",
+  "case_name": "契約金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第61号97頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 4,
+    "day": 8
+  },
+  "gist": "一　控訴審における訴の一部取下と主文に表示することの要否\n二　控訴費用負担、仮執行宣言の担保の額の判定権限の性質",
+  "case_gist": "一　控訴審において訴の一部取下が適法になされ、かつ、控訴を棄却する場合には、当該取下部分につき主文で原判の一部取消を言い渡さなくても違法はない。\n二　訴訟費用負担、仮執行宣言の担保判定は、裁判所の自由裁量による。",
+  "ref_law": "民訴法89条，民訴法90条，民訴法91条，民訴法92条，民訴法93条，民訴法186条，民訴法196条，民訴法237条",
+  "lawsuit_id": "63629",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63629",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/629/063629_hanrei.pdf"
+}

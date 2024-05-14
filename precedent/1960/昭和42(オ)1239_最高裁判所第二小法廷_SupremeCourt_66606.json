@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 3,
+    "day": 8
+  },
+  "case_number": "昭和42(オ)1239",
+  "case_name": "所有権移転登記請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第90号611頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和39(ネ)639",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 7,
+    "day": 25
+  },
+  "gist": "債権担保のため順次二口の代物弁済予約が締結された場合において一口につき予約完結権の行使後さらに別口につき予約完結権を行使しうるとされた事例",
+  "case_gist": "将来の債権のため根担保の意味で順次二口の代物弁済予約が締結され、その際予約完結時において消滅させるべき債権額についてなんらの合意がされていない等原判示の事情（原判決理由参照）のもとにおいては、当事者は予約完結権の行使後目的物件を換価または評価してその金額を債権の弁済に充当し、過不足があればその清算をする意思を有するものと解すべきであり、一口について予約完結権を行使しても、その当時該物件の価額が債権額を充たすに足りないときは、該物件の換価処分前でも、さらに別口について予約完結権を行使することができる。",
+  "ref_law": "民法369条，民法482条",
+  "lawsuit_id": "66606",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66606",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/606/066606_hanrei.pdf"
+}

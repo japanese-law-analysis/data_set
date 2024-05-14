@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 1,
+    "day": 28
+  },
+  "case_number": "昭和37(オ)762",
+  "case_name": "債務引受金請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第71号409頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 3,
+    "day": 28
+  },
+  "gist": "組合財産全部の処分には総組合員の合意を要するか。",
+  "case_gist": "組合財産に属する一切の権利義務を譲渡する旨の契約をするには、総組合員の合意を必要とする。",
+  "ref_law": "民法251条，民法668条，民法676条",
+  "lawsuit_id": "74390",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74390",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/390/074390_hanrei.pdf"
+}

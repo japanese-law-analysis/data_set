@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 2,
+    "day": 6
+  },
+  "case_number": "昭和42(オ)902",
+  "case_name": "債務不存在確認本訴、約束手形金反訴請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第90号209頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和40(ネ)625",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 5,
+    "day": 2
+  },
+  "gist": "相互銀行支店長が約束手形を振り出した場合において、受取人が右支店長に手形振出およびその原因たる契約締結の代理権が存在しないことを知つていたときと相互銀行の使用者責任の成否",
+  "case_gist": "相互銀行支店長が約束手形を振り出した場合において、受取人が右支店長に該手形の振出およびその原因関係とされる契約の締結についての代理権が存在しないことを知つていたときは、受取人が右相互銀行に対し民法第七一五条に基づく損害賠償責任を問うことはできない。",
+  "ref_law": "民法715条",
+  "lawsuit_id": "66646",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66646",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/646/066646_hanrei.pdf"
+}

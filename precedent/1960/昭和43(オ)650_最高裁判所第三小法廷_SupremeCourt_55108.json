@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 12,
+    "day": 24
+  },
+  "case_number": "昭和43(オ)650",
+  "case_name": "請求異議",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第22巻13号3454頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和42(ネ)2649",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 3,
+    "day": 6
+  },
+  "gist": "職権による過失相殺と過失の立証責任",
+  "case_gist": "民法第四一八条による過失相殺は、債務者の主張がなくても、裁判所が職権ですることができるが、債権者の過失となるべき事実については、債務者において立証責任を負う。",
+  "ref_law": "民法418条",
+  "lawsuit_id": "55108",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55108",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/108/055108_hanrei.pdf"
+}

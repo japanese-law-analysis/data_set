@@ -1,0 +1,17 @@
+{
+  "trial_type": "IPCase",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 12,
+    "day": 13
+  },
+  "case_number": "昭和42(オ)881",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "right_type": "実用新案権",
+  "lawsuit_type": "民事訴訟",
+  "lawsuit_id": "55088",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail7?id=55088",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/088/055088_hanrei.pdf"
+}

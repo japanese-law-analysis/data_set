@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 11,
+    "day": 10
+  },
+  "case_number": "昭和41(オ)777",
+  "case_name": "約束手形金請求事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第20巻9号1771頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和38(ネ)110",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 4,
+    "day": 30
+  },
+  "gist": "表見代表取締役の行為につき会社が責任を負うためには第三者の無過失を要するか",
+  "case_gist": "表見代表取締役の行為につき会社が責任を負うためには、第三者が善意であれば足り、その無過失を要しない。",
+  "ref_law": "商法262条",
+  "lawsuit_id": "54037",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54037",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/037/054037_hanrei.pdf"
+}

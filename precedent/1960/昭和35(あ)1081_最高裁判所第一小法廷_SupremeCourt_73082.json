@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 9,
+    "day": 29
+  },
+  "case_number": "昭和35(あ)1081",
+  "case_name": "強盗傷人",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第135号503頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 4,
+    "day": 21
+  },
+  "gist": "共謀と刑法第三八条第二項",
+  "case_gist": "一　原判決が判示行為が刑法第二四〇条前段、六〇条に該当するのであるが、被告人は犯行当時恐喝の犯意しかなかつたのであつて、判示Ａの本件所為は被告人の予想しなかつたところであるから被告人に対しては同法三八条二項に従い軽い同法二四九条一項の刑責を負わせることとした判断は正当である。\n二　（註。事案の要旨）被告人は右ＡがＢに因念をつけ金品を喝取するものであることは知つていたが同人等が原判示の如くＢに暴行を加え金員を強取することについては全くこれを知らなかつた。",
+  "ref_law": "刑法38条2項，刑法60条",
+  "lawsuit_id": "73082",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=73082",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/082/073082_hanrei.pdf"
+}

@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 11,
+    "day": 28
+  },
+  "case_number": "昭和38(ひ)2",
+  "case_name": "汽車顛覆致死、同幇助被告事件につきなした上告棄却の判決に対する上訴費用補償の請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "その他",
+  "article_info": "集刑　第149号137頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 8,
+    "day": 8
+  },
+  "lawsuit_id": "58837",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58837",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/837/058837_hanrei.pdf",
+  "contents": ""
+}

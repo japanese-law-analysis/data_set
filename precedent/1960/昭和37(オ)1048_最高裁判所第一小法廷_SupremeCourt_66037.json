@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 4,
+    "day": 18
+  },
+  "case_number": "昭和37(オ)1048",
+  "case_name": "請求に関する異議及び売買代金返還損害賠償請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第65号527頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 6,
+    "day": 21
+  },
+  "gist": "一　建物収去土地明渡を命ずる判決において建物の所在表示の番地が実際の土地の地番と異なつていても、請求異議の理由とならないとされた事例\n二　民訴法第三二三条第一項の法意",
+  "case_gist": "民訴法第三二三条第一項によつて書証の成立が推定されるからといつて、その記載内容が真実に合致することまで推定されるものではない。",
+  "ref_law": "民訴法545条，民訴法323条1項",
+  "lawsuit_id": "66037",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66037",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/037/066037_hanrei.pdf"
+}

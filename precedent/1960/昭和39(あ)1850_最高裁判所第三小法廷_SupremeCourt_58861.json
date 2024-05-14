@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 12,
+    "day": 15
+  },
+  "case_number": "昭和39(あ)1850",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第153号687頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 7,
+    "day": 2
+  },
+  "gist": "復権した前科を量刑に参酌することは憲法第一四条、第三九条に違反するか。",
+  "case_gist": "恩赦法による復権によつては、単に一旦喪失した資格を回復するにとどまり、有罪の言渡に基づく既成の効果が復権によつて変更されるものではないから、刑の量定にあたつて、復権した公職選挙法違反の前科を参酌することは憲法第一四条、第三九条に違反しない。このことは、当裁判所大法廷判例（昭和二四年（れ）第一二六〇号同年一二月二一日宣告、刑集三巻一二号二〇六二頁・昭和二三年（れ）第七〇号同年五月二六日宣告、刑集二巻五号五一七頁・昭和二三年（れ）第四三五号同年一〇月六日宣告、刑集二巻二号一二七五頁）の趣旨に懲し明らかである。",
+  "ref_law": "恩赦法9条，恩赦法10条，恩赦法11条，憲法14条，憲法39条",
+  "lawsuit_id": "58861",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58861",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/861/058861_hanrei.pdf"
+}

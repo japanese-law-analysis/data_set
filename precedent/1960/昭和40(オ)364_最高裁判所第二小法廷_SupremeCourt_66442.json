@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 11,
+    "day": 5
+  },
+  "case_number": "昭和40(オ)364",
+  "case_name": "貸金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第81号37頁",
+  "original_court_name": "高松高等裁判所",
+  "original_case_number": "昭和39(ネ)142",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 12,
+    "day": 24
+  },
+  "gist": "不法行為以外の原因により生じた債権に対し不法行為を原因とする債権をもつて相殺することの許否。",
+  "case_gist": "民法第五〇九条、不法行為以外の原因により生じた債務を負担する者が不法行為による損害賠償債権として相殺することを禁じる趣旨ではないと解すべきである。",
+  "ref_law": "民法509条",
+  "lawsuit_id": "66442",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66442",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/442/066442_hanrei.pdf"
+}

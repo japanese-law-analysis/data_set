@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 2,
+    "day": 2
+  },
+  "case_number": "昭和39(オ)517",
+  "case_name": "強制執行異議",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第77号207頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 12,
+    "day": 23
+  },
+  "gist": "民訴法５４９条にいわゆる強制執行の目的物の譲渡もしくは引渡を妨げる権利を有する者にあたるとされた事例。",
+  "case_gist": "土地占有者から地上建物所有物に対する建物収去土地明渡請求訴訟の口頭弁論終結前に右建物所有者から右建物を賃借し、右所有者を管理人としてこれを占有する者は、民訴法第五四九条にいわゆる強制執行の目的物の譲渡もしくは引渡を妨げる権利を有する者にあたる。",
+  "ref_law": "民訴法549条",
+  "lawsuit_id": "77744",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77744",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/744/077744_hanrei.pdf"
+}

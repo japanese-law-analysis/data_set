@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 7,
+    "day": 20
+  },
+  "case_number": "昭和38(オ)737",
+  "case_name": "薬剤師の薬局開設許可又は許可更新義務不存在確認請求",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第20巻6号1217頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和37(ネ)2557",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 4,
+    "day": 26
+  },
+  "gist": "一　薬剤師の薬局開設に対する許可制と憲法第二二条\n二　薬剤師と医師とについての調剤の規制の差異と憲法第一四条",
+  "case_gist": "一　薬剤師について、厚生大臣の免許のほかに、薬局の開設に対し許可または更新の制度を設け、業務の遂行を規制することは、憲法第二二条に違反しない。\n二　調剤の規制上、薬剤師と医師について異なる取り扱いをすることは、憲法第一四条に違反しない。",
+  "ref_law": "憲法22条，憲法14条，薬事法5条，薬剤師法19条，薬剤師法22条",
+  "lawsuit_id": "53877",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53877",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/877/053877_hanrei.pdf"
+}

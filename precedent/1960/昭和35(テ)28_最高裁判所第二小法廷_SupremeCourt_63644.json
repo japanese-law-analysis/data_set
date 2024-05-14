@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 2,
+    "day": 23
+  },
+  "case_number": "昭和35(テ)28",
+  "case_name": "仮処分異議（特別上告）",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第58号939頁",
+  "original_court_name": "札幌高等裁判所\n        　函館支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 6,
+    "day": 21
+  },
+  "gist": "組合員の過半数の決議による組合財産の処分と憲法第二九条",
+  "case_gist": "組合財産の処分が業務執行としてなされる場合、組合員の過半数を以て決せられるのを原則とすることは民法第六七〇条の明定するところであるから、組合契約上別段の定めがないかぎり、組合員はかかる業務執行を当然のこととして組合契約をしたものとすべく、過半数の決議によつて所有者の意思に反し財産権を奪うことを前提として憲法第二九条違反をいうのは前提を欠く。",
+  "ref_law": "民法670条，憲法29条",
+  "lawsuit_id": "63644",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63644",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/644/063644_hanrei.pdf"
+}

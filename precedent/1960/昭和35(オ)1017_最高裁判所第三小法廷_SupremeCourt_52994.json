@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 12,
+    "day": 12
+  },
+  "case_number": "昭和35(オ)1017",
+  "case_name": "不動産所有権移転登記手続等請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第15巻11号2778頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 6,
+    "day": 16
+  },
+  "gist": "書面によらない贈与を認める判決が確定した後の民法第五五〇条による右贈与の取消の可否。",
+  "case_gist": "書面によらない贈与による権利の移転を認める判決が確定した後は、既判力の効果として民法第五五〇条による取消権を行使して右贈与による権利の存否を争うことは許されない。",
+  "ref_law": "民法550条，民訴法199条，民訴法545条2項",
+  "lawsuit_id": "52994",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52994",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/994/052994_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 10,
+    "day": 9
+  },
+  "case_number": "昭和44(し)62",
+  "case_name": "弁論再開決定に対する特別抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第173号289頁",
+  "original_court_name": "静岡地方裁判所\n        　沼津支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 9,
+    "day": 4
+  },
+  "gist": "弁論再開決定に対する特別抗告の適否",
+  "case_gist": "弁論再開決定のように、訴訟手続に関し判決前にした決定は、刑訴法四三三条一項にいう「この法律により不服を申し立てることができない決定」にあたらないのであるから、本件抗告は不適法である。",
+  "ref_law": "刑訴法331条1項，刑訴法420条1項，刑訴法433条1項",
+  "lawsuit_id": "59505",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59505",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/505/059505_hanrei.pdf"
+}

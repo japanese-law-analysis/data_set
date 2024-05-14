@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 7,
+    "day": 9
+  },
+  "case_number": "昭和37(あ)2444",
+  "case_name": "詐欺、横領、背任",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第17巻6号608頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 10,
+    "day": 15
+  },
+  "gist": "農地を売り渡し、代金を受領した者が、該農地につき県知事の許可前に第三者のためにした抵抗権設定行為と該農地の買主に対する背任罪の成立。",
+  "case_gist": "県知事の許可を条件として農地を売り渡し、代金を受領した者が、右許可前に該農地につき自己の債務の担保として擅に第三者のため抵当権を設定し、その登記を経たときは、該農地の買主に対する背任罪が成立する。",
+  "ref_law": "刑法247条",
+  "lawsuit_id": "51748",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51748",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/748/051748_hanrei.pdf"
+}

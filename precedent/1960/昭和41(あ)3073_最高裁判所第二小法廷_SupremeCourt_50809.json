@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 5,
+    "day": 24
+  },
+  "case_number": "昭和41(あ)3073",
+  "case_name": "強盗致傷、強盗、強盗未遂、窃盗",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第21巻4号576頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 11,
+    "day": 28
+  },
+  "gist": "一　刑訴法第三六一条の要旨\n二　第一審判決に対し被告人および検察官の双方から控訴の申立があり被告人のみこれを取り下げた場合において控訴棄却の判決に対し被告人から上告を申し立てることは許されるか",
+  "case_gist": "一　刑訴法第三六一条は、同一審級においてのみ適用のある規定と解すべきであつて、控訴の放棄または取下をした者が控訴審の判決に対して上告をすることまで禁ずる趣旨のものと解すべきではない。\n二　第一審判決に対し、被告人および検察官の双方から控訴の申立があり、被告人のみこれを取り下げた場合において、控訴審の判決が検察官の控訴を棄却したにとどまるときであつても、被告人から右判決に対し上告を申し立てることは許される。",
+  "ref_law": "刑訴法361条",
+  "lawsuit_id": "50809",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50809",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/809/050809_hanrei.pdf"
+}

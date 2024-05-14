@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 3,
+    "day": 6
+  },
+  "case_number": "昭和38(あ)2501",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第150号709頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 9,
+    "day": 19
+  },
+  "gist": "公職選挙法第二五二条の規定する選挙権および被選挙権の停止を公開法廷において宣告の手続を採らなかつた第一審判決を是認した原判決は憲法違反の違法があると主張する上告の適否。",
+  "case_gist": "論旨は、公職選挙法第二五二条の規定する選挙権および被選挙権の停止は、憲法第三一条にいわゆる刑罰であるから公開法廷においてこれを宣告すべきであるのに、その宣告の手続を採らなかつた一審判決を是認した原判決は、憲法第三一条、第八二条に違反する違法があるというのであるが、右違憲の主張がその前提を欠き採用できないことは既に当裁判所の判例とするところである（昭和三五年一二月二日第二小法廷判決、刑集一四巻一三号一七八六頁参照）。",
+  "ref_law": "公職選挙法252条，憲法31条，憲法82条，刑訴法405条",
+  "lawsuit_id": "58800",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58800",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/800/058800_hanrei.pdf"
+}

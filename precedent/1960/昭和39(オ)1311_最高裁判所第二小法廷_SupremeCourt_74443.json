@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 7,
+    "day": 23
+  },
+  "case_number": "昭和39(オ)1311",
+  "case_name": "家屋収去土地明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第79号959頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和38(ネ)238",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 4,
+    "day": 6
+  },
+  "gist": "借地の悪意の取得者に対しては法定対抗要件を備えなくても借地権を対抗できるか",
+  "case_gist": "借地人が現に建物所有の目的で使用している土地を第三者が悪意で取得したときには、借地人は法定の対抗要件を備えなくても、借地権をもつて右悪意の土地取得者に対抗できる、との見解は採用できない。",
+  "ref_law": "建物保護法1条",
+  "lawsuit_id": "74443",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74443",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/443/074443_hanrei.pdf"
+}

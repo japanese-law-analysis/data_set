@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 5,
+    "day": 25
+  },
+  "case_number": "昭和40(オ)1317",
+  "case_name": "離縁請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第21巻4号937頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和37(ネ)220",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 8,
+    "day": 18
+  },
+  "gist": "特定の住居で宗教活動をしない約束と憲法第二〇条第一項",
+  "case_gist": "特定の住居で布教または祭祀を行なわない旨の私人間の約束は、憲法第二〇条第一項に違反しない。",
+  "ref_law": "憲法20条",
+  "lawsuit_id": "54987",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54987",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/987/054987_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 11,
+    "day": 28
+  },
+  "case_number": "昭和35(オ)133",
+  "case_name": "執行異議請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第17巻11号1554頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 11,
+    "day": 17
+  },
+  "gist": "占有権が民訴第五四九条第一項にいう「引渡ヲ妨クル権利」にあたらないとされた事例",
+  "case_gist": "建物の占有移転禁止、執行吏保管等を命ずる仮処分に対し当該建物について占有権を有することを理由として第三者異議の訴を提起した者が仮処分債権者との間の別訴においてその建物を収去してその敷地を明け渡すべき旨の判決を受け、それが確定したときは、その者は、その建物に対する占有権を有するからといつて、同建物について民訴第五四九条第一項にいう「引渡ヲ妨クル権利」を有するとはいえない。",
+  "ref_law": "民訴法549条1項",
+  "lawsuit_id": "56241",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56241",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/241/056241_hanrei.pdf"
+}

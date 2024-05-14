@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 11,
+    "day": 9
+  },
+  "case_number": "昭和36(あ)10",
+  "case_name": "殺人未遂",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第15巻10号1696頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 11,
+    "day": 17
+  },
+  "gist": "控訴審が検察官の量刑不当を理由とする控訴趣意を認めて第一審判決を破棄し自判する場合と第一審における心神耗弱の主張に対する判断の要否。",
+  "case_gist": "第一審判決の量刑軽きにすぎるとして検察官から控訴の申立がなされた事件において、控訴審が右量刑の点のみについて判断し、第一審判決を破棄して自判する場合には、第一審において弁護人からなされた心神耗弱の主張については判断を加えなくても違法ではない。",
+  "ref_law": "刑訴法355条2項，刑法39条2項",
+  "lawsuit_id": "55831",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55831",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/831/055831_hanrei.pdf"
+}

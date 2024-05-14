@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 11,
+    "day": 28
+  },
+  "case_number": "昭和30(あ)995",
+  "case_name": "関税法違反",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "刑集　第16巻11号1577頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 2,
+    "day": 24
+  },
+  "gist": "一　旧関税法（昭和二九年法律第六一号による改正前の関税法をいう。）第八三条第一項により第三者の所有物を没収することは、憲法第三一条、第二九条に違反するか\n二　第三者所有物の没収の違憲を理由として上告することができる",
+  "case_gist": "一　旧関税法（昭和二九年法律第六一号による改正前の関税法をいう。）第八三条第一項の規定により第三者の所有物を没収することは、憲法第三一条、第二九条に違反する。\n二　前項の場合、没収に言渡を受けた被告人は、たとえ第三者の所有物に関する場合であつても、これを違憲であるとして上告をすることができる。",
+  "ref_law": "旧関税法（昭和29年法律第61号による改正前のもの）第83条，憲法29条，憲法31条，刑訴法405条1号",
+  "lawsuit_id": "56959",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56959",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/959/056959_hanrei.pdf"
+}

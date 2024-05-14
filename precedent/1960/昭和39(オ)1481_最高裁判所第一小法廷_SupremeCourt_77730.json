@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 6,
+    "day": 30
+  },
+  "case_number": "昭和39(オ)1481",
+  "case_name": "土地所有権移転登記手続等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第83号975頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和38(ネ)1949",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 9,
+    "day": 16
+  },
+  "gist": "債権の一部弁済がなされた後でも代物弁済予約完結権行使ができるとされた事例",
+  "lawsuit_id": "77730",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77730",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/730/077730_hanrei.pdf"
+}

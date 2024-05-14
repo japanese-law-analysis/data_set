@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 11,
+    "day": 19
+  },
+  "case_number": "昭和43(オ)52",
+  "case_name": "建物収去土地明渡請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第93号397頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和40(ネ)337",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 10,
+    "day": 26
+  },
+  "gist": "期間一〇年の賃貸借につき一時使用のための借地権と認められた事例",
+  "case_gist": "一時使用の目的で賃借した土地上に建築された仮設建物を買い受けるとともに賃貸人の承諾なしに賃借権の譲渡を受けた者との間で、賃貸人が土地の一部を右譲受人に売却し、他を明け渡す旨の約束ができたが、譲受人が代金を払わないため右売買契約が解除され、そのため右土地の明渡について話合がされ、結局一〇年の賃貸借契約が締結されるに至つたものであるときは、本件建物の外観がバラツクとは認められず、譲受人が右建物において商売を営み、生活の根拠にしており、一〇年の期間中に賃料が逐次値上げされたとの事情があつても、借地法第九条にいう一時使用のための借地権を設定したこと明らかな場合にあたる。",
+  "ref_law": "借地法9条",
+  "lawsuit_id": "70343",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70343",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/343/070343_hanrei.pdf"
+}

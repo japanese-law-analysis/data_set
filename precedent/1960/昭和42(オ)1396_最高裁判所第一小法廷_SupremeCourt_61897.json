@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 11,
+    "day": 27
+  },
+  "case_number": "昭和42(オ)1396",
+  "case_name": "家屋収去土地明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第97号583頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和42(ネ)94",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 9,
+    "day": 28
+  },
+  "gist": "土地賃貸借契約の基礎たる相互の信頼関係が破壊されているとはいえない特段の事情があるとして賃料不払を理由とする解除が許されないとされた事例",
+  "case_gist": "建物所有を目的とする土地賃借人が、一三年間にわたり賃料合計一四万七三九六円のうち一一万七三九六円を延滞していたとしても、賃貸人が解除の意思表示をした当時、その延滞賃料の支払を求める訴訟が調停に付され、その調停が進行中であり、判示のような経緯で遅滞の状態の解消への過程にあつて、そのための努力が払われていた以上、賃貸借契約の基礎たる相互の信頼関係が破壊されているものとはいえず、このような特段の事情のもとにおいては、賃貸人が、賃料不払を理由として賃貸借契約を解除することは許されない。",
+  "ref_law": "民法541条，民法601条",
+  "lawsuit_id": "61897",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61897",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/897/061897_hanrei.pdf"
+}

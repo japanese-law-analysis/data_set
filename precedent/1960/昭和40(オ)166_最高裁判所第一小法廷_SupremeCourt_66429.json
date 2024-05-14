@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 3,
+    "day": 16
+  },
+  "case_number": "昭和40(オ)166",
+  "case_name": "建物明渡等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第86号559頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和38(ネ)793",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 9,
+    "day": 15
+  },
+  "gist": "合一確定訴訟において一請求につき控訴があつた場合に他の請求も移審するか",
+  "case_gist": "甲乙丙間における合一確定が訴訟において、甲が乙丙を相手方として控訴すれば、乙丙間の訴訟も当然控訴審に移審する。",
+  "ref_law": "民訴法62条",
+  "lawsuit_id": "66429",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66429",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/429/066429_hanrei.pdf"
+}

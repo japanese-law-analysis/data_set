@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 12,
+    "day": 23
+  },
+  "case_number": "昭和33(オ)494",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第14巻14号3166頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 12,
+    "day": 24
+  },
+  "gist": "一　訴訟上の相殺の主張の撤回と受働債権につきなされた債務承認の効力\n二　相殺の主張をする訴訟代理人と受働債権につき債務の承認をする権限の有無",
+  "case_gist": "一　訴訟上相殺の主張をするにあたり、受働債権につき時効中断事由たる債務の承認がなされたものと認められる場合、その後相殺の主張が撤回されても承認による時効中断の効力は失われない。\n二　訴訟上相殺の主張をする訴訟代理人は、特別の授権がなくても、受働債権につき債務の承認をする権限があるものと解すべきである。",
+  "ref_law": "民法147条3号，民訴法199条2項，民訴法81条",
+  "lawsuit_id": "54888",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54888",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/888/054888_hanrei.pdf"
+}

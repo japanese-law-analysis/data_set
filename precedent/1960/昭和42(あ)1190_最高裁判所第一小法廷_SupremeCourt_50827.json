@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 10,
+    "day": 12
+  },
+  "case_number": "昭和42(あ)1190",
+  "case_name": "業務上失火",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第21巻8号1083頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 4,
+    "day": 20
+  },
+  "gist": "高圧ガス販売業者のガス器具設置方法に過失があつた場合と業務上失火罪の成否",
+  "case_gist": "高圧ガス販売業者が顧客の店舗内にプロパンガス容器およびその付属設備を設置した場合において、その設置方法に過失があつたため火災を発生させたときは、業務上失火罪が成立する。",
+  "ref_law": "刑法117条ノ2，刑法116条1項",
+  "lawsuit_id": "50827",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50827",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/827/050827_hanrei.pdf"
+}

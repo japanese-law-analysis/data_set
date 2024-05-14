@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 8,
+    "day": 2
+  },
+  "case_number": "昭和40(オ)234",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第80号41頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和38(ネ)2008",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 9,
+    "day": 21
+  },
+  "gist": "控訴審においていわゆる訴の交換的変更がなされた場合と第一審判決取消の適否",
+  "case_gist": "控訴審において訴を変更し、旧訴を取り下げた場合、判決主文において、旧訴を棄却した第一審判決取消の宣言をすることは違法ではない。",
+  "ref_law": "民訴法232条，民訴法386条",
+  "lawsuit_id": "66433",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66433",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/433/066433_hanrei.pdf"
+}

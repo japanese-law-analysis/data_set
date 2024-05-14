@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 7,
+    "day": 8
+  },
+  "case_number": "昭和43(オ)906",
+  "case_name": "債務不存在確認等請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第23巻8号1407頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和41(ネ)751",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 4,
+    "day": 26
+  },
+  "gist": "確定判決に基づく強制執行と不法行為の成否",
+  "case_gist": "確定判決に基づいて強制執行がされた場合においても、右判決の成立過程において、原告が被告の権利を害する意図のもとに、作為または不作為によつて被告の訴訟手続に対する関与を妨げ、あるいは虚偽の事実を主張して裁判所を欺圏する等の不正な行為を行ない、その結果、本来ありうべからざる内容の確定判決を取得してこれを執行し、被告に損害を与えたものであるときは、原告の行為は不法行為を構成するものであつて、被告は、右確定判決に対して再審の訴を提起するまでもなく、原告に対し、右損害の賠償を請求することを妨げない。",
+  "ref_law": "民法709条",
+  "lawsuit_id": "54139",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54139",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/139/054139_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 4,
+    "day": 19
+  },
+  "case_number": "昭和41(オ)846",
+  "case_name": "違法公売にもとづく損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第90号1033頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和39(ネ)842",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 4,
+    "day": 28
+  },
+  "gist": "違法公売にもとづく損害賠償",
+  "case_gist": "判決理由参照。\n\n参照（昭和三五年（オ）第五四号、同年一〇月七日第二小法廷判決、民集一四巻一二号二四二〇頁登載源泉徴収所得税並びに加算税決定取消請求事件）",
+  "ref_law": "国家賠償法1条",
+  "lawsuit_id": "66573",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66573",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/573/066573_hanrei.pdf"
+}

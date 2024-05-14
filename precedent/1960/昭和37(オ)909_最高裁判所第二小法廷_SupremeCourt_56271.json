@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 7,
+    "day": 9
+  },
+  "case_number": "昭和37(オ)909",
+  "case_name": "工事金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第19巻5号1178頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_case_number": "昭和36(ネ)162",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 4,
+    "day": 30
+  },
+  "gist": "債権仮差押と差押とが競合する場合当該債権につき取立命令を得た差押債権者に対する第三債務者の弁済と民法第四八一条の適用の有無。",
+  "case_gist": "債権仮差押と差押とが競合する場合、当該債権につき取立命令を得た差押債権者に対する第三債務者の弁済については、民法第四八一条は適用されず、右弁済は仮差押債権者その他配当に与かるべき者全員に対してもその効力を有するものと解すべきである。",
+  "ref_law": "民法481条，民訴法602条，民訴法621条，民訴法750条3項",
+  "lawsuit_id": "56271",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56271",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/271/056271_hanrei.pdf"
+}

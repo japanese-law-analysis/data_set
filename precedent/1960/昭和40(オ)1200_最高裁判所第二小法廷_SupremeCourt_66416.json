@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 8,
+    "day": 26
+  },
+  "case_number": "昭和40(オ)1200",
+  "case_name": "敷金等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第84号287頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "昭和36(ネ)394",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 7,
+    "day": 15
+  },
+  "gist": "賃貸人と賃借人、不法占有者との間の関係と民法第一八九条第一九〇条の適用の有無",
+  "case_gist": "賃貸人と賃借人ないし不法占有者との間には民法第一八九条、第一九〇条の適用はない。",
+  "ref_law": "民法189条，民法190条，民法607条",
+  "lawsuit_id": "66416",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66416",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/416/066416_hanrei.pdf"
+}

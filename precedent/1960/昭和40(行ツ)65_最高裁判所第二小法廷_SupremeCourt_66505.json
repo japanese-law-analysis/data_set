@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 4,
+    "day": 12
+  },
+  "case_number": "昭和40(行ツ)65",
+  "case_name": "実用新案権利範囲確認審判審決取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第90号995頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和38(行ナ)191",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 5,
+    "day": 11
+  },
+  "gist": "実用新案における構造の類否判定の基準",
+  "case_gist": "実用新案における構造の類否の判断にあたつて必然的にその構造を結果した目的および作用効果をも考慮することを許されないものではない。",
+  "ref_law": "旧実用新案法（大正10年法律第97号）1条",
+  "lawsuit_id": "66505",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66505",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/505/066505_hanrei.pdf"
+}

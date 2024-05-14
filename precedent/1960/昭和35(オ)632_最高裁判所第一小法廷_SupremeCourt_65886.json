@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 11,
+    "day": 22
+  },
+  "case_number": "昭和35(オ)632",
+  "case_name": "請求異議",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集民　第63号281頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 1,
+    "day": 27
+  },
+  "gist": "利息制限法所定の限度をこえた利息または損害金の任意支払と残存元本への充当。",
+  "case_gist": "債務者が債権者に対して利息または損害金として利息制限法所定の限度をこえた金額を任意に支払つた場合に、その超過部分が残存元本に充当したものと解されるべきではない。",
+  "ref_law": "利息制限法1条，利息制限法4条",
+  "lawsuit_id": "65886",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=65886",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/886/065886_hanrei.pdf"
+}

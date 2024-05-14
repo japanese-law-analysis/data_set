@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 10,
+    "day": 2
+  },
+  "case_number": "昭和34(あ)639",
+  "case_name": "贈賄",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第144号687頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 1,
+    "day": 27
+  },
+  "gist": "一、刑訴法第九条の法意\n二、事物および土地管轄を同じくする数個の事件に対する弁論の併合分離と第一審裁判所の裁量権",
+  "case_gist": "一、刑訴法第九条は、事物ないし土地管轄を異にする数個の事件につき、審判の併合等をなしうる場合を示したものである。\n二、刑訴法第九条の関係はないが事物および土地管轄を同じくする数個の事件に対する検察官の併合起訴を相当として弁論併合の上審理を進めるか、弁論を分離するかは、原則として第一審裁判所の裁量事項である。",
+  "ref_law": "刑訴法3条，刑訴法4条，刑訴法5条，刑訴法6条，刑訴法7条，刑訴法8条，刑訴法9条，刑訴法313条",
+  "lawsuit_id": "61211",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61211",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/211/061211_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 6,
+    "day": 23
+  },
+  "case_number": "昭和37(オ)444",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第18巻5号842頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 1,
+    "day": 31
+  },
+  "gist": "立木の不法伐採による損害賠償額算定の基準。",
+  "case_gist": "甲が山林を通常の方法すなわち該山林の立木をその適正伐採期において伐採収穫する方法により経営していた場合において、乙が右事実を知りながら該立木を不法に伐採したときは、乙の甲に対する損害賠償額の範囲は、特段の事情がないかぎり、右適正伐採期における立木の価額によつて算定すべきである。",
+  "ref_law": "民法709条，民法416条2項",
+  "lawsuit_id": "53807",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53807",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/807/053807_hanrei.pdf"
+}

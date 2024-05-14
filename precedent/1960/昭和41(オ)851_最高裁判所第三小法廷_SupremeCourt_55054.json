@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 5,
+    "day": 30
+  },
+  "case_number": "昭和41(オ)851",
+  "case_name": "第三者異議",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第21巻4号1011頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和40(ネ)448",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 5,
+    "day": 11
+  },
+  "gist": "動産の競落と民法第一九二条の適用の有無",
+  "case_gist": "執行債務者の所有に属さない動産が強制競売に付された場合であつても、競落人は、民法第一九二条によつて右動産の所有権を取得することができる。",
+  "ref_law": "民法192条，民訴法577条",
+  "lawsuit_id": "55054",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55054",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/054/055054_hanrei.pdf"
+}

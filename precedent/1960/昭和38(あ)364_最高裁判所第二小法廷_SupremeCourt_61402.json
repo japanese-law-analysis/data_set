@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 7,
+    "day": 12
+  },
+  "case_number": "昭和38(あ)364",
+  "case_name": "窃盗未遂、横領、詐欺、銃砲刀剣類等所持取締法違反、兇器準備集合",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第147号847頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 12,
+    "day": 26
+  },
+  "gist": "相手が襲撃して来た際にはこれを迎撃し、相手を共同して殺傷する目的を以て兇器を準備して身内の者とともに集合した場合の擬律と刑法第三六条。",
+  "case_gist": "原判決が「相手が襲撃して来た際にはこれを迎撃し、相手を共同して殺傷する目的を以て兇器を準備して身内の者とともに集合した」被告人の本件所為を兇器準備集合罪に当るとしたのは正当である。被告人の所為が積極的にいわゆる殴り込みをかけようとしたのではなく相手の襲撃を防ぐためであつたとしても、これを迎撃して相手を殺傷する目的があつた以上、正当防衛の観念を容れる余地はない。",
+  "ref_law": "刑法208条ノ2，刑法36条",
+  "lawsuit_id": "61402",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61402",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/402/061402_hanrei.pdf"
+}

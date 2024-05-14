@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 6,
+    "day": 18
+  },
+  "case_number": "昭和38(オ)223",
+  "case_name": "健康保険厚生年金保険被保険者資格取得確認処分無効確認請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第79号413頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和36(ネ)159",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 10,
+    "day": 26
+  },
+  "gist": "健康保険法および厚生年金保険法の規定に基づく被保険者資格取得確認の基準日。",
+  "case_gist": "健康保険法および厚生年金保険法の規定に基づき保険者または都道府県知事が行なう被保険者資格取得の確認の基準日は、被保険者が適用事業所に使用されるにいたつた日であつて、事業主の届出の日ないし確認の日ではない。",
+  "ref_law": "健康保険法17条，健康保険法21条ノ2，厚生年金保険法13条，厚生年金保険法18条",
+  "lawsuit_id": "74409",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74409",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/409/074409_hanrei.pdf"
+}

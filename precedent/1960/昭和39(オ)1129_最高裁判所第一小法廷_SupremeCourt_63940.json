@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 11,
+    "day": 19
+  },
+  "case_number": "昭和39(オ)1129",
+  "case_name": "人身保護請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "却下",
+  "article_info": "集民　第76号217頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 8,
+    "day": 27
+  },
+  "gist": "人身保護法第二一条の判決には決定をも含むか。",
+  "case_gist": "人身保護法第二一条の判決には、決定を包含されない。",
+  "ref_law": "人身保護法21条",
+  "lawsuit_id": "63940",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63940",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/940/063940_hanrei.pdf"
+}

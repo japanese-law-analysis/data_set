@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 5,
+    "day": 22
+  },
+  "case_number": "昭和34(あ)126",
+  "case_name": "関税法違反、物品税法違反、贈賄、公正証書原本不実記載、同行使",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第17巻4号457頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 12,
+    "day": 2
+  },
+  "gist": "関税法第一一八条にいわゆる犯人の意義。",
+  "case_gist": "関税法第一一八条にいわゆる犯人には、行為者のみならず、いわゆる両罰規定により処罰される法人または人をも包含するものと解するのを相当とする。",
+  "ref_law": "関税法118条1項，関税法118条2項，関税法117条，刑法8条，刑法9条，刑法20条",
+  "lawsuit_id": "51645",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51645",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/645/051645_hanrei.pdf"
+}

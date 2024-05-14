@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 2,
+    "day": 19
+  },
+  "case_number": "昭和32(オ)303",
+  "case_name": "貸金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第14巻2号250頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 12,
+    "day": 20
+  },
+  "gist": "民法第一一〇条の基本代理権が認められないとされた事例。",
+  "case_gist": "勧誘外交員を使用して一般人を勧誘し、金員の借入をしていた会社の勧誘員甲が、事実上長男乙をして一切の勧誘行為にあたらせて来たというだけでは、乙を甲の代理人として民法第一一〇条を適用することはできない。",
+  "ref_law": "民法110条",
+  "lawsuit_id": "53582",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53582",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/582/053582_hanrei.pdf"
+}

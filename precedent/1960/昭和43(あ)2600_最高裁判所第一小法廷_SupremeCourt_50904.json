@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 5,
+    "day": 22
+  },
+  "case_number": "昭和43(あ)2600",
+  "case_name": "業務上過失死傷",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第23巻6号918頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 10,
+    "day": 21
+  },
+  "gist": "道路交通法三六条二項、三項にいう「交通整理の行なわれていない交差点」にあたるとされた事例",
+  "case_gist": "一方の道路からの入口に黄色の燈火による点滅信号が作動しており、他方の道路からの入口に赤色の燈火による点滅信号が作動している交差点は、道路交通法三六条二項、三項にいう「交通整理の行なわれていない交差点」にあたる。",
+  "ref_law": "道路交通法36条2項，道路交通法36条3項，道路交通法施行令2条1項",
+  "lawsuit_id": "50904",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50904",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/904/050904_hanrei.pdf"
+}

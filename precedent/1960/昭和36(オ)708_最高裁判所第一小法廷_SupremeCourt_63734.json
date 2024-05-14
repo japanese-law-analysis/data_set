@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 2,
+    "day": 20
+  },
+  "case_number": "昭和36(オ)708",
+  "case_name": "所有権移転登記手続等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第72号215頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 3,
+    "day": 30
+  },
+  "gist": "一　訴状の送達の時に代物弁済の予約完結権の行使があつたものと認められた事例\n二　被担保債務の一部の内入弁済と代物弁済の予約完結権",
+  "case_gist": "一　訴状において停止条件附代物弁済契約の条件成就による所有権取得の効果の主張のみが記載されている場合においても、原告がその後の弁論において、代物弁済の予約の主張を追加してその予約の完結権行使が訴状の送達をもつてされた旨主張したときには、その訴状送達の時に右予約完結権の行使があつたものと認めることができる。\n二　貸金担保のための代物弁済の予約において、被担保債務に対し一割に満たない一部の内入弁済があつても、特別の事情のないかぎり、その予約完結権は消滅しないものと解するのが相当である。",
+  "ref_law": "民法482条（556条），民訴法229条1項",
+  "lawsuit_id": "63734",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63734",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/734/063734_hanrei.pdf"
+}

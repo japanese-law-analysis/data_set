@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 3,
+    "day": 15
+  },
+  "case_number": "昭和28(オ)110",
+  "case_name": "裁決取消請求",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第15巻3号467頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 12,
+    "day": 16
+  },
+  "gist": "高等海難審判庁の海難原因を明らかにする裁決の取消を求める訴の適否。",
+  "case_gist": "高等海難審判庁の海難原因を明らかにする裁決の主文で、海難について過失があるとされた者も、裁決の取消を求める訴を提起することはできない。",
+  "ref_law": "海難審判法4条，海難審判法53条",
+  "lawsuit_id": "54802",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54802",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/802/054802_hanrei.pdf"
+}

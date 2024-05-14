@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 6,
+    "day": 3
+  },
+  "case_number": "昭和44(オ)190",
+  "case_name": "家賃債権不存在確認請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第95号475頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和43(ネ)1710",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 12,
+    "day": 21
+  },
+  "gist": "賃料債権譲渡と仮登記後の中間処分",
+  "case_gist": "賃貸中の建物につき売買契約に基づく所有権移転請求権保全の仮登記が経由された後に、仮登記義務者が賃料債権を第三者に譲渡しても、右賃料債権譲渡は、右仮登記に基づく所有権移転の本登記が経由されたことによつて、その効力を否定されるものではない。",
+  "ref_law": "不動産登記法7条2項，民法466条",
+  "lawsuit_id": "66718",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66718",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/718/066718_hanrei.pdf"
+}

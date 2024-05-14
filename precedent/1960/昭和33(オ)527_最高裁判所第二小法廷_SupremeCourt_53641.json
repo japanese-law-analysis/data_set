@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 5,
+    "day": 31
+  },
+  "case_number": "昭和33(オ)527",
+  "case_name": "所有権確認請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第17巻4号570頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 4,
+    "day": 4
+  },
+  "gist": "民法第二九八条第三項の法意。",
+  "case_gist": "留置権者が民法第二九八条第一項および第二項の規定に違反したときは、当該留置場の所有者は、当該違反行為が終了したかどうか、またこれによつて損害を受けたかどうかを問わず、当該留置権の消滅を請求することができるものと解するのが相当である。",
+  "ref_law": "民法298条",
+  "lawsuit_id": "53641",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53641",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/641/053641_hanrei.pdf"
+}

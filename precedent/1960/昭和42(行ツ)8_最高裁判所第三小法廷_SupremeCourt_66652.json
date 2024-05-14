@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 9,
+    "day": 2
+  },
+  "case_number": "昭和42(行ツ)8",
+  "case_name": "農地買収無効確認等請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第96号475頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和40(行コ)9",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 9,
+    "day": 19
+  },
+  "gist": "被相続人である死者を所有者と表示していた農地買収処分が相続人に対する処分と看做しうるとされた事例",
+  "case_gist": "農地所有者が死亡し家督相続によつてその所有権が相続人に移転した場合において、公簿上の所有者である被相続人を所有者と表示して樹立した買収計画および同人を所有者と表示した買収令書による買収処分であつても、地区農地委員会および知事が、ともに真の所有者である相続人を相手方とする意思で手続を進めたものであり、相手方においても、受領した買収令書の備考欄に一字間違つてはいるが相続人の氏名が記載されていた等の事情（判文参照）から、自己の所有に属する農地について買収処分がなされたことを知りまたは知りうべき状態にあつた場合には、実質上相続人を相手方とする農地買収処分があつたものと看做すことができる。",
+  "ref_law": "自作農創設特別措置法9条",
+  "lawsuit_id": "66652",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66652",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/652/066652_hanrei.pdf"
+}

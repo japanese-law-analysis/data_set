@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 1,
+    "day": 29
+  },
+  "case_number": "昭和38(オ)765",
+  "case_name": "売掛代金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第77号173頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 4,
+    "day": 17
+  },
+  "gist": "売掛代金債権の存在を判定するに当り確定することを要する事実。",
+  "case_gist": "売掛代金債権の存在を判定するに当つては、必ずしも、逐一その売買品目、単価等を明示することを要するものでなく、当該債権を他の債権から区別しうる程度の事実を確定すれば足りる。",
+  "ref_law": "民法555条，民訴法395条6号",
+  "lawsuit_id": "77716",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77716",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/716/077716_hanrei.pdf"
+}

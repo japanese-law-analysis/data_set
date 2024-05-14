@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 7,
+    "day": 16
+  },
+  "case_number": "昭和39(オ)1034",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第79号883頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和36(ネ)998",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 6,
+    "day": 24
+  },
+  "gist": "訴訟行為の追認",
+  "case_gist": "弁護士甲が第一審において乙の適法な訴訟代理権を有しなかつたとしても、控訴人乙から適法な委任を受けた弁護士丙が控訴審において乙の訴訟代理人として当該訴訟の本案について弁論をし、訴訟を進行し、判決を受けたときは、丙は甲の従前の訴訟行為全部を追認したものというべきである。",
+  "ref_law": "民訴法87条，民訴法54条",
+  "lawsuit_id": "74430",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74430",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/430/074430_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 7,
+    "day": 20
+  },
+  "case_number": "昭和37(あ)1628",
+  "case_name": "詐欺、有価証券偽造、同行使",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "刑集　第20巻6号677頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 6,
+    "day": 13
+  },
+  "gist": "刑訴法第二〇条第七号にいう前審の「裁判の基礎となつた取調に関与した」ときに当るとして除斥理由が認められた事例。",
+  "case_gist": "ある裁判官が第一審裁判官としてその公判期日に証拠（判文参照）の取調をなし、該証拠が第一審判決の罪となるべき事実の認定の用に供されているときは、その裁判官は、刑訴法第二〇条第七号にいう前審の「裁判の基礎となつた取調に関与した」者としてその事件の控訴審における職務の執行から除斥される。",
+  "ref_law": "刑訴法20条7号",
+  "lawsuit_id": "51744",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51744",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/744/051744_hanrei.pdf"
+}

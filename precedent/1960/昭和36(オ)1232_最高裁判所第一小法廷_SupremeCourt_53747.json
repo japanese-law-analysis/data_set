@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 7,
+    "day": 16
+  },
+  "case_number": "昭和36(オ)1232",
+  "case_name": "報酬金請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第18巻6号1160頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 8,
+    "day": 7
+  },
+  "gist": "不動産売買仲介の依頼が合意解除された場合における不動産取引仲介業者の報酬請求権。",
+  "case_gist": "不動産取引仲介業者に対する不動産売買仲介の依頼が合意解除された後、当事者間の直接取引により右不動産を目的とする売買契約が成立した場合においても、右業者の仲介と当該売買契約成立との間に因果関係がなく、右解除も故意に右業者を除外する目的でなされたものでなく、かつ、右依頼に関して報酬金の特約もなかつたときに、右業者が報酬金を請求できるという一般取引観念が存するものとは認められない。",
+  "ref_law": "商法512条，商法550条1項，商法546条，宅地建物取引業法17条，民法648条3項，民法641条",
+  "lawsuit_id": "53747",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53747",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/747/053747_hanrei.pdf"
+}

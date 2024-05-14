@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 12,
+    "day": 23
+  },
+  "case_number": "昭和35(オ)662",
+  "case_name": "貸金並びに物品代金請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第19巻9号2306頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和33(ネ)362",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 1,
+    "day": 28
+  },
+  "gist": "一　外国為替及び外国貿易管理法第二八条第三〇条外国為替管理令第一一条第一三条に違反する行為の私法上の効力。\n二　支払につき同法第二八条同令第一一条による大蔵大臣の許可を受けていない債務の履行期が到来した場合と債務不履行による損害賠償義務の存否。",
+  "case_gist": "一　外国為替及び外国貿易管理法第二八条、第三〇条、外国為替管理令第一一条、第一三条に違反する行為は、刑事法上違法ではあるが、私法上は有効である。\n二　支払につき同法第二八条、同令第一一条による大蔵大臣の許可を受けていない場合でも、当該債務について当事者間の約定の債務の履行期が到来したときは、債務者は、無条件で債務不履行による損害を賠償する義務を負う。",
+  "ref_law": "外国為替及び外国貿易管理法28条，外国為替及び外国貿易管理法30条，外国為替管理令11条，外国為替管理法13条，民法415条",
+  "lawsuit_id": "53722",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53722",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/722/053722_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 5,
+    "day": 25
+  },
+  "case_number": "昭和41(あ)2022",
+  "case_name": "器物損壊、境界毀損",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "刑集　第21巻4号705頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 7,
+    "day": 19
+  },
+  "gist": "控訴審における訴因罰条の追加と第一審判決破棄の適否",
+  "case_gist": "第一審当時の訴因罰条からみて、第一審判決になんら誤りが見いだされないのに、控訴審において新たに追加された訴因罰条が認められることを理由として、控訴審裁判所が、第一審判決を破棄することは許されない。",
+  "ref_law": "刑訴法404条，刑訴法312条1項，刑訴法396条，刑訴法397条，刑訴法380条",
+  "lawsuit_id": "50796",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50796",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/796/050796_hanrei.pdf"
+}

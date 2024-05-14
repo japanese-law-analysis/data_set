@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 12,
+    "day": 22
+  },
+  "case_number": "昭和40(オ)632",
+  "case_name": "共有物分割請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第85号795頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "昭和39(ネ)141",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 2,
+    "day": 17
+  },
+  "gist": "共有者の換地予定地使用権につき裁判所に分割を請求することの可否",
+  "case_gist": "土地の共有者は、その共有する換地予定地使用権の分割を裁判所に請求することができる。",
+  "ref_law": "民法256条，民法264条，土地区画整理法99条",
+  "lawsuit_id": "66460",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66460",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/460/066460_hanrei.pdf"
+}

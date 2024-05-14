@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 4,
+    "day": 17
+  },
+  "case_number": "昭和35(オ)1444",
+  "case_name": "学校法人設立無効確認等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第73号111頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 10,
+    "day": 7
+  },
+  "gist": "私立学校法附則第二項による私立学校の組織変更の無効確認の訴を提起するためには、予め右組織変更の認可の取消の訴願裁決を経ることを要するか。",
+  "case_gist": "私立学校法附則第三項により私立学校の組織変更につき所轄庁の認可がなされた場合に、右認可の取消につき訴願の裁決を経なくても、右組織変更の無効確認の訴を提起することができる。",
+  "ref_law": "私立学校法附則2項，私立学校法附則3項",
+  "lawsuit_id": "63552",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63552",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/552/063552_hanrei.pdf"
+}

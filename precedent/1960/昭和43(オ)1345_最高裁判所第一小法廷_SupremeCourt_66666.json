@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 6,
+    "day": 19
+  },
+  "case_number": "昭和43(オ)1345",
+  "case_name": "建物収去土地明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第95号515頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和40(ネ)516",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 12,
+    "day": 25
+  },
+  "gist": "建物保護ニ関スル法律一条二項（昭和四一年法律第九三号による削除前のもの）は建物の朽廃以外の滅失の場合にも適用があるか",
+  "case_gist": "建物保護に関する法律一条二項（昭和四一年法律第九三号による削除前のもの）は、建物の朽廃以外の滅失の場合にも適用がある。",
+  "ref_law": "建物保護ニ関スル法律1条2項（昭和41年法律93号による削除前のもの）",
+  "lawsuit_id": "66666",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66666",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/666/066666_hanrei.pdf"
+}

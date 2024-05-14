@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 8,
+    "day": 25
+  },
+  "case_number": "昭和40(行ツ)53",
+  "case_name": "登記申請却下処分取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第21巻7号1729頁",
+  "original_court_name": "福岡高等裁判所\n        　宮崎支部",
+  "original_case_number": "昭和39(行コ)5",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 4,
+    "day": 7
+  },
+  "gist": "共有物分割の結果不動産の一部について単独所有権を取得した場合の登記方法",
+  "case_gist": "共有物分割の結果不動産の一部について単独所有権を取得した場合には、分筆登記を経由したうえで、権利の一部移転の登記手続をすべきである。",
+  "ref_law": "民法256条，不動産登記法39条ノ2",
+  "lawsuit_id": "55013",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55013",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/013/055013_hanrei.pdf"
+}

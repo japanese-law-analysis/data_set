@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 6,
+    "day": 24
+  },
+  "case_number": "昭和43(オ)1227",
+  "case_name": "債券金額支払請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第23巻7号1143頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和42(ネ)704",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 8,
+    "day": 30
+  },
+  "gist": "いわゆる学校債券が無記名証券にあたるとされた事例",
+  "case_gist": "学校法人が設備拡充資金の借入れを目的とし、一般の起債の方法により作成、発行した左記の学園債券は、無記名証券にあたる。\n（学園債権は末尾添付）",
+  "ref_law": "民法86条3項，民法473条，商法517条，商法519条",
+  "lawsuit_id": "54118",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54118",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/118/054118_hanrei.pdf"
+}

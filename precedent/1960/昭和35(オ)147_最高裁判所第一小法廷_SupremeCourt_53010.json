@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 8,
+    "day": 31
+  },
+  "case_number": "昭和35(オ)147",
+  "case_name": "売掛代金請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第15巻7号2027頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 9,
+    "day": 30
+  },
+  "gist": "債務の一部弁済のために小切手が振り出された場合右小切手の支払は右債務の消滅時効中断の事由たる承認となるか。",
+  "case_gist": "債務の一部弁済のために振り出された小切手が支払人により支払われた場合、右支払は振出人による承認として右債務の消滅時効中断の効力を有する。",
+  "ref_law": "民法147条3号，小切手法第4章（28条以下）",
+  "lawsuit_id": "53010",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53010",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/010/053010_hanrei.pdf"
+}

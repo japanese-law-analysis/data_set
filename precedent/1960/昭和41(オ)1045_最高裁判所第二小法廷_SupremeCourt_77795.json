@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 6,
+    "day": 30
+  },
+  "case_number": "昭和41(オ)1045",
+  "case_name": "所有権確認等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第87号1453頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和40(ネ)251",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 6,
+    "day": 14
+  },
+  "gist": "当事者能力の有無の判断の基準時",
+  "case_gist": "当事者能力は、事実審口頭弁論終結の時に存在することを要し、裁判所はその時において当事者能力の有無を判断すれば足り、その時以後に生じた事実を斟酌する必要はない。",
+  "ref_law": "民訴法45条",
+  "lawsuit_id": "77795",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77795",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/795/077795_hanrei.pdf"
+}

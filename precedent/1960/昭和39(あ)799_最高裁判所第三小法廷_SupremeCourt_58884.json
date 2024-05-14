@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 1,
+    "day": 18
+  },
+  "case_number": "昭和39(あ)799",
+  "case_name": "印紙犯罪処罰法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第158号13頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 12,
+    "day": 28
+  },
+  "gist": "控訴審における事実の取調と最終陳述の規定の準用",
+  "case_gist": "第二審裁判所が事実の取り調べをした場合には、刑訴法第三九三条第四項の弁論はできるが、最終陳述の規定（刑訴法第二九三条、同規則第二一一条）の準用はないと解するのが相当である（昭和三六年七月五日第二小法廷決定、裁判集一三八号六二三頁参照）。",
+  "ref_law": "刑訴法393条，刑訴法293条，刑訴規則211条",
+  "lawsuit_id": "58884",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58884",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/884/058884_hanrei.pdf"
+}

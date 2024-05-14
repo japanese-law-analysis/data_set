@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 4,
+    "day": 28
+  },
+  "case_number": "昭和32(オ)1208",
+  "case_name": "不動産売渡登記抹消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第15巻4号1230頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 8,
+    "day": 8
+  },
+  "gist": "不動産につき甲、乙、丙と順次所有権が移転したものとして順次所有権移転登記がなされた場合において、各所有権移転登記が無効であるときは、乙は丙に対し抹消登記請求権を有するか。",
+  "case_gist": "不動産につき甲、乙、丙と順次所有権が移転したものとして順次所有権移転登記がなされた場合において、各所有権移転行為が無効であるときは、甲が乙、丙に対し各所有権移転登記の抹消登記請求権を有するほか、乙もまた丙に対し所有権移転登記の抹消登記請求権を有する。",
+  "ref_law": "不動産登記法26条，民法177条",
+  "lawsuit_id": "53570",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53570",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/570/053570_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 7,
+    "day": 25
+  },
+  "case_number": "昭和44(オ)277",
+  "case_name": "抵当権設定登記抹消請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第96号423頁",
+  "original_court_name": "広島高等裁判所",
+  "original_case_number": "昭和41(ネ)208",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 12,
+    "day": 23
+  },
+  "gist": "将来発生する金銭債務を基礎とする準消費貸借",
+  "case_gist": "当事者間において将来金銭その他の物を給付する債務を生ずることがあるべき場合、これを準消費貸借の目的とすることを約し得るのであつて、その後該債務が生じたとき、その準消費貸借は当然にその効力を生ずる（昭和四〇年（オ）第二〇〇号、同四〇年一〇月七日第一小法廷判決、民集一九巻七号一七二三頁参照）。",
+  "ref_law": "民法588条",
+  "lawsuit_id": "66722",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66722",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/722/066722_hanrei.pdf"
+}
