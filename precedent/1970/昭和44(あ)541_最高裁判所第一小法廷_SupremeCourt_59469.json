@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 9,
+    "day": 26
+  },
+  "case_number": "昭和44(あ)541",
+  "case_name": "法人税法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第193号385頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 1,
+    "day": 21
+  },
+  "gist": "旧法人税法施行規則（昭和四〇年政令第九七号による改正前の昭和二二年勅令第一一一号。）一〇条の四にいう法人の所得計算上損金に算入されない役員に対し支給した賞与にあたるとされた事例",
+  "case_gist": "被告会社が利息の定めなく金員を代表取締役Ａに貸与し、もつて同人に与えた通常取得すべき利息相当の経済的利益は、旧法人税法施行規則（昭和四〇年政令第九七号による改正前の昭和二二年勅令第一一一号。）一〇条の四にいう法人の所得の計算上損金に算入されない役員に対して支給した賞与にあたる。",
+  "ref_law": "旧法人税法施行規則（昭和40年政令97号による改正前の昭和22年勅令111号。）10条の3項4項，旧法人税法施行規則（昭和40年政令97号による改正前の昭和22年勅令111号。）10条の4，法人税法35条1項，法人税法35条4項",
+  "lawsuit_id": "59469",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59469",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/469/059469_hanrei.pdf"
+}

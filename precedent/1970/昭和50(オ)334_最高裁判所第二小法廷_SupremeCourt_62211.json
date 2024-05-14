@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 7,
+    "day": 14
+  },
+  "case_number": "昭和50(オ)334",
+  "case_name": "確定判決不当取得の確認請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第115号409頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和49(ネ)535",
+  "original_date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 12,
+    "day": 18
+  },
+  "gist": "補正命令の正本の瑕疵の治癒",
+  "case_gist": "控訴状の補正命令の正本に瑕疵があつたとしても、その送達を受けた控訴人が、補正命令に従つて印紙を増貼し、裁判所が控訴を適法なものとして、その本案につき審理判決したときは、右瑕疵は治癒されたものである。",
+  "ref_law": "民訴法205条，民訴法228条",
+  "lawsuit_id": "62211",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62211",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/211/062211_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 12,
+    "day": 13
+  },
+  "case_number": "昭和49(オ)687",
+  "case_name": "譴責処分無効確認",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第31巻7号1037頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和47(ネ)3075",
+  "original_date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 4,
+    "day": 26
+  },
+  "gist": "使用者の行う企業秩序違反事件の調査と労働者の協力義務",
+  "case_gist": "労働者は、使用者の行う他の労働者の企業秩序違反事件の調査について、これに協力することがその職責に照らし職務内容となつていると認められる場合でないか、又は調査対象である違反行為の性質・内容右違反行為見聞の機会と職務執行との関連性、より適切な調査方法の有無等諸般の事情から総合的に判断して、右調査に協力することが労務提供義務を履行するうえで必要かつ合理的であると認められる場合でない限り、協力義務を負わない。",
+  "ref_law": "民法623条，労働基準法第2章",
+  "lawsuit_id": "53228",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53228",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/228/053228_hanrei.pdf"
+}

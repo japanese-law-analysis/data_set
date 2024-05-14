@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 9,
+    "day": 29
+  },
+  "case_number": "昭和51(オ)996",
+  "case_name": "建物明渡",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第121号301頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和48(ネ)116",
+  "original_date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 6,
+    "day": 9
+  },
+  "gist": "土地賃借権の時効取得が認められるとされた事",
+  "case_gist": "例甲所有の土地につきその管理をまかされ他に賃貸する権限をも与えられていると自称する乙から、これを信じて右土地を賃借した丙が、賃貸借契約に基づき平穏公然に目的土地の占有を継続し、乙及びその相続人らに対して賃料を支払つている、など判示の事情のもとにおいては、丙は、民法一六三条所定の時効期間の経過により、甲に対する右土地の賃借権を時効取得することができる。",
+  "ref_law": "民法163条，民法601条",
+  "lawsuit_id": "64148",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64148",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/148/064148_hanrei.pdf"
+}

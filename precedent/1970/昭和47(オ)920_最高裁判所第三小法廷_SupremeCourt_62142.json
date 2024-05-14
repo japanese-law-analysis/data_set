@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 2,
+    "day": 27
+  },
+  "case_number": "昭和47(オ)920",
+  "case_name": "協力義務不存在確認等請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第108号247頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和43(ネ)791",
+  "original_date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 5,
+    "day": 24
+  },
+  "gist": "建物賃貸借の法定更新と解約の申入れ",
+  "case_gist": "期間の定めある賃貸借が借家法二条にもとづき更新されたときは、期間の定めのない賃貸借となり、賃貸人は、その後正当の事由があるかぎり、いつでも解約の申入れをすることができる。",
+  "ref_law": "借家法2条，民法619条",
+  "lawsuit_id": "62142",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62142",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/142/062142_hanrei.pdf"
+}

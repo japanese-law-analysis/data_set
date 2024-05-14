@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 2,
+    "day": 2
+  },
+  "case_number": "昭和53(オ)924",
+  "case_name": "請負代金本訴、損害賠償反訴",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第126号67頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和52(ネ)388",
+  "original_date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 4,
+    "day": 26
+  },
+  "gist": "請負契約の目的物の瑕疵修補に代わる損害賠償請求と賠償額算定の基準時",
+  "case_gist": "請負契約における仕事の目的物の瑕疵につき、注文者が請負人に対し、あらかじめ修補の請求をすることなく直ちに修補に代わる損害賠償の請求をした場合には、右請求の時を基準として賠償額を算定すべきである。",
+  "ref_law": "民法634条",
+  "lawsuit_id": "64280",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64280",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/280/064280_hanrei.pdf"
+}

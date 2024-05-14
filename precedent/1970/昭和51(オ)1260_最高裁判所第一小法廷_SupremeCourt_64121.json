@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 2,
+    "day": 16
+  },
+  "case_number": "昭和51(オ)1260",
+  "case_name": "土地所有権移転登記抹消",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第123号51頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和49(ネ)238",
+  "original_date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 9,
+    "day": 21
+  },
+  "gist": "農地法六条一項一号と憲法二九条",
+  "case_gist": "農地法六条一項一号の規定は、憲法二九条に違反しない。",
+  "ref_law": "憲法29条，農地法6条1項1号",
+  "lawsuit_id": "64121",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64121",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/121/064121_hanrei.pdf"
+}

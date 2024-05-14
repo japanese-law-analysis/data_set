@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 10,
+    "day": 26
+  },
+  "case_number": "昭和54(あ)1171",
+  "case_name": "常習累犯窃盗",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第216号187頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 6,
+    "day": 20
+  },
+  "gist": "盗犯等の防止及び処分に関する法律三条、二条と憲法一四条、三九条",
+  "ref_law": "盗犯等の防止及び処分に関する法律3条，盗犯等の防止及び処分に関する法律2条，憲法14条，憲法39条",
+  "lawsuit_id": "60325",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60325",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/325/060325_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 4,
+    "day": 8
+  },
+  "case_number": "昭和50(オ)1025",
+  "case_name": "配当異議請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第30巻3号197頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和49(ネ)2737",
+  "original_date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 7,
+    "day": 17
+  },
+  "gist": "公示催告中の約束手形の手形金債権に対する仮差押の執行方法",
+  "case_gist": "公示催告中の約束手形の手形金債権に対する仮差押の執行は、執行官による右手形の占有を必要とせず、指名債権に対する仮差押と同じく仮差押命令を債務者及び第三債務者に送達すれば足りる。",
+  "ref_law": "民訴法594条，民訴法603条，民訴法748条，民訴法777条",
+  "lawsuit_id": "53239",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53239",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/239/053239_hanrei.pdf"
+}

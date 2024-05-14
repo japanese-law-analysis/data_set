@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 4,
+    "day": 19
+  },
+  "case_number": "昭和51(オ)978",
+  "case_name": "遺言無効確認等（本訴）・遺言有効確認等（反訴）請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第120号531頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和50(ネ)878",
+  "original_date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 5,
+    "day": 20
+  },
+  "gist": "数日にわたつて作成された自筆証書遺言が有効とされた事例",
+  "case_gist": "遺言者が、遺言書のうち日附以外の全文を記載して署名押印し、その八日後に当日の日附を記載して右遺言書を完成させたときは、特段の事情のない限り、右日附を記載した日に作成された自筆証書遺言として、有効である。",
+  "ref_law": "民法968条",
+  "lawsuit_id": "74525",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74525",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/525/074525_hanrei.pdf"
+}

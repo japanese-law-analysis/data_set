@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 9,
+    "day": 26
+  },
+  "case_number": "昭和53(あ)766",
+  "case_name": "覚せい剤取締法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第213号349頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 3,
+    "day": 28
+  },
+  "gist": "本件覚せい剤譲受の事実は当該覚せい剤の譲渡を処罰した前刑の量刑事情として考慮され既に実質的に処罰済みであるとの主張が「欠前提」とされた事例",
+  "ref_law": "憲法39条後",
+  "lawsuit_id": "61750",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61750",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/750/061750_hanrei.pdf"
+}

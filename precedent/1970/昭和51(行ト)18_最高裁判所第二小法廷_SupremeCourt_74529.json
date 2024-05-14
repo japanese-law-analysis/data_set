@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 4,
+    "day": 13
+  },
+  "case_number": "昭和51(行ト)18",
+  "case_name": "私的独占の禁止及び公正取引の確保に関する法律違反審決不履行事件過料決定に対する抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集民　第120号451頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和49(行タ)17",
+  "original_date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 6,
+    "day": 24
+  },
+  "gist": "公正取引委員会の価格協定排除措置に関する新聞広告文案の掲載指示が違反者に対し違反行為の自認を強いることになるものではないとされた事例",
+  "case_gist": "公正取引委員会が、勧告審決に基づく価格協定排除措置として、違反者に対し、協定内容を掲げたうえ、「………を決定し実施しましたが、当社らの行つたこの行為が独占禁止法に違反するとの公正取引委員会の審決がありましたので、この審決に従い、この決定を破棄しました。」との文案による新聞広告の掲載を指示したことは、必ずしも違反者に違反行為の自認を強いることになるものではない。",
+  "ref_law": "憲法38条1項，私的独占の禁止及び公正取引の確保に関する法律48条",
+  "lawsuit_id": "74529",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74529",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/529/074529_hanrei.pdf"
+}

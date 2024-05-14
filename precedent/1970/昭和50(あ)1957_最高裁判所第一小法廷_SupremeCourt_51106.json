@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 3,
+    "day": 11
+  },
+  "case_number": "昭和50(あ)1957",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第30巻2号102頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 8,
+    "day": 20
+  },
+  "gist": "公職選挙法一四二条、二四三条三号にいう頒布の意義",
+  "case_gist": "公職選挙法一四二条、二四三条三号にいう頒布とは、選挙運動のために使用する法定外の文書図画を不特定又は多数の者に配布する目的でその内の一人以上の者に配付することをいい、特定少数の者を通じて当然又は成行上不特定又は多数の者に配布されるような情況のもとで右特定少数の者に当該文書図画を配布した場合も、これにあたる。",
+  "ref_law": "公職選挙法142条，公職選挙法243条3号",
+  "lawsuit_id": "51106",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51106",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/106/051106_hanrei.pdf"
+}

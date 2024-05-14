@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 2,
+    "day": 14
+  },
+  "case_number": "昭和48(あ)2743",
+  "case_name": "道路交通法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第191号127頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 11,
+    "day": 6
+  },
+  "gist": "主張判断を経ていないとされた事例",
+  "lawsuit_id": "59913",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59913",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/913/059913_hanrei.pdf"
+}

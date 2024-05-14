@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 11,
+    "day": 30
+  },
+  "case_number": "昭和49(行ツ)111",
+  "case_name": "法人税更正処分無効確認請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第119号283頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和48(行コ)53",
+  "original_date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 9,
+    "day": 30
+  },
+  "gist": "国税通則法七〇条二項四号によつて更正をする場合と更正の範囲",
+  "case_gist": "国税通則法七〇条二項四号によつて更正をする場合、その更正の対象となるのは、「偽りその他不正の行為」によつてその全部又は一部の税額を免れた当該国税の全体であり、右「偽りその他不正の行為」によつて免れた税額部分に限られるものではない。",
+  "ref_law": "国税通則法70条2項4号",
+  "lawsuit_id": "64082",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64082",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/082/064082_hanrei.pdf"
+}

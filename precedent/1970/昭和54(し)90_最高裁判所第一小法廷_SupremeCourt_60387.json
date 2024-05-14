@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 9,
+    "day": 12
+  },
+  "case_number": "昭和54(し)90",
+  "case_name": "付審判請求事件についてした特別抗告棄却決定に対する異議の申立棄却決定に対する特別抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第215号289頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 7,
+    "day": 13
+  },
+  "gist": "刑事手続に準用される民訴法一七三条の規定違憲（憲法三二条違反）の主張が「欠前提」とされた事例",
+  "ref_law": "憲法32条，民訴法173条",
+  "lawsuit_id": "60387",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60387",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/387/060387_hanrei.pdf"
+}

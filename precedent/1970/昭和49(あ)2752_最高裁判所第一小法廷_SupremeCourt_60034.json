@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 6,
+    "day": 12
+  },
+  "case_number": "昭和49(あ)2752",
+  "case_name": "埼玉県屋外広告物条例違反、軽犯罪法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第196号589頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 11,
+    "day": 11
+  },
+  "gist": "埼玉県屋外広告物条例（昭和二五年条例二号）及び軽犯罪法一条三三号による電柱のはり紙の規制と憲法二一条",
+  "case_gist": "埼玉県屋外広告物条例（昭和二五年一月三一日条例第二号）及び軽犯罪法一条三三号による広告物規制特に電柱へのはり紙の規制が憲法二一条に違反しないものであることは、当裁判所昭和四三年一二月一八日大法廷判決、同四五年六月一七日大法廷判決の趣旨に徴して明らかである。",
+  "ref_law": "埼玉県屋外広告物条例（昭和25年1月31日条例2号），軽犯罪法1条33号，憲法21条",
+  "lawsuit_id": "60034",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60034",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/034/060034_hanrei.pdf"
+}

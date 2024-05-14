@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 11,
+    "day": 18
+  },
+  "case_number": "昭和49(あ)1260",
+  "case_name": "賭博開帳図利、賭博",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集刑　第202号379頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 3,
+    "day": 29
+  },
+  "gist": "差押物が捜索差押許可状の目的に含まれるとされた事例",
+  "case_gist": "恐喝被疑事件で発付された捜索差押許可状に基づき、事件に関係のある「暴力団を標章する状、バツチ、メモ等」の目的物にあたるとして、暴力団員らによる常習的な賭博場開帳の模様を記録したメモを差し押えたことは、暴力団に関連のある被疑者らによつてその事実を背景として行われた事件であること、右メモにより被疑者と暴力団との関連を知りうること、暴力団の組織内容・性格を知りうることなどの事情のもとにおいては、これを適法というべきである。",
+  "ref_law": "憲法35条1項，刑訴法218条1項，刑訴法219条1項",
+  "lawsuit_id": "59978",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59978",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/978/059978_hanrei.pdf"
+}

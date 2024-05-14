@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 4,
+    "day": 24
+  },
+  "case_number": "昭和49(あ)1180",
+  "case_name": "収賄",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集刑　第196号175頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 9,
+    "day": 3
+  },
+  "gist": "学校教諭が父兄からギフトチエツクを反覆収受した事案につき収賄罪認定に誤認、審理不尽ありとされた事例",
+  "ref_law": "刑法197条，刑法411条1項1号",
+  "lawsuit_id": "61621",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61621",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/621/061621_hanrei.pdf"
+}

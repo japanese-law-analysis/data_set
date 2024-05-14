@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 4,
+    "day": 8
+  },
+  "case_number": "昭和45(行ツ)95",
+  "case_name": "審決取消請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第114号409頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和41(行ケ)24",
+  "original_date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 7,
+    "day": 22
+  },
+  "gist": "いわゆる「雷おこし」に関する商標中の「雷おこし」の文字及びこの文字に添えて描かれる雷神等の図形につき、なんら商品の出所を表示するに足る特別顕著性がないとされた事例",
+  "case_gist": "省略",
+  "ref_law": "旧商標法（大正沁年法律第99号）1条2項，旧商標法（大正沁年法律第99号）2条6号，旧商標法（大正沁年法律第99号）8条，商標法3条，商標法26条1項",
+  "lawsuit_id": "62015",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62015",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/015/062015_hanrei.pdf"
+}

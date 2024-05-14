@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 10,
+    "day": 8
+  },
+  "case_number": "昭和48(し)66",
+  "case_name": "裁判官忌避申立却下決定に対する即時抗告の決定に対する特別抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "その他",
+  "article_info": "刑集　第27巻9号1415頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 7,
+    "day": 31
+  },
+  "gist": "一　審理の方法態度と裁判官忌避\n二　裁判官の忌避申立につき簡易却下が相当であるとされた事例",
+  "case_gist": "一　訴訟手続内における審理の方法、態度などは、それ自体としては裁判官を忌避する理由となしえない。\n二　公判期日前の打合せから第一回公判期日終了までの裁判長の訴訟指揮権、法廷警察権の行使の不当を理由とする忌避申立は、本件のような事情（判文参照）のもとにおいては、訴訟遅延のみを目的とするものとして、刑訴法二四条により却下すべきものである。",
+  "ref_law": "刑訴法21条1項，刑訴法24条",
+  "lawsuit_id": "51074",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51074",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/074/051074_hanrei.pdf"
+}

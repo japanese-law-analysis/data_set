@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 11,
+    "day": 12
+  },
+  "case_number": "昭和48(オ)1169",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第113号169頁",
+  "original_court_name": "高松高等裁判所",
+  "original_case_number": "昭和47(ネ)83",
+  "original_date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 8,
+    "day": 10
+  },
+  "gist": "自動車の所有者と雇傭関係にあつた者が無断運転中起こした事故につき所有者に自賠法三条による運行供用者責任が認められた事例",
+  "case_gist": "甲所有の自動車を乙が無断で私用のために運転して事故を起こした場合において、甲が右自動車のドアに鍵をかけず、エンジンキーを差し込んだままこれを第三者が自由に立ち入りうる自己の駐車場に駐車させていた事実があり、また、乙は、事故の数時間前まで甲の従業員であり、短時間内に返還する予定で乗り出し、しかし乗り出してから一〇分ないし二〇分後に事故を起こした等原判示の事実関係のもとにおいては、甲は、右事故につき、自己のため自動車を運行の用に供するものとしての責任を免れない。",
+  "ref_law": "自動車損害賠償保障法3条",
+  "lawsuit_id": "70399",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70399",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/399/070399_hanrei.pdf"
+}

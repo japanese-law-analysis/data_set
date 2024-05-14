@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 6,
+    "day": 15
+  },
+  "case_number": "昭和45(あ)2274",
+  "case_name": "有価証券偽造、同行使、詐欺",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第26巻5号341頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 10,
+    "day": 27
+  },
+  "gist": "判決主文の言直しが有効とされた事例",
+  "case_gist": "判決の宣告にあたり、裁判長が主文の刑を懲役一年六月と朗読すべきところを誤つて懲役一年二月と朗読し、次いで理由の要旨を告げ上訴期間等の告知を行ない、席を立ちかけたところ、弁護人から質問があつたので、即座にその場で懲役一年六月と主文の刑を朗読し直した場合には、被告人に対する宣告刑は懲役一年六月としてその効力を生ずる。",
+  "ref_law": "刑訴法342条，刑訴規則35条",
+  "lawsuit_id": "50992",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50992",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/992/050992_hanrei.pdf"
+}

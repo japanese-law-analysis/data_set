@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 6,
+    "day": 26
+  },
+  "case_number": "昭和46(オ)887",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第29巻6号851頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和45(ネ)549",
+  "original_date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 5,
+    "day": 31
+  },
+  "gist": "県道上に工事標識板赤色灯標柱などが倒れ赤色灯が消えたままであつても道路の管理に瑕疵がないとされた事例",
+  "case_gist": "県道上に道路管理者の設置した掘穿工事中であることを表示する工事標識板、バリケード及び赤色灯標柱が倒れ、赤色灯が消えたままになつていた場合であつても、それが夜間、他の通行車によつて惹起されたものであり、その直後で道路管理者がこれを原状に復し道路の安全を保持することが不可能であつたなど判示の事実関係のもとでは、道路の管理に瑕疵がなかつたというべきである。",
+  "ref_law": "国家賠償法2条1項，道路法15条，道路法42条1項",
+  "lawsuit_id": "52064",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52064",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/064/052064_hanrei.pdf"
+}

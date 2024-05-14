@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 12,
+    "day": 21
+  },
+  "case_number": "昭和48(オ)544",
+  "case_name": "否認権行使による請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第110号807頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "昭和47(ネ)157",
+  "original_date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 2,
+    "day": 8
+  },
+  "gist": "強制執行としてした行為と破産法七二条二号の適用",
+  "case_gist": "破産法七二条二号の債務消滅に関する行為とは、破産者の意思に基づく行為のみにかぎらず、賃権者が同法七五条の強制執行としてした行為であつて破産者の財産をもつて債務を消滅させる効果を生じさせる場合を含む。",
+  "ref_law": "破産法72条2号，破産法75条",
+  "lawsuit_id": "62165",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62165",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/165/062165_hanrei.pdf"
+}

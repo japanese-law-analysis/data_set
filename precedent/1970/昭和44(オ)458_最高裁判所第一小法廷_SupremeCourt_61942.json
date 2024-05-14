@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 5,
+    "day": 25
+  },
+  "case_number": "昭和44(オ)458",
+  "case_name": "仮差押執行の目的物に対する第三者異議",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第106号107頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和40(ネ)194",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 12,
+    "day": 28
+  },
+  "gist": "第三地において引き渡すべき義務を定めた木材の種類売買と目的物たる木材の特定",
+  "case_gist": "売主がｂ港において売買の目的物たる木材を引き渡すべき義務を負担する種類売買においては、木材が積出港たるａ港の土場に集積されたからといつて、売買の目的物が右木材に特定されたものということはできない。",
+  "ref_law": "民法401条2項",
+  "lawsuit_id": "61942",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61942",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/942/061942_hanrei.pdf"
+}

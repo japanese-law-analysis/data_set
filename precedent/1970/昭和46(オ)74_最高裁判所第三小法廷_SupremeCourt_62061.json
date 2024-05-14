@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 3,
+    "day": 21
+  },
+  "case_number": "昭和46(オ)74",
+  "case_name": "保障債務履行請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第105号305頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和40(ネ)726",
+  "original_date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 10,
+    "day": 27
+  },
+  "gist": "債権者のする破産宣告の申立と時効中断事由",
+  "case_gist": "債権者のする破産宣告の申立は、債権の消滅時効の中断事由たる裁判上の請求にあたる。",
+  "ref_law": "民法147条1号，民法149条，民法152条",
+  "lawsuit_id": "62061",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62061",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/061/062061_hanrei.pdf"
+}

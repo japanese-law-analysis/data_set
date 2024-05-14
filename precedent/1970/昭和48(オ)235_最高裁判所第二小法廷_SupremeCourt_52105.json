@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 11,
+    "day": 30
+  },
+  "case_number": "昭和48(オ)235",
+  "case_name": "詐害行為取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第27巻10号1491頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和46(ネ)1045",
+  "original_date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 11,
+    "day": 30
+  },
+  "gist": "債権譲渡による代物弁済と詐害行為の成否",
+  "case_gist": "債務超過の状態にある債務者が特定の債権者に対する債務の弁済に代えて第三者に対する自己の債権を譲渡し、この債権の額が右債権者に対する債務の額を超えない場合であつても、債務者に詐害の意思があるときは、右債権譲渡は、詐害行為として取消の対象になりうる。",
+  "ref_law": "民法424条",
+  "lawsuit_id": "52105",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52105",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/105/052105_hanrei.pdf"
+}

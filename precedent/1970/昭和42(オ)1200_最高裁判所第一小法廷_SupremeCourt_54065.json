@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 7,
+    "day": 16
+  },
+  "case_number": "昭和42(オ)1200",
+  "case_name": "土地建物所有権移転仮登記抹消登記手続等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第24巻7号1031頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和40(ネ)72",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 7,
+    "day": 11
+  },
+  "gist": "売買予約形式の債権担保契約における債権者の清算義務と目的不動産の第三取得者",
+  "case_gist": "貸金債権担保のため債務者所有の不動産につき売買予約形式の契約を締結し、これを原因とする所有権移転請求権保全の仮登記を経由した債権者が、予約完結権を行使したうえ、担保目的実現の手段として本登記をするため、登記上利害関係を有する第三者に対してその承諾を求める場合において、第三者が債務者から目的不動産を譲り受けた者であるときは、債権者は、目的不動産の適正な評価額のうち自己の債権額を超過する部分に相当する金銭を右第三者に支払うことを要し、第三者は、右金銭の支払と引換えにのみ承諾義務の履行をなすべき旨を主張することができるものと解するのが相当である。",
+  "ref_law": "民法556条，不動産登記法7条，不動産登記法105条，不動産登記法146条",
+  "lawsuit_id": "54065",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54065",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/065/054065_hanrei.pdf"
+}

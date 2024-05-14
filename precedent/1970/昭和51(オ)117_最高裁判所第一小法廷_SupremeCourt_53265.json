@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 12,
+    "day": 2
+  },
+  "case_number": "昭和51(オ)117",
+  "case_name": "土地所有権移転登記手続等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第30巻11号1021頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_case_number": "昭和50(ネ)25",
+  "original_date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 11,
+    "day": 4
+  },
+  "gist": "所有者の無権代理人から農地を買い受けた小作人が新権原による自主占有を開始したものとされ右占有の始め過失がないとされた事例",
+  "case_gist": "甲所有の農地を小作し、長期にわたり右農地の管理人のように振舞つていた乙に小作料を支払つていた丙が、甲の代理人と称する乙から右農地を買い受け、右買受につき農地法所定の許可を得て所有権移転登記手続を経由し、その代金を支払つた等判示の事情のもとにおいては、丙は、乙に甲を代理する権限がなかつたとしても、遅くとも右登記の時には民法一八五条にいう新権原により所有の意思をもつて右農地の占有を始めたものであり、かつ、その占有の始めに所有権を取得したものと信じたことに過失がないということができる。",
+  "ref_law": "民法162条2項，民法185条",
+  "lawsuit_id": "53265",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53265",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/265/053265_hanrei.pdf"
+}

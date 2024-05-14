@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 2,
+    "day": 5
+  },
+  "case_number": "昭和44(オ)934",
+  "case_name": "地位確認等請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "却下",
+  "article_info": "民集　第28巻1号27頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和43(ネ)2864",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 7,
+    "day": 7
+  },
+  "gist": "訴訟物の価額の算定が著しく困難な場合におけるその算定方法",
+  "case_gist": "財産権上の請求にかかる訴訟物の価額の算定が著しく困難な場合、裁判長又は裁判所は、その算定にとつて重要な諸要因を確定し、これを基礎とし、栽量によつて右価額を算定することができる。",
+  "ref_law": "民事訴訟用印紙法（明治23年法律第65号）2条，民事訴訟用印紙法（明治23年法律第65号）5条，民訴法22条1項",
+  "lawsuit_id": "51987",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51987",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/987/051987_hanrei.pdf"
+}

@@ -1,0 +1,19 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 4,
+    "day": 17
+  },
+  "case_number": "昭和42(行ウ)174",
+  "case_name": "課税処分取消請求事件",
+  "court_name": "東京地方裁判所",
+  "field": "行政",
+  "gist": "１　収税官吏が所得税法６３条に基づく質問検査権を行使できる場合　\n２　納税者に対する事前通知を欠く収税官吏の質問検査権行使の適否",
+  "case_gist": "１　収税官吏は，申告のない場合又は申告の適否を審査すべき合理的必要性のある場合には，旧所得税法６３条に基づく質問検査権を行使することができる。　\n２　納税者に対する事前通知を欠く収税官吏の質問検査権の行使は違法とはいえない。",
+  "lawsuit_id": "35862",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=35862",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/862/035862_hanrei.pdf",
+  "contents": ""
+}

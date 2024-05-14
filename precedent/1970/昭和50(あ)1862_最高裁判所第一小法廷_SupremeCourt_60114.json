@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 11,
+    "day": 18
+  },
+  "case_number": "昭和50(あ)1862",
+  "case_name": "殺人",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集刑　第202号399頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 8,
+    "day": 4
+  },
+  "gist": "刑訴法四一一条二号にあたる一事例",
+  "case_gist": "被告人の生活歴、本件犯行の経緯（被告人の真意は、猟銃で被害者を脅かして居室から退散させることにあったが、被害者の動作に触発され、全くの瞬間的な殺意に基づき偶発的に猟銃の引金をひいたものである。）及び犯行後の状況など、ことに被害者の心ない常軌を逸した挑発的言動が本件犯行を誘発する主要因になっていること、本件犯行は興奮の余りの激情的なものとはいえ気質的に短絡的なものではないことに徴すると、被告人の銃器に対する安易な心構え、結果の重大性などを総合勘案しても、被告人を懲役八年に処した第一審判決及びこれを維持した原判決の刑の量定は、一般予防の見地にかたむきすぎた嫌いがある。",
+  "ref_law": "刑訴法411条2号，刑法199条",
+  "lawsuit_id": "60114",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60114",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/114/060114_hanrei.pdf"
+}

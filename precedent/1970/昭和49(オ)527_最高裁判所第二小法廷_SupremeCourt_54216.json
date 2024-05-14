@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 10,
+    "day": 24
+  },
+  "case_number": "昭和49(オ)527",
+  "case_name": "建物収去土地明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第29巻9号1483頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和47(ネ)2119",
+  "original_date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 2,
+    "day": 28
+  },
+  "gist": "特別縁故者に分与されなかつた相続財産の国庫帰属の時期及び相続財産管理人の代理権消滅の時期",
+  "case_gist": "相続人不存在の場合において、特別縁故者に分与されなかつた相続財産は、相続財産管理人がこれを国庫に引き継いだ時に国庫に帰属し、相続財産全部の引継が完了するまでは、相続財産法人は消滅せず、相続財産管理人の代理権も引継未了の相続財産につき存続する。",
+  "ref_law": "民法956条1項，民法958条の3，民法959条",
+  "lawsuit_id": "54216",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54216",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/216/054216_hanrei.pdf"
+}

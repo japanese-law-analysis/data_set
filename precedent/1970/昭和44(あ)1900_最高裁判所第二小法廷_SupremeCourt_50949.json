@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 4,
+    "day": 10
+  },
+  "case_number": "昭和44(あ)1900",
+  "case_name": "業務上過失傷害、道路交通法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第24巻4号132頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 7,
+    "day": 30
+  },
+  "gist": "道路交通法七二条一項前段にいわゆる救護義務の内容",
+  "case_gist": "車両等の運転者が、いわゆる人身事故を発生させたときは、直ちに車両の運転を停止し十分に被害者の受傷の有無程度を確かめ、全く負傷していないことが明らかであるとか、負傷が軽微なため被害者が医師の診療を受けることを拒絶した等の場合を除き、少なくとも被害者をして速やかに医師の診療を受けさせる等の措置は講ずべきであり、この措置をとらずに、運転者自身の判断で、負傷は軽微であるから救護の必要はないとしてその場を立ち去るがごときことは許されない。",
+  "ref_law": "道路交通法72条1項前段，道路交通法117条",
+  "lawsuit_id": "50949",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50949",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/949/050949_hanrei.pdf"
+}

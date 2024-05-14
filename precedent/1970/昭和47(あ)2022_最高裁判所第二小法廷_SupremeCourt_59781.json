@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 3,
+    "day": 30
+  },
+  "case_number": "昭和47(あ)2022",
+  "case_name": "窃盗、同未遂",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集刑　第186号541頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 9,
+    "day": 27
+  },
+  "gist": "別件懲役刑の執行と競合する未決勾留日数の本刑算入が違法であるとして破棄された事例",
+  "ref_law": "刑法21条",
+  "lawsuit_id": "59781",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59781",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/781/059781_hanrei.pdf"
+}

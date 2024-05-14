@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 7,
+    "day": 18
+  },
+  "case_number": "昭和52(オ)398",
+  "case_name": "転勤命令ならびに休職処分無効確認",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第124号441頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和47(ネ)471",
+  "original_date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 10,
+    "day": 28
+  },
+  "gist": "無効な休職処分により就労を拒否された労働者の右期間中の賃金請求につき平均査定配分額の限度で賃金協定中の賃上額のいわゆる査定部分に関する協定の効力が右労働者にも及ぶものとして賃上額による賃金請求権が認められた事例",
+  "case_gist": "（省略）",
+  "ref_law": "民法623条，労働基準法24条，労働組合法16条",
+  "lawsuit_id": "64193",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64193",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/193/064193_hanrei.pdf"
+}

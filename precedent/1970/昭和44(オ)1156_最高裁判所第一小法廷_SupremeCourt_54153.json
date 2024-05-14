@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 3,
+    "day": 26
+  },
+  "case_number": "昭和44(オ)1156",
+  "case_name": "証拠金等返還請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第24巻3号165頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和38(ネ)1560",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 8,
+    "day": 29
+  },
+  "gist": "民訴法二六二条に基づく調査嘱託の結果の証拠調",
+  "case_gist": "民訴法二六二条に基づく調査の嘱託によつて得られた回答書等の調査の結果を証拠とするには、裁判所がこれを口頭弁論において提示して当事者に意見陳述の機会を与えれば足り、当事者の援用を要しない。",
+  "ref_law": "民訴法262条",
+  "lawsuit_id": "54153",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54153",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/153/054153_hanrei.pdf"
+}

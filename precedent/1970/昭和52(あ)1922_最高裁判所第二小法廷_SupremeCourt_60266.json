@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 3,
+    "day": 20
+  },
+  "case_number": "昭和52(あ)1922",
+  "case_name": "窃盗、電波法違反、毒物及び劇物取締法違反、犯人隠避、犯人隠避教唆、道路交通法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第209号369頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 9,
+    "day": 14
+  },
+  "gist": "電波法一〇九条一項の規定が不明確である旨の憲法三一条違反の主張が欠前提とされた事例",
+  "ref_law": "憲法31条",
+  "lawsuit_id": "60266",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60266",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/266/060266_hanrei.pdf"
+}

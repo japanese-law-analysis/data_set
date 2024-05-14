@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 11,
+    "day": 16
+  },
+  "case_number": "昭和45(オ)39",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第25巻8号1209頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和43(ネ)1218",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 10,
+    "day": 2
+  },
+  "gist": "自動車の貸主に自動車損害賠償保障法三条による運行供用者責任が認められた事例",
+  "case_gist": "甲が乙に自動車を貸し渡し、乙の被用者が運転中に事故を起こした場合において、右貸渡は、自動車の販売会社である甲が、乙に売却した中古車の整備、登録、検査などが済むまでの間、代わりの車を貸してほしい旨乙から依頼され、右売却した自動車を引き渡すのと引換えに返してもらう約束をして、暫定的になされたものであるなど、判示のような事実関係があるときは、甲は、自動車損害賠償保障法三条による運行供用者としての責任を免れない。",
+  "ref_law": "自動車損害賠償保障法3条",
+  "lawsuit_id": "52004",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52004",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/004/052004_hanrei.pdf"
+}

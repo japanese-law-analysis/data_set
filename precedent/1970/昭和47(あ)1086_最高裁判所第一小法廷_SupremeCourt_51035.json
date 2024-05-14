@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 4,
+    "day": 19
+  },
+  "case_number": "昭和47(あ)1086",
+  "case_name": "道路交通法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "刑集　第27巻3号399頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 3,
+    "day": 23
+  },
+  "gist": "道路交通法七〇条、一一九条二項、一項九号は過失犯処罰規定を欠く同法の他の各条の運転者の義務違反の罪の過失犯たる内容を有する行為にも適用されるか",
+  "case_gist": "道路交通法七〇条、一一九条二項、一項九号の過失による安全運転義務違反の規定は、その構成要件を充たすかぎり、過失犯処罰規定を欠く同法の他の各条の運転者の義務違反の罪の過失犯たる内容を有する行為についても適用される。",
+  "ref_law": "道路交通法70条，道路交通法119条1項9号，道路交通法119条2項，道路交通法（昭和46年法律98号による改正前のもの）25条2第1項",
+  "lawsuit_id": "51035",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51035",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/035/051035_hanrei.pdf"
+}

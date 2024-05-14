@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 10,
+    "day": 24
+  },
+  "case_number": "昭和50(オ)737",
+  "case_name": "預金支払請求同参加",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第116号389頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和48(ネ)1598",
+  "original_date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 5,
+    "day": 7
+  },
+  "gist": "銀行預金債権に譲渡禁止の特約があることを知らなかつたことにつき譲受人に重大な過失があるとされた事例",
+  "case_gist": "倒産した会社の譲渡禁止の特約のある銀行定期預金債権、定期積金債権、当座預金債権等を譲り受けるに際し、譲受人が右倒産会社又は預金先銀行のいずれに対しても、譲渡禁止の特約の有無につき照会するなどの調査をしなかつた等判示のような事情のもとにおいては、譲受人は右譲渡禁止の特約の存在を知らなかつたことに重大な過失があるというべきである。",
+  "ref_law": "民法466条2項",
+  "lawsuit_id": "66842",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66842",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/842/066842_hanrei.pdf"
+}

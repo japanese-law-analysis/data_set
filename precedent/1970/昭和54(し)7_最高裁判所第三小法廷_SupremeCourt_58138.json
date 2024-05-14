@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 2,
+    "day": 6
+  },
+  "case_number": "昭和54(し)7",
+  "case_name": "受託収賄、外国為替及び外国貿易管理法違反被告事件についてした証拠決定に対する異議申立棄却決定に対する特別抗告",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第214号51頁",
+  "original_court_name": "東京地方裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 1,
+    "day": 17
+  },
+  "gist": "証拠決定に対する異議申立棄却決定に対しては、特別抗告は許されない―いわゆる丸紅ルート事件―",
+  "ref_law": "刑訴法433条1項",
+  "lawsuit_id": "58138",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58138",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/138/058138_hanrei.pdf"
+}

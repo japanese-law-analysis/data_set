@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 12,
+    "day": 21
+  },
+  "case_number": "昭和46(オ)760",
+  "case_name": "違法拘束救済人身保護請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第104号767頁",
+  "original_court_name": "千葉地方裁判所",
+  "original_case_number": "昭和46(人)1",
+  "original_date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 8,
+    "day": 9
+  },
+  "gist": "拘束後約五か月を経てした人身保護請求が緊急性を欠くものではないとして救済を与えられた事例",
+  "case_gist": "夫婦関係の破綻に瀕した夫が子を拘束したのち約五か月を経て妻から人身保護請求による救済を求めた場合でも、判示の事情のもとでは、緊急性を欠くものではなく、救済を与えることができる。",
+  "ref_law": "人身保護法2条，人身保護規則4条",
+  "lawsuit_id": "62062",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62062",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/062/062062_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 7,
+    "day": 6
+  },
+  "case_number": "昭和46(オ)773",
+  "case_name": "建物収去土地明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第26巻6号1133頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和44(ネ)1012",
+  "original_date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 5,
+    "day": 18
+  },
+  "gist": "家事審判規則一〇六条一項の相続財産管理人の応訴権限",
+  "case_gist": "家庭裁判所が家事審判規則一〇六条一項により選任する相続財産管理人は、相続財産に関して提起された訴につき、相続人の法定代理人として、家庭裁判所の許可なくして応訴することができるものと解すべきである。",
+  "ref_law": "民法28条，民法103条，民法907条2項，家事審判規則106条1項",
+  "lawsuit_id": "52062",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52062",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/062/052062_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 2,
+    "day": 7
+  },
+  "case_number": "昭和46(オ)915",
+  "case_name": "家屋所有権確認等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第111号47頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_case_number": "昭和44(ネ)75",
+  "original_date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 7,
+    "day": 28
+  },
+  "gist": "民法一二五条の法定追認事由が「取消ノ原因タル状況ノ止ミタル後」に生じたことについての主張・立証責任",
+  "case_gist": "民法一二五条各号所定の事由が「取消ノ原因タル状況ノ止ミタル後」に生じたことについての主張・立証責任は、同条による追認の効果を主張する者に属する。",
+  "ref_law": "民法125条，民訴法第2編第3章第1節",
+  "lawsuit_id": "62076",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62076",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/076/062076_hanrei.pdf"
+}

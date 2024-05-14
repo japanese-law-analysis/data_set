@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 7,
+    "day": 13
+  },
+  "case_number": "昭和46(オ)527",
+  "case_name": "借地権不存在確認等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第106号433頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和42(ネ)1769",
+  "original_date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 2,
+    "day": 9
+  },
+  "gist": "土地の賃借人が借地上に妻名義で保存登記を経由した建物を所有する場合と建物保護に関する法律一条の対抗力",
+  "case_gist": "土地の賃借人は、借地上に妻名義で保存登記を経由した建物を所有していても、その後その土地の所有権を取得した第三者に対し、建物保護に関する法律一条により、その土地の賃借権をもつて対抗することができない（最高裁昭和四四年（オ）第八八一号同四七年六月二二日第一小法廷判決参照）。\n\n（反対意見がある。）",
+  "ref_law": "建物保護ニ関スル法律1条",
+  "lawsuit_id": "62048",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62048",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/048/062048_hanrei.pdf"
+}

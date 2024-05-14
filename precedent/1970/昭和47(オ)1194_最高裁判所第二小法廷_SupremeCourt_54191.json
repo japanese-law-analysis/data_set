@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 9,
+    "day": 20
+  },
+  "case_number": "昭和47(オ)1194",
+  "case_name": "詐害行為取消、株金等支払請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第28巻6号1202頁",
+  "original_court_name": "広島高等裁判所\n        　松江支部",
+  "original_case_number": "昭和46(ネ)69",
+  "original_date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 9,
+    "day": 22
+  },
+  "gist": "相続の放棄と詐害行為取消権",
+  "case_gist": "相続の放棄は、民法四二四条の詐害行為取消権行使の対象とならない。",
+  "ref_law": "民法424条，民法939条",
+  "lawsuit_id": "54191",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54191",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/191/054191_hanrei.pdf"
+}

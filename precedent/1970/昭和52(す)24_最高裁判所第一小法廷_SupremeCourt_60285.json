@@ -1,0 +1,20 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 4,
+    "day": 11
+  },
+  "case_number": "昭和52(す)24",
+  "case_name": "勾留理由開示請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "却下",
+  "article_info": "集刑　第203号571頁",
+  "gist": "最高裁判所に対する勾留理由開示の請求が許されなかつた事例",
+  "ref_law": "刑訴法82条，刑訴法426条",
+  "lawsuit_id": "60285",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60285",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/285/060285_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 12,
+    "day": 2
+  },
+  "case_number": "昭和51(オ)291",
+  "case_name": "所有権移転請求権保全仮登記抹消等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第119号299頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和41(ネ)545",
+  "original_date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 10,
+    "day": 31
+  },
+  "gist": "無催告解除の特約がある場合に反対給付の提供をすることなく相手方の履行遅滞を理由としてした解除の効力",
+  "case_gist": "双務契約の当事者の一方が、相手方の債務と同時履行の関係にある自らの反対給付の提供をすることなしに、相手方の履行遅滞を理由としてした契約解除は、相手方の履行遅滞があれば催告を要することなく契約を解除しうる旨の特約がある場合においても、効力を生じない。",
+  "ref_law": "民法533条，民法541条",
+  "lawsuit_id": "64128",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64128",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/128/064128_hanrei.pdf"
+}

@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 2,
+    "day": 1
+  },
+  "case_number": "昭和53(あ)1860",
+  "case_name": "賭博開帳図利、常習賭博",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第214号47頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 9,
+    "day": 28
+  },
+  "gist": "賭博罪規定違憲論（一四条）が欠前提で処理された事例",
+  "ref_law": "憲法14条，刑法185条，刑法186条",
+  "lawsuit_id": "58093",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58093",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/093/058093_hanrei.pdf"
+}

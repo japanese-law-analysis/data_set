@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 3,
+    "day": 2
+  },
+  "case_number": "昭和41(オ)1420",
+  "case_name": "賃金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第27巻2号210頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "昭和39(ネ)448",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 9,
+    "day": 29
+  },
+  "gist": "一、年次有給休暇制度と休暇の利用目的\n二、労働基準法三九条三項但書にいう「事業の正常な運営を妨げる」か否かの判断基準",
+  "case_gist": "一、年次有給休暇における休暇の利用目的は労働基準法の関知しないところであり、休暇をどのように利用するかは、使用者の干渉を許さない労働者の自由であると解すべきである。\n二、労働基準法三九条三項但書にいう「事業の正常な運営を妨げる」か否かは、当該労働者の所属する事業場を基準として判断すべきである。",
+  "ref_law": "労働基準法39条",
+  "lawsuit_id": "51884",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51884",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/884/051884_hanrei.pdf"
+}

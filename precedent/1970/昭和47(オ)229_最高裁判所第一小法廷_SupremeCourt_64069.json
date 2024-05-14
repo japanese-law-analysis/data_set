@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 1,
+    "day": 29
+  },
+  "case_number": "昭和47(オ)229",
+  "case_name": "損害金請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第117号39頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和40(ネ)1656",
+  "original_date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 11,
+    "day": 25
+  },
+  "gist": "競売申立登記後に成立した不動産賃借権の対抗力",
+  "case_gist": "競売申立の登記後に不動産を賃借した者は、右賃借権をもつて右不動産の競落人に対抗することができない。",
+  "ref_law": "民訴法650条，民訴法651条，競売法25条1項，競売法26条",
+  "lawsuit_id": "64069",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64069",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/069/064069_hanrei.pdf"
+}

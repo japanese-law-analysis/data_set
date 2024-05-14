@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 4,
+    "day": 9
+  },
+  "case_number": "昭和49(オ)1026",
+  "case_name": "受取物等引渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第30巻3号208頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和48(ネ)675",
+  "original_date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 7,
+    "day": 17
+  },
+  "gist": "復代理人が委任事務を処理するにあたり受領した物を代理人に引き渡した場合と復代理人の本人に対する受領物引渡義務",
+  "case_gist": "本人代理人間で委任契約が締結され、代理人復代理人間で復委任契約が締結された場合において、復代理人が委任事務を処理するにあたり受領した物を代理人に引き渡したときは、特別の事情がない限り、復代理人の本人に対する受領物引渡義務は消滅する。",
+  "ref_law": "民法104条，民法107条2項，民法646条1項",
+  "lawsuit_id": "53221",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53221",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/221/053221_hanrei.pdf"
+}

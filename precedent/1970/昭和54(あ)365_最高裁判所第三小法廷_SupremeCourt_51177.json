@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 7,
+    "day": 31
+  },
+  "case_number": "昭和54(あ)365",
+  "case_name": "鳥獣保護及狩猟ニ関スル法律違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第33巻5号494頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 2,
+    "day": 7
+  },
+  "gist": "鳥獣保護及狩猟ニ関スル法律一一条にいう「捕獲」の意義",
+  "case_gist": "鳥獣保護及狩猟ニ関スル法律一一条にいう「捕獲」とは、鳥獣を自己の実力支配内に入れようとする一切の方法を行うことをいい、鳥獣を現に自己の実力支配内に入れたか否かを問わない。",
+  "ref_law": "鳥獣保護及狩猟ニ関スル法律（昭和53年法律76号による改正前のもの）11条，鳥獣保護及狩猟ニ関スル法律（昭和53年法律76号による改正前のもの）21条1項1号",
+  "lawsuit_id": "51177",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51177",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/177/051177_hanrei.pdf"
+}

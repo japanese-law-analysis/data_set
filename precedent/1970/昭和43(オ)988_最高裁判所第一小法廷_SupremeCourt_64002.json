@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 2,
+    "day": 18
+  },
+  "case_number": "昭和43(オ)988",
+  "case_name": "委託金返還請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第102号177頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和41(ネ)308",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 6,
+    "day": 19
+  },
+  "gist": "二審が訴を却下した一審判決を違法としながら本案について証拠調をし原告の請求は理由がないと判断して控訴棄却の判決をすることは許されるか",
+  "case_gist": "二審が、当事者適格を欠くという理由で訴を却下した一審判決を違法としながら、本案について証拠調をし、原告の請求は理由がないと判断して控訴棄却の判決をすることは許されない。",
+  "ref_law": "民訴法588条",
+  "lawsuit_id": "64002",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64002",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/002/064002_hanrei.pdf"
+}

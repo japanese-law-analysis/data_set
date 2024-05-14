@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 12,
+    "day": 9
+  },
+  "case_number": "昭和44(ク)432",
+  "case_name": "家事審判規則第一〇六号による処分に対する抗告却下決定に対する特別抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集民　第101号653頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和44(ラ)263",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 10,
+    "day": 13
+  },
+  "gist": "家事審判法一四条および家事審判規則の合憲性",
+  "case_gist": "家事審判規則一〇六条一項の処分に対し、不服申立の途を認めない家事審判法一四条および家事審判規則の規定は、憲法三二条に違反しない。",
+  "ref_law": "家事審判法14条，憲法32条",
+  "lawsuit_id": "64010",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64010",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/010/064010_hanrei.pdf"
+}

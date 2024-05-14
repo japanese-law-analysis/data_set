@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 8,
+    "day": 9
+  },
+  "case_number": "昭和49(あ)2470",
+  "case_name": "強盗強姦、強盗殺人、死体遺棄、恐喝未遂、窃盗、森林窃盗、傷害、暴行、横領",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第31巻5号821頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 10,
+    "day": 31
+  },
+  "gist": "甲事実について逮捕勾留中の被疑者を乙事実について取調べることが違法ではないとされた事例",
+  "case_gist": "甲事実について逮捕・勾留の理由と必要があり、甲事実と乙事実とが社会的事実として一連の密接な関連がある場合（判文参照）、甲事実について逮捕・勾留中の被疑者を、同事実について取調べるとともに、これに付随して乙事実について取調べても、違法とはいえない。",
+  "ref_law": "刑訴法60条1項，刑訴法198条1項，刑訴法198条2項，刑訴法199条",
+  "lawsuit_id": "51822",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51822",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/822/051822_hanrei.pdf"
+}

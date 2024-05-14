@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 12,
+    "day": 26
+  },
+  "case_number": "昭和46(オ)267",
+  "case_name": "占有回収等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第116号935頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和44(ネ)379",
+  "original_date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 12,
+    "day": 16
+  },
+  "gist": "仮登記担保と目的不動産による旅館営業",
+  "case_gist": "仮登記担保権者が予約完結権を行使して目的不動産の引渡を受けるとともに、債務者との特約に基づき右不動産による旅館の営業権をその施設、器具ともども引渡を受けたなど判示事情のもとでは、債権者が目的不動産を換価して清算するまでこれを使用して旅館営業を継続しても右不動産に対する債務者の所有権を侵害するものではない。",
+  "ref_law": "民法90条，民法200条，民法709条，不動産登記法2条，不動産登記法7条2項",
+  "lawsuit_id": "66766",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66766",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/766/066766_hanrei.pdf"
+}

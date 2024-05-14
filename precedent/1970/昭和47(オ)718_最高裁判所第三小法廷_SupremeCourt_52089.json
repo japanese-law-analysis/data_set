@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 10,
+    "day": 30
+  },
+  "case_number": "昭和47(オ)718",
+  "case_name": "建物収去土地明渡請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第27巻9号1289頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和45(ネ)2865",
+  "original_date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 3,
+    "day": 30
+  },
+  "gist": "一、借地法の適用のある賃貸借の賃貸人が賃借人の破産を理由としてする解約申入と正当事由の要否\n二、賃借人が破産しても賃貸借が解約されない場合における賃料債権の性質",
+  "case_gist": "一、借地法の適用のある賃貸借の賃借人が破産しても、賃借土地上に建物を所有している場合は、賃貸人が民法六二一条に基づき解約申入をするためには、借地法四条一項但書、六条二項の正当事由が解約申入の時から民法六一七条所定の期間満了に至るまで存続することを要するものと解すべきである。\n二、賃借人が破産しても賃貸借が解約されない場合、破産宣告の日以後の賃料債権は、破産法四七条七号の財団債権と解すべきである。",
+  "ref_law": "民法621条，借地法4条1項，借地法6条2項，破産法47条7号",
+  "lawsuit_id": "52089",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52089",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/089/052089_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 9,
+    "day": 27
+  },
+  "case_number": "昭和48(あ)85",
+  "case_name": "医師法違反、薬事法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第27巻8号1403頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 12,
+    "day": 6
+  },
+  "gist": "一　医師法上診察にあたる事例\n二　薬事法二四条一項にいう販売の意義",
+  "case_gist": "一　断食道場の入寮者に対し、いわゆる断食療法を施行するため入寮の目的、入寮当時の症状、病歴等を尋ねる行為（原判文参照）は、その者の疾病の治療、予防を目的とした診察方法の一種である問診にあたる。\n二　薬事法二四条一項にいう販売とは、反覆継続して不特定または多数の者に対してなす意思のもとに医薬品を有償譲渡することを意味し、必ずしも営利の目的があることを要しない。",
+  "ref_law": "医師法17条，薬事法24条1項",
+  "lawsuit_id": "51069",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51069",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/069/051069_hanrei.pdf"
+}

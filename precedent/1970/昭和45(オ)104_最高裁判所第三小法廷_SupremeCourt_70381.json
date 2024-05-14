@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 4,
+    "day": 21
+  },
+  "case_number": "昭和45(オ)104",
+  "case_name": "婚姻無効確認請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第99号137頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和43(ネ)1413",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 10,
+    "day": 30
+  },
+  "gist": "婚姻の届書が受理された当時本人が意識を失つていた場合と婚姻の届出の効力",
+  "case_gist": "将来婚姻することを約して性的交渉を続けてきた者が、婚姻意思を有し、かつその意志に基づいて婚姻の届書を作成したときは、かりに届出の受理された当時意識を失つていたとしても、その受理前に翻意したなど特段の事情のないかぎり、右届出の受理により婚姻は有効に成立するものと解すべきである。",
+  "ref_law": "民法759条",
+  "lawsuit_id": "70381",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70381",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/381/070381_hanrei.pdf"
+}

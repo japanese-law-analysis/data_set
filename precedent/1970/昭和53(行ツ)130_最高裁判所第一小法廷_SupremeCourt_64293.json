@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 12,
+    "day": 20
+  },
+  "case_number": "昭和53(行ツ)130",
+  "case_name": "所得税更正処分取消",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第128号277頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和52(行コ)54",
+  "original_date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 7,
+    "day": 18
+  },
+  "gist": "違憲の主張がその前提を欠くとして排斥された事例",
+  "case_gist": "所得税法二八条三項が憲法一四条に違反する旨の主張は、同項所定の給与所得控除額を超える必要経費の支出があつたのに同項の適用上右超過額の控除が認められないとされた場合においてのみ問題となりうるものであるところ、本件において、上告人は、単に、研究費の名目で支給された分はすべて研究費として支出したから所得がなかつた旨を主張するにとどまるから、所論違憲の主張は、その前提を欠く。",
+  "ref_law": "裁判所法10条1号，所得税法28条3項",
+  "lawsuit_id": "64293",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64293",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/293/064293_hanrei.pdf"
+}

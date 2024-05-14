@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 3,
+    "day": 4
+  },
+  "case_number": "昭和48(行ツ)59",
+  "case_name": "弁護士法六二条に基づく裁決取消請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第117号141頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和47(行ケ)109",
+  "original_date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 2,
+    "day": 15
+  },
+  "gist": "一、弁護士懲戒請求者の異議申出を棄却した日本弁護士連合会の裁決につき右請求者が取消訴訟を提起することの許否\n二、弁護士法六二条が憲法一四条に違反するとの主張が排斥された事例",
+  "case_gist": "一、弁護士法五八条により弁護士の懲戒を請求した者は、同法六一条により日本弁護士連合会に対してした異議申出を棄却されても、右異議申出棄却裁決につき取消訴訟を提起することを許されない。\n二、（省略）",
+  "ref_law": "弁護士法58条，弁護士法61条，弁護士法62条，行政事件訴訟法9条，憲法14条",
+  "lawsuit_id": "64076",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64076",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/076/064076_hanrei.pdf"
+}

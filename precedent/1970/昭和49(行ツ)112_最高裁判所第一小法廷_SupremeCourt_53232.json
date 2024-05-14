@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 5,
+    "day": 6
+  },
+  "case_number": "昭和49(行ツ)112",
+  "case_name": "不当労働行為救済申立棄却命令取消請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第30巻4号437頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和46(行コ)27",
+  "original_date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 9,
+    "day": 18
+  },
+  "gist": "民間放送会社の放送管弦楽団員が労働組合法上の労働者と認められた事例",
+  "case_gist": "民間放送会社とその放送管弦楽団員との間に締結された放送出演契約において、楽団員が、会社以外の放送等に出演することが自由とされ、また、会社からの出演発注に応じなくても当然には契約違反の責任を問われないこととされている場合であつても、会社が必要とするときは随時その一方的に指定するところによつて楽団員に出演を求めることができ、楽団員は原則としてこれに応ずべき義務を負うという基本的関係が存在し、かつ、楽団員の受ける出演報酬が、演奏によつてもたらされる芸術的価値を評価したものというよりは、むしろ演奏自体の対価とみられるものであるなど判示のような事情があるときは、楽団員は、労働組合法の適用を受ける労働者にあたる。",
+  "ref_law": "労働組合法3条，労働組合法7条",
+  "lawsuit_id": "53232",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53232",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/232/053232_hanrei.pdf"
+}

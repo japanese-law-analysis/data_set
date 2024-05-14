@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 6,
+    "day": 18
+  },
+  "case_number": "昭和45(オ)18",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第24巻6号544頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和43(ネ)2023",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 9,
+    "day": 25
+  },
+  "gist": "主たる債務者の手形債務の時効消滅と手形保証債務の消滅",
+  "case_gist": "主たる債務者の手形債務について消滅時効が完成したときは、手形保証債務も消滅する。",
+  "ref_law": "手形法32条，手形法71条，手形法77条1項8号，手形法77条3項",
+  "lawsuit_id": "55132",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55132",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/132/055132_hanrei.pdf"
+}

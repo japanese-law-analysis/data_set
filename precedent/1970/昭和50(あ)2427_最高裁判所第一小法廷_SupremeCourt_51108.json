@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 11,
+    "day": 4
+  },
+  "case_number": "昭和50(あ)2427",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "刑集　第30巻10号1887頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 11,
+    "day": 12
+  },
+  "gist": "一　判決の言直しの効力\n二　量刑不当により破棄自判された事例",
+  "case_gist": "一　判決は、宣告のための公判期日が終了するまでの間は、判決書又はその原稿の朗読を誤つた場合にこれを訂正することも、いつたん宣告した判決の内容を変更してあらためてこれを宣告することも、違法ではなく、言直しがあつたときは、その内容どおりのものとして効力を生ずる。\n二　一審裁判官が、いつたん保護観察付き刑の執行猶予の判決を言い渡した後、法律上執行猶予とすることが許されない場合であるとの誤解から実刑の判決に言直しをしたことなど、諸般の事情のあることを考慮するときは、当初に宣告された刑をもつて臨むのが正義にかない、一、二審判決は量刑不当により破棄を免れない。",
+  "ref_law": "刑訴法342条，刑訴法411条2号，刑訴規則35条",
+  "lawsuit_id": "51108",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51108",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/108/051108_hanrei.pdf"
+}

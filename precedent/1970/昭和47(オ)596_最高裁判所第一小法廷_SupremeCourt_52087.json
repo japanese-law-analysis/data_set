@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 3,
+    "day": 7
+  },
+  "case_number": "昭和47(オ)596",
+  "case_name": "第三者異議",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第28巻2号174頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和46(ネ)154",
+  "original_date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 3,
+    "day": 22
+  },
+  "gist": "一、指名債権の二重譲渡と優劣の基準\n二、民法四六七条二項の確定日付ある通知と認められた事例",
+  "case_gist": "一、指名債権が二重に譲渡された場合、譲受人相互の問の優劣は、確定日付ある通知が債務者に到達した日時又は確定日付ある債務者の承諾の日時の先後によつて決すべきである。\n二、債権者が、債権譲渡証書に確定日付を受け、これを即日短時間内に債務者に交付したときは、民法四六七条二項所定の確定日付ある通知があつたものと認めることができる。",
+  "ref_law": "民法467条",
+  "lawsuit_id": "52087",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52087",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/087/052087_hanrei.pdf"
+}

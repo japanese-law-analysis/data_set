@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 1,
+    "day": 31
+  },
+  "case_number": "昭和50(あ)2017",
+  "case_name": "現住建造物等放火、同未遂、詐欺、窃盗、同未遂",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第199号55頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 10,
+    "day": 1
+  },
+  "gist": "強制・拷問等を理由とする憲法三六条、三八条一、二項違反の主張を欠前提とした例",
+  "ref_law": "憲法38条",
+  "lawsuit_id": "61668",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61668",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/668/061668_hanrei.pdf"
+}

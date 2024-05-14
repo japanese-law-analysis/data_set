@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 10,
+    "day": 14
+  },
+  "case_number": "昭和52(オ)106",
+  "case_name": "約束手形金",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第31巻6号825頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和48(ネ)251",
+  "original_date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 9,
+    "day": 29
+  },
+  "gist": "代表権の欠缺を知らないことにつき重大な過失がある第三者と商法二六二条に基づく会社の責任",
+  "case_gist": "会社は、商法二六二条所定の表見代表取締役の行為につき、重大な過失によりその代表権の欠缺を知らない第三者に対しては、責任を負わない。",
+  "ref_law": "商法262条",
+  "lawsuit_id": "53291",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53291",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/291/053291_hanrei.pdf"
+}

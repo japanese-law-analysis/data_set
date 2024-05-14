@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 10,
+    "day": 14
+  },
+  "case_number": "昭和50(オ)250",
+  "case_name": "建物収去土地明渡等、賃借権確認等本訴（参加）、建物収去土地明渡反訴",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第122号37頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和43(ネ)1955",
+  "original_date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 10,
+    "day": 1
+  },
+  "gist": "控訴審でされた当事者参加に対する参加被告の反訴提起と参加人の同意の要否",
+  "case_gist": "控訴審において当事者参加がなされた場合において、右参加の訴に対し参加被告が反訴を提起するには、参加人の同意を要しない。",
+  "ref_law": "民訴法71条，民訴法382条",
+  "lawsuit_id": "64092",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64092",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/092/064092_hanrei.pdf"
+}

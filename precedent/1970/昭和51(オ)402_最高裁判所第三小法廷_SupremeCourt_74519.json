@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 5,
+    "day": 27
+  },
+  "case_number": "昭和51(オ)402",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第120号607頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和47(ネ)1254",
+  "original_date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 12,
+    "day": 9
+  },
+  "gist": "借家法一条ノ二の正当事由に基づく解約申入の認定について狭義の弁論主義違反の違法があるとされた事例",
+  "case_gist": "「被告は、賃借家屋を改造するにつき賃貸人たる原告に立会の機会を与えず、原告の予期しなかつた改造を行い、また、原告に対して賃借家屋の補強工事をすると約束したのにその完全な履行をしなかつた。被告のこのような改造の方法、程度及びその後の補強のしかたは、賃貸借における当事者間の信頼関係を破壊するものであるから、賃貸借契約を解除する。」との原告主張は、被告の賃借家屋の用方義務違反を理由とする契約解除の主張であつて、このような場合に、裁判所が借家法一条ノ二の正当事由に基づく解約申入及び正当事由の存在を認定して原告の家屋明渡請求を認容したのは、当事者の主張しない事実を認定した違法がある。",
+  "ref_law": "民訴法186条",
+  "lawsuit_id": "74519",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74519",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/519/074519_hanrei.pdf"
+}

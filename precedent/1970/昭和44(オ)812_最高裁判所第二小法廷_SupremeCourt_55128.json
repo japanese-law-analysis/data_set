@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 6,
+    "day": 19
+  },
+  "case_number": "昭和44(オ)812",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第24巻6号560頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和40(ネ)1058",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 5,
+    "day": 29
+  },
+  "gist": "不法行為による弁護士費用の損害賠償請求権の消滅時効が当該報酬の支払契約をした時から進行するものとされた事例",
+  "case_gist": "不法行為の被害者が弁護士に対し損害賠償請求の訴を提起することを委任し、成功時に成功額の一割五分の割合による報酬金を支払う旨の契約を締結した場合には、右契約の時が民法七二四条にいう損害を知つた時にあたり、その時から右請求権の消滅時効が進行するものと解して妨げがない。",
+  "ref_law": "民法724条",
+  "lawsuit_id": "55128",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55128",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/128/055128_hanrei.pdf"
+}

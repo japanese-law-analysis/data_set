@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 6,
+    "day": 21
+  },
+  "case_number": "昭和50(あ)204",
+  "case_name": "公務執行妨害、傷害",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第201号71頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 12,
+    "day": 23
+  },
+  "gist": "いわゆる分割審理の違憲をいう主張、退廷命令をうけた被告人不在廷のままの審理の違憲をいう主張が「欠前提」とされた事例",
+  "ref_law": "憲法31条，憲法32条，憲法37条",
+  "lawsuit_id": "60122",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60122",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/122/060122_hanrei.pdf"
+}

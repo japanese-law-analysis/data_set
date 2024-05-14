@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 12,
+    "day": 23
+  },
+  "case_number": "昭和52(オ)976",
+  "case_name": "株主総会決議取消",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第122号619頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和52(ネ)643",
+  "original_date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 6,
+    "day": 20
+  },
+  "gist": "相互銀行が作成すべき商法二八一条一項所定の貸借対照表、損益計算書、準備金及び利益又は利息の配当に関する議案並びに附属明細書に記載する金額の単位",
+  "case_gist": "相互銀行が作成すべき商法二八一条一項所定の貸借対照表損益計算書、準備金及び利益又は利息の配当に関する議案並びに附属明細書に金額を千円単位で記載しても違法ではない。",
+  "ref_law": "商法281条1項，株式会社の貸借対照表、損益計算書及び附属明細書に関する規則の特例に関する省令2条，相互銀行法施行規則7条，相互銀行法施行規則8条，相互銀行法施行規則9条の2",
+  "lawsuit_id": "64222",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64222",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/222/064222_hanrei.pdf"
+}

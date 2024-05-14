@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 7,
+    "day": 25
+  },
+  "case_number": "昭和52(オ)1086",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第124号483頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和50(ネ)200",
+  "original_date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 7,
+    "day": 4
+  },
+  "gist": "民訴法一八六条違反があるとされた事例",
+  "case_gist": "原告がその主張にかかる損害賠償債権額から一部弁済の受領分として一定の金額を控除し、その残額をもつて請求金額としている場合には、裁判所は、その認定にかかる原告の損害賠償債権額から原告の控除にかかる右一定金額を控除した金額を認容額とすべきであり、その一部を控除するにとどめることは、民訴法一八六条に違反するものとして違法である。",
+  "ref_law": "民訴法186条",
+  "lawsuit_id": "64166",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64166",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/166/064166_hanrei.pdf"
+}

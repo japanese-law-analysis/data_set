@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 2,
+    "day": 20
+  },
+  "case_number": "昭和53(オ)1012",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第126号107頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和52(ネ)320",
+  "original_date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 5,
+    "day": 31
+  },
+  "gist": "請負人が第三者に損害を与えた場合において注文者に注文又は指図について過失があるとされた事例",
+  "case_gist": "注文者が請負人に対し、注文者所有の旧木造建物を取り壊してその跡地一杯に鉄骨ブロック四階建てアパートの建築工事を請け負わせ、請負人の人夫が右旧建物に隣接する第三者所有の建物の屋根に上つて建築資材等を運搬し、屋根瓦上に資材等を落下させるなどして瓦を破壊し、それによる雨漏りによつて野地板、垂木が腐蝕するような損害を与えた場合において、旧建物と第三者所有の建物とが互いに屋根が重なり合うほど密着して建てられていたものであり、旧建物の跡地一杯にアパートを建築すれば、両者の間には、足場を組む余地も、落下物の防止措置を施す余裕もなかつたなどの事情（原判決理由参照）にあるときは、注文者に注文又は指図について過失があつたというべきである。",
+  "ref_law": "民法716条",
+  "lawsuit_id": "64238",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64238",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/238/064238_hanrei.pdf"
+}

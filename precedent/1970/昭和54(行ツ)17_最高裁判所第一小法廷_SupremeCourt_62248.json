@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 9,
+    "day": 20
+  },
+  "case_number": "昭和54(行ツ)17",
+  "case_name": "固定資産税等賦課処分取消",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第127号461頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和52(行コ)23",
+  "original_date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 11,
+    "day": 17
+  },
+  "gist": "地方税法三四三条二項、七〇二条二項と憲法一一条、一三条、一四条、二九条",
+  "case_gist": "地方税法三四三条二項、七〇二条二項の規定は、憲法一一条、一三条、一四条、二九条に違反しない。",
+  "ref_law": "憲法11条，憲法13条，憲法14条，憲法29条，地方税法343条2項，地方税法702条2項",
+  "lawsuit_id": "62248",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62248",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/248/062248_hanrei.pdf"
+}

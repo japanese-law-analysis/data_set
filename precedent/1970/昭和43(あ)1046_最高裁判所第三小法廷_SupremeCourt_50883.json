@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 7,
+    "day": 24
+  },
+  "case_number": "昭和43(あ)1046",
+  "case_name": "建造物侵入、威力業務妨害",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第27巻7号1336頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 3,
+    "day": 14
+  },
+  "gist": "特定の大学の管理に属しないで大学生一般の居住の用に供せられている施設におけるいわゆる自治活動と憲法二三条",
+  "case_gist": "特定の大学の管理に属しないで、一般に大学に在籍する学生に居住の場を提供している施設を利用する学生が、その居住生活に関して行なういわゆる自治活動は、それ自体としては大学の学生として享有する学問の自由と直接関係のないものである。",
+  "ref_law": "憲法23条",
+  "lawsuit_id": "50883",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50883",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/883/050883_hanrei.pdf"
+}

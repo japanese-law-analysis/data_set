@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 11,
+    "day": 16
+  },
+  "case_number": "昭和47(オ)734",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第110号469頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和45(ネ)796",
+  "original_date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 4,
+    "day": 24
+  },
+  "gist": "労働省労働基準局長通達に示された労働能力喪失表と得べかりし利益の喪失による損害の算定",
+  "case_gist": "被害者の職業と傷害の具体的状況により、労働省労働基準局長通達に示された労働能力喪失表に基づく労働能力喪失率以上に収入の減少を生じる場合には、その収入減少率に照応する損害の賠償を請求できる。",
+  "ref_law": "民法709条，自動車損害賠償保障法3条",
+  "lawsuit_id": "62135",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62135",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/135/062135_hanrei.pdf"
+}

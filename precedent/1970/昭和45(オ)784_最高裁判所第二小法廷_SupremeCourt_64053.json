@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 11,
+    "day": 20
+  },
+  "case_number": "昭和45(オ)784",
+  "case_name": "持分権確認請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第101号487頁",
+  "original_court_name": "広島高等裁判所",
+  "original_case_number": "昭和43(ネ)236",
+  "original_date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 5,
+    "day": 7
+  },
+  "gist": "相続放棄の申述の受理に家事審判官の署名または記名を欠く場合における放棄の効力",
+  "case_gist": "相続放棄の申述の受理に家事審判官の押印のみがあつてその署名または記名を欠く場合でも、申述が申述者の真意に基づき適式になされたものであるかぎり、放棄の実体上の効力は妨げられない。",
+  "ref_law": "民法938条，家事審判規則16条，家事審判規則115条1項",
+  "lawsuit_id": "64053",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64053",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/053/064053_hanrei.pdf"
+}

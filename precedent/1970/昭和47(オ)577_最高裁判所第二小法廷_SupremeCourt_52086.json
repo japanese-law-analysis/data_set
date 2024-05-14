@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 4,
+    "day": 6
+  },
+  "case_number": "昭和47(オ)577",
+  "case_name": "債権譲渡無効確認請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第27巻3号483頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和45(ネ)158",
+  "original_date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 1,
+    "day": 27
+  },
+  "gist": "破産法七四条一項所定の期間の起算日",
+  "case_gist": "破産法七四条一項所定の一五日の期間は、権利移転の原因たる行為の日からではなく、当事者間における権利移転の効果を生じた日から起算すべきである。",
+  "ref_law": "破産法74条1項",
+  "lawsuit_id": "52086",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52086",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/086/052086_hanrei.pdf"
+}

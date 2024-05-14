@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 3,
+    "day": 1
+  },
+  "case_number": "昭和47(オ)554",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第108号265頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_case_number": "昭和44(ネ)166",
+  "original_date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 3,
+    "day": 15
+  },
+  "gist": "継続的保証契約に基づく保証人に対する債務履行の請求が許されないとされた事例",
+  "case_gist": "期間の定めのない継続的保証契約の締結後、三年余を経、主債務者の経営状態が悪化し、その所有の担保物件も他に売却されたのちに、金融機関である債権者が、保証人の意向を打診しないで、債務者に対し新たな貸付をしたなど判示の事情がある場合には、債権者が保証人に対し右貸付について保証債務の履行を求めるのは、信義則に反し権利の濫用であつて許されない。",
+  "ref_law": "民法1条，民法446条",
+  "lawsuit_id": "62125",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62125",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/125/062125_hanrei.pdf"
+}

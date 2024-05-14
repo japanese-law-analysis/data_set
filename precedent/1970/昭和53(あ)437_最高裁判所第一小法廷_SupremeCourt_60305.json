@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 9,
+    "day": 21
+  },
+  "case_number": "昭和53(あ)437",
+  "case_name": "業務上過失傷害、道路交通法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第213号155頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 2,
+    "day": 21
+  },
+  "gist": "道路交通法七二条一項後段の規定は憲法三八条一項に違反しない",
+  "ref_law": "憲法38条1項",
+  "lawsuit_id": "60305",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60305",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/305/060305_hanrei.pdf"
+}

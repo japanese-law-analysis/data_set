@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 9,
+    "day": 29
+  },
+  "case_number": "昭和53(オ)533",
+  "case_name": "建物収去等土地明渡",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第32巻6号1210頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和51(ネ)1957",
+  "original_date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 1,
+    "day": 26
+  },
+  "gist": "土地及びその地上建物の所有者が土地につき所有権移転登記を経由しないまま建物に抵当権を設定した場合と法定地上権の成否",
+  "case_gist": "土地及びその地上建物の所有者が建物につき抵当権を設定したときは、土地の所有権移転登記を経由していなくても、法定地上権の成立を妨げない。",
+  "ref_law": "民法177条，民法388条",
+  "lawsuit_id": "53328",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53328",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/328/053328_hanrei.pdf"
+}

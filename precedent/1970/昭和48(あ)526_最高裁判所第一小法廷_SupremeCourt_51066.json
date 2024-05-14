@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 12,
+    "day": 22
+  },
+  "case_number": "昭和48(あ)526",
+  "case_name": "詐欺",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "刑集　第31巻7号1147頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 1,
+    "day": 25
+  },
+  "gist": "上告の審判と刑訴法三九三条二項、三九七条二項の準用の有無",
+  "case_gist": "上告の審判には、刑訴法三九三条二項、三九七条二項は準用されない。",
+  "ref_law": "刑訴法393条2項，刑訴法397条2項，刑訴法414条",
+  "lawsuit_id": "51066",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51066",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/066/051066_hanrei.pdf"
+}

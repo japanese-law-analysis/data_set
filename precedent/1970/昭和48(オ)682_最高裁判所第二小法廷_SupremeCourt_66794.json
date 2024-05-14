@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 7,
+    "day": 9
+  },
+  "case_number": "昭和48(オ)682",
+  "case_name": "賃金等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集民　第118号249頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和45(ネ)3240",
+  "original_date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 4,
+    "day": 11
+  },
+  "gist": "一、裁判所が労働基準法一一四条の附加金の支払を命じるまでに予告手当の支払を完了した場合と附加金の支払を命じることの可否\n\n二、商人である使用者が労働者に対して負う賃金債務の遅延損害金の利率\n\n三、労働基準法一一四条による附加金の支払義務の履行遅滞による損害金の利率",
+  "case_gist": "一、使用者に労働基準法二〇条の違反があつても、裁判所が同法一一四条の附加金の支払を命じるまでに予告手当の支払を完了したときは、裁判所は附加金の支払を命じることはできない。\n\n二、商人である使用者が労働者に対して負う賃金債務の遅延損害金の利率は商事法定利率によるべきである。\n\n三、労働基準法一一四条による附加金の支払義務の履行遅滞による損害金の利率は民事法定利率によるべきである。",
+  "ref_law": "労働基準法114条，商法4条，商法503条，商法514条，民法404条，民法419条",
+  "lawsuit_id": "66794",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66794",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/794/066794_hanrei.pdf"
+}

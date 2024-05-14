@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 9,
+    "day": 12
+  },
+  "case_number": "昭和48(あ)911",
+  "case_name": "収賄",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集刑　第193号263頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 2,
+    "day": 24
+  },
+  "gist": "併合罪の一部に事実誤認の疑いがある場合と刑訴法四一一条",
+  "case_gist": "原判決の維持する第一審判決には、併合罪の関係にある被告人の二二回合計一一八万三、〇〇〇円の収賄事実のうち、一回一八万円の収賄事実について事実誤認の疑いがあり、その罪が併合罪の関係にある罪の中で最も犯罪重き罪とされ、かつ、その罪の成否が被告人に対する追徴金額にも影響することが明らかであるときは、原判決を破棄しなければ著しく正義に反する。",
+  "ref_law": "刑訴法411条",
+  "lawsuit_id": "59943",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59943",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/943/059943_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 8,
+    "day": 27
+  },
+  "case_number": "昭和48(行ツ)112",
+  "case_name": "課税処分取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第29巻7号1226頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_case_number": "昭和42(行コ)3",
+  "original_date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 10,
+    "day": 15
+  },
+  "gist": "第二次納税義務の納付告知の取消訴訟において本来の納税義務者の納税義務を争うことの可否",
+  "case_gist": "第二次納税義務の納付告知を受けた者は、本来の納税義務者の納税義務を確定した課税処分等が不存在又は無効でないかぎり、右納付告知の取消訴訟において、本来の納税義務者の納税義務の存否又は数額を争うことはできない。",
+  "ref_law": "国税徴収法32条，地方税法11条",
+  "lawsuit_id": "52120",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52120",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/120/052120_hanrei.pdf"
+}

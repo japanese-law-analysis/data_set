@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 6,
+    "day": 15
+  },
+  "case_number": "昭和46(あ)149",
+  "case_name": "有印公文書変造、同行使",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集刑　第184号763頁",
+  "original_court_name": "福岡高等裁判所\n        　宮崎支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 12,
+    "day": 22
+  },
+  "gist": "上告審であらたに提出された書面を公判廷に顕出し、その外観、記載内容、事件の経緯等に徴し、事実誤認を疑うべき顕著な事由があるとして破棄された事例",
+  "ref_law": "刑訴法393条，刑訴法411条3号",
+  "lawsuit_id": "61583",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61583",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/583/061583_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 2,
+    "day": 13
+  },
+  "case_number": "昭和44(あ)1931",
+  "case_name": "業務上過失致死、道路交通法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第24巻2号17頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 8,
+    "day": 26
+  },
+  "gist": "業務上過失致死被告事件において被害者を事前に発見することが不可能であつたという主張と刑訴法三三五条二項",
+  "case_gist": "業務上過失致死被告事件において、被害者の自転車が被告人の進路前方に停車中の大型貨物自動車の背後から突如飛び出して来たため、被告人にはこれを事前に発見することが不可能であつたという主張は、刑訴法三三五条二項にいう「法律上犯罪の成立を妨げる理由となる事実」の主張にあたらない。",
+  "ref_law": "刑訴法335条2項，刑法211条",
+  "lawsuit_id": "50950",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50950",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/950/050950_hanrei.pdf"
+}

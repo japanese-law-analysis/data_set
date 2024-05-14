@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 11,
+    "day": 12
+  },
+  "case_number": "昭和45(あ)721",
+  "case_name": "強盗殺人、同未遂、放火",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第178号249頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 3,
+    "day": 20
+  },
+  "lawsuit_id": "59595",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59595",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/595/059595_hanrei.pdf"
+}

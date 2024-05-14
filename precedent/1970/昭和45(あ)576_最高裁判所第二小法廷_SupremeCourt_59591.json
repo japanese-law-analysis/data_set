@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 7,
+    "day": 10
+  },
+  "case_number": "昭和45(あ)576",
+  "case_name": "賭博開帳図利、同幇助",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第177号171頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 10,
+    "day": 9
+  },
+  "gist": "事件の同一性を欠くとされた事例",
+  "case_gist": "被告人が、昭和四三年三月二八日にａにおいて賭博をしたとの勾留状記載の事実と、同日同所においてＡらがした賭博開張図利を、賭具を貸与して幇助したとの起訴状記載の事実とは、併合罪の関係にあるものであるから、事件の同一性を欠くものと解すべきである。",
+  "ref_law": "刑法45条，刑法185条，刑法186条2項，刑訴法60条，刑訴法256条，刑訴法280条，刑訴法312条",
+  "lawsuit_id": "59591",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59591",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/591/059591_hanrei.pdf"
+}

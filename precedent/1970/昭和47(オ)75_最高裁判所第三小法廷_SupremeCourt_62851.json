@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 10,
+    "day": 31
+  },
+  "case_number": "昭和47(オ)75",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第107号87頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和45(ネ)622",
+  "original_date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 10,
+    "day": 29
+  },
+  "gist": "取締役が会社の債務の支払について約束手形を振り出し不渡になっても債権者に損害が生じないとされた事例",
+  "case_gist": "取締役が会社の既存債務の支払について、約束手形を振り出し、右手形が不渡になっても、その振出以前より、会社の経営が行き詰り、資産もなく、右既存債務が債権者の度重なる催告にもかかわらず支払われず、かつ、支払われる見込みもなかつたときは、特段の事情のない限り、手形の不渡によつて右債権者は損害を蒙らない。",
+  "ref_law": "商法266条ノ3",
+  "lawsuit_id": "62851",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62851",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/851/062851_hanrei.pdf"
+}

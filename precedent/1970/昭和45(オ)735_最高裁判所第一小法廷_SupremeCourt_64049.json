@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 11,
+    "day": 26
+  },
+  "case_number": "昭和45(オ)735",
+  "case_name": "所有権移転登記請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第101号621頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和41(ネ)1948",
+  "original_date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 4,
+    "day": 30
+  },
+  "gist": "農地を目的とする売買契約締結後に目的土地が農地でなくなつた場合の売買契約の効力",
+  "case_gist": "甲所有の農地が甲から乙へ、乙から丙へ順次売却された場合において、各売買契約が、いずれも右農地を宅地とする目的のもとに、甲において耕作者を離作させることを定めてなされたものであり、右土地が、甲の意思に起因して、次第に農地として利用するに適しない状態になつた後に恒久的に宅地化されたときには、右売買契約は、その宅地化により、地方長官の許可を経ることなく効力を生ずるに至つたものである。",
+  "ref_law": "農地法2条，農地法5条，農地調整法（昭和21年法律第42号による改正前のもの）5条",
+  "lawsuit_id": "64049",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64049",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/049/064049_hanrei.pdf"
+}

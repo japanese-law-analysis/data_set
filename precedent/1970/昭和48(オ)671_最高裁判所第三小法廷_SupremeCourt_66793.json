@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 5,
+    "day": 31
+  },
+  "case_number": "昭和48(オ)671",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第112号61頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和45(ネ)1209",
+  "original_date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 3,
+    "day": 30
+  },
+  "gist": "スキー滑走場の開設音叉はその管理者と右スキー滑走場において受傷した者に対する救護義務",
+  "case_gist": "スキー・ロープ・トウ等を設置しスキー滑走場を開設している者又はこれを管理すべき立場にある者は、当該スキー滑走場においてスキー事故によつて受傷した者に対し、スキー滑走場の危険度、過去の事故数・その程度、来場するスキーヤーの能力、スキー事故の態様、状況等の具体的事情に対応する救護義務を負い、この義務を懈怠したときには民法七〇九条により不法行為責任を負う。",
+  "ref_law": "民法709条",
+  "lawsuit_id": "66793",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66793",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/793/066793_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 11,
+    "day": 25
+  },
+  "case_number": "昭和46(オ)808",
+  "case_name": "土地所有権確認請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第104号461頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和44(ネ)2375",
+  "original_date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 5,
+    "day": 27
+  },
+  "gist": "土地所有権の取得時効の要件として無過失と認められた事例",
+  "case_gist": "甲および乙が丙所有の一筆の土地の各一部ずつを買い受けるにあたり、隣接の丁所有の土地との境界を誤認したため、甲が乙の買い受けた土地の一部（係争地）を占有した場合において、測量士が公図をも参照し丁からも境界を聞いたうえで測定した結果に基づき、丙の代理人、甲および乙が立ち会つて、甲および乙各自の取得する範囲を定め、係争地を含む土地が丙から甲に引き渡されたものである等判示の事実関係があるときは、甲において事前にみずから公図を見あるいは土地区画整理組合の図面について調査しなかつたとしても、甲は、係争地の占有の開始につき無過失であつたと認めることができる。",
+  "ref_law": "民法162条2項",
+  "lawsuit_id": "62068",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62068",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/068/062068_hanrei.pdf"
+}

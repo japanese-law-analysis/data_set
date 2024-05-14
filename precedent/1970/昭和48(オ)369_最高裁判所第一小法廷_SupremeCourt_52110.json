@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 3,
+    "day": 6
+  },
+  "case_number": "昭和48(オ)369",
+  "case_name": "土地所有権移転登記請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第29巻3号203頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和47(ネ)1448",
+  "original_date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 12,
+    "day": 21
+  },
+  "gist": "土地の売主の共同相続人がその相続した代金債権を保全するため買主に代位して他の共同相続人に対し所有権移転登記手続を請求することの許否",
+  "case_gist": "買主に対する土地所有権移転登記手続義務を相続した共同相続人の一部の者が右義務の履行を拒絶しているため、買主が相続人全員による登記手続義務の履行の提供があるまで代金全額について弁済を拒絶する旨の同時履行の抗弁権を行使している場合には、他の相続人は、自己の相続した代金債権を保全するため、右買主が無資力でなくても、これに代位して、登記手続義務の履行を拒絶している相続人に対し買主の所有権移転登記手続請求権を行使することができる。",
+  "ref_law": "民法423条1項，民法533条",
+  "lawsuit_id": "52110",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52110",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/110/052110_hanrei.pdf"
+}

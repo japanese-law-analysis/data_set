@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 12,
+    "day": 24
+  },
+  "case_number": "昭和48(オ)794",
+  "case_name": "株式会社総会決議取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第30巻11号1076頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和46(ネ)2828",
+  "original_date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 4,
+    "day": 25
+  },
+  "gist": "一、株式会社が定款で株主総会における議決権行使の代理人の資格を株主に限定している場合と株主である地方公共団体、株式会社の職員又は従業員による議決権の代理行使\n二、株主総会決議取消の訴において商法二四八条一項所定の期間経過後に新たな取消事由を追加主張することの許否",
+  "case_gist": "一、株式会社が定款で株主総会における議決権行使の代理人の資格を株主に限定している場合においても、株主である地方公共団体、株式会社が、その職制上上司の命令に服する義務を負い、議決権の代理行使にあたつて法人の代表者の意図に反することができないようになつている職員又は従業員に議決権を代理行使させることは、右定款の規定に反しない。\n二、株主総会決議取消の訴において、商法二四八条一項所定の期間経過後に新たな取消事由を追加主張することは、許されない。",
+  "ref_law": "商法239条3項，商法247条，商法248条1項",
+  "lawsuit_id": "53217",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53217",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/217/053217_hanrei.pdf"
+}

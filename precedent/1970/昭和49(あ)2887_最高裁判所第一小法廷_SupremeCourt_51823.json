@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 2,
+    "day": 19
+  },
+  "case_number": "昭和49(あ)2887",
+  "case_name": "贈賄",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "刑集　第30巻1号47頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 11,
+    "day": 14
+  },
+  "gist": "工場誘致に関する事務を担当していた地方公共団体の職員に対する贈賄罪の成立が否定された事例",
+  "case_gist": "工場誘致に関する事務を担当していた甲県及び乙市の職員が、乙市内に工場用地を買いたい旨申し込んだ者を、乙市において開発し工場誘致を図つていた工場団地に案内したが、希望にそう土地がなかつたことから、かねて被告人らから売却処分方を依頼されていた土地に案内しこれを買い入れるようあつせんした場合において、被告人が、右あつせん行為に対する謝礼として、前記職員に対し現金を供与しても、贈賄罪は成立しない。",
+  "ref_law": "刑法197条1項，刑法198条1項",
+  "lawsuit_id": "51823",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51823",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/823/051823_hanrei.pdf"
+}

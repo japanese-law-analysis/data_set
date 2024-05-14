@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 4,
+    "day": 5
+  },
+  "case_number": "昭和51(行ツ)88",
+  "case_name": "法人税審査決定取消等",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第126号443頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和49(行コ)14",
+  "original_date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 6,
+    "day": 8
+  },
+  "gist": "一　審査決定通知書の理由附記が不備であるとはいえないとされた事例\n二　青色申告書に係る法人税の更生処分の瑕疵と右処分後の青色申告書提出承認取消処分による瑕疵の治癒",
+  "case_gist": "一　省略\n二　青色申告書に係る法人税の更正処分につき理由雑記の欠如及び推計によつたことの瑕疵がある場合においても、右処分後に青色申告書提出承認取消処分がされたときは、右瑕疵は治癒される。",
+  "ref_law": "旧法人税法（昭和37年法律第67号による改正前の昭和22年法律第28号）25条7項，旧法人税法（昭和37年法律第67号による改正前の昭和22年法律第28号）31条の4，旧法人税法（昭和37年法律第67号による改正前の昭和22年法律第28号）32条，旧法人税法（昭和37年法律第67号による改正前の昭和22年法律第28号）35条5項",
+  "lawsuit_id": "64161",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64161",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/161/064161_hanrei.pdf"
+}

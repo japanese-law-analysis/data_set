@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 6,
+    "day": 25
+  },
+  "case_number": "昭和51(あ)626",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第201号85頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 1,
+    "day": 27
+  },
+  "gist": "公民権停止と憲法一四条",
+  "ref_law": "憲法14条，公選法252条",
+  "lawsuit_id": "60206",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60206",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/206/060206_hanrei.pdf"
+}

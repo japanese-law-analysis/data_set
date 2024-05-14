@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 12,
+    "day": 7
+  },
+  "case_number": "昭和44(オ)1207",
+  "case_name": "建物収去土地明渡等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第27巻11号1503頁",
+  "original_court_name": "高松高等裁判所",
+  "original_case_number": "昭和41(ネ)253",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 9,
+    "day": 4
+  },
+  "gist": "地区画整理事業施行者から使用収益部分の指定を受けなかつた従前の土地の一部の賃借人と従前の土地の所有者との間における仮換地の一部についての使用収益に関する合意の効力",
+  "case_gist": "従前の土地の一部を賃借する者は、土地区画整理事業施行者から仮換地につき使用収益すべき部分の指定を受けなかつたとしても、従前の土地の所有者との間で、仮換地の特定部分について使用収益できる旨合意し、かつ、右特定部分がそのまま本換地の一部となることを条件として換地処分終了後もこれを賃貸借する旨合意した場合には、従前の土地の所有者との関係では、仮換地の右特定部分を適法に占有することができ、かつ、仮換地がそのまま本換地となつたときは、本換地の右特定部分について賃借権を主張することができる。",
+  "ref_law": "土地区画整理法85条，土地区画整理法98条，土地区画整理法103条，土地区画整理法104条，民法601条",
+  "lawsuit_id": "51950",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51950",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/950/051950_hanrei.pdf"
+}

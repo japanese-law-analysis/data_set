@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 3,
+    "day": 30
+  },
+  "case_number": "昭和44(行ツ)39",
+  "case_name": "農地売渡処分無効確認等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第105号423頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和43(行コ)10",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 3,
+    "day": 11
+  },
+  "gist": "農地法八〇条に基づき買収農地の売払いを求める訴訟の被告",
+  "case_gist": "農地法八〇条に基づき農地の被買収者が買収農地の売払いを求める訴訟においては、国を被告とすべきである。",
+  "ref_law": "農地法80条",
+  "lawsuit_id": "61982",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61982",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/982/061982_hanrei.pdf"
+}

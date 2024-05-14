@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 3,
+    "day": 28
+  },
+  "case_number": "昭和49(オ)583",
+  "case_name": "過払金返還",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第123号289頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和45(ネ)625",
+  "original_date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 3,
+    "day": 29
+  },
+  "gist": "手形割引依頼人に対する買戻請求権の行使と手形債務者に対する権利の行使との関係",
+  "case_gist": "割引手形の買戻請求権行使後の手形所持人は、割引依頼人の買戻債務が発生しても現実に履行されるまでは同時履行の抗弁権によりその手形を保有することができ、現実に支払を受けるまでは手形の正当な所持人として一切の権利を行使することができる。",
+  "ref_law": "手形法43条，手形法77条",
+  "lawsuit_id": "64079",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64079",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/079/064079_hanrei.pdf"
+}

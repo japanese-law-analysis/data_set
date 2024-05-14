@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 9,
+    "day": 7
+  },
+  "case_number": "昭和46(オ)528",
+  "case_name": "家屋収去土地明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第27巻8号907頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和41(ネ)773",
+  "original_date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 1,
+    "day": 21
+  },
+  "gist": "借地法一〇条の建物買取請求権と土地賃貸借の合意解除",
+  "case_gist": "建物とともにその敷地の賃借権を譲り受けた者の有する借地法一〇条の建物買取請求権は、賃貸人が賃借人である譲渡人との間で賃貸借契約を合意解除しても、特段の事情がないかぎり、消滅しないものと解すべきである。",
+  "ref_law": "民法545条1項，民法601条，借地法10条",
+  "lawsuit_id": "52050",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52050",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/050/052050_hanrei.pdf"
+}

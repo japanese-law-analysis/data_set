@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 12,
+    "day": 23
+  },
+  "case_number": "昭和46(あ)470",
+  "case_name": "業務上過失致死、道路交通法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第25巻9号1100頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 1,
+    "day": 21
+  },
+  "gist": "道路交通法一一七条の二第一号（昭和四五年法律第八六号による改正前のもの）に規定する酒酔い運転の罪の犯意",
+  "case_gist": "道路交通法一一七条の二第一号（昭和四五年法律第八六号による改正前のもの）は規定する酒酔い運転の罪の犯意としては、行為者において、飲酒によりアルコールを自己の身体は保有しながら車両等の運転をすることの認識があれば足り、そのアルコールの影響により正常な運転ができないおそれのある状態に達していることまで認識している必要はない。",
+  "ref_law": "道路交通法（昭和45年法律86号による改正前のもの）65条，道路交通法（昭和45年法律86号による改正前のもの）117条の2第1号",
+  "lawsuit_id": "57026",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57026",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/026/057026_hanrei.pdf"
+}

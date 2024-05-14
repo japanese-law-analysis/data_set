@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 8,
+    "day": 30
+  },
+  "case_number": "昭和50(オ)920",
+  "case_name": "持分権移転登記等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第30巻7号768頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和41(ネ)1973",
+  "original_date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 12,
+    "day": 19
+  },
+  "gist": "遺留分権利者が受贈者又は受遺者に対し民法一〇四一条一項の価額弁償を請求する訴訟における贈与又は遺贈の目的物の価額算定の基準時",
+  "case_gist": "遺留分権利者が受贈者又は受遺者に対し民法一〇四一条一項の価額弁償を請求する訴訟における贈与又は遺贈の目的物の価額算定の基準時は、右訴訟の事実審口頭弁論終結の時である。",
+  "ref_law": "民法1041条1項",
+  "lawsuit_id": "54223",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54223",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/223/054223_hanrei.pdf"
+}

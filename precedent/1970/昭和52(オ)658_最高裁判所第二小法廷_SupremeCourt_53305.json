@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 3,
+    "day": 6
+  },
+  "case_number": "昭和52(オ)658",
+  "case_name": "土地所有権確認等",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第32巻2号135頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和51(ネ)1626",
+  "original_date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 3,
+    "day": 23
+  },
+  "gist": "占有の承継が主張された場合と民法一六二条二項にいう占有者の善意・無過失の判定時点",
+  "case_gist": "不動産の占有主体に変更があつて承継された二個以上の占有が併せて主張された場合には、民法一六二条二項にいう占有者の善意・無過失は、その主張にかかる最初の占有者につきその占有開始の時点において判定すれば足りる。",
+  "ref_law": "民法162条2項，民法187条",
+  "lawsuit_id": "53305",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53305",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/305/053305_hanrei.pdf"
+}

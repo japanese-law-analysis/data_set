@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 2,
+    "day": 15
+  },
+  "case_number": "昭和53(オ)315",
+  "case_name": "共有持分移転登記手続",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第126号73頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_case_number": "昭和51(ネ)302",
+  "original_date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 11,
+    "day": 24
+  },
+  "gist": "買主の地位の譲渡につき売主が承諾を与えた旨の主張が予備的主張に対する関係だけでなく主位的主張に対する関係においてもされたものとして判断遺脱の違法があるとされた事例",
+  "case_gist": "（省略）",
+  "ref_law": "民訴法394条",
+  "lawsuit_id": "64255",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64255",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/255/064255_hanrei.pdf"
+}

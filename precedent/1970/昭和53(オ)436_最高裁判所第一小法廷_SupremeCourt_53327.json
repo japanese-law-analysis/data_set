@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 12,
+    "day": 21
+  },
+  "case_number": "昭和53(オ)436",
+  "case_name": "不当利得返還並びに損害賠償",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第32巻9号1749頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和51(ネ)918",
+  "original_date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 12,
+    "day": 21
+  },
+  "gist": "一　民訴法一九八条二一の損害賠償義務と民法五〇九にいう「不法行為ニ因リテ生シタ」債務\n二　民訴法一九八条二項の原状回復及び損害賠償が別訴で請求された場合にその債務者が前訴請求債権と請求の基礎を同じくする債権をもつてする相殺",
+  "case_gist": "一　民訴法一九八条二項の損害賠償義務は、民法五〇九条にいう「不法行為ニ因リテ生シタ」債務にあたらない。\n二　民訴法一九八条二項の原状回復及び損害賠償が別訴で請求された場合には、その債務者は、前訴の請求債権と請求の基礎を同じくする債権であつても、これを自働債権とする相殺をもつて債権者に対抗することができる。",
+  "ref_law": "民訴法198条2項，民法505条，民法509条",
+  "lawsuit_id": "53327",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53327",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/327/053327_hanrei.pdf"
+}

@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 9,
+    "day": 20
+  },
+  "case_number": "昭和51(あ)923",
+  "case_name": "覚せい剤取締法違反、銃砲刀剣類所持等取締法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第201号427頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 5,
+    "day": 7
+  },
+  "gist": "憲法三八条違反（補強証拠なし）の主張が欠前提とされた事例",
+  "ref_law": "憲法38条",
+  "lawsuit_id": "60218",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60218",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/218/060218_hanrei.pdf"
+}

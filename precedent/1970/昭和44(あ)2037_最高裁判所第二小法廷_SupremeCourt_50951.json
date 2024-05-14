@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 5,
+    "day": 29
+  },
+  "case_number": "昭和44(あ)2037",
+  "case_name": "業務上過失傷害",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "刑集　第24巻5号223頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 7,
+    "day": 29
+  },
+  "gist": "少年の被疑事件につき捜査等に日時を要したため家庭裁判所の審判を受ける機会が失われたときと捜査手続の違法",
+  "case_gist": "犯行時の年令一九歳二か月の少年の業務上過失傷害被疑事件について、警察における捜査の終結が遅滞したため被疑者が成年に達して家庭裁判所の審判を受ける機会が失われたとしても、それが捜査に従事した司法巡査の勤務先警察署内における配置の変更、他事件の処理等の事情（判文参照）によるものであるときは、捜査官の措置にいまだ重大な職務違反があるとはいえず、その捜査手続を違法とすることはできない。",
+  "ref_law": "刑訴法246条，刑訴法338条4号，少年法41条，少年法42条",
+  "lawsuit_id": "50951",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50951",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/951/050951_hanrei.pdf"
+}

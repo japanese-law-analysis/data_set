@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 6,
+    "day": 25
+  },
+  "case_number": "昭和49(あ)133",
+  "case_name": "公職選挙法違反、名誉毀損",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第192号823頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 11,
+    "day": 13
+  },
+  "gist": "憲法一五条一項にいう公務員の選定罷免権の行使とはいえないとされた事例",
+  "ref_law": "憲法15条1項",
+  "lawsuit_id": "59983",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59983",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/983/059983_hanrei.pdf"
+}

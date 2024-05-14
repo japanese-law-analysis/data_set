@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 3,
+    "day": 27
+  },
+  "case_number": "昭和52(あ)836",
+  "case_name": "麻薬取締法違反、関税法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第33巻2号140頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 3,
+    "day": 30
+  },
+  "gist": "一　営利の目的で麻薬であるジアセチルモルヒネの塩類粉末を覚せい剤と誤認して輸入した場合とその罪責\n二　税関長の許可を受けないで麻薬を覚せい剤と誤認して輸入した場合とその罪責",
+  "case_gist": "一　営利の目的で、麻薬であるジアセチルモルヒネの塩類粉末を覚せい剤と誤認して輸入した場合には、麻薬取締法六四条二項、一項、一二条一項の麻薬輸入罪が成立する。\n二　税関長の許可を受けないで、麻薬を覚せい剤と誤認して輸入した場合には、関税法一一一条一項の無許可輸入罪が成立する。",
+  "ref_law": "刑法38条1項，刑法38条2項，麻薬取締法12条1項，麻薬取締法64条1項，麻薬取締法64条2項，覚せい剤取締法13条，覚せい剤取締法41条1項1号，覚せい剤取締法41条2項，関税法109条1項，関税法111条1項，関税定率法21条1項",
+  "lawsuit_id": "51141",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51141",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/141/051141_hanrei.pdf"
+}

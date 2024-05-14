@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 6,
+    "day": 5
+  },
+  "case_number": "昭和45(あ)329",
+  "case_name": "道路交通法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第176号507頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 1,
+    "day": 20
+  },
+  "gist": "起訴状謄本送達数日後に同種の罪を犯したことを量刑に考慮することと憲法一四条",
+  "case_gist": "起訴状謄本送達数日後に同種の罪を犯したことを不利益な情状の一つとして考慮しても、すでに公訴を提起された者とそうでない者とを法律関係において差別しようとしているわけではないから、憲法一四条違反の主張は前提を欠く。",
+  "ref_law": "憲法14条",
+  "lawsuit_id": "59584",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59584",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/584/059584_hanrei.pdf"
+}

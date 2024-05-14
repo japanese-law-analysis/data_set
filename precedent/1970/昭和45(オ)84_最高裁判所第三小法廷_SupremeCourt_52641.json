@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 11,
+    "day": 21
+  },
+  "case_number": "昭和45(オ)84",
+  "case_name": "機器引渡請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第26巻9号1657頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和43(ネ)949",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 10,
+    "day": 23
+  },
+  "gist": "即時取得と法人の善意・無過失",
+  "case_gist": "法人における民法一九二条の善意・無過失は、その法人の代表者について決するが、代理人が取引行為をしたときは、その代理人について決すべきである。",
+  "ref_law": "民法101条，民法192条",
+  "lawsuit_id": "52641",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52641",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/641/052641_hanrei.pdf"
+}

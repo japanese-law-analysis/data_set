@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 4,
+    "day": 4
+  },
+  "case_number": "昭和50(し)12",
+  "case_name": "裁判官忌避申立事件についてした即時抗告棄却決定に対する特別抗告",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第196号117頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 2,
+    "day": 22
+  },
+  "gist": "共犯者の審理と憲法三七条一項\n\n判例の具体的摘示を欠く事例",
+  "ref_law": "憲法37条1項",
+  "lawsuit_id": "60153",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60153",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/153/060153_hanrei.pdf"
+}

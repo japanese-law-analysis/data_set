@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 3,
+    "day": 8
+  },
+  "case_number": "昭和47(あ)941",
+  "case_name": "強盗致傷、公務執行妨害、窃盜",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第186号227頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 3,
+    "day": 31
+  },
+  "gist": "判例の具体的摘示を欠くとされた事例",
+  "lawsuit_id": "59821",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59821",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/821/059821_hanrei.pdf"
+}

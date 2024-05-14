@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 6,
+    "day": 29
+  },
+  "case_number": "昭和51(あ)1163",
+  "case_name": "昭和二五年東京都条例第四四号集会、集団行進及び集団示威運動に関する条例違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "刑集　第32巻4号967頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 6,
+    "day": 1
+  },
+  "gist": "無許可の集団示威運動の指導者につき相当の理由に基づく違法性の錯誤があつたとして昭和二五年東京都条例第四四号集会、集団行進及び集団示威運動に関する条例五条の罪の成立を否定した原判決に事実の誤認があるとされた事例―いわゆる羽田空港ロビーデモ第二次上告審事件―",
+  "case_gist": "Ａ内国際線出発ロビーにおける参加者約三〇〇名による無許可の集団示威運動を指導した被告人について違法性の錯誤を認めた原判決は、被告人が終始みずからの意思と行動で右集団を指導、煽動していたなど判示の事情のもとにおいては、事実を誤認したものであり、破棄を免れない。",
+  "ref_law": "昭和25年東京都条例1条，昭和25年東京都条例5条，刑法38条3項，刑訴法411条3号",
+  "lawsuit_id": "50198",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50198",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/198/050198_hanrei.pdf"
+}

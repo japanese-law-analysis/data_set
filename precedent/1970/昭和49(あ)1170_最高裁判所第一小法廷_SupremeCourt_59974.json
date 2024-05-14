@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 9,
+    "day": 5
+  },
+  "case_number": "昭和49(あ)1170",
+  "case_name": "賭博開帳図利",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第193号237頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 4,
+    "day": 23
+  },
+  "gist": "刑法一八六条二項の規定違憲（一三条、一四条）主張が、原審で主張判断なしとされた事例",
+  "lawsuit_id": "59974",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59974",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/974/059974_hanrei.pdf"
+}

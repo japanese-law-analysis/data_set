@@ -1,0 +1,15 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 12,
+    "day": 22
+  },
+  "case_number": "昭和50(う)1702",
+  "case_name": "暴力行為等処罰に関する法律違反、道路交通法違反被告事件",
+  "court_name": "東京高等裁判所第五刑事部",
+  "lawsuit_id": "20534",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=20534",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/534/020534_hanrei.pdf"
+}

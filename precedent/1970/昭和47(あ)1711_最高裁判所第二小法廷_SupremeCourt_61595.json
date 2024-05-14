@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 3,
+    "day": 30
+  },
+  "case_number": "昭和47(あ)1711",
+  "case_name": "業務上過失傷害",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集刑　第186号517頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 7,
+    "day": 25
+  },
+  "gist": "優先通行権のある道路を時速五〇粁で進行中の被告人車がこれと交差する道路の交差点入口付近で一時停止後彼我の距離が約二四・六米になつた折横断のため突如発進した被害車両と交差点内で衝突した事案につき被告人に無罪を言い渡した事例",
+  "ref_law": "刑法211条，刑訴法411条1号",
+  "lawsuit_id": "61595",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61595",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/595/061595_hanrei.pdf"
+}

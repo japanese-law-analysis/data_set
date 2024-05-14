@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 1,
+    "day": 16
+  },
+  "case_number": "昭和50(オ)1104",
+  "case_name": "所有権移転登記手続請求再審",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第117号11頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和49(ム)10",
+  "original_date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 7,
+    "day": 31
+  },
+  "gist": "虚偽の陳述をした当事者に対し受訴裁判所によつて過料の裁判がされないまま事件がその審級を離脱したときと再審事由",
+  "case_gist": "虚偽の陳述をした当事者に対し、受訴裁判所によつて過料の裁判がされないまま、事件がその審級を離脱したときは、民訴法四二〇条二項後段所定の証拠欠缺外の理由により過料の確定裁判が得られない場合にあたらない。",
+  "ref_law": "民訴法339条，民訴法420条1項7号，民訴法420条2項後段",
+  "lawsuit_id": "64087",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64087",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/087/064087_hanrei.pdf"
+}

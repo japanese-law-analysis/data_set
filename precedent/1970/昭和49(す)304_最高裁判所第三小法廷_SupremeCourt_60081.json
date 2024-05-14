@@ -1,0 +1,19 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 12,
+    "day": 26
+  },
+  "case_number": "昭和49(す)304",
+  "case_name": "道路交通法違反被告事件の上告受理決定をしなかつたことに対する特別抗告",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第194号515頁",
+  "gist": "上告受理決定をしなかつたことに対する特別抗告が不適法とされた事例",
+  "lawsuit_id": "60081",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60081",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/081/060081_hanrei.pdf"
+}

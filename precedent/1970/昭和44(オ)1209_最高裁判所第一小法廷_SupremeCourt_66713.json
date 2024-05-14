@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 3,
+    "day": 26
+  },
+  "case_number": "昭和44(オ)1209",
+  "case_name": "所有権確認等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第98号561頁",
+  "original_court_name": "高松高等裁判所",
+  "original_case_number": "昭和44(ネ)44",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 7,
+    "day": 30
+  },
+  "gist": "弁護士費用（成功報酬金）の支払契約の締結と損害",
+  "case_gist": "原判決の確定する事実関係（省略）のもとにおいては、弁護士に対し成功報酬金一〇万円の支払契約を締結することにより、依頼者は、一〇万円の債務を負い、したがつて、財産上の損害が現実に生じたものというべきである。",
+  "ref_law": "民法709条",
+  "lawsuit_id": "66713",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66713",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/713/066713_hanrei.pdf"
+}

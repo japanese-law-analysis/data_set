@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 1,
+    "day": 25
+  },
+  "case_number": "昭和52(し)159",
+  "case_name": "詐欺被告事件についてした弁論再開請求却下決定に対する特別抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第209号3頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 12,
+    "day": 19
+  },
+  "gist": "弁論再開請求却下決定に対する特別抗告の適否",
+  "ref_law": "刑訴法433条1項，刑訴法313条1項",
+  "lawsuit_id": "60282",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60282",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/282/060282_hanrei.pdf"
+}

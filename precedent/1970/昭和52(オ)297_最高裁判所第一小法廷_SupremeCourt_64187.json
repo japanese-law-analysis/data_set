@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 4,
+    "day": 24
+  },
+  "case_number": "昭和52(オ)297",
+  "case_name": "株式等返還",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第123号587頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和49(ネ)1230",
+  "original_date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 12,
+    "day": 13
+  },
+  "gist": "商品市場における売買取引の委託について預託された特定の委託証拠金充用証券の返還が不能の場合と現物の返還",
+  "case_gist": "商品市場における売買取引の委託について預託された委託証拠金充用証券が、上場証券であつて、高度の流通性と代替性を有するものである場合には、特段の事情のない限り、預託の対象である特定の充用証券の返還が不能となつたときには同銘柄、同数量の他の有価証券をもつて返還すれば足りる旨の合意が黙示的にされているものと解すべきである。",
+  "ref_law": "商品取引所法38条3項，商品取引所法79条2項，商品取引所法97条",
+  "lawsuit_id": "64187",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64187",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/187/064187_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 9,
+    "day": 30
+  },
+  "case_number": "昭和44(オ)447",
+  "case_name": "第三者異議",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第112号827頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和43(ネ)1664",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 1,
+    "day": 31
+  },
+  "gist": "将来の事実の発生を条件とする第三者異議の訴の許否",
+  "case_gist": "将来の事実の発生を条件として強制執行の不許を求める第三者異議の訴は、これを許容すべき特別な事情の存する場合を除き、許されない。",
+  "ref_law": "民訴法549条",
+  "lawsuit_id": "66729",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66729",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/729/066729_hanrei.pdf"
+}

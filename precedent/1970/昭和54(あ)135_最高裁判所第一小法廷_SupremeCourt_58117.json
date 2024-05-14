@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 6,
+    "day": 6
+  },
+  "case_number": "昭和54(あ)135",
+  "case_name": "業務上過失致死、業務上過失傷害、道路交通法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第214号619頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 12,
+    "day": 20
+  },
+  "gist": "示談の成立についての判示が量刑事情の判示にすぎないとして憲法一四条違反の主張が欠前提とされた事例",
+  "ref_law": "憲法14条",
+  "lawsuit_id": "58117",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58117",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/117/058117_hanrei.pdf"
+}

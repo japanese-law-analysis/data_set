@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 1,
+    "day": 26
+  },
+  "case_number": "昭和47(あ)2281",
+  "case_name": "業務上過失傷害、道路交通法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第186号13頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 10,
+    "day": 20
+  },
+  "gist": "違憲をいう主張が原判決に対する論難ではなく適法な上告理由にあたらないとされた事例",
+  "lawsuit_id": "59790",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59790",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/790/059790_hanrei.pdf"
+}

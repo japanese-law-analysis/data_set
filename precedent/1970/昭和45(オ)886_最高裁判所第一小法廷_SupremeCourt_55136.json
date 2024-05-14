@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 12,
+    "day": 12
+  },
+  "case_number": "昭和45(オ)886",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第28巻10号2028頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和44(ネ)1820",
+  "original_date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 5,
+    "day": 27
+  },
+  "gist": "競売法による不動産競売手続において配当異議訴訟が提起された場合と異議ある債権の配当額の供託",
+  "case_gist": "競売法による不動産競売手続において配当異議訴訟が提起された場合には、競売裁判所は、異議ある債権の配当額を供託すべきである。",
+  "ref_law": "民訴法（昭和41年法律第111号による改正前のもの）630条3項，民訴法697条",
+  "lawsuit_id": "55136",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55136",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/136/055136_hanrei.pdf"
+}

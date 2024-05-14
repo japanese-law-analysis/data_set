@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 6,
+    "day": 21
+  },
+  "case_number": "昭和47(オ)198",
+  "case_name": "所有権確認等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第27巻6号712頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和46(ネ)314",
+  "original_date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 11,
+    "day": 25
+  },
+  "gist": "通謀による虚偽の登記名義を真正なものに回復するための所有権移転登記手続請求訴訟における被告敗訴の確定判決と口頭弁論終結後被告から善意で当該不動産を譲り受けた第三者",
+  "case_gist": "通謀による虚偽の登記名義を真正なものに回復するための所有権移転登記手続請求訴訟における被告敗訴の確定判決は、口頭弁論終結後被告から善意で当該不動産を譲り受けた第三者に対してその効力を有しない。",
+  "ref_law": "民法94条2項，民訴法201条1項，民訴法497条ノ2第1項",
+  "lawsuit_id": "52079",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52079",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/079/052079_hanrei.pdf"
+}

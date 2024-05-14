@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 9,
+    "day": 26
+  },
+  "case_number": "昭和46(行ツ)19",
+  "case_name": "行政処分取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第29巻8号1338頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和45(行コ)21",
+  "original_date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 12,
+    "day": 17
+  },
+  "gist": "公認会計士が業務を廃止した場合における地位喪失の時期",
+  "case_gist": "公認会計士は、その業務を廃止した場合には、その届出に基づいて公認会計士協会が登録を抹消した時に、その地位を喪失する。",
+  "ref_law": "公認会計士法21条，公認会計士等登録規則7条，公認会計士等登録規則10条",
+  "lawsuit_id": "54187",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54187",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/187/054187_hanrei.pdf"
+}

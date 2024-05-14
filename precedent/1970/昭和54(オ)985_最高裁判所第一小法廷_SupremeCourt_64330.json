@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 12,
+    "day": 20
+  },
+  "case_number": "昭和54(オ)985",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第128号269頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和54(ネ)99",
+  "original_date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 5,
+    "day": 29
+  },
+  "gist": "手形の満期が日曜日でその翌日が国民の祝日にあたる場合と手形の支払呈示期間",
+  "case_gist": "手形の満期である昭和五二年一〇月九日が日曜日であり、翌一〇月一〇日が体育の日であつて、いずれも法定の休日にあたるときは、右手形の支払呈示期間は同年一〇月一三日までである。",
+  "ref_law": "手形法38条1項，手形法72条1項，手形法77条1項，手形法87条",
+  "lawsuit_id": "64330",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64330",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/330/064330_hanrei.pdf"
+}

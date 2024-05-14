@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 3,
+    "day": 23
+  },
+  "case_number": "昭和46(あ)758",
+  "case_name": "名誉毀損",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "その他",
+  "article_info": "集刑　第199号859頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 2,
+    "day": 20
+  },
+  "gist": "一、名誉毀損の摘示事実につき事実と誤信する相当の根拠がないとされた事例\n二、弁護人が被告人の利益擁護のためにした行為と刑法上の違法性の阻却\n三、弁護人が被告人の利益擁護のためにした名誉毀損行為につき正当な弁護活動として刑法上の違法性が阻却されないとされた事例",
+  "lawsuit_id": "61591",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61591",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/591/061591_hanrei.pdf"
+}

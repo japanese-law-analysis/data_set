@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 7,
+    "day": 23
+  },
+  "case_number": "昭和45(オ)1211",
+  "case_name": "請求異議",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第103号473頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和40(ネ)852",
+  "original_date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 9,
+    "day": 16
+  },
+  "gist": "自動車の割賦販売契約に関する公正証書と売主が自動車の返還を受けその評価額を代金額の一部に充当した場合における不足額についての執行力",
+  "case_gist": "自動車の割賦販売契約に関する公正証書において、売主は、買主の債務不履行があれば売買契約を解除して自動車の返還を受けることができ、右自動車の評価額が未払代金および費用に充たないときはなお不足額を請求することができる旨の約定がある場合に、売主が買主から自動車の返還を受けその評価額を代金債権の一部に充当した事実があつても、売主が契約を解除することなく残額につき代金の請求をするときは、右公正証書は、これに一定の金額として表示された代金債権がなお一部存在するものとして、その部分につき執行力を有するものと認めることができる。",
+  "ref_law": "民訴法559条3号",
+  "lawsuit_id": "61987",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61987",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/987/061987_hanrei.pdf"
+}

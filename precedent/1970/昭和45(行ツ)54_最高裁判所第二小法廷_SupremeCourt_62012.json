@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 11,
+    "day": 2
+  },
+  "case_number": "昭和45(行ツ)54",
+  "case_name": "不動産取得税賦課決定処分取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第110号399頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和44(行コ)44",
+  "original_date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 2,
+    "day": 23
+  },
+  "gist": "売買契約の解除に基づく売主の所有権の回復と地方税法七三条の二第一項にいう「不動産の取得」",
+  "case_gist": "売買契約の合意解除に基づく売主の所有権の回復は、それが合意によるものであると解除権の行使によるものであるとにかかわらず、地方税法七三条の二第一項にいう「不動産の取得」にあたると解すべきである。",
+  "ref_law": "地方税法73条の2第1項，地方税法（昭和45年法律第24号による改正前のもの）73条の7第12号の2",
+  "lawsuit_id": "62012",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62012",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/012/062012_hanrei.pdf"
+}

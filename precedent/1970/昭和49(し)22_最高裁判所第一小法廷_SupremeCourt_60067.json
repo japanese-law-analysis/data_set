@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 3,
+    "day": 28
+  },
+  "case_number": "昭和49(し)22",
+  "case_name": "付審判請求事件の抗告棄却決定に対する特別抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第191号685頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 2,
+    "day": 18
+  },
+  "gist": "付審判請求事件（特別抗告）において、被疑事実が職権濫用罪の構成要件にあたらないとする原判断を相当とした事例（欠前提）",
+  "lawsuit_id": "60067",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60067",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/067/060067_hanrei.pdf"
+}

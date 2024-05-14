@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 11,
+    "day": 26
+  },
+  "case_number": "昭和45(オ)788",
+  "case_name": "所有権確認等並びに損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第104号479頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和37(ネ)93",
+  "original_date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 3,
+    "day": 31
+  },
+  "gist": "地上権の時効取得が認められた事例",
+  "case_gist": "（省略）",
+  "ref_law": "民法163条，民法265条",
+  "lawsuit_id": "62002",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62002",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/002/062002_hanrei.pdf"
+}

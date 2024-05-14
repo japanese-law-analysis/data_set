@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 9,
+    "day": 27
+  },
+  "case_number": "昭和47(あ)2391",
+  "case_name": "道路交通法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第193号471頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 11,
+    "day": 6
+  },
+  "gist": "無免許運転行為に対する刑事裁判手続において運転免許を与えられないことが違憲（一三条、一四条違反）であると主張することの適否",
+  "case_gist": "運転免許拒否の処分に不服がある場合には行政訴訟を提起してその是正を求めるのが先決であり、無免許運転行為に対する刑事裁判手続において運転免許を与えられないことが違憲であるとの主張は許されない。",
+  "ref_law": "憲法13条，憲法14条",
+  "lawsuit_id": "59796",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59796",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/796/059796_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 11,
+    "day": 25
+  },
+  "case_number": "昭和41(オ)1005",
+  "case_name": "店舗明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第25巻8号1343頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和40(ネ)206",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 5,
+    "day": 31
+  },
+  "gist": "借家法一条の二に基づく解約を理由とする家屋の明渡訴訟において当事者の明示の申立額をこえる立退料の支払と引換えに明渡請求を認容することを相当と認めた事例",
+  "case_gist": "借家法一条の二に基づく解約を理由として家屋の明渡を求める訴訟において、その正当事由として、右家屋が京都市屈指の繁華街にある店舗でありながら老朽化して建替えを要する等原審認定のような諸事情（原判決理由参照）があるほか、家主がその補強条件として三〇〇万円もしくはこれと格段の相違のない範囲内で裁判所の決定する額の立退料を支払う旨の意思を表明し、これと引換えに家屋の明渡を求めている場合には、五〇〇万円の立退料の支払と引換えに右明渡請求を認容することは相当である。",
+  "ref_law": "借家法1条ノ2",
+  "lawsuit_id": "51880",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51880",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/880/051880_hanrei.pdf"
+}

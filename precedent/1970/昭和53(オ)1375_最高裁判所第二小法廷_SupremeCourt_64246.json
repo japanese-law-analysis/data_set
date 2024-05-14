@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 10,
+    "day": 12
+  },
+  "case_number": "昭和53(オ)1375",
+  "case_name": "約束手形金",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第128号1頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和52(ネ)2344",
+  "original_date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 9,
+    "day": 21
+  },
+  "gist": "手形の書替により新旧両手形の所持人となつた者が一方の手形の支払を受けた場合と他方の手形の支払請求の可否",
+  "case_gist": "支払延期のため旧手形がこれを回収せずに新手形に書き替えられた場合に、新旧両手形の所持人となつた者が新手形を書替手形と知つて取得した悪意の取得者であるときは、右所持人は、いずれか一方の手形の支払を受けたのちに、振出人に対し重ねて他方の手形の支払を求めることはできない。",
+  "ref_law": "手形法1条，手形法17条，手形法77条1項",
+  "lawsuit_id": "64246",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64246",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/246/064246_hanrei.pdf"
+}

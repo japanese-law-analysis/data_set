@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 4,
+    "day": 30
+  },
+  "case_number": "昭和45(オ)50",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第99号149頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和44(ネ)171",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 10,
+    "day": 17
+  },
+  "gist": "株式会社の代表取締役が職務の執行として第三者所有の機械を無権限者から買い受け解体処分して右第三者に損害を与えた場合における右代表取締役に対する第三者の損害賠償請求権の根拠法条",
+  "case_gist": "省略（最高裁昭和三九年（オ）第一一七五号同四四年一一月二六日大法廷判決・民集二三巻一一号二一五〇頁参照）\n\n（反対意見がある。）",
+  "ref_law": "民法709条，商法266条ノ3",
+  "lawsuit_id": "70386",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70386",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/386/070386_hanrei.pdf"
+}

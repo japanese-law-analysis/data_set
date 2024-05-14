@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 2,
+    "day": 28
+  },
+  "case_number": "昭和48(オ)930",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第111号235頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和45(ネ)3267",
+  "original_date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 5,
+    "day": 31
+  },
+  "gist": "株式会社が商法二六一条三項、七八条二項、民法四四条一項により損害賠償責任を負う場合と代表取締役個人の不法行為責任",
+  "case_gist": "株式会社の代表取締役が、その職務を行なうにつき不法行為をして他人に損害を加えたため、右株式会社がその賠償の責に任ずる場合には、右代表取締役も、個人として不法行為責任を負うものと解すべきである。",
+  "ref_law": "商法261条3項，商法78条2項，民法44条1項",
+  "lawsuit_id": "62179",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62179",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/179/062179_hanrei.pdf"
+}

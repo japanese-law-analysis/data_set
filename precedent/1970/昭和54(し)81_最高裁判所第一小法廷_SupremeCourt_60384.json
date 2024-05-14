@@ -1,0 +1,19 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 9,
+    "day": 12
+  },
+  "case_number": "昭和54(し)81",
+  "case_name": "再審請求事件記録閲覧申請に関して監察官等がとった措置に対し、特別抗告申立書と題する不服申立",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第215号285頁",
+  "gist": "不服申立の対象となるべき裁判が存在しないとして特別抗告の申立が不適法とされた事例",
+  "lawsuit_id": "60384",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60384",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/384/060384_hanrei.pdf"
+}

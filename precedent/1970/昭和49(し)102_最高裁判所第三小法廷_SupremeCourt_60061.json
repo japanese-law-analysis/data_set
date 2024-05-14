@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 11,
+    "day": 14
+  },
+  "case_number": "昭和49(し)102",
+  "case_name": "捜査記録開示の命令を求める旨の申立を却下する決定に対する特別抗告",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第194号237頁",
+  "original_court_name": "浦和地方裁判所\n        　越谷支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 10,
+    "day": 11
+  },
+  "gist": "証拠開示申立却下決定に対する特別抗告が判例の具体的指摘を欠くとして処理された事例（刑訴四二〇条の準用によらず）",
+  "ref_law": "刑訴法420条",
+  "lawsuit_id": "60061",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60061",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/061/060061_hanrei.pdf"
+}

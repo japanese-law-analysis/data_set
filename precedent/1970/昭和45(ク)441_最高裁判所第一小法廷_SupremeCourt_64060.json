@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 1,
+    "day": 25
+  },
+  "case_number": "昭和45(ク)441",
+  "case_name": "人身保護請求事件についてした請求棄却の決定に対する抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集民　第102号95頁",
+  "original_court_name": "東京地方裁判所",
+  "original_case_number": "昭和45(人)4",
+  "original_date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 12,
+    "day": 26
+  },
+  "gist": "上陸許可の証印を受けていない外国人が待機中のホテルから外出しえない状態におかれていることと憲法三四条",
+  "case_gist": "憲法は外国人の本邦への入国についてなんら規定しておらず、外国人の入国の許否は当該国家の自由裁量によつて決定しうるものとされている国際慣習法に従うことが憲法の理念に反するものではないから（最高裁昭和三二年六月一九日大法廷判決・刑集一一巻六号一六六三頁参照）、上陸許可の証印を受けていない外国人が、上陸審査手続のための待機場所とされたホテルから外出しえないことをもつて、憲法三四条に違反した自由の制限があるとする主張は、前提を欠き、認められない。",
+  "ref_law": "憲法54条，憲法22条，出入国管理令7条，出入国管理令9条，人身保護法2条，人身保護規則3条",
+  "lawsuit_id": "64060",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64060",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/060/064060_hanrei.pdf"
+}

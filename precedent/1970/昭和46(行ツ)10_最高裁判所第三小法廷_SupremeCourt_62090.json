@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 11,
+    "day": 9
+  },
+  "case_number": "昭和46(行ツ)10",
+  "case_name": "農地買収売渡無効確認等請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第104号207頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和42(行コ)29",
+  "original_date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 11,
+    "day": 9
+  },
+  "gist": "自作農創設特別措置法五条四号による都道府県知事の指定の裁量の性質",
+  "case_gist": "自作農創設特別措置法五条四号による都道府県知事り指定は、都市計画上の要請と自件農創設上の要請との調整の観点からする自由裁量行為であると解すべきである。",
+  "ref_law": "自作農創設特別措置法5条",
+  "lawsuit_id": "62090",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62090",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/090/062090_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 10,
+    "day": 19
+  },
+  "case_number": "昭和44(オ)1182",
+  "case_name": "貸金請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第25巻7号952頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和43(ネ)40",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 8,
+    "day": 29
+  },
+  "gist": "一、株式会社の清算人の員数\n二、上告審が破棄理由とした法律上の判断の再度の上告審に対する拘束力",
+  "case_gist": "一、株式会社の清算人の員数は、二人以上であることを要しない。\n二、上告審が差戻判決において破棄理由とした法律上の判断に従つてされた下級審の判決に対する再度の上告事件につき審判をする上告審はその差戻判決に示された右判断に拘束される。",
+  "ref_law": "商法430条，裁判所法4条，民訴法407条1項，民訴法407条2項",
+  "lawsuit_id": "51948",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51948",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/948/051948_hanrei.pdf"
+}

@@ -1,0 +1,20 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 6,
+    "day": 21
+  },
+  "case_number": "昭和47(す)65",
+  "case_name": "裁判官、書記官、忌避の申立",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "却下",
+  "article_info": "集刑　第184号769頁",
+  "gist": "小法廷の全裁判官に対する忌避申立につき決定をする裁判所（代理で処理した事例）",
+  "ref_law": "刑訴法23条，刑訴法26条",
+  "lawsuit_id": "59839",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59839",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/839/059839_hanrei.pdf"
+}

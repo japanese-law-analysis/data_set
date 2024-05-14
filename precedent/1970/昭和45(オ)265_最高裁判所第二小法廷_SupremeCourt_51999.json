@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 9,
+    "day": 8
+  },
+  "case_number": "昭和45(オ)265",
+  "case_name": "土地所有権移転登記手続請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第26巻7号1348頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和44(ネ)80",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 11,
+    "day": 8
+  },
+  "gist": "共同相続人の一人が相続財産につき単独所有者としての自主占有を取得したと認められた事例",
+  "case_gist": "共同相続人の一人が、単独に相続したものと信じて疑わず、相続開始とともに相続財産を現実に占有し、その管理、使用を専行してその収益を独占し、公租公課も自己の名でその負担において納付してきており、これについて他の相続人がなんら関心をもたず、異議も述べなかつた等原判示の事情（原判決理由参照）のもとにおいては、前記相続人はその相続のときから相続財産につき単独所有者としての自主占有を取得したものというべきである。",
+  "ref_law": "民法162条，民法185条，民法186条1項，民法187条1項",
+  "lawsuit_id": "51999",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51999",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/999/051999_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 2,
+    "day": 10
+  },
+  "case_number": "昭和49(あ)2002",
+  "case_name": "道路交通法違反、業務上過失傷害",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第29巻2号35頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 8,
+    "day": 5
+  },
+  "gist": "警察官が交通事故発生の直後に現場に来合わせて事故を知り負傷者の救護等の措置を開始した場合における自動車運転者の救護報告義務",
+  "case_gist": "警察官が、交通事故発生の直後に現場に来合わせて事故の発生を知り、事故を起した車両の運転者に対しとりあえず待機するよう指示したうえ、負傷者の救護及び交通の危険防止の措置を開始した場合であつても、右運転者は、道路交通法七二条一項前、後段の義務を免れない。",
+  "ref_law": "道路交通法72条1項，道路交通法117条，道路交通法117条の3第1号，道路交通法119条1項10号",
+  "lawsuit_id": "51085",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51085",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/085/051085_hanrei.pdf"
+}

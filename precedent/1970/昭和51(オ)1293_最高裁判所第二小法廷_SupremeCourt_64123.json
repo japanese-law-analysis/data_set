@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 6,
+    "day": 20
+  },
+  "case_number": "昭和51(オ)1293",
+  "case_name": "貸金・損害賠償・同附帯",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集民　第121号53頁",
+  "original_court_name": "福岡高等裁判所\n        　那覇支部",
+  "original_case_number": "昭和50(ネ)9",
+  "original_date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 9,
+    "day": 28
+  },
+  "gist": "納税義務の履行引受契約の効力",
+  "case_gist": "納税義務者と第三者との間で締結された第三者が納税義務者に代わつて特定の租税を納付する義務を負う旨の履行引受契約は、有効である。",
+  "ref_law": "民法第3編第2章第1節第1款，国税通則法41条",
+  "lawsuit_id": "64123",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64123",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/123/064123_hanrei.pdf"
+}

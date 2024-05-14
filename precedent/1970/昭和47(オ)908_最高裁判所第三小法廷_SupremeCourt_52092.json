@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 4,
+    "day": 24
+  },
+  "case_number": "昭和47(オ)908",
+  "case_name": "建物明渡等請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第27巻3号596頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "昭和45(ネ)519",
+  "original_date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 5,
+    "day": 24
+  },
+  "gist": "一、債権者代位訴訟に債権者が当事参加して第三債務者に対し提起した同一の重複訴訟\n二、債権者代位訴訟に債務者が当事者参加して第三債務者に対し提起した同一の訴についての債務者の訴訟追行権",
+  "case_gist": "一、債権者甲が債務者乙に代位して第三債務者丙に対し提起した訴訟に、乙が、民訴法七一条により参加して、丙に対し甲の丙に対する訴と訴訟物を同じくする訴を提起することは、重複起訴の禁止にはふれない。\n二、債権者甲が債務者乙に代位して第三債務者丙に対し提起した訴訟に、乙が、民訴法七一条により参加して、丙に対し甲の丙に対する訴と訴訟物を同じくする訴を提起した場合において、甲に代位原因がないときは、乙は丙に対する訴につき訴訟追行権を失わない。",
+  "ref_law": "民訴法45条，民訴法71条，民訴法201条2項，民訴法231条，民法423条1項",
+  "lawsuit_id": "52092",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52092",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/092/052092_hanrei.pdf"
+}

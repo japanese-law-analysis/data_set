@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 3,
+    "day": 29
+  },
+  "case_number": "昭和44(オ)669",
+  "case_name": "木材所有権確認および引渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第108号533頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和41(ネ)1689",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 4,
+    "day": 18
+  },
+  "gist": "木場の木材取引業者間に授受された荷渡指図書にいわゆる物権的効力は認められないとされた事例",
+  "case_gist": "木場の木材取引業者である甲が、自己の占用水面において筏屋を占有補助者として占有中の木材を乙に売り渡し、その木材を乙の占用水画への回漕を筏屋に依頼する一手段として、甲が筏屋に宛てて右木材を乙に引き渡されたい旨記載した荷渡指図書を発行して乙に交付した場合においても、木場の木材取引業者間において、かかる荷渡指図書の交付なり呈示なりによつて直ちに木材の引渡が完成するとの慣習が確立されていない以上、右荷渡指図書の交付をもつて木材の引渡があつたものと解することはできない。",
+  "ref_law": "商法1条，商法575条",
+  "lawsuit_id": "61950",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61950",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/950/061950_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 12,
+    "day": 24
+  },
+  "case_number": "昭和42(オ)861",
+  "case_name": "土地所有権確認等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第101号839頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "昭和41(ネ)56",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 4,
+    "day": 3
+  },
+  "gist": "民訴法七一条に基づく参加のあつた訴訟において原告の請求について判断を欠く判決の適法性",
+  "case_gist": "民訴法七一条に基づく参加があつた訴訟において、原告の請求について判断を欠く判決は違法であつて破棄を免れず、この瑕疵は、訴訟要件に準じ、職権をもつて調査すべきである。",
+  "ref_law": "民訴法71条",
+  "lawsuit_id": "63994",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63994",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/994/063994_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 7,
+    "day": 2
+  },
+  "case_number": "昭和42(あ)2220",
+  "case_name": "破壊活動防止法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第24巻7号412頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 6,
+    "day": 5
+  },
+  "gist": "一　破壊活動防止法三九条および四〇条は犯罪の構成要件が不明確か\n二　公訴棄却を求める申立とこれに対する裁判の要否",
+  "case_gist": "一　破壊活動防止法三九条および四〇条は、その所定の目的をもつて、刑法一九九条、一〇六条等の罪を実行するための具体的な準備をすることや、その実行のための具体的な協議をすることのような、社会的に危険な行為を処罰しようとするものであり、その犯罪構成要件が不明確なものとは認められない。\n二　公訴棄却を求める申立は、職権の発動を促す意味をもつに過ぎず、これに対して申立棄却の裁判をする義務はない。",
+  "ref_law": "破壊活動防止法39条，破壊活動防止法40条，憲法21条，憲法31条，刑訴法338条，刑訴法339条，刑訴規則33条",
+  "lawsuit_id": "50845",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50845",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/845/050845_hanrei.pdf"
+}

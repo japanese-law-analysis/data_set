@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 6,
+    "day": 15
+  },
+  "case_number": "昭和47(オ)91",
+  "case_name": "株式譲渡担保契約無効確認請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第27巻6号700頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和46(ネ)106",
+  "original_date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 10,
+    "day": 14
+  },
+  "gist": "一、商法二〇四条一項但書による株式の譲渡制限と取締役会の承認のない株式譲渡の譲渡当事者間における効力\n二、株式の譲渡担保と商法二〇四条一項",
+  "case_gist": "一、定款をもつて株式の譲渡につき取締役会の承認を要する旨定められている場合に、その承認をえないで株式が譲渡されても、右株式の譲渡は、譲渡当事者間においては有効であると解すべきである。\n二、株式を譲渡担保に供することは、商法二〇四条一項にいう株式の譲渡にあたると解すべきである。",
+  "ref_law": "商法204条1項",
+  "lawsuit_id": "52093",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52093",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/093/052093_hanrei.pdf"
+}

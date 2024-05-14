@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 1,
+    "day": 21
+  },
+  "case_number": "昭和53(し)1",
+  "case_name": "外国人登録法違反被告事件についてした準抗告申立の決定に対する特別抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第209号1頁",
+  "original_court_name": "横浜地方裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 12,
+    "day": 28
+  },
+  "gist": "黙秘、否認したことを理由に保釈請求を却下したとする憲法三八条一項違反の主張が欠前提とされた事例",
+  "ref_law": "憲法38条1項",
+  "lawsuit_id": "60319",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60319",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/319/060319_hanrei.pdf"
+}

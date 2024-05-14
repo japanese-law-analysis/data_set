@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 6,
+    "day": 16
+  },
+  "case_number": "昭和50(オ)270",
+  "case_name": "債務不存在確認等",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集民　第124号123頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和47(ネ)2465",
+  "original_date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 12,
+    "day": 20
+  },
+  "gist": "一　ゴルフクラブの会員の地位の相続が否定された事例\n二　ゴルフクラブの会員の死亡と同人を原告とする会員たる地位確認等請求訴訟の帰すう",
+  "case_gist": "一　預託金会員制ゴルフクラブの会員の会員資格喪失につき当該クラブの会則中に、会員が死亡したときはその資格を失う旨の定めがあるときは、右クラブの会員たる地位は一身専属的なものであつて、相続の対象となりえない。\n二　前項の場合において、会員が原告となつて追行していた右クラブからの除名の無効を前提とする会員たるの地位確認及びゴルフコースの使用を請求する訴訟の係属中に、原告が死亡したときは、該訴訟は終了する。",
+  "ref_law": "民法896条，民訴法208条",
+  "lawsuit_id": "64093",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64093",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/093/064093_hanrei.pdf"
+}

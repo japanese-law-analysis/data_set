@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 2,
+    "day": 15
+  },
+  "case_number": "昭和53(ク)371",
+  "case_name": "建物収去土地明渡請求事件についてした控訴状却下の命令に対しその取消を求める旨の申立",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "その他",
+  "article_info": "集民　第126号97頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和53(ネ)221",
+  "original_date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 6,
+    "day": 29
+  },
+  "gist": "受送達者及び送達場所につき誤つた記載のある送達報告書に基づいてされた高等裁判所裁判長の控訴状却下命令に対する不服申立方法",
+  "case_gist": "控訴状補正命令が受送達者である控訴人に送達されていないにもかかわらず、控訴人本人にその住所において送達された旨の誤つた記載のある送達報告書に基づき高等裁判所裁判長が控訴状却下の命令をしたときは、右控訴人は、控訴状却下命令に対し、民訴法四二九条、四二〇条一項九号の規定により、再審の申立をすることができる。",
+  "ref_law": "民訴法228条，民訴法370条，民訴法420条1項9号，民訴法429条",
+  "lawsuit_id": "64286",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64286",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/286/064286_hanrei.pdf"
+}

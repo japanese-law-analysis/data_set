@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 6,
+    "day": 2
+  },
+  "case_number": "昭和53(し)38",
+  "case_name": "恐喝被告事件についてした保釈請求却下決定に対する異議申立棄却決定に対する特別抗告",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第210号217頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 4,
+    "day": 13
+  },
+  "gist": "控訴審がした保釈請求却下決定に対して高等裁判所がした異議申立棄却決定に対し、特別抗告の申立があつた後、被告人が控訴を取下げたことにより当該被告事件が確定した場合の特別抗告の処理（不適法棄却）",
+  "lawsuit_id": "58108",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58108",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/108/058108_hanrei.pdf"
+}

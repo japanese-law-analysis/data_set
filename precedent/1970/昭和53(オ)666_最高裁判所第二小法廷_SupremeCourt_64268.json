@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 1,
+    "day": 19
+  },
+  "case_number": "昭和53(オ)666",
+  "case_name": "土地賃料増額確認等",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第126号1頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和52(ネ)692",
+  "original_date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 2,
+    "day": 28
+  },
+  "gist": "共同借地人の一部の者に対してされた借地法一二条に基づく賃料増額請求の効力",
+  "case_gist": "土地の賃貸人が賃借人に対し借地法一二条に基づく賃料増額請求をする場合において、賃借人が複数の共同賃借人であるときは、賃借人の全員に対して増額の意思表示をすることが必要であり、その意思表示が賃借人の一部に対してされたにすぎないときは、これを受けた者との関係においてもその効力を生じない。",
+  "ref_law": "借地法12条，民法429条2項",
+  "lawsuit_id": "64268",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64268",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/268/064268_hanrei.pdf"
+}

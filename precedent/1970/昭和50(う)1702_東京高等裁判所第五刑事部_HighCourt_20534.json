@@ -1,0 +1,18 @@
+{
+  "trial_type": "HighCourt",
+  "date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 12,
+    "day": 22
+  },
+  "case_number": "昭和50(う)1702",
+  "case_name": "暴力行為等処罰に関する法律違反、道路交通法違反被告事件",
+  "court_name": "東京高等裁判所第五刑事部",
+  "article_info": "第28巻4号540頁",
+  "gist": "常習的傷害の公訴事実について被告人の単純暴行罪の前科との関係で確定裁判を経たものとされた事例",
+  "case_gist": "暴力行為等処罰に関する法律一条の三に該当する常習的傷害罪として起訴された常習的傷害の犯行の後に同種態様の犯行による単純暴行罪の確定裁判が存在し、右常習的傷害の犯行は、右確定裁判にかかる単純暴行の犯行と共に常習的暴力行為の包括一罪を構成すべきものと認められるときは、右常習的傷害の犯行については、既に確定裁判を経たものとして免訴とすべきである。",
+  "lawsuit_id": "20534",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail3?id=20534",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/534/020534_hanrei.pdf"
+}

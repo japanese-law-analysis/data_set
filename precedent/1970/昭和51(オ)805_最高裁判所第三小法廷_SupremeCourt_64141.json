@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 12,
+    "day": 14
+  },
+  "case_number": "昭和51(オ)805",
+  "case_name": "建物収去土地明渡請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第119号311頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和50(ネ)491",
+  "original_date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 3,
+    "day": 25
+  },
+  "gist": "賃料延滞による土地賃貸借の解除と地上建物の借家人に対する催告の要否",
+  "case_gist": "賃貸人が賃料延滞を理由として土地賃貸借契約を解除するには、賃借人に対して催告すれば足り、地上建物の借家人に対して右延滞賃料の支払の機会を与えなければならないものではない。",
+  "ref_law": "民法541条",
+  "lawsuit_id": "64141",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64141",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/141/064141_hanrei.pdf"
+}

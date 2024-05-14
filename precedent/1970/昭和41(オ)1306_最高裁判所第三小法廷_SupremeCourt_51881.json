@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 6,
+    "day": 15
+  },
+  "case_number": "昭和41(オ)1306",
+  "case_name": "雇用契約上の権利を有することの確認請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第25巻4号516頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和40(ネ)1049",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 9,
+    "day": 16
+  },
+  "gist": "第三者の強要による解雇と不当労働行為の成否",
+  "case_gist": "甲の被用者である乙につき、第三者丙が乙の正当な組合活動を嫌忌してこれを解雇することを甲に要求し、甲が丙の意図を認識しながら乙を解雇したときは、その解雇が、甲において、丙の要求を容れて乙を解雇しなければ自己の営業の続行が不可能になるとの判断のもとに、右要求を不当なものとしながら、やむなくしたものであつても、甲に不当労働行為をする意思がなかつたとはいえず、その解雇は不当労働行為を構成するものというべきである。",
+  "ref_law": "労働組合法7条",
+  "lawsuit_id": "51881",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51881",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/881/051881_hanrei.pdf"
+}

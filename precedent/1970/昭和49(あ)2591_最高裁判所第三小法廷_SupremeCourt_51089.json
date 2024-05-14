@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 3,
+    "day": 16
+  },
+  "case_number": "昭和49(あ)2591",
+  "case_name": "爆発物取締罰則違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "刑集　第30巻2号146頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 10,
+    "day": 24
+  },
+  "gist": "起爆装置の欠陥により爆発しない手製爆弾の導火線に点火して投てきした行為が爆発物取締罰則一条にいう爆発物の「使用」にあたるとされた事例",
+  "case_gist": "導火線を雷管に接続するために用いた接着剤が導火線内の黒色火薬にしみ込み、右部分の黒色火薬が湿りあるいは固化して燃焼しなくなつたため、点火しても燃焼が中断して雷管を起爆させることのできない手製爆弾（判文参照）であつても、その導火線に点火して投てきした行為は、爆発物取締罰則一条にいう爆発物の「使用」にあたる。",
+  "ref_law": "爆発物取締罰則1条",
+  "lawsuit_id": "51089",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51089",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/089/051089_hanrei.pdf"
+}

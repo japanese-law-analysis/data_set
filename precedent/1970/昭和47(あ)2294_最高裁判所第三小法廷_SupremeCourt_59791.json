@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 6,
+    "day": 26
+  },
+  "case_number": "昭和47(あ)2294",
+  "case_name": "公記号不正使用",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第189号291頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 10,
+    "day": 18
+  },
+  "gist": "調書に任意性がなく、かつ、自白に補強証拠がないとの違憲主張が欠前提とされた事例",
+  "ref_law": "憲法38条",
+  "lawsuit_id": "59791",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59791",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/791/059791_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 12,
+    "day": 20
+  },
+  "case_number": "昭和48(オ)854",
+  "case_name": "登記手続等",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第32巻9号1674頁",
+  "original_court_name": "高松高等裁判所",
+  "original_case_number": "昭和44(ネ)25",
+  "original_date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 4,
+    "day": 26
+  },
+  "gist": "共同相続人の一人によつて相続権を侵害された他の共同相続人が右侵害の排除を求める場合と民法八八四条の適用",
+  "case_gist": "共同相続人の一人甲が、相続財産のうち自己の本来の相続持分を超える部分につき他の共同相続人乙の相続権を否定し、その部分もまた自己の相続持分に属すると称してこれを占有管理し、乙の相続権を侵害しているため、乙が右侵害の排除を求める場合には、民法八八四条の適用があるが、甲においてその部分が乙の持分に属することを知つているとき、又はその部分につき甲に相続による持分があると信ぜられるべき合理的な事由がないときには、同条の適用が排除される。",
+  "ref_law": "民法884条",
+  "lawsuit_id": "53218",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53218",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/218/053218_hanrei.pdf"
+}

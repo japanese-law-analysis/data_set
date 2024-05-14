@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 9,
+    "day": 19
+  },
+  "case_number": "昭和50(オ)418",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第116号53頁",
+  "original_court_name": "広島高等裁判所\n        　松江支部",
+  "original_case_number": "昭和49(ネ)12",
+  "original_date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 2,
+    "day": 28
+  },
+  "gist": "仮処分債権者による権利行使の催告の申立と仮処分及び本案訴訟が不法行為であることによる損害賠償債務の承認又は時効利益の放棄",
+  "case_gist": "仮処分債権者が担保取消決定を得るため権利行使の催告の申立をしても、これによつて、右債権者は、仮処分債務者に対し、仮処分及び本案訴訟が不法行為であることによる損害賠償債務を承認し、あるいは、消滅時効の利益を放棄したものということはできない。",
+  "ref_law": "民法146条，民法147条3号，民訴法115条",
+  "lawsuit_id": "66836",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66836",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/836/066836_hanrei.pdf"
+}

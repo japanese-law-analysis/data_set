@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 2,
+    "day": 24
+  },
+  "case_number": "昭和50(行ツ)123",
+  "case_name": "所得税更正決定処分等取消",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第32巻1号43頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "昭和45(行コ)14",
+  "original_date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 9,
+    "day": 29
+  },
+  "gist": "一　賃料増額請求が争われた場合における増額分の賃料と所得の計算\n二　賃料増額請求にかかる増額分の賃料の支払を命じた仮執行宣言付判決に基づき支払を受けた金員と所得の計算",
+  "case_gist": "一　賃料増額請求が争われた場合における増額分の賃料は、原則として、その債権の存在を認める裁判が確定した日の属する年分の所得の計算上収入金額に算入されるべきである。\n二　賃料増額請求にかかる増額分の賃料の支払を命じた仮執行宣言付判決に基づき支払を受けた金員は、その受領の日の属する年分の所得の計算上収入金額に算入されるべきである。",
+  "ref_law": "旧所得税法（昭和22年法律第27号）10条，借地法（昭和41年法律第93号による改正前のもの）12条，借家法（昭和41年法律第93号による改正前のもの）7条，民訴法196条，民訴法198条",
+  "lawsuit_id": "53256",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53256",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/256/053256_hanrei.pdf"
+}

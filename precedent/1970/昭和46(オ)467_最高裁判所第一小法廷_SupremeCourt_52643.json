@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 10,
+    "day": 26
+  },
+  "case_number": "昭和46(オ)467",
+  "case_name": "所有権移転請求権保全仮登記抹消登記手続請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第26巻8号1465頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和39(ネ)528",
+  "original_date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 2,
+    "day": 25
+  },
+  "gist": "代物弁済予約形式の債権担保契約と民法三七四条の準用の有無",
+  "case_gist": "代物弁済予約形式の債権担保契約を締結した債権者が、その担保目的を実現するにあたって、後順位債権者に優先して弁済を受けうる利息・損害金については、民法三七四条の規定は準用されないと解すべきである。",
+  "ref_law": "民法482条，民法374条",
+  "lawsuit_id": "52643",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52643",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/643/052643_hanrei.pdf"
+}

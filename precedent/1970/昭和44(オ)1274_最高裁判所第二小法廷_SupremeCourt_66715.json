@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 2,
+    "day": 27
+  },
+  "case_number": "昭和44(オ)1274",
+  "case_name": "貸金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第98号327頁",
+  "original_court_name": "高松高等裁判所",
+  "original_case_number": "昭和42(ネ)230",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 9,
+    "day": 30
+  },
+  "gist": "一、民法七六一条と表見代理\n二、妻の日常家事代理権の範囲内に属するとは認められない事例",
+  "case_gist": "一、昭和四三年（オ）第九七一号同四四年一二月一八日第一小法廷判決（民集の二三巻三号二四七六頁）と同旨。\n二、原審確定の事実関係のもとでは、妻が夫を代理して本件手形貸付取引契約（注、妻の知人が上告人信用金庫から貸付をうける取引契約である）の連帯保証をなす権限が、妻の日常家事代理権の範囲内に属するとは認められない。",
+  "ref_law": "民法716条，民法110条",
+  "lawsuit_id": "66715",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66715",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/715/066715_hanrei.pdf"
+}

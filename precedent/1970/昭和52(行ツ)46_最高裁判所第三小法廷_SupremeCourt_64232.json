@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 7,
+    "day": 19
+  },
+  "case_number": "昭和52(行ツ)46",
+  "case_name": "売渡無効確認",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第121号199頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和49(行コ)24",
+  "original_date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 12,
+    "day": 16
+  },
+  "gist": "相続人に対する農地の遺贈と農地法による許可の要否",
+  "case_gist": "相続人に対する農地の遺贈については、農地法による都道府県知事の許可を要しない。",
+  "ref_law": "農地法3条",
+  "lawsuit_id": "64232",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64232",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/232/064232_hanrei.pdf"
+}

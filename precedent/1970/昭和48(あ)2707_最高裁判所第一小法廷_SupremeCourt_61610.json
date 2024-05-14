@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 2,
+    "day": 21
+  },
+  "case_number": "昭和48(あ)2707",
+  "case_name": "公文書偽造、道路交通法違反、業務上過失傷害、犯人隠避教唆",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第191号159頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 11,
+    "day": 7
+  },
+  "gist": "検察官の量刑不当の控訴趣意を理由ありと認めて第一審判決を破棄しこれより重い刑を言い渡すことと憲法三九条",
+  "case_gist": "検察官が控訴を申し立てて第一審判決の刑より重い刑の判決を求め、控訴裁判所が右申立を理由ありと認めて第一審判決を破棄しこれより重い刑を言い渡すことが憲法三九条に違反するものでないことは、昭和二四年新（れ）第二二号同二五年九月二七日大法廷判決（刑集四巻九号一八〇五頁）の趣旨とするところである。",
+  "ref_law": "憲法39条，刑訴法351条，刑訴法397条，刑訴法400条但書",
+  "lawsuit_id": "61610",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61610",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/610/061610_hanrei.pdf"
+}

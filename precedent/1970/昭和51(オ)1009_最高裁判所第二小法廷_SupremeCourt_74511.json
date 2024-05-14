@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 2,
+    "day": 14
+  },
+  "case_number": "昭和51(オ)1009",
+  "case_name": "認知無効本訴、認知反訴請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第120号47頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和50(ネ)598",
+  "original_date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 6,
+    "day": 10
+  },
+  "gist": "親子関係が存在する場合に認知者の意思に基づかないでされた届出による認知の効力",
+  "case_gist": "認知者の意思に基づかない届出による認知は、認知者と被認知者との間に親子関係があるときであつても、無効である。",
+  "ref_law": "民法779条，民法781条",
+  "lawsuit_id": "74511",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74511",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/511/074511_hanrei.pdf"
+}

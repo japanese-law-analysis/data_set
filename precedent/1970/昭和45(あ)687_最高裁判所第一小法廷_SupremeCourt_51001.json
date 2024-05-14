@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 11,
+    "day": 26
+  },
+  "case_number": "昭和45(あ)687",
+  "case_name": "業務上過失傷害",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第24巻12号1699頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 3,
+    "day": 12
+  },
+  "gist": "法定刑が同一である数個の罪が一所為数法の関係にある場合における法令適用の判示方法",
+  "case_gist": "法定刑が同一である数個の罪が一所為数法の関係にある場合には、法令適用の判示として、単に刑法五四条一項前段、一〇条を示しただけで、そのいずれの罪の刑が最も重いかを明示しないでも、必ずしも違法とはいえない。",
+  "ref_law": "刑法54条1項前段，刑法10条",
+  "lawsuit_id": "51001",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51001",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/001/051001_hanrei.pdf"
+}

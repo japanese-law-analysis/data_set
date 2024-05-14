@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 10,
+    "day": 16
+  },
+  "case_number": "昭和47(あ)1291",
+  "case_name": "公印偽造",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第185号283頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 5,
+    "day": 23
+  },
+  "gist": "「原判決がなんら判断を示していない事項に関する判例違反の主張」で不適法とされた事例",
+  "lawsuit_id": "59752",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59752",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/752/059752_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 5,
+    "day": 31
+  },
+  "case_number": "昭和52(オ)903",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第127号69頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和50(ネ)1024",
+  "original_date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 5,
+    "day": 18
+  },
+  "gist": "昭和四〇年一〇月に改訂され昭和四七年まで存在した自動車保険普通保険約款に基づく自動車対人賠償責任保険契約における保険金支払債務の履行期の到来",
+  "case_gist": "昭和四〇年一〇月に改訂され昭和四七年まで存在した自動車保険普通保険約款に基づく自動車対人賠償責任保険契約における保険金支払債務は、被保険者の被害者に対し支払うべき損害賠償額が確定するまではその履行期が到来しない。",
+  "ref_law": "商法629条",
+  "lawsuit_id": "62224",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62224",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/224/062224_hanrei.pdf"
+}

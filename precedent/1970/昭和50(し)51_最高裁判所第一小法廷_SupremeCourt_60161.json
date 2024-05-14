@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 7,
+    "day": 21
+  },
+  "case_number": "昭和50(し)51",
+  "case_name": "裁判官忌避申立棄却下決定に対する即時抗告棄却決定に対する特別抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第197号91頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 6,
+    "day": 12
+  },
+  "gist": "略式命令を不相当とし、その事件の通常裁判手続をも担当した裁判官が、刑訴法二五六条六項の趣旨に反する措置をとつたことをもつて、直ちに不公平な裁判をする虞れがあるとは認められないとされた事例",
+  "ref_law": "刑訴法21条1項，刑訴法256条6項",
+  "lawsuit_id": "60161",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60161",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/161/060161_hanrei.pdf"
+}

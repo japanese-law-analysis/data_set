@@ -1,0 +1,19 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 4,
+    "day": 9
+  },
+  "case_number": "昭和45(す)37",
+  "case_name": "押収物仮還付請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集刑　第176号65頁",
+  "lawsuit_id": "59625",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59625",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/625/059625_hanrei.pdf",
+  "contents": ""
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 2,
+    "day": 5
+  },
+  "case_number": "昭和44(オ)628",
+  "case_name": "借地権確認土地引渡等請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第28巻1号1頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和39(ネ)2496",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 3,
+    "day": 27
+  },
+  "gist": "都有行政財産である土地についての使用許可の取消と損失補償",
+  "case_gist": "都有行政財産である土地について建物所有を目的とし期間の定めなくされた使用許可が当該行政財産本来の用途又は目的上の必要に基づき将来に向つて取り消されたときは、使用権者は、特別の事情のないかぎり、右取消による土地使用権喪失についての補償を求めることはできない。",
+  "ref_law": "憲法29条3項，国有財産法19条，国有財産法24条，地方自治法238条の4，地方自治法238条の5，地方自治法（昭和38年法律第99号による改正前のもの）213条1項，東京都都有財産規則（昭和19年東京都規則第4号）3条，東京都都有財産条例（昭和23年東京都条例第3号）3条，東京都都有財産条例（昭和29年東京都条例第17号）12条",
+  "lawsuit_id": "51977",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51977",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/977/051977_hanrei.pdf"
+}

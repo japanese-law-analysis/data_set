@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 12,
+    "day": 24
+  },
+  "case_number": "昭和51(あ)192",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "刑集　第30巻11号1932頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 12,
+    "day": 11
+  },
+  "gist": "街頭に掲示中の選挙運動用ポスターを撤去した行為が公職選挙法二二五条二号の罪にあたらないとされた事例",
+  "case_gist": "公道内緑地帯に掲示中のいわゆるプラカード式選挙運動用ポスターを撤去した行為（判文参照）は、公職選挙法二二五条二号の選挙の自由妨害罪にあたらない。",
+  "ref_law": "公職選挙法145条1項，公職選挙法225条2号，公職選挙法施行規則18条",
+  "lawsuit_id": "51116",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51116",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/116/051116_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 12,
+    "day": 17
+  },
+  "case_number": "昭和47(行ツ)89",
+  "case_name": "免職処分取消請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第113号629頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和44(行コ)52",
+  "original_date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 5,
+    "day": 18
+  },
+  "gist": "一、条件附採用期間中の国家公務員の分限についての身分保障\n二、条件附採用期間中の国家公務員に対する分限処分と任命権者の裁量権",
+  "case_gist": "一、条件附採用期間中の国家公務員は、人事院規則一一‐四第九条所定の事由に該当しないかぎり分限されない保障を有する。\n二、人事院規則一一‐四第九条に基づく条件附採用期間中の国家公務員に帰する分限処分は、任命権者の純然たる自由裁量ではなく、その判断が合理性をもつものとして許容される限度をこえたときは、違法となる。",
+  "ref_law": "国家公務員法59条，国家公務員法81条，人事院規則11‐4第9条",
+  "lawsuit_id": "70398",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70398",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/398/070398_hanrei.pdf"
+}

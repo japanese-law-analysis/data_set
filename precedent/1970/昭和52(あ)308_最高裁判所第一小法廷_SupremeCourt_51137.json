@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 1,
+    "day": 26
+  },
+  "case_number": "昭和52(あ)308",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第32巻1号1頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 1,
+    "day": 25
+  },
+  "gist": "一　公職選挙法一九七条の二にいう「選挙運動のために使用する労務者」の意義\n二　候補者の氏名を連呼して投票を勧誘する行為に従事した者と公職選挙法二二一条にいう「選挙運動者」",
+  "case_gist": "一　公職選挙法一九七条の二にいう「選挙運動のために使用する労務者」とは、選挙民に対し直接に投票を勧誘する行為又は自らの判断に基づいて積極的に投票を得又は得させるために直接、間接に必要、有利なことをするような行為、すなわち公職選挙法にいう選挙運動を行うことなく、専らそれ以外の労務に従事する者をいう。\n二　候補者の氏名を連呼して投票を勧誘する行為に従事した者は、公職選挙法二二一条にいう「選挙運動者」に該当し、同法一九七条の二にいう「選挙運動のために使用する労務者」には該当しない。",
+  "ref_law": "公職選挙法197条の2，公職選挙法221条",
+  "lawsuit_id": "51137",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51137",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/137/051137_hanrei.pdf"
+}

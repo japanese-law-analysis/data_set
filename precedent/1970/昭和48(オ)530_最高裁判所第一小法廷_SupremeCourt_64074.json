@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 11,
+    "day": 4
+  },
+  "case_number": "昭和48(オ)530",
+  "case_name": "土地境界確定等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第119号155頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和47(ネ)262",
+  "original_date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 2,
+    "day": 14
+  },
+  "gist": "財産税物納の場合における不動産所有権の移転時期",
+  "case_gist": "財産税について不動産が物納許可の対象とされた場合、右不動産所有権が国に移転する時期は、右許可の時であつて、所有権移転登記が経由された時ではない。",
+  "ref_law": "財産税法56条，民法177条",
+  "lawsuit_id": "64074",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64074",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/074/064074_hanrei.pdf"
+}

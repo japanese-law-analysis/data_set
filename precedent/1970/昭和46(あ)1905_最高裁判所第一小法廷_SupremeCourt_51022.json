@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 4,
+    "day": 12
+  },
+  "case_number": "昭和46(あ)1905",
+  "case_name": "猥褻文書販売、猥褻図画販売",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第27巻3号351頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 8,
+    "day": 6
+  },
+  "gist": "一、猥褻文書の販売を処罰することと憲法二一条\n二、文書の猥褻性の有無はその文書自体について客観的に判断すべきか",
+  "case_gist": "一　猥褻文書の販売を処罰することは、憲法二一条に違反しない。\n二　文書の猥褻性の有無は、その文書自体について客観的に判断すべきものであり、現実の購読層の状況あるいは業者や出版者としての著述、出版意図など当該文書外に存する事実関係は、文書の猥褻性の判断の基準外に置かれるべきものである。このように解しても、憲法二一条に違反しない。",
+  "ref_law": "刑法175条，憲法21条",
+  "lawsuit_id": "51022",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51022",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/022/051022_hanrei.pdf"
+}

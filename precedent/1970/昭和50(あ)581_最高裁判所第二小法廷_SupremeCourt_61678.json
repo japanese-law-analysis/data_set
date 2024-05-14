@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 6,
+    "day": 19
+  },
+  "case_number": "昭和50(あ)581",
+  "case_name": "覚せい剤取締法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第196号661頁",
+  "original_court_name": "福岡高等裁判所\n        　宮崎支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 2,
+    "day": 7
+  },
+  "gist": "起訴されていない犯罪事実を、本件犯行の動機、態様の判示のため指摘したものと認められた事例",
+  "lawsuit_id": "61678",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61678",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/678/061678_hanrei.pdf"
+}

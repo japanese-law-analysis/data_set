@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 12,
+    "day": 8
+  },
+  "case_number": "昭和42(行ツ)99",
+  "case_name": "仮換地変更指定処分無効確認等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第107号319頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和40(行コ)16",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 8,
+    "day": 29
+  },
+  "gist": "旧特別都市計画法に基づく換地予定地の変更指定処分が違法でないとされた事例",
+  "case_gist": "旧特別都市計画法に基づき換地予定地が指定されたのちにおいても、区画整理事業の規模の大幅縮減に伴い、同土地を換地予定地から除外する必要を生じ、指定の相手方もいまだ現実に同土地の使用収益を行なつていないなど判示のような事情があるときは、区画整理事業施行者は、同土地につき換地予定地の指定を取り消す旨の変更指定処分をすることができる。",
+  "ref_law": "旧特別都市計画法13条，旧特別都市計画法14条",
+  "lawsuit_id": "62839",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62839",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/839/062839_hanrei.pdf"
+}

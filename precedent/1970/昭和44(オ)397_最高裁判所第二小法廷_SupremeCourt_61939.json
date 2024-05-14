@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 6,
+    "day": 15
+  },
+  "case_number": "昭和44(オ)397",
+  "case_name": "山林所有権確認、損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第109号353頁",
+  "original_court_name": "広島高等裁判所",
+  "original_case_number": "昭和36(ネ)240",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 12,
+    "day": 26
+  },
+  "gist": "土地の取得時効を認めるについて地番を認定することの要否",
+  "case_gist": "土地の時効取得を認めるについては、必ずしも目的土地の地番を認定することを要しない。",
+  "ref_law": "民法162条",
+  "lawsuit_id": "61939",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61939",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/939/061939_hanrei.pdf"
+}

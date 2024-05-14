@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 4,
+    "day": 25
+  },
+  "case_number": "昭和44(オ)754",
+  "case_name": "建物収去土地明渡請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第105号829頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和42(ネ)2013",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 4,
+    "day": 21
+  },
+  "gist": "建物所有を目的とする土地の賃借人が、賃借土地を賃借人の個人企業と実質を同じくする会社に使用させた場合と民法六一二条二項による解除権行使の許否",
+  "case_gist": "建物所有を目的とする土地の賃借人が、賃借土地を賃借人の個人企業と実質を同じくする会社に使用させたからといつて、ただちに賃貸人との間の信頼関係を破るものとはいえず、このような場合には、通常は、背信行為を認めるに足りない特段の事情があるものというべきであるから、賃貸人は、民法六一二条二項により賃貸借契約を解除することは許されない。",
+  "ref_law": "民法612条2項",
+  "lawsuit_id": "61957",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61957",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/957/061957_hanrei.pdf"
+}

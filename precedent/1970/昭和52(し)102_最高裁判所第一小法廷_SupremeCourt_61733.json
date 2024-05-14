@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 9,
+    "day": 14
+  },
+  "case_number": "昭和52(し)102",
+  "case_name": "公職選挙法違反被告事件についてした裁判官忌避申立却下の裁判に対する準抗告棄却決定に対する特別抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第205号519頁",
+  "original_court_name": "東京地方裁判所\n        　八王子支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 7,
+    "day": 15
+  },
+  "gist": "裁判官忌避申立却下の裁判に対する準抗告棄却決定の謄本が被告人と主任弁護人とに送達された場合の特別抗告提起期間の始期",
+  "lawsuit_id": "61733",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61733",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/733/061733_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 10,
+    "day": 22
+  },
+  "case_number": "昭和41(オ)1219",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第101号127頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和40(ネ)896",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 8,
+    "day": 16
+  },
+  "gist": "有限会社の代表取締役が代表者印等の保管につき善管義務を尽さないにもかかわらず有限会社法三〇条ノ三による損害賠償義務を負うべきでない場合",
+  "case_gist": "甲が代表取締役をしている有限会社乙の会社名ゴム印および代表者印等の保管につき善管義務を尽さず放置しておいたため、右会社の取締役兼丁会社の代表取締役である丙が、それらを無断で使用して約束手形を作成し、丁会社の戊に対する自動車買受代金債務の分割金の支払のため右約束手形を振出交付した場合において、戊が右約束手形の支払を受けられなかつたとしても、これにより戊はただちに損害を受けたものということはできず、甲は有限会社法三〇条ノ三による損害賠償の義務を負うべきものではない。",
+  "ref_law": "有限会社法30条ノ3",
+  "lawsuit_id": "63990",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63990",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/990/063990_hanrei.pdf"
+}

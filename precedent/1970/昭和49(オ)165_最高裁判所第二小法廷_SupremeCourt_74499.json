@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 1,
+    "day": 31
+  },
+  "case_number": "昭和49(オ)165",
+  "case_name": "従業員地位確認等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第120号23頁",
+  "original_court_name": "高松高等裁判所",
+  "original_case_number": "昭和48(ネ)80",
+  "original_date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 12,
+    "day": 19
+  },
+  "gist": "一、就業規則所定の懲戒事由があることを理由に普通解雇に付する場合の解雇の要件\n二、寝過しにより定時ラジオニュースを放送することができなかつたアナウンサーに対する解雇が解雇権の濫用として無効とされた事例",
+  "case_gist": "一、就業規則所定の懲戒事由があることを理由に普通解雇をする場合には、普通解雇の要件を備えていれば足り、懲戒解雇の要件をみたすことを要しない。\n二、要旨省略",
+  "ref_law": "民法627条，労働基準法20条",
+  "lawsuit_id": "74499",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74499",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/499/074499_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 12,
+    "day": 6
+  },
+  "case_number": "昭和47(オ)930",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第28巻10号1813頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和44(ネ)469",
+  "original_date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 6,
+    "day": 7
+  },
+  "gist": "会社の従業員が会社所有の自動車を私用のため無断運転中に惹起した事故により同乗者を死亡させた場合にその相続人から会社に対し自動車損害賠償保障法第三条に基づく運行供用者責任を問うことができないとされた事例",
+  "case_gist": "会社の従業員が会社所有の自動車を私用のため無断運転中惹起した事故により同乗者を死亡させた場合において、同乗者が、会社によつてその自動車を私用に使うことが禁止されていることを知りながら、無断持出しをいつたん思い止まつた従業員をそそのかして同人ともども夜桜見物に出かけるため右自動車に同乗したものである等判示の事実関係のもとにおいては、右事故により同乗者及びその相続人に生じた損害につき、右相続人は、会社に対し自動車損害賠償保障法三条に基づく運行供用者責任を問うことができない。",
+  "ref_law": "自動車損害賠償保障法3条",
+  "lawsuit_id": "55143",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55143",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/143/055143_hanrei.pdf"
+}

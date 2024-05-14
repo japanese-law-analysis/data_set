@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 10,
+    "day": 8
+  },
+  "case_number": "昭和45(あ)884",
+  "case_name": "法人税法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第178号13頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 3,
+    "day": 30
+  },
+  "gist": "同一の租税逋脱行為について重加算税のほかに罰金を科することと憲法三九条",
+  "case_gist": "同一の租税逋脱行為について重加算税のほかに刑罰たる罰金を科しても憲法三九条に違反するものでないことは、当裁判所大法廷判決（昭和二九年（オ）第二三六号同三三年四月三〇日判決、民集一二巻六号九三八頁）の趣旨に徴して肯認しうるところである。",
+  "ref_law": "国税通則法68条，法人税法（昭和40年法律34号による改正前のもの）48条，憲法39条",
+  "lawsuit_id": "59598",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59598",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/598/059598_hanrei.pdf"
+}

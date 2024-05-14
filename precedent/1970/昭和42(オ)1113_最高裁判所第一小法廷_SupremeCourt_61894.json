@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 2,
+    "day": 3
+  },
+  "case_number": "昭和42(オ)1113",
+  "case_name": "臨時株主総会決議無効確認請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第105号37頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和41(ネ)1485",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 6,
+    "day": 28
+  },
+  "gist": "一、株式会社の取締役に対する職務執行停止・代行者選任の仮処分の効力存続中に右取締役が辞任しその後の株主総会の決議をもつて同一人を再度取締役に選任することが許されるか\n二、株式名義書換請求につき許否を決する行為と商法二七一条にいう「会社ノ常務」",
+  "case_gist": "一、株式会社の取締役に対する職務執行停止・代行者選任の仮処分の効力存続中に、右取締役が辞任しその後の株主総会の決議をもつて同一人を再度取締役に選任することも許される。\n二、株式名義書換請求につき、その要件を具備するかどうかを審査し、その許否を決することは、商法二七一条にいう「会社ノ常務」に属する行為として、代表取締役職務代行者も、これをすることができる。",
+  "ref_law": "商法270条，商法271条，商法254条",
+  "lawsuit_id": "61894",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61894",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/894/061894_hanrei.pdf"
+}

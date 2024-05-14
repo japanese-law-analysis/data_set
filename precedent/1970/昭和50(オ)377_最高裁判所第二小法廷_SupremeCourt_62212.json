@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 8,
+    "day": 27
+  },
+  "case_number": "昭和50(オ)377",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第115号629頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和48(ネ)70",
+  "original_date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 1,
+    "day": 23
+  },
+  "gist": "建物賃貸借の解約の申入れにつき五〇〇万円の立退料が提供されることによつて正当の事由が具備されるとされた事例",
+  "case_gist": "建物の賃貸人が解約の申入れにつき、賃貸人、賃借人双方の事情、右賃貸建物の周囲の賃貸人所有地の利用状況の変化などの諸事情（原判決理由参照）がある場合に‘立退料として五〇〇万円を提供するときは、それによつて正当の事由が具備されると解すべきである。",
+  "ref_law": "借家法1条の2",
+  "lawsuit_id": "62212",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62212",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/212/062212_hanrei.pdf"
+}

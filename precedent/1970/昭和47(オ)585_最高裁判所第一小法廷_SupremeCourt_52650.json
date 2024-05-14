@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 11,
+    "day": 9
+  },
+  "case_number": "昭和47(オ)585",
+  "case_name": "貸金請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第26巻9号1566頁",
+  "original_court_name": "仙台高等裁判所\n        　秋田支部",
+  "original_case_number": "昭和46(ネ)34",
+  "original_date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 3,
+    "day": 29
+  },
+  "gist": "民法九三六条一項の規定により相続財産管理人が選任された場合と相続財産に関する訴訟における相続人および相続財産管理人の地位",
+  "case_gist": "民法九三六条一項の規定により相続財産管理人が選任された場合において、相続財産に関する訴訟については、相続人が当事者適格を有し、相続財産管理人は、相続人全員の法定代理人として訴訟に関与するものであつて、相続財産管理人としての資格では当事者適格を有しない。",
+  "ref_law": "民法936条，民訴法45条",
+  "lawsuit_id": "52650",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52650",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/650/052650_hanrei.pdf"
+}

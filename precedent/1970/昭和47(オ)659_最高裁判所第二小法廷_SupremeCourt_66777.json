@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 6,
+    "day": 28
+  },
+  "case_number": "昭和47(オ)659",
+  "case_name": "特許権侵害禁止等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第112号155頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和40(ネ)1459",
+  "original_date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 4,
+    "day": 7
+  },
+  "gist": "特許権の侵害を事由とする損害賠償請求訴訟において特許出願当時の技術水準を考慮することの当否",
+  "case_gist": "特許権の侵害を事由とする損害賠償を求める訴においても、特許発明の技術的範囲を確定するについては、出願当時の技術水準を考慮すべきである。",
+  "ref_law": "特許法29条，特許法70条",
+  "lawsuit_id": "66777",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66777",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/777/066777_hanrei.pdf"
+}

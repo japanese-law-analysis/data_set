@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 10,
+    "day": 28
+  },
+  "case_number": "昭和45(オ)10",
+  "case_name": "建物所有権移転登記手続等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第25巻7号1069頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和43(ネ)551",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 10,
+    "day": 30
+  },
+  "gist": "民法七〇八条にいう給付と既登記建物の贈与に基づく引渡",
+  "case_gist": "不法の原因により既登記建物を贈与した場合、その引渡をしただけでは、民法七〇八条にいう給付があつたとはいえない。",
+  "ref_law": "民法708条",
+  "lawsuit_id": "51994",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51994",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/994/051994_hanrei.pdf"
+}

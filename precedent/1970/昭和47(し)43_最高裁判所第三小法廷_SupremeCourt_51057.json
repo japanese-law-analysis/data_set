@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 9,
+    "day": 26
+  },
+  "case_number": "昭和47(し)43",
+  "case_name": "控訴棄却決定に対する異議申立棄却決定に対する特別抗告",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "その他",
+  "article_info": "刑集　第26巻7号431頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 7,
+    "day": 7
+  },
+  "gist": "必要的弁護事件の控訴と刑訴法三八六条一項一号による決定棄却",
+  "case_gist": "いわゆる必要的弁護事件につき被告人が控訴した場合において、刑訴規則二五〇条により控訴の審判に準用される同規則一七八条三項の規定に違背して被告人に弁護人がないままであるときは、所定の期間内に控訴趣意書を差し出さないことに基づき刑訴法三八六条一項一号により決定で右控訴を棄却することは許されない。",
+  "ref_law": "刑訴法289条1項，刑訴法386条1項1号，刑訴規則178条",
+  "lawsuit_id": "51057",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51057",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/057/051057_hanrei.pdf"
+}

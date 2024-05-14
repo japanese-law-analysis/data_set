@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 12,
+    "day": 13
+  },
+  "case_number": "昭和54(オ)434",
+  "case_name": "離婚",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第128号183頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和52(ネ)179",
+  "original_date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 1,
+    "day": 30
+  },
+  "gist": "婚姻関係の破綻につきもつぱら又は主として原因を与えた当事者による離婚請求の可否",
+  "case_gist": "婚姻関係が破綻した場合においても、その破綻につきもつぱら又は主として原因を与えた当事者は、みずから離婚を請求することができない。",
+  "ref_law": "民法770条1項5号",
+  "lawsuit_id": "64315",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64315",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/315/064315_hanrei.pdf"
+}

@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 7,
+    "day": 7
+  },
+  "case_number": "昭和52(あ)1954",
+  "case_name": "加重的投票偽造、公選投票詐偽報告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第211号637頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 10,
+    "day": 25
+  },
+  "gist": "農業共済組合総代選挙の投票が旧刑法二編四章九節「公選ノ投票ヲ偽造スル罪」の各条に定める「公選ノ投票」にあたるとした原判決が支持された事例",
+  "ref_law": "旧刑法235条，旧刑法236条，刑法施行法25条",
+  "lawsuit_id": "58082",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58082",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/082/058082_hanrei.pdf"
+}

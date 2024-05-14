@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 9,
+    "day": 9
+  },
+  "case_number": "昭和46(し)76",
+  "case_name": "裁判官忌避申立却下決定に対する即時抗告棄却決定に対する特別抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第181号455頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 5,
+    "day": 13
+  },
+  "gist": "付郵便による原決定の送達後、五日の期間経過後にされた特別抗告申立の適否",
+  "ref_law": "刑訴規則63条",
+  "lawsuit_id": "59736",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59736",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/736/059736_hanrei.pdf"
+}

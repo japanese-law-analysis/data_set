@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 2,
+    "day": 20
+  },
+  "case_number": "昭和50(あ)967",
+  "case_name": "兇器準備集合、威力業務妨害、東海道新幹線鉄道における列車運行の安全を妨げる行為の処罰に関する特例法違反、公務執行妨害等",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第199号277頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 3,
+    "day": 4
+  },
+  "gist": "憲法三七条二項違反（第一審における被告人本人の反対尋問の制限の違反をいうもの）主張が欠前提とされた事例",
+  "ref_law": "憲法37条2項",
+  "lawsuit_id": "60146",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60146",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/146/060146_hanrei.pdf"
+}

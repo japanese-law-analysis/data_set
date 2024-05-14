@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 4,
+    "day": 20
+  },
+  "case_number": "昭和46(オ)814",
+  "case_name": "請負代金請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第105号613頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和43(ネ)2266",
+  "original_date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 4,
+    "day": 27
+  },
+  "gist": "請負代金債権の消滅時効の起算日の認定判断に審理不尽・理由不備の違法があるとされた事例",
+  "case_gist": "原判示の事実関係のもとにおいて、賃貸マーケット等の用に供する建物の建築工事請負契約に基づく残代金債権の弁済期はその建物にマーケットの賃借人が充員した時に到来し、右残代金債権の消滅時効はその時から進行を開始したとする原審の認定判断には、審理不尽・理由不備の違法がある。",
+  "ref_law": "民法166条1項，民法170条2号，民法633条，民訴法185条，民訴法395条1項6号",
+  "lawsuit_id": "62069",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62069",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/069/062069_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 6,
+    "day": 28
+  },
+  "case_number": "昭和47(オ)1164",
+  "case_name": "第三者異議",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第27巻6号724頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和45(ネ)9",
+  "original_date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 7,
+    "day": 13
+  },
+  "gist": "未登記建物の所有者においてその建物が固定資産課税台帳上他人の所有名義で登録されていることを承認していた場合と民法九四条二項の類推適用",
+  "case_gist": "未登記建物の所有者は、その建物が固定資産課税台帳上他人の所有名義で登録されていることを知りながら、これを明示または黙示に承認していた場合には、民法九四条二項の類推適用により、右名義人が所有権を有しないことを善意の第三者に対抗することができない。",
+  "ref_law": "民法94条2項",
+  "lawsuit_id": "52075",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52075",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/075/052075_hanrei.pdf"
+}

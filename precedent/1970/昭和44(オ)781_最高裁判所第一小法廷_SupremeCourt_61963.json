@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 3,
+    "day": 22
+  },
+  "case_number": "昭和44(オ)781",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第108号479頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和41(ネ)828",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 4,
+    "day": 23
+  },
+  "gist": "一、敷金返還請求権の発生時期とその額\n二、長期にわたる賃料不払と催告不要の特約に基づく賃貸借契約解除",
+  "case_gist": "一、建物賃貸借における敷金は、賃貸借終了後、建物明渡完了の時において、それまでに生じた延滞賃料や賃料相当損害金などを控除した残額につき発生する。\n二、建物の賃借人が一〇年以上にわたり全く賃料を支払わない場合に、賃貸人が賃貸借契約上の催告不要の特約に基づき無催告で右契約を解除することは、あながち不合理ではなく、その解除は有効である。（昭和四二年（オ）第一一〇四号同四三年一一月二一日第一小法廷判決・民集二二巻一二号二七四一頁参照）。",
+  "ref_law": "民法541条，民法619条",
+  "lawsuit_id": "61963",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61963",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/963/061963_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 9,
+    "day": 30
+  },
+  "case_number": "昭和44(あ)89",
+  "case_name": "漁業法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第24巻10号1435頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 12,
+    "day": 19
+  },
+  "gist": "国後島ケラムイ崎北東約五海里で同島沿岸線から約二・五海里の海域と漁業法六六条一項",
+  "case_gist": "国後島ケラムイ崎北東約五海里で同島沿岸線から約二・五海里の海域は、漁業法六六条一項の無許可漁業禁止の効力が及ぶ範囲に含まれる。",
+  "ref_law": "漁業法66条，漁業法138条6号",
+  "lawsuit_id": "51805",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51805",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/805/051805_hanrei.pdf"
+}

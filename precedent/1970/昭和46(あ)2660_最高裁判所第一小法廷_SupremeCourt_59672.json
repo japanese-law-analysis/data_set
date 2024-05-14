@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 4,
+    "day": 13
+  },
+  "case_number": "昭和46(あ)2660",
+  "case_name": "風俗営業等取締法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第184号123頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 11,
+    "day": 16
+  },
+  "gist": "風俗営業取締法七条三項但書にいわゆる年令を知らなかつたことに過失がない場合に該当しないとされた事例",
+  "case_gist": "一　ＡことＢの年令を知らなかつたことにつき過失がなかつたとはいえないとした原判決の判断は相当である。\n二　（原判示の要旨）年令に制限のある接客婦などを雇い入れる場合において、単に紹介者および本人の言葉や、容姿、態度、前歴等の外観的事情によつてその者が満一八才以上であると信じただけでは足らず、さらに客観的な資料として本人の戸籍謄、抄本あるいは住民票等について正確な調査をして、その者の年令を確認すべき注意義務があるのであつて、右の確認措置を採らないかぎり、その者の年令を知らなかつたことに過失がなかつたとはいえない。",
+  "ref_law": "風俗営業取締法7条3項",
+  "lawsuit_id": "59672",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59672",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/672/059672_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 12,
+    "day": 17
+  },
+  "case_number": "昭和44(オ)41",
+  "case_name": "登記抹消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第25巻9号1588頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和40(ネ)2056",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 10,
+    "day": 31
+  },
+  "gist": "消費生活協同組合の総会の議決または選挙の無効・不存在と消費生活協同組合法九六条",
+  "case_gist": "消費生活協同組合法による協同組合の総会の議決または選挙が当然に無効であるかまたは不存在である場合においては、同法九六条所定の行政庁による取消の手続を経ていないでも、裁判所は、訴訟における前提問題として、右議決または選挙の無効または不存在の判断をすることができる。",
+  "ref_law": "消費生活協同組合法96条",
+  "lawsuit_id": "51965",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51965",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/965/051965_hanrei.pdf"
+}

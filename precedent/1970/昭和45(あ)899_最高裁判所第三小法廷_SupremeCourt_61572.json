@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 9,
+    "day": 29
+  },
+  "case_number": "昭和45(あ)899",
+  "case_name": "業務上過失傷害",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第177号1185頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 4,
+    "day": 1
+  },
+  "gist": "信号機による交通整理の行なわれている交差点を通過する自動車運転者の注意義務",
+  "case_gist": "信号機による交通整理の行なわれている交差点を通過する自動車運転者は、信号機の表示するところに従つて自動車を運転すれば足り、いちいち徐行して左右道路の車両との交通の安全を確認すべき義務はない。",
+  "ref_law": "刑法211条，道路交通法4条2項",
+  "lawsuit_id": "61572",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61572",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/572/061572_hanrei.pdf"
+}

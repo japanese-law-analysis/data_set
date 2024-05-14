@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 6,
+    "day": 25
+  },
+  "case_number": "昭和45(あ)708",
+  "case_name": "業務上過失致死",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "刑集　第25巻4号655頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 3,
+    "day": 19
+  },
+  "gist": "左折車両の運転者の後方注意義務",
+  "case_gist": "交差点で左折しようとする車両の運転者は、その時の道路および交通の状態その他の具体的状況に応じた適切な左折準備態勢に入つたのちは、特別な事情がないかぎり、後進者があつても、その運転者が交通法規を守り追突等の事故を回避するよう適切な行動に出ることを信頼して運転すれば足り、それ以上に、あえて法規に違反し自車の作法を強引に突破しようとする車両のありうることまでも予想した上での周到な安全確認をなすべき注意義務はなく、後進車が足踏自転車であつても、その例外ではない。",
+  "ref_law": "刑法211条前段，道路交通法28条，道路交通法34条",
+  "lawsuit_id": "51809",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51809",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/809/051809_hanrei.pdf"
+}

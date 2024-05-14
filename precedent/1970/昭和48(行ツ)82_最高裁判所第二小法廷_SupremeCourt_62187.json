@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 2,
+    "day": 28
+  },
+  "case_number": "昭和48(行ツ)82",
+  "case_name": "審決取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第114号287頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和45(行ケ)1",
+  "original_date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 5,
+    "day": 31
+  },
+  "gist": "一、意匠法三条一項三号の類似と同条二項の創作の容易との関係\n二、帽子に関する意匠につき出願意匠が公知意匠に類似するとされた事例",
+  "case_gist": "一、意匠法三条一項三号の類似と同条二項の創作の容易とは、考え方の基礎を異にするものであつて、右の類似の意味を創作の容易と同義に解することはできない。\n二、倒椀状の本体の下部周縁に外方に向つて斜降したひさしを設け、本体を頂点より放射状に八分し、これを黒色と黄色で交互に表わし、本体下部周辺に黒色のリボンを施し、ひさしを黄色で表わした帽子に関する出願意匠は、倒椀状の頂部を山形に形成して本体とし、その下部周縁に外方に向つて斜降した錏庇（しころびさし）を設け、本体を頂点より放射状に六分し、これを濃赤色と密柑色で交互に表わし、本体の下部周辺に密柑色をリボン状に表わし、錏庇を濃赤色で表わした帽子に関する公知意匠に類似する。",
+  "ref_law": "意匠法3条",
+  "lawsuit_id": "62187",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62187",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/187/062187_hanrei.pdf"
+}

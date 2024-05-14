@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 3,
+    "day": 22
+  },
+  "case_number": "昭和46(あ)2352",
+  "case_name": "業務上過失傷害",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "刑集　第27巻2号240頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 10,
+    "day": 12
+  },
+  "gist": "自動車運転者に私人の赤旗による停止の合図を無視し交差点に進入してくる車両のありうることまでを予想して徐行しなければならない業務上の注意義務はないとされた事例",
+  "case_gist": "北方道路の入口で私人の手旗による交通規制の行なわれている交差点において、東方から同交差点に進入する車両の運転者は、北方から進行してくる車両の運転者が私人の赤旗による停止の合図に従うものと信頼してよく、同運転者がその停止の合図を無視し同交差点に進入してくることまでを予想して徐行しなければならない業務上の注意義務はない。",
+  "ref_law": "刑法211条前段",
+  "lawsuit_id": "57025",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57025",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/025/057025_hanrei.pdf"
+}

@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 10,
+    "day": 20
+  },
+  "case_number": "昭和45(あ)1065",
+  "case_name": "商標法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第185号287頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 4,
+    "day": 10
+  },
+  "gist": "旧商標法八条一項本文にいういわゆる商号の普通使用にあたらないとされた事例",
+  "ref_law": "旧商標法8条1項",
+  "lawsuit_id": "59528",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59528",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/528/059528_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 3,
+    "day": 27
+  },
+  "case_number": "昭和42(オ)848",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第98号565頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_case_number": "昭和36(ネ)201",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 2,
+    "day": 28
+  },
+  "gist": "信用組合の表見参事が権限なくして約束手形を振り出した場合と信用組合の手形所持人に対する人的抗弁",
+  "case_gist": "手形振出の代理権を有しない信用組合の表見参事が代理資格を冒用して約束手形を振り出した場合において、手形受取人および同人の被裏書人がいずれも右代理権のないことを知つて手形を取得したときには、信用組合は被裏書人である手形所持人に対し、右表見参事が右代理権を有しなかつたことをもつて対抗することができる。",
+  "ref_law": "商法38条3項，手形法17条，手形法77条1項1号，中小企業等協同組合法44条",
+  "lawsuit_id": "66644",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66644",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/644/066644_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 11,
+    "day": 9
+  },
+  "case_number": "昭和43(オ)585",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第25巻8号頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和41(ネ)2256",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 3,
+    "day": 27
+  },
+  "gist": "自動車の有料貸渡業者から自動車を借り受けた者の運行による事故につき貸渡業者に自動車損害賠償保障法三条による運行供用者責任が認められた事例",
+  "case_gist": "自動車の有料貸渡業者が、自動車貸渡契約を締結するに際し、自動車の利用申込者につき、運転免許その他一定の利用資格の有無を審査し、右契約上、使用時間は短期で、料金も相当高額にのぼるほか、借主が予定利用時間、走行区域、制限走行距離の遵守等の義務を負うなど判示の事実関係があるときは、貸渡業者は、借主の運行による事故につき、自動車損害賠償保障法三条による運行供用者としての責任を免れない。",
+  "ref_law": "自動車損害賠償保障法3条",
+  "lawsuit_id": "51923",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51923",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/923/051923_hanrei.pdf"
+}

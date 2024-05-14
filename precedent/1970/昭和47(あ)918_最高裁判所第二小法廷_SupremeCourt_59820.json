@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 9,
+    "day": 13
+  },
+  "case_number": "昭和47(あ)918",
+  "case_name": "銃砲刀剣類等所持取締法違反等",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第185号193頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 3,
+    "day": 22
+  },
+  "gist": "原審が併合罪の一部につき公訴時効の完成を看過した場合と正義",
+  "ref_law": "刑訴法411条1号",
+  "lawsuit_id": "59820",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59820",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/820/059820_hanrei.pdf"
+}

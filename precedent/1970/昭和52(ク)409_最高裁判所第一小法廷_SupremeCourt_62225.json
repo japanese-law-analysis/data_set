@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 7,
+    "day": 19
+  },
+  "case_number": "昭和52(ク)409",
+  "case_name": "扶養審判に対する抗告につきした決定に対する抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "却下",
+  "article_info": "集民　第127号239頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和49(ラ)331",
+  "original_date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 10,
+    "day": 25
+  },
+  "gist": "扶養を命ずる審判に対する抗告事件の係属中に扶養権利者が死亡した場合に抗告審が死亡までの扶養料債権が相続の対象となるとして相続人に受継させ抗告人に支払を命じたことと違憲の主張",
+  "case_gist": "扶養を命ずる審判に対する抗告事件の係属中に扶養権利者が死亡した場合に、抗告審が、死亡時までの扶養料債権が金銭債権として相続の対象となると解し、相続人に受継させたうえ抗告人にその支払を命じたとき、抗告審の右見解の当否は抗告人において別途民事訴訟によつてこれを争うことができ、いかなる意味においても憲法違反の問題を生ぜず、その特別抗告は民訴法四一九条の二所定の場合にあたらない。",
+  "ref_law": "民法896条但書，家事審判規則15条，民訴法419条ノ2",
+  "lawsuit_id": "62225",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62225",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/225/062225_hanrei.pdf"
+}

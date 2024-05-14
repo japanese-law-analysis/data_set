@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 12,
+    "day": 5
+  },
+  "case_number": "昭和49(し)112",
+  "case_name": "裁判官忌避申立却下決定に対する準抗告の棄却決定に対する特別抗告（表題は異議申立）",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第194号321頁",
+  "original_court_name": "浦和地方裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 11,
+    "day": 5
+  },
+  "gist": "即時抗告と題する申立を準抗告の趣旨に善解処理した原措置につき正当であると判示された事例",
+  "ref_law": "刑訴法429条",
+  "lawsuit_id": "60065",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60065",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/065/060065_hanrei.pdf"
+}

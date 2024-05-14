@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 7,
+    "day": 16
+  },
+  "case_number": "昭和44(オ)183",
+  "case_name": "所有権移転登記抹消登記手続請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第100号205頁",
+  "original_court_name": "高松高等裁判所",
+  "original_case_number": "昭和42(ネ)225",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 11,
+    "day": 22
+  },
+  "gist": "滅失登記手続をなすべきことを訴求する利益はないとされた事例",
+  "case_gist": "旧建物が取りこわされて滅失し、すでに存在せず、同じ土地上に建築されている新建物とは同一性がなく、しかも新建物については、すでに甲名義の保存登記が了されている場合には、甲は旧建物の登記簿上の所有名義人である乙に対して旧建物の滅失登記手続をなすべきことを訴求する利益はないというべきである。",
+  "ref_law": "不動産登記法93条ノ6，不動産登記法25条ノ2，民訴法2編1章（訴）",
+  "lawsuit_id": "66717",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66717",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/717/066717_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 4,
+    "day": 4
+  },
+  "case_number": "昭和44(あ)916",
+  "case_name": "尊属殺未遂",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集刑　第187号21頁",
+  "original_court_name": "仙台高等裁判所\n        　秋田支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 3,
+    "day": 25
+  },
+  "gist": "刑法二〇〇条と憲法一四条一項",
+  "case_gist": "刑法二〇〇条は、憲法一四条一項に違反する。",
+  "ref_law": "憲法14条1項，刑法199条，刑法200条，刑法203条",
+  "lawsuit_id": "59490",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59490",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/490/059490_hanrei.pdf"
+}

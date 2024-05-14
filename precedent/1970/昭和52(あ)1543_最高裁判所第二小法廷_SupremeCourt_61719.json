@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 9,
+    "day": 20
+  },
+  "case_number": "昭和52(あ)1543",
+  "case_name": "労働安全衛生法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第213号123頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 8,
+    "day": 3
+  },
+  "gist": "労働安全衛生規則六六七条二号八の意義が不明確である旨の憲法三一条違反の主張が欠前提とされた事例",
+  "ref_law": "憲法31条",
+  "lawsuit_id": "61719",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61719",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/719/061719_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 4,
+    "day": 20
+  },
+  "case_number": "昭和47(オ)731",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第109号171頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和44(ネ)1666",
+  "original_date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 3,
+    "day": 30
+  },
+  "gist": "他車との衝突後の自動車の暴走と相当因果関係",
+  "case_gist": "制限時速が四〇粁と定められている幅員約八米、アスファルト全面舗装の国道を走行中の普通貨物自動車（甲車）が、交差点において道路の左側から右折を開始した先行の第二種原動機付自転車（乙車）との衝突を回避しようとしたが、回避し切れず乙車に接触したうえ急激にハンドルを切り急制動をしたため運転の自由を失い約二〇米暴走して第三者に衝突した場合において、甲車が制限速度に違反する高速度で走行していたとしても、乙車が右折に際し合図をしていない等判示の事情のもとにおいては、乙車の右折行為と甲車・第三者の衝突の間には、相当因果関係がある。",
+  "ref_law": "民法709条",
+  "lawsuit_id": "62134",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62134",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/134/062134_hanrei.pdf"
+}

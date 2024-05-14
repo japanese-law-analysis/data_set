@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 11,
+    "day": 30
+  },
+  "case_number": "昭和54(オ)413",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第128号139頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和52(ネ)1868",
+  "original_date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 12,
+    "day": 18
+  },
+  "gist": "医療法人による建物の不法占有について理事個人の不法行為責任が認められた事例",
+  "case_gist": "医療法人に対して建物明渡を命ずる判決が確定しているのにかかわらず、理事において、新たに患者を入院させることを中止し、既に入院している患者を転退院させ、更には右建物での病院の業務を廃止するなど右建物を明渡すべき努力をしなかつたが、もしその努力をしておればおそくとも判決確定後二年三箇月後には右建物の明渡が可能とみられるなど原判示の事情のもとにおいては、右期間経過後も右建物の占有を継続したことによる賃料相当の損害については、各理事も不法行為責任を免れない。",
+  "ref_law": "医療法68条，民法44条1項，民法709条",
+  "lawsuit_id": "64314",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64314",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/314/064314_hanrei.pdf"
+}

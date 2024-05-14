@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 11,
+    "day": 4
+  },
+  "case_number": "昭和46(し)94",
+  "case_name": "移送申立事件についてした即時抗告棄却決定に対する異議申立棄却決定に対する特別抗告",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第182号3頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 8,
+    "day": 12
+  },
+  "gist": "即時抗告棄却決定に対して申し立てられた異議を却下した決定に対する特別抗告の申立が適法として取り扱われた事例",
+  "ref_law": "刑訴法433条",
+  "lawsuit_id": "76061",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=76061",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/061/076061_hanrei.pdf"
+}

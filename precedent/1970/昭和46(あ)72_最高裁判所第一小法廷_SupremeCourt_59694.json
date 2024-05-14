@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 9,
+    "day": 9
+  },
+  "case_number": "昭和46(あ)72",
+  "case_name": "業務上過失傷害",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第181号449頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 11,
+    "day": 24
+  },
+  "gist": "量刑事情としての犯罪事実の摘示と憲法三一条",
+  "ref_law": "憲法31条",
+  "lawsuit_id": "59694",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59694",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/694/059694_hanrei.pdf"
+}

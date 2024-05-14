@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 12,
+    "day": 25
+  },
+  "case_number": "昭和49(オ)590",
+  "case_name": "土地および立木所有権確認請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第116号875頁",
+  "original_court_name": "仙台高等裁判所\n        　秋田支部",
+  "original_case_number": "昭和40(ネ)82",
+  "original_date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 3,
+    "day": 20
+  },
+  "gist": "旧国有林野法（明治三二年法律第八五号）施行前にされた国有林野の境界査定処分と実体法規",
+  "case_gist": "旧国有林野法（明治三二年法律第八五号）施行前に大林区署が明治二四年勅令第一四四号大小林区署官制一条三号によつて付与された権限に基づいてした国有林野の境界査定処分の実体法規は、国有林野の境界査定処分に関する慣習法である。",
+  "ref_law": "明治24年勅令第144号大小林区署官制1条3号，旧国有林野法（明治32年法律第85号）4条",
+  "lawsuit_id": "66811",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66811",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/811/066811_hanrei.pdf"
+}

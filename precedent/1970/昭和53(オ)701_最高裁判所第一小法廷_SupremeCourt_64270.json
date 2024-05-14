@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 11,
+    "day": 30
+  },
+  "case_number": "昭和53(オ)701",
+  "case_name": "責任役員会決議不存在確認",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第125号755頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和51(ネ)287",
+  "original_date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 2,
+    "day": 28
+  },
+  "gist": "宗教法人の責任役員が代表役員を互選する場合における当該責任役員の特別利害関係",
+  "case_gist": "宗教法人の責任役員が代表役員を互選する場合において、その責任役員が代表役員の候補者に擬せられているときでも、議決事項につき特別の利害関係を有する場合にはあたらない。",
+  "ref_law": "宗教法人法18条2項，宗教法人法21条2項",
+  "lawsuit_id": "64270",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64270",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/270/064270_hanrei.pdf"
+}

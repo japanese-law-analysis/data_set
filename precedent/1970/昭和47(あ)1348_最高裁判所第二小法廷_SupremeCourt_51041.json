@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 4,
+    "day": 6
+  },
+  "case_number": "昭和47(あ)1348",
+  "case_name": "業務上過失傷害",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第28巻3号52頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 6,
+    "day": 13
+  },
+  "gist": "左折車両の運転者の後方注意義務",
+  "case_gist": "交差点で左折しようとする車両の運転者は、交差点の手前約二二メートル付近で左折の合図をした場合であつても、車道左側端から約一・七メートルの間隔をおいて徐行し、進路を左側に変更すると自車の左斜後方を追尾しその左側を追い抜く可能性のある後進車（自動二輪車）の進路を妨害してこれと接触する危険があるときは、同車の動静に注意を払い安全確認をしたうえ左折を開始すべき注意義務がある。",
+  "ref_law": "刑法211条，道路交通法（昭和46年法律98号による改正前のもの）26条，道路交通法（昭和46年法律98号による改正前のもの）34条",
+  "lawsuit_id": "51041",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51041",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/041/051041_hanrei.pdf"
+}

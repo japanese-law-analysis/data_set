@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 3,
+    "day": 12
+  },
+  "case_number": "昭和44(オ)977",
+  "case_name": "離婚請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第98号407頁",
+  "original_court_name": "仙台高等裁判所\n        　秋田支部",
+  "original_case_number": "昭和44(ネ)9",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 6,
+    "day": 30
+  },
+  "gist": "民法七七〇条一項四号と同条二項の法意",
+  "case_gist": "民法七七〇条二項の規定は、夫婦の一方が同条一項四号に該当する不治の精神病にかかつた事実が肯認される場合においても、離婚請求の許否を決するにあたつては、なお諸般の事情を考慮し、各関係者間において病者の離婚後における療養、生活などについてできるかぎりの具体的方策が講ぜられ、ある程度において、前途に、その方途の見込がついたうえでなければ、婚姻関係を解消させることは不相当と認め、離婚の請求は許さない趣旨のものと解すべきである（最高裁判所昭和二八年（オ）第一三八九号、同三三年七月二五日第二小法廷判決、民集一二巻一二号一八二三頁参照）。",
+  "ref_law": "民法770条1項4号，民法770条2項",
+  "lawsuit_id": "66749",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66749",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/749/066749_hanrei.pdf"
+}

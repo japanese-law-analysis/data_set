@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 10,
+    "day": 29
+  },
+  "case_number": "昭和42(オ)980",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第101号225頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和41(ネ)727",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 5,
+    "day": 16
+  },
+  "gist": "交差点で右折する自動車運転者に信号を無視して交差点に進入してくる車両のありうることまでも予想すべき注意義務がないとされた事例",
+  "case_gist": "判示事実関係のもとにおいては、判示のように信号機の表示する信号により交通整理が行なわれている交差点で右折する車両の運転者は、通常、他の運転者も信号に従つて行動するであろうことを信頼し、それを前提として注意義務を尽せば足り、特別な事情のないかぎり、本件被害者のように信号を無視して交差点に進入してくる車両のありうることまでも予想して左右後方の安全を確認すべき注意義務を負わないものと解するのが相当である。",
+  "ref_law": "民法709条，自動車損害賠償保障法3条",
+  "lawsuit_id": "63995",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63995",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/995/063995_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 3,
+    "day": 21
+  },
+  "case_number": "昭和46(オ)665",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第105号309頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "昭和46(ネ)58",
+  "original_date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 4,
+    "day": 28
+  },
+  "gist": "法律の規定によつて特段の不利益を受けない場合と右規定の違憲の主張の許否",
+  "case_gist": "国家賠償法一条の解釈として公務員個人が賠償責任を負わないものとしても、これによつて被害者たる原告はなんらの不利益を被るものでもないから、同人は右規定が憲法一四条に違反する旨を主張する利益を有しない。",
+  "ref_law": "憲法14条，国家賠償法1条",
+  "lawsuit_id": "62057",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62057",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/057/062057_hanrei.pdf"
+}

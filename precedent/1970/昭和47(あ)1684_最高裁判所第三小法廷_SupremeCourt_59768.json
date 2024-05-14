@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 6,
+    "day": 20
+  },
+  "case_number": "昭和47(あ)1684",
+  "case_name": "道路交通法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第192号763頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 7,
+    "day": 4
+  },
+  "gist": "最高裁の判例が出た後に云渡されたこれと相反する高裁判決と刑訴法四〇五条三号にいう「判例」",
+  "lawsuit_id": "59768",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59768",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/768/059768_hanrei.pdf"
+}

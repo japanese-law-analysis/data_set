@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 1,
+    "day": 25
+  },
+  "case_number": "昭和45(オ)900",
+  "case_name": "土地共有権確認等請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第111号1頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和39(ネ)2235",
+  "original_date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 5,
+    "day": 29
+  },
+  "gist": "法例七条一項にいう「当事者の意思」の意義",
+  "case_gist": "法例七条一項にいう準拠法に関する当事者の意思とは、明示的意思だけでなく、駄示的意思を意味するものと解すべきである。",
+  "ref_law": "法例7条1項，法例7条2項",
+  "lawsuit_id": "62005",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62005",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/005/062005_hanrei.pdf"
+}

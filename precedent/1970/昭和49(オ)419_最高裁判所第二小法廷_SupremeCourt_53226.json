@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 10,
+    "day": 20
+  },
+  "case_number": "昭和49(オ)419",
+  "case_name": "国家賠償",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第32巻7号1367頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_case_number": "昭和47(ネ)10",
+  "original_date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 8,
+    "day": 10
+  },
+  "gist": "一　無罪判決の確定と捜査及び訴追の違法性\n二　国家賠償法一条と公務員個人の賠償責任",
+  "case_gist": "一　無罪の刑事判決が確定したというだけで直ちに当該刑事事件についてされた逮捕、勾留及び公訴の提起・追行が違法となるものではない。\n二　公権力の行使に当たる国の公務員がその職務を行うにつき故意又は過失によつて違法に他人に損害を与えた場合には、国がその被害者に対して賠償の責に任じ、公務員個人はその責を負わない。",
+  "ref_law": "国家賠償法1条，民法709条",
+  "lawsuit_id": "53226",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53226",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/226/053226_hanrei.pdf"
+}

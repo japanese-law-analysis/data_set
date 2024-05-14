@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 2,
+    "day": 16
+  },
+  "case_number": "昭和46(オ)851",
+  "case_name": "建物収去土地明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第108号215頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和45(ネ)428",
+  "original_date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 6,
+    "day": 15
+  },
+  "gist": "破産管財人は建物保護ニ関スル法律第一条の第三者にあたるか",
+  "case_gist": "破産者から建物所有の目的で土地を賃借した者に対する関係で、破産管財人は、建物保護ニ関スル法律第一条の第三者にあたる。",
+  "ref_law": "破産法157条，破産法162条，破産法185条，建物保護ニ関スル法律1条",
+  "lawsuit_id": "62071",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62071",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/071/062071_hanrei.pdf"
+}

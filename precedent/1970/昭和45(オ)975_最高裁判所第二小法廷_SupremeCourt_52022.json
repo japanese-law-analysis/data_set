@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 10,
+    "day": 22
+  },
+  "case_number": "昭和45(オ)975",
+  "case_name": "養子縁組無効確認請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第25巻7号985頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和44(ネ)1372",
+  "original_date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 7,
+    "day": 23
+  },
+  "gist": "過去に情交関係があつた当事者間における養子縁組につき縁組意思が存在したと認められた事例",
+  "case_gist": "養子縁組の当事者である甲男と乙女との間に、たまたま過去に情交関係があつたが、事実上の夫婦然たる生活関係が形成されるには至らなかつた場合において、乙は、甲の姪で、永年甲方に同居してその家事や家業を手伝い、家計をもとりしきつていた者であり、甲は、すでに高令に達し、病を得て家業もやめたのち、乙の世話になつたことへの謝意をもこめて、乙を養子とすることにより、自己の財産を相続させあわせて死後の供養を託する意思をもつて、縁組の届出に及んだものであるなど判示の事実関係があるときは、甲乙間に縁組を有効に成立させるに足りる縁組の意思が存在したものということができる。",
+  "ref_law": "民法802条1号",
+  "lawsuit_id": "52022",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52022",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/022/052022_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 11,
+    "day": 20
+  },
+  "case_number": "昭和46(オ)279",
+  "case_name": "建物収去土地明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第116号489頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和44(ネ)11",
+  "original_date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 12,
+    "day": 23
+  },
+  "gist": "本人のためにすることを示さないでした代理人による弁済供託と民法一〇〇条但書の適用",
+  "case_gist": "供託者が、債務者の代理人としてする意思で、本人のためにすることを表示することなく、債権者を被供託者として弁済供託をした場合、被供託者において本人のためにされたものであることを知り又は知りうべきであつたときは、右弁済供託は債務者より債権者に対するものとしての効力を有する。",
+  "ref_law": "民法100条，民法494条，民法495条",
+  "lawsuit_id": "66767",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66767",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/767/066767_hanrei.pdf"
+}

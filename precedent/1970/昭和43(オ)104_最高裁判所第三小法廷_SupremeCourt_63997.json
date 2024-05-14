@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 4,
+    "day": 20
+  },
+  "case_number": "昭和43(オ)104",
+  "case_name": "専用実施権侵害行為差止請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集民　第102号491頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和41(ネ)39",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 11,
+    "day": 9
+  },
+  "gist": "一、特許の無効審決と上告理由\n二、上告審において民訴法第一九八条二項に基づき給付金の返還および損害の賠償を命じた事例",
+  "case_gist": "一、二審判決の基礎となつた専用実施権の前提である特許権につき無効審決が確定したときは、これを上告理由とすることができる。\n二、省略（判文参照）",
+  "ref_law": "民訴法420条1項8号，民訴法198条2項，特許法77条，特許法102条，特許法125条",
+  "lawsuit_id": "63997",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63997",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/997/063997_hanrei.pdf"
+}

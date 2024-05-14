@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 2,
+    "day": 18
+  },
+  "case_number": "昭和51(オ)667",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第120号91頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和50(ネ)436",
+  "original_date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 2,
+    "day": 25
+  },
+  "gist": "交差点を直進する自動車運転者に信号を無視して交差点に進入してくる車両のありうることまでも予想してこれに対応できる態勢で交差点に進入すべき注意義務がないとされた事例",
+  "case_gist": "判示のように信号機の表示する信号により交通整理が行なわれている交差点を直進する車両の運転者は、たとえそれが深夜であつても、特別の事情のない限り、信号を無視して交差点に進入してくる車両のありうることまでも予想して、左右の安全を確認し、このような信号違反車にも対応できる態勢で交差点に進入すべき注意義務を負わないものと解するのが相当である。",
+  "ref_law": "民法709条，自動車損害賠償保障法3条",
+  "lawsuit_id": "74522",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74522",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/522/074522_hanrei.pdf"
+}

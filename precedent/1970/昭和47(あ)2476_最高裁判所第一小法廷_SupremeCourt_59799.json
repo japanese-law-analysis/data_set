@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 5,
+    "day": 16
+  },
+  "case_number": "昭和47(あ)2476",
+  "case_name": "賍物故買",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第189号13頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 11,
+    "day": 9
+  },
+  "gist": "不告不理の原則と窃盗本犯の起訴されていない窃盗罪の賍物故買犯処罰",
+  "ref_law": "憲法31条",
+  "lawsuit_id": "59799",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59799",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/799/059799_hanrei.pdf"
+}

@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 4,
+    "day": 18
+  },
+  "case_number": "昭和48(あ)2027",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第192号303頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 8,
+    "day": 7
+  },
+  "gist": "構成要件が不明確である旨の憲法三一条違反の主張が前提を欠くとされた事例",
+  "ref_law": "憲法31条",
+  "lawsuit_id": "59882",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59882",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/882/059882_hanrei.pdf"
+}

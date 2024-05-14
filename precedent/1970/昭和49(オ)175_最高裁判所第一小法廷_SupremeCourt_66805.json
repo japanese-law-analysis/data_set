@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 10,
+    "day": 9
+  },
+  "case_number": "昭和49(オ)175",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第116号259頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和45(ネ)140",
+  "original_date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 11,
+    "day": 5
+  },
+  "gist": "イ号物件が登録実用新案の技術的範囲に属するとした判断に経験則違反又は理由不備の違法があるとされた事例",
+  "case_gist": "判文参照",
+  "ref_law": "実用新案法26条，特許法70条",
+  "lawsuit_id": "66805",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66805",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/805/066805_hanrei.pdf"
+}

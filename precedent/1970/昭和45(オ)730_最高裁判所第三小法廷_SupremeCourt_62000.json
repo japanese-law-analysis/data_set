@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 11,
+    "day": 30
+  },
+  "case_number": "昭和45(オ)730",
+  "case_name": "債権存在確認等請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第104号517頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和44(ネ)94",
+  "original_date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 4,
+    "day": 20
+  },
+  "gist": "債権の差押、取立命令がその債権の範囲が特定されていないゆえをもつて無効とされた事例",
+  "case_gist": "債権の差押、取立命令における被差押債権の表示が「債務者が第三債務者に対して有する昭和四一年一二月三〇日に支払を受くべき、（１）滋賀県長浜市の上水道工事、（２）兵庫県明石市の上水道工事の下請負代金の合計金一五〇万円の内金六〇万円」とあり、右（１）、（２）の工事は別個の契約であつて、報酬を一括して約束したものでもない場合には、右の差押、取立命令は、差押、取立にかかる債権の範囲が特定されていないゆえをもつて無効である。",
+  "ref_law": "民訴法594条，民訴法600条",
+  "lawsuit_id": "62000",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62000",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/000/062000_hanrei.pdf"
+}

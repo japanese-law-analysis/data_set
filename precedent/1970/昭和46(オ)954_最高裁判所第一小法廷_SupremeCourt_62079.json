@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 10,
+    "day": 4
+  },
+  "case_number": "昭和46(オ)954",
+  "case_name": "配当異議",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第110号153頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和45(ネ)418",
+  "original_date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 6,
+    "day": 24
+  },
+  "gist": "後順位担保権者など第三者がいない場合における根抵当権者の配当受領金額",
+  "case_gist": "根抵当権者は、後順位担保権者など配当をうけることのできる第三者がなく、競売代金に余剰が生じた場合においても、極度額を越える部分について、当該競売手続においては、その交付をうけることができない。",
+  "ref_law": "民法398条ノ3第1項，競売法33条2項",
+  "lawsuit_id": "62079",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62079",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/079/062079_hanrei.pdf"
+}

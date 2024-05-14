@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 10,
+    "day": 4
+  },
+  "case_number": "昭和49(し)67",
+  "case_name": "控訴棄却決定に対する異議申立の棄却決定に対する特別抗告",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第194号7頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 6,
+    "day": 5
+  },
+  "gist": "控訴棄却決定に対する異議申立につき決定をするにあたつての事実の取調と被告人の反対尋問権",
+  "case_gist": "裁判所が控訴棄却決定に対する異議申立の理由の有無を判断するため事実の取調をするにあたり、被告人側に立会及び尋問の機会を与えなかつたとしても、憲法三七条二項に違反するものでないことは、当裁判所の判例（昭和二七年六月一八日大法廷判決・刑集六巻六号八〇〇頁）の趣旨とするところである。",
+  "ref_law": "憲法37条2項，刑訴法43条3項，刑訴規則33条",
+  "lawsuit_id": "60074",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60074",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/074/060074_hanrei.pdf"
+}

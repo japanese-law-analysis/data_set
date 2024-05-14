@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 2,
+    "day": 20
+  },
+  "case_number": "昭和51(あ)804",
+  "case_name": "揮発油税法違反、地方道路税法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第32巻1号64頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 3,
+    "day": 23
+  },
+  "gist": "揮発油税及び地方道路税の逋脱罪が成立するとされた事例",
+  "case_gist": "揮発油税及び地方道路税が課税済みの揮発油に右両税の課税対象外の炭化水素であるノルマルヘキサン、トルオール、アロマチツクナフサナンバー２を混和して新たな揮発油を作出する行為は、揮発油税法及び地方道路税法上の揮発油の製造にあたり、右両税の逋脱罪は、混和後の揮発油の全量について成立する。",
+  "ref_law": "揮発油税法3条1項，揮発油税法27条1項1号，地方道路税法5条1項，地方道路税法15条1項1号",
+  "lawsuit_id": "51124",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51124",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/124/051124_hanrei.pdf"
+}

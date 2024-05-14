@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 6,
+    "day": 28
+  },
+  "case_number": "昭和43(オ)942",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第28巻5号655頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和41(ネ)2778",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 5,
+    "day": 30
+  },
+  "gist": "手形偽造と手形法八条の類推適用",
+  "case_gist": "手形を偽造した者は、手形法八条の類推適用により手形上の責任を負うものと解するのが相当である。",
+  "ref_law": "手形法8条，手形法77条2項",
+  "lawsuit_id": "54143",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54143",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/143/054143_hanrei.pdf"
+}

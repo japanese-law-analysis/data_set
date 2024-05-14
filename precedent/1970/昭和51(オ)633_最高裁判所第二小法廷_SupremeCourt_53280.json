@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 12,
+    "day": 17
+  },
+  "case_number": "昭和51(オ)633",
+  "case_name": "請求異議",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第30巻11号1036頁",
+  "original_court_name": "広島高等裁判所",
+  "original_case_number": "昭和49(ネ)149",
+  "original_date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 3,
+    "day": 25
+  },
+  "gist": "賃借人が賃料の支払を一か月分でも怠つたときは建物賃貸借契約は当然解除となる旨の訴訟上の和解条項に基づく契約の当然解除が認められないとされた事例",
+  "case_gist": "訴訟上の和解によつて、建物の賃借人が賃料の支払を一か月分でも怠つたときは賃貸借契約は当然解除となる旨の定めがされた場合においても、賃料の延滞が一か月分であり、賃借人は、和解成立後賃貸人から賃料の受領を拒絶されるまで、約二年間右一か月分を除いては毎月の賃料を期日に支払つており、右延滞もなんらかの手違いによるものであつて賃借人がその当時これに気づいていなかつたなど判示の事情があり、賃貸借当事者間の信頼関係が賃貸借契約の当然解除を相当とする程度にまで破壊されたといえないときは、右和解条項に基づき賃貸借契約が当然に解除されたものとは認められない。",
+  "ref_law": "民法第3編第2章第7節第3款，民法541条，民法695条，民訴法203条",
+  "lawsuit_id": "53280",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53280",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/280/053280_hanrei.pdf"
+}

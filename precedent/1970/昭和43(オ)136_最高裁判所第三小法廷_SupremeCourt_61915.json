@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 11,
+    "day": 16
+  },
+  "case_number": "昭和43(オ)136",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第104号241頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "昭和42(ネ)31",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 11,
+    "day": 16
+  },
+  "gist": "民法七二四条の「損害及ヒ加害者ヲ知リタル時」の認定事例",
+  "case_gist": "立木の所有権の帰属をめぐつて争いがあり、当事者の一方が立木を伐採した者を相手方として立木の伐採搬出禁止の仮処分を得て執行し、ついで、山林の所有権確認、立木伐採・伐木搬出禁止等の本案訴訟を提起したが、その後右仮処分決定が取り消される等判示のような事実関係がある場合には、立木伐採に基づく損害賠償請求権の消滅時効は、右所有権確認等請求事件についての本案判決が確定するまで進行しない。",
+  "ref_law": "民法724条",
+  "lawsuit_id": "61915",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61915",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/915/061915_hanrei.pdf"
+}

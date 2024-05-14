@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 11,
+    "day": 10
+  },
+  "case_number": "昭和47(オ)762",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第107号169頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和45(ネ)1477",
+  "original_date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 3,
+    "day": 16
+  },
+  "gist": "盗難手形を取得した金融機関に手形法一六条二項の重過失がないとされた事例",
+  "case_gist": "第一裏書人が白地裏書をしたまま保管中盗取された約束手形につき、金融機関が同手形の所持人から金融取引によりこれを取得するに当たつて右所持人等につき原判決理由説示のような調査をしたときは、右所持人が当該手形を所持することにつき疑念を抱かず、かつ、当該手形の振出人および第一裏書人に対し直接照会をしなかつたとしても、右金融機関に重過失があるということはできない。",
+  "ref_law": "手形法16条2項，手形法77条1項1号",
+  "lawsuit_id": "62852",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62852",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/852/062852_hanrei.pdf"
+}

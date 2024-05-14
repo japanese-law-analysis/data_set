@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 10,
+    "day": 26
+  },
+  "case_number": "昭和46(オ)328",
+  "case_name": "売掛代金請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第25巻7号1019頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和44(ネ)671",
+  "original_date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 12,
+    "day": 22
+  },
+  "gist": "連帯保証人が付従性を有しない独立の債務を負担するに至つたと認められる事例",
+  "case_gist": "債権者が、主たる債務者に対しては債務の一部を免除したが、連帯保証人に対しては債務全額を取り立てる旨の意思表示をなし、連帯保証人がこれを承諾したときは、連帯保証人は、債権者に対し右免除部分については付従性を有しない独立の債務を負担するに至つたものというべきである。",
+  "ref_law": "民法448条",
+  "lawsuit_id": "52042",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52042",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/042/052042_hanrei.pdf"
+}

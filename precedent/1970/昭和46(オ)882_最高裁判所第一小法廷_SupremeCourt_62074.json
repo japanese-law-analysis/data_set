@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 1,
+    "day": 20
+  },
+  "case_number": "昭和46(オ)882",
+  "case_name": "建物収去土地明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第105号7頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和45(ネ)54",
+  "original_date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 5,
+    "day": 27
+  },
+  "gist": "取立払の定めのある賃料を債権者が取立に赴かなくてもその不払を理由とする賃貸借契約の解除が許されるとされた事例",
+  "case_gist": "六箇月ごとの取立払の定めのある賃料につき、賃貸人が再三賃借人方に取立に赴きまた督促のため電話したのに対し、賃借人がその事実を知りながら支払の意思を示す態度がなかつたなどの判示の事実関係のもとにおいて、賃貸人が一年七箇月分の賃料を持参して支払うよう催告し、催告期間内に賃借人方に取立に赴かなかつたとしても、賃借人が弁済の準備をしその旨を賃貸人に通知して取立を促す等信義則上の措置に出ないで催告期間を徒過したときは、賃貸人は、右催告にかかる賃料の不払を理由に、賃貸借契約を解除することができる。",
+  "ref_law": "民法484条，民法493条，民法541条，民法601条，民法1条2項",
+  "lawsuit_id": "62074",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62074",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/074/062074_hanrei.pdf"
+}

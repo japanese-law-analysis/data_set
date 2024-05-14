@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 4,
+    "day": 25
+  },
+  "case_number": "昭和49(あ)102",
+  "case_name": "恐喝未遂",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第192号391頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 12,
+    "day": 20
+  },
+  "gist": "公判調書偽造、虚偽記載等を主張する論旨を原判示にそわない事実関係の主張であるとして、違憲主張を不適法とした事例",
+  "lawsuit_id": "59972",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59972",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/972/059972_hanrei.pdf"
+}

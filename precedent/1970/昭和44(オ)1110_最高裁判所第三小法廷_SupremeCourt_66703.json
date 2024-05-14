@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 3,
+    "day": 3
+  },
+  "case_number": "昭和44(オ)1110",
+  "case_name": "金員等返還請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第98号349頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "昭和43(ネ)118",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 7,
+    "day": 31
+  },
+  "gist": "売買契約の目的達成のため必要不可欠な債務の履行不能を理由に当該売買契約の解除が認められた事例",
+  "case_gist": "山林中の立、倒木およびその搬出のための諸施設の売買契約において、その目的とする右立、倒木の伐採、搬出を達成するため、売主が買主に対し、山林の所有者より買主が右伐採、搬出のため山林を使用することの承諾を得ることを約した場合は、売主は、買主に対し、右の承諾を得させる債務を有するものであり、右債務は、右契約の目的達成のため必要不可欠な債務と解すべきである。したがつて、右債務が売主の責に帰すべき事由により履行不能となつたときは、買主は、これを理由に売買契約を全部解除することができる。",
+  "ref_law": "民法541条",
+  "lawsuit_id": "66703",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66703",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/703/066703_hanrei.pdf"
+}

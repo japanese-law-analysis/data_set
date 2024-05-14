@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 6,
+    "day": 17
+  },
+  "case_number": "昭和50(オ)1148",
+  "case_name": "所有権移転登記抹消等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第30巻6号616頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和43(ネ)1221",
+  "original_date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 7,
+    "day": 29
+  },
+  "gist": "農地買収・売渡処分が買収計画取消判決の確定により失効した場合と被売渡人から右土地を買い受けた者の有益費償還請求権に基づく土地留置権の行使",
+  "case_gist": "農地買収・売渡処分が買収計画取消判決の確定により当初にさかのぼつて効力を失つた場合において、被売渡人から右土地を買い受けた者が土地につき有益費を支出していても、その支出をした当時、買主が被買収者から買収・売渡処分の無効を理由として所有権に基づく土地返還請求訴訟を提起されており、買主において買収・売渡処分が効力を失うかもしれないことを疑わなかつたことにつき過失があるときには、買主は、右有益費償還請求権に基づく土地の留置権を行使することができない。",
+  "ref_law": "民法295条",
+  "lawsuit_id": "54218",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54218",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/218/054218_hanrei.pdf"
+}

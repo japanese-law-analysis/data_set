@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 10,
+    "day": 12
+  },
+  "case_number": "昭和47(オ)372",
+  "case_name": "執行判決請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第26巻8号448頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和46(ネ)1578",
+  "original_date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 12,
+    "day": 25
+  },
+  "gist": "仲裁契約が黙示的に成立したと認められた事例",
+  "case_gist": "紛争につき仲裁手続を申し立てられた者が、仲裁手続の意味を理解したうえ、期日に出頭し、仲裁人の面前で、仲裁契約の不存在を主張することなく本案の陳述をしたときは、仲裁手続の申立人と被申立人との間に、右紛争についての仲裁契約が黙示的に成立したものと認めるべきである。",
+  "ref_law": "民訴法786条，民訴法797条，民法521条",
+  "lawsuit_id": "52649",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52649",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/649/052649_hanrei.pdf"
+}

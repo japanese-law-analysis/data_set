@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 2,
+    "day": 27
+  },
+  "case_number": "昭和44(オ)1129",
+  "case_name": "保険金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第98号313頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和44(ネ)351",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 7,
+    "day": 8
+  },
+  "gist": "生命保険契約に基づく保険金請求権と滞納処分による差押",
+  "case_gist": "保険事故が発生して具体化している生命保険契約に基づく保険金受取人の保険金請求権は、通常の金銭債権として、国税または地方税に関する滞納処分による差押の対象となりうる。",
+  "ref_law": "商法673条，国税徴収法5章1節6款",
+  "lawsuit_id": "66705",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66705",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/705/066705_hanrei.pdf"
+}

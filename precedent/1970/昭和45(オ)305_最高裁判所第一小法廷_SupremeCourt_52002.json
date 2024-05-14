@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 6,
+    "day": 3
+  },
+  "case_number": "昭和45(オ)305",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第25巻4号455頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和44(ネ)201",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 12,
+    "day": 24
+  },
+  "gist": "登記申請の権限と民法一一〇条の表見代理における基本代理権",
+  "case_gist": "本人から登記申請を委任されてこれに必要な権限を与えられた者が右権限をこえて第三者と取引行為をした場合において、その登記申請が本人の私法上の契約による義務の履行のためになされるものであるときは、その権限を基本代理権として、右第三者との問の行為につき民法一一〇条を適用し、表見代理の成立を認めることができる。",
+  "ref_law": "民法110条",
+  "lawsuit_id": "52002",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52002",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/002/052002_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 7,
+    "day": 20
+  },
+  "case_number": "昭和44(オ)316",
+  "case_name": "工事代金請求等",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第27巻7号863頁",
+  "original_court_name": "広島高等裁判所",
+  "original_case_number": "昭和41(ネ)300",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 12,
+    "day": 24
+  },
+  "gist": "当事者参加訴訟の一審判決に対し一入が控訴した場合における他の二者間の請求と控訴審の審判",
+  "case_gist": "原告甲の被告乙に対する請求ならびに参加入丙の甲および乙に対する各請求が合一にのみ確定すべき当事者参加訴訟において、甲の乙に対する請求を棄却し、丙の甲および乙に対する請求をそれぞれ一部認容する旨の一審判決に対し、甲が、その敗訴部分の取消、甲の乙に対する請求認容および丙の甲に対する請求中一審認容部分の棄却を求めて控訴したにとどまり、乙が控訴または附帯控訴をしない場合であつても、控訴審は合一確定に必要な限度で、一審判決中丙の乙に対する請求を認容した部分を丙に不利に変更することができる。",
+  "ref_law": "民訴法62条，民訴法71条，民訴法186条，民訴法377条1項，民訴法385条",
+  "lawsuit_id": "51962",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51962",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/962/051962_hanrei.pdf"
+}

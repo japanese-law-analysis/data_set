@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 12,
+    "day": 21
+  },
+  "case_number": "昭和46(オ)690",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第104号763頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和43(ネ)535",
+  "original_date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 4,
+    "day": 15
+  },
+  "gist": "被用者の無断私用運転につき使用者責任が認められた事例",
+  "case_gist": "運送会社に自動車助手として雇われ、業務上急用の際には会社所有の第一種原動機付自転車を運転することの許諾を得ていて、その鍵を自由に持ち出せる状況にあつた被用者が、勤務時間終了後に私用のため無断で右自転車を運転して事故を起こしたなど判示の事実関係のもとにおいては、右運送会社は、右事故につき使用者責任を負うべきである。",
+  "ref_law": "民法715条",
+  "lawsuit_id": "62058",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62058",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/058/062058_hanrei.pdf"
+}

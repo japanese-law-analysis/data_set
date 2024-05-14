@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 9,
+    "day": 20
+  },
+  "case_number": "昭和48(オ)621",
+  "case_name": "排水路設置請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第112号575頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和47(ネ)359",
+  "original_date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 3,
+    "day": 20
+  },
+  "gist": "民法二一六条にいう工作物の破潰又は阻塞の原因",
+  "case_gist": "民法二一六条にいう工作物の破潰又は阻塞は、それが、自然力ないしは不可抗力によつて生じた場合に限らず、工作物の所有者の故意過失によつて生じた場合をも含む。",
+  "ref_law": "民法216条",
+  "lawsuit_id": "66792",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66792",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/792/066792_hanrei.pdf"
+}

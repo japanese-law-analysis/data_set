@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 5,
+    "day": 22
+  },
+  "case_number": "昭和43(オ)1209",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第99号209頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和42(ネ)476",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 8,
+    "day": 31
+  },
+  "gist": "自動車運転者および自動車運行供用者に賠償義務がないとされた事例",
+  "case_gist": "運転者が、中心線のある幅員約一六メートルの道路において時速約四〇キロメートルで運転中、附近にある横断歩道を迂回せず酔余のためその前方約二〇メートルの地点を横断中の被害者を発見し、時速約一〇キロメートルに減速して、被害者に近づいたところ、大体道路を横断し終つた被害者が、一、二歩後退したため、自動車の左照灯附近に衝突した等、原判示の事実関係（原判決理由参照）のもとにおいては、運転者は民法七〇九条による賠償義務を、また自動車運行供用者は自動車損害賠償保障法三条による賠償義務を負わない。",
+  "ref_law": "民法709条，自動車損害賠償保障法3条",
+  "lawsuit_id": "70322",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70322",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/322/070322_hanrei.pdf"
+}

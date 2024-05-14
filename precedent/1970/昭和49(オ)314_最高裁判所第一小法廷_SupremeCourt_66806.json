@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 12,
+    "day": 25
+  },
+  "case_number": "昭和49(オ)314",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集民　第116号863頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和47(ネ)1879",
+  "original_date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 12,
+    "day": 21
+  },
+  "gist": "売主が他人の権利を自己のものと装つて売却した場合における契約の効力",
+  "case_gist": "売主が他人の権利を自己のものと装つて売却した場合でも他人の権利を目的とする売買として契約は有効に成立する。",
+  "ref_law": "民法560条",
+  "lawsuit_id": "66806",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66806",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/806/066806_hanrei.pdf"
+}

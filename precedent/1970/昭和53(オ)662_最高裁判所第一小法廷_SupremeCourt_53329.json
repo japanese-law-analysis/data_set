@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 1,
+    "day": 25
+  },
+  "case_number": "昭和53(オ)662",
+  "case_name": "土地建物明渡並びに賃料",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第33巻1号1頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和52(ネ)506",
+  "original_date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 2,
+    "day": 28
+  },
+  "gist": "破産宣告後の不動産転借権の取得と破産法五四条一項",
+  "case_gist": "破産宣告当時破産者所有の不動産につき対抗力ある賃借権の負担が存する場合において、破産宣告後に右不動産が転貸されたとしても、特段の事情のない限り、転借人の転借権取得は破産法五四条一項所定の破産者の法律行為によらない権利の取得に該当しない。",
+  "ref_law": "民法612条，破産法54条1項",
+  "lawsuit_id": "53329",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53329",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/329/053329_hanrei.pdf"
+}

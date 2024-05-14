@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 3,
+    "day": 14
+  },
+  "case_number": "昭和48(オ)1106",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第111号303頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "昭和46(ネ)24",
+  "original_date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 8,
+    "day": 15
+  },
+  "gist": "賃借建物に関して支出する必要費、有益費の償還請求権を予め放棄する旨の特約と借家法六条",
+  "case_gist": "賃貸人と賃借人との間で、賃借人が賃借建物に関して支出する必要費、有益費の償還請求権を予め放棄する特約は、借家法六条に抵触しない。",
+  "ref_law": "民法608条，借家法6条",
+  "lawsuit_id": "62152",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62152",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/152/062152_hanrei.pdf"
+}

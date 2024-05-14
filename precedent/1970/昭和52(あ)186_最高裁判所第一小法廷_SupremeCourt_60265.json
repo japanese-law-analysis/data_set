@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 10,
+    "day": 20
+  },
+  "case_number": "昭和52(あ)186",
+  "case_name": "出資の受入、預り金及び金利等の取締等に関する法律違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第207号751頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 12,
+    "day": 21
+  },
+  "gist": "出資の受入、預り金及び金利等の取締等に関する法律二条、一一条が憲法三一条などに違反するものでないとされた事例",
+  "ref_law": "出資の受入、預り金及び金利等の取締等に関する法律2条，出資の受入、預り金及び金利等の取締等に関する法律11条，憲法31条",
+  "lawsuit_id": "60265",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60265",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/265/060265_hanrei.pdf"
+}

@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 3,
+    "day": 5
+  },
+  "case_number": "昭和47(あ)1750",
+  "case_name": "児童福祉法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集刑　第186号287頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 8,
+    "day": 7
+  },
+  "gist": "未決過算入を理由にした破棄自判",
+  "ref_law": "刑法21条",
+  "lawsuit_id": "59771",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59771",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/771/059771_hanrei.pdf"
+}

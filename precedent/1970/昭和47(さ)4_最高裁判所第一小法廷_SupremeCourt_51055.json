@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 3,
+    "day": 8
+  },
+  "case_number": "昭和47(さ)4",
+  "case_name": "沖縄の刑法の傷害被告事件についてした確定判決に対する非常上告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第27巻2号87頁",
+  "original_court_name": "琉球政府の那覇簡易裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 10,
+    "day": 23
+  },
+  "gist": "違法に累犯加重をした確定判決が刑訴法四五八条一号但書にいう「被告人のため不利益であるとき」にあたらないとされた事例",
+  "case_gist": "違法に累犯加重をした確定判決であつても、その認定した犯罪事実が受刑中に刑務所内で犯した傷害事犯（原判文参照）であり、誤つて累犯加重の理由とした前科が受刑中の殺人罪の前科で、言い渡された刑が懲役六月である場合においては、刑訴法四五八条一号但書にいう「原判決が被告人のため不利益であるとき」にあたらない。",
+  "ref_law": "刑訴法458条1号",
+  "lawsuit_id": "51055",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51055",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/055/051055_hanrei.pdf"
+}

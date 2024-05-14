@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 3,
+    "day": 13
+  },
+  "case_number": "昭和49(行ツ)88",
+  "case_name": "棄却裁定処分取消請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第114号343頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和48(行ケ)53",
+  "original_date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 4,
+    "day": 25
+  },
+  "gist": "憲法二九条三項に基づく補償請求の許否",
+  "case_gist": "公共のためにする財産権の制限が社会生活上一般に受忍すべきものとされる限度をこえ、特定の人に対し特別の財産上の犠牲を強いるものである場合には、これについて損失補償に関する規定がなくても、直接憲法二九条三項を根拠にして、補償請求をすることができないわけではない。",
+  "ref_law": "憲法29条3項",
+  "lawsuit_id": "62204",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62204",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/204/062204_hanrei.pdf"
+}

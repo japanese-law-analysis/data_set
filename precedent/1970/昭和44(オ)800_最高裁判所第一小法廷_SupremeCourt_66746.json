@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 3,
+    "day": 12
+  },
+  "case_number": "昭和44(オ)800",
+  "case_name": "建物収去土地明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集民　第98号371頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和40(ネ)2667",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 5,
+    "day": 14
+  },
+  "gist": "一時使用のための借地権にあたるとされた事例",
+  "case_gist": "戦災による地上建物の焼失後にその居住者を含む多数の者が権原なく土地を占有し、土地所有者は、その罹災者たる立場に同情したが、従来右士地の使用に関し多年紛争を繰り返して、右罹災当時も裁判上の和解により建物居住者に対する明渡を猶予中であつたという事情に鑑み、暫定的にのみ右占有者らの土地使用を許諾することとし、占有者らもその趣旨を諒承したうえ、本建築にあらざる仮建築物の所有を目的とし、存続期間を戦時罹災土地物件令三条一項所定の停止期間に限る旨を約して賃貸借契約を締結したなどの判示の事実関係のもとにおいては、右土地賃貸借は、借地法九条所定の一時使用のための賃貸借にあたるものと認められる。",
+  "ref_law": "借地法9条",
+  "lawsuit_id": "66746",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66746",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/746/066746_hanrei.pdf"
+}

@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 2,
+    "day": 8
+  },
+  "case_number": "昭和47(あ)1624",
+  "case_name": "常習賭博",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第186号41頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 7,
+    "day": 24
+  },
+  "gist": "賭博の余罪を自供した被告人の供述調書をその常習性認定に使用することが違憲（憲法三一条）であるという論旨が不適法とされた事例",
+  "ref_law": "憲法31条",
+  "lawsuit_id": "59765",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59765",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/765/059765_hanrei.pdf"
+}

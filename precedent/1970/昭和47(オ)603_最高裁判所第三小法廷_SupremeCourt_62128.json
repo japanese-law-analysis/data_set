@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 4,
+    "day": 24
+  },
+  "case_number": "昭和47(オ)603",
+  "case_name": "土地建物所有権確認請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第109号183頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和45(ネ)997",
+  "original_date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 2,
+    "day": 10
+  },
+  "gist": "一、親権者が共同相続人である数人の子を代理してした遺産分割の協議と民法八二六条二項の利益相反行為\n二、親権者が共同相続人である数人の子を代理してした遺産分割の協議の効力",
+  "case_gist": "一、親権者が共同相続人である数人の子を代理して遺産分割の協議をすることは、かりに親権者において数人の子のいずれに対しても衡平を欠く意図がなく、親権者の代理行為の結果数人の子の間に利害の対立が現実化されていなかつたとしても、民法八二六条二項所定の利益相反する行為にあたる。\n二、親権者が共同相続人である数人の子を代理してした遺産分割の協議は、追認のないかぎり無効である。",
+  "ref_law": "民法826条2項",
+  "lawsuit_id": "62128",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62128",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/128/062128_hanrei.pdf"
+}

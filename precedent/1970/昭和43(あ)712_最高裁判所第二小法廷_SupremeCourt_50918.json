@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 9,
+    "day": 11
+  },
+  "case_number": "昭和43(あ)712",
+  "case_name": "所得税法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第24巻10号1333頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 2,
+    "day": 29
+  },
+  "gist": "国税通則法六八条の重加算税のほかに刑罰を科することと憲法三九条",
+  "case_gist": "同一の租税逋脱行為について国税通則法六八条の重加算税のほかに刑罰を科しても、憲法三九条に違反しない。",
+  "ref_law": "国税通則法68条，所得税法（昭和40年法律33号による改正前のもの）69条，憲法39条",
+  "lawsuit_id": "50918",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50918",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/918/050918_hanrei.pdf"
+}

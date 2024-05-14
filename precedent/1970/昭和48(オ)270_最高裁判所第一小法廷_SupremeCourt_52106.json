@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 1,
+    "day": 30
+  },
+  "case_number": "昭和48(オ)270",
+  "case_name": "預金返還等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第29巻1号1頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和44(ネ)1191",
+  "original_date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 12,
+    "day": 25
+  },
+  "gist": "信用組合の内規に反し職員外の者が職員を通じてした職員定期預金の払戻に関する右職員の行為と民法七一五条の事業の執行",
+  "case_gist": "信用組合が職員に対して職員外の者に職員定期預金を利用させることを禁止しているのを知りながら職員外の者が右組合の営業部預金課員の勧誘により同人を通じて右定期預金をした場合でも、職員定期預金でなければ預金をしないことが明らかであつた等特段の事情のないかぎり、右預金契約は一般定期預金として有効に成立し、右預金の払戻に関する右職員の行為は、その限度において組合の事業の執行にあたると解すべきである。",
+  "ref_law": "民法666条，民法715条",
+  "lawsuit_id": "52106",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52106",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/106/052106_hanrei.pdf"
+}

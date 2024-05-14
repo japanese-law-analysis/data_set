@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 11,
+    "day": 8
+  },
+  "case_number": "昭和52(あ)1808",
+  "case_name": "所得税法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第33巻7号695頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 9,
+    "day": 22
+  },
+  "gist": "租税逋脱犯における逋脱所得の金額の認定にあたりいわゆる推計の方法を用いることの可否",
+  "case_gist": "租税逋脱犯における逋脱所得の金額の認定にあたつては、いわゆる推計の方法、すなわち、財産・負債の増減、収入・支出の状況、取扱量、事業の規模、対比に値する同業者の業績等を示す間接的な資料から所得金額を推認して認定する方法も、その方法が経験則に照らして合理的である限りにおいては、当然に許容されるべきものであり、要は、それによつて合理的な疑いをさしはさむ余地のない程度の証明が得られれば足りる。",
+  "ref_law": "所得税法156条，所得税法238条1項，刑訴法317条",
+  "lawsuit_id": "51133",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51133",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/133/051133_hanrei.pdf"
+}

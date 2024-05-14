@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 12,
+    "day": 26
+  },
+  "case_number": "昭和46(オ)1015",
+  "case_name": "土地建物抵当権設定登記抹消登記等請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第107号469頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和46(ネ)56",
+  "original_date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 8,
+    "day": 20
+  },
+  "gist": "更生担保権確定の訴の擬制取下と会社更生法五条による時効中断の効力",
+  "case_gist": "更生担保権の届出がなされても、更生担保権確定の訴が、民訴法二三八条により取り下げられたものとみなされたときは、右届出は、時効中断の効力を生じないと解すべきである。",
+  "ref_law": "民法149条，会社更生法5条",
+  "lawsuit_id": "62846",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62846",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/846/062846_hanrei.pdf"
+}

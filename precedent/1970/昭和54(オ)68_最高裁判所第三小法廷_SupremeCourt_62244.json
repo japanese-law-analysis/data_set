@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 5,
+    "day": 29
+  },
+  "case_number": "昭和54(オ)68",
+  "case_name": "建物収去土地明渡",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第127号61頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和53(ネ)91",
+  "original_date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 10,
+    "day": 27
+  },
+  "gist": "賃借土地上の数棟の建物のうち一部の建物が譲渡されたため土地賃貸借契約全体が解除された場合とそのほかの建物についての買取請求権の有無",
+  "case_gist": "賃借土地上の数棟の建物のうち一部の建物の譲渡にともなう借地の一部無断転貸を理由として土地賃貸借契約全体が解除された場合には、そのほかの建物について所有者である借地人は建物買取請求権を有しない。",
+  "ref_law": "借地法4条2項，借地法10条",
+  "lawsuit_id": "62244",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62244",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/244/062244_hanrei.pdf"
+}

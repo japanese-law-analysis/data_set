@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 2,
+    "day": 22
+  },
+  "case_number": "昭和50(オ)736",
+  "case_name": "土地代金返還",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第126号129頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和48(ネ)2200",
+  "original_date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 4,
+    "day": 30
+  },
+  "gist": "共同相続人が全員の合意によつて遺産分割前の相続財産を構成する特定不動産を第三者に売却した場合における代金債権の性質",
+  "case_gist": "共同相続人が全員の合意によつて遺産分割前の相続財産を構成する特定不動産を第三者に売却した場合における代金債権は、特別の事情のない限り、右相続財産に属さない分割債権であり、各共同相続人がその持分に応じて個々にこれを分割取得するものである。",
+  "ref_law": "民法898条，民法899条，民法907条2項",
+  "lawsuit_id": "64102",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64102",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/102/064102_hanrei.pdf"
+}

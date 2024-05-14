@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 3,
+    "day": 23
+  },
+  "case_number": "昭和46(オ)126",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第26巻2号274頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和43(ネ)765",
+  "original_date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 6,
+    "day": 15
+  },
+  "gist": "請負契約の合意解除にあたり請負人が注文主に対し前払金返還債務を負担することを約した場合と請負人の保証人の責任",
+  "case_gist": "請負契約が合意解除され、その際請負人が注文主に対し請負契約上前払すべきものと定められた金額の範囲内で前払金返還債務を負担することを約した場合において、右合意解除が請負人の債務不履行に基づくものであり、かつ、右約定の債務が実質的にみて解除権の行使による解除によって負担すべき請負人の前払金返還債務より重いものではないと認められるときは、請負人の保証人は、特段の事情のないかぎり、右約定の債務についてもその責に任ずるものと解するのが相当である。",
+  "ref_law": "民法446条，民法447条，民法545条，民法632条",
+  "lawsuit_id": "52031",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52031",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/031/052031_hanrei.pdf"
+}

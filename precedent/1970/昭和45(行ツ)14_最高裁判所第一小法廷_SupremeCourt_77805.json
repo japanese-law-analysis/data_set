@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 4,
+    "day": 16
+  },
+  "case_number": "昭和45(行ツ)14",
+  "case_name": "審決取消請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第99号37頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和44(行ケ)47",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 11,
+    "day": 13
+  },
+  "gist": "数字の部分を含む商標の要部認定が正当とされた事例",
+  "case_gist": "かばん類について「ラピアン　セブン」なる称呼を有する商標がある場合において、それが「ラビアン」と「セブン」の二つの語句より成る複合語であり、しかも、後半の「セブン」が数字「七」を意味する英語の「セブン」に相当すると認められるときは、一般的に商取引において、右商標は、そのうち特色のある「ラビアン」の部分をとつて簡略化して称呼されることが当然予想されるとした原審の判断は正当である。",
+  "ref_law": "商標法4条1項11号",
+  "lawsuit_id": "77805",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77805",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/805/077805_hanrei.pdf"
+}

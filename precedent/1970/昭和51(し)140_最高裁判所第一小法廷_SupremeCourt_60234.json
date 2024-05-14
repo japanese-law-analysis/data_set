@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 12,
+    "day": 20
+  },
+  "case_number": "昭和51(し)140",
+  "case_name": "証拠保全請求事件についてした請求却下の裁判に対する特別抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第202号579頁",
+  "original_court_name": "熊本地方裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 8,
+    "day": 14
+  },
+  "gist": "特別抗告申立書を直接当裁判所に差し出し、その時点で抗告提起期間が経過していることが明らかであるから、原裁判所に回送するまでもなく不適法とした事例",
+  "lawsuit_id": "60234",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60234",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/234/060234_hanrei.pdf"
+}

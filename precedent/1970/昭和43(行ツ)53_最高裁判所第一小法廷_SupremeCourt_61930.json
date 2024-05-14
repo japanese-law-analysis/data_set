@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 2,
+    "day": 24
+  },
+  "case_number": "昭和43(行ツ)53",
+  "case_name": "土地買収処分無効確認等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第105号209頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和40(行コ)14",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 2,
+    "day": 28
+  },
+  "gist": "真実の所有者であつたことのない登記簿上の所有名義人あての買収令書によつてなされた農地買収処分が無効であるとはいえないとされた事例",
+  "case_gist": "登記簿上の所有名義人と真実の所有者とが異なる農地につき、登記簿上の所有名義人甲あての買収令書を、その家督相続人乙に交付して買収処分がなされた場合において、甲がかつて右農地の真の所有者であつたことがない場合であつても、甲は、真実の所有者丙の後見人であつたところ、丙のために右農地所有権を取得した際にこれを自己名義にしたものであり、乙は丙の母であつて、右農地取得後も甲が、その死亡後は乙が、これを管理しており、右買収令書交付当時、丙は満一八歳に達し、乙と同居していた等判示の事情のあるときは、右買収処分は無効であるとはいえない。",
+  "ref_law": "自作農創設特別措置法3条",
+  "lawsuit_id": "61930",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61930",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/930/061930_hanrei.pdf"
+}

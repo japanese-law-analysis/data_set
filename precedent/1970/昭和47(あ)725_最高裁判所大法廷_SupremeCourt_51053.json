@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 5,
+    "day": 29
+  },
+  "case_number": "昭和47(あ)725",
+  "case_name": "道路交通法違反、道路運送車両法違反",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第28巻4号168頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 2,
+    "day": 29
+  },
+  "gist": "道路交通法六四条、一一八条一項一号の無免許運転の所為と道路運送車両法（昭和四四年法律第六八号による改正前のもの）五八条、一〇八条一号の自動車検査証の有効期間が満了した自動車を運転した所為とが同一の日時場所において行われた場合の罪数",
+  "case_gist": "同一の日時場所において、無免許で、かつ、自動車検査証の有効期間が満了した自動車を運転する所為は、道路交通法一一八条一項一号、六四条の罪と昭和四四年法律第六八号による改正前の道路運送車両法一〇八条一号、五八条の罪との観念的競合の関係にある。",
+  "ref_law": "道路交通法64条，道路交通法118条1項1号，道路運送車両法（昭和44年法律68号による改正前のもの）58条，道路運送車両法（昭和44年法律68号による改正前のもの）108条1号，刑法54条1項",
+  "lawsuit_id": "51053",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51053",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/053/051053_hanrei.pdf"
+}

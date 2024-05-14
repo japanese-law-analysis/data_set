@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 11,
+    "day": 24
+  },
+  "case_number": "昭和51(オ)953",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第31巻6号918頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和49(ネ)614",
+  "original_date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 6,
+    "day": 29
+  },
+  "gist": "自動車損害賠償保障法二条二項にいう「自動車を当該装置の用い方に従い用いること」の意義",
+  "case_gist": "自動車損害賠償保障法二条二項にいう「自動車を当該装置の用い方に従い用いること」には、自動車をエンジンその他の走行装置により位置の移動を伴う走行状態におく場合だけでなく、特殊自動車であるクレーン車を走行停止の状態におき、操縦者において、固有の装置であるクレーンをその目的に従つて操作する場合をも含む。",
+  "ref_law": "自動車損害賠償保障法2条2項",
+  "lawsuit_id": "53285",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53285",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/285/053285_hanrei.pdf"
+}

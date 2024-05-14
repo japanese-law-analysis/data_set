@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 3,
+    "day": 16
+  },
+  "case_number": "昭和51(あ)687",
+  "case_name": "補助金等に係る予算執行の適正化に関する法律違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第31巻2号80頁",
+  "original_court_name": "福岡高等裁判所\n        　那覇支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 3,
+    "day": 15
+  },
+  "gist": "補助金等に係る予算の執行の適正化に関する法律二九条二項にいう交付する者にあたらないとされた事例",
+  "case_gist": "県農林水産部林務課造林係員が造林事業補助金の交付につき単に補助的な事務を執つていたにすぎずその交付決定処分をするについてこれを左右する地位になかつた場合には、同人は補助金等に係る予算の執行の適正化に関する法律二九条二項にいう交付する者にあたらない。",
+  "ref_law": "補助金等に係る予算の執行の適正化に関する法律29条，刑法60条，刑法65条1項",
+  "lawsuit_id": "51120",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51120",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/120/051120_hanrei.pdf"
+}

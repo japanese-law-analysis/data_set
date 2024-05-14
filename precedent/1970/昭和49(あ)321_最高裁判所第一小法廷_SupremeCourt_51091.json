@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 2,
+    "day": 19
+  },
+  "case_number": "昭和49(あ)321",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第30巻1号25頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 12,
+    "day": 19
+  },
+  "gist": "共犯者の供述と憲法三八条三項にいう「本人の自白」",
+  "case_gist": "共犯者の供述を憲法三八条三項にいう「本人の自白」と同一視し、又はこれに準ずるものとすべきではない。",
+  "ref_law": "憲法38条3項，刑訴法319条2項",
+  "lawsuit_id": "51091",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51091",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/091/051091_hanrei.pdf"
+}

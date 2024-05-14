@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 12,
+    "day": 20
+  },
+  "case_number": "昭和48(オ)647",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第28巻10号2072頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和47(ネ)2195",
+  "original_date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 3,
+    "day": 29
+  },
+  "gist": "準禁治産者が訴を提起するにつき保佐人の同意を得られない場合と消滅時効の進行",
+  "case_gist": "準禁治産者である権利者が保佐人の同意を得られないため訴を提起できない場合でも、その権利についての消滅時効の進行は妨げられない。",
+  "ref_law": "民法12条1項4号，民法166条1項",
+  "lawsuit_id": "55145",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55145",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/145/055145_hanrei.pdf"
+}

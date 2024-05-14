@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 6,
+    "day": 6
+  },
+  "case_number": "昭和49(し)55",
+  "case_name": "刑の執行猶予の言渡し取消請求事件の即時抗告棄却決定に対する特別抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第192号609頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 5,
+    "day": 15
+  },
+  "gist": "執行猶予の取消の要件を定めた刑法二六条の二第二号の規定が不明確であつて罪刑法定主義に違反するとの主張が欠前提とされた事例",
+  "ref_law": "憲法31条",
+  "lawsuit_id": "61645",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61645",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/645/061645_hanrei.pdf"
+}

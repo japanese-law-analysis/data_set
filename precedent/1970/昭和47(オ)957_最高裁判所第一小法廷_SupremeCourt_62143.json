@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 4,
+    "day": 10
+  },
+  "case_number": "昭和47(オ)957",
+  "case_name": "工作物撤去等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第114号469頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和45(ネ)2518",
+  "original_date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 5,
+    "day": 30
+  },
+  "gist": "公団分譲住宅の、バルコニーを温室とする工事が分譲住宅の買受人全員を組合員とする団地住宅管理組合のバルコニー改築禁止の建築協定に違反するとされた事例",
+  "case_gist": "公団分譲住宅を買受けた者が、その所有の住宅部分に接続するバルコニーの手すり用障壁の上に木製及びアルミサッシ製のわくを付設し、これにガラス戸をはめ込んで窓を設置し、隣との境の仕切板の左右のすき間をベニヤ板でふさぎ、その上部に回転窓を取りつけ、壁面と天井の全面に発泡スチロールを張りつめて、バルコニーを温室とした工事は、分譲住宅の買受人全員を組合員とする団地住宅管理組合のバルコニー改築禁止の建築協定に違反する。",
+  "ref_law": "建物の区分所有等に関する法律5条，建物の区分所有等に関する法律23条",
+  "lawsuit_id": "62143",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62143",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/143/062143_hanrei.pdf"
+}

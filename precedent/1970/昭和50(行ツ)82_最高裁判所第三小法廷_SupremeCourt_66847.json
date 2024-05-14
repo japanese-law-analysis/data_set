@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 7,
+    "day": 13
+  },
+  "case_number": "昭和50(行ツ)82",
+  "case_name": "法人税等更正処分取消請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第118号267頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和48(行コ)37",
+  "original_date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 5,
+    "day": 28
+  },
+  "gist": "一、営業権の意義\n\n二、営業権の価格を計上することが税法上相当でないとされた事例",
+  "case_gist": "一、営業権とは、当該企業の長年にわたる伝統と社会的信用、立地条件、特殊の製造技術及び特殊の取引関係の存在並びにそれらの独占性等を総合した、他の企業を上回る企業収益を稼得することができる無形の財産的価値を有する事実関係である。\n\n二、省略",
+  "ref_law": "法人税法2条24号，法人税法施行令13条8号り，商法285条の7",
+  "lawsuit_id": "66847",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66847",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/847/066847_hanrei.pdf"
+}

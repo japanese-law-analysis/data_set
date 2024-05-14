@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 11,
+    "day": 25
+  },
+  "case_number": "昭和42(あ)1546",
+  "case_name": "銃砲刀剣類所持等取締法違反、火薬類取締法違反",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "刑集　第24巻12号1670頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 5,
+    "day": 19
+  },
+  "gist": "偽計による自白の証拠能力と憲法三八条二項",
+  "case_gist": "偽計によつて被疑者が心理的強制を受け、その結果虚偽の自白が誘発されるおそれのある場合には、偽計によつて獲得された自白はその任意性に疑いがあるものとして証拠能力を否定すべきであり、このような自白を証拠に採用することは、刑訴法三一九条一項、憲法三八条二項に違反する。",
+  "ref_law": "刑訴法1条，刑訴法319条1項，憲法38条2項",
+  "lawsuit_id": "50835",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50835",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/835/050835_hanrei.pdf"
+}

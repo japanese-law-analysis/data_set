@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 12,
+    "day": 24
+  },
+  "case_number": "昭和46(オ)88",
+  "case_name": "抵当権設定登記抹消登記手続等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第110号817頁",
+  "original_court_name": "高松高等裁判所",
+  "original_case_number": "昭和44(ネ)41",
+  "original_date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 9,
+    "day": 25
+  },
+  "gist": "民法一一〇条にいう「正当ノ理由」がないとされた事例",
+  "case_gist": "自称代理人が、金融業者から金融を受け、その債務を担保するため本人所有の農地につき抵当権設定契約及び条件付売買契約を締結するにあたり、本人の実印の押捺された金銭消費貸借並びに抵当権設定証書、農地法三条一項による許可申請書、登記のための委任状及び本人の印鑑証明書を提出したけれども、目的農地の登記済権利証を提出せず、貸主は本人の遠縁にあたり直接本人に対し代理権限の有無を確めえたと推測される場合に、貸主がこれを怠り、自称代理人に右契約を締結する権限があると信じたとしても、そのように信じたことに過失がなかつたとはいえない。",
+  "ref_law": "民法110条",
+  "lawsuit_id": "62075",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62075",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/075/062075_hanrei.pdf"
+}

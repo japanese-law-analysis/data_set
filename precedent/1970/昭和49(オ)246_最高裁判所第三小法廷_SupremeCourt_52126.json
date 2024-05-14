@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 7,
+    "day": 25
+  },
+  "case_number": "昭和49(オ)246",
+  "case_name": "債権確認等請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第29巻6号1147頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和46(ネ)2021",
+  "original_date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 12,
+    "day": 18
+  },
+  "gist": "いわゆる預託金会員組織ゴルフ会員権をその譲渡担保権者から譲り受けた者が譲渡担保設定者に対して有するＦ理事会の譲渡承認手続請求権と右設定者の譲渡担保権者に対する清算金支払請求権との同時履行関係",
+  "case_gist": "いわゆる預託金会員組織ゴルフ会員権を目的とする譲渡担保設定契約において、設定者が、あらかじめ、譲渡担保権者の換価処分によりゴルフ会員権を譲り受けた者のために、Ｆの規則上譲渡に必要とされているＦ理事会の承認を得るための手続に協力することを承諾している場合には、設定者は、譲受人に対し、同時履行の抗弁により、譲渡担保権者が清算金を提供しないことを理由として、右譲渡承認を得るための手続に協力することを拒絶することができない。",
+  "ref_law": "民法362条，民法369条，民法533条",
+  "lawsuit_id": "52126",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52126",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/126/052126_hanrei.pdf"
+}

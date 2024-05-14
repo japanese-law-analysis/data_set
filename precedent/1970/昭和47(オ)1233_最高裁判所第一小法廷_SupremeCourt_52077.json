@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 2,
+    "day": 28
+  },
+  "case_number": "昭和47(オ)1233",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第28巻1号121頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和46(ネ)2162",
+  "original_date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 9,
+    "day": 5
+  },
+  "gist": "裏書によらない手形債権の譲渡の性質",
+  "case_gist": "約束手形の受取人甲が、乙からその手形の割引を受け、裏書をしないでこれを乙に交付したときは、甲は、指名債権譲渡の方法によつて乙に右手形債権を譲渡したものと解するのが相当である。",
+  "ref_law": "手形法11条，民法467条",
+  "lawsuit_id": "52077",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52077",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/077/052077_hanrei.pdf"
+}

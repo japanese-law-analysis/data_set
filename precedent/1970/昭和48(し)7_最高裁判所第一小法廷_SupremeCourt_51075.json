@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 2,
+    "day": 28
+  },
+  "case_number": "昭和48(し)7",
+  "case_name": "刑の執行猶予言渡取消請求事件についてした即時抗告の棄却決定に対する特別抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第27巻1号80頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 1,
+    "day": 24
+  },
+  "gist": "刑の執行猶予の判決に対する控訴申立期間経過後で同判決の確定前に被告人に対する別事件についての禁錮刑（実刑）の裁判が確定した場合と刑の執行猶予言渡取消の可否",
+  "case_gist": "刑の執行猶予の判決に対し被告人のみが控訴し、この控訴申立期間経過後で同判決の確定前に、被告人に対する別件被告事件について禁錮刑（実刑）の裁判が確定した場合は、右刑の執行猶予の判決の確定をまつて刑法二六条三号により刑の執行猶予の言渡を取り消すことができる。",
+  "ref_law": "刑法26条，憲法39条",
+  "lawsuit_id": "51075",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51075",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/075/051075_hanrei.pdf"
+}

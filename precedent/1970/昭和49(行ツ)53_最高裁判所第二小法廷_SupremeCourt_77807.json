@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 12,
+    "day": 23
+  },
+  "case_number": "昭和49(行ツ)53",
+  "case_name": "町議会議員選挙に関する裁決取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集民　第113号749頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_case_number": "昭和48(行ケ)1",
+  "original_date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 4,
+    "day": 26
+  },
+  "gist": "候補者に藤本俊夫と藤本利雄とがある場合に「藤本よし夫」と記載された投票が藤本俊夫に対する有効投票と認められた事例",
+  "case_gist": "候補者中に藤本俊夫と藤本利雄とがある場合に、右両者は、互いに混同を避けるため、選挙運動において、前者は「藤本とし夫」と記載するよう、後者は「ふじもと利お」と記載するよう、それぞれその氏名の表示方法を選挙人に鋭意宣伝し、その効果は投票結果にも相当にあらわれていたなど判示のような事情があるときは、「藤本よし夫」と記載された投票は、藤本俊夫に対する有効投票と認めるのが相当である。",
+  "ref_law": "公職選挙法68条",
+  "lawsuit_id": "77807",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77807",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/807/077807_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 11,
+    "day": 30
+  },
+  "case_number": "昭和47(オ)1103",
+  "case_name": "土地所有権移転登記抹消登記手続等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第110号621頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和43(ネ)679",
+  "original_date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 6,
+    "day": 29
+  },
+  "gist": "当事者双方不出頭の場合に本人尋問の採用を取消す決定の告知方法",
+  "case_gist": "適法な呼出を受けながら当事者双方が口頭弁論期日に出頭しない場合に、本人尋問の採用を取消す決定が言渡されたときは、右決定の告知は、当事者双方に対してその効力を生ずる。",
+  "ref_law": "民訴法190条2項，民訴法207条",
+  "lawsuit_id": "62100",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62100",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/100/062100_hanrei.pdf"
+}

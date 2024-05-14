@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 12,
+    "day": 3
+  },
+  "case_number": "昭和44(あ)1453",
+  "case_name": "兇器準備集合",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第24巻13号1707頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 5,
+    "day": 29
+  },
+  "gist": "一、長さ一メートル前後の角棒は刑法二〇八条の二にいう「兇器」にあたるか\n二、刑法二〇八条の二にいう「集合」にあたる場合\n三、刑法二〇八条の二にいう「集合」の状態の継続と兇器準備集合罪の継続",
+  "case_gist": "一、長さ一メートル前後の角棒は、刑法二〇八条の二にいう「兇器」にあたる。\n二、すでに一定の場所に集まつている二人以上の者が、その場で兇器を準備し、またはその準備のあることを知つたうえ、他人の生命、身体または財産に対し共同して害を加える目的を有するに至つた場合は、刑法二〇八条の二にいう「集合」にあたる。\n三、刑法二〇八条の二にいう「集合」の状態が継続するかぎり、兇器準備集合罪は、継続して成立する。",
+  "ref_law": "刑法208条の2",
+  "lawsuit_id": "50943",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50943",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/943/050943_hanrei.pdf"
+}

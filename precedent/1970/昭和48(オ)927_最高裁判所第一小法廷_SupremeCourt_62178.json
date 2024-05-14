@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 3,
+    "day": 28
+  },
+  "case_number": "昭和48(オ)927",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第111号475頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和46(ネ)359",
+  "original_date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 5,
+    "day": 30
+  },
+  "gist": "労働者災害補償保険法による遺族補償一時金の支給がされた場合における労働基準法七九条所定の遺族に対する使用者の災害補償義務",
+  "case_gist": "労働者の遺族が、労働基準法七九条に定める災害補償と同一の事由について労働者災害補償保険法一二条一項四号、一六条所定の遺族補償一時金の支給を受けるべき場合においては、昭和四五年法律第八八号による改正前の同法に定める遺族補償一時金のように、その支給額が労働基準法七九条所定の補償額に達しないときでも、使用者は，同法八四条一項により、七九条に基づく災害補償義務の全部を免れる。",
+  "ref_law": "労働者災害補償保険法12条1項4号，労働者災害補償保険法16条，労働基準法79条，労働基準法84条1項",
+  "lawsuit_id": "62178",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62178",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/178/062178_hanrei.pdf"
+}

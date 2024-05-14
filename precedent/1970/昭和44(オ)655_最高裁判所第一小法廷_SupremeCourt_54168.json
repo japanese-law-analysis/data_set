@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 12,
+    "day": 8
+  },
+  "case_number": "昭和44(オ)655",
+  "case_name": "譲受債権請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第29巻11号1864頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和43(ネ)1482",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 3,
+    "day": 28
+  },
+  "gist": "債権が譲渡される前から債権者に対して反対債権を有していた債務者が右反対債権を自働債権とし被譲渡債権を受働債権としてした相殺を有効と認めた事例",
+  "case_gist": "債権が譲渡され、その債務者が、譲渡通知を受けたにとどまり、かつ、右通知を受ける前に譲渡人に対して反対債権を取得していた場合において、譲受人が譲渡人である会社の取締役である等判示の事実関係があるときには、右被譲渡債権及び反対債権の弁済期の前後を問わず、両者の弁済期が到来すれば、被譲渡債権の債務者は、譲受人に対し、右反対債権を自働債権として、被譲渡債権と相殺することができる。",
+  "ref_law": "民法468条2項",
+  "lawsuit_id": "54168",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54168",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/168/054168_hanrei.pdf"
+}

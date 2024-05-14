@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 2,
+    "day": 10
+  },
+  "case_number": "昭和49(あ)2402",
+  "case_name": "覚せい剤取締法違反、道路交通法違反、業務上過失傷害、賭博",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第195号297頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 10,
+    "day": 15
+  },
+  "gist": "結論に影響のない論難として不適法とされた事例",
+  "lawsuit_id": "60022",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60022",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/022/060022_hanrei.pdf"
+}

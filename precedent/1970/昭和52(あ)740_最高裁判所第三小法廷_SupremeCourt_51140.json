@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 2,
+    "day": 3
+  },
+  "case_number": "昭和52(あ)740",
+  "case_name": "業務上過失傷害、鳥獣保護及狩猟ニ関スル法律違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第32巻1号23頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 2,
+    "day": 24
+  },
+  "gist": "鳥獣保護及狩猟ニ関スル法律一五条の法意",
+  "case_gist": "鳥獣保護及狩猟ニ関スル法律一五条の規定は、その手段において人畜に危険の及ぶおそれの高度な猟法を禁止したものであり、狩猟のため据銃をすること自体によつても、同条違反の罪は成立する。",
+  "ref_law": "鳥獣保護及狩猟ニ関スル法律15条，鳥獣保護及狩猟ニ関する法律21条1項1号",
+  "lawsuit_id": "51140",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51140",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/140/051140_hanrei.pdf"
+}

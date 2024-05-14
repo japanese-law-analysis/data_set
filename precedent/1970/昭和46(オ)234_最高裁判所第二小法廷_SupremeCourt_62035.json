@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 6,
+    "day": 4
+  },
+  "case_number": "昭和46(オ)234",
+  "case_name": "委託販売代金等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第103号91頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和45(ネ)751",
+  "original_date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 12,
+    "day": 21
+  },
+  "gist": "民訴法一五二条五項にいう「顕著ナル事由」の存する場合にあたらないとされた事例",
+  "case_gist": "控訴審における第一回口頭弁論期日（昭和四五年一二月一四日）の変更申請の理由が「昭和四五年一二月一三日控訴人より委任を受け右期日に差支えがある。」というのみでは、民訴法一五二条五項にいう「顕著ナル事由」の存する場合にあたらない。",
+  "ref_law": "民訴法152条5項",
+  "lawsuit_id": "62035",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62035",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/035/062035_hanrei.pdf"
+}

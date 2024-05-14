@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 1,
+    "day": 26
+  },
+  "case_number": "昭和46(ク)349",
+  "case_name": "緊急命令不履行事件の過料決定に対する抗告についてした抗告棄却決定に対する抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集民　第108号105頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和46(ラ)409",
+  "original_date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 8,
+    "day": 20
+  },
+  "gist": "非訟事件手続法による緊急命令違反を理由とする裁判の合憲性",
+  "case_gist": "非訟事件手続法による緊急命令違反を理由とする過料の裁判は、憲法三一条、三二条に違反しない。",
+  "ref_law": "憲法31条，憲法32条，非訟事件手続法207条，労働組合法27条，労働組合法32条",
+  "lawsuit_id": "62084",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62084",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/084/062084_hanrei.pdf"
+}

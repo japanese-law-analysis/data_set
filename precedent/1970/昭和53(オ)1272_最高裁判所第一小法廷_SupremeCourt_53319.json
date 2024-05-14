@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 3,
+    "day": 8
+  },
+  "case_number": "昭和53(オ)1272",
+  "case_name": "当座預金",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第33巻2号187頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和52(ネ)1246",
+  "original_date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 7,
+    "day": 27
+  },
+  "gist": "共同代表取締役の一人に対し他の共同代表取締役がした当座預金払出しのための小切手振出権限の委任及びこれに基づく小切手の振出しが共同代表の定めに反しないとされた事例",
+  "case_gist": "共同代表取締役甲・乙及び他の役員らの間で、会社が預け入れた当座預金払出しのための小切手振出しにつき甲が乙に一切の権限を委任し、右委任に基づき乙が単独で会社の代表者として右小切手を振り出すことを合意したなど判示の事実関係のもとでは、甲の乙に対する右委任及びこれに基づいて乙が単独でした右小切手振出しに関する代表行為は、共同代表の定めに反しない。",
+  "ref_law": "商法261条2項",
+  "lawsuit_id": "53319",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53319",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/319/053319_hanrei.pdf"
+}

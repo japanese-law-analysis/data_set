@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 3,
+    "day": 23
+  },
+  "case_number": "昭和48(オ)506",
+  "case_name": "株主代位請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第117号231頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和46(ネ)1316",
+  "original_date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 2,
+    "day": 28
+  },
+  "gist": "株式会社の取締役の法令違反行為が故意又は過失に基づかない場合と会社に対する責任の有無",
+  "case_gist": "株式会社の取締役の法令又は定款に違反する行為が故意又は過失に基づかない場合には、取締役は、右行為により会社が被つた損害につき責任を負わない。",
+  "ref_law": "商法266条1項5号",
+  "lawsuit_id": "64073",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64073",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/073/064073_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 12,
+    "day": 22
+  },
+  "case_number": "昭和52(オ)429",
+  "case_name": "損害賠償同附帯",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集民　第122号559頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和50(ネ)523",
+  "original_date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 1,
+    "day": 31
+  },
+  "gist": "労働者災害補償保険法に基づく保険給付の確定と受給権者が使用者に対し自動車損害賠償保障法三条に基づいて請求しうる損害賠償の額から将来の給付額を控除することの要否",
+  "case_gist": "労働者災害補償保険法に基づき政府が将来にわたり継続して保険金を給付することが確定していても、いまだ現実の給付がない以上、受給権者が使用者に対し自動車損害賠償保障法三条に基づいて請求しうる損害賠償の額から将来の給付額を控除すべきではない。",
+  "ref_law": "自動車損害賠償保障法3条，労働基準法84条2項，労働者災害補償保険法12条の4",
+  "lawsuit_id": "64196",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64196",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/196/064196_hanrei.pdf"
+}

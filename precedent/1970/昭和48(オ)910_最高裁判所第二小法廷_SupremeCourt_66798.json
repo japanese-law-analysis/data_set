@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 7,
+    "day": 19
+  },
+  "case_number": "昭和48(オ)910",
+  "case_name": "生糸清算取引清算金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第112号249頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和46(ネ)716",
+  "original_date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 6,
+    "day": 22
+  },
+  "gist": "一、商品取引所法九一条一項に違反して営業所以外の場所でなされた受託契約の効力\n二、商品取引所法九四条一項一号に違反する不当な勧誘に基づいてなされた受託契約が有効とされた事例",
+  "case_gist": "一、商品取引員が商品取引所法九一条一項に違反して営業所以外の場所で取引の委託を受けても、同条項は商品取引員に対する訓示的規定たるにすぎないから、右違反は、受託契約の効力を左右しない。\n二、商品取引員が商品取引所法九四条一項一号に違反して不当な委託勧誘をなし、それによつて成立した受託契約であつても、右契約が商品取引に経験のある顧客の自由な判断ないし意思決定によるものであるときは、公序良俗に反するところはなく、契約の効力に影響がない。",
+  "ref_law": "商品取引所法91条1項，商品取引所法94条1項1号",
+  "lawsuit_id": "66798",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66798",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/798/066798_hanrei.pdf"
+}

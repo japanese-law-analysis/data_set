@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 6,
+    "day": 22
+  },
+  "case_number": "昭和47(ク)116",
+  "case_name": "人身保護事件につきした申立棄却の決定に対する抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "却下",
+  "article_info": "集民　第106号339頁",
+  "original_court_name": "神戸地方裁判所\n        　明石支部",
+  "original_case_number": "昭和47(人)2",
+  "original_date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 2,
+    "day": 18
+  },
+  "gist": "人身保護法と最高裁判所への抗告理由",
+  "case_gist": "人身保護法による釈放の請求を排斥した決定に対しては、憲法違反を理由とするときにかぎり、最高裁判所に抗告の申立をすることができる。",
+  "ref_law": "人身保護法11条，人身保護法21条，人身保護規則41条，人身保護規則46条，民訴法419条ノ2",
+  "lawsuit_id": "62144",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62144",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/144/062144_hanrei.pdf"
+}

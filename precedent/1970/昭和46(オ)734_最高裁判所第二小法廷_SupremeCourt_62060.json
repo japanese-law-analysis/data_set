@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 12,
+    "day": 3
+  },
+  "case_number": "昭和46(オ)734",
+  "case_name": "家賃支払請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第104号557頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和45(ネ)1306",
+  "original_date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 4,
+    "day": 28
+  },
+  "gist": "賃貸家屋が他に譲渡された場合と賃借人の賃料の弁済の効力",
+  "case_gist": "賃貸家屋が他に譲渡されいまだ対抗要件を具備していない場合においても、賃借人が後にこの事実を認めて、新家主に対し、遡つて賃料を皮払つたときは、右賃料の弁済は、その弁済時以前の分も含めて、すべて有効と解すべきである。",
+  "ref_law": "民法605条，民法478条",
+  "lawsuit_id": "62060",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62060",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/060/062060_hanrei.pdf"
+}

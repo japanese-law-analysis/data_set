@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 12,
+    "day": 7
+  },
+  "case_number": "昭和43(オ)689",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第104号569頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和38(ネ)1784",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 3,
+    "day": 19
+  },
+  "gist": "借家法一条の二に基づく解約を理由とする家屋の明渡訴訟において当事者の明示の申立額（五〇〇万円）をこえる立退料（一〇〇〇万円）の支払と引換えに明渡請求を認容することを相当と認めた事例",
+  "case_gist": "（省略）",
+  "ref_law": "借家法1条ノ2",
+  "lawsuit_id": "61923",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61923",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/923/061923_hanrei.pdf"
+}

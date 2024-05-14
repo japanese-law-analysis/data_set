@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 7,
+    "day": 1
+  },
+  "case_number": "昭和50(オ)211",
+  "case_name": "抵当権抹消等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第118号229頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和49(ネ)150",
+  "original_date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 12,
+    "day": 10
+  },
+  "gist": "相続人が数人ある場合と相続放棄をすべき期間",
+  "case_gist": "相続人が数人いる場合には、民法九一五条一項に定める三か月の期間は、相続人がそれぞれ自己のために相続の開始があつたことを知つた時から各別に進行するものと解するのが相当である。",
+  "ref_law": "民法915条，民法938条",
+  "lawsuit_id": "66827",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66827",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/827/066827_hanrei.pdf"
+}

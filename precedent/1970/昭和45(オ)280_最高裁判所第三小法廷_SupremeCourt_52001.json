@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 3,
+    "day": 13
+  },
+  "case_number": "昭和45(オ)280",
+  "case_name": "貸金請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第27巻2号344頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和42(ネ)2796",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 12,
+    "day": 17
+  },
+  "gist": "債権に対する仮差押の執行と当該債権についての給付訴訟",
+  "case_gist": "債権に対し仮差押が執行されても、仮差押債務者は、当該債権につき、給付訴訟を提起・追行し、かつ、無条件の勝訴判決を得ることができる。",
+  "ref_law": "民訴法226条，民訴法750条",
+  "lawsuit_id": "52001",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52001",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/001/052001_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 3,
+    "day": 23
+  },
+  "case_number": "昭和47(行ツ)100",
+  "case_name": "運転免許取消処分取消請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第117号293頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_case_number": "昭和47(行コ)1",
+  "original_date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 8,
+    "day": 23
+  },
+  "gist": "道路交通法施行令（昭和四三年政令第二九八号による改正前のもの）三八条一号ニ、同条二号ハにいう「違反行為」の意義",
+  "case_gist": "道路交通法施行令（昭和四三年政令第二九八号による改正前のもの）三八条一号ニ、同条二号ハにいう「違反行為」とは、故意によるか過失によるかを問わないものと解すべきである。",
+  "ref_law": "道路交通法施行令（昭和43年政令第298号による改正前のもの）38条1号ニ，道路交通法施行令（昭和43年政令第298号による改正前のもの）38条2号ハ",
+  "lawsuit_id": "64070",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64070",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/070/064070_hanrei.pdf"
+}

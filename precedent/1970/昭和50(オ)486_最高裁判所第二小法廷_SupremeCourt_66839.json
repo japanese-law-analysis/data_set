@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 10,
+    "day": 24
+  },
+  "case_number": "昭和50(オ)486",
+  "case_name": "建物明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第116号375頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和48(ネ)23",
+  "original_date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 12,
+    "day": 23
+  },
+  "gist": "判決言渡期日の告知及び呼出状の送達を欠いたままされた判決言渡しと上告理由",
+  "case_gist": "期日外で判決言渡期日を指定しながら、当事者に対する右期日の告知及び呼出状の送達を欠いたままされた判決の言渡しは、違法ではあるが、右違法は、判決に影響を及ぼさないかぎり上告理由にならない。",
+  "ref_law": "民訴法154条，民訴法188条，民訴法387条，民訴法394条，民訴法396条",
+  "lawsuit_id": "66839",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66839",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/839/066839_hanrei.pdf"
+}

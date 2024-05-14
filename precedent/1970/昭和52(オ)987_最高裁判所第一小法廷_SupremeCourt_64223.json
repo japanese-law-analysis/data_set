@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 3,
+    "day": 16
+  },
+  "case_number": "昭和52(オ)987",
+  "case_name": "不当利得返還",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第123号245頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和51(ネ)448",
+  "original_date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 6,
+    "day": 28
+  },
+  "gist": "旧所得税法（昭和二二年法律第二七号）のもとにおいて事業所得として課税の対象とされた金銭債権が後日回収不能となつた場合と徴収税額についての国の不当利得の成否",
+  "case_gist": "旧所得税法（昭和二二年法律第二七号）のもとにおいて、事業所得として課税の対象とされた金銭債権が後日貸倒れ等により回収不能となつたときは、その回収不能による損失額を当該回収不能の事実が発生した年分の事業所得の金額の計算上必要経費に算入すべきものであつて、それとは別に、国に対し、右回収不能による損失額に対応する徴収ずみの税額につき不当利得として返還を請求することは許されない。",
+  "ref_law": "旧所得税法（昭和22年法律第27号）9条1項4号，旧所得税法（昭和22年法律第27号）10条，民法703条",
+  "lawsuit_id": "64223",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64223",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/223/064223_hanrei.pdf"
+}

@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 4,
+    "day": 18
+  },
+  "case_number": "昭和50(あ)36",
+  "case_name": "道路交通法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第196号157頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 12,
+    "day": 11
+  },
+  "gist": "罪数に関する判例違反の主張が被告人に不利益な主張であり不適法とされた事例",
+  "lawsuit_id": "60136",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60136",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/136/060136_hanrei.pdf"
+}

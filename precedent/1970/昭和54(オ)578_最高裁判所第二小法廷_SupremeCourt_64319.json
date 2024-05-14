@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 11,
+    "day": 16
+  },
+  "case_number": "昭和54(オ)578",
+  "case_name": "建物収去土地明渡",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集民　第128号123頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和52(ネ)834",
+  "original_date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 12,
+    "day": 7
+  },
+  "gist": "控訴審において全部勝訴の判決を得た当事者と附帯上告の許否",
+  "case_gist": "控訴審において全部勝訴の判決を得た当事者は、第一審において自己の請求の一部を棄却され、控訴審において右敗訴部分に対する控訴も附帯控訴も提起しなかつた場合に右敗訴部分の、認容を求めるためにするときであつても、附帯上告を提起することは許されない。",
+  "ref_law": "民訴法372条，民訴法393条，民訴法396条",
+  "lawsuit_id": "64319",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64319",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/319/064319_hanrei.pdf"
+}

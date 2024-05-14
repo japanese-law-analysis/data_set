@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 10,
+    "day": 3
+  },
+  "case_number": "昭和48(オ)553",
+  "case_name": "証拠金返還等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第116号179頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和44(ネ)1294",
+  "original_date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 2,
+    "day": 26
+  },
+  "gist": "顧客が外務員を通じて商品取引業者に商品先物取引の委託をした場合において外務員に顧客の代理権がないとされた事例",
+  "case_gist": "顧客が、自己の氏名を秘匿し他人名義を使用して商品取引業者に商品先物取引の委託をした場合において、右委託が大部分外務員を通じてのみ行われた場合であつても、当該外務員が右他人名義を利用して手張り行為を行い、顧客も警戒して委託証拠金を妻名義にし、かつ、清算時における損金が同証拠金額の範囲内にとどまるよう制限したなど原判示の事実関係のもとでは、右取引委託につき外務員が顧客の代理人として行為したものとは認められない。",
+  "ref_law": "商品取引所法94条，民法99条",
+  "lawsuit_id": "66790",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66790",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/790/066790_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 12,
+    "day": 1
+  },
+  "case_number": "昭和48(オ)1168",
+  "case_name": "組合費請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第116号759頁",
+  "original_court_name": "高松高等裁判所",
+  "original_case_number": "昭和44(ネ)233",
+  "original_date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 8,
+    "day": 10
+  },
+  "gist": "公共企業体等の労働組合がスト資金積立金等として徴収する臨時組合費について組合員の納付義務が認められた事例",
+  "case_gist": "判文参照",
+  "ref_law": "労働組合法2条，公共企業体等労働関係法17条1項",
+  "lawsuit_id": "66784",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66784",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/784/066784_hanrei.pdf"
+}

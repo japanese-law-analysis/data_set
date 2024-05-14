@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 11,
+    "day": 19
+  },
+  "case_number": "昭和46(オ)115",
+  "case_name": "転付金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第104号413頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和44(ネ)409",
+  "original_date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 10,
+    "day": 28
+  },
+  "gist": "債権の仮差押前から債務者に対して反対債権を有していた第三債務者が右反対債権を自働債権として被仮差押債権を受働債権としてする相殺の効力",
+  "case_gist": "債権の仮差押がされた場合において、第三債務者が債務者に対し反対債権を有していたときは、その債権が仮差押後に取得されたものでないかぎり、右債権および被仮差押債権の弁済期の前後を問わず、両者が相殺適状に達しさえすれば、第三債務者は、仮差押後においても、右反対債権を自働債権として、被仮差押債権と相殺することができる。\n（反対意見がある。）",
+  "ref_law": "民法511条，民訴法598条1項，民訴法750条2項",
+  "lawsuit_id": "62025",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62025",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/025/062025_hanrei.pdf"
+}

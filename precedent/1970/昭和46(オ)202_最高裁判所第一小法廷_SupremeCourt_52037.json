@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 6,
+    "day": 24
+  },
+  "case_number": "昭和46(オ)202",
+  "case_name": "建物収去土地明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第25巻4号619頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和43(ネ)800",
+  "original_date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 11,
+    "day": 30
+  },
+  "gist": "一、罹災都市借地借家臨時処理法二条による賃借の申出の方法\n二、罹災都市借地借家臨時処理法二条による賃借の申出があつたとはいえないとされた事例",
+  "case_gist": "一、罹災都市借地借家臨時処理法二条による賃借の申出は、相手方である土地所有者において、同条による賃借の申出であることが認識できる程度に明確な意思表示であることを要するものと解すべきである。二、罹災建物の借主が、罹災都市借地借家臨時処理法施行当時罹災建物の敷地上のバラツク建の建物を所有してこれに居住し、右土地につき戦時罹災土地物件令四条二項所定の賃借権を有しているにすぎないときは、同法施行前において土地所有者が右土地の状況を知悉していたとしても、それだけでは右借主が同法二条による賃借の申出をしたものということはできない。",
+  "ref_law": "罹災都市借地借家臨時処理法2条，戦時罹災土地物件令4条",
+  "lawsuit_id": "52037",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52037",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/037/052037_hanrei.pdf"
+}

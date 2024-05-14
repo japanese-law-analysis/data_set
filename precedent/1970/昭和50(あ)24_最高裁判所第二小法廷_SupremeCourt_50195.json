@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 6,
+    "day": 16
+  },
+  "case_number": "昭和50(あ)24",
+  "case_name": "風俗営業等取締法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "刑集　第32巻4号605頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 12,
+    "day": 10
+  },
+  "gist": "知事の児童遊園設置認可処分が行政権の濫用に相当する違法性を帯びているとして個室付浴場業（いわゆるトルコぶろ営業）を規制しうる効力がないとされた事例",
+  "case_gist": "個室付浴場業（いわゆるトルコぶろ営業）の規制を主たる動機、目的とする知事の本件児童遊園設置認可処分（判文参照）は、行政権の濫用に相当する違法性があり、個室付浴場業を規制しうる効力を有しない。",
+  "ref_law": "風俗法4条の4第1項，風俗法4条の4第3項，風俗法4条の7第2項，風俗法4条の8，児福法35条，児福法40条",
+  "lawsuit_id": "50195",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50195",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/195/050195_hanrei.pdf"
+}

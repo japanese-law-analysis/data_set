@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 11,
+    "day": 2
+  },
+  "case_number": "昭和53(オ)1453",
+  "case_name": "地位確認等",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第128号71頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_case_number": "昭和5(ネ)133",
+  "original_date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 9,
+    "day": 29
+  },
+  "gist": "職場内で同僚に暴行を加えた工員に対し就業規則及び賞罰審査規定に定める懲戒事由にあたるとしてされた諭旨解雇が解雇権の濫用として無効とされた事例",
+  "case_gist": "（省略）",
+  "ref_law": "労働基準法第2章労働契約，労働基準法89条",
+  "lawsuit_id": "64251",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64251",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/251/064251_hanrei.pdf"
+}

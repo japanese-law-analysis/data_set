@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 6,
+    "day": 29
+  },
+  "case_number": "昭和52(オ)1111",
+  "case_name": "建物明渡",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第32巻4号762頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "昭和51(ネ)40",
+  "original_date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 6,
+    "day": 27
+  },
+  "gist": "賃貸中の不動産に対する競売開始決定後賃貸人のした賃借権譲渡の承諾と譲受人の競落人に対する地位",
+  "case_gist": "賃貸中の不動産に対する競売開始決定の差押の効力発生後賃貸人のした賃借権譲渡の承諾は、特段の事情のない限り、右差押の効力によつて禁止される処分行為にあたらず、譲受人は、賃借権の取得をもつて競落人に対抗することができる。",
+  "ref_law": "民法612条，民訴法644条，競売法25条",
+  "lawsuit_id": "53293",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53293",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/293/053293_hanrei.pdf"
+}

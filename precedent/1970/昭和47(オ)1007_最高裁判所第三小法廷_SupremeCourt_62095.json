@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 1,
+    "day": 31
+  },
+  "case_number": "昭和47(オ)1007",
+  "case_name": "建物所有権移転登記等、同反訴請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第114号77頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和45(ネ)1457",
+  "original_date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 7,
+    "day": 18
+  },
+  "gist": "譲渡担保として債務者所有の不動産に所有権移転請求権保全仮登記がされた場合における債務者から右不動産の不法占有者に対する明渡及び賃料相当損害金請求の許否",
+  "case_gist": "債務者所有の不動産が譲渡担保とされ所有権移転請求権保全の仮登記がされたというだけでは、いまだ債務者において右不動産の不法占有者に対する明渡及び賃料相当損害金の請求が許されないわけではない。",
+  "ref_law": "民法200条，民法369条",
+  "lawsuit_id": "62095",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62095",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/095/062095_hanrei.pdf"
+}

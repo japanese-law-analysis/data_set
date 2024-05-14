@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 3,
+    "day": 30
+  },
+  "case_number": "昭和53(オ)1101",
+  "case_name": "認知無効等",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第126号401頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和51(ネ)2479",
+  "original_date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 6,
+    "day": 13
+  },
+  "gist": "認知の届出が受理された当時認知者が意識を失つていた場合と認知の届出の効力",
+  "case_gist": "甲、乙間に血縁上の父子関係があり、甲が乙を認知する意思を有し、かつ、甲から他人に対し認知届出の委託がされていたときは、届出が受理された当時甲が意識を失つていたとしても、その届出の前に翻意したなど特段の事情のない限り、右届出の受理により認知は有効に成立する。",
+  "ref_law": "民法779条，民法781条",
+  "lawsuit_id": "64241",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64241",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/241/064241_hanrei.pdf"
+}

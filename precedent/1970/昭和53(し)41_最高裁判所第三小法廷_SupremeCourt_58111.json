@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 6,
+    "day": 30
+  },
+  "case_number": "昭和53(し)41",
+  "case_name": "道路交通法違反、窃盗、有印私文書偽造、同行使、詐欺、同未遂、銃砲刀剣類所持等取締法違反保護事件についてした抗告棄却決定に対する再抗告",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第210号565頁",
+  "original_date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 4,
+    "day": 5
+  },
+  "gist": "少年保護事件の再抗告の不適法処理事例（適用条文）",
+  "lawsuit_id": "58111",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58111",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/111/058111_hanrei.pdf"
+}

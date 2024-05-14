@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 3,
+    "day": 3
+  },
+  "case_number": "昭和51(オ)1060",
+  "case_name": "土地所有権確認等、同反訴請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第31巻2号157頁",
+  "original_court_name": "広島高等裁判所",
+  "original_case_number": "昭和51(ネ)12",
+  "original_date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 6,
+    "day": 30
+  },
+  "gist": "農地の賃借人が所有者から右農地を買い受けたが未だ農地調整法四条所定の知事の許可又は農地委員会の承認を得るための手続がとられていない場合と新権原による自主占有の開始",
+  "case_gist": "農地の賃借人が所有者から右農地を買い受けその代金を支払つたときは、農地調整法四条所定の都道府県知事の許可又は市町村農地委員会の承認を得るための手続がとられなかつたとしても、買主は、特段の事情のない限り、売買契約が締結されその代金が支払われた時に、民法一八五条にいう新権原により所有の意思をもつて右農地の占有を始めたものというべきである。",
+  "ref_law": "民法162条，民法185条，農地調整法（昭和26年法律第89号による改正前のもの）4条",
+  "lawsuit_id": "56323",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56323",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/323/056323_hanrei.pdf"
+}

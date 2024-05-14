@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 3,
+    "day": 16
+  },
+  "case_number": "昭和49(あ)1032",
+  "case_name": "所得税法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第199号601頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 3,
+    "day": 27
+  },
+  "gist": "所得税法（昭和四〇年法律第三三号による改正前のもの）七〇条一〇号、六三条と憲法三一条、三五条、三八条",
+  "ref_law": "所得税法（昭和40年法律第33号による改正前のもの）63条，所得税法（昭和40年法律第33号による改正前のもの）70条，所得税法（昭和40年法律第33号による改正前のもの）10条，憲法31条，憲法35条，憲法38条",
+  "lawsuit_id": "59973",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59973",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/973/059973_hanrei.pdf"
+}

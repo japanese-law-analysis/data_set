@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 7,
+    "day": 8
+  },
+  "case_number": "昭和52(あ)577",
+  "case_name": "傷害致死",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第205号27頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 3,
+    "day": 3
+  },
+  "gist": "北海道はアイヌ民族の領土であつて日本国の領土でないことを前提とする違憲の主張が欠前提とされた事例",
+  "ref_law": "憲法98条，憲法99条",
+  "lawsuit_id": "60274",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60274",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/274/060274_hanrei.pdf"
+}

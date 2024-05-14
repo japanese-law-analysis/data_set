@@ -1,0 +1,22 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 5,
+    "day": 25
+  },
+  "case_number": "昭和45(あ)448",
+  "case_name": "収賄",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第26巻4号272頁",
+  "original_court_name": "東京高等裁判所",
+  "gist": "国家公務員共済組合法三六条、一三条に定める国家公務員共済組合連合会に使用されその事務に従事する者にあたるとされた事例",
+  "case_gist": "国家公務員共済組合連合会理事長の正当な職員任命権に基づいて同連合会の「嘱託」を命ぜられ、同連合会施設の設計、工事に関する指名業者の選択、入札等の事務に従事する者は、国家公務員共済組合法三六条、一三条に定める国家公務員共済組合連合会に使用され、その職務に従事する者にあたると解すべきであり、「嘱託」の職名が職制に関する規定上明記されていないことは、右の解釈を妨げるものではない。",
+  "ref_law": "国家公務員共済組合法36条，国家公務員共済組合法13条，刑法7条1項，刑法197条1項",
+  "lawsuit_id": "50999",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50999",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/999/050999_hanrei.pdf"
+}

@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 6,
+    "day": 14
+  },
+  "case_number": "昭和48(あ)369",
+  "case_name": "暴力行為等処罰に関する法律違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第189号273頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 1,
+    "day": 18
+  },
+  "gist": "判例違反の主張が事案を異にし前提を欠くとされた事例",
+  "ref_law": "刑法25条1項",
+  "lawsuit_id": "59924",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59924",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/924/059924_hanrei.pdf"
+}

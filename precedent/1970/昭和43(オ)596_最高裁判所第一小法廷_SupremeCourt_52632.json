@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 10,
+    "day": 5
+  },
+  "case_number": "昭和43(オ)596",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第26巻8号1367頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和40(ネ)1461",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 2,
+    "day": 28
+  },
+  "gist": "陸送中の自動車による事故につきその所有者が自動車損害賠償保障法三条による運行供用者責任を負わないとされた事例",
+  "case_gist": "大型自動車の販売を業とする甲からその所有の半製品自動車につき車体の架装を請け負つた乙が、架装完了後、自己に専属する運送業者である丙に右自動車の甲方までの陸送を請け負わせ、丙の被用者が右目的のためこれを運転中事故を起こした場合において、乙が、経済的実質的に甲に従属する関係になく、右事故当時も、架装を完了した自動車を甲に引き渡すべき義務の履行として、みずから費用を負担して丙に陸送させたものであり、甲は、丙と直接の請負関係に立つことがなく、丙およびその被用者に対して直接または間接に指揮監督を及ぼす関係になかつたなど判示の事情があるときは、甲は、自動車損害賠償保障法三条による運行供用者としての責任を負わないものと解すべきである。",
+  "ref_law": "自動車損害賠償保障法3条",
+  "lawsuit_id": "52632",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52632",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/632/052632_hanrei.pdf"
+}

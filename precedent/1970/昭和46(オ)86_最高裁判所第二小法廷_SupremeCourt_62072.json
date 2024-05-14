@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 11,
+    "day": 19
+  },
+  "case_number": "昭和46(オ)86",
+  "case_name": "土地所有権移転登記手続請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第104号401頁",
+  "original_court_name": "高松高等裁判所",
+  "original_case_number": "昭和44(ネ)199",
+  "original_date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 10,
+    "day": 9
+  },
+  "gist": "山林の買入委託契約の認定につき経験則違背の違法があるとされた事例",
+  "case_gist": "山林の買入を委託し、その買入代金に当てるための資金を手交した経緯に関し、判示のような事情がある場合には、右金員の交付を単なる貸金であるとして、買入委託契約の成立を否定することは、経験則に反し、許されない。",
+  "ref_law": "民訴法394条，民訴法185条",
+  "lawsuit_id": "62072",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62072",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/072/062072_hanrei.pdf"
+}

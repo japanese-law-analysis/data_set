@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 10,
+    "day": 24
+  },
+  "case_number": "昭和47(オ)431",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第28巻7号1512頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和43(ネ)847",
+  "original_date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 12,
+    "day": 21
+  },
+  "gist": "金融機関の支店長代理と支店内において債務の弁済の充当について合意をした者と民法一一〇条",
+  "case_gist": "金融機関の支店長代理と支店内において債務の弁済の充当について合意をした者には、特別の事情のないかぎり、支店長代理に右合意をする権限があると信ずべき正当の理由がある。",
+  "ref_law": "民法110条",
+  "lawsuit_id": "55141",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55141",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/141/055141_hanrei.pdf"
+}

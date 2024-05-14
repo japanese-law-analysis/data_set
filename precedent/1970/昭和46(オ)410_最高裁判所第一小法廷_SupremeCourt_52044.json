@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 7,
+    "day": 20
+  },
+  "case_number": "昭和46(オ)410",
+  "case_name": "意匠権不侵害等確認請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第26巻6号1210頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和42(ネ)996",
+  "original_date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 2,
+    "day": 12
+  },
+  "gist": "登録意匠についてのいわゆる権利範囲確認の訴の適否",
+  "case_gist": "ある意匠が登録意匠の権利範囲に属するか否かの確認を求めるいわゆる権利範囲確認の訴は、許されない。",
+  "ref_law": "意匠法25条，民訴法225条",
+  "lawsuit_id": "52044",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52044",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/044/052044_hanrei.pdf"
+}

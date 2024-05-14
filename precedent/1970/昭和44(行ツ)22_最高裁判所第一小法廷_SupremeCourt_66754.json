@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 5,
+    "day": 30
+  },
+  "case_number": "昭和44(行ツ)22",
+  "case_name": "不当課税処分取消請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第112号33頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和43(行コ)18",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 1,
+    "day": 31
+  },
+  "gist": "法人が合併した場合に合併法人が納付する被合併法人の清算所得に対する法人税額その法人税額に係る道府県民税額及び市町村民税額並びに清算所得に対する事業税額に相当する金額と旧法人税法（昭和二二年法律第二八号）一三条一項二号",
+  "case_gist": "旧法人税法（昭和二二年法律第二八号）一三条一項二号は、法人が合併した場合の清算所得中には、合併の場合に合併法人が納付する被合併法人の清算所得に対する法人税額、その法人税額に係る道府県民税額及び市町村民税額並びに清算所得に対する事業税額に相当する金額を含む趣旨を定めたものと解すべきである。",
+  "ref_law": "旧法人税法（昭和22年法律第28号）13条1項2号，旧法人税法施行規則（昭和22年勅令第111号）23条の11",
+  "lawsuit_id": "66754",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66754",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/754/066754_hanrei.pdf"
+}

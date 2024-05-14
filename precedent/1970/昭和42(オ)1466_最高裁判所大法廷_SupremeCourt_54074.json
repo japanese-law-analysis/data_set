@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 7,
+    "day": 15
+  },
+  "case_number": "昭和42(オ)1466",
+  "case_name": "会社解散、社員総会決議取消等請求",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第24巻7号804頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和42(ネ)110",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 9,
+    "day": 29
+  },
+  "gist": "有限会社社員の提起した会社解散の訴、社員総会決議取消の訴および同無効確認の訴と右社員の死亡による訴訟承継の成否",
+  "case_gist": "有限会社社員の提起した会社解散の訴、社員総会決議取消の訴および同無効確認の訴の係属中右社員が死亡した場合には、相続により持分を取得した相続人がその訴訟の原告たる地位を承継する。",
+  "ref_law": "民訴法208条，有限会社法71条ノ2，有限会社法41条，商法247条，商法252条",
+  "lawsuit_id": "54074",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54074",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/074/054074_hanrei.pdf"
+}

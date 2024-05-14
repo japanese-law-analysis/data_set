@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 12,
+    "day": 16
+  },
+  "case_number": "昭和41(オ)802",
+  "case_name": "所有権移転登記及び仮登記抹消登記手続請求並びに建物収去土地明渡等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第25巻9号1516頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和37(ネ)120",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 4,
+    "day": 18
+  },
+  "gist": "不動産の二重売買における一方の買主のための仮登記の経由と他方の買主に対する履行不能の成否",
+  "case_gist": "甲が乙に対して不動産を売り渡した場合において、所有権移転登記未了の間に、その不動産につき、丙のために売買予約を原因とする所有権移転請求権保全の仮登記がなされたというだけでは、いまだ甲の乙に対する売買契約上の義務が履行不能になつたということはできない。",
+  "ref_law": "民法415条，民法543条",
+  "lawsuit_id": "51889",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51889",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/889/051889_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 11,
+    "day": 22
+  },
+  "case_number": "昭和49(オ)660",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第113号225頁",
+  "original_court_name": "広島高等裁判所",
+  "original_case_number": "昭和48(ネ)152",
+  "original_date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 3,
+    "day": 27
+  },
+  "gist": "取得時効における前主の占有と民訴法一八六条",
+  "case_gist": "建物を甲から乙、乙から丙、丙から丁、丁から戊が順次買受けて占有を承継し、甲以下の前主の占有を併せると、甲が占有を開始したときから二〇年を経過したときに戊のため取得時効が完成した旨の主張は、仮に乙と丙との間に占有承継人として別の者が介在することが証拠上認められるとするならば、その者の占有をも前記取得時効の期間として主張する趣旨を含むものと解するのが相当である。",
+  "ref_law": "民法162条，民法186条，民法187条，民訴法186条",
+  "lawsuit_id": "70407",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70407",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/407/070407_hanrei.pdf"
+}

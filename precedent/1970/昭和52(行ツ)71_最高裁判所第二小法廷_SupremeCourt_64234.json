@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 12,
+    "day": 23
+  },
+  "case_number": "昭和52(行ツ)71",
+  "case_name": "意見書不採択決定処分取消",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第122号779頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和51(行コ)32",
+  "original_date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 3,
+    "day": 29
+  },
+  "gist": "土地区画整理法二〇条三項所定の利害関係者の意見書に係る意見を採択すべきでない旨の都道府県知事の通知と取消訴訟の対象",
+  "case_gist": "土地区画整理法二〇条三項所定の利害関係者の意見書に係る意見を採択すべきでない旨の都道府県知事の通知は、取消訴訟の対象となる「行政庁の処分その他公権力の行使に当たる行為」にあたらない。",
+  "ref_law": "土地区画整理法20条3項，行政事件訴訟法3条2項",
+  "lawsuit_id": "64234",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64234",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/234/064234_hanrei.pdf"
+}

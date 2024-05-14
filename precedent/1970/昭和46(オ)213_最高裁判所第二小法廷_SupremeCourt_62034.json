@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 6,
+    "day": 11
+  },
+  "case_number": "昭和46(オ)213",
+  "case_name": "所有権移転登記手続等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第103号117頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和42(ネ)642",
+  "original_date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 11,
+    "day": 30
+  },
+  "gist": "農地の売主と買主の地位の譲受人との間における知事の許可申請手続等に関する合意が有効とされた事例",
+  "case_gist": "甲が、乙との間に、農地法五条所定の知事の許可を条件として乙所有の農地を買い受ける契約をし、これに基づいて所有権移転請求権保全の仮登記を経由し、次いで右売買契約上の買主たる地位を丙に譲渡して、右仮登記につき丙への移転の附記登記をした場合において、丙が、右譲渡につき乙の承諾を得、乙との間に、乙において丙のため宅地転用の許可申請手続をなすべく、許可があつたときは丙に所有権移転登記手続をする旨の合意をしたときは、右合意は有効であり、これに基づく丙の権利は、当初の甲乙間の売買契約に基づいて成立したものとして、右仮登記により保全されているものと解すべきである。",
+  "ref_law": "農地法3条，農地法5条，不動産登記法7条，不動産登記法105条",
+  "lawsuit_id": "62034",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62034",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/034/062034_hanrei.pdf"
+}

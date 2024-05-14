@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 7,
+    "day": 10
+  },
+  "case_number": "昭和52(行ツ)94",
+  "case_name": "町議会議員選挙無効の裁決の取消",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第32巻5号頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和50(行ケ)4",
+  "original_date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 6,
+    "day": 16
+  },
+  "gist": "町選挙管理委員会が公職選挙法二二条二項の規定に基づく選挙人名簿の登録の際に調査の疎漏により被登録資格の確認を得られない者を登録した瑕疵と選挙無効の原因である選挙の規定違反の成否",
+  "case_gist": "町選挙管理委員会が公職選挙法二二条二項の規定に基づく選挙人名簿の登録の際に調査の疎漏により被登録資格の確認を得られない者を登録した瑕疵は、同法二〇五条一項所定の選挙無効の原因である選挙の規定に違反するものにあたらない。",
+  "ref_law": "公職選挙法22条2項，公職選挙法202条，公職選挙法203条，公職選挙法205条，公職選挙法施行令10条",
+  "lawsuit_id": "53315",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53315",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/315/053315_hanrei.pdf"
+}

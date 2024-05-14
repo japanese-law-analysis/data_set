@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 3,
+    "day": 12
+  },
+  "case_number": "昭和48(し)10",
+  "case_name": "付審判請求事件についてした抗告棄却決定に対する特別抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第186号251頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 1,
+    "day": 27
+  },
+  "gist": "特別抗告が提起期間経過後に申し立てられたものとして不適法とされた事例",
+  "lawsuit_id": "59950",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59950",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/950/059950_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 4,
+    "day": 25
+  },
+  "case_number": "昭和45(オ)375",
+  "case_name": "詐害行為取消請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第105号843頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和43(ネ)1734",
+  "original_date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 1,
+    "day": 29
+  },
+  "gist": "商法二六六条一項五号と同法二五四条三項、民法六四四条",
+  "case_gist": "商法二六六条一項五号には、取締役が同法二五四条三項、民法六四四条の定める注意義務に違反した場合も含まれる。",
+  "ref_law": "商法266条1項5号，商法254条3項，民法644条",
+  "lawsuit_id": "61992",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61992",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/992/061992_hanrei.pdf"
+}

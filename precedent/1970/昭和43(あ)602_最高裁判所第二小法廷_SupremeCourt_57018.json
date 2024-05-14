@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 7,
+    "day": 31
+  },
+  "case_number": "昭和43(あ)602",
+  "case_name": "窃盗、強盗殺人",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "刑集　第24巻8号597頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 2,
+    "day": 14
+  },
+  "gist": "被告人の自白に信用性真実性があると認めた原審の判断が支持し難いとして破棄された事例",
+  "case_gist": "記録にあらわれた証拠関係を検討すれば、犯行の外形的事実と被告人との結びつきについて、合理的な疑いを容れるに足りる幾多の問題点が存し（判文参照）、原審が、被告人の自白に信用性、真実性があるものと認め、これに基づいて犯行を被告人の所為であるとした判断が支持し難いときは、刑訴法四一一条一号、三号により、原判決は破棄を免れない。",
+  "ref_law": "刑法240条後段，刑訴法317条，刑訴法411条1号，刑訴法411条3号，刑訴法413条本文",
+  "lawsuit_id": "57018",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57018",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/018/057018_hanrei.pdf"
+}

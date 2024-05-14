@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 7,
+    "day": 28
+  },
+  "case_number": "昭和52(あ)623",
+  "case_name": "強盗殺人未遂、銃砲刀剣類所持等取締法違反、火薬類取締法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第32巻5号1068頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 3,
+    "day": 8
+  },
+  "gist": "強盗殺人未遂罪といわゆる打撃の錯誤",
+  "case_gist": "犯人が強盗の手段として人を殺害する意思のもとに銃弾を発射して殺害行為に出た結果、犯人の意図した者に対して右側胸部貫通銃創を負わせたほか、犯人の予期しなかつた者に対しても腹部貫通銃創を負わせたときは、後者に対する関係でも強盗未遂罪が成立する。",
+  "ref_law": "刑法38条1項，刑法240条，刑法243条",
+  "lawsuit_id": "57029",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57029",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/029/057029_hanrei.pdf"
+}

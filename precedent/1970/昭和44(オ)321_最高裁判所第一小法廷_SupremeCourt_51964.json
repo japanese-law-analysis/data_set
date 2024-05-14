@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 3,
+    "day": 2
+  },
+  "case_number": "昭和44(オ)321",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第26巻2号183頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和41(ネ)1613",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 11,
+    "day": 29
+  },
+  "gist": "営業の現物出資を受けて設立された会社が出資者の商号を続用する場合と商法二六条の類推適用",
+  "case_gist": "営業の現物出資を受けて設立された会社が出資者の商号を続用する場合には、商法二六条の類推適用により、右会社は、出資者の営業によつて生じた債務につき、出資者とならんで弁済の責に任ずべきものと解するのが相当である。",
+  "ref_law": "商法26条，商法168条，商法172条",
+  "lawsuit_id": "51964",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51964",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/964/051964_hanrei.pdf"
+}

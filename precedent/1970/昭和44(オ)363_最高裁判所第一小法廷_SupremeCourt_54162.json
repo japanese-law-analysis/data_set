@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 2,
+    "day": 26
+  },
+  "case_number": "昭和44(オ)363",
+  "case_name": "報酬金請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第24巻2号89頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和42(ネ)1959",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 12,
+    "day": 23
+  },
+  "gist": "一個の売買に関し宅地建物取引業者である媒介者が数人ある場合の報酬額",
+  "case_gist": "一個の売買に関し宅地建物取引業者である媒介者が数人あり、各媒介者がその数人の関与を予め承諾しているときは、右媒介者らが受けるべき報酬の合計額は、法定の最高報酬額をこえることができない。",
+  "ref_law": "宅地建物取引業法17条1項，宅地建物取引業法17条2項，昭和40年4月1日建設省告示1174号",
+  "lawsuit_id": "54162",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54162",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/162/054162_hanrei.pdf"
+}

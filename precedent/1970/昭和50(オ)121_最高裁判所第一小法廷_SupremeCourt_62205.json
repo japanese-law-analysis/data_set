@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 6,
+    "day": 12
+  },
+  "case_number": "昭和50(オ)121",
+  "case_name": "所得税修正申告書面の真否確認請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第115号95頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和49(ネ)27",
+  "original_date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 9,
+    "day": 26
+  },
+  "gist": "他の者と共有、共用しているいわゆる三文判と押印の推定",
+  "case_gist": "私文書の作成名義人の印影が、名義人と他の者の共有、共用しているいわゆる三文判によつて顕出されたものであるときは、右印影は、名義人の意思に基づいて顕出されたものと推定することはできない。",
+  "ref_law": "民訴法326条",
+  "lawsuit_id": "62205",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62205",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/205/062205_hanrei.pdf"
+}

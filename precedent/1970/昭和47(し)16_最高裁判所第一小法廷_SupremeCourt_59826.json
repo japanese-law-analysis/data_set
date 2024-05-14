@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 4,
+    "day": 3
+  },
+  "case_number": "昭和47(し)16",
+  "case_name": "控訴棄却決定に対する異議申立の棄却決定に対する特別抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第184号1頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 3,
+    "day": 6
+  },
+  "gist": "憲法三七条三項の法意",
+  "case_gist": "憲法三七条三項前段所定の弁護人を依頼する権利は、被告人が自ら行使すべきもので裁判所は被告人にこの権利を行使する機会を与え、その行使を妨げなければ足りるものであること、同項後段の規定は、被告人が弁護人を依頼することができないときは、国に対し弁護人の選任を請求する権利があることを認めたものであつて国はかかる請求がなされたとき弁護人を附すれば足りるものであることは、いずれも当裁判所の判例（昭和二四年（れ）第六八七号同年一一月二日大法廷判決、刑集三巻一一号一七三七頁、昭和二四年（れ）等八二四号同二六年一月三一日大法廷判決、裁判集三九号九四七頁昭和二五年（あ）第二一五三号同二八年四月一日大法廷判決刑集七巻四号七一三頁）とするところである。",
+  "ref_law": "憲法37条3項",
+  "lawsuit_id": "59826",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59826",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/826/059826_hanrei.pdf"
+}

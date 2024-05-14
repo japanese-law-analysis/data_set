@@ -1,0 +1,18 @@
+{
+  "trial_type": "IPCase",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 4,
+    "day": 16
+  },
+  "case_number": "昭和45(行ツ)14",
+  "case_name": "",
+  "court_name": "最高裁判所第一小法廷",
+  "right_type": "商標権",
+  "lawsuit_type": "行政訴訟",
+  "lawsuit_id": "34263",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail7?id=34263",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/263/034263_hanrei.pdf",
+  "contents": ""
+}

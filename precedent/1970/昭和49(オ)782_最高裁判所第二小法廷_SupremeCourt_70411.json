@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 11,
+    "day": 29
+  },
+  "case_number": "昭和49(オ)782",
+  "case_name": "人身保護請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第113号345頁",
+  "original_court_name": "東京地方裁判所",
+  "original_case_number": "昭和49(人)7",
+  "original_date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 8,
+    "day": 8
+  },
+  "gist": "人身保護規則三六条の趣旨",
+  "case_gist": "人身保護規則三六条の規定はいわゆる訓示的規定であり、これに反する判決が当然無効となるものではない。",
+  "ref_law": "人身保護規則36条",
+  "lawsuit_id": "70411",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70411",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/411/070411_hanrei.pdf"
+}

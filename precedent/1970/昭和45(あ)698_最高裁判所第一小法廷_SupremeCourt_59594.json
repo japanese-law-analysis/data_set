@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 5,
+    "day": 4
+  },
+  "case_number": "昭和45(あ)698",
+  "case_name": "公務執行妨害、職務強要、傷害",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第184号183頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 1,
+    "day": 29
+  },
+  "gist": "職員組合の役員をしている県立高校の教諭が校長と職員の勤務条件等について交渉する過程で、校長または教頭に対し加えた暴行の所為が公務執行妨害罪、職務強要罪としての実質的違法性を欠くものではないとされた事例",
+  "ref_law": "刑法35条，刑法95条",
+  "lawsuit_id": "59594",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59594",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/594/059594_hanrei.pdf"
+}

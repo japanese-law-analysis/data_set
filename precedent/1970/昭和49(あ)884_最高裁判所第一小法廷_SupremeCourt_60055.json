@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 2,
+    "day": 20
+  },
+  "case_number": "昭和49(あ)884",
+  "case_name": "法人税法違反、所得税法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集刑　第195号371頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 3,
+    "day": 8
+  },
+  "gist": "青色申告納税者の逋脱行為と逋脱税額の算定",
+  "case_gist": "青色申告の承認を受けた者又は法人の代表者がある年又は事業年度において所得税又は法人税を免れるため逋脱行為をし、その後その年又は事業年度にさかのぼつてその承認を取り消された場合におけるその年又は事業年度の逋脱税額は、青色申告の承認がないものとして計算した所得税法一二〇条一項三号に規定する所得税額又は法人税法七四条一項二号に規定する法人税額から申告にかかる所得税額又は法人税額を差し引いた額である。",
+  "ref_law": "所得税法150条，所得税法238条，法人税法127条，法人税法159条",
+  "lawsuit_id": "60055",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60055",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/055/060055_hanrei.pdf"
+}

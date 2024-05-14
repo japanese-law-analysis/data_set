@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 10,
+    "day": 14
+  },
+  "case_number": "昭和47(オ)746",
+  "case_name": "不当利得金返還請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第116号293頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和44(ネ)536",
+  "original_date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 3,
+    "day": 24
+  },
+  "gist": "仮登記担保権の実行により目的物の所有権を喪失した競落人と民法五六七条の類推適用",
+  "case_gist": "第三者の売買予約に基づく所有権移転請求権保全の仮登記が存在する建物の競落人は、後日右売買予約の完結により仮登記の本登記がなされ、目的物件の所有権を喪失した場合には、民法五六八条、五六七条の類推適用により当該建物の売買（競落）を解除することができるものと解するのが相当である。",
+  "ref_law": "民法556条，民法567条，民法568条，不動産登記法2条，不動産登記法7条2項",
+  "lawsuit_id": "66778",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66778",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/778/066778_hanrei.pdf"
+}

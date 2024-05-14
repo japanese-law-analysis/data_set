@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 3,
+    "day": 30
+  },
+  "case_number": "昭和51(行ツ)120",
+  "case_name": "愛知県に代位して行う損害賠償",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第32巻2号485頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和51(行コ)10",
+  "original_date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 10,
+    "day": 18
+  },
+  "gist": "地方自治法二四二条の二第一項四号所定の損害賠償請求訴訟における訴訟物の価額",
+  "case_gist": "地方自治法二四二条の二第一項四号所定の損害賠償請求訴訟における訴訟物の価額は、原告の数にかかわりなく、三五万円とすべきである。",
+  "ref_law": "地方自治法242条の2第1項，民訴法22条，民訴法23条1項，民事訴訟費用等に関する法律4条1項，民事訴訟費用等に関する法律4条2項",
+  "lawsuit_id": "53288",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53288",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/288/053288_hanrei.pdf"
+}

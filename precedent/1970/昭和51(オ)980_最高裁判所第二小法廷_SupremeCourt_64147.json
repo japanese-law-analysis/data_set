@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 4,
+    "day": 14
+  },
+  "case_number": "昭和51(オ)980",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第123号541頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和50(ネ)489",
+  "original_date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 6,
+    "day": 30
+  },
+  "gist": "失火の責任に関する法律と憲法二九条",
+  "case_gist": "失火の責任に関する法律は、被害者のなんらかの既得の損害賠償請求権を侵害するものではないから、これを侵害することを前提として憲法二九条違反をいうのは前提を欠く。",
+  "ref_law": "失火の責任に関する法律，憲法29条",
+  "lawsuit_id": "64147",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64147",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/147/064147_hanrei.pdf"
+}

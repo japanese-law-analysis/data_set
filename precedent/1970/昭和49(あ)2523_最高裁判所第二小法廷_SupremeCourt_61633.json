@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 2,
+    "day": 19
+  },
+  "case_number": "昭和49(あ)2523",
+  "case_name": "常習累犯窃盗",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第195号355頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 10,
+    "day": 22
+  },
+  "gist": "常習累犯窃盗の罪に刑法所定の累犯加重をすることと憲法三九条後段",
+  "ref_law": "憲法37条1項，憲法39条後段",
+  "lawsuit_id": "61633",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61633",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/633/061633_hanrei.pdf"
+}

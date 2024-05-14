@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 9,
+    "day": 26
+  },
+  "case_number": "昭和49(あ)1300",
+  "case_name": "所得税法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第193号465頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 4,
+    "day": 25
+  },
+  "gist": "引用判例は所論のごとき趣旨のものではないとして「不適切」とされた事例",
+  "lawsuit_id": "61622",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61622",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/622/061622_hanrei.pdf"
+}

@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 10,
+    "day": 30
+  },
+  "case_number": "昭和50(あ)271",
+  "case_name": "兇器準備集合、公務執行妨害",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第198号265頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 10,
+    "day": 25
+  },
+  "gist": "第一審裁判所が併合審理要求及び国選弁護人の辞任申出を容れなかつたのは憲法三一条、三二条、三七条三項に違反するとの主張が欠前提とされた事例",
+  "ref_law": "憲法31条，憲法32条，憲法37条3項",
+  "lawsuit_id": "60132",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60132",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/132/060132_hanrei.pdf"
+}

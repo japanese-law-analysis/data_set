@@ -1,0 +1,24 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 1,
+    "day": 11
+  },
+  "case_number": "昭和45(す)301",
+  "case_name": "付審判請求事件の抗告棄却決定に対する再審請求の申立",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第179号1頁",
+  "original_date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 11,
+    "day": 9
+  },
+  "lawsuit_id": "59622",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59622",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/622/059622_hanrei.pdf"
+}

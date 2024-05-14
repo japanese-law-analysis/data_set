@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 3,
+    "day": 31
+  },
+  "case_number": "昭和51(オ)498",
+  "case_name": "建物収去土地明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第120号363頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和49(ネ)2403",
+  "original_date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 2,
+    "day": 25
+  },
+  "gist": "土地所有権の取得時効の要件として無過失と認められた事例",
+  "case_gist": "乙が甲から耕地整理組合による耕地整理事業が施行された土地を買い受けるにあたり、丁所有地の一部（係争地）が買受地に含まれるものと信じて買い受け、更に、丙もその旨を信じて乙から係争地を含めて右土地を買い受けた場合において、乙の係争地についての占有期間も六年余にわたり、しかも、その間、丁から何らの異議の申出もなかつたなど判示の事実関係があるときは、丙において、事前に登記簿等に基づき実地を調査しなかつたとしても、丙は、係争地の占有の開始につき無過失であつたと認めることができる。（反対意見がある。）",
+  "ref_law": "民法162条2項",
+  "lawsuit_id": "74521",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74521",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/521/074521_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 12,
+    "day": 14
+  },
+  "case_number": "昭和41(行ツ)46",
+  "case_name": "審決取消請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第26巻10号1909頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和39(行ナ)159",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 3,
+    "day": 29
+  },
+  "gist": "明細書中の特許請求の範囲等における誤記の訂正が実質上特許請求の範囲を変更するものとして許されないとされた事例",
+  "case_gist": "「あられ菓子の製造方法」に関する特許発明の明細書中の特許請求の範囲において、第一工程中の餅生地の冷蔵温度を「３乃至５°Ｆ」とした記載が、当該特許発明の構成に欠くことができない事項の一であつて、その記載自体きわめて明瞭であり、また、「３乃至５°Ｆ」と「３乃至５℃」との差が顕著であるにもかかわらず、明細書の全文を通じ一貫して「３乃至５゜Ｆ」と記載されており、当業者であれば容易にその誤記であることに気づいて「３乃至５℃」の趣旨に理解するのが当然であるとはいえない等判示の事情があるときは、右の「３乃至５°Ｆ」の記載を「３乃至５℃」と訂正することは、特許法一二六条二項にいう実質上特許請求の範囲を変更するものとして許されない。",
+  "ref_law": "特許法126条",
+  "lawsuit_id": "52630",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52630",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/630/052630_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 11,
+    "day": 25
+  },
+  "case_number": "昭和51(ク)77",
+  "case_name": "不動産競売事件の競落許可決定に対する抗告棄却の決定に対する抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "却下",
+  "article_info": "集民　第119号263頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和50(ラ)445",
+  "original_date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 1,
+    "day": 9
+  },
+  "gist": "競売法二七条二項と憲法三二条",
+  "case_gist": "競売法二七条二項に基づく競売期日の通知は発せられたが到達しなかつた利害関係人が競売手続に参加する機会を失つたことにより被る不利益は、憲法三二条所定の裁判を受ける権利の侵害とはなんらの関係がない。",
+  "ref_law": "憲法32条，競売法27条2項",
+  "lawsuit_id": "64149",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64149",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/149/064149_hanrei.pdf"
+}

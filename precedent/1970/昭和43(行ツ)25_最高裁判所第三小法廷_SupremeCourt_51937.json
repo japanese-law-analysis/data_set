@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 11,
+    "day": 9
+  },
+  "case_number": "昭和43(行ツ)25",
+  "case_name": "審査決定及び所得税更正決定等の取消請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第25巻8号1120頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和42(行コ)7",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 11,
+    "day": 30
+  },
+  "gist": "利息制限法による制限超過の未収の利息・損害金に対する課税の許否",
+  "case_gist": "利息制限法による制限超過の利息・損害金は、その約定の履行期が到来しても、なお未収であるかぎり、旧所得税法（昭和二二年法律第二七号）一〇条一項にいう「収入すべき金額」に該当せず、課税の対象となるべき所得を構成しない。",
+  "ref_law": "利息制限法1条，利息制限法4条，旧所得税法（昭和22年法律第27号）10条1項",
+  "lawsuit_id": "51937",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51937",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/937/051937_hanrei.pdf"
+}

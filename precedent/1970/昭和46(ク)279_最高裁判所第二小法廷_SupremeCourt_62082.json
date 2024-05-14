@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 9,
+    "day": 10
+  },
+  "case_number": "昭和46(ク)279",
+  "case_name": "裁判所書記官忌避申立却下決定に対する抗告の却下決定に対する特別抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "その他",
+  "article_info": "集民　第103号497頁",
+  "original_court_name": "神戸地方裁判所",
+  "original_case_number": "昭和46(ソ)4",
+  "original_date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 6,
+    "day": 17
+  },
+  "gist": "地方裁判所が抗告事件についてした決定に対する特別抗告状と題する書面による不服の申立を再抗告の申立と解した事例",
+  "case_gist": "（省略）",
+  "ref_law": "民訴法413条，民訴法419条ノ2，裁判所法16条2号",
+  "lawsuit_id": "62082",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62082",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/082/062082_hanrei.pdf"
+}

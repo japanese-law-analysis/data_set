@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 7,
+    "day": 18
+  },
+  "case_number": "昭和49(オ)157",
+  "case_name": "第三者異議",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第28巻5号743頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和47(ネ)283",
+  "original_date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 9,
+    "day": 26
+  },
+  "gist": "動産の割賦払約款付売買契約において代金完済に至るまで所有権を留保した売主又は右売主から目的物を買い受けた者と第三者異議の訴",
+  "case_gist": "代金完済に至るまで目的物の所有権を売主に留保し買主に対する所有権の移転は代金完済を停止条件とする旨の合意がされている動産の割賦払約款付売買契約において、代金完済に至るまでの間に買主の債権者が目的物に対し強制執行したときは、売主又は売主から目的物を買い受けた第三者は、所有権を主張し、第三者異議の訴によつて右執行を排除することができる。",
+  "ref_law": "民法555条，民訴法549条1項",
+  "lawsuit_id": "54210",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54210",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/210/054210_hanrei.pdf"
+}

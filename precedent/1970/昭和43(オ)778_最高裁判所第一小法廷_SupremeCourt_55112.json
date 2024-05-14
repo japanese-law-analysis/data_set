@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 6,
+    "day": 18
+  },
+  "case_number": "昭和43(オ)778",
+  "case_name": "転付債務履行請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第24巻6号527頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和41(ネ)1382",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 4,
+    "day": 26
+  },
+  "gist": "不渡異議申立手続の委託に伴う預託金の返還請求権が手形債権者に転付された場合と支払銀行が手形債務者に対して有する反対債権をもつてする相殺の許否",
+  "case_gist": "手形の不渡異議申立手続を委託した手形債務者から異議申立提供金に見合う資金として支払銀行に交付された預託金の返還請求権が手形債権者に転付された場合に、支払銀行が右債権の差押前から手形債務者に対して有する反対債権をもつて被転付債権と相殺することが、預託金返還請求権の性質上制限されるものと解すべき理由はない。",
+  "ref_law": "手形法38条，民法646条1項，民法52条",
+  "lawsuit_id": "55112",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55112",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/112/055112_hanrei.pdf"
+}

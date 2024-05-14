@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 3,
+    "day": 30
+  },
+  "case_number": "昭和51(オ)328",
+  "case_name": "慰藉料",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第33巻2号303頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和49(ネ)1659",
+  "original_date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 12,
+    "day": 22
+  },
+  "gist": "妻及び未成年の子のある男性と肉体関係を持ち同棲するに至つた女性の行為と右未成年の子に対する不法行為の成否",
+  "case_gist": "妻及び未成年の子のある男性が他の女性と肉体関係を持ち、妻子のもとを去つて右女性と同棲するに至つた結果、右未成年の子が日常生活において父親から愛情を注がれ、その監護、教育を受けることができなくなつたとしても、右女性の行為は、特段の事情のない限り、未成年の子に対して不法行為を構成するものではない。",
+  "ref_law": "民法709条",
+  "lawsuit_id": "53272",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53272",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/272/053272_hanrei.pdf"
+}

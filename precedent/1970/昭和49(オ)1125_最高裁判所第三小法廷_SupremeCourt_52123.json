@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 7,
+    "day": 15
+  },
+  "case_number": "昭和49(オ)1125",
+  "case_name": "仲裁手続不許請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第29巻6号1061頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和49(ネ)103",
+  "original_date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 7,
+    "day": 18
+  },
+  "gist": "一、設立中の会社のためにその発起人が第三者と締結した契約上の権利義務を会社が取得することの能否及び取得の要件についての準拠法\n二、主たる契約の瑕疵と仲裁契約の効力",
+  "case_gist": "一、株式会社の設立発起人が将来設立する会社の営業準備のため第三者と契約を締結した場合、会社がその設立後に右契約上の権利義務を取得しうるか、その要件いかんについての準拠法は、右会社の従属法と解すべきである。\n二、仲裁契約の効力は、当事者間に特段の合意のないかぎり、主たる契約の成立に瑕疵があつても、これによつて影響を受けない。",
+  "ref_law": "法例3条1項，民訴法786条",
+  "lawsuit_id": "52123",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52123",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/123/052123_hanrei.pdf"
+}

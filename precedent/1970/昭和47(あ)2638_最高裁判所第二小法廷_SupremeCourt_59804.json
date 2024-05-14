@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 12,
+    "day": 20
+  },
+  "case_number": "昭和47(あ)2638",
+  "case_name": "強盗殺人、死体遺棄",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第194号415頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 12,
+    "day": 6
+  },
+  "gist": "死刑事件",
+  "lawsuit_id": "59804",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59804",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/804/059804_hanrei.pdf"
+}

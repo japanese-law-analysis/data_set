@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 4,
+    "day": 9
+  },
+  "case_number": "昭和44(オ)787",
+  "case_name": "不動産所有権移転登記抹消登記手続等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第102号439頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和42(ネ)1410",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 5,
+    "day": 12
+  },
+  "gist": "商法二四五条一項一号にいう「営業ノ全部又ハ重要ナル一部ノ譲渡」の意義",
+  "case_gist": "商法二四五条一項一号にいう「営業ノ全部又ハ重要ナル一部ノ譲渡」とは、一定の営業目的のため組織化され、有機的一体として機能する財産の全部または重要な一部を譲渡し、これによつて、譲渡会社がその財産によつて営んでいた営業的活動の全部または重要な一部を譲受人に受け継がせ、譲渡会社がその譲渡の限界に応じ法律上当然に競業避止義務を負う結果を伴うものをいう。",
+  "ref_law": "商法245条1項1号，商法25条",
+  "lawsuit_id": "64009",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64009",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/009/064009_hanrei.pdf"
+}

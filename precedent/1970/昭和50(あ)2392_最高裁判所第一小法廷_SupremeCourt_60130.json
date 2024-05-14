@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 2,
+    "day": 20
+  },
+  "case_number": "昭和50(あ)2392",
+  "case_name": "道路交通法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第199号303頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 11,
+    "day": 17
+  },
+  "gist": "憲法三七条一項違反の主張（原裁判所は公平な裁判所とはいえないとの主張）が欠前提とされた事例",
+  "ref_law": "憲法37条",
+  "lawsuit_id": "60130",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60130",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/130/060130_hanrei.pdf"
+}

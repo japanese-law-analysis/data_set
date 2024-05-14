@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 11,
+    "day": 9
+  },
+  "case_number": "昭和45(オ)908",
+  "case_name": "土地返還本訴請求並びに反訴請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第104号191頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和44(ネ)600",
+  "original_date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 6,
+    "day": 29
+  },
+  "gist": "知事の許可のない使用貸借契約に基づいて引き渡された農地の返還請求がその権利の行使において信義誠実の原則に従つたものとはいえず、排斥を免れないとされた事例",
+  "case_gist": "（省略）",
+  "ref_law": "農地法3条，民法1条",
+  "lawsuit_id": "62006",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62006",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/006/062006_hanrei.pdf"
+}

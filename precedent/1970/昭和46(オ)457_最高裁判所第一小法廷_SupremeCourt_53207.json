@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 11,
+    "day": 25
+  },
+  "case_number": "昭和46(オ)457",
+  "case_name": "転付金請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第30巻10号939頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和44(ネ)918",
+  "original_date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 2,
+    "day": 25
+  },
+  "gist": "手形割引依頼人が仮差押の申請を受けたことを手形買戻請求権の取得及び弁済期到来の事由とする銀行取引約定書による合意の第三者に対する効力",
+  "case_gist": "手形割引依頼人が仮差押の申請を受けたときは通知催告がなくても銀行に対し割引手形の買戻債務を負い直ちに弁済する旨の銀行取引約定書による合意に基づいて手形割引がされた場合に、割引依頼人の債権者が割引依頼人の銀行に対する債権につき仮差押をし差押・転付命令を得たときは、銀行は、特段の事情のない限り、右仮差押の申請があつた時に割引依頼人に対し手形買戻請求権を取得しその弁済期が到来したものとして、右手彩買戻請求権をもつて被転付債権と相殺することができる。",
+  "ref_law": "民法511条，民訴法598条1項，民訴法601条，民訴法750条2項，手形法第1編第6章，手形法第1編第7章",
+  "lawsuit_id": "53207",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53207",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/207/053207_hanrei.pdf"
+}

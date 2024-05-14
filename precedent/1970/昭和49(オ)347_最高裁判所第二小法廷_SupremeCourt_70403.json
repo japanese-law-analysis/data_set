@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 11,
+    "day": 29
+  },
+  "case_number": "昭和49(オ)347",
+  "case_name": "不当利得金返還請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第113号339頁",
+  "original_court_name": "広島高等裁判所\n        　松江支部",
+  "original_case_number": "昭和48(ネ)71",
+  "original_date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 1,
+    "day": 25
+  },
+  "gist": "下級裁判所の裁判事務分配の定めに違背してされた判決言渡手続の効力",
+  "case_gist": "裁判官が下級裁判所の裁判事務分配の定めの上ではその担当とされていない判決言渡手続を行つたとしても、そのことから直ちに右手続が裁判権がなくされ、あるいは訴訟法に違反して無効であるということはできない。",
+  "ref_law": "下級裁判所事務処理規則6条，民訴法387条",
+  "lawsuit_id": "70403",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70403",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/403/070403_hanrei.pdf"
+}

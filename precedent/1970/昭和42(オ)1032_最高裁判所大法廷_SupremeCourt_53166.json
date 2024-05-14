@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 11,
+    "day": 11
+  },
+  "case_number": "昭和42(オ)1032",
+  "case_name": "立替金請求",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第24巻12号1854頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和37(ネ)438",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 6,
+    "day": 23
+  },
+  "gist": "民法上の組合の業務執行組合員に対する組合員の任意的訴訟信託の許否",
+  "case_gist": "民法上の組合において、組合規約に基づき、自己の名で組合財産を管理し、対外的業務を執行し、訴訟を追行する権限を与えられた業務執行組合員は、組合財産に関する訴訟につき、組合員から任意的訴訟信託を受けたものであり、自己の名で訴訟を追行することが許される。",
+  "ref_law": "民訴法45条，民法670条",
+  "lawsuit_id": "53166",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53166",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/166/053166_hanrei.pdf"
+}

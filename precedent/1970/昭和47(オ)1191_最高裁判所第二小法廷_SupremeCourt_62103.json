@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 4,
+    "day": 13
+  },
+  "case_number": "昭和47(オ)1191",
+  "case_name": "家屋収去土地明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第109号93頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和45(ネ)1845",
+  "original_date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 7,
+    "day": 27
+  },
+  "gist": "土地使用借権の取得時効の要件",
+  "case_gist": "土地に対する使用貸借上の借主の権利の時効取得が成立するためには、土地の継続的な使用収益という外形的事実が存在し、かつ、その使用収益が土地の借主としての権利の行使の意思に基づくものであることが客観的に表現されていることを必要とする。",
+  "ref_law": "民法163条，民法593条",
+  "lawsuit_id": "62103",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62103",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/103/062103_hanrei.pdf"
+}

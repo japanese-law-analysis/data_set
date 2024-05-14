@@ -1,0 +1,24 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 11,
+    "day": 5
+  },
+  "case_number": "昭和45(す)258",
+  "case_name": "業務上横領事件についてした上告棄却決定に対する異議申立",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第178号153頁",
+  "original_date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 10,
+    "day": 15
+  },
+  "lawsuit_id": "59620",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59620",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/620/059620_hanrei.pdf"
+}

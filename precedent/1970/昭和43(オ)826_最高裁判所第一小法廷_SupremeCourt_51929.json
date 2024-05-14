@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 6,
+    "day": 24
+  },
+  "case_number": "昭和43(オ)826",
+  "case_name": "株主総会決議不存在確認請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第25巻4号596頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和41(ネ)1158",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 4,
+    "day": 18
+  },
+  "gist": "いわゆる一人会社と株主総会の成立",
+  "case_gist": "いわゆる一人会社においては、その一人の株主が出席すれば、招集の手続がなくても、株主総会は成立する。",
+  "ref_law": "商法231条，商法232条，商法239条1項",
+  "lawsuit_id": "51929",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51929",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/929/051929_hanrei.pdf"
+}

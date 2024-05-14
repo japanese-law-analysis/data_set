@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 11,
+    "day": 1
+  },
+  "case_number": "昭和54(行ツ)82",
+  "case_name": "不動産差押処分等取消",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第128号63頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "昭和53(行コ)9",
+  "original_date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 2,
+    "day": 21
+  },
+  "gist": "地方税法七〇〇条の三第二項と憲法二九条",
+  "case_gist": "地方税法七〇〇条の三第二項の規定は、憲法二九条に違反しない。",
+  "ref_law": "憲法29条，地方税法700条の3第2項",
+  "lawsuit_id": "64343",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64343",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/343/064343_hanrei.pdf"
+}

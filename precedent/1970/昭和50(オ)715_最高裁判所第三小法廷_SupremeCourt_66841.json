@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 11,
+    "day": 14
+  },
+  "case_number": "昭和50(オ)715",
+  "case_name": "抹消登記手続請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第116号481頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和48(ネ)670",
+  "original_date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 3,
+    "day": 27
+  },
+  "gist": "不動産の処分に関する白紙委任状等の転得者がその書類を濫用した場合と民法一〇九条の適用の有無",
+  "case_gist": "債務者甲が債権者乙との間に甲所有の不動産について抵当権設定契約を締結し、甲が乙に対し右抵当権設定登記手続のため白紙委任状等の書類を交付して右登記手続を委任した場合でも、とくになんびとが右書類を行使しても差し支えない趣旨でこれを交付したものでないかぎり、乙がさらに右書類を丙に交付し、丙が右書類を濫用して甲代理人名義で丁との間に右不動産について抵当権設定契約を締結したときは、甲は、民法第一〇九条にいわゆる「第三者ニ対シ他人ニ代理権ヲ与ヘタル旨ヲ表示シタル者」にあたらない。",
+  "ref_law": "民法109条",
+  "lawsuit_id": "66841",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66841",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/841/066841_hanrei.pdf"
+}

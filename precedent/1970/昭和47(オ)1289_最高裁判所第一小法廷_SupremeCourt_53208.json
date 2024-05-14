@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 3,
+    "day": 4
+  },
+  "case_number": "昭和47(オ)1289",
+  "case_name": "引受債務請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第30巻2号25頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和45(ネ)3390",
+  "original_date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 8,
+    "day": 30
+  },
+  "gist": "建物（ビルディング）の貸室の賃貸借契約に際し賃借人から建物所有者．である賃貸人に差し入れられた保証金の返還債務が右建物の所有権を譲り受けた新賃貸人に承継されないとされた事例",
+  "case_gist": "建物（ビルディング）の貸室の賃貸借契約に際し賃借人から建物所有者である賃貸人に差し入れられた保証金が、右契約成立の時から五年間これをすえ置き、六年目から利息を加えて一〇年間に返還する約定のいわゆる建設協力金であり、他に敷金も差し入れられているなど判示の事実関係のもとでは、右建物の所有権を譲り受けた新賃貸人は、旧賃貸人の右保証金返還債務を承継しない。",
+  "ref_law": "借家法1条1項",
+  "lawsuit_id": "53208",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53208",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/208/053208_hanrei.pdf"
+}

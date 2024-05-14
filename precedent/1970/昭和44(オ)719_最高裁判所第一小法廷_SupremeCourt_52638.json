@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 11,
+    "day": 9
+  },
+  "case_number": "昭和44(オ)719",
+  "case_name": "理事会、評議員会の決議無効確認等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第26巻9号1513頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和42(ネ)14",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 3,
+    "day": 24
+  },
+  "gist": "学校法人の理事会等の決議無効確認の訴の許否",
+  "case_gist": "学校法人の理事会または評議員会の決議が無効であることの確認を求める訴は、現に存する法律上の紛争の直接かつ抜本的な解決のため適切かつ必要と認められる場合には、許容されるものと解すべきである。",
+  "ref_law": "民訴法225条，商法252条，私立学校法36条，私立学校法41条",
+  "lawsuit_id": "52638",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52638",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/638/052638_hanrei.pdf"
+}

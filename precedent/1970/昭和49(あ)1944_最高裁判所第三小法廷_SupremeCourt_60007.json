@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 12,
+    "day": 26
+  },
+  "case_number": "昭和49(あ)1944",
+  "case_name": "覚せい剤取締法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第194号499頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 7,
+    "day": 23
+  },
+  "gist": "原審において主張判断を経ていない憲法三八条三項違反主張（不適法）",
+  "ref_law": "憲法38条",
+  "lawsuit_id": "60007",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60007",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/007/060007_hanrei.pdf"
+}

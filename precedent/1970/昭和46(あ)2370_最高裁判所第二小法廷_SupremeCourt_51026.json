@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 6,
+    "day": 2
+  },
+  "case_number": "昭和46(あ)2370",
+  "case_name": "業務上過失傷害、道路交通法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第26巻5号317頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 10,
+    "day": 14
+  },
+  "gist": "「酒酔い鑑識カード」の証拠能力",
+  "case_gist": "本件「酒酔い鑑識カード」（判決別紙参照）のうち「化学判定」欄および被疑者の言語、動作、酒臭、外貌、態度等の外部的状態に関する記載のある欄の各記載は、いずれも刑訴法三二一条三項の「司法警察職員の検証の結果を記載した書面」にあたり、被疑者との問答の記載のある欄ならびに「事故事件の場合」の題下の「飲酒日時」および「飲酒動機」の両欄の各記載は、いずれも刑訴法三二一条一項三号の書面にあたる。",
+  "ref_law": "刑訴法321条1項3号，刑訴法321条3項",
+  "lawsuit_id": "51026",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51026",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/026/051026_hanrei.pdf",
+  "contents": ""
+}

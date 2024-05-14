@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 10,
+    "day": 17
+  },
+  "case_number": "昭和50(オ)444",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第116号301頁",
+  "original_court_name": "広島高等裁判所",
+  "original_case_number": "昭和44(ネ)293",
+  "original_date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 2,
+    "day": 20
+  },
+  "gist": "火葬場の設置、運営により地価の値下り等の損害を受けたとする国家賠償法一条、二条による損害賠償請求が棄却された事例",
+  "case_gist": "嫌忌される施設の設置、運営による損失が不法行為に基づき賠償すべき損害にあたるか否かは、被侵害利益ないし権利の性質、程度、施設の社会的有用性、損害の発生を防止、軽減すべき処置をとりうる可能性、施設設置の意図、設置場所等諸般の事情を総合して、社会通念上受忍すべき限度をこえるか否かによつて決められるべきであるところ、本件火葬場設置の必要性、それが最高の内容、規模のものであること、本件火葬場の設置された地域にもと民間の火葬場のあつたこと、被上告人市が火葬場周辺の環境整備に配慮していること等によると、上告人は本件火葬場の設置、運営による地価値下りの損害を受忍すべきであつて、その損害賠償を求めることはできない。",
+  "ref_law": "国家賠償法1条1項，国家賠償法2条1項",
+  "lawsuit_id": "66838",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66838",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/838/066838_hanrei.pdf"
+}

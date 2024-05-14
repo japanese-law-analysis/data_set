@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 7,
+    "day": 19
+  },
+  "case_number": "昭和46(オ)1193",
+  "case_name": "詐害行為取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第118号273頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和41(ネ)72",
+  "original_date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 9,
+    "day": 22
+  },
+  "gist": "金銭債権の代理受領権者に対する当該金銭債権の譲渡と詐害行為",
+  "case_gist": "債務者が、特定の債権者に対する債務の担保として、自己の第三者に対する金銭債権につき右債権者に代理受領の委任をし、第三者がこれを承認した場合において、その後債務者が当該金銭債権を右債権者に譲渡することは、詐害行為となりうる。",
+  "ref_law": "民法424条",
+  "lawsuit_id": "66765",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66765",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/765/066765_hanrei.pdf"
+}

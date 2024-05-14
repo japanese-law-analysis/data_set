@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 2,
+    "day": 26
+  },
+  "case_number": "昭和44(オ)1198",
+  "case_name": "請求異議等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第98号291頁",
+  "original_court_name": "広島高等裁判所\n        　松江支部",
+  "original_case_number": "昭和42(ネ)92",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 9,
+    "day": 17
+  },
+  "gist": "商法五二六条の適用範囲",
+  "case_gist": "商法五二六条は売主および買主の双方が商人である場合にかぎり適用される。",
+  "ref_law": "商法526条",
+  "lawsuit_id": "66711",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66711",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/711/066711_hanrei.pdf"
+}

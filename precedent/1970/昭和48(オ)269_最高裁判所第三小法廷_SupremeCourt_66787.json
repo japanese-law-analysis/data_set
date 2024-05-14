@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 8,
+    "day": 30
+  },
+  "case_number": "昭和48(オ)269",
+  "case_name": "不当利得返還請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第112号449頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和47(ネ)665",
+  "original_date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 12,
+    "day": 22
+  },
+  "gist": "会社が労務の提供のない従業員に支払つた給料名義の金員と会社の損金",
+  "case_gist": "会社は、法人税の課税標準としての所得の計算にあたり、労務の提供のない従業員に支払つた給料名義の金員を、その支払が雇用契約上義務とされている等特段の事情のないかぎり、損金に算入することができない。",
+  "ref_law": "旧法人税（法昭和22年法律第142号）",
+  "lawsuit_id": "66787",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66787",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/787/066787_hanrei.pdf"
+}

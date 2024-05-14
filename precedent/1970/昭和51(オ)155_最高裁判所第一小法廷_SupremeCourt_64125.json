@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 11,
+    "day": 30
+  },
+  "case_number": "昭和51(オ)155",
+  "case_name": "解雇無効確認等",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第125号739頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "昭和50(ネ)15",
+  "original_date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 10,
+    "day": 16
+  },
+  "gist": "就業規則所定の懲戒解雇事由に直接該当しないがこれと違反の類型及び程度において同等と認められる行為につき右懲戒事由を定めた規定の準用を認めて懲戒解雇が許されるとした事例",
+  "case_gist": "職場の後輩が職場外でした酒気帯び運転による人身事故につき同人に飲酒をすすめ同乗するなどして右事故を誘発させたタクシー運転手の行為（原判示参照）は、懲戒解雇事由を定める就業規則の「酒気をおびて自動車を運転したとき」に直接該当するものではないが、これと違反の類型及び程度において同等と認められるものとして、同号の準用によりこれを懲戒解雇することも許される。",
+  "ref_law": "労働基準法89条",
+  "lawsuit_id": "64125",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64125",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/125/064125_hanrei.pdf"
+}
