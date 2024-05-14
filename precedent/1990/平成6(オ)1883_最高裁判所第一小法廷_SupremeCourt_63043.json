@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 9,
+    "month": 11,
+    "day": 13
+  },
+  "case_number": "平成6(オ)1883",
+  "case_name": "債務不存在確認",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第186号105頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成5(ネ)2768",
+  "original_date": {
+    "era": "Heisei",
+    "year": 6,
+    "month": 5,
+    "day": 25
+  },
+  "gist": "期間の定めのある建物賃貸借契約の更新と保証人の責任",
+  "case_gist": "期間の定めのある建物の賃貸借においで、賃借人のために保証人が賃貸人と保証契約を締結した場合には、反対の趣旨をうかがわせるような特段の事情のない限り、保証人が更新後の賃貸借から生ずる賃借人の債務についても保証の責めを負う趣旨で合意がされたものと解すべきである。",
+  "ref_law": "民法446条，民法619条2項，借地借家法26条",
+  "lawsuit_id": "63043",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63043",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/043/063043_hanrei.pdf"
+}

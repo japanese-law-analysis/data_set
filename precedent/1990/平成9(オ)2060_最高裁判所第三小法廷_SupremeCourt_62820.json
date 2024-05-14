@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 11,
+    "month": 9,
+    "day": 14
+  },
+  "case_number": "平成9(オ)2060",
+  "case_name": "遺言無効確認等請求事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第193号717頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成8(ネ)630",
+  "original_date": {
+    "era": "Heisei",
+    "year": 9,
+    "month": 5,
+    "day": 29
+  },
+  "gist": "いわゆる危急時遺言に当たり民法九七六条一項にいう遺言の趣旨の口授があったとされた事例",
+  "case_gist": "いわゆる危急時遺言に当たり、立ち会った証人の一人があらかじめ作成された草案を一項目ずつ読み上げ、遺言者が、その都度うなずきながら「はい」などと返答し、最後に右証人から念を押され了承する旨を述べたなど判示の事実関係の下においては、民法九七六条一項にいう遺言の趣旨の口授があったものということができる。",
+  "ref_law": "民法976条1項",
+  "lawsuit_id": "62820",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62820",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/820/062820_hanrei.pdf"
+}

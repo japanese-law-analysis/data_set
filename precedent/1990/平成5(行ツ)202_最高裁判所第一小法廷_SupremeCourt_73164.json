@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 7,
+    "month": 7,
+    "day": 6
+  },
+  "case_number": "平成5(行ツ)202",
+  "case_name": "懲戒免職処分取消",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第176号69頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成1(行コ)107",
+  "original_date": {
+    "era": "Heisei",
+    "year": 5,
+    "month": 9,
+    "day": 6
+  },
+  "gist": "自衛官が政治的集会において不特定多数の者に対して国の政策を批判し自衛隊をひぼう中傷する内容の要求書及び声明文を読み上げるなどした行為を懲戒処分の対象とすることが憲法二一条に違反するものとはいえないとされた事例",
+  "case_gist": "自衛官が、沖縄返還協定紛砕等を掲げて開催された政治的集会において、その制服や官職を利用してそれによる宣伝効果をねらい、不特定多数の者に対して要求書及び声明文を読み上げて、一方的かつ過激な表現をもって国の政策を公然と批判し、これに従わない態度を明らかにするとともに、自衛隊をひぼう中傷したなど判示の事実関係の下においては、右行為を懲戒処分の対象とすることは、憲法二一条に違反するものとはいえない。",
+  "ref_law": "自衛隊法46条2号，自衛隊法58条1項，憲法21条1項",
+  "lawsuit_id": "73164",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=73164",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/164/073164_hanrei.pdf"
+}

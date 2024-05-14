@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 5,
+    "month": 10,
+    "day": 22
+  },
+  "case_number": "平成4(行ツ)173",
+  "case_name": "選挙無効",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第170号231頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "平成3(行ケ)2",
+  "original_date": {
+    "era": "Heisei",
+    "year": 4,
+    "month": 8,
+    "day": 5
+  },
+  "gist": "愛知県議会の議員の定数並びに選挙区及び各選挙区の議員の数に関する条例（昭和三八年愛知県条例第二号）におけるいわゆる特例選挙区の存置の合憲性",
+  "case_gist": "愛知県議会の議員の定数並びに選挙区及び各選挙区の議員の数に関する条例（昭和三八年愛知県条例第二号）が、平成三年四月七日施行の愛知県議会議員選挙当時、南設楽郡、北設楽郡の二選挙区を特例選挙区として存置していたことは、憲法一四条一項九二条、九三条に違反するものとはいえない。",
+  "ref_law": "公職選挙法271条2項，愛知県議会の議員の定数並びに選挙区及び各選挙区の議員の数に関する条例（昭和38年愛知県条例第2号）2条，憲法14条1項，憲法92条，憲法93条",
+  "lawsuit_id": "73156",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=73156",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/156/073156_hanrei.pdf"
+}

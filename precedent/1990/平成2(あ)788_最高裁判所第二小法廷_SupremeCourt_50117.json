@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 4,
+    "month": 6,
+    "day": 5
+  },
+  "case_number": "平成2(あ)788",
+  "case_name": "殺人、出入国管理及び難民認定法違反、外国人登録法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第46巻4号245頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 2,
+    "month": 6,
+    "day": 5
+  },
+  "gist": "一　共同正犯が成立する場合における過剰防衛の成否の判断方法\n二　殺人の共同正犯者中の一人に過剰防衛が成立する場合に他の一人について過剰防衛が成立しないとされた事例",
+  "case_gist": "一　共同正犯が成立する場合における過剰防衛の成否は、共同正犯者の各人につきそれぞれの要件を満たすかどうかによって判断すべきである。\n二　被告人と共謀の上被害者を殺害した甲について過剰防衛が成立する場合であっても、被害者の攻撃を予期し、その機会を利用して甲に反撃を加えさせようとして侵害に臨んだ被告人については、侵害の急迫性の要件を欠き、過剰防衛は成立しない。",
+  "ref_law": "刑法36条，刑法60条，刑法199条",
+  "lawsuit_id": "50117",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50117",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/117/050117_hanrei.pdf"
+}

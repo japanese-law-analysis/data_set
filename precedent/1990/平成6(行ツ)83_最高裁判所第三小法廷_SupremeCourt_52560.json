@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 7,
+    "month": 3,
+    "day": 7
+  },
+  "case_number": "平成6(行ツ)83",
+  "case_name": "審決取消",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第49巻3号944頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成4(行ケ)170",
+  "original_date": {
+    "era": "Heisei",
+    "year": 6,
+    "month": 1,
+    "day": 27
+  },
+  "gist": "実用新案登録を受ける権利の共有者が提起する審決取消訴訟と固有必要的共同訴訟",
+  "case_gist": "実用新案登録を受ける権利の共有者が、共同で拒絶査定に対する審判を請求し、請求が成り立たない旨の審決を受けた場合に提起する審決取消訴訟は、固有必要的共同訴訟である。",
+  "ref_law": "民訴法62条，実用新案法（平成5年法律第26号による改正前のもの）41条，実用新案法（平成5年法律第26号による改正前のもの）47条，特許法132条3項",
+  "lawsuit_id": "52560",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52560",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/560/052560_hanrei.pdf"
+}

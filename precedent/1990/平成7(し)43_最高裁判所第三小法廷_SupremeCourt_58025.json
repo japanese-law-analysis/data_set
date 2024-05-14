@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 7,
+    "month": 4,
+    "day": 14
+  },
+  "case_number": "平成7(し)43",
+  "case_name": "弁護人選任照会に関する措置に対する「特別抗告の申立」と題する不服申立て",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第265号565頁",
+  "original_court_name": "福井地方裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 7,
+    "month": 3,
+    "day": 1
+  },
+  "gist": "受訴裁判所がした弁護人選任照会に関する措置に対する特別抗告が雑事件の処理方式により不適法処理された事例",
+  "lawsuit_id": "58025",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58025",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/025/058025_hanrei.pdf"
+}

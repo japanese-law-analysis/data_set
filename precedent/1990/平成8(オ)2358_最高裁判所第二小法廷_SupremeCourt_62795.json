@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 11,
+    "month": 4,
+    "day": 16
+  },
+  "case_number": "平成8(オ)2358",
+  "case_name": "損害賠償請求上告、同附帯上告事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集民　第193号7頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成7(ネ)1138",
+  "original_date": {
+    "era": "Heisei",
+    "year": 8,
+    "month": 8,
+    "day": 7
+  },
+  "gist": "民事調停規則６条による民事執行の手続の停止につき第三者が支払保証委託契約を締結する方法によって立てた担保について担保権利者が銀行等に対して支払を請求するに当たり提示すべき債務名義等の相手方",
+  "case_gist": "民事調停規則６条による民事執行の手続の停止につき第三者が支払保証委託契約を締結する方法によって立てた担保について，担保権利者が銀行等に対して支払を請求するに当たり提示すべき債務名義等は，担保提供義務者本人を相手方とするものであることを要する。",
+  "ref_law": "民訴法76条，民訴規則29条，民事調停規則6条",
+  "lawsuit_id": "62795",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62795",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/795/062795_hanrei.pdf"
+}

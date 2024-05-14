@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 7,
+    "month": 2,
+    "day": 24
+  },
+  "case_number": "平成6(オ)535",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集民　第174号429頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "平成2(ネ)775",
+  "original_date": {
+    "era": "Heisei",
+    "year": 5,
+    "month": 9,
+    "day": 30
+  },
+  "gist": "上告審において第一審以来の訴訟代理権の欠缺が認められて訴えが却下された事例",
+  "case_gist": "第一審及び控訴審の訴訟追行並びに上告の堤起が授権を欠く訴訟代理人により行われた場合において、本人が右各訴訟行為のうち上告の提起のみを追認して訴訟代理権の欠缺を理由に控訴審判決の破棄を求めているときは、上告審は、控訴審判決を破棄して第一審判決を取り消した上、訴えを却下すべきである。",
+  "ref_law": "民訴法54条，民訴法87条，民訴法99条",
+  "lawsuit_id": "62755",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62755",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/755/062755_hanrei.pdf"
+}

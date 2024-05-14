@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 5,
+    "month": 5,
+    "day": 27
+  },
+  "case_number": "平成2(行ツ)96",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集民　第169号87頁",
+  "original_court_name": "広島高等裁判所",
+  "original_case_number": "昭和63(行コ)4",
+  "original_date": {
+    "era": "Heisei",
+    "year": 2,
+    "month": 3,
+    "day": 13
+  },
+  "gist": "町長が昇給等の用件を考慮しないでした職員の給与の調整がその後の条例の改正によりさかのぼって適法なものとなるとされた事例",
+  "case_gist": "町長が、条例等に定められた基準による初任給の決定が行われていないため低くなっていた職員の給与の改善を目的として、条例に定める要件を考慮しないで昇給等により給与の調整をした場合において、その後に、過去の期間についてもこれと同一の目的で給与の調整措置を採る権限を町長に付与するとともに、改正前の規定に基づいて支給された給与を改正後の規定による給与の内払とみなすものとする旨の条例の改正がされたときは、右条例の改正は、町長の右調整をさかのぼって適法なものとしたものと解すべきである。",
+  "ref_law": "地方自治法204条，地方自治法204条の2，地方自治法242条の2第1項4号",
+  "lawsuit_id": "63021",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63021",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/021/063021_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 5,
+    "month": 11,
+    "day": 24
+  },
+  "case_number": "平成5(し)96",
+  "case_name": "中等少年院送致決定に対する抗告棄却決定に対する再抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第47巻9号217頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 5,
+    "month": 7,
+    "day": 22
+  },
+  "gist": "家庭裁判所が先に少年法一七条一項二号の観護の措置が採られていた事件の差戻しを受けた場合に改めて同号の観護の措置を採ることの可否",
+  "case_gist": "家庭裁判所は、抗告裁判所から差戻しを受けた事件が先に少年法一七条一項二号の観護の措置が採られたものであっても、審判を行うため必要があるときは、改めて同号の観護の措置を採ることができる。",
+  "ref_law": "少年法17条，少年法33条2項，少年審判規則52条1項",
+  "lawsuit_id": "50151",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50151",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/151/050151_hanrei.pdf"
+}

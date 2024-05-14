@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 5,
+    "month": 1,
+    "day": 28
+  },
+  "case_number": "平成2(あ)560",
+  "case_name": "道路運送法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第262号3頁",
+  "original_court_name": "福岡高等裁判所\n        　那覇支部",
+  "original_date": {
+    "era": "Heisei",
+    "year": 2,
+    "month": 4,
+    "day": 26
+  },
+  "gist": "道路運送法２４条の３，９８条２項，１２８条の３第２号（平成元年法律第８３号による改正前のもの）の合憲性（憲法１３条，２２条，２５条）",
+  "ref_law": "憲法13条，憲法22条，憲法25条，道路運送法24条の3項，道路運送法98条2項，道路運送法128条の第3項2号",
+  "lawsuit_id": "57913",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57913",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/913/057913_hanrei.pdf"
+}

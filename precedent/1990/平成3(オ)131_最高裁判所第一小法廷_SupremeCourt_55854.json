@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 5,
+    "month": 2,
+    "day": 18
+  },
+  "case_number": "平成3(オ)131",
+  "case_name": "請求異議",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第47巻2号632頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成2(ネ)1735",
+  "original_date": {
+    "era": "Heisei",
+    "year": 2,
+    "month": 10,
+    "day": 30
+  },
+  "gist": "家庭裁判所において請求異議の訴えが適法に損害賠償請求の訴えに交換的に変更された場合と新訴の取扱い",
+  "case_gist": "家庭裁判所において請求異議の訴えが適法に損害賠償請求の訴えに交換的に変更された場合には、民訴法三〇条一項により、新訴を管轄裁判所に移送すべきである。",
+  "ref_law": "民訴法30条1項，民訴法232条，民事執行法33条2項，民事執行法35条",
+  "lawsuit_id": "55854",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55854",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/854/055854_hanrei.pdf"
+}

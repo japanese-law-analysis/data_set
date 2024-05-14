@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 3,
+    "month": 9,
+    "day": 17
+  },
+  "case_number": "平成2(オ)1735",
+  "case_name": "建物収去土地明渡等",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第163号299頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "平成1(ネ)473",
+  "original_date": {
+    "era": "Heisei",
+    "year": 2,
+    "month": 8,
+    "day": 29
+  },
+  "gist": "土地賃貸借契約において賃借人が地上建物を賃貸して転居し所在を明らかにしないまま八年以上を経過したことなどが賃貸人に対する信頼関係を著しく破壊するとして無催告の解除が許容された事例",
+  "case_gist": "土地賃借人が第三者に地上建物を賃貸して地代の支払をゆだね、その旨を賃貸人に通知することなく転居し、以後自ら土地の管理をせず、所在を明らかにしないまま八年以上を経過するなど、判示の事実関係の下においては、賃借人の行為は賃貸借当事者間の信頼関係を著しく破壊するものであって、賃貸人は、契約上の義務違反を理由として賃貸借契約を無催告で解除することができる。",
+  "ref_law": "民法541条，民法601条",
+  "lawsuit_id": "62662",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62662",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/662/062662_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 6,
+    "month": 11,
+    "day": 24
+  },
+  "case_number": "平成4(オ)1814",
+  "case_name": "慰藉料、損害賠償",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集民　第173号431頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成3(ネ)1249",
+  "original_date": {
+    "era": "Heisei",
+    "year": 4,
+    "month": 7,
+    "day": 15
+  },
+  "gist": "共同不法行為者が負担する損害賠償債務と民法四三七条の適用の有無",
+  "case_gist": "共同不法行為者が負担する損害賠償債務については、民法四三七条の規定は適用されない。",
+  "ref_law": "民法437条，民法719条",
+  "lawsuit_id": "62710",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62710",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/710/062710_hanrei.pdf"
+}

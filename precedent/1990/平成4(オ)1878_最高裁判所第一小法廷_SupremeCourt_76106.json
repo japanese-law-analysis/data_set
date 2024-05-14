@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 7,
+    "month": 6,
+    "day": 29
+  },
+  "case_number": "平成4(オ)1878",
+  "case_name": "借地権存在確認請求本訴、賃借権不存在確認等請求反訴",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第175号745頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成3(ネ)923",
+  "original_date": {
+    "era": "Heisei",
+    "year": 4,
+    "month": 7,
+    "day": 14
+  },
+  "gist": "幼稚園の園舎敷地に隣接する土地をその運動場として使用するためにされた賃貸借が借地法一条にいう「建物ノ所有ヲ目的トスル」ものに当たらないとされた事例",
+  "case_gist": "幼稚園の園舎敷地に隣接する土地をその運動場として使用するために賃貸借がされた場合において、右土地が幼稚園経営の観点からすれば園舎敷地と不可分一体の関係にあるとしても、これを幼稚園の運動場としてのみ使用する旨の合意が存在し、現実にも右以外の目的に使用されたことはなく、右賃貸借の当初の期間が二年と定められ、その後も期間を二年ないし五年と定めて更新されてきたなど判示の事実関係の下においては、右賃貸借は、借地法一条にいう「建物ノ所有ヲ目的トスル」ものに当たらない。",
+  "ref_law": "借地法1条",
+  "lawsuit_id": "76106",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=76106",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/106/076106_hanrei.pdf"
+}

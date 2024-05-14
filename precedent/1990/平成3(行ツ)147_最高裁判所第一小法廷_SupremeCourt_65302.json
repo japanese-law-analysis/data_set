@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 4,
+    "month": 11,
+    "day": 16
+  },
+  "case_number": "平成3(行ツ)147",
+  "case_name": "大阪地蔵像違憲",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第166号625頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和61(行コ)20",
+  "original_date": {
+    "era": "Heisei",
+    "year": 3,
+    "month": 3,
+    "day": 26
+  },
+  "gist": "市が町会に対して地蔵像の建立あるいは移設のため市有地の無償使用を承認するなどした行為が憲法二〇条三項、八九条に違反しないとされた事例",
+  "case_gist": "市が町会に対して地蔵像の建立あるいは移設のため市有地の無償使用を承認するなどした行為は、右承認等の意図、目的が市営住宅建替事業の円滑な進行を図る等の何ら宗教的意義を帯びないものであって、右地蔵像の帯有する宗教性が希薄なものとなっており、また、町会が宗教的活動を目的とする団体でなく、右地蔵像の維持運営に関する行為も伝統的習俗的行事にとどまっているなど判示の事情の下では、憲法二〇条三項、八九条に違反しない。",
+  "ref_law": "憲法20条3項，憲法89条，地方自治法242条の2第1項3号",
+  "lawsuit_id": "65302",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=65302",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/302/065302_hanrei.pdf"
+}

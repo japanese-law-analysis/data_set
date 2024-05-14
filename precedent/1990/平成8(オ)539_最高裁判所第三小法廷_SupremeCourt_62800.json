@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 11,
+    "month": 7,
+    "day": 13
+  },
+  "case_number": "平成8(オ)539",
+  "case_name": "通行権確認等請求事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集民　第193号427頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成6(ネ)603",
+  "original_date": {
+    "era": "Heisei",
+    "year": 7,
+    "month": 11,
+    "day": 22
+  },
+  "gist": "公道に一・四五メートル接する土地の上に建築基準法が施行されるよりも前から存在した建築物が取り壊された場合に同土地の所有者のためにいわゆる接道要件を満たすべき内容の囲繞地通行権が認められないとされた事例",
+  "case_gist": "公道に一・四五メートル接する甲土地の上に建築基準法が施行されるよりも前から存在した建築物が老朽化したために取り壊されたが、その当時、甲土地に隣接し右公道に接する乙土地は同法の規定が適用される建築物の敷地とされていたなど判示の事実関係の下においては、甲土地の所有者のために、乙土地について、同法四三条一項本文所定のいわゆる接道要件を満たすべき内容の囲繞地通行権は、認められない。",
+  "ref_law": "民法210条，建築基準法3条2項，建築基準法43条1項",
+  "lawsuit_id": "62800",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62800",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/800/062800_hanrei.pdf"
+}

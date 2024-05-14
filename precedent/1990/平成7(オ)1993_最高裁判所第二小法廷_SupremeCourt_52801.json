@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 10,
+    "month": 2,
+    "day": 27
+  },
+  "case_number": "平成7(オ)1993",
+  "case_name": "土地賃借権確認、借地権確認",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第52巻1号299頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成6(ネ)4469",
+  "original_date": {
+    "era": "Heisei",
+    "year": 7,
+    "month": 6,
+    "day": 27
+  },
+  "gist": "遺言執行者がある場合における遺言によって特定の相続人に相続させるものとされた特定の不動産についての賃借権確認請求訴訟の被告適格",
+  "case_gist": "遺言によって特定の相続人に相続させるものとされた特定の不動産についての賃借権確認請求訴訟の被告適格を有する者は、遺言執行者があるときであっても、遺言書に当該不動産の管理及び相続人への引渡しを遺言執行者の職務とする旨の記載があるなどの特段の事情のない限り、遺言執行者ではなく、右の相続人である。",
+  "ref_law": "民法908条，民法1012条，民法1013条，民法1015条，民訴法第1編第3章当事者",
+  "lawsuit_id": "52801",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52801",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/801/052801_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 6,
+    "month": 1,
+    "day": 31
+  },
+  "case_number": "平成5(行ツ)158",
+  "case_name": "当選無効等",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第171号175頁",
+  "original_court_name": "福岡高等裁判所\n        　那覇支部",
+  "original_case_number": "平成4(行ケ)1",
+  "original_date": {
+    "era": "Heisei",
+    "year": 5,
+    "month": 7,
+    "day": 15
+  },
+  "gist": "公職の候補者を推薦又は支持する政党名を記入した投票の効力",
+  "case_gist": "公職の候補者の氏名のほか、当該候補者を推薦又は支持する政党名を記入した投票は、公職選挙法六八条一項五号ただし書にいう身分のたぐいを記入したものとして、有効である。",
+  "ref_law": "公職選挙法68条1項5号",
+  "lawsuit_id": "62734",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62734",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/734/062734_hanrei.pdf"
+}

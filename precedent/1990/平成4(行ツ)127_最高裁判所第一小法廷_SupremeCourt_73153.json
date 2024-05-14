@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 5,
+    "month": 2,
+    "day": 18
+  },
+  "case_number": "平成4(行ツ)127",
+  "case_name": "所得税更正処分等取消",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第167号157頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成3(行コ)33",
+  "original_date": {
+    "era": "Heisei",
+    "year": 4,
+    "month": 3,
+    "day": 30
+  },
+  "gist": "所得税法七八条一項、二項一号と憲法一四条一項、八四条",
+  "case_gist": "個人の国又は地方公共団体に対する寄付金に関する所得控除について限度額を設けている所得税法七八条一項、二項一号の規定は、法人税法三七条三項一号が法人に関する同様の寄付金についてその全額の損金算入を認めているからといって、憲法一四条一項、八四条に違反するものではない。",
+  "ref_law": "憲法14条1項，憲法84条，所得税法78条1項，所得税法78条2項1号，法人税法37条3項1号",
+  "lawsuit_id": "73153",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=73153",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/153/073153_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 10,
+    "month": 3,
+    "day": 10
+  },
+  "case_number": "平成6(オ)1998",
+  "case_name": "占有回収",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集民　第187号269頁",
+  "original_court_name": "高松高等裁判所",
+  "original_case_number": "平成6(ネ)38",
+  "original_date": {
+    "era": "Heisei",
+    "year": 6,
+    "month": 8,
+    "day": 8
+  },
+  "gist": "宗教法人の代表者（住職）として寺院建物の所持を開始した後に僧籍はく奪の処分を受けた者が建物の所持を奪った右法人に対して占有回収の訴えによりその返還を求めることができるとされた事例",
+  "case_gist": "甲が、宗教法人乙の代表者（住職）として寺院建物の所持を開始した後に乙を包括する宗教団体から僧籍はく奪の処分である擯斥処分を受け、乙から右建物の明渡しを求める訴訟を提起されたが、右処分の効力を争うとともにこれに応訴し、右建物の管理を続けていたなど判示の事実関係の下においては、甲が個人のためにも右建物を所持していたものと認めるべき特別の事情があるということができ、甲は、右建物の所持を奪ってこれを占有している乙に対して占有回収の訴えによりその返還を求めることができる。",
+  "ref_law": "民法180条，民法181条，民法200条，宗教法人法18条",
+  "lawsuit_id": "63044",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63044",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/044/063044_hanrei.pdf"
+}

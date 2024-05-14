@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 5,
+    "month": 9,
+    "day": 9
+  },
+  "case_number": "平成3(オ)545",
+  "case_name": "株主総会決議取消",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集民　第169号577頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "平成2(ネ)69",
+  "original_date": {
+    "era": "Heisei",
+    "year": 2,
+    "month": 11,
+    "day": 30
+  },
+  "gist": "招集手続に違法がある株主総会の決議の取消請求を商法二五一条の規定により棄却することができないとされた事例",
+  "case_gist": "福島県南会津郡ａ町を本店の所在地とする株式会社が、定款に別段の定めがないにもかかわらず、その株主総会を東京都新宿区に招集した手続の違法がある場合には、右株主総会における決議が発行済株式の約六四パーセントの株式を有する出席株主全員の賛成によって成立したものであり、過去一〇年以上にわたって東京都内で株主総会が開催され、そのことについて株主から異議が串たことがなかったとしても、当該決議の取消請求は、商法二五一条の規定によりこれを棄却することはできない。",
+  "ref_law": "商法233条，商法247条，商法251条",
+  "lawsuit_id": "63025",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63025",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/025/063025_hanrei.pdf"
+}

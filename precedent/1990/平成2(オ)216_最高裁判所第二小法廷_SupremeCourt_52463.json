@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 3,
+    "month": 3,
+    "day": 22
+  },
+  "case_number": "平成2(オ)216",
+  "case_name": "家屋明渡等",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第45巻3号293頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成1(ネ)148",
+  "original_date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 9,
+    "day": 29
+  },
+  "gist": "建物の賃貸人が解約申入後に提供又は増額を申し出た立退料等の金員を参酌して当該解約申入れの正当事由を判断することの可否",
+  "case_gist": "建物の賃貸人が解約申入後に立退料等の金員の提供を申し出、又は解約申入時に申し出ていた右金員の増額を申し出た場合においても、右の提供又は増額に係る金貝を参酌して当該解約申入れの正当事由を判断することができる。",
+  "ref_law": "借家法1条ノ2",
+  "lawsuit_id": "52463",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52463",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/463/052463_hanrei.pdf"
+}

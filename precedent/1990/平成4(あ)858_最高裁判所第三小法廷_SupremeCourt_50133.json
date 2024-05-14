@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 5,
+    "month": 11,
+    "day": 9
+  },
+  "case_number": "平成4(あ)858",
+  "case_name": "麻薬取締法違反、関税法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第47巻9号111頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 4,
+    "month": 8,
+    "day": 19
+  },
+  "gist": "外国でジアセチルモルヒネ等の麻薬を売却して財産上の利益を得ることを目的とする場合と麻薬取締法（平成二年法律第三三号による改正前のもの）六四条二項の「営利の目的」",
+  "case_gist": "平成二年法律第三三号による改正前の麻薬取締法六四条二項の「営利の目的」には、外国でジアセチルモルヒネ等の麻薬を売却して財産上の利益を得ることを目的とする場合も含まれる。",
+  "ref_law": "麻薬取締法（平成2年法律33号による改正前のもの）64条1項，麻薬取締法（平成2年法律33号による改正前のもの）64条2項",
+  "lawsuit_id": "50133",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50133",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/133/050133_hanrei.pdf"
+}

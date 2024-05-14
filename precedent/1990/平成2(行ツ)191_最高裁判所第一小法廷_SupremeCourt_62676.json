@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 3,
+    "month": 4,
+    "day": 11
+  },
+  "case_number": "平成2(行ツ)191",
+  "case_name": "更正処分等取消",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第162号461頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成2(行コ)51",
+  "original_date": {
+    "era": "Heisei",
+    "year": 2,
+    "month": 8,
+    "day": 8
+  },
+  "gist": "所得税法二三条二項と憲法一四条一項、二九条",
+  "case_gist": "所得税法二三条二項は、憲法一四条一項、二九条に違反しない。",
+  "ref_law": "憲法14条1項，憲法29条，所得税法23条2項",
+  "lawsuit_id": "62676",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62676",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/676/062676_hanrei.pdf"
+}

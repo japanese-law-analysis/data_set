@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 8,
+    "month": 2,
+    "day": 22
+  },
+  "case_number": "平成7(オ)2229",
+  "case_name": "抵当権順位変更登記抹消登記手続",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第178号265頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_case_number": "平成6(ネ)230",
+  "original_date": {
+    "era": "Heisei",
+    "year": 7,
+    "month": 7,
+    "day": 26
+  },
+  "gist": "控訴審が重要な書証の成立について第一審の判断を覆す場合にその署名部分の筆跡鑑定の申出をするかどうかについて釈明権の行使を怠った違法があるとされた事例",
+  "case_gist": "第一審が重要な書証の署名部分について書証を提出した当事者の筆跡鑑定の申出を採用することなくその部分が真正に成立したものと認めていた場合に、右署名の筆跡とその名義人が宣誓書にした署名の筆跡とが明らかに異なると断定することができないなど判示の事情の下においては、控訴審が改めて筆跡鑑定の申出をするかどうかについて釈明権を行使することなく第一審の判断を覆したこと判断を覆したことには、釈明権の行使を怠った違法がある。",
+  "ref_law": "民訴法127条，民訴法301条，民訴法325条，民訴法327条",
+  "lawsuit_id": "73168",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=73168",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/168/073168_hanrei.pdf"
+}

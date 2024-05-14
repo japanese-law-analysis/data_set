@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 2,
+    "month": 4,
+    "day": 27
+  },
+  "case_number": "昭和60(あ)1478",
+  "case_name": "強盗殺人、殺人",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第254号613頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 10,
+    "day": 18
+  },
+  "gist": "死刑事件（長崎市の妻等３名殺害事件）",
+  "lawsuit_id": "58394",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58394",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/394/058394_hanrei.pdf"
+}

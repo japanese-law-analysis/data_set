@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 9,
+    "month": 7,
+    "day": 17
+  },
+  "case_number": "平成5(オ)342",
+  "case_name": "持分全部移転登記抹消登記手続",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集民　第183号995頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成3(ネ)4056",
+  "original_date": {
+    "era": "Heisei",
+    "year": 4,
+    "month": 10,
+    "day": 28
+  },
+  "gist": "遺留分権利者からの不動産の持分移転登記手続請求訴訟において受遺者が裁判所が定めた価額による価額弁償の意思表示をした場合における判決主文",
+  "case_gist": "減殺請求をした遺留分権利者が遺贈の目的である不動産の持分移転登記手続を求める訴訟において、受遺者が、事実審口頭弁論終結前に、裁判所が定めた価額により民法一〇四一条の規定による価額の弁償をする旨の意思表示をした場合には、裁判所は、右訴訟の事実審口頭弁論終結時を算定の基準時として弁償すべき額を定めた上、受遺者が右の額を支払わなかったことを条件として、遺留分権利者の請求を認容すべきである。",
+  "ref_law": "民法1041条1項，民事執行法173条，民訴法191条1項",
+  "lawsuit_id": "69640",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=69640",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/640/069640_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 10,
+    "month": 3,
+    "day": 26
+  },
+  "case_number": "平成6(オ)1408",
+  "case_name": "不当利得返還",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第52巻2号483頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成5(ネ)3414",
+  "original_date": {
+    "era": "Heisei",
+    "year": 6,
+    "month": 4,
+    "day": 12
+  },
+  "gist": "債権について一般債権者の差押えと抵当権者の物上代位権に基づく差押えが競合した場合における両者の優劣の判断基準",
+  "case_gist": "債権について一般債権者の差押えと抵当権者の物上代位権に基づく差押えが競合した場合には、両者の優劣は、一般債権者の申立てによる差押命令の第三債務者への送達と抵当権設定登記の先後によって決すべきである。",
+  "ref_law": "民法177条，民法304条，民法372条，民事執行法145条",
+  "lawsuit_id": "52793",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52793",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/793/052793_hanrei.pdf"
+}

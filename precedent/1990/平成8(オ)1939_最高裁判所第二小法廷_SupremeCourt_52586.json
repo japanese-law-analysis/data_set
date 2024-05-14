@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 9,
+    "month": 10,
+    "day": 31
+  },
+  "case_number": "平成8(オ)1939",
+  "case_name": "求償金",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第51巻9号4004頁",
+  "original_court_name": "高松高等裁判所",
+  "original_case_number": "平成7(ネ)374",
+  "original_date": {
+    "era": "Heisei",
+    "year": 8,
+    "month": 6,
+    "day": 25
+  },
+  "gist": "金融機関が信用保証協会との間の信用保証取引に関する約定中のいわゆる旧債振替禁止条項に違反した場合における保証債務の消滅の範囲",
+  "case_gist": "金融機関が、信用保証協会の保証に係る中小企業者等に対する貸付金の一部について、信用保証協会との間の信用保証取引に関する約定中のいわゆる旧債振替禁止条項に違反してこれを既存の債権の回収に充てた場合には、残額部分の貸付金では中小企業者等が融資を受けた目的を達成することができないなど、信用保証制度の趣旨・目的に照らして保証債務の全部について免責を認めるのを相当とする特段の事情がある場合を除き、当該違反部分のみについて保証債務の消滅の効果が生ずる。",
+  "ref_law": "民法91条，民法446条，民法459条，信用保証協会法1条，信用保証協会法20条",
+  "lawsuit_id": "52586",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52586",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/586/052586_hanrei.pdf"
+}

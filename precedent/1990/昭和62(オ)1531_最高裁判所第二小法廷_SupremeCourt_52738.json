@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 2,
+    "month": 1,
+    "day": 22
+  },
+  "case_number": "昭和62(オ)1531",
+  "case_name": "債務不存在等確認",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第44巻1号332頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和62(ネ)547",
+  "original_date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 9,
+    "day": 18
+  },
+  "gist": "貸金業の規制等に関する法律四三条一項にいう「債務者が利息として任意に支払つた」及び同条三項にいう「債務者が賠償として任意に支払つた」の意義",
+  "case_gist": "貸金業の規制等に関する法律四三条一項にいう「債務者が利息として任意に支払つた」及び同条三項にいう「債務者が賠償として任意に支払つた」とは、債務者が利息の契約に基づく利息又は賠償額の予定に基づく賠償金の支払に充当されることを認識した上、自己の自由な意思によつて支払つたことをいい、債務者において、その支払つた金銭の額が利息制限法一条一項又は四条一項に定める利息又は賠償額の予定の制限額を超えていることあるいは当該超過部分の契約が無効であることまで認識していることを要しない。",
+  "ref_law": "貸金業の規制等に関する法律43条1項，貸金業の規制等に関する法律43条3項，利息制限法1条1項，利息制限法4条1項",
+  "lawsuit_id": "52738",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52738",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/738/052738_hanrei.pdf"
+}

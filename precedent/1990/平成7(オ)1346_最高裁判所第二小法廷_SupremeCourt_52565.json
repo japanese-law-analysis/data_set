@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 8,
+    "month": 9,
+    "day": 13
+  },
+  "case_number": "平成7(オ)1346",
+  "case_name": "建物賃貸借契約解除",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第50巻8号1374頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成6(ネ)4130",
+  "original_date": {
+    "era": "Heisei",
+    "year": 7,
+    "month": 3,
+    "day": 29
+  },
+  "gist": "一　短期賃貸借解除請求の要件である抵当権者の損害の意義\n二　競売による差押え後に期間が満了して更新された短期賃貸借の解除を命じることの可否",
+  "case_gist": "一　民法三九五条ただし書にいう抵当権者に損害を及ぼすときとは、原則として、解除請求訴訟の事実審口頭弁論終結時において、抵当不動産の競売による売却価額が同条本文の短期賃貸借の存在により下落し、これに伴い抵当権者が被担保債権の弁済として受ける配当等の額が減少するときをいう。\n二　解除請求の対象である短期賃貸借の期間が抵当権の実行としての競売による差押えの効力が生じた後に満了したため、その更新を抵当権者に対抗することができなくなった場合であっても、解除請求訴訟の事実審口頭弁論終結時において右賃貸借が抵当権者に損害を及ぼすものである限りは、裁判所は、右賃貸借の解除を命じるべきである。",
+  "ref_law": "民法395条",
+  "lawsuit_id": "52565",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52565",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/565/052565_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 9,
+    "month": 4,
+    "day": 24
+  },
+  "case_number": "平成5(オ)1951",
+  "case_name": "債務不存在確認",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第51巻4号1991頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成4(ネ)1834",
+  "original_date": {
+    "era": "Heisei",
+    "year": 5,
+    "month": 7,
+    "day": 20
+  },
+  "gist": "生命保険会社がいわゆる契約者貸付制度に基づいて保険契約者の代理人と称する者の申込みにより行った貸付けと民法四七八条の類推適用",
+  "case_gist": "生命保険会社甲が、いわゆる契約者貸付制度に基づいて保険契約者乙の代理人と称する丙の申込みによる貸付けを実行した場合において、丙を乙の代理人と認定するにつき相当の注意義務を尽くしたときは、甲は、民法四七八条の類推適用により、乙に対し、右の貸付けの効力を主張することができる。",
+  "ref_law": "民法91条，民法478条，民法587条，商法673条",
+  "lawsuit_id": "54783",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54783",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/783/054783_hanrei.pdf"
+}

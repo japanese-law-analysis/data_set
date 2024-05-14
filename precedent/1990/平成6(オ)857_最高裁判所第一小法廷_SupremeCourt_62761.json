@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 10,
+    "month": 12,
+    "day": 17
+  },
+  "case_number": "平成6(オ)857",
+  "case_name": "共有物確認等、株主権確認、証券所有権確認",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第190号889頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "平成1(ネ)507",
+  "original_date": {
+    "era": "Heisei",
+    "year": 5,
+    "month": 12,
+    "day": 15
+  },
+  "gist": "不法行為に基づく損害賠償請求訴訟の係属によって不当利得返還請求権の消滅時効が中断するとされた事例",
+  "case_gist": "金員の着服を理由とする不法行為に基づく損害賠償請求訴訟において、右着服金員相当額の不当利得返還請求がその時効期間経過後に追加された場合、両請求が、基本的な請求原因事実を同じくする請求であり、着服金相当額の返還を請求する点において経済的に同一の給付を目的とする関係にあるなど判示の事情の下においては、不法行為に基づく損害賠償請求訴訟の係属中は、不当利得返還請求権につき催告が継続し、不当利得返還請求の追加により、その消滅時効は、確定的に中断されたものというべきである。",
+  "ref_law": "民法147条1号，民法153条，民訴法147条",
+  "lawsuit_id": "62761",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62761",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/761/062761_hanrei.pdf"
+}

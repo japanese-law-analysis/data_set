@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 7,
+    "month": 11,
+    "day": 10
+  },
+  "case_number": "平成4(オ)438",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第49巻9号2918頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成3(ネ)1261",
+  "original_date": {
+    "era": "Heisei",
+    "year": 3,
+    "month": 11,
+    "day": 29
+  },
+  "gist": "自家用自動車保険普通保険約款の第一章賠償責任条項八条三号の免責条項にいう「配偶者」と内縁の配偶者",
+  "case_gist": "被保険者が配偶者に対して負担する損害賠償責任について保険会社の保険金支払義務の免責を定める自家用自動車保険普通保険約款の第一章賠償責任条項八条三号にいう「配偶者」には、内縁の配偶者も含まれる。",
+  "ref_law": "民法91条，商法629条",
+  "lawsuit_id": "57059",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57059",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/059/057059_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 5,
+    "month": 10,
+    "day": 19
+  },
+  "case_number": "平成4(オ)818",
+  "case_name": "遺言無効確認",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第170号77頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "平成2(ネ)452",
+  "original_date": {
+    "era": "Heisei",
+    "year": 4,
+    "month": 1,
+    "day": 31
+  },
+  "gist": "一　カーボン複写の方法によって記載された自筆の遺言と民法九六八条一項にいう「自書」の要件\n二　二人の遺言が一通の証書につづり合わされている場合と民法九七五条",
+  "case_gist": "一　カーボン複写の方法によって記載された自筆の遺言は、民法九六八条一項にいう「自書」の要件に欠けるものではない。\n二　一通の証書に二人の遺言が記載されている場合であっても、その証書が各人の遺言書の用紙をつづり合わせたもので、両者が容易に切り離すことができるときは、右遺言は、民法九七五条によって禁止された共同遺言に当たらない。",
+  "ref_law": "民法968条1項，民法975条",
+  "lawsuit_id": "73150",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=73150",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/150/073150_hanrei.pdf"
+}

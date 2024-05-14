@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 4,
+    "month": 4,
+    "day": 28
+  },
+  "case_number": "平成2(オ)1228",
+  "case_name": "所有権移転登記手続",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第164号395頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成1(ネ)3247",
+  "original_date": {
+    "era": "Heisei",
+    "year": 2,
+    "month": 5,
+    "day": 29
+  },
+  "gist": "控訴の追完が認められた事例",
+  "case_gist": "原告が、訴えの目的である移転登記義務の履行について被告と継続的に和解の交渉をし、原告側の譲歩を内容とする和解成立も予想できる状況にありながら、被告から海外渡航により不在である旨告げられた期間中に訴えを提起し、従前の経緯を一切伏せたまま公示送達の許可を受けた上、勝訴判決を得た場合において、被告も右訴えが提起されることは予測し得ず、被告が住民登録の変更をしなかったのも原告の粗暴な言動を恐れたことによるなど判示の事情の下では、被告の控訴の追完は許される。",
+  "ref_law": "民訴法159条1項，民訴法178条，民訴法366条",
+  "lawsuit_id": "62652",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62652",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/652/062652_hanrei.pdf"
+}

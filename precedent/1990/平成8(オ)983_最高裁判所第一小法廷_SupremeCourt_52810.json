@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 10,
+    "month": 3,
+    "day": 26
+  },
+  "case_number": "平成8(オ)983",
+  "case_name": "不当利得",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第52巻2号513頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成7(ネ)1428",
+  "original_date": {
+    "era": "Heisei",
+    "year": 8,
+    "month": 1,
+    "day": 31
+  },
+  "gist": "配当期日に配当異議の申出をしなかった一般債権者が配当を受けた他の債権者に対して不当利得返還請求をすることの可否",
+  "case_gist": "配当期日において配当異議の申出をしなかった一般債権者は、配当を受けた他の債権者に対して、その者が配当を受けたことによって自己が配当を受けることができなかった額に相当する金員について不当利得返還請求をすることができない。",
+  "ref_law": "民法703条，民事執行法84条1項，民事執行法85条，民事執行法89条",
+  "lawsuit_id": "52810",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52810",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/810/052810_hanrei.pdf"
+}

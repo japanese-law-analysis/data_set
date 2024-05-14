@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 5,
+    "month": 7,
+    "day": 19
+  },
+  "case_number": "平成5(し)64",
+  "case_name": "勾留理由開示に対する準抗告棄却決定に対する特別抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第47巻7号3頁",
+  "original_court_name": "横浜地方裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 5,
+    "month": 6,
+    "day": 16
+  },
+  "gist": "勾留理由開示の手続においてされる裁判官の行為に対する準抗告申立ての適否",
+  "case_gist": "勾留理由開示の手続においてされる裁判官の行為は、刑訴法四二九条一項二号にいう勾留に関する裁判には当たらず、これに対する準抗告の申立ては、不適法である",
+  "ref_law": "刑訴法83条，刑訴法84条，刑訴法429条2号",
+  "lawsuit_id": "50149",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50149",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/149/050149_hanrei.pdf"
+}

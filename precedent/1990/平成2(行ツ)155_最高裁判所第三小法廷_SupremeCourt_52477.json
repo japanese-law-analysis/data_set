@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 4,
+    "month": 2,
+    "day": 18
+  },
+  "case_number": "平成2(行ツ)155",
+  "case_name": "所得税更正処分取消",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第46巻2号77頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "平成1(行コ)18",
+  "original_date": {
+    "era": "Heisei",
+    "year": 2,
+    "month": 6,
+    "day": 28
+  },
+  "gist": "一　給与等の受給者が支払者により誤って源泉徴収をされた金額を税額から控除して確定申告をすることの可否\n\n二　課税処分の取消訴訟における実体上の審判の対象",
+  "case_gist": "一　給与等の受給者が、支払者により誤って所得税の源泉徴収をされた場合において、当該年分の所得税の額から右誤徴収額を控除して確定申告をすることはできない。\n\n二　課税処分の取消訴訟における実体上の審判の対象は、当該課税処分によって確定された税額が租税法規によって客観的に定まる税額を総額において上回るか否かである。",
+  "ref_law": "国税通則法56条，所得税法120条1項，所得税法128条，所得税法138条，行政事件訴訟法7条，民訴法第2編第1章",
+  "lawsuit_id": "52477",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52477",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/477/052477_hanrei.pdf"
+}

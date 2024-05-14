@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 10,
+    "month": 3,
+    "day": 27
+  },
+  "case_number": "平成5(オ)1492",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第52巻2号527頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成3(ネ)1192",
+  "original_date": {
+    "era": "Heisei",
+    "year": 5,
+    "month": 2,
+    "day": 24
+  },
+  "gist": "定期傭船されている船舶の積荷につき船長により船荷証券が発行された場合において船荷証券所持人に対して運送契約上の債務を負担する運送人",
+  "case_gist": "いわゆるニューヨーク・プロデュース書式等に基づく定期傭船契約によって傭船されている船舶の積荷につき船長により発行された船荷証券については、船舶所有者が船荷証券に表章された運送契約上の請求権についての債務者となり得るのであって、船荷証券を所持する第三者に対して運送契約上の債務を負担する運送人がだれであるかは、船荷証券の記載に基づいてこれを確定することを要する。",
+  "ref_law": "商法704条1項，商法769条，国際海上物品運送法2条2項，国際海上物品運送法7条1項",
+  "lawsuit_id": "52786",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52786",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/786/052786_hanrei.pdf"
+}

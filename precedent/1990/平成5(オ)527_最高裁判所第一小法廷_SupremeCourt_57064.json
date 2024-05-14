@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 8,
+    "month": 4,
+    "day": 25
+  },
+  "case_number": "平成5(オ)527",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第50巻5号1221頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成4(ネ)1289",
+  "original_date": {
+    "era": "Heisei",
+    "year": 4,
+    "month": 11,
+    "day": 26
+  },
+  "gist": "後遺障害による逸失利益の算定に当たり事故後の別の原因による被害者の死亡を考慮することの許否",
+  "case_gist": "交通事故の被害者が後遺障害により労働能力の一部を喪失した場合における逸失利益の算定に当たっては、事故後に別の原因により被害者が死亡したとしても、事故の時点で、死亡の原因となる具体的事由が存在し、近い将来における死亡が客観的に予測されていたなどの特段の事情がない限り、死亡の事実は就労可能期間の認定上考慮すべきものではない。",
+  "ref_law": "民法416条，民法709条",
+  "lawsuit_id": "57064",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57064",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/064/057064_hanrei.pdf"
+}

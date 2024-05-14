@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 7,
+    "month": 6,
+    "day": 8
+  },
+  "case_number": "平成6(行ツ)162",
+  "case_name": "選挙無効",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第49巻6号1443頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成5(行ケ)118",
+  "original_date": {
+    "era": "Heisei",
+    "year": 6,
+    "month": 6,
+    "day": 3
+  },
+  "gist": "公職選挙法（平成六年法律第二号による改正前のもの）一三条一項、別表第一、附則七項ないし一一項の衆議院議員の議員定数配分規定の合憲性",
+  "case_gist": "公職選挙法（平成六年法律第二号による改正前のもの）一三条一項、別表第一、附則七項ないし一一項の衆議院議員の議員定数配分規定は、平成五年七月一八日施行の衆議院議員選挙当時、憲法一四条一項に違反していたものということはできない。",
+  "ref_law": "憲法14条1項，公職選挙法（平成6年法律第2号による改正前のもの）13条1項，公職選挙法（平成6年法律第2号による改正前のもの）別表第1，公職選挙法（平成6年法律第2号による改正前のもの）附則7項ないし11項",
+  "lawsuit_id": "57069",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57069",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/069/057069_hanrei.pdf"
+}

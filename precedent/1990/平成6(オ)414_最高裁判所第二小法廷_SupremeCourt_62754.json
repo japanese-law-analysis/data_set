@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 6,
+    "month": 12,
+    "day": 16
+  },
+  "case_number": "平成6(オ)414",
+  "case_name": "通行地役権確認等",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第173号517頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成4(ネ)1328",
+  "original_date": {
+    "era": "Heisei",
+    "year": 5,
+    "month": 10,
+    "day": 22
+  },
+  "gist": "要役地の所有者によって通路が開設されたとして通行地役権の時効取得が認められた事例",
+  "case_gist": "公道に接する土地を所有する甲が、乙に対して右公道の拡幅のためにその所有地の一部を提供するよう働きかける一方、自らも所有地の一部を提供する等の負担をし、甲のこれらの行為の結果として、右公道全体が拡幅され、乙の右所有地も拡幅部分の一部として通行の用に供されるようになったなど判示の事実関係の下においては、乙の右所有地については、要役地の所有者である甲によって通路が開設されたものとして、通行地役権の時効取得が認められる。",
+  "ref_law": "民法283条",
+  "lawsuit_id": "62754",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62754",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/754/062754_hanrei.pdf"
+}

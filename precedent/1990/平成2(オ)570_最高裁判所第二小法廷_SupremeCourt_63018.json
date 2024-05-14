@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 5,
+    "month": 9,
+    "day": 10
+  },
+  "case_number": "平成2(オ)570",
+  "case_name": "建物明渡、地位確認",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第169号629頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成1(ネ)1369",
+  "original_date": {
+    "era": "Heisei",
+    "year": 2,
+    "month": 1,
+    "day": 24
+  },
+  "gist": "宗教法人の所有する建物の明渡しを求める訴えが法律上の争訟に当たらないとされた事例",
+  "case_gist": "宗教法人がその所有する建物の明渡しを求める訴訟において、訴訟が提起されるに至った紛争の経緯及び当事者双方の主張並びに訴訟の経過に照らして、当該訴訟の争点を判断するには、宗教上の教義ないし信仰の内容について一定の評価をすることを避けることができない場合には、右の明渡しを求める訴えは、裁判所法三条にいう「法律上の争訟」に当たらない。",
+  "ref_law": "裁判所法3条",
+  "lawsuit_id": "63018",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63018",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/018/063018_hanrei.pdf"
+}

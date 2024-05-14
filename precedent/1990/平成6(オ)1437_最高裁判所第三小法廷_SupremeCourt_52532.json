@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 6,
+    "month": 11,
+    "day": 8
+  },
+  "case_number": "平成6(オ)1437",
+  "case_name": "人身保護",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第48巻7号1337頁",
+  "original_court_name": "大阪地方裁判所\n        　堺支部",
+  "original_case_number": "平成6(人)2",
+  "original_date": {
+    "era": "Heisei",
+    "year": 6,
+    "month": 6,
+    "day": 10
+  },
+  "gist": "子の監護権を有する者が監護権を有しない者に対し人身保護法に基づき幼児の引渡しを請求する場合における拘束の顕著な違法性",
+  "case_gist": "子の監護権を有する者が監護権を有しない者に対し、人身保護法に基づき幼児の引渡しを請求する場合には、幼児を請求者の監護の下に置くことが拘束者の監護の下に置くことに比べて子の幸福の観点から著しく不当なものでない限り、拘束の違法性が顕著であるというべきである。",
+  "ref_law": "人身保護法2条1項，人身保護規則4条",
+  "lawsuit_id": "52532",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52532",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/532/052532_hanrei.pdf"
+}

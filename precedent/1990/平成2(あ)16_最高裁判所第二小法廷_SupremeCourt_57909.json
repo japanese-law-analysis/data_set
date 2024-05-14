@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 3,
+    "month": 7,
+    "day": 19
+  },
+  "case_number": "平成2(あ)16",
+  "case_name": "所得税法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第258号33頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 11,
+    "day": 13
+  },
+  "gist": "所得税法９条１項１１号イ（昭和６３年法律第１０９号による改正前のもの）の合憲性",
+  "ref_law": "憲法31条，憲法30条，憲法84条，所得税法9条1項11号イ",
+  "lawsuit_id": "57909",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57909",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/909/057909_hanrei.pdf"
+}

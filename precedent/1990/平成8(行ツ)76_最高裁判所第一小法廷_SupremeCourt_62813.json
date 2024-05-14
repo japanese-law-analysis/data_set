@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 11,
+    "month": 11,
+    "day": 25
+  },
+  "case_number": "平成8(行ツ)76",
+  "case_name": "都市計画事業認可処分等取消請求事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第195号387頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成6(行コ)76",
+  "original_date": {
+    "era": "Heisei",
+    "year": 7,
+    "month": 9,
+    "day": 28
+  },
+  "gist": "都市計画事業認可処分等の取消訴訟と事業地周辺地域の居住者等の原告適格",
+  "case_gist": "都市計画事業の事業地の周辺地域に居住し又は通勤、通学しているが事業地内の不動産につき権利を有しない者は、都市計画法五九条二項に基づく同事業の認可処分又は同条三項に基づく同事業の承認処分の取消しを求める原告適格を有しない。",
+  "ref_law": "行政事件訴訟法9条，都市計画法59条2項，都市計画法59条3項，都市計画法61条",
+  "lawsuit_id": "62813",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62813",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/813/062813_hanrei.pdf"
+}

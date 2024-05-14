@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 6,
+    "month": 4,
+    "day": 22
+  },
+  "case_number": "平成3(オ)1943",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第48巻3号944頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成2(ネ)4022",
+  "original_date": {
+    "era": "Heisei",
+    "year": 3,
+    "month": 8,
+    "day": 26
+  },
+  "gist": "一　いわゆるスカウト行為と職業安定法五条一項にいう職業紹介\n二　有料職業紹介において労働大臣が定める手数料の最高額を超える手数料を定めた契約の効力",
+  "case_gist": "一　求人者に紹介するために求職者を探索し、求人者に就職するよう求職者に勧奨するいわゆるスカウト行為は、職業安定法五条一項にいう職業紹介におけるあっ旋に当たる。\n二　有料職業紹介における手数料契約のうち労働大臣が中央職業安定審議会に諮問の上定める手数料の最高額を超える部分は無効である。",
+  "ref_law": "職業安定法5条1項，職業安定法32条6項，職業安定法施行規則24条14項，職業安定法施行規則別表第3，民法90条，民法91条",
+  "lawsuit_id": "52490",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52490",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/490/052490_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 8,
+    "month": 3,
+    "day": 8
+  },
+  "case_number": "平成4(オ)77",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第50巻3号408頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成2(ネ)1757",
+  "original_date": {
+    "era": "Heisei",
+    "year": 3,
+    "month": 9,
+    "day": 27
+  },
+  "gist": "司法警察員による被疑者の留置についての国家賠償法一条一項所定の違法性の判断基準",
+  "case_gist": "司法警察員による被疑者の留置は、司法警察員が、留置時において、捜査により収集した証拠資料を総合勘案して刑訴法二〇三条一項所定の留置の必要性を判断する上において、合理的根拠が客観的に欠如していることが明らかであるにもかかわらず、あえて留置したと認め得るような事情がある場合に限り、国家賠償法一条一項の適用上違法の評価を受ける。",
+  "ref_law": "国家賠償法1条1項，刑訴法203条1項",
+  "lawsuit_id": "55870",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55870",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/870/055870_hanrei.pdf"
+}

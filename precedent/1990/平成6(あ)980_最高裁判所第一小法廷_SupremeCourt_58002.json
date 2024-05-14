@@ -1,0 +1,22 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 6,
+    "month": 10,
+    "day": 19
+  },
+  "case_number": "平成6(あ)980",
+  "case_name": "道路交通法違反、公然わいせつ、公文書毀棄",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第264号195頁",
+  "original_court_name": "神戸地方裁判所",
+  "gist": "上訴提起期間経過後の跳躍上告申立ての適否",
+  "case_gist": "上訴提起期間経過後の跳躍上告申立ては、控訴提起の有無にかかわらず不適法である。",
+  "ref_law": "刑訴法385条1項，刑訴法414条，刑訴規則254条1項，刑訴規則255条",
+  "lawsuit_id": "58002",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58002",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/002/058002_hanrei.pdf"
+}

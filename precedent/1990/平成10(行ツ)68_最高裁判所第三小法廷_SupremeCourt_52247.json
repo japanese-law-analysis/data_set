@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 10,
+    "month": 12,
+    "day": 18
+  },
+  "case_number": "平成10(行ツ)68",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第52巻9号2039頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成9(行コ)67",
+  "original_date": {
+    "era": "Heisei",
+    "year": 9,
+    "month": 11,
+    "day": 13
+  },
+  "gist": "一　適法な住民監査請求が不適法であるとして却下された場合における同一の監査対象についての再度の住民監査請求の許否\n二　適法な住民監査請求が不適法であるとして却下された場合における住民訴訟の出訴期間",
+  "case_gist": "一　監査委員が適法な住民監査請求を不適法であるとして却下した場合、当該請求をした住民は、直ちに住民訴訟を提起することができるのみならず、同一の財務会計上の行為又は怠る事実を対象として再度の住民監査請求をすることも許される。\n二　監査委員が適法な住民監査請求を不適法であるとして却下した場合、住民訴訟の出訴期間は、地方自治法二四二条の二第二項一号に準じ、却下の通知があった日から三〇日以内と解するのが相当である。",
+  "ref_law": "地方自治法242条1項，地方自治法242条3項，地方自治法242条の2第1項，地方自治法242条の2第2項",
+  "lawsuit_id": "52247",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52247",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/247/052247_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 10,
+    "month": 11,
+    "day": 12
+  },
+  "case_number": "平成6(行ツ)239",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第52巻8号1705頁",
+  "original_court_name": "広島高等裁判所",
+  "original_case_number": "平成3(行コ)13",
+  "original_date": {
+    "era": "Heisei",
+    "year": 6,
+    "month": 8,
+    "day": 5
+  },
+  "gist": "市がその施行する土地区画整理事業において取得した保留地を随意契約の方法により売却する行為と住民訴訟の対象となる「財産の処分」及び「契約の締結」",
+  "case_gist": "市がその施行する土地区画整理事業において土地区画整理法九六条二項、一〇四条一一項に基づいて取得した保留地を随意契約の方法により売却する行為は、住民訴訟の対象となる「財産の処分」及び「契約の締結」に当たる。",
+  "ref_law": "地方自治法237条1項，地方自治法238条1項，地方自治法242条1項，地方自治法242条の2第1項，土地区画整理法96条2項，土地区画整理法104条11項，土地区画整理法108条1項，土地区画整理法118条1項",
+  "lawsuit_id": "52556",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52556",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/556/052556_hanrei.pdf"
+}

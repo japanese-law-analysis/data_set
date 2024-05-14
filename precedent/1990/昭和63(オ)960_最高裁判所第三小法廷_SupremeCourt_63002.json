@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 2,
+    "month": 3,
+    "day": 6
+  },
+  "case_number": "昭和63(オ)960",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第159号213頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和61(ネ)134",
+  "original_date": {
+    "era": "Showa",
+    "year": 63,
+    "month": 3,
+    "day": 31
+  },
+  "gist": "過失相殺割合の判断が裁量権の範囲を逸脱して違法であるとされた事例",
+  "case_gist": "医師の資格のない者が、一定期間一切又は特定の飲食物を摂取しないことを基本方法とする断食療法によつて慢性病等の治療をしその健康の維持回復を目的とするいわゆる断食道場を開業し、医師の指示によりインシュリン注射等を常用する糖尿病患者を入院させ死亡させるに至つた場合において、断食療法の可否につき事前に医師の指示を受けるよう指導せず、漫然と右療法を施行したなど判示の事情の下においては、過失割合を道場開業者三、糖尿病患者七とした原審の判断は、道場開業者の過失割合を著しく低く定めたものであつて、裁量権の範囲を逸脱した違法がある。",
+  "ref_law": "民法722条2項",
+  "lawsuit_id": "63002",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63002",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/002/063002_hanrei.pdf"
+}

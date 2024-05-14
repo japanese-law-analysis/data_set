@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 5,
+    "month": 9,
+    "day": 9
+  },
+  "case_number": "平成5(オ)561",
+  "case_name": "損害賠償反訴、同附帯",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第169号603頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成4(ネ)876",
+  "original_date": {
+    "era": "Heisei",
+    "year": 4,
+    "month": 12,
+    "day": 21
+  },
+  "gist": "交通事故と被害者の自殺との間に相当因果関係があるとされた事例",
+  "case_gist": "交通事故により受傷した被害者が自殺した場合において、その傷害が身体に重大な器質的障害を伴う後遺症を残すようなものでなかったとしても、右事故の態様が加害者の一方的過失によるものであって被害者に大きな精神的衝撃を与え、その衝撃が長い年月にわたって残るようなものであったこと、その後の補償交渉が円滑に進行しなかったことなどが原因となって、被害者が、災害神経症状態に陥り、その状態から抜け出せないままうつ病になり、その改善をみないまま自殺に至ったなど判示の事実関係の下では、右事故と被害者の自殺との間に相当因果関係がある。",
+  "ref_law": "民法416条，民法709条",
+  "lawsuit_id": "63037",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63037",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/037/063037_hanrei.pdf"
+}

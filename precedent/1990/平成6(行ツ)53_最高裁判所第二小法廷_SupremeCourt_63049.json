@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 10,
+    "month": 7,
+    "day": 3
+  },
+  "case_number": "平成6(行ツ)53",
+  "case_name": "所有権移転登記抹消登記手続等",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第189号1頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_case_number": "平成4(行コ)1",
+  "original_date": {
+    "era": "Heisei",
+    "year": 5,
+    "month": 11,
+    "day": 29
+  },
+  "gist": "ある財務会計上の行為又は怠る事実について住民監査請求において求めた具体的措置の相手方とは異なる者を相手方として右措置の内容と異なる請求をする住民訴訟の許否",
+  "case_gist": "住民訴訟においては、その対象とする財務会計上の行為又は怠る事実について住民監査請求を経ていれば、右監査請求において求めた具体的措置の相手方とは異なる者を相手方として右措置の内容と異なる請求をすることも許される。",
+  "ref_law": "地方自治法242条1項，地方自治法242条の2第1項4号",
+  "lawsuit_id": "63049",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63049",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/049/063049_hanrei.pdf"
+}

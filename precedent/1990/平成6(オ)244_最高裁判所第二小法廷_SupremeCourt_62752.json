@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 7,
+    "month": 3,
+    "day": 10
+  },
+  "case_number": "平成6(オ)244",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第174号785頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_case_number": "平成5(ネ)77",
+  "original_date": {
+    "era": "Heisei",
+    "year": 5,
+    "month": 10,
+    "day": 28
+  },
+  "gist": "スキー場で発生した滑降者同士の接触事故につき上方から滑降してきた者に過失があるとされた事例",
+  "case_gist": "スキー場で上方から滑降する者が下方を滑降する者よりも速い速度で滑降し、両者が接触する事故が発生した場合において、事故現場が急斜面ではなく、下方を見通すことができたなど判示の事実関係の下においては、上方から滑降する者に、前方を注視し、下方を滑降している者の動静に注意して、その者との接触ないし衝突を回避することができるように速度及び進路を選択して滑走すべき注意義務を怠った過失がある。",
+  "ref_law": "民法709条",
+  "lawsuit_id": "62752",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62752",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/752/062752_hanrei.pdf"
+}

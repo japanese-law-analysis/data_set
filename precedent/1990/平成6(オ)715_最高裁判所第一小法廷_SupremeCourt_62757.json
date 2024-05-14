@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 11,
+    "month": 3,
+    "day": 25
+  },
+  "case_number": "平成6(オ)715",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第192号499頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "平成5(ネ)286",
+  "original_date": {
+    "era": "Heisei",
+    "year": 5,
+    "month": 12,
+    "day": 24
+  },
+  "gist": "宗教団体等を批判する記事が週刊誌等に掲載された場合において出版社等は信者個々人に対して心の静穏を乱したことを理由とする不法行為責任を負わないとされた事例",
+  "case_gist": "宗教団体及び信仰の対象である主宰者を批判する記事が週刊誌等に掲載された場合において、信者が被ったとされる不利益の内容は、記事を自分で読むなどした結果、内心の静穏な感情を害され、不快感、不安感等を抱いたというにとどまり、また、出版社等のした行為は、本来自由な言論活動に属するものであって、信者個々人の内心の静穏な感情を害する意図、目的でされたものともいえないなど判示の事情の下においては、出版社等は、信者個々人に対し、心の静穏を乱したことを理由とする不法行為責任を負わない。",
+  "ref_law": "民法709条，民法710条",
+  "lawsuit_id": "62757",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62757",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/757/062757_hanrei.pdf"
+}

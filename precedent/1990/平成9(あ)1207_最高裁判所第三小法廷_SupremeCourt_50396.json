@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 11,
+    "month": 9,
+    "day": 28
+  },
+  "case_number": "平成9(あ)1207",
+  "case_name": "大麻取締法違反、関税法違反被告事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第53巻7号621頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 9,
+    "month": 10,
+    "day": 27
+  },
+  "gist": "関税法一〇九条の禁制品輸入罪につき実行の着手があったとされた事例",
+  "case_gist": "大麻の密輸入を企てた被告人が、大麻を預託手荷物と携帯手荷物の中にそれぞれ隠匿して、航空機で新東京国際空港に到着した後、入国審査官により本邦からの退去を命じられ、即日本邦を出発する航空機に搭乗することとしたが、それまでに、預託手荷物は空港作業員により旅具検査場内に搬入させ、携帯手荷物は自ら携帯して上陸審査場に赴いて上陸審査を受けるまでに至っていたなど判示の事実関係の下においては、大麻全部につき関税法一〇九条の禁制品輸入罪の実行の着手が既にあったものと認められる。",
+  "ref_law": "関税法109条",
+  "lawsuit_id": "50396",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50396",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/396/050396_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 4,
+    "month": 10,
+    "day": 29
+  },
+  "case_number": "平成1(オ)605",
+  "case_name": "株主総会決議取消",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第46巻7号2580頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和63(ネ)330",
+  "original_date": {
+    "era": "Showa",
+    "year": 63,
+    "month": 12,
+    "day": 14
+  },
+  "gist": "役員退職慰労金贈呈の株主総会決議取消しの訴えの係属中に当該決議と同一の内容の決議がされた場合と訴えの利益",
+  "case_gist": "役員退職慰労金贈呈の株主総会決議取消しの訴えの係属中、右決議と同一の内容を持ち、右決議の取消判決が確定した場合にはさかのぼって効力を生ずるものとされている決議が有効に成立し、それが確定したときは、特別の事情がない限り、右決議取消しの訴えの利益は、失われる。",
+  "ref_law": "商法247条，民訴法第2編第1章",
+  "lawsuit_id": "53500",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53500",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/500/053500_hanrei.pdf"
+}

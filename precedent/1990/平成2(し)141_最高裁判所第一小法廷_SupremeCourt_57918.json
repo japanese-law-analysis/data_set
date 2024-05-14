@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 3,
+    "month": 5,
+    "day": 8
+  },
+  "case_number": "平成2(し)141",
+  "case_name": "保護処分取消申立事件についてした被告棄却決定に対する再抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第275号261頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 2,
+    "month": 11,
+    "day": 20
+  },
+  "gist": "保護処分の執行終了後の少年法２７条の２第１項による保護処分取消しの可否（消極）",
+  "ref_law": "少年法27条の2第1項，憲法13条，憲法14条，憲法31条，憲法32条",
+  "lawsuit_id": "57918",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57918",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/918/057918_hanrei.pdf"
+}

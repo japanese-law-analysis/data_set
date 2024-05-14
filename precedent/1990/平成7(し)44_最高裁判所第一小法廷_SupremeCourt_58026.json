@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 7,
+    "month": 4,
+    "day": 7
+  },
+  "case_number": "平成7(し)44",
+  "case_name": "移監について「職権を発動しない」との措置に対する準抗告棄却決定に対する特別抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第265号485頁",
+  "original_court_name": "京都地方裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 7,
+    "month": 3,
+    "day": 24
+  },
+  "gist": "地方裁判所裁判官がした移監について「職権を発動しない」との措置に対する準抗告申立てが不適法とされた事例",
+  "lawsuit_id": "58026",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58026",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/026/058026_hanrei.pdf"
+}

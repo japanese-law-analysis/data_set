@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 4,
+    "month": 4,
+    "day": 10
+  },
+  "case_number": "平成1(オ)433",
+  "case_name": "保管金返還",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第164号285頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和62(ネ)1736",
+  "original_date": {
+    "era": "Showa",
+    "year": 63,
+    "month": 12,
+    "day": 21
+  },
+  "gist": "相続人が遺産分割前に遺産である金銭を保管している他の相続人に対して自己の相続分相当の金銭の支払を請求することの可否",
+  "case_gist": "相続人は、遺産の分割までの間は、相続開始時に存した金銭を相続財産として保管している他の相続人に対して、自己の相続分に相当する金銭の支払を求めることはできない。",
+  "ref_law": "民法898条，民法899条，民法907条",
+  "lawsuit_id": "62639",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62639",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/639/062639_hanrei.pdf"
+}

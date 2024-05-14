@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 9,
+    "month": 11,
+    "day": 28
+  },
+  "case_number": "平成7(オ)1937",
+  "case_name": "配当異議",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第51巻10号4172頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成6(ネ)1346",
+  "original_date": {
+    "era": "Heisei",
+    "year": 7,
+    "month": 5,
+    "day": 18
+  },
+  "gist": "破産者所有の不動産に対する競売手続における交付要求に係る配当金を交付すべき相手方",
+  "case_gist": "破産者所有の不動産に対する競売手続において交付要求がされたときは、交付要求に係る請求権に基づき破産宣告前に国税徴収法又は国税徴収の例による差押え又は参加差押えがされている場合を除き、交付要求に係る配当金は、破産管財人に交付すべきである。",
+  "ref_law": "民事執行法84条，民事執行法87条1項，民事執行法188条，破産法47条2号，破産法49条，破産法51条1項，破産法71条1項，破産法95条，国税徴収法82条",
+  "lawsuit_id": "52800",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52800",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/800/052800_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 4,
+    "month": 3,
+    "day": 3
+  },
+  "case_number": "平成2(オ)156",
+  "case_name": "懲戒処分無効確認等",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第164号153頁",
+  "original_court_name": "広島高等裁判所",
+  "original_case_number": "昭和60(ネ)49",
+  "original_date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 10,
+    "day": 23
+  },
+  "gist": "労働者が就業時間外に職場外においてビラを配布したことを理由として懲戒処分をすることができるとされた事例",
+  "case_gist": "電力会社に勤務する労働者が就業時間外に職場外において会社の原子力発電所の設置に反対する趣旨のビラを配布した場合において、そのビラが、原子力発電所の安全性等に関して事実に反するものであり、これを配布することにより、各方面に会社が進めてきた原子力発電所建設推進運動に対する不信感や原子力発電所について誤った恐怖心を抱かせ、会社の業務に重大な支障を生じさせたなど原判示の事実関係があるときは、右労働者は、会社の就業規則に定める懲戒事由の「会社の体面をけがした者」及び「故意又は重過失によって会社に不利益を及ぼした者」に該当し、会社はこれを理由として懲戒処分をすることができる。",
+  "ref_law": "労働基準法89条",
+  "lawsuit_id": "62659",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62659",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/659/062659_hanrei.pdf"
+}

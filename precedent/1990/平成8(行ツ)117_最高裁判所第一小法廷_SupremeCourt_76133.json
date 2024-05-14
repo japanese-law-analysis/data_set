@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 8,
+    "month": 7,
+    "day": 18
+  },
+  "case_number": "平成8(行ツ)117",
+  "case_name": "当選が無効とならないこと等の確認",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第179号739頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "平成7(行ケ)1",
+  "original_date": {
+    "era": "Heisei",
+    "year": 8,
+    "month": 2,
+    "day": 15
+  },
+  "gist": "公職の候補者等であった者の立候補の一部禁止を定めた公職選挙法二五一条の二第一項と憲法一五条、三一条、九三条",
+  "case_gist": "選挙運動の総括主宰者、出納責任者等が選挙犯罪により刑に処せられたときは公職の候補者等であった者が公職選挙法二五一条の五に規定する時から五年間当該選挙に係る選挙区（選挙区がないときは、選挙の行われる区域）において行われる当該公職に係る選挙に立候補することを禁止する旨の同法二五一条の二第一項の規定は、憲法一五条、三一条、九三条に違反しない。",
+  "ref_law": "公職選挙法251条の2，憲法15条，憲法31条，憲法93条",
+  "lawsuit_id": "76133",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=76133",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/133/076133_hanrei.pdf"
+}

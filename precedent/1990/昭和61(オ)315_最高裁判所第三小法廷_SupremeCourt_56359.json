@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 5,
+    "month": 3,
+    "day": 30
+  },
+  "case_number": "昭和61(オ)315",
+  "case_name": "損害賠償請求事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第47巻4号3226頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "昭和59(ネ)454",
+  "original_date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 11,
+    "day": 20
+  },
+  "gist": "幼児が公の営造物を設置管理者の通常予測し得ない異常な方法で使用して生じた事故につき設置管理者が損害賠償責任を負わないとされた事例",
+  "case_gist": "幼児が、テニスの審判台に昇り、その後部から座席部分の背当てを構成している左右の鉄パイプを両手で握つて降りようとしたために転倒した審判台の下敷きになつて死亡した場合において、当該審判台には、本来の用法に従つて使用する限り、転倒の危険がなく、右幼児の行動が当該審判台の設置管理者の通常予測し得ない異常なものであつたなど判示の事実関係の下においては、設置管理者は、右事故につき、国家賠償法二条一項所定の損害賠償責任を負わない。",
+  "ref_law": "国家賠償法2条1項",
+  "lawsuit_id": "56359",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56359",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/359/056359_hanrei.pdf"
+}

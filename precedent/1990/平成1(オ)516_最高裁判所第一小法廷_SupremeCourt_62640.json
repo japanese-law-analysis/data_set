@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 3,
+    "month": 4,
+    "day": 11
+  },
+  "case_number": "平成1(オ)516",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第162号295頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和59(ネ)1502",
+  "original_date": {
+    "era": "Showa",
+    "year": 63,
+    "month": 11,
+    "day": 28
+  },
+  "gist": "元請企業につき下請企業の労働者に対する安全配慮義務が認められた事例",
+  "case_gist": "下請企業の労働者が元請企業の作業場で労務の提供をするに当たり、元請企業の管理する設備工具等を用い、事実上元請企業の指揮監督を受けて稼働し、その作業内容も元請企業の従業員とほとんど同じであったなど原判示の事実関係の下においては、元請企業は、信義則上、右労働者に対し安全配慮義務を負う。",
+  "ref_law": "民法1条2項，民法415条，民法623条，民法632条",
+  "lawsuit_id": "62640",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62640",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/640/062640_hanrei.pdf"
+}

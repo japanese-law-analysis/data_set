@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 8,
+    "month": 1,
+    "day": 26
+  },
+  "case_number": "平成3(オ)1772",
+  "case_name": "遺留分減殺",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第50巻1号132頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成2(ネ)3937",
+  "original_date": {
+    "era": "Heisei",
+    "year": 3,
+    "month": 7,
+    "day": 30
+  },
+  "gist": "遺言者の財産全部の包括遺贈に対して遺留分権利者が減殺請求権を行使した場合に遺留分権利者に帰属する権利の性質",
+  "case_gist": "遺言者の財産全部の包括遺贈に対して遺留分権利者が減殺請求権を行使した場合に遺留分権利者に帰属する権利は、遺産分割の対象となる相続財産としての性質を有しない。",
+  "ref_law": "民法898条，民法907条，民法964条，民法1031条",
+  "lawsuit_id": "55857",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55857",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/857/055857_hanrei.pdf"
+}

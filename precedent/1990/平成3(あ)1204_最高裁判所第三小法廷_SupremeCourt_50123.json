@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 5,
+    "month": 10,
+    "day": 12
+  },
+  "case_number": "平成3(あ)1204",
+  "case_name": "業務上過失傷害",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第47巻8号48頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 3,
+    "month": 11,
+    "day": 7
+  },
+  "gist": "信号待ちのため停止車中同乗車が後部左側ドアから降車しようとする場合における自動車運転者の注意義務",
+  "case_gist": "信号待ちのため停車中、同乗者が後部左側ドアから降車しようとする場合、自動車運転者は、フェンダーミラー等を通じて左後方の安全を確認した上で、開扉を指示するなど適切な措置を採るべき注意義務があり、同乗者に左後方の安全を確認した上でドアを開けることを指示しただけでは、自己の注意義務を尽くしたものとはいえない。",
+  "ref_law": "刑法（平成3年法律31号による改正前のもの）211条前段",
+  "lawsuit_id": "50123",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50123",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/123/050123_hanrei.pdf"
+}

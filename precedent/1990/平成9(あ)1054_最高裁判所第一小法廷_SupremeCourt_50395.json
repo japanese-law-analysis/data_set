@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 11,
+    "month": 12,
+    "day": 9
+  },
+  "case_number": "平成9(あ)1054",
+  "case_name": "不動産侵奪被告事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第53巻9号1117頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 9,
+    "month": 9,
+    "day": 1
+  },
+  "gist": "所有者による現実の支配管理が困難になった土地上に大量の廃棄物を堆積させた行為につき不動産侵奪罪が成立するとされた事例",
+  "case_gist": "所有者による現実の支配管理が困難になった土地について、一定の利用権を有する者が、その利用権限を超えて地上に大量の廃棄物を堆積させ、容易に原状回復をすることができないようにしたときは、所有者の占有を排除し自己の支配下に移したものとして、不動産侵奪罪が成立する。",
+  "ref_law": "刑法235条の2",
+  "lawsuit_id": "50395",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50395",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/395/050395_hanrei.pdf"
+}

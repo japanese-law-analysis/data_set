@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 6,
+    "month": 3,
+    "day": 8
+  },
+  "case_number": "平成2(オ)1455",
+  "case_name": "土地持分移転登記抹消登記、土地建物持分移転登記抹消登記等",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第48巻3号835頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成1(ネ)3379",
+  "original_date": {
+    "era": "Heisei",
+    "year": 2,
+    "month": 6,
+    "day": 28
+  },
+  "gist": "共同相続人の一人が相続の準拠法上の規定を遵守しないで日本にある相続不動産についてした持分の処分と物権変動の準拠法である日本法上の権利移転の効果",
+  "case_gist": "相続の準挺法上、共同相続に係る財産が合有とされ、遺産分割前における相続財産の処分について共同相続人全員の同意を要するものとされている場合に、共同相続人の一人が右の同意を得ないで日本にある相続不動産の持分を第三者に処分したときでも、右処分の第三者に対する権利移転の効果については物権変動の準拠法である日本法が適用され、処分の相手方は有効に権利を取得する。",
+  "ref_law": "法例10条2項，法例（平成元年法律第27号による改正前のもの）25条",
+  "lawsuit_id": "52460",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52460",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/460/052460_hanrei.pdf"
+}

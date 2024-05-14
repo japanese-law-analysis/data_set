@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 7,
+    "month": 3,
+    "day": 23
+  },
+  "case_number": "平成6(行ツ)19",
+  "case_name": "不作為の違法確認等",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第49巻3号1006頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "平成3(行コ)12",
+  "original_date": {
+    "era": "Heisei",
+    "year": 5,
+    "month": 9,
+    "day": 13
+  },
+  "gist": "一　公共施設の管理者である国若しくは地方公共団体又はその機関が都市計画法三二条所定の同意を拒否する行為と抗告訴訟の対象\n二　主位的請求を認容した原判決を破棄して右請求に係る訴えを却下すべきものとした場合において不適法でその欠缺を補正することができない予備的請求に係る訴えを上告審が却下することの可否",
+  "case_gist": "一　公共施設の管理者である国若しくは地方公共団体又はその機関が都市計画法三二条所定の同意を拒否する行為は、抗告訴訟の対象となる処分に当たらない。\n二　主位的請求を認容した原判決を破棄して右請求に係る訴えを却下すべきものとした場合において、予備的請求に係る訴えが不適法でその欠缺を補正することができないときは、上告審は、右訴えを却下することができる。",
+  "ref_law": "行政事件訴訟法3条2項，都市計画法30条2項，都市計画法32条，民訴法202条，民訴法408条",
+  "lawsuit_id": "52554",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52554",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/554/052554_hanrei.pdf",
+  "contents": ""
+}

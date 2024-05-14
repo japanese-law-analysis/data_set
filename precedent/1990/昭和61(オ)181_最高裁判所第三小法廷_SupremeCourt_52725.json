@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 2,
+    "month": 11,
+    "day": 20
+  },
+  "case_number": "昭和61(オ)181",
+  "case_name": "第三者異議、通行権確認、土地明渡等",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第44巻8号1037頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和55(ネ)2487",
+  "original_date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 10,
+    "day": 31
+  },
+  "gist": "民法二一三条の囲繞地通行権の対象地の特定承継と当該通行権の帰すう",
+  "case_gist": "民法二一三条の規定する囲繞地通行権は、通行の対象となる土地に特定承継が生じた場合にも消滅しない。",
+  "ref_law": "民法210条，民法213条",
+  "lawsuit_id": "52725",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52725",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/725/052725_hanrei.pdf"
+}

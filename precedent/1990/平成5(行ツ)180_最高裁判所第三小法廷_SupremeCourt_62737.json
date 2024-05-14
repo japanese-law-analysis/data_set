@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 6,
+    "month": 4,
+    "day": 19
+  },
+  "case_number": "平成5(行ツ)180",
+  "case_name": "審決取消",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "却下",
+  "article_info": "集民　第172号371頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成2(行ケ)147",
+  "original_date": {
+    "era": "Heisei",
+    "year": 5,
+    "month": 8,
+    "day": 16
+  },
+  "gist": "上告が上訴権の濫用に当たるとされた事例",
+  "case_gist": "特許出願の拒絶査定を是認する審決に対する取消訴訟において、その係属中に特許出願が取り下げられた場合には訴えの利益が失われるのに、特許出願人が、請求棄却の判決の言渡し後に自らこのような状態を現串させた上、訴えの却下を求めて上告することは、上訴権の濫用に当たる。",
+  "ref_law": "民訴法393条，民訴法399条1項1号，民訴法399条ノ3，民法1条3項",
+  "lawsuit_id": "62737",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62737",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/737/062737_hanrei.pdf"
+}

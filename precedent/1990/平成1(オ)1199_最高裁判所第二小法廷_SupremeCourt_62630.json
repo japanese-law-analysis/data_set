@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 2,
+    "month": 3,
+    "day": 23
+  },
+  "case_number": "平成1(オ)1199",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第159号261頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和63(ネ)1065",
+  "original_date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 5,
+    "day": 30
+  },
+  "gist": "高等専門学校の山岳部春山合宿の雪崩遭難死亡事故につき引率指導教師の過失が認められた事例",
+  "case_gist": "原判示の事実関係（原判決引用の第一審判決参照）の下においては、高等専門学校山岳部春山合宿の弱率指導教師は、同合宿に参加した学生の雪崩遭難死亡事故につき、山小屋に滞留せず下山を強行した点において、同合宿の実施により生じる危険から保護すべき注意義務を怠った過失がある。",
+  "ref_law": "国家賠償法1条1項",
+  "lawsuit_id": "62630",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62630",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/630/062630_hanrei.pdf"
+}

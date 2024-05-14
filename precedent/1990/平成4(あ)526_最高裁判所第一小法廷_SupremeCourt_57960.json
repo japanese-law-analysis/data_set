@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 7,
+    "month": 12,
+    "day": 11
+  },
+  "case_number": "平成4(あ)526",
+  "case_name": "各滋賀県屋外広告物条例違反、軽犯罪法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第266号1033頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 4,
+    "month": 4,
+    "day": 21
+  },
+  "gist": "滋賀県屋外広告物条例の合憲性",
+  "ref_law": "憲法13条，憲法14条，憲法21条，憲法31条，滋賀県屋外広告物条例31条2項1号，滋賀県屋外広告物条例4条1項6号，滋賀県屋外広告物条例5条1号，滋賀県屋外広告物条例6条1号",
+  "lawsuit_id": "57960",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57960",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/960/057960_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 2,
+    "month": 4,
+    "day": 24
+  },
+  "case_number": "平成2(し)52",
+  "case_name": "逃亡犯罪人引渡審査請求事件についてした逃亡犯罪人を引き渡すことができる場合に該当する旨の決定に対する特別抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第44巻3号301頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 2,
+    "month": 4,
+    "day": 20
+  },
+  "gist": "逃亡犯罪人引渡法一〇条一項三号の決定に対する不服申立の許否",
+  "case_gist": "逃亡犯罪人引渡法一〇条一項三号の決定に対しては、不服申立は許されない。",
+  "ref_law": "逃亡犯罪人引渡法10条1項，刑訴法433条，裁判所法7条，裁判所法8号，憲法81条",
+  "lawsuit_id": "50121",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50121",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/121/050121_hanrei.pdf"
+}

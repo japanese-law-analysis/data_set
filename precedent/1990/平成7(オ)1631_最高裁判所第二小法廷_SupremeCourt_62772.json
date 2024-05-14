@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 11,
+    "month": 6,
+    "day": 11
+  },
+  "case_number": "平成7(オ)1631",
+  "case_name": "遺言無効確認請求事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集民　第193号369頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成6(ネ)3103",
+  "original_date": {
+    "era": "Heisei",
+    "year": 7,
+    "month": 3,
+    "day": 17
+  },
+  "gist": "心神喪失の常況にある遺言者の生存中に推定相続人が提起した遺贈を内容とする遺言の無効確認の訴えの適否",
+  "case_gist": "遺言者の生存中に推定相続人が提起した遺贈を内容とする遺言の無効確認の訴えは、遺言者が心神喪失の常況にあって、遺言者による当該遺言の取消し又は変更の可能性が事実上ないとしても、不適法である。",
+  "ref_law": "民訴法134条，民法964条，民法985条，民法1022条",
+  "lawsuit_id": "62772",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62772",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/772/062772_hanrei.pdf"
+}

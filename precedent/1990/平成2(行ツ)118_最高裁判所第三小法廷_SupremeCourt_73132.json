@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 5,
+    "month": 3,
+    "day": 2
+  },
+  "case_number": "平成2(行ツ)118",
+  "case_name": "懲戒処分取消",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第168号21頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "昭和60(行コ)9",
+  "original_date": {
+    "era": "Heisei",
+    "year": 2,
+    "month": 3,
+    "day": 30
+  },
+  "gist": "給与の改善等を目的として行われた勤務時間に食い込む職場集会に参加し主たる役割を果たしたことを理由としてされた気象庁職員に対する戒告処分が裁量権を逸脱・濫用したものとはいえないとされた事例",
+  "case_gist": "気象庁職員が、同庁職員で組織するＤ労働組合Ｅ支部Ｆ分会により給与の改善等を目的として勤務時間に約一八分間食い込む職場集会が行われた際、分会長として、これに参加し、主たる役割を果たしたなどの原判示の事実関係の下においては、右違法行為を理由としてされた右職員に対する戒告処分は、裁量権を逸脱、濫用したものとはいえない。\n\n（補足意見がある。）",
+  "ref_law": "国家公務員法82条，国家公務員法98条2項，国家公務員法101条1項，行政事件訴訟法35条",
+  "lawsuit_id": "73132",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=73132",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/132/073132_hanrei.pdf"
+}

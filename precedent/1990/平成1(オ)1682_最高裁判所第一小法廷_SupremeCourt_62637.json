@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 6,
+    "month": 3,
+    "day": 24
+  },
+  "case_number": "平成1(オ)1682",
+  "case_name": "工事禁止",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第172号99頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和60(ネ)3186",
+  "original_date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 8,
+    "day": 30
+  },
+  "gist": "工場の操業に起因する騒音等により被害を受けているとして隣接地住民がした操業の差止め及び慰謝料の請求を認容した原審の判断に違法があるとされた事例",
+  "case_gist": "レデイミクストコンクリート製造工場の隣接地住民が右工場の操業に起因する騒音等により被害を受けているとして操業の差止め及び慰謝料の支払を請求したのに対し、住宅の建替えによって被害の程度が変化していること、付近は相当の交通騒音が存在する地域であることなど判示の事情を総合的に考察することなく、右工場の操業が法令等に違反していることを主な理由として、右請求を認容した原審の判断には、法令の解釈適用を誤った違法がある。",
+  "ref_law": "民法198条，民法199条，民法709条",
+  "lawsuit_id": "62637",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62637",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/637/062637_hanrei.pdf"
+}

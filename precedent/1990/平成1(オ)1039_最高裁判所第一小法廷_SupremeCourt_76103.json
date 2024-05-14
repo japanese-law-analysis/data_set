@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 2,
+    "month": 11,
+    "day": 8
+  },
+  "case_number": "平成1(オ)1039",
+  "case_name": "離婚等",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第161号203頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和63(ネ)1939",
+  "original_date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 4,
+    "day": 26
+  },
+  "gist": "有責配偶者からの離婚請求において別居期間が相当の長期間に及んだものとされた事例",
+  "case_gist": "有責配偶者である夫からされた離婚請求において、夫が別居後の妻子の生活費を負担し、離婚請求について誠意があると認められる財産関係の清算の提案をしているなど判示の事情のあるときは、約八年の別居期間であっても、他に格別の事情のない限り、両当事者の年齢及び同居期間との対比において別居期間が相当の長期間に及んだと解すべきである。",
+  "ref_law": "民法1条2項，民法770条",
+  "lawsuit_id": "76103",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=76103",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/103/076103_hanrei.pdf"
+}

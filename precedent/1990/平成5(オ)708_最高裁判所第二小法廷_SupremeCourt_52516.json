@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 10,
+    "month": 6,
+    "day": 12
+  },
+  "case_number": "平成5(オ)708",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第52巻4号1087頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和59(ネ)1517",
+  "original_date": {
+    "era": "Heisei",
+    "year": 4,
+    "month": 12,
+    "day": 18
+  },
+  "gist": "不法行為を原因として心神喪失の常況にある被害者の損害賠償請求権と民法七二四条後段の除斥期間",
+  "case_gist": "不法行為の被害者が不法行為の時から二〇年を経過する前六箇月内において右不法行為を原因として心神喪失の常況にあるのに法定代理人を有しなかった場合において、その後当該被害者が禁治産宣告を受け、後見人に就職した者がその時から六箇月内に右不法行為による損害賠償請求権を行使したなど特段の事情があるときは、民法一五八条の法意に照らし、同法七二四条後段の効果は生じない。",
+  "ref_law": "民法158条，民法724条",
+  "lawsuit_id": "52516",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52516",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/516/052516_hanrei.pdf"
+}

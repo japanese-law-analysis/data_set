@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 9,
+    "month": 7,
+    "day": 9
+  },
+  "case_number": "平成8(あ)637",
+  "case_name": "所得税法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第51巻6号453頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 8,
+    "month": 5,
+    "day": 22
+  },
+  "gist": "一　申告納税に関する事務を担当していない従業者と所得税法二四四条一項にいう「使用人その他の従業者」\n二　所得税法二四四条一項所定の従業者の身分のない者が従業者と共謀して所得税ほ脱の違反行為に加功した場合における所得税ほ脱の共同正犯の成否",
+  "case_gist": "一　所得税法二四四条一項にいう「使用人その他の従業者」は、所得の計算や所得税確定申告書の作成などの申告納税に関する事務を担当する従業者に限定されない。\n二　所得税法二四四条一項所定の従業者の身分のない者が従業者と共謀して所得税ほ脱の違反行為に加功した場合、その身分のない者には、刑法（平成七年法律第九一号による改正前のもの）六五条一項の適用により所得税ほ脱の共同正犯が成立する。",
+  "ref_law": "所得税法238条1項，所得税法244条1項，刑法（平成7年法律第91号による改正前のもの）65条1項",
+  "lawsuit_id": "50182",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50182",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/182/050182_hanrei.pdf"
+}

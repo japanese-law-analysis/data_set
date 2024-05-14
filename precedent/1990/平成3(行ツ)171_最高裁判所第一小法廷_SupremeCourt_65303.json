@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 4,
+    "month": 10,
+    "day": 29
+  },
+  "case_number": "平成3(行ツ)171",
+  "case_name": "更正処分等取消",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第166号525頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成2(行コ)97",
+  "original_date": {
+    "era": "Heisei",
+    "year": 3,
+    "month": 5,
+    "day": 29
+  },
+  "gist": "使用電力量の計量装置の設定の誤りにより数年度にわたり過大に支払われた電気料金等の返戻による収益の帰属すべき事業年度が右返戻についての合意による支払日の属する事業年度であるとされた事例",
+  "case_gist": "電力会社による使用電力量の計量装置の設定の誤りにより、会社が、一二年余の期間、電気料金等を過大に支払い、その間、当該会社はもとより電力会社でさえ過大に電気料金等を徴収している事実を発見することができず、当該会社が過収電気料金等の返還を受けることは事実上不可能であった場合において、右計量装置の設定の誤りが発見された後に、右両者間において、過収電気料金等として返還すべき精算金額について交渉の上合意が成立したなどの判示の事情の下では、右電気料金等の返戻による収益が帰属すべき事業年度は、右合意による支払日の属する事業年度である。\n（反対意見がある。）",
+  "ref_law": "法人税法22条",
+  "lawsuit_id": "65303",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=65303",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/303/065303_hanrei.pdf"
+}

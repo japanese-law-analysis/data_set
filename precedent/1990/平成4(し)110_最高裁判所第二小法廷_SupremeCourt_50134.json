@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 4,
+    "month": 12,
+    "day": 14
+  },
+  "case_number": "平成4(し)110",
+  "case_name": "付審判請求棄却決定に対する抗告棄却決定に対する特別抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第46巻9号675頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 4,
+    "month": 10,
+    "day": 9
+  },
+  "gist": "国選弁護人を付された被告人が判決宣告後上訴申立てのため公判調書の閲覧を請求することの可否",
+  "case_gist": "国選弁護人を付されて審理を受けた被告人が判決宣告後に上訴申立てのため必要であるとして公判調書の閲覧を請求した場合は、刑訴法四九条にいう「弁護人がないとき」に当たらず、右閲覧請求は許されない。",
+  "ref_law": "刑訴法32条2項，刑訴法49条",
+  "lawsuit_id": "50134",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50134",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/134/050134_hanrei.pdf"
+}

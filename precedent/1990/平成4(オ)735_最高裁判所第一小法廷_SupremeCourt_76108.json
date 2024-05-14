@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 7,
+    "month": 11,
+    "day": 9
+  },
+  "case_number": "平成4(オ)735",
+  "case_name": "損害賠償請求再審",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集民　第177号107頁",
+  "original_court_name": "福岡高等裁判所\n        　那覇支部",
+  "original_case_number": "平成3(ネ)123",
+  "original_date": {
+    "era": "Heisei",
+    "year": 4,
+    "month": 1,
+    "day": 28
+  },
+  "gist": "禁治産者の後見人がその就職前にした無権代理による訴えの提起及び弁護士に対する訴訟委任の行為の効力を再審の訴えにおいて否定することが信義則に反して許されないとはいえないとされた事例",
+  "case_gist": "甲が禁治産者乙の後見人に就職する前に乙のために無権限で訴えを提起した上弁護士に対する訴訟委任をし、これに基づいて判決がされた場合には、甲が乙の姉であって後見人に就職する前から事実上後見人の立場で乙の面倒を見てきたものであり、このような甲の態度について家族の他の者が異議を差し挟んでおらず、甲と乙の利害が相反する状況もなかったなど原判示の事情があったとしても、後見人に就職した甲が自己の無権代理行為の効力を再審の訴えにおいて否定することは、信義則に反して許されないとはいえない。",
+  "ref_law": "民訴法第1編第4章第1節口頭弁論，民訴法428条1項3号，民法1条2項，民法859条",
+  "lawsuit_id": "76108",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=76108",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/108/076108_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 10,
+    "month": 6,
+    "day": 12
+  },
+  "case_number": "平成8(オ)1307",
+  "case_name": "供託金還付請求権確認請求本訴、詐害行為取消請求反訴",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第52巻4号1121頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成7(ネ)356",
+  "original_date": {
+    "era": "Heisei",
+    "year": 8,
+    "month": 3,
+    "day": 13
+  },
+  "gist": "債権譲渡の通知に対する詐害行為取消権行使の可否",
+  "case_gist": "債権譲渡の通知は、詐害行為取消権行使の対象とすることができない。",
+  "ref_law": "民法424条，民法467条",
+  "lawsuit_id": "52583",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52583",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/583/052583_hanrei.pdf"
+}

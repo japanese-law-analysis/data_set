@@ -1,0 +1,22 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 9,
+    "month": 10,
+    "day": 28
+  },
+  "case_number": "平成6(あ)544",
+  "case_name": "商法違反、所得税法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第272号93頁",
+  "original_court_name": "東京高等裁判所",
+  "gist": "百貨店の代表取締役の任務違反に加功した被告人について特別背任罪の成立が肯定された事例",
+  "case_gist": "百貨店の代表取締役は、商品の仕入れに当たり、仕入原価をできる限り廉価にするなど仕入れに伴う無用な支出を避けるべき任務を負うものであり、特定の業者の利益を図る目的をもって、右任務に背いて右業務を納入業者と百貨店との間に介在させて差益を取得させ、それと同額の損害を百貨店に与えた本件においては、右代表取締役には特別背任罪が成立し、これに加功した被告人は同罪の共同正犯としての刑責を免れない。",
+  "ref_law": "商法（昭和56年法律74号による改正前のもの）486条",
+  "lawsuit_id": "57998",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57998",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/998/057998_hanrei.pdf"
+}

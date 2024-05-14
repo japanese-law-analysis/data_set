@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 4,
+    "month": 1,
+    "day": 23
+  },
+  "case_number": "昭和63(オ)1730",
+  "case_name": "懲戒処分無効確認、地位確認",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第46巻1号1頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和62(ネ)467",
+  "original_date": {
+    "era": "Showa",
+    "year": 63,
+    "month": 9,
+    "day": 22
+  },
+  "gist": "宗教団体内でされた懲戒処分の効力の有無の確認を求める訴えの適否",
+  "case_gist": "宗教団体内でされた懲戒処分の効力の有無の確認を求める訴えは、その処分が、当該宗教団体内部における被処分者の宗教活動を制限し、あるいはその宗教上の地位に関する不利益を与えるものにとどまる場合は、不適法である。",
+  "ref_law": "裁判所法3条，民訴法225条",
+  "lawsuit_id": "52754",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52754",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/754/052754_hanrei.pdf"
+}

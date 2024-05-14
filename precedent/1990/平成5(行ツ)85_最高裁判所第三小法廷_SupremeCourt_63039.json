@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 9,
+    "month": 11,
+    "day": 28
+  },
+  "case_number": "平成5(行ツ)85",
+  "case_name": "公務外認定処分取消等",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第186号269頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成1(行コ)62",
+  "original_date": {
+    "era": "Heisei",
+    "year": 5,
+    "month": 1,
+    "day": 27
+  },
+  "gist": "市立保育園の保母の業務と同人に発症した頸肩腕症候群との間の因果関係を否定したことが経験則に反するとされた事例",
+  "case_gist": "市立保育園の保母が、勤務開始後三年目には肩や背中の痛みを、その約一年半後には慢性的肩凝りや右腕等の筋肉の痛みを感ずるようになり、その状態のまま新設保育園に主任保母として着任し、保育開始準備等に集中的に当たった後一、二歳児六名を一人で担当するようになり、その年の夏季合同保育期間中に調理を担当した際右背中に激痛を感じ、その翌月頸肩腕症候群と診断されて通院を開始したが、その後も、業務負担が重くなったことはあっても軽減されることはなく、症状も若干の起伏を伴いながら続いたなど判示の事実関係の下においては、他に明らかに原因となった要因が認められない限り、右保母の業務と右頸肩腕症候群との間の因果関係を否定することは、経験則に反する。",
+  "ref_law": "民法415条，民訴法185条",
+  "lawsuit_id": "63039",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63039",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/039/063039_hanrei.pdf"
+}

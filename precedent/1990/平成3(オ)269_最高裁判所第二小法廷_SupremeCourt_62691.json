@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 3,
+    "month": 11,
+    "day": 29
+  },
+  "case_number": "平成3(オ)269",
+  "case_name": "家賃増額確認",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第163号627頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成2(ネ)1069",
+  "original_date": {
+    "era": "Heisei",
+    "year": 2,
+    "month": 11,
+    "day": 15
+  },
+  "gist": "賃料増額請求権の行使と一定期間経過の要否",
+  "case_gist": "借家法七条一項の規定に基づく賃料増額請求権を行使するには、現行の賃料が定められた時から一定の期間を経過していることを要しない。",
+  "ref_law": "借家法7条1項",
+  "lawsuit_id": "62691",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62691",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/691/062691_hanrei.pdf"
+}

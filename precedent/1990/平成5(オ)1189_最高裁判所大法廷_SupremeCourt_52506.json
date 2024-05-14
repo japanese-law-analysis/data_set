@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 11,
+    "month": 3,
+    "day": 24
+  },
+  "case_number": "平成5(オ)1189",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第53巻3号514頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "平成2(ネ)472",
+  "original_date": {
+    "era": "Heisei",
+    "year": 5,
+    "month": 4,
+    "day": 14
+  },
+  "gist": "刑訴法三九条三項本文と憲法三四条前段、三七条三項、三八条一項",
+  "case_gist": "刑訴法三九条三項本文の規定は、憲法三四条前段、三七条三項、三八条一項に違反しない。",
+  "ref_law": "憲法34条前段，憲法37条3項，憲法38条1項，刑訴法39条3項",
+  "lawsuit_id": "52506",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52506",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/506/052506_hanrei.pdf"
+}

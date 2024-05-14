@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 5,
+    "month": 3,
+    "day": 25
+  },
+  "case_number": "平成1(オ)649",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第47巻4号3079頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和61(ネ)630",
+  "original_date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 2,
+    "day": 6
+  },
+  "gist": "危険物であることを知ってこれを運送する海上物品運送業者に対し右危険物の製造業者及び販売業者が危険性の内容等を告知する義務の有無",
+  "case_gist": "海上物品運送業者が危険物であることを知って運送品を運送する場合において、通常尽くすべき調査により、その危険性の内容、程度及び運搬、保管方法等の取扱上の注意事項を知り得るときは、右危険物の製造業者及び販売業者は、海上物品運送業者に対し、右の危険性の内容等を告知する義務を負わない。",
+  "ref_law": "民法709条",
+  "lawsuit_id": "55846",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55846",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/846/055846_hanrei.pdf"
+}

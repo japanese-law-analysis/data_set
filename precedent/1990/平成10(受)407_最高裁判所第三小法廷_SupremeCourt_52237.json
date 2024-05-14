@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 11,
+    "month": 11,
+    "day": 30
+  },
+  "case_number": "平成10(受)407",
+  "case_name": "配当異議事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第53巻8号1965頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成9(ネ)1033",
+  "original_date": {
+    "era": "Heisei",
+    "year": 10,
+    "month": 7,
+    "day": 31
+  },
+  "gist": "買戻特約付売買の目的不動産に設定された抵当権に基づく買戻代金債権に対する物上代位権行使の可否",
+  "case_gist": "買戻特約付売買の買主から目的不動産につき抵当権の設定を受けた者は、抵当権に基づく物上代位権の行使として、買戻権の行使により買主が取得した買戻代金債権を差し押さえることができる。",
+  "ref_law": "民法304条，民法372条，民法579条",
+  "lawsuit_id": "52237",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52237",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/237/052237_hanrei.pdf"
+}

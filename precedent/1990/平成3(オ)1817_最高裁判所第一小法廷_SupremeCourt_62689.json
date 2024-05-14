@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 6,
+    "month": 9,
+    "day": 8
+  },
+  "case_number": "平成3(オ)1817",
+  "case_name": "所有権移転仮登記抹消登記手続、所有権移転登記手続",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第173号1頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_case_number": "平成2(ネ)150",
+  "original_date": {
+    "era": "Heisei",
+    "year": 3,
+    "month": 8,
+    "day": 26
+  },
+  "gist": "地方公共団体が使用目的を定めないで農地を買い受ける契約をした後に右農地を農地法施行規則七条六号所定の用途に供することを確定したときと売買契約の効力",
+  "case_gist": "地方公共団体が、使用目的を定めないで農地を買い受ける契約をした後、右農地を農地法五条一項四号、農地法施行規則七条六号所定の用途に供することを確定したときは、右売買契約は、その時点におい農地法所定の許可を経ないで効力を生ずる。",
+  "ref_law": "農地法5条1項4号，農地法施行規則7条6号",
+  "lawsuit_id": "62689",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62689",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/689/062689_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 11,
+    "month": 4,
+    "day": 22
+  },
+  "case_number": "平成10(行ツ)81",
+  "case_name": "審決取消請求事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第193号231頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成8(行ケ)19",
+  "original_date": {
+    "era": "Heisei",
+    "year": 9,
+    "month": 11,
+    "day": 19
+  },
+  "gist": "無効審決取消訴訟の係属中に当該特許権について特許請求の範囲の減縮を目的とする訂正審決が確定した場合における当該無効審決の取消しの要否",
+  "case_gist": "無効審決取消訴訟の係属中に当該特許権について特許請求の範囲の減縮を目的とする訂正審決が確定した場合には、当該無効審決は取り消されなければならない。",
+  "ref_law": "特許法123条，特許法126条，特許法178条",
+  "lawsuit_id": "76090",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=76090",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/090/076090_hanrei.pdf"
+}

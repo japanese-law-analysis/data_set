@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 6,
+    "month": 4,
+    "day": 7
+  },
+  "case_number": "平成4(オ)98",
+  "case_name": "地上権不存在確認請求本訴、地上権存在確認請求反訴",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第48巻3号889頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成3(ネ)711",
+  "original_date": {
+    "era": "Heisei",
+    "year": 3,
+    "month": 9,
+    "day": 19
+  },
+  "gist": "甲乙の共有に属する土地建物のうち土地の甲の持分の強制競売と法定地上権",
+  "case_gist": "土地及びその上にある建物が甲乙の共有に属する場合において、土地についての甲の持分が強制競売によって売却され、丙がその持分を取得しても、民事執行法八一条の規定に基づく地上権は成立しない。",
+  "ref_law": "民事執行法81条",
+  "lawsuit_id": "52504",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52504",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/504/052504_hanrei.pdf"
+}

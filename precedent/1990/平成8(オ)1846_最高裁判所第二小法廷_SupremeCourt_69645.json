@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 9,
+    "month": 5,
+    "day": 30
+  },
+  "case_number": "平成8(オ)1846",
+  "case_name": "土地所有権移転登記手続、建築基礎収去土地明渡",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第183号423頁",
+  "original_court_name": "福岡高等裁判所\n        　宮崎支部",
+  "original_case_number": "平成7(ネ)69",
+  "original_date": {
+    "era": "Heisei",
+    "year": 8,
+    "month": 6,
+    "day": 7
+  },
+  "gist": "事実認定の根拠として判決に引用する文書が真正に成立したこと及びその理由を判決書に記載することの要否",
+  "case_gist": "事実認定の根拠として判決に引用する文書が真正に成立したこと及びその理由は、判決書の必要的記載事項ではない。",
+  "ref_law": "民訴法191条1項，民訴法325条，民訴法395条1項6号",
+  "lawsuit_id": "69645",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=69645",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/645/069645_hanrei.pdf"
+}

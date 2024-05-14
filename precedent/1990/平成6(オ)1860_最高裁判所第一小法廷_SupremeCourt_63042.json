@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 9,
+    "month": 11,
+    "day": 27
+  },
+  "case_number": "平成6(オ)1860",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第186号227頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成5(ネ)4184",
+  "original_date": {
+    "era": "Heisei",
+    "year": 6,
+    "month": 6,
+    "day": 15
+  },
+  "gist": "二時間後に返還する約束で自動車を借り受けた者が約一箇月後に起こした事故につき貸主が自動車損害賠償保障法三条にいう運行供用者に当たらないとされた事例",
+  "case_gist": "甲から二時間後に返還する約束で自動車を借り受けた乙が約一箇月間にわたってその使用を継続した後に起こした事故について、乙が、長期間乗り回す意図の下に、二時間後に確実に返還するかのように装い甲を欺いて借り受け、返還期限を経過した後は、甲に対してその場しのぎの約束を繰り返して返還を引き延ばしており、甲は乙から連絡を受ける都度自動車を直ちに返還するよう求めていたなど判示の事実関係の下においては、甲は、自動車損害賠償保障法三条にいう運行供用者に当たらない。",
+  "ref_law": "自動車損害賠償保障法3条",
+  "lawsuit_id": "63042",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63042",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/042/063042_hanrei.pdf"
+}

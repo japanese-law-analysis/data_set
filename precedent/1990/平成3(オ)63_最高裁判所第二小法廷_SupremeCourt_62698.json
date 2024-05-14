@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 6,
+    "month": 6,
+    "day": 13
+  },
+  "case_number": "平成3(オ)63",
+  "case_name": "割増賃金等",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集民　第172号673頁",
+  "original_court_name": "高松高等裁判所",
+  "original_case_number": "平成1(ネ)266",
+  "original_date": {
+    "era": "Heisei",
+    "year": 2,
+    "month": 10,
+    "day": 30
+  },
+  "gist": "タクシー運転手に対する月間水揚高の一定率を支給する歩合給が時間外及び深夜の労働に対する割増賃金を含むものとはいえないとされた事例",
+  "case_gist": "タクシー運転手に対する賃金が月間水揚高に一定の歩合を乗じて支払われている場合に、時間外及び深夜の労働を行った場合にもその額が増額されることがなく、通常の労働時間の賃金に当たる部分と時間外及び深夜の割増賃金に当たる部分とを判別することもできないときは、右歩合給の支給によって労働基準法（平成五年法律第七九号による改正前のもの）三七条の規定する時間外及び深夜の割増賃金が支払われたとすることはできない。",
+  "ref_law": "労働基準法（平成5年法律第79号による改正前のもの）37条",
+  "lawsuit_id": "62698",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62698",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/698/062698_hanrei.pdf"
+}

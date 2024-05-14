@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 8,
+    "month": 4,
+    "day": 26
+  },
+  "case_number": "平成4(オ)413",
+  "case_name": "第三者異議",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第50巻5号1267頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成2(ネ)3876",
+  "original_date": {
+    "era": "Heisei",
+    "year": 3,
+    "month": 11,
+    "day": 28
+  },
+  "gist": "振込依頼人と受取人との間に振込みの原因となる法律関係が存在しない場合における振込みに係る普通預金契約の成否",
+  "case_gist": "振込依頼人から受取人の銀行の普通預金口座に振込みがあったときは、両者の間に振込みの原因となる法律関係が存在するか否かにかかわらず、受取人と銀行との間に振込金額相当の普通預金契約が成立する。",
+  "ref_law": "民法91条，民法666条",
+  "lawsuit_id": "57058",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57058",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/058/057058_hanrei.pdf"
+}

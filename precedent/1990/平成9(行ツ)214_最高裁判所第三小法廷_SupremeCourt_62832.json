@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 10,
+    "month": 10,
+    "day": 13
+  },
+  "case_number": "平成9(行ツ)214",
+  "case_name": "審決取消",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第190号1頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成8(行ケ)179",
+  "original_date": {
+    "era": "Heisei",
+    "year": 9,
+    "month": 6,
+    "day": 6
+  },
+  "gist": "カルテル行為について私的独占の禁止及び不正取引の確保に関する法律違反被告事件において罰金刑を科せられるとともに不当利得返還請求訴訟を提起されている者に対し課徴金の納付を命ずることと憲法三九条、二九条、三一条",
+  "case_gist": "カルテル行為について私的独占の禁止及び公正取引の確保に関する法律違反被告事件において罰金刑を科せられるとともに取引の相手方である国から不当利得返還請求訴訟を提起されている者に対し同法七条の二第一項の規定に基づき課徴金の納付を命ずることは、憲法三九条、二九条、三一条に違反しない。",
+  "ref_law": "私的独占の禁止及び公正取引の確保に関する法律7条の2第1項，私的独占の禁止及び公正取引の確保に関する法律48条の2第1項，私的独占の禁止及び公正取引の確保に関する法律89条，民法703条，憲法29条，憲法31条，憲法39条",
+  "lawsuit_id": "62832",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62832",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/832/062832_hanrei.pdf"
+}

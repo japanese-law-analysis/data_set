@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 3,
+    "month": 8,
+    "day": 14
+  },
+  "case_number": "平成3(し)82",
+  "case_name": "商法違反、公正証書原本不実記載、同行使被告事件についてした保釈許可決定に対する抗告申立についての決定に対する特別抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第258号67頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 3,
+    "month": 7,
+    "day": 29
+  },
+  "gist": "保釈却下決定に対する特別抗告申立てがされた後，申立人が勾留執行停止決定により釈放された場合の特別抗告の効力",
+  "ref_law": "刑訴法88条2項",
+  "lawsuit_id": "57946",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57946",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/946/057946_hanrei.pdf"
+}

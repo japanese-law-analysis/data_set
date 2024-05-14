@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 7,
+    "month": 6,
+    "day": 29
+  },
+  "case_number": "平成6(行ツ)16",
+  "case_name": "所得税更正処分等取消",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第175号769頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成2(行コ)152",
+  "original_date": {
+    "era": "Heisei",
+    "year": 5,
+    "month": 10,
+    "day": 27
+  },
+  "gist": "刑事訴訟手続において外国の管轄司法機関により行われた嘱託証人尋問の調書の民事訴訟における証拠能力",
+  "case_gist": "刑事訴訟手続において外国の管轄司法機関により行われた嘱託証人尋問の調書は、当事者に反対尋問の機会が与えられていなくても、民事訴訟において書証としての証拠能力を有する。",
+  "ref_law": "民訴法294条1項，民訴法第2編第3章第4節書証，刑訴法226条",
+  "lawsuit_id": "76121",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=76121",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/121/076121_hanrei.pdf"
+}

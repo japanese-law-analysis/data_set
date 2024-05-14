@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 4,
+    "month": 11,
+    "day": 27
+  },
+  "case_number": "平成4(あ)267",
+  "case_name": "威力業務妨害",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第46巻8号623頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 4,
+    "month": 1,
+    "day": 30
+  },
+  "gist": "猫の死がいを被害者の事務机引き出し内に入れておき同人に発見させるなどした行為が刑法二三四条にいう「威力ヲ用ヒ」た場合に当たるとされた事例",
+  "case_gist": "被害者の事務机引き出し内に赤く染めた猫の死がいを入れておくなどして、被害者にこれを発見させ、畏怖させるに足りる状態においた一連の行為（判文参照）は、刑法二三四条にいう「威力ヲ用ヒ」た場合に当たる。",
+  "ref_law": "刑法234条，軽犯罪法1条31号",
+  "lawsuit_id": "50129",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50129",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/129/050129_hanrei.pdf"
+}

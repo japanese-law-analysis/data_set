@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 10,
+    "month": 4,
+    "day": 30
+  },
+  "case_number": "平成6(オ)799",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第188号385頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成3(ネ)3520",
+  "original_date": {
+    "era": "Heisei",
+    "year": 5,
+    "month": 12,
+    "day": 24
+  },
+  "gist": "宅配便の荷受人が運送会社に対して運送中の荷物の紛失を理由として運送契約上の責任限度額を超える損害の賠償を請求することが信義則に反し許されないとされた事例",
+  "case_gist": "荷受人甲が、宅配便を利用して宝石類を送付することができないことを知りながら、荷送人乙が運送会社丙の宅配便を利用してダイヤモンド等を送付することを容認していたなど判示の事実関係の下においては、運送中の右ダイヤモンド等の紛失を理由として甲が丙に対し乙丙間の運送契約上の責任限度額三〇万円を超える損害の賠償を請求することは、信義則に反し、許されない。",
+  "ref_law": "民法1条2項，民法91条，民法709条，商法577条，商法578条，商法580条，商法583条",
+  "lawsuit_id": "62759",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62759",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/759/062759_hanrei.pdf"
+}

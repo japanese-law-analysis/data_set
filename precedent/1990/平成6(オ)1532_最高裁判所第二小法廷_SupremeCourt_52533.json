@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 8,
+    "month": 11,
+    "day": 22
+  },
+  "case_number": "平成6(オ)1532",
+  "case_name": "清算金支払",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第50巻10号2702頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成4(ネ)931",
+  "original_date": {
+    "era": "Heisei",
+    "year": 6,
+    "month": 3,
+    "day": 17
+  },
+  "gist": "譲渡担保権設定者の受戻権放棄による清算金支払請求の可否",
+  "case_gist": "譲渡担保権設定者は、譲渡担保権者が清算金の支払又は提供をせず、清算金がない旨の通知もしない間に譲渡担保の目的物の受戻権を放棄しても、譲渡担保権者に対して清算金の支払を請求することはできない。",
+  "ref_law": "民法369条（譲渡担保）",
+  "lawsuit_id": "52533",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52533",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/533/052533_hanrei.pdf"
+}

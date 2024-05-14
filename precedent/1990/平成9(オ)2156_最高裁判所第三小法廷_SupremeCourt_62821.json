@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 10,
+    "month": 12,
+    "day": 18
+  },
+  "case_number": "平成9(オ)2156",
+  "case_name": "地位確認等請求本訴、契約上の地位不存在確認請求反訴",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第190号1017頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成6(ネ)3182",
+  "original_date": {
+    "era": "Heisei",
+    "year": 9,
+    "month": 7,
+    "day": 31
+  },
+  "gist": "卸売業者が特約店契約によっていわゆるカウンセリング販売を義務付けている小売業者に対して特約店契約を締結していない小売店等に対する卸売販売を禁止することと独占禁止法一九条",
+  "case_gist": "卸売業者が小売業者に対していわゆるカウンセリング販売を義務付ける特約店契約中の約定が独占禁止法一九条に違反しない場合には、右小売業者に対して特約店契約を締結していない小売店等に対する卸売販売を禁止することも、同条に違反しない。",
+  "ref_law": "私的独占の禁止及び公正取引の確保に関する法律2条9項，私的独占の禁止及び公正取引の確保に関する法律19条，昭和57年公正取引委員会告示15号（不公正な取引方法）の12，昭和57年公正取引委員会告示15号（不公正な取引方法）の13",
+  "lawsuit_id": "62821",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62821",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/821/062821_hanrei.pdf"
+}

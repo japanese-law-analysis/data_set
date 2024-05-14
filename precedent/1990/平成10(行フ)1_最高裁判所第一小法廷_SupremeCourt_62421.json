@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 11,
+    "month": 1,
+    "day": 11
+  },
+  "case_number": "平成10(行フ)1",
+  "case_name": "町議会議員除名処分執行停止決定に対する抗告棄却決定に対する許可抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集民　第191号1頁",
+  "original_court_name": "高松高等裁判所",
+  "original_case_number": "平成10(行ス)2",
+  "original_date": {
+    "era": "Heisei",
+    "year": 10,
+    "month": 10,
+    "day": 28
+  },
+  "gist": "地方議会議員の除名処分の効力停止決定と除名に基づく繰上補充による当選の効力",
+  "case_gist": "地方議会議員の除名処分の効力停止決定がされることによって、除名による欠員が生じたことに基づいて行われた繰上補充による当選人の定めはその根拠を失うことになり、選挙管理委員会は、右当選人の定めを撤回し、その当選を将来に向かって無効とすべき義務を負う。",
+  "ref_law": "地方自治法135条1項4号，行政事件訴訟法25条2項，行政事件訴訟法33条1項，行政事件訴訟法33条4項，公職選挙法112条5項",
+  "lawsuit_id": "62421",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62421",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/421/062421_hanrei.pdf"
+}

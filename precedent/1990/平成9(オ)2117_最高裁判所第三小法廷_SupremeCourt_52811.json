@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 10,
+    "month": 3,
+    "day": 24
+  },
+  "case_number": "平成9(オ)2117",
+  "case_name": "遺留分減殺請求本訴、損害賠償請求反訴",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第52巻2号433頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "平成5(ネ)381",
+  "original_date": {
+    "era": "Heisei",
+    "year": 9,
+    "month": 7,
+    "day": 18
+  },
+  "gist": "民法九〇三条一項の定める相続人に対する贈与と遺留分減殺の対象",
+  "case_gist": "民法九〇三条一項の定める相続人に対する贈与は、右贈与が相続開始よりも相当以前にされたものであって、その後の時の経過に伴う社会経済事情や相続人など関係人の個人的事情の変化をも考慮するとき、減殺請求を認めることが右相続人に酷であるなどの特段の事情のない限り、同法一〇三〇条の定める要件を満たさないものであっても、遺留分減殺の対象となる。",
+  "ref_law": "民法903条1項，民法1030条，民法1031条，民法1044条",
+  "lawsuit_id": "52811",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52811",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/811/052811_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 5,
+    "month": 6,
+    "day": 11
+  },
+  "case_number": "平成1(オ)1631",
+  "case_name": "損害賠償、同附帯",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集民　第169号117頁",
+  "original_court_name": "福岡高等裁判所\n        　宮崎支部",
+  "original_case_number": "昭和63(ネ)102",
+  "original_date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 9,
+    "day": 18
+  },
+  "gist": "管理者に準ずる地位にある職員が組合員バッジの取外し命令に従わないため点呼執行業務から外して営業所構内の火山灰の除去作業に従事することを命じた業務命令が違法とはいえないとされた事例",
+  "case_gist": "自動車営業所の管理者に準ずる地位にある職員が、取外し命令を無視して組合員バッジの着用をやめないため、同人を通常業務である点呼執行業務から外し、営業所構内の火山灰の除去作業に従事することを命じた業務命令は、右作業が職場環境整備等のために必要な作業であり、従来も職員が必要に応じてこれを行うことがあったなど判示の事情の下においては、違法なものとはいえない。",
+  "ref_law": "民法623条，民法709条，労働基準法13条",
+  "lawsuit_id": "63011",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63011",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/011/063011_hanrei.pdf"
+}

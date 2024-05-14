@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 11,
+    "month": 4,
+    "day": 8
+  },
+  "case_number": "平成10(受)475",
+  "case_name": "損害賠償請求上告受理、同附帯上告受理事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "その他",
+  "article_info": "集民　第193号1頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成9(ネ)1258",
+  "original_date": {
+    "era": "Heisei",
+    "year": 10,
+    "month": 7,
+    "day": 16
+  },
+  "gist": "上告受理の申立てにつき不受理決定がされた場合の附帯上告受理の申立ての帰すう",
+  "case_gist": "上告受理の申立てに対して附帯上告受理の申立てがされた場合において，上告受理の申立てにつき事件を上告審として受理しない旨の決定がされたときは，民訴法３１８条５項，３１３条，２９３条２項により，附帯上告受理の申立ては，それが上告受理の申立ての要件を備えるものでない限り，その効力を失う。",
+  "ref_law": "民訴法293条2項，民訴法313条，民訴法318条5項",
+  "lawsuit_id": "62409",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62409",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/409/062409_hanrei.pdf"
+}

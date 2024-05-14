@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 3,
+    "month": 4,
+    "day": 19
+  },
+  "case_number": "平成1(オ)174",
+  "case_name": "土地所有権移転登記手続",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第45巻4号477頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和62(ネ)3457",
+  "original_date": {
+    "era": "Showa",
+    "year": 63,
+    "month": 7,
+    "day": 11
+  },
+  "gist": "一　特定の遺産を特定の相続人に「相続させる」趣旨の遺言の解釈\n二　特定の遺産を特定の相続人に「相続させる」趣旨の遺言があった場合における当該遺産の承継",
+  "case_gist": "一　特定の遺産を特定の相続人に「相続させる」趣旨の遺言は、遺言書の記載から、その趣旨が遺贈であることが明らかであるか又は遺贈と解すべき特段の事情のない限り、当該遺産を当該相続人をして単独で相続させる遺産分割の方法が指定されたものと解すべきである。\n二　特定の遺産を特定の相続人に「相続させる」趣旨の遺言があった場合には、当該遺言において相続による承継を当該相続人の意思表示にかからせたなどの特段の事情のない限り、何らの行為を要せずして、当該遺産は、被相続人の死亡の時に直ちに相続により承継される。",
+  "ref_law": "民法908条，民法964条，民法985条",
+  "lawsuit_id": "52445",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52445",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/445/052445_hanrei.pdf"
+}

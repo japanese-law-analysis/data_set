@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 5,
+    "month": 7,
+    "day": 19
+  },
+  "case_number": "平成5(行ツ)102",
+  "case_name": "当選無効裁決取消",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第169号273頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "平成4(行ケ)1",
+  "original_date": {
+    "era": "Heisei",
+    "year": 5,
+    "month": 2,
+    "day": 25
+  },
+  "gist": "候補者中に南里Ｃ、森Ｄ及び樋口Ｅがある場合に「なり（原文は手書き）」と記載された投票が南里Ｃに対する有効投票であるとされた事例",
+  "case_gist": "候補者中に南里Ｃ、森Ｄ及び樋口Ｅがある場合に、「なり（原文は手書き）」と記載された投票は、右記載が「なり」であり、「なんり」と記載すべきところを「ん」を脱落させた誤記として、南里Ｃに対する有効投票と解すべきである。",
+  "ref_law": "公職選挙法67条，公職選挙法68条1項",
+  "lawsuit_id": "76114",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=76114",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/114/076114_hanrei.pdf",
+  "contents": "C\n"
+}

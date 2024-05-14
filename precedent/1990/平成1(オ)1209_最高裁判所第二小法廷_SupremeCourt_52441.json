@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 3,
+    "month": 3,
+    "day": 22
+  },
+  "case_number": "平成1(オ)1209",
+  "case_name": "短期賃貸借契約解除等",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第45巻3号268頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和63(ネ)1639",
+  "original_date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 3,
+    "day": 29
+  },
+  "gist": "民法三九五条ただし書の規定により解除された短期賃貸借ないしこれを基礎とする転貸借に基づき抵当不動産を占有する者に対する抵当権者の明渡請求の可否",
+  "case_gist": "抵当権者は、民法三九五条ただし書の規定により解除された短期賃貸借ないしこれを基礎とする転貸借に基づき抵当不動産を占有する者に対し、抵当権に基づく妨害排除請求として又は抵当権設定者の所有物返還請求権の代位行使として、その明渡しを求めることはできない。",
+  "ref_law": "民法369条，民法395条，民法423条",
+  "lawsuit_id": "52441",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52441",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/441/052441_hanrei.pdf"
+}

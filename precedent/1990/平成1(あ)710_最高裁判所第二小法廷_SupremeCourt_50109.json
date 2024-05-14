@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 4,
+    "month": 6,
+    "day": 15
+  },
+  "case_number": "平成1(あ)710",
+  "case_name": "大阪府屋外広告物条例違反、軽犯罪法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第46巻4号289頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 5,
+    "day": 24
+  },
+  "gist": "赦免の対象とされる罪に当たり包括一罪を構成する行為の一部が同時に赦免されない罪名に触れる場合におけるその余の行為と大赦令（平成元年政令第二七号）との関係",
+  "case_gist": "被告人の行為が大赦令（平成元年政令第二七号）により赦免の対象とされる罪に当たり、包括一罪を構成する場合に、その一部の行為が同時に赦免されない他の罪名に触れるため同政令二条により赦免されないときは、その余の行為についても赦免されない。",
+  "ref_law": "大赦令（平成元年政令27号）1条9号，大赦令（平成元年政令27号）2条，軽犯罪法1条33号前段，大阪府屋外広告物条例（昭和24年大阪府条例79号。平成4年同条例3号による改正前のもの）2条2項4号，大阪府屋外広告物条例（昭和24年大阪府条例79号。平成4年同条例3号による改正前のもの）17条1号",
+  "lawsuit_id": "50109",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50109",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/109/050109_hanrei.pdf"
+}

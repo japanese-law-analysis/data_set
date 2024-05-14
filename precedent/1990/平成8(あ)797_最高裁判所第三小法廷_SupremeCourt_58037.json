@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 11,
+    "month": 3,
+    "day": 26
+  },
+  "case_number": "平成8(あ)797",
+  "case_name": "薬事法違反被告事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第275号547頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 8,
+    "month": 4,
+    "day": 25
+  },
+  "gist": "薬事法２条１項２号，３号にいう「医薬品」の意義と憲法２１条１項",
+  "ref_law": "薬事法2条1項2号，薬事法2条1項3号，憲法21条1項",
+  "lawsuit_id": "58037",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58037",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/037/058037_hanrei.pdf"
+}

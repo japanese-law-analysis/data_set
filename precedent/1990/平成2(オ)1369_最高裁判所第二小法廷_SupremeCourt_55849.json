@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 5,
+    "month": 2,
+    "day": 12
+  },
+  "case_number": "平成2(オ)1369",
+  "case_name": "所有権保存登記抹消登記手続等",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第47巻2号393頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成1(ネ)967",
+  "original_date": {
+    "era": "Heisei",
+    "year": 2,
+    "month": 6,
+    "day": 25
+  },
+  "gist": "マンションの管理人室が建物の区分所有等に関する法律にいう専有部分に当たらないとされた事例",
+  "case_gist": "共用部分である管理事務室とこれに隣接する管理人室があるマンションにおいて、右管理人室に構造上の独立性があるとしても、当該マンションの規模が比較的大きく、区分所有者の居住生活を円滑にし、その環境の維持保全を図るため、その業務に当たる管理人を常駐させ、管理業務の遂行に当たらせる必要があり、前記管理事務室のみでは、管理人を常駐させてその業務を適切かつ円滑に遂行させることが困難である場合には、両室は機能的に分離することができず、右管理人室は、利用上の独立性がなく、建物の区分所有等に関する法律にいう専有部分に当たらない。",
+  "ref_law": "建物の区分所有等に関する法律1条，建物の区分所有等に関する法律2条3項，建物の区分所有等に関する法律2条4項，建物の区分所有等に関する法律4条1項",
+  "lawsuit_id": "55849",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55849",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/849/055849_hanrei.pdf"
+}

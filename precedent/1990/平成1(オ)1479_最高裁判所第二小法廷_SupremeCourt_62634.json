@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 2,
+    "month": 3,
+    "day": 23
+  },
+  "case_number": "平成1(オ)1479",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第159号317頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成1(ネ)93",
+  "original_date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 7,
+    "day": 19
+  },
+  "gist": "男児の逸失利益を男子労働者の全年齢平均賃金額を基準として算定しホフマン式計算法により事故当時の現在価額に換算することの当否",
+  "case_gist": "死亡した男児の将来の得べかりし利益を算定するに当たり、賃金センサスによる男子労働者の産業計・企業規模計・学歴計の全年齢平均賃金額を基準として収入額を算定した上、ホフマン式計算法により事故当時の現在価額に換算しても、直ちに不合理な算定方法とはいえない。",
+  "ref_law": "民法709条",
+  "lawsuit_id": "62634",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62634",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/634/062634_hanrei.pdf"
+}

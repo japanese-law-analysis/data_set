@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 6,
+    "month": 4,
+    "day": 8
+  },
+  "case_number": "平成5(オ)1695",
+  "case_name": "未払賃金",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第172号259頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "平成4(ネ)646",
+  "original_date": {
+    "era": "Heisei",
+    "year": 5,
+    "month": 6,
+    "day": 8
+  },
+  "gist": "ストライキの場合に不就労の時間に応じて控除される家族手当付加額が労働基準法（平成五年法律第七九号による改正前のもの）三七条二項にいう家族手当に当たるとされた事例",
+  "case_gist": "家族手当付加額が扶養家族を有する者に対し被扶養者の数に応じて定められた金額を支給するものであり、勤務を欠いたことにより右付加額が控除されるのは例外的であるという原判示の事実関係の下においては、右家族手当付加額は、ストライキの場合に不就労の時間に応じて控除されるとしても、労働基準法（平成五年法律第七九号による改正前のもの）三七条二項にいう家族手当に当たる。",
+  "ref_law": "労働基準法（平成5年法律第79号による改正前のもの）37条2項，労働基準法37条4項",
+  "lawsuit_id": "62724",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62724",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/724/062724_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 5,
+    "month": 3,
+    "day": 11
+  },
+  "case_number": "平成1(オ)930",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第47巻4号2863頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和61(ネ)1973",
+  "original_date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 3,
+    "day": 28
+  },
+  "gist": "収入金額を確定申告の額より増額しながら必要経費の額を確定申告の額のままとしたため所得金額を過大に認定した所得税の更正が国家賠償法上違法でないとされた事例",
+  "case_gist": "税務署長が収入金額を確定申告の額より増額しながら必要経費の額を確定申告の額のままとして所得税の更正をしたため、所得金額を過大に認定する結果となったとしても、確定申告の必要経費の額を上回る金額を具体的に把握し得る客観的資料等がなく、また、納税義務者において税務署長の行う調査に協力せず、資料等によって確定申告の必要経費が過少であることを明らかにしないために、右の結果が生じたなど判示の事実関係の下においては、右更正につき国家賠償法一条一項にいう違法があったということはできない。",
+  "ref_law": "国家賠償法1条1項",
+  "lawsuit_id": "55848",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55848",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/848/055848_hanrei.pdf"
+}

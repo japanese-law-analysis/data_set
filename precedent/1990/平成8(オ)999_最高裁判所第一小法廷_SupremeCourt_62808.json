@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 11,
+    "month": 4,
+    "day": 22
+  },
+  "case_number": "平成8(オ)999",
+  "case_name": "配当異議事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集民　第193号141頁",
+  "original_court_name": "広島高等裁判所",
+  "original_case_number": "平成7(ネ)237",
+  "original_date": {
+    "era": "Heisei",
+    "year": 8,
+    "month": 1,
+    "day": 31
+  },
+  "gist": "同一の申立てに係る複数の不動産の競売における先行する配当手続で国税徴収法２６条の規定による調整が行われた場合において配当を受けることができなかった国税，地方税等を後行の配当手続で私債権に優先するものとして取り扱うことの可否",
+  "case_gist": "同一の申立てに係る複数の不動産の競売で不動産が順次売却されて配当手続が数次に及び，先行する配当手続で国税徴収法２６条の規定による調整が行われた場合において，私債権に優先するものとして国税及び地方税等に充てるべき金額の総額を決定するために用いられながら配当を受けることができなかった国税，地方税等は，後行の配当手続においても私債権に優先するものとして取り扱うことができる。",
+  "ref_law": "民事執行法84条，民事執行法85条，国税徴収法8条，国税徴収法16条，国税徴収法26条",
+  "lawsuit_id": "62808",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62808",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/808/062808_hanrei.pdf"
+}

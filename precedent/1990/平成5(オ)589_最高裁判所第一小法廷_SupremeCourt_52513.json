@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 6,
+    "month": 2,
+    "day": 10
+  },
+  "case_number": "平成5(オ)589",
+  "case_name": "離婚",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第48巻2号388頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成4(ネ)350",
+  "original_date": {
+    "era": "Heisei",
+    "year": 4,
+    "month": 11,
+    "day": 11
+  },
+  "gist": "離婚請求訴訟における請求の放棄の許否",
+  "case_gist": "離婚請求訴訟において請求を放棄することは許される。",
+  "ref_law": "民訴法203条，人事訴訟手続法10条",
+  "lawsuit_id": "52513",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52513",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/513/052513_hanrei.pdf"
+}

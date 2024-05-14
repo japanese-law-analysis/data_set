@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 5,
+    "month": 7,
+    "day": 20
+  },
+  "case_number": "平成5(し)71",
+  "case_name": "特別弁護人選任不許可の裁判に対する抗告棄却決定に対する特別抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第262号339頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 5,
+    "month": 7,
+    "day": 9
+  },
+  "gist": "特別弁護人の選任を許可しない旨の決定が刑訴法４２０条１項にいう「訴訟手続に関し判決前にした決定」に当たるとされた事例",
+  "ref_law": "刑訴法31条2項，刑訴法420条1項",
+  "lawsuit_id": "57988",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57988",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/988/057988_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 10,
+    "month": 3,
+    "day": 13
+  },
+  "case_number": "平成8(オ)1342",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第187号409頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成6(ネ)3497",
+  "original_date": {
+    "era": "Heisei",
+    "year": 8,
+    "month": 3,
+    "day": 27
+  },
+  "gist": "国会議員の被選挙権を有する者を日本国民に限っている公職選挙法一〇条一項と憲法一五条、市民的及び政治的権利に関する国際規約二五条",
+  "case_gist": "国会議員の被選挙権を有する者を日本国民に限っている公職選挙法一〇条一項と憲法一五条、市民的及び政治的権利に関する国際規約二五条に違反しない。",
+  "ref_law": "公職選挙法10条1項，憲法15条，市民的及び政治的権利に関する国際規約25条",
+  "lawsuit_id": "63057",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63057",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/057/063057_hanrei.pdf"
+}

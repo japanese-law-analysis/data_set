@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 11,
+    "month": 12,
+    "day": 20
+  },
+  "case_number": "平成10(オ)583",
+  "case_name": "損害賠償請求事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第53巻9号2038頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成8(ネ)753",
+  "original_date": {
+    "era": "Heisei",
+    "year": 9,
+    "month": 11,
+    "day": 28
+  },
+  "gist": "交通事故の被害者が事故のため介護を要する状態となった後に別の原因により死亡した場合に死亡後の期間に係る介護費用を右交通事故による損害として請求することの可否",
+  "case_gist": "交通事故の被害者が事故のため介護を要する状態となった後に別の原因により死亡した場合には、死亡後の期間に係る介護費用を右交通事故による損害として請求することはできない。\n（補足意見がある。）",
+  "ref_law": "民法416条，民法709条",
+  "lawsuit_id": "57036",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57036",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/036/057036_hanrei.pdf"
+}

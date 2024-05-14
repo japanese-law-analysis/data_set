@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 11,
+    "month": 11,
+    "day": 29
+  },
+  "case_number": "平成8(オ)556",
+  "case_name": "動産引渡請求事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第53巻8号1926頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成7(ネ)941",
+  "original_date": {
+    "era": "Heisei",
+    "year": 7,
+    "month": 11,
+    "day": 22
+  },
+  "gist": "一　貸金庫の内容物についての強制執行の可否及び方法\n　二　貸金庫契約上の内容物引渡請求権に係る取立訴訟における個々の動産の特定及び存在の立証の要否",
+  "case_gist": "一　貸金庫の内容物については、利用者の銀行に対する貸金庫契約上の内容物引渡請求権を差し押さえる方法により、強制執行をすることができる。\n　二　貸金庫契約上の内容物引渡請求権に係る取立訴訟においては、差押債権者は、貸金庫を特定し、それについて貸金庫契約が締結されていることを立証すれば足り、貸金庫内の個々の動産を特定してその存在を立証する必要はない。\n（一、二につき補足意見がある。）",
+  "ref_law": "民法第3編第2章契約，銀行法10条2項10号，民事執行法143条，民事執行法163条，民事執行法157条",
+  "lawsuit_id": "57075",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57075",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/075/057075_hanrei.pdf"
+}

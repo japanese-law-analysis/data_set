@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 9,
+    "month": 9,
+    "day": 9
+  },
+  "case_number": "平成6(オ)1287",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第51巻8号3850頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_case_number": "平成5(ネ)248",
+  "original_date": {
+    "era": "Heisei",
+    "year": 6,
+    "month": 3,
+    "day": 15
+  },
+  "gist": "国会議員が国会の質疑等の中でした発言と国家賠償責任",
+  "case_gist": "国会議員が国会の質疑、演説、討論等の中でした個別の国民の名誉又は信用を低下させる発言につき、国家賠償法一条一項の規定にいう違法な行為があったものとして国の損害賠償責任が肯定されるためには、当該国会議員が、その職務とはかかわりなく違法又は不当な目的をもって事実を摘示し、あるいは、虚偽であることを知りながらあえてその事実を摘示するなど、国会議員がその付与された権限の趣旨に明らかに背いてこれを行使したものと認め得るような特別の事情があることを必要とする。",
+  "ref_law": "国家賠償法1条1項，民法710条，憲法51条，衆議院規則45条1項",
+  "lawsuit_id": "52530",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52530",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/530/052530_hanrei.pdf"
+}

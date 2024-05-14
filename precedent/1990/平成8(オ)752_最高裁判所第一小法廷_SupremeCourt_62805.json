@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 8,
+    "month": 9,
+    "day": 26
+  },
+  "case_number": "平成8(オ)752",
+  "case_name": "賃金",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第180号473頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成7(ネ)1717",
+  "original_date": {
+    "era": "Heisei",
+    "year": 7,
+    "month": 12,
+    "day": 13
+  },
+  "gist": "懲戒当時に使用者が認識していなかった非違行為の存在をもって当該懲戒の有効性を根拠付けることの許否",
+  "case_gist": "懲戒当時に使用者が認識していなかった非違行為の存在をもって当該懲戒の有効性を根拠付けることは、特段の事情のない限り、許されない。",
+  "ref_law": "労働基準法89条",
+  "lawsuit_id": "62805",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62805",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/805/062805_hanrei.pdf"
+}

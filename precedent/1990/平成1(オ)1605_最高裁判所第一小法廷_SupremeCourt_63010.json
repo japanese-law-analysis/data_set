@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 5,
+    "month": 5,
+    "day": 27
+  },
+  "case_number": "平成1(オ)1605",
+  "case_name": "会費一部返還",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第169号57頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和61(ネ)2138",
+  "original_date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 8,
+    "day": 30
+  },
+  "gist": "税理士会の会費の使途を定めた総会決議の有効性と会員の税理士会に対する会費返還請求権",
+  "case_gist": "税理士会の会費の使途を定めた総会決議が無効であるとしても、会員は、税理士会に対して会費の返還を求めることはできない。\n（補足意見がある。）",
+  "ref_law": "民法703条，税理士法（昭和55年法律第26号による改正前のもの）49条2項",
+  "lawsuit_id": "63010",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63010",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/010/063010_hanrei.pdf"
+}

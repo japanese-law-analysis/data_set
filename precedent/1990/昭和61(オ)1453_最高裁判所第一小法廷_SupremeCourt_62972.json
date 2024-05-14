@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 2,
+    "month": 11,
+    "day": 8
+  },
+  "case_number": "昭和61(オ)1453",
+  "case_name": "帳簿閲覧",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第161号175頁",
+  "original_court_name": "高松高等裁判所",
+  "original_case_number": "昭和60(ネ)161",
+  "original_date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 9,
+    "day": 29
+  },
+  "gist": "株主が商法二九三条ノ六の規定に基づいてした会計の帳簿及び書類の閲覧等の請求が閲覧請求書にその理由を具体的に記載してされたものとはいえないとされた事例",
+  "case_gist": "株主が商法二九三条ノ六の規定に基づき会計の帳簿及び書類の閲覧等を請求するため会社に提出した書面に、「此度貴社が予定されている新株の発行その他会社財産が適正妥当に運用されているかどうかにつき、商法二九三条の六の規定に基づき、貴社の会計帳簿及び書類の閲覧謄写をいたしたい」と記載されているにすぎない場合は、右請求は、閲覧請求書に理由を記載してされたものとはいえない。",
+  "ref_law": "商法293条ノ6",
+  "lawsuit_id": "62972",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62972",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/972/062972_hanrei.pdf"
+}

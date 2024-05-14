@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 11,
+    "month": 11,
+    "day": 9
+  },
+  "case_number": "平成9(オ)873",
+  "case_name": "土地境界確定請求事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第53巻8号1421頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成5(ネ)3295",
+  "original_date": {
+    "era": "Heisei",
+    "year": 9,
+    "month": 2,
+    "day": 13
+  },
+  "gist": "土地の共有者のうちに境界確定の訴えを提起することに同調しない者がいる場合にその余の共有者が右の者を被告にして右の訴えを提起することの許否",
+  "case_gist": "土地の共有者のうちに境界確定の訴えを提起することに同調しない者がいる場合には、その余の共有者は、隣接する土地の所有者と訴えを提起することに同調しない者とを被告にして右の訴えを提起することができる。\n（補足意見がある。）",
+  "ref_law": "民法251条，民訴法40条，民訴法第1編第3章当事者，民訴法第2編第1章訴え",
+  "lawsuit_id": "52617",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52617",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/617/052617_hanrei.pdf"
+}

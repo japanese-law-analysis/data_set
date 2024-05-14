@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 11,
+    "month": 10,
+    "day": 22
+  },
+  "case_number": "平成10(行ヒ)43",
+  "case_name": "審決取消請求事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第53巻7号1270頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成9(行ケ)102",
+  "original_date": {
+    "era": "Heisei",
+    "year": 10,
+    "month": 3,
+    "day": 12
+  },
+  "gist": "特許権の存続期間の延長登録の理由となる薬事法所定の製造等の承認を受けることが必要であるために「特許発明の実施をすることができなかった期間」",
+  "case_gist": "特許権の存続期間の延長登録の理由となる処分である薬事法所定の製造等の承認を受けることが必要であるために「特許発明の実施をすることができなかった期間」は、右承認を受けるのに必要な試験を開始した日又は特許権の設定登録の日のうちのいずれか遅い方の日から、右承認が申請者に到達することにより処分の効力が発生した日の前日までの期間である。",
+  "ref_law": "特許法（平成5年法律第26号による改正前のもの）67条3項，特許法（平成5年法律第26号による改正前のもの）67条の3第1項，薬事法14条，薬事法23条",
+  "lawsuit_id": "52250",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52250",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/250/052250_hanrei.pdf"
+}

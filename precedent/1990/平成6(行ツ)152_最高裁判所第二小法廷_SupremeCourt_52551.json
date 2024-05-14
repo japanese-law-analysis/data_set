@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 10,
+    "month": 4,
+    "day": 10
+  },
+  "case_number": "平成6(行ツ)152",
+  "case_name": "再入国不許可処分取消等",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第52巻3号677頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "平成1(行コ)7",
+  "original_date": {
+    "era": "Heisei",
+    "year": 6,
+    "month": 5,
+    "day": 13
+  },
+  "gist": "再入国不許可処分を受けた者の本邦からの出国と右不許可処分の取消しを求める訴えの利益",
+  "case_gist": "再入国不許可処分を受けた者が本邦から出国した場合には、右不許可処分の取消しを求める訴えの利益は失われる。",
+  "ref_law": "行政事件訴訟法9条，出入国管理及び難民認定法26条1項",
+  "lawsuit_id": "52551",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52551",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/551/052551_hanrei.pdf"
+}

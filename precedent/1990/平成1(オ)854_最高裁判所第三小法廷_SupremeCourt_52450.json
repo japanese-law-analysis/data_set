@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 2,
+    "month": 6,
+    "day": 5
+  },
+  "case_number": "平成1(オ)854",
+  "case_name": "地位確認等",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第44巻4号668頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和6(ネ)2590",
+  "original_date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 3,
+    "day": 1
+  },
+  "gist": "一　労働者の新規採用契約においてその適性の評価・判断のために設けられた期間の性質\n二　試用期間付雇用契約の法的性質",
+  "case_gist": "一　労働者の新規採用契約においてその適性を評価し、判断するために期間を設けた場合には、右期間の満了により右契約が当然に終了する旨の明確な合意が当事者間に成立しているなどの特段の事情が認められる場合を除き、右期間は契約の存続期間ではなく、試用期間であると解するのが相当である。\n二　試用期間付雇用契約により雇用された労働者が試用期間中でない労働者と同じ職場で同じ職務に従事し、使用者の取扱いにも格段異なるところはなく、試用期間満了時に本採用に関する契約書作成の手続も採られていないような場合には、他に特段の事情が認められない限り、当該雇用契約は解約権留保付雇用契約であると解するのが相当である。",
+  "ref_law": "労働基準法第2章",
+  "lawsuit_id": "52450",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52450",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/450/052450_hanrei.pdf"
+}

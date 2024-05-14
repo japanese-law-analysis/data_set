@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 10,
+    "month": 2,
+    "day": 18
+  },
+  "case_number": "平成9(し)125",
+  "case_name": "公判手続停止決定に対する特別抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第273号25頁",
+  "original_court_name": "岡山地方裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 9,
+    "month": 7,
+    "day": 8
+  },
+  "gist": "刑訴法３１４条１項により公判手続を停止したことが憲法３７条１項に違反するという主張が前提を欠くとされた事例",
+  "ref_law": "憲法37条1項，刑訴法314条1項",
+  "lawsuit_id": "58063",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58063",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/063/058063_hanrei.pdf"
+}

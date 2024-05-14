@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 10,
+    "month": 3,
+    "day": 24
+  },
+  "case_number": "平成8(オ)551",
+  "case_name": "共有持分権に基づく妨害排除、遺言無効確認等",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集民　第187号485頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "平成7(ネ)204",
+  "original_date": {
+    "era": "Heisei",
+    "year": 7,
+    "month": 11,
+    "day": 22
+  },
+  "gist": "共有者の一人による共有物の変更と他の共有者からの原状回復請求の可否",
+  "case_gist": "共有者の一人が他の共有者の同意を得ることなく共有物に変更を加えた場合には、他の共有者は、特段の事情がない限り、変更により生じた結果を除去して共有物を原状に復させることを求めることができる。",
+  "ref_law": "民法249条，民法251条",
+  "lawsuit_id": "63059",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63059",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/059/063059_hanrei.pdf"
+}

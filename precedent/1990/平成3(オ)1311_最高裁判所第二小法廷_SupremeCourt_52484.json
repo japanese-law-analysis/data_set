@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 6,
+    "month": 7,
+    "day": 18
+  },
+  "case_number": "平成3(オ)1311",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第48巻5号1165頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和59(ネ)2089",
+  "original_date": {
+    "era": "Heisei",
+    "year": 3,
+    "month": 4,
+    "day": 24
+  },
+  "gist": "交通事故による損害賠償債務についての一部の弁済の提供及び供託が有効である場合",
+  "case_gist": "交通事故によって被った損害の賠償を求める訴訟の控訴審係属中に、加害者が被害者に対し、第一審判決によって支払を命じられた損害賠償金の全額を任意に弁済のため提供した場合には、その提供額が損害賠償債務の全額に満たないことが控訴審における審理判断の結果判明したときであっても、原則として、その弁済の提供はその範囲において有効であり、被害者においてその受領を拒絶したことを理由にされた弁済のための供託もまた有効である。",
+  "ref_law": "民法493条，民法494条",
+  "lawsuit_id": "52484",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52484",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/484/052484_hanrei.pdf"
+}

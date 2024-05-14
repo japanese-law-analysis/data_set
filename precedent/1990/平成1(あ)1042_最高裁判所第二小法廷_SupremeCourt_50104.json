@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 2,
+    "month": 5,
+    "day": 11
+  },
+  "case_number": "平成1(あ)1042",
+  "case_name": "食品衛生法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第44巻4号363頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 8,
+    "day": 30
+  },
+  "gist": "食品衛生法五条一項にいう「へい死した獣畜」に当たるとされた事例",
+  "case_gist": "と畜場法の手続に従って適法にと殺、解体されていない死亡獣畜は、食品衛生法五条一項にいう「へい死した獣畜」に当たる。",
+  "ref_law": "食品衛生法5条1項，食品衛生法30条",
+  "lawsuit_id": "50104",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50104",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/104/050104_hanrei.pdf"
+}

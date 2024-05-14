@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 9,
+    "month": 6,
+    "day": 5
+  },
+  "case_number": "平成5(オ)2172",
+  "case_name": "配当異議",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第51巻5号2116頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成4(ネ)4914",
+  "original_date": {
+    "era": "Heisei",
+    "year": 5,
+    "month": 8,
+    "day": 25
+  },
+  "gist": "所有者が土地及び地上建物に共同抵当権を設定した後に建て替えた新建物に土地の抵当権と同順位の共同抵当権を設定した場合に右抵当権の被担保債権に優先する国税について執行裁判所に対し交付要求がされたときの法定地上権の成否",
+  "case_gist": "所有者が、土地及び地上建物に共同抵当権を設定した後、建物を取り壊し、土地上に新たに建物を建築し、新建物について土地の抵当権と同順位の共同抵当権を設定した場合であっても、新建物についての抵当権の被担保債権に優先する国税について執行裁判所に対し交付要求がされたときには、新建物のために法定地上権は成立しない。",
+  "ref_law": "民法388条，国税徴収法8条，国税徴収法16条，国税徴収法82条",
+  "lawsuit_id": "54784",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54784",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/784/054784_hanrei.pdf"
+}

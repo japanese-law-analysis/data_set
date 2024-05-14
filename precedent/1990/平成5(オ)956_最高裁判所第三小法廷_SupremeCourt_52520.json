@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 8,
+    "month": 10,
+    "day": 29
+  },
+  "case_number": "平成5(オ)956",
+  "case_name": "公道確認等",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第50巻9号2506頁",
+  "original_court_name": "高松高等裁判所",
+  "original_case_number": "平成2(ネ)96",
+  "original_date": {
+    "era": "Heisei",
+    "year": 5,
+    "month": 3,
+    "day": 25
+  },
+  "gist": "背信的悪意者からの転得者と民法一七七条の第三者",
+  "case_gist": "所有者甲から乙が不動産を買い受け、その登記が未了の間に、甲から丙が当該不動産を二重に買い受け、更に丙から転得者丁が買い受けて登記を完了した場合に、丙が背信的悪意者に当たるとしても、丁は、乙に対する関係で丁自身が背信的悪意者と評価されるのでない限り、当該不動産の所有権取得をもって乙に対抗することができる。",
+  "ref_law": "民法177条",
+  "lawsuit_id": "52520",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52520",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/520/052520_hanrei.pdf"
+}

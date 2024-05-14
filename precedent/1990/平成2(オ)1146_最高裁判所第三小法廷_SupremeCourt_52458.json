@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 6,
+    "month": 11,
+    "day": 22
+  },
+  "case_number": "平成2(オ)1146",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第48巻7号1355頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和63(ネ)730",
+  "original_date": {
+    "era": "Heisei",
+    "year": 2,
+    "month": 5,
+    "day": 14
+  },
+  "gist": "一　金銭債権の一部請求と相殺\n二　金銭債権の一部を請求する訴訟において相殺のため主張された自働債権の存否の判断の既判力",
+  "case_gist": "一　特定の金銭債権の一部を請求する訴訟において相殺の抗弁が理由がある場合には、当該債権の総額を確定し、その額から自働債権の額を控除した残存額を算定した上、請求額が残存額の範囲内であるときは請求の全額を、残存額を超えるときは残存額の限度でこれを認容すべきである。\n二　特定の金銭債権の一部を請求する訴訟において相殺のため主張された自働債権の存否の判断は、右金銭債権の総額から一部請求の額を控除した残額部分に対応する範囲については既報力を生じない。",
+  "ref_law": "民法505条，民訴法186条，民訴法199条2項",
+  "lawsuit_id": "52458",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52458",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/458/052458_hanrei.pdf"
+}

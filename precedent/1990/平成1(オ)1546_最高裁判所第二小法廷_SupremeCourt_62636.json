@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 2,
+    "month": 1,
+    "day": 22
+  },
+  "case_number": "平成1(オ)1546",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第159号121頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "平成1(ネ)73",
+  "original_date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 8,
+    "day": 9
+  },
+  "gist": "仮処分命令の本案において原告敗訴の判決が確定した場合において仮処分申請人に過失があったとはいえないとされた事例",
+  "case_gist": "仮処分命令の本案において、仮処分申請における原告の主張が採用されず原告敗訴の判決が確定した場合においても、請求の当否が遺言の趣旨の解釈にかかるものであり、原告が右遺言の趣旨を遺産分割方法の指定と解したことが首肯し得るものであった等判示の事実関係の下においては、直ちに仮処分申請人に過失があったものとすることはできない。",
+  "ref_law": "民法709条，民訴法755条",
+  "lawsuit_id": "62636",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62636",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/636/062636_hanrei.pdf"
+}

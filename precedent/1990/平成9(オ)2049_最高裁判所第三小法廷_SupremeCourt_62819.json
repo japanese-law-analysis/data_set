@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 11,
+    "month": 1,
+    "day": 29
+  },
+  "case_number": "平成9(オ)2049",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集民　第191号265頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成8(ネ)4888",
+  "original_date": {
+    "era": "Heisei",
+    "year": 9,
+    "month": 5,
+    "day": 20
+  },
+  "gist": "一つの交通事故について甲及び乙が連帯して損害賠償責任を負う場合に乙の損害賠償責任についてのみ過失相殺がされて両者の賠償すべき額が異なるときに甲のした損害の一部てん補が乙の賠償すべき額に及ぼす影響",
+  "case_gist": "一つの交通事故について甲及び乙が被害者丙に対して連帯して損害賠償責任を負う場合において、乙の損害賠償責任についてのみ過失相殺がされ、両者の賠償すべき額が異なるときは、甲がした損害の一部てん補は、てん補額を丙が甲からてん補を受けるべき損害額から控除しその残損害額が乙の賠償すべき額を下回ることにならない限り、乙の賠償すべき額に影響しない。",
+  "ref_law": "民法719条，民法722条2項",
+  "lawsuit_id": "62819",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62819",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/819/062819_hanrei.pdf"
+}
