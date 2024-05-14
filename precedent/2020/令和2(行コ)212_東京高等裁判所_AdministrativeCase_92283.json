@@ -1,0 +1,16 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Reiwa",
+    "year": 3,
+    "month": 9,
+    "day": 8
+  },
+  "case_number": "令和2(行コ)212",
+  "case_name": "観察処分期間更新決定取消等請求控訴、訴えの追加的変更申立て請求事件",
+  "court_name": "東京高等裁判所",
+  "field": "行政",
+  "lawsuit_id": "92283",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=92283",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/283/092283_hanrei.pdf"
+}

@@ -1,0 +1,17 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Reiwa",
+    "year": 3,
+    "month": 3,
+    "day": 4
+  },
+  "case_number": "令和1(行ウ)146",
+  "case_name": "更正をすべき理由がない旨の通知処分取消請求事件",
+  "court_name": "大阪地方裁判所",
+  "gist": "贈与を受けた不動産について贈与税を納付して当該不動産を賃貸して賃料収入を得ていた場合において，当該贈与税の額が当該不動産の賃貸による不動産所得の金額の計算上必要経費に算入すべき金額に該当しないとされた事例",
+  "case_gist": "贈与を受けた不動産について贈与税を納付して当該不動産を賃貸して賃料収入を得ていた場合において，当該贈与税が上記賃貸業務と関連性を有しないなど判示の事情の下では，当該贈与税の額は，当該土地の賃貸による不動産所得の金額の計算上，必要経費に算入すべき金額に該当しない。",
+  "lawsuit_id": "90758",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=90758",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/758/090758_hanrei.pdf"
+}

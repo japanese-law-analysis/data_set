@@ -1,0 +1,15 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Reiwa",
+    "year": 2,
+    "month": 2,
+    "day": 26
+  },
+  "case_number": "平成29(ワ)689",
+  "case_name": "国家賠償請求事件",
+  "court_name": "熊本地方裁判所民事３部",
+  "lawsuit_id": "89275",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=89275",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/275/089275_hanrei.pdf"
+}

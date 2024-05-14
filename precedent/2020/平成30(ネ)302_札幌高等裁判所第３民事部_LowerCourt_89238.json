@@ -1,0 +1,20 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Reiwa",
+    "year": 2,
+    "month": 2,
+    "day": 6
+  },
+  "case_number": "平成30(ネ)302",
+  "case_name": "謝罪広告等請求控訴事件",
+  "court_name": "札幌高等裁判所第３民事部",
+  "result": "棄却",
+  "original_court_name": "札幌地方裁判所",
+  "original_case_number": "平成27(ワ)2233",
+  "original_result": "棄却",
+  "gist": "本件は，朝日新聞社の記者であった控訴人が，平成３年の慰安婦に関する記事が捏造であると断定され名誉を棄損されたと主張して，ジャーナリストである被控訴人と同人の記事を掲載した出版社らに対し，損害賠償や謝罪広告の掲載等を求めた事案であるところ，原審と同じく，控訴人の各請求をいずれも棄却した。",
+  "lawsuit_id": "89238",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=89238",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/238/089238_hanrei.pdf"
+}

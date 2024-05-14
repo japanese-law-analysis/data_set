@@ -1,0 +1,17 @@
+{
+  "trial_type": "IPCase",
+  "date": {
+    "era": "Reiwa",
+    "year": 3,
+    "month": 5,
+    "day": 19
+  },
+  "case_number": "令和2(ネ)10019",
+  "case_name": "特許権侵害差止等請求控訴事件",
+  "court_name": "知的財産高等裁判所",
+  "right_type": "特許権",
+  "lawsuit_type": "民事訴訟",
+  "lawsuit_id": "90408",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail7?id=90408",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/408/090408_hanrei.pdf"
+}

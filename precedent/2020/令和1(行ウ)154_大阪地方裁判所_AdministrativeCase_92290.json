@@ -1,0 +1,18 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Reiwa",
+    "year": 4,
+    "month": 3,
+    "day": 24
+  },
+  "case_number": "令和1(行ウ)154",
+  "case_name": "固定資産価格審査決定取消請求事件",
+  "court_name": "大阪地方裁判所",
+  "field": "行政",
+  "gist": "大阪市長が複合構造家屋の価格の決定において当該家屋の低層階を構成する構造により主たる構造を認定して経年減点補正率を適用したことが，固定資産評価基準に反するとされた事例",
+  "case_gist": "大阪市長が複合構造家屋の価格の決定において当該家屋の低層階を構成する構造により主たる構造を認定して経年減点補正率を適用したことは，当該家屋の低層階を構成する構造の床面積が当該家屋の床面積全体に占める割合が約１３％にすぎず，それ以外に低層階を構成する構造により主たる構造を認定する合理的な理由がないなど判示の事情の下では，合理的な理由がなく，固定資産評価基準に反する。",
+  "lawsuit_id": "92290",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=92290",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/290/092290_hanrei.pdf"
+}

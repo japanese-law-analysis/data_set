@@ -1,0 +1,16 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Reiwa",
+    "year": 2,
+    "month": 12,
+    "day": 2
+  },
+  "case_number": "令和1(行コ)168",
+  "case_name": "東京都市計画高度地区（港区決定）計画書第７項に基づく許可処分取消請求控訴事件",
+  "court_name": "東京高等裁判所",
+  "field": "行政",
+  "lawsuit_id": "92275",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=92275",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/275/092275_hanrei.pdf"
+}

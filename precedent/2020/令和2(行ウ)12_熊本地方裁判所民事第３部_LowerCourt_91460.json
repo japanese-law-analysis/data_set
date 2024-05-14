@@ -1,0 +1,15 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Reiwa",
+    "year": 4,
+    "month": 10,
+    "day": 3
+  },
+  "case_number": "令和2(行ウ)12",
+  "case_name": "生活保護廃止処分取消請求事件",
+  "court_name": "熊本地方裁判所民事第３部",
+  "lawsuit_id": "91460",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=91460",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/460/091460_hanrei.pdf"
+}

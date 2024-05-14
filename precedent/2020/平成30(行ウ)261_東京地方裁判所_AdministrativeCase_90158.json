@@ -1,0 +1,17 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Reiwa",
+    "year": 2,
+    "month": 9,
+    "day": 17
+  },
+  "case_number": "平成30(行ウ)261",
+  "case_name": "豊洲市場違法建築物除却命令等義務付請求事件",
+  "court_name": "東京地方裁判所",
+  "gist": "建築基準法１８条２５項に基づき特定行政庁が建築物又はその敷地を管理する国の機関の長等に対して行う通知及び要請は，抗告訴訟の対象となる行政処分に当たるか",
+  "case_gist": "建築基準法１８条２５項に基づき特定行政庁が建築物又はその敷地を管理する国の機関の長等に対して行う通知は，当該建築物が建築基準法令の規定に違反する旨を知らせる事実行為にすぎず，また，同項に基づき特定行政庁が上記の長等に対して行う要請も，任意の是正措置を促す行為にとどまるものであるから，いずれも，抗告訴訟の対象となる行政処分に当たらない。",
+  "lawsuit_id": "90158",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=90158",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/158/090158_hanrei.pdf"
+}

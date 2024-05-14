@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Reiwa",
+    "year": 5,
+    "month": 5,
+    "day": 8
+  },
+  "case_number": "令和5(し)270",
+  "case_name": "勾留理由開示に対する特別抗告事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "original_court_name": "札幌地方裁判所",
+  "original_case_number": "令和5(む)447",
+  "original_date": {
+    "era": "Reiwa",
+    "year": 5,
+    "month": 4,
+    "day": 11
+  },
+  "gist": "勾留理由の開示に対する特別抗告申立ての適否",
+  "ref_law": "刑訴法８３条、刑訴法８４条、刑訴法４３３条１項",
+  "lawsuit_id": "92065",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=92065",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/065/092065_hanrei.pdf",
+  "contents": "令和５年（し）第２７０号  勾留理由開示に対する特別抗告事件\n令和５年５月８日  第一小法廷決定\n主      文\n本件抗告を棄却する。\n理      由\n本件抗告は、裁判官が勾留理由開示期日において告知した勾留理由に関し不服を\n申し立てる趣旨のものである。しかし、勾留理由の開示は、公開の法廷で裁判官が\n勾留の理由を告げることであるから、刑訴法４３３条１項にいう「決定又は命令」\nに当たらないと解するのが相当である（最高裁平成５年（し）第６４号同年７月１\n９日第二小法廷決定・刑集４７巻７号３頁参照）。したがって、本件抗告の申立て\nは不適法である。\nよって、同法４３４条、４２６条１項により、裁判官全員一致の意見で、主文の\nとおり決定する。\n( 裁 判 長 裁 判 官   深 山 卓 也   裁判官   山口   厚   裁 判 官   安浪亮介   裁 判 官\n岡  正晶  裁判官  堺   徹)\n"
+}

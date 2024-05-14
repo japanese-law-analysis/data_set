@@ -1,0 +1,18 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Reiwa",
+    "year": 4,
+    "month": 11,
+    "day": 24
+  },
+  "case_number": "令和4(行ウ)18等",
+  "case_name": "裁決取消等請求事件、差押処分取消請求事件",
+  "court_name": "大阪地方裁判所",
+  "field": "行政",
+  "gist": "固定資産税等の滞納があるとしてされた預金債権の差押処分を受けた者は、同預金債権の取立てが完了した場合であっても、同差押処分の取消しを求める訴えの利益を有するか（積極）",
+  "case_gist": "固定資産税等の滞納があるとしてされた預金債権の差押処分を受けた者は、同預金債権の取立てが完了した場合であっても、同差押処分が取り消されれば、同取立ては取立権限（第三債務者からの弁済の受領権限）なく行われたこととなり、不当利得返還請求をすることが可能となるから、同差押処分の取消しを求める訴えの利益を有する。",
+  "lawsuit_id": "92306",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=92306",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/306/092306_hanrei.pdf"
+}
