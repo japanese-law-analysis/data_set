@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 11,
+    "day": 13
+  },
+  "case_number": "昭和23(れ)756",
+  "case_name": "傷害致死、銃砲等所持禁止令違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第5号253頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 4,
+    "day": 26
+  },
+  "gist": "正當防衞の主張のない場合における判斷判示の要否",
+  "case_gist": "原審に於ては被告人からも、辯護人からも、被告人の行爲が正當防衞に出たものであるということは主張されていないのであるから原審がこの點についての判斷を示さなかつたのは當然である。",
+  "ref_law": "刑訴法360條2項",
+  "lawsuit_id": "74775",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74775",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/775/074775_hanrei.pdf"
+}

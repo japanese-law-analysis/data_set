@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 9,
+    "day": 13
+  },
+  "case_number": "昭和24(マ)24",
+  "case_name": "離婚請求事件の判決に対する異議の申立",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "却下",
+  "article_info": "集民　第2号643頁",
+  "original_court_name": "最高裁判所",
+  "original_case_number": "昭和24(オ)92",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 8,
+    "day": 9
+  },
+  "lawsuit_id": "73406",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=73406",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/406/073406_hanrei.pdf"
+}

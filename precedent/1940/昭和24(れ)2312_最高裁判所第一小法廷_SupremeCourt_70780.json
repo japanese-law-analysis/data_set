@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 12,
+    "day": 8
+  },
+  "case_number": "昭和24(れ)2312",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第15号245頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 7,
+    "day": 15
+  },
+  "gist": "上告趣意書において主張されている下級審の手續上の事實が、記録上認め得ない場合に職權を以てその事實を調査することの要否",
+  "case_gist": "上告裁判所は上告趣意書において主張されている事實裁判所の手續上の事實が一件記録により認め得ない場合上告人において該事實を證明しないにも拘わらず、更に進んで職權を以てその事實の有無を調査すべき義務を負うものではない。そして「記録第一二二丁Ａの上申書、同第一二三丁ａ村長Ｂの證明書」等の存在は必ずしも所論書面の提出を明瞭ならしめるものでないことは多言を要しないところである。されば記録上他に該書面の提出を窺い得べき證據のない本件において、原審がかゝる事實を認め得ないとしたことは正當であり、原判決には所論のような違法はなく論旨は理由なきものである。",
+  "ref_law": "舊刑訴法434條，舊刑訴法435條",
+  "lawsuit_id": "70780",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70780",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/780/070780_hanrei.pdf"
+}

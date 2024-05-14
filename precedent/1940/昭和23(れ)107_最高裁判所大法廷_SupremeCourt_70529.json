@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 6,
+    "day": 2
+  },
+  "case_number": "昭和23(れ)107",
+  "case_name": "村会議員選挙罰則違反",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第2号295頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 11,
+    "day": 11
+  },
+  "gist": "公判公開の有無と公判調書の記載",
+  "case_gist": "刑訴第六〇條第二項第四號には訴訟手續の公開を禁じたときは、その旨及び理由を公判調書に記載すべき旨を規定しているが公開した旨を公判調書に特に記載すべき旨を規定していないから公判調書に公開を禁じた旨の記載がない限り公判は公開して行われたものと認むるのが相當である。",
+  "ref_law": "刑訴法60條2項4號",
+  "lawsuit_id": "70529",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70529",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/529/070529_hanrei.pdf"
+}

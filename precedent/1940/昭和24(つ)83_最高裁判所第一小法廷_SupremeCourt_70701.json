@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 12,
+    "day": 15
+  },
+  "case_number": "昭和24(つ)83",
+  "case_name": "上訴権消滅後になした上告棄却決定に対する再抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第15号407頁",
+  "original_court_name": "最高裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 7,
+    "day": 6
+  },
+  "gist": "最高裁判所の決定に對する再抗告の適否",
+  "case_gist": "抗告人は、昭和二四年（つ）第七五號再抗告事件について、同年七月六日當裁判所第二小法廷がなした上訴權消滅後になしたる上告棄却決定に對する抗告棄却の決定に對し更らに本件再抗告をしたものである。そして、最高裁判所は最終審の裁判所であるから、そのなした決定に對しては最早いずこにも更らに抗告することはできない。これが現在の法律制度である。それ故、舊刑訴第四六六條第一項に従い本件再抗告を不適法として棄却すべきものとし、主文のとおり決定する。",
+  "ref_law": "舊刑訴法466條1項，裁判所法7條2號",
+  "lawsuit_id": "70701",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70701",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/701/070701_hanrei.pdf"
+}

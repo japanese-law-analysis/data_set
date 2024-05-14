@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 11,
+    "day": 8
+  },
+  "case_number": "昭和24(れ)1809",
+  "case_name": "傷害、恐喝幇助、脅迫幇助",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第14号499頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 12,
+    "day": 20
+  },
+  "gist": "第一審判決で懲役一年罰金三百圓を言渡し原審判決が懲役一〇月を言渡した場合と舊刑訴法第四〇三條にいわゆる不利益變更禁止",
+  "case_gist": "舊刑訴法第四〇三條のいわゆる不利益變更禁止とは、判決主文の刑即ち判決の結果を原判決の結果に比して、重い刑を云渡すことを禁ずる趣旨であること、しばしば當裁判所の判例（昭和二三年（れ）第一〇八號同年一一月八日第一小法廷判決、昭和二三年（れ）第八三八號同年一二月四日第二小法廷判決参照）に示されている通りである。しかるに本件第一審判決は、懲役一年並に罰金三百圓の刑を云渡しているのに對して、原判決は懲役一〇月としたのであるから、原判決は舊刑訴法第四〇三條に抵觸するものでないこと明かである。",
+  "ref_law": "舊刑訴法403條",
+  "lawsuit_id": "74866",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74866",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/866/074866_hanrei.pdf"
+}

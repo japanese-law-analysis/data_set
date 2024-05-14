@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 9,
+    "day": 11
+  },
+  "case_number": "昭和23(れ)531",
+  "case_name": "窃盗、賍物牙保、同収受",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第4号77頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 3,
+    "day": 11
+  },
+  "gist": "被告人に實刑を科したためその家族が生活困難に陷る場合と憲法違反",
+  "case_gist": "被告人が實刑を科せられた爲めに被告人の家族が生活困難に陷ることがあつても、その判決をもつて違憲であると言うことはできないことは、既に當裁判所の判例とするところである（昭和二二年（れ）第二〇一號昭和二三年三月二日言渡、昭和二二年（れ）第一〇五號昭和二三年四月七日言渡）",
+  "ref_law": "憲法25條",
+  "lawsuit_id": "74737",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74737",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/737/074737_hanrei.pdf"
+}

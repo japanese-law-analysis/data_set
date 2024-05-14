@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 10,
+    "day": 29
+  },
+  "case_number": "昭和24(れ)1636",
+  "case_name": "強盗、住居侵入",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第14号323頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 4,
+    "day": 14
+  },
+  "gist": "強盜の共謀と暴行脅迫又は財物強取の行爲をしない者の責任",
+  "case_gist": "共謀の事實が認められる以上は現場において、被告人が自ら暴行脅迫若しくは財物強取の行爲をしなくても、他の共犯者のした強盜の所爲について、共同正犯の責任を兔れることはできない。",
+  "ref_law": "刑法60條，刑法236條",
+  "lawsuit_id": "74852",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74852",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/852/074852_hanrei.pdf"
+}

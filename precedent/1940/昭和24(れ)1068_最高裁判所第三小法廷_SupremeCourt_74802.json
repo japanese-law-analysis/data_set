@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 10,
+    "day": 4
+  },
+  "case_number": "昭和24(れ)1068",
+  "case_name": "詐欺",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第14号29頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 2,
+    "day": 21
+  },
+  "gist": "公判調書記載の被告人の供述のみによつて犯意を認定したという主張と上告理由",
+  "case_gist": "原審は、被告人の犯意を含めて犯罪事實の全体を第二回公判調書その他の援用にかゝる證據を綜合して認定しているのであつて、被告人の犯意を所論の自白のみによつて認定したものではない。されば、犯意の成立を右公判調書記載の自白のみによつて認定したという前提の下に原判決の違法を主張する所論は、原判示に添わないものであつて採用することができない。",
+  "ref_law": "舊刑訴法336條，舊刑訴法337條，舊刑訴法409條",
+  "lawsuit_id": "74802",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74802",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/802/074802_hanrei.pdf"
+}

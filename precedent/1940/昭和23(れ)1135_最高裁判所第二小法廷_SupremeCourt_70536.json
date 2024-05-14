@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 4,
+    "day": 9
+  },
+  "case_number": "昭和23(れ)1135",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第9号177頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 6,
+    "day": 24
+  },
+  "gist": "證據説示の程度",
+  "case_gist": "然し判文に事實認定の證憑となつた證據の内容を具體的に明示することは必ずしも必要でないが如何なる證據及び證據の如何なる部分によつて如何なる事實を認定したものかが判文記載の事實と相俟つて、その内容を知り得る程度に説明すれば足るものである。",
+  "ref_law": "刑訴法360條1項",
+  "lawsuit_id": "70536",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70536",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/536/070536_hanrei.pdf"
+}

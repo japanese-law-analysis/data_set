@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 11,
+    "day": 19
+  },
+  "case_number": "昭和22(れ)81",
+  "case_name": "強盗殺人",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第1号71頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 7,
+    "day": 4
+  },
+  "gist": "一　犯罪の日時に關する立證\n二　判決に於ける事實摘示の具體性の程度",
+  "case_gist": "一　もともと犯罪の日時は罪となるべき事實そのものではないから、本件強盜殺人の犯行そのものの認定及び採證に違法も不當もない本件に在つては犯行の時刻を逐一證據によつて認めた理由を示さないからとて所論のような不法があるものとは云へい。\n二　凡そ犯罪の實行行爲の具體的記述にあたつては、巨細に亘り之を記載するを妨げないが、さればと云つてその記載事實の詳細に亘り逐一證拠によつて認めた理由を明示するの必要はなく、要は犯罪構成事實の主要部分が認定記述せられ、之に對する採證が明示せられていれば、それで必要にして十分な判決理由となるものと解するのが相當である。",
+  "ref_law": "刑訴法336條，刑訴法360條1項，刑訴法410條19號",
+  "lawsuit_id": "74637",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74637",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/637/074637_hanrei.pdf"
+}

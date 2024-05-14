@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 3,
+    "day": 16
+  },
+  "case_number": "昭和22(れ)267",
+  "case_name": "偽造公文書行使、詐欺、贈賄",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第2巻3号232頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 9,
+    "day": 30
+  },
+  "gist": "贈賄罪の客體が賍物である場合と贈賄罪の成立",
+  "case_gist": "刑法第一九七條の罪が成立する爲めには公務員が收受した金品が賍物であつても差支へない（賍物と知りながら收受した場合は收賄罪と賍物收受罪との二罪が成立するわけである）（大審院明治四四年（れ）第三四九號同年三月三〇日言渡判決参照）されば本件に於て被告人が原審相被告人に其職務上の不正行爲に對する謝禮として交付した金員が假令賍物であつたとしても之が爲に贈賄罪の成立に少しも影響を及ぼすことはない。",
+  "ref_law": "刑法197條，刑法256條1項",
+  "lawsuit_id": "56429",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56429",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/429/056429_hanrei.pdf"
+}

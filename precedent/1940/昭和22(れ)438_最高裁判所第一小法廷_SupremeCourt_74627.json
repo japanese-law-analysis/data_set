@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 7,
+    "day": 22
+  },
+  "case_number": "昭和22(れ)438",
+  "case_name": "強盗、強姦",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第2巻9号1000頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 3,
+    "day": 11
+  },
+  "gist": "強盜罪における「他人ノ財物」の判示程度",
+  "case_gist": "強盜罪の構成要件たる「他人ノ財物」を判示するには、犯人及び共犯者以外の者の所有に屬する如何なる財物なりや等要するに、法令の適用の基礎を明らかにするに必要な程度に具體的であれば足りる。",
+  "ref_law": "刑法236条1項，刑訴法360条1項",
+  "lawsuit_id": "74627",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74627",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/627/074627_hanrei.pdf"
+}

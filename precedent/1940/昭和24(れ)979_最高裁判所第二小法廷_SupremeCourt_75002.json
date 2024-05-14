@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 10,
+    "day": 1
+  },
+  "case_number": "昭和24(れ)979",
+  "case_name": "収賄",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第14号1頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 12,
+    "day": 15
+  },
+  "gist": "勾留後四〇日目にした自白と不當に長い拘禁後の自白",
+  "case_gist": "論旨は被告人の檢察官に對する供述は不當に長く拘禁された後の自白であるから證據とすることができないものであると主張するけれども被告人の勾留は昭和二二年一〇月三日であつて檢察官の第一回聽取書は同月九日、第二回聽取書は同月一一日に作成されたものであるから右聽取書における被告人の自白が不當に長く拘禁された後の自白でないことは明かである。檢察官の第三回聽取書の作成は同年一一月一二日であつて勾留後四〇日目であるがしかしその間檢察官によつて取調べられた本件關係者の數は三十數名の多數に上り、被告人の犯罪事實は九個に及ぶのであつて、かような複雜な事件の取調をするについて四〇日と云う期間は必ずしも不當な長期拘禁とは云へない。",
+  "ref_law": "憲法38條2項，刑訴應急措置法10條2項",
+  "lawsuit_id": "75002",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=75002",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/002/075002_hanrei.pdf"
+}

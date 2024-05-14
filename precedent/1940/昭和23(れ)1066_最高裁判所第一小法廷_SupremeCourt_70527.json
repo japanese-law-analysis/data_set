@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 12,
+    "day": 9
+  },
+  "case_number": "昭和23(れ)1066",
+  "case_name": "強盗幇助、賍物故買",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第6号147頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 3,
+    "day": 15
+  },
+  "gist": "精神状態の判定に關する事實審の專權と公平な裁判を受ける權利",
+  "case_gist": "かかる精神障害の有無は、事實審たる原審が諸般の資料により適正に決すべき職權事項であつて、その判斷をするに必ずしも常に専門の知識を有する者の鑑定を要するものではない。されば原審が上告人のかかる主張に對しその鑑定申請を却下した上所論の理由を以てその主張を排斥したからと言つて所論のように憲法の與えた公平な裁判を受ける權利を侵害したものとはいえない。",
+  "ref_law": "刑訴法337條，憲法37條1項",
+  "lawsuit_id": "70527",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70527",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/527/070527_hanrei.pdf"
+}

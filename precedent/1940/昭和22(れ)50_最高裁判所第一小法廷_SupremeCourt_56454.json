@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 11,
+    "day": 24
+  },
+  "case_number": "昭和22(れ)50",
+  "case_name": "強姦未遂",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第1巻号21頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 6,
+    "day": 28
+  },
+  "gist": "親告罪における告訴",
+  "case_gist": "被害者が檢事に對し「告訴はしません」という語句を使用しても、その陳述全體の趣旨が犯罪事實を申告するとともに犯人の處罰を望むものであるときは、親告罪の告訴として有効である。",
+  "ref_law": "刑訴法272條，刑訴法273條1項",
+  "lawsuit_id": "56454",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56454",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/454/056454_hanrei.pdf"
+}

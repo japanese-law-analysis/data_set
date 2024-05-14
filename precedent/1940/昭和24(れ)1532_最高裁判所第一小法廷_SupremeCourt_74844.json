@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 11,
+    "day": 17
+  },
+  "case_number": "昭和24(れ)1532",
+  "case_name": "強盗、窃盗",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第14号689頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 2,
+    "day": 25
+  },
+  "gist": "共謀による連續一罪の窃盜の事實の判示方",
+  "case_gist": "共謀による連續一罪の事實の判示としては、單獨ではなく他の者と共謀したこと並びに行爲の始期、終期、回數、被害者の數、被害品の品目、總數等、行爲が連續犯に該當する複數のものであることを知り得る程度に判示すれば足りる。",
+  "ref_law": "舊刑訴360條1項，削除前の刑法55條",
+  "lawsuit_id": "74844",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74844",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/844/074844_hanrei.pdf"
+}

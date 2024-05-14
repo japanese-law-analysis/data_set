@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 6,
+    "day": 1
+  },
+  "case_number": "昭和23(オ)8",
+  "case_name": "村会議員当選無効決定取消",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第2巻7号125頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 12,
+    "day": 10
+  },
+  "gist": "一　選舉權のない者のした投票と投票の祕密\n二　選舉權のない者が投票をしたことを理由とする選舉に關する争訟の性質",
+  "case_gist": "一　これらの規定の立法の趣旨は、正當な選舉人が他からなんらの製肘を受けずに自由な意思で投票することができ、從つて選舉が公正に行はれることを保障したものであること勿論であるが、これをもつて選舉權のない者が投票した場合を除外して規定したものと言うことはできない。\n二　選舉權のない者のした投票の無効を主張して當選の効力を争う争訟は當選争訟であつて選舉の効力を争う選舉争訟ではないのであるから原判決には違法はない。",
+  "ref_law": "地方自治法37條，地方自治法66條，衆議院議員選舉法39條",
+  "lawsuit_id": "57116",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57116",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/116/057116_hanrei.pdf"
+}

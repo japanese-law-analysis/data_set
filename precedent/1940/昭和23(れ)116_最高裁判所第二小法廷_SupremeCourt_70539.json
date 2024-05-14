@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 5,
+    "day": 29
+  },
+  "case_number": "昭和23(れ)116",
+  "case_name": "食糧管理法違反、物価統制令違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第2号239頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 12,
+    "day": 10
+  },
+  "gist": "適用法條についての判文上の誤記",
+  "case_gist": "職權をもつて原判決を調査するに、原判決はその法律適用の項において、「昭和二二年一〇月二六日法律第一二四號第一〇條」と記載しているのであるが、同法律は刑法の一部改正に關する法律であつて、同法には第一〇條という規定は存在しないのみならず、原判決が同法をここに引用したのは、本件被告人の公程價格を超えて、うるち精米を賣買した數個の行爲は、改正前刑法第五五條に該當することを判示せんがためであることは、判文上極めて明瞭であるから、右の記載は「昭和二二年一〇月二六日法律第一二四號附則第四項刑法第一〇條」の誤記であると解するのが相當である。したがつて、この瑕疵は、原判決を破毀するに足りないものと認める。",
+  "ref_law": "昭和22年法律124號附則4項，刑法55條",
+  "lawsuit_id": "70539",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70539",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/539/070539_hanrei.pdf"
+}

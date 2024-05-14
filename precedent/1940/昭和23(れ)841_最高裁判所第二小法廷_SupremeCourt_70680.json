@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 12,
+    "day": 4
+  },
+  "case_number": "昭和23(れ)841",
+  "case_name": "物価統制令違反、食糧管理法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第6号69頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 6,
+    "day": 7
+  },
+  "gist": "憲法第三七條第一項にいわゆる「公平な裁判所の裁判」の意義",
+  "case_gist": "憲法第三七條第一項にいわゆる「公平な裁判所の裁判」とは、偏頗や不公平のおそれのない組織と構成をもつ裁判所の裁判を意味するものであつて、個々の事件について具體的に構成妥當な裁判を指すものではない（昭和二三年六月九日言渡昭和二二年（れ）第一三八號事件參照）。從つて、假りに、所論のように言渡された刑が他の同種内容の事件と比較して著しく重くその權衡を失するとしても、これを以て右憲法の規定に違反するものと解することはできない。",
+  "ref_law": "憲法37條1項",
+  "lawsuit_id": "70680",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70680",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/680/070680_hanrei.pdf"
+}

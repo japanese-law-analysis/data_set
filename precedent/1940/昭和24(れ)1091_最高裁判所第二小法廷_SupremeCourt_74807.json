@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 7,
+    "day": 16
+  },
+  "case_number": "昭和24(れ)1091",
+  "case_name": "強盗殺人、同傷人、窃盗、死体遺棄、住居侵入等",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第12号671頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 3,
+    "day": 15
+  },
+  "gist": "強盜行爲が未遂であつた場合と強盜傷人罪の成立",
+  "case_gist": "上告趣意一の強盜行爲（原判決判示第一の事實）は未遂であることは原判決もそのとおりに認定しているのであるが、その現場において傷人した以上は、たとい強盜行爲は未遂であつても、刑法第二四〇條前段の強盜傷人罪は成立するのである。",
+  "ref_law": "刑法240條",
+  "lawsuit_id": "74807",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74807",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/807/074807_hanrei.pdf"
+}

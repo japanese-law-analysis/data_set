@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 5,
+    "day": 31
+  },
+  "case_number": "昭和23(れ)1588",
+  "case_name": "強盗、住居侵入",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第10号549頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 3,
+    "day": 26
+  },
+  "gist": "勾留中における檢事の聽取書の證據能力及び犯意について自白が唯一の證據である場合と憲法第三八條第二項第三項",
+  "case_gist": "被告人勾留中における檢事の聽取書を證據に取つても違憲でないこと及犯意だけに付ては自白が唯一の証據であつても違憲でないことは既に當裁判所大法廷判決によつて明にされて居る。（昭和二三年（れ）第四三一號事件同年一二月二七日言渡大法廷判決、昭和二二年（れ）第一五三號事件同二三年六月九日言渡大法廷判決參照）",
+  "ref_law": "憲法38條2項，憲法38條3項，刑訴應急措置法10條2項，刑訴應急措置法10條3項",
+  "lawsuit_id": "70592",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70592",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/592/070592_hanrei.pdf"
+}

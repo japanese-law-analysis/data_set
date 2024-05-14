@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 11,
+    "day": 24
+  },
+  "case_number": "昭和23(れ)224",
+  "case_name": "強盗",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第2巻12号1633頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 12,
+    "day": 4
+  },
+  "gist": "刑訴法第三九九條の合憲性",
+  "case_gist": "檢事の附帶控訴に關する刑訴法第三九九條の規定は憲法（第一一條第三七條第一項）違反と言うことはできない。",
+  "ref_law": "刑訴法399條，憲法11條、，憲法37條1項",
+  "lawsuit_id": "56520",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56520",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/520/056520_hanrei.pdf"
+}

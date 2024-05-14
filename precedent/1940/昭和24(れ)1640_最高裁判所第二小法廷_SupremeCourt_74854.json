@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 10,
+    "day": 15
+  },
+  "case_number": "昭和24(れ)1640",
+  "case_name": "傷害致死",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第14号211頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 7,
+    "day": 19
+  },
+  "gist": "喧嘩鬪爭と正當防衞―過剩防衞",
+  "case_gist": "原判決の確定した事實の要旨は被告人に豫てＡと些細のことから喧嘩口論を繰り返すようになつていたが判示の日時に右Ａ及び被害者Ｂの兩名から呼出しをかけられて喧嘩の蒸し返しだらうと察し匕首を用意して出向いたところ被害者から執拗に喧嘩をいどまれ毆られたりした上被害者が椅子を振り上げて被告人に打ちかゝる態度をとつたので被告人は激昂の余り右携帯の匕首をもつて被害者を傷害したというのであるから鬪争の全体から推して明かに喧嘩である。そして喧嘩の場合の鬪争については正當防衛や過剰防衛は成立しないと解すべきであるから原審が所論の主張を排斥したのは正當である。",
+  "ref_law": "刑法36條",
+  "lawsuit_id": "74854",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74854",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/854/074854_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 11,
+    "day": 12
+  },
+  "case_number": "昭和24(れ)1846",
+  "case_name": "窃盗、同予備",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第14号555頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 5,
+    "day": 25
+  },
+  "gist": "實行行爲をしない強盜共謀者",
+  "case_gist": "原判決舉示の證據によれば、本件各犯行については原判決摘示のごとく、被告人と他の二名との間に、共謀の行われた事實を認定することができる。既に共謀の事實が認められる以上、被告人は直接本件強盜若しくは強盜豫備の實行々爲をしなかつたとしても、他の共犯者の右の行爲について共同正犯の罪責を兔れることはできないのである。論旨はいずれもその理由がない。",
+  "ref_law": "刑法60條，刑法236條",
+  "lawsuit_id": "74869",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74869",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/869/074869_hanrei.pdf"
+}

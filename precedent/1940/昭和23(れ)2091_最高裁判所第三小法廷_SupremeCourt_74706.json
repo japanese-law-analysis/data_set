@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 7,
+    "day": 12
+  },
+  "case_number": "昭和23(れ)2091",
+  "case_name": "物価統制令違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第12号359頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 5,
+    "day": 15
+  },
+  "gist": "略式命令及び略式命令の請求の合憲性",
+  "case_gist": "しかし、略式命令、從つてその請求が違憲無効でないことは、當裁判所大法廷の判例とするところである。（昭和二三年（つ）第二號同年七月二九日決定）",
+  "ref_law": "憲法32條，憲法37條1項，憲法82條，舊刑訴法523條1項",
+  "lawsuit_id": "74706",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74706",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/706/074706_hanrei.pdf"
+}

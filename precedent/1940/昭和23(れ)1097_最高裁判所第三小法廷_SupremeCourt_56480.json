@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 11,
+    "day": 30
+  },
+  "case_number": "昭和23(れ)1097",
+  "case_name": "業務上横領、詐欺",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第2巻12号1654頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 6,
+    "day": 26
+  },
+  "gist": "二ケ月の勾留後保釋一〇ケ月を經て不拘束の状態においてなされた、自白と刑訴應急措置法第一〇條第二項の「不當に長い抑留後の自白」",
+  "case_gist": "右の如く勾留は二ケ月に足らぬものであり、しかも保釋後一〇ケ月を經て不拘束の状態においてなされた自白であるから、かかる自白は法にいう不當に長い抑留後の自白に該當しないものと見るを相當とする。",
+  "ref_law": "刑訴應急措置法10條2項",
+  "lawsuit_id": "56480",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56480",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/480/056480_hanrei.pdf"
+}

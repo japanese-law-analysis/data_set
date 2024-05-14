@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 7,
+    "day": 6
+  },
+  "case_number": "昭和24(ク)28",
+  "case_name": "不動産競落許可決定に対する抗告事件につきなした決定に対する再抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "却下",
+  "article_info": "集民　第2号421頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和24(ラ)15",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 4,
+    "day": 12
+  },
+  "lawsuit_id": "73359",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=73359",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/359/073359_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 12,
+    "day": 4
+  },
+  "case_number": "昭和23(れ)1235",
+  "case_name": "銃砲等所持禁止令違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第6号85頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 6,
+    "day": 23
+  },
+  "gist": "上告趣意書提出期間經過後辯護屆を提出した辯護人の上告趣意書の効力",
+  "case_gist": "被告人が上告趣意書を提出せず、辯護人が刑訴法第四二三條の法定期間内に、上告趣意書を提出し、當審におけるその選任屆を右期間經過後に提出した場合は、たとえ、同人が原審において、被告人の辯護人であつたとしても、同法第四二七條にいわゆる（上告申立人期間内ニ上告趣意書ヲ提出セサルトキニ」該當する。",
+  "ref_law": "刑訴法423條，刑訴法41條1項，刑訴法427條",
+  "lawsuit_id": "70545",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70545",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/545/070545_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 5,
+    "day": 18
+  },
+  "case_number": "昭和23(オ)137",
+  "case_name": "農地委員会の裁決取消請求",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第3巻6号199頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 10,
+    "day": 6
+  },
+  "gist": "一　自作農創設特別措置法第七条第一項にいう「農地買収計画に定められた農地につき所有権を有する者」の意義。\n二　昭和二二年一二月法律第二四一号自作農創設特別措置法中改正法律附則第七条と憲法第三二条及び同第三九条。",
+  "case_gist": "一　農地買収計画に定められた農地につき、所有権を主張する者は、買収計画に所有者と記載されていなくても、自作農創設特別措置法第七条によつて行政上の救済を求めることができる。\n二　昭和二二年一二月法律第二四一号自作農創設特別措置法改正法律附則第七条は、憲法第三二条及び憲法第三九条に違反しない。",
+  "ref_law": "自作農創設特別措置法7条1項，昭和22年法律241号自作農創設特別措置法中改正法律附則7条，憲法32条，憲法39条",
+  "lawsuit_id": "55896",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55896",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/896/055896_hanrei.pdf"
+}

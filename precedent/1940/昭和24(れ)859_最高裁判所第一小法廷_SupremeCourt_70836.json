@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 9,
+    "day": 29
+  },
+  "case_number": "昭和24(れ)859",
+  "case_name": "殺人",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第13号647頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 1,
+    "day": 31
+  },
+  "gist": "一　舊刑訴法第三六〇條第二項の主張に對する判斷の理由を明示しない判決の正否\n二　舊刑訴法第四〇三條と事實の認定量刑の事由、法律の適用等を原判決より不利益に變更することの可否",
+  "case_gist": "一　正當防衞の主張は舊刑訴法第三六〇條第二項の主張であるから、これに對し判斷を示さなければならないけれども、その判斷の證據上の理由を示すことは法律上何ら要求されていない。從つて原判決が過剰防衞を認めてその主張に對する判斷を示した以上その證據上の理由を示さなかつたからといつて判斷遺脱の違法あるとは云えない。\n二　舊刑訴法第四〇三條の規定は、原第一審判決主文の刑を重く變更することを禁止する趣旨であつて主文の因て生ずる理由すなわち事實の認定、量刑の事由法律の適用等を原判決より不利益に變更することを妨げるものではない。",
+  "ref_law": "刑法36條2項，舊刑訴法360條2項，舊刑訴法403條",
+  "lawsuit_id": "70836",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70836",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/836/070836_hanrei.pdf"
+}

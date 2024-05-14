@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 11,
+    "day": 17
+  },
+  "case_number": "昭和24(れ)1374",
+  "case_name": "常習賭博",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第14号659頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 1,
+    "day": 20
+  },
+  "gist": "被告人が前科後四年乃至五年余の間賭博をしていない場合と賭博の常習性の認定",
+  "case_gist": "原判決は證據説明において「被告人兩名がいずれも常習として判示賭博をなした點は被告人兩名の判示各前科と本件賭博所爲とにより之れの認める」と判示している。そして本件賭博が賽本引という玄人筋との賭博であるから、假りに被告人等は判示各前科の後四年乃至五年餘間賭博をしなかつたとしても、それにもかゝわらず被告人等の判示各前科と本件犯行の事蹟によつて原審が被告人等を賭博者と―認定したからといつて、この認定が證據に基かず又は經驗則に反する違法のもとはいえない。",
+  "ref_law": "刑法1861項，舊刑訴法336條，舊刑訴法360條1項",
+  "lawsuit_id": "74831",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74831",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/831/074831_hanrei.pdf"
+}

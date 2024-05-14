@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 12,
+    "day": 24
+  },
+  "case_number": "昭和24(れ)1167",
+  "case_name": "強盗予備",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第3巻12号2088頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 3,
+    "day": 7
+  },
+  "gist": "一　強盗豫備罪に該る一事例\n二　共同被告人の自白と補強證據",
+  "case_gist": "一　原審の認定した事實は、他人を脅迫して金品を強奪しようと共謀し、これを使用するため、出刄庖丁刺身庖丁ジヤツクナイフ及懐中電燈を買求め、これを携えて姫路城樓門附近を徘徊したと言うのであつて、強盗豫備罪の構成事實として何等缺くるところはないのである。\n二　共犯者である共同被告人の各自白は互に各被告人の自白の補強證據として採證することの適法であること従來の判例とするところである。（昭和二三年（れ）第七七號、昭和二四年五月一八日大法廷判決。昭和二三年（れ）第一一二號昭和二三年七月一四日大法廷判決各参照）",
+  "ref_law": "刑法237條，刑訴應急措置法10條3項，憲法38條3項",
+  "lawsuit_id": "55433",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55433",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/433/055433_hanrei.pdf"
+}

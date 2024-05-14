@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 5,
+    "day": 10
+  },
+  "case_number": "昭和24(オ)21",
+  "case_name": "村長選舉無効",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第3巻6号175頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 12,
+    "day": 25
+  },
+  "gist": "知事選挙と村長選挙とが同時に行われた場合に知事選挙のための特別投票者証明書で村長選挙に特別投票をさせた選挙の適否",
+  "case_gist": "知事選挙と村長選挙とが同時に行われた場合には、道府県制施行令第一六条ノ四の証明書をもつて村長選挙に特別投票をさせても、その選挙が違法であるということはできない。",
+  "ref_law": "道府県制19条ノ2，同制施行令16条ノ4第1項",
+  "lawsuit_id": "55944",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55944",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/944/055944_hanrei.pdf"
+}

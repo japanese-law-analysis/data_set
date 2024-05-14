@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 4,
+    "day": 16
+  },
+  "case_number": "昭和23(れ)1727",
+  "case_name": "傷害致死",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第3巻5号569頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 10,
+    "day": 11
+  },
+  "gist": "署名した書記の捺印を缺く公判調書の効力",
+  "case_gist": "原審第一回公判調書及び第三回公判調書に作成書記Ａの署名はあるが捺印が缺けているのである。從つて該調書は舊刑訴法第六三條第一項所定の形式に違反すること所論のとおりである。しかし公判調書作成者である書記の捺印を缺く場合に、その公判調書を無効とする法規はないのみならず、立會書記の署名があつてその書記が公判に立會いその調書を作成したことが明らかなときは公判調書を無効とすべき理由はないのである。本件において所論各公判調書には書記Ａの署名があるのであつて裁判長の署名捺印もあるのであるから右書記が公判に立會い公判調書を作成したことが明らかであり右各調書を無効とすべきではない。",
+  "ref_law": "舊刑訴法63條1項",
+  "lawsuit_id": "55316",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55316",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/316/055316_hanrei.pdf"
+}

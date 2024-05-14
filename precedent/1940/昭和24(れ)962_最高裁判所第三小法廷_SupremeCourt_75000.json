@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 10,
+    "day": 11
+  },
+  "case_number": "昭和24(れ)962",
+  "case_name": "恐喝、傷害",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第14号119頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 12,
+    "day": 11
+  },
+  "gist": "記憶がないとか酪酊中に捕縛されたという被告人の供述と刑の減兔の原由たる事實上の主張",
+  "case_gist": "被告人Ａの場合はただ記憶がないとか、私達は醉つていてはつきり解りませんがそこへどやどやと警察の人が來て捕まりましたとか、述べているまでゞあつて、其供述自体から所論刑の減兔の原由たる事實上の主張をしたものとは認めがたいものである。從つて原審において被告人Ａに對しては其判斷を示さなかつたとしても所論の如き違法はなく、論旨は理由がない",
+  "ref_law": "舊刑訴法360條2項",
+  "lawsuit_id": "75000",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=75000",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/000/075000_hanrei.pdf"
+}

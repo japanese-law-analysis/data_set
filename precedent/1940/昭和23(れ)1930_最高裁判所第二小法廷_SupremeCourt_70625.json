@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 5,
+    "day": 14
+  },
+  "case_number": "昭和23(れ)1930",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第10号137頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 10,
+    "day": 19
+  },
+  "gist": "沒収の理由につき證據説明の要否",
+  "case_gist": "所論ナイフ及び捻廻しは被告人が本件犯行の用に供せんとして犯行の現場に所持していたものであることは、原判決舉示の證據で認められるところであるからこれを沒収した原判決に所論のごとき違法はないのみならずかかる没収の理由はもともと判決において證據説明をする必要のない事柄であるから（當裁判所昭和二三年（れ）第一四三九號昭和二四年二月八日言渡第二小法廷判決）この點に關する判決舉示の證據が被告人の自供のみであつてもこれをもつて所論のごとき違法ありとすることはできない。",
+  "ref_law": "刑法19條，舊刑訴法360條1項",
+  "lawsuit_id": "70625",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70625",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/625/070625_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 7,
+    "day": 22
+  },
+  "case_number": "昭和24(れ)1019",
+  "case_name": "強盗",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第3巻8号1360頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 2,
+    "day": 8
+  },
+  "gist": "一　証拠間に齟齬のない事例\n二　強盜における脅迫行爲を爲した者と強盜の共同正犯の成立の範圍",
+  "case_gist": "一　被害者が脅迫者を一人と認識したという供述は、被告人が他の一名と共に脅迫したという被告人の自白を補強する証拠とすることができるから、右両供述を証拠としても証拠にくいちがいがあるとはいえない。\n二　しかし、被告人一人で脅迫したとしても、また共犯者と二人で脅迫したとしても本件における被告人の強盜共同正犯たる罪責に影響するものでなく、審理不盡の違法ありとは云えない。",
+  "ref_law": "旧刑訴法410条19号，刑法60條，刑法236條",
+  "lawsuit_id": "56618",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56618",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/618/056618_hanrei.pdf"
+}

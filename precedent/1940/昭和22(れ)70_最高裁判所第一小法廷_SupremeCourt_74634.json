@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 12,
+    "day": 15
+  },
+  "case_number": "昭和22(れ)70",
+  "case_name": "強盗傷人",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第1号211頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 6,
+    "day": 18
+  },
+  "gist": "未決勾留日數通算の理由の判示",
+  "case_gist": "原判決を見ると、所論の未決勾留日數通算の點に關しては、「刑法第二一條を適用し當審に於ける未決勾留日數百二十日を右の刑に算入する」旨説示されてあるばかりでなく、未決勾留日數の通算は裁判所の自由裁量に屬するところであるから、原審が前記のように説示しただけで、何故に百二十日通算するのを相當とするかの理由を詳細に説明しなかつたからというて、これをもつて直ちに理由不備の違法あるものと爲すとはできない。",
+  "ref_law": "刑法21條",
+  "lawsuit_id": "74634",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74634",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/634/074634_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 11,
+    "day": 18
+  },
+  "case_number": "昭和23(れ)795",
+  "case_name": "強盗、窃盗、住居侵入",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第2巻12号1614頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 3,
+    "day": 30
+  },
+  "gist": "一　少年法第七一條第一項の注意と裁判所の自由裁量\n二　強盜罪における暴行脅迫の程度と被害者の畏怖の程度",
+  "case_gist": "一　少年法第七一條第一項の趣旨は、裁判所が審理した結果被告人等に對して所論のごとく保護處分をなすのを相當と認めた場合には少年審判所に事件を送致しなければならぬのであるが、被告人等に對して保護處分をするのが相當であるか否かは、事實審たる原裁判所が諸般の具體的事情を考慮して定むべきものであつてその裁量權にのみ屬するところである。\n二　強盜罪の成立には被告人が社會通念上被害者の反抗を抑壓するに足る暴行又は脅迫を加え、それに因つて被害者から財物を強取した事實が存すれば足りるのであつて所論のごとく被害者が被告人の暴行脅迫に因つてその精神及び身體の自由を完全に制壓されることを必要としない。",
+  "ref_law": "少年法71條1項，刑法236條",
+  "lawsuit_id": "56598",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56598",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/598/056598_hanrei.pdf"
+}

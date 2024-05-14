@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 10,
+    "day": 28
+  },
+  "case_number": "昭和23(ヤ)1",
+  "case_name": "罹災都市借地借家臨時処理事件の抗告事件につきなした決定に対する再審の申立",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "却下",
+  "article_info": "集民　第1号463頁",
+  "original_court_name": "最高裁判所",
+  "original_case_number": "昭和23(ク)16",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 7,
+    "day": 15
+  },
+  "lawsuit_id": "76206",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=76206",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/206/076206_hanrei.pdf"
+}

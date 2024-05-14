@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 12,
+    "day": 24
+  },
+  "case_number": "昭和24(れ)1348",
+  "case_name": "強姦",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第3巻12号2096頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 10,
+    "day": 11
+  },
+  "gist": "犯行當時月の有無及びその月明の程度につき相當官公署の報告の結果に依らず證人の證言に基いて認定したことの正否",
+  "case_gist": "原判決は本件犯行の日時を單に昭二二年八月三一日晩と判示するのみで、その時刻を明示しなかつた憾みはあるが、判示犯行當時の月の有無及びその月明の程度については必ずしも所論のように相當官公署に照會してその報告の結果等によつてこれを認定しなければならないというものではなく原審がその證人Ａの證言に基いて同女が犯行當時の月明りで豫々顔見知りの被告人を認定し得たものと認識したことが採證の法則に違背するものとはいえないのである。",
+  "ref_law": "舊刑訴法336條，舊刑訴法337條",
+  "lawsuit_id": "55440",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55440",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/440/055440_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 4,
+    "day": 30
+  },
+  "case_number": "昭和23(れ)1196",
+  "case_name": "有毒飲食物等取締令違反等",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "刑集　第3巻5号672頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 4,
+    "day": 7
+  },
+  "gist": "證據調を經ない書面の内容を引用した訊問調書を罪證に供した判決の違法",
+  "case_gist": "豫審判示代理判事の被告人Ａに對する訊問調書は、強制處分請求書の内容を引用しているけれども同請求書は更に司法警察官の意見書が引用されて居つて具体的には犯罪事實の記載はないのであるから、右訊問調書を罪證に供するためには、右訊問調書と共に右強制處分請求書も及び前記司法警察官の意見書を證據調しなければならない。",
+  "ref_law": "舊刑訴法336條，舊刑訴法340條1項，舊刑訴法360條1項",
+  "lawsuit_id": "55262",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55262",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/262/055262_hanrei.pdf"
+}

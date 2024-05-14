@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 12,
+    "day": 22
+  },
+  "case_number": "昭和23(れ)1071",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第2巻14号1853頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 7,
+    "day": 9
+  },
+  "gist": "一　裁判が迅速を缺き憲法第三七條第一項に違反する場合と上告理由\n二　被告人の公判廷における自白と憲法第三八條第三項の自白",
+  "case_gist": "一　裁判が迅速を缺き憲法第三七條第一項に違反したとしても、それは判決に影響を及ぼさないことが明らかであるから、上告の理由とすることができない。\n二　裁判所が證據に引用した被告の自白が、その裁判所の公判廷における自白であるならば、それは憲法第三八條第三項の自白に含まれないことは、當裁判所の判例として示したところである。",
+  "ref_law": "憲法37條1項，憲法38條3項，刑訴法411條",
+  "lawsuit_id": "55242",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55242",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/242/055242_hanrei.pdf"
+}

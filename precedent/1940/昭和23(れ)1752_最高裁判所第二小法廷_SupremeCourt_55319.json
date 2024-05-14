@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 4,
+    "day": 9
+  },
+  "case_number": "昭和23(れ)1752",
+  "case_name": "公文書偽造、偽造公文書行使、詐欺",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第3巻4号511頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 10,
+    "day": 11
+  },
+  "gist": "世帶を甲名儀の家庭用米穀通帳に新たに世帶主乙名儀を書き加えた場合と公文書僞造罪の成立",
+  "case_gist": "家庭用米穀配給通帳は各世帶毎に交付せられるものであつて右通帳における世帶主の氏名の記載はその通帳を特定するためには極めて重要な記載であつて、世帶主甲名儀の通帳と同乙名儀の通帳とは、たとえ通帳自體は同一物が利用せられ從つてその通帳の作成名儀者は同一であつても、全く別個の通帳と認めざるを得ない、されば原判決が前示被告人の所爲を以て村長Ａの作成にかかる世帶主被告人名儀の通帳を利用して世帯主Ｂ名儀の新なる通帳を作成したものと解しこれを公文書僞造罪に問擬したのは正當であつて右は公文書變造罪にあたるものであると主張する論旨はあやまりである。",
+  "ref_law": "刑法155條1項",
+  "lawsuit_id": "55319",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55319",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/319/055319_hanrei.pdf"
+}

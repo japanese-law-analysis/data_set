@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 6,
+    "day": 26
+  },
+  "case_number": "昭和23(れ)334",
+  "case_name": "強盗未遂、恐喝",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第2巻7号748頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 12,
+    "day": 4
+  },
+  "gist": "強盗未遂罪の成立と相手方の意思の自由抑壓の存否",
+  "case_gist": "強盗犯人の用いた脅迫の手段が相手方の意思の自由を抑壓するに足るものであつた以上、偶々相手方がそれに依つて意思の自由を抑壓される事がなかつたとしても強盗未遂罪は成立する。",
+  "ref_law": "刑法236條，刑法243條，刑法43條",
+  "lawsuit_id": "55371",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55371",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/371/055371_hanrei.pdf"
+}

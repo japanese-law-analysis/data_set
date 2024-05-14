@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 8,
+    "day": 2
+  },
+  "case_number": "昭和24(れ)1365",
+  "case_name": "賭場開帳図利、公務執行妨害",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第13号5頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 2,
+    "day": 10
+  },
+  "gist": "一　刑訴應急措置法第一二條の合憲性\n二　相被告人の供述と刑訴應急措置法第一二條",
+  "case_gist": "一　その作成にあたり、反對訊問の機會を與えなかつた檢事聴取書の如き、書類も、刑訴應急措置法第一二條の制限の下に、これを證據とすることができるとしても、憲法第三七條第二項の趣旨に反するものではなく、刑訴應急措置法第一二條が違憲でないことは當裁判所大法廷の判例とするところである。（昭和二三年（れ）第八三三號、同二四年五月一八日大法廷判決）\n二　所論檢事の聴取書の供述者中Ａは原審相被告人であるから刑訴應急措置法第一二條の制限を受けないことは當裁判所の判例とする處であり。（昭和二二年（れ）第二〇八號、同二三年二月九日第一小法廷判決）",
+  "ref_law": "刑訴應急措置法12條，刑訴應急措置法第12條，憲法37條2項",
+  "lawsuit_id": "70723",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70723",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/723/070723_hanrei.pdf"
+}

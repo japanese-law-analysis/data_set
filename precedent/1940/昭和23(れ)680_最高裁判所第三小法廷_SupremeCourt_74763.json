@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 10,
+    "day": 26
+  },
+  "case_number": "昭和23(れ)680",
+  "case_name": "町長選挙罰則違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第4号551頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 1,
+    "day": 28
+  },
+  "gist": "憲法施行前の犯行に對し刑訴應急措置法施行後に終結した辯論に基き言渡された判決に對する上告の根據法規",
+  "case_gist": "刑訴應急措置法附則の規定によれば、刑事訴訟法の規定により上告することができるのは刑訴應急措置法の施行前に終結した辯論に基いて言い渡された判決に對してだけであるから、たとえ犯行が憲法の施行前であつても右の要件を缺いた本件については刑訴應急措置法の規定によらなければ上告することはできない。そして、同法第一三條第二項によれば所論のような事由による上告は許されないのであるから論旨は適法な上告理由ではない。",
+  "ref_law": "刑訴應急措置法附則4項，刑訴應急措置法13條2項",
+  "lawsuit_id": "74763",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74763",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/763/074763_hanrei.pdf"
+}

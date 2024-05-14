@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 12,
+    "day": 3
+  },
+  "case_number": "昭和24(れ)2040",
+  "case_name": "強盗未遂等",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第15号115頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 3,
+    "day": 5
+  },
+  "gist": "單に強盜の手段としての脅迫の態様として「拳銃短刀を携え」又は「拳銃を擬し」と認定した場合と銃砲等所持禁止令の適用の要否",
+  "case_gist": "本件起訴状についてみるもまた原審公判における檢事の公訴事實の陳述内容からみても、本件において被告人等に對して銃砲等所持禁止令違反の事實について、審判が請求せられたものと解することはできない。従つて原判決がその事實指示において被告人「Ａに於て拳銃短刀を携え」又は「拳銃を擬して脅迫し」などと記述したのは單に強盜の手段としての脅迫の態様をあらわしたに過ぎないのであつて特に前記禁止令違反の事實を認定した趣旨ではないのであるから、原判決が右の事實に對し、同令を適用しなかつたのは當然であつて所論のような違法ありとすることはできない。",
+  "ref_law": "刑法246條，銃砲等禁止令1條，銃砲等禁止令2條",
+  "lawsuit_id": "70760",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70760",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/760/070760_hanrei.pdf"
+}

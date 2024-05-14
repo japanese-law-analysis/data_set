@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 12,
+    "day": 24
+  },
+  "case_number": "昭和23(オ)47",
+  "case_name": "村長選挙当選確認請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第1号603頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 5,
+    "day": 15
+  },
+  "gist": "二重に候補者の氏名を記載した投票の効力",
+  "case_gist": "投票紙自体の記載体樣其他選舉當時の諸般の事情等から見て本件係争の二票は選舉人が不慣れの爲め、初め記載の場所を間違えて候補者の氏名を記載したが、後でそれに氣付いてこれを訂正する目的で、正規の場所即候補者氏名記載欄に再び記載したもので、他意あるものではないと認定したものであることは、原判文上明である、而して右の樣な資料によつて右の樣な認定が爲し得られる場合には、其投票を有効のものと解すべきであるとの原審の見解は相當である。",
+  "ref_law": "町村制25條6號",
+  "lawsuit_id": "76165",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=76165",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/165/076165_hanrei.pdf"
+}

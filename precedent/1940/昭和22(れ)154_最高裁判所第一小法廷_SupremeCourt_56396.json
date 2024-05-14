@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 12,
+    "day": 24
+  },
+  "case_number": "昭和22(れ)154",
+  "case_name": "建造物侵入、強盗、窃盗等",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第1巻号100頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 5,
+    "day": 31
+  },
+  "gist": "一　窃盜と強盗との連續犯\n二　被告人に不利益な主張と上告理由",
+  "case_gist": "一　窃盜の罪と強盗の罪とは、その手段において異なるところはあるが、財物奪取行爲たる罪質においては同一であり、ともに同一の章の下に規定されてゐる刑法犯であるから、窃盜と強盗との連續行爲は、刑法第五五條にいわゆる同一の罪名に觸れるものである。\n二　原審が連續犯として處断した行爲について、辯護人が連續犯にならないと主張することは、被告人の不利益になることを主張するものであるから、上告の理由とならない。",
+  "ref_law": "刑法55條，刑法235條，刑法236條，刑訴法409條，刑訴法411條",
+  "lawsuit_id": "56396",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56396",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/396/056396_hanrei.pdf"
+}

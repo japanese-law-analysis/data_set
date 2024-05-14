@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 5,
+    "day": 22
+  },
+  "case_number": "昭和23(ク)9",
+  "case_name": "仮処分執行の一部取消申立事件の決定に対する抗告事件につきなした決定に対する抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "却下",
+  "article_info": "集民　第1号171頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和21(ラ)2",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 4,
+    "day": 30
+  },
+  "lawsuit_id": "76200",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=76200",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/200/076200_hanrei.pdf"
+}

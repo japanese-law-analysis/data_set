@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 1,
+    "day": 11
+  },
+  "case_number": "昭和23(れ)1369",
+  "case_name": "強盗、同未遂、恐喝",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第3巻1号1頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 7,
+    "day": 20
+  },
+  "gist": "恐喝罪における交付の意義",
+  "case_gist": "恐喝取財罪の本質は、被恐喝者の畏怖に因る瑕疵ある同意を利用する財物の領得行爲であると解すべきであるから、その領得行爲の形式が被恐喝者において自から財物を提供した場合は勿論、被恐喝者が畏怖して默認し居るに乗じ恐喝者において財物を奪取した場合においても亦本罪の成立を妨ぐるものではないと謂わねばならぬ。それ故本罪の正條たる刑法第二四九條第一項の「交付せしめ」との語義は以上の各場合を包含する趣旨と解するを正當とし、亦原判決事實摘示中の「交付せしめて之を喝取し」との用辭は、右刑法正條の用語例に從いたるものと解するを相當とする。",
+  "ref_law": "刑法249條1項",
+  "lawsuit_id": "55283",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55283",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/283/055283_hanrei.pdf"
+}

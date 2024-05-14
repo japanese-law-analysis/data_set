@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 12,
+    "day": 8
+  },
+  "case_number": "昭和24(れ)1900",
+  "case_name": "臨時物資需給調整法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第15号239頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 6,
+    "day": 15
+  },
+  "gist": "法令の適用に當り年度の誤記を理由とする上告の適否",
+  "case_gist": "論旨は原判決は法律の適用として昭和二三年二月一五日商工農林省令第三號を舉げたが昭和二二年二月一五日商工農林省令第三號は存するが判決に記載された様な省令は見當らない、昭和二三年は或は誤記かも知れぬが存在せざる省令を存するものとして適用した判決である。即ち原判決は舊刑事訴訟法第四一〇條第一九號に「理由ニ齟齬アルトキ」に該當し破毀を免れないと思料す、というのであるが所論の「昭和二三年」は、「昭和二二年」の誤記と認められるから、論旨は理由がない。",
+  "ref_law": "舊刑訴法360條1項，舊刑訴法410條19號",
+  "lawsuit_id": "70751",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70751",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/751/070751_hanrei.pdf"
+}

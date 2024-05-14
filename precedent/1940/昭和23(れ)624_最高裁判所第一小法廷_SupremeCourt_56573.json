@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 10,
+    "day": 7
+  },
+  "case_number": "昭和23(れ)624",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第2巻11号1284頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 3,
+    "day": 30
+  },
+  "gist": "任意同行後正當な手續により行われた勾留の合法性",
+  "case_gist": "前に行われた訴訟行爲が不法であるからと言つて、その後に行われた別個の適法行爲の効力までを常に當然無効なりと爲し得ないのは言うまでもないことである。されば、いわゆる任意同行なるものが假りに所論のごとく、憲法の禁ずるところであるとしても爾後正當な手續で行われた勾留を目して所論のごとく不當に人身を拘束したものと斷ずることはできない。",
+  "ref_law": "憲法34條",
+  "lawsuit_id": "56573",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56573",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/573/056573_hanrei.pdf"
+}

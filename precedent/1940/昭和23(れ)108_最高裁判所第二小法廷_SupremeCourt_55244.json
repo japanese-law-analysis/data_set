@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 5,
+    "day": 8
+  },
+  "case_number": "昭和23(れ)108",
+  "case_name": "傷害致死、傷害",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第2巻5号478頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 7,
+    "day": 5
+  },
+  "gist": "暴行の共謀をしながら實行しなかつた者の結果責任",
+  "case_gist": "數名の者がある犯罪を行うことを通謀し、そのうち一部の者がその犯罪の實行行爲を擔當し遂行した場合には、他の實行行爲に携わらなかつた者も、之を實行した者と同様にその犯罪の責を負うべきものであつて、この理由は數名の者が他人に對し暴行を加えようと通謀し、そのうち一部の者が他人に對し暴行を加え之を死傷に致したときにもあてはまるものである。",
+  "ref_law": "刑法204條，刑法205條，刑法60條",
+  "lawsuit_id": "55244",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55244",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/244/055244_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 10,
+    "day": 5
+  },
+  "case_number": "昭和23(れ)1922",
+  "case_name": "食糧管理法違反",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第14号83頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 10,
+    "day": 29
+  },
+  "gist": "拘禁後一ケ月目にした自白と不當に長い拘禁後の自白",
+  "case_gist": "本件は、被告人が逮捕された昭和二三年三月一六日から約一ケ月目の同年四月一六日には第一審公判の辯論も終結されて、事件の審理は順調に運ばれているのである。されば被告人が前記公判期日まで拘禁されていたとしても、その公判における自白は不當に長く拘禁された後の自白と云うことはできない。それ故、原審か右公判における被告人の自白を證據に採用したことは刑訴應急措置法第一〇條に違反するものではない。",
+  "ref_law": "刑訴應急措置法10條2項，憲法38條2項",
+  "lawsuit_id": "74702",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74702",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/702/074702_hanrei.pdf"
+}

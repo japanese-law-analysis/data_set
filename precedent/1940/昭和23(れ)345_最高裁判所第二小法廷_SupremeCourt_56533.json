@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 7,
+    "day": 29
+  },
+  "case_number": "昭和23(れ)345",
+  "case_name": "恐喝、銃砲等所持禁止令違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "刑集　第2巻9号1062頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 2,
+    "day": 14
+  },
+  "gist": "暴行又は傷害の故意がない場合における過失傷害罪の責任の有無――刑訴法第四一〇條第一九號の「判決ノ理由ニ齟齬アルトキ」",
+  "case_gist": "暴行又は傷害の故意のないということから、ただちに傷害事實を全面的に否定することはできないのであるから、原判決が「被告人の加害行爲が暴行又は傷害の故意を以てなされたと認むべき證據なし」との一點を把えて、結局犯罪の證明なき場合に該當するものとして公訴事實中傷害の點に對し無罪の言渡をしたのは理由不備の違法がある。",
+  "ref_law": "刑法20條，刑法209條，刑訴法410條19號",
+  "lawsuit_id": "56533",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56533",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/533/056533_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 6,
+    "day": 25
+  },
+  "case_number": "昭和24(れ)779",
+  "case_name": "偽造公文書行使、公文書偽造、偽造私文書行使、私文書偽造等",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第11号523頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 12,
+    "day": 15
+  },
+  "gist": "刑訴法第四一一條の法意",
+  "case_gist": "新刑訴法第四一一條の規定は、上告理由として認められたものではなく、上告裁判所の職權事項として規定せられた趣旨のものと解すべきことは、既に當裁判所の見解とするところである。（昭和二三年（れ）第一五七七號、昭和二四年五月一八日大法廷判決）",
+  "ref_law": "刑訴法411條",
+  "lawsuit_id": "70829",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70829",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/829/070829_hanrei.pdf"
+}

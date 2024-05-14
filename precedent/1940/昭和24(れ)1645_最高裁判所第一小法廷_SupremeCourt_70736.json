@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 9,
+    "day": 29
+  },
+  "case_number": "昭和24(れ)1645",
+  "case_name": "強盗、同予備",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第13号675頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 4,
+    "day": 30
+  },
+  "gist": "一　司法警察官巡査部長作成名儀の聴取書を單に「司法警察官代理の聴取書」と表示したことの正否\n二　巡査部長の作成した聴取書の効力と司法警察官",
+  "case_gist": "一　證據説明中の證據の標目を表示するのに、現に存在する「大阪市城東警察署司法警察官巡査部長Ａ作成名儀の聴取書」は單に「司法警察官代理の聴取書」と表示したからといつて、表示の不正確たるに止り、虚無の證據を罪證に供したとはいえない。\n二　大阪市城東警察署巡査部長が司法警察官の職務權限を有することは警察法第四六條第三五條舊刑訴法第二四八條等の規定により明白であるから同人の作成した聴取書を目して官職を冐用して作成した違法のものとはいえない。",
+  "ref_law": "舊刑訴法248條，舊刑訴法249條，舊刑訴法360條1項，警察法35條，警察法46條",
+  "lawsuit_id": "70736",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70736",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/736/070736_hanrei.pdf"
+}

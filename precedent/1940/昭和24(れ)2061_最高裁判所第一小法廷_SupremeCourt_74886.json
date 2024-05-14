@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 10,
+    "day": 20
+  },
+  "case_number": "昭和24(れ)2061",
+  "case_name": "詐欺",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第14号265頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 3,
+    "day": 31
+  },
+  "gist": "憲法第三七條第二項前段の法意",
+  "case_gist": "憲法第三七條第二項の規定は事案の判斷に不必要な關係人までもそれを證人として尋問すべきことを定めたものでなく、事實審裁判所は各場合における證據關係等の實状等に鑑み合理的に證據調の限度を裁定し得るものといわざるを得ない。（昭和二三年（れ）第二三〇號同年七月二九日大法廷判決、判例集第二巻九號一〇四五頁参照）",
+  "ref_law": "憲法37條2項",
+  "lawsuit_id": "74886",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74886",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/886/074886_hanrei.pdf"
+}

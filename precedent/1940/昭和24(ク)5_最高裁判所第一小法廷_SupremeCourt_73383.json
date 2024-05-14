@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 2,
+    "day": 10
+  },
+  "case_number": "昭和24(ク)5",
+  "case_name": "訴の変更を許さざる旨の決定に対する抗告事件につきなした決定に対する抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "却下",
+  "article_info": "集民　第2号71頁",
+  "original_court_name": "福岡高等裁判所\n        　宮崎支部",
+  "original_case_number": "昭和23(ラ)4",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 12,
+    "day": 27
+  },
+  "lawsuit_id": "73383",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=73383",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/383/073383_hanrei.pdf"
+}

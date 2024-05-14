@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 4,
+    "day": 14
+  },
+  "case_number": "昭和23(れ)1593",
+  "case_name": "物価統制令違反、銃砲等所持禁止令違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第9号215頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 9,
+    "day": 15
+  },
+  "gist": "改正前の刑法第五五條の連続一罪を構成すべき行爲の内容を判示する程度",
+  "case_gist": "改正前の刑法第五五條の連続一罪を構成すべき數多の行爲を判示するには、各個の行爲の内容を一々具體的に判示することを要せず數多の行爲に共通した犯罪の手段、方法その他の事實を具體的に判示する外、その連続した行爲の始期、終期、回數等を明らかにし且つ財産上の犯罪で被害者又は賍額に異同があるときは被害者中或る者の氏名を表示する等これによつてその行爲の内容が同一罪質を有する複數のものであることを知り得べき程度に具體的であれば足るものであることは當裁判所の判例とするところである。（昭和二二年（れ）第九二號、同年一二月四日第一小法廷判決昭和二三年（れ）七六三號、同二四年二月九日大法廷判決）",
+  "ref_law": "舊刑法55條，舊刑訴法360條1項",
+  "lawsuit_id": "70593",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70593",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/593/070593_hanrei.pdf"
+}

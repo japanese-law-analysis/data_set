@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 5,
+    "day": 27
+  },
+  "case_number": "昭和22(オ)28",
+  "case_name": "市会議員選挙当選無効決定取消請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第2巻5号117頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 11,
+    "day": 18
+  },
+  "gist": "刑の執行猶豫と被選舉權",
+  "case_gist": "從つて猶豫の言渡を取消さるることなくして猶豫期間を經過する迄は刑の執行を受けることがなくなるとは言い得ないから執行猶豫中の者は地方自治法第二〇條にいわゆる「その執行を受けることがなくなるまでの者」に該當するのである。",
+  "ref_law": "地方自治法20條",
+  "lawsuit_id": "57084",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57084",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/084/057084_hanrei.pdf"
+}

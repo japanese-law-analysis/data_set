@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 9,
+    "day": 27
+  },
+  "case_number": "昭和23(つ)15",
+  "case_name": "訴訟指揮処分に対する異議申立却下決定に対する抗告",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第2巻10号1229頁",
+  "original_court_name": "旭川地方裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 8,
+    "day": 31
+  },
+  "gist": "起訴状に記載された罪名の根拠となる刑罰法令の効力についての判断を事実審理の前に示すことの要否",
+  "case_gist": "裁判所が公判手続において事実審理に入るに先立つて起訴状に記載された罪名の根拠となる刑罰法令が効力を有するか否かということについて判断を示すことを要する旨の刑事訴訟法の規定は存しないし、又憲法の規定若しくはその全趣旨からもかかる要請があるものとは認められない。そしてこの理はその刑罰法令が本件で問題となつた昭和二三年政令第二〇一号の場合であつても何等異るところはない。",
+  "ref_law": "刑訴法291条，刑訴法348条，刑訴法345条",
+  "lawsuit_id": "56464",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56464",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/464/056464_hanrei.pdf"
+}

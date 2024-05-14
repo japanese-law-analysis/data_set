@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 11,
+    "day": 29
+  },
+  "case_number": "昭和22(れ)42",
+  "case_name": "強盗、住居侵入",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第1巻号36頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 5,
+    "day": 29
+  },
+  "gist": "一個の強迫行爲により數人から財物を奪取する行爲と刑法第五四條一項前段",
+  "case_gist": "一個の強迫行爲によつて數人の者からその所持金を奪つた行爲は刑法第五四條第一項前段にいう「一個ノ行爲ニシテ數個ノ罪名ニ觸レ」にあたるものである。",
+  "ref_law": "刑法54條1項，刑法236條",
+  "lawsuit_id": "56451",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56451",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/451/056451_hanrei.pdf"
+}

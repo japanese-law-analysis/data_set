@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 3,
+    "day": 13
+  },
+  "case_number": "昭和22(れ)203",
+  "case_name": "強盗",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第2巻3号211頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 9,
+    "day": 13
+  },
+  "gist": "實行行爲をしなかつた強盗共謀者の責任",
+  "case_gist": "二人共謀して強盗をした場合に、その一人は、自ら暴行、脅迫又は財物奪取の行爲をしなくても、他の共犯者がこれをした事實がある以上、共に強盗の正犯として責任を負うべきである。",
+  "ref_law": "刑法60條，刑法236條1項",
+  "lawsuit_id": "56409",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56409",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/409/056409_hanrei.pdf"
+}

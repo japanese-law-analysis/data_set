@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 3,
+    "day": 27
+  },
+  "case_number": "昭和22(れ)338",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第1号545頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 11,
+    "day": 27
+  },
+  "gist": "判決言渡期日における判事の更迭と辯論更新の要否",
+  "case_gist": "判決作成後、これを作成した判事と異なる判事の構成する法廷において右判決が言渡された場合には、たとえ、判決作成の日と言渡の日とが同日であり、かつ、判事に更迭があつても、既に同日作成された判決を宣告するだけのことであるから、刑事訴訟法第三五四條但書によつて何等違法の點はない。",
+  "ref_law": "刑訴法354條但書，刑訴法410條16號",
+  "lawsuit_id": "74622",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74622",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/622/074622_hanrei.pdf"
+}

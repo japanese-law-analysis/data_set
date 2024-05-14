@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 7,
+    "day": 16
+  },
+  "case_number": "昭和24(れ)1021",
+  "case_name": "強盗傷人",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第12号659頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 3,
+    "day": 4
+  },
+  "gist": "一　意思の連絡と共同正犯の成立及び共犯者の一部の者のなした暴行と強盜の共同正犯\n二　自白の補強證據",
+  "case_gist": "一　事前に共謀の事實がなくても共犯者がその相手方と意思の連絡の下に犯行に及んだ場合には共同正犯となること。そして被告人が暴行を加えなくても他の共犯者が暴行を爲した事實があれば強盜の共同正犯としての責任を負うことは夫々當裁判所の判例の示すところである。（昭和二三年（れ）第三五一號。同年七月二〇日第三小法廷判決。昭和二二年（れ）第二〇三號、同二三年三月一三日第二小法廷判決）\n二　自白はその全部に亘つて補強證據を必要とするものでないことは既に當裁判所の判例とするところである。（昭和二三年（れ）第一五三號同二三年六月九日大法廷判決參照）",
+  "ref_law": "刑法60條，刑法236條，憲法38條3項，刑訴應急措置法10條3項",
+  "lawsuit_id": "74799",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74799",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/799/074799_hanrei.pdf"
+}

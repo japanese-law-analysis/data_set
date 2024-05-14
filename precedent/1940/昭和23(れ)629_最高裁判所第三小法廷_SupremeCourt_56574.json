@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 11,
+    "day": 9
+  },
+  "case_number": "昭和23(れ)629",
+  "case_name": "賍物牙保",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第2巻12号1504頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 4,
+    "day": 10
+  },
+  "gist": "周旋による賍物の賣買の不成立と賍物牙保罪の成立",
+  "case_gist": "賍物に關する罪の本質は、賍物を轉々して被害者の返還請求權の行使を困難もしくは不能ならしめる點にあるのであるから、いやしくも賍物たるの情を知りながら賍物の賣買を仲介周旋した事實があれば、既に被害者の返還請求權の行使を困難ならしめる行爲をしたといわなければならないから、其周旋にかかる賍物の賣買が成立しなくとも、賍物牙保罪の成立をさまたげるものではない。",
+  "ref_law": "刑法256條2項",
+  "lawsuit_id": "56574",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56574",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/574/056574_hanrei.pdf"
+}

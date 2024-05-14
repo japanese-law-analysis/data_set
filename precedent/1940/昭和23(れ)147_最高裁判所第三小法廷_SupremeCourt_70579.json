@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 5,
+    "day": 18
+  },
+  "case_number": "昭和23(れ)147",
+  "case_name": "強盗傷人、強盗予備、森林窃盗",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第2号83頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 12,
+    "day": 26
+  },
+  "gist": "證據取捨の理由明示の要否",
+  "case_gist": "有罪判決の證據説示としては判示事實を認定するに至つた證據を舉示すれば足りるのであつて其證據を取捨した理由を明示する必要はない",
+  "ref_law": "刑訴法360條1項，刑訴法337條",
+  "lawsuit_id": "70579",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70579",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/579/070579_hanrei.pdf"
+}

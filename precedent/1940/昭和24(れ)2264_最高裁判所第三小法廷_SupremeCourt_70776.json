@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 12,
+    "day": 6
+  },
+  "case_number": "昭和24(れ)2264",
+  "case_name": "殺人",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第15号199頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 4,
+    "day": 12
+  },
+  "gist": "自白と補強證據−犯意についての補強證據の要否",
+  "case_gist": "論旨第一點は、原審が本件犯行の核信ともいうべき被告人の犯意を被告人の法廷外における自白のみによつて認定したのは、憲法第三八條第三項および刑訴應急措置法第一〇條第三項違反であると主張する。しかし、自白に補強證據を要するということはその自白が架空のものでないことを證明するに足りるものであることは、當裁判所の判例とするところであつて（昭和二二年（れ）第六八號、同二三年六月二三日大法廷判決）その程度の補強證據は原判決中にも舉げられており、さらに犯意のような犯罪の主観的方面については、補強證據を必要としないという判例もある次第で（昭和二三年（れ）第一九五三號、同二四年四月五日最高裁判所第三小法廷判決参照）原判決には所論のような違法はない。",
+  "ref_law": "憲法38條3項，刑訴應急措置法10條3項",
+  "lawsuit_id": "70776",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70776",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/776/070776_hanrei.pdf"
+}

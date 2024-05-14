@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 11,
+    "day": 2
+  },
+  "case_number": "昭和23(れ)1096",
+  "case_name": "強盗殺人、同未遂、死体遺棄",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第5号21頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 3,
+    "day": 26
+  },
+  "gist": "採證の用に供しなかつた物につき證據調をすることの要否",
+  "case_gist": "所論の如く原審においては、押收にかかる斧と腕時計とについて特に證據調手續をした形跡はなくまた事實調の途中において右二品を被告人に示した形跡もない。しかし原判決においては、右二品を有罪認定の證據として採用していないのであるから、右二品について證據調をしないからとて所論の如き違法があるとはいえない。",
+  "ref_law": "刑訴法336條，刑訴法341條",
+  "lawsuit_id": "74661",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74661",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/661/074661_hanrei.pdf"
+}

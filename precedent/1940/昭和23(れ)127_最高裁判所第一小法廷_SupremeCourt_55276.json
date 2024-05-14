@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 5,
+    "day": 20
+  },
+  "case_number": "昭和23(れ)127",
+  "case_name": "強盗殺人、強盗、住居侵入",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第2巻5号489頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 9,
+    "day": 29
+  },
+  "gist": "住居侵入罪と住居權者の承諾（強盗殺人の目的を以て顧客を裝い他人の店に入つた行爲の違法性）",
+  "case_gist": "刑法住居侵入罪の「故なく」とは正當と事由なくしての意であるから強盗殺人の目的を以て他人の店舗内に侵入したのは、すなわち、故なくこれに侵入したものに外ならない。そして住居權者の承諾ある場合は、違法を阻却すること勿論であるけれども、被害者において顧客を裝い來店した犯人の申出を信じ店内に入ることを許容したからと言つて、強盗殺人の目的を以て店内に入ることの承諾を與えたとは言い得ない。果して然らば被告人等の本件店屋内の侵入行爲が住居侵入罪を構成すること言うまでもない。",
+  "ref_law": "刑法130條",
+  "lawsuit_id": "55276",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55276",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/276/055276_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 11,
+    "day": 22
+  },
+  "case_number": "昭和24(れ)2361",
+  "case_name": "強盗、住居侵入",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第14号805頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 5,
+    "day": 25
+  },
+  "gist": "住居侵入罪と強盜罪とを牽連犯とした判決の正否",
+  "case_gist": "現行刑法においても、住居侵入罪と強盜罪とはその被害法益および犯罪の構成要件を異にし、住居侵入の行爲は強盜罪の要素に屬せず別個獨立の行爲であり、しかも通常右兩罪の間には手段結果の關係のあることが認められるから、原判決が右兩罪を刑法第五四條第一項後段のいわゆる牽連犯として取扱つたのは正當であつて、論旨は理由がない。（昭和二三年（れ）第一四二九號同年一二月二四日第三小法廷判決參照）",
+  "ref_law": "刑法130條，刑法54條1項，刑法236條",
+  "lawsuit_id": "74901",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74901",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/901/074901_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 4,
+    "day": 23
+  },
+  "case_number": "昭和23(れ)1746",
+  "case_name": "賍物運搬",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第9号407頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 8,
+    "day": 20
+  },
+  "gist": "財物を強取した旨の公訴事実に基きその財物を受取つて運搬した事実を認定することの可否",
+  "case_gist": "原判決の認定した事實は、Ａ某、Ｂ某等が同判示のとおりＣ方で現金一三萬九六七〇圓を強取してから間もなく、被告人が、右Ａ某の依頼により、強取した現金の一部である一萬七〇〇〇圓をその情を知り乍ら同人から受取つて、一足先にその住居地である下關市に歸つていた前記Ｂ某の許迄運搬して届けたという事実である。即ち他人の所有にかかる財物に關する犯罪であつて、財物を強取した事實とその財物を受取つて運搬したる事實とは互に緊密な關係がある、この事實は公判請求書記載の強盜の起訴事實の中に包含せられているものと解するのを相當とする。それ故原判決には、所論のように、審判の請求を受けない事件につき判決した違法は存しない。",
+  "ref_law": "刑法256條2項，舊刑訴法291條",
+  "lawsuit_id": "70608",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70608",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/608/070608_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 12,
+    "day": 23
+  },
+  "case_number": "昭和23(れ)1309",
+  "case_name": "強盗、住居侵入",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第6号383頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 4,
+    "day": 14
+  },
+  "gist": "一　辯論の再開と裁判所の自由裁量權\n二　上告理由を具體的に明示しない主張と上告の適否",
+  "case_gist": "一　辯論の再開を爲すか否かは、裁判所がその職務上專ら獨立に諸般の事情を勘案し、適宜決定すべき任意事項であつて、所論のごとくこれが申請を必ず採用せねばならぬ法令上の根據は、毫もこれを見出すことができない。\n二　上告適法の理由となるべき法令違反の申立は、その理由を具體的に明示しなければならないこと言うまでもないから所論のようにただ漠然と「事實認定と法適用の權限を徒らに越脱し重刑を科した」というだけでは、上告の審判を爲すに由なき論旨といわねばならぬ。",
+  "ref_law": "刑訴法350條，刑訴法425條",
+  "lawsuit_id": "70558",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70558",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/558/070558_hanrei.pdf"
+}

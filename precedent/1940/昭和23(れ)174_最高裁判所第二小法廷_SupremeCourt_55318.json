@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 6,
+    "day": 5
+  },
+  "case_number": "昭和23(れ)174",
+  "case_name": "業務上横領",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第2巻7号647頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 1,
+    "day": 24
+  },
+  "gist": "刑法第二五三條の業務",
+  "case_gist": "復員事務官でＡ上陸地連絡所庶務課勤務を命ぜられた者が他課の所管ではあるが復員者に對する旅費の交付及びこれに充てる國庫の前渡資金保管の事務についても平素から事質上擔當主任事務官の輔佐としてこれに從事し關係上司においてもこれを認めていた以上特にその命令に出でたものでなくてもその事務の處理は刑法第二五三條のいわゆる業務に該當するものと解すべきである。",
+  "ref_law": "刑法253條",
+  "lawsuit_id": "55318",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55318",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/318/055318_hanrei.pdf"
+}

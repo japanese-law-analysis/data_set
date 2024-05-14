@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 9,
+    "day": 29
+  },
+  "case_number": "昭和24(れ)781",
+  "case_name": "強盗",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第13号629頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 11,
+    "day": 29
+  },
+  "gist": "共犯者の一部の者の加えた暴行脅迫と強盜の共同正犯",
+  "case_gist": "強盜の共謀者がたとい自から被害者に對し暴行脅迫を加えなかつたとしても他の共謀者の暴行脅迫行爲を利用し強盜の意思を實現した以上、なお強盜罪の共同正犯の責を兔れ得ないものであることは多言を要しない。",
+  "ref_law": "刑法60條，刑法236條",
+  "lawsuit_id": "70830",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70830",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/830/070830_hanrei.pdf"
+}

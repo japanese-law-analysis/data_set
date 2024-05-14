@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 2,
+    "day": 17
+  },
+  "case_number": "昭和23(つ)1",
+  "case_name": "刑法第五二条の規定に基く大赦を受けない罪に付刑を定める決定に対する抗告事件につきなした抗告棄却決定に対する即時抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第2巻2号102頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 11,
+    "day": 24
+  },
+  "gist": "最高裁判所に對する抗告申立の許否",
+  "case_gist": "最高裁判所に對する抗告は、刑訴應急措置法第一八條のように、訴訟法において特に最高裁判所に抗告をなし得る旨を定めた場合の外は許されない。",
+  "ref_law": "刑訴應急措置法18條，裁判所法7條2號",
+  "lawsuit_id": "56465",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56465",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/465/056465_hanrei.pdf"
+}

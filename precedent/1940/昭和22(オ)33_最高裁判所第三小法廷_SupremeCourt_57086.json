@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 7,
+    "day": 20
+  },
+  "case_number": "昭和22(オ)33",
+  "case_name": "所有権確認等請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第2巻9号205頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 11,
+    "day": 24
+  },
+  "gist": "所有権移転登録記後に所有権が移転された場合の登記の効力。",
+  "case_gist": "債務者が期限に債務を弁済しないときは、債権者は、債務者に対する一方的意思表示によつて、代物弁済として債務者所有の抵当不動産を取得すべき旨の契約をした場合に、右意思表示前、代物弁済による所有権移転登記手続がなされても、債権者がその後右意思表示をして所有権が移転すれば、その登記は有効となる。",
+  "ref_law": "民法177条",
+  "lawsuit_id": "57086",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57086",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/086/057086_hanrei.pdf"
+}

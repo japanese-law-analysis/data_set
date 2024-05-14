@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 10,
+    "day": 8
+  },
+  "case_number": "昭和24(れ)1576",
+  "case_name": "常習賭博",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第14号113頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 3,
+    "day": 8
+  },
+  "gist": "一　賭博の前科が四回ある事實と賭博の常習性の認定\n二　賭博の方法と賭博の常習性の認定",
+  "case_gist": "一　被告人の前科調書によると被告人に賭博の前科が四回あるのである。原審は右事実等から被告人の本件賭博を常習賭博と認定したものであつて、その認定は事實審たる原審の判斷に委せられている事項である。\n二　博徒でない者でもまた賭博の方法が賭徒の行う方法でないときでも苟くも賭博を行う習癖のあるものについては常習賭博を認定し得る。",
+  "ref_law": "刑法186條1項",
+  "lawsuit_id": "74849",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74849",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/849/074849_hanrei.pdf"
+}

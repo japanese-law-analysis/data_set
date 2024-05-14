@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 11,
+    "day": 8
+  },
+  "case_number": "昭和24(れ)1719",
+  "case_name": "殺人未遂、銃砲等所持禁止令違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第14号477頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 2,
+    "day": 10
+  },
+  "gist": "殺人罪における未必の故意ある一場合",
+  "case_gist": "原判決は、被告人の判示第一の犯行につき、その犯意の證明として「若し日本刀や匕首で相手を斬り付けるときは、斬り所によつては當然相手を死に到らしめることを豫想しながら」本件犯行に出たことを記載している。自己の行爲が他人を死亡させるかも知れないと意識しながら敢えてその行爲に出た場合が殺人罪のいわゆる未必の故意ある場合に當ることは云うまでもないところであつて前記の原判示説明は、このことを云い現はしているのである。",
+  "ref_law": "刑法38條1項，刑法43條，刑法203條",
+  "lawsuit_id": "74858",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74858",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/858/074858_hanrei.pdf"
+}

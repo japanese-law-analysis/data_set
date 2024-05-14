@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 6,
+    "day": 15
+  },
+  "case_number": "昭和22(オ)30",
+  "case_name": "市会議員当選無効",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第2巻7号134頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 9,
+    "day": 29
+  },
+  "gist": "地方自治法第六六條の當選訴訟の被告",
+  "case_gist": "地方自治法第六六條第四項は都道府縣の選舉管理委員會の決定又は裁決に不服ある者が高等裁判所に出訴することができる旨を規定しているが、その訴の趣旨は決定又は裁決の取消を求める訴に外ならない、從つて此の訴を提起するには當該決定又は裁決をした都道府縣の選舉管理委員會を被告とすべきものであつて、當選人は實質上利害關係のある者ではあるが、この訴についての正當な被告とはなり得ない。",
+  "ref_law": "地方自治法66條4項",
+  "lawsuit_id": "57085",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57085",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/085/057085_hanrei.pdf"
+}

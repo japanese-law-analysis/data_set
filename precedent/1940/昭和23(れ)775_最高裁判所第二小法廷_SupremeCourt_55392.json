@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 4,
+    "day": 9
+  },
+  "case_number": "昭和23(れ)775",
+  "case_name": "昭和二二年政令第一六五号違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第3巻4号501頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 5,
+    "day": 24
+  },
+  "gist": "行爲の反社會性についての認識と法の不和",
+  "case_gist": "論旨は、政令の公布後短日月なること等より當時被告人は、當該行爲が法令上禁止せられているとの意識がなかつたと主張するのであるけれども法の不知は犯罪の違法性を阻却するものでないことは刑法の規定するところであつて、かりに被告人が具體的にいかなる法令によつてその行爲が禁止せられているかを知らなかつたとしても既に前段説明のごとくその所爲の反社會性についての認識のあつたことが認められる以上その所爲について右政令違反の罪責を免れないことは當然といわなければならない。",
+  "ref_law": "昭和22年政令165號，刑法38條3項",
+  "lawsuit_id": "55392",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55392",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/392/055392_hanrei.pdf"
+}

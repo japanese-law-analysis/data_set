@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 12,
+    "day": 21
+  },
+  "case_number": "昭和24(れ)1260",
+  "case_name": "強盗、詐欺",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第3巻12号2062頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 3,
+    "day": 25
+  },
+  "gist": "再犯加重の合憲性",
+  "case_gist": "刑法第五六條第五七條の再犯加重の規定は第五六條の所定の再犯者であるという事に基いて、新に犯した罪に對する法定刑を加重し、重い刑罰を科し得べきことを是認したに過ぎないもので、前科に對する確定判決を動かしたり、或は前犯に對し、重ねて刑罰を科する趣旨のものではないから所論憲法第三九條の規定に反するものではない。従つて右刑法の規定が違憲であることを前提とする論旨はいずれも理由がない。",
+  "ref_law": "憲法39條，刑法56條，刑法57條",
+  "lawsuit_id": "55437",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55437",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/437/055437_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 7,
+    "day": 29
+  },
+  "case_number": "昭和23(オ)40",
+  "case_name": "市会議員選挙無効",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第2巻9号219頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 4,
+    "day": 23
+  },
+  "gist": "一　選舉の無効原因の立證義務\n二　投票凾の施錠の不備と選舉の効力",
+  "case_gist": "一　原判決は、選舉に不正行爲があつた事實についてはこれを認めるに足る證據がないと判示しているが、かゝる事實は選舉の無効を主張する上告人（原告）において立證する責任があるにかゝわらず、原審において上告人は何等の立證をしていないから原判決の認定は少しも違法がない。\n二　原判決は、證據によつて「投票凾の外蓋の施錠にその後僅かな不備が生じたことは認められる」と認定すると共に、又證據によつて「右の不備は直ちに選舉の結果に異動を及ぼす虞れある場合に該當しない」と認定している。それゆえ、地方自治法第六七條によつて、選舉の無効を來さないことは明かであるから、本件上告は理由がない。",
+  "ref_law": "地方自治法67條",
+  "lawsuit_id": "57105",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57105",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/105/057105_hanrei.pdf"
+}

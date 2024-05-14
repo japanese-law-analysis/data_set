@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 12,
+    "day": 24
+  },
+  "case_number": "昭和23(れ)897",
+  "case_name": "業務上横領",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第6号443頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 5,
+    "day": 29
+  },
+  "gist": "一　原上告審において主張しなかつた憲法違反を再上告理由として新たに主張することの正否\n二　食糧管理法と憲法第二五條",
+  "case_gist": "一　第二審が憲法第三八條二項に違反したと云う主張を原上告審において爲さず、原上告審判決に對する再上告理由として新たに之を主張することは適法でない。\n二　食糧管理法は憲法第二五條に違反しない。",
+  "ref_law": "刑訴應急措置法17條1項，食糧管理法9條，食糧管理法31條，憲法25條",
+  "lawsuit_id": "70686",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70686",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/686/070686_hanrei.pdf"
+}

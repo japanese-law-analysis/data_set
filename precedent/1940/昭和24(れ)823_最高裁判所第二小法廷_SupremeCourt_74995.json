@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 7,
+    "day": 2
+  },
+  "case_number": "昭和24(れ)823",
+  "case_name": "強盗",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第12号31頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 6,
+    "day": 1
+  },
+  "gist": "犯罪供用物件が共犯者中の一人の所有である場合に共犯者全員に對し各別に沒収の言渡をなすことの可否",
+  "case_gist": "しかし刑は共犯者の全員に對して各別に言渡すべきものである以上、附加刑である沒収についても、たとい供用物件が共犯者中の一人の所有に屬する場合でも、各別に言渡して差支えないのである。そしてこのことは共犯者の全員が同一審級における共同被告人であると否とを問はないのである。",
+  "ref_law": "刑法19條1項2號，刑法60條，刑法9條",
+  "lawsuit_id": "74995",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74995",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/995/074995_hanrei.pdf"
+}

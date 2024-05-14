@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 7,
+    "day": 9
+  },
+  "case_number": "昭和24(れ)158",
+  "case_name": "過失致死、自動車取締令違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第12号205頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 12,
+    "day": 6
+  },
+  "gist": "連續犯關係の一部の公訴を棄却する場合に之を判決主文に掲記することの要否",
+  "case_gist": "連續犯關係の一部に公訴を棄却すべきものがある場合には、判決理由中においてそのことを明らかにすればよいのであつて、特に主文において、その言渡をする必要はないのである。",
+  "ref_law": "舊刑訴法364條，刑法55條",
+  "lawsuit_id": "74850",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74850",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/850/074850_hanrei.pdf"
+}

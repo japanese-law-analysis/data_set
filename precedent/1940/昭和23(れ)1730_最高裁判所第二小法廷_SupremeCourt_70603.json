@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 4,
+    "day": 2
+  },
+  "case_number": "昭和23(れ)1730",
+  "case_name": "強盗致死、住居侵入",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第9号45頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 8,
+    "day": 28
+  },
+  "gist": "強盜共謀者の強盜致死に對する共同責任",
+  "case_gist": "強盜の凶謀をした者は、共謀者の一人又は數人が強盜の手段として行つた暴行に因り相手方を死亡するに至らしめた場合には、自からその實行行爲をしなかつたとしても、他の共謀者と共に強盜致死罪の責任を免れる譯にはゆかないのである。",
+  "ref_law": "刑法60條，刑法240條",
+  "lawsuit_id": "70603",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70603",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/603/070603_hanrei.pdf"
+}

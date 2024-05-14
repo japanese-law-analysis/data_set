@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 12,
+    "day": 24
+  },
+  "case_number": "昭和23(つ)6",
+  "case_name": "裁判官忌避申立却下決定に対する抗告棄却決定に対する特別抗告",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第2巻14号1925頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 5,
+    "day": 14
+  },
+  "gist": "刑訴法第二九條と憲法第一五條第二項",
+  "case_gist": "刑訴法第二九條そのものを所論のように憲法第一五條第二項の精神ないし憲法前文の精神に違反するものと論じ去ることはできない。",
+  "ref_law": "刑訴法29條，憲法15條2項",
+  "lawsuit_id": "55234",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55234",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/234/055234_hanrei.pdf"
+}

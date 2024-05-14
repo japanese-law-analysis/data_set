@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 11,
+    "day": 17
+  },
+  "case_number": "昭和24(れ)1603",
+  "case_name": "公文書偽造、偽造公文書行使、詐欺",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第3巻11号1808頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 4,
+    "day": 21
+  },
+  "gist": "「家庭用主食購入通帳」は刑法にいわゆる財物にあたるか",
+  "case_gist": "所論「家庭用主食購入通帳」は、一個人の所有權の容体となるべき有体物であるから、刑條にいわゆる財物にあたるものといわなければならない。從つて該通帳が本件被告人の配給物資を騙取せんがための手段であり、道具であるに過ぎなかつたとしても、詐欺罪の成立を妨げる理由はない。されば原審が被告人の所爲に對し食糧緊急措置令第一〇又は刑法第一五七條第二項を適用しないで、刑法第二四六條第一項又は同法第一五五條第一項等を適用したのは正當であつて原判決には所論のような法令の適用を誤つた違法はない。",
+  "ref_law": "刑法157條2項，刑法155條1項，刑法246條1項，食糧緊急措置令10條",
+  "lawsuit_id": "56641",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56641",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/641/056641_hanrei.pdf"
+}

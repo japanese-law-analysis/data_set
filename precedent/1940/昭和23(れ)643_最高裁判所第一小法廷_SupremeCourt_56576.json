@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 10,
+    "day": 7
+  },
+  "case_number": "昭和23(れ)643",
+  "case_name": "常習賭博",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第2巻11号1289頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 4,
+    "day": 27
+  },
+  "gist": "一　少額賭金による賭博罪の成立\n二　最後の前科から三年經過後の犯行につき賭博の常習性認定の當否",
+  "case_gist": "一　本件賭博は假りに所論の縷述するような賭金の少額なこと等の事情があるとしても、骨牌を使用し偶然のゆえいに關し金錢の得喪を爭つたものであることは、判文上明らかなところであつて、單に一時の娯樂のためにしたもので罪となるべきものではないとはいえない。\n二　賭博の常習者として二回までも處罰された者がさらに犯した賭博であるとしたら、それが單に最後の前科のときから三年餘の後の犯行であるというだけでの事由で、賭博を反覆累行する習癖のあらわれでないとは必ずしもいうことができない。",
+  "ref_law": "刑法185條，刑法186條",
+  "lawsuit_id": "56576",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56576",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/576/056576_hanrei.pdf"
+}

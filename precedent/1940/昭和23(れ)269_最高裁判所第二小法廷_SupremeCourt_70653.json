@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 6,
+    "day": 12
+  },
+  "case_number": "昭和23(れ)269",
+  "case_name": "強盗窃盗",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第2号467頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 12,
+    "day": 5
+  },
+  "gist": "連續犯について犯意繼續の事實及びその證據を明示しない判決と上告の適否",
+  "case_gist": "判文上被告人の所爲が行爲の日時、態様等から見て繼續の意思に出たことを認めた趣旨であることが窺える場合ならば判文上特に犯意繼續の事實を明示せず又更に之が證據による説明をしないでも連續犯として處斷することを妨げない。",
+  "ref_law": "刑法55條，刑訴法360條1項",
+  "lawsuit_id": "70653",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70653",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/653/070653_hanrei.pdf"
+}

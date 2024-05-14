@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 7,
+    "day": 17
+  },
+  "case_number": "昭和23(れ)442",
+  "case_name": "窃盗、物価統制令違反、塩専売法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第2巻8号918頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 3,
+    "day": 26
+  },
+  "gist": "窃盜行爲と物價統制令違反行爲の索連關係の存否",
+  "case_gist": "統制額を超えて販賣する目的で白鹽を窃取し、これを統制額を超えて販賣した、場合には、右窃取行爲と物價統制令違反行爲との間には、刑法第五四條第一項後段の關係はない。",
+  "ref_law": "刑法54條1項",
+  "lawsuit_id": "56547",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56547",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/547/056547_hanrei.pdf"
+}

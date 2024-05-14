@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 9,
+    "day": 22
+  },
+  "case_number": "昭和24(れ)865",
+  "case_name": "強盗、同予備、銃砲等所持禁止令違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第13号551頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 12,
+    "day": 13
+  },
+  "gist": "一　屋外の見張りと強盗の共同正犯\n二　保釋後四ケ月以上經過後の公判廷における自白と不當に長い拘禁後の自白",
+  "case_gist": "一　被告人が原審相被告人Ａ等と本件強盜をすることを共謀したものと認定され得る以上、被告人が、犯行現場において屋外で見張をしてをり、屋内に侵入した共謀者が如何なる暴行脅迫をなし、如何なる財物を強取したかをその當時知らなかつたとしても、又その贓物の分配を受けなかつたとしても、なお被告人は本件強盜の共同正犯である。\n二　「保釋後四ケ月以上を經過した後に公判廷においてなされた自白は憲法第三八條第二項に所謂不當に長い拘禁後の自白ということはできない。」のである。（昭和二三年（れ）第三九七號事件同年七月二九日判決、判例集第二巻第九號一〇七八頁参照）",
+  "ref_law": "刑法60條，刑法236條1項，憲法38條2項",
+  "lawsuit_id": "70837",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70837",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/837/070837_hanrei.pdf"
+}

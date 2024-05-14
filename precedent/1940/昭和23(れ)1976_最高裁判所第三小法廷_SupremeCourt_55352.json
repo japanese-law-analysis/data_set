@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 5,
+    "day": 31
+  },
+  "case_number": "昭和23(れ)1976",
+  "case_name": "窃盗、賍物収受、銃砲等所持禁止令違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "刑集　第3巻6号883頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 7,
+    "day": 22
+  },
+  "gist": "綜合証拠の中に虚与の証拠がある場合と上告理由",
+  "case_gist": "虚無の証拠を他の証拠と不可分的に綜合して事実を認定した場合、その違法は、判決に影響を及ぼさないものとはいえない。",
+  "ref_law": "旧刑訴法336条，旧刑訴法337条，旧刑訴法411条",
+  "lawsuit_id": "55352",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55352",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/352/055352_hanrei.pdf"
+}

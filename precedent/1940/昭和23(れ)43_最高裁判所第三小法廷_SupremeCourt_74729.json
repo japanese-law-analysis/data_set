@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 4,
+    "day": 6
+  },
+  "case_number": "昭和23(れ)43",
+  "case_name": "詐欺",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第1号581頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 10,
+    "day": 20
+  },
+  "gist": "食糧の不正受配と作爲による詐欺罪の成立",
+  "case_gist": "原判決は被告人が大阪府食糧營團住吉川販賣所係員Ａに對しＢ等が實際に隣組内に居住し正當に配給を受けるものであるかのように裝うて主食糧の配給を求め、同人をだまし同人から主食配給名儀の下に米麥類を受取つてこれを騙取した事實を認定して被告人の作爲による詐欺犯を判示したのであるから、本件は被告人の不作爲による詐欺犯ではない。",
+  "ref_law": "刑法246條，刑訴法360條1項",
+  "lawsuit_id": "74729",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74729",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/729/074729_hanrei.pdf"
+}

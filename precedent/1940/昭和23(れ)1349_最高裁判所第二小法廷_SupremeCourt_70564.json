@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 12,
+    "day": 27
+  },
+  "case_number": "昭和23(れ)1349",
+  "case_name": "恐喝未遂",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第6号649頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 8,
+    "day": 30
+  },
+  "gist": "同一人の同一公判廷の不可分でない供述の一部を證據に採つた場合と採證上の法則",
+  "case_gist": "同一人の同一公判廷における供述でも、その供述内容が實質的に不可分でないかぎり。その一部を採證の用に供し、その措信せざる部分を證據としないということは、もとより原審の自由裁量に屬するところであつて、原審には所論のごとき採證上の違法ありということはできない。",
+  "ref_law": "刑訴法337條",
+  "lawsuit_id": "70564",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70564",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/564/070564_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 5,
+    "day": 22
+  },
+  "case_number": "昭和23(れ)134",
+  "case_name": "傷害致死",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第2巻5号501頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 12,
+    "day": 4
+  },
+  "gist": "供述者の訊問請求のない場合の豫審における證人訊問調書の證據能力",
+  "case_gist": "證人の豫審訊問調書は被告人の請求があるときはその供述者を公判期日に訊問する機曾を被告人に與えなければこれを證據とすることができないのであるから、その訊問の機曾を被告人に與えさへすれば現にこれを公判廷で訊問しなくともその調書を證據とすることができると解すべきである。",
+  "ref_law": "刑訴應急措置法12條1項",
+  "lawsuit_id": "55282",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55282",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/282/055282_hanrei.pdf"
+}

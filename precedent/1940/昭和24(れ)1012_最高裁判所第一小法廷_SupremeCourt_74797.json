@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 7,
+    "day": 14
+  },
+  "case_number": "昭和24(れ)1012",
+  "case_name": "強盗、殺人、窃盗、詐欺",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第12号585頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 10,
+    "day": 29
+  },
+  "gist": "刑法第二四〇條後段の「強盜人ヲ死ニ致シタルトキ」の意義",
+  "case_gist": "刑法第二四〇條後段は「強盜人ヲ死ニ致シタルトキハ死刑又ハ無期懲役ニ虞ス」と規定して殺意の有無を問はず強盜犯人が暴行の結果人を死に致せば強盜殺人罪の成立することを明らかにしているのである。それは暴行脅迫によつて他人の財物を強奪する強盜というやうな危險極まる兇悪な犯罪を敢てするものが、その暴行によつて人を死亡せしめるなら、たとえそれが豫期に反した結果であつても、なおその結果に對し加重責任を負わしめるのが當然であると、法律は考えたのである。",
+  "ref_law": "刑法240條後段",
+  "lawsuit_id": "74797",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74797",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/797/074797_hanrei.pdf"
+}

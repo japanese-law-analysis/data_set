@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 4,
+    "day": 26
+  },
+  "case_number": "昭和23(れ)1913",
+  "case_name": "強盗、同未遂、窃盗",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第3巻5号658頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 10,
+    "day": 12
+  },
+  "gist": "盗難被害物品の所有者を明示することの要否",
+  "case_gist": "しかし窃盜罪が成立するためには、他人の管理に屬する財物を窃取することを以て足りその財物が何人の所有に屬するかは問うところでないから原判決には論旨一に主張されているような審理不盡の違法はない。",
+  "ref_law": "刑法235條",
+  "lawsuit_id": "55340",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55340",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/340/055340_hanrei.pdf"
+}

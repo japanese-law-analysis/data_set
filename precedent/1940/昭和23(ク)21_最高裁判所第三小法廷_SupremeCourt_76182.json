@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 7,
+    "day": 20
+  },
+  "case_number": "昭和23(ク)21",
+  "case_name": "追加判決申立事件につきなした申立却下の決定に対する抗告",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "却下",
+  "article_info": "集民　第1号269頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和23(ウ)31",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 6,
+    "day": 11
+  },
+  "lawsuit_id": "76182",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=76182",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/182/076182_hanrei.pdf"
+}

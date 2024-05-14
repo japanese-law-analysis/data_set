@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 6,
+    "day": 18
+  },
+  "case_number": "昭和24(れ)773",
+  "case_name": "準強盗",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第3巻7号1099頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 9,
+    "day": 21
+  },
+  "gist": "一　公判期日の指定に時を指定することの要否\n二　舊刑訴法における巡査及び巡査部長と司法警察との關係",
+  "case_gist": "一　しかし舊刑訴法第三二〇條第一項には「裁判長を公判期日を定むべし」と規定してあつて公判期日を定めるには日及び時をもつてすべしとは規定していないのであるが、ただ従來の慣行によつて日及び時を指定しているのである、それ故原審が判決言渡期日を指定するにあたり日のみをもつてし時を定めなかつたとしてもその期日の指定を目して違法なりと云うことはできない。\n二　舊刑訴法第二四八條及び第二四九條の關係においては國家地方警察の警察官及び自治體警察の警察吏員のうち巡査のみが司法警察吏となり巡査部長以上は司法警察官に該當するものと解すべきである。",
+  "ref_law": "舊刑訴法310條1項，舊刑訴法248條，舊刑訴法249條，警察法35條，警察法46條，警察法附則19條",
+  "lawsuit_id": "55504",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55504",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/504/055504_hanrei.pdf"
+}

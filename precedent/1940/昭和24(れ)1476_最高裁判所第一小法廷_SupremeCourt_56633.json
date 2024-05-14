@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 11,
+    "day": 10
+  },
+  "case_number": "昭和24(れ)1476",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第3巻11号1751頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 12,
+    "day": 10
+  },
+  "gist": "一　被告人が少年たることと舊刑訴法第三六〇條にいわゆる「罪となるべき事實」\n二　舊刑訴法第三六〇條にいわゆる「法令の適用」の意義と舊少年法第八條第一項\n三　少年法にいわゆる少年の年令を定める標準",
+  "case_gist": "一　被告人が（舊）少年法にいわゆる少年たることは、舊刑訴第三六〇條にいわゆる「罪となるべき事実」に屬しない。\n二　舊刑訴法第三六〇條にいわゆる「法令の適用」とは、具体的犯罪構成事實に適用すべき實体法規の適用をいうのであつて、舊少年法第八條第一項の適用の如きはこれに含まれない。\n三　少年法にいわゆる少年であるか否かは、原判決言渡の時における年令に從うべきものであることは、既に々當裁判所の判例とするところである",
+  "ref_law": "舊刑訴法360條，舊刑訴360條，舊少年法8條1項",
+  "lawsuit_id": "56633",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56633",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/633/056633_hanrei.pdf"
+}

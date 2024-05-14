@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 6,
+    "day": 25
+  },
+  "case_number": "昭和24(れ)44",
+  "case_name": "傷害致死",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第11号513頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 10,
+    "day": 23
+  },
+  "gist": "一　喧嘩と正當防衞\n二　決鬪により人を殺傷した者に對し刑法の規定を適用することの正否",
+  "case_gist": "一　喧嘩鬪爭の過程において爲される相互の反撃行爲は、正當防衞の觀念を容れないものである。（昭和二三年七月七日、同年（れ）第七三號大法廷判決參照）\n二　かりに本件の喧嘩鬪爭が、所論のごとく、決鬪にあたるものとしても決鬪によつて人を殺傷した者は、刑法の各本條によつて、處斷せられることは、明治二二年一二月三〇日法律第三四號決鬪に關する件第三條の規定するところであるから、原審が本件の傷害致死の事實につき刑法の規定を適用したことをもつて、違法なりとする何らの根據はない。",
+  "ref_law": "刑法36條，刑法205條，明治22年法律34號決鬪に關する件3條",
+  "lawsuit_id": "70806",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70806",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/806/070806_hanrei.pdf"
+}

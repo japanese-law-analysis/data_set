@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 6,
+    "day": 10
+  },
+  "case_number": "昭和23(れ)260",
+  "case_name": "強盗、銃砲等所持禁止令違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第2号427頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 2,
+    "day": 3
+  },
+  "gist": "科刑の根據となる事由についての判示の要否",
+  "case_gist": "共犯者間における刑の差等その他科刑の根據となる事由は刑訴第三六〇條第一項にいわゆる罪となるべき事實に該當しないから、判決にこれが理由を判示しなかつたからといつて所論のような違法があるとはいえない。ことは、原判決自體で明瞭であるから之を理由不備と云うことはできない。",
+  "ref_law": "刑訴法360條1項",
+  "lawsuit_id": "70652",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70652",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/652/070652_hanrei.pdf"
+}

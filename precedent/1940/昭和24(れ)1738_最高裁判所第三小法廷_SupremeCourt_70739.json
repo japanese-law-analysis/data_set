@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 12,
+    "day": 13
+  },
+  "case_number": "昭和24(れ)1738",
+  "case_name": "物品税法等違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第3巻12号1962頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 4,
+    "day": 21
+  },
+  "gist": "物品税逋脱罪が成立する事例",
+  "case_gist": "葡萄糖の製造販賣を目的とする會社の業務擔當者が、その業務に關し一般會計の外、特別會計等の祕密會計を設け、不正行爲により昭和二一年一〇月から同二二年八月までの間、葡萄糖の移出數量の一部を故意に政府に報告せず、その數量に相應する物品税を免れた事實がある以上は、いわゆる逋脱罪が成立するのであつて、物品税法第一九條第一號の虚僞申告罪を以て處罰すべきではない。",
+  "ref_law": "物品税法18条1項，物品税法18条2項，物品税法22条，物品税法19条1号",
+  "lawsuit_id": "70739",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70739",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/739/070739_hanrei.pdf"
+}

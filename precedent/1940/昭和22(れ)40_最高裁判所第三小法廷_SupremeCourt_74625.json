@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 11,
+    "day": 14
+  },
+  "case_number": "昭和22(れ)40",
+  "case_name": "窃盗、詐欺",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第1号51頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 6,
+    "day": 14
+  },
+  "gist": "一　計算に誤りある盜難被害届による事實認定\n二　犯罪の目的物の表示の具體性の程度",
+  "case_gist": "一　（犯罪事實認定の證拠として採用した盜難被害届に）上告理由記載の通り計算に誤りがあつたとしても、犯行全體から観察して極めて軽微を判決に影響を及ぼす程度のもので無いと認められるから破毀の理由とはならない。\n二　詐欺罪の目的物である財物の表示として麥五升と表示すれば充分であつて麥の種類を表示し無いでも破毀の理由にはならない。",
+  "ref_law": "刑訴法411條，刑訴法410條19號，刑訴法360條，刑法246條",
+  "lawsuit_id": "74625",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74625",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/625/074625_hanrei.pdf"
+}

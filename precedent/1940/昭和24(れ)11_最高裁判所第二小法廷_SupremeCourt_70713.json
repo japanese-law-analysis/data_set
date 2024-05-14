@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 6,
+    "day": 4
+  },
+  "case_number": "昭和24(れ)11",
+  "case_name": "強盗殺人",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第11号57頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 11,
+    "day": 9
+  },
+  "gist": "死刑と憲法第九條、同第一三、條同第三一條、同第三六條",
+  "case_gist": "死刑が憲法第一三條、同第三六條の趣旨精神に反しないことは、當裁判所屡次の判例とするところである。亦所論憲法第九條の所謂戰爭抛棄の宣言の規定は、死刑の存廢に何等關連のある規定でないことは、多辯を要せずして明らかである。そして、却つて所論引用の憲法第三一條は、死刑制度の憲法上適法であることを窺知し得るに十分の規定である。所論は違憲に名を藉り死刑廢止に関する獨自の論議と云うの外ない。",
+  "ref_law": "憲法9條，憲法13條，憲法31條，憲法36條，刑法9條，刑法11條",
+  "lawsuit_id": "70713",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70713",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/713/070713_hanrei.pdf"
+}

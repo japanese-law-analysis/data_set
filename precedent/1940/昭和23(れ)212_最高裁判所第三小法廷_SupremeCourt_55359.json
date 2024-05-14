@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 5,
+    "day": 25
+  },
+  "case_number": "昭和23(れ)212",
+  "case_name": "強盗",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第2巻5号507頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 12,
+    "day": 10
+  },
+  "gist": "強盗の見張りと強盗の共同正犯",
+  "case_gist": "原審は其舉示の證據に基いて被告人は單に屋外に佇立して居ただけではなく見張をして居たものと認定したのである。而して數人が強盗の實行を共謀し、そのうち一人が屋外の見張りを擔當した場合には、その者についても強盗の共同正犯が成立することは當裁判所の判例とするところである（昭和二二年（れ）第二三五號昭和二三年三月一六日第三小法廷判決）。",
+  "ref_law": "刑法236條，刑法60條",
+  "lawsuit_id": "55359",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55359",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/359/055359_hanrei.pdf"
+}

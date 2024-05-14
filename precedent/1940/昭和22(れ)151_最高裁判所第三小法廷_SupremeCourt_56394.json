@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 2,
+    "day": 27
+  },
+  "case_number": "昭和22(れ)151",
+  "case_name": "強盗",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第2巻2号120頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 8,
+    "day": 23
+  },
+  "gist": "一　共同被告人の陳述と刑訴應急措置法第一〇條第三項の「本人の自白」\n二　心神耗弱者でないことの判示に於ける證據説明の要否",
+  "case_gist": "一　第一審における共同被告人が檢事に對して、被告人との共同犯行を認めている場合、その陳述は刑訴應急措置法第一〇條第三項にいう被告人本人の自白にあたらない。\n二　原審において被告人は心神耗弱者でないことを判断するに當つては刑事訴訟法第三六〇條第二項により其判断を示せば足りるのであつて、これに對する證據説明をする必要はないものである。",
+  "ref_law": "日本国憲法の施行に伴う刑事訴訟法の應急的措置に関する法律10條3項，憲法38條3項，刑訴法360條2項",
+  "lawsuit_id": "56394",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56394",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/394/056394_hanrei.pdf"
+}

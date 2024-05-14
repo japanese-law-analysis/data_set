@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 2,
+    "day": 15
+  },
+  "case_number": "昭和23(れ)960",
+  "case_name": "強盗傷人",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第3巻2号164頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 2,
+    "day": 2
+  },
+  "gist": "強盜罪の成立",
+  "case_gist": "暴行脅迫を用いて財物を奪取する犯意の下に、先ず他人の手にする財物を奪取し、次いで被害者に暴行を加えてその奪取を確保した場合は、強盜罪を構成する。",
+  "ref_law": "刑法236条",
+  "lawsuit_id": "55411",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55411",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/411/055411_hanrei.pdf"
+}

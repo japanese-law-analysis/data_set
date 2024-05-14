@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 3,
+    "day": 5
+  },
+  "case_number": "昭和23(れ)1016",
+  "case_name": "強盗",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "刑集　第3巻3号249頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 6,
+    "day": 30
+  },
+  "gist": "適法な證據調を經ない證據物を證據とした判決の違法",
+  "case_gist": "原審公判調書を精査するも、右押収物件について舊刑訴法第三四一條第一項の證據調手續を履踐した證跡がない、しからば、原判決は適法な證據調を經ない、證據物を證據とした違法があるのであつてこの點において原判決は破毀を免れないものである。",
+  "ref_law": "舊刑訴341條1項",
+  "lawsuit_id": "56473",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56473",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/473/056473_hanrei.pdf"
+}

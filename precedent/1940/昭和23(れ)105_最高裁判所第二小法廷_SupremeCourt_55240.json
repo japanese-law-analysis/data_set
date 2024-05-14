@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 5,
+    "day": 1
+  },
+  "case_number": "昭和23(れ)105",
+  "case_name": "窃盗、賍物故買",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第2巻5号435頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 11,
+    "day": 4
+  },
+  "gist": "窃盗の意思で強盗の見張をした者の責任",
+  "case_gist": "被告人以外の共犯者は最初から強盗の意思で強盗の結果を實現したのであるがただ被告人だけは輕い窃盗の意思で他の共犯者の勸誘に應じて屋外で見張をしたと云うのであるから、被告人は輕い窃盗の犯意で重い強盗の結果を發生させたものであるが、共犯者の強盗所爲は、被告人の豫期しないところであるからこの共犯者の強盗行爲について、被告人に強盗の責任を問うことはできない譯である。然らば、原判決が被告人に對し刑法第三八條第二項により窃盗罪として處斷したのは正當である。",
+  "ref_law": "刑法235條，刑法236條，刑法38條2項",
+  "lawsuit_id": "55240",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55240",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/240/055240_hanrei.pdf"
+}

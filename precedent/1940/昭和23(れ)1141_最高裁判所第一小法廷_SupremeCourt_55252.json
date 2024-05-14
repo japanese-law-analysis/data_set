@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 1,
+    "day": 20
+  },
+  "case_number": "昭和23(れ)1141",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第3巻1号40頁",
+  "original_court_name": "札幌高等裁判所\n        　函館支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 6,
+    "day": 29
+  },
+  "gist": "刑法第六〇條を適用したことが判文上明白な場合これを適用したことを判文に明示することの要否",
+  "case_gist": "刑法第六〇條を適用した旨を判文上明示しなくても、同條を適用しているものであることが自から明白である場合には違法でない。",
+  "ref_law": "刑法60條，舊刑訴法360條1項",
+  "lawsuit_id": "55252",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55252",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/252/055252_hanrei.pdf"
+}

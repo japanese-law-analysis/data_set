@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 7,
+    "day": 14
+  },
+  "case_number": "昭和24(れ)3099",
+  "case_name": "賍物故買",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第18号831頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 10,
+    "day": 18
+  },
+  "gist": "直接の盜難被害經驗者でない者が作成した盜難被害始末書の證據能力",
+  "case_gist": "作成者が直接の盜難被害經驗者でなくてもその内容が自己の管掌事項について窃盜犯人の供述を照會して盜難被害を認める旨の盜難被害始末書は舊刑訴法及び刑訴應急措置法の下において賍物故買事件について證據能力なしとはいえない。",
+  "ref_law": "舊刑訴法336條，舊刑訴法337條",
+  "lawsuit_id": "66984",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66984",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/984/066984_hanrei.pdf"
+}

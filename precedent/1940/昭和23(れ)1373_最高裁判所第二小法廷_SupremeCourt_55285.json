@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 1,
+    "day": 11
+  },
+  "case_number": "昭和23(れ)1373",
+  "case_name": "強盗、窃盗、賍物牙保",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第3巻1号13頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 7,
+    "day": 10
+  },
+  "gist": "一　自己名儀による賍物の賣買と「賣買自身の周旋」\n二　賍物の牙保における賣主の名儀と賍物牙保罪の成否",
+  "case_gist": "一　賍物の賣買が所論のごとく被告人の名儀をもつてされたとしても他人の依頼に因り他人の利益のためにするものである以上論旨にいわゆる「賣買の周旋」というを妨げない。\n二　賍物の賣却を爲した者が、自ら賣主として賍物を賣却したか、盜罪犯人の名儀若しくはその代理名儀で賣却したかは賍物牙保罪の成否に影響するところはない。",
+  "ref_law": "刑法256條2項",
+  "lawsuit_id": "55285",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55285",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/285/055285_hanrei.pdf"
+}

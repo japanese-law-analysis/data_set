@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 12,
+    "day": 4
+  },
+  "case_number": "昭和22(れ)21",
+  "case_name": "強盗、殺人未遂",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第1号159頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 5,
+    "day": 20
+  },
+  "gist": "共犯行爲の判示方法",
+  "case_gist": "共媒の上犯罪を實行した場合には、共犯者の一人が行爲の實行を全然分擔しなくともその責に任ずべきものであるから判決に共犯者各自の行動を一々判示するの必要はない。",
+  "ref_law": "刑法60條，刑訴法360條1項",
+  "lawsuit_id": "74615",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74615",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/615/074615_hanrei.pdf"
+}

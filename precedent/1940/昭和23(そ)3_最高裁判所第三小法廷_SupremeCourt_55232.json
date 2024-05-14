@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 2,
+    "day": 1
+  },
+  "case_number": "昭和23(そ)3",
+  "case_name": "住居侵入被告事件に対する非常上告",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "刑集　第3巻2号65頁",
+  "original_court_name": "福岡地方裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 6,
+    "day": 3
+  },
+  "gist": "法定刑を超える刑を言い渡した確定判決に対する非常上告事件の裁判",
+  "case_gist": "昭和二三年法律第二五一号罰金等臨時措置法施行（昭和二四年二月一日）前の刑法第一三〇条の罪に対し罰金五〇〇円の刑を言い渡した確定判決に対し非常上告があつたときは、旧刑訴第五二〇条第一号但書の場合に該当する。",
+  "ref_law": "刑法130条，罰金等臨時措置法3条1項1号，旧刑訴法520条",
+  "lawsuit_id": "55232",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55232",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/232/055232_hanrei.pdf"
+}

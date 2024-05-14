@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 4,
+    "day": 19
+  },
+  "case_number": "昭和24(れ)301",
+  "case_name": "強姦致傷、強姦、同未遂、強盗、窃盗、詐欺",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第9号313頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 11,
+    "day": 8
+  },
+  "gist": "被告人の精神状態の認定と鑑定の要否",
+  "case_gist": "しかし被告人の精神状態が異状であるか否かということは事實認定の問題である、事實審たる原審が被告人を精神異状の疑濃厚なものを認めず從つて専門家の精神鑑定の助けを藉るまでもなく通常の精神状態にあることを認め得るものと判斷して、その認定したのである以上所論のように違法があると言うことはできない。况して原審においては被告人の側から精神鑑定の申請もされていないに於ておや。",
+  "ref_law": "舊刑訴法219條，舊刑訴法336條",
+  "lawsuit_id": "70795",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70795",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/795/070795_hanrei.pdf"
+}

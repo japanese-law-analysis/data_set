@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 7,
+    "day": 17
+  },
+  "case_number": "昭和23(れ)299",
+  "case_name": "業務上横領、窃盗",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第2巻8号910頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 1,
+    "day": 20
+  },
+  "gist": "憲法第三七條第二項の法意",
+  "case_gist": "憲法第三七條第二項前段の規定は、裁判所が被告人の申請するすべての證人を取調べる義務があると解すべきではなく、その後段は裁判所がその必要を認めて訊問を許可した證人についての規定であつて、裁判所が有する證據調の範圍を自由に定め得る權能を制限し又は奪つたものと解すべきではない。",
+  "ref_law": "憲法37條2項",
+  "lawsuit_id": "56527",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56527",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/527/056527_hanrei.pdf"
+}

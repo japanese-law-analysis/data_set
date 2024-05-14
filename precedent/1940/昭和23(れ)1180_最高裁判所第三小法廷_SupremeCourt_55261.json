@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 12,
+    "day": 24
+  },
+  "case_number": "昭和23(れ)1180",
+  "case_name": "強盗殺人、窃盗、住居侵入",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第2巻14号1908頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 8,
+    "day": 9
+  },
+  "gist": "一　裁判官の意義\n二　證據として引用した被告人の供述記載に「奥座敷」とあるのを「奥四疊半の間」と判示したことと上告理由",
+  "case_gist": "一　裁判官という用語は、判事、判事補等裁判の職務を行う官吏の総称であつて、刑訴法第六〇条第二項第二号にいわゆる官名である。\n二　被告人の供述記載に犯行の場所として「奥座敷」とあるのを證據とした原判決がこれを「奥四疊半の間」と判示したことは、判決に影響を及ぼす違法でないから、これを理由として原判決を破毀することはできない。",
+  "ref_law": "刑訴法602項2号，刑訴法360條1項，刑訴法411條",
+  "lawsuit_id": "55261",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55261",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/261/055261_hanrei.pdf"
+}

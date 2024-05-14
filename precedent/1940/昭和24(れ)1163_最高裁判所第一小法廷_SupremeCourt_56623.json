@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 10,
+    "day": 13
+  },
+  "case_number": "昭和24(れ)1163",
+  "case_name": "強盗、窃盗",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第3巻10号1655頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 2,
+    "day": 12
+  },
+  "gist": "共犯者に犯行を共にしなければ殺すぞと脅かされたため犯罪行爲をしたとの主張と緊急避難行爲であるとの主張",
+  "case_gist": "被告人が共犯者から犯行を共にしなければ殺すぞと脅かされたので共に強盜行爲をしたと供述しても之をもつて緊急避難行爲であるとの主張をしたものということはできない。",
+  "ref_law": "刑法37條1項，舊刑訴法360條2項",
+  "lawsuit_id": "56623",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56623",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/623/056623_hanrei.pdf"
+}

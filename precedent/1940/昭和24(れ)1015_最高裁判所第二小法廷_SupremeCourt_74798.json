@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 7,
+    "day": 9
+  },
+  "case_number": "昭和24(れ)1015",
+  "case_name": "殺人、窃盗",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集刑　第12号279頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 12,
+    "day": 2
+  },
+  "gist": "公判調書に立會檢事の記載を缺く公判廷の構成の適否",
+  "case_gist": "原審第八回公判調書に立會檢事の氏名の記載のないことは、所論のとおりである、從つて同公判廷が舊刑訴法第三二九條第二項に從い檢事立會の上開かれたものであることは、同公判調書によつて、證明されず、結局、右公判廷は、適法な構成を缺くものと認めるの外なく、本件上告は同法第四一〇條第一號によりその理由あり、原判決は破毀を免れないものである。",
+  "ref_law": "舊刑訴法329條2項，舊刑訴法14條，舊刑訴法60條，舊刑訴法410條1號",
+  "lawsuit_id": "74798",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74798",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/798/074798_hanrei.pdf"
+}

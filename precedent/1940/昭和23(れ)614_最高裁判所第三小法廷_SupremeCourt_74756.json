@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 10,
+    "day": 12
+  },
+  "case_number": "昭和23(れ)614",
+  "case_name": "食糧緊急措置令違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第4号401頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 3,
+    "day": 18
+  },
+  "gist": "附帶控訴と刑の不利益變更",
+  "case_gist": "被告人は、第一審判決で罰金一萬五千圓の刑を言渡されたのに、第二審ではそれよりも重く懲役四ケ月の判決を受けたことを意外とし、人權擁護の明文が新憲法にあるならばかようなことのあるべき筈がないと思う、と述べているが、これは第二審に於て檢察官の附帶控訴があつたために、被告人の控訴した事件に付ては原判決の刑より重き刑を言渡すことを得ないという原則が適用されなかつたからであつて、原判決には何等の違法も存しない。",
+  "ref_law": "刑訴法403條，刑訴法399條",
+  "lawsuit_id": "74756",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74756",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/756/074756_hanrei.pdf"
+}

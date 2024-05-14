@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 10,
+    "day": 8
+  },
+  "case_number": "昭和24(れ)1530",
+  "case_name": "強姦致傷",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第14号95頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 4,
+    "day": 8
+  },
+  "gist": "共謀による輪姦行爲と強姦致傷の結果に對する共犯者全員の罪責",
+  "case_gist": "本件強姦は、所論六名の者の通謀行爲であることは、原判決舉示の證據である原審公判廷における右六名の供述として、一人が姦淫している間他の者等はそれぞれ被害者の手足を押えた上、順次全員において輪姦した旨の供述によつて寔に明らかなところである。しからば本件強姦致傷の結果については、右六名中の何人がこれを與へたかについては明確でなくても、所謂結果的加重犯である。強姦致傷罪においては右六名の全員が等しく共同正犯としての責を兔れないものと云うべきである。",
+  "ref_law": "刑法60條，刑法181條",
+  "lawsuit_id": "74843",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74843",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/843/074843_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 9,
+    "day": 8
+  },
+  "case_number": "昭和24(れ)1745",
+  "case_name": "賍物運搬",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第13号403頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 3,
+    "day": 29
+  },
+  "gist": "窃盜の起訴事實を賍物運搬と認定した判決と起訴事實の同一性",
+  "case_gist": "所論において、原判決が公訴請求のない事實を認定して有罪を言渡したのは違法であると主張している點は、檢事が窃盜の事實を起訴したのに對し、原判決は賍物運搬の事實を認定したものであつて、兩者は共に犯人の所有にかかる財物に關する犯罪であつて互に密接の関係を有し、賍物運搬は窃盜の事後においてこれに便益を確保する犯罪であるから、窃盜罪の公訴事實中には賍物運搬罪の事實を含むものと解すべく、罪名に變更があつても、起訴事實の同一性を害するものではない。",
+  "ref_law": "刑法第235條，256條2項，舊刑訴法291條，舊刑訴法410條18號",
+  "lawsuit_id": "70740",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70740",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/740/070740_hanrei.pdf"
+}

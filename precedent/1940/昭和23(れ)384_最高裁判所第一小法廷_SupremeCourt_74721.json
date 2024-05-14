@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 7,
+    "day": 1
+  },
+  "case_number": "昭和23(れ)384",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第3号5頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 3,
+    "day": 24
+  },
+  "gist": "窃盜共謀者の見張と共同正犯",
+  "case_gist": "論旨は被告人は本件窃盜の共謀者ではなく、窃盜の犯意ないこと記録上明瞭であると主張するのであるが、原審第二回公判調書の記載によれば、被告人がＡ外三名と共謀して判示日時、判示專賣局出張所に赴き他のものが同所倉庫内から判示被害物件を盜み出す間外で見張りをなししかもその賍物の運搬を手傳つた旨自認していることを認め得るのである。原審は右被告人の自供に基いて判示のとおり被告人を本件窃盜の共同正犯と認定したのであるが、この認定はその引用證據に照らし肯認するに難くないのである。蓋し窃盜の共謀者がたとえ窃盜の現場において、唯見張りをなしただけで直接窃取行爲に關與しなかつたとしても、窃盜正犯の罪責を兔れ得ないことは當然だからである。",
+  "ref_law": "刑法235條，刑法60條",
+  "lawsuit_id": "74721",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74721",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/721/074721_hanrei.pdf"
+}

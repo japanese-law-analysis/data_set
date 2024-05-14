@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 6,
+    "day": 10
+  },
+  "case_number": "昭和23(れ)71",
+  "case_name": "恐喝、傷害",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第2巻7号664頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 10,
+    "day": 27
+  },
+  "gist": "刑訴應急措置法第一二條第一項の規定と證人の供述を録取した公判調書",
+  "case_gist": "證人の供述を録取した公判調書は刑訴應急措置法第一二條第一項に規定する書類の中に含まれない。",
+  "ref_law": "刑訴應急措置法12條1項，刑訴法60條1項，刑訴法60條2項7號，刑訴法56條1項，刑訴法56條2項1號",
+  "lawsuit_id": "55386",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55386",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/386/055386_hanrei.pdf"
+}

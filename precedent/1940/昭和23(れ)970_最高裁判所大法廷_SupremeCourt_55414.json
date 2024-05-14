@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 5,
+    "day": 4
+  },
+  "case_number": "昭和23(れ)970",
+  "case_name": "食糧管理法違反",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第3巻6号697頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 4,
+    "day": 23
+  },
+  "gist": "判決書に公判に關與した檢事の官名を遺脱した違法と上告理由",
+  "case_gist": "旧刑訴法第六九條第三項によれば公判に關與した檢事の官氏名を記載すべきことを要求しているのであるから、前示の如く判決に檢事の官名遺脱したことは右法條に違反したものであることは所論の通りである。然し右のような法律違反は絶對的上告理由に該らないのであるから、その違反が裁判に影響を及ぼす虞れあるときに限り上告の理由とすることができるのである。従つて右のような違法があつても事實上檢事が公判に關與し、被告事件の陳述をなす等公判審理の手續が適法に施行された以上、その違法は判決に影響を及ぼさないことが明白であるからこれを上告の理由となすことはできないのである。",
+  "ref_law": "舊刑訴法69條3項，舊刑訴法441條",
+  "lawsuit_id": "55414",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55414",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/414/055414_hanrei.pdf"
+}

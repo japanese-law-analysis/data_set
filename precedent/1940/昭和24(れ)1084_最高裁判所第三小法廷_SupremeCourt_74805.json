@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 10,
+    "day": 11
+  },
+  "case_number": "昭和24(れ)1084",
+  "case_name": "傷害、銃砲等所持禁止令違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第14号139頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 2,
+    "day": 16
+  },
+  "gist": "上告趣意書提出期間經過後に辯護届を提出した辯護人の上告趣意書の効力",
+  "case_gist": "記録を調査すると辯護人遺水祐四郎名儀の上告趣意書と題する書面が本件上告趣意書提出期間内である昭和二四年九月一二日に當裁判所へ提出されたが被告人から同人を當審における辯護人に選任する旨の書面は同月二七日に至つて提出たれたことが認められる。辯護人の選任届がなくて法定の期間内に提出した上告趣意書は、右期間の經過後に辯護届を提出しても遡つて適法なものにならないことは當裁判所の判例とするところである。（昭和二三年（れ）第一二九號、同年六月一二日第二小法廷判決最高裁判所判例集第二巻六六八頁参照）",
+  "ref_law": "舊刑訴法423條",
+  "lawsuit_id": "74805",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74805",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/805/074805_hanrei.pdf"
+}

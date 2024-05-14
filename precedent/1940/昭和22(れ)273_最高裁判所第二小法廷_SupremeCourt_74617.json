@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 4,
+    "day": 10
+  },
+  "case_number": "昭和22(れ)273",
+  "case_name": "傷害致死",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第2巻4号330頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 10,
+    "day": 15
+  },
+  "gist": "自首の事實の判示の要否",
+  "case_gist": "自首減輕を與へると否とは事實裁判所の專權に屬することで、之を與えない場合、特に自首の事實を判決に判示する必要はない。然らば原判決が被告人が自首した事實を摘示せず又之に關する法條を示さなかつたとしても何等違法はない。",
+  "ref_law": "刑法42条，刑訴法360条2項",
+  "lawsuit_id": "74617",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74617",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/617/074617_hanrei.pdf"
+}

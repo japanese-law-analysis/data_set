@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 7,
+    "day": 2
+  },
+  "case_number": "昭和24(れ)115",
+  "case_name": "窃盗、横領",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第12号19頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 12,
+    "day": 7
+  },
+  "gist": "詐欺罪として起訴された事實を裁判所が横領罪と認定したことの正否",
+  "case_gist": "しかし起訴された事實が同一である限り詐欺罪として起訴された事實を横領罪として問擬してもこれを違法ということはできないのである。",
+  "ref_law": "刑法246條，刑法252條，舊刑訴法360條1項",
+  "lawsuit_id": "74817",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74817",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/817/074817_hanrei.pdf"
+}

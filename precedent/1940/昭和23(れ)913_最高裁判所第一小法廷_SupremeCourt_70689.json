@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 12,
+    "day": 16
+  },
+  "case_number": "昭和23(れ)913",
+  "case_name": "強盗、住居侵入、銃砲等所持禁止令違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第6号261頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 5,
+    "day": 24
+  },
+  "gist": "少年法による保護處分と事實審裁判所の裁量權",
+  "case_gist": "被告人等を少年法による保護處分その他實刑を科せざる處分を受けしめるのが相當であるか否か等はすべて事實審たる原裁判所の裁量權にのみ屬するところである。",
+  "ref_law": "少年法71條",
+  "lawsuit_id": "70689",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70689",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/689/070689_hanrei.pdf"
+}

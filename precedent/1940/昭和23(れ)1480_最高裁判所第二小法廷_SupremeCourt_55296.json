@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 2,
+    "day": 1
+  },
+  "case_number": "昭和23(れ)1480",
+  "case_name": "強盗、窃盗未遂教唆、住居侵入",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第3巻2号63頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 6,
+    "day": 30
+  },
+  "gist": "記録に編綴されている國選辯護人選任書の案に裁判長の捺印がない場合の選任の効力",
+  "case_gist": "（國選）辯護人の選任書の原本は辯護人に交付し、その案を記録に編綴して置くのであるから、本件記録に編綴されている前示選任書の案に裁判長の捺印がないのは當然で、それがために選任書の原本に裁判長の捺印がなかつたものと言うことはできないのみならず、同辯護人は右選任によつて右公判期日の延期を求むることなく原審公判に終始異義なく立會したことも記録上明らかであるから、右選任は有効である。又假りに、所論の如く選任書に裁判長の捺印が缺けていたとしても、かかる瑕疵は右選任の効力を左右するものではない。",
+  "ref_law": "舊刑訴法43條",
+  "lawsuit_id": "55296",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55296",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/296/055296_hanrei.pdf"
+}

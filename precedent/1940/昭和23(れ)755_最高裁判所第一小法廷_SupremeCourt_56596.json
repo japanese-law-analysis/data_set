@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 11,
+    "day": 4
+  },
+  "case_number": "昭和23(れ)755",
+  "case_name": "食糧管理法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第2巻12号1459頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 4,
+    "day": 3
+  },
+  "gist": "裁判長判事として公判に列席した事実の認定",
+  "case_gist": "公判調書に某判事が裁判長判事として列席したと記載してあり、且つ、右調書の末尾に右判事が裁判長判事として署名捺印している場合には、公判調害が虚偽又は偽造であると認むべき事情か存在しない限り、右某判事が裁判長判事として公判に列席したものと認むべきである。",
+  "ref_law": "刑訴法60条，刑訴法410条4号，刑訴法63条1項，刑訴法64条",
+  "lawsuit_id": "56596",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56596",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/596/056596_hanrei.pdf"
+}

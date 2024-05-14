@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 4,
+    "day": 26
+  },
+  "case_number": "昭和23(オ)128",
+  "case_name": "土地所有權移轉登記手續請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第3巻5号153頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 9,
+    "day": 22
+  },
+  "gist": "一　自作農創設特別措置法に基く農地買収による所有権の移転\n二　登記名義の回復のためにする所有権移転登記手続と農地調整法第四条",
+  "case_gist": "一　自作農創設特別措置法に基く農地の買収の場合においては、同法第九条の規定による買収令書の交付又はこれに代わるべき公告の手続がなされない限りは当該農地の所有権は、政府に移転しない。\n二　農地調整法第四条は、所有権移転登記が虚偽の意思表示に基くものであることを理由として、その登記名義回復のため所有権移転登記手続をする場合には、適用がない。",
+  "ref_law": "自作農創設特別措置法3条1項，自作農創設特別措置法9条1項，自作農創設特別措置法12条1項，農地調整法4条",
+  "lawsuit_id": "55892",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55892",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/892/055892_hanrei.pdf"
+}

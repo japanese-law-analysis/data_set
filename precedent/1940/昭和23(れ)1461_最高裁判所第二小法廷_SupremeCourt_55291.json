@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 2,
+    "day": 8
+  },
+  "case_number": "昭和23(れ)1461",
+  "case_name": "邸宅侵入",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第3巻2号95頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 7,
+    "day": 15
+  },
+  "gist": "公判廷に弁護人が出頭し弁論をしたかどうかの手続と公判調書の記載",
+  "case_gist": "公判調書に、弁護人が公判期日に公判廷に出張し、被告人のため弁論した旨記載されているときは、これに反する主張をすることを許さない。",
+  "ref_law": "旧刑訴法64条",
+  "lawsuit_id": "55291",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55291",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/291/055291_hanrei.pdf"
+}

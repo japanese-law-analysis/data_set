@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 12,
+    "day": 11
+  },
+  "case_number": "昭和22(ク)4",
+  "case_name": "区会議員当選無効事件につきなした決定に対する再抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "却下",
+  "article_info": "集民　第1号25頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和22(ナ)16",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 7,
+    "day": 4
+  },
+  "lawsuit_id": "76148",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=76148",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/148/076148_hanrei.pdf"
+}

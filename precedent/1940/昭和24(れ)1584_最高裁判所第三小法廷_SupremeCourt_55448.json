@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 8,
+    "day": 9
+  },
+  "case_number": "昭和24(れ)1584",
+  "case_name": "賭場開帳図利",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "刑集　第3巻9号1449頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 4,
+    "day": 27
+  },
+  "gist": "判決言渡調書に記載の立會判事と署名捺印した判事が相違する場合と判決言渡の効力",
+  "case_gist": "所論の調書を見ると原審第四回期日（判決言渡期日）に立會つた判事は裁判長判事Ａ、判事Ｂ、判事Ｃである旨の記載がある。しかるに同調書に裁判長として署名捺印して居るのは判事Ｄであること所論の通りであるかかる調書では果して判決言渡が適法に爲されたかどうかを證明することができない、即ち適法な判決言渡があつたかどうかわからないから原判決を破毀して事件を原審に差戻す外ない。",
+  "ref_law": "舊刑訴法60條3項2號，舊刑訴法63條1項，舊刑訴法64條",
+  "lawsuit_id": "55448",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55448",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/448/055448_hanrei.pdf"
+}

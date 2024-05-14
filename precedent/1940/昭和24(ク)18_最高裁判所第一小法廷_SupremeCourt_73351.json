@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 6,
+    "day": 16
+  },
+  "case_number": "昭和24(ク)18",
+  "case_name": "建物賃貸借関係確信の申立事件の抗告につきなした決定に対する抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "却下",
+  "article_info": "集民　第2号371頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和23(ラ)22",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 10,
+    "day": 25
+  },
+  "lawsuit_id": "73351",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=73351",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/351/073351_hanrei.pdf"
+}

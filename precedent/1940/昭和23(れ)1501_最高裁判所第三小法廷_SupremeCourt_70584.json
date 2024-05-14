@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 12,
+    "day": 24
+  },
+  "case_number": "昭和23(れ)1501",
+  "case_name": "強盗、住居侵入、強盗予備",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第6号547頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 9,
+    "day": 6
+  },
+  "gist": "一　公判請求書記載事實と判示事實との間に多少の差異ある場合と上告理由\n二　判決の認定事實の日時と公訴事實の日時とが異る場合と上告理由",
+  "case_gist": "一　公判請求書記載の事實と原判示事實との間に被害物品について多少の差異があるとしても、具體的な窃盜の犯行そのものには異同がないのであるから、原判決は審判の請求を受けない事件について判決し若しくはこれを受けた事件について判決しなかつた違法はない。\n二　判決の認定事實における日時と公訴事實における日時とがたまたま異つていても事實の同一性を失わない場合もあり得るのであつて、事實の特定ということは日時のみによつて爲されるものではないから、これのみを以て、原判決が公訴事實と異なつた認定をした違法ありと云うことはできない。",
+  "ref_law": "刑訴法410條18號",
+  "lawsuit_id": "70584",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70584",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/584/070584_hanrei.pdf"
+}

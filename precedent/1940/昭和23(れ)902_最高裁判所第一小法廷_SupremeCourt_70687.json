@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 12,
+    "day": 16
+  },
+  "case_number": "昭和23(れ)902",
+  "case_name": "横領",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第6号247頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 5,
+    "day": 17
+  },
+  "gist": "漠然と憲法違反を主張する再上告理由の適否",
+  "case_gist": "本件第二審判決及び原上告判決に、假りに所論のような違法があつたとしても、それが憲法違反であるという理由を明らかにするのでなければ、再上告適法の理由とはならない。これは、刑訴應急措置法第一八條の立法趣旨とするところである。ただ､所論は、原判決の違法について詳述した後、「如斯は明らかに基本人權を尊重する我憲法の違法である」と結んでいるが、かかる漠然たる主張では、果して憲法のいかなる條項の違反を指摘しているのか、全く不明である。かくのごときは、名を憲法違反に藉るに過ぎないのであつて、再上告適法の理由として是認することを得ないものと云わなければならぬ。",
+  "ref_law": "刑訴應急措置法18條",
+  "lawsuit_id": "70687",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70687",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/687/070687_hanrei.pdf"
+}

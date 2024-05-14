@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 4,
+    "day": 17
+  },
+  "case_number": "昭和22(れ)187",
+  "case_name": "賍物故買",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第2巻4号357頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 10,
+    "day": 15
+  },
+  "gist": "一　第一審判決後の被害辨償と第二審における量刑\n二　賍物故買の知情の唯一の證據が自白である場合と刑訴應急措置法第一〇條第三項",
+  "case_gist": "一　所論のように、第一審判決の後、被告人が、被害者に、被害を辨償したという新しい事情が發生したとしても、第二審裁判所は必ず第一審判決より輕い刑を言渡さなければならぬということはない。\n二　犯罪事實を認定した直接の證據は被告人の自白のみであつても、他の諸般の證據を被告人の自白に對する補強證據として、犯罪事實を認定した場合には、被告人の自白を唯一の證據として、これを認定したものということは出來ない。",
+  "ref_law": "旧刑訴法403條，憲法38條3項，刑訴應急措置法10條3項",
+  "lawsuit_id": "56405",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56405",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/405/056405_hanrei.pdf"
+}

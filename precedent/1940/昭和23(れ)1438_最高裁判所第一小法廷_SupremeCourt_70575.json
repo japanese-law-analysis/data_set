@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 2,
+    "day": 17
+  },
+  "case_number": "昭和23(れ)1438",
+  "case_name": "賍物故買",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第7号419頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 8,
+    "day": 10
+  },
+  "gist": "新憲法と未決勾留日數通算の要否",
+  "case_gist": "刑法第二一條は、未決勾留日數の全部又は一部を本刑に算入することは、裁判所の任意であることを規定している。そして未決勾留は被告事件の審理の必要上認められる訴訟手続上の拘禁であつて、刑の執行ではない。それ故その全部又は一部の日數が、假りに、訴訟手続上不當なものであるとしても刑の言渡に際し刑そのものの量定又は執行につき理論上當然にこれを算入すべきか否かを考慮しなければならぬものではない。されば新憲法下においても、右刑法規定を所論のように必ず算入することを要するものと解すべき理由はない。",
+  "ref_law": "刑法21條，憲法11條",
+  "lawsuit_id": "70575",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70575",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/575/070575_hanrei.pdf"
+}

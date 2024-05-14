@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 3,
+    "day": 19
+  },
+  "case_number": "昭和23(オ)152",
+  "case_name": "参議院地方選出議員当選無効",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第3巻3号74頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 11,
+    "day": 5
+  },
+  "gist": "選挙無効を原因とする当選訴訟の当否",
+  "case_gist": "当選訴訟において、選挙の無効を原因として当選人の当選を争うことは許されない。",
+  "ref_law": "参議院議員選挙法73条，衆議院議員選挙法81条，衆議院議員選挙法83条",
+  "lawsuit_id": "55901",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55901",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/901/055901_hanrei.pdf"
+}

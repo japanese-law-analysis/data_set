@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 10,
+    "day": 8
+  },
+  "case_number": "昭和24(れ)1564",
+  "case_name": "賭場開帳図利、同幇助",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第14号103頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 4,
+    "day": 20
+  },
+  "gist": "賭博場開帳圖利罪の成立と利益収得の要否",
+  "case_gist": "賭博開帳罪は犯人が利益を得る目的をもつて賭場を開設し賭者に賭博をする機會を與へることによつて成立するのであるから現實に利益を収得した事実を要するものではない。それ故犯人が寺錢として収得した金員から賭場開設の費用を控除して現實に何等の利益を収得しなつた場合でも苟も利益を得る目的をもつて賭場を開帳した以上賭博開帳罪は成立するのである。",
+  "ref_law": "刑法186條2項",
+  "lawsuit_id": "74848",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74848",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/848/074848_hanrei.pdf"
+}

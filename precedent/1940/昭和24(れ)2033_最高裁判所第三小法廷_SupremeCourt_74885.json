@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 11,
+    "day": 29
+  },
+  "case_number": "昭和24(れ)2033",
+  "case_name": "恐喝、賍物牙保",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第14号841頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 12,
+    "day": 27
+  },
+  "gist": "刑法第四八條を適用した趣旨は認められるも同條の適用を明記しない判決の適否",
+  "case_gist": "論旨第一點未段は、原判決には刑法第四八條を適用していない違法があると主張するが、同條は刑法總則の規定であつて原判文自体から、同條を適用した趣旨であることが明らかに認められるから同條の適用を明記しなかつたことによつて直ちに原判決を違法とするわけに行かず、論旨は理由がない。",
+  "ref_law": "刑法48條，舊刑訴法360條1項",
+  "lawsuit_id": "74885",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74885",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/885/074885_hanrei.pdf"
+}

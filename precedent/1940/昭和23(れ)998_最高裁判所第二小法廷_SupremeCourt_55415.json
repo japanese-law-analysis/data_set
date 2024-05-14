@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 12,
+    "day": 11
+  },
+  "case_number": "昭和23(れ)998",
+  "case_name": "強盗殺人",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第2巻13号1728頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 5,
+    "day": 25
+  },
+  "gist": "一　賍物の還附を受けるべき被害者と被害当時の所有者との関係\n二　賍物の還附を受けるべき被害者であることの理由明示の要否\n三　文字の挿入削除が法定の要式を缺いた調書の効力",
+  "case_gist": "一　盜賍を被害者に還付する言渡をする場合、その還付を受けるべき被害者は、必ずしも、判決の事実摘示において被害物件の所有者として指示された者であることを要しない。\n二　賍物を還付する旨の言渡を受けた被害者が、その還付を受けるべき者であるとする理由は、特に判示することを要しない。\n三　調書における文字の挿入削除が法定の要式を缺いた場合でも、直ちにこれを無効とすべきでなく、その効力の有無は、專ら、裁判所が諸般の状況を勘考して、自由の裁量によつて決すべきである。",
+  "ref_law": "刑訴法373条1項，刑訴法360条，刑訴法72條",
+  "lawsuit_id": "55415",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55415",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/415/055415_hanrei.pdf"
+}

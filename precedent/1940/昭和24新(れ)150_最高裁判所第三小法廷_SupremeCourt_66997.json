@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 6,
+    "day": 6
+  },
+  "case_number": "昭和24新(れ)150",
+  "case_name": "食糧管理法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第18号97頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 8,
+    "day": 16
+  },
+  "gist": "法理の不知と犯意",
+  "case_gist": "原審は違法性阻却の原因たる事實ありと信じた場合でも犯意の成立に關係ないという判斷をしたのではない、原信のした法律上の判斷は「違法性の認識は犯意の成立に關係ない」というだけであつて此判斷は當裁判所の判例（昭和二三年（れ）第二〇二號同年七月一四日大法廷判決）の趣旨に合致するものである從つて原判決に判例違反ありとの論旨は理由がない。",
+  "ref_law": "刑法38條，刑訴法405條2號",
+  "lawsuit_id": "66997",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66997",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/997/066997_hanrei.pdf"
+}

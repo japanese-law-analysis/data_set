@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 7,
+    "day": 17
+  },
+  "case_number": "昭和23(オ)32",
+  "case_name": "仮処分異議並仮処分取消申立",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第2巻8号190頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 3,
+    "day": 24
+  },
+  "gist": "建物の医業経営に必要な限度の判断を執行吏に委ねる仮処分の効力。",
+  "case_gist": "病院の建物を執行吏の保管に移し、債務者の申立があるときは、債務者が右建物において医業を経営するに必要な限度で、これにその使用を許すべき旨を執行吏に命ずる仮処分は、建物の医業経営に必要な限度の判断を執行吏に委ねているからといつて、違法ではない。",
+  "ref_law": "民訴法758条",
+  "lawsuit_id": "57102",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57102",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/102/057102_hanrei.pdf"
+}

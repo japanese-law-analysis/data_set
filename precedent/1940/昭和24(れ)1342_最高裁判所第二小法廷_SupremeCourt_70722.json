@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 12,
+    "day": 3
+  },
+  "case_number": "昭和24(れ)1342",
+  "case_name": "関税法違反、外国人登録令違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第15号57頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 3,
+    "day": 17
+  },
+  "gist": "免許を受けないで輸入を圖つた被告人の占有に係る當該物件の没收と關税法第八三條第一項",
+  "case_gist": "所論の物件は原判示事實の如くいずれも被告人が免許を受けずして輸入を圖つたもので被告人の占有に係るものであるから關税法第八三條第一項により没收すべきものであつて、その物件が犯人の所有であることは右規定による没收の要件ではないから原判決がこれを没收したのは正當である。",
+  "ref_law": "關税法83條1項",
+  "lawsuit_id": "70722",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70722",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/722/070722_hanrei.pdf"
+}

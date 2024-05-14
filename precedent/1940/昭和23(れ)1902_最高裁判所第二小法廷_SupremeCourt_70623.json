@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 5,
+    "day": 14
+  },
+  "case_number": "昭和23(れ)1902",
+  "case_name": "銃砲等所持禁止令違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第10号117頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 11,
+    "day": 4
+  },
+  "gist": "右覺書の趣旨と既に公訴を提起された銃砲等所持禁止令違反の罪に對する影響",
+  "case_gist": "しかし所論覺書は、内務省警保局長に宛てたものであり、その趣旨は同覺書所定の要件を備えたものに對しては、訴追を見合わすべきことを命じたものであつて、既に銃砲所持禁止令違反の罪により公訴を提起されたものに對しその公訴權を消滅せしめ、若くは、一旦成立した犯罪の成否に影響を及ぼすものではないのである。（當裁判所昭和二三年（れ）一二一五號、昭和二四年五月一四日言渡第二小法廷判決参照）",
+  "ref_law": "銃砲等所持禁止令1條1項",
+  "lawsuit_id": "70623",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70623",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/623/070623_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 2,
+    "day": 15
+  },
+  "case_number": "昭和23(れ)1263",
+  "case_name": "強盗、銃砲等所持禁止令違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第7号391頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 7,
+    "day": 14
+  },
+  "gist": "刑訴應急措置法第一二條第一項の被告人の訊問請求權と裁判所の告知義務",
+  "case_gist": "刑訴應急措置法第一二條第一項本文については、證人其他の者（被告人を除く）の供述を録取した書類又は之に代るべき書類は公判期日において被告人に對し供述者又は作成者を訊問する權利のあることを告知して其訊問の請求をするかどうかを確かめることは望ましい事ではあるが之をしなかつたからとて前記法條に違反するものでないことは當裁判所の屡々判例とするところである。",
+  "ref_law": "刑訴應急措置法12條1項",
+  "lawsuit_id": "70550",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70550",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/550/070550_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 9,
+    "day": 15
+  },
+  "case_number": "昭和24新(れ)28",
+  "case_name": "賭博、食糧管理法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第3巻10号1593頁",
+  "original_court_name": "新潟地方裁判所\n        　三条支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 2,
+    "day": 18
+  },
+  "gist": "刑訴規則第二五四條と飛躍上告の適否",
+  "case_gist": "地方裁判所又は簡易裁判所がした第一審判決に對し、檢察官でない者がする上告（いわゆる飛躍上告）の申立で、刑訴規則第二五四條第一項に規定するが如き積極的な違憲又は違法の判斷を不當であるとしないものは、明らかに法定の事由に該當しない不適法なもので、刑訴第四一四條第三八六條第一項第三號に準じ棄却すべきである。",
+  "ref_law": "刑訴規則254條1項，刑訴法414條，刑訴法386號1項3號",
+  "lawsuit_id": "55515",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55515",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/515/055515_hanrei.pdf"
+}

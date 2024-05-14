@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 1,
+    "day": 20
+  },
+  "case_number": "昭和23(れ)1152",
+  "case_name": "強盗殺人",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "刑集　第3巻1号43頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 7,
+    "day": 29
+  },
+  "gist": "心神耗弱乃至心神喪失の主張があつたものと認められる一場合",
+  "case_gist": "一件記録によれば被告人及び辯護人が原審公廷において被告人の犯行當時の精神状態が果して正常であつたかどうかについて精神鑑定を申請していることは所論のとおりであり、なお、辯護人が辯論として「被告人は當時精神に正常を缺き居たものと認め得らるべく云々」と陳述していることも明白なところであるから以上を綜合して本件においては被告人及び辯護人は夫々被告人が犯行當時心神耗弱乃至心神喪失の状態にあつたと主張したものと解するのが相當である。",
+  "ref_law": "刑法39条，旧刑訴法360条2項，旧刑訴法410条20号",
+  "lawsuit_id": "55254",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55254",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/254/055254_hanrei.pdf"
+}

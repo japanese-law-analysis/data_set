@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 11,
+    "day": 20
+  },
+  "case_number": "昭和22(上告)10",
+  "case_name": "訴願裁決取消",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "却下",
+  "article_info": "民集　第1巻号1頁",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 6,
+    "day": 5
+  },
+  "gist": "県農地委員会の訴願棄却裁決に対する上告。",
+  "case_gist": "県農地委員会の訴願棄却裁決に対しては、その取消しを求めるため直ちに上告することは出来ない。",
+  "ref_law": "憲法76条2項，裁判所法24条1号，民訴応急措置法8条",
+  "lawsuit_id": "57091",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57091",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/091/057091_hanrei.pdf"
+}

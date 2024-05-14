@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 4,
+    "day": 19
+  },
+  "case_number": "昭和23(れ)1714",
+  "case_name": "窃盗、銃砲等所持禁止令違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第3巻5号571頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 9,
+    "day": 14
+  },
+  "gist": "第一審の公判前に提出された證據書類及び證據物を第二審において取調べることの要否",
+  "case_gist": "第一審の公判前に提出された證據書類及び證據物は第二審においては必ずしも其の證據調をする必要のないことは大審院が繰り返し判例としていた處で、その變更の要を見ない。（大審院大正十四年（れ）第一六一七號同一五年六月十九日言渡判決、同院昭和一〇年（れ）一四六一號同一一年三月五日言渡判決参照）",
+  "ref_law": "舊刑訴法342條",
+  "lawsuit_id": "55314",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55314",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/314/055314_hanrei.pdf"
+}

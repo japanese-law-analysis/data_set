@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 2,
+    "day": 8
+  },
+  "case_number": "昭和23(れ)1425",
+  "case_name": "強盗未遂、住居侵入",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第7号189頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 5,
+    "day": 27
+  },
+  "gist": "控訴理由ある場合控訴申立後の未決勾留日數の通算を判決において言渡さなかつたことの正否",
+  "case_gist": "被告人の控訴申立が理由あるものであつたことは所論のとおりである、而して此場合控訴申立後の未決勾留日數は舊刑訴第五五六條の規定に依り刑の執行の際當然本刑に通算されないものであつて、原審が判決で之が通算を言渡すべきものではない。",
+  "ref_law": "舊刑訴法556條，刑法21條",
+  "lawsuit_id": "70573",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70573",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/573/070573_hanrei.pdf"
+}

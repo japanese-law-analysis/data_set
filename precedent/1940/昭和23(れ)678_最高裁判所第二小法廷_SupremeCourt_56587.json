@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 10,
+    "day": 30
+  },
+  "case_number": "昭和23(れ)678",
+  "case_name": "窃盗、強盗、詐欺、傷害",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第2巻11号1427頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 3,
+    "day": 11
+  },
+  "gist": "一　強盜の見張りと強盜の共同正犯\n二　強盜證據と自白の裏付け",
+  "case_gist": "一　被告人の所爲が、所論のごとく、見張りを命ぜられて、終始家の外部にうろうろしておつたに過ぎないとしても被告人が、他の共犯者と本件犯行について共謀をした事實が認定せられる以上、強盜の實行行爲をした他の共犯者と共に、共同正犯の罪責を免れないことは、當裁判所の判例の示すところによつて明らかである。\n二　自白を補強すべき證據は、必ずしも自白にかかる犯罪組成事實の全部に亘つて、もれなく、これを裏付けするものでなければならぬことはなく、自白にかかる事實の眞實性を保障し得るものであれば足るのである。",
+  "ref_law": "刑法235條，刑法60條，憲法38條3項，刑訴應急措置法10條3項",
+  "lawsuit_id": "56587",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56587",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/587/056587_hanrei.pdf"
+}

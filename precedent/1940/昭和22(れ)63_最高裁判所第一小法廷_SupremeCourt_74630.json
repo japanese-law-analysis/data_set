@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 12,
+    "day": 18
+  },
+  "case_number": "昭和22(れ)63",
+  "case_name": "傷害致死",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第1号231頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 7,
+    "day": 2
+  },
+  "gist": "喧嘩鬪爭と正當防衛",
+  "case_gist": "喧嘩鬪爭を豫測し兇器を用意して出掛け、相手が暴行を加えようとする機先を制して、之に傷害を興え死に致らしめた行爲は正當防衛ではない。",
+  "ref_law": "刑法36條1項，刑法205條1項",
+  "lawsuit_id": "74630",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74630",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/630/074630_hanrei.pdf"
+}

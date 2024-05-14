@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 7,
+    "day": 23
+  },
+  "case_number": "昭和24(れ)912",
+  "case_name": "酒税法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第3巻8号1386頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 2,
+    "day": 26
+  },
+  "gist": "一　収税官吏が犯則嫌疑者逃走の虞ありと認めて告発した場合とその告発に基く公訴提起の適否\n二　収税官吏の告發の原由に付いて認定の權限を有する者と間接國税犯則者處分第一三條の法意",
+  "case_gist": "一　収税官吏において、犯則嫌疑者が逃走の虞があると認めて告発した以上、その告発に基いてなされた公訴の提起は適法である。\n二　収税官吏の告發の原由たる犯則嫌疑逃走の虞れありや否やの認定は、當該収税官吏の判斷に任ずることは、間接國税犯則者處分法第一三條の規定の解釋上疑いのないところである。",
+  "ref_law": "間接国税犯則者処分法第13条，舊刑訴法第278条，間接國税犯則處分第13條",
+  "lawsuit_id": "56732",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56732",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/732/056732_hanrei.pdf"
+}

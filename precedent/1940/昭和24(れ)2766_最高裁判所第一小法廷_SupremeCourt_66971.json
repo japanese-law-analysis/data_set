@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 6,
+    "day": 8
+  },
+  "case_number": "昭和24(れ)2766",
+  "case_name": "業務上横領、府会議員選挙罰則違反、参議院議員選挙法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第18号121頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 9,
+    "day": 16
+  },
+  "gist": "公判調書中の記録に契印を欠くも調書として連續を認められる一場合",
+  "case_gist": "原審第四回公判調書中記録六八九丁裏と同六九〇丁表との間に裁判所書記の契印がないことは所論のとおりである。しかし、右六八九丁裏には同六九〇丁表にある裁判所書記名下の捺印と同一の印影の訂正印存し且つ右二丁の文字の墨色、筆跡は同一であり、書類の形式、内容等に脉絡があることが認められる。されば右二丁は同一公判調書としての連續を認めることができるから、所論は、その前提において採用し難い。",
+  "ref_law": "舊刑訴法71條",
+  "lawsuit_id": "66971",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66971",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/971/066971_hanrei.pdf"
+}

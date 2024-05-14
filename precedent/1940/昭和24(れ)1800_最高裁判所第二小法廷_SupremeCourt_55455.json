@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 12,
+    "day": 17
+  },
+  "case_number": "昭和24(れ)1800",
+  "case_name": "強盗",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第3巻12号2028頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 3,
+    "day": 31
+  },
+  "gist": "共犯者の中一人は自己の意思に因り犯行を中止し他の者が犯行の目的を遂げた場合中止未遂の規定の適用の有無",
+  "case_gist": "共犯者の中一人が自己の意思に因り犯行を中止しても、他の者の犯行を阻止せず放任し、その者が犯行を遂げた場合は、前者に対し中止未遂の規定な適用することはできない。",
+  "ref_law": "刑法60条，刑法43条",
+  "lawsuit_id": "55455",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55455",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/455/055455_hanrei.pdf"
+}

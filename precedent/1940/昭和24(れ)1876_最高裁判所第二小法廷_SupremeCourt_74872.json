@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 11,
+    "day": 12
+  },
+  "case_number": "昭和24(れ)1876",
+  "case_name": "強盗、窃盗",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第14号561頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 4,
+    "day": 27
+  },
+  "gist": "共謀による強盜共犯者の一部の者の暴行脅迫と他の者の罪責―行爲の分擔について明示の要否",
+  "case_gist": "被告人が他の共犯者と共謀の上所論強盜をした事實が確定してある以上被告人自身が直接に暴行脅迫しなくともその罪責を免れないのであるから共犯者の何人が實行行爲の際その如何なる部分を分擔したかはこれを特に明示しなくとも罪となるべき事實の判示として欠くるところはないのである。",
+  "ref_law": "刑法60條，刑法236條，舊刑訴360條1項",
+  "lawsuit_id": "74872",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74872",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/872/074872_hanrei.pdf"
+}

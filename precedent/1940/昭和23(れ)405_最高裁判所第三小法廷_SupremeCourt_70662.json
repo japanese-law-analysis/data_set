@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 6,
+    "day": 22
+  },
+  "case_number": "昭和23(れ)405",
+  "case_name": "強盗、強盗予備",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第2号547頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 2,
+    "day": 5
+  },
+  "gist": "被告人の作成したものと認め難い上告趣意書の効力",
+  "case_gist": "右強盗強盗豫備被告事件につき昭和二三年三月五日大阪高裁において言渡した判決に對し被告人は上告の申立をなし刑事訴訟法第四二三條の法定期間である昭和二三年五月二七日被告人名義の上告趣意書と題した書面が當裁判所に郵送されて到達したけれども該書面は複寫紙を使用して作成されたものであつてその字體を本件記録中の被告人の署名その他と對照してみると被告人の自筆になるものと認め難いのみならず他に作成者としての被告人の署名も一個の捺印もないので適法な上告趣意書と認めることはできない。",
+  "ref_law": "刑訴法427條",
+  "lawsuit_id": "70662",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70662",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/662/070662_hanrei.pdf"
+}

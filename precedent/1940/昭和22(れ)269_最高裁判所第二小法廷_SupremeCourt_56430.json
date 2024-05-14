@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 4,
+    "day": 17
+  },
+  "case_number": "昭和22(れ)269",
+  "case_name": "強盗傷人、強盗、同未遂、住居侵入",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第2巻4号383頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 9,
+    "day": 30
+  },
+  "gist": "強盗共謀者の一人の加えた傷害と共謀者全員に對する強盗傷人罪の成立",
+  "case_gist": "數人が強盗を共謀した場合に、そのうち一人が、當該強盗の手段としてなした暴行により傷害の結果を發生させたときは、共謀者全員が強盗傷人罪の責を負う。",
+  "ref_law": "刑法60條，刑法24條",
+  "lawsuit_id": "56430",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56430",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/430/056430_hanrei.pdf"
+}

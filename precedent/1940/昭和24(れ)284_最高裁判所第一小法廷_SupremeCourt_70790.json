@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 6,
+    "day": 30
+  },
+  "case_number": "昭和24(れ)284",
+  "case_name": "強盗傷人",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第11号631頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 4,
+    "day": 1
+  },
+  "gist": "押収物還付の判決言渡に當り被害物件並びに被害者等を具體的に確定することの要否",
+  "case_gist": "所論は、押収物の還付の判決言渡に當つては、被害者何某に幾何還付する旨具體的に區別表示すべきであると主張している。しかし被害者に還付する手續は、檢事がなすものであるから、その取扱を可能ならしめる程度に判決において判示されればそれで十分である。民事の給付訴訟の主文において請求權者と請求權額を特定して表示するような嚴格な主文の表示は、この場合に要請されていない。（舊刑訴法第三七三條）刑事判決の主文は被告人との關係を律することが主眼であつて、被害者の請求權を具體的に確定する趣旨を有するものではない。論旨はそれゆえに理由なきものである。",
+  "ref_law": "舊刑訴法373條，舊刑訴法535條1項，舊刑訴法560條",
+  "lawsuit_id": "70790",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70790",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/790/070790_hanrei.pdf"
+}

@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 6,
+    "day": 26
+  },
+  "case_number": "昭和23(マ)6",
+  "case_name": "仮執行の宣言を付した判決に基く執行の停止及び取消の申立",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "却下",
+  "article_info": "集民　第1号239頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "昭和22(ネ)12",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 3,
+    "day": 24
+  },
+  "lawsuit_id": "76205",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=76205",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/205/076205_hanrei.pdf"
+}

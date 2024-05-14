@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 10,
+    "day": 26
+  },
+  "case_number": "昭和23(れ)661",
+  "case_name": "強盗",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第4号535頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 3,
+    "day": 9
+  },
+  "gist": "一　同一場所で數人に對し一度に行われた強盜と刑法第五四條第一項\n二　數人の所有品が奪われた場合の盜罪判示の程度",
+  "case_gist": "一　同一場所で一度に行われた強盜罪に付てはたとえ數人に對し暴行が加えられ、數人の所有品が奪われた場合でも單純一罪を以て論ずべきものである。其故原審が本件において刑法第五四條第一項を適用しなかつたのは相當である。\n二　被告人以外の者の所持が侵害されれば盜罪は成立するのであつてこれに關する判示としては數人の所有品が奪われた場合でも所論の様に一々詳細に判示しないでもいい。",
+  "ref_law": "刑法236條，刑法54條1項，刑訴法360條1項",
+  "lawsuit_id": "74761",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74761",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/761/074761_hanrei.pdf"
+}

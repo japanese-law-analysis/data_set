@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 9,
+    "day": 30
+  },
+  "case_number": "昭和22(オ)4",
+  "case_name": "手附金返還請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第2巻10号360頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 5,
+    "day": 20
+  },
+  "gist": "一　民訴第三八一条の意義。\n二　判決言渡期日の告知。",
+  "case_gist": "一　民訴第三八一条は、すでに第一審裁判所の終局判決がなされた以上、仮に不当に管轄を認めたとしても、専属管轄に関しない限りは、訴訟経済の見地から、控訴審においては、もはや第一審の裁判所の管轄については争うことを許さない趣旨を定めた規定である。\n二　当事者雙方に対し適法な期日の呼出又は告知がなされて開かれた口頭弁論期日において、当事者の一方の不出頭のまゝ弁論が終結され、判決言渡期日の指定告知がなされたときは、その告知は、右の期日に出延していなかつた当事者に対しても、その効力を生ずる。",
+  "ref_law": "民訴法381条，民訴法207条，民訴法190条2項",
+  "lawsuit_id": "57087",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57087",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/087/057087_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 4,
+    "day": 27
+  },
+  "case_number": "昭和22(れ)296",
+  "case_name": "殺人",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第2巻4号429頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 11,
+    "day": 14
+  },
+  "gist": "刑訴應急措置法第一七條にもとずく上告の提起期間",
+  "case_gist": "本件再上告は、昭和二二年一一月一四日東京高等裁判所が上告審として言渡した上告棄却の判決に對し、日本國憲法の施行に伴う刑事訴訟法の應急的措置に關する法律第一七條に基ずいて申立てられたものであるが、同條の上告も刑事訴訟法にいわゆる上告に該當するから、その申立期間は同法第四一八條により五日であるが、辯護人坂本英雄提出の再上告申立書によると東京高等裁判所は該書面を昭和二二年一一月二〇日受付けた旨の受付印が押捺されている。これによつて、本件再上告は、上告權消滅後に申立てられたものと認めるのほかない。",
+  "ref_law": "刑訴應急措置法17條1項，刑訴法418條",
+  "lawsuit_id": "56437",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56437",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/437/056437_hanrei.pdf"
+}

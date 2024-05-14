@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 7,
+    "day": 14
+  },
+  "case_number": "昭和23(れ)65",
+  "case_name": "業務上横領",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第2巻8号872頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 12,
+    "day": 9
+  },
+  "gist": "違法な勾引勾留と判決の合憲性",
+  "case_gist": "本件勾引状と勾留状とが紛失して記録に綴込まれていないこと並びに被告人が昭和二一年七月八日勾留せられ同月三一日附で辯護人徳岡二郎から保釋の申請があつたので第一審判決宣言の日である同年八月五日保釋によりその翌日出所したことは記録により明である。そこで假に所論がすべて肯認すべきもので被告人が勾引状によらないで違法に勾引勾留せられ、その儘違法に保釋の日迄勾留を繼續せられたとしても、夫は別な救濟の方法によるべきことであつて、右の各違法は本件に於ては第二審判決に影響を及ぼさないことは明白である。第二審判決從つて又これを是認して被告人の上告を棄却した原上告判決には日本國憲法に違反する點は存しない。",
+  "ref_law": "憲法34條，刑訴法411條",
+  "lawsuit_id": "56580",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56580",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/580/056580_hanrei.pdf"
+}
