@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 7,
+    "day": 16
+  },
+  "case_number": "昭和56(あ)1588",
+  "case_name": "大麻取締法違反、関税法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第36巻6号695頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 8,
+    "day": 28
+  },
+  "gist": "大麻密輸入の謀議を遂げたものとされた事例",
+  "case_gist": "大麻の密輸入を計画した甲からその実行担当者になつて欲しい旨頼まれた乙が、大麻を入手したい欲求にかられ、執行猶予中の身であることを理由にこれを断つたものの、知人の丙に対し事情を明かして協力を求め、同人を自己の身代りとして甲に引き合わせるとともに、密輸入した大麻の一部をもらい受ける約束のもとにその資金の一部を甲に提供したときは、乙は、これらの行為を通じ甲及び丙らと大麻密輸入の謀議を遂げたものと認めるべきである。",
+  "ref_law": "大麻取締法4条1号，大麻取締法24条2号，関税法111条，刑法60条",
+  "lawsuit_id": "50236",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50236",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/236/050236_hanrei.pdf"
+}

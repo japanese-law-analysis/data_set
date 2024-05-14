@@ -1,0 +1,18 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 10,
+    "day": 25
+  },
+  "case_number": "昭和56(行ウ)1",
+  "case_name": "違法処分行為による損害賠償代位請求事件",
+  "court_name": "名古屋地方裁判所",
+  "field": "行政",
+  "gist": "市施行の土地区画整理事業に反対していた住民の中に翻意した者がいる旨の情報に接した同事業担当の市職員が，その真意を確認するために，右翻意の趣旨を記載した作成名義人欄空白の市長あて文書を印刷し，各区長を通じて翻意したとされている住民に配布したことは，地方自治法２３２条１項所定の市の処理すベき事務の範囲に属するとして，その経費を市が支弁したことが，違法ではないとされた事例",
+  "lawsuit_id": "35905",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=35905",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/905/035905_hanrei.pdf",
+  "contents": ""
+}

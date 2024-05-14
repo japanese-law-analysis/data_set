@@ -1,0 +1,18 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 10,
+    "day": 26
+  },
+  "case_number": "昭和59(行ウ)1",
+  "case_name": "都市公園供用開始処分取消請求事件",
+  "court_name": "神戸地方裁判所",
+  "field": "行政",
+  "gist": "市が，住宅地造成事業に関する法律（昭和３９年法律第１６０号，昭和４３年法律第１００号により廃止）１５条２項により公園用地として所有権を取得した土地につき，登記を経由しない間に，第三者が当該土地を譲り受け所有権移転登記を経由した場合において，市が，所有権に代わる地上権，賃借権等の権原を取得することなくした都市公園の使用開始処分が，権原に基づかずにされた違法なものであるとして，取り消された事例",
+  "lawsuit_id": "36116",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=36116",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/116/036116_hanrei.pdf",
+  "contents": ""
+}

@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 11,
+    "day": 21
+  },
+  "case_number": "昭和58(し)112",
+  "case_name": "裁判の執行に関する異議申立事件についてした即時抗告棄却決定に対する特別抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第232号909頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 10,
+    "day": 27
+  },
+  "gist": "裁判の執行に関する異議において、裁判の内容そのものの不当を主張することの適否",
+  "ref_law": "刑訴法502条",
+  "lawsuit_id": "58335",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58335",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/335/058335_hanrei.pdf"
+}

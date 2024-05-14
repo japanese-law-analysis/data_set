@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 4,
+    "day": 11
+  },
+  "case_number": "昭和55(オ)488",
+  "case_name": "所有権移転登記等",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集民　第147号515頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和51(ネ)1001",
+  "original_date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 2,
+    "day": 22
+  },
+  "gist": "債務の弁済と担保仮登記の抹消登記手続の履行との同時履行関係の有無",
+  "case_gist": "仮登記担保権の被担保債務の弁済は、当該仮登記の抹消登記手続の履行に対し先給付の関係にあり、これと同時履行の関係に立つものではない。",
+  "ref_law": "民法369条，民法533条",
+  "lawsuit_id": "62256",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62256",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/256/062256_hanrei.pdf"
+}

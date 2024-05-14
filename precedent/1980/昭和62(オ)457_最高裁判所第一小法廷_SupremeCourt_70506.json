@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 10,
+    "day": 1
+  },
+  "case_number": "昭和62(オ)457",
+  "case_name": "判決確定証明無効確認等",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第152号1頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和61(ネ)2352",
+  "original_date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 12,
+    "day": 23
+  },
+  "gist": "訴え却下の第一審判決を是認して口頭弁論を経ないで控訴棄却の判決を言い渡す場合と判決言渡期日の告知及び呼出手続の要否",
+  "case_gist": "訴え却下の第一審判決を是認して口頭弁論を経ないで控訴棄却の判決を言い渡す場合には、当事者に対し判決言渡期日の告知及び呼出手続をすることを要しない。",
+  "ref_law": "民訴法154条，民訴法188条，民訴法202条，民訴法384条",
+  "lawsuit_id": "70506",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70506",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/506/070506_hanrei.pdf"
+}

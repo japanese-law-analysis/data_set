@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 63,
+    "month": 4,
+    "day": 28
+  },
+  "case_number": "昭和60(あ)492",
+  "case_name": "所得税法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第249号521頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 3,
+    "day": 7
+  },
+  "gist": "収税官吏の犯則嫌疑者に対する質問と供述拒否権告知義務の有無",
+  "ref_law": "憲法38条，国税犯則取締法1条",
+  "lawsuit_id": "58402",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58402",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/402/058402_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 9,
+    "day": 8
+  },
+  "case_number": "昭和57(行ツ)89",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第139号471頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和56(行コ)10",
+  "original_date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 3,
+    "day": 10
+  },
+  "gist": "地方自治法二四二条の二第一項四号の住民訴訟が出訴期間を遵守したものと認められた事例",
+  "case_gist": "県職員に対する時間外勤務手当の支給が法令等に基づかない手続によつてされている事実を指摘するにとどめ、右支給につき採るべき措置の選択を知事にゆだねる趣旨の勧告も、地方自治法二四二条三項にいう勧告に当たるから、右勧告に関し知事の講じた措置についての通知を受けた日から三〇日以内に提起された右手当支給に関する同法二四二条の二第一項四号の訴えは、出訴期間を遵守したものである。",
+  "ref_law": "地方自治法242条3項，地方自治法242条の2第2項",
+  "lawsuit_id": "62291",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62291",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/291/062291_hanrei.pdf"
+}

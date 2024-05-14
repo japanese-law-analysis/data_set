@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 6,
+    "day": 7
+  },
+  "case_number": "昭和57(オ)619",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第139号89頁",
+  "original_court_name": "広島高等裁判所",
+  "original_case_number": "昭和53(ネ)80",
+  "original_date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 2,
+    "day": 23
+  },
+  "gist": "立証についての釈明権の不行使が違法とされた事例",
+  "case_gist": "乙に対して損害賠償債権を有する甲が乙丙間の売買を詐害行為であるとして丙に対しその取消を求めて提起した訴訟の控訴審において、併合提起されていた甲の乙に対する損害賠償請求につき第一審の勝訴判決が確定しているため、立証の対象が専ら右売買の詐害行為性の有無に限られ、甲が損害賠償債権の存在については事実上立証の必要がないものと誤解してその立証をしなかつたなど判示のような事情があるときには、裁判所が右損害賠償債権の立証がないとして甲敗訴の判決をすることは、その立証を促すべき釈明権の行使を怠つた違法があるものというべきである。",
+  "ref_law": "民法424条，民訴法127条",
+  "lawsuit_id": "62280",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62280",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/280/062280_hanrei.pdf"
+}

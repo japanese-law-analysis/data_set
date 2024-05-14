@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 1,
+    "day": 19
+  },
+  "case_number": "昭和62(オ)1532",
+  "case_name": "損害賠償請求事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第156号55頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和61(ネ)2175",
+  "original_date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 9,
+    "day": 16
+  },
+  "gist": "所得補償保険契約に基づいて支払われた保険金相当額を休業損害の賠償額から控除することの可否",
+  "case_gist": "被保険者が第三者の不法行為によつて傷害を受けて就業不能になつたため、保険者が所得補償保険契約に基づき保険金を支払つた場合には、保険金相当額を休業損害の賠償額から控除すべきである。",
+  "ref_law": "民法709条，商法662条",
+  "lawsuit_id": "62366",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62366",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/366/062366_hanrei.pdf"
+}

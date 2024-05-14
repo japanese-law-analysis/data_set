@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 12,
+    "day": 8
+  },
+  "case_number": "昭和56(オ)283",
+  "case_name": "清算金",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第37巻10号1517頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和55(ネ)1185",
+  "original_date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 12,
+    "day": 24
+  },
+  "gist": "抵当権が設定されている宅地についての土地区画整理法上の換地処分に伴う清算金債権に対し差押・転付命令を得た者と施行者に対する右清算金支払請求の可否",
+  "case_gist": "抵当権が設定されている宅地についての土地区画整理法上の換地処分に伴う清算金債権に対し差押・転付命令を得た者は、抵当権者が物上代位のための差押をする前に右命令を得たとしても、抵当権者から供託しなくてもよい旨の申出がない限り、施行者に対し右清算金の支払を請求することができない。",
+  "ref_law": "民法304条，民法371条，民訴法（昭和54年法律第4号による改正前のもの）601条，民事執行法160条，土地区画整理法112条1項",
+  "lawsuit_id": "56351",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56351",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/351/056351_hanrei.pdf"
+}

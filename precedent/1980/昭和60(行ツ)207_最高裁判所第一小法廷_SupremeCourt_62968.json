@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 6,
+    "day": 19
+  },
+  "case_number": "昭和60(行ツ)207",
+  "case_name": "壁面線指定処分取消等",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第148号239頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和59(行コ)11",
+  "original_date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 9,
+    "day": 26
+  },
+  "gist": "建築基準法四六条一項に基づく壁面線の指定と行政不服審査法五七条一項の適用の有無",
+  "case_gist": "建築基準法四六条一項に基づく壁面線の指定については、行政不服審査法五七条一項の適用はない。",
+  "ref_law": "建築基準法45条1項，建築基準法45条3項，行政不服審査法57条1項",
+  "lawsuit_id": "62968",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62968",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/968/062968_hanrei.pdf"
+}

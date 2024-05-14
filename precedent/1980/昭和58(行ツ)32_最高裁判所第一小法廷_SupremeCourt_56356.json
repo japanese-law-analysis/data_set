@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 12,
+    "day": 1
+  },
+  "case_number": "昭和58(行ツ)32",
+  "case_name": "選挙人名簿の登録についての異議申出棄却決定取消等",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第37巻10号1465頁",
+  "original_court_name": "大津地方裁判所",
+  "original_case_number": "昭和56(行ウ)5",
+  "original_date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 12,
+    "day": 20
+  },
+  "gist": "引き続き三か月以上当該市町村の住民基本台帳に記録されている者が引き続き三か月以上当該市町村の区域内に住所を有していないときと選挙人名簿の被登録資格の取得の有無",
+  "case_gist": "住民基本台帳法二二条の規定による転入の届出をして引き続き三か月以上当該市町村の住民基本台帳に記録されている者であつても、現実に当該市町村の区域内に住所を移して引き続き三か月以上右区域内に住所を有していないときは、当該市町村の選挙人名簿の被登録資格を取得しない。",
+  "ref_law": "公職選挙法21条1項",
+  "lawsuit_id": "56356",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56356",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/356/056356_hanrei.pdf"
+}

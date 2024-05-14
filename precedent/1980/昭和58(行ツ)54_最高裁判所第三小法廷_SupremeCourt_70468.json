@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 4,
+    "day": 21
+  },
+  "case_number": "昭和58(行ツ)54",
+  "case_name": "議長地位確認等",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第150号761頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "昭和57(行コ)6",
+  "original_date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 3,
+    "day": 28
+  },
+  "gist": "市町村議会の議長たる議員が議会から除名処分を受けたのち後任の議長が選出された場合と右除名処分を取り消す旨の都道府県知事の審決の効力",
+  "case_gist": "市町村議会の議長たる議員につきされた議会の除名処分が都道府県知事の審決により取り消された場合には、除名処分から審決までの間に議会の選挙により後任の議長が選出されているときであつても、当該議員は議員の職とともに議長の職をも回復する。",
+  "ref_law": "地方自治法103条，地方自治法134条1項，地方自治法135条1項，地方自治法255条の3，地方自治法258条，行政不服審査法40条3項",
+  "lawsuit_id": "70468",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70468",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/468/070468_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 7,
+    "day": 10
+  },
+  "case_number": "昭和57(オ)1175",
+  "case_name": "約束手形金",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第40巻5号925頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和56(ネ)604",
+  "original_date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 7,
+    "day": 29
+  },
+  "gist": "一　「壱百円」の記載と手形法六条一項にいう文字をもつてした記載\n二　金額を「壱百円」及び「￥１，０００，０００―」と記載した約束手形の手形金額が一〇〇円と認められた事例",
+  "case_gist": "一　約束手形の金額欄の「壱百円」の記載は、手形法六条一項にいう文字をもつてした記載に当たる。\n二　金額欄に文字で「壱百円」と記載され、その右上段に数字で「￥１，０００，０００―」と記載されている約束手形の手形金額は、一〇〇円が手形金額としてはほとんどありえない低額であり、右手形に一〇〇円の収入印紙が貼付されているとしても、一〇〇円と解するのが相当である。",
+  "ref_law": "手形法6条1項，手形法77条2項",
+  "lawsuit_id": "52675",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52675",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/675/052675_hanrei.pdf"
+}

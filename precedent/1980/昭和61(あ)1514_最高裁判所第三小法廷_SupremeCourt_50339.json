@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 4,
+    "day": 10
+  },
+  "case_number": "昭和61(あ)1514",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第41巻3号221頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 1,
+    "day": 30
+  },
+  "gist": "ゴルフ場内のいわゆるロストボールが窃盗罪の客体になるとされた事例",
+  "case_gist": "ゴルフアーが誤つてゴルフ場内の人工池に打ち込み放置したいわゆるロストボールも、ゴルフ場側が早晩その回収、再利用を予定しているときは、ゴルフ場側の所有及び占有に係るものとして窃盗罪の客体になる。",
+  "ref_law": "刑法235条，民法239条",
+  "lawsuit_id": "50339",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50339",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/339/050339_hanrei.pdf"
+}

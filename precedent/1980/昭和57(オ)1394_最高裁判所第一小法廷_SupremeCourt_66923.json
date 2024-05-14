@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 3,
+    "day": 31
+  },
+  "case_number": "昭和57(オ)1394",
+  "case_name": "約束手形金、債務不存在確認",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第138号449頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_case_number": "昭和54(ネ)57",
+  "original_date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 9,
+    "day": 27
+  },
+  "gist": "訴えの利益を欠くという理由で請求を棄却した第一審判決を取り消す場合であつても控訴審が事件を第一審裁判所に差し戻すことなく自ら直接右請求の当否について判断したことに違法があるとするにはあたらないとされた事例",
+  "case_gist": "訴えの利益を欠くという理由で請求を棄却した第一審判決を取り消す場合であつても、第一審裁判所で実体的審理が尽くされ、かつ、争点を同じくする併合事件との関連で右請求についても実体判断が示されているとみられるときには、控訴審が事件を第一審裁判所に差し戻すことなく自ら直接右請求の当否について判断したとしても、違法とするにはあたらない。",
+  "ref_law": "民訴法388条",
+  "lawsuit_id": "66923",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66923",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/923/066923_hanrei.pdf"
+}

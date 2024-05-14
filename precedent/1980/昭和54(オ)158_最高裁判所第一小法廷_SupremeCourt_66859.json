@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 1,
+    "day": 20
+  },
+  "case_number": "昭和54(オ)158",
+  "case_name": "約束手形金本訴、損害賠償反訴",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第138号1頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和51(ネ)609",
+  "original_date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 10,
+    "day": 26
+  },
+  "gist": "造船の請負契約による建造船舶に比較的軽微な瑕疵があるがその修補に著しく過分の費用を要する場合において右修補に代えて改造工事費及び滞船料相当の金員につき損害賠償請求をすることが許されないとされた事例",
+  "case_gist": "造船の請負契約によつて建造された船舶に存する瑕疵が比較的軽微であるが、その修補に著しく過分の費用を要するなど原判示の事実関係のもとにおいては、注文者は、請負人に対し、右修補に代えて、右修補に要する改造工事費及び滞船料に相当する金員を損害賠償として請求することはできない。",
+  "ref_law": "民法634条1項但書，民法634条2項",
+  "lawsuit_id": "66859",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66859",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/859/066859_hanrei.pdf"
+}

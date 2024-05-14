@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 7,
+    "day": 15
+  },
+  "case_number": "昭和52(行ツ)127",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第37巻6号849頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和51(行コ)20",
+  "original_date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 9,
+    "day": 21
+  },
+  "gist": "地方自治法二四二条一項にいう違法な公金の支出にあたるとされた事例",
+  "case_gist": "森林組合の組合長理事を兼ねる町長が、専ら森林組合の事務に従事させることを予定して町職員に採用したうえ森林組合に出向させた者に対し、七年余にわたつて町予算から総額七九六万余円の給与を支払つたが、同人は、その間、町長の指揮監督を受けることなく、森林組合の事務所で専ら森林組合の事務に従事し、町の事務を行つたことはないなど、判示の事実関係のもとにおいては、同町長は、右給与を支払うことにより違法に町の公金を支医したものというべきである。",
+  "ref_law": "地方自治法204条の2，地方自治法242条1項，地方自治法242条の2第1項",
+  "lawsuit_id": "52139",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52139",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/139/052139_hanrei.pdf"
+}

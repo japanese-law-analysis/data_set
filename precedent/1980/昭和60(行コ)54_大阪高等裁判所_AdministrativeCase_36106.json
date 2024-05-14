@@ -1,0 +1,18 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 9,
+    "day": 16
+  },
+  "case_number": "昭和60(行コ)54",
+  "case_name": "所得税更正処分取消等請求控訴事件（原審・大阪地方裁判所昭和５８年（行ウ）第１３７号等）",
+  "court_name": "大阪高等裁判所",
+  "field": "行政",
+  "gist": "遊技場等を経営する者の３箇年分の事業収入金額につき，同人が提出した１箇年分の日計票約３５６枚のうち数字等の読み取れる筆跡こんがあるもの２３枚（２３日分）の筆跡こんから算出した収入金額の合計が，当該日計票に記載された収入金額の合計の３・４５６倍であったことなどから，他に特段の反証がない限り，原告が前記事業収入金額として確定申告した額に前記倍率を乗じたものが事業収入金額であると推認することができるとした事例",
+  "lawsuit_id": "36106",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=36106",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/106/036106_hanrei.pdf",
+  "contents": ""
+}

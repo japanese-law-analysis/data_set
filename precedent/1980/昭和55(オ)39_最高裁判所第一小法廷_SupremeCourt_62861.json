@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 3,
+    "day": 7
+  },
+  "case_number": "昭和55(オ)39",
+  "case_name": "賃金支払",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第144号141頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和53(ネ)2854",
+  "original_date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 9,
+    "day": 25
+  },
+  "gist": "出張・外勤命令に従わず内勤業務に従事した従業員らに対し使用者が賃金の支払義務を負わないとされた事例",
+  "case_gist": "使用者が、従業員らに対し、文書により個別に、就業すべき日、時間、場所及び業務内容を指定して出張・外勤を命ずる業務命令を発したが、従業員らが、いずれも所属労働組合の外勤・出張拒否闘争に従い、右指定された時間に会社に出勤し、内勤の場合における各人の分担に応じ内勤業務に従事し、右業務命令に対応する労務を提供しなかつた等、判示の事実関係の下においては、右従業員らは債務の本旨に従つた労務の提供をしたものとはいえず、使用者は、その時間に対応する賃金の支払義務を負わない。",
+  "ref_law": "民法493条，労働基準法24条",
+  "lawsuit_id": "62861",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62861",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/861/062861_hanrei.pdf"
+}

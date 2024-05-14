@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 9,
+    "day": 11
+  },
+  "case_number": "昭和59(オ)480",
+  "case_name": "預託金返還",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第148号481頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和58(ネ)1683",
+  "original_date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 1,
+    "day": 27
+  },
+  "gist": "いわゆる預託金会員組織のゴルフクラブが理事会の決議によつてした預託金返還時期を延期する旨の会則の改正と既に入会した会員に対する効力の有無",
+  "case_gist": "いわゆる預託金会員組織のゴルフクラブが理事会の決議によつてした預託金返還時期を延期する旨の会則の改正は、既に入会した会員に対しては、その効力を有しない。",
+  "ref_law": "民法1編4章1節",
+  "lawsuit_id": "62939",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62939",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/939/062939_hanrei.pdf"
+}

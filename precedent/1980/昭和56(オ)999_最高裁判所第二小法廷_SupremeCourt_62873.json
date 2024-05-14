@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 7,
+    "day": 6
+  },
+  "case_number": "昭和56(オ)999",
+  "case_name": "認知",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第142号265頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和55(ネ)1051",
+  "original_date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 7,
+    "day": 13
+  },
+  "gist": "子の認知の要件の父に関する準拠法として中国人である父の「属スル国ノ法律」を決定するについて中国に中華人民共和国の法域のみならず台湾の法域も存することを看過したことが違法とされた事例",
+  "case_gist": "（省略）",
+  "ref_law": "法例18条1項，法例27条3項",
+  "lawsuit_id": "62873",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62873",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/873/062873_hanrei.pdf"
+}

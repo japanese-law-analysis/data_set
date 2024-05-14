@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 4,
+    "day": 3
+  },
+  "case_number": "昭和55(オ)596",
+  "case_name": "遺言無効確認",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第35巻3号431頁",
+  "original_court_name": "福岡高等裁判所\n        　宮崎支部",
+  "original_case_number": "昭和54(ネ)27",
+  "original_date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 3,
+    "day": 31
+  },
+  "gist": "遺言書又はこれについてされた訂正が方式を欠き無効である場合に遺言者の意思を実現させる趣旨で方式を具備させ有効な遺言書又はその訂正としての外形を作出する行為と民法八九一条五号所定の相続欠格事由",
+  "case_gist": "相続に関する被相続人の遺言書又はこれについてされている訂正が方式を欠き無効である場合に、相続人が右方式を具備させて有効な遺言書又はその訂正としての外形を作出する行為は、民法八九一条五号にいう遺言書の偽造又は変造にあたるが、それが遺言者の意思を実現させるためにその法形式を整える趣旨でされたにすぎないものであるときは、右相続人は同号所定の相続欠格者にあたらない。\n（反対意見がある。）",
+  "ref_law": "民法891条5号",
+  "lawsuit_id": "56348",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56348",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/348/056348_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 3,
+    "day": 28
+  },
+  "case_number": "昭和58(あ)937",
+  "case_name": "建造物等以外放火",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第39巻2号75頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 6,
+    "day": 16
+  },
+  "gist": "刑法一一〇条一項の罪と公共の危険発生の認識の要否",
+  "case_gist": "刑法一一〇条一項の罪の成立には、公共の危険発生の認識は必要でない。",
+  "ref_law": "刑法110条1項",
+  "lawsuit_id": "50301",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50301",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/301/050301_hanrei.pdf"
+}

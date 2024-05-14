@@ -1,0 +1,18 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 10,
+    "day": 8
+  },
+  "case_number": "昭和61(行ク)40",
+  "case_name": "執行停止申立事件",
+  "court_name": "東京地方裁判所",
+  "field": "行政",
+  "gist": "１　都立高等学校長が，同校第１学年に在学する生徒に対してした同学年に留め置きとする旨の処分は，司法審査の対象とならないとはいえないとした事例　\n２　都立高等学校長が，同校第一学年に在学する生徒に対してした同学年に留め置きとする旨の処分の効力の執行停止を求める申立てが，行政事件訴訟法２５条３項にいう「本案につき理由がないとみえるとき」に当たるとして，却下された事例",
+  "lawsuit_id": "36039",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=36039",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/039/036039_hanrei.pdf",
+  "contents": ""
+}

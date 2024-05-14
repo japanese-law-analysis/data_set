@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 11,
+    "day": 26
+  },
+  "case_number": "昭和55(オ)1121",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第36巻11号2318頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和54(ネ)197",
+  "original_date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 9,
+    "day": 4
+  },
+  "gist": "自己所有の自動車の運転を友人に委ねて同乗中友人の惹起した事故により死亡した者が友人との関係において自動車損害賠償保障法三条の他人にあたらないとされた事例",
+  "case_gist": "自動車の所有者が、友人にその運転を委ねて同乗中、友人の惹起した事故により死亡した場合において、所有者がある程度友人自身の判断で運行することを許していたときでも、友人が所有者の運行支配に服さずその指示を守らなかつた等の特段の事情があるのでない限り、所有者は、友人に対する関係において自動車損害賠償保障法三条の他人にあたらない。",
+  "ref_law": "自動車損害賠償保障法3条",
+  "lawsuit_id": "55167",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55167",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/167/055167_hanrei.pdf"
+}

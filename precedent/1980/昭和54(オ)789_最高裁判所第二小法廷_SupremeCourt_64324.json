@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 1,
+    "day": 18
+  },
+  "case_number": "昭和54(オ)789",
+  "case_name": "取立債権",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第129号37頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和53(ネ)2665",
+  "original_date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 3,
+    "day": 19
+  },
+  "gist": "給料債権に対して差押・取立命令を受けた従業員が勤務先を退職したのちにその勤務先に再雇傭された場合と再雇傭後の給料債権に対する右差押・取立命令の効力",
+  "case_gist": "給料債権に対して差押・取立命令を受けた従業員が勤務先を退職したのちにその勤務先に再雇傭されたが、再雇傭されるまでに六か月余を経過しているなどの事情のある場合には、再雇傭後の給料債権に対して右差押・取立命令の効力が及ぶとすることはできない。",
+  "ref_law": "民訴法598条，民訴法604条",
+  "lawsuit_id": "64324",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64324",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/324/064324_hanrei.pdf"
+}

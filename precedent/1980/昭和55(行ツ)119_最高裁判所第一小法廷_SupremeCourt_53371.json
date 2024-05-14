@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 5,
+    "day": 14
+  },
+  "case_number": "昭和55(行ツ)119",
+  "case_name": "裁決取消",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第35巻4号717頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和55(行コ)9",
+  "original_date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 7,
+    "day": 17
+  },
+  "gist": "地方公共団体の議会がする議員の資格に関する決定と不服申立権者の範囲",
+  "case_gist": "地方公共団体の議会の議員が地方自治法九二条の二の規定に該当するかどうかについて議会がする同法一二七条一項の規定による決定に対し同法一二七条四項、一一八条五項の規定により不服申立をすることができる者は、右決定によつてその職を失うこととなる当該議員に限られる。",
+  "ref_law": "地方自治法92条の2，地方自治法118条1項，地方自治法118条5項，地方自治法127条1項，地方自治法127条4項",
+  "lawsuit_id": "53371",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53371",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/371/053371_hanrei.pdf"
+}

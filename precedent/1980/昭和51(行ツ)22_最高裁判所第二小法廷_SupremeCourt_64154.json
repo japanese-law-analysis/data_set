@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 2,
+    "day": 22
+  },
+  "case_number": "昭和51(行ツ)22",
+  "case_name": "住民訴訟損害賠償",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集民　第129号209頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和47(行コ)6",
+  "original_date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 10,
+    "day": 23
+  },
+  "gist": "一　地方公共団体が地方債を起こす方法によらずに金融機関から資金を借り入れ公共用地の購入代金の支払にあてた場合において支払利息の全額が地方公共団体の損害にはあたらないとされた事例\n二　原告の死亡と住民訴訟の終了",
+  "case_gist": "一　長期資金の借入れを必要とした地方公共団体が、地方債を起こす方法によらずに金融機関から資金を借り入れ公共用地の購入代金の支払にあて金融機関に対し利息額を支払つたなど判示の事実関係のもとにおいては、右支払利息額のうち地方債の発行に伴い地方公共団体が通常負担するであろう利息等の費用に相当する額は、損害にあたらない。\n二　地方自治法二四二条の二に規定する住民訴訟は、原告の死亡により終了する。",
+  "ref_law": "地方自治法242条の2，地方自治法（昭和38年法律第99号による改正前のもの）244条の2",
+  "lawsuit_id": "64154",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64154",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/154/064154_hanrei.pdf"
+}

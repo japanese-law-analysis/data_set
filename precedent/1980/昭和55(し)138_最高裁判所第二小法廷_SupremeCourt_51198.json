@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 11,
+    "day": 18
+  },
+  "case_number": "昭和55(し)138",
+  "case_name": "業務上過失傷害被告事件についてした証拠保全の請求却下の裁判に対する準抗告棄却決定に対する特別抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第34巻6号421頁",
+  "original_court_name": "名古屋地方裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 10,
+    "day": 15
+  },
+  "gist": "刑訴法一七九条に基づく押収の請求を却下する裁判と同法四二九条一項二号にいう「押収に関する裁判」",
+  "case_gist": "刑訴法一七九条に基づく押収の請求を却下する裁判は、同法四二九条一項二号にいう「押収に関する裁判」に含まれる。",
+  "ref_law": "刑訴法179条1項，刑訴法429条1項2号",
+  "lawsuit_id": "51198",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51198",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/198/051198_hanrei.pdf"
+}

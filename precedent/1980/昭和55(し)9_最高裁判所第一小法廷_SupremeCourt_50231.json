@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 12,
+    "day": 17
+  },
+  "case_number": "昭和55(し)9",
+  "case_name": "差押許可の裁判及び差押処分に対する各準抗告棄却決定に対する特別抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第34巻7号721頁",
+  "original_court_name": "東京地方裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 1,
+    "day": 11
+  },
+  "gist": "未確定第一審判決におけるわいせつ性についての判断内容の捜査機関に対する拘束力",
+  "case_gist": "ある出版物が刑法一七五条にいうわいせつ文書図画にあたらないとした未確定第一審判決における判断内容は、法律上当然に捜査機関を拘束するものではない。",
+  "ref_law": "刑法175条，刑訴法218条",
+  "lawsuit_id": "50231",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50231",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/231/050231_hanrei.pdf"
+}

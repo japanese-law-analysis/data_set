@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 1,
+    "day": 22
+  },
+  "case_number": "昭和60(オ)322",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第41巻1号17頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和59(ネ)294",
+  "original_date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 12,
+    "day": 25
+  },
+  "gist": "レール上の置石により生じた電車の脱線転覆事故について置石をした者との共同の認識ないし共謀のない者が事故回避措置をとらなかつたことにつき過失責任を負う場合",
+  "case_gist": "中学生のいたずらによりレール上に置石がされたため生じた電車の脱線転覆事故について、甲が、自らは置石行為をせず、また、置石をした乙と共同の認識ないし共謀がなくても、事故現場において事前に、乙を含めて仲間とその動機となつた話合いをしたばかりでなく、その直後並行した他の軌道のレール上に石が置かれるのを現認していたものであつて、事故の原因となつた置石の存在を知ることができ、これによる脱線転覆事故の発生を予見すること及び置石の除去等事故回避の措置をとることが可能であつた場合には、甲は、当該措置をとるべき義務を負い、これを尽くさなかつたために生じた事故につき過失責任を免れない。",
+  "ref_law": "民法709条，民法719条",
+  "lawsuit_id": "55208",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55208",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/208/055208_hanrei.pdf"
+}

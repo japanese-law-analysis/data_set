@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 63,
+    "month": 11,
+    "day": 17
+  },
+  "case_number": "昭和63(行ツ)60",
+  "case_name": "換地処分取消請求事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第155号139頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和59(行コ)10",
+  "original_date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 12,
+    "day": 17
+  },
+  "gist": "土地改良事業による換地処分につき、従前の土地全体とこれに対する換地全体とを総合的にみてその間に照応関係が認められれば足りるとした事例",
+  "case_gist": "土地改良法五三条一項二号の照応関係は、従前の土地に所有権及び地役権以外の権利又は処分の制限がある場合でない限り、同一所有者に対する従前の土地全体とこれに対する換地全体とを総合的にみてその間に認められれば足りる。",
+  "ref_law": "土地改良法53条1項2号",
+  "lawsuit_id": "62391",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62391",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/391/062391_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 11,
+    "day": 20
+  },
+  "case_number": "昭和53(行ツ)55",
+  "case_name": "所得税更正処分等取消",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第131号135頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和51(行コ)61",
+  "original_date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 1,
+    "day": 31
+  },
+  "gist": "一　当初更正処分後増額再更正処分がされた場合、当初更正処分の取消を求める訴の利益が失われたとしてこれを却下した原審の判断を正当とした事例\n二　資産所得合算課税制度に関する規定の適不適とその違憲性の有無",
+  "case_gist": "一　省略\n二　所得税法九六条ないし一〇一条の定める資産所得合算課税制度の合憲性を争う主張は、特定の法律における具体的な税額計算の定めに関する立法政策上の適不適を争うものにすぎず、違憲の問題を生ずるものでない。",
+  "ref_law": "行政事件訴訟法9条，所得税法第4章第1節（96条ないし101条）",
+  "lawsuit_id": "64298",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64298",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/298/064298_hanrei.pdf"
+}

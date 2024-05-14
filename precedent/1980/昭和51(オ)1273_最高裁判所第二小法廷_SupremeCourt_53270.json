@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 9,
+    "day": 18
+  },
+  "case_number": "昭和51(オ)1273",
+  "case_name": "賃金",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第35巻6号1028頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和50(ネ)621",
+  "original_date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 9,
+    "day": 13
+  },
+  "gist": "ストライキ期間中の家族手当の削減が違法とはいえないとされた事例",
+  "case_gist": "ストライキの場合における家族手当の削減が昭和二三年ころから昭和四四年までは就業規則の規定に基づいて実施されており、その後右規定が削除され同様の規定が社員賃金規則細部取扱のうちに定められてからも従前の取扱が引続き異議なく行われてきたなど、原判示の事実関係のもとにおいては、ストライキの場合における家族手当の削減は労使問の労働慣行として成立していたものであり、このような労働慣行のもとにおいてされた本件ストライキ期間中の家族手当の削減は、違法とはいえない。",
+  "ref_law": "労働基準法24条，労働基準法37条2項",
+  "lawsuit_id": "53270",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53270",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/270/053270_hanrei.pdf"
+}

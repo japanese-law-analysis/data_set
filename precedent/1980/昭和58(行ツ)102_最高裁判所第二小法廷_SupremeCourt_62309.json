@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 2,
+    "day": 27
+  },
+  "case_number": "昭和58(行ツ)102",
+  "case_name": "事業税賦課決定処分取消",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第141号275頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和57(行コ)272",
+  "original_date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 6,
+    "day": 20
+  },
+  "gist": "一　東京都都税条例三〇条ただし書にいう「課税洩れ」と地方税法七二条の五一第一項ただし書にいう「特別の事情」\n二　納税者の責に帰することのできない事由による賦課もれの場合と東京都都税条例三〇条ただし書にいう「課税洩れ」",
+  "case_gist": "一　地方税法七二条の五一第一項ただし書にいう「特別の事情」には、東京都都税条例三〇条ただし書にいう「課税洩れ」が含まれる。\n二　東京都都税条例三〇条ただし書にいう「課税洩れ」には、納税者の責に帰することのできない事由による賦課もれの場合も含まれる。",
+  "ref_law": "地方税法72条の51第1項，東京都都税条例30条",
+  "lawsuit_id": "62309",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62309",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/309/062309_hanrei.pdf"
+}

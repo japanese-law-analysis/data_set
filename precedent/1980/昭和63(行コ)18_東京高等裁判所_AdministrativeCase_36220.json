@@ -1,0 +1,19 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Showa",
+    "year": 63,
+    "month": 12,
+    "day": 12
+  },
+  "case_number": "昭和63(行コ)18",
+  "case_name": "地目変更登記申請却下決定取消請求控訴事件（原審・宇都宮地方裁判所昭和５８年（行ウ）第１号）",
+  "court_name": "東京高等裁判所",
+  "field": "行政",
+  "gist": "１　地目変更登記申請を却下する旨の登記官の決定は，抗告訴訟の対象となる行政処分に当たるか　\n２　畑を原野に変更する旨の地目変更登記申請を却下した決定が，決定当時，当該土地の現況はいまだ全体として農地性を失っていなかったものであるとして，適法とされた事例",
+  "case_gist": "１　地目変更登記申請を却下する旨の登記官の決定は，抗告訴訟の対象となる行政処分に当たる。",
+  "lawsuit_id": "36220",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=36220",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/220/036220_hanrei.pdf",
+  "contents": ""
+}

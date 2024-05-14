@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 11,
+    "day": 10
+  },
+  "case_number": "昭和61(行ツ)160",
+  "case_name": "審決取消",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第43巻10号1116頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和59(行ケ)285",
+  "original_date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 5,
+    "day": 29
+  },
+  "gist": "発明の公開特許公報への掲載と特許法三〇条一項にいう刊行物への発表",
+  "case_gist": "特許出願した発明が内外の公開特許公報に掲載されることは、特許法三〇条一項にいう「刊行物に発表」することには該当しない。",
+  "ref_law": "特許法30条1項，特許法65条の2",
+  "lawsuit_id": "52734",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52734",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/734/052734_hanrei.pdf"
+}

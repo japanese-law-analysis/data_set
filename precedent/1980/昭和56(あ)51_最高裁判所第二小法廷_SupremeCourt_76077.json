@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 4,
+    "day": 20
+  },
+  "case_number": "昭和56(あ)51",
+  "case_name": "道路交通法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第221号467頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 12,
+    "day": 16
+  },
+  "gist": "レーダーによる速度違反車両の検挙が捜査方法として不合理なものではないとして憲法一三条、一四条一項、三一条違反の主張が「欠前提」とされた事例",
+  "ref_law": "憲法13条，憲法14条1項，憲法31条",
+  "lawsuit_id": "76077",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=76077",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/077/076077_hanrei.pdf"
+}

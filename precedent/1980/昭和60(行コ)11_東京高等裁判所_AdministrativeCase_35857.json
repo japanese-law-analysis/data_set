@@ -1,0 +1,18 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 8,
+    "day": 28
+  },
+  "case_number": "昭和60(行コ)11",
+  "case_name": "国立公園特別地域内工作物に関する教示義務確認等請求控訴事件（原審・東京地方裁判所昭和５９年（行ウ）第４９号）",
+  "court_name": "東京高等裁判所",
+  "field": "行政",
+  "gist": "自然公園法３５条１項ないし３項及び３６条の規定は，憲法２９条３項が要請する損失の補償を実体的かつ手続的に具体化したものであるから，自然公園法１７条３項の許可を得られなかったことによる損失の補償は右手続によってのみ請求すベきであるとして，右手続を経ずに直接憲法２９条３項の規定に基づいてされた損失補償請求の訴えを不適法として却下した事例",
+  "lawsuit_id": "35857",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=35857",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/857/035857_hanrei.pdf",
+  "contents": ""
+}

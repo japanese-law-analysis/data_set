@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 2,
+    "day": 12
+  },
+  "case_number": "昭和60(オ)568",
+  "case_name": "所有権移転請求権仮登記の抹消登記手続",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第41巻1号67頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和49(ネ)2523",
+  "original_date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 12,
+    "day": 10
+  },
+  "gist": "帰属清算型の譲渡担保における清算金の有無及びその額の確定時期",
+  "case_gist": "債務者所有の不動産に設定された譲渡担保が帰属清算型である場合、債権者の支払うべき清算金の有無及びその額は、債権者が債務者に対し清算金の支払若しくはその提供をした時若しくは目的不動産の適正評価額が債務額（評価に要した相当費用等の額を含む。）を上回らない旨の通知をした時、又は債権者において目的不動産を第三者に売却等をした時を基準として、確定されるべきである。，",
+  "ref_law": "民法369条（譲渡担保）",
+  "lawsuit_id": "55209",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55209",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/209/055209_hanrei.pdf"
+}

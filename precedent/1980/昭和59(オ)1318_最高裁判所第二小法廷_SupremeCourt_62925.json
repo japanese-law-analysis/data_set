@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 7,
+    "day": 14
+  },
+  "case_number": "昭和59(オ)1318",
+  "case_name": "従業員地位確認等",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第148号281頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和58(ネ)114",
+  "original_date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 8,
+    "day": 21
+  },
+  "gist": "転勤命令が権利の濫用に当たらないとされた事例",
+  "case_gist": "全国的規模の会社の神戸営業所勤務の大学卒営業担当従業員が母親、妻及び長女と共に堺市内の母親名義の家屋に居住しているなど、判示の事実関係のみから、同従業員に対する名古屋営業所への転勤命令が権利の濫用に当たるということはできない。",
+  "ref_law": "労働基準法2章労働契約",
+  "lawsuit_id": "62925",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62925",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/925/062925_hanrei.pdf"
+}

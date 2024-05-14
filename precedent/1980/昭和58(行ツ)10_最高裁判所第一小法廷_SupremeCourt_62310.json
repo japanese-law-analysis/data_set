@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 3,
+    "day": 29
+  },
+  "case_number": "昭和58(行ツ)10",
+  "case_name": "交付要求取消",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第141号523頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和57(行コ)44",
+  "original_date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 10,
+    "day": 29
+  },
+  "gist": "破産法人の清算中の事業年度の所得に係る法人税についてされた交付要求と抗告訴訟の対象",
+  "case_gist": "破産法人の清算中の事業年度の所得に係る法人税について国税徴収法八二条の規定により税務署長がした交付要求は、抗告訴訟の対象となる行政処分にはあたらない。",
+  "ref_law": "行政事件訴訟法3条2項，国税徴収法82条",
+  "lawsuit_id": "62310",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62310",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/310/062310_hanrei.pdf"
+}

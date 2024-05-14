@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 2,
+    "day": 27
+  },
+  "case_number": "昭和57(あ)1818",
+  "case_name": "所得税法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第39巻1号50頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 11,
+    "day": 10
+  },
+  "gist": "所得税の確定申告・納付の期限の延長につき国税通則法一一条にいう「災害その他やむを得ない理由」がないとされた事例",
+  "case_gist": "所得税の確定申告・納付をすべき者が、その申告・納付の期限当時、刑事事件により身体を拘束され、その経営する事業の帳簿書類等を押収されていたとしても、同人が日々の事業活動を通じて収入・経費を十分に把握し得る立場にあつた等の事情（判文参照）があるときは、所得税の確定申告・納付の期限の延長につき、国税通則法一一条にいう「災害その他やむを得ない理由」があるとはいえない。",
+  "ref_law": "国税通則法11条，所得税法120条1項，所得税法128条",
+  "lawsuit_id": "50257",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50257",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/257/050257_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 63,
+    "month": 7,
+    "day": 1
+  },
+  "case_number": "昭和60(オ)1145",
+  "case_name": "損害賠償請求本訴、同反訴事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第42巻6号451頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和59(ネ)1808",
+  "original_date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 6,
+    "day": 28
+  },
+  "gist": "被用者と第三者との共同不法行為による損害を賠償した第三者からの使用者に対する求償権の成否",
+  "case_gist": "被用者と第三者との共同不法行為により他人に損害を加えた場合において、第三者が自己と被用者との過失割合に従つて定められるべき自己の負担部分を超えて被害者に損害を賠償したときは、第三者は、被用者の負担部分について使用者に対し求償することができる。",
+  "ref_law": "民法442条，民法715条，民法719条",
+  "lawsuit_id": "52196",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52196",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/196/052196_hanrei.pdf"
+}

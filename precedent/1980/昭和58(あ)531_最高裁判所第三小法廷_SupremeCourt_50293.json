@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 3,
+    "day": 6
+  },
+  "case_number": "昭和58(あ)531",
+  "case_name": "殺人、銃砲刀剣類所持等取締法違反、火薬類取締法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第38巻5号1961頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 3,
+    "day": 15
+  },
+  "gist": "謀議の内容において被害者の殺害を一定の事態の発生にかからせていた場合といわゆる共謀共同正犯者としての殺人の故意の成立",
+  "case_gist": "謀議の内容において被害者の殺害を一定の事態の発生にかからせており、犯意自体が未必的なものであつたとしても、実行行為の意思が確定的であつたときは、いわゆる共謀共同正犯者としての殺人の故意の成立に欠けるところはない。",
+  "ref_law": "刑法38条1項，刑法60条，刑法199条",
+  "lawsuit_id": "50293",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50293",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/293/050293_hanrei.pdf"
+}

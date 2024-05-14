@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 12,
+    "day": 18
+  },
+  "case_number": "昭和54(オ)271",
+  "case_name": "約束手形金",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第34巻7号942頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和53(ネ)1204",
+  "original_date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 12,
+    "day": 14
+  },
+  "gist": "不渡の符箋等により満期後の支払拒絶が手形面上明らかにされたのちの裏書と手形法二〇条一項",
+  "case_gist": "約束手形の支払拒絶証書作成前でその作成期間の経過前にされた裏書は、不渡の符箋等により満期後の支払拒絶の事実が手形面上明らかにされたのちのものであつても、満期前の裏書と同一の効力を有する。",
+  "ref_law": "手形法20条1項，手形法77条1項1号",
+  "lawsuit_id": "53354",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53354",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/354/053354_hanrei.pdf"
+}

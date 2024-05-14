@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 9,
+    "day": 8
+  },
+  "case_number": "昭和58(行ツ)27",
+  "case_name": "国選弁護人報酬",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第148号425頁",
+  "original_court_name": "高松高等裁判所",
+  "original_case_number": "昭和56(行コ)5",
+  "original_date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 1,
+    "day": 11
+  },
+  "gist": "国選弁護人に支給すべき報酬の額の決定と憲法三二条、八二条",
+  "case_gist": "国選弁護人に支給すべき報酬の額の決定は、公開の法廷における審理を経なくても、憲法三二条、八二条に違反しない。",
+  "ref_law": "刑事訴訟費用等に関する法律8条2項，刑訴法38条2項，憲法32条，憲法82条",
+  "lawsuit_id": "62917",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62917",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/917/062917_hanrei.pdf"
+}

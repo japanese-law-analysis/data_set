@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 6,
+    "day": 20
+  },
+  "case_number": "昭和60(さ)2",
+  "case_name": "毒物及び劇物取締法違反被告事件について簡易裁判所がした略式命令に対する非常上告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集刑　第240号221頁",
+  "original_court_name": "東京簡易裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 8,
+    "day": 5
+  },
+  "gist": "法定刑超過による非常上告",
+  "ref_law": "刑訴法458条",
+  "lawsuit_id": "61868",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61868",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/868/061868_hanrei.pdf"
+}

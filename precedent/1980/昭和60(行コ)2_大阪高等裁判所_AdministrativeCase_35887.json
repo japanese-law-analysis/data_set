@@ -1,0 +1,18 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 10,
+    "day": 8
+  },
+  "case_number": "昭和60(行コ)2",
+  "case_name": "建築確認取消処分取消請求控訴事件（原審・神戸地方裁判所昭和５７年（行ウ）第３０号）",
+  "court_name": "大阪高等裁判所",
+  "field": "行政",
+  "gist": "建築基準法６条に基づく建築主事の確認に係る建築物の工事が既に完了している場合には，建築主は，右確認の取消処分の取消し又は無効確認を求める訴えの利益を有しないとした事例",
+  "lawsuit_id": "35887",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=35887",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/887/035887_hanrei.pdf",
+  "contents": ""
+}

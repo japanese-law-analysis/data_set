@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 2,
+    "day": 23
+  },
+  "case_number": "昭和61(あ)1177",
+  "case_name": "常習累犯窃盗",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第41巻1号1頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 9,
+    "day": 5
+  },
+  "gist": "常習累犯窃盗の罪と別の機会に窃盗目的で犯された軽犯罪法一条三号（侵入具携帯）の罪との罪数関係",
+  "case_gist": "常習累犯窃盗の罪と軽犯罪法一条三号（侵入具携帯）の罪とが機会を異にして犯された場合には、たとえ侵入具携帯が常習性の発現と認められる窃盗を目的とするものであつたとしても、両罪は併合罪の関係にある。",
+  "ref_law": "盗犯等の防止及び処分に関する法律3条，軽犯罪法1条3号，刑法45条",
+  "lawsuit_id": "50335",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50335",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/335/050335_hanrei.pdf"
+}

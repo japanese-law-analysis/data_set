@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 3,
+    "day": 28
+  },
+  "case_number": "昭和62(オ)839",
+  "case_name": "離婚等請求事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第156号417頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和60(ネ)2175",
+  "original_date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 3,
+    "day": 9
+  },
+  "gist": "有責配偶者からの離婚請求が認容することができないとされた事例",
+  "case_gist": "有責配偶者である夫からされた離婚請求において、事実審の口頭弁論終結時、夫六〇歳、妻五七歳であり、婚姻以来二六年余同居して二男二女を儲けた後夫が他の女性と同棲するため妻と別居して八年余になるなど判示の事情のあるときは、夫婦の別居期間が双方の年齢及び同居期間と対比して相当の長期間に及ぶということができず、右離婚請求を認容することができない。",
+  "ref_law": "民法1条2項，民法770条",
+  "lawsuit_id": "62373",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62373",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/373/062373_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 6,
+    "day": 8
+  },
+  "case_number": "昭和56(オ)988",
+  "case_name": "建物退去土地明渡",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第136号57頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_case_number": "昭和55(ネ)169",
+  "original_date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 7,
+    "day": 9
+  },
+  "gist": "土地の仮装譲受人から右土地上の建物を賃借した者と民法九四条二項所定の第三者",
+  "case_gist": "土地の仮装譲受人からその建築にかかる右土地上の建物を賃借した者は、民法九四条二項所定の第三者にはあたらない。",
+  "ref_law": "民法94条2項",
+  "lawsuit_id": "70440",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70440",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/440/070440_hanrei.pdf"
+}

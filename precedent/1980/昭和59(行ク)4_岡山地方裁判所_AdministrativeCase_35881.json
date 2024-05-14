@@ -1,0 +1,18 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 9,
+    "day": 27
+  },
+  "case_number": "昭和59(行ク)4",
+  "case_name": "訴訟引受申立事件",
+  "court_name": "岡山地方裁判所",
+  "field": "行政",
+  "gist": "酒税法１６条による酒類販売場移転の許可がされると，旧販売場についてされた酒類販売業の免許及びこれに付された条件はそのまま新販売場についてのものとなり，移転先の所轄税務署長が右免許条件の緩和又は解除の権限を有することになるから，右許可以前に提起された酒類販売業免許条件解除拒否処分取消訴訟の被告適格は，右免許を付与した税務署長から右移転先の所轄税務署長に承継されるとして，後者に対し訴訟引受が命じられた事例",
+  "lawsuit_id": "35881",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=35881",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/881/035881_hanrei.pdf",
+  "contents": ""
+}

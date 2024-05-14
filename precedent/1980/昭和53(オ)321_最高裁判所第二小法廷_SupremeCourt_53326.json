@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 7,
+    "day": 11
+  },
+  "case_number": "昭和53(オ)321",
+  "case_name": "所有権確認等",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第34巻4号628頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和50(ネ)2832",
+  "original_date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 11,
+    "day": 7
+  },
+  "gist": "協議・審判等による具体的内容形成前の財産分与請求権に基づく債権者代位権行使の許否",
+  "case_gist": "離婚後協議あるいは審判等によつて具体的内容が形成される前の財産分与請求権を保全するために債権者代位権を行使することは許されない。",
+  "ref_law": "民法432条，民法768条",
+  "lawsuit_id": "53326",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53326",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/326/053326_hanrei.pdf"
+}

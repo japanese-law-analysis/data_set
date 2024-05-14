@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 12,
+    "day": 19
+  },
+  "case_number": "昭和59(行ツ)65",
+  "case_name": "裁決取消",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第149号389頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和57(行ケ)132",
+  "original_date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 2,
+    "day": 27
+  },
+  "gist": "航路が定められている港の防波堤の入口又は入口附近において航路を航行して入航しようとする汽船と航路外を航行した後航路外から航路に入つて出航しようとする汽船とが出会う虞のある場合における右入航船の避航義務",
+  "case_gist": "航路が定められている港の防波堤の入口又は入口附近において航路を航行して入航しようとする汽船が出航しようとする汽船と出会う虞のある場合は、右出航船が法令の定める航法に違反して航路外を航行した後航路外から航路に入つて出航しようとしているときであつても、右入航船は港則法一五条所定の避航義務を免れない。",
+  "ref_law": "港則法12条，港則法14条1項，港則法15条",
+  "lawsuit_id": "62950",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62950",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/950/062950_hanrei.pdf"
+}

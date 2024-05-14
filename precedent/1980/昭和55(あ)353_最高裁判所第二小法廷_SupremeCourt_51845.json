@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 6,
+    "day": 26
+  },
+  "case_number": "昭和55(あ)353",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "刑集　第35巻4号426頁",
+  "original_court_name": "広島高等裁判所\n        　松江支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 2,
+    "day": 4
+  },
+  "gist": "被告人と対向的な共犯関係に立つ疑いのある者の一部が警察段階の捜査において不当に有利な取扱いを受けた場合と被告人自身に対する捜査手続の合憲性",
+  "case_gist": "被告人自身に対する警察の捜査が刑訴法にのつとり適正に行われており、被告人が、その思想、信条、社会的身分又は門地などを理由に、一般の場合に比べ捜査上不当に不利益に取り扱われたものでないときは、かりに、当該被疑事実につき被告人と対向的な共犯関係に立つ疑いのある者の一部が、警察段階の捜査において不当に有利な取扱いを受け、事実上刑事訴追を免れるという事実があつたとしても、そのために、被告人自身に対する捜査手続が憲法一四条に違反することになるものではない。",
+  "ref_law": "憲法14条，刑訴法338条4号",
+  "lawsuit_id": "51845",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51845",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/845/051845_hanrei.pdf"
+}

@@ -1,0 +1,18 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 2,
+    "day": 26
+  },
+  "case_number": "昭和61(行ス)1",
+  "case_name": "被告変更申立却下決定に対する抗告事件（原審・大分地方裁判所昭和６０年（行ク）第１号）",
+  "court_name": "福岡高等裁判所",
+  "field": "行政",
+  "gist": "換地処分取消訴訟において被告を誤ったことにつき，原告及び訴訟代理人に重大な過失がなかったとして，被告変更の申立てが認容された事例",
+  "lawsuit_id": "35982",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=35982",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/982/035982_hanrei.pdf",
+  "contents": ""
+}

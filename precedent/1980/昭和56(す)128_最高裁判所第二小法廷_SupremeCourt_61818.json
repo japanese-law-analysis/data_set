@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 8,
+    "day": 27
+  },
+  "case_number": "昭和56(す)128",
+  "case_name": "暴行被告事件に対する上告棄却の決定に対する異議申立",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第223号1頁",
+  "original_court_name": "最高裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 8,
+    "day": 14
+  },
+  "gist": "上告趣意書の差出最終日指定後に選任された弁護人に対する右最終日通知の要否",
+  "ref_law": "刑訴規則236条1項，刑訴規則266条",
+  "lawsuit_id": "61818",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61818",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/818/061818_hanrei.pdf"
+}

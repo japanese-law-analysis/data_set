@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 3,
+    "day": 12
+  },
+  "case_number": "昭和58(あ)1325",
+  "case_name": "大麻取締法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第242号285頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 8,
+    "day": 25
+  },
+  "gist": "捜索場所を被疑者居室とする捜索差押許可状に基づき被疑者転居後に実施された捜索が適法とされた事例",
+  "case_gist": "捜索場所を被疑者居室とする捜索差押許可状に基づいて実施された同居室の捜索は、右捜索時被疑者が同居室から転居していたとしても、本件の事実関係（判文参照）のもとでは適法である。",
+  "ref_law": "憲法35条1項，刑訴法218条1項",
+  "lawsuit_id": "76085",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=76085",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/085/076085_hanrei.pdf"
+}

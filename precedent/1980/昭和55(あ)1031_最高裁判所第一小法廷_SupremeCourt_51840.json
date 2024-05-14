@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 4,
+    "day": 8
+  },
+  "case_number": "昭和55(あ)1031",
+  "case_name": "児童福祉法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第35巻3号63頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 5,
+    "day": 15
+  },
+  "gist": "児童福祉法三四条一項九号にいう児童を「自己の支配下に置く行為」にあたるとされた事例",
+  "case_gist": "家出中の児童を、軽食喫茶店内の賭博遊技機を設置したゲーム室で働かせるため雇い入れ、同じ建物内の一室に居住させ、勤務につき指導監督するほか、食事を給するなどして、児童に心理的影響を及ぼし、その意思を左右しうる状態に置き、被告人らの影響下から離脱することを困難にさせた所為（判文参照）は、児童福祉法三四条一項九号にいう児童を「自己の支配下に置く行為」にあたる。",
+  "ref_law": "児童福祉法34条1項9号，児童福祉法60条2項",
+  "lawsuit_id": "51840",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51840",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/840/051840_hanrei.pdf"
+}

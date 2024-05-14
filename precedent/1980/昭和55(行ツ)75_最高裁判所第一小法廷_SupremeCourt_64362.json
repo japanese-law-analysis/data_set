@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 10,
+    "day": 16
+  },
+  "case_number": "昭和55(行ツ)75",
+  "case_name": "審決取消",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第131号13頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和53(行ケ)30",
+  "original_date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 3,
+    "day": 25
+  },
+  "gist": "図案化された欧文字が意匠法二条一項にいう模様にあたらないとされた事例",
+  "case_gist": "図案化して描かれているが、文字として読ませるための普通の配列方法により配列して商標のように表示され、商品カツプ入りヌードルの商品名を現わしているものと読み取ることができるような「ＣＵＰ　ＮＯＯＤＬＥ」の欧文字は、意匠法二条一項にいう模様にあたらない。",
+  "ref_law": "意匠法2条1項",
+  "lawsuit_id": "64362",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64362",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/362/064362_hanrei.pdf"
+}

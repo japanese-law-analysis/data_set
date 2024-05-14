@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 1,
+    "day": 22
+  },
+  "case_number": "昭和53(オ)861",
+  "case_name": "入会権確認等",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第135号83頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和41(ネ)1153",
+  "original_date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 3,
+    "day": 22
+  },
+  "gist": "山林原野の管理利用について部落による共同体的統制が認められないとして右山林原野に対する住民の入会権が否定された事例",
+  "case_gist": "山林原野が代議制をとつた村議会等の多数決による議決に基づいて村有財産として管理処分され、あるいは村当局の監督下において村民に利用されて来たなど、右山林原野の管理利用について部落による共同体的統制の存在を認めるに由ない判示の事実関係のもとにおいては、これに対する共有の性質を有する入会権及び共有の性質を有しない入会権は、ともに認められない。",
+  "ref_law": "民法263条，民法294条",
+  "lawsuit_id": "66856",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66856",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/856/066856_hanrei.pdf"
+}

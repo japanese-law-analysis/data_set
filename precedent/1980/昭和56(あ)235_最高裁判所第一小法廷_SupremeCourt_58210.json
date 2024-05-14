@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 3,
+    "day": 8
+  },
+  "case_number": "昭和56(あ)235",
+  "case_name": "兇器準備集合、建造物侵入（不退去）、公務執行妨害、非現住建造物等放火",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第225号747頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 10,
+    "day": 30
+  },
+  "gist": "刑法二〇八条の二の規定違憲（憲法三一条違反）の主張が「欠前提」とされた事例-いわゆる広大闘争事件",
+  "ref_law": "憲法31条，刑法208条の2",
+  "lawsuit_id": "58210",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58210",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/210/058210_hanrei.pdf"
+}

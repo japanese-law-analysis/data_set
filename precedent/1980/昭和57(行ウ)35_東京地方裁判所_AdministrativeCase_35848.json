@@ -1,0 +1,18 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 6,
+    "day": 27
+  },
+  "case_number": "昭和57(行ウ)35",
+  "case_name": "同和生業資金借入申込書受理拒否処分等取消請求事件",
+  "court_name": "東京地方裁判所",
+  "field": "行政",
+  "gist": "特別区の定めた同和生業資金貸付事業実施要綱に基づく資金借入申請につき，右要綱の規定を根拠に資金借入申込書の受領を拒否した特別区長の措置が，右措置は，法令でもなく，法令の委任に基づくものでもない要綱を根拠としてされたものであるから，行政事件訴訟法３条２項にいう「行政庁の処分その他公権力の行使に当たる行為」に当たらないとされた事例",
+  "lawsuit_id": "35848",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=35848",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/848/035848_hanrei.pdf",
+  "contents": ""
+}

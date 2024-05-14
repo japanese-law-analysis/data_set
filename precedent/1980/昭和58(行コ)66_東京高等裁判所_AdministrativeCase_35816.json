@@ -1,0 +1,18 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 3,
+    "day": 13
+  },
+  "case_number": "昭和58(行コ)66",
+  "case_name": "差押処分無効確認請求控訴事件（原審・浦和地方裁判所昭和５７年（行ウ）第５号）",
+  "court_name": "東京高等裁判所",
+  "field": "行政",
+  "gist": "酒税に関する犯則事件の嫌疑者に対し国税犯則取締法２条に基づく差押処分がされた後，右嫌疑者が同法１４条１項による右犯則についての通告処分の内容を履行した場合には，右差押処分の無効確認を求める訴えは，訴えの利益を欠き不適法であるとした事例",
+  "lawsuit_id": "35816",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=35816",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/816/035816_hanrei.pdf",
+  "contents": ""
+}

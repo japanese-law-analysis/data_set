@@ -1,0 +1,18 @@
+{
+  "trial_type": "IPCase",
+  "date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 4,
+    "day": 25
+  },
+  "case_number": "昭和59(行ツ)286",
+  "case_name": "",
+  "court_name": "最高裁判所第二小法廷",
+  "right_type": "特許権",
+  "lawsuit_type": "行政訴訟",
+  "lawsuit_id": "34303",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail7?id=34303",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/303/034303_hanrei.pdf",
+  "contents": ""
+}

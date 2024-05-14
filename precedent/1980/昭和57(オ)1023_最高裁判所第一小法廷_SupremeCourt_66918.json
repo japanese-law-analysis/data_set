@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 4,
+    "day": 14
+  },
+  "case_number": "昭和57(オ)1023",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第138号567頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和56(ネ)313",
+  "original_date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 5,
+    "day": 31
+  },
+  "gist": "選択的に併合されている甲、乙両請求につき甲請求の一部を認容しその余の請求を棄却した第一審判決に対し被告が控訴し原告が控訴、附帯控訴しなかつた場合において控訴審が第一審判決の右認容部分を取り消すべきであるとするときと乙請求についての判断の要否",
+  "case_gist": "選択的に併合されている甲、乙両請求につき、甲請求の一部を認容しその余の請求を棄却した第一審判決に対し、被告が控訴し、原告が控訴、附帯控訴しなかつた場合において、控訴審は、第一審判決の右認容部分を取り消すべきであるとするときには、乙請求につき審理判断すべきであり、乙請求を全部理由がないと判断すべきときにのみ、原告の請求を全部棄却しうると解すべきである。",
+  "ref_law": "民訴法227条，民訴法385条，民訴法386条",
+  "lawsuit_id": "66918",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66918",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/918/066918_hanrei.pdf"
+}

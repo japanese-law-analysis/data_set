@@ -1,0 +1,18 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Showa",
+    "year": 63,
+    "month": 12,
+    "day": 20
+  },
+  "case_number": "昭和62(行ウ)9",
+  "case_name": "法人税更正処分等取消請求事件",
+  "court_name": "岡山地方裁判所",
+  "field": "行政",
+  "gist": "協同組合の専務理事につき，定款で，「専務理事は理事長を補佐して本組合の業務を執行し，理事長に事故のあったときはその職務を代理し，理事長が欠員のときはその職務を行う。」旨定めている場合において，右専務理事の地位にある者は，本来，法人の目的である事業の遂行に専念すベき者であって，使用人としての立場と両立し得ない職制上の地位にあるといえるから，実際の職務内容いかんにかかわらず，法人税法３５条５項，同法施行令（昭和４０年政令第９７号）７１条１項１号にいう専務理事に該当し，同人に支給された賞与を損金に算入することは許されないとした事例",
+  "lawsuit_id": "36223",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=36223",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/223/036223_hanrei.pdf",
+  "contents": ""
+}

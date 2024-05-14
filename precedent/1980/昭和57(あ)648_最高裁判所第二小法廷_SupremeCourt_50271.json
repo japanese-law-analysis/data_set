@@ -1,0 +1,22 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 1,
+    "day": 30
+  },
+  "case_number": "昭和57(あ)648",
+  "case_name": "殺人、銃砲刀剣類所持等取締法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "刑集　第38巻1号185頁",
+  "original_court_name": "高松高等裁判所",
+  "gist": "刑法三六条にいう「急迫不正ノ侵害」にあたるとされた事例",
+  "case_gist": "相手方から一方的に暴行を受けた被告人が、帰寮後も憤まん収まらず、いつたんは木刀を手にして相手方と対峙し同人を難詰したものの、同僚の説得に従い、話合いをするため木刀を投げ捨てその場を離れたにもかかわらず、予期に反して相手方がいきなり右木刀を拾い上げ攻撃してきた本件事実関係のもとにおいては（判文参照）、右攻撃は刑法三六条にいう「急迫不正ノ侵害」にあたる。",
+  "ref_law": "刑法36条",
+  "lawsuit_id": "50271",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50271",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/271/050271_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 10,
+    "day": 23
+  },
+  "case_number": "昭和55(オ)589",
+  "case_name": "土地所有権確認",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第34巻5号747頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和54(ネ)136",
+  "original_date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 3,
+    "day": 27
+  },
+  "gist": "売買を請求原因とする所有権確認の判決が確定したのち後訴において詐欺を理由に右売買を取り消して所有権の存否を争うことの許否",
+  "case_gist": "売買を請求原因とする所有権確認の判決が確定したのちは、後訴において詐欺を理由に右売買を取り消して所有権の存否を争うことは許されない。",
+  "ref_law": "民法96条，民法121条，民訴法199条",
+  "lawsuit_id": "53369",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53369",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/369/053369_hanrei.pdf"
+}

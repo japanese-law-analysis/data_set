@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 1,
+    "day": 31
+  },
+  "case_number": "昭和59(オ)320",
+  "case_name": "家屋明渡等本訴、土地所有権確認等反訴",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集民　第144号75頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和57(ネ)644",
+  "original_date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 11,
+    "day": 29
+  },
+  "gist": "私立大学の退職金規程が職員の死亡退職金を「遺族」に支給するとのみ定めている場合に職員の死亡の当時主としてその収入により生計を維持していた配偶者（内縁の配偶者を含む。）が第一順位の受給権者となるとされた事例",
+  "case_gist": "私立大学の退職金規程が職員の死亡退職金を「遺族」に支給するとのみ定めている場合には、その受給権者は、相続人ではなく、職員の死亡の当時、主としてその収入により生計を維持していた配偶者（届出をしていないが、事実上婚姻関係と同様の事情にある者を含む。）が第一順位の受給権者となると解すべきである。",
+  "ref_law": "私立学校教職員共済組合法（昭和54年法律第74号による改正前のもの）25条，国家公務員共済組合法2条，国家公務員共済組合法43条",
+  "lawsuit_id": "62933",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62933",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/933/062933_hanrei.pdf"
+}

@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 2,
+    "day": 7
+  },
+  "case_number": "昭和59(し)9",
+  "case_name": "殺人未遂被告事件について地方裁判所支部がした公訴棄却の申立に対する見解の表明に対しての特別抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第234号479頁",
+  "original_court_name": "山口地方裁判所\n        　下関支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 1,
+    "day": 11
+  },
+  "gist": "公訴棄却の裁判をしない旨の裁判所の見解の表明に対する特別抗告の適否",
+  "ref_law": "刑訴法433条",
+  "lawsuit_id": "58386",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58386",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/386/058386_hanrei.pdf"
+}

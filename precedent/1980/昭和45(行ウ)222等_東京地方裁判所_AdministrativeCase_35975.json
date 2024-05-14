@@ -1,0 +1,18 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 2,
+    "day": 3
+  },
+  "case_number": "昭和45(行ウ)222等",
+  "case_name": "更正決定取消請求事件",
+  "court_name": "東京地方裁判所",
+  "field": "行政",
+  "gist": "貴金属の加工，販売業者の所得金額を，具体的に把握された資産を基にいわゆる資産増減法を用いて算出する推計方法が，合理的であるとされた事例",
+  "lawsuit_id": "35975",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=35975",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/975/035975_hanrei.pdf",
+  "contents": ""
+}

@@ -1,0 +1,18 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Showa",
+    "year": 63,
+    "month": 6,
+    "day": 23
+  },
+  "case_number": "昭和60(行ウ)2",
+  "case_name": "換地処分取消請求事件",
+  "court_name": "鳥取地方裁判所",
+  "field": "行政",
+  "gist": "土地区画整理事業における従前地の地積については原則として当該土地及び隣接地の各所有者の確認した境界に基づいて実測した地積とすると定めた条例がある場合に，所有者を立ち会わせて境界を確認することをしないまま従前地を確定したことが，その手続に違法な点はあるものの，所有者の立会い及び確認は換地処分自体の成立要件又は効力要件ではないから，換地処分の違法を来すものではないとされた事例",
+  "lawsuit_id": "36184",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=36184",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/184/036184_hanrei.pdf",
+  "contents": ""
+}

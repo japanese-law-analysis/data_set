@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 9,
+    "day": 4
+  },
+  "case_number": "昭和60(オ)1563",
+  "case_name": "貸金",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集民　第148号417頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "昭和59(ネ)164",
+  "original_date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 9,
+    "day": 20
+  },
+  "gist": "一　賭博の用に供されることを知つてする金銭の消費貸借契約と公序良俗違反\n二　相殺の抗弁を容れて原告の請求を棄却した第一審判決に対し原告のみが控訴した場合と不利益変更禁止の原則",
+  "case_gist": "一　賭博の用に供されることを知つてする金銭の消費貸借契約は、公序良俗に違反し無効である。\n二　原告の訴求債権の存在を認めながら被告の相殺の抗弁を容れ原告の請求を棄却した第一審判決に対し、原告のみが控訴し被告が控訴も附帯控訴もしなかつた場合において、控訴審が、被告の相殺の抗弁について判断するまでもなく、訴求債権の不存在を理由に原告の請求を棄却すべきときは、不利益変更禁止の原則に従い、第一審判決を維持して、原告の控訴を棄却するにとどめなければならない。",
+  "ref_law": "民法90条，民訴法199条2項，民訴法384条，民訴法385条，民訴法386条",
+  "lawsuit_id": "62955",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62955",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/955/062955_hanrei.pdf"
+}

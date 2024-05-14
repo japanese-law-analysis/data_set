@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 63,
+    "month": 2,
+    "day": 17
+  },
+  "case_number": "昭和62(し)107",
+  "case_name": "業務上過失傷害被告事件について高等裁判所がした控訴棄却決定に対する異議申立棄却決定に対する特別抗告",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "決定",
+  "result": "破棄差戻",
+  "article_info": "刑集　第42巻2号299頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 10,
+    "day": 2
+  },
+  "gist": "原判決後上訴権のない選任権者により選任された弁護人のした上訴申立の適否",
+  "case_gist": "原判決後選任された弁護人は、その選任者が上訴権を有しない場合であつても、被告人を代理して上訴申立をすることができる。",
+  "ref_law": "刑訴法30条2項，刑訴法32条2項，刑訴法41条，刑訴法351条1項，刑訴法353条，刑訴法355条，刑訴法433条",
+  "lawsuit_id": "50366",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50366",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/366/050366_hanrei.pdf"
+}

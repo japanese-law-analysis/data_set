@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 3,
+    "day": 4
+  },
+  "case_number": "昭和56(オ)173",
+  "case_name": "不当利益返還",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第135号269頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和52(ネ)1534",
+  "original_date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 10,
+    "day": 23
+  },
+  "gist": "一　共謀による共同不法行為と民法四三四条の適用の有無\n二　継続性のない事務処理を目的とする委任契約の債務不履行による解除と民法六五二条の適用",
+  "case_gist": "一　共同不法行為が行為者の共謀による場合であつても、民法四三四条の規定は適用されない。\n二　民法六五二条の規定は、継続性のない事務処理を目的とする委任契約を委任者の債務不履行を理由にして解除する場合にも適用される。",
+  "ref_law": "民法434条，民法652条，民法719条",
+  "lawsuit_id": "66887",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66887",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/887/066887_hanrei.pdf"
+}

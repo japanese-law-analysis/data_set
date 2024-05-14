@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 3,
+    "day": 10
+  },
+  "case_number": "昭和61(あ)848",
+  "case_name": "公務執行妨害、傷害",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第43巻3号188頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 4,
+    "day": 18
+  },
+  "gist": "休憩宣言後の県議会委員長に対する暴行が公務執行妨害罪を構成するとされた事例",
+  "case_gist": "県議会委員長が委員会の休憩を宣言して退出しようとした場合であつても、なお審議に関して生じた紛議に対処するなどの職務に従事していたと認められる本件においては、その際委員長に対して加えられた暴行は公務執行妨害罪を構成する。",
+  "ref_law": "刑法95条1項",
+  "lawsuit_id": "50347",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50347",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/347/050347_hanrei.pdf"
+}

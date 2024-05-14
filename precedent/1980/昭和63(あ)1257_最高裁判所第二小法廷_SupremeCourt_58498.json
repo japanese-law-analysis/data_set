@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 7,
+    "day": 7
+  },
+  "case_number": "昭和63(あ)1257",
+  "case_name": "現住建造物等放火",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第252号203頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 63,
+    "month": 9,
+    "day": 8
+  },
+  "gist": "エレベーターのかごの側壁の一部を燃焼した行為につき現住建造物等放火罪が成立するとされた事例",
+  "ref_law": "刑法108条",
+  "lawsuit_id": "58498",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58498",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/498/058498_hanrei.pdf"
+}

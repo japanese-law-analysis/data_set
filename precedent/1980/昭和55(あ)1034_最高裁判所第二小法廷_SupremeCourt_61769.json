@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 9,
+    "day": 4
+  },
+  "case_number": "昭和55(あ)1034",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第218号279頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 5,
+    "day": 21
+  },
+  "gist": "原判決に対する論難とは認められないとされた事例",
+  "lawsuit_id": "61769",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61769",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/769/061769_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 10,
+    "day": 27
+  },
+  "case_number": "昭和60(オ)1270",
+  "case_name": "不当利得返還",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第43巻9号1070頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和59(ネ)313",
+  "original_date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 7,
+    "day": 18
+  },
+  "gist": "抵当権の物上代位と抵当不動産について供託された賃料の還付請求権",
+  "case_gist": "抵当不動産が賃貸された場合においては、抵当権者は、民法三七二条、三〇四条の規定の趣旨に従い、賃借人が供託した賃料の還付請求権についても抵当権を行使することができる。",
+  "ref_law": "民法304条，民法372条，民法494条",
+  "lawsuit_id": "52714",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52714",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/714/052714_hanrei.pdf"
+}

@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 9,
+    "day": 24
+  },
+  "case_number": "昭和57(あ)343",
+  "case_name": "道路交通法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第228号561頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 2,
+    "day": 17
+  },
+  "gist": "検察官控訴に基づき第一審判決の刑より重い刑を言渡すことと憲法三九条",
+  "ref_law": "憲法39条",
+  "lawsuit_id": "58255",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58255",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/255/058255_hanrei.pdf"
+}

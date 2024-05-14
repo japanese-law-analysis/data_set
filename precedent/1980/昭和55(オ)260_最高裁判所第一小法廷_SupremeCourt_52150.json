@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 2,
+    "day": 23
+  },
+  "case_number": "昭和55(オ)260",
+  "case_name": "預金返還",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第38巻3号445頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和54(ネ)1451",
+  "original_date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 12,
+    "day": 18
+  },
+  "gist": "金融機関が記名式定期預金の預金者と誤認した者に対する貸付債権をもつてした預金債権との相殺につき民法四七八条が類推適用されるために必要な注意義務を尽くしたか否かの判断の基準時",
+  "case_gist": "金融機関が、記名式定期預金につき真実の預金者甲と異なる乙を預金者と認定して乙に貸付をしたのち、貸付債権を自働債権とし預金債権を受働債権としてした相殺が民法四七八条の類推適用により甲に対して効力を生ずるためには、当該貸付時において、乙を預金者本人と認定するにつき金融機関として負担すべき相当の注意義務を尽くしたと認められれば足りる。",
+  "ref_law": "民法478条，民法505条",
+  "lawsuit_id": "52150",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52150",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/150/052150_hanrei.pdf"
+}

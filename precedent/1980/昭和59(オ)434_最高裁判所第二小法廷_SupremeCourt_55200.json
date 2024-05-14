@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 2,
+    "day": 13
+  },
+  "case_number": "昭和59(オ)434",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第41巻1号95頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和57(ネ)922",
+  "original_date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 12,
+    "day": 12
+  },
+  "gist": "小学校の児童が体育の授業中の事故により後日失明した場合に担当教師には事故の状況等を保護者に通知してその対応措置を要請すべき義務はないとされた事例",
+  "case_gist": "小学校の児童が、体育の授業としてのサツカーの試合中に至近距離からけられたボールで眼部を直撃されたため、その一年余りのちに網膜はく離により失明した場合において、右児童が、事故当時一二歳であつて眼に異常があればそれを訴える能力を有し、事故直後から眼に異常を感じていたにもかかわらず、担当教師が再三尋ねても異常がないと答えたばかりでなく、外観上何らの異常も認められなかつたうえ、担当教師において右児童が異常を感じてもあえてこれを訴えないことを認識しうる事情もなかつたときは、担当教師には失明防止のため事故の状況等を保護者に通知してその対応措置を要請すべき義務があつたものとはいえない。",
+  "ref_law": "国家賠償法1条1項，民法709条，民法715条",
+  "lawsuit_id": "55200",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55200",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/200/055200_hanrei.pdf"
+}

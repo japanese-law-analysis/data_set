@@ -1,0 +1,18 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 1,
+    "day": 25
+  },
+  "case_number": "昭和59(行タ)58",
+  "case_name": "執行停止申立事件（本案・東京高等裁判所昭和５９年（行ケ）第２６０号）",
+  "court_name": "東京高等裁判所",
+  "field": "行政",
+  "gist": "弁護士に対する業務停止６箇月の懲戒処分の効力の停止を求める申立てが，回復困難な損害を避けるため緊急の必要があるとは認められず，また，実質的な救済を閉ざされる結果となるわけでもないとして，棄却された事例",
+  "lawsuit_id": "35808",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=35808",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/808/035808_hanrei.pdf",
+  "contents": ""
+}

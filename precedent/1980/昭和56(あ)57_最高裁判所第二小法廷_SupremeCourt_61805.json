@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 11,
+    "day": 9
+  },
+  "case_number": "昭和56(あ)57",
+  "case_name": "傷害",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第229号227頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 12,
+    "day": 18
+  },
+  "gist": "所論引用の判例は、所論の趣旨の法律判断（公訴権濫用を理由とする公訴棄却の申立に対する判断）まで示したものではないとして、判例違反の主張が欠前提とされた事例",
+  "lawsuit_id": "61805",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61805",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/805/061805_hanrei.pdf"
+}

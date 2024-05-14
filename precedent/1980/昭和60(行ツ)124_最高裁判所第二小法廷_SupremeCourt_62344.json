@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 63,
+    "month": 6,
+    "day": 17
+  },
+  "case_number": "昭和60(行ツ)124",
+  "case_name": "優生保護法指定医の指定取消処分取消等請求事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第154号201頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "昭和57(行コ)2",
+  "original_date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 3,
+    "day": 29
+  },
+  "gist": "いわゆる実子あつせんをしたことを理由に優生保護法一四条一項による指定医師の指定を撤回することができるとされた事例",
+  "case_gist": "優生保護法一四条一項による指定を受けた医師が、虚偽の出生証明書を発行して他人の嬰児をあつせんするいわゆる実子あつせんを長年にわたり多数回行つたことが判明し、そのうちの一例につき医師法違反等の罪により罰金刑に処せられたため、右指定の撤回により当該医師の被る不利益を考慮してもなおそれを撤回すべき公益上の必要性が高いと認められる場合に、指定権限を付与されている都道府県医師会は、右指定を撤回することができる。",
+  "ref_law": "優生保護法14条1項",
+  "lawsuit_id": "62344",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62344",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/344/062344_hanrei.pdf"
+}

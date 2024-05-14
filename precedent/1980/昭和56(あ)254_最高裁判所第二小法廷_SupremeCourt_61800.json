@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 6,
+    "day": 5
+  },
+  "case_number": "昭和56(あ)254",
+  "case_name": "爆発物取締罰則違反、兇器準備集合、公務執行妨害",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第222号31頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 1,
+    "day": 29
+  },
+  "gist": "爆発物取締罰則が違憲無効である旨の上告趣意を不適法とした事例",
+  "ref_law": "憲法11条，憲法13条，憲法14条，憲法19条，憲法21条，憲法31条，憲法36条，爆発則",
+  "lawsuit_id": "61800",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61800",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/800/061800_hanrei.pdf"
+}

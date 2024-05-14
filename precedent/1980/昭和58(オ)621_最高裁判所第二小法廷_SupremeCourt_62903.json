@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 5,
+    "day": 30
+  },
+  "case_number": "昭和58(オ)621",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集民　第148号139頁",
+  "original_court_name": "高松高等裁判所",
+  "original_case_number": "昭和53(ネ)75",
+  "original_date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 3,
+    "day": 22
+  },
+  "gist": "昭和四五年一〇月出生した極小未熟児の眼底検査をした眼科医師に検査結果についての告知説明義務がないとされた事例",
+  "case_gist": "昭和四五年一〇月出生した極小未熟児の診療が行われた同年一一月ころ当時、光凝固法は臨床医学の実践における医療水準としては未熟児網膜症の有効な治療方法として確立されておらず、担当の眼科医師も有効な治療方法と結びついた眼底検査の必要性を認識していなかつたなど判示の事実関係のもとにおいては、眼底検査につき同児の両親の要求を受けた小児科医師から依頼があつたとしても、右眼科医師に検査結果についての告知説明義務はない。",
+  "ref_law": "民法415条，民法709条，民法715条",
+  "lawsuit_id": "62903",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62903",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/903/062903_hanrei.pdf"
+}

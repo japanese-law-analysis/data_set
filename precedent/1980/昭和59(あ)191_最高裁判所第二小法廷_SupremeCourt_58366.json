@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 2,
+    "day": 1
+  },
+  "case_number": "昭和59(あ)191",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第239号11頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 1,
+    "day": 20
+  },
+  "gist": "捜査及び起訴の差別的取扱を理由とする憲法一四条、三一条違反の主張が理由なしとして排斥された事例",
+  "ref_law": "憲法14条，憲法31条",
+  "lawsuit_id": "58366",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58366",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/366/058366_hanrei.pdf"
+}

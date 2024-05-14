@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 4,
+    "day": 18
+  },
+  "case_number": "昭和58(オ)1199",
+  "case_name": "求償債権",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第147号557頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和58(ネ)113",
+  "original_date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 6,
+    "day": 29
+  },
+  "gist": "受寄者の復受寄者に対する出荷停止の指図がその間の定めによれば無効である場合に復受寄者のした出荷と寄託者に対する債務不履行の成否",
+  "case_gist": "受寄者が復受寄者に対してした電話による出荷停止の指図がその間の寄託契約に適用される復受寄者の倉庫寄託約款の定めによれば方式違背として無効である場合には、復受寄者が右指図に反してした出荷は、寄託者に対する関係においても債務不履行とはならない。",
+  "ref_law": "民法107条2項，民法658条2項",
+  "lawsuit_id": "62294",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62294",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/294/062294_hanrei.pdf"
+}

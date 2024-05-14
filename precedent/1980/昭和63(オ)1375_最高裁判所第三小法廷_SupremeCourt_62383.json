@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 2,
+    "day": 7
+  },
+  "case_number": "昭和63(オ)1375",
+  "case_name": "損害賠償請求事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第156号215頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和62(ネ)3356",
+  "original_date": {
+    "era": "Showa",
+    "year": 63,
+    "month": 6,
+    "day": 20
+  },
+  "gist": "口頭弁論調書の謄本交付申請と交付すべき書類の範囲",
+  "case_gist": "口頭弁論調書の謄本交付申請がされた場合には、その申請の趣旨が基本調書部分若しくは証拠関係調書部分のみ又は基本調書と証拠関係調書の一部のみ（抄本）の交付を求めるにあると解されるときを除き、基本調書だけでなくこれと一体をなす証拠関係調書を合わせた口頭弁論調書全部の謄本を交付すべきである。",
+  "ref_law": "民訴法142条，民訴法143条，民訴法144条，民訴法151条3項，民訴法151条4項，民訴規則9条",
+  "lawsuit_id": "62383",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62383",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/383/062383_hanrei.pdf"
+}

@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 11,
+    "day": 6
+  },
+  "case_number": "昭和53(あ)787",
+  "case_name": "詐欺、住居侵入、強盗殺人、遺失物横領、窃盗",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第220号63頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 3,
+    "day": 31
+  },
+  "gist": "死刑事件\n\n著名事件\n\n第一審判決の主文が死刑と懲役刑であり、上告審における未決勾留は前者を本刑とするもののみである場合に、右未決勾留日数を後者の刑期に満ちるまで算入した事例―いわゆる寝屋川若夫婦強殺事件―",
+  "ref_law": "刑法21条",
+  "lawsuit_id": "58107",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58107",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/107/058107_hanrei.pdf"
+}

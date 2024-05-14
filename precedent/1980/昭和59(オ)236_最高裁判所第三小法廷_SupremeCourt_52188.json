@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 63,
+    "month": 3,
+    "day": 1
+  },
+  "case_number": "昭和59(オ)236",
+  "case_name": "養子縁組無効確認請求事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第42巻3号157頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和58(ネ)2000",
+  "original_date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 11,
+    "day": 17
+  },
+  "gist": "第三者の提起する養子縁組無効の訴えと訴えの利益の有無",
+  "case_gist": "第三者の提起する養子縁組無効の訴えは、養子縁組が無効であることによりその者が自己の身分関係に関する地位に直接影響を受けないときは、訴えの利益を欠く。",
+  "ref_law": "民法802条，民訴法225条，人事訴訟手続法2条2項，人事訴訟手続法18条1項，人事訴訟手続法24条，人事訴訟手続法26条",
+  "lawsuit_id": "52188",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52188",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/188/052188_hanrei.pdf"
+}

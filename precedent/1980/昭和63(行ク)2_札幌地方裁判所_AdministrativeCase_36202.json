@@ -1,0 +1,19 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Showa",
+    "year": 63,
+    "month": 7,
+    "day": 22
+  },
+  "case_number": "昭和63(行ク)2",
+  "case_name": "債権仮差押申請事件",
+  "court_name": "札幌地方裁判所",
+  "field": "行政",
+  "gist": "普通地方公共団体の住民は，地方自治法２４２条の２第１項４号に基づく損害賠償の代位請求権を被保全権利として，債権仮差押えを求めることはできるか",
+  "case_gist": "普通地方公共団体の住民は，地方自治法２４２条の２第１項４号に基づく損害賠償の代位請求権を被保全権利として，債権仮差押えを求めることはできない。",
+  "lawsuit_id": "36202",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=36202",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/202/036202_hanrei.pdf",
+  "contents": ""
+}

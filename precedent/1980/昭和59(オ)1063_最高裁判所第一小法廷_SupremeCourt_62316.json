@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 63,
+    "month": 6,
+    "day": 16
+  },
+  "case_number": "昭和59(オ)1063",
+  "case_name": "保険金請求事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第154号177頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和58(ネ)2174",
+  "original_date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 6,
+    "day": 27
+  },
+  "gist": "貨物自動車の荷降ろし作業中に生じた人身事故が自動車損害賠償保障法二条二項にいう「自動車を当該装置の用い方に従い用いること」によつて生じたものとされた事例",
+  "case_gist": "荷台上にフォークリフトのフォーク挿入用の枕木等が設置してある木材運搬専用の普通貨物自動車に積載してきた木材の荷降ろし作業において、フォークリフトのフォークを右枕木により生じている木材と荷台との間隙に挿入した上、フォークリフトを操作して右木材を荷台上から反対側の材木置場に突き落としたことにより発生した人身事故は、「自動車を当該装置の用い方に従い用いること」によつて生じたものということができる。",
+  "ref_law": "自動車損害賠償保障法2条2項，自動車損害賠償保障法3条",
+  "lawsuit_id": "62316",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62316",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/316/062316_hanrei.pdf"
+}

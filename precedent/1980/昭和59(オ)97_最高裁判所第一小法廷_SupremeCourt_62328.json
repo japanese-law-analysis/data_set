@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 3,
+    "day": 29
+  },
+  "case_number": "昭和59(オ)97",
+  "case_name": "人身保護",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第141号499頁",
+  "original_court_name": "名古屋地方裁判所",
+  "original_case_number": "昭和58(人)5",
+  "original_date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 12,
+    "day": 26
+  },
+  "gist": "子の監護に関する審判前の保全処分と人身保護請求",
+  "case_gist": "破綻に瀕している夫婦の一方が他方に対し子の引渡を求めるについて、家庭裁判所に子の監護者指定の審判を申し立て、家事審判規則五二条の二に従い子の引渡の仮処分を申請する方法があるとしても、そのことは、人身保護法による子の引渡請求を妨げるものではない。",
+  "ref_law": "人身保護規則4条但書，家事審判規則52条の2",
+  "lawsuit_id": "62328",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62328",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/328/062328_hanrei.pdf"
+}

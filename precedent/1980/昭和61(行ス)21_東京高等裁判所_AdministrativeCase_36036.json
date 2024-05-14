@@ -1,0 +1,18 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 9,
+    "day": 4
+  },
+  "case_number": "昭和61(行ス)21",
+  "case_name": "被告変更申立却下決定に対する即時抗告事件（原審・前橋地方裁判所昭和６１年（行ク）第２号）",
+  "court_name": "東京高等裁判所",
+  "field": "行政",
+  "gist": "地方自治法１５３条１項に基づき，急傾斜地の崩壊による災害の防止に関する法律７条１項による許可処分権限が県知事から県土木事務所長に委任されている場合に，同条同項に基づく許可処分及び許可更新処分の各取消訴訟の被告とすべき者を知事であると誤ったことにつき，原告及び訴訟代理人に故意又は重大な過失はないとして，被告変更の申立てを却下した原決定を取り消し，これを認容した事例",
+  "lawsuit_id": "36036",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=36036",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/036/036036_hanrei.pdf",
+  "contents": ""
+}

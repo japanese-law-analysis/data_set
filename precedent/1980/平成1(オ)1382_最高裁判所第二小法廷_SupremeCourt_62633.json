@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 12,
+    "day": 22
+  },
+  "case_number": "平成1(オ)1382",
+  "case_name": "所有権移転登記手続",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第158号845頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和62(ネ)2093",
+  "original_date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 6,
+    "day": 30
+  },
+  "gist": "権利能力なき社団等が法人格を取得した場合と民法一八七条一項",
+  "case_gist": "民法一八七条一項は、権利能力なき社団等の占有する不動産を法人格を取得した以後当該法人が引き継いで占有している場合にも適用がある。",
+  "ref_law": "民法33条，民法187条1項",
+  "lawsuit_id": "62633",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62633",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/633/062633_hanrei.pdf"
+}

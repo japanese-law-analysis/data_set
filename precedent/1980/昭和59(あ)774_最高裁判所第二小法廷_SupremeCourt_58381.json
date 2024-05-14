@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 7,
+    "day": 14
+  },
+  "case_number": "昭和59(あ)774",
+  "case_name": "有印私文書偽造、同行使、詐欺未遂、殺人、死体遺棄、窃盗",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第243号287頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 5,
+    "day": 28
+  },
+  "gist": "いわゆる大津　女子行員殺害事件",
+  "lawsuit_id": "58381",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58381",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/381/058381_hanrei.pdf"
+}

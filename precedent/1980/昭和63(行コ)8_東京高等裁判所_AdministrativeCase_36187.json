@@ -1,0 +1,19 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Showa",
+    "year": 63,
+    "month": 6,
+    "day": 27
+  },
+  "case_number": "昭和63(行コ)8",
+  "case_name": "事業認可取消請求控訴事件（原審・水戸地方裁判所昭和６１年（行ウ）第５号）",
+  "court_name": "東京高等裁判所",
+  "field": "行政",
+  "gist": "市の施行する土地区画整理事業の事業計画において定める設計の概要について，土地区画整理法５２条１項に基づき，知事がした認可は，抗告訴訟の対象となる行政処分に当たるか",
+  "case_gist": "市の施行する土地区画整理事業の事業計画において定める設計の概要について，土地区画整理法５２条１項に基づき，知事がした認可は，抗告訴訟の対象となる行政処分に当たらない。",
+  "lawsuit_id": "36187",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=36187",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/187/036187_hanrei.pdf",
+  "contents": ""
+}

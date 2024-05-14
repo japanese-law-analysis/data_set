@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 11,
+    "day": 27
+  },
+  "case_number": "昭和54(オ)1298",
+  "case_name": "退職金",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第34巻6号815頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 9,
+    "day": 28
+  },
+  "gist": "死亡退職金の受給権が相続財産に属さず受給権者である遺族固有の権利であるとされた事例",
+  "case_gist": "死亡退職金の支給等を定めた特殊法人の規程に、死亡退職金の支給を受ける者の第一順位は内縁の配偶者を含む配偶者であつて、配偶者があるときは子は全く支給を受けないことなど、受給権者の範囲、順位につき民法の規定する相続人の順位決定の原則とは異なる定め方がされている場合には、右死亡退職金の受給権は、相続財産に属さず、受給権者である遺族固有の権利である。",
+  "ref_law": "労働基準法23条，民法896条",
+  "lawsuit_id": "53352",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53352",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/352/053352_hanrei.pdf"
+}

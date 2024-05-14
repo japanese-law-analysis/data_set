@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 12,
+    "day": 22
+  },
+  "case_number": "昭和56(オ)857",
+  "case_name": "売買代金",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第134号617頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和55(ネ)2599",
+  "original_date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 5,
+    "day": 14
+  },
+  "gist": "会社更生法一〇三条の規定に基づく履行請求が排斥された事例",
+  "case_gist": "自動車販売会社が、買主において売買代金債務若しくは求償金債務を完済したときに所有権が買主に移転するとの約定で自動車を販売し、かつ、売買代金支払のため融資を受けた買主の金融機関に対する借受金債務につき連帯保証したところ、買主である株式会社について更生手続開始決定がされたのち、自動車販売会社において買主の金融機関に対する借受金債務を代位弁済して、買主に対し求償債権を取得した場合において、買主の求償金債務と自動車販売会社の自動車の所有権移転債務とは、会社更生法一〇三条所定の双務契約の関係にあるとはいえず、自動車販売会社の買主に対する右求償金債務の履行請求について同条の適用はない。",
+  "ref_law": "会社更生法103条",
+  "lawsuit_id": "66906",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66906",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/906/066906_hanrei.pdf"
+}

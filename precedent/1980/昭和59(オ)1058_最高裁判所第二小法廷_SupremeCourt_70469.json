@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 2,
+    "day": 6
+  },
+  "case_number": "昭和59(オ)1058",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第150号75頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和57(ネ)1929",
+  "original_date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 5,
+    "day": 30
+  },
+  "gist": "一　公立学校における教師の教育活動と国家賠償法一条一項にいう「公権力の行使」\n\n二　損害賠償請求権者が一時金による支払を訴求している場合と定期金による支払を命ずる判決の許否",
+  "case_gist": "一　国家賠償法一条一項にいう「公権力の行使」には、公立学校における教師の教育活動も含まれる。\n\n二　損害賠償請求権者が訴訟上一時金による支払を求めている場合には、定期金による支払を命ずる判決をすることはできない。",
+  "ref_law": "国家賠償法1条1項，民法417条，民法722条1項",
+  "lawsuit_id": "70469",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70469",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/469/070469_hanrei.pdf"
+}

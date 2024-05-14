@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 2,
+    "day": 14
+  },
+  "case_number": "昭和54(行ツ)67",
+  "case_name": "選挙無効審査申立棄却、裁決取消",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第129号197頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和52(行ケ)4",
+  "original_date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 2,
+    "day": 27
+  },
+  "gist": "公職選挙法二〇五条一項にいう「選挙の規定に違反するとき」の意義",
+  "case_gist": "公職選挙法二〇五条一項にいわゆる選挙無効の要件としての「選挙の規定に違反するとき」とは、主として選挙管理の任にある機関による違反をいうものである。",
+  "ref_law": "公職選挙法205条1項",
+  "lawsuit_id": "64341",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64341",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/341/064341_hanrei.pdf"
+}

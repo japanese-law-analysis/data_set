@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 4,
+    "day": 23
+  },
+  "case_number": "昭和61(オ)264",
+  "case_name": "第三者異議",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第41巻3号474頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和59(ネ)2708",
+  "original_date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 12,
+    "day": 17
+  },
+  "gist": "一　遺言執行者がある場合と遺贈の目的物についての受遺者の第三者に対する権利行使\n\n二　民法一〇一三条に違反してされた相続人の処分行為の効力\n\n三　遺言執行者として指定された者が就職を承諾する前と民法一〇一三条にいう「遺言執行者がある場合」",
+  "case_gist": "一　遺言者の所有に属する特定の不動産の受遺者は、遺言執行者があるときでも、所有権に基づき、右不動産についてされた無効な抵当権に基づく担保権実行としての競売手続の排除を求めることができる。\n\n二　遺言執行者がある場合には、相続人が遺贈の目的物についてした処分行為は無効である。\n\n三　遺言執行者として指定された者が就職を承諾する前であつても、民法一〇一三条にいう「遺言執行者がある場合」に当たる。",
+  "ref_law": "民法1012条，民法1013条，民事執行法38条，民事執行法194条",
+  "lawsuit_id": "55214",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55214",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/214/055214_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 10,
+    "day": 23
+  },
+  "case_number": "昭和57(あ)621",
+  "case_name": "福岡県青少年保護育成条例違反",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第39巻6号413頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 3,
+    "day": 29
+  },
+  "gist": "一　福岡県青少年保護育成条例一〇条一項、一六条一項の規定と憲法三一条\n二　福岡県青少年保護育成条例一〇条一項の規定にいう「淫行」の意義",
+  "case_gist": "一　一八歳未満の青少年に対する「淫行」を禁止処罰する福岡県青少年保護育成条例一〇条一項、一六条一項の規定は、憲法三一条に違反しない。\n二　福岡県青少年保護育成条例一〇条一項の規定にいう「淫行」とは、青少年を誘惑し、威迫し、欺罔し又は困惑させる等その心身の未成熟に乗じた不当な手段により行う性交又は性交類似行為のほか、青少年を単に自己の性的欲望を満足させるための対象として扱つているとしか認められないような性交又は性交類似行為をいうものと解すべきである。",
+  "ref_law": "福岡県青少年保護育成条例10条1項、16条1項，憲法31条",
+  "lawsuit_id": "50269",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50269",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/269/050269_hanrei.pdf"
+}

@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 1,
+    "day": 30
+  },
+  "case_number": "昭和59(あ)1566",
+  "case_name": "殺人、恐喝未遂、恐喝",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "その他",
+  "article_info": "集刑　第251号189頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 9,
+    "day": 4
+  },
+  "gist": "いわゆる別府三億円保険金殺人事件の上告審結果（被告人死亡による公訴棄却）",
+  "lawsuit_id": "58362",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58362",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/362/058362_hanrei.pdf"
+}

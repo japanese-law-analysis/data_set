@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 12,
+    "day": 21
+  },
+  "case_number": "昭和53(オ)1470",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集民　第143号491頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和52(ネ)861",
+  "original_date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 10,
+    "day": 17
+  },
+  "gist": "新築されたビルに隣接する家屋の所有者がいわゆるビル風による被害発生を予防するための工事に要した費用の出捐と民法七一七条の損害発生の有無",
+  "case_gist": "新築されたビルに隣接する家屋の所有者が、将来いわゆるビル風により右家屋に被害を生ずるおそれがあるとして、これを予防するための工事を施したとしても、右工事を施さざるをえない特段の事情のない限り、右工事のために費用を出捐したことをもつて、右ビルの設置又は保存の瑕疵によつて損害を生じたものということはできない。",
+  "ref_law": "民法717条",
+  "lawsuit_id": "62857",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62857",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/857/062857_hanrei.pdf"
+}

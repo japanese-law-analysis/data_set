@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 11,
+    "day": 13
+  },
+  "case_number": "昭和56(オ)572",
+  "case_name": "離婚等",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第134号221頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和55(ネ)1360",
+  "original_date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 3,
+    "day": 20
+  },
+  "gist": "離婚判決における親権者指定の脱漏と上告理由の当否",
+  "case_gist": "離婚判決に親権者指定の脱漏があつた場合には、当該判決をした裁判所が追加判決をすれば足り、右脱漏は、上告適法の理由にあたらない。",
+  "ref_law": "民訴法195条1項，人事訴訟手続法15条3項，人事訴訟手続法15条5項，民法819条2項",
+  "lawsuit_id": "66898",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66898",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/898/066898_hanrei.pdf"
+}

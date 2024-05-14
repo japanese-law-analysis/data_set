@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 11,
+    "day": 12
+  },
+  "case_number": "昭和57(行ツ)15",
+  "case_name": "審決取消",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第36巻11号2233頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和53(行ケ)216",
+  "original_date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 11,
+    "day": 5
+  },
+  "gist": "株式会社の商号と商標法四条一項八号",
+  "case_gist": "株式会社の商号から株式会社の文字を除いた部分は商標法四条一項八号にいう「他人の名称の略称」にあたり、右のような略称を含む商標は、右略称が当該株式会社を表示するものとして「著名」であるときに限り、商標登録を受けることができない。",
+  "ref_law": "商標法4条1項8号",
+  "lawsuit_id": "55187",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55187",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/187/055187_hanrei.pdf"
+}

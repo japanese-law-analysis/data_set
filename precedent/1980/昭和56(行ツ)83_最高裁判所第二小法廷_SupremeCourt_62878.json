@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 11,
+    "day": 26
+  },
+  "case_number": "昭和56(行ツ)83",
+  "case_name": "弁済供託申請却下処分取消",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第143号205頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和55(行コ)67",
+  "original_date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 1,
+    "day": 29
+  },
+  "gist": "供託申請についての供託官の審査権限の範囲",
+  "case_gist": "供託申請についての供託官の審査権限は、供託書及び添付書類のみに基づいてするいわゆる形式的審査の範囲にとどまるが、その審査の対象は、手続的要件に限られるものではなく、供託原因の存否等の実体的要件にも及ぶ。",
+  "ref_law": "供託法2条，供託規則13条，供託規則18条，供託規則38条",
+  "lawsuit_id": "62878",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62878",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/878/062878_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 63,
+    "month": 3,
+    "day": 17
+  },
+  "case_number": "昭和61(あ)390",
+  "case_name": "道路交通法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第42巻3号403頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 3,
+    "day": 5
+  },
+  "gist": "赤色警光灯をつけずに最高速度を超過して追尾したことによつて得られた速度測定結果の証拠能力",
+  "case_gist": "パトカーが赤色警光灯をつけずに最高速度を超過して速度違反車両を追尾した場合においても、警察官に速度違反の罪の成立することがあるのは格別、追尾によつて得られた速度測定結果を内容とする証拠の証拠能力の否定に結びつくような性質の違法はない。",
+  "ref_law": "刑訴法1条，刑訴法197条1項，道路交通法22条1項，道路交通法41条2項，道路交通法施行令14条",
+  "lawsuit_id": "50344",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50344",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/344/050344_hanrei.pdf"
+}

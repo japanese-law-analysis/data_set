@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 1,
+    "day": 20
+  },
+  "case_number": "昭和61(あ)1140",
+  "case_name": "公衆浴場法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第43巻1号1頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 8,
+    "day": 28
+  },
+  "gist": "公衆浴場法二条二項、大阪府公衆浴場法施行条例二条の各規定と憲法二二条一項",
+  "case_gist": "公衆浴場法二条二項及び大阪府公衆浴場法施行条例二条の各規定は、憲法二二条一項に違反しない。",
+  "ref_law": "憲法22条1項，公衆浴場法2条2項，大阪府公衆浴場法施行条例2条",
+  "lawsuit_id": "50334",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50334",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/334/050334_hanrei.pdf"
+}

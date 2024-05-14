@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 10,
+    "day": 12
+  },
+  "case_number": "昭和62(あ)951",
+  "case_name": "道路交通法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第247号109頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 7,
+    "day": 6
+  },
+  "gist": "速度違反の禁止処罰と高速度走行の可能な車両の製造・販売を禁止処罰しないことは関係がないとして違憲（一四条）の主張が前提を欠くとされた事例",
+  "ref_law": "憲法14条，道交法22条1項，道交法118条1項2号",
+  "lawsuit_id": "58478",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58478",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/478/058478_hanrei.pdf"
+}

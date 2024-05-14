@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 63,
+    "month": 11,
+    "day": 21
+  },
+  "case_number": "昭和60(あ)714",
+  "case_name": "恐喝、商法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第42巻9号1251頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 5,
+    "day": 7
+  },
+  "gist": "図利加害の意欲ないし積極的認容と特別背任罪における図利加害目的",
+  "case_gist": "特別背任罪における図利加害目的の存在を肯認するには、図利加害の意欲ないし積極的認容までを要するものではない。",
+  "ref_law": "商法486条1項（昭和56年法律74号による改正前のもの），刑法247条",
+  "lawsuit_id": "50331",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50331",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/331/050331_hanrei.pdf"
+}

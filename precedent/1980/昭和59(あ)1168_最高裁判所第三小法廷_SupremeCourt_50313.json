@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 7,
+    "day": 7
+  },
+  "case_number": "昭和59(あ)1168",
+  "case_name": "出資の受入、預り金及び金利等の取締等に関する法律違反、窃盗",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第43巻7号607頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 7,
+    "day": 3
+  },
+  "gist": "自動車金融により所有権を取得した貸主による自動車の引揚行為と窃盗罪の成否",
+  "case_gist": "買戻約款付自動車売買契約により自動車金融をしていた貸主が、借主の買戻権喪失により自動車の所有権を取得した後、借主の事実上の支配内にある自動車を承諾なしに引き揚げた行為は、刑法二四二条にいう他人の占有に属する物を窃取したものとして窃盗罪を構成する。",
+  "ref_law": "刑法235条，刑法242条",
+  "lawsuit_id": "50313",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50313",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/313/050313_hanrei.pdf"
+}

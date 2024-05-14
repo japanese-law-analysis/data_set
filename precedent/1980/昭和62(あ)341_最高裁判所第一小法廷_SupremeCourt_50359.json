@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 9,
+    "day": 30
+  },
+  "case_number": "昭和62(あ)341",
+  "case_name": "封印破棄、不動産侵奪、傷害",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第41巻6号297頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 2,
+    "day": 19
+  },
+  "gist": "有効な差押の標示として刑法９６条の罪の客体になるとされた事例",
+  "case_gist": "執行官により立てられ、その後何者かにより包装紙で覆われその上からビニールひもが掛けられていて、そのままでは記載内容を知ることができない公示札であつても、容易にこれらを除去して記載内容を明らかにすることができる状態にあるときは、有効な差押の標示として刑法九六条の罪の客体になる。",
+  "ref_law": "刑法96条",
+  "lawsuit_id": "50359",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50359",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/359/050359_hanrei.pdf"
+}

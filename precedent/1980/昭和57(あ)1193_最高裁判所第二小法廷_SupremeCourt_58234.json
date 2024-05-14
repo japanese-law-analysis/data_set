@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 1,
+    "day": 21
+  },
+  "case_number": "昭和57(あ)1193",
+  "case_name": "恐喝、同未遂",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第245号1頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 6,
+    "day": 28
+  },
+  "gist": "いわゆるユーザーユニオン事件",
+  "ref_law": "刑法249条1項，刑法250条",
+  "lawsuit_id": "58234",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58234",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/234/058234_hanrei.pdf"
+}

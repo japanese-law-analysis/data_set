@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 10,
+    "day": 25
+  },
+  "case_number": "昭和55(行ツ)150",
+  "case_name": "法人税更正処分取消",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第143号75頁",
+  "original_court_name": "福岡高等裁判所\n        　宮崎支部",
+  "original_case_number": "昭和51(行コ)1",
+  "original_date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 9,
+    "day": 29
+  },
+  "gist": "同族会社とその系列会社との間の取引が法人税法一三二条一項にいう「法人の行為又は計算で、これを容認した場合には法人税の負担を不当に減少させる結果となると認められるものがあるとき」にあたるとされた事例",
+  "case_gist": "建設資材の製造、販売等を営む同族会社が系列会社に対しその製品を販売した取引につき、販売価額が通常の販売価額の五六ないし五七パーセントで製造原価をも下回るものであるなど原審認定の事実関係（原判決理由参照）があるときは、右取引は、経済的取引として不合理不自然であり、法人税法一三二条一項にいう「法人の行為又は計算で、これを容認した場合には法人税の負担を不当に減少させる結果となると認められるものがあるとき」にあたる。",
+  "ref_law": "法人税法132条1項",
+  "lawsuit_id": "62862",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62862",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/862/062862_hanrei.pdf"
+}

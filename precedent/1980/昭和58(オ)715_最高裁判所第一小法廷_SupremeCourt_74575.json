@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 12,
+    "day": 8
+  },
+  "case_number": "昭和58(オ)715",
+  "case_name": "家賃額確認等",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第140号631頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和57(ネ)1059",
+  "original_date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 1,
+    "day": 25
+  },
+  "gist": "Ｄ公団と賃借人との間の公団住宅賃貸借契約と借家法七条一項の適用の有無",
+  "case_gist": "Ｄ公団と賃借人との間の公団住宅賃貸借契約については、借家法七条一項の規定の適用がある。",
+  "ref_law": "借家法7条1項，日本住宅公団法施行規則9条2項",
+  "lawsuit_id": "74575",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74575",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/575/074575_hanrei.pdf"
+}

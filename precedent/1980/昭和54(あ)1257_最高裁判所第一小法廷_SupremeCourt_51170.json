@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 11,
+    "day": 7
+  },
+  "case_number": "昭和54(あ)1257",
+  "case_name": "廃棄物の処理及び清掃に関する法律違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第34巻6号381頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 6,
+    "day": 25
+  },
+  "gist": "産業廃棄物処理業を営む協同組合の業務に関し廃棄物の処理及び清掃に関する法律（昭和五一年法律第六八号による改正前のもの）二五条の違反行為をした同組合代表者の処罰と同法二九条の適用の要否",
+  "case_gist": "産業廃棄物処理業を営む協同組合の業務に関し廃棄物の処理及び清掃に関する法律（昭和五一年法律第六八号による改正前のもの）二五条の違反行為をした同組合代表者を処罰するにあたつては、同条のほか同法二九条をも適用すべきである。",
+  "ref_law": "廃棄物の処理及び清掃に関する法律（昭和51年法律68号による改正前のもの）14条1項，廃棄物の処理及び清掃に関する法律（昭和51年法律68号による改正前のもの）25条，廃棄物の処理及び清掃に関する法律（昭和51年法律68号による改正前のもの）29条",
+  "lawsuit_id": "51170",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51170",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/170/051170_hanrei.pdf"
+}

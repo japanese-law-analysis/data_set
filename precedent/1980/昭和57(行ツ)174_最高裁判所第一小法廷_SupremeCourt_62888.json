@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 6,
+    "day": 21
+  },
+  "case_number": "昭和57(行ツ)174",
+  "case_name": "診療報酬請求に対する審査決定取消",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第142号225頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和57(行コ)19",
+  "original_date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 9,
+    "day": 16
+  },
+  "gist": "国民健康保険診療報酬審査委員会が行う国民健康保険法四五条五項の規定による療養取扱機関からの診療報酬請求に対する減点の措置及び国民健康保険法施行規則三〇条の規定による右減点の措置についての再度の考案の結果と抗告訴訟の対象性の有無",
+  "case_gist": "国民健康保険診療報酬審査委員会が行う国民健康保険法四五条五項の規定による療養取扱機関からの診療報酬請求に対する減点の措置及び国民健康保険法施行規則三〇条の規定による右減点の措置についての再度の考案の結果は、抗告訴訟の対象とならない。",
+  "ref_law": "国民健康保険法45条，国民健康保険法87条，国民健康保険法施行規則30条",
+  "lawsuit_id": "62888",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62888",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/888/062888_hanrei.pdf"
+}

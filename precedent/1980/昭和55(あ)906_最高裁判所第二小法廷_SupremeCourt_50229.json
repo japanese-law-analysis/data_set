@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 4,
+    "day": 8
+  },
+  "case_number": "昭和55(あ)906",
+  "case_name": "建造物侵入",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "刑集　第37巻3号215頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 3,
+    "day": 18
+  },
+  "gist": "一　刑法一三〇条前段にいう「侵入」の意義\n二　建造物の管理権者が立入り拒否の意思を積極的に明示していない場合と建造物侵入罪の成否",
+  "case_gist": "一　刑法一三〇条前段にいう「侵入シ」とは、他人の看守する建造物等に管理権者の意思に反して立ち入ることをいう。\n二　建造物の管理権者が予め立入り拒否の意思を積極的に明示していない場合であつても、該建造物の性質、使用目的、管理状況、管理権者の態度、立入りの目的などからみて、現に行われた立入り行為を管理権者が容認していないと合理的に判断されるときは、他に犯罪の成立を阻却すべき事情が認められない以上、建造物侵入罪の成立を免れない。",
+  "ref_law": "刑法130条前段",
+  "lawsuit_id": "50229",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50229",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/229/050229_hanrei.pdf"
+}

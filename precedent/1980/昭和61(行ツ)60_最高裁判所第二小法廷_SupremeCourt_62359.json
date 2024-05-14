@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 63,
+    "month": 12,
+    "day": 16
+  },
+  "case_number": "昭和61(行ツ)60",
+  "case_name": "損害賠償請求事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第155号365頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和60(行コ)19",
+  "original_date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 12,
+    "day": 24
+  },
+  "gist": "一部事務組合が地元住民の要請により宗教法人たる神社の境内入口まで通じている道路の改良工事を行い、その工事代金の支払のため公金を支出したことが憲法八九条に違反しないとされた事例",
+  "case_gist": "一部事務組合が地元住民の要請により公共施設である道路の改良工事を行いその工事代金の支払のため公金を支出した場合において、右道路が宗教法人たる神社の境内入口まで通じていて参詣のための通路としても利用されているところがら、右神社が右工事による利益を受けることとなるとしても、これをもつて、右公金の支出が、右神社に対し特別に財政的援助を与えるものとして憲法八九条に違反するということはできない。\n\n（反対意見がある。）",
+  "ref_law": "憲法89条，地方自治法242条の2",
+  "lawsuit_id": "62359",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62359",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/359/062359_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 4,
+    "day": 13
+  },
+  "case_number": "昭和60(行ツ)41",
+  "case_name": "近鉄特急料金認可処分取消等請求事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第156号499頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和57(行コ)10",
+  "original_date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 10,
+    "day": 30
+  },
+  "gist": "地方鉄道法（大正八年法律第五二号）二一条による地方鉄道業者の特別急行料金の改定（変更）の認可処分の取消訴訟と当該地方鉄道業者の路線の周辺に居住し通勤定期券を購入するなどしてその特別急行旅客列車を利用している者の原告適格",
+  "case_gist": "地方鉄道法（大正八年法律第五二号）二一条による地方鉄道業者の特別急行料金の改定（変更）の認可処分の取消訴訟につき、当該地方鉄道業者の路線の周辺に居住し通勤定期券を購入するなどしてその特別急行旅客列車を利用している者は、原告適格を有しない。",
+  "ref_law": "行政事件訴訟法9条，地方鉄道法（大正8年法律第52号）21条",
+  "lawsuit_id": "62349",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62349",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/349/062349_hanrei.pdf"
+}

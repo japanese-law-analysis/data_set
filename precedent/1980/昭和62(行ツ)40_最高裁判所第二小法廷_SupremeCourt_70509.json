@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 10,
+    "day": 30
+  },
+  "case_number": "昭和62(行ツ)40",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第152号121頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和61(行コ)61",
+  "original_date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 12,
+    "day": 24
+  },
+  "gist": "地方公共団体が国会議員の選挙について国会議員の選挙等の執行経費の基準に関する法律に定める基準額を超える経費を支出したことと地方財政再建促進特別措置法二四条二項にいう「負担金」支出の該当性",
+  "case_gist": "地方公共団体が、国会議員の選挙について、国会議員の選挙等の執行経費の基準に関する法律に定める基準額を超える経費の支出をした場合であつても、右法律の定める経費の基準が著しく不合理であつて到底経費の全額国庫負担を定めたものとはいえない限り、右超過支出をもつて直ちに地方財政再建促進特別措置法二四条二項にいう「負担金」の支出に当たるものということはできない。\n（反対意見がある。）",
+  "ref_law": "地方財政再建促進特別措置法24条2項，地方財政法10条の4第1号，地方財政法18条，国会議員の選挙等の執行経費の基準に関する法律18条1項，国会議員の選挙等の執行経費の基準に関する法律18条2項",
+  "lawsuit_id": "70509",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70509",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/509/070509_hanrei.pdf"
+}

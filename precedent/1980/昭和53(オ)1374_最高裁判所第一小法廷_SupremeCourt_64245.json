@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 6,
+    "day": 18
+  },
+  "case_number": "昭和53(オ)1374",
+  "case_name": "建物所有権保存登記抹消登記手続",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第133号135頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和51(ネ)2462",
+  "original_date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 8,
+    "day": 16
+  },
+  "gist": "共用設備が設置されている倉庫が建物の区分所有等に関する法律にいう専有部分にあたらないとは断じられないとされた事例",
+  "case_gist": "構造上他の建物部分と区分され、それ自体として独立の建物としての用途に供することができる外形を有する倉庫内の床から約二・〇五メートルの高さの部分に共用設備として大小の電気、水道等のパイプが通つている場合において、右共用設備の利用管理によつて右倉庫の排他的使用に格別の制限ないし障害を生じないときは、右倉庫は建物の区分所有等に関する法律にいう専有部分にあたる。",
+  "ref_law": "建物の区分所有等に関する法律ｌ条，建物の区分所有等に関する法律2条3項",
+  "lawsuit_id": "64245",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64245",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/245/064245_hanrei.pdf"
+}

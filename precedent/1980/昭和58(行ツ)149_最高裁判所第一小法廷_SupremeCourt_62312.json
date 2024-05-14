@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 63,
+    "month": 3,
+    "day": 10
+  },
+  "case_number": "昭和58(行ツ)149",
+  "case_name": "違法支出金補填請求事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集民　第153号491頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和57(行コ)70",
+  "original_date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 9,
+    "day": 30
+  },
+  "gist": "普通地方公共団体の議会の当該議会の議員を海外に派遣する権能",
+  "case_gist": "普通地方公共団体の議会は、当該普通地方公共団体の議決機関としての機能を適切に果たすために合理的な必要性があるときは、その裁量により議員を海外に派遣することができる。",
+  "ref_law": "地方自治法第2編第6章第2節",
+  "lawsuit_id": "62312",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62312",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/312/062312_hanrei.pdf"
+}

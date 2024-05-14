@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 12,
+    "day": 17
+  },
+  "case_number": "昭和60(あ)1255",
+  "case_name": "宅地建物取引業法違反、詐欺",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第241号521頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 9,
+    "day": 19
+  },
+  "gist": "宅地建物取引業者である法人の代表者がその法人の業務に関し、宅地建物取引業法四七条に違反する行為をしたときの罰条",
+  "ref_law": "宅建業法47条，宅建業法80条，宅建業法84条",
+  "lawsuit_id": "58390",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58390",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/390/058390_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 11,
+    "day": 20
+  },
+  "case_number": "昭和59(行ツ)17",
+  "case_name": "鉄砲登録申請却下処分取消",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第152号209頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和55(行コ)107",
+  "original_date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 10,
+    "day": 27
+  },
+  "gist": "銃砲刀剣類登録規則四条一項の法適合性",
+  "case_gist": "銃砲刀剣類登録規則四条一項が、銃砲刀剣類所持等取締法一四条一項の登録の対象となる古式銃砲の鑑定基準として、「日本製銃砲にあつてはおおむね慶応三年以前に製造されたもの、外国製銃砲にあつてはおおむね同年以前に我が国に伝来したもの」と定めていることは、同法一四条の委任の趣旨を逸脱するものではない。",
+  "ref_law": "銃砲刀剣類所持等取締法14条，銃砲刀剣類登録規則4条1項",
+  "lawsuit_id": "70478",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70478",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/478/070478_hanrei.pdf"
+}

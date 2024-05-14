@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 11,
+    "day": 19
+  },
+  "case_number": "昭和56(オ)903",
+  "case_name": "人身保護",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第134号237頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和56(人ナ)3",
+  "original_date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 8,
+    "day": 5
+  },
+  "gist": "離婚した夫が妻の実家から幼児を連れ出し実兄夫婦に預けていることが人身保護法及び人身保護規則にいう拘束にあたるとされた事例",
+  "case_gist": "離婚した夫が堺市の妻の実家から幼児を連れ出し北海道の実兄夫婦に預けるなど原判示のような事情のもとにおいては、右夫の行為は、人身保護法及び人身保護規則にいう拘束にあたる。",
+  "ref_law": "人身保護法2条，人身保護規則3条",
+  "lawsuit_id": "66910",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66910",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/910/066910_hanrei.pdf"
+}

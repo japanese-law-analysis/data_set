@@ -1,0 +1,21 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 6,
+    "day": 25
+  },
+  "case_number": "昭和58(オ)350",
+  "case_name": "離婚等請求事件に対する補助参加申立",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "却下",
+  "article_info": "集民　第139号241頁",
+  "gist": "補助参加申立却下決定後に同一理由に基づき再度の申立をすることの許否",
+  "case_gist": "補助参加申立却下決定確定後は、同一理由に基づく再度の補助参加申立をすることは許されない。",
+  "ref_law": "民訴法64条，民訴法207条",
+  "lawsuit_id": "62302",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62302",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/302/062302_hanrei.pdf"
+}

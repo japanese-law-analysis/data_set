@@ -1,0 +1,18 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 1,
+    "day": 30
+  },
+  "case_number": "昭和59(行ウ)51等",
+  "case_name": "料理飲食等消費税更正処分等取消請求事件",
+  "court_name": "大阪地方裁判所",
+  "field": "行政",
+  "gist": "飲食店経営者が納入すべき料理飲食等消費税の課税標準額の算定に当たり，現金売上額を，売上伝票に基づき毎日作成され本店に提出された事務所報告書等に記載の席料額に基づいて推計し，かつ，右現金売上額のうち課税対象外である免税売上額及び立替金額を，係争期間中の一部の基礎伝票の記載に基づいて算出した免税比率及び立替比率を用いて推計した方法が，合理的であるとされた事例",
+  "lawsuit_id": "35974",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=35974",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/974/035974_hanrei.pdf",
+  "contents": ""
+}

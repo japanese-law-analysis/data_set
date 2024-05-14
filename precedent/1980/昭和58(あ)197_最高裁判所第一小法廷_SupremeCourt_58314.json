@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 5,
+    "day": 12
+  },
+  "case_number": "昭和58(あ)197",
+  "case_name": "道路交通法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第231号195頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 1,
+    "day": 18
+  },
+  "gist": "「保護観察付執行猶予中の者」という社会的身分による差別であるという憲法一四条、三一条違反の主張が欠前提とされた事例",
+  "ref_law": "憲法14条，憲法31条，刑法25条2項，刑法25条の2",
+  "lawsuit_id": "58314",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58314",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/314/058314_hanrei.pdf"
+}

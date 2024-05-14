@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 11,
+    "day": 18
+  },
+  "case_number": "昭和59(オ)1367",
+  "case_name": "土地建物賃借権不存在確認",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集民　第149号115頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和59(ネ)618",
+  "original_date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 8,
+    "day": 30
+  },
+  "gist": "民法九四条二項の適用ないし類推適用がないとされた事例",
+  "case_gist": "甲が他から買い受けた建物につき乙名義で所有権移転登記を経由した後これを丙に賃貸してその引渡しを了した場合において、右建物が真実乙の所有であると信じていた丁が、これを乙から買い受けようとした戊に融資をして乙より右建物につき抵当権の設定を受け、その実行により自ら競落人となつて右建物の所有権を取得したときは、丁において右建物の所有者が甲であること及び甲・乙間の賃貸借契約締結の事実を知らなかつたとしても、丙は、右賃借権をもつて丁に対抗することができ、丙に対する関係では民法九四条二項を適用ないし類推適用する余地はないというべきである。",
+  "ref_law": "民法94条2項，借家法1条1項",
+  "lawsuit_id": "62926",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62926",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/926/062926_hanrei.pdf"
+}

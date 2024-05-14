@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 4,
+    "day": 8
+  },
+  "case_number": "昭和57(あ)560",
+  "case_name": "公職選挙法違反、補助金等に係る予算の執行の適正化に関する法律違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第37巻3号316頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 3,
+    "day": 24
+  },
+  "gist": "地方公共団体の長に選出された者に対しその者が犯した公職選挙法違反の罪につきその失職をもたらすこととなる刑を言い渡すことと憲法九三条二項",
+  "case_gist": "地方公共団体の長に選出された者に対し、その者が犯した公職選挙法違反の罪につきその失職をもたらすこととなる刑を言い渡しても、憲法九三条二項に違反するものではない。",
+  "ref_law": "憲法93条2項，公職選挙法252条，地方自治法143条1項",
+  "lawsuit_id": "50268",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50268",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/268/050268_hanrei.pdf"
+}

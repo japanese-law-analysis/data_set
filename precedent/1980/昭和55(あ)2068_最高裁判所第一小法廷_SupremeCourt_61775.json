@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 11,
+    "day": 9
+  },
+  "case_number": "昭和55(あ)2068",
+  "case_name": "覚せい剤取締法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第224号3頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 11,
+    "day": 25
+  },
+  "gist": "余罪を実質上処罰すべきものとする趣旨で量刑の資料としたものでないとして憲法三一条、三八条三項、三九条違反及び判例違反の主張が欠前提とされた事例",
+  "ref_law": "憲法31条，憲法38条3項，憲法39条",
+  "lawsuit_id": "61775",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61775",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/775/061775_hanrei.pdf"
+}

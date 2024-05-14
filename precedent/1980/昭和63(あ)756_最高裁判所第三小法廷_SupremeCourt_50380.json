@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 2,
+    "day": 17
+  },
+  "case_number": "昭和63(あ)756",
+  "case_name": "公正証書原本不実記載、同行使",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第43巻2号81頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 63,
+    "month": 5,
+    "day": 30
+  },
+  "gist": "官公署の不動産登記の嘱託と刑法一五七条一項にいう「申立」",
+  "case_gist": "不動産登記法三〇条、三一条に基づく官公署の登記の嘱託も、刑法一五七条一項にいう「申立」に当たる。",
+  "ref_law": "刑法157条1項，不動産登記法30条，不動産登記法31条",
+  "lawsuit_id": "50380",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50380",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/380/050380_hanrei.pdf"
+}

@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 11,
+    "day": 28
+  },
+  "case_number": "昭和54(あ)690",
+  "case_name": "わいせつ文書販売、同所持",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第220号331頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 3,
+    "day": 8
+  },
+  "gist": "刑法一七五条が憲法二一条に違反しないとされた事例\n\n原判決の説示が女性を不当に差別する思想に基づくとして違憲（憲法二四条二項違反）をいう主張が「欠前提」とされた事例\n\n大審院判例を引用する判例違反の主張がすでに最高裁判所の判例があるとして不適法とされた事例―いわゆる「ふたりのラブジユース」事件ー",
+  "ref_law": "憲法21条，憲法24条2項，刑法175条，刑訴法405条3号",
+  "lawsuit_id": "58128",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58128",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/128/058128_hanrei.pdf"
+}

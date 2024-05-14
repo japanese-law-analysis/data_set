@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 5,
+    "day": 23
+  },
+  "case_number": "昭和57(オ)1017",
+  "case_name": "求償金",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第39巻4号972頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "昭和56(ネ)305",
+  "original_date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 6,
+    "day": 30
+  },
+  "gist": "身元保証に関する法律五条に基づいて定められた賠償額を弁済した身元保証人から他の身元保証人に対してする求償請求を認容すべき限度",
+  "case_gist": "連帯保証の性質を有する身元保証をした甲乙二名のうち甲のみにつき身元保証に関する法律五条に基づいて賠償額が定められ、甲がこれを弁済したのち乙に求償請求をした場合には、裁判所は、同条により乙の賠償額を定め、これと甲の賠償額との合算額が主債務額を超えるときにおいてのみ、甲の弁済額のうち、主債務額をそれぞれの賠償額に応じて按分した甲の負担部分を超える金額について、甲の請求を認容すべきである。",
+  "ref_law": "身元保証に関する法律5条，民法465条1項",
+  "lawsuit_id": "52672",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52672",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/672/052672_hanrei.pdf"
+}

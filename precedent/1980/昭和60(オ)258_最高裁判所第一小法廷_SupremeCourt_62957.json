@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 11,
+    "day": 28
+  },
+  "case_number": "昭和60(オ)258",
+  "case_name": "賃金支払",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第146号165頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和58(ネ)2017",
+  "original_date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 11,
+    "day": 28
+  },
+  "gist": "賞与の支給日前に嘱託期間の満了により退職した会社の嘱託が当該賞与の受給権を有しないとされた事例",
+  "case_gist": "「賞与はその支給日に在籍している従業員及び嘱託に対してのみ支給する。ただし、賞与の計算期間中に在籍し支給日に在籍しない定年退職又は死亡退職の従業員及び死亡解嘱の嘱託に対しては当該賞与を支給する。」との慣行が存するときは、賞与の支給日前に嘱託期間の満了により退職した会社の嘱託は、当該賞与の計算期間中に在籍していても、当該賞与の受給権を有しない。",
+  "ref_law": "労働基準法24条",
+  "lawsuit_id": "62957",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62957",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/957/062957_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 12,
+    "day": 17
+  },
+  "case_number": "昭和56(オ)477",
+  "case_name": "求償金",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第36巻12号2399頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和55(ネ)951",
+  "original_date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 2,
+    "day": 27
+  },
+  "gist": "民法四四三条一項の事前の通知を怠つた連帯債務者が同条二項の規定により自己の免責行為を有効であるとみなすことの可否",
+  "case_gist": "連帯債務者の一人が弁済その他の免責の行為をするに先立ち他の連帯債務者に対し民法四四三条一項の通知をすることを怠つた場合は、既に弁済その他により共同の免責を得ていた他の連帯債務者に対し、同条二項の規定により自己の免責行為を有効であるとみなすことはできない。",
+  "ref_law": "民法443条",
+  "lawsuit_id": "55175",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55175",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/175/055175_hanrei.pdf"
+}

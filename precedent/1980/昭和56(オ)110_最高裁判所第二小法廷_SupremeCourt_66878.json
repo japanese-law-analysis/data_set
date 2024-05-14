@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 1,
+    "day": 22
+  },
+  "case_number": "昭和56(オ)110",
+  "case_name": "遺言不存在確認等",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第135号155頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和55(ネ)1159",
+  "original_date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 11,
+    "day": 14
+  },
+  "gist": "嘱託人の確認手続に関する記載に誤りがある遺言公正証書の効力が認められた事例",
+  "case_gist": "遺言公正証書には、公証人が遺言者から印鑑証明書を提出させたとの記載がありながら、その印鑑証明書が連綴されていない場合でも、その作成にあたり民法九六九条に定める方式に則り証人二人が遺言を確認し、遺言者本人が署名押印したことが証書の記載によつて明らかにされており、かつ、公証人が遺言者の氏名を知り、面識があつてその確認手続において欠けることのなかつたことが、右遺言公正証書の作成の直前に同じ公証人の作成した別の公正証書の記載によつて明らかにされているときは、右遺言公正証書は、その効力を認めて妨げない。",
+  "ref_law": "民法969条，公証人法2条，公証人法28条，公証人法36条4号，公証人法36条6号，公証人法41条1項",
+  "lawsuit_id": "66878",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66878",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/878/066878_hanrei.pdf"
+}

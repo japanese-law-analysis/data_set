@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 12,
+    "day": 12
+  },
+  "case_number": "昭和59(あ)591",
+  "case_name": "殺人、死体遺棄",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第238号325頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 3,
+    "day": 29
+  },
+  "gist": "公判途中二六年余の逃亡と刑法三二条、刑訴法三三七条の類推適用の有無",
+  "ref_law": "刑法32条，刑訴法337条",
+  "lawsuit_id": "61848",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61848",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/848/061848_hanrei.pdf"
+}

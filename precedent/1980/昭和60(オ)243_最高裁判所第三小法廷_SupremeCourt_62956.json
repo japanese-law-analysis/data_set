@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 7,
+    "day": 2
+  },
+  "case_number": "昭和60(オ)243",
+  "case_name": "約束手形金及び預託金返還",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第145号125頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "昭和56(ネ)228",
+  "original_date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 11,
+    "day": 30
+  },
+  "gist": "手形債権の一部の指名債権譲渡の方法による譲渡の効力",
+  "case_gist": "手形債権の金額的一部の指名債権譲渡の方法による譲渡は、無効である。",
+  "ref_law": "手形法12条2項，手形法77条1項，民法466条",
+  "lawsuit_id": "62956",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62956",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/956/062956_hanrei.pdf"
+}

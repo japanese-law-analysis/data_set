@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 11,
+    "day": 24
+  },
+  "case_number": "昭和57(オ)1005",
+  "case_name": "土地所有権移転登記抹消登記手続等",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第140号473頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和56(ネ)1638",
+  "original_date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 5,
+    "day": 25
+  },
+  "gist": "第一審における民訴法一八七条三項違背と控訴理由",
+  "case_gist": "第一審の訴訟手続に民訴法一八七条三項違背があつても、控訴審は当然に第一審判決を取り消さなければならないものではない。",
+  "ref_law": "民訴法187条3項，民訴法384条",
+  "lawsuit_id": "74568",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74568",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/568/074568_hanrei.pdf"
+}

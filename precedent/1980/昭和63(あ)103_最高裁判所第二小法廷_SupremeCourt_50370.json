@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 63,
+    "month": 10,
+    "day": 28
+  },
+  "case_number": "昭和63(あ)103",
+  "case_name": "道路交通法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第42巻8号1239頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 12,
+    "day": 16
+  },
+  "gist": "免許停止処分の理由となつた交通事故が刑事裁判で無罪となつた場合において右処分歴に基づく非反則者に対する公訴の提起が適法であるとされた事例",
+  "case_gist": "免許停止処分の理由となつた軽傷交通事故につきその後の刑事裁判で傷害の事実の証明がないとして無罪となつた場合においても、右処分が無効となるものではなく、右処分歴に基づき反則者に当たらないとしてなされた速度違反事件の公訴の提起は、適法である。",
+  "ref_law": "道路交通法125条1項，道路交通法130条，道路交通法（昭和61年法律63号による改正前のもの）118条1項2号，道路交通法（昭和61年法律63号による改正前のもの）125条2項2号，道路交通法（昭和61年法律63号による改正前のもの）別表，刑訴法338条4号",
+  "lawsuit_id": "50370",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50370",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/370/050370_hanrei.pdf"
+}

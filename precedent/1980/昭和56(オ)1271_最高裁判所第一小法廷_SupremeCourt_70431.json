@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 6,
+    "day": 24
+  },
+  "case_number": "昭和56(オ)1271",
+  "case_name": "更生債権確定",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第136号129頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和54(ネ)1889",
+  "original_date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 9,
+    "day": 30
+  },
+  "gist": "いわゆる預託金会員組織のゴルフクラブ入会金預り証が商法五一九条所定の有価証券にあたらないとされた事例",
+  "case_gist": "いわゆる預託金会員組織のゴルフクラブ会員権を表章するものとして発行された入会金預り証であつても、右会員権の移転及び行使について右預り証の交付又は所持を要しないなど原判示の事実関係のもとにおいては、右預り証は、商法五一九条所定の有価証券にあたらない。",
+  "ref_law": "商法519条",
+  "lawsuit_id": "70431",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70431",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/431/070431_hanrei.pdf"
+}

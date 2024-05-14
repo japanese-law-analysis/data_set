@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 9,
+    "day": 8
+  },
+  "case_number": "昭和56(オ)1196",
+  "case_name": "保険金支払等",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第37巻7号918頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和56(ネ)154",
+  "original_date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 9,
+    "day": 9
+  },
+  "gist": "生命保険契約において被保険者の「妻何某」とのみ表示してした保険金受取人の指定の趣旨",
+  "case_gist": "生命保険契約において被保険者の「妻何某」とのみ表示してした保険金受取人の指定は、当該氏名をもつて特定された者を保険金受取人とする趣旨であり、それに付加されている「妻」という表示は、それだけでは、その者が被保険者の妻である限りにおいてこれを保険金受取人として指定する意思を表示した趣旨であると解することはできない。",
+  "ref_law": "商法675条1項",
+  "lawsuit_id": "52154",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52154",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/154/052154_hanrei.pdf"
+}

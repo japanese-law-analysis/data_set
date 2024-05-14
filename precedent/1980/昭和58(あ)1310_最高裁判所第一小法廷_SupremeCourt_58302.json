@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 3,
+    "day": 6
+  },
+  "case_number": "昭和58(あ)1310",
+  "case_name": "軽犯罪法違反、佐賀県屋外広告物条例違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第242号249頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 8,
+    "day": 24
+  },
+  "gist": "佐賀県屋外広告物条例五条一項四号及び軽犯罪法一条三三号前段による電柱のビラ貼りの規制と憲法二一条",
+  "ref_law": "憲法21条，佐賀県屋外広告物条例5条1項4号，佐賀県屋外広告物条例22条2項1号，軽犯罪法1条33前段",
+  "lawsuit_id": "58302",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58302",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/302/058302_hanrei.pdf"
+}

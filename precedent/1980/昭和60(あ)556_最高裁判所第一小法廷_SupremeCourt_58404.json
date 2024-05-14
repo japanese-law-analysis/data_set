@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 2,
+    "day": 12
+  },
+  "case_number": "昭和60(あ)556",
+  "case_name": "航空法違反、兇器準備集合、火炎びんの使用等の処罰に関する法律違反、公務執行妨害、傷害、殺人未遂",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第245号621頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 3,
+    "day": 8
+  },
+  "gist": "いわゆる成田空港反対闘争横堀要塞事件",
+  "lawsuit_id": "58404",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58404",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/404/058404_hanrei.pdf"
+}

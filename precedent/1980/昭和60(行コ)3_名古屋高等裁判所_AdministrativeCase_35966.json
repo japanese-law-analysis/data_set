@@ -1,0 +1,18 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 12,
+    "day": 23
+  },
+  "case_number": "昭和60(行コ)3",
+  "case_name": "相続税更正処分取消請求控訴事件（原審・名古屋地方裁判所昭和５８年（行ウ）第７号）",
+  "court_name": "名古屋高等裁判所",
+  "field": "行政",
+  "gist": "取引相場のない会社の株式を相続財産として評価するために右会社の純資産価額を算定する場合において，相続開始後の株主総会決議に基づき支給された被相続人に対する退職手当金を右会社の負債として計上することが相当である以上，同じく右会社の負債の項目に計上すベき未納法人税額，未納住民税額及び未納事業税額の計算に当たっては，右退職手当金を損金に算入するのが相当であるとした事例",
+  "lawsuit_id": "35966",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=35966",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/966/035966_hanrei.pdf",
+  "contents": ""
+}

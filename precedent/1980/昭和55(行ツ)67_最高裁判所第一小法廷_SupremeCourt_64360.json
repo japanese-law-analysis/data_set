@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 6,
+    "day": 25
+  },
+  "case_number": "昭和55(行ツ)67",
+  "case_name": "市民税等賦課決定取消",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第133号173頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和54(行コ)67",
+  "original_date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 2,
+    "day": 25
+  },
+  "gist": "地方税法二四条の五第一項三号、二九五条一項三号にいう老年者の「所得の金額」の算定に当たつて租税特別措置法（昭和五四年法律第一五号による改正前のもの）二九条の三所定の老年者年金特別控除額を控除することの可否",
+  "case_gist": "地方税法二四条の五第一項三号、二九五条一項三号にいう老年者の「所得の金額」を算定するに当たつて当該老年者の受給した公的年金等の収入金額から租税特別措置法（昭和五四年法律第一五号による改正前のもの）二九条の三所定の老年者年金特別控除額を控除すべきではない。",
+  "ref_law": "地方税法24条の5第1項3号，地方税法295条1項3号，租税特別措置法（昭和54年法律第15号による改正前のもの）29条の3",
+  "lawsuit_id": "64360",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64360",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/360/064360_hanrei.pdf"
+}

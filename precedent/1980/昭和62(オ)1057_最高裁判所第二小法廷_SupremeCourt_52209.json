@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 63,
+    "month": 7,
+    "day": 1
+  },
+  "case_number": "昭和62(オ)1057",
+  "case_name": "不当利得金返還請求事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第42巻6号477頁",
+  "original_court_name": "広島高等裁判所\n        　松江支部",
+  "original_case_number": "昭和61(ネ)42",
+  "original_date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 6,
+    "day": 10
+  },
+  "gist": "第三者所有の不動産に設定された抵当権が不存在であるにもかかわらず右抵当権の実行により債権者に対してされた弁済金の交付と不当利得の成否",
+  "case_gist": "債権者が第三者所有の不動産の上に設定を受けた抵当権が不存在である．にもかかわらず、右抵当権の実行により第三者が不動産の所有権を喪失したときは、第三者は、売却代金から弁済金の交付を受けた右債権者に対し不当利得返還請求権を有する。",
+  "ref_law": "民法703条，民事執行法84条，民事執行法184条，民事執行法188条",
+  "lawsuit_id": "52209",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52209",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/209/052209_hanrei.pdf"
+}

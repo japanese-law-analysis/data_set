@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 11,
+    "day": 13
+  },
+  "case_number": "昭和56(オ)310",
+  "case_name": "所有権移転登記",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第35巻8号1251頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和55(ネ)275",
+  "original_date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 12,
+    "day": 24
+  },
+  "gist": "終生扶養を受けることを前提として養子縁組をしたうえその所有する不動産の大半を養子に遺贈する旨の遺言をした者がその後養子に対する不信の念を深くして協議離縁をした場合と遺言の取消",
+  "case_gist": "終生扶養を受けることを前提として養子縁組をしたうえその所有する不動産の大半を養子に遺贈する旨の遺言をした者が、その後養子に対する不信の念を深くして協議離縁をし、法律上も事実上も扶養を受けないことにした場合には、右遺言は、その後にされた協議離縁と抵触するものとして、民法一〇二三条二項の規定により取り消されたものとみなすべきである。",
+  "ref_law": "民法1023条",
+  "lawsuit_id": "54263",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54263",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/263/054263_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 9,
+    "day": 11
+  },
+  "case_number": "昭和54(オ)1184",
+  "case_name": "持分所有権移転登記手続",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第34巻5号737頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和53(ネ)76",
+  "original_date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 8,
+    "day": 8
+  },
+  "gist": "裁判長の氏名の記載を欠く口頭弁論調書の効力",
+  "case_gist": "判決言渡に関与した裁判長の氏名の記載を欠く口頭弁論調書は、その調書の裁判長認印欄に認印があつても無効である。",
+  "ref_law": "民訴法143条1項2号，民訴法147条",
+  "lawsuit_id": "53350",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53350",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/350/053350_hanrei.pdf"
+}

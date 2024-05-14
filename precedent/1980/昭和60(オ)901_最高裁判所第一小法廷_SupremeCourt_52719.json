@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 10,
+    "day": 26
+  },
+  "case_number": "昭和60(オ)901",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第43巻9号999頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和58(ネ)2565",
+  "original_date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 4,
+    "day": 26
+  },
+  "gist": "国が補助金を交付した国立公園事業の施設が複合的な施設である場合と国家賠償法三条一項所定の費用負担者",
+  "case_gist": "地方公共団体が執行する国立公園事業の施設が社会通念上独立の営造物と認められる複数の営造物によって構成される複合的な施設であり、設置管理に瑕疵があるとされた特定の営造物が右複合的施設を構成する個々の施設であるときには、右事業施設に対し補助金を交付した国が国家賠償法三条一項所定の費用負担者に当たるか否かは、設置管理に瑕疵があるとされた個別的施設と複合的施設を構成する他の施設とを一体として補助金が交付されたなどの特段の事情がない限り、当該個別的施設について、費用負担の割合等を考慮して判断すべきである。\n(反対意見がある。)",
+  "ref_law": "国家賠償法3条1項，自然公園法14条2項，自然公園法25条，自然公園法26条，地方財政法16条",
+  "lawsuit_id": "52719",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52719",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/719/052719_hanrei.pdf"
+}

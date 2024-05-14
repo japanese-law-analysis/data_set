@@ -1,0 +1,18 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 1,
+    "day": 27
+  },
+  "case_number": "昭和60(行ウ)12",
+  "case_name": "裁決取消請求事件",
+  "court_name": "浦和地方裁判所",
+  "field": "行政",
+  "gist": "離職の日以前の１年間に雇用保険の被保険者期間が６箇月以上あった者が，その後就職して被保険者となり，かつ，６箇月間経過しないうちに離職した場合に，後の離職は，雇用保険法１４条２項１号の規定により，同法２０条１項にいう基本手当の受給資格に係る離職に当たらないとして，当初の離職の日の翌日から起算して１年間の日を基本手当の受給期間の満了日とし，その翌日以降基本手当を支給しない旨の公共職業安定所長の処分が，適法とされた事例",
+  "lawsuit_id": "35973",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=35973",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/973/035973_hanrei.pdf",
+  "contents": ""
+}

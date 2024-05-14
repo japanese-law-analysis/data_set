@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 4,
+    "day": 2
+  },
+  "case_number": "昭和59(行ツ)235",
+  "case_name": "不当労働行為救済命令取消",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集民　第150号583頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和56(行コ)5",
+  "original_date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 3,
+    "day": 8
+  },
+  "gist": "労働委員会が不当労働行為により解雇された労働者のバツクペイを命ずるに当たり当該解雇が右労働者の属する労働組合に対し打撃を加える目的の下にされたものであるとの事情を考慮に入れて右労働者が解雇期間中他の職に就いて得た収入の控除を不要とすることの当否",
+  "case_gist": "不当労働行為によつて解雇された労働者が解雇期間中他の職に就いて収入を得ていた場合に、労働委員会が、右労働者の救済命令において解雇期間中の賃金相当額の遡及支払を命ずるに当たり、当該解雇が右労働者の属する労働組合の他の組合員に対する出勤停止処分と共に右労働組合に対し打撃を加える目的の下にされたものであるとの事情を考慮に入れて右収入の控除を不要とすることは、妥当を欠く。",
+  "ref_law": "労働組合法7条1号，労働組合法27条4項",
+  "lawsuit_id": "70479",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70479",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/479/070479_hanrei.pdf"
+}

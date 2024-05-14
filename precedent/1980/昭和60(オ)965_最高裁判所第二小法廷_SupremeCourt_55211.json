@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 10,
+    "day": 16
+  },
+  "case_number": "昭和60(オ)965",
+  "case_name": "約束手形金、請負代金",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第41巻7号1497頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和56(ネ)711",
+  "original_date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 4,
+    "day": 30
+  },
+  "gist": "手形金請求の訴えの提起と原因債権の消滅時効の中断",
+  "case_gist": "債務の支払のために手形の交付を受けた債権者が債務者に対して手形金請求の訴えを提起したときは、原因債権についても消滅時効中断の効力を生ずる。\n（意見がある。）",
+  "ref_law": "民法147条1号，民法149条，民訴法235条",
+  "lawsuit_id": "55211",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55211",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/211/055211_hanrei.pdf"
+}

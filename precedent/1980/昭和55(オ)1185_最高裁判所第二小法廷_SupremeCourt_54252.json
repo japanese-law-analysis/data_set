@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 2,
+    "day": 5
+  },
+  "case_number": "昭和55(オ)1185",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第36巻2号127頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和54(ネ)102",
+  "original_date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 9,
+    "day": 17
+  },
+  "gist": "鉱業法六四条の規定による鉱業権の行使の制限と憲法二九条三項を根拠とする損失補償請求",
+  "case_gist": "鉱業法六四条の規定によつて鉱業権の行使が制限されても、これによつて被つた損失につき憲法二九条三項を根拠としてその補償を請求することはできない。",
+  "ref_law": "憲法29条3項，鉱業法64条",
+  "lawsuit_id": "54252",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54252",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/252/054252_hanrei.pdf"
+}

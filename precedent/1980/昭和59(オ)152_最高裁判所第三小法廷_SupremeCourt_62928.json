@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 9,
+    "day": 18
+  },
+  "case_number": "昭和59(オ)152",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第142号311頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和56(ネ)3072",
+  "original_date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 11,
+    "day": 17
+  },
+  "gist": "契約準備段階における信義則上の注意義務違反を理由とする損害賠償責任が認められた事例",
+  "case_gist": "マンシヨンの購入希望者において、その売却予定者と売買交渉に入り、その交渉過程で歯科医院とするためのスペースについて注文を出したり、レイアウト図を交付するなどしたうえ、電気容量の不足を指摘し、売却予定者が容量増加のための設計変更及び施工をすることを容認しながら、交渉開始六か月後に自らの都合により契約を結ぶに至らなかつたなど原判示のような事情があるときは、購入希望者は、当該契約の準備段階における信義則上の注意義務に違反したものとして、売却予定者が右設計変更及び施工をしたために被つた損害を賠償する責任を負う。",
+  "ref_law": "民法1条2項，民法415条，民法第3編第2章第1節第1款契約の成立",
+  "lawsuit_id": "62928",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62928",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/928/062928_hanrei.pdf"
+}

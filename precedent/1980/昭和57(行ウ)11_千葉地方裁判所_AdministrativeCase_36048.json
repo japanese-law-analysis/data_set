@@ -1,0 +1,19 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 12,
+    "day": 12
+  },
+  "case_number": "昭和57(行ウ)11",
+  "case_name": "換地処分取消請求事件",
+  "court_name": "千葉地方裁判所",
+  "field": "行政",
+  "gist": "１　土地区画整理法上の保留地設定処分の取消しを求める訴えの適否　\n２　換地処分が，土地区画整理法８９条１項等に違反せず適法とされた事例",
+  "case_gist": "１　土地区画整理法上，同法１０３条１項の換地処分と同等なものとしての保留地設定処分は存在しないから，右保留地設定処分の取消しを求める訴えは不適法である。",
+  "lawsuit_id": "36048",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=36048",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/048/036048_hanrei.pdf",
+  "contents": ""
+}

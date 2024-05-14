@@ -1,0 +1,18 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Showa",
+    "year": 63,
+    "month": 2,
+    "day": 18
+  },
+  "case_number": "昭和62(行コ)7",
+  "case_name": "損害賠償請求控訴事件（原審・札幌地方裁判所昭和５９年（行ウ）第１２号）",
+  "court_name": "札幌高等裁判所",
+  "field": "行政",
+  "gist": "非常勤嘱託医等に対する報酬の支給に関する事務が，町の事務決裁規程により助役の専決事項とされていても，その事務は町長の権限に属することに変わりはなく，ただ助役に補助執行させているにすぎないから，町長は，地方自治法２４２条の２第１項４号にいう「当該職員」に該当するとして，同条に基づいて提記された町長個人に対する損害賠償請求の訴えが，適法とされた事例",
+  "lawsuit_id": "36153",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=36153",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/153/036153_hanrei.pdf",
+  "contents": ""
+}

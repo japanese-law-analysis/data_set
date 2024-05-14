@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 4,
+    "day": 1
+  },
+  "case_number": "昭和57(行ツ)11",
+  "case_name": "土地売買無効確認",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第37巻3号201頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和55(行コ)87",
+  "original_date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 10,
+    "day": 20
+  },
+  "gist": "一　普通地方公共団体の複数の住民が提起する地方自治法二四二条の二第一項四号所定の訴訟と類似必要的共同訴訟\n二　普通地方公共団体の複数の住民が共同訴訟人として提起した地方自治法二四二条の二第一項四号所定の訴訟において共同訴訟人の一部の者がした上訴と他の共同訴訟人に対する効力",
+  "case_gist": "一　普通地方公共団体の複数の住民が提起する地方自治法二四二条の二第一項四号所定の訴訟は、類似必要的共同訴訟と解すべきである。\n二　普通地方公共団体の複数の住民が共同訴訟人として提起した地方自治法二四二条の二第一項四号所定の訴訟において、共同訴訟人の一部の者がした上訴は、他の共同訴訟人に対しても効力を生ずる。\n（二につき、反対意見がある。）",
+  "ref_law": "民訴法62条1項，地方自治法242条の2第1項4号",
+  "lawsuit_id": "54275",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54275",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/275/054275_hanrei.pdf"
+}

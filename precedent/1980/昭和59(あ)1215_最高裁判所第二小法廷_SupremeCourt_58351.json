@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 3,
+    "day": 27
+  },
+  "case_number": "昭和59(あ)1215",
+  "case_name": "道路交通法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第239号187頁",
+  "original_court_name": "仙台高等裁判所\n        　秋田支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 8,
+    "day": 21
+  },
+  "gist": "レーダースピードメーターによる速度違反取締りが憲法一四条に違反する旨の主張が排斥された事例",
+  "ref_law": "憲法14条",
+  "lawsuit_id": "58351",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58351",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/351/058351_hanrei.pdf"
+}

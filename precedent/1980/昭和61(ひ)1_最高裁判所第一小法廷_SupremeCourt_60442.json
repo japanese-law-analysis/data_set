@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 4,
+    "day": 2
+  },
+  "case_number": "昭和61(ひ)1",
+  "case_name": "殺人幇助被告事件についてした無罪の判決の確定に対する費用補償請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "その他",
+  "article_info": "集刑　第242号313頁",
+  "original_court_name": "最高裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 12,
+    "day": 9
+  },
+  "gist": "費用補償の請求が認容された事例",
+  "ref_law": "刑訴法188条の2号，刑訴法188条の3号，刑訴法188条の6号",
+  "lawsuit_id": "60442",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60442",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/442/060442_hanrei.pdf"
+}

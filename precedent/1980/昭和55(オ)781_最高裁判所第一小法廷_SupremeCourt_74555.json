@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 2,
+    "day": 5
+  },
+  "case_number": "昭和55(オ)781",
+  "case_name": "管理委託契約確認等",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第132号85頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和53(ネ)2544",
+  "original_date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 4,
+    "day": 21
+  },
+  "gist": "別荘地の管理契約の一方的解約が認められなかつた事例",
+  "case_gist": "別荘地の所有者が別荘地の分譲業者との間の土地管理契約に基づかなければ分譲業者の水道等の諸施設を利用することができず、分譲業者も右管理契約に基づく管理費によつて別荘地の維持、管理の経費をまかなつているなど原判示の事実関係のもとにおいては受任者である分譲業者から一方的に右管理契約を解約することができない。",
+  "ref_law": "民法651条",
+  "lawsuit_id": "74555",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74555",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/555/074555_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 7,
+    "day": 17
+  },
+  "case_number": "昭和61(あ)160",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第40巻5号397頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 12,
+    "day": 25
+  },
+  "gist": "選挙運動者に対する金銭供与の共謀者間における供与資金の交付約束が供与の実行直後に履行された場合の供与の罪と交付の罪との関係",
+  "case_gist": "選挙運動者に対する金銭供与の共謀者間において供与の実行前にあらかじめされていた供与資金交付の約束が供与の実行直後に履行された場合にも、交付の罪は供与の罪に吸収される。",
+  "ref_law": "公職選挙法221条1項1号，公職選挙法221条1項5号，刑法45条",
+  "lawsuit_id": "50340",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50340",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/340/050340_hanrei.pdf"
+}

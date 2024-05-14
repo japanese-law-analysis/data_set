@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 10,
+    "day": 8
+  },
+  "case_number": "昭和58(オ)733",
+  "case_name": "遺言不存在確認",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第41巻7号1471頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和56(ネ)775",
+  "original_date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 3,
+    "day": 16
+  },
+  "gist": "運筆について他人の添え手による補助を受けてされた自筆証書遺言と民法九六八条一項にいう「自書」の要件",
+  "case_gist": "運筆について他人の添え手による補助を受けてされた自筆証書遺言が民法九六八条一項にいう「自書」の要件を充たすためには、遺言者が証書作成時に自書能力を有し、かつ、右補助が遺言者の手を用紙の正しい位置に導くにとどまるか、遺言者の手の動きが遺言者の望みにまかされていて単に筆記を容易にするための支えを借りたにとどまるなど添え手をした他人の意思が運筆に介入した形跡のないことが筆跡のうえで判定できることを要する。",
+  "ref_law": "民法968条1項",
+  "lawsuit_id": "55195",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55195",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/195/055195_hanrei.pdf"
+}

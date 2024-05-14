@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 7,
+    "day": 17
+  },
+  "case_number": "昭和59(オ)11",
+  "case_name": "協議離縁無効確認",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第41巻5号1381頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和57(ネ)2256",
+  "original_date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 9,
+    "day": 29
+  },
+  "gist": "縁組が無効であるとの主張と離縁無効確認の訴えの利益",
+  "case_gist": "養子縁組の当事者の一方の提起した離縁無効確認の訴えは、その縁組が無効であるとの主張が認められた場合であつても、訴えの利益を失わない。",
+  "ref_law": "民訴法225条，人事訴訟手続法24条",
+  "lawsuit_id": "55198",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55198",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/198/055198_hanrei.pdf"
+}

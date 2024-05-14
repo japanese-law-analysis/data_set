@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 63,
+    "month": 7,
+    "day": 18
+  },
+  "case_number": "昭和59(あ)347",
+  "case_name": "証券取引法違反、贈賄",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第42巻6号861頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 1,
+    "day": 17
+  },
+  "gist": "新規上場に先立ち株式を公開価格で取得できる利益が贈収賄罪の客体になるとされた事例",
+  "case_gist": "証券取引所への新規上場に先立つ株式の公開に際し、上場時にはその価格が確実に公開価格を上回ると見込まれ、一般には公開価格で入手することが極めて困難な株式を公開価格で取得できる利益は、それ自体が贈収賄罪の客体になる。",
+  "ref_law": "証券取引法（昭和56年法律62号による改正前のもの）203条，刑法（昭和55年法律30号による改正前のもの）197条1項，刑法（昭和55年法律30号による改正前のもの）198条1項",
+  "lawsuit_id": "50318",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50318",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/318/050318_hanrei.pdf"
+}

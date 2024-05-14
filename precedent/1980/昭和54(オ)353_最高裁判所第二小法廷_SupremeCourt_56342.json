@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 1,
+    "day": 19
+  },
+  "case_number": "昭和54(オ)353",
+  "case_name": "譲受債権",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第35巻1号1頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和51(ネ)843",
+  "original_date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 12,
+    "day": 14
+  },
+  "gist": "受任者の利益のためにも締結された委任契約において委任者が解除権自体を放棄したものとは解されない事情がある場合と民法六五一条",
+  "case_gist": "受任者の利益のためにも締結された委任契約であつても、その契約において委任者が委任契約の解除権自体を放棄したものとは解されない事情がある場合は、委任者は、やむをえない事由がなくても、民法六五一条に則り右契約を解除することができる。",
+  "ref_law": "民法651条",
+  "lawsuit_id": "56342",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56342",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/342/056342_hanrei.pdf"
+}

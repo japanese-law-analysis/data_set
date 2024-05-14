@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 63,
+    "month": 3,
+    "day": 15
+  },
+  "case_number": "昭和61(オ)965",
+  "case_name": "株主地位確認等請求事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集民　第153号553頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和61(ネ)356",
+  "original_date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 5,
+    "day": 30
+  },
+  "gist": "競売による株式取得につき取締役会の承認がない場合と会社に対し株主としての地位を有する者",
+  "case_gist": "株式の譲渡につき取締役会の承認を要する旨定款に定められているのに、競売による株式取得につき取締役会の承認がない場合には、競売前の株主が、なお会社に対して株主としての地位を有する。",
+  "ref_law": "商法204条1項，商法204条ノ2，商法204条ノ5",
+  "lawsuit_id": "62355",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62355",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/355/062355_hanrei.pdf"
+}

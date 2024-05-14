@@ -1,0 +1,18 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 3,
+    "day": 25
+  },
+  "case_number": "昭和61(行ケ)1",
+  "case_name": "選挙無効請求事件",
+  "court_name": "名古屋高等裁判所",
+  "field": "行政",
+  "gist": "衆議院議員総選挙の日において参議院議員の通常選挙の投票も行うといういわゆる衆参同日選挙をもたらした内閣総理大臣による衆議院解散権の行使が違憲無効であること，及び，右同日選挙禁止規定を欠く公職選挙法自体ないし右同日選挙を回避しない同法の運用が違憲であることを理由とする衆議院議員総選挙の無効請求が，棄却された事例",
+  "lawsuit_id": "36063",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=36063",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/063/036063_hanrei.pdf",
+  "contents": ""
+}

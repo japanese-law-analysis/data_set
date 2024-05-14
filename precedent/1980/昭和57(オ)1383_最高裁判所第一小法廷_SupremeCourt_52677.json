@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 3,
+    "day": 7
+  },
+  "case_number": "昭和57(オ)1383",
+  "case_name": "株式名義書換",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第39巻2号107頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和56(ネ)2576",
+  "original_date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 9,
+    "day": 29
+  },
+  "gist": "商法（昭和五六年法律第七四号による改正前のもの）三五〇条一項の株券提出期間の経過前に株式を譲り受けた者が右期間経過後にする名義書換請求",
+  "case_gist": "定款を変更して株式譲渡制限の定めを設けるとの決議があつた場合において、商法（昭和五六年法律第七四号による改正前のもの）三五〇条一項の株券提出期間の経過前に株式を譲り受けた者は、右期間の経過後であつても、会社に対し、旧株券を呈示し、右期間経過前に株式を譲り受けたことを証明して、名義書換を請求することができる。",
+  "ref_law": "商法206条1項，商法（昭和56年法律第74号による改正前のもの）350条1項",
+  "lawsuit_id": "52677",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52677",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/677/052677_hanrei.pdf"
+}

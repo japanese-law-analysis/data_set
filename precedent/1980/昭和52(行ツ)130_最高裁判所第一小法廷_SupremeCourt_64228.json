@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 12,
+    "day": 18
+  },
+  "case_number": "昭和52(行ツ)130",
+  "case_name": "審決取消",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第131号345頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和47(行ケ)127",
+  "original_date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 6,
+    "day": 15
+  },
+  "gist": "特許無効の審判請求人が被告となつている審決取消訴訟において被告が死亡した場合と右訴訟の帰すう",
+  "case_gist": "特許無効の審判請求人が被告となつている審決取消訴訟において被告が死亡した場合には、民訴法二〇八条に基づきその相続人その他法令により訴訟を続行すべき者において右訴訟の手続を受継すべきものであつて、訴訟が終了するものではない。",
+  "ref_law": "特許法179条",
+  "lawsuit_id": "64228",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64228",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/228/064228_hanrei.pdf"
+}

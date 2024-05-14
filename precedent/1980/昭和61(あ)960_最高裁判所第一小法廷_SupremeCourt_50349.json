@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 63,
+    "month": 5,
+    "day": 11
+  },
+  "case_number": "昭和61(あ)960",
+  "case_name": "業務上過失致死",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第42巻5号807頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 7,
+    "day": 14
+  },
+  "gist": "被害者側の落度が介在した場合につき因果関係が認められた事例",
+  "case_gist": "医師の資格のない柔道整復師が風邪の症状を訴える患者に対して誤つた治療法を繰り返し指示し、これに忠実に従つた患者が病状を悪化させて死亡するに至つた場合には、患者側に医師の診察治療を受けることなく右指示に従つた落度があつたとしても、右指示と患者の死亡との間には因果関係がある。",
+  "ref_law": "刑法第1編第7章，刑法211条",
+  "lawsuit_id": "50349",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50349",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/349/050349_hanrei.pdf"
+}

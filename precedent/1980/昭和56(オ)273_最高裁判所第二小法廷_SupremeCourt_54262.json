@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 11,
+    "day": 27
+  },
+  "case_number": "昭和56(オ)273",
+  "case_name": "損害賠償本訴、同反訴",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第35巻8号1271頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "昭和55(ネ)262",
+  "original_date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 12,
+    "day": 25
+  },
+  "gist": "兄が弟に兄所有の自動車を運転させこれに同乗して自宅に帰る途中で発生した交通事故につき兄弟間に民法七一五条一項にいう使用者・被用者の関係が成立していたとされた事例",
+  "case_gist": "兄が、その出先から自宅に連絡して弟に兄所有の自動車で迎えに来させたうえ、弟に右自動車の運転を継続させ、これに同乗して自宅に帰る途中で交通事故が発生した場合において、兄が右同乗中助手席で運転上の指示をしていた等判示の事情があるときは、兄と弟との間には右事故当時兄を自動車により自宅に送り届けるという仕事につき、民法七一五条一項にいう使用者・被用者の関係が成立していたと解するのが相当である。",
+  "ref_law": "民法715条1項",
+  "lawsuit_id": "54262",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54262",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/262/054262_hanrei.pdf"
+}

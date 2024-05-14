@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 63,
+    "month": 9,
+    "day": 8
+  },
+  "case_number": "昭和59(オ)147",
+  "case_name": "建物収去土地明渡等請求事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第154号465頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和56(ネ)1086",
+  "original_date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 10,
+    "day": 28
+  },
+  "gist": "土地賃借権譲渡契約につきその譲渡の効力が契約締結時に発生するとして締結されたと解された事例",
+  "case_gist": "土地賃借権の譲渡契約において、譲渡について地主の承諾が得られなかつたときは、譲渡契約当事者間で協議し、円満に取引を完了する旨の特約がある場合に、譲渡の効力発生について地主の承諾を停止条件とする旨を直接定めた書面上の合意がなく、土地上の建物の売買代金を含む譲渡代金の四割相当の手付金が譲渡契約時に支払われ、譲受人が契約締結のころ右建物に入居してそこに造作工事を施したなど、判示の事情のもとにおいては、右譲渡契約は、その締結と同時に土地賃借権の譲渡の効力が発生するとして締結されたと解するのが相当である。",
+  "ref_law": "民法1編4章1節，民法127条1項，民法612条",
+  "lawsuit_id": "62320",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62320",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/320/062320_hanrei.pdf"
+}

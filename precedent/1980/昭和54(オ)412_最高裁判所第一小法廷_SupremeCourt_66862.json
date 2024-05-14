@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 3,
+    "day": 24
+  },
+  "case_number": "昭和54(オ)412",
+  "case_name": "配当異議",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第138号333頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和53(ネ)73",
+  "original_date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 12,
+    "day": 19
+  },
+  "gist": "遠洋まぐろ漁船につき本邦を出港し一年有余の漁獲ののち帰港するまでの全航海が商法八四二条六号所定の「航海」にあたるとされた事例",
+  "case_gist": "漁場が遠方洋上にあつて漁獲期間が一年有余にわたること、漁獲物の刺身用まぐろが本邦でのみ消費され海外での水揚げはできないこと、漁具及び餌が特殊なもので本邦でしか調達できないことなどから、本邦を出港し本邦に帰港するまでを一航海として、水揚げ代金から船員の生産奨励金、補給その他経費等の各債権の清算をする方式がとられている遠洋まぐろ漁船にあつては、本邦を出港し、漁獲に従事し、再び本邦に帰港するまでの全航海が、船舶法三五条によつて準用される商法八四二条六号所定の「航海」に該当する。",
+  "ref_law": "船舶法35条，商法842条6号",
+  "lawsuit_id": "66862",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66862",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/862/066862_hanrei.pdf"
+}

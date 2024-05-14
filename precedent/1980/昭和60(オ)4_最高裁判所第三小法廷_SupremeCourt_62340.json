@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 63,
+    "month": 12,
+    "day": 20
+  },
+  "case_number": "昭和60(オ)4",
+  "case_name": "家屋明渡等請求事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第155号405頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和58(ネ)1579",
+  "original_date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 9,
+    "day": 25
+  },
+  "gist": "一　政党が党員にした処分に対する裁判所の審判権の有無\n二　政党が党員にした処分の当否についての審理の基準",
+  "case_gist": "一　政党が党員に対してした処分は、一般市民法秩序と直接の関係を有しない内部的な問題にとどまる限り、裁判所の審判権が及ばない。\n二　政党が党員に対してした処身の当否は、政党の自律的に定めた規範が公序良俗に反するなどの特段の事情のない限り右規範に照らし、右規範を有しないときは条理に基づき、適正な手続に則つてされたか否かによつて決すべきである。",
+  "ref_law": "裁判所法3条1項，民法第1編第4章第1節（総則）",
+  "lawsuit_id": "62340",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62340",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/340/062340_hanrei.pdf"
+}

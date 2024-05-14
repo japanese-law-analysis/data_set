@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 3,
+    "day": 23
+  },
+  "case_number": "昭和55(あ)248",
+  "case_name": "所得税法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第221号173頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 12,
+    "day": 21
+  },
+  "gist": "判例違反の主張が欠前提とされた事例",
+  "lawsuit_id": "58166",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58166",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/166/058166_hanrei.pdf"
+}

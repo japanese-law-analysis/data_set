@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 6,
+    "day": 29
+  },
+  "case_number": "昭和59(オ)103",
+  "case_name": "損害賠償請求事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第43巻6号664頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和54(ネ)1697",
+  "original_date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 10,
+    "day": 20
+  },
+  "gist": "無罪判決が確定した場合における公訴提起の違法性の有無の判断資料",
+  "case_gist": "無罪判決が確定した場合における公訴提起の違法性の有無の判断は、検察官が公訴提起時に現に収集した証拠資料及び通常要求される捜査を遂行すれば収集し得た証拠資料をもつてすべきであり、公訴提起後その追行時に公判廷に初めて現れた証拠資料であつて通常の捜査を遂行しても公訴の提起前に収集することができなかつたと認められる証拠資料をもつてすることは許されない。",
+  "ref_law": "国家賠償法1条1項",
+  "lawsuit_id": "52185",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52185",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/185/052185_hanrei.pdf"
+}

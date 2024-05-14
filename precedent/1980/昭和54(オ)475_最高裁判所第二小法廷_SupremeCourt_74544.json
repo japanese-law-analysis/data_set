@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 4,
+    "day": 24
+  },
+  "case_number": "昭和54(オ)475",
+  "case_name": "採掘権譲渡登録抹消登録",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第132号585頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和52(ネ)1016",
+  "original_date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 1,
+    "day": 31
+  },
+  "gist": "取締役会の無効な決議により選任された代表取締役がした行為と商法二六二条の類推適用",
+  "case_gist": "取締役会の無効な決議により選任された代表取締役が会社の代表としてした行為については、会社は、商法二六二条の類推適用により、善意の第三者に対してその責に任ずべきものである。",
+  "ref_law": "商法262条",
+  "lawsuit_id": "74544",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74544",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/544/074544_hanrei.pdf"
+}

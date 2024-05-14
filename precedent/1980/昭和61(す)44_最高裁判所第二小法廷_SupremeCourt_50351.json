@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 63,
+    "month": 4,
+    "day": 12
+  },
+  "case_number": "昭和61(す)44",
+  "case_name": "再審請求事件についてした即時抗告棄却決定に対する旧刑訴法四六九条三号による即時抗告として不服申立",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第42巻4号745頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 3,
+    "day": 12
+  },
+  "gist": "海軍軍法会議が言い渡した有罪の確定判決に対する再審請求の許否",
+  "case_gist": "海軍軍法会議が言い渡した有罪の確定判決に対しては、旧刑訴法四八五条による再審の請求が許される。",
+  "ref_law": "旧刑訴法485条，陸軍軍法会議法、海軍軍法会議法及第1復員裁判所及第2復員裁判所令ヲ廃止スル勅令（昭和21年5月17日勅令278号・昭和22年5月17日政令52号による改正前のもの），ポツダム宣言の受諾に伴い発する命令に関する件の廃止に関する法律（昭和27年4月法律81号）2項，ポツダム宣言の受諾に伴い発する命令に関する件の廃止に関する法律（昭和27年4月法律81号）3項",
+  "lawsuit_id": "50351",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50351",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/351/050351_hanrei.pdf"
+}

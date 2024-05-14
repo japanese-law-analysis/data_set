@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 4,
+    "day": 22
+  },
+  "case_number": "昭和54(行ツ)7",
+  "case_name": "高度地区変更決定取消",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第135号749頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和53(行コ)27",
+  "original_date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 10,
+    "day": 11
+  },
+  "gist": "都市計画法八条一項三号に基づく高度地区指定の決定と抗告訴訟の対象",
+  "case_gist": "都市計画法八条一項三号に基づく高度地区指定の決定は、抗告訴訟の対象とならない。",
+  "ref_law": "都市計画法8条1項3号，行政事件訴訟法3条",
+  "lawsuit_id": "66865",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66865",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/865/066865_hanrei.pdf"
+}

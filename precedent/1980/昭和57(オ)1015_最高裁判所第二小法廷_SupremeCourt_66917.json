@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 2,
+    "day": 18
+  },
+  "case_number": "昭和57(オ)1015",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第138号157頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和56(ネ)478",
+  "original_date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 6,
+    "day": 29
+  },
+  "gist": "事故により死亡した男児の得べかりし利益の算定につき男子労働者の平均賃金額を基準として収入額を算定し物価上昇ないし賃金上昇を斟酌しなかつたとしても不合理ではないとされた事例",
+  "case_gist": "昭和五二年七月の交通事故により死亡した満二歳の男児の得べかりし利益の算定につき、昭和五四年賃金構造基本統計調査報告第一巻第一表中の産業計・企業規模計・学歴計の男子労働者の平均賃金額を基準として収入額を算定しただけで、その後の物価上昇ないし賃金上昇を斟酌しなかつたとしても、右算定方法は不合理なものとはいえない。",
+  "ref_law": "民法709条",
+  "lawsuit_id": "66917",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66917",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/917/066917_hanrei.pdf"
+}

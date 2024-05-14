@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 3,
+    "day": 18
+  },
+  "case_number": "昭和57(あ)1151",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第230号393頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 6,
+    "day": 29
+  },
+  "gist": "公職選挙法二二一条一項一号、四号、一二九条、二三九条一号の定める犯罪の構成要件が不明確であるとは認められないから、憲法三一条違反の主張は前提を欠くとされた事例",
+  "ref_law": "憲法31条，公選法129条，公選法221条1項1号，公選法221条1項4号，公選法239条1号",
+  "lawsuit_id": "58233",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58233",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/233/058233_hanrei.pdf"
+}

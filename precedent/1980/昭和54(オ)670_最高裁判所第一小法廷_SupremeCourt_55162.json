@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 12,
+    "day": 2
+  },
+  "case_number": "昭和54(オ)670",
+  "case_name": "貸金",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第36巻12号235頁",
+  "original_court_name": "広島高等裁判所\n        　松江支部",
+  "original_case_number": "昭和50(ネ)33",
+  "original_date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 3,
+    "day": 23
+  },
+  "gist": "被用者の金員横領により使用者に発生した損害の総額が不明の時点において締結された身元保証契約と題する契約について身元保証に関する法律五条の適用があるとされた事例",
+  "case_gist": "被用者の金員横領により使用者に損害が発生したが、その総額が不明の時点において、判示の事情のもとで、被用者の妻の父が使用者との間に被用者が使用者に被らせた損害を賠償する旨の身元保証契約と題する契約を締結した場合には、右契約には身元保証に関する法律五条の適用がある。",
+  "ref_law": "身元保証に関する法律1条，身元保証に関する法律5条",
+  "lawsuit_id": "55162",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55162",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/162/055162_hanrei.pdf"
+}

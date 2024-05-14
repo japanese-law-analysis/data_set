@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 4,
+    "day": 2
+  },
+  "case_number": "昭和55(あ)1009",
+  "case_name": "職業安定法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第36巻4号538頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 5,
+    "day": 13
+  },
+  "gist": "一　職業安定法三二条一項にいわゆる「職業紹介」にあたるとされた事例\n二　職業安定法六四条一号の法意",
+  "case_gist": "一　求職の申込みをした者の氏名、住所、年齢、学歴、希望職種等を求職者リストに登載したうえ、求人の申込みをした者に対し右求職者リストから選び出した数名の求職者の氏名等を記載した名簿を交付するなどの方法で、求人者をして求職者と面接するように仕向けた本件所為（判文参照）は、職業安定三二条一項にいわゆる「職業紹介」にあたる。\n二　職業安定法六四条一号は、同法三二条一項本文の規定に違反して有料の職業紹介事業を行つた者を、求職者の自由意思を制限するおそれのある手段を用いて行つたか否かを問うことなく、処罰する趣旨である。",
+  "ref_law": "職業安定法32条1項，職業安定法64条1号",
+  "lawsuit_id": "50214",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50214",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/214/050214_hanrei.pdf"
+}

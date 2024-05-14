@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 10,
+    "day": 13
+  },
+  "case_number": "昭和63(オ)601",
+  "case_name": "婚姻無効確認",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集民　第158号75頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和61(ネ)3550",
+  "original_date": {
+    "era": "Showa",
+    "year": 63,
+    "month": 1,
+    "day": 28
+  },
+  "gist": "夫婦の一方が提起した婚姻無効確認請求訴訟における原告の死亡と訴訟の帰すう",
+  "case_gist": "夫婦の一方が他方を相手方として提起した婚姻無効確認請求訴訟は、原告の死亡により、当然終了する。",
+  "ref_law": "民法742条，民訴法208条1項，人事訴訟手続法2条1項",
+  "lawsuit_id": "62999",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62999",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/999/062999_hanrei.pdf"
+}

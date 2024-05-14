@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 3,
+    "day": 12
+  },
+  "case_number": "昭和59(あ)627",
+  "case_name": "建造物侵入、威力業務妨害",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第41巻2号140頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 3,
+    "day": 29
+  },
+  "gist": "県議会委員会の条例案採決等の事務と威力業務妨害罪にいう［業務］",
+  "case_gist": "県議会委員会の条例案採決等の事務は、威力業務妨害罪にいう［業務］に当たる。",
+  "ref_law": "刑法234条",
+  "lawsuit_id": "50322",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50322",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/322/050322_hanrei.pdf"
+}

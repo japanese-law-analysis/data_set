@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 1,
+    "day": 30
+  },
+  "case_number": "昭和53(オ)241",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第132号47頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和52(ネ)574",
+  "original_date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 11,
+    "day": 30
+  },
+  "gist": "郵政職員の争議行為に基づく書留郵便物の遅配によつて差出人でも受取人でもない者に生じた損害につき国の賠償責任が否定された事例",
+  "case_gist": "支払のための呈示前の約束手形を封入した書留郵便物の配達が郵政職員の争議行為のために遅れている間に手形の振出人が倒産して手形が不渡りになつたことにより、右手形を郵便の差出人たる割引先から買い戻すことを余儀なくされ、買戻金額相当の損害を受けた者は、右手形不渡りが一日前後の配達の遅滞に起因すること、右争議行為の規模・態様など原判示の事情のもとにおいては、国に対する損害賠償請求権を取得するものではない。",
+  "ref_law": "国家賠償法1条1項，国家賠償法5条，郵便法68条1項，郵便法73条",
+  "lawsuit_id": "74539",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74539",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/539/074539_hanrei.pdf"
+}

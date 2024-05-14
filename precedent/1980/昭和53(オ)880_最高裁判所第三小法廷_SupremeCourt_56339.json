@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 3,
+    "day": 24
+  },
+  "case_number": "昭和53(オ)880",
+  "case_name": "保険金",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第35巻2号271頁",
+  "original_court_name": "広島高等裁判所",
+  "original_case_number": "昭和52(ネ)67",
+  "original_date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 4,
+    "day": 20
+  },
+  "gist": "自動車損害賠償保障法三条の規定による損害賠償請求権を執行債権とする転付命令と右損害賠償義務の履行によつて発生すべき同法一五条所定の自動車損害賠償責任保険金請求権の被転付適格",
+  "case_gist": "自動車損害賠償保障法三条の規定による損害賠償請求権を執行債権とし、右損害賠償義務の履行によつて発生すべき同法一五条所定の自動車損害賠償責任保険金請求権につき転付命令が申請された場合には、右保険金請求権は、券面額ある債権として被転付適格を有する。",
+  "ref_law": "民訴法（昭和54年法律第4号による改正前のもの）601条，自動車損害賠償保障法15条，民事執行法159条",
+  "lawsuit_id": "56339",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56339",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/339/056339_hanrei.pdf"
+}

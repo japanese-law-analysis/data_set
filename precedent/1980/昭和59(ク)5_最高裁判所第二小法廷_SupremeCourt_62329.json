@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 2,
+    "day": 10
+  },
+  "case_number": "昭和59(ク)5",
+  "case_name": "強制執行停止申請事件についてした申請却下の決定に対する抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集民　第141号181頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和58(ウ)1161",
+  "original_date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 11,
+    "day": 7
+  },
+  "gist": "民訴法五一一条一項に基づく強制執行停止命令の申立を却下する裁判と憲法三二条、八二条",
+  "case_gist": "民訴法五一一条一項に基づく強制執行停止命令の申立を却下する裁判は、公開法廷における口頭弁論を経ないでしても、憲法三二条、八二条に違反しない。",
+  "ref_law": "憲法32条，憲法82条，民訴法511条1項",
+  "lawsuit_id": "62329",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62329",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/329/062329_hanrei.pdf"
+}

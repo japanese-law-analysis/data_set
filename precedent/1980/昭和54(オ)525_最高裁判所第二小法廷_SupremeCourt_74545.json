@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 1,
+    "day": 30
+  },
+  "case_number": "昭和54(オ)525",
+  "case_name": "請求異議",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第132号61頁",
+  "original_court_name": "広島高等裁判所",
+  "original_case_number": "昭和52(ネ)137",
+  "original_date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 2,
+    "day": 6
+  },
+  "gist": "一　民法上の組合類似の性質を有する頼母子講と公正証書作成嘱託の許否\n二　公正証書の本文中と嘱託人の表示欄とにおける各債権者の記載の間に齟齬がないとされた事例",
+  "case_gist": "一　民法上の組合類似の性質を有する頼母子講がその名において公正証書の作成嘱託をすることは許されない。\n二　頼母子講に講金の取立、支払等について一切の権限を有する講総代が選任されている場合に、講総代が自己の名においてした嘱託に基づいて作成された講掛戻金に関する公正証書の嘱託人の表示欄に債権者として総代何人の住所氏名等が記載され、その本文中に債権者として総代の肩書を付してその氏名が記載されていても、右各記載の間に齟齬があるとはいえない。",
+  "ref_law": "民訴法（昭和54年法律第4号による改正前のもの）559条3号，民訴法46条，公証人法36条2号，公証人法36条3号",
+  "lawsuit_id": "74545",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74545",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/545/074545_hanrei.pdf"
+}

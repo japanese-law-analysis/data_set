@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 4,
+    "day": 5
+  },
+  "case_number": "昭和58(オ)1363",
+  "case_name": "地上権設定登記抹消登記手続等本訴、同反訴",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第141号529頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_case_number": "昭和57(ネ)72",
+  "original_date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 8,
+    "day": 10
+  },
+  "gist": "借地法七条により地上権の存続期間が延長された場合において期間延長前の地上権についてされた登記と期間延長後の地上権についての効力",
+  "case_gist": "借地法七条により建物所有を目的とする地上権の存続期間が延長された場合、右期間延長の効力が生ずる前と後とで地上権の同一性が失われるものではなく、期間延長の効力の生ずる前に右地上権についてされた登記は、期間延長の効力が生じた後の地上権についてもこれを表示するものとして効力を有する。",
+  "ref_law": "借地法7条，不動産登記法111条1項",
+  "lawsuit_id": "62297",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62297",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/297/062297_hanrei.pdf"
+}

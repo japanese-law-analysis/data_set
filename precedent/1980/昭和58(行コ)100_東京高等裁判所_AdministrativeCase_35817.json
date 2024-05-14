@@ -1,0 +1,18 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 3,
+    "day": 13
+  },
+  "case_number": "昭和58(行コ)100",
+  "case_name": "差押処分無効確認請求控訴事件（原審・水戸地方裁判所昭和５７年（行ウ）第５号）",
+  "court_name": "東京高等裁判所",
+  "field": "行政",
+  "gist": "酒税に関する犯則事件の嫌疑者に対し国税犯則取締法２条によって差押処分がされた後，同人が同法１４条１項による通告処分に従って差押物件のうち没収品に該当する物品につき納付の申出をし，その余の差押物件については同人に対する還付手続が終了した場合には，右差押処分の効力が消滅し，差押処分に続く処分も存在しないとして，右差押処分の無効確認を求める訴えが，行政事件訴訟法３６条に規定する要件を欠き，不適法であるとされた事例",
+  "lawsuit_id": "35817",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=35817",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/817/035817_hanrei.pdf",
+  "contents": ""
+}

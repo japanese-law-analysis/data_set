@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 11,
+    "day": 13
+  },
+  "case_number": "昭和55(し)91",
+  "case_name": "再審請求棄却決定に対する即時抗告棄却決定に対する特別抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第34巻6号396頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 6,
+    "day": 25
+  },
+  "gist": "一　被害者の承諾と傷害罪の成否\n二　被害者の承諾が傷害行為の違法性を阻却しないとされた事例",
+  "case_gist": "一　被害者が身体傷害を承諾した場合に傷害罪が成立するか否かは、単に承諾が存在するという事実だけでなく、右承諾を得た動機、目的、身体傷害の手段、方法、損傷の部位、程度など諸般の事情を照らし合せて決すべきである。\n二　過失による自動車衝突事故であるかのように装い保険金を騙取する目的で、被害者の承諾を得てその者に故意に自己の運転する自動車を衝突させて傷害を負わせた場合には、右承諾は、当該傷害行為の違法性を阻却するものではない。",
+  "ref_law": "刑法35条，刑法204条，刑法211条",
+  "lawsuit_id": "51201",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51201",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/201/051201_hanrei.pdf"
+}

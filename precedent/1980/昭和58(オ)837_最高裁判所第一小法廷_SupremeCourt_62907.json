@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 9,
+    "day": 6
+  },
+  "case_number": "昭和58(オ)837",
+  "case_name": "共済金等",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第142号293頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和57(ネ)475",
+  "original_date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 4,
+    "day": 27
+  },
+  "gist": "仲裁契約の当事者間において仲裁人の選定権限を特定の第三者に付与する旨の合意の効力",
+  "case_gist": "仲裁契約の当事者間において成立した仲裁人の選定権限を特定の第三者に付与する旨の合意は、当事者の一方に著しく不公平な選定権限を付与するものであるなど特段の事情のない限り、有効である。",
+  "ref_law": "民訴法786条，民訴法788条",
+  "lawsuit_id": "62907",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62907",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/907/062907_hanrei.pdf"
+}

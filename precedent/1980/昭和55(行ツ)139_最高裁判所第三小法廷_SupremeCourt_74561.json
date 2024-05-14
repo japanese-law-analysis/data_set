@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 2,
+    "day": 24
+  },
+  "case_number": "昭和55(行ツ)139",
+  "case_name": "審決取消",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第132号175頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和54(行ケ)21",
+  "original_date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 7,
+    "day": 28
+  },
+  "gist": "商標法五一条一項にいう故意の意義",
+  "case_gist": "商標法五一条一項にいう故意があるとするには、商標権者において指定商品について登録商標に類似する商標を使用し又は指定商品に類似する商品について登録商標若しくはこれに類似する商標を使用するにあたり、右使用の結果、商品の品質の誤認又は他人の業務に係る商品と混同を生じさせることを認識していたことをもつて足りる。",
+  "ref_law": "商標法51条1項",
+  "lawsuit_id": "74561",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74561",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/561/074561_hanrei.pdf"
+}

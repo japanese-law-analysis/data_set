@@ -1,0 +1,19 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 1,
+    "day": 13
+  },
+  "case_number": "昭和56(あ)1809",
+  "case_name": "傷害",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "その他",
+  "article_info": "集刑　第225号23頁",
+  "gist": "当審未決勾留日数を契機に満ちるまで算入したことに伴い、もはや裁判確定まで勾留を継続する必要がなくなつたとして勾留を取り消した事例",
+  "lawsuit_id": "60415",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60415",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/415/060415_hanrei.pdf"
+}

@@ -1,0 +1,22 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 2,
+    "day": 21
+  },
+  "case_number": "昭和57(あ)1839",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第38巻3号387頁",
+  "original_court_name": "広島高等裁判所",
+  "gist": "公職選挙法一三八条一項、昭和五七年法律第八一号による改正前の公職選挙法二三九条三号の各規定と憲法三一条",
+  "case_gist": "公職選挙法一三八条一項、昭和五七年法律第八一号による改正前の公職選挙法二三九条の各規定は、憲法三一条に違反しない。",
+  "ref_law": "公職選挙法138条1項，公職選挙法239条3号（昭和57年法律81号による改正前のもの），憲法31条",
+  "lawsuit_id": "50258",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50258",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/258/050258_hanrei.pdf"
+}

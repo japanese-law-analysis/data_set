@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 6,
+    "day": 6
+  },
+  "case_number": "昭和55(あ)591",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第218号17頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 3,
+    "day": 10
+  },
+  "gist": "公職選挙法一二九条の規定が憲法一五条に違反しないとされた事例\n\n公職選挙法一三八条の規定が憲法二一条に違反しないとされた事例",
+  "ref_law": "憲法15条，憲法21，公選法129条，公選法138条",
+  "lawsuit_id": "61779",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61779",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/779/061779_hanrei.pdf"
+}

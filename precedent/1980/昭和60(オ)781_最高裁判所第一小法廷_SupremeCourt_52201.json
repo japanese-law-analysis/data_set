@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 7,
+    "day": 13
+  },
+  "case_number": "昭和60(オ)781",
+  "case_name": "総会決議無効確認請求事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第43巻7号866頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和57(ネ)607",
+  "original_date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 3,
+    "day": 20
+  },
+  "gist": "共同漁業権放棄の対価としての補償金の配分手続",
+  "case_gist": "共同漁業権放棄の対価として漁業協同組合が取得する補償金の配分は、当該漁業協同組合の総会の特別決議によつて行うべきである。",
+  "ref_law": "漁業法6条1項，漁業法8条，水産業協同組合法48条1項9号，水産業協同組合法50条4号",
+  "lawsuit_id": "52201",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52201",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/201/052201_hanrei.pdf"
+}

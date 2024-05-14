@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 4,
+    "day": 1
+  },
+  "case_number": "昭和57(オ)993",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第138号469頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和56(ネ)550",
+  "original_date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 5,
+    "day": 27
+  },
+  "gist": "犬が近付いてきたため自転車の操縦を誤り転倒受傷した七歳の児童に対し犬の飼主が民法七一八条の責任を負うとされた事例",
+  "case_gist": "七歳の児童が、自転車に乗つて幅員約三メートルの道路を通行中、飼主の手を離れて道路前方にいる体長約四〇センチメートル、体高約二〇センチメートルの愛玩用犬と約八・五メートルの距離に接近したところ、犬が約二メートル程歩いて自転車に近付いたため、日頃から犬嫌いの右児童が一瞬ひるんで操縦を誤つて転倒し、道路沿いの川に自転車とともに転落し左眼を失明するに至つたなど原判示の事実関係のもとにおいては、飼主は民法七一八条の損害賠償責任を負う。\n\n（反対意見がある）",
+  "ref_law": "民法718条",
+  "lawsuit_id": "66928",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66928",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/928/066928_hanrei.pdf"
+}

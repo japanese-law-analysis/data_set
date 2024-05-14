@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 1,
+    "day": 31
+  },
+  "case_number": "昭和58(し)4",
+  "case_name": "覚せい剤取締法違反被疑事件について地方裁判所がした検察官の処分に対する準抗告申立棄却決定に対する特別抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第230号7頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 1,
+    "day": 11
+  },
+  "gist": "検察官により接見等に関するいわゆる一般指定が行われた場合と公訴の提起",
+  "ref_law": "刑訴法39条3項",
+  "lawsuit_id": "58341",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58341",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/341/058341_hanrei.pdf"
+}

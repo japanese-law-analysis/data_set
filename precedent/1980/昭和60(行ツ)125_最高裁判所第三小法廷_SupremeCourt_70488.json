@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 10,
+    "day": 30
+  },
+  "case_number": "昭和60(行ツ)125",
+  "case_name": "相続税更正処分等取消、所得税更正処分等取消",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第152号93頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和56(行コ)16",
+  "original_date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 3,
+    "day": 29
+  },
+  "gist": "課税処分と信義則の適用",
+  "case_gist": "租税法規に適合する課税処分について信義則の法理の適用による違法を考え得るのは、納税者間の平等公平という要請を犠牲にしてもなお当該課税処分に係る課税を免れしめて納税者の信頼を保護しなければ正義に反するといえるような特別の事情が存する場合でなければならず、右特別の事情が存するかどうかの判断に当たつては、少なくとも、税務官庁が納税者に対し信頼の対象となる公的見解を表示し、納税者がその表示を信頼しその信頼に基づいて行動したところ右表示に反する課税処分が行われ、そのために納税者が経済的不利益を受けることになつたものかどうか、納税者が税務官庁の右表示を信頼しその信頼に基づいて行動したことについて納税者の責に帰すべき事由がないかどうか、という点の考慮が不可欠である。",
+  "ref_law": "国税通則法24条，所得税法1条，民法1条2項",
+  "lawsuit_id": "70488",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70488",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/488/070488_hanrei.pdf"
+}

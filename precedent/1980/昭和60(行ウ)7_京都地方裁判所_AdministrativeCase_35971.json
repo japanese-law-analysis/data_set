@@ -1,0 +1,18 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 1,
+    "day": 23
+  },
+  "case_number": "昭和60(行ウ)7",
+  "case_name": "建築許可処分取消等請求事件",
+  "court_name": "京都地方裁判所",
+  "field": "行政",
+  "gist": "市長が京都市風致地区条例（昭和４５年京都市条例第７号）２条に基づいてした風致地区内の土地における建築物及び工作物の新築，宅地造成等の許可処分につき，右土地の周辺住民は，その取消しないし無効確認を求める訴えの原告適格を有しないとした事例",
+  "lawsuit_id": "35971",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=35971",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/971/035971_hanrei.pdf",
+  "contents": ""
+}

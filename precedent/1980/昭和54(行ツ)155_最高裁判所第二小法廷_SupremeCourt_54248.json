@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 2,
+    "day": 18
+  },
+  "case_number": "昭和54(行ツ)155",
+  "case_name": "損失補償裁決取消等",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第37巻1号59頁",
+  "original_court_name": "高松高等裁判所",
+  "original_case_number": "昭和54(行コ)3",
+  "original_date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 9,
+    "day": 19
+  },
+  "gist": "道路法七〇条一項の定める損失の補償の対象",
+  "case_gist": "道路法七〇条一項の定める損失の補償の対象は、道路工事の施行による土地の形状の変更を直接の原因として生じた隣接地の用益又は管理上の障害を除去するためにやむをえない必要があつてした通路、みぞ、かき、さくその他これに類する工作物の新築、増築、修繕若しくは移転又は切土若しくは盛土の工事に起因する損失に限られ、道路工事の施行の結果、危険物の保管場所等につき保安物件との間に一定の離隔距離を保持すべきことを内容とする技術上の基準を定めた警察法規に違反する状態を生じ、危険物保有者が右の基準に適合するように工作物の移転等を余儀なくされたことによつて被つた損失は、右補償の対象には属しない。",
+  "ref_law": "道路法70条1項",
+  "lawsuit_id": "54248",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54248",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/248/054248_hanrei.pdf"
+}

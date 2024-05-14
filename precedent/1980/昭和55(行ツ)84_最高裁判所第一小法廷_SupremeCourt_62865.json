@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 9,
+    "day": 12
+  },
+  "case_number": "昭和55(行ツ)84",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第145号357頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和53(行コ)1",
+  "original_date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 3,
+    "day": 31
+  },
+  "gist": "収賄罪で逮捕された市職員を懲戒免職でなく分限免職にして退職手当を支給したことが地方自治法二四二条一項にいう違法な公金の支出に当たらないとされた事例",
+  "case_gist": "時価八万円相当のガスライター一個及び二〇万円相当のデパートギフト券を収賄したとの容疑で逮捕された市職員を逮捕後四日目に懲戒免職でなく分限免職にして退職手当を支給した場合において、その後間もなく、右職員が前記物品のほかに三〇〇万円の金員を収賄したとの事実で起訴され、有罪判決が確定したとしても、右退職手当の支給をもつて違法な公金の支出に当たるということはできない。",
+  "ref_law": "地方公務員法28条1項3号，地方自治法242条1項，地方自治法242条の2第1項4号",
+  "lawsuit_id": "62865",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62865",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/865/062865_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 11,
+    "day": 26
+  },
+  "case_number": "昭和59(オ)521",
+  "case_name": "財団債権",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第41巻8号1585頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和58(ネ)1629",
+  "original_date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 2,
+    "day": 17
+  },
+  "gist": "請負人の破産と破産法五九条の適用",
+  "case_gist": "請負人が破産宣告を受けた場合には、当該請負契約の目的である仕事が請負人以外の者において完成することのできない性質のものでない限り、右契約について破産法五九条が適用される。",
+  "ref_law": "破産法59条，民法632条",
+  "lawsuit_id": "55201",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55201",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/201/055201_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 3,
+    "day": 25
+  },
+  "case_number": "昭和55(オ)1140",
+  "case_name": "所有権移転請求権仮登記抹消登記手続、土地所有権移転登記承諾",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第36巻3号446頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和54(ネ)612",
+  "original_date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 9,
+    "day": 17
+  },
+  "gist": "所有権移転請求権保全の仮登記の名義人が仮登記と無関係に所有権移転登記を経由した場合と仮登記の本登記請求権及び第三者の右本登記承諾義務の帰すう",
+  "case_gist": "所有権移転請求権保全の仮登記の名義人は、登記上利害関係を有する第三者の承諾書等がないため、仮登記とは無関係に所有権移転登記を経由した場合であつても、特段の事情のない限り、仮登記義務者に対して仮登記の本登記手続を請求する権利を失わず、右仮登記の本登記を承諾すべき第三者の義務も消滅しない。",
+  "ref_law": "不動産登記法2条，不動産登記法7条2項，不動産登記法105条1項，不動産登記法144条，不動産登記法146条1項",
+  "lawsuit_id": "54251",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54251",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/251/054251_hanrei.pdf"
+}

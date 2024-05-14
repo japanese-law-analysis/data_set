@@ -1,0 +1,18 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Showa",
+    "year": 63,
+    "month": 5,
+    "day": 27
+  },
+  "case_number": "昭和62(行ウ)4",
+  "case_name": "事前協議の申出申請却下処分取消請求事件",
+  "court_name": "静岡地方裁判所",
+  "field": "行政",
+  "gist": "県知事が，静岡県が内部規則として定めた静岡県土地利用事業の適正化に関する指導要綱（昭和４９年静岡県告示第１２０９号）１０条の規定に基づいてされた土地利用事業に関する計画についての事前協議の申出を拒否した措置は，抗告訴訟の対象となる行政処分には当たらないとした事例",
+  "lawsuit_id": "36172",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=36172",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/172/036172_hanrei.pdf",
+  "contents": ""
+}

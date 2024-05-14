@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 2,
+    "day": 4
+  },
+  "case_number": "昭和56(オ)1190",
+  "case_name": "建物収去土地明渡",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第135号171頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和54(ネ)341",
+  "original_date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 9,
+    "day": 9
+  },
+  "gist": "非堅固建物の所有を目的とする借地契約において二〇年に一日足りない期間が定められた場合に借地法二条二項の適用が肯定された事例",
+  "case_gist": "非堅固建物の所有を目的とする借地契約における借地期間を昭和三六年一月八日から昭和五六年一月七日までとする旨の約定が存する場合において、右契約の当事者は、借地権の存続期間を借地法二条二項に規定する最短期間である二〇年に定めるつもりであつたところ、民法における初日不算入の原則を考慮しなかつたためか又は計算を誤つたために、形式的には右のような約定になつたものと推認するのが最も自然であると認められるという原判示の事実関係のもとにおいては、本件借地契約の形式、文言にかかわらず、その存続期間を二〇年と定める趣旨であつたと認めるのが相当である。",
+  "ref_law": "借地法2条，借地法11条",
+  "lawsuit_id": "66881",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66881",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/881/066881_hanrei.pdf"
+}

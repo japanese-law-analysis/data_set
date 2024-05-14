@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 6,
+    "day": 12
+  },
+  "case_number": "昭和60(あ)450",
+  "case_name": "道路交通法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第240号195頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 3,
+    "day": 14
+  },
+  "gist": "刑訴規則五六条二項の規定違憲（三一条、三七条一項）の主張が、原判決の結論に影響を及ぼさない事項に関する論難であるとして不適法とされた事例",
+  "ref_law": "憲法31条，憲法37条1項，刑訴規則56条2項",
+  "lawsuit_id": "61863",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61863",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/863/061863_hanrei.pdf"
+}

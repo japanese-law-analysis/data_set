@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 12,
+    "day": 16
+  },
+  "case_number": "昭和55(行ツ)147",
+  "case_name": "土地滅失登記処分取消",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第40巻7号1236頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和51(行コ)5",
+  "original_date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 8,
+    "day": 29
+  },
+  "gist": "海と民法八六条一項にいう土地",
+  "case_gist": "海は、民法施行当時特定の者が排他的総括支配権を取得していたときを除いては、同法八六条一項にいう土地に当たらない。",
+  "ref_law": "民法85条，民法86条1項，不動産登記法1条",
+  "lawsuit_id": "52661",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52661",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/661/052661_hanrei.pdf"
+}

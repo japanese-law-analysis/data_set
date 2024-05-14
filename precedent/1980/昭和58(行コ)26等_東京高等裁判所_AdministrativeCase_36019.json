@@ -1,0 +1,18 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 7,
+    "day": 16
+  },
+  "case_number": "昭和58(行コ)26等",
+  "case_name": "損失補償請求控訴，同附帯控訴事件（原審・東京地方裁判所昭和５３年（行ウ）第１３９号）",
+  "court_name": "東京高等裁判所",
+  "field": "行政",
+  "gist": "１　土地収用による譲渡所得について当該土地の所有者が負担することとなる所得税が，損失補償の対象となる損失に当たらないとされた事例　\n２　\n土地を収用された者の登記手続及び住民登録手続の手数，転居による心労や不安，通学区域変更による不便等が，土地収用に伴う受認義務の範囲内に属し，土地収用法８８条にいう「通常受ける損失」に当たらないとされた事例",
+  "lawsuit_id": "36019",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=36019",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/019/036019_hanrei.pdf",
+  "contents": ""
+}

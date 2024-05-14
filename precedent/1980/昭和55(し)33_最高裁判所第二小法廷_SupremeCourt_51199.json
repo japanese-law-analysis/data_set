@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 5,
+    "day": 19
+  },
+  "case_number": "昭和55(し)33",
+  "case_name": "刑事補償請求事件についてした即時抗告棄却決定に対する特別抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第34巻3号202頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 3,
+    "day": 18
+  },
+  "gist": "刑事補償請求事件についての即時抗告棄却決定謄本が請求人本人と代理人との双方に日を異にして送達された場合と特別抗告申立期間の起算日",
+  "case_gist": "刑事補償請求事件についてされた即時抗告棄却決定の謄本が、請求人本人と即時抗告申立代理人との双方に日を異にして送達された場合における特別抗告申立の期間は、請求人本人に送達された日から進行する。",
+  "ref_law": "刑事補償法9条，刑事補償法14条，刑事補償法19条，刑事補償法23条，刑訴法358条，刑訴法433条",
+  "lawsuit_id": "51199",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51199",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/199/051199_hanrei.pdf"
+}

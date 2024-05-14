@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 12,
+    "day": 7
+  },
+  "case_number": "昭和58(行ツ)19",
+  "case_name": "不動産取得税賦課決定取消",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第38巻12号1287頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和56(行コ)80",
+  "original_date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 11,
+    "day": 30
+  },
+  "gist": "新築の家屋が固定資産税の課税客体となる時期",
+  "case_gist": "新築の家屋は、一連の新築工事が完了した時に、固定資産税の課税客体となる。",
+  "ref_law": "地方税法341条3号，地方税法342条1項",
+  "lawsuit_id": "52703",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52703",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/703/052703_hanrei.pdf"
+}

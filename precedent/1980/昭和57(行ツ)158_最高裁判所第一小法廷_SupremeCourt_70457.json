@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 2,
+    "day": 26
+  },
+  "case_number": "昭和57(行ツ)158",
+  "case_name": "不当労働行為救済命令取消",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集民　第150号263頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和54(行コ)81",
+  "original_date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 8,
+    "day": 10
+  },
+  "gist": "キヤバレーにおいて演奏する楽団の楽団員につき当該キヤバレーを経営する会社が労働組合法七条にいう使用者に当たるとされた事例",
+  "case_gist": "飲食店営業を目的とする会社がその経営するキヤバレーにおいてバンドマスターと数人の楽団員で構成される楽団に長期間継続してダンス音楽等の演奏を行わせている場合において、バンドマスターも含め右楽団の楽団員が年間を通じ右キヤバレーに必要な楽団演奏者としてその営業組織に組み入れられ、右キヤバレーの営業に合わせ、右会社の指定する時間にその包括的に指示する方法に従つて演奏を行い、右会社からバンドマスターに一括して支払われる演奏料は各楽団員の演奏という労務提供の対価とみられるなどの事情があるときは、右会社は、右楽団員に対する関係において労働組合法七条にいう使用者に当たる。",
+  "ref_law": "労働組合法7条",
+  "lawsuit_id": "70457",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70457",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/457/070457_hanrei.pdf"
+}

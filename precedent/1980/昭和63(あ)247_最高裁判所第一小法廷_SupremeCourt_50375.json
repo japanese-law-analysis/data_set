@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 5,
+    "day": 1
+  },
+  "case_number": "昭和63(あ)247",
+  "case_name": "犯人隠避教唆、銃砲刀剣類所持等取締法違反、火薬類取締法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第43巻5号405頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 63,
+    "month": 1,
+    "day": 28
+  },
+  "gist": "逮捕勾留中の犯人の身代りを出頭させる行為と犯人隠避教唆罪の成否",
+  "case_gist": "犯人が逮捕勾留された後であつても、他の者を教唆して身代り犯人として警察署に出頭させ、自己が犯人である旨の虚偽の陳述をさせた行為は、犯人隠避教唆罪を構成する。",
+  "ref_law": "刑法61条1項，刑法103条",
+  "lawsuit_id": "50375",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50375",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/375/050375_hanrei.pdf"
+}

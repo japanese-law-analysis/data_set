@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 11,
+    "day": 10
+  },
+  "case_number": "昭和57(あ)643",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第37巻9号1368頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 3,
+    "day": 25
+  },
+  "gist": "公職選挙法一三八条二項を適用しても憲法二一条、三一条に違反しないとされる場合",
+  "case_gist": "選挙運動のため戸別に演説会の開催又は演説の実施を告知する行為が、単に選挙人に対して右の事実を知らせるというだけの域にとどまらず、その演説会への参加の呼びかけ又はしようようを伴い、その他なんらかの形で選挙人に特定の候補者を強く印象づけてその候補者の投票獲得に有利な効果を生ぜしめようとするものと認められる方法・態様で行われた場合には、これに公職選挙法一三八条二項を適用しても憲法二一条、三一条に違反するものではない。",
+  "ref_law": "公職選挙法138条2項，憲法21条，憲法31条",
+  "lawsuit_id": "50270",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50270",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/270/050270_hanrei.pdf"
+}

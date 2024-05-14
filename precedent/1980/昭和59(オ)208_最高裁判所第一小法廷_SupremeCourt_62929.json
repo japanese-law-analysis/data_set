@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 10,
+    "day": 4
+  },
+  "case_number": "昭和59(オ)208",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第143号9頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和57(ネ)1854",
+  "original_date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 11,
+    "day": 22
+  },
+  "gist": "商法（昭和五六年法律第七四号による改正前のもの）二六六条の三第一項の規定に基づく取締役の損害賠償と民法七二二条二項",
+  "case_gist": "商法（昭和五六年法律第七四号による改正前のもの）二六六条の三第一項の規定に基づく取締役の損害賠償については民法七二二条二項の適用がある。",
+  "ref_law": "民法722条2項，商法（昭和56年法律第74号による改正前のもの）266条の3第1項",
+  "lawsuit_id": "62929",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62929",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/929/062929_hanrei.pdf"
+}

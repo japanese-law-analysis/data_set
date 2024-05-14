@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 11,
+    "day": 8
+  },
+  "case_number": "昭和60(あ)1265",
+  "case_name": "水道法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第253号399頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 8,
+    "day": 30
+  },
+  "gist": "いわゆる武蔵野市長給水拒否事件",
+  "ref_law": "水道法15条1項，水道法53条3号",
+  "lawsuit_id": "58391",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58391",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/391/058391_hanrei.pdf"
+}

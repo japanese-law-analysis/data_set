@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 2,
+    "day": 26
+  },
+  "case_number": "昭和52(行ツ)136",
+  "case_name": "輸入業登録拒否処分取消",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第132号181頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和50(行コ)42",
+  "original_date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 9,
+    "day": 22
+  },
+  "gist": "許可等の申請に対し違法な拒否処分を受けた者の損害賠償請求権の有無",
+  "case_gist": "許可等の申請に対し違法な拒否処分を受けた者が、許可等の処分がされるべき時期にそれがされたならば、その許可等に基づく行為をし、これによつて一定の利益を取得することができる関係にあつたのに、違法に許可等の処分がされなかつたため右の利益を取得することができず、これによつて損害を受けたことを主張するときは、当該処分者の故意、過失が認められる限り、右損害に対する賠償請求権を肯定することができる。",
+  "ref_law": "国家賠償法1条",
+  "lawsuit_id": "74535",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74535",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/535/074535_hanrei.pdf"
+}

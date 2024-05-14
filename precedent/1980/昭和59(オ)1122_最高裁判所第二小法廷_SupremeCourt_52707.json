@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 11,
+    "day": 10
+  },
+  "case_number": "昭和59(オ)1122",
+  "case_name": "親子関係不存在確認等再審",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第43巻10号1085頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和58(ネ)731",
+  "original_date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 6,
+    "day": 19
+  },
+  "gist": "検察官を被告とする認知の確定判決に対する再審の訴えと認知を求められた亡父の子の原告適格",
+  "case_gist": "検察官を被告とする認知の訴えにおいて認知を求められた亡父の子は、右訴えの確定判決に対する再審の訴えの原告適格を有しない。",
+  "ref_law": "民法786条，民法787条，民訴法420条",
+  "lawsuit_id": "52707",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52707",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/707/052707_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 3,
+    "day": 31
+  },
+  "case_number": "昭和57(オ)1391",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集民　第138号437頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和57(ネ)281",
+  "original_date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 9,
+    "day": 16
+  },
+  "gist": "被用者が事業の執行につき第三者に加えた損害にあたらないとされた事例",
+  "case_gist": "使用者の社屋内更衣室において、被用者甲が被用者乙に対して加えた暴行が、前日の事業の執行行為を契機として発生した両者の口論にかかわり合いがある言葉のやりとりに端を発するものであつても、右暴行は必ずしも前日の口論から自然の勢いで発展したものではなく、しかも右前日の口論とは時間的にも場所的にもかなりのへだたりがあることなど、判示の事情のもとでは、右甲の暴行により乙の被つた損害は、使用者の事業の執行につき加えた損害にあたるとはいえない。",
+  "ref_law": "民法715条",
+  "lawsuit_id": "66922",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66922",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/922/066922_hanrei.pdf"
+}

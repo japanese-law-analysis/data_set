@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 6,
+    "day": 3
+  },
+  "case_number": "昭和54(あ)1755",
+  "case_name": "傷害",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第218号1頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 9,
+    "day": 25
+  },
+  "gist": "判例違反の主張が実質量刑不当の主張として不適法処理された事例",
+  "lawsuit_id": "61759",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61759",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/759/061759_hanrei.pdf"
+}

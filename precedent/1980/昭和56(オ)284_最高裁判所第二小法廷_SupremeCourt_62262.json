@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 9,
+    "day": 16
+  },
+  "case_number": "昭和56(オ)284",
+  "case_name": "出勤停止処分無効確認等、従業員地位確認等本訴、独身寮明渡反訴",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集民　第139号503頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和52(ネ)558",
+  "original_date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 12,
+    "day": 24
+  },
+  "gist": "労働者が自宅待機命令に反して工場内への入構を強行し警士を負傷させたこと等を理由とする懲戒解雇が有効とされた事例",
+  "case_gist": "労働者が自宅待機命令に反して工場内への入構を強行し、警士を負傷させ、ベルトコンベアの停止等による職場の混乱を再三にわたり招いたなど、判示の事情があるときは、これを理由とする右労働者に対する懲戒解雇は、社会通念上相当なものとして是認することができ、懲戒権を濫用したものとは認められない。",
+  "ref_law": "労働基準法89条",
+  "lawsuit_id": "62262",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62262",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/262/062262_hanrei.pdf"
+}

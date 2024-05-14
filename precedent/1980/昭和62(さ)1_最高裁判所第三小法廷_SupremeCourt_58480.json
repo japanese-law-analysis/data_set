@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 6,
+    "day": 30
+  },
+  "case_number": "昭和62(さ)1",
+  "case_name": "道路交通法違反、道路運送車両法違反、自動車損害賠償保障法違反被告事件について地方裁判所がした判決に対する非常上告",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集刑　第246号59頁",
+  "original_court_name": "福島地方裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 12,
+    "day": 24
+  },
+  "gist": "処断刑超過による非常上告（原判決について既に執行猶予言渡取消決定が存在する事案に関するもの）",
+  "ref_law": "刑訴法458条",
+  "lawsuit_id": "58480",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58480",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/480/058480_hanrei.pdf"
+}

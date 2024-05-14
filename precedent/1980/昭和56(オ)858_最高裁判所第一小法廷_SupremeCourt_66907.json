@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 11,
+    "day": 26
+  },
+  "case_number": "昭和56(オ)858",
+  "case_name": "登記抹消等再審",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第134号267頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和54(ム)36",
+  "original_date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 5,
+    "day": 19
+  },
+  "gist": "民訴法四二〇条二項後段の法意",
+  "case_gist": "刑事上罰すべき他人の行為により攻撃又は防禦の方法を提出することを妨げられたことを理由に再審を申し立てる当事者は、右犯行に及んだ者が有罪の判決を受けその判決が確定したことを証明するか、又は有罪の確定判決を受ける可能性があるのに、被疑者が死亡したり、公訴権が時効消滅したり、若しくは起訴猶予処分を受けたりしたために有罪の確定判決を得られなかつたことを証明することを要する。",
+  "ref_law": "民訴法420条2項後段",
+  "lawsuit_id": "66907",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66907",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/907/066907_hanrei.pdf"
+}

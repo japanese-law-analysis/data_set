@@ -1,0 +1,23 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 12,
+    "day": 20
+  },
+  "case_number": "昭和60(ク)381",
+  "case_name": "強制執行停止申立事件についてした執行停止決定に対する抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集民　第146号399頁",
+  "original_court_name": "大阪地方裁判所",
+  "original_case_number": "昭和60(モ)7723",
+  "gist": "民訴法五一二条ノ二第一項、五〇〇条三項と憲法三二条",
+  "case_gist": "民訴法五一二条ノ二第二項の強制執行停止決定に対し不服申立の方法を認めていない同条一項、同法五〇〇条三項は、憲法三二条に違反しない。",
+  "ref_law": "民訴法512条ノ2第1項，民訴法2項，民訴法500条3項",
+  "lawsuit_id": "62966",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62966",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/966/062966_hanrei.pdf"
+}

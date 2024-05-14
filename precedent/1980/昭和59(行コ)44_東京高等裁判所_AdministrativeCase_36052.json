@@ -1,0 +1,19 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 1,
+    "day": 22
+  },
+  "case_number": "昭和59(行コ)44",
+  "case_name": "差押処分無効確認等請求控訴事件（原審・東京地方裁判所昭和５７年（行ウ）第６５号）",
+  "court_name": "東京高等裁判所",
+  "field": "行政",
+  "gist": "酒類販売業について免許制度を採用した酒税法９条１項の規定は，憲法２２条１項に違反するか",
+  "case_gist": "酒類販売業について免許制度を採用した酒税法９条１項の規定は，憲法２２条１項に違反しない。",
+  "lawsuit_id": "36052",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=36052",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/052/036052_hanrei.pdf",
+  "contents": ""
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 10,
+    "day": 30
+  },
+  "case_number": "昭和56(オ)73",
+  "case_name": "土地所有権移転登記抹消、同当事者参加",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集民　第134号153頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和51(ネ)1442",
+  "original_date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 10,
+    "day": 29
+  },
+  "gist": "所有権移転の無効を主張することが信義則に照らして許されないとされた事例",
+  "case_gist": "甲が、不動産について、共同相続によつて持分しか取得しなかつたにもかかわらず、自己が単独相続したとして、その旨の所有権移転登記を経由したうえ、乙に右不動産を売り渡してその旨の登記をしたときは、甲は、乙及び乙からの転得者丙に対し、自己が取得した持分をこえる部分についての右所有権移転が無効であると主張して、その抹消（更正）登記手続を請求することは、信義則に照らして許されない。",
+  "ref_law": "民法1条",
+  "lawsuit_id": "66903",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66903",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/903/066903_hanrei.pdf"
+}

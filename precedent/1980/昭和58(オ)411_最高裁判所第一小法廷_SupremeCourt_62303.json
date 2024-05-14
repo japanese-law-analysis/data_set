@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 2,
+    "day": 23
+  },
+  "case_number": "昭和58(オ)411",
+  "case_name": "売掛代金",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第141号269頁",
+  "original_court_name": "高松高等裁判所",
+  "original_case_number": "昭和57(ネ)80",
+  "original_date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 1,
+    "day": 20
+  },
+  "gist": "いわゆる第一次産業ないし原始産業に属しない生産者の産物の代価と民法一七三条一号の適用",
+  "case_gist": "民法一七三条一号は、いわゆる第一次産業ないし原始産業に属しない生産者の産物の代価についても適用がある。",
+  "ref_law": "民法173条1号",
+  "lawsuit_id": "62303",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62303",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/303/062303_hanrei.pdf"
+}

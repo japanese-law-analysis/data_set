@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 4,
+    "day": 27
+  },
+  "case_number": "昭和59(オ)3",
+  "case_name": "労災保険金代位請求事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第43巻4号278頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和57(ネ)1859",
+  "original_date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 10,
+    "day": 18
+  },
+  "gist": "使用者の損害賠償債務の履行と労働者災害補償保険法に基づく保険給付請求権の代位取得",
+  "case_gist": "労働者の業務上の災害に関して損害賠償債務を履行した使用者は、賠償された損害に対応する労働者災害補償保険法に基づく保険給付請求権を代位取得しない。",
+  "ref_law": "民法422条，労働基準法84条2項，労働者災害補償保険法67条",
+  "lawsuit_id": "52190",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52190",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/190/052190_hanrei.pdf"
+}

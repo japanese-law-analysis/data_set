@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 3,
+    "day": 28
+  },
+  "case_number": "昭和58(行ツ)101",
+  "case_name": "審決取消",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集民　第144号399頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和56(行ケ)82",
+  "original_date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 3,
+    "day": 24
+  },
+  "gist": "特許出願の明細書の補正却下の決定に対する審判請求を排斥した審決の取消訴訟の係属中に特許出願の放棄がされた場合における訴えの利益の有無",
+  "case_gist": "特許出願の明細書の補正却下の決定に対する審判請求を排斥した審決の取消訴訟の係属中に特許出願の放棄がされた場合には、取消訴訟の訴えの利益は失われる。",
+  "ref_law": "特許法9条，特許法14条，特許法52条3項，特許法52条4項，特許法53条1項，特許法122条1項，行政事件訴訟法9条",
+  "lawsuit_id": "62911",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62911",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/911/062911_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 9,
+    "day": 6
+  },
+  "case_number": "昭和56(行ツ)50",
+  "case_name": "入会林野整備計画の認可無効確認",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第145号349頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_case_number": "昭和55(行コ)5",
+  "original_date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 12,
+    "day": 17
+  },
+  "gist": "入会権を主張する者と入会林野整備計画認可処分の無効確認訴訟の原告適格の有無",
+  "case_gist": "入会林野等に係る権利関係の近代化の助長に関する法律一一条に基づく入会林野整備計画の認可の対象となつた入会林野につき入会権を主張する者は、右認可処分の無効確認を求める訴えの原告適格を有しない。",
+  "ref_law": "行政事件訴訟法36条，入会林野等に係る権利関係の近代化の助長に関する法律11条，入会林野等に係る権利関係の近代化の助長に関する法律12条",
+  "lawsuit_id": "62877",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62877",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/877/062877_hanrei.pdf"
+}

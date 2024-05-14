@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 2,
+    "day": 17
+  },
+  "case_number": "昭和55(あ)515",
+  "case_name": "覚せい剤取締法違反、関税法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第36巻2号206頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 12,
+    "day": 5
+  },
+  "gist": "一　幇助罪の個数\n二　幇助罪が数個成立する場合と刑法五四条一項にいう一個の行為",
+  "case_gist": "一　幇助罪の個数は、正犯の罪のそれに従つて決定される。\n二　幇助罪が数個成立する場合において、それらが刑法五四条一項にいう一個の行為によるものであるか否かは、幇助行為それ自体についてみるべきである。",
+  "ref_law": "刑法54条1項，刑法62条1項，覚せい剤取締法41条1項1号",
+  "lawsuit_id": "57031",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57031",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/031/057031_hanrei.pdf"
+}

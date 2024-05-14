@@ -1,0 +1,18 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 10,
+    "day": 20
+  },
+  "case_number": "昭和60(行ウ)148",
+  "case_name": "外国人登録原票訂正申請棄却処分の取消請求事件における受継申立事件",
+  "court_name": "東京地方裁判所",
+  "field": "行政",
+  "gist": "外国人登録法の適用を受ける外国人の居住地の変更に伴って，同法８条に基づき，旧居住地の区長から右外国人に関する登録原票の送付を受けた新居住地の市長は，右登録原票を訂正する権限を承継することになるから，右居住地の変更前に提起された外国人登録原票訂正申請棄却処分取消訴訟の被告適格を承継するが，法務大臣によって指定された訴訟代理人がいない場合には，民事訴訟法２０９条の準用により訴訟手続は中断するとして，右市長に対し，右訴訟手続の受継を命じた事例",
+  "lawsuit_id": "36041",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=36041",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/041/036041_hanrei.pdf",
+  "contents": ""
+}

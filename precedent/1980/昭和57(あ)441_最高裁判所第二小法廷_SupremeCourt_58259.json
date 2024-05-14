@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 2,
+    "day": 17
+  },
+  "case_number": "昭和57(あ)441",
+  "case_name": "傷害",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第234号787頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 2,
+    "day": 3
+  },
+  "gist": "受傷直後の行動に関する被害者の供述中に一部事実に反する点はあるが、その被害状況に関する供述の信用性は否定し難く、刑訴法四一一条を適用すべきでないとされた事例",
+  "ref_law": "刑法204条，刑訴法411条3号",
+  "lawsuit_id": "58259",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58259",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/259/058259_hanrei.pdf"
+}

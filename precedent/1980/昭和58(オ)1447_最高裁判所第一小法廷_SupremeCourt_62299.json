@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 4,
+    "day": 3
+  },
+  "case_number": "昭和58(オ)1447",
+  "case_name": "否認権行使",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第147号489頁",
+  "original_court_name": "仙台高等裁判所\n        　秋田支部",
+  "original_case_number": "昭和57(ネ)99",
+  "original_date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 9,
+    "day": 26
+  },
+  "gist": "立証についての釈明権の不行使が違法とされた事例",
+  "case_gist": "破産管財人が破産者のした代物弁済を否認してその相手方に対し目的物である中古トラックの価額償還を求める訴訟において、裁判所が価額償還請求権の発生を肯認する判断に達したが、否認権行使時の時価については原告の主たる立証の対象とならず、また被告もこれを積極的に争わないという場合に、代物弁済時及び相手方の処分時の価額については書証があつて、否認権行使時の時価が零であるとは到底考えられず、またその立証も可能であるなど判示のような事情があるときは、裁判所は、右時価の立証を促すべきであり、かかる措置に出ることなく、その立証がないとの理由で請求を排斥することは、釈明権不行使、審理不尽の違法を免れない。",
+  "ref_law": "破産法72条，破産法77条，民訴法127条",
+  "lawsuit_id": "62299",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62299",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/299/062299_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 10,
+    "day": 30
+  },
+  "case_number": "昭和55(あ)1081",
+  "case_name": "窃盗、道路交通法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第34巻5号357頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 6,
+    "day": 3
+  },
+  "gist": "窃盗罪の成立に必要な不正領得の意思があるとされた事例",
+  "case_gist": "他人所有の普通乗用自動車を、数時間にわたつて完全に自己の支配下に置く意図のもとに、駐車場から所有者に無断で乗り出し、その後約四時間余りの間乗り廻していたなどの事情があるときは、たとえ、使用後に元の場所に戻しておくつもりであつたとしても、右自動車に対する不正領得の意思があつたということができる。",
+  "ref_law": "刑法235条",
+  "lawsuit_id": "50215",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50215",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/215/050215_hanrei.pdf"
+}

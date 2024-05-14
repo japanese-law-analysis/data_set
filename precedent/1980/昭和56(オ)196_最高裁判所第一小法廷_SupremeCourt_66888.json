@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 10,
+    "day": 1
+  },
+  "case_number": "昭和56(オ)196",
+  "case_name": "債務不存在確認本訴、約束手形金反訴",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第134号1頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和54(ネ)804",
+  "original_date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 12,
+    "day": 2
+  },
+  "gist": "約束手形の受取人の氏名に続けて「限り」と明白に読みとれる記載がある場合と手形法一一条二項",
+  "case_gist": "統一手形用紙を使用した約束手形の受取人欄に受取人の氏名に続けて「限り」と明白に読みとれる記載がある場合には、右記載は、手形法一一条二項にいう指図禁止と同一の意義を有する文言の記載にあたる。",
+  "ref_law": "手形法11条2項，手形法77条1項",
+  "lawsuit_id": "66888",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66888",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/888/066888_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 12,
+    "day": 14
+  },
+  "case_number": "昭和58(オ)1542",
+  "case_name": "賃金",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第43巻12号1895頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和56(ネ)719",
+  "original_date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 8,
+    "day": 31
+  },
+  "gist": "前年の稼働率によって従業員を翌年度の賃金引上げ対象者から除外する旨の労働協約条項の一部が公序に反し無効とされた事例",
+  "case_gist": "すべての原因による不就労を基礎として算出した前年の稼働率が八〇パーセント以下の従業員を翌年度のベースアップを含む賃金引上げの対象者から除外する旨の労働協約条項は、そのうち労働基準法又は労働組合法上の権利に基づくもの以外の不就労を稼働率算定の基礎とする部分は有効であるが、右各権利に基づく不就労を稼働率算定の基礎とする部分は公序に反し無効である。",
+  "ref_law": "民法90条，労働基準法39条，労働基準法65条，労働基準法66条，労働基準法67条，労働基準法68条，労働基準法76条，労働組合法第2章，労働組合法14条，労働組合法16条，憲法28条",
+  "lawsuit_id": "52696",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52696",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/696/052696_hanrei.pdf"
+}

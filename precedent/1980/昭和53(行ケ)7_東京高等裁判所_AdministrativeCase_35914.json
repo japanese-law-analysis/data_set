@@ -1,0 +1,18 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 12,
+    "day": 17
+  },
+  "case_number": "昭和53(行ケ)7",
+  "case_name": "裁決取消請求事件",
+  "court_name": "東京高等裁判所",
+  "field": "行政",
+  "gist": "倒産会社の債権者委員会から債権回収の委任を受け，回収して保管中の預り金の中から，債権回収実額を基礎として弁護士報酬規定により算出した報酬額２５２万５９４１円を超える６０２万５１０６円を報酬として控除して取得し，かつ，本来右委員会に請求し得ない諸経費１７６万８０４９円を控除して取得し，又は費消したことが，弁護士会の信用を害し，弁護士としての品位を失うべき非行に当たるとしてした弁護士会の弁護士に対する業務停止１箇月の懲戒処分が，裁量権の範囲を超え，又は裁量権を濫用した違法はないとされた事例",
+  "lawsuit_id": "35914",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=35914",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/914/035914_hanrei.pdf",
+  "contents": ""
+}

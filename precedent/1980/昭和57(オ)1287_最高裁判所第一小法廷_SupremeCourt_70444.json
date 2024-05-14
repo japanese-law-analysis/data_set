@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 10,
+    "day": 29
+  },
+  "case_number": "昭和57(オ)1287",
+  "case_name": "地位確認",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第152号63頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和51(ネ)1803",
+  "original_date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 8,
+    "day": 17
+  },
+  "gist": "労働組合の組合員がいわゆる組合員再登録申請をしなかつたことをもつて組合員資格を喪失したとすることはできないとされた事例",
+  "case_gist": "労働組合の規約上、いわゆる組合員再登録についての定めがなく、組合員がその意思に反して組合員資格を喪失する事由としては除名の制裁を受けたとき以外に定められていない場合において、当該再登録は適格性審査を経て行われるなど判示の事実関係（原判決参照）のもとでは、組合員が右再登録の申請をしなかつたことをもつて組合員資格を喪失したとすることはできない。",
+  "ref_law": "労働組合法第2章",
+  "lawsuit_id": "70444",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70444",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/444/070444_hanrei.pdf"
+}

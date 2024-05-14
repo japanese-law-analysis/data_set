@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 4,
+    "day": 25
+  },
+  "case_number": "昭和59(行ツ)286",
+  "case_name": "特許出願審査請求不受理処分取消",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集民　第147号637頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和58(行コ)75",
+  "original_date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 5,
+    "day": 31
+  },
+  "gist": "特許法四八条の三第一項所定の出願審査請求の期間と民訴法一五九条一項の準用ないし類推適用の有無",
+  "case_gist": "特許法四八条の三第一項所定の出願審査請求の期間につき民訴法一五九条一項の規定を準用ないし類推適用する余地はない。",
+  "ref_law": "特許法48条の3第1項，民訴法159条1項",
+  "lawsuit_id": "62331",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62331",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/331/062331_hanrei.pdf"
+}

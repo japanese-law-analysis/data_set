@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 7,
+    "day": 10
+  },
+  "case_number": "昭和60(オ)149",
+  "case_name": "差押債権取立",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第151号409頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和58(ネ)413",
+  "original_date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 10,
+    "day": 31
+  },
+  "gist": "国民金融公庫の代理貸付に関する代理業務契約書八条の意義",
+  "case_gist": "国民金融公庫の代理貸付に関する代理業務契約書八条の規定は、国民金融公庫の代理貸付金債権の五〇パーセントについてのみ受託金融機関の保証責任を定めたものであつて、一〇〇パーセントの保証責任を定めたものではない。",
+  "ref_law": "民法446条，国民金融公庫法4条",
+  "lawsuit_id": "70482",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70482",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/482/070482_hanrei.pdf"
+}

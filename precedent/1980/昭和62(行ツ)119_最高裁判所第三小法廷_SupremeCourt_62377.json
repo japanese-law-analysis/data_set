@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 1,
+    "day": 17
+  },
+  "case_number": "昭和62(行ツ)119",
+  "case_name": "雇用関係存在確認等請求事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第156号1頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和59(行コ)6",
+  "original_date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 7,
+    "day": 8
+  },
+  "gist": "地方公務員法二八条四項、一六条二号と憲法一三条、一四条一項",
+  "case_gist": "地方公務員法二八条四項、一六条二号は、憲法一三条、一四条一項に違反しない。",
+  "ref_law": "地方公務員法28条4項，地方公務員法16条2号，憲法13条，憲法14条1項",
+  "lawsuit_id": "62377",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62377",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/377/062377_hanrei.pdf"
+}

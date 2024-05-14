@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 1,
+    "day": 9
+  },
+  "case_number": "昭和60(し)135",
+  "case_name": "保護処分取消事件についてした抗告棄却決定に対する再抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第242号1頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 11,
+    "day": 1
+  },
+  "gist": "少年法二七条の二第一項による保護処分取消と憲法一三条、一四条、三二条",
+  "case_gist": "少年に対する保護処分の執行が終了した後においては、もはや少年法二七条の二第一項によりその保護処分を取り消す余地はないと解釈しても、憲法一三条、一四条、三二条に違反しない。",
+  "ref_law": "少年法27条の2第1項，憲法13条，憲法14条，憲法32条",
+  "lawsuit_id": "58417",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58417",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/417/058417_hanrei.pdf"
+}

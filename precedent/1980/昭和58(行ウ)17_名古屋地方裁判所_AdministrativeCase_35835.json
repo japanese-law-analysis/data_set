@@ -1,0 +1,18 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 4,
+    "day": 26
+  },
+  "case_number": "昭和58(行ウ)17",
+  "case_name": "所得税更正処分取消請求事件",
+  "court_name": "名古屋地方裁判所",
+  "field": "行政",
+  "gist": "会社役員をしている者が６年間にわたって年間数百回行っていた商品先物取引が，営利性及び継続性は認められるとしても，所得税法施行令６３条１２号にいう「事業」には当たらないとして，事業所得の金額を計算するのに右取引による損失額を算入することはできないとした事例",
+  "lawsuit_id": "35835",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=35835",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/835/035835_hanrei.pdf",
+  "contents": ""
+}

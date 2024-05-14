@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 12,
+    "day": 15
+  },
+  "case_number": "平成1(あ)551",
+  "case_name": "覚せい剤取締法違反、保護者遺棄致死",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第43巻13号879頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 1,
+    "day": 26
+  },
+  "gist": "救急医療を要請しなかつた不作為と被害者の死の結果との間に因果関係が認められた事例",
+  "case_gist": "被告人らによつて注射された覚せい剤により被害者の女性が錯乱状態に陥つた時点において、直ちに被告人が救急医療を要請していれば、同女の救命が合理的な疑いを超える程度に確実であつたと認められる本件事案の下では、このような措置をとらなかつた被告人の不作為と同女の死亡との間には因果関係がある。",
+  "ref_law": "刑法第1編第7章，刑法218条1項，刑法219条",
+  "lawsuit_id": "50108",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50108",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/108/050108_hanrei.pdf"
+}

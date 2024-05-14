@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 3,
+    "day": 27
+  },
+  "case_number": "昭和54(オ)1331",
+  "case_name": "親子関係不存在確認",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第129号353頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和54(ネ)552",
+  "original_date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 9,
+    "day": 25
+  },
+  "gist": "嫡出の否認につき訴によるべきこと及び右訴について出訴期間を定めた民法の規定と憲法一三条、一四条一項",
+  "case_gist": "嫡出の推定を受ける子につき夫がその嫡出であることを否認するためには嫡出否認の訴によるべきものとし、かつ、右訴につき出訴期間を定めた民法の規定は、憲法一三条、一四条一項に違反しない（昭和二八年（オ）第三八九号同三〇年七月二〇日大法廷判決・民集九巻九号一一二二頁、昭和五四年（オ）第一四九号同五四年六月二一日第一小法廷判決・裁判集民事第一二七号一一七頁）。",
+  "ref_law": "民法774条，民法775条，民法777条，憲法13条，憲法14条1項",
+  "lawsuit_id": "64306",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64306",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/306/064306_hanrei.pdf"
+}

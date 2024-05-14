@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 11,
+    "day": 30
+  },
+  "case_number": "昭和56(し)154",
+  "case_name": "強盗殺人、死体遺棄、窃盗被告事件の確定判決に対する再審請求事件に対する即時抗告棄却決定に対する特別抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第232号1001頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 11,
+    "day": 24
+  },
+  "gist": "いわゆる牟礼事件第七次再審請求事件",
+  "lawsuit_id": "58223",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58223",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/223/058223_hanrei.pdf"
+}

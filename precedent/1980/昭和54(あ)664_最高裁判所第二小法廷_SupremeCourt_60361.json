@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 5,
+    "day": 30
+  },
+  "case_number": "昭和54(あ)664",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第217号721頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 2,
+    "day": 14
+  },
+  "gist": "一　公選法一四二条一項、二四三条三号と憲法一五条、二一条\n二　公選法二五二条と憲法三一条\n三　公訴権濫用を理由とする公訴棄却を否定した原判断が、憲法三一条、三二条、三七条及び高裁判例に違反する旨の主張が不適法とされた事例",
+  "ref_law": "憲法15条，憲法21条1項，憲法31条，憲法32条，憲法37条",
+  "lawsuit_id": "60361",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60361",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/361/060361_hanrei.pdf"
+}

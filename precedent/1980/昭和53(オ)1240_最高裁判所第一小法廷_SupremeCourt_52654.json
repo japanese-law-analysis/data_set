@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 11,
+    "day": 21
+  },
+  "case_number": "昭和53(オ)1240",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第39巻7号1512頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_case_number": "昭和49(ネ)299",
+  "original_date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 5,
+    "day": 24
+  },
+  "gist": "一　国会議員の立法行為と国家賠償責任\n二　在宅投票制度を廃止しこれを復活しなかつた立法行為の違法性の有無",
+  "case_gist": "一　国会議員の立法行為は、立法の内容が憲法の一義的な文言に違反しているにもかかわらずあえて当該立法を行うというごとき例外的な場合でない限り、国家賠償法一条一項の適用上、違法の評価を受けるものではない。\n二　在宅投票制度を廃止しこれを復活しなかつた立法行為は、国家賠償法一条一項にいう違法な行為に当たらない。",
+  "ref_law": "国家賠償法1条1項，公職選挙法49条1項",
+  "lawsuit_id": "52654",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52654",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/654/052654_hanrei.pdf"
+}

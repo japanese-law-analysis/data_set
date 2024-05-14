@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 6,
+    "day": 10
+  },
+  "case_number": "昭和60(あ)443",
+  "case_name": "道路交通法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第240号177頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 3,
+    "day": 6
+  },
+  "gist": "判決書に公判出席弁護人の氏名を記載するか否かは憲法三七条三項と直接関係がないとして同条項違反の主張が排斥された事例",
+  "ref_law": "憲法37条3項",
+  "lawsuit_id": "61860",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61860",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/860/061860_hanrei.pdf"
+}

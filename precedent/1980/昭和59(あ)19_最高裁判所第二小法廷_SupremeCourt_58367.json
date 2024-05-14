@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 4,
+    "day": 21
+  },
+  "case_number": "昭和59(あ)19",
+  "case_name": "恐喝",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集刑　第251号657頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 11,
+    "day": 25
+  },
+  "gist": "恐喝の事実につき審理不尽ないし事実誤認の疑いがあるとして原判決を破棄差戻した事例",
+  "ref_law": "刑法249条，刑訴法411条1号，刑訴法411条3号",
+  "lawsuit_id": "58367",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58367",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/367/058367_hanrei.pdf"
+}

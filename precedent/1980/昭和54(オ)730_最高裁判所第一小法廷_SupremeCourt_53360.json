@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 1,
+    "day": 24
+  },
+  "case_number": "昭和54(オ)730",
+  "case_name": "詐害行為取消等",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第34巻1号110頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和53(ネ)472",
+  "original_date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 2,
+    "day": 26
+  },
+  "gist": "債権者の債権成立前にされた不動産物権の譲渡行為につき債権成立後に登記が経由された場合と詐害行為取消権の成否",
+  "case_gist": "不動産物権の譲渡行為が債権者の債権成立前にされた場合には、その登記が右債権成立後に経由されたときであつても、詐害行為取消権は成立しない。",
+  "ref_law": "民法424条",
+  "lawsuit_id": "53360",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53360",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/360/053360_hanrei.pdf"
+}

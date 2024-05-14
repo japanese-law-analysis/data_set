@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 9,
+    "day": 28
+  },
+  "case_number": "昭和57(オ)1419",
+  "case_name": "訴訟代理人解任無効確認",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第38巻9号1121頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和57(ネ)851",
+  "original_date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 9,
+    "day": 28
+  },
+  "gist": "代表取締役の職務執行停止及び職務代行者選任の仮処分がされた場合にその本案訴訟において会社を代表すべき者",
+  "case_gist": "株主総会における取締役選任決議の無効確認請求訴訟を本案とする代表取締役の職務執行停止及び職務代行者選任の仮処分がされた場合に、本案訴訟において会社を代表すべき者は、職務の執行を停止された代表取締役ではなく、代表取締役職務代行者である。",
+  "ref_law": "商法270条1項，商法271条1項，民訴法58条",
+  "lawsuit_id": "52679",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52679",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/679/052679_hanrei.pdf"
+}

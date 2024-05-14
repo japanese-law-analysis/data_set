@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 3,
+    "day": 10
+  },
+  "case_number": "昭和62(し)17",
+  "case_name": "名誉毀損被告事件についてした裁判所書記官忌避申立却下決定に対する即時抗告棄却決定に対する特別抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第245号733頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 2,
+    "day": 10
+  },
+  "gist": "裁判所書記官忌避申立却下の裁判と不服申立の利益",
+  "case_gist": "書記官忌避申立却下の裁判は、当該書記官の関与する被告事件の審理が終了し、判決宣告を終つた後においては、これを取り消す実益が失われるものと解するのが相当である。",
+  "ref_law": "刑訴法25条，刑訴法26条，刑訴法433条",
+  "lawsuit_id": "58486",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58486",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/486/058486_hanrei.pdf"
+}

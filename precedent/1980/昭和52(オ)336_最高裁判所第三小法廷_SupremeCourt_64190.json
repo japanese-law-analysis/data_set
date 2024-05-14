@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 6,
+    "day": 16
+  },
+  "case_number": "昭和52(オ)336",
+  "case_name": "建物収去土地明渡等",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第133号47頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和47(ネ)227",
+  "original_date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 10,
+    "day": 28
+  },
+  "gist": "建物所有を目的とする土地賃貸借契約の更新拒絶に正当事由があるかどうかを判断する場合において第三者である建物賃借人の事情を斟酌することの可否",
+  "case_gist": "建物所有を目的とする土地賃貸借契約の更新につき土地所有者が自ら土地を使用する必要があるとして異議を述べ、これに対し借地権者が契約が更新されないときは建物の買取を請求する旨の意思表示をした場合において、建物買取後に土地所有者のなすべき建物賃貸借契約の解約申入につき正当事由が肯認されるかどうかは、右異議に関する正当事由の存否の判断において斟酌すべき事情とはならない。",
+  "ref_law": "借地法4条1項，借地法6条2項",
+  "lawsuit_id": "64190",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64190",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/190/064190_hanrei.pdf"
+}

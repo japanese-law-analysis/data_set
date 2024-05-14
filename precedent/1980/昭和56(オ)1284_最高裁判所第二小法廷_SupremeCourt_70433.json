@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 10,
+    "day": 15
+  },
+  "case_number": "昭和56(オ)1284",
+  "case_name": "慰謝料",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第137号333頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和56(ネ)105",
+  "original_date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 9,
+    "day": 22
+  },
+  "gist": "民法七二四条にいう「加害者ヲ知リタル時」の認定事例",
+  "case_gist": "町が事実上管理していた防火用水槽に転落して死亡した幼児の両親は、右防火用水槽がその居住地域に設置された唯一の水利施設であること及び法令上消防用水利施設の管理等の責任が市町村にあることなど、原判示の事情のもとにおいては、右死亡事故による損害賠償請求のため新聞社に照会の結果、防火用水槽の管理責任を追求するよう示唆を受けたことによつて、そのころ、右防火用水槽の管理責任が町にあることを知るに至つたというべきである。",
+  "ref_law": "民法724条",
+  "lawsuit_id": "70433",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70433",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/433/070433_hanrei.pdf"
+}

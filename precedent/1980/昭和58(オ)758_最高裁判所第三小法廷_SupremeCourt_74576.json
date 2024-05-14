@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 11,
+    "day": 15
+  },
+  "case_number": "昭和58(オ)758",
+  "case_name": "土地占有妨害停止本訴、土地賃借権確認等反訴",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第140号463頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和57(ネ)1174",
+  "original_date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 3,
+    "day": 30
+  },
+  "gist": "農地についての賃貸借契約が合意解除されたのちに右農地の転用届出がされたうえ右土地が宅地化された場合において右合意解除が知事の許可なしに効力を生ずるとされた事例",
+  "case_gist": "農地についての賃貸借契約が合意解除されたのち、貸主が、農業委員会に対し、農地法四条一項五号に基づく転用届出をしたうえ宅地化したような場合には、右宅地化により、右合意解除は、同法二〇条に基づく知事の許可を経ることなしに、完全にその効力を生ずる。",
+  "ref_law": "農地法2条1項，農地法20条",
+  "lawsuit_id": "74576",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74576",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/576/074576_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 12,
+    "day": 18
+  },
+  "case_number": "昭和51(オ)1089",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第34巻7号888頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和49(ネ)192",
+  "original_date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 7,
+    "day": 14
+  },
+  "gist": "一　安全保証義務違背を理由とする債務不履行に基づく損害賠償債務の履行遅滞となる時期\n二　安全保証義務違背の債務不履行により死亡した者の遺族と固有の慰藉料請求権の有無",
+  "case_gist": "一　安全保証義務違背を理由とする債務不履行に基づく損害賠償債務は、期限の定めのない債務であり、債権者から履行の請求を受けた時に履行遅滞となる。\n二　安全保証義務違背の債務不履行により死亡した者の遺族は、固有の慰藉料請求権を有しない。",
+  "ref_law": "民法412条，民法415条",
+  "lawsuit_id": "53262",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53262",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/262/053262_hanrei.pdf"
+}

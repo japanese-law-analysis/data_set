@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 11,
+    "day": 10
+  },
+  "case_number": "昭和60(あ)1084",
+  "case_name": "兇器準備集合、殺人",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第247号281頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 6,
+    "day": 26
+  },
+  "gist": "いわゆる四九・一〇・三東大井内ゲバ殺人事件",
+  "lawsuit_id": "58388",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58388",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/388/058388_hanrei.pdf"
+}

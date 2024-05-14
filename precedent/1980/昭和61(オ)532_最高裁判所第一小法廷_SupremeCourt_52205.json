@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 63,
+    "month": 12,
+    "day": 1
+  },
+  "case_number": "昭和61(オ)532",
+  "case_name": "損害賠償等請求事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第42巻10号719頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和59(ネ)1545",
+  "original_date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 12,
+    "day": 26
+  },
+  "gist": "競売手続において抹消された所有権に関する仮登記の権利者かち仮登記の後に登記を経由した抵当権者に対する代価の不当利得返還請求の可否",
+  "case_gist": "先に登記を経由した抵当権者に対抗することができないために競売手続において抹消された所有権に関する仮登記の権利者は、仮登記の後に登記を経由した抵当権者に対して、不当利得を理由として、その者が交付を受けた代価の返還を請求することはできない。",
+  "ref_law": "民法703条，競売法33条，民事執行法84条，民事執行法188条，不動産登記法105条1項，不動産登記法146条1項，仮登記担保契約に関する法律15条2項",
+  "lawsuit_id": "52205",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52205",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/205/052205_hanrei.pdf"
+}

@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 1,
+    "day": 25
+  },
+  "case_number": "昭和57(あ)1507",
+  "case_name": "住居侵入、窃盗",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第230号1頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 10,
+    "day": 6
+  },
+  "gist": "同種前科があることを被告人の発行を推認する情況証拠のひとつとして考慮するのは憲法違反であるとの主張が「欠前提」とされた事例",
+  "lawsuit_id": "58240",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58240",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/240/058240_hanrei.pdf"
+}

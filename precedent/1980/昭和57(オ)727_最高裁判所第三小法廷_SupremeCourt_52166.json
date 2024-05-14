@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 4,
+    "day": 24
+  },
+  "case_number": "昭和57(オ)727",
+  "case_name": "請求異議",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第38巻6号687頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和56(ネ)2923",
+  "original_date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 4,
+    "day": 8
+  },
+  "gist": "動産執行による時効中断の効力発生時期",
+  "case_gist": "動産執行による金銭債権の消滅時効中断の効力は、債権者が執行官に対しその執行の申立をした時に生ずる。",
+  "ref_law": "民法147条，民事執行法2条，民事執行法122条1項",
+  "lawsuit_id": "52166",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52166",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/166/052166_hanrei.pdf"
+}

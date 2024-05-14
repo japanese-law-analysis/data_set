@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 4,
+    "day": 24
+  },
+  "case_number": "昭和57(行ツ)27",
+  "case_name": "審決取消",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第38巻6号653頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和55(行ケ)136",
+  "original_date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 11,
+    "day": 5
+  },
+  "gist": "一　訂正審判の係属中に当該実用新案登録の無効審決が確定した場合における訂正審判の請求の適否\n二　訂正審判の請求が成り立たない旨の審決の取消訴訟の係属中に当該実用新案登録の無効審決が確定した場合における訴えの利益の有無",
+  "case_gist": "一　実用新案登録に関する訂正審判の係属中に当該実用新案登録を無効にする審決が確定した場合には、訂正審判の請求は不適法となる。\n二　実用新案登録に関する訂正審判の請求につき請求が成り立たない旨の審決の取消訴訟の係属中に当該実用新案登録を無効にする審決が確定した場合には、取消訴訟の訴えの利益は失われる。",
+  "ref_law": "実用新案法37条，実用新案法39条，実用新案法41条，特許法125条，特許法135条，行政事件訴訟法9条",
+  "lawsuit_id": "52171",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52171",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/171/052171_hanrei.pdf"
+}

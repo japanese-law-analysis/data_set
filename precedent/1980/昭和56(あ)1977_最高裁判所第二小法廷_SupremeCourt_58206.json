@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 5,
+    "day": 4
+  },
+  "case_number": "昭和56(あ)1977",
+  "case_name": "道路交通法違反、業務上過失致死",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第227号293頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 1,
+    "day": 25
+  },
+  "gist": "刑の言渡の効力を失なつた前科であつても量刑上参酌することは憲法でないとして、憲法一四条一項違反の主張が欠前提とされた事例",
+  "ref_law": "憲法14条1項，刑法27条，刑法34条の2第1項",
+  "lawsuit_id": "58206",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58206",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/206/058206_hanrei.pdf"
+}

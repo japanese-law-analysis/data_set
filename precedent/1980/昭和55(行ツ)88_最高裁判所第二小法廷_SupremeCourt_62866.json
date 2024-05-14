@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 11,
+    "day": 29
+  },
+  "case_number": "昭和55(行ツ)88",
+  "case_name": "仮換地指定処分取消",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集民　第146号219頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和53(行コ)32",
+  "original_date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 4,
+    "day": 17
+  },
+  "gist": "一　使用収益開始の日を追つて定める旨通知してされた仮換地指定の効力\n二　使用収益開始の日を追つて定める旨通知されたため仮換地の使用収益ができない場合と照応の原則",
+  "case_gist": "一　土地区画整理事業の遂行上仮換地を指定する必要がある場合において、仮換地上に存する使用収益の障害となる物件の除去の時期を確定することができず、仮換地の使用収益開始の時期について目途がたたないときは、土地区画整理法九九条二項の規定に基づき使用収益開始の日を追つて定める旨通知して仮換地の指定をしても違法とはいえない。\n二　仮換地につき使用収益開始の日を追つて定める旨通知されたために仮換地を使用収益することができないからといつて、当該仮換地指定が土地区画整理法八九条一項所定の利用状況につき照応していないものということはできない。",
+  "ref_law": "土地区画整理法89条1項，土地区画整理法99条2項",
+  "lawsuit_id": "62866",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62866",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/866/062866_hanrei.pdf"
+}

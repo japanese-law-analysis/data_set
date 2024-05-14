@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 6,
+    "day": 10
+  },
+  "case_number": "昭和58(行ツ)75",
+  "case_name": "換価代金配当処分取消",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集民　第148号159頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和57(行コ)2",
+  "original_date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 3,
+    "day": 30
+  },
+  "gist": "第三者甲が地方税法一九条に規定する処分につき審査請求手続を経た場合と乙の提起した当該処分の取消訴訟についての審査請求手続経由の有無",
+  "case_gist": "第三者甲が、地方税法一九条に規定する処分につき、当該処分の取消訴訟において原告乙の主張する事由と同一の事由に基づいて審査請求手続を経ていたとしても、甲と乙とが当該処分に対し一体的な利害関係を有し、実質的にみれば甲のした審査請求は同時に乙のための審査請求でもあるといえるような特段の事情がない限り、右甲による審査請求手続の経由をもつて原告乙の訴えにつき審査請求手続の経由があつたものということはできない。",
+  "ref_law": "行政事件訴訟法8条1項ただし書，地方税法19条の12",
+  "lawsuit_id": "62919",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62919",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/919/062919_hanrei.pdf"
+}

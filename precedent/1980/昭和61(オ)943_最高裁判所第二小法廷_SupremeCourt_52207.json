@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 9,
+    "day": 8
+  },
+  "case_number": "昭和61(オ)943",
+  "case_name": "建物明渡、代表役員等地位確認請求事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第43巻8号889頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和59(ネ)1931",
+  "original_date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 5,
+    "day": 6
+  },
+  "gist": "宗教団体内部においてされた懲戒処分の効力を前提問題とする具体的な権利義務ないし法律関係に関する訴訟と裁判所法三条にいう法律上の争訟",
+  "case_gist": "具体的な権利義務ないし法律関係に関する訴訟であつても、宗教団体内部においてされた懲戒処分の効力が請求の当否を決する前提問題となつており、その効力の有無が当事者間の紛争の本質的争点をなすとともに、それが宗教上の教義、信仰の内容に深くかかわつているため、右教義、信仰の内容に立ち入ることなくしてその効力の有無を判断することができず、しかも、その判断が訴訟の帰すうを左右する必要不可欠のものである場合には、右訴訟は、裁判所法三条にいう法律上の争訟に当たちない。",
+  "ref_law": "裁判所法3条",
+  "lawsuit_id": "52207",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52207",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/207/052207_hanrei.pdf"
+}

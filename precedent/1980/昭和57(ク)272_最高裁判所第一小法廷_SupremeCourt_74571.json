@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 10,
+    "day": 13
+  },
+  "case_number": "昭和57(ク)272",
+  "case_name": "改名申立却下審判に対する抗告棄却の決定に対する抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "却下",
+  "article_info": "集民　第140号109頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和57(ラ)238",
+  "original_date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 8,
+    "day": 12
+  },
+  "gist": "戸籍法五〇条と憲法一三条",
+  "case_gist": "戸籍法五〇条の規定が子の名につき制限を課していることをもつて個人の氏名選択の自由を制限し、憲法一三条に違反するとの所論は、その前提を欠く。",
+  "ref_law": "憲法13条，戸籍法50条",
+  "lawsuit_id": "74571",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74571",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/571/074571_hanrei.pdf"
+}

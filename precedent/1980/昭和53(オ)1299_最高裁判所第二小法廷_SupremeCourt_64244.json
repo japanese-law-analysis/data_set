@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 5,
+    "day": 11
+  },
+  "case_number": "昭和53(オ)1299",
+  "case_name": "退職金",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第133号1頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和52(ネ)1708",
+  "original_date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 8,
+    "day": 31
+  },
+  "gist": "取締役が支給を受くべき退職慰労金と商法二六九条の適用",
+  "case_gist": "取締役が退職に際して支給を受くべき退職慰労金が、従業員にも共通に適用される退職慰労金支給規定において勤続年数と退職時の報酬日額を基礎にして算出すべきものとされている場合であつても、右慰労金は商法二六九条所定の報酬にあたる。",
+  "ref_law": "商法269条",
+  "lawsuit_id": "64244",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64244",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/244/064244_hanrei.pdf"
+}

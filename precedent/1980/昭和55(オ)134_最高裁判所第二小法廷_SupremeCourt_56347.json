@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 11,
+    "day": 25
+  },
+  "case_number": "昭和55(オ)134",
+  "case_name": "否認権行使",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第37巻9号1430頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和52(ネ)1787",
+  "original_date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 11,
+    "day": 29
+  },
+  "gist": "一　否認権行使の相手方が否認された行為のあつたのちに総破産債権が不存在となつたことを主張して否認権行使の効果を否定することの可否\n二　総破産債権につき詐害行行為取消権の消滅時効が完成した場合と破産法七二条一号所定の否認権の消長",
+  "case_gist": "一　否認権の行使を受けた相手方は、否認された行為のあつたのちに破産者に対する債権がすべて消滅し、総破産債権が現存していないことを主張して否認権行使の効果を否定することはできない。\n二　破産法七二条一号所定の否認権は、総破産債権者につき詐害行為取消権の消滅時効が完成しても、消滅しない。",
+  "ref_law": "破産法72条1号，破産法85条，民法426条",
+  "lawsuit_id": "56347",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56347",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/347/056347_hanrei.pdf"
+}

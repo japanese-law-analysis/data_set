@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 11,
+    "day": 6
+  },
+  "case_number": "昭和56(行ツ)146",
+  "case_name": "地方自治体職員違法行為差止等",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第143号145頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和54(行コ)5",
+  "original_date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 5,
+    "day": 27
+  },
+  "gist": "路線の認定及び道路区域の決定の手続を経ずに行われた道路用地の任意取得の適法性",
+  "case_gist": "路線の認定及び道路区域の決定の手続を経ずに行われた道路用地の任意取得も、違法ではない。",
+  "ref_law": "道路法8条，道路法18条，地方自治法242条の2第1項",
+  "lawsuit_id": "62875",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62875",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/875/062875_hanrei.pdf"
+}

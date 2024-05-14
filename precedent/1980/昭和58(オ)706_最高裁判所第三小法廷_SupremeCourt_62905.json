@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 12,
+    "day": 20
+  },
+  "case_number": "昭和58(オ)706",
+  "case_name": "損害賠償本訴、契約金返還反訴",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第146号355頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和57(ネ)435",
+  "original_date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 3,
+    "day": 29
+  },
+  "gist": "債務者が代物弁済に供した不動産をその登記未了の間に第三者に譲渡したがその後代物弁済契約が遡つて失効した場合と債権者に対する不法行為責任の有無",
+  "case_gist": "債務者が、債権者に対し賃借権譲受代金債務の支払に代えて不動産を譲渡した後その登記未了の間に、これを第三者に二重に譲渡し登記を経由した場合であつても、右賃借権譲渡契約が解除されて右債務が遡つて消滅し、代物弁済契約による所有権移転の効果も遡つて失われたときは、債務者は債権者に対し、右不動産の所有権侵害による不法行為責任を負わない。",
+  "ref_law": "民法176条，民法482条，民法545条，民法709条",
+  "lawsuit_id": "62905",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62905",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/905/062905_hanrei.pdf"
+}

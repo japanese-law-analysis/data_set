@@ -1,0 +1,18 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 11,
+    "day": 26
+  },
+  "case_number": "昭和59(行コ)3",
+  "case_name": "更正処分取消等請求控訴事件（原審・釧路地方裁判所昭和５２年（行ウ）第５号，昭和５３年（行ウ）第２号）",
+  "court_name": "札幌高等裁判所",
+  "field": "行政",
+  "gist": "青色申告に係る所得税の更正の通知書に，「あなたの主宰するＭＢ相互協力会の所得については，個人の事業所得として申告の要があると認められます」と記載するにとどめ，右認定の理由及び資料等を摘示しないでした理由付記が，右更正は帳簿書類の記載自体を否認してされたものではないので，処分庁の法的評価，判断の結論を示せば足りるとして，適法とされた事例",
+  "lawsuit_id": "35911",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=35911",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/911/035911_hanrei.pdf",
+  "contents": ""
+}

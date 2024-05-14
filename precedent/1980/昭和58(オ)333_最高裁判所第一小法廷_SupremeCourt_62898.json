@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 5,
+    "day": 17
+  },
+  "case_number": "昭和58(オ)333",
+  "case_name": "建物収去土地明渡",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集民　第142号1頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和55(ネ)971",
+  "original_date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 12,
+    "day": 22
+  },
+  "gist": "建物収去土地明渡請求及び賃料相当損害金請求訴訟の係属中に被告が破産宣告を受けた場合と破産宣告までに発生した賃料相当損害金請求部分の訴訟の受継の手続",
+  "case_gist": "建物収去土地明渡請求及び賃料椙当損害金請求訴訟の係属中に被告が破産宣告を受けた場合、破産宣告の前日までに発生した賃料相当損害金請求部分の訴訟は、破産法六九条所定の破産財団に属する財産に関する訴訟ではなく、同法二四六条所定の破産債権の確定を求める訴訟であつて、その受継は、同法二四六条、二四四条二項、二四七条の定める手続によつてすることを要する。",
+  "ref_law": "破産法69条，破産法244条，破産法246条，破産法247条，民訴法214条，民訴法218条",
+  "lawsuit_id": "62898",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62898",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/898/062898_hanrei.pdf"
+}

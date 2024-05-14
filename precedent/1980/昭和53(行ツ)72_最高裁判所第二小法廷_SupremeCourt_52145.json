@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 9,
+    "day": 9
+  },
+  "case_number": "昭和53(行ツ)72",
+  "case_name": "納税告知処分等取消",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第37巻7号962頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和51(行コ)74",
+  "original_date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 3,
+    "day": 28
+  },
+  "gist": "所得税法三〇条一項にいう退職所得にあたらないとされた事例",
+  "case_gist": "従業員の勤務年数が満五年に達するごとに退職金を支給する旨及び右退職金の算定にあたつては既に支給した退職金の算定の基礎とされた勤務年数は算入しない旨を定めた給与規程に基づき、勤務年数が満五年に達した者に退職金名義の金員を支給した場合において、右金員の支給を受けた者が再雇用のためのなんらの手続を経ることなく従来のままの就労を継続しており、賃金その他の労働条件にも全く変化がなく、また、就業規則中には、勤務年数が満五年に達したときは従業員たる身分を失う旨を定めた規定がなく、従業員の定年を満五五歳とする旨の規定があるなど、判示のような事実関係があるときは、右金員に係る所得は、所得税法三〇条一項にいう退職所得にあたらない。",
+  "ref_law": "所得税法30条1項",
+  "lawsuit_id": "52145",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52145",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/145/052145_hanrei.pdf"
+}

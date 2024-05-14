@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 5,
+    "day": 31
+  },
+  "case_number": "昭和58(オ)1387",
+  "case_name": "差押債権支払",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第38巻7号197頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和58(ネ)1108",
+  "original_date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 8,
+    "day": 31
+  },
+  "gist": "普通地方公共団体の申立に基づいて発せられた支払命令に対する異議の申立により提起されたものとみなされる訴えと議会の議決",
+  "case_gist": "普通地方公共団体の申立に基づいて発せられた支払命令に対する異議の申立により提起されたものとみなされる訴えについても、地方自治法九六条一項一一号所定の議会の議決が必要である。",
+  "ref_law": "地方自治法96条1項11号，民訴法45条，民訴法58条，民訴法442条1項",
+  "lawsuit_id": "52695",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52695",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/695/052695_hanrei.pdf"
+}

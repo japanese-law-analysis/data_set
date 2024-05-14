@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 2,
+    "day": 7
+  },
+  "case_number": "昭和54(ク)430",
+  "case_name": "保護義務者選任審判に対する抗告却下の決定に対する抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集民　第129号141頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和54(ラ)1028",
+  "original_date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 10,
+    "day": 3
+  },
+  "gist": "家事審判法一四条及び特別家事審判規則と憲法三二条",
+  "case_gist": "特別家事審判規則二一条の審判に対し即時抗告による不服申立の方法を認めるかどうかは、立法政策の問題に帰着し、家事審覇法一四条及び右規則が憲法三二条に違反するかどうかの問題を生じない。",
+  "ref_law": "憲法32条，家事審判法14条，特別家事審判規則21条",
+  "lawsuit_id": "64333",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64333",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/333/064333_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 11,
+    "day": 19
+  },
+  "case_number": "昭和57(オ)141",
+  "case_name": "建物収去土地明渡",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第137号495頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和54(ネ)607",
+  "original_date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 10,
+    "day": 27
+  },
+  "gist": "土地賃貸借契約における賃料不払につき賃貸借関係の基礎をなす信頼関係を破壊するものと認めるに足りない特段の事情を認める余地があるとされた事例",
+  "case_gist": "土地賃借人が当年度分年末払とされた賃料の支払を約四か月遅滞したとしても、土地賃貸借関係が長期間にわたるものであつて過去において相互の信頼関係を損うような事情もなく、右遅滞が当該土地の賃料が近隣の地代相場に較べて二倍以上になるためその減額交渉を求めていたことによるものであり、右交渉中に契約解除の意思表示を受けるに及んで直ちに土地賃貸人の要求する賃料額を供託したなど判示の事情があるときは、土地賃借人の賃料不払につき賃貸借関係の基礎をなす信頼関係を破壊するものとは認めるに足りない特段の事情を認める余地がある。",
+  "ref_law": "民法541条，民法601条",
+  "lawsuit_id": "70445",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70445",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/445/070445_hanrei.pdf"
+}

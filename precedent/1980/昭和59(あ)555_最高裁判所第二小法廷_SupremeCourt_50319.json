@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 6,
+    "day": 27
+  },
+  "case_number": "昭和59(あ)555",
+  "case_name": "有印公文書変造、同行使、詐欺",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第40巻4号340頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 4,
+    "day": 5
+  },
+  "gist": "公文書の内容に改ざんを加えたうえそのコピーを作成した場合の擬律",
+  "case_gist": "行使の目的をもつて、ほしいままに、営林署長の記名押印がある売買契約書の売買代金欄等の記載に改ざんを施すなどしたうえ、これを複写機械で複写する方法により、あたかも真正な右売買契約書を原形どおり正確に複写したかのような形式、外観を備えるコピーを作成した所為は、その改ざんが原本自体にされたのであれば未だ文書の変造の範ちゆうに属するとみられる程度にとどまつているとしても、刑法一五五条一項の有印公文書偽造罪に当たる。",
+  "ref_law": "刑法155条1項，刑法155条2項",
+  "lawsuit_id": "50319",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50319",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/319/050319_hanrei.pdf"
+}

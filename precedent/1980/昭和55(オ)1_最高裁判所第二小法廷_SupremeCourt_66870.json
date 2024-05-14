@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 12,
+    "day": 18
+  },
+  "case_number": "昭和55(オ)1",
+  "case_name": "免職無効確認",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第134号573頁",
+  "original_court_name": "広島高等裁判所",
+  "original_case_number": "昭和51(ネ)28",
+  "original_date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 9,
+    "day": 4
+  },
+  "gist": "日本国有鉄道職員に対する懲戒免職が懲戒権の濫用にあたらないとされた事例",
+  "case_gist": "米軍基地撤去要求運動に参加した際、警備の警察官の職務を妨害した日本国有鉄道職員に対し日本国有鉄道法三一条一項に基づいてされた懲戒免職は、右所為につき懲役五月執行猶予一年の有罪判決が確定し、右所為が傷害罪を伴う公務執行妨害罪にあたる軽視しえない犯罪行為で、単に偶然的なものとはいえないなど原判示の事情があるときは、懲戒権の濫用にはあたらない。",
+  "ref_law": "日本国有鉄道法31条",
+  "lawsuit_id": "66870",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66870",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/870/066870_hanrei.pdf"
+}

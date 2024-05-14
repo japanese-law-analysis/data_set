@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 9,
+    "day": 16
+  },
+  "case_number": "昭和57(オ)1132",
+  "case_name": "和解金支払",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第139号539頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和57(ネ)403",
+  "original_date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 7,
+    "day": 19
+  },
+  "gist": "裁判上の和解成立を前提とする裁判外の和解が成立したかどうかの判断につき審理不尽理由不備の違法があるとされた事例",
+  "case_gist": "不動産の所有者から一定の金員の支払と引換えに仮登記等の抹消登記手続をする旨の裁判上の和解をした仮登記等の権利者が、右所有者との間において、右和解成立の前提として右所有者が右権利者に対し右登記抹消義務履行の条件とされている一定の金員を支払う旨の裁判外の和解が成立したかどうかの判断にあたり、単に右裁判上の和解に無効又は取消の原因となる瑕疵がなく、かつ、右裁判上の和解条項に右所有者の金員支払義務が明記されていないことのみ判断し、右裁判外の和解の成否について証拠に基づき明確な判断をしないときは、審理不尽、理由不備の違法がある。",
+  "ref_law": "民訴法395条1項6号",
+  "lawsuit_id": "62271",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62271",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/271/062271_hanrei.pdf"
+}

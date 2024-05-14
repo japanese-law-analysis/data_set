@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 63,
+    "month": 3,
+    "day": 15
+  },
+  "case_number": "昭和59(オ)1204",
+  "case_name": "音楽著作権侵害差止等請求事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第42巻3号199頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和57(ネ)595",
+  "original_date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 7,
+    "day": 5
+  },
+  "gist": "カラオケ伴奏による客の歌唱につきカラオケ装置を設置したスナック等の経営者が演奏権侵害による不法行為責任を負うとされた事例",
+  "case_gist": "スナック等の経営者が、カラオケ装置と音楽著作物たる楽曲の録音されたカラオケテープとを備え置き、客に歌唱を勧め、客の選択した曲目のカラオケテープの再生による伴奏により他の客の面前で歌唱させるなどし、もつて店の雰囲気作りをし、客の来集を図つて利益をあげることを意図しているときは、右経営者は、当該音楽著作物の著作権者の許諾を得ない限り、客による歌唱につき、その歌唱の主体として演奏権侵害による不法行為責任を免れない。",
+  "ref_law": "著作権法22条，著作権法（昭和59年法律第46号による改正前のもの）38条，著作権法（昭和61年法律第64号による改正前のもの）附則14条，著作権法施行令附則3条，旧著作権法（明治32年法律第39号）30条1項8",
+  "lawsuit_id": "52186",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52186",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/186/052186_hanrei.pdf"
+}

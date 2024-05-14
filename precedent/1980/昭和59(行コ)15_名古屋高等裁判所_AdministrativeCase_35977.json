@@ -1,0 +1,18 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 2,
+    "day": 12
+  },
+  "case_number": "昭和59(行コ)15",
+  "case_name": "高額療養費支給決定処分取消請求控訴事件（原審・岐阜地方裁判所昭和５５年（行ウ）第２９号）",
+  "court_name": "名古屋高等裁判所",
+  "field": "行政",
+  "gist": "国民健康保険法３７条１項所定の療養取扱機関が被保険者に対してした投薬が，客観的に不要なものであるから，保険医療機関及び保険医療養担当規則（昭和３２年厚生省令第１５号）に適合せず，同法３６条１項所定の療養の給付に当たらないとして，同法の保険者である市が右被保険者のした高額療養費支給請求に対して右請求のうち右投薬の費用に係る部分について不支給とした決定が，正当であるとされた事例",
+  "lawsuit_id": "35977",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=35977",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/977/035977_hanrei.pdf",
+  "contents": ""
+}

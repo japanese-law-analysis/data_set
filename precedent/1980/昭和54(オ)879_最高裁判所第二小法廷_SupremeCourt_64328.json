@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 9,
+    "day": 26
+  },
+  "case_number": "昭和54(オ)879",
+  "case_name": "所有権移転登記手続再審",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第130号393頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和52(ム)7",
+  "original_date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 4,
+    "day": 26
+  },
+  "gist": "訴訟行為の一部のみの追認が許されないとされた事例",
+  "case_gist": "無権代理人がした訴訟行為の追認は、ある審級における手続がすでに終了したのちにおいては、その審級における訴訟行為を一体として不可分的にすべきものであつて、すでに終了した控訴審における訴訟行為のうち控訴提起行為のみを選択して追認することは許されない。",
+  "ref_law": "民訴法54条",
+  "lawsuit_id": "64328",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64328",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/328/064328_hanrei.pdf"
+}

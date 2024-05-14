@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 9,
+    "day": 18
+  },
+  "case_number": "昭和55(オ)1069",
+  "case_name": "借地権確認",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第133号463頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和54(ネ)725",
+  "original_date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 8,
+    "day": 15
+  },
+  "gist": "庭園等に使用する各種花木を幼木から栽培している土地が農地法二条一項にいう農地にあたらないとはいえないとされた事例",
+  "case_gist": "庭園等に使用する各種花木を幼木から栽培している土地であつても、肥培管理が施されている場合には、農地法二条一項にいう農地にあたらないとはいえない。",
+  "ref_law": "農地法2条1項",
+  "lawsuit_id": "64344",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64344",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/344/064344_hanrei.pdf"
+}

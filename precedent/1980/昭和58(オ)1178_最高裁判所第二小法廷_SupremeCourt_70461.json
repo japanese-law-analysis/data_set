@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 11,
+    "day": 13
+  },
+  "case_number": "昭和58(オ)1178",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集民　第152号197頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和56(ネ)156",
+  "original_date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 6,
+    "day": 30
+  },
+  "gist": "新築建物の表示の登記の申請が却下される場合",
+  "case_gist": "未登記の建物を買い受けた者が、所有権を証する書面として、同人を右建物の建築主とする真実と符合しない内容の記載のある建築工事完了引渡証明書を添付して建物の表示の登記の申請をした場合には、右申請は、不動産登記法四九条八号、一〇号により却下されるべきである。",
+  "ref_law": "不動産登記法49条8号，不動産登記法49条10号，不動産登記法93条2項",
+  "lawsuit_id": "70461",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70461",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/461/070461_hanrei.pdf"
+}

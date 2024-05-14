@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 63,
+    "month": 4,
+    "day": 28
+  },
+  "case_number": "昭和62(あ)644",
+  "case_name": "道路交通法違反、業務上過失傷害",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第42巻4号793頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 4,
+    "day": 28
+  },
+  "gist": "見通しのきかない交差点におけるいわゆる広路通行車両の徐行義務",
+  "case_gist": "車両等が道路交通法四二条一号にいう「左右の見とおしがきかない交差点」に入ろうとする場合には、右車両等の進行している道路がそれと交差する道路に比して幅員が明らかに広いときであつても、徐行義務は免除されない。",
+  "ref_law": "道路交通法36条3項，道路交通法42条1号",
+  "lawsuit_id": "50364",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50364",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/364/050364_hanrei.pdf"
+}

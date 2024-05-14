@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 12,
+    "day": 4
+  },
+  "case_number": "昭和53(あ)1200",
+  "case_name": "窃盗、有印私文書偽造、同行使、詐欺、住居侵入、窃盗未遂",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第34巻7号499頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 5,
+    "day": 17
+  },
+  "gist": "一　刑訴法四〇二条における刑の軽重の比較と刑の執行猶予の言渡の有無\n二　刑訴法四〇二条に違反しないとされた事例",
+  "case_gist": "一　刑訴法四〇二条における刑の軽重の比較にあたつては、刑の執行猶予の言渡の有無をも考慮すべきである。\n二　第一審が被告人に対し懲役一年の刑を言い渡したのを、第二審が懲役一年六月、三年間執行猶予、保護観察付の刑に変更しても、刑訴法四〇二条に違反しない。",
+  "ref_law": "刑訴法402条",
+  "lawsuit_id": "51151",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51151",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/151/051151_hanrei.pdf"
+}

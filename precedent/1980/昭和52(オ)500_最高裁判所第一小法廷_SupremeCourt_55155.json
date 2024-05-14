@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 10,
+    "day": 7
+  },
+  "case_number": "昭和52(オ)500",
+  "case_name": "原状回復等",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第36巻10号2091頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和50(ネ)240",
+  "original_date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 1,
+    "day": 31
+  },
+  "gist": "郵政省庁舎管理規程（昭和四〇年一一月二〇日公達第七六号）六条に定める許可の性質",
+  "case_gist": "郵政省庁舎管理規程（昭和四〇年一一月二〇日公達第七六号）六条に定める庁舎管理者による郵便局の庁舎等における広告物等の掲示の許可は、庁舎等における広告物等の掲示等の方法によつてする情報、意見等の伝達、表明等の一般的禁止を特定の場合について解除する処分であつて、許可を受けた者に対し右のような伝達、表明等の行為のために指定された場所を使用するなんらかの公法上又は私法上の権利を設定、付与するものではなく、また、国有財産法一八条三項にいう行政財産の目的外使用の許可にもあたらない。",
+  "ref_law": "郵政省庁舎管理規程（昭和40年11月20日公達第76号）6条，国有財産法18条3項",
+  "lawsuit_id": "55155",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55155",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/155/055155_hanrei.pdf"
+}

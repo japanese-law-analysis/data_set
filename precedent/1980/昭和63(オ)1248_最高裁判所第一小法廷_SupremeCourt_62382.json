@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 6,
+    "day": 1
+  },
+  "case_number": "昭和63(オ)1248",
+  "case_name": "配当異議",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集民　第157号1頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和63(ネ)397",
+  "original_date": {
+    "era": "Showa",
+    "year": 63,
+    "month": 6,
+    "day": 16
+  },
+  "gist": "競売申立債権者の抵当権又はその被担保債権の消滅と配当異議の訴えの原因",
+  "case_gist": "競売申立債権者の抵当権又はその被担保債権が配当期日までに消滅したときは、これをもつて配当異議の訴えの原因とすることができる。",
+  "ref_law": "民事執行法84条4項，民事執行法89条，民事執行法90条，民事執行法183条，民事執行法184条",
+  "lawsuit_id": "62382",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62382",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/382/062382_hanrei.pdf"
+}

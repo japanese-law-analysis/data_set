@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 10,
+    "day": 7
+  },
+  "case_number": "昭和56(オ)661",
+  "case_name": "未払賃金",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第137号297頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和55(ネ)1858",
+  "original_date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 3,
+    "day": 20
+  },
+  "gist": "賞与の支給日前に退職した者が当該賞与の受給権を有しないとされた事例",
+  "case_gist": "就業規則の「賞与は決算期毎の業績により各決算期につき一回支給する。」との定めが「賞与は決算期毎の業績により支給日に在籍している者に対し各決算期につき一回支給する。」と改訂された場合において、右改訂前から、年二回の決算期の中間時点を支給日と定めて当該支給日に在籍している者に対してのみ右決算期を対象とする賞与が支給されるという慣行が存在し、右就業規則の改訂は単に従業員組合の要請によつて右慣行を明文化したにとどまるものであつて、その内容においても合理性を有するときは、賞与の支給日前に退職した者は当該賞与の受給権を有しない。",
+  "ref_law": "労働基準法24条",
+  "lawsuit_id": "70434",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70434",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/434/070434_hanrei.pdf"
+}
