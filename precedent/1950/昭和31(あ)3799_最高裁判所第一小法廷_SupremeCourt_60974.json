@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 6,
+    "day": 27
+  },
+  "case_number": "昭和31(あ)3799",
+  "case_name": "強盗、強盗殺人等",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第119号675頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 9,
+    "day": 28
+  },
+  "gist": "憲法違反の主張に対し判断を示したものと認められる一事例",
+  "case_gist": "死刑が違憲である旨の主張があつた場合に、原判決が選択刑として規定している刑法第二四〇条後段を適用挙示して被告人を死刑に処した第一審判決の量刑につき、これを不当とする事由を発見することができない旨を判示したときは、死刑は憲法に適合するとの判断を示したものと解することができる。",
+  "ref_law": "憲法81条，刑訴法392条1項",
+  "lawsuit_id": "60974",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60974",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/974/060974_hanrei.pdf"
+}

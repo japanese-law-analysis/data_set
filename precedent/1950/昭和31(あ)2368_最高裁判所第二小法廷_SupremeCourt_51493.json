@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 9,
+    "day": 13
+  },
+  "case_number": "昭和31(あ)2368",
+  "case_name": "強盗殺人未遂",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第11巻9号2263頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 5,
+    "day": 16
+  },
+  "gist": "刑法第二三六条第二項の強盗罪の成立",
+  "case_gist": "犯人が債務の支払を免れる目的をもつて債権者に対しその反抗を抑圧すべき暴行、脅迫を加え、債権者をして支払の請求をしない旨を表示せしめて支払を免れた場合であると、右の手段により債権者をして事実上支払の請求をすることができない状態に陥らしめて支払を免れた場合であるとを問わずひとしく刑法第二三六条第二項の不法利得罪を構成するものと解すべきである。",
+  "ref_law": "刑法236条",
+  "lawsuit_id": "51493",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51493",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/493/051493_hanrei.pdf"
+}

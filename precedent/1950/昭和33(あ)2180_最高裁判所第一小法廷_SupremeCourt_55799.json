@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 9,
+    "day": 17
+  },
+  "case_number": "昭和33(あ)2180",
+  "case_name": "計量法違反、同幇助",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第13巻11号2951頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 8,
+    "day": 18
+  },
+  "gist": "一　計量法第二三九条にいわゆる法人の従業者がその法人の業務に関してした違反行為の事例\n二　同法第二三三条の趣旨",
+  "case_gist": "一　組合員の事業または生活に必要な物資の供給を目的とする農業協同組合の購買主任が同組合が計量器の販売等の登録を受けていないのにかかわらず、計量器販売業者と組合員である農民との間の台秤売買の斡旋をすることは、計量法第二三九条にいわゆる法人の業務に関してした無登録で計量器販売の仲立の事業を行う場合にあたる。\n二　計量法第二三三条は同法第四七条所定の登録を受けないで計量器の販売または販売の仲立の事業を行うことを罰する趣旨であつて、単なる不登録という不作為を対象とするものではない。",
+  "ref_law": "計量法47条，計量法233条，計量法239条",
+  "lawsuit_id": "55799",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55799",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/799/055799_hanrei.pdf"
+}

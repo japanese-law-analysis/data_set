@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 2,
+    "day": 20
+  },
+  "case_number": "昭和27(あ)4943",
+  "case_name": "住居侵入、窃盗、同未遂",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第74号179頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 6,
+    "day": 28
+  },
+  "gist": "住居侵入罪と窃盗罪との関係",
+  "case_gist": "現行刑法において住居侵入罪と窃盗罪とはその被害法益及び犯罪の構成要件を異にし、住居侵入の行為は窃盗罪の要素に属せず、別個独立の行為であり、しかも通常、右両罪の間には手段結果の関係があることが認められるから、第一審判決が両罪を刑法五四条一項後段のいわゆる牽連犯として取扱つたのは正当である。",
+  "ref_law": "刑法57条1項後段，刑法130条，刑法235条",
+  "lawsuit_id": "69279",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=69279",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/279/069279_hanrei.pdf"
+}

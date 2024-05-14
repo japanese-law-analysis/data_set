@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 5,
+    "day": 11
+  },
+  "case_number": "昭和25(れ)227",
+  "case_name": "強盗傷人",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第17号543頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 11,
+    "day": 15
+  },
+  "gist": "判決の認定事實の解釋",
+  "case_gist": "判決の認定事實を知るには、判決書のいわゆる事實摘示の部分のみに局限して狹くこれを解すべきではなく、證據説明、法律適用の部分等をも併せ讀み判決書の全体について廣く理解すべきものであることは多言を要しない。",
+  "ref_law": "刑訴法44條，刑訴法335條",
+  "lawsuit_id": "75109",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=75109",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/109/075109_hanrei.pdf"
+}

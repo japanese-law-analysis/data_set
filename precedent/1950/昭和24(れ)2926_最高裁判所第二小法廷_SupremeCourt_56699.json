@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 5,
+    "day": 12
+  },
+  "case_number": "昭和24(れ)2926",
+  "case_name": "強盗、窃盗、賍物牙保",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第4巻5号793頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 7,
+    "day": 30
+  },
+  "gist": "保釋決定關與と舊刑訴法第二四條第八號",
+  "case_gist": "所論堀内齋判事が被告人の保釋決定に關與していることは所論のとおりである。しかし舊刑訴法第二四條第八號は上訴により不服を申立てられた裁判又はその基礎となつた取調に關與した場合をいうのであるから、所論保釋決定に關與した場合を含まないことは論議を要しないところである。（昭和二四年新（れ）第一〇四號昭和二五年四月二日大法廷判決參照）。",
+  "ref_law": "舊刑訴法24條8號",
+  "lawsuit_id": "56699",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56699",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/699/056699_hanrei.pdf"
+}

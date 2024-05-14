@@ -1,0 +1,24 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 3,
+    "day": 9
+  },
+  "case_number": "昭和25(れ)1875",
+  "case_name": "業務上横領等",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第41号429頁",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 12,
+    "day": 10
+  },
+  "lawsuit_id": "67936",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=67936",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/936/067936_hanrei.pdf"
+}

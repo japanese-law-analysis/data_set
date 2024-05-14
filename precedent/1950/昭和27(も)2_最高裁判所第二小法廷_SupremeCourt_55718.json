@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 9,
+    "day": 7
+  },
+  "case_number": "昭和27(も)2",
+  "case_name": "暴力行為等処罰ニ関スル法律違反被告事件につきなした公訴棄却の判決をしたことを理由としての刑事補償法による補償の請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第7巻9号1805頁",
+  "original_court_name": "最高裁判所",
+  "original_case_number": "昭和26(れ)1732",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 7,
+    "day": 11
+  },
+  "gist": "刑事補償法第二五条第一項にあたらない事例",
+  "case_gist": "強姦の手段としての共同暴行の事実のみが暴力行為等処罰に関する法律違反として起訴された事件につき、右強姦の事実は証拠上これを明認し得るけれども、起訴にかかる暴力行為等処罰に関する法律違反の事実は、右強姦行為の手段としてなされた共同暴行の事実であるから、強姦の事実につき、既に告訴の取消があつた以上、強姦罪として公訴を提起し得ないことは勿論右暴行行為のみを抽出してこれが公訴を提起することも許されないという理由で公訴棄却の判決がなされた場合は、刑事補償の請求は理由がない。",
+  "ref_law": "刑事補償法25条1項，刑事補償法16条",
+  "lawsuit_id": "55718",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55718",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/718/055718_hanrei.pdf"
+}

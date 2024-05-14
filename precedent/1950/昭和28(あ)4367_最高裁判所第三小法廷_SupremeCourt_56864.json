@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 10,
+    "day": 4
+  },
+  "case_number": "昭和28(あ)4367",
+  "case_name": "詐欺",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第9巻11号2136頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 7,
+    "day": 31
+  },
+  "gist": "詐欺罪について訴因の変更を必要としない一事例",
+  "case_gist": "被告人が昭和二七年一〇月中旬頃およびその翌日頃の二回に古鉄商Ａ方において、同人に偽造の砲金棒を示してこれが純正な砲金棒であるように装い同人をそのとおり誤信させ砲金棒合計二七本の買受方を承諾させて現金合計二十七万三千五百円を騙取した旨の訴因に対し、被告人が右各日時頃二回に前同所古鉄商Ｂ（Ａ方の女）方において前同様の方法で同人を欺罔し砲金棒合計二七本の買受方を承諾させて現金合計二十七万三千五百円を騙取した旨の事実を認定するには、訴因変更の手続を経ることを要しない。",
+  "ref_law": "刑法246条1項，刑訴法256条，刑訴法312条",
+  "lawsuit_id": "56864",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56864",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/864/056864_hanrei.pdf"
+}

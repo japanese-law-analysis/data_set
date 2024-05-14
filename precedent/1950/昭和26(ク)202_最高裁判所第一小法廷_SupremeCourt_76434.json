@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 2,
+    "day": 4
+  },
+  "case_number": "昭和26(ク)202",
+  "case_name": "和解申立事件の決定に対する再抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "その他",
+  "article_info": "集民　第6号57頁",
+  "original_court_name": "広島地方裁判所",
+  "original_case_number": "昭和26(ソ)3",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 10,
+    "day": 5
+  },
+  "lawsuit_id": "76434",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=76434",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/434/076434_hanrei.pdf"
+}

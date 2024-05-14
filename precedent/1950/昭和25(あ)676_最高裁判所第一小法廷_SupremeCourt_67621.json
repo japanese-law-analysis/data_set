@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 1,
+    "day": 25
+  },
+  "case_number": "昭和25(あ)676",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第39号707頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 1,
+    "day": 31
+  },
+  "gist": "被告人が警察署において犯行に関する略図を書いた事実を証言によつて認定し、この事実と他の証拠と相俟つて同被告人の犯行を認定したことの適否",
+  "case_gist": "原審は所論の略図そのものを事実認定の資料としたものではなく、被告人が警察署における取調に際し詳細に窃盗の事実を述べた上、犯行当時における被告人及び第一審相被告人Ａの位置などを明確にするため所論の略図を書いたという事実を証人Ｂの証言によつて、認定し、この事実を考慮に入れて他の証拠と相俟つて被告人がＡと共謀の条第一審判決判示第二の窃盗を敢行したものたることを推断したに外ならないのである。",
+  "ref_law": "刑訴法317条，刑訴法323条3号",
+  "lawsuit_id": "67621",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=67621",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/621/067621_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 5,
+    "day": 14
+  },
+  "case_number": "昭和26(れ)693",
+  "case_name": "放火、恐喝",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "刑集　第6巻5号769頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 1,
+    "day": 12
+  },
+  "gist": "不当に長く抑留又は拘禁された後の自白にあたる一事例",
+  "case_gist": "満一六歳に満たない少年に対し勾留の必要を認められないような事件について七カ月余勾留して、その間別罪たる放火罪について取調をした場合において、その間にされた自白に一貫性がなく、取調の途中で一旦犯行を否認したことがあるようなときは、七カ月余の勾留後になされた自白は、不当に長く抑留又は拘禁された後の自白にあたる。",
+  "ref_law": "憲法38条2項，刑訴法319条1項",
+  "lawsuit_id": "53453",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53453",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/453/053453_hanrei.pdf"
+}

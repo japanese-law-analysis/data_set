@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 10,
+    "day": 26
+  },
+  "case_number": "昭和25(オ)67",
+  "case_name": "土地買収取消請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第4巻10号509頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_case_number": "昭和24(ネ)129",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 2,
+    "day": 7
+  },
+  "gist": "一　自作農創設特別措置法第三条第一項第一号の小作地はどこの市町村にも住所を有しない者の所有する小作地を含むか\n二　自作農創設特別措置法第六条ノ二第二項第四号にいわゆる「当該小作について耕作の業務を営むもの」は将来耕作の業務を営むことのあるべき者を含むか",
+  "case_gist": "一　自作農創設特別措置法第三条第一項第一号の小作地はどこの市町村の区域内にも住所を有しない者の所有する小作地を含む。\n\n二　自作農創設特別措置法第六条ノ二第二項第四号にいわゆる「当該小作地について耕作の業務を営むもの」は、将来の業務を営むことのあるべきものを含まない。",
+  "ref_law": "自作農創設特別措置法3条1項，自作農創設特別措置法6条の2第2項4号",
+  "lawsuit_id": "56036",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56036",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/036/056036_hanrei.pdf"
+}

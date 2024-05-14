@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 1,
+    "day": 16
+  },
+  "case_number": "昭和31(あ)2441",
+  "case_name": "有価証券変造同行使詐欺",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第12巻1号25頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 5,
+    "day": 24
+  },
+  "gist": "いわゆる宝くじは刑法上の有価証券か",
+  "case_gist": "当せん金附証票法によつて発行させられた当せん金附証票である第四回東北自治宝くじは刑法第一六二条第一項にいう「有価証券」にあたる。",
+  "ref_law": "当せん金附証票法2条，当せん金附証票法4条，当せん金附証票法11条，当せん金附証票法18条，刑法162条1項，刑法163条1項",
+  "lawsuit_id": "50490",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50490",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/490/050490_hanrei.pdf"
+}

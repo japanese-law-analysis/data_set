@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 5,
+    "day": 9
+  },
+  "case_number": "昭和32(オ)1093",
+  "case_name": "土地、建物抵当権設定登記抹消登記手続請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第31号579頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 8,
+    "day": 30
+  },
+  "lawsuit_id": "69738",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=69738",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/738/069738_hanrei.pdf"
+}

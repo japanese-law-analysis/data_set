@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 2,
+    "day": 6
+  },
+  "case_number": "昭和30(あ)961",
+  "case_name": "横領、業務上横領",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第11巻2号503頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 3,
+    "day": 7
+  },
+  "gist": "刑法第二五条第一項によつて執行猶予を言い渡された罪のいわゆる余罪についてさらに同条項によつて執行猶予を言い渡す場合の条件",
+  "case_gist": "刑法第二五条第一項によつて刑の執行を猶予された罪のいわゆる余罪について、さらに、同条項によつて執行猶予を言い渡すためには、両罪が法律上併合罪の関係にあれば足り、訴訟手続上または犯行時等の関係から、実際上同時に審判することが著しく困難若くは不可能であるかどうか、または同時に審判されたならば執行猶予を言い渡すことのできる情状があるかどうかということは、問題とならない。",
+  "ref_law": "刑法25条，刑法45条，裁判所法11条",
+  "lawsuit_id": "51460",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51460",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/460/051460_hanrei.pdf"
+}

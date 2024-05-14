@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 10,
+    "day": 30
+  },
+  "case_number": "昭和26(オ)306",
+  "case_name": "当選無効請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第5巻12号637頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 5,
+    "day": 9
+  },
+  "gist": "すでに死亡した著名な人物の氏名で候補者の氏名と類似する氏名を記載した投票の効力",
+  "case_gist": "すでに死亡したＡ幸雄の氏名を記載した投票を候補者Ａ義雄に対する有効投票と認めなくても、違法ではない。",
+  "ref_law": "公職選挙法68条",
+  "lawsuit_id": "57225",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57225",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/225/057225_hanrei.pdf"
+}

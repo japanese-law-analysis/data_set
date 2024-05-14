@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 3,
+    "day": 19
+  },
+  "case_number": "昭和30(あ)460",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集刑　第118号367頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 12,
+    "day": 21
+  },
+  "gist": "理由不備の違法ある一事例",
+  "case_gist": "原判決の挙示する証拠および認定事実からみて、手形金の支払われるまで三日間物品を保管する意思に過ぎず、弁済があれば直ちにこれを返却る意思であつたとも解しえられる場合において、右物品の持ち帰りは会社責任者の意思に反してなされたものであり、被告人にその認識があつたことを判示しただけで、不法領得の意思の存否についてなんら判示しないで直ちに窃盗罪を構成するものとするのは、理由不備の違法あるを免れない。",
+  "ref_law": "刑法235条，刑訴法411条1号，刑訴法413条",
+  "lawsuit_id": "58597",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58597",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/597/058597_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 4,
+    "day": 17
+  },
+  "case_number": "昭和23(れ)572",
+  "case_name": "傷害、銃砲火薬類取締法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第63号299頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 3,
+    "day": 13
+  },
+  "gist": "勾留処分の違法とその勾留中に行われた被告人に対する検事聴取書の効力",
+  "case_gist": "仮りに勾留が違法であるとしても、その一事だけで直ちにその勾留中に行われた検事の被告人に対する聴取書を目して強制又は拷問による供述書であるということができないことも論を待たない。",
+  "ref_law": "旧刑訴法91条，刑訴応急措置法10条2項，憲法38条2項",
+  "lawsuit_id": "66938",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66938",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/938/066938_hanrei.pdf"
+}

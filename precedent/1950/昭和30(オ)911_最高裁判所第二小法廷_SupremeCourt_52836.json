@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 6,
+    "day": 6
+  },
+  "case_number": "昭和30(オ)911",
+  "case_name": "貸金並に売掛代金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第12巻9号1373頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 8,
+    "day": 30
+  },
+  "gist": "消費貸借における利息の発生時期",
+  "case_gist": "消費貸借における借主は、特約のない限り、契約成立の日から約定利息を支払うべき義務がある",
+  "ref_law": "民法404条，民法140条",
+  "lawsuit_id": "52836",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52836",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/836/052836_hanrei.pdf"
+}

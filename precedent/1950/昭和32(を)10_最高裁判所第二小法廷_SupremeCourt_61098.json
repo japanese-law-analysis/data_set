@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 2,
+    "day": 7
+  },
+  "case_number": "昭和32(を)10",
+  "case_name": "窃盜",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集刑　第123号173頁",
+  "original_court_name": "福岡簡易裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 5,
+    "day": 6
+  },
+  "lawsuit_id": "61098",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61098",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/098/061098_hanrei.pdf"
+}

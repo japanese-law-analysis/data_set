@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 5,
+    "day": 6
+  },
+  "case_number": "昭和25(あ)3144",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第64号181頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 9,
+    "day": 8
+  },
+  "gist": "刑訴三一五条の更新を要しない例――第一審第二回公判で裁判官がかわつても第一回公判の手続が被告人不出頭のため開始されなかつた場合",
+  "case_gist": "本件第一審第一回公判の裁判官は、高橋正男であり、同第二回公判の裁判官は山本寛であつたことは所論のとおりである。しかし、第一回公判は被告人不出頭のため公判手続がなされなかつたのである、しかして刑訴三一五条の開廷後とは、公判手続即ち事件審理の手続開始後という意味に解すべきであることは、同条の規定が口頭弁論主義に基く要請であることから当然である。従つて第一審第二回公判で公判手続の更新がなかつたとて違法はない。（昭和一〇年一一月一一日大審院判決集一四巻一一六八頁参照。）",
+  "ref_law": "刑訴法315条",
+  "lawsuit_id": "64440",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64440",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/440/064440_hanrei.pdf"
+}

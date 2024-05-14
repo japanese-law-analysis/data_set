@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 8,
+    "day": 8
+  },
+  "case_number": "昭和31(あ)3058",
+  "case_name": "業務上横領、詐欺",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第12巻12号2827頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 7,
+    "day": 3
+  },
+  "gist": "弁論再開請求却下決定の方式。",
+  "case_gist": "弁論再開請求却下の決定は、特段の裁判書を作成しなくても、右請求書上欄に「否」として裁判長および陪席裁判官の押印をすることで行うことができる。",
+  "ref_law": "刑訴法313条1項，刑訴規則53条，刑訴規則55条，刑訴規則214条",
+  "lawsuit_id": "50502",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50502",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/502/050502_hanrei.pdf"
+}

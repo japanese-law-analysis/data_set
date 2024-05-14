@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 4,
+    "day": 28
+  },
+  "case_number": "昭和28(さ)2",
+  "case_name": "窃盗事件についてなした判決に対する非常上告",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第7巻4号890頁",
+  "original_court_name": "吉原簡易裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 7,
+    "day": 10
+  },
+  "gist": "前科に関する事実認定上の違法と非常上告",
+  "case_gist": "累犯加重の事由とされた前科に関し、確定判決に事実認定上の違法（審理不尽等）があることを主張し、かつこれを前提として同判決における累犯加重の違法を主張することは、非常上告の理由とならない。",
+  "ref_law": "刑訴法454条",
+  "lawsuit_id": "53497",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53497",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/497/053497_hanrei.pdf"
+}

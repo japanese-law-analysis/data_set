@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 12,
+    "day": 13
+  },
+  "case_number": "昭和31(し)61",
+  "case_name": "勾留理由開示の請求却下決定に対する特別抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第116号161頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 11,
+    "day": 19
+  },
+  "gist": "高等裁判所がした勾留理由開示の請求却下決定に対し特別抗告の申立ができるか",
+  "case_gist": "勾留理由開示の請求を却下する決定で高裁がしたものに対しては、たとい判決後にしたものであつても、刑訴四二八条二項により、その高等裁判所に通常の抗告に代る異議の申立をすることができるのである。従つて原判決は同四三三条にいう「この法律により不服を申立てることができない決定」にあたらないから、これに対し同条所定の特別抗告を申立てることはできない。",
+  "ref_law": "刑訴法428条2項，刑訴法433条，刑訴規則81条の2",
+  "lawsuit_id": "61027",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61027",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/027/061027_hanrei.pdf"
+}

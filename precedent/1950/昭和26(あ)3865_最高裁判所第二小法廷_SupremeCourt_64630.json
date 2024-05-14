@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 6,
+    "day": 12
+  },
+  "case_number": "昭和26(あ)3865",
+  "case_name": "公務執行妨害",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第82号641頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 9,
+    "day": 10
+  },
+  "gist": "刑訴第四一一条にあたらない一事例−収税官吏が臨検捜索にあたり被告人の暴行により令状を示すことができなかつた場合",
+  "case_gist": "収税官吏が令状を被告人に示さなかつたことは論旨主張のとおりであるが、右は収税官吏が臨検捜索をなさんとしたとき被告人が不在であつたので警察吏員立会のもとにこれを開始したが、その執行の途中で被告人が帰宅するや、これを見た被告人は痛く憤慨して収税官吏に暴行を加えたので令状を被告人に示すことができなかつたためであるときは、令状を示さなかつた違法があるとはいえない。",
+  "ref_law": "刑訴法110条，刑訴法411条，国税犯則取締法2条，国税犯則取締法6条，刑法95条",
+  "lawsuit_id": "64630",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64630",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/630/064630_hanrei.pdf"
+}

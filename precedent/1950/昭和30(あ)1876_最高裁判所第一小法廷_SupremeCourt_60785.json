@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 1,
+    "day": 24
+  },
+  "case_number": "昭和30(あ)1876",
+  "case_name": "偽造公文書作成、同行使詐欺収賄",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第117号389頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 5,
+    "day": 24
+  },
+  "gist": "贈賄被告事件の無罪判決の既判力は収賄被告事件に及ぶか",
+  "case_gist": "贈賄者が別件で無罪になつたからといつて、その別件の既判力が本件収賄等被告事件に及ぶ道理がない。",
+  "ref_law": "刑法197条，刑法198条，刑訴法337条",
+  "lawsuit_id": "60785",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60785",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/785/060785_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 2,
+    "day": 17
+  },
+  "case_number": "昭和29(秩ち)1",
+  "case_name": "法廷等秩序維持に関する法律による制裁事件についてなした抗告棄却決定に対する特別抗告",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第12巻2号253頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 2,
+    "day": 15
+  },
+  "gist": "一　報道のための取材活動と憲法第二一条\n二　刑訴規則第二一五条は憲法第二一条に違反するか",
+  "case_gist": "一　新聞が真実を報道することは、憲法第二一条の認める表現の自由に属し、またそのための取材活動も認められなければならないことはいうまでもないが、その自由も無制限であるということはできず、たとい公判廷の情況を一般に報道するための取材活動であつても、その活動が公判廷における審判の秩序を乱し、被告人その他訴訟関係人の正当な利益を不当に害するが如きものはもとより許されないところである。\n二　刑訴規則第二一五条は憲法第二一条に違反しない。",
+  "ref_law": "法定等の秩序維持に関する法律2条1項，憲法21条，刑訴規則215条",
+  "lawsuit_id": "50432",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50432",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/432/050432_hanrei.pdf"
+}

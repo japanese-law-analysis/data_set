@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 11,
+    "day": 9
+  },
+  "case_number": "昭和28(あ)914",
+  "case_name": "傷害詐欺、脅迫、銃砲刀剣類等所持取締令違反、漁業法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第100号91頁",
+  "original_court_name": "仙台高等裁判所\n        　秋田支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 12,
+    "day": 2
+  },
+  "gist": "訴因変更を要しない例  ―恐喝の起訴に対し脅迫と認定する場合―",
+  "case_gist": "恐喝として起訴されたものを脅迫と認定しても、脅迫をしたという基本事実に変更がなく、かつ、被告人の防禦に実質的な不利益を生ずるおそれのないものであるから訴因変更の手続を経る必要はない。",
+  "ref_law": "刑法249条，刑法222条，刑訴法312条",
+  "lawsuit_id": "75555",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=75555",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/555/075555_hanrei.pdf"
+}

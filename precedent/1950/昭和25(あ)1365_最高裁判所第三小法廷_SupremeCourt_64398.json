@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 5,
+    "day": 13
+  },
+  "case_number": "昭和25(あ)1365",
+  "case_name": "酒税法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第64号365頁",
+  "original_court_name": "仙台高等裁判所\n        　秋田支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 4,
+    "day": 19
+  },
+  "gist": "国税犯則取締法にいわゆる犯則事件調査顛末書の性質",
+  "case_gist": "所論犯則事件調査顛末書は税務官吏が犯則の有無を調査する為のもので、該調査の結果税法違反の犯罪行為ありと思料するときは検事に告発を為し、その告発に基いて検察官の犯罪捜査が開始されるのであり、収税官吏自身が司法警察職員として捜査を為すものではない。収税官吏は犯罪の捜査を為すものでもなく、司法警察員と同一の権限を有するものでもない。それ故右書類が捜査の段階において作成された書面なりとする論旨は当らない。",
+  "ref_law": "国税犯則取締法10条，国税犯則取締法12条ノ2",
+  "lawsuit_id": "64398",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64398",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/398/064398_hanrei.pdf"
+}

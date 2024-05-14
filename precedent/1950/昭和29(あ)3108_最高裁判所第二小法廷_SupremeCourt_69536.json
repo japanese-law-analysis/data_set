@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 2,
+    "day": 2
+  },
+  "case_number": "昭和29(あ)3108",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第102号543頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 8,
+    "day": 24
+  },
+  "gist": "選挙運動者が供与を受けた金員の一部を選挙運動の実費に充当した場合における追徴の範囲",
+  "case_gist": "選挙運動に従事するものが、選挙運等の報酬として供与を受けた金員の一部を事実上、選挙運動の実費として支弁した事実があっても―その実費支弁を後に弁償を受け得るや否やはともかくして―報酬として受けた金員の全額について追徴を免れることはできないのである。",
+  "ref_law": "公職選挙法221条1項4号，公職選挙方224条",
+  "lawsuit_id": "69536",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=69536",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/536/069536_hanrei.pdf"
+}

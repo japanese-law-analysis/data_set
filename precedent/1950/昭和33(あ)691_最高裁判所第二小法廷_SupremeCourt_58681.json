@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 7,
+    "day": 18
+  },
+  "case_number": "昭和33(あ)691",
+  "case_name": "賍物故買、賍物牙保",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第126号1007頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 3,
+    "day": 13
+  },
+  "gist": "刑法第二七条により刑の言渡の効力を失つた前科を量刑資料に参酌することの適否。",
+  "case_gist": "刑の執行猶予の言渡を取り消されることなく猶予の期間を経過し刑の言渡がその効力を失つても、その言渡を受けたという既往の事実そのものを量刑の資料に参酌することが違法でないことは当庁昭和三二年（あ）三一三六号、同三三年五月一日第一小法廷決定の判示せるところである。",
+  "ref_law": "刑法27条",
+  "lawsuit_id": "58681",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58681",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/681/058681_hanrei.pdf"
+}

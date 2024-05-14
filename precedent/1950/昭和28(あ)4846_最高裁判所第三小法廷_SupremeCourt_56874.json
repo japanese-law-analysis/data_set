@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 10,
+    "day": 18
+  },
+  "case_number": "昭和28(あ)4846",
+  "case_name": "器物毀棄、爆発物取締罰則違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第9巻11号2224頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 10,
+    "day": 14
+  },
+  "gist": "爆発物取締罰則第三条の罪の訴因につき起訴された被告人を訴因変更の手続をとらずに同罰則第六条により処断することは違法か",
+  "case_gist": "爆発物取締罰則第三条の罪の審判の範囲には当然治安を妨げまたは身体財産を害する目的の存否が包括せられるのであつて、右訴因を変更せずして罪質の軽い右罰則第六条によつて処断しても被告人側の意表に出でその防禦権を侵害した違法あるものというを得ない。",
+  "ref_law": "爆発物取締罰則3条，爆発物取締罰則6条，刑訴法256条，刑訴法312条",
+  "lawsuit_id": "56874",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56874",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/874/056874_hanrei.pdf"
+}

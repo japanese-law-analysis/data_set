@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 12,
+    "day": 22
+  },
+  "case_number": "昭和29(あ)665",
+  "case_name": "火薬類取締法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第10巻12号1667頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 12,
+    "day": 24
+  },
+  "gist": "犯罪行為後の発生事実を刑の量定に参酌した一事例",
+  "case_gist": "被告人が火薬類を所持しこれを譲渡しなかつたならば、その直後に災害が発生しなかつたものであると認められる事情の存する場合に、その火薬類により発生した災害の結果を火薬類所持罪の量刑の一事情として参酌したからといつて、不当ではなく、違法ということはできない。",
+  "ref_law": "刑訴法333条，刑訴法381条，刑訴法411条2号，火薬類取締法59条2号，火薬類取締法21条",
+  "lawsuit_id": "51384",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51384",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/384/051384_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 4,
+    "day": 27
+  },
+  "case_number": "昭和28(オ)1318",
+  "case_name": "株券引渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第10巻4号450頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 10,
+    "day": 12
+  },
+  "gist": "一　白紙委任状を添付してする記名株式の譲渡と商法第二〇五条第一項の適用\n二　譲渡証書が偽造である場合と記名株式の善意取得",
+  "case_gist": "一　白紙委任状を添付してする記名株式の譲渡は、商法第二〇五条第一項の譲渡を証する書面の交付によつてなす記名株式の譲渡に該当する。\n二　悪意または重大な過失なくして記名株式を取得した者は、これに添付された譲渡を証する書面が偽造である場合にも、なお、商法第二二九条の保護をうけるものと解すべきである。",
+  "ref_law": "商法205条，商法229条",
+  "lawsuit_id": "57393",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57393",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/393/057393_hanrei.pdf"
+}

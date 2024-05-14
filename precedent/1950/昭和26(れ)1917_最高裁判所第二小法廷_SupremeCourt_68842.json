@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 10,
+    "day": 26
+  },
+  "case_number": "昭和26(れ)1917",
+  "case_name": "公文書偽造同行使、詐欺、贈賄",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第55号785頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 5,
+    "day": 22
+  },
+  "gist": "市長の補助機関に過ぎない者が転出証明書、家庭用米殻通帳等を作成した行為と公文書偽造罪の成立",
+  "case_gist": "原審相被告人Ａ同Ｂの両名は、いずれも舞鶴市長の補助機関として同市役所西支所において、転入転出世帯員の異動証明、諸配給の通帳交付等の事務に従事していたというのであつて、所論の如き市長名義の独立した公文書作成の権限を有しいたものではない。してみれば、被告人が右両名と共謀して原判示第七及び第一一の一の如く、壇に転出証明書家庭用米殻通帳等を作成した行為を、公文書偽造罪として刑法一五五条一項を適用処断した原判決は正当であつて、所論の如き適法はないのである。",
+  "ref_law": "刑法155条1項",
+  "lawsuit_id": "68842",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=68842",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/842/068842_hanrei.pdf"
+}

@@ -1,0 +1,18 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 3,
+    "day": 31
+  },
+  "case_number": "昭和25(オ)72",
+  "case_name": "自作農創設特別措置法違法処分取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "その他",
+  "article_info": "集民　第3号217頁",
+  "lawsuit_id": "73512",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=73512",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/512/073512_hanrei.pdf"
+}

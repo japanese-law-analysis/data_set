@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 5,
+    "day": 30
+  },
+  "case_number": "昭和27(あ)5316",
+  "case_name": "児童福祉法違反",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第10巻5号756頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 8,
+    "day": 25
+  },
+  "gist": "一　家庭裁判所と憲法第七六条第一項第二項\n二　少年法第三七条第一項第四号と憲法第七六条第二項",
+  "case_gist": "一　家庭裁判所は一般的に司法権を行う通常裁判所であつて、憲法第七六条第二項にいわゆる特別裁判所ではない。\n二　児童福祉法第六〇条の罪に関する少年法第三七条第一項第四号の規定は憲法第七六条第二項に違反しない。",
+  "ref_law": "憲法76条1項，憲法76条2項，裁判所法1条，裁判所法2条1項，裁判所法第3篇第3章家庭裁判所，少年法37条1項4号",
+  "lawsuit_id": "51259",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51259",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/259/051259_hanrei.pdf"
+}

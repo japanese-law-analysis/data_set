@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 12,
+    "day": 13
+  },
+  "case_number": "昭和31(あ)1564",
+  "case_name": "貴金属管理令違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第116号115頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 4,
+    "day": 14
+  },
+  "gist": "貴金属管理法第一二条第三項一号但書及び昭和二五年五月一日大蔵省告示第三〇二号指定の金製品と同条第一項との関係",
+  "case_gist": "貴金属管理法一二条三項一号但書及び昭和二五年五月一日大蔵省告示三〇二号と、同法一二条一項との関係については、右大蔵省告示指定の各種金製品が自由処分を許されるのは、当該金製品としての形態を保持する間に限られるべきであり、一たんその形態を失つて右物品に該当しないものとなつたときは、直ちに同法一二条三項一号但書の適用を受けないことになり、同条一項の制限を受けるに至るものと解すべきである。",
+  "ref_law": "貴金属管理法（昭和25年法律128号）12条3項1号但書，貴金属管理法（昭和25年法律128号）12条121項，右但書による金地金の加工品指定告示（昭和二五年五月一日大蔵省告示302号）",
+  "lawsuit_id": "60921",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60921",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/921/060921_hanrei.pdf"
+}

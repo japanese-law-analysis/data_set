@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 4,
+    "day": 11
+  },
+  "case_number": "昭和30(あ)3708",
+  "case_name": "虚偽有印公文書作成、同行使詐欺",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第12巻5号886頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 11,
+    "day": 11
+  },
+  "gist": "村長が専ら第三者の利をはかる目的で内容虚偽の村長名義の公文書を作成した場合は有形偽造か無形偽造か",
+  "case_gist": "村長がその名義の内容虚偽の公文書を作成した場合は、それが専ら第三者の利をはかる等不法な意思に出でその職務権限の乱用と認められる場合であつても、刑法第一五六条の罪が成立し、同法第一五五条の罪が成立するものではない",
+  "ref_law": "刑法155条，刑法156条",
+  "lawsuit_id": "50457",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50457",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/457/050457_hanrei.pdf"
+}

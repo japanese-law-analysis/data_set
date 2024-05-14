@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 4,
+    "day": 30
+  },
+  "case_number": "昭和25(オ)80",
+  "case_name": "抗告審判の審決取消請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第7巻4号461頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 2,
+    "day": 28
+  },
+  "gist": "特許法第一条の工業的発明の意義",
+  "case_gist": "特許法第一条にいわゆる工業的発明とは自然法則の利用によつて一定の文化的目的を達するに適する技術的考案をいうのであつて、何等の装置を用いず、また自然力を利用した手段を施していない考案は工業的発明とはいえない。",
+  "ref_law": "特許法1条",
+  "lawsuit_id": "57208",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57208",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/208/057208_hanrei.pdf"
+}

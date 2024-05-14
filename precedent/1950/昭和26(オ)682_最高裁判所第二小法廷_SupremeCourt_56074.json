@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 5,
+    "day": 29
+  },
+  "case_number": "昭和26(オ)682",
+  "case_name": "預金払戻請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第7巻5号608頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 9,
+    "day": 26
+  },
+  "gist": "特定の債権譲渡に対し債務者が事前に同意を与えた場合と民法第四六七条第一項の対抗要件の要否",
+  "case_gist": "債権者が特定の債権を特定の譲受人に譲渡しようとするにあたり、債務者が予めその譲渡行為に同意を与えたときは、右譲渡の後あらためて民法第四六七条第一項所定の通知または承諾がなくても、当該債務者に対しては、右債権譲渡を対抗し得ると解するのが相当である。",
+  "ref_law": "民法467条1項",
+  "lawsuit_id": "56074",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56074",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/074/056074_hanrei.pdf"
+}

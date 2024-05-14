@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 3,
+    "day": 15
+  },
+  "case_number": "昭和24(れ)753",
+  "case_name": "業務上横領",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第41号647頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 12,
+    "day": 25
+  },
+  "gist": "法令上存しない組合長代理の横領行為と業務横領",
+  "case_gist": "原判決は、被告人が「農事組合長代理として配給事務その他組合の業務一切を取扱つていたものである」ことは認めている。それ故かかる被告人の横領は業務横領として処罰するのは当然である。所論のように農事実行組合には法令上組合長代理が認められていないことは、業務横領を認める妨げとなるものではない。",
+  "ref_law": "刑法253条",
+  "lawsuit_id": "66990",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66990",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/990/066990_hanrei.pdf"
+}

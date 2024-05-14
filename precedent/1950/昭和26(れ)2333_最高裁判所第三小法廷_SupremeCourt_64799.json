@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 5,
+    "day": 27
+  },
+  "case_number": "昭和26(れ)2333",
+  "case_name": "殺人、死体遺棄",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集刑　第64号705頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 7,
+    "day": 14
+  },
+  "gist": "公判手続の重要部分に関与しない判事が判決に関与した場合と原判決の破棄",
+  "case_gist": "原審判事小林登一が原審公判に関与する以前において既に検察官の起訴状の朗読その他冐頭手続、証拠書類及び証拠物の取調、証人Ａの尋問等が行われ、同判事は公判手続の更新のなされないままにその証人Ｂの尋問及び当事者の弁論に関与したにすぎないのであつて、かくの如く公判手続の重要部分に関与しない判事が判決に関与することは口頭弁論主義直接審理主義の大原則を著しく蹂躙するものであり審理に関与した裁判官が裁判をするのと然らざる裁判官が裁判をするのとでは心証を異にし従つて主文が反対になることもないではないから刑訴四一一条一号によつて原判決を破棄すべき場合にあたるものといわねばならない。",
+  "ref_law": "旧刑訴法354条，旧刑訴法345条，刑訴法411条1号",
+  "lawsuit_id": "64799",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64799",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/799/064799_hanrei.pdf"
+}

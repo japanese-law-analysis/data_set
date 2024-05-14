@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 4,
+    "day": 4
+  },
+  "case_number": "昭和25(ク)141",
+  "case_name": "地位保全賃金支払等仮処分申請事件の抗告",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "民集　第5巻5号214頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和25(ラ)90",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 11,
+    "day": 20
+  },
+  "gist": "一　憲法第二一条所定の言論出版その他一切の表現の自由に対する制限の可否\n二　特別抗告理由として原審抗告理由書の記載を引用することの適否",
+  "case_gist": "一　憲法第二一条所定の言論、出版その他一切の表現の自由は、公共の福祉に反し得ないばかりでなく、自己の自由意思に基ずく特別な公法関係上又は私法関係上の義務によつて制限を受ける。\n二　特別抗告理由は理由書自体に記載すべきであつて、原審抗告理由書の記載を引用することは許されない。",
+  "ref_law": "憲法12条，憲法21条，民訴法419条ノ3",
+  "lawsuit_id": "56044",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56044",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/044/056044_hanrei.pdf"
+}

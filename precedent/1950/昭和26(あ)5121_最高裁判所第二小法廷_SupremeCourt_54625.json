@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 7,
+    "day": 25
+  },
+  "case_number": "昭和26(あ)5121",
+  "case_name": "強盗殺人",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第6巻7号946頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 10,
+    "day": 31
+  },
+  "gist": "鑑定書の取調請求と鑑定処分の許可状提出の要否",
+  "case_gist": "鑑定書の取調請求に対して被告人および弁護人が証拠調に異議がないと述べた以上、鑑定処分許可状が提出されなくても違法ではない。",
+  "ref_law": "刑訴法223条1項，刑訴法225条，刑訴法168条1項，刑訴法309条，刑訴法326条，刑訴規則159条",
+  "lawsuit_id": "54625",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54625",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/625/054625_hanrei.pdf"
+}

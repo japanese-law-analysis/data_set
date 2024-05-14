@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 5,
+    "day": 25
+  },
+  "case_number": "昭和25(あ)3208",
+  "case_name": "横領",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第5巻6号1201頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 10,
+    "day": 21
+  },
+  "gist": "刑訴法第三九三条第一項但書にあたらない事例",
+  "case_gist": "原審第一回公判調書によれば弁護人は控訴趣意書に基いて弁論し、証人Ａ、Ｂの各取調を請求し右証人により被告人に犯意がなかつた事実を主張する。第一審の弁護終結前に取調を請求出来なかつたのはその後右証人が供述を翻しているためである旨述べたとありそして右取調請求が却下されたことは所論のとおりである。しかし第一審において被告人は右証人の供述調書を証拠とすることに同意し反対訊問権を抛棄しているのであるから、明らかに右証人の取調請求ができたのにかかわらずその権利を抛棄したものである。従つて右証人申請は刑訴第三九三条一項但書にあたらないと解すべきであるから、原審が右申請を却下したからといつて何等違法の点はない。",
+  "ref_law": "刑訴法393条1項但書，刑訴法326条1項",
+  "lawsuit_id": "54420",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54420",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/420/054420_hanrei.pdf"
+}

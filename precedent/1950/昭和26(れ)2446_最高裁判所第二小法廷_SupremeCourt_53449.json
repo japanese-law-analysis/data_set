@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 10,
+    "day": 31
+  },
+  "case_number": "昭和26(れ)2446",
+  "case_name": "物価統制令違反、同幇助、収賄",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第6巻9号1129頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 9,
+    "day": 6
+  },
+  "gist": "一　自給塩を決定の除外事由なしに販売する場合の統制額\n二　刑訴第四一一条に該当しない一事例",
+  "case_gist": "一　自給塩を決定の除外事由なしに販売する場合の統制額は、塩専売法にもとずく賠償価格ではなく、塩売捌規則に定める販売価格である。\n二　原判決が右統制額として賠償価格を挙示していても、それが右販売価格を超えるものであるときは、その擬律の誤は未だ刑訴第四一一条にあたらない。",
+  "ref_law": "物価統制令3条，物価統制令7条，物価統制令33条，物価統制令施行規則8条，旧塩専売法15条，旧塩専売法20条，塩売捌規則11条，刑訴法411条",
+  "lawsuit_id": "53449",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53449",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/449/053449_hanrei.pdf"
+}

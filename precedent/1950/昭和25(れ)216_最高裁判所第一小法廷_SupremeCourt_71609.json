@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 11,
+    "day": 2
+  },
+  "case_number": "昭和25(れ)216",
+  "case_name": "虚偽公文書作成、同行使詐欺",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第35号39頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 9,
+    "day": 30
+  },
+  "gist": "総則規定の適用を明示しない判決と擬律不備の有無",
+  "case_gist": "原判決が被告人Ａの判示虚偽公文書作成の所為に加功した所為に対し、刑法第六五条一項の適用を明示しなかつたことは所論のとおりである。しかし、同条項のごとき総則規定は特にこれが適用を明示しなくとも、これを適用したことを看取し得れば差支ないものといわなければならない。そして原判決は、その判示冒頭において被告人は昭和二一年三月三〇日退官し爾後判示常任幹事であつたに過ぎないことを判示し刑法第六〇条を適用する等判示全体により自ら同条項を適用処断した趣旨であることを窺い知ることができるから、原判決にはこれを破棄しなければならない擬律不備の違法はないものといわなければならない。",
+  "ref_law": "刑法65条1項，旧刑訴法360条1項，旧刑訴法410条19号",
+  "lawsuit_id": "71609",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=71609",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/609/071609_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 12,
+    "day": 14
+  },
+  "case_number": "昭和29(あ)3924",
+  "case_name": "昭和二五年政令第三二五号違反、公職選挙法違反",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第9巻13号2775頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 11,
+    "day": 25
+  },
+  "gist": "免訴判決に対する被告人の上訴権",
+  "case_gist": "免訴判決に対しては被告人から無罪を主張して控訴することはできないとして被告人の控訴を棄却した判決に対しても、無罪を主張して上告することはできない。",
+  "ref_law": "刑訴法337条，刑訴法351条",
+  "lawsuit_id": "56924",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56924",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/924/056924_hanrei.pdf"
+}

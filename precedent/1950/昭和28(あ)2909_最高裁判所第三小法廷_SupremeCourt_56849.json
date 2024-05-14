@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 7,
+    "day": 5
+  },
+  "case_number": "昭和28(あ)2909",
+  "case_name": "経済関係罰則の整備に関する法律違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第9巻9号1805頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 5,
+    "day": 19
+  },
+  "gist": "一　訴因変更を要しない一事例\n二　「経済関係罰則ノ整備ニ関スル法律」第二条にいう「其ノ職務」にあたる一事例",
+  "case_gist": "一　「経済関係罰則ノ整備ニ関スル法律」別表乙号第二九号にあたるＡ配電株式会社（現在Ｂ電力株式会社）資材課員の職務に関し賄賂を供与した罪の訴因において、「機器の修理契約その代金支払手続等の事務」とある職員の職務内容を「変圧器等古機器の払下」と認定するには訴因変更の手続を要しない。\n二　前記会社の資材課長の職務である「機器の修理契約その代金の支払手続等」および同課員の職務である「変圧器等古機器の払下」は前記法律第二条にいう役職員の職務に含まれるものと解するを相当とする。",
+  "ref_law": "経済関係罰則ノ整備ニ関スル法律2条，経済関係罰則ノ整備ニ関スル法律5条1項，刑訴法256条，刑訴法312条",
+  "lawsuit_id": "56849",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56849",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/849/056849_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 1,
+    "day": 14
+  },
+  "case_number": "昭和25(オ)212",
+  "case_name": "農地買収に対する不服",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第8巻1号1頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 4,
+    "day": 3
+  },
+  "gist": "自作農創設特別措置法第三条第一項第一号または同条第五項第四号に該当するものとして定められた買収計画を裁判所が右条項第五号に該当するものとして維持することの可否",
+  "case_gist": "自作農創設特別措置法第三条第一項第一号または同条第五項第四号に該当する農地として定められた買収計画を、裁判所が、右土地は右各号には該当しないとしながら、同項第五号に該当するものとして維持することはするされない。",
+  "ref_law": "自作農創設特別措置法3条1項，自作農創設特別措置法3条5項，自作農創設特別措置法6条",
+  "lawsuit_id": "57172",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57172",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/172/057172_hanrei.pdf"
+}

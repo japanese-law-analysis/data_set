@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 6,
+    "day": 27
+  },
+  "case_number": "昭和31(あ)3521",
+  "case_name": "業務上横領等",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第11巻6号1751頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 8,
+    "day": 16
+  },
+  "gist": "横領罪の成立と自己利得の要否",
+  "case_gist": "横領罪は、他人の物を保管する者が他人の権利を排除して、ほしいままにこれを処分する意思をもつてすることにより成立し、必ずしも自己の所有となしまたは自己が利益を得る目的を要しない。",
+  "ref_law": "刑法253条",
+  "lawsuit_id": "51504",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51504",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/504/051504_hanrei.pdf"
+}

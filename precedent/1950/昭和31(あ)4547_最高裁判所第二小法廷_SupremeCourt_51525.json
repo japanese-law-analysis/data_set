@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 7,
+    "day": 24
+  },
+  "case_number": "昭和31(あ)4547",
+  "case_name": "業務上過失傷害、道路交通取締法違反、要保護者遺棄",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第13巻8号1163頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 10,
+    "day": 31
+  },
+  "gist": "自動車操縦者の被害者救護義務違反と要保護者遺棄罪の成否。",
+  "case_gist": "自動車の操縦中過失に因り通行人に約三ケ月の入院加療を要する歩行不能の重傷を負わしめながら道路交通取締法、同法施行令に定める被害者の救護措置を講ずることなく、被害者を自動車に乗せて事故現場を離れ、折柄降雪中の薄暗い車道上まで運び、医者を呼んで来てやる旨申し欺いて被害者を自動車から下ろし、同人を同所に放置したまま自動車を操縦して同所を立ち去つたときは、道路交通取締法違反（被害者救護義務違反）罪のほか要保護者遺棄罪（刑法第二一八条）が成立する。",
+  "ref_law": "道路交通取締法24条，道路交通取締法施行令67条，刑法218条，刑法45条",
+  "lawsuit_id": "51525",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51525",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/525/051525_hanrei.pdf"
+}

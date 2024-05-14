@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 12,
+    "day": 13
+  },
+  "case_number": "昭和30(あ)1816",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第111号357頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 5,
+    "day": 16
+  },
+  "gist": "選挙運動者が投票買収のため交付を受けた金員のうち一部をさらに供与した場合の罪数とその残余の部分の受交付罪の成否",
+  "case_gist": "投票買収のため金員の交付を受けた選挙運動者が、さらにその金員の一部を選挙運動者または選挙人に供与したときは、その部分については前の交付を受けた所為は後の供与の所為に吸収されて供与罪のみが成立するが、その供与をしなかつた部分については前の受交付罪が成立する。",
+  "ref_law": "刑法45条，公職選挙法221条1項5号",
+  "lawsuit_id": "75800",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=75800",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/800/075800_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 1,
+    "day": 24
+  },
+  "case_number": "昭和30(あ)2532",
+  "case_name": "外国人登録令違反、建造物侵入、外国人登録法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第117号423頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 7,
+    "day": 28
+  },
+  "gist": "検察官のみの控訴にかかる事件で第一審判決より重い刑を言渡すことと刑訴法第四一一条。",
+  "case_gist": "原判決が懲役四月執行猶予三年の第一審判決を懲役三月罰金千円に変更したことが第一審判決の刑を重くしたことになるとしても、本件は検察官のみの控訴にかかる事件であるから、刑訴第四一一条を適用すべきものとは認められない。",
+  "ref_law": "刑訴法402条，刑訴法411条",
+  "lawsuit_id": "60809",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60809",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/809/060809_hanrei.pdf"
+}

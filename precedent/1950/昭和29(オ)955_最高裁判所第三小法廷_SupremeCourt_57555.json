@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 4,
+    "day": 5
+  },
+  "case_number": "昭和29(オ)955",
+  "case_name": "土地所有権移転登記請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第9巻4号456頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 9,
+    "day": 22
+  },
+  "gist": "制定法の効力",
+  "case_gist": "法律は一旦適法に制定された以上その後の法律により改廃されない限り効力を失うものではない。",
+  "ref_law": "法例1条，憲法59条",
+  "lawsuit_id": "57555",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57555",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/555/057555_hanrei.pdf"
+}

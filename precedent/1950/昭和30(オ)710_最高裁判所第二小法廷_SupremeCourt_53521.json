@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 2,
+    "day": 21
+  },
+  "case_number": "昭和30(オ)710",
+  "case_name": "木材代金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第12巻2号282頁",
+  "original_court_name": "福岡高等裁判所\n        　宮崎支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 6,
+    "day": 20
+  },
+  "gist": "商法第二三条の責任が認められた一事例",
+  "case_gist": "建築請負を業務とする株式会社が事実上の連絡のため某出張所を開設し、甲がその出張所長と称し、同出張所名義をもつて、同出張所の独立会計により、他と請負契約をなした場合にかかる事例が既往に二、三あり、会社もその事実を諒知していたときは、会社は甲に自己の商号を使用して営業をなすことを許諾したものとみとめるべきである。",
+  "ref_law": "商法23条",
+  "lawsuit_id": "53521",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53521",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/521/053521_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 2,
+    "day": 14
+  },
+  "case_number": "昭和26(れ)1399",
+  "case_name": "物価統制令違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第60号633頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 4,
+    "day": 27
+  },
+  "gist": "憲法一三条にいわゆる公共の福祉と物価統制令違反の所為",
+  "case_gist": "論旨前段は被告人等の判示所為は公共の福祉に反するものではないと独自の見解に立つて憲法一三条違反の主張をするのであるが、物価統制令で禁止、処罰される判示所為が公共の福祉に反するものと認むべきはいうまでもないところであるから、所論違憲の主張はその前提を欠きとるを得ない。",
+  "ref_law": "憲法13条，物価統制令1条",
+  "lawsuit_id": "71946",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=71946",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/946/071946_hanrei.pdf"
+}

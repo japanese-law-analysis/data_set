@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 2,
+    "day": 22
+  },
+  "case_number": "昭和28(あ)665",
+  "case_name": "贈賄",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第117号1227頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 11,
+    "day": 18
+  },
+  "gist": "刑法第一九七条にいう公務員の職務の意義",
+  "case_gist": "刑法第一九七条にいう公務員の職務とは、公務員または公務員とみなされる者がその地位に伴い公務または公務とみなされる事務として取扱う一切の執務を指称し、必ずしも贈賄者との間に指揮監督の関係があることを要しない。",
+  "ref_law": "刑法197条，刑法198条，貿易公団法15条",
+  "lawsuit_id": "60560",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60560",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/560/060560_hanrei.pdf"
+}

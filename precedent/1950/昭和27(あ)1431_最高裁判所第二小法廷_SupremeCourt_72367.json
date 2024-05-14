@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 11,
+    "day": 13
+  },
+  "case_number": "昭和27(あ)1431",
+  "case_name": "食糧緊急借置令違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第88号373頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 12,
+    "day": 7
+  },
+  "gist": "刑訴四一一条にあたらない一事例 ―適条の遺脱―",
+  "case_gist": "原判決が、主要食糧の配給に関して不実の申告をしてその配給を受けたという食糧緊急措置令第一〇条該当の罪に関する有罪判決の適用法律としては、食糧管理法施行令第一条のごとき主要食糧の何であるかを定めた法規のようなものは包含されないと判示して、食糧管理法施行令第一条の適用をしなかつた第一審判決を維持したことは法令違反のそしりを免れないが、右違法は未だもつて刑訴四一一条を適用すべき場合ではない。",
+  "ref_law": "刑訴法411条，食糧緊急措置令10条，食糧管理法2条（昭和22・12・30法247号），食糧管理法2条（昭和24・6・25法218号），食糧管理法施行令1条（昭和22・12・30政令330号），食糧管理法施行令1条（昭和24・6・25政令226号）",
+  "lawsuit_id": "72367",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=72367",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/367/072367_hanrei.pdf"
+}

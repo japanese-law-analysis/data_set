@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 7,
+    "day": 16
+  },
+  "case_number": "昭和28(オ)315",
+  "case_name": "所有権移転登記手続等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第8巻7号1373頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 1,
+    "day": 30
+  },
+  "gist": "臨時農地等管理令第七条ノ二の地方長官の許可の性質",
+  "case_gist": "臨時農地等管理令第七条ノ二の地方長官の許可は、農地の所有権移転を目的とする契約の有効要件ではない。",
+  "ref_law": "臨時農地等管理令7条ノ2",
+  "lawsuit_id": "57417",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57417",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/417/057417_hanrei.pdf"
+}

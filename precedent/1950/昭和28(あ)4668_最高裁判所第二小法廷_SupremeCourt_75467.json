@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 12,
+    "day": 23
+  },
+  "case_number": "昭和28(あ)4668",
+  "case_name": "詐欺",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第111号689頁",
+  "original_court_name": "仙台高等裁判所\n        　秋田支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 8,
+    "day": 25
+  },
+  "lawsuit_id": "75467",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=75467",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/467/075467_hanrei.pdf"
+}

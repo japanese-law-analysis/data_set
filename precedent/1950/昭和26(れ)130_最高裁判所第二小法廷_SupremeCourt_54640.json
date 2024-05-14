@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 6,
+    "day": 8
+  },
+  "case_number": "昭和26(れ)130",
+  "case_name": "強盗、詐欺等",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第5巻7号1257頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 12,
+    "day": 13
+  },
+  "gist": "弁護人が被告人の氏名を代書してした弁護人選任届の効力",
+  "case_gist": "弁護人が被告人の氏名を代書して為した弁護人選任届は法令に違反する瑕疵あるものであるが、右弁護人が異議なく公判に立会い弁論をなし被告人からも何等の異議がなかつたときは右弁護届を無効と断ずることはできない。",
+  "ref_law": "旧刑訴法42条，旧刑訴法74条",
+  "lawsuit_id": "54640",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54640",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/640/054640_hanrei.pdf"
+}

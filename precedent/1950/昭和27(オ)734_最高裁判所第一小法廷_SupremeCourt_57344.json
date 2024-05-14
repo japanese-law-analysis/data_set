@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 1,
+    "day": 28
+  },
+  "case_number": "昭和27(オ)734",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第8巻1号308頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 6,
+    "day": 26
+  },
+  "gist": "本案の裁判に対する上訴と共になされた訴訟費用の裁判に対する不服申立の適否",
+  "case_gist": "本案の裁判に対する上訴と共に訴訟費用の裁判に対し不服が申立てられた場合においても、本案の裁判に対する上訴が理由のないときは、訴訟費用の裁判に対する不服の申立は許されない。",
+  "ref_law": "民訴法361条，民訴法384条（396条），民訴法384条（414条）",
+  "lawsuit_id": "57344",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57344",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/344/057344_hanrei.pdf"
+}

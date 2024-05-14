@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 1,
+    "day": 22
+  },
+  "case_number": "昭和25(し)33",
+  "case_name": "窃盗被告事件について東京高等裁判所がした抗告棄却の決定に対する特別抗告の申立",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第72号415頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 5,
+    "day": 12
+  },
+  "lawsuit_id": "64455",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64455",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/455/064455_hanrei.pdf"
+}

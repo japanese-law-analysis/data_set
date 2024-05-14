@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 2,
+    "day": 22
+  },
+  "case_number": "昭和25(れ)1759",
+  "case_name": "関税法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第5巻3号418頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 9,
+    "day": 12
+  },
+  "gist": "上告審においてはじめて緊急避難である旨主張することの適否",
+  "case_gist": "上告審においてはじめて被告人の所為は緊急避難に該当し違法性がない旨主張することはできない。",
+  "ref_law": "刑法37条，旧刑訴法409条",
+  "lawsuit_id": "55572",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55572",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/572/055572_hanrei.pdf"
+}

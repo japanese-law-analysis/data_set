@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 1,
+    "day": 28
+  },
+  "case_number": "昭和26(あ)1050",
+  "case_name": "傷害致死",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第91号955頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 1,
+    "day": 26
+  },
+  "gist": "適法な緊急逮捕により拘禁された被告人の供述調書の証拠能力",
+  "case_gist": "仮りに、被告人の拘禁が不法であつても、その一事でその後における供述調書が強制、拷問又は脅迫による証拠能力のないものといえないことは、当裁判所屡次の判例とするところである。しかのみならず、本件逮捕状は、刑訴二一〇条所定の逮捕状であることが記録上明白であるから、本件逮捕による拘禁は不法とはいえない。",
+  "ref_law": "刑訴法210条，刑訴法319条，刑訴法322条1項，憲法33条，憲法38条1項，憲法38条2項",
+  "lawsuit_id": "71630",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=71630",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/630/071630_hanrei.pdf"
+}

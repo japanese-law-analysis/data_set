@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 3,
+    "day": 15
+  },
+  "case_number": "昭和25(あ)392",
+  "case_name": "食糧管理法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第41号889頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 12,
+    "day": 28
+  },
+  "gist": "一　前科の事実と原判示事実とが同一又は連続犯であるか否かを確定することの要否二　原審で主張しない事実を前提とし憲法違反を主張する上告の適否",
+  "case_gist": "所論確定判決にかかる犯罪事実と原判示第一事実と同一又は連続犯であることは、原審において、主張された形跡がなく、従つて、原判決が本件犯罪を認定判示するのに所論確定判決にかかる犯罪事実の内容を明確にすることは訴訟法上少しも要請されていない。されば、所論一、二点は、原判示に副わない事実を前提として審理不盡、又は理由不備を主張し惹いて憲法違反であるというに過ぎないから、その前提において明らかに上告適法の理由にならない。",
+  "ref_law": "刑訴法392条2項，刑訴法405条",
+  "lawsuit_id": "67537",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=67537",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/537/067537_hanrei.pdf"
+}

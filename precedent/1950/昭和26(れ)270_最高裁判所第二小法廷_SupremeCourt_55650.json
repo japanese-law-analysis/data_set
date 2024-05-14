@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 11,
+    "day": 2
+  },
+  "case_number": "昭和26(れ)270",
+  "case_name": "収賄",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第5巻12号2330頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 11,
+    "day": 30
+  },
+  "gist": "文書の写の証拠力",
+  "case_gist": "記録編綴の貿易庁長官の証明文書の写について作成者及び作成年月日が不明であつても、訴訟当事者において作成者の尋問を求めることもなく意見弁解もないときは、裁判所がこれを原本と相違ないものと認めて罪証に供することができる。",
+  "ref_law": "旧刑訴法337条",
+  "lawsuit_id": "55650",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55650",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/650/055650_hanrei.pdf"
+}

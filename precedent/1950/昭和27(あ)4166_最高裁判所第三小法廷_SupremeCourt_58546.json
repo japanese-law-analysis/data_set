@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 3,
+    "day": 4
+  },
+  "case_number": "昭和27(あ)4166",
+  "case_name": "酒税法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第123号471頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 3,
+    "day": 4
+  },
+  "gist": "証拠調決定がなされたものと認められる一事例",
+  "case_gist": "公判調書の記載によれば、検察官が副検事に対する甲の供述調書外八点の証拠調の請求をしたところ弁護人は右請求に異議なく且つ証拠とすることに同意すると述べたので、裁判官は右検察官の請求を採用し提出された前記各書面を朗続したことが明らかであるときは、証拠決定記載がなくても、裁判所は前記書書面の証拠調をなす旨の決定をなし、これにもとずく証拠調が行われたものと認むべきである。",
+  "ref_law": "刑訴法298条，刑訴規則190条，刑訴規則44条1項31号",
+  "lawsuit_id": "58546",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58546",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/546/058546_hanrei.pdf"
+}

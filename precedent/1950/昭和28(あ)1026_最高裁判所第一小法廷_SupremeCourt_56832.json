@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 10,
+    "day": 18
+  },
+  "case_number": "昭和28(あ)1026",
+  "case_name": "傷害、強盗傷人",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第9巻11号2268頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 1,
+    "day": 31
+  },
+  "gist": "訴因変更手続を必要としない一事例",
+  "case_gist": "「被告人両名は共同して被害者某の足を蹴り顔面を殴打して同人に治療一週間を要する左眉毛部裂創並上下眼瞼皮下溢血腫張の傷害を与えた」との公訴事実に対し、訴因変更手続を経ることなく「被告人は被害者某の腰部を下駄ばきの足で蹴上げもつて暴行した」との事実を認定することは違法でない。",
+  "ref_law": "刑訴法312条，刑法204条",
+  "lawsuit_id": "56832",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56832",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/832/056832_hanrei.pdf"
+}

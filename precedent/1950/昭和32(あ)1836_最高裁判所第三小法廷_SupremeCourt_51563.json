@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 2,
+    "day": 6
+  },
+  "case_number": "昭和32(あ)1836",
+  "case_name": "強姦致傷",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第13巻1号55頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 6,
+    "day": 19
+  },
+  "gist": "昭和二七年条約第六号日本国とアメリカ合衆国との間の安全保障条約第三条に基く行政協定第一七条第九項（ｆ）の法意。",
+  "case_gist": "昭和二七年条約第六号日本国とアメリカ合衆国との間の安全保障条約第三条に基く行政協定第一七条第九項（ｆ）所定の有能な通訳を用いる権利は、日本国の裁判権に基いて公訴を提起された合衆国軍隊の構成員若しくは軍属又はそれらの家族が必要とするならば、自らこれを行使すべきものであつて、裁判所に有能な通訳を附する義務を負わせているものではない。",
+  "ref_law": "昭和27年条約6号日本国とアメリカ合衆国との間の安全保障条約3条に基く行政協定17条9項，憲法98条2項",
+  "lawsuit_id": "51563",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51563",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/563/051563_hanrei.pdf"
+}

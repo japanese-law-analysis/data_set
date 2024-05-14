@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 4,
+    "day": 10
+  },
+  "case_number": "昭和26(れ)61",
+  "case_name": "傷害致死",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第5巻5号890頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 12,
+    "day": 21
+  },
+  "gist": "一　一、過剩防衛の主張と旧刑訴法第三六〇条第二項\n二　一、過剩防衛の主張にはその前提として当然正当防衛の主張を含むか",
+  "case_gist": "所論過剩防衛行為については法律上当然にその刑を減軽し又は免除しなければならないものではなく減軽又は免除するかどうかは裁量にまかされたところである。従つて右過剩防衛の主張は旧刑訴法第三六〇条第二項の主張にあたらないものというべく原判決が原審弁護人のこの点の主張に対する判断を明示しなかつたことに所論のような違法はない。なお過剩防衛の主張にはその前提として当然正当防衛の主張を含むというものではなく、原審公判調書を調べてみても弁護人が正当防衛の主張をしたものとは認められない。",
+  "ref_law": "刑法36条2項，旧刑訴法360条2項",
+  "lawsuit_id": "55656",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55656",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/656/055656_hanrei.pdf"
+}

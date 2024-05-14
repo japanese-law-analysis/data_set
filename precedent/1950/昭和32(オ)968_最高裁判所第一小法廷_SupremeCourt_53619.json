@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 2,
+    "day": 6
+  },
+  "case_number": "昭和32(オ)968",
+  "case_name": "選挙無効裁決取消請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第12巻2号140頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 6,
+    "day": 28
+  },
+  "gist": "一　不在者投票のため公職選挙法施行令第五五条第二項によつて都道府県選挙管理委員会が病院の一部を指定することの適否\n二　都道府県選挙管理委員会が公職選挙法施行令第五五条第二項によつて病院の一部を指定した場合に不在者投票管理者が右指定外の病棟の入院者に不在者投票をさせた違法と選挙の効力",
+  "case_gist": "一　不在者投票のため公職選挙法施行令第五五条第二項によつて、都道府県選挙管理委員会が病院の一部を指定しても違法ではない。\n二　都道府県選挙管理委員会が公職選挙法施行令第五五条第二項によつて病院の一部を指定した場合に、不在者投票管理者が右指定外の病棟の入院者に不在者投票をさせた違法は選挙無効の原因となり得る。",
+  "ref_law": "公職選挙法施行令55条2項，公職選挙法205条",
+  "lawsuit_id": "53619",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53619",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/619/053619_hanrei.pdf"
+}

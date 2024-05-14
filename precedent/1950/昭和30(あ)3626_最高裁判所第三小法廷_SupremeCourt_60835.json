@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 12,
+    "day": 24
+  },
+  "case_number": "昭和30(あ)3626",
+  "case_name": "食糧管理法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第122号827頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 10,
+    "day": 18
+  },
+  "gist": "公判期日召喚状の罪名の誤記と判決への影響。",
+  "case_gist": "原審の被告人に対する昭和三〇年一〇月四日の公判期日召喚状の送達報告書に「公職選挙法違反被告事件」と記載されていることは、所論のとおりであるが、該召喚状は罪名を異にしているだけであるばかりでなく、被告人は右召喚状の送達を受け、公判期日に出頭する機会を与えられていたこと記録上明らかであるから、右のような手続の瑕疵は、判決に何ら影響を及ぼさないものと認むべきである。",
+  "ref_law": "刑訴法273条，刑訴法62条，刑訴法63条",
+  "lawsuit_id": "60835",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60835",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/835/060835_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 9,
+    "day": 3
+  },
+  "case_number": "昭和27(あ)3897",
+  "case_name": "薬事法違反、商標法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "刑集　第7巻9号1800頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 4,
+    "day": 25
+  },
+  "gist": "他人の登録商標を類似商品に貼付して販売する目的で所持した場合と商標法第三四条第二号違反罪の成立",
+  "case_gist": "他人の登録商標と同一の商標を、類似の商品に貼付して、販売する目的で所持していたからといつて、商標法第三四条第二号違反をもつて論ずることはできない。",
+  "ref_law": "商標法34条1号，商標法34条2号，刑訴法411条1号",
+  "lawsuit_id": "55688",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55688",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/688/055688_hanrei.pdf"
+}

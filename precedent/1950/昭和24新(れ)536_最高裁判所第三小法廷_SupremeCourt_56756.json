@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 4,
+    "day": 25
+  },
+  "case_number": "昭和24新(れ)536",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第4巻1号693頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 11,
+    "day": 12
+  },
+  "gist": "一　憲法第三一條同第三七條第三項と必要的辯護事件\n\n二　法令の誤解に基く違憲の主張と刑訴法第四〇五條第一號\n\n三　刑訴施行法第五條の法意",
+  "case_gist": "一　憲法第三一條、第三七條第三項はすべての被告事件を必要辯護事件としなければならないという趣旨ではなく、如何なる事件を必要辯護事件となすべきものかは專ら刑訴法に依り決すべきことである。（昭和二四年（れ）第六〇四號同二五年二月一日大法廷判決）。\n\n二　法令の誤解に基きこれを基礎として憲法違反を主張することは法律にいう違憲の主張にあたらないこと、當裁判所の判例（昭和二三年（れ）第九三〇號同二四年六月二九日大法廷判決）の示す通りである。\n\n三　刑訴施行法第五條は、刑訴法施行後犯罪事實が發生した事件にも適用される。",
+  "ref_law": "憲法31條，憲法37條3項，刑訴法279條1項，刑訴法405條1號，刑訴法289條，刑訴施行法5條",
+  "lawsuit_id": "56756",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56756",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/756/056756_hanrei.pdf"
+}

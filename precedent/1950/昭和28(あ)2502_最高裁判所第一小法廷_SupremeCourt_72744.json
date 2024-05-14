@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 10,
+    "day": 1
+  },
+  "case_number": "昭和28(あ)2502",
+  "case_name": "賍物故買",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第87号53頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 3,
+    "day": 27
+  },
+  "gist": "判決書と刑訴規則第二四六条後段により引用された控訴趣意書との間には判事の契印が必要か",
+  "case_gist": "原判決は昭和二六年一月四日施行された刑訴規則二四六条後段により控訴趣意書を引用したものと認められるのであつて、この場合控訴趣意書は原判決の一部をなすものではないから、右判決をなした裁判官において判決書と控訴趣意書との間に契印をなす必要はないのである。",
+  "ref_law": "刑訴規則246条後段，刑訴規則58条2項",
+  "lawsuit_id": "72744",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=72744",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/744/072744_hanrei.pdf"
+}

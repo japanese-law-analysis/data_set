@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 4,
+    "day": 6
+  },
+  "case_number": "昭和28(オ)363",
+  "case_name": "鉱業権移転登録手続請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第10巻4号342頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 11,
+    "day": 14
+  },
+  "gist": "一　条件が債務者の意思のみにかかる停止条件附法律行為にはあたらない一事例\n二　売買契約後の貨幣価値の著しい変動と代金額の修正",
+  "case_gist": "一　鉱業権の売買契約において、買主が排水探鉱の結果品質良好と認めたときは代金を支払い、品質不良と認めたときは代金を支払わない旨を約しても、右売買契約は、民法第一三四条にいわゆる条件が単に債務者の意思のみにかかる停止条件附法律行為とはいえない。\n二　売買契約成立後貨幣価値が著しく変動しても、それだけで代金額が当然修正されるものと解すべきではない。",
+  "ref_law": "民法134条，民法1条2項",
+  "lawsuit_id": "57421",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57421",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/421/057421_hanrei.pdf"
+}

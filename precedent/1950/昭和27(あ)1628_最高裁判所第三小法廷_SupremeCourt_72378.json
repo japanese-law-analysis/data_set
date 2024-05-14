@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 8,
+    "day": 18
+  },
+  "case_number": "昭和27(あ)1628",
+  "case_name": "業務上横領",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第86号177頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 12,
+    "day": 8
+  },
+  "gist": "共同審理を受けた共犯者の供述と被告人の供述その他の証拠とを綜合して被告人の犯罪事実を認定することと憲法第三八条第三項",
+  "case_gist": "本件についてみれば、第一審において共同審理を受けた共犯者Ａは、被告人ＢがＡと共謀の上、ａ町所有の金円の中から判示金額を横領してこれを貸借名義で受領した事実を供述し、被告人Ｂも判示金円を借り受けた事実は認めている。そうして右Ａの供述は、被告人Ｂの供述その他第一審判決挙示の各証拠と相俟つて判示Ｂの犯罪事実を証明するに足りるものと認められる。してみれば被告人を有罪とした第一審判決に所論のような違法又は違憲のかどなきこと、判例（昭和二四年（れ）第四〇九号、同二五年七月一九日大法廷判決）に徴して明らかである。",
+  "ref_law": "憲法38条3項，刑訴法319条2項，刑法60条",
+  "lawsuit_id": "72378",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=72378",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/378/072378_hanrei.pdf"
+}

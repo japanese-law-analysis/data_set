@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 7,
+    "day": 3
+  },
+  "case_number": "昭和30(あ)885",
+  "case_name": "器物損壊",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第10巻7号999頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 12,
+    "day": 14
+  },
+  "gist": "一　株式会社の代表取締役がその任期満了後、新たに会社を代表する取締役の選任就職前になした告訴の効力\n二　資本金の一部が未払込であり、且つ、株主総会が長期間に亘り開催されなかつた会社は架空の会社といえるか",
+  "case_gist": "一　株式会社の代表取締役は、たといその任期が満了した場合においても、新たに会社を代表する取締役が選任就職するまでは、なお右会社を代表して告訴をすることができるものである。\n二　株式会社の資本金の一部が未払込であり、また株主総会が長期間に亘り開催されなかつたからといつて、その会社を目して架空の会社であるということはできない。",
+  "ref_law": "商法（昭和25年法律167号による改正前）258条1項，商法（昭和25年法律167号による改正前）261条1項，刑訴法230条，刑訴法27条，商法第4章株式会社（165条の前）",
+  "lawsuit_id": "51457",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51457",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/457/051457_hanrei.pdf"
+}

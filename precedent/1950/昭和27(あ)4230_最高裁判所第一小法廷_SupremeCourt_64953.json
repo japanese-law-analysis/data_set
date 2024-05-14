@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 7,
+    "day": 16
+  },
+  "case_number": "昭和27(あ)4230",
+  "case_name": "国家公務員法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第84号589頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 4,
+    "day": 30
+  },
+  "gist": "国家公務員法違反の行為をした電気通信管理所職員が公社の職員となつた場合の同法罰則適用の有無",
+  "case_gist": "昭和二七年法律二八八号労働関係調整法等の一部を改正する法律附則二三項には、この法律の施行前にした公社の職員に関する国家公務員法の規定に違反する行為に対する罰則の適用については、なお従前の例によるとあるから、原判決があつた後、昭和二七年八月一日から電気通信管理所勤務の職員が国家公務員でなくなり、公社の職員となつたからといつて、被告人の原判示所為の処罰には、影響を及ぼさないこと論を俟たない。",
+  "ref_law": "労働関係調整法等一部改正法律（昭和27法288号）附則23項",
+  "lawsuit_id": "64953",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64953",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/953/064953_hanrei.pdf"
+}

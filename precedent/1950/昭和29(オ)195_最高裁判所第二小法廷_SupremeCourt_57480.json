@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 1,
+    "day": 27
+  },
+  "case_number": "昭和29(オ)195",
+  "case_name": "建物返還並に登記無効等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第10巻1号1頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 2,
+    "day": 25
+  },
+  "gist": "書面によらない不動産の贈与において履行の終了ありと認められる場合",
+  "case_gist": "書面によらない不動産の贈与において、所有権の移転があつただけでは履行を終つたものとすることは出来ず、その占有の移転があつたときに履行を終つたものと解すべきである。",
+  "ref_law": "民法550条",
+  "lawsuit_id": "57480",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57480",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/480/057480_hanrei.pdf"
+}

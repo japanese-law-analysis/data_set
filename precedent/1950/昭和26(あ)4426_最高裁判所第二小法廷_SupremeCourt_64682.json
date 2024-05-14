@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 5,
+    "day": 1
+  },
+  "case_number": "昭和26(あ)4426",
+  "case_name": "詐欺",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第80号35頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 9,
+    "day": 19
+  },
+  "gist": "公判期日外における証人尋問に被告人及び弁護人が立ち会わなかつたことと憲法第三七条第二項",
+  "case_gist": "第一審が被告人及び弁護人に対して公判期日外の証人尋問に立会の機会を与え（両名とも不出頭）、その証人尋問調書の証拠調に当つて異議を述べる機会を与え被告人の審問権を実質的に害しない措置を講じたことは明かであるから、被告人が右証人尋問に立会せしめられなかつたことをもつて刑訴一五九条二項乃至憲法三七条二項に違反するということではできない。（昭和二四年（れ）一八七三号、同二五年三月一五日大法廷判決。判例集四巻三号三七一頁以下参照）。",
+  "ref_law": "憲法37条2項，刑訴法158条，刑訴法159条，刑訴法309条",
+  "lawsuit_id": "64682",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64682",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/682/064682_hanrei.pdf"
+}

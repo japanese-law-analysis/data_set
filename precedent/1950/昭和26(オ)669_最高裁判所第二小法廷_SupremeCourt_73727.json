@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 3,
+    "day": 12
+  },
+  "case_number": "昭和26(オ)669",
+  "case_name": "農地買収対価変更等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第13号101頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 9,
+    "day": 10
+  },
+  "lawsuit_id": "73727",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=73727",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/727/073727_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 9,
+    "day": 12
+  },
+  "case_number": "昭和27(あ)2416",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第6巻8号1071頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 3,
+    "day": 12
+  },
+  "gist": "併合罪の関係にある確定判決を経ない他の罪を審理裁判することと憲法第三九条",
+  "case_gist": "併合罪の関係にある一部の罪について確定裁判がなされても、その既判力は他の部分の罪には及ばないし、右両者の罪は同一の犯罪ではなく別個の犯罪であつて、後者の罪を審理裁判したことは確定判決に判示された前者の罪につき再び審理裁判をしたものということはできないから、憲法第三九条に違反しない。",
+  "ref_law": "刑法45条，刑法50条，刑訴法337条1号，憲法39条",
+  "lawsuit_id": "56805",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56805",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/805/056805_hanrei.pdf"
+}

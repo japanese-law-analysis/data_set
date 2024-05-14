@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 2,
+    "day": 26
+  },
+  "case_number": "昭和25(あ)1570",
+  "case_name": "物価統制令違反、食糧緊急措置令違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第6巻2号312頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 5,
+    "day": 13
+  },
+  "gist": "食糧緊急措置令第一〇条の定める不正受配罪の一事例",
+  "case_gist": "貸金業者が、貸金の担保にとつた他人名義の食糧購入通帳を利用して、主要食糧の配給を受けた場合には（詐欺罪の成立が認められるのでない限り）食糧緊急措置令一〇条の定める不正受配の罪が成立する。",
+  "ref_law": "食糧緊急措置令10条",
+  "lawsuit_id": "55523",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55523",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/523/055523_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 2,
+    "day": 2
+  },
+  "case_number": "昭和28(あ)3660",
+  "case_name": "殺人",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第92号45頁",
+  "original_court_name": "福岡高等裁判所\n        　宮崎支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 7,
+    "day": 8
+  },
+  "gist": "喧嘩と正当防衛",
+  "case_gist": "第一審判決の認定した事実によれば、被告人はＡにその名を呼ばれたので救いを求められたものと考え、当該場所に行つたのであるが、その後常に攻勢に出で、被害者Ｂに対し「……その喧嘩は俺が買つた」といい、「同人をその場に引き倒した後場所をかえあらためて勝負をつけようと考え、場合によつてはそれを用いて切りつけんがため前記Ｃから刺身庖丁（証第一号）を持ち出し秘匿の上同人とともに……に至り同所で再び格闘を開始し」たというのであるから、被告人が右庖丁で被害者を殺害するに至つた機縁が、「同人が兇器を取り出そうとする気配を感じたので」あつたとしても、原判決の維持する第一審判決が全体の経過をもつて闘争者双方が相互に攻撃防禦をくり返す連続的行為の一団と認定したのはまことに相当である。",
+  "ref_law": "刑法36条，刑法199条",
+  "lawsuit_id": "72826",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=72826",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/826/072826_hanrei.pdf"
+}

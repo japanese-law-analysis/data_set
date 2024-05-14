@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 6,
+    "day": 6
+  },
+  "case_number": "昭和30(あ)2594",
+  "case_name": "食糧管理法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第126号125頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 8,
+    "day": 2
+  },
+  "gist": "食糧管理法第九条第一項にいう「譲渡其ノ他ノ処分」の意義",
+  "case_gist": "食糧管理法九条一項にいう「譲渡其ノ他ノ処分」の中には、譲受や買受をも含むものであつて、同法施行令六条一項の規定が同法九条一項の委任の範囲を逸脱したものでないことは当裁判所の判例とするところである。（昭和三〇年（あ）二九七七号、同三二年一二月一七日第三小法廷判決参照）",
+  "ref_law": "食糧管理法9条，食糧管理法施行令6条",
+  "lawsuit_id": "58587",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58587",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/587/058587_hanrei.pdf"
+}

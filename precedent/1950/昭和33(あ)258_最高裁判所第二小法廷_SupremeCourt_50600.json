@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 10,
+    "day": 6
+  },
+  "case_number": "昭和33(あ)258",
+  "case_name": "関税法違反、出入国管理令違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第12巻14号3221頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 12,
+    "day": 26
+  },
+  "gist": "関税法第一一一条第一項にいう「貨物を輸入」する行為の既遂時期。",
+  "case_gist": "関税法第一一一条第一項にいう「貨物を輸入」する行為は、海上にあつては、正当な通関手続を経ないで外国貨物を本邦へ陸揚げすることにより既遂となる。",
+  "ref_law": "関税法111条",
+  "lawsuit_id": "50600",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50600",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/600/050600_hanrei.pdf"
+}

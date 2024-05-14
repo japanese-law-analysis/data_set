@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 10,
+    "day": 15
+  },
+  "case_number": "昭和27(オ)957",
+  "case_name": "仮差押執行異議",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第8巻10号1898頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 9,
+    "day": 13
+  },
+  "gist": "商法第一二条と第三者相互間における適用の有無",
+  "case_gist": "商法第一二条は、第三者相互の間においては適用ない。",
+  "ref_law": "商法12条",
+  "lawsuit_id": "56141",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56141",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/141/056141_hanrei.pdf"
+}

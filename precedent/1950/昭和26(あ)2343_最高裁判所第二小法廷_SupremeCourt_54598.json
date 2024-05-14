@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 4,
+    "day": 9
+  },
+  "case_number": "昭和26(あ)2343",
+  "case_name": "酒税法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第7巻4号837頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 2,
+    "day": 2
+  },
+  "gist": "刑訴第四一一条にあたらない一事例",
+  "case_gist": "昭和二四年法律第四三号による改正後の酒税法第六六条の解釈を誤り懲役及び罰金を併科した場合の罰金刑について刑法第四八条第二項を適用した違法があつても、刑訴第四一一条を適用すべきものとは認められない。",
+  "ref_law": "酒税法（昭和24年法律43号による改正後のもの）60条，酒税法（昭和24年法律43号による改正後のもの）66条，刑法48条，刑訴法411条",
+  "lawsuit_id": "54598",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54598",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/598/054598_hanrei.pdf"
+}

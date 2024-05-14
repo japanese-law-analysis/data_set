@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 3,
+    "day": 23
+  },
+  "case_number": "昭和24新(れ)405",
+  "case_name": "食糧管理法違反、臨時物資需給調整法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第4巻3号396頁",
+  "original_court_name": "仙台高等裁判所\n        　秋田支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 10,
+    "day": 24
+  },
+  "gist": "控訴審において舊刑訴法による事件と新刑訴法による事件とを併合審判することの可否",
+  "case_gist": "刑訴施行法第四條によれば新刑訴法施行の際まだ公訴が提起されていない事件については、新法を適用すべきものであつて、新法と舊法とは第一審手續のみならず上訴審の手續を全く異にするものであるから控訴審において所論舊法事件と本件新法事件とを併合審判すべきものではない。從つて、所論併合審判を拒否した原審の手續には何等の違法も存しない。",
+  "ref_law": "刑訴施行法4條，刑訴法309條2項，刑訴第2篇第3章公判（271条以下）",
+  "lawsuit_id": "56748",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56748",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/748/056748_hanrei.pdf"
+}

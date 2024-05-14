@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 10,
+    "day": 31
+  },
+  "case_number": "昭和24(ク)52",
+  "case_name": "家屋明渡調停事件の決定に対する再抗告につきなした決定に対する抗告",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "民集　第10巻10号1355頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和24(ラ)3",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 7,
+    "day": 5
+  },
+  "gist": "調停に代わる裁判の合憲性",
+  "case_gist": "家屋明渡請求訴訟事件につき、戦時民事特別法第一九条第二項、金銭債務臨時調停法第七条第一項によつてなされた調停に代わる裁判は、憲法第一一条、第一三条、第二二条、第二五条、第三二条に違反しない。",
+  "ref_law": "戦時民事特別法（昭和17年法律63号）19条2項，金銭債務臨時調停法（昭和7年法律26号）7条1項，憲法11条，憲法12条，憲法13条，憲法22条，憲法25条，憲法32条，憲法82条",
+  "lawsuit_id": "57151",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57151",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/151/057151_hanrei.pdf"
+}

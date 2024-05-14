@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 5,
+    "day": 31
+  },
+  "case_number": "昭和28(オ)1206",
+  "case_name": "買収除外指定不承認取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第9巻6号821頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 10,
+    "day": 17
+  },
+  "gist": "一　自作農創設特別措置法施行規則第一条の二による農林大臣の承認は行政処分か\n二　自作農創設特別措置法施行規則第一条の二の性質",
+  "case_gist": "一　自作農創設特別措置法施行規則第一条の二による農林大臣の承認は行政処分ではない。\n二　自作農創設特別措置法施行規則第一条の二が自作農創設特別措置法第五条第四号の知事の承認につき農林大臣の承認を要するものと規定しても省令をもつて法律を変更するものではない。",
+  "ref_law": "自作農創設特別措置法施行規則1条の2，行政事件訴訟特例法1条，自作農創設特別措置法5条4号，国家行政組織法15条，地方自治法150条",
+  "lawsuit_id": "57383",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57383",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/383/057383_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 4,
+    "day": 13
+  },
+  "case_number": "昭和30(あ)3718",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第10巻4号578頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 10,
+    "day": 31
+  },
+  "gist": "公職選挙法第一四六条違反の罪と特定の候補者の当選を得しめる目的",
+  "case_gist": "公職選挙法第一四六条に違反する罪の成立には、その行為にあたり特定の候補者の当選を得しめる目的のあることを要しない。",
+  "ref_law": "公職選挙法243条5号，公職選挙法146条",
+  "lawsuit_id": "51438",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51438",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/438/051438_hanrei.pdf"
+}

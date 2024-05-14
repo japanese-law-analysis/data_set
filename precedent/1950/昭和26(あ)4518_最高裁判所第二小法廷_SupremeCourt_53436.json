@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 7,
+    "day": 31
+  },
+  "case_number": "昭和26(あ)4518",
+  "case_name": "漁業法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第7巻7号1666頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 10,
+    "day": 29
+  },
+  "gist": "漁業法（昭和二六年法律第三一三号による改正前のもの）第七〇条にいわゆる「採捕」の意義。",
+  "case_gist": "昭和二六年一二月一七日法律第三一三号による改正前の漁業法第七〇条にいわゆる「採捕」とは、水産動植物を採取捕獲する目的で有毒物または爆発物を使用した者が、現実にその動植物を取得占有するに至つた場合のみに止まらず、有毒物または爆発物の使用により動植物を疲憊斃死せしめ容易に捕捉し得る状態に置いた場合をも指称するものと解するのが相当である。",
+  "ref_law": "漁業法（昭和26・12・17法律313号による改正前のもの）70条，漁業法（昭和26・12・17法律313号による改正前のもの）68条，漁業法（昭和26・12・17法律313号による改正前のもの）69条",
+  "lawsuit_id": "53436",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53436",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/436/053436_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 6,
+    "day": 25
+  },
+  "case_number": "昭和32(オ)366",
+  "case_name": "建物収去土地明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第13巻6号779頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 12,
+    "day": 14
+  },
+  "gist": "家屋の占有者が敷地の不法占有による損害賠償責任を負う事例。",
+  "case_gist": "家屋の所有者がその占有する権原のない場合に、右所有者を代表者とする会社がその家屋の全部を借受けて占有しているときは、右会社は、敷地の所有者に対し、敷地の不法占有による損害賠償責任を負う。",
+  "ref_law": "民法709条",
+  "lawsuit_id": "54857",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54857",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/857/054857_hanrei.pdf"
+}

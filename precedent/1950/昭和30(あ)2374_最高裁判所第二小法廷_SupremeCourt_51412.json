@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 12,
+    "day": 20
+  },
+  "case_number": "昭和30(あ)2374",
+  "case_name": "収賄",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第11巻14号3331頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 6,
+    "day": 23
+  },
+  "gist": "一　輸出品取締法第七条の九（昭和二八年法律第九号による改正前のもの）と輸出茶の検査。\n二　収賄金員の預金と追徴。",
+  "case_gist": "一　輸出品取締法第七条の九（昭和二八年法律第九号による改正前のもの）に定めるいわゆる立入検査の職務権限中には、輸出茶の標準、包装条件等の検査事務を含む。\n二　収賄した金員を金融機関に預金した場合、その収賄金員そのものはもはや没収することができないものとして追徴すべきものである。",
+  "ref_law": "輸出品取締法（昭和28年法律9号による改正前のもの）7条の9，刑法197条ノ4",
+  "lawsuit_id": "51412",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51412",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/412/051412_hanrei.pdf"
+}

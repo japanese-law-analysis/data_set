@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 3,
+    "day": 6
+  },
+  "case_number": "昭和29(あ)949",
+  "case_name": "食糧管理法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第10巻3号275頁",
+  "original_court_name": "仙台高等裁判所\n        　秋田支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 1,
+    "day": 26
+  },
+  "gist": "主食の借用に伴いこれを輸送する場合と食糧管理法施行規則第四七条",
+  "case_gist": "食糧管理法施行規則第四七条列挙の事由の存しない限り、主食の適法な借用行為に基いてこれを輸送する場合であつても、犯罪の成立を妨げるものではない。",
+  "ref_law": "食糧管理法施行規則（昭和27年5月31日農林、運輸省令2号による改正前）47条",
+  "lawsuit_id": "51389",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51389",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/389/051389_hanrei.pdf"
+}

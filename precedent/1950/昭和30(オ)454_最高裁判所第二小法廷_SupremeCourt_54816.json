@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 6,
+    "day": 26
+  },
+  "case_number": "昭和30(オ)454",
+  "case_name": "不当労働行為救済申立棄却命令取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第13巻6号820頁",
+  "original_court_name": "仙台高等裁判所\n        　秋田支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 12,
+    "day": 13
+  },
+  "gist": "不当労働行為の救済申立を棄却する地方労働委員会の命令に対する出訴につき、中央労働委員会への再審査申立の手続を経由することの要否。",
+  "case_gist": "不当労働行為の救済申立を棄却する地方労働委員会の命令に対する出訴については、行政事件訴訟特例法第二条に従い、まず中央労働委員会への再審査申立の手続を経由すべきものであり、労働組合法第二七条第一一項は、右命令に対する不服方法として、中央労働委員会への再審査の申立と訴の提起とを選択的に認めた趣旨と解すべきではない。",
+  "ref_law": "労働組合法27条",
+  "lawsuit_id": "54816",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54816",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/816/054816_hanrei.pdf"
+}

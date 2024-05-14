@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 10,
+    "day": 26
+  },
+  "case_number": "昭和29(あ)195",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第99号429頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 12,
+    "day": 4
+  },
+  "gist": "解散の無効と選挙法違反罪の成否",
+  "case_gist": "仮に解散が無効で、その後に施行された選挙も法律上効力がないとしたところで、その選挙において行われた選挙違反罪に刑事責任がないといえないことは、当裁判所の判例とするところであるから、所論は採用することができない（昭和二八年（あ）四四三〇号同二九年四月二二日第一小法廷判決、集八巻四号五二六頁以下参照）。",
+  "ref_law": "憲法7条，公職選挙法221条",
+  "lawsuit_id": "75590",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=75590",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/590/075590_hanrei.pdf"
+}

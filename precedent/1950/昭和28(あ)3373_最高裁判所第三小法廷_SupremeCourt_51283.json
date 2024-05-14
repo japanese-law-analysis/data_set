@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 5,
+    "day": 24
+  },
+  "case_number": "昭和28(あ)3373",
+  "case_name": "医師法違反、詐欺、同未遂",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第9巻7号1093頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 5,
+    "day": 21
+  },
+  "gist": "医師法上、医行為に当る事例",
+  "case_gist": "患者に対し聴診、触診、指圧等を行い、その方法がマツサージ按摩の類に似てこれと異なり交感神経等を刺激してその興奮状態を調整するもので医学上の知識と技能を有しない者がみだりにこれを行うときは生理上危険ある程度に達しているときは、医行為と認めるのが相当である。",
+  "ref_law": "医師法17条",
+  "lawsuit_id": "51283",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51283",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/283/051283_hanrei.pdf"
+}

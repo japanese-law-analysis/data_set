@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 8,
+    "day": 9
+  },
+  "case_number": "昭和25(れ)793",
+  "case_name": "強盗、窃盗、賍物牙保、銃砲等所持禁止令違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第4巻8号1556頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 12,
+    "day": 26
+  },
+  "gist": "賍物牙保罪の成立と利益を伴うことの要否",
+  "case_gist": "賍物牙保罪が成立するためには、賍物の處分行爲の媒介周旋を行うについて、利益を伴うことを必要としない。",
+  "ref_law": "刑法256條2項",
+  "lawsuit_id": "54558",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54558",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/558/054558_hanrei.pdf"
+}

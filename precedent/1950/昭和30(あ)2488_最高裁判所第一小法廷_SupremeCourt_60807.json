@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 2,
+    "day": 9
+  },
+  "case_number": "昭和30(あ)2488",
+  "case_name": "脅迫、銃砲刀剣類等所持取締令違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第112号253頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 7,
+    "day": 14
+  },
+  "gist": "銃砲刀剣類等所持罪の成立の要件と主観的使用目的",
+  "case_gist": "鉄砲刀剣類等所持取締令第二条違反の罪は刃渡一五センチメートル以上の刀を同条所定の除外事由なくして所持することによつて成立するのであり、犯人が主観的に如何なる使用目的を有していたかはその成立を左右するものではない。",
+  "ref_law": "鉄砲刀剣類等所持取締令2条",
+  "lawsuit_id": "60807",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60807",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/807/060807_hanrei.pdf"
+}

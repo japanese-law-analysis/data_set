@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 9,
+    "day": 16
+  },
+  "case_number": "昭和33(あ)890",
+  "case_name": "名誉棄損、私文書偽造行使、詐欺",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第12巻13号3031頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 3,
+    "day": 19
+  },
+  "gist": "新聞紙上の広告文が刑法第一五九条第一項にいわゆる「事実証明に関する文書」にあたるとされた事例。",
+  "case_gist": "日本共産党佐賀県委員会の機関紙である新聞「Ａ」第七号の広告欄に掲載された「祝発展、佐賀県労働基準局長Ｂ」なる広告文は、同人において右Ａ紙の発展に祝意を表明するとの趣旨を記載した同人名義の私文書であつて、刑法第一五九条第一項にいわゆる「事実証明に関する文書」にあたる。",
+  "ref_law": "刑法159条1項",
+  "lawsuit_id": "56981",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56981",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/981/056981_hanrei.pdf"
+}

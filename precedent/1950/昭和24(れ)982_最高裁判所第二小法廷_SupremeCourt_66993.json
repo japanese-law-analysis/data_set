@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 9,
+    "day": 8
+  },
+  "case_number": "昭和24(れ)982",
+  "case_name": "詐欺、物価統制令違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第19号189頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 12,
+    "day": 28
+  },
+  "gist": "犯罪の主観的部面については自供のみで認定してもよいか",
+  "case_gist": "元來補強證據は犯罪構成要件の全部について一々存在することは必要ではなく、犯罪の客観的構成要件である罪体について存在し、之と自供と相俟ち綜合して犯罪の全部を認定できるものであれば足るのである。從つて故意の如き犯罪の主観的要件については自供の外に直接の補強證據を必要としないものであることは、當裁判所屡次の判例とするところである（昭和二三年（れ）第一八五一號同二四年四月七日第一小法廷判決判例集三卷四號四八九頁、昭和二三年（れ）第七七號同二四年五月一八日大法廷判決判例集三卷六號七三四頁。各參照）。",
+  "ref_law": "憲法38條3項，刑訴法應急措置法10條3項",
+  "lawsuit_id": "66993",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66993",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/993/066993_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 4,
+    "day": 10
+  },
+  "case_number": "昭和32(あ)120",
+  "case_name": "強盗殺人、死体遺棄",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第12巻5号839頁",
+  "original_court_name": "札幌高等裁判所\n        　函館支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 12,
+    "day": 18
+  },
+  "gist": "死刑は憲法第二五条に違反するか",
+  "case_gist": "死刑は憲法第二五条に違反しない",
+  "ref_law": "刑法9条，刑法11条，憲法25条",
+  "lawsuit_id": "50547",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50547",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/547/050547_hanrei.pdf"
+}

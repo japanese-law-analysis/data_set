@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 12,
+    "day": 28
+  },
+  "case_number": "昭和29(オ)490",
+  "case_name": "土地所有権確認等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第10巻12号1613頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 5,
+    "day": 11
+  },
+  "gist": "単独行為と通謀虚偽表示の成否",
+  "case_gist": "契約解除のような相手方ある単独行為についても、通謀による虚偽の意思表示は成立し得る。",
+  "ref_law": "民法94条",
+  "lawsuit_id": "57502",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57502",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/502/057502_hanrei.pdf"
+}

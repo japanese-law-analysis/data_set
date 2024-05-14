@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 12,
+    "day": 5
+  },
+  "case_number": "昭和25(れ)871",
+  "case_name": "物価統制令違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "刑集　第4巻12号2491頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 2,
+    "day": 16
+  },
+  "gist": "物価統制令にいわゆる「営利を目的として契約を為す」の意義",
+  "case_gist": "論旨は営利の観念は専ら専業経営において収益を挙げることを指称するもので一般人が単に利益を図つてなす契約はこれと区別して解すべきであるから物価統制令にいう「営利を目的として」された行為とならないと主張するが物価統制令に「所謂営利を目的として契約を為す」とは利益を得る目的を以て為されたことを意味すると解せられ必ずしも事業経営として収益を図るため為す場合でなければならないということはできない。",
+  "ref_law": "物価統制令11条",
+  "lawsuit_id": "54564",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54564",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/564/054564_hanrei.pdf"
+}

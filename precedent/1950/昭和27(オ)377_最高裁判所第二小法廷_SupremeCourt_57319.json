@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 10,
+    "day": 31
+  },
+  "case_number": "昭和27(オ)377",
+  "case_name": "町長選挙無効訴願裁決取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第6巻9号954頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 3,
+    "day": 3
+  },
+  "gist": "公務員が退職しないまま立候補の届出をし立候補届出期間内に退職した場合の右立候補届の効力",
+  "case_gist": "公務員が退職しないまま立候補の届をし、立候補届出期間内に退職の効果を生じた場合は、退職により候補者たる適格を有するに至つたときから、右立候補届の効力が生ずるものと解するのを相当とする。",
+  "ref_law": "公職選挙法89条",
+  "lawsuit_id": "57319",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57319",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/319/057319_hanrei.pdf"
+}

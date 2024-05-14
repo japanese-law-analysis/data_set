@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 11,
+    "day": 26
+  },
+  "case_number": "昭和26(オ)366",
+  "case_name": "所有権移転登記手続履行本訴並反訴請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第7巻11号1288頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 4,
+    "day": 23
+  },
+  "gist": "民法応急措置法第六条の父母には継父母または嫡母を包含するか",
+  "case_gist": "民法応急措置法第六条の父母には継父母または嫡母を包含しない。",
+  "ref_law": "民法応急措置法3条，民法応急措置法6条1項，旧民法728条，民法附則16条",
+  "lawsuit_id": "57232",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57232",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/232/057232_hanrei.pdf"
+}

@@ -1,0 +1,22 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 9,
+    "day": 18
+  },
+  "case_number": "昭和31(し)23",
+  "case_name": "裁判官忌避申立却下決定に対する準抗告棄却決定に対する特別抗告事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第10巻9号1347頁",
+  "original_court_name": "盛岡地方裁判所",
+  "gist": "裁判官が関係事件の審理によつて被告事件の内容につき知識を得たことと忌避の理由",
+  "case_gist": "同一の裁判官が公職選挙法第二二一条違反の罪における金員の被供与者の公判審理により、金員供与者たる被告人に対する事件の内容につき知識を得たからとて、その一事をもつて忌避の理由があるものとすることはできない。",
+  "ref_law": "刑訴法21条",
+  "lawsuit_id": "56976",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56976",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/976/056976_hanrei.pdf"
+}

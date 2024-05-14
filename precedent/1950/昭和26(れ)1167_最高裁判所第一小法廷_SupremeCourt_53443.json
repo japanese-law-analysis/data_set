@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 5,
+    "day": 22
+  },
+  "case_number": "昭和26(れ)1167",
+  "case_name": "食糧管理法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第6巻5号780頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 3,
+    "day": 22
+  },
+  "gist": "控訴裁判所が被告人を尋問し証拠調をした場合と旧刑訴法事件の控訴審及び上告審における審判の特例に関する規則第六条",
+  "case_gist": "控訴申立人に不服のないことが明らかな事項であつても、控訴裁判所が重ねて被告人を尋問し、証拠調をした場合には、旧刑訴法事件の控訴審及び上告審における審判の特例に関する規則第六条によるべきではない。",
+  "ref_law": "旧刑訴法事件の控訴審及び上告審における審判の特例に関する規則（昭和25年最裁規30号）5条，旧刑訴法事件の控訴審及び上告審における審判の特例に関する規則（昭和25年最裁規30号）6条",
+  "lawsuit_id": "53443",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53443",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/443/053443_hanrei.pdf"
+}

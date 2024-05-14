@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 9,
+    "day": 30
+  },
+  "case_number": "昭和27(あ)1331",
+  "case_name": "酒税法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第86号1163頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 2,
+    "day": 8
+  },
+  "gist": "没収すべき物件の換価金および廃棄処分のなされたもの、に対する没収言渡の効力",
+  "case_gist": "第一審判決が没収を言い渡した本件の物件中、言渡前すでに換価処分のなされていたものについては、没収の言渡は換価金に対して効力を及ぼすものと解すべきであり、また言渡前すでに廃棄処分のなされていたものについては、これに対する没収言渡はその効力を有しないにとどまる。",
+  "ref_law": "刑法19条，酒税法60条4項",
+  "lawsuit_id": "72362",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=72362",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/362/072362_hanrei.pdf"
+}

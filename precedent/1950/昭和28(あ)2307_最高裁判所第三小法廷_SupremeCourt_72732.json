@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 8,
+    "day": 24
+  },
+  "case_number": "昭和28(あ)2307",
+  "case_name": "強姦、暴行、傷害",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第98号341頁",
+  "original_court_name": "広島高等裁判所\n        　松江支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 4,
+    "day": 6
+  },
+  "gist": "第二審において証人申請を却下しながら、第一審における同証人の供述調書を証拠とすることの可否",
+  "case_gist": "上告趣意第二点は憲法三七条二項違反を主張するけれども、記録に徴すれば所論証人は第一審公判において被告人の審判の機会を充分与えられたものであり、控訴審において同証人の喚問申請を却下しながら、第一審における同証人の供述記載の調書を証拠とすることは、所論憲法の規定に違反するものでないことは、当裁判所判例（昭和二三年（れ）一七一八号同二四年三月三一日第一小法廷判決、判例集三巻三号三九五頁）の示すところである。論旨は理由がない。",
+  "ref_law": "憲法37条2項，刑訴法321条2項",
+  "lawsuit_id": "72732",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=72732",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/732/072732_hanrei.pdf"
+}

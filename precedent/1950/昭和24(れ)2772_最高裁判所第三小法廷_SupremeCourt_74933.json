@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 3,
+    "day": 28
+  },
+  "case_number": "昭和24(れ)2772",
+  "case_name": "有毒飲食物等取締令違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第16号933頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 7,
+    "day": 28
+  },
+  "gist": "懲役刑と罰金刑とを選擇的に科する規定ある場合にその一つを選擇科刑する理由を明示することの要否",
+  "case_gist": "論旨は、刑罰法令が犯罪に對する制裁として懲役刑と罰金刑とを選擇的に科すべきことを定めた場合において、裁判所が當該事件の被告人に對して懲役刑を選擇して科するときにはその理由を明らかにしなければならないというのであるが、舊刑訴法第三六〇條その他の規定によるもかゝる理由を付しなければならないと解すべき法的根據はないのであるから、論旨は理由がない。",
+  "ref_law": "舊刑訴法360條1項",
+  "lawsuit_id": "74933",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74933",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/933/074933_hanrei.pdf"
+}

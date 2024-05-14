@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 11,
+    "day": 11
+  },
+  "case_number": "昭和29(あ)1673",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第8巻11号1837頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 12,
+    "day": 28
+  },
+  "gist": "選挙人の氏名詐称について投票管理者の知情と公職選挙法第二三七条二項の罪の成否",
+  "case_gist": "選挙人が他の選挙人の氏名を詐称しこれによつて投票をした以上、投票管理者側の者がその情を知つていたと否とにかかわらず、公職選挙法第二三七条第二項の氏名を詐称して投票した罪が成立する。",
+  "ref_law": "公職選挙法237条2項",
+  "lawsuit_id": "56908",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56908",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/908/056908_hanrei.pdf"
+}

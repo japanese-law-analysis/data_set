@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 12,
+    "day": 4
+  },
+  "case_number": "昭和31(オ)393",
+  "case_name": "借地権不存在確認",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第13巻12号1588頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 2,
+    "day": 28
+  },
+  "gist": "賃借土地の使用に事実上の支障がある場合と賃料支払義務。",
+  "case_gist": "建物所有の目的で賃借した土地の地上建物が戦災により滅失した後、右土地は特別都市計画法による区画整理区域に指定されたが、換地予定地の指定が遅れ、その間原審認定のような事情があつて（原判決理由参照）、事実上これを家屋所有の目的で使用することに支障を来したとしても、賃借人の使用収益が全面的に不能であつたものとは認められないときは、賃借人は賃料の支払義務を当然に免れたものということはできない。",
+  "ref_law": "民法536条，民法611条",
+  "lawsuit_id": "53544",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53544",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/544/053544_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 9,
+    "day": 27
+  },
+  "case_number": "昭和23(れ)1069",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第4巻9号1774頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 5,
+    "day": 24
+  },
+  "gist": "憲法第三七條二項と被告人に反對訊問の機會を與えないで作成された被害始末書等の證據能力",
+  "case_gist": "憲法第三七條第二項は、被告人に反對訊問の機會を與えないで作成された被害始末書等の證據書類を證據とすることを、絶對に禁止するものではない。",
+  "ref_law": "憲法37條2項",
+  "lawsuit_id": "54283",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54283",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/283/054283_hanrei.pdf"
+}

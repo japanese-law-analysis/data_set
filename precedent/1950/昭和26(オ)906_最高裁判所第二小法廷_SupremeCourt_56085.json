@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 12,
+    "day": 18
+  },
+  "case_number": "昭和26(オ)906",
+  "case_name": "小切手金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第7巻12号1470頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 9,
+    "day": 26
+  },
+  "gist": "一　利息制限法違反の利息の約定ある消費貸借契約の効力\n二　利息制限法違反の利息を元金に組み入れこれに利息を付する定めの効力",
+  "case_gist": "一　利息制限法違反の利息の支払を定めたからといつて、特別の事情のないかぎり消費貸借契約自体の無効を来さない。\n二　利息制限法の利息を元金に組み入れ、これに対しさらに利息を付する定めは単に裁判上無効たるに止まり、すでに支払つた利息はその返還を請求することはできない。",
+  "ref_law": "利息制限法2条，民法405条",
+  "lawsuit_id": "56085",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56085",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/085/056085_hanrei.pdf"
+}

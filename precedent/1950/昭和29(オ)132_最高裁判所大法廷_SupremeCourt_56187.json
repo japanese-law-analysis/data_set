@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 7,
+    "day": 15
+  },
+  "case_number": "昭和29(オ)132",
+  "case_name": "行政処分取消請求",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第13巻7号1034頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_case_number": "昭和29(オ)132",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 2,
+    "day": 1
+  },
+  "gist": "法人がその事業目的のために所有する唯一の土地を自作農創設特別措置法により買収することは、憲法第二二条に違反するか。",
+  "case_gist": "法人がその事業目的のために所有する唯一の土地を自作農創設特別措置法により買収することは、憲法第二二条に違反するものでない。",
+  "ref_law": "憲法22条，自作農創設特別措置法，裁判所法10条1号，最高裁判所裁判事務処理規則9条3項",
+  "lawsuit_id": "56187",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56187",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/187/056187_hanrei.pdf"
+}

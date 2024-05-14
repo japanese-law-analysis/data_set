@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 11,
+    "day": 2
+  },
+  "case_number": "昭和28(オ)402",
+  "case_name": "農地買収計画禁止等請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第8巻11号1995頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 3,
+    "day": 16
+  },
+  "gist": "一　自作農創設特別措置法第五条第五号にあたらないとされた一事例\n二　一時賃貸の原因が賃貸人の側のやむを得ない事情に基かない場合と自作農創設特別措置法第五条第六号の適用の有無",
+  "case_gist": "一　現況が農地であつて、国鉄駅より三〇〇米内外のところにあり、幹線道路に沿つてはいるが、附近の状況は、小規模の工場、住宅が散在しているにすぎず、四囲の環境上、近い将来非農地化が必至と認められる程度に至らないものは、自作農創設特別措置法第五条第五号に当らないとしてこれを買収することは違法ではない。\n二　一時賃貸の原因が賃貸人の側のやむを得ない事情に基かない場合には、自作農創設特別措置法第五条第六号の適用はない。",
+  "ref_law": "自作農創設特別措置法5条5号，自作農創設特別措置法5条6号",
+  "lawsuit_id": "56167",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56167",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/167/056167_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 9,
+    "day": 24
+  },
+  "case_number": "昭和29(あ)2135",
+  "case_name": "恐喝、暴行、傷害、横領",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第8巻9号1534頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 3,
+    "day": 29
+  },
+  "gist": "一　公判期日外の証人尋問に際し、あらかじめ被告人に尋問事項を告知しなかつた瑕疵と上訴理由\n二　特段の事由なしにその裁判所において公判期日外に証人を尋問することと上訴理由",
+  "case_gist": "一　公判期日外の証人尋問に際し、あらかじめ被告人に尋問事項を告知しなかつた瑕疵があつても、被告人、弁護人が何らの異議なく右尋問に立ち会い、その供述調書の証拠調にあたつても異議を述べなかつたときは之を違法として上訴することはできない。\n二　恐喝の被害者らを特段の事由がないのにその裁判所において公判期日外で尋問しても、立ち会つた被告人、弁護人に異議がなく、公判廷における右供述調書調に際しても異議を述べなかつたときは、これを上訴の理由とすることはできない。",
+  "ref_law": "刑訴法281条，刑訴法158条，刑訴法309条，刑訴規則108条5項",
+  "lawsuit_id": "55754",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55754",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/754/055754_hanrei.pdf"
+}

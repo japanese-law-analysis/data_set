@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 12,
+    "day": 7
+  },
+  "case_number": "昭和26(れ)1295",
+  "case_name": "賍物故買",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第58号227頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 3,
+    "day": 12
+  },
+  "gist": "被告人に最終陳述の機会を与えたが格別なる陳述をしなかつたと見られる一事例",
+  "case_gist": "原審第二回公判調書の末段（記録一三四丁裏）によれば、「裁判長は、被告人に対し意見及び最終の陳述はないかと問うたところ」との記載あり、次に「被告人は」と記載され、その以下及び次の行が空白となつていることは所論指摘のとおりである。しかし乍ら、本件には旧刑訴六四条の適用ある事件であるから、右各記載に照せば、裁判長は被告人に最終陳述の機会を与えたところ、被告人は何も格別なる陳述をしなかつたものと認むるを相当と解すべきである。",
+  "ref_law": "旧刑訴法64条",
+  "lawsuit_id": "68609",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=68609",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/609/068609_hanrei.pdf"
+}

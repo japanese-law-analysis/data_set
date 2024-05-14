@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 9,
+    "day": 3
+  },
+  "case_number": "昭和33(す)369",
+  "case_name": "尊属殺人被告事件の保釈取消決定に対する異議申立",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第12巻13号2839頁",
+  "original_court_name": "最高裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 8,
+    "day": 18
+  },
+  "gist": "最高裁判所のした保釈取消決定に対する異議申立。",
+  "case_gist": "最高裁判所のした保釈取消決定に対しては異議の申立をすることは許されない。",
+  "ref_law": "刑訴法351条，刑訴法428条",
+  "lawsuit_id": "50619",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50619",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/619/050619_hanrei.pdf"
+}

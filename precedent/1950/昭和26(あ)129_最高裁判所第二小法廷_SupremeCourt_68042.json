@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 6,
+    "day": 15
+  },
+  "case_number": "昭和26(あ)129",
+  "case_name": "強盗、加重逃走未遂、窃盗等",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第47号1123頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 11,
+    "day": 17
+  },
+  "gist": "破棄差戻又は移送後の第一審の訴訟手続にする刑訴法第二五六条第六項、第二九一条、第二九二条、第二九八条及び第三〇一条の適用の有無と憲法違反の主張",
+  "case_gist": "破棄差戻又は移送後の第一審裁判所がその第一回公判期日前あらかじめ記録を調査し、且つ、公判廷において裁判官が証拠調をする前に被告人に対し、犯罪事実に関し可成り詳細に質問をし当事者の証拠調の請求を俟たないで記録中の各証拠書類及び証拠物を職権により証拠調をしたことが違法であるかどうかを争う主張は刑訴法第四〇五条第一項の憲法違反の主張にあたらない。",
+  "ref_law": "刑訴法256条6項，刑訴法301条，刑訴法291条，刑訴規則217条，刑訴規則292条，裁判所法4条，裁判所法298条，憲法31条",
+  "lawsuit_id": "68042",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=68042",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/042/068042_hanrei.pdf"
+}

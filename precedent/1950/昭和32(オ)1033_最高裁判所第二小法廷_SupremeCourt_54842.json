@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 6,
+    "day": 19
+  },
+  "case_number": "昭和32(オ)1033",
+  "case_name": "強制執行異議",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第13巻6号768頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 6,
+    "day": 29
+  },
+  "gist": "民訴法第五四八条第三項の裁判。",
+  "case_gist": "民訴第五四八条第三項にいう「右裁判」とは、同条第一項の裁判をも指称するものと解すべきである。",
+  "ref_law": "民訴法548条，民訴法547条",
+  "lawsuit_id": "54842",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54842",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/842/054842_hanrei.pdf"
+}

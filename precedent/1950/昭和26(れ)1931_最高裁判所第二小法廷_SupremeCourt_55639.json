@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 3,
+    "day": 7
+  },
+  "case_number": "昭和26(れ)1931",
+  "case_name": "誣告、名譽毀損",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第6巻3号441頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 6,
+    "day": 15
+  },
+  "gist": "被告人の防禦権の行使と名誉毀損罪の成立",
+  "case_gist": "誣告被告事件の公判廷において、被告人が弁解として故意に虚偽の事実を陳述して、公然誣告の相手方の名誉を毀損することは、被告人としての防禦権を濫用するものであつて、その行為につき名誉毀損罪が成立する。",
+  "ref_law": "旧刑訴法135条，旧刑訴法338条，刑法230条，刑法35条",
+  "lawsuit_id": "55639",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55639",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/639/055639_hanrei.pdf"
+}

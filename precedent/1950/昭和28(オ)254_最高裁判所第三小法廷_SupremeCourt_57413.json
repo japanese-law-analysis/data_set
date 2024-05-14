@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 6,
+    "day": 28
+  },
+  "case_number": "昭和28(オ)254",
+  "case_name": "所有権移転登記手続請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第9巻7号954頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 1,
+    "day": 27
+  },
+  "gist": "仮登記の抹消登記の回復登記と善意無過失の第三者の承諾義務",
+  "case_gist": "甲のため乙所有の建物についてなされた所有権移転請求権保全の仮登記が不法に抹消された後、善意無過失で、右建物につき、丙が乙より所有権の移転を受け、丁が丙より抵当権の設定を受けて、夫々その登記を経た場合、丙および丁は、右の抹消登記の回復登記により実質上不測の損害を受けないと認められるか、またはその損害が甲の損害と比べて顧慮するに値しないと認められる場合のほかは、甲の回復登記手続を承諾する義務がないと解するのが相当である。",
+  "ref_law": "不動産登記法2条，不動産登記法65条",
+  "lawsuit_id": "57413",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57413",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/413/057413_hanrei.pdf"
+}

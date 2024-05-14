@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 2,
+    "day": 17
+  },
+  "case_number": "昭和29(あ)2230",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第102号813頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 5,
+    "day": 20
+  },
+  "gist": "控訴の範囲は何によつて判断すべきか",
+  "case_gist": "控訴が、裁判の一部に対して為されたものか、それとも全部に対して為されたものかは、控訴申立書（控訴趣意書でなく）によつて、判断されるべきことである。",
+  "ref_law": "刑訴法357条，刑訴法374条，刑訴法376条，憲法39条",
+  "lawsuit_id": "69527",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=69527",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/527/069527_hanrei.pdf"
+}

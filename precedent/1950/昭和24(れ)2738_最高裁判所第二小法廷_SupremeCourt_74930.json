@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 3,
+    "day": 31
+  },
+  "case_number": "昭和24(れ)2738",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集刑　第16号1009頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 11,
+    "day": 12
+  },
+  "gist": "證據に基かないで事實を認定した判決の違法",
+  "case_gist": "原審の採用した證據によると判示の場所でＡ保管に係る名古屋知ｂ區ａ町Ｂ株式會社が陸軍者から拂下を受けた原毛約一二梱が盜難にかかつた事實と被告人が原毛を取扱つた事實は判るけれども盜難にかかつた原毛と被告人の取扱つた原毛が同一のものであることは原判決舉示の證據からはこれを認めることができないのであつて、從つてまた被告人が判示原毛を窃取した事實は到底認めることができないのである。然らば原判決が右證據により判示事實を認定したことは證據に基かないので事實を認定した違法があるから本論旨は理由があり原判決はこの點において破棄を免れない。",
+  "ref_law": "舊刑訴法336條，舊刑訴法410條19號",
+  "lawsuit_id": "74930",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74930",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/930/074930_hanrei.pdf"
+}

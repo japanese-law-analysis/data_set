@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 10,
+    "day": 17
+  },
+  "case_number": "昭和33(あ)521",
+  "case_name": "強盗致傷",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第12巻14号3333頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 10,
+    "day": 29
+  },
+  "gist": "米国空軍特別捜査官の面前における被疑者の供述書の証拠能力。",
+  "case_gist": "日本駐留のアメリカ合衆国軍人である被告人が同国の軍法会議に関する統一法に基き同国空軍特別捜査官の面前において被疑者として取調を受けた際作成した供述書であつて、供述前当該被疑事実につきその意に反して供述をなす必要なく、且つ当該供述について宣誓をなすと否とは全く自由である趣旨の告知を受けながら任意に供述の上宣誓をしたものは何ら任意性に欠くるところなく、刑訴第三二二条第一項に則り証拠能力を有するものと解すべく、かかる宣誓が存するの一事によつては未だ証拠能力を有することを妨げるものではない。",
+  "ref_law": "憲法31条，憲法38条，刑訴法319条，刑訴法322条",
+  "lawsuit_id": "50607",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50607",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/607/050607_hanrei.pdf"
+}

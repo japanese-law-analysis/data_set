@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 6,
+    "day": 5
+  },
+  "case_number": "昭和28(あ)2164",
+  "case_name": "麻薬取締法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集刑　第130号57頁",
+  "original_court_name": "仙台高等裁判所\n        　秋田支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 2,
+    "day": 3
+  },
+  "gist": "麻薬取締法（昭和二三年法律第一二三号）第一四条第五九条と憲法第三八条第一項",
+  "case_gist": "被告人の帳簿記入義務違反の所為に対し、麻薬取締法（昭和二三年法律第一二三号）第一四条、第五九条を適用処断しても、憲法第三八条第一項の保障とは関係のないものであるから、原判決はこの点（註。摩擦施行者たる医師が麻薬取締法第三条第二項に違反してその業務目的以外のため麻薬の譲受をした場合、その譲受行為については同法第一四条第一項の規定する記録を作成しなくても同条項違反の罪責を問わるべきものではない。）において所論のごとき違法があり、論旨は理由があつて原判決はこの点において破棄を免れない。",
+  "ref_law": "旧麻薬取締法（昭和23年法律123号）14条，旧麻薬取締法（昭和23年法律123号）59条，憲法38条1項",
+  "lawsuit_id": "60497",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60497",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/497/060497_hanrei.pdf"
+}

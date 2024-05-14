@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 8,
+    "day": 24
+  },
+  "case_number": "昭和27(あ)5037",
+  "case_name": "詐欺",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集刑　第98号277頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 8,
+    "day": 9
+  },
+  "gist": "詐欺罪と理由不備",
+  "case_gist": "甲町収入役が同町工事請負人から同町の土木委員町会議員等の一部に対する慰労金として金員を受け取り補助員に保管させていた場合、被告人が同補助員に対して同町土木委員長乙及び同町町会議長丙等の諒解を得ていないのに拘らず得ている旨申し欺いて右金員の交付を受けたという事案において、乙、丙の諒解を得なければ右金員を引き出すことが出来ない事実を判示しないで詐欺罪の成立を認めることは理由不備の違法がある。",
+  "ref_law": "刑訴法411条1号，刑訴法378条4号，刑法246条1項",
+  "lawsuit_id": "72562",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=72562",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/562/072562_hanrei.pdf"
+}

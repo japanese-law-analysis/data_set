@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 12,
+    "day": 20
+  },
+  "case_number": "昭和29(オ)868",
+  "case_name": "借地権確認請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第9巻14号2027頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 7,
+    "day": 22
+  },
+  "gist": "一　罹災都市借地借家臨時処理法第一〇条の借地権者が同法施行後借地上に建物を建設した場合と同条による借地権の対抗力の有無\n二　賃貸借の目的土地の接収による賃貸人の履行不能と賃貸人の事情変更による解除権の有無",
+  "case_gist": "一　罹災都市借地借家臨時処理法第一〇条の適用を受ける借地権者が同法施行後当該借地上に建物を建設しても、同条による借地権の対抗力は消滅するもの解すべきではない。\n二　賃貸借の目的たる土地が駐留軍により接収されたため、賃借人に右土地を使用させる賃貸人の債務の履行が一時的に不能となつても、賃貸人は、事情の変更を理由として賃貸借契約を解除することはできない。",
+  "ref_law": "罹災都市借地借家臨時処理法10条，民法1条2項，民法3款契約解除（540条）",
+  "lawsuit_id": "57543",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57543",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/543/057543_hanrei.pdf"
+}

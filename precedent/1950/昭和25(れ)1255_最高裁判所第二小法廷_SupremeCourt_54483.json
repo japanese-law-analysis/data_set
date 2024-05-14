@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 12,
+    "day": 8
+  },
+  "case_number": "昭和25(れ)1255",
+  "case_name": "窃盗未遂、賍物故買",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第4巻12号2529頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 6,
+    "day": 15
+  },
+  "gist": "金千円の罰金不完納の場合の労役場留置期間の割合を一日金五〇円とすることの合憲性",
+  "case_gist": "原判決が刑法所定の範囲内で被告人に対し金千円の罰金不完納の場合の労役場留置期間の割合を一日金五〇円と定めたことが憲法第三六条その他国民の基本的人権を保障した憲法の条規に違反しないこと当裁判所大法廷判例の趣旨に徴し明らかである。（昭和二三年（れ）第二八一号同二五年二月一日同二三年（れ）第一四二六号同二四年一〇月五日各大法廷判決参照）",
+  "ref_law": "刑法18条，憲法38条",
+  "lawsuit_id": "54483",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54483",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/483/054483_hanrei.pdf"
+}

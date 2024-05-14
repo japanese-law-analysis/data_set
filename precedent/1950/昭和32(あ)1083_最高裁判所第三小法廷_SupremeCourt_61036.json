@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 9,
+    "day": 24
+  },
+  "case_number": "昭和32(あ)1083",
+  "case_name": "傷害",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第120号507頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 4,
+    "day": 4
+  },
+  "gist": "いわゆる想像的競合犯中の一部を無罪と認める場合その判断を判決理由に示すことの要否",
+  "case_gist": "いわゆる想像的競合犯中の一部を無罪と認める場合には、判決の主文においてその言渡をなすべきではないけれども、理由中でその判断を示すことは必要である。",
+  "ref_law": "刑法54条，刑訴法44条，刑訴法335条，刑訴法336条",
+  "lawsuit_id": "61036",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61036",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/036/061036_hanrei.pdf"
+}

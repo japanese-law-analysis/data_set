@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 9,
+    "day": 3
+  },
+  "case_number": "昭和27(オ)139",
+  "case_name": "行政処分取消請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第7巻9号859頁",
+  "original_court_name": "福岡高等裁判所\n        　宮崎支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 2,
+    "day": 11
+  },
+  "gist": "一　自作農創設特別措置法第四七条の二にいわゆる「処分のあつたこと」の意義\n二　訴願裁決書の謄本送付前に提起した訴の適否",
+  "case_gist": "一　自作農創設特別措置法第四七条の二にいわゆる「処分のあつたこと」とは、処分を受ける者に対して告知を要する場合は、処分が告知によつて効力を発生したことを指すものである。\n二　訴願裁決書の謄本送付前に提起された原行政処分の取消を求める訴は不適法であるが、その後裁決書謄本が送達されたときは、右の訴を適法なものと解すべきである。",
+  "ref_law": "自作農創設特別措置法47条の2，昭和22年法律241号附則7条，行政事件訴訟特例法5条，自作農創設特別措置法施行規則4条2項",
+  "lawsuit_id": "56105",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56105",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/105/056105_hanrei.pdf"
+}

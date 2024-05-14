@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 5,
+    "day": 25
+  },
+  "case_number": "昭和31(あ)300",
+  "case_name": "覚せい剤取締法違反、酒税法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第10巻5号751頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 12,
+    "day": 6
+  },
+  "gist": "覚せい剤取締法第一四条にいわゆる所持の意義",
+  "case_gist": "覚せい剤取締法第一四条にいわゆる所持とは、必ずしも覚せい剤を物理的に把持することは必要でなく、その存在を認識してこれを管理しうる状態にあるをもつて足りると解すべきである。",
+  "ref_law": "覚せい剤取締法14条",
+  "lawsuit_id": "51499",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51499",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/499/051499_hanrei.pdf"
+}

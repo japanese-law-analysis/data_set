@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 3,
+    "day": 13
+  },
+  "case_number": "昭和26(れ)2040",
+  "case_name": "銃砲等所持禁止令違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第62号387頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 3,
+    "day": 29
+  },
+  "gist": "判決言渡期日に被告人、弁護人を召喚しなかつた違法が判決に影響を及ぼさない一事例",
+  "case_gist": "判決言渡期日に被告人、弁護人を召喚しなかつた違法があつても、被告人が自白しておつて、弁護人も犯情について弁論したに止まり、被告人も別に陳述することがないとして弁論が終結された場合には、その違法は判決に影響があるとはいえない。",
+  "ref_law": "旧刑訴法320条，旧刑訴法368条，刑訴法411条1号",
+  "lawsuit_id": "72045",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=72045",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/045/072045_hanrei.pdf"
+}

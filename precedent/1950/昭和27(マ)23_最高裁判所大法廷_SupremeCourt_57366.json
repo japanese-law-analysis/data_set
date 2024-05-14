@@ -1,0 +1,21 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 10,
+    "day": 8
+  },
+  "case_number": "昭和27(マ)23",
+  "case_name": "日本国憲法に違反する行政処分取消請求",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "却下",
+  "article_info": "民集　第6巻9号783頁",
+  "gist": "具体的事件を離れて最高裁判所は抽象的に法律命令等の合憲性を判断できるか",
+  "case_gist": "最高裁判所は、具体的事件を離れて抽象的に法律、命令等が憲法に適合するかしないかを決定する権限を有するものではない。",
+  "ref_law": "憲法81条",
+  "lawsuit_id": "57366",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57366",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/366/057366_hanrei.pdf"
+}

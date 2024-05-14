@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 6,
+    "day": 26
+  },
+  "case_number": "昭和26(オ)759",
+  "case_name": "売掛代金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第7巻6号783頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 9,
+    "day": 19
+  },
+  "gist": "除斥原因としての「前審ノ裁判ニ関与シタルトキ」の意義",
+  "case_gist": "民訴第三五条第六号にいわゆる「前審ノ裁判ニ関与シタルトキ」とは、前審の裁判の評決に加わつたときの意であつて、裁判官は、たとえ前審において口頭弁論を指揮し証拠調をした事実があつても、該事件の上訴審において職務の執行から除斥されない。",
+  "ref_law": "民訴法35条，民訴法395条1項2号，刑訴法20条7号",
+  "lawsuit_id": "56078",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56078",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/078/056078_hanrei.pdf"
+}

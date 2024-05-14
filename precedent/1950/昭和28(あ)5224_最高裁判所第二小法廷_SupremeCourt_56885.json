@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 11,
+    "day": 11
+  },
+  "case_number": "昭和28(あ)5224",
+  "case_name": "建造物損壊",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第9巻12号2438頁",
+  "original_court_name": "札幌高等裁判所\n        　函館支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 11,
+    "day": 10
+  },
+  "gist": "建造物損壊と自救行為",
+  "case_gist": "被告人がその所有家屋（店舗）を増築する必要上、自己の借地内につきでていたＡ所有家屋の玄関の軒先を間口八尺奥行一尺にわたりＡの承諾をえないで切り取つた場合において、右玄関はＡが建築許可を受けないで不法に増築したものであり、また被告人の店舗増築は経営の危機を打開するため遷延を許さない事情にあつて、右軒先の切除によりＡのこうむる損害に比しこれを放置することにより被告人の受ける損害は甚大であつてとしても、被告人の右建造物損壊行為が自救行為としてその違法性を阻却されるものではない。",
+  "ref_law": "刑法35条，刑法260条",
+  "lawsuit_id": "56885",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56885",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/885/056885_hanrei.pdf"
+}

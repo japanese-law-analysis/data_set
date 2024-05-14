@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 5,
+    "day": 25
+  },
+  "case_number": "昭和26(あ)2737",
+  "case_name": "外国通貨偽造未遂",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第7巻5号1128頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 5,
+    "day": 21
+  },
+  "gist": "弗表示軍票は刑法第一四九条第一項の「内国ニ流通スル外国ノ紙幣」にあたるか",
+  "case_gist": "日本国内に駐留する米軍施設における交換の媒介物として発行されている弗表示軍票は、刑法第一四九条第一項の「内国ニ流通スル外国ノ紙幣」にあたる。",
+  "ref_law": "刑法149条，刑法162条，明治38年法律66号外国ニ於テ流通スル貨幣紙幣銀行券偽造変造及模造ニ関スル法律1条。",
+  "lawsuit_id": "54605",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54605",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/605/054605_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 9,
+    "day": 8
+  },
+  "case_number": "昭和24(れ)1755",
+  "case_name": "賍物運搬、賍物牙保",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第4巻9号1637頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 4,
+    "day": 28
+  },
+  "gist": "刑法施行法第三條第三項の適用を明示しない判決の正否",
+  "case_gist": "原判決がその擬律の條において、刑法施行法第三條第三項の適用を明示していないことは所論指摘のとおりである。しかし原判決の處斷刑は右刑法施行法の條項を適用した結果であることは、原判文上自ら窺知されるところであるから、右摘條を欠くの一事をもつて原判決に法令違背ありと云うことはできない（昭和二二年（れ）第二二二號昭和二三年四月八日第一小法廷判決參照、判定集二卷四號三〇七頁三一一頁以下所掲）。論旨は理由がない。",
+  "ref_law": "刑法47條，刑法施行法3條",
+  "lawsuit_id": "54305",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54305",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/305/054305_hanrei.pdf"
+}

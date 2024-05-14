@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 6,
+    "day": 5
+  },
+  "case_number": "昭和33(あ)114",
+  "case_name": "業務上横領",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第12巻9号1976頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 11,
+    "day": 29
+  },
+  "gist": "証券会社の代表取締役が買付のため委託者から受け取つた金銭を費消した場合と業務上横領罪の成立",
+  "case_gist": "証券会社の代表取締役が、顧客から株式の買付方の注文を受けて、その代金として預つた金員を、擅に右会社の経費に費消したときは業務上横領罪を構成する",
+  "ref_law": "刑法253条",
+  "lawsuit_id": "50585",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50585",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/585/050585_hanrei.pdf"
+}

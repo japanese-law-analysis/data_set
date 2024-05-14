@@ -1,0 +1,24 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 6,
+    "day": 8
+  },
+  "case_number": "昭和25(あ)1583",
+  "case_name": "銃砲等所持禁止令違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第47号713頁",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 5,
+    "day": 11
+  },
+  "lawsuit_id": "67188",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=67188",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/188/067188_hanrei.pdf"
+}

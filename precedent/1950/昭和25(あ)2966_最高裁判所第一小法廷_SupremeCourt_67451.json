@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 1,
+    "day": 11
+  },
+  "case_number": "昭和25(あ)2966",
+  "case_name": "昭和二二年勅令第一号違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第39号275頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 9,
+    "day": 15
+  },
+  "gist": "刑訴法第四〇五条第二号にあたらない事例",
+  "case_gist": "しかし、原判決は、所論（昭和二三年（れ）第二一一八号同二四年六月一三日言渡）当裁判所大法廷の判例を引用して、本件被告人の所為は、同判例にいわゆる地方公共団体の施策について支持し又は反対することによつて判示ａ町の現実の政治に影響を与える行動である旨説示しており毫も同判例と相反する判断をしていない。従つて、所論は、刑訴第四〇五条第二号に該当しない。",
+  "ref_law": "刑訴法405条2号，公職追放令（昭和22年勅令1号）15条1項",
+  "lawsuit_id": "67451",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=67451",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/451/067451_hanrei.pdf"
+}

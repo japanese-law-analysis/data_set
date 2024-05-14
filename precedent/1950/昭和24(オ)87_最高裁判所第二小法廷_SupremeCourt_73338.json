@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 2,
+    "day": 3
+  },
+  "case_number": "昭和24(オ)87",
+  "case_name": "学位請求論文再審査等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第3号47頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 3,
+    "day": 1
+  },
+  "lawsuit_id": "73338",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=73338",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/338/073338_hanrei.pdf"
+}

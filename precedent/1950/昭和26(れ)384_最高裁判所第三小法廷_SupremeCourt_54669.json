@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 10,
+    "day": 16
+  },
+  "case_number": "昭和26(れ)384",
+  "case_name": "物価統制令違反・臨時物資需給調整法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第5巻11号2249頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 1,
+    "day": 27
+  },
+  "gist": "一　罰金不完納の場合における労役場留置の言渡と不利益変更禁止の原則\n二　刑訴法第四〇五条第三号にあたらない二つの事例",
+  "case_gist": "一　罰金不完納の場合における労役場留置の言渡についてもいわゆる不利益変更禁止の規定の適用がある。\n二　大審院の判例に反すると主張していても、既にこれと同趣旨の最高裁判所の判例があるときは、刑訴第四〇五条第三号にあたらない。\n三　高裁の判例に反すると主張していても、既にその判例が最高裁判所の判例で変更せられているときは、刑訴第四〇五条第三号にあたらない。",
+  "ref_law": "刑法18条，旧刑訴法403条，刑訴法405条3条",
+  "lawsuit_id": "54669",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54669",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/669/054669_hanrei.pdf"
+}

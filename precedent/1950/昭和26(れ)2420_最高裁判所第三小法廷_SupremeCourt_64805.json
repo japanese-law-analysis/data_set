@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 5,
+    "day": 6
+  },
+  "case_number": "昭和26(れ)2420",
+  "case_name": "銃砲等所持禁止令違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第64号91頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 6,
+    "day": 19
+  },
+  "gist": "銃砲刀剣類等所持取締令附則第三項にいう「なお従前の例による」の意義",
+  "case_gist": "法令にいう「従前の例による」とは「改正廃止前に行われた違反行為に対してはその改正廃止後も改正廃止前に行われた違反行為の罰則の適用に関する範囲においてはこれを改正廃止しない趣旨であつて、一旦廃止して更に改めて罰則を設けるという趣旨ではない」とするのが当裁判所の判例であるから所論はその前提を欠くもので理由がない。（昭和二五年（あ）八九四号同二六年五月一五日当裁判所判決）。",
+  "ref_law": "鉄砲刀剣類等所持取締令（昭和25年政令334号）附則3項",
+  "lawsuit_id": "64805",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64805",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/805/064805_hanrei.pdf"
+}

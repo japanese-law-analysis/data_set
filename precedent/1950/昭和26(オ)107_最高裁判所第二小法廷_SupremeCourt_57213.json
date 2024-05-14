@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 8,
+    "day": 20
+  },
+  "case_number": "昭和26(オ)107",
+  "case_name": "建物所有権移転登記手続等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第8巻8号1505頁",
+  "original_court_name": "札幌高等裁判所\n        　函館支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 12,
+    "day": 28
+  },
+  "gist": "一　民法第九四条第二項の類推適用を認めた一事例\n二　現に登記名義を有しない者に対する所有権移転登記請求の許否",
+  "case_gist": "一　甲から不動産を買受けた乙が、丙にその所有権を移転する意思がないに拘らず、甲から丙名義に所有権移転登記を受けることを承認したときは、民法第九四条第二項を類推し、乙は丙が所有権を取得しなかつたことを以て善意の第三者に対抗し得ないものと解すべきである。\n二　乙が買受けた不動産につき単に名義上所有権取得の登記を受けたにすぎない丙が、右登記名義を他に移転してしまつた後においては、乙は右不動産が自己の所有であるというだけの理由で丙に対し所有権移転登記を求めることは許されない。",
+  "ref_law": "民法94条1項，民法94条2項，民法177条",
+  "lawsuit_id": "57213",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57213",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/213/057213_hanrei.pdf"
+}

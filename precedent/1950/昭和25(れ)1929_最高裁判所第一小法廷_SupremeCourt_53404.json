@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 12,
+    "day": 25
+  },
+  "case_number": "昭和25(れ)1929",
+  "case_name": "傷害",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第6巻12号1429頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 9,
+    "day": 29
+  },
+  "gist": "弁護権を制限したと認められない事例",
+  "case_gist": "被告人に甲、乙両弁護人がある場合、公判調書に甲弁護人は別紙弁論要旨に基いて弁論をなしたと記載してあるのに、同公判調書の末尾に編綴してある同弁護人の弁論要旨には相被告人の弁論のみ記載してあつて、直接被告人の弁論に触れた事項が記載してなくても、右公判調書によれば乙弁護人が甲弁護人とともに同公判に出廷し、被告人のために詳細な弁論をし、また甲弁護人に対しても弁論の機会が与えられたことが明らかで、これが弁論を妨げた事跡の窺われないときは、その弁護権の制限があつたとはいえない。",
+  "ref_law": "旧刑訴法410条11号",
+  "lawsuit_id": "53404",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53404",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/404/053404_hanrei.pdf"
+}

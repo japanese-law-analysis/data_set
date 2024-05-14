@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 2,
+    "day": 22
+  },
+  "case_number": "昭和24(オ)224",
+  "case_name": "仮処分異議",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第5巻3号102頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 8,
+    "day": 29
+  },
+  "gist": "一　判決言渡の方式遵守を記載した口頭弁論調書の効力\n二　直前に施行された別件の証人尋問の調書を書証として提出することは可能か",
+  "case_gist": "一　判決言渡調書に判決がその原本に基き言い渡された旨記載されている以上、右言渡が判決原本に基かずしてなされたとの主張は、民訴第一四七条により認められない。\n二　別件の証人尋問の終了直後に引き続き開始された本件の口頭弁論において、右証人尋問の調書を書証として提出することは、不可能とはいえない。",
+  "ref_law": "民訴法147条，民訴法189条1項，民訴法146条，民訴法322条",
+  "lawsuit_id": "55946",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55946",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/946/055946_hanrei.pdf"
+}

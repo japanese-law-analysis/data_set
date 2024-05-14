@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 12,
+    "day": 22
+  },
+  "case_number": "昭和30(オ)547",
+  "case_name": "損害賠償等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第9巻14号2047頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 3,
+    "day": 14
+  },
+  "gist": "通商産業省の自動車運転手が大臣秘書官を私用のため乗車させて自動車を運転し他人を負傷させた場合と民法第七一五条",
+  "case_gist": "通商産業省の職員として専ら自動車の運転に従事する者が、従来通商産業大臣秘書官として常に当該通商産業省の自動者に乗車し、辞表提出後ではあつたがその辞令の交付なく未だその官を失つていなかつた者を乗車させて自動車を運転中、これを接触させて他人を負傷させたときは、たとえ右秘書官の私用をみたすため運転したものであつても、右事故は通商産業省の「事業ノ執行ニ付キ」生ぜしめたものと解するのが相当である。",
+  "ref_law": "民法715条",
+  "lawsuit_id": "57603",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57603",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/603/057603_hanrei.pdf"
+}

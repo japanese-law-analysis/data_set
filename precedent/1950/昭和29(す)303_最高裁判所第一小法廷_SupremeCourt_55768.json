@@ -1,0 +1,22 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 8,
+    "day": 5
+  },
+  "case_number": "昭和29(す)303",
+  "case_name": "公務執行妨害、傷害被告事件につきなした勾留理由開示請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "却下",
+  "article_info": "刑集　第8巻8号1237頁",
+  "original_court_name": "最高裁判所",
+  "gist": "同一勾留に対する勾留理由開示請求の許否",
+  "case_gist": "勾留理由開示の請求は、第一勾留については勾留の開始せられた当該裁判所において一回に限り許されるものと解すべきである。",
+  "ref_law": "刑訴法82条，刑訴法97条",
+  "lawsuit_id": "55768",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55768",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/768/055768_hanrei.pdf"
+}

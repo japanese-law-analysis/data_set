@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 4,
+    "day": 23
+  },
+  "case_number": "昭和32(オ)990",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第13巻4号532頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 7,
+    "day": 18
+  },
+  "gist": "運転資格のないタクシー会社従業員の自動車運転行為が会社の「事業ノ執行」にあたるとされた事例。",
+  "case_gist": "タクシー会社に自動車運転助手兼整備係として雇われ、会社からの注意にもかかわらず運転資格も持たないで、平素洗車給油等の目的で車庫から給油所まで短距離の間営業用自動車の運転をしていた者が、運転技術修得のため他の場所で同会社の営業用自動車を運転中、追突事故により他人に損害を与えたときは、右損害は同会社の「事業の執行ニ付キ」生ぜしめたものと解すべきである。",
+  "ref_law": "民法715条",
+  "lawsuit_id": "54876",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54876",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/876/054876_hanrei.pdf"
+}

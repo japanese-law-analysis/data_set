@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 7,
+    "day": 8
+  },
+  "case_number": "昭和25(あ)3117",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第66号81頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 10,
+    "day": 31
+  },
+  "gist": "控訴審における公判期日に、私選弁護人が出頭しない場合、国選弁護人を選任して弁論させることと訴訟手続に関する法令違反の有無。",
+  "case_gist": "原審が弁護人古明池為重の第一回公判期日の変更申請はこれを許容したが、第二回公判期日の変更申請はこれを許容しなかつたこと及び同弁護人が右公判期日に立ち会わなかつたとしても、右期日に新たに選任された国選弁護人によつて被告人自身が選任した古明池弁護人提出の控訴趣意書に基ずく弁論がなされたこと、その控訴趣意書の内容も特に新たな事実証拠の取調を要する趣旨でもないときは訴訟手続に法令違反があるといえない。",
+  "ref_law": "刑訴法30条，刑訴法289条，刑訴法379条，刑訴法388条，刑訴法391条",
+  "lawsuit_id": "67465",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=67465",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/465/067465_hanrei.pdf"
+}

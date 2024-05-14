@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 12,
+    "day": 24
+  },
+  "case_number": "昭和28(オ)78",
+  "case_name": "売掛代金残請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第8巻12号2310頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 11,
+    "day": 25
+  },
+  "gist": "相続の放棄申述受理の無効を訴訟において主張することの許否",
+  "case_gist": "相続放棄の申述が家庭裁判所に受理された場合においても、相続の放棄に法律上無効原因が存するときは、後日訴訟においてこれを主張することを妨げない。",
+  "ref_law": "民法915条，民法938条，家事審判法9条甲類29号，家事審判法14条，家事審判規則115条",
+  "lawsuit_id": "56178",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56178",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/178/056178_hanrei.pdf"
+}

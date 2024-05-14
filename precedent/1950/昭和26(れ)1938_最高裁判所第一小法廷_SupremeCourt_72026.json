@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 1,
+    "day": 21
+  },
+  "case_number": "昭和26(れ)1938",
+  "case_name": "麻薬取締規則違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第91号541頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 6,
+    "day": 21
+  },
+  "gist": "憲法違反の主張がその前提を欠く場合  −詐術を用いて犯行を誘発せしめたとの主張−",
+  "case_gist": "所論第一は、要するに捜査当局が犯人にあらざるものに詐術を以て強いて犯罪を行わしめこれを逮捕するがごときは個人の人権の侵害で憲法一三条に違反するというのである。しかし、本件被告人が捜査当局から詐術を以て本件犯罪を強いて誘発された事実を認むべき証拠がないから（被告人は、所論Ａより相談を持ちかけられる前既に友人亡Ｂから本件麻薬の売却方を依頼されていたことは論旨も認めるところである。）所論は、その前提を欠くものであつて採用できない。",
+  "ref_law": "憲法13条，刑法61条，刑法62条，麻薬取締規則（昭和21年厚生省第25号）23条",
+  "lawsuit_id": "72026",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=72026",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/026/072026_hanrei.pdf"
+}

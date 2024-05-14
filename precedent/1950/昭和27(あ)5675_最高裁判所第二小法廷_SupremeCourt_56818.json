@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 5,
+    "day": 28
+  },
+  "case_number": "昭和27(あ)5675",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第8巻5号775頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 3,
+    "day": 31
+  },
+  "gist": "数個の犯罪事実に関する証拠説示の方法",
+  "case_gist": "有罪判決において、数個の犯罪事実につき各事項ごとに証拠の標目を示さず、多くの証拠の標目を一括して掲げても、必ずしも違法ではない。",
+  "ref_law": "刑訴法335条",
+  "lawsuit_id": "56818",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56818",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/818/056818_hanrei.pdf"
+}

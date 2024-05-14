@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 11,
+    "day": 1
+  },
+  "case_number": "昭和30(オ)198",
+  "case_name": "臨時総会無効確認請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第11巻12号1819頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 12,
+    "day": 28
+  },
+  "gist": "確認の訴の許されない事例",
+  "case_gist": "漁業協同組合の総会で理事に選挙されその後辞任した者につき、過去において理事でなかつたことの確認を求める趣旨の理事選挙無効確認の訴は、確認の訴として許されない。",
+  "ref_law": "民訴法225条",
+  "lawsuit_id": "57568",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57568",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/568/057568_hanrei.pdf"
+}

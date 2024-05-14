@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 7,
+    "day": 7
+  },
+  "case_number": "昭和31(あ)2294",
+  "case_name": "窃盜、強姦致傷",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第130号515頁",
+  "original_court_name": "仙台高等裁判所\n        　秋田支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 5,
+    "day": 22
+  },
+  "gist": "強姦致傷罪の未遂。",
+  "case_gist": "強姦に際し婦女に傷害の結果を与えれば、姦淫が未遂であつても強姦致傷罪の既遂となり、強姦致傷罪の未遂という観念を容れることはできない。従つて中止未遂の問題も生じ得ないわけである。（昭和二四年（れ）第九三三号、同年七月一二日第三小法廷判決、判例集三巻八号一二三七頁参照）",
+  "ref_law": "刑法181条",
+  "lawsuit_id": "60938",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60938",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/938/060938_hanrei.pdf"
+}

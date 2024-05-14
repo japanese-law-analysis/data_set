@@ -1,0 +1,19 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 6,
+    "day": 25
+  },
+  "case_number": "昭和34(す)183",
+  "case_name": "日本国とアメリカ合衆国との間の安全保障条約第三条に基く行政協定に伴う刑事特別法違反事件の裁判官斎藤悠輔の忌避申立",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "決定",
+  "result": "却下",
+  "article_info": "集刑　第130号305頁",
+  "original_court_name": "最高裁判所",
+  "lawsuit_id": "61227",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61227",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/227/061227_hanrei.pdf"
+}

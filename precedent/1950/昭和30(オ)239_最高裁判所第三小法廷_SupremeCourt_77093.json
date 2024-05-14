@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 12,
+    "day": 25
+  },
+  "case_number": "昭和30(オ)239",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第24号593頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 11,
+    "day": 19
+  },
+  "gist": "解約申入の正当事由と主張責任",
+  "case_gist": "解約申入の正当事由として、「生計を維持するため本件家屋で商業を営む必要があること」を主張しただけで、「現状においては息子等への嫁取りは不可能な事情にある」との事実は主張しなかつた場合、後者の事実の有無を審理することなく正当事由の存在を否定しても違法でない。",
+  "lawsuit_id": "77093",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77093",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/093/077093_hanrei.pdf"
+}

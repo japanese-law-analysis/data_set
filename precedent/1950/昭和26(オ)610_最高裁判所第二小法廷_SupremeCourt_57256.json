@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 5,
+    "day": 9
+  },
+  "case_number": "昭和26(オ)610",
+  "case_name": "家屋明渡賃借権確認等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第6巻5号538頁",
+  "original_court_name": "仙台高等裁判所\n        　秋田支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 4,
+    "day": 12
+  },
+  "gist": "他人の賃借現住中の家屋の買受人が右家屋の一部明渡を求めるにつき借家法第一条ノ二にいわゆる正当事由がある一事例",
+  "case_gist": "他人の賃借現住中の家屋を買い受けた者でも、原判決認定のような事情があるときは、右家屋中原判示部分の明渡を求めるにつき正当の事由がある。",
+  "ref_law": "借家法1条ノ2",
+  "lawsuit_id": "57256",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57256",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/256/057256_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 3,
+    "day": 22
+  },
+  "case_number": "昭和25(れ)1942",
+  "case_name": "傷害致死、傷害",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第42号419頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 11,
+    "day": 22
+  },
+  "gist": "証拠により認定した事実に基ずく推認の証拠力と旧刑訴法の下における伝聞証拠の証拠力",
+  "case_gist": "裁判所が証拠により或る間接事実を認め、次いでその事実に基ずき直接事実を推認したとしても何等証拠法則に違背するものでないことは多言を要しないところであり（昭和二三年（れ）第七九九号同年一一月一六日第三小法廷判決集二巻一二号一五四九頁参照）、また伝聞証拠と雖も旧刑訴法の下においてその間接証拠なるの故を以て直ちにその証拠能力又は証拠力を否定すべきでないこと勿論であるから（昭和二四年（れ）第二三六号同年一二月三日第三小法廷判決集三巻一二号一八七〇頁参照）、原判決には所論のような違法はない。",
+  "ref_law": "旧刑訴法336条，旧刑訴法337条",
+  "lawsuit_id": "71590",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=71590",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/590/071590_hanrei.pdf"
+}

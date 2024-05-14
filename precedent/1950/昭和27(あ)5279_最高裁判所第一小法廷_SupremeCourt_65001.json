@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 6,
+    "day": 4
+  },
+  "case_number": "昭和27(あ)5279",
+  "case_name": "恐喝、傷害、公務執行妨害、詐欺",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第82号235頁",
+  "original_court_name": "仙台高等裁判所\n        　秋田支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 8,
+    "day": 22
+  },
+  "lawsuit_id": "65001",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=65001",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/001/065001_hanrei.pdf"
+}

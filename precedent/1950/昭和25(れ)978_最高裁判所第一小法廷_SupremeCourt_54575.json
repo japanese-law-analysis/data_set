@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 10,
+    "day": 26
+  },
+  "case_number": "昭和25(れ)978",
+  "case_name": "物価統制令違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第4巻10号2189頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 4,
+    "day": 10
+  },
+  "gist": "物価統制令第九条の二にいわゆる「不当高価額」の認定と実験則",
+  "case_gist": "物価統制令第九条の二いわゆる不当に高価なる額なりや否やは所論のごとき原価計算に依るべきではなく、取引当時若しくはその前後における同種又は類以の物資に対する法令、告示通による統制価格又は公正な普通一般の取引界における市場価格等を参酌した社会経済秩序維持の適正価格を標準とすべきものと解するを相当とする。されば、原判決がＡの不当に買入れた値段をも参酌したことは妥当とは認め難いが、既に原判決が取引当時における同種の物資に対する判示販売業者販売価格の統制額を参酌して被告人の本件買入れを不当に高価であると認定しその認定が挙示の証拠に照し肯認される以上その認定には経験則に反する違法があるとはいえない。",
+  "ref_law": "物価統制令9条の2，旧刑訴法336条",
+  "lawsuit_id": "54575",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54575",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/575/054575_hanrei.pdf"
+}

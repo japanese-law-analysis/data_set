@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 9,
+    "day": 19
+  },
+  "case_number": "昭和33(オ)411",
+  "case_name": "訴願裁決取消並びに住民投票無効確認",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第12巻13号2097頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 2,
+    "day": 15
+  },
+  "gist": "一　町村合併促進法第一一条の三第三項による知事の住民投票請求が違法であるが無効でないとされた事例。\n二　知事の違法な住民投票請求と住民投票の効力。",
+  "case_gist": "一　知事が町村合併促進法第一一条の三第一項によつて町村合併審議会の意見を聴いて町村の境界変更を町村に勧告した後、右審議会の意見を聴かないで右の勧告を一部変更してあらためて勧告し、右審議会の意見を聴かないで同条第三項によつて住民投票を請求したのは違法であるが、右請求は無効ではない。\n二　町村合併促進法第一一条の三第三項による知事の住民投票請求が違法であつても無効でない場合は、右住民投票は無効ではない。",
+  "ref_law": "町村合併促進法11条の3",
+  "lawsuit_id": "52925",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52925",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/925/052925_hanrei.pdf"
+}

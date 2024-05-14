@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 5,
+    "day": 17
+  },
+  "case_number": "昭和26(れ)239",
+  "case_name": "強盗予備、窃盗等",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第46号25頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 9,
+    "day": 27
+  },
+  "gist": "最終陳述の機会は弁護人又は被告人のいずれか一方に与えれば足りる",
+  "case_gist": "旧刑訴第三四九条三項には「被告人又ハ弁護人ニハ最終ニ陳述スル機会ヲ与フヘシ」と規定されているからいわゆる最終陳述は、検察官の対手人側である被告人又は弁護人のいずれか一方に与えるを以て足りるものといわなければならぬ。",
+  "ref_law": "旧刑訴法349条3項",
+  "lawsuit_id": "68896",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=68896",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/896/068896_hanrei.pdf"
+}

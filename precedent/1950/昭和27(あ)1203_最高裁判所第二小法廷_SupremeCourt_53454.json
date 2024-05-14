@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 8,
+    "day": 29
+  },
+  "case_number": "昭和27(あ)1203",
+  "case_name": "地方公務員法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第6巻8号1053頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 12,
+    "day": 11
+  },
+  "gist": "地方公務員法第三七条第一項違反の罪が成立する一事例",
+  "case_gist": "自治体警察の警察吏員に対し、怠業的行為を慫慂した場合に怠業的行為の起る危険がないといえない場合には、地方公務員法第三七条第一項、第六一条第四号の罪が成立する。",
+  "ref_law": "地方公務員法37条1項，地方公務員法61条4号，憲法21条",
+  "lawsuit_id": "53454",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53454",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/454/053454_hanrei.pdf"
+}

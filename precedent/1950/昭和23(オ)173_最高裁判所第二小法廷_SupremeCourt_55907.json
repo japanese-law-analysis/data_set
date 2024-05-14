@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 6,
+    "day": 23
+  },
+  "case_number": "昭和23(オ)173",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第4巻6号240頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 12,
+    "day": 15
+  },
+  "gist": "訴訟代理人がある場合における当事者本人に対する訴訟書類送達の効力",
+  "case_gist": "訴訟代理人のあるときは、訴訟書類は、その代理人に送達するのを通例とするけれども、この場合においても、当事者本人に対する送達を妨げるものではない。",
+  "ref_law": "民訴法164条",
+  "lawsuit_id": "55907",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55907",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/907/055907_hanrei.pdf"
+}

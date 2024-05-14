@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 6,
+    "day": 20
+  },
+  "case_number": "昭和28(オ)91",
+  "case_name": "損害賠償並びに慰藉料請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第11巻6号1093頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 12,
+    "day": 25
+  },
+  "gist": "年令一〇年五ケ月の被害者の責任能力。",
+  "case_gist": "年令一〇年五ケ月の被害者を責任能力をそなえないものとして、民法第七二二条第二項にいわゆる過失の存在を否定しても不当でない。",
+  "ref_law": "民法722条2項",
+  "lawsuit_id": "57467",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57467",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/467/057467_hanrei.pdf"
+}

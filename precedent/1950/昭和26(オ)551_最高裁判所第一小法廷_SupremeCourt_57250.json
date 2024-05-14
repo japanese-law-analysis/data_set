@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 11,
+    "day": 6
+  },
+  "case_number": "昭和26(オ)551",
+  "case_name": "解約許可取消請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第6巻10号963頁",
+  "original_court_name": "広島高等裁判所\n        　松江支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 8,
+    "day": 1
+  },
+  "gist": "小作人の小作地無断転貸が農地調整法第九条第一項にいわゆる「信義ニ反シタル行為」にあたらない一事例",
+  "case_gist": "昭和二一年頃から同二三年頃までの間、小作人が非農家である知人数名の食糧難に同情し、その懇請を容れ、地主に無断で、小作地の一部を同人らに無償で転貸しこれを裏作（蚕豆の栽培）させたからといつて、右行為が農地調整法第九条第一項にいわゆる賃借人の「信義ニ反シタル行為」にあたるものとはいえない。",
+  "ref_law": "農地調整法9条1項",
+  "lawsuit_id": "57250",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57250",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/250/057250_hanrei.pdf"
+}

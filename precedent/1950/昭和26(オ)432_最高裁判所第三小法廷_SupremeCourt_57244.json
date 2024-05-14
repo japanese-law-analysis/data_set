@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 3,
+    "day": 3
+  },
+  "case_number": "昭和26(オ)432",
+  "case_name": "再度の遡及買収計画取消請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第7巻3号218頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 5,
+    "day": 15
+  },
+  "gist": "農地委員会がひとたび取り消した農地買収計画と同じ内容の買収計画を定めても適法とされる一事例",
+  "case_gist": "農地委員会が農地買収計画を定めた後、小作人と農地所有者との間の協定により所有者の自作を相当と認め、右買収計画を取り消したが、所有者が右協定に違背したものと認められる場合は、農地委員会が前の買収計画と同じ内容の買収計画を定めても違法ではない。",
+  "ref_law": "自作農創設特別措置法6条",
+  "lawsuit_id": "57244",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57244",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/244/057244_hanrei.pdf"
+}

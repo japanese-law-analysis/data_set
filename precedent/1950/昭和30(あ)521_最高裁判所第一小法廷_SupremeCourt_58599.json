@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 4,
+    "day": 3
+  },
+  "case_number": "昭和30(あ)521",
+  "case_name": "贈賄",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第124号25頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 12,
+    "day": 24
+  },
+  "lawsuit_id": "58599",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58599",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/599/058599_hanrei.pdf"
+}

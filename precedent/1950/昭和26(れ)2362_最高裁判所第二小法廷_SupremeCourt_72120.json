@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 2,
+    "day": 29
+  },
+  "case_number": "昭和26(れ)2362",
+  "case_name": "賍物牙保",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第61号727頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 6,
+    "day": 28
+  },
+  "gist": "第一審判決が起訴にかかる窃盗の事実を認定した事件につき控訴審が賍物牙保罪に問擬したことと被告人の防禦の機会",
+  "case_gist": "第一審判決が起訴にかかる窃盗の事実を認定し、控訴審において、検察官が右認定の事実と同一の被告事件を陳述してその審判を求めたのに対し、控訴審が公訴事実の同一性の範囲内において賍物牙保の事実を認定して有罪の言渡をしても、控訴審が右賍物牙保の点について詳細に取調をしており、検察官は論告に際し附帯控訴をした上、本件を賍物牙保として求刑する旨その意見を陳述し、弁護人もその弁論において窃盗罪の外賍物牙保罪の成否についても言及している場合には、右控訴審の裁判を目して被告人に防禦の機会を与えないでして闇打的な裁判ということはできない。",
+  "ref_law": "旧刑訴法345条，旧刑訴法349条，旧刑訴法407条",
+  "lawsuit_id": "72120",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=72120",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/120/072120_hanrei.pdf"
+}

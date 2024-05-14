@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 7,
+    "day": 30
+  },
+  "case_number": "昭和30(オ)880",
+  "case_name": "山林等所有権確認並びに妨害排除請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第11巻7号1424頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 7,
+    "day": 7
+  },
+  "gist": "土地所有権確認判決における主文の不明確な事例",
+  "case_gist": "所有権の帰属に争があるにとどまらず、その範囲についても争がないとはいえない土地の所有権確認判決において、主文と引用の目録、図面および判決理由とを対照しても、被上告人の所有に属する旨確定された土地の範囲が現地のいかなる地域に当るかが特定できないときは、主文不明確の違法を免れない。",
+  "ref_law": "民訴法191条",
+  "lawsuit_id": "57631",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57631",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/631/057631_hanrei.pdf"
+}

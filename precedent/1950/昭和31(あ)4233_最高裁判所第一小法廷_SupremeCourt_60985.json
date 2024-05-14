@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 12,
+    "day": 5
+  },
+  "case_number": "昭和31(あ)4233",
+  "case_name": "公職選挙法違反等",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集刑　第122号499頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 10,
+    "day": 30
+  },
+  "gist": "人事院規則一四−七、第六項三号及び四号にいう「受領し」、「与え」の意味",
+  "case_gist": "一　所論の人事院規則一四−七、六項三号及び四号にいう「受領し」、「与え」の意味について原判決の示した判断は正当である\n二　（原審判決の判断）「受領」「与え」とは所有権、処分権を伴う場合のみならず自己の責任の下において受渡しと自己の責任下の受取ることも含む。",
+  "ref_law": "昭和24年9月19日人事院規則14−7（政治的行為）6項3号，昭和24年9月19日人事院規則14−7（政治的行為）6項4号",
+  "lawsuit_id": "60985",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60985",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/985/060985_hanrei.pdf"
+}

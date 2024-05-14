@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 5,
+    "day": 26
+  },
+  "case_number": "昭和31(あ)2084",
+  "case_name": "贈賄",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第13巻5号817頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 5,
+    "day": 14
+  },
+  "gist": "一　刑法第一九七条にいう公務員の「職務ニ関シ」の意義\n二　電報電話局施設課線路係長たる電気通信技官の職務権限と電話売買の斡旋行為",
+  "case_gist": "一　刑法第一九七条にいう公務員の「職務ニ関シ」とは、公務員の職務行為ばかりでなく、これと密接な関係にある行為に関する場合を含むものと解すべきであるが、単にこれと関連性のある行為に関する場合をも含むものと解すべきではない。\n二　既設電話の移転工事等の処理、工事指令、現地調査等の権限を有する電報電話局施設課線路係長たる電気通信技官が電話売買の斡旋をすることは、その職務行為と関連性のある行為ではあつても、これと密接な関係ある行為とはいえない。",
+  "ref_law": "刑法197条，刑法198条",
+  "lawsuit_id": "51488",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51488",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/488/051488_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 6,
+    "day": 28
+  },
+  "case_number": "昭和30(オ)54",
+  "case_name": "建物収去土地明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第10巻6号754頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 10,
+    "day": 26
+  },
+  "gist": "限定承認前の仮登記にもとずくその後の本登記の効力",
+  "case_gist": "乙所有の土地につき、甲のため所有権移転登記請求権保全の仮登記がなされた後、乙死亡し、その相続人丙が限定承認をした場合に、その後甲において所有権取得登記をなした時は、甲はその所有権の取得を以つて、乙の相続債権者に対抗することができる。",
+  "ref_law": "民法922条，民法927条，民法177条，不動産登記法7条",
+  "lawsuit_id": "57605",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57605",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/605/057605_hanrei.pdf"
+}

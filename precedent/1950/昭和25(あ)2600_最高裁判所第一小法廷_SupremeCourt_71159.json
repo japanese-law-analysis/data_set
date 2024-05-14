@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 11,
+    "day": 1
+  },
+  "case_number": "昭和25(あ)2600",
+  "case_name": "賍物故買",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第56号1頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 8,
+    "day": 4
+  },
+  "gist": "第一審判決の法令違反を理由として破棄自判する第二審判決と量刑不当の主張に対する判断",
+  "case_gist": "原判決は、第一審判決の法令の適用に違法があるとしてこれを破棄した上刑訴四〇〇条但書により自ら本件被告事件につき量刑処断したものであるから、所論量刑不当の控訴趣意については判断を与える必要がないものである。",
+  "ref_law": "刑訴法392条，刑訴法397条，刑訴法400条但書",
+  "lawsuit_id": "71159",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=71159",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/159/071159_hanrei.pdf"
+}

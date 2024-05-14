@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 10,
+    "day": 4
+  },
+  "case_number": "昭和25(し)16",
+  "case_name": "証拠調決定に対する異議申立却下決定に対する特別抗告",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第4巻10号1866頁",
+  "original_court_name": "福島地方裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 2,
+    "day": 18
+  },
+  "gist": "刑訴第二二八条第二項により被疑者弁護人等に反対尋問の機会を与えないで作成された証人尋問調書の証拠調決定と憲法第三七条第二項",
+  "case_gist": "証人が、公判廷において、前に刑訴第二二八条によつて裁判官の面前においてした供述と異つた供述をしたため、検察官から右裁判官の面前における供述録取書類の証拠調を請求した場合に、その供述録取書類が、被疑者、弁護人等に反対尋問の機会を与えないで作成されたものであつても、裁判所がその供述録取書類を証拠調する旨の決定をすることは、何ら憲法第三七条第二項に違反しない。",
+  "ref_law": "刑訴法228条，刑訴法321条1項1号，憲法37条",
+  "lawsuit_id": "54456",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54456",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/456/054456_hanrei.pdf"
+}

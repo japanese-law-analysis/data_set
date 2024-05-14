@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 6,
+    "day": 22
+  },
+  "case_number": "昭和28(あ)506",
+  "case_name": "業務上横領",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第96号439頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 2,
+    "day": 26
+  },
+  "gist": "刑訴法第四〇五条三号と具体的な判例摘示",
+  "case_gist": "引用の判例は「大正十年大審院宣告」と上告趣意書に記載されてあるだけで、刑訴規則二五三条の「上告趣意書にその判例を具体的に示さな」い場合に当り、上告理由として不適法である。",
+  "ref_law": "刑訴法405条3号，刑訴規則253条",
+  "lawsuit_id": "69452",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=69452",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/452/069452_hanrei.pdf"
+}

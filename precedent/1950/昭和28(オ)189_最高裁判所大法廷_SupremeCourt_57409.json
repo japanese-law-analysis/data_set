@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 1,
+    "day": 16
+  },
+  "case_number": "昭和28(オ)189",
+  "case_name": "公売代金返還請求",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第11巻1号1頁",
+  "original_court_name": "山口地方裁判所\n        　下関支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 1,
+    "day": 23
+  },
+  "gist": "抵当権が国税徴収権に優先すると認められた一事例",
+  "case_gist": "抵当不動産の譲受人に対する譲受前に納期の到来した国税債権は、抵当権に優先しないと解すべきである。",
+  "ref_law": "国税徴収法2条，国税徴収法3条",
+  "lawsuit_id": "57409",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57409",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/409/057409_hanrei.pdf"
+}

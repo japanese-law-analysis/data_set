@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 9,
+    "day": 28
+  },
+  "case_number": "昭和24(れ)2710",
+  "case_name": "詐欺、私文書偽造、偽造私文書行使詐欺",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第5巻10号1987頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 7,
+    "day": 4
+  },
+  "gist": "実行者の具体的行為の内容を認識しない通謀者の責任",
+  "case_gist": "数名の者が詐欺罪を行うことを通謀した以上、実行行為に携わらなかつた通謀者において実行者の具体的欺罔行為の内容を逐一認識しなくても、共同正犯としての責任を負う。",
+  "ref_law": "刑法60条，刑法246条",
+  "lawsuit_id": "54324",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54324",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/324/054324_hanrei.pdf"
+}

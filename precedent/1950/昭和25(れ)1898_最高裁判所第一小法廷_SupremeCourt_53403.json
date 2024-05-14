@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 12,
+    "day": 25
+  },
+  "case_number": "昭和25(れ)1898",
+  "case_name": "窃盜",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第6巻12号1413頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 10,
+    "day": 31
+  },
+  "gist": "一　憲法第三八条第三項に違反しない事例\n二　憲法第三七条第一、二項に違反しない事例",
+  "case_gist": "一　第一審では共同被告人であつたが、既に確定判決を受け第二審では証人として証言している共犯者の第二審公判延における証言と被害者の盗難届により窃盗の事実を認定しても、憲法第三八条第三項に違反しない。\n二　裁判所が被害人側の申請にかかる証人をその喚問の必要がないと認めてこれを却下し、また証人の住所が不明のため召喚上が不送達となつたことを理由としてその喚問決定を取り消したからといつて、憲法第三七条第一項第二項に違反しない。",
+  "ref_law": "憲法38条3項，憲法37条1項，憲法37条2項，刑訴応急措置法10条3項",
+  "lawsuit_id": "53403",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53403",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/403/053403_hanrei.pdf"
+}

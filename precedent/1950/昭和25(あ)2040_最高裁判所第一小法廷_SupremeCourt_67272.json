@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 5,
+    "day": 31
+  },
+  "case_number": "昭和25(あ)2040",
+  "case_name": "業務上横領",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第46号651頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 7,
+    "day": 17
+  },
+  "gist": "第一審判決の事実誤認の主張に対する証拠調の範囲と右主張に基く証人訊問申請を却下したことは弁護権を不当に弾圧したといえるか",
+  "case_gist": "新刑訴における控訴審は事後審であるから、第一審判決の事実誤認の主張については、原則として訴訟記録及び第一審裁判所において取り調べた証拠に現われている事実を取り調べるを以て足り（刑訴三八二条参照）刑訴三九三条一項但書の場合の外新らたに事実の取り調べをすることを要するものではない。されば、原審が所論証人訊問申請を全部却下してこれが取調をしなかつたからといつて間弁護人主張のごとく弁護人の弁護権を不当に弾圧し被告人に防禦の余地を与えなかつた違法があるといえない。",
+  "ref_law": "刑訴法382条，刑訴法393条1項，刑訴法411条3号",
+  "lawsuit_id": "67272",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=67272",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/272/067272_hanrei.pdf"
+}

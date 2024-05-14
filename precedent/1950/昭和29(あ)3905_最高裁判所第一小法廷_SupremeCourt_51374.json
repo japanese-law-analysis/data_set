@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 3,
+    "day": 24
+  },
+  "case_number": "昭和29(あ)3905",
+  "case_name": "麻薬取締法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第9巻3号511頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 11,
+    "day": 4
+  },
+  "gist": "常習として麻薬取締法（昭和二八年法律第一四号により改正されたもの）施行の前後に跨つてなされた麻薬の譲り受け等をした所為に対する法令の適用",
+  "case_gist": "常習として麻薬取締法（昭和二八年法律第一四号により改正されたもの）施行前から施行後まで引き続き塩酸ジアセチルモルヒネの譲り受け等をした所為には、同法第六七条第一項を適用すべきである。",
+  "ref_law": "麻薬取締法（昭和28年法律第14号により改正されたもの）67条，麻薬取締法（昭和28年法律第14号により改正されたもの）66条，麻薬取締法（昭和28年法律第14号により改正されたもの）64条，麻薬取締法（昭和28年法律第14号により改正されたもの）12条1項，麻薬取締法（昭和23年法律第123号）4条3号，麻薬取締法（昭和23年法律第123号）57条",
+  "lawsuit_id": "51374",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51374",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/374/051374_hanrei.pdf"
+}

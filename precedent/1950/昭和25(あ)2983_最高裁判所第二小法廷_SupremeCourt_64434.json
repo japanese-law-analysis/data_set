@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 12,
+    "day": 19
+  },
+  "case_number": "昭和25(あ)2983",
+  "case_name": "窃盜、同幇助",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第71号31頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 10,
+    "day": 3
+  },
+  "lawsuit_id": "64434",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64434",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/434/064434_hanrei.pdf"
+}

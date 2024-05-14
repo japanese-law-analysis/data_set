@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 5,
+    "day": 28
+  },
+  "case_number": "昭和34(あ)207",
+  "case_name": "競争入札妨害",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第13巻5号833頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 12,
+    "day": 11
+  },
+  "gist": "不正談合罪の成立する事例。",
+  "case_gist": "競売において、不正の利益を得る目的で公正な自由競争によつて形成されるであろう競売価格よりも低廉な競売価格を以つて他人に競落させるため、自己の競売申出を抛棄することを協定したときは刑法第九六条の三第二項の談合罪が成立する。",
+  "ref_law": "刑法96条ノ3",
+  "lawsuit_id": "51662",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51662",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/662/051662_hanrei.pdf"
+}

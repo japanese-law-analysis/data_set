@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 7,
+    "day": 26
+  },
+  "case_number": "昭和30(あ)4060",
+  "case_name": "食糧管理法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第114号363頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 11,
+    "day": 18
+  },
+  "gist": "食糧管理法施行令第一〇条違反罪の成立すべき場合",
+  "case_gist": "本件被告人のごとく「販売又は消費の目的をもつて政府、食糧公団又は販売業者から買い受けた者」は、所論規定の新設（昭和二五年一一月一五日）以後は、農林大臣又は都道府県知事の指示に基づき売り渡す場合は適法とされるに至つたが、右指示に基づかないで売り渡す場合は、食糧管理法施行令一〇条違反の罪が成立することは所論のとおりである。しかし、右新設以前においては「販売又は消費の目的をもつて政府、食糧公団又は販売業者から買い受けた者」が、売り渡す場合はすべて右一〇条違反の罪が成立する。",
+  "ref_law": "食糧管理法施行令10条",
+  "lawsuit_id": "60849",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60849",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/849/060849_hanrei.pdf"
+}

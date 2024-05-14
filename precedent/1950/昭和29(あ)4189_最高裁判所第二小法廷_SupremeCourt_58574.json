@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 3,
+    "day": 8
+  },
+  "case_number": "昭和29(あ)4189",
+  "case_name": "職業安定法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第118号55頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 11,
+    "day": 28
+  },
+  "gist": "酌婦となることを「勧誘」することは、職業安定法第五条第六項の「募集」に該当するか",
+  "case_gist": "所論の労働者を「勧誘」することは「募集」に該当すること職業安定法第五条第六項で明らかである。",
+  "ref_law": "職業安定法5条6項",
+  "lawsuit_id": "58574",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58574",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/574/058574_hanrei.pdf"
+}

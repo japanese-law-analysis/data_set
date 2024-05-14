@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 7,
+    "day": 24
+  },
+  "case_number": "昭和25(あ)1590",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第50号933頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 5,
+    "day": 13
+  },
+  "gist": "弁護人の公判期日変更申請を許容せず国選弁護人の弁論をきいてした裁判と弁護権の制限の有無",
+  "case_gist": "記録によれば、原審裁判所が弁護人木原主計の第一回公判期日変更申請を許容しなかつたこと及び、同弁護人がその期日に公判に立会わないことは所論のとおりであるが、国選弁護人により被告人自身選定した右木原弁護人提出の控訴趣意書に基く弁論がなされたこと、その控訴趣意は簡単明白であり特に新たな事実証拠の取調を要する趣旨でもないこと及び原審は控訴趣意の量刑不当の主張を容れて第一審判決を破棄し処刑を減軽していることが認められるのであるから、原審で公判期日変更請求を許容しなかつた結果が被告人に不利益を来したとは到底考えられない。",
+  "ref_law": "憲法37条3項，刑訴法276条",
+  "lawsuit_id": "70976",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70976",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/976/070976_hanrei.pdf"
+}

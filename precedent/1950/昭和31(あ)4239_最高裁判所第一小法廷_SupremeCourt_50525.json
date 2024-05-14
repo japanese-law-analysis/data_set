@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 5,
+    "day": 1
+  },
+  "case_number": "昭和31(あ)4239",
+  "case_name": "詐欺",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第12巻7号1243頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 10,
+    "day": 9
+  },
+  "gist": "刑訴法第四〇〇条但書に違反しない事例",
+  "case_gist": "本件の第一審判決説示のごとく詐欺の意思を除く以外の事実は、すべて認められると認定しているような場合には、被告人を公判廷で公訴事実その他につき質問し、原控訴判決が証拠とした被告人の検察官に対する供述調書の措信すべきや否や等につき取調をなせば、その余の証拠につき直接取調をしなくとも、控訴審が被告人の犯罪事実の存在を確定せず無罪を言渡した一審判決を破棄し、被告人に有罪の判決を言渡しても刑訴第四〇〇条但書の規定に違反しない",
+  "ref_law": "刑訴法400条",
+  "lawsuit_id": "50525",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50525",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/525/050525_hanrei.pdf"
+}

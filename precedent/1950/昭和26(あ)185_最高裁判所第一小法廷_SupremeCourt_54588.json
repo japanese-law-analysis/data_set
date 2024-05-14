@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 12,
+    "day": 24
+  },
+  "case_number": "昭和26(あ)185",
+  "case_name": "麻薬取締規則違反、麻薬取締法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "刑集　第7巻13号2657頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 12,
+    "day": 14
+  },
+  "gist": "旧麻薬取締規則第二三条にいわゆる授受の意義",
+  "case_gist": "旧麻薬取締規則第二三条にいわゆる授受とは、贈与、消費貸借等所有権の移転を伴う場合に限らず、販売の委任等相手方に麻薬の処分権を与えてこれを交付するがごとき行為を含む。",
+  "ref_law": "麻薬取締規則23条",
+  "lawsuit_id": "54588",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54588",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/588/054588_hanrei.pdf"
+}

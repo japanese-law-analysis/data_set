@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 5,
+    "day": 15
+  },
+  "case_number": "昭和28(オ)861",
+  "case_name": "建物明渡、動産引渡請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第10巻5号496頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 7,
+    "day": 15
+  },
+  "gist": "浴場用建物の賃貸借契約と浴場経営による営業利益の分配契約との混合契約と借家法の適用",
+  "case_gist": "浴場用建物の賃貸借契約と浴場経営による営業利益の分配契約との混合契約に対し、借家法第一条ノ二の適用を認めながら、特別の理由を示すことなく同法第七条の適用を否定するのは違法である。",
+  "ref_law": "民法601条，借家法1条ノ2，借家法7条",
+  "lawsuit_id": "57465",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57465",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/465/057465_hanrei.pdf"
+}

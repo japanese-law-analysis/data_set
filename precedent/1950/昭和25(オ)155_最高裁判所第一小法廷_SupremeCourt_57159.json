@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 4,
+    "day": 23
+  },
+  "case_number": "昭和25(オ)155",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第7巻4号408頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 4,
+    "day": 13
+  },
+  "gist": "社宅の賃貸借の解約申入に正当事由ある一事例",
+  "case_gist": "社宅の賃貸借の解約申入につき後記事実（判決理由参照）あるときは、借家法第一条ノ二にいわゆる正当事由があると認むべきである。",
+  "ref_law": "借家法1条の2",
+  "lawsuit_id": "57159",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57159",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/159/057159_hanrei.pdf"
+}

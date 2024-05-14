@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 10,
+    "day": 6
+  },
+  "case_number": "昭和25(れ)995",
+  "case_name": "傷害、銃砲等所持禁止令違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第19号695頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 4,
+    "day": 10
+  },
+  "gist": "判決の証拠説明の程度",
+  "case_gist": "判決の証拠説明は、その証拠の内容を逐一写録するの要なきは勿論、これを摘録することも亦必らずしも必要ではなく、その証拠の題目を掲げ趣旨を摘示する等、その証拠とする内容を認識し得る程度に挙示せられ、よつて如何なる事実がその証拠により若しくは他の証拠と綜合して証明されるかゞ明らかなる程度に判示あれば足るのである。",
+  "ref_law": "旧刑訴法360条1項",
+  "lawsuit_id": "68019",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=68019",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/019/068019_hanrei.pdf"
+}

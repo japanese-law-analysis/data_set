@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 7,
+    "day": 20
+  },
+  "case_number": "昭和28(あ)5601",
+  "case_name": "薬事法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第107号808頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 10,
+    "day": 5
+  },
+  "gist": "共同被告人が十数名であり且つ相当複雑な事案のため一、二審を通じて二年五ケ月の日数を要した場合裁判の迅速を欠いたといえるか",
+  "case_gist": "本件は被告人外数名の共犯者と共に公訴が提起され、また関連事件と併合審理をしたため共同被告人の数十数名に及び、且つ事件も相当複雑な事案であるから一、二審を通じて二年五ケ月の日数を要したとしても、これを目して裁判の迅速を欠いたということはできない。",
+  "ref_law": "憲法37条1項",
+  "lawsuit_id": "75533",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=75533",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/533/075533_hanrei.pdf"
+}

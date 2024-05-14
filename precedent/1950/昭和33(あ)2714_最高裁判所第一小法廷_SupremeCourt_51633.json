@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 7,
+    "day": 2
+  },
+  "case_number": "昭和33(あ)2714",
+  "case_name": "労働基準法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第13巻7号1026頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 12,
+    "day": 2
+  },
+  "gist": "労働基準法第六二条違反の罪の罪数。",
+  "case_gist": "使用者が労働基準法第六二条に違反して、多数日にわたり多数の年少または女子労働者を深夜業に使用した場合には、特段の事情ある場合を除き、その使用日毎に各就業者各個人別に独立して同条違反の罪が成立するものと解すべく、これらを包括して一罪が成立するものとなすべきではない。",
+  "ref_law": "労働基準法62条1項，労働基準法119条1号，刑法45条",
+  "lawsuit_id": "51633",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51633",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/633/051633_hanrei.pdf"
+}

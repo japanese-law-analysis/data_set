@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 6,
+    "day": 3
+  },
+  "case_number": "昭和24(れ)1798",
+  "case_name": "昭和二三年政令第二〇一号違反",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第7巻6号1208頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 5,
+    "day": 27
+  },
+  "gist": "一　昭和二三年政令第二〇一号の効力と昭和二二年法律第七二号第一条\n二　昭和二三年政令第二〇一号はポツダム宣言に違反するか\n三　右政令と極東委員会の「日本の労働組合に関する」いわゆる一六原則との関係",
+  "case_gist": "一　昭和二三年政令第二〇一号は、昭和二二年法律第七二号第一条によりその効力に消長を来たすものではない。\n二　昭和二三年政令第二〇一号は、ポツダム宣言に違反するものということはできない。\n三　昭和二一年（一九四六年）一二月六日附極東委員会の「日本の労働組合に関する」いわゆる一六原則は昭和二三年政令第二〇一号と相関知するものではない。",
+  "ref_law": "昭和23年政令201号2条，昭和23年政令201号3条，昭和23年政令201号，昭和22年法律72号1条，ポツダム宣言6項，ポツダム宣言10項，1946年12月6日極東委員会「日本の労働組合に関する原則」",
+  "lawsuit_id": "53380",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53380",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/380/053380_hanrei.pdf"
+}

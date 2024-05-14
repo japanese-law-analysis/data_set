@@ -1,0 +1,22 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 5,
+    "day": 30
+  },
+  "case_number": "昭和31(あ)236",
+  "case_name": "無印虚偽公文書作成、同行使、私文書偽造、同行使、詐欺",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第12巻8号1914頁",
+  "original_court_name": "福岡高等裁判所",
+  "gist": "刑法第一五六条の法意",
+  "case_gist": "刑法第一五六条は信用度の高い公文書の無形偽造を私文書と異つて特に処罰することにしたものであつて、その保護法益は公文書の信用性に存し、行為者が公務員であるか否かによつてその保護に軽重を設けた規定ではない",
+  "ref_law": "刑法156条，憲法14条",
+  "lawsuit_id": "50489",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50489",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/489/050489_hanrei.pdf"
+}

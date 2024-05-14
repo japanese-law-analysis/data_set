@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 2,
+    "day": 12
+  },
+  "case_number": "昭和27(オ)751",
+  "case_name": "請求に関する異議",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第8巻2号448頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 7,
+    "day": 14
+  },
+  "gist": "事情変更による契約解除権を認むべき標準",
+  "case_gist": "いわゆる事情の変更により契約当事者に契約解除権を認めるがためには、事情の変更が、信義衡平上当事者を該契約によつて拘束することが著しく不当と認められる場合であることを要し、右の事情の変更は客観的に観察されなければならない。",
+  "ref_law": "民法540条",
+  "lawsuit_id": "57345",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57345",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/345/057345_hanrei.pdf"
+}

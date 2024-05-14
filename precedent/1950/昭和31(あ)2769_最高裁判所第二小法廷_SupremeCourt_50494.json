@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 10,
+    "day": 3
+  },
+  "case_number": "昭和31(あ)2769",
+  "case_name": "麻薬取締法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第12巻14号3205頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 6,
+    "day": 26
+  },
+  "gist": "一　原判決を維持すべき旨の答弁書に対する判断の要否。\n二　量刑判断につき事実の取調のある事例。",
+  "case_gist": "一　弁護人は原審が弁護人の答弁書に対し考慮判断していないのは違法であり、憲法一三条に違反するという主張もしているが、刑訴三九二条は控訴趣意書につき調査を要求しているが、原判決を維持すべき旨の答弁書については、その調査を要求してはいない。従つてその判断を示さなくても違法でない。\n二　他の同種事件の判決謄抄本を公判廷で取り調べたときは、量刑事情について事実の取調があつたということができる。",
+  "ref_law": "刑訴法392条，刑訴法400条，刑訴法393条",
+  "lawsuit_id": "50494",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50494",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/494/050494_hanrei.pdf"
+}

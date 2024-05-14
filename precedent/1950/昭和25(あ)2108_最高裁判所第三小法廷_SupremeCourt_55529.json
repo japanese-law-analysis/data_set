@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 3,
+    "day": 4
+  },
+  "case_number": "昭和25(あ)2108",
+  "case_name": "業務妨害",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第6巻3号345頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 6,
+    "day": 14
+  },
+  "gist": "被告人が賃借している家屋を不法に占拠し古物商を営んでいる者に対し該家屋の明渡を求めるため威力を用い業務を防害した場合と犯罪の成否",
+  "case_gist": "被告人が賃借している家屋を不法に占拠し、古物商を営んでいる者に対し威力を用いその業務を妨害したときは、たといそれが右家屋の明渡を求めるためであつても、適法行為として罪とならないとすることはできない。",
+  "ref_law": "刑法234条，刑法35条，刑法36条，刑法37条",
+  "lawsuit_id": "55529",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55529",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/529/055529_hanrei.pdf"
+}

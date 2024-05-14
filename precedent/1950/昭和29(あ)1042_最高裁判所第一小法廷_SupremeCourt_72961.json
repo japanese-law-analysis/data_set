@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 9,
+    "day": 30
+  },
+  "case_number": "昭和29(あ)1042",
+  "case_name": "住居侵入、公務執行妨害",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第98号1003頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 11,
+    "day": 17
+  },
+  "gist": "正当な団体交渉行為にあたらない事例",
+  "case_gist": "原審の認定した事実によれば、「本件交渉は前記失業対策事業に従事する労働者としてその労働条件の改善を計る為の団体交渉と云うよりも、むしろ、長野市民たる被告人等失業者の最低生活を保障する為長野市長に対し生活資金を支給すべきことを要求するのが主眼と認められるのであつて、かかる交渉は使用者対被使用者の関係を前提とする団体交渉権の行使と云うには該当しない。」というのである。それ故、原判決の結論は正当であつて、団体交渉権の行使を前提とする論旨は、理由がない。",
+  "ref_law": "憲法28条",
+  "lawsuit_id": "72961",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=72961",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/961/072961_hanrei.pdf"
+}

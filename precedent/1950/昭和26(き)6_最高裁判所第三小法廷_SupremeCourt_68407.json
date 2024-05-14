@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 12,
+    "day": 18
+  },
+  "case_number": "昭和26(き)6",
+  "case_name": "上告棄却決定に対する再審請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第58号415頁",
+  "original_court_name": "最高裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 10,
+    "day": 23
+  },
+  "gist": "上告棄却決定に対する再審請求の適否",
+  "case_gist": "右の者に対する横領、窃盗被告事件について昭和二六年一〇月二三日当裁判所がした上告棄却の決定に対し請求人から再審の請求があつたが、上告を棄却した確定判決に対しては、刑訴四三條に規定する事由があるときに限りこれをすることができるものであるところ、かかる場合に当らないこと明白であるから、次のとおり決定する。",
+  "ref_law": "刑訴法436條，刑訴法447條，刑訴法446條",
+  "lawsuit_id": "68407",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=68407",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/407/068407_hanrei.pdf"
+}

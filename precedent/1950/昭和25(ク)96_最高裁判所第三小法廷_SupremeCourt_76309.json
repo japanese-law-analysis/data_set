@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 2,
+    "day": 12
+  },
+  "case_number": "昭和25(ク)96",
+  "case_name": "札幌高等裁判所昭和二五年（ラ）第六号訴状却下命令に対する抗告",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "却下",
+  "article_info": "集民　第6号105頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_case_number": "昭和25(ラ)6",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 8,
+    "day": 10
+  },
+  "lawsuit_id": "76309",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=76309",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/309/076309_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 2,
+    "day": 22
+  },
+  "case_number": "昭和30(オ)362",
+  "case_name": "家屋収去土地明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第11巻2号350頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 1,
+    "day": 20
+  },
+  "gist": "抗弁権の附著する債権を自働債権とする相殺の許否",
+  "case_gist": "催告および検索の抗弁権の附著する保証契約上の債権を自働債権とする相殺は、許されない。",
+  "ref_law": "民法505条",
+  "lawsuit_id": "57587",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57587",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/587/057587_hanrei.pdf"
+}

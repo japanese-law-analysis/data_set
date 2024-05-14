@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 3,
+    "day": 22
+  },
+  "case_number": "昭和25(れ)1873",
+  "case_name": "放火窃盗、賍物故買等",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第42号357頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 8,
+    "day": 25
+  },
+  "gist": "一　建物の庇下に堆積せる藁に放火した事実によつて建物延焼の認識ありと認め得られるか\n二　証拠の一部に矛盾があつても綜合して事実認定ができる場合と採証法則違背の有無",
+  "case_gist": "一　建物の庇下に堆積されている藁に放火すればその建物及びこれに隣接する住家に延焼する危険があることは常識上認められる事柄であるから、特に所論Ａの供述のようなものがない場合でも、各被告人に建物に延焼の認識があつたものと認め得られるのである。\n二　証拠にはおのずから強弱、直接間接の別があるから、綜合する証拠の一部に矛盾するがごとき感を呈する部分があるとしても、本件の場合のごとく全体として事実の認定を肯認することができる限り採証の法則に反する違法を認めることはできない。",
+  "ref_law": "刑法108条，旧刑訴法336条，旧刑訴法337条",
+  "lawsuit_id": "71566",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=71566",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/566/071566_hanrei.pdf"
+}

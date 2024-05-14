@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 2,
+    "day": 20
+  },
+  "case_number": "昭和25(オ)136",
+  "case_name": "当選の効力に関する訴願の裁決取消請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第5巻3号81頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 3,
+    "day": 28
+  },
+  "gist": "当選人決定告示後の繰上補充と当初の当選効力に関する訴訟の判決",
+  "case_gist": "当選人決定告示の後繰上補充があつても、当初の当選の効力に関する訴訟の判決にあたり、その事実を考慮すべきではない。",
+  "ref_law": "地方自治法（公職選挙法施行前のもの）66条，地方自治法（公職選挙法施行前のもの）56条3項",
+  "lawsuit_id": "56008",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56008",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/008/056008_hanrei.pdf"
+}

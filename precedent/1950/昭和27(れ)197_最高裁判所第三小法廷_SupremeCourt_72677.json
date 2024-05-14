@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 9,
+    "day": 22
+  },
+  "case_number": "昭和27(れ)197",
+  "case_name": "収賄、贈賄",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第86号785頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 7,
+    "day": 9
+  },
+  "gist": "公務員の職務執行と密接な関係にある行為に対する金品の収受と賄賂罪の成立",
+  "case_gist": "官庁内部における各分課の諸規程等の文理上からは、厳密にいえばその職務の範囲に属するといえないとしても、その権限に属する職務を執行するに当り、その職務執行と密接な関係を有する行為をすることによつて相手方より金品を収受すれば、賄賂罪の成立を妨げるものでないとする趣旨は、当裁判所の判例とするところでもある（昭和二四年（れ）第八五六号同二五年二月二八日第三小法廷判決、昭和二五年（れ）第一二四九号同二六年一月一八日第一小法廷判決参照）。",
+  "ref_law": "刑法197条1項",
+  "lawsuit_id": "72677",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=72677",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/677/072677_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 1,
+    "day": 20
+  },
+  "case_number": "昭和26(あ)2137",
+  "case_name": "尊属傷害致死",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第8巻1号52頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 10,
+    "day": 24
+  },
+  "gist": "一　尊属傷害致死に関する刑法第二〇五条第二項の規定は憲法第一三条第一四条に違反するか\n二　憲法第二四条第二項の「その他婚姻及び家族に関する事項」と親族間の処罰事項に関する立法",
+  "case_gist": "一　尊属傷害致死に関する刑法第二〇五条第二項の規定は、憲法第一三条、第一四条に違反しない。\n二　憲法第二四条第二項の「その他婚姻及び家族に関する事項」中には、刑法第二〇五条第二項のごとき親族間の処罰事項に関する立法は包含されない。",
+  "ref_law": "憲法13条，憲法14条，憲法24条2項，刑法205条2項",
+  "lawsuit_id": "55595",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55595",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/595/055595_hanrei.pdf"
+}

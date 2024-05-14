@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 4,
+    "day": 20
+  },
+  "case_number": "昭和25(あ)62",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第4巻1号548頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 11,
+    "day": 12
+  },
+  "gist": "控訴裁判所が刑訴法第四〇〇條但書によつて直に判決する場合と辯論の要否",
+  "case_gist": "控訴裁判所が刑訴法第四〇〇條但書によつて直に判決する場合、同法第四〇四條によつて第一審公判に關する規定を準用し事實の取調並びに、證據調及び控訴裁判所において取調べた證據を資料として覆審をなし辯論を繰り返えし被告人又は辯護人をして最終の陳述をなさしめるべきものではない。",
+  "ref_law": "刑訴法400條但書，刑訴法404條，刑訴法292條，刑訴法293條",
+  "lawsuit_id": "56765",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56765",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/765/056765_hanrei.pdf"
+}

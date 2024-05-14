@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 10,
+    "day": 22
+  },
+  "case_number": "昭和28(あ)1180",
+  "case_name": "覚せい剤取締法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第7巻10号1952頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 12,
+    "day": 26
+  },
+  "gist": "覚せい剤取締法にいわゆる覚せい剤の製造の意義",
+  "case_gist": "覚せい剤取締法にいわゆる覚せい剤の製造とは、覚せい剤の原料から化学的方法により覚せい剤を製出し、または化学的変化を伴わないで調合または混合してこれを製剤する場合は勿論、かかる製品を小分して容器に納め封緘を施し覚せい剤の施用機関または研究者に譲り渡すに適する状態に製作する場合をも含むものと解するのを相当とする。",
+  "ref_law": "覚せい剤取締法2条，覚せい剤取締法15条",
+  "lawsuit_id": "55722",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55722",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/722/055722_hanrei.pdf"
+}

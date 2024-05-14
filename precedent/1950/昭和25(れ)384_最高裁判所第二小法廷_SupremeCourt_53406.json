@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 2,
+    "day": 13
+  },
+  "case_number": "昭和25(れ)384",
+  "case_name": "業務上横領、背任、昭和二一年勅令第三一一号違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "刑集　第7巻2号218頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 10,
+    "day": 29
+  },
+  "gist": "背任罪における財産上の損害の有無",
+  "case_gist": "食糧営団の役員が国庫に納付すべき利益金をその任務に背いて営団職員の生活資金として交付したからといつて、右出捐が営団として当然なすべき出捐である場合には、営団に損害を与えたものと速断することはできない。",
+  "ref_law": "刑法247条",
+  "lawsuit_id": "53406",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53406",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/406/053406_hanrei.pdf"
+}

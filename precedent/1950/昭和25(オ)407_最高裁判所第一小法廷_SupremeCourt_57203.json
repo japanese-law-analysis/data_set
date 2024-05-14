@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 2,
+    "day": 18
+  },
+  "case_number": "昭和25(オ)407",
+  "case_name": "土地明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第8巻2号512頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 9,
+    "day": 14
+  },
+  "gist": "農地の一時賃貸借の解約申入と地方長官の許可の要否",
+  "case_gist": "期間の定めない農地の一事賃貸借の解約申入には、地方長官の許可を要する。",
+  "ref_law": "農地調整法（昭和22年法律240号による改正前のもの）9条",
+  "lawsuit_id": "57203",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57203",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/203/057203_hanrei.pdf"
+}

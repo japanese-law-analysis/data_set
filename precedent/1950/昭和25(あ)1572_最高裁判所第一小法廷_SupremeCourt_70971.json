@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 4,
+    "day": 12
+  },
+  "case_number": "昭和25(あ)1572",
+  "case_name": "賍物故買、賍物運搬",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第43号727頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 3,
+    "day": 1
+  },
+  "gist": "原判決が第一審判決の法令違反を理由に破棄自判し弁護人の量刑不当の控訴趣意に対し判断を示さなかつたことと憲法第三七条第三項違反の主張",
+  "case_gist": "一　所論二点は、原判決が量刑に関する弁護人の控訴趣意に対する判断を示さなかつたことを非難するに過ぎないものである。されば、いずれも憲法違反とはいつているがその実質は、第一審又は原審における訴訟法違反の主張に帰するのであつて、明らかに、刑訴第四〇五条の上告適法の理由にあたらない。また、記録を精査しても同第四一一条を適用すべきものとも認められない。\n二　注\n三　原判決は第一審判決には法令違反があり破棄を免れないから、量刑不当の控訴趣意について判断するまでもないとして判断を省略して自判し第一審と同一刑を言渡した事実である",
+  "ref_law": "刑訴法405条，刑訴法392条，憲法37条3項",
+  "lawsuit_id": "70971",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70971",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/971/070971_hanrei.pdf"
+}

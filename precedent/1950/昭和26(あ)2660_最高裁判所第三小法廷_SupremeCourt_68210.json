@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 4,
+    "day": 14
+  },
+  "case_number": "昭和26(あ)2660",
+  "case_name": "酒税法違反、物価統制令違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第78号401頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 12,
+    "day": 25
+  },
+  "gist": "一罪と認定処断したものを数罪として処断すべきであると主張して上告することができるか",
+  "case_gist": "原判決が第一審判決において被告人の判示行為を一罪として処断したことは正当であると判断したのに対し、これを数罪として処断すべきであると主張するものであつて、それが被告人に不利益な主張であることは明かであるから、上告理由としてこれを主張することは許されない。",
+  "ref_law": "刑訴法351条",
+  "lawsuit_id": "68210",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=68210",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/210/068210_hanrei.pdf"
+}

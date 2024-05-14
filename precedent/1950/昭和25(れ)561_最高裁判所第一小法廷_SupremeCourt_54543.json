@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 6,
+    "day": 22
+  },
+  "case_number": "昭和25(れ)561",
+  "case_name": "有毒飲食物等取締令違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第4巻6号1056頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 2,
+    "day": 11
+  },
+  "gist": "一　憲法第三二條の趣旨\n二　事物管轄權の誤認があつた場合と憲法違反の有無",
+  "case_gist": "一　憲法第三二條は、憲法又は法律に定められた裁判所以外の機關によつて裁判のされることのないことを保障したものであつて、訴訟法で定める管轄權を有する裁判所において裁判を受ける權利まで保障したものではない。（昭和二三年（れ）第五一二號同二四年三月二三日大法廷判決）\n二　假りに訴訟法上事物管轄權を有する第一審裁判所が東京區裁判所ではなく、東京地裁の合議体であるべきであつたとしても、これと反對の見解に出た原上告判決を目して憲法第三二條の條規に反する判斷をしたものとすることはできない。",
+  "ref_law": "憲法32條，裁判所構成法16條，裁判所構成法27條",
+  "lawsuit_id": "54543",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54543",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/543/054543_hanrei.pdf"
+}

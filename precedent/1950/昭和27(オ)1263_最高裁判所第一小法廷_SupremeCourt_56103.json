@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 3,
+    "day": 11
+  },
+  "case_number": "昭和27(オ)1263",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第8巻3号688頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 11,
+    "day": 19
+  },
+  "gist": "期間後裏書の被裏書人に対抗しうべき人的抗弁の範囲",
+  "case_gist": "期間後裏書の被裏書人に対しては、その裏書の裏書人に対する人的抗弁をもつて対抗することができるが、右裏書人の前者に対する人的抗弁をもつて対抗することはできない。",
+  "ref_law": "手形法20条1項，手形法17条",
+  "lawsuit_id": "56103",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56103",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/103/056103_hanrei.pdf"
+}

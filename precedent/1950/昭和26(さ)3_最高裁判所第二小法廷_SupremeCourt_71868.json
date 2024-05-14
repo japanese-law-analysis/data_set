@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 11,
+    "day": 28
+  },
+  "case_number": "昭和26(さ)3",
+  "case_name": "食糧管理法違反被告事件について確定の略式命令に対する非常上告の申立",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集刑　第69号1089頁",
+  "original_court_name": "中野簡易裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 4,
+    "day": 19
+  },
+  "gist": "同一の公訴事実について二個の略式命令がなされた場合と非常上告",
+  "case_gist": "略式命令がなされその確定後さらに同一公訴事実について略式命令の請求がなされ再び略式命令が発付されて確定したときは、後の略式命令を破棄し同略式命令記載の犯罪事実につき免訴の言渡をすべきである。",
+  "ref_law": "刑訴法458条，刑訴法337条1号",
+  "lawsuit_id": "71868",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=71868",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/868/071868_hanrei.pdf"
+}

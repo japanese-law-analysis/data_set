@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 4,
+    "day": 8
+  },
+  "case_number": "昭和24(ね)132",
+  "case_name": "住居侵入未遂被告事件につきなした上告棄却決定に対する疑義及び異議申立",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "却下",
+  "article_info": "集刑　第17号75頁",
+  "original_court_name": "最高裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 10,
+    "day": 27
+  },
+  "gist": "上告棄却決定に對する疑義及執行異議の申立の適否",
+  "case_gist": "疑義の申立は、刑の言渡を受けた者がその言渡を受けた裁判主文の趣旨が明らかでなく、その解釋について疑義あるときその主文を言渡した裁判所に對し爲すべきものであり、又刑の執行異議の申立は舊刑訴法第五三五條所定の檢察官が刑の執行に關し爲した處分を不當とするときに其の刑を言渡した裁判所に對し爲すべきものである。そして、本件上告棄却の決定は刑を言渡した裁判でもなく又之に基いて刑を執行する裁判でもない。それ故、刑の言渡をしない當裁判所に對し、所論の理由を以てする本件申立は不適法であつて、採用することができない。",
+  "ref_law": "舊刑訴法420條，舊刑訴法561條，舊刑訴法562條",
+  "lawsuit_id": "74794",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74794",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/794/074794_hanrei.pdf"
+}

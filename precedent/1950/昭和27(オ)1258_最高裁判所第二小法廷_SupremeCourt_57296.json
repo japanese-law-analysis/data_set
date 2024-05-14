@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 2,
+    "day": 26
+  },
+  "case_number": "昭和27(オ)1258",
+  "case_name": "家督相続無効確認請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第8巻2号569頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 8,
+    "day": 29
+  },
+  "gist": "親族会招集期日の変更決定の送達を受けなかつた一部会員が右期日になした決議の効力",
+  "case_gist": "親族会の招集期日の変更決定が、三名の会員中一名だけに送達されたため、右期日に他の二名が出席してなした決議も当然無効ではなく、訴により取消を求め得るにすぎない。",
+  "ref_law": "旧民法951条",
+  "lawsuit_id": "57296",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57296",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/296/057296_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 4,
+    "day": 11
+  },
+  "case_number": "昭和24(れ)2893",
+  "case_name": "強盗",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第17号87頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 7,
+    "day": 8
+  },
+  "gist": "共謀と刑法第三八條第二項",
+  "case_gist": "被告人がＡ等と恐喝の共謀をして現場に臨んだところ、Ａが共謀の範圍を超えて強盜の既遂をした事實を認定するに十分である。してみると被告人は刑法第三八條第二項によつて恐喝既遂の責任を負うべきは當然である。",
+  "ref_law": "刑法38條2項，刑法60條，刑法249條，刑法236條",
+  "lawsuit_id": "74947",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74947",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/947/074947_hanrei.pdf"
+}

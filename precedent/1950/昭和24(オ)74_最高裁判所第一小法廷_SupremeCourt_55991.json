@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 1,
+    "day": 26
+  },
+  "case_number": "昭和24(オ)74",
+  "case_name": "契約金請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第4巻1号11頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 2,
+    "day": 11
+  },
+  "gist": "上訴記録に判決原本を添附することの要否",
+  "case_gist": "第一審判決の原本は訴訟記録に添附して控訴審に送付すべきものであるが、控訴審の判決原本は、上告の有無にかゝわらず常にその庁に保存し、上告の提起あるときは、訴訟記録に判決の正本を添附して上告審に送付し、訴訟記録は、訴訟完結後第二審裁判所を経由せずに、直接第一審裁判所に返還すべきものである。",
+  "ref_law": "民訴法392条",
+  "lawsuit_id": "55991",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55991",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/991/055991_hanrei.pdf"
+}

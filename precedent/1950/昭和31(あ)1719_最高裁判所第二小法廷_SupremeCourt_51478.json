@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 8,
+    "day": 22
+  },
+  "case_number": "昭和31(あ)1719",
+  "case_name": "覚せい剤取締法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第10巻8号1266頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 3,
+    "day": 27
+  },
+  "gist": "昭和二九年国家公安委員会規則第五号により司法警察員に指定された司法巡査の権限",
+  "case_gist": "昭和二九年国家公安委員会規則第五号の定めるところにより当該管区警察局長が司法警察員に指定した司法巡査は、司法警察員の資格において参考人の供述調書を作成することができる。",
+  "ref_law": "昭和29年国家公安委員会規則第5号，刑訴法189条，刑訴法223条",
+  "lawsuit_id": "51478",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51478",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/478/051478_hanrei.pdf"
+}

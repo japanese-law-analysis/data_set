@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 12,
+    "day": 6
+  },
+  "case_number": "昭和26(れ)1780",
+  "case_name": "物価統制令違反、臨時物資需給調整法違反各教唆",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第5巻13号2485頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 3,
+    "day": 20
+  },
+  "gist": "教唆犯の成立と教唆の手段",
+  "case_gist": "教唆犯の成立には、ただ漠然と特定しない犯罪を惹起せしめるに過ぎないような行為だけでは足りないけれども、いやしくも一定の犯罪を実行する決意を相手方に生ぜしめるものであれば足りるものであつて、これを生ぜしめる手段、方法が指示たると指揮たると、命令たると嘱託たると、誘導たると從慂たるとその他の方法たるとを問うものではない。",
+  "ref_law": "刑法61条",
+  "lawsuit_id": "54652",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54652",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/652/054652_hanrei.pdf"
+}

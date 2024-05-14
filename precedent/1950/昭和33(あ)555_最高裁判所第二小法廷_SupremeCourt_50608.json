@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 9,
+    "day": 10
+  },
+  "case_number": "昭和33(あ)555",
+  "case_name": "軽犯罪法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第12巻13号3000頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 2,
+    "day": 19
+  },
+  "gist": "軽犯罪法第一条第三二号前段の「入ることを禁じた場所に正当な理由がなくて入つた」罪の成立する事例。",
+  "case_gist": "厚生大臣の許可を受けないで物品（アイスクリーム）販売の目的をもつて国民公園皇居外苑に立ち入ることは、軽犯罪法第一条第三二号前段にいう「入ることを禁じた場所に正当な理由がなくて入つた」罪を構成する。",
+  "ref_law": "軽犯罪法1条32号，国民公園管理規則（昭和24年厚生省令19号）1条，国民公園管理規則（昭和24年厚生省令19号）3条，国有財産法3条2項2号，国有財産法5条，厚生省所管国有財産取扱規程（昭和26年厚生省訓令2号）2条，厚生省所管国有財産取扱規程（昭和26年厚生省訓令2号）5条1号",
+  "lawsuit_id": "50608",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50608",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/608/050608_hanrei.pdf"
+}

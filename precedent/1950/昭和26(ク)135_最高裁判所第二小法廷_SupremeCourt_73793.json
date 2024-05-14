@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 8,
+    "day": 11
+  },
+  "case_number": "昭和26(ク)135",
+  "case_name": "財産分与審判事件の審判に対する抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "却下",
+  "article_info": "集民　第5号237頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_case_number": "昭和25(ラ)4",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 6,
+    "day": 15
+  },
+  "lawsuit_id": "73793",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=73793",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/793/073793_hanrei.pdf"
+}

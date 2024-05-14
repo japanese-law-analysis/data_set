@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 9,
+    "day": 15
+  },
+  "case_number": "昭和26(あ)2371",
+  "case_name": "窃盗、賍物牙保",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第67号51頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 5,
+    "day": 12
+  },
+  "gist": "懲役刑の執行を猶予する旨の確定判決とその前の犯罪とは刑法第四五条後段の併合罪か（右執行猶予期間が満了していない場合）",
+  "case_gist": "第一審裁判所が判決を言渡した昭和二五年一〇月二四日当時においては、所論の確定判決によつて言渡された三年間の執行猶予期間は未だ経過していなかつたものであるから、右確定判決のあつた犯罪とその確定判決前の本件窃盗並びに賍物牙保の各罪とを併合罪の関係ありとし未だ裁判を経ざる右窃盗、賍物牙保の各罪につき、併合罪の加重をなして処断した第一審判決に違法の存しないことは勿論である。",
+  "ref_law": "刑法25条，刑法45条，刑法235条，刑法256条2項",
+  "lawsuit_id": "75144",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=75144",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/144/075144_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 9,
+    "day": 16
+  },
+  "case_number": "昭和28(あ)3571",
+  "case_name": "賍物故買",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第108号485頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 6,
+    "day": 13
+  },
+  "gist": "賍物故買罪の成立に必要な賍物に対する認識の程度",
+  "case_gist": "賍物故買罪は、故買者にその物が財産罪によつて領得されたものであることの認識があれば足り、所論のように、それが何人の如何なる犯行によつて得られたかというような本犯の具体的事実までも知る必要はない。",
+  "ref_law": "刑法256条2項",
+  "lawsuit_id": "75414",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=75414",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/414/075414_hanrei.pdf"
+}

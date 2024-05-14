@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 9,
+    "day": 29
+  },
+  "case_number": "昭和30(さ)2",
+  "case_name": "住居侵入、食糧管理法違反被告事件につきなした一、二審判決及び三審決定に対する非常上告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "刑集　第9巻10号2102頁",
+  "original_court_name": "最高裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 12,
+    "day": 2
+  },
+  "gist": "決定刑を超えた刑を科した第一審判決の違法を看過した控訴または上告審判決と非常上告理由",
+  "case_gist": "第一審が法定刑を超えた刑を科した違法がある場合において控訴または上告審が職権調査をなさず、右違法を看過しても、法令に違反したものということはできない。",
+  "ref_law": "刑訴法457条，刑訴法458条，刑訴法392条，刑訴法411条",
+  "lawsuit_id": "56960",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56960",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/960/056960_hanrei.pdf"
+}

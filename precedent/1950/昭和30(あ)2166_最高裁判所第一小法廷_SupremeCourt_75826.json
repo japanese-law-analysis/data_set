@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 12,
+    "day": 1
+  },
+  "case_number": "昭和30(あ)2166",
+  "case_name": "覚せい剤取締法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第111号47頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 6,
+    "day": 7
+  },
+  "gist": "覚せい剤取締法にいう「覚せい剤の製造」に含まれるべき場合",
+  "case_gist": "覚せい剤取締法にいわゆる覚せい剤の製造のうちには、化学的変化を伴わないで調合又は混合してこれを製剤する場合も含む。",
+  "ref_law": "覚せい剤取締法15条，覚せい剤取締法41条1項3号",
+  "lawsuit_id": "75826",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=75826",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/826/075826_hanrei.pdf"
+}

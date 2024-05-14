@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 2,
+    "day": 8
+  },
+  "case_number": "昭和26(あ)2760",
+  "case_name": "窃盜",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第60号265頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 6,
+    "day": 9
+  },
+  "gist": "証人尋問につき被告人の審問権を実質的に害しない措置が講ぜられた場合と憲法三七条二項",
+  "case_gist": "裁判所が弁護人に対しては証人尋問に立会の機会を与え、被告人の審問権を実質的に害しない措置を講じたのに拘わらず、弁護人は、みずからその権利を抛棄し、被告人もその後何等の異議をさしはさまず同証人の公判廷喚問の申請もしなかつたときは、被告人が右証人尋問に立会せしめられなかつたことを以て憲法三七条二項に違反するということはできない。（昭和二四年（れ）第一八七三号同二五年三月一五日大法延判決参照）",
+  "ref_law": "憲法37条2項，刑訴法157条，刑訴法158条，刑訴法159条",
+  "lawsuit_id": "71738",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=71738",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/738/071738_hanrei.pdf"
+}

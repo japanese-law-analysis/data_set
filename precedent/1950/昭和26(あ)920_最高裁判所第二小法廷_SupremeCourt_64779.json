@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 10,
+    "day": 10
+  },
+  "case_number": "昭和26(あ)920",
+  "case_name": "物価統制令違反、詐欺、業務上横領",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集刑　第68号233頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 12,
+    "day": 23
+  },
+  "lawsuit_id": "64779",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64779",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/779/064779_hanrei.pdf"
+}

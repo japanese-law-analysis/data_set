@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 4,
+    "day": 2
+  },
+  "case_number": "昭和27(オ)1188",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第8巻4号794頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 11,
+    "day": 29
+  },
+  "gist": "一　統制額を超える賃料支払の催告\n二　数人による家屋の不法占有と賠償義務の範囲",
+  "case_gist": "一　家屋の賃借人が自発的に値上した金額に基いて、賃貸人が賃料の支払を催告し、その総額が六、〇〇〇円であり、うち四九〇円が家賃の統制額を超えていたとしても、催告全部が無効となるのではなく、正当賃料の限度で有効である。\n二　甲乙丙がいずれも一家屋の不法占有者であるとしても、乙及び丙の占有部分がそれぞれ右家屋の一部に過ぎないときは、乙丙は甲と連帯して家屋全部の賃料相当額を支払う義務はない。",
+  "ref_law": "民法541条，民法719条",
+  "lawsuit_id": "56097",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56097",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/097/056097_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 3,
+    "day": 5
+  },
+  "case_number": "昭和27(あ)5470",
+  "case_name": "麻薬取締法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第7巻3号482頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 6,
+    "day": 30
+  },
+  "gist": "いわゆる囮捜査はこれによつて犯意を誘発された者の犯罪の成否および訴訟手続に影響するか",
+  "case_gist": "いわゆる囮捜査は、これによつて犯意を誘発された者の犯罪構成要件該当性、責任性若しくは違法性を阻却するものではなく、また公訴提起の手続に違反し若しくは公訴権を消滅せしめるものではない。",
+  "ref_law": "麻薬取締法53条，刑法61条，刑法62条，刑法38条，刑法35条，刑訴法338条4号，刑訴法337条",
+  "lawsuit_id": "54702",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54702",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/702/054702_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 1,
+    "day": 21
+  },
+  "case_number": "昭和26(あ)2987",
+  "case_name": "窃盗幇助",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第8巻1号71頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 4,
+    "day": 12
+  },
+  "gist": "共同正犯の訴因に対し幇助の事実を認定するにつき訴因変更の手続を要しない一事例",
+  "case_gist": "窃盗共同正犯の訴因に対し、被告人が公判廷でこれを否認し、公訴事実の範囲内に属する窃盗幇助の事実を以つて弁解しており、その防禦に実質的な不利益を生ずる虞れのない場合には、訴因変更の手続をしないで、同幇助の事実を認定して差支えない。",
+  "ref_law": "刑訴法256条，刑訴法312条",
+  "lawsuit_id": "55601",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55601",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/601/055601_hanrei.pdf"
+}

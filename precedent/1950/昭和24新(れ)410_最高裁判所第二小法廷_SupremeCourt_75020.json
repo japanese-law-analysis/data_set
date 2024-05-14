@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 5,
+    "day": 12
+  },
+  "case_number": "昭和24新(れ)410",
+  "case_name": "関税法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第17号617頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 8,
+    "day": 30
+  },
+  "gist": "一　訴訟費用の負擔を被告人に命ずる裁判の合憲性\n\n二　判例の變更を求める主張を理由とする上告の適否",
+  "case_gist": "一　憲法第三七條第二項は、裁判をもつて、被告人に對し、本件におけるがごとき證人尋問に要した訴訟費用の負擔を命ずることを禁ずるものでないことは、當裁判所の判例とするところであつて（昭和二三年（れ）第三一六號同年一二月二七日大法廷判決）かかる訴訟費用の負擔を被告人に命ずる刑訴法の規定は何ら憲法に違反するものでないことは右判例の趣旨に徴して明瞭である。\n\n二　所論は、當裁判所の判例の變更を求めるものであつて、刑訴法第四〇五條第二號の上告の適法な理由とはいえない。",
+  "ref_law": "憲法37条2項，刑訴法185條，刑訴法405條2號",
+  "lawsuit_id": "75020",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=75020",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/020/075020_hanrei.pdf"
+}

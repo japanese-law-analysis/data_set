@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 12,
+    "day": 10
+  },
+  "case_number": "昭和24(オ)35",
+  "case_name": "賃貸借契約不存在及び転貸借契約無効確認並土地引渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第11号189頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 11,
+    "day": 29
+  },
+  "lawsuit_id": "73320",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=73320",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/320/073320_hanrei.pdf"
+}

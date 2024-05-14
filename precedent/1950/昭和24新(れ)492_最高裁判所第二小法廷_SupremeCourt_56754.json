@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 5,
+    "day": 19
+  },
+  "case_number": "昭和24新(れ)492",
+  "case_name": "衆議院議員選挙法違反、横領",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第4巻5号838頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 11,
+    "day": 14
+  },
+  "gist": "第一審判決の憲法違反を理由とする上告の適否",
+  "case_gist": "原判決において判斷されなかつた點について地方裁判所のした第一審判決に憲法違反の瑕疵ありと攻撃する上告理由は、明らかに上告適法の要件を備へて居らない。",
+  "ref_law": "刑訴法405條，刑訴法408條",
+  "lawsuit_id": "56754",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56754",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/754/056754_hanrei.pdf"
+}

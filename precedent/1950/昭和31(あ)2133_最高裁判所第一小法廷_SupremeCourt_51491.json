@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 2,
+    "day": 21
+  },
+  "case_number": "昭和31(あ)2133",
+  "case_name": "業務上過失致死傷",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第11巻2号900頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 5,
+    "day": 1
+  },
+  "gist": "禁錮刑に処すべき場合と累犯加重",
+  "case_gist": "刑法第五六条第一項、第五七条のいわゆる累犯加重の規定は、有期懲役に処すべきときに適用があるのであつて、禁錮刑に処すべきときに適用すべきものではない。",
+  "ref_law": "刑法56条1項，刑法57条",
+  "lawsuit_id": "51491",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51491",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/491/051491_hanrei.pdf"
+}

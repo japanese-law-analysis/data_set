@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 6,
+    "day": 26
+  },
+  "case_number": "昭和25(し)23",
+  "case_name": "上告棄却決定に対する抗告申立",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第4巻6号1072頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 1,
+    "day": 30
+  },
+  "gist": "決定の期間内に上告趣意書を提出しなかつた場合決定を以て上告を棄却することと憲法第三七條第一項",
+  "case_gist": "抗告人は原上告審において適法な公判期日の通知を受けて迅速な公開裁判を受ける權利と機會を與えられ乍ら決定の期間迄に上告趣意書を提出せず自らその權利の行使を怠つたものである。そうして記録を精査しても原裁判所が抗告人の上告趣意書の提出を妨げた事跡は認められないのであるから原裁判所が上告趣意書不提出の故を以て抗告人の原上告申立を決定を以て棄却したことが迅速な公開裁判を受ける權利を保障した憲法第三七條第一項に違反するとの所論は既にその前提において理由なく、又それが公平な裁判所の裁判でないといえないことも當然である。論旨は理由がない。",
+  "ref_law": "刑法37條1項，舊刑訴法427條",
+  "lawsuit_id": "54458",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54458",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/458/054458_hanrei.pdf"
+}

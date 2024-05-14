@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 7,
+    "day": 6
+  },
+  "case_number": "昭和27(オ)82",
+  "case_name": "土地明渡請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第8巻7号1329頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 11,
+    "day": 27
+  },
+  "gist": "罹災都市借地借家臨時処理法第二条第一項但書にいう「建物を築造するについて許可を必要とする場合」の意義",
+  "case_gist": "罹災都市借地借家臨時処理法第二条第一項但書にいう「建物を築造するについて許可を必要とする場合」とは、警察目的等のために建物を築造するについて事前に許可を要するというような場合をさすのではなく、一定の土地の境域内における建物の建築が一般的に制限されており、ただ許可があるときのみ特にその建築が許される場合を意味する。",
+  "ref_law": "罹災都市借地借家臨時処理法2条",
+  "lawsuit_id": "57351",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57351",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/351/057351_hanrei.pdf"
+}

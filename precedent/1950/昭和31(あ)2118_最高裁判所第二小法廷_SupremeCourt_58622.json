@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 7,
+    "day": 2
+  },
+  "case_number": "昭和31(あ)2118",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第126号657頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 5,
+    "day": 2
+  },
+  "gist": "投票用紙の持出と不法領得の意思。",
+  "case_gist": "市議会議員選挙に際し、特定候補者に当選を得しめるため、後日その候補者の氏名を記入して投票中に混入し投票数を増加する目的をもつて、投票所管理者の保管する市選挙管理委員会所有にかかる市議会議員選挙の投票用紙をひそかに持ち出したときは、不法領得の意思なしというを得ず、窃盗罪を構成することは、当裁判所の判例とすることである。（昭和三一年（あ）第二七九七号同三三年四月一七日第一小法廷判決）",
+  "ref_law": "刑法235条，公職選挙法237条3項",
+  "lawsuit_id": "58622",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58622",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/622/058622_hanrei.pdf"
+}

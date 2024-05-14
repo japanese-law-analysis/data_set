@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 9,
+    "day": 21
+  },
+  "case_number": "昭和25(ク)70",
+  "case_name": "破産申立事件の抗告につきなした決定に対する再抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "却下",
+  "article_info": "民集　第4巻9号433頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和25(ラ)28",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 6,
+    "day": 3
+  },
+  "gist": "不変期間不遵守の事由が当事者の責に帰することのできないものとは認められない一事例",
+  "case_gist": "原決定正本が第三者方に設置してある抗告代理人の事務所に送達され、抗告代理人が右第三者から原決定正本を受領したのは、原決定に対する抗告申立期間経過後であつたとの事由は、不変期間不遵守について当事者の責に帰することができないものとは認められない。",
+  "ref_law": "民訴法159条",
+  "lawsuit_id": "56046",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56046",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/046/056046_hanrei.pdf"
+}

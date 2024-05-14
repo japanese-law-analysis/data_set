@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 10,
+    "day": 2
+  },
+  "case_number": "昭和26(あ)4561",
+  "case_name": "恐喝、暴行",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第6巻9号1100頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 10,
+    "day": 17
+  },
+  "gist": "数個の恐喝罪と暴行罪（懲役刑選撰）とを併合加重する場合の法令適用の判示方",
+  "case_gist": "数個の恐喝罪と一個の暴行罪（懲役刑選択）とを併合加重するにあたつては、何れの罪が最も重いかを明示説明しなくても、必ずしも違法でない。",
+  "ref_law": "刑法249条，刑法208条，刑法45条，刑法47条，刑法10条，刑訴法335条",
+  "lawsuit_id": "53437",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53437",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/437/053437_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 4,
+    "day": 18
+  },
+  "case_number": "昭和25(オ)341",
+  "case_name": "農地買収計画取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第6巻4号439頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 9,
+    "day": 13
+  },
+  "gist": "農地買収計画の取消を求める訴について異議訴願を経ない正当な事のある一事例",
+  "case_gist": "行政事件訴訟特例法施行の日に農地買収計画に対する異議申立期間が満了し、当時の交通事情等により訴訟関係人らが同法の内容を知り得なかつた事情があるならば、同法施行後にかいても、右買収計画の取消を求める訴を提起するについて異議、訴願を経ない正当な事由があるものというべきである。",
+  "ref_law": "自作農創設特別措置法7条，行政事件訴訟特例法2条",
+  "lawsuit_id": "57195",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57195",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/195/057195_hanrei.pdf"
+}

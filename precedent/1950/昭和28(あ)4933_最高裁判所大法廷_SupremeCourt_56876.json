@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 11,
+    "day": 10
+  },
+  "case_number": "昭和28(あ)4933",
+  "case_name": "昭和二五年政令第三二五号違反",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第8巻11号1816頁",
+  "original_court_name": "仙台高等裁判所\n        　秋田支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 9,
+    "day": 15
+  },
+  "gist": "免訴判決に対する被告人の上訴権",
+  "case_gist": "免訴判決に対する検察官の控訴を棄却した判決に対しては被告人から無罪を主張して上訴することはできない。",
+  "ref_law": "刑訴法337条，刑訴法351条",
+  "lawsuit_id": "56876",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56876",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/876/056876_hanrei.pdf"
+}

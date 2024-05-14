@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 10,
+    "day": 11
+  },
+  "case_number": "昭和23(れ)1744",
+  "case_name": "物価統制令違反、同幇助、食糧管理法違反、同幇助",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第4巻10号2000頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 7,
+    "day": 19
+  },
+  "gist": "被告人の公判廷外における自白と公判廷における供述とによつて犯罪事実を認する定ことは憲法第三八条第三項に違反するか",
+  "case_gist": "被告人の当該判決裁判所の公判廷における供述が憲法第三八条第三項にいわゆる本人の自白に含まれないで完全な証拠能力を有することは、しばしば当裁判所の判例に示されているとほりである。本件の場合においては、被告人の公判廷外における自白と公判廷における供述と相俟つて判示事実を認定することができるのであるから原判決には所論のように憲法第三八条第三項に違反するものではない。",
+  "ref_law": "憲法38条3項",
+  "lawsuit_id": "54287",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54287",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/287/054287_hanrei.pdf"
+}

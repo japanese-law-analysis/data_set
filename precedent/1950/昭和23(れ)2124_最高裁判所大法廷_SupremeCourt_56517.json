@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 4,
+    "day": 26
+  },
+  "case_number": "昭和23(れ)2124",
+  "case_name": "賭場開帳図利",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第4巻4号700頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 10,
+    "day": 30
+  },
+  "gist": "舊法事件に對する刑訴應急措置法第一三條第二項の適用と憲法第三九條との關係",
+  "case_gist": "單に上告理由の一部を制限したに過ぎない訴訟手續に關する刑訴應急措置法第一三條第二項の規定を適用して、その制定前の行爲を審判することは、たといそれが行爲時の手續法よりも多少被告人に不利益であるとしても、憲法第三九條にいわゆる「何人も、實行の時に適法であつた行爲……については、刑事上の責任を問はれない」との法則の趣旨を類推すべき場合と認むべきではない。從つて所論憲法に違反するものと云うことはできぬ。",
+  "ref_law": "刑訴應急措置法13條2項，憲法39條",
+  "lawsuit_id": "56517",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56517",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/517/056517_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 2,
+    "day": 15
+  },
+  "case_number": "昭和30(オ)228",
+  "case_name": "土地建物登記抹消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第11巻2号286頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 12,
+    "day": 21
+  },
+  "gist": "代物弁済の予約が公序良俗に反する一事例",
+  "case_gist": "元金三五万円、弁済期三〇日後、利息三〇日につき一割、利息を支払えば借主の希望により弁済期を延期するとの約旨の消費貸借契約に付随し、借主が弁済期に元金を支払わないときは、時価三、〇六七、〇〇〇円相当の不動産の所有権を代物弁済として貸主に移転する旨を約したときは、右代物弁済の予約は、特別な事情のないかぎり、貸主が借主の窮迫に乗じて締結したものと認めるべきであつて、公序良俗に反し無効と解するのが相当である。",
+  "ref_law": "民法90条，民法482条",
+  "lawsuit_id": "57575",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57575",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/575/057575_hanrei.pdf"
+}

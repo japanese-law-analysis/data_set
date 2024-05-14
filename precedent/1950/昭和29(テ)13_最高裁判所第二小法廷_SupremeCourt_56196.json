@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 9,
+    "day": 9
+  },
+  "case_number": "昭和29(テ)13",
+  "case_name": "借地料再審請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第9巻10号1258頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 6,
+    "day": 11
+  },
+  "gist": "高等裁判所が上告審としてなした判決に対する再審と右再審事件の判決に対する上訴の許否",
+  "case_gist": "高等裁判所が上告審としてなした判決に対する再審事件について、同裁判所が言い渡す判決は、上告審たる資格でなすものであり、右再審事件の終局判決に対する上訴としては、民訴第四〇九条ノ二第一項の特別上告のみが許される。",
+  "ref_law": "民訴法423條，民訴法409條ノ2第1項",
+  "lawsuit_id": "56196",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56196",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/196/056196_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 12,
+    "day": 13
+  },
+  "case_number": "昭和28(あ)3280",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第10巻12号1629頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 6,
+    "day": 15
+  },
+  "gist": "共同被告人が弁論分離後他の事件の証人としてした証言を自己の犯罪事実に対する証拠とすることの可否",
+  "case_gist": "甲乙が共同被告人である場合に、弁論分離後乙が甲の事件の証人としてした証言は、乙の犯罪事実に対する証拠となる。",
+  "ref_law": "刑訴法143条，刑訴法317条，刑訴法322条",
+  "lawsuit_id": "51282",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51282",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/282/051282_hanrei.pdf"
+}

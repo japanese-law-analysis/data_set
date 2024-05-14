@@ -1,0 +1,23 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 1,
+    "day": 19
+  },
+  "case_number": "昭和25(す)24",
+  "case_name": "押収物還付請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第5巻1号58頁",
+  "original_court_name": "最高裁判所",
+  "original_case_number": "昭和25(あ)98",
+  "gist": "一　共同被告人の一人が上告を申立てたため訴訟記録が上告裁判所に現存する場合に上告を申立てなかつた被告人のみに関する押収物還付上告裁判所に請求することの適否\n二　押収物還付の請求と押収手続の有無",
+  "case_gist": "一　原審における共同被告人の一人が上告を申立てたため、訴訟記録が偶々上告裁判所を現存しても、上告を申立ず原審判決の確定した被告人に対する被告事件のみに関する押収物については上告裁判所に対しその還付の請求をすることはできない。\n二　裁判所において特に押収をした押収でなければ、裁判所は刑訴法第一二三条、第一二四条による還付の決定をすることはできない。",
+  "ref_law": "刑訴法123条，刑訴法124条",
+  "lawsuit_id": "54461",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54461",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/461/054461_hanrei.pdf"
+}

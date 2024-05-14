@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 2,
+    "day": 14
+  },
+  "case_number": "昭和29(あ)517",
+  "case_name": "森林窃盗",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第10巻2号187頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 12,
+    "day": 26
+  },
+  "gist": "他人が盗伐後現場に放置された伐木の窃取と森林窃盗の成立",
+  "case_gist": "他人が盗伐後現場に放置した村有林の伐木を窃盗する所為は、村有林の管理者である村長において右伐木の存在を知ると否とにかかわらず、森林窃盗の罪にあたる。",
+  "ref_law": "森林法施行法（昭和26年法律250号）24条1項，森林法（明治40年法律43号）83条，刑法254条，刑法235条",
+  "lawsuit_id": "51382",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51382",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/382/051382_hanrei.pdf"
+}

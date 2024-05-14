@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 2,
+    "day": 11
+  },
+  "case_number": "昭和26(オ)908",
+  "case_name": "土地所有権移転登記抹消請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第8巻2号440頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 10,
+    "day": 31
+  },
+  "gist": "判決確定前に生じていた再審事由を判決確定後五年を経過してから知つた場合に再審の訴を提起できるか",
+  "case_gist": "判決確定前既に生じていた事由に基ずく再審の訴が、その確定後五年を経過して提起された場合にあつては、その事情の如何を問わず、不適法として却下されることを免れない。",
+  "ref_law": "民訴法424条",
+  "lawsuit_id": "57278",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57278",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/278/057278_hanrei.pdf"
+}

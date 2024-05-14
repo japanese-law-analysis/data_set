@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 10,
+    "day": 30
+  },
+  "case_number": "昭和27(あ)3315",
+  "case_name": "窃盗未遂",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第87号1041頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 4,
+    "day": 10
+  },
+  "gist": "控訴審における検察官申請による証人尋問に被告人が立ち会わなかつたことと憲法第三七条第二項",
+  "case_gist": "原審は第一回公判で検察官の申請による証人Ａの尋問申請を採用し、同第三回公判で同証人を尋問し、しかもその供述を事実認定の資料に供したこと、並びに右証人尋問が行われた公判には被告人が出頭しておらず、且つその後においても特に被告人に対し右証人の供述内容を知らせる手続を執らなかつたことは所論のとおりである。しかしながら本件では被告人に対し前記第三回公判期日の告知は、適法になされ、且つ被告人の弁護人は同公判期日に出頭し、右証人に対し尋問していることは記録上明らかであつて、原審が被告人の反対尋問権の行使を妨げた形跡は記録上認められないのであるから原審の訴訟手続に所論の違法はない。",
+  "ref_law": "憲法37条2項，刑訴法393条",
+  "lawsuit_id": "72465",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=72465",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/465/072465_hanrei.pdf"
+}

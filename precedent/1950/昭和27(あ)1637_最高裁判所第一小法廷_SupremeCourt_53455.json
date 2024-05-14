@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 4,
+    "day": 30
+  },
+  "case_number": "昭和27(あ)1637",
+  "case_name": "地方税法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第7巻4号909頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 12,
+    "day": 17
+  },
+  "gist": "栃木県税賦課徴収条例六八条同二七条二項の適法性",
+  "case_gist": "栃木県税賦課徴収条例六八条は旧地方税法三六条の委任に基くものであり同条令二七条二項は同法七五条の委任に基いて定められたものと解すべきである。",
+  "ref_law": "栃木県税賦課徴収条例（昭和23年条例23号）68条，栃木県税賦課徴収条例（昭和23年条例23号）27条2項，旧地方税法36条，旧地方税法75条",
+  "lawsuit_id": "53455",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53455",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/455/053455_hanrei.pdf"
+}

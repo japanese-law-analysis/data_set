@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 4,
+    "day": 15
+  },
+  "case_number": "昭和31(オ)843",
+  "case_name": "徳島市議会議員選挙無効等",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第12巻5号805頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 6,
+    "day": 14
+  },
+  "gist": "一　選挙に関する不正行為に直接関与した者の申し立てた選挙の効力に関する異議の適否\n二　選挙事務従事者がした投票の不正混入および抜取と選挙の効力",
+  "case_gist": "一　選挙に関する不正行為に関与した者が申し立てた選挙の効力に関する異議であつても、その申立の理由が右不正行為にあるのではない場合には、異議の審理の結果右不正行為が明らかになつたとしても、不適法とはいえない\n二　選挙事務従事者が投票の不正混入抜取をした違法があるときは、その数が確定でき結果に異動を及ぼす虞がないことの明白な場合のほか、その選挙はこれを無効とすべきである",
+  "ref_law": "公職選挙法202条，公職選挙法205条",
+  "lawsuit_id": "54836",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54836",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/836/054836_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 7,
+    "day": 17
+  },
+  "case_number": "昭和27(あ)1064",
+  "case_name": "貸金業等の取締に関する法律違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第85号15頁",
+  "original_court_name": "大阪地方裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 12,
+    "day": 6
+  },
+  "gist": "貸金業等の取締に関する法律第五条にいわゆる貸金業の範囲",
+  "case_gist": "貸金業等の取締に関する法律第五条の規定は、同法施行前から引き続き貸金業を行つている者が、同法附則第二項所定の期間内に同法第三条の規定による届出書を大蔵大臣に提出しなかつた者が、右期間経過後に更に貸金業を継続する傍ら同法施行前の貸金債権の利息等を受領する行為にも適用されるものと解すべきである。",
+  "ref_law": "貸金業等の取締に関する法律2条，貸金業等の取締に関する法律3条，貸金業等の取締に関する法律5条，貸金業等の取締に関する法律18条1号，貸金業等の取締に関する法律附則1項，貸金業等の取締に関する法律附則2項，貸金業等の取締に関する法律附則3項",
+  "lawsuit_id": "64827",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64827",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/827/064827_hanrei.pdf"
+}

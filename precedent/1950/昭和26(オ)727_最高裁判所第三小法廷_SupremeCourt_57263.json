@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 2,
+    "day": 2
+  },
+  "case_number": "昭和26(オ)727",
+  "case_name": "家屋造作費用、賃貸料並家屋復旧請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第8巻2号321頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 9,
+    "day": 26
+  },
+  "gist": "賃借家屋の改造と賃借人の原状回復義務",
+  "case_gist": "賃貸借の目的たる家屋を工場に改造して使用することが、特に賃貸借契約の内容となつているときは、特約なきかぎり、賃借人には改造家屋につき原状回復義務はない。",
+  "ref_law": "民法616条，民法598条",
+  "lawsuit_id": "57263",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57263",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/263/057263_hanrei.pdf"
+}

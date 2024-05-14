@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 6,
+    "day": 3
+  },
+  "case_number": "昭和28(あ)5477",
+  "case_name": "私文書偽造、詐欺、業務上横領",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第96号73頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 7,
+    "day": 14
+  },
+  "gist": "私文書偽造、行使、詐欺（処断上一罪）の起訴に対し、訴因罰条の変更手続を経ないで、一部につき有罪を認定せず且つ有罪認定の態様を変えて詐欺、私文書偽造（併合罪）と認定することは違法か",
+  "case_gist": "処断上一罪として起訴したと認められる私文書（イ）（ロ）の各偽造、同行使、詐欺の公訴事実に対し、訴因罰条の変更手続を経ないで、一部につき有罪を認定せず且つ有罪認定の態様を変えて詐欺及び（イ）の私文書偽造のみを認定しても被告人の防禦に実質的な不利益を生ずる虞れのない場合には訴因、罰条の変更をする必要はない。",
+  "ref_law": "刑訴法256条，刑訴法312条",
+  "lawsuit_id": "69457",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=69457",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/457/069457_hanrei.pdf"
+}

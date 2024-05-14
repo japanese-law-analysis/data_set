@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 12,
+    "day": 3
+  },
+  "case_number": "昭和26(ク)231",
+  "case_name": "示談金請求事件、発動機返還並損害賠償請求事件に対する抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "却下",
+  "article_info": "集民　第5号1027頁",
+  "original_court_name": "広島地方裁判所\n        　尾道支部",
+  "original_case_number": "昭和22(ワ)55",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 8,
+    "day": 19
+  },
+  "lawsuit_id": "73882",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=73882",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/882/073882_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 4,
+    "day": 5
+  },
+  "case_number": "昭和32(す)223",
+  "case_name": "少年院送致決定に対する抗告棄却決定に対する再抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第118号775頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 2,
+    "day": 21
+  },
+  "gist": "少年を中等少年院に送致する旨の保護処分決定は教育基本法第三条第一項に違反するか",
+  "case_gist": "論旨の主張する、原決定（少年を中等少年院に送致する旨の保護処分決定）の結果として、事実上、本件少年が所論主張の高等学校教育を受ける機会を失うというようなことは、教育基本法三条一項所定の事由によつて差別的待遇を受けることに該当するものではない。",
+  "ref_law": "少年法24条1項，教育基本法3条1項，憲法26条1項",
+  "lawsuit_id": "58661",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58661",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/661/058661_hanrei.pdf"
+}

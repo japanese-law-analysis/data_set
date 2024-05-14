@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 5,
+    "day": 19
+  },
+  "case_number": "昭和24(れ)2484",
+  "case_name": "賭場開張封助、賭博、賭場開張",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第4巻5号829頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 6,
+    "day": 8
+  },
+  "gist": "軍鷄賭博において傷代蓆代等の名義で徴收せられた金錢の歸屬",
+  "case_gist": "一体軍鷄賭博で賭場開帳者が傷代蓆代、等の名義で鷄博の勝者から一定率の金錢を徴收した場合には、むしろかえつて、特段の事情がない限りその徴收金は一應賭場開帳者の利に歸するものであるとみるのが社會通念であつて、特別の判示を要しないこと一般の賭博における寺錢等と異らない。そして又その金錢が夫々軍鷄所有者、蓆所有者等に軍鷄の傷代なり蓆の損料なりとして支拂われるとしても、金額は勝負の都度勝利者の取得する金錢から一定歩合で取立てられるのであるから、その時の賭金の多寡により必ずしも一定せず、場合によつては全額支出現實の利益がないこともあろうが、それを以つて賭場開帳者に當初から圖利の意思がなかつたものということはできない。",
+  "ref_law": "刑法185條，刑法186條2項",
+  "lawsuit_id": "56672",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56672",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/672/056672_hanrei.pdf"
+}

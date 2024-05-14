@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 12,
+    "day": 18
+  },
+  "case_number": "昭和24(れ)1410",
+  "case_name": "強姦致傷",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第70号619頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 6,
+    "day": 29
+  },
+  "gist": "強姦致傷罪の事実を認定した原判決に対して為された、単純強姦罪の事実を前提とする弁護人の主張に対する判断の要否",
+  "case_gist": "所論は、弁護人は原審において「本件は単純強姦罪と認むべきであつて、被害者の告訴が取下げられた以上免訴すべきものである」旨公訴権消滅免訴の原由たる主張をしたから、原審はこれに対する判断を示すべきであつたにかかわらずこれを示さなかつた違法があると言うのである。しかしながら、右弁護人の主張は単純強姦罪の事実を前提とするものであるが、原判決は強姦致傷罪の事実を認定判示することによつて、単純強姦罪の事実を否認し、従つてこれを前提とする弁護人の主張全部を否定していることは明白であるから所論は理由がない。",
+  "ref_law": "旧刑訴法360条2項，旧刑訴法410条19号，刑法177条，刑法180条，刑法181条",
+  "lawsuit_id": "74835",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74835",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/835/074835_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 11,
+    "day": 25
+  },
+  "case_number": "昭和26(あ)193",
+  "case_name": "酒税法違反",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第7巻11号2288頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 10,
+    "day": 19
+  },
+  "gist": "国税犯則取締法第一四条は、憲法第一四条に違反するか",
+  "case_gist": "国税犯則取締法第一四条は、憲法第一四条に違反しない。",
+  "ref_law": "憲法14条，国税犯則取締法14条",
+  "lawsuit_id": "55593",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55593",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/593/055593_hanrei.pdf"
+}

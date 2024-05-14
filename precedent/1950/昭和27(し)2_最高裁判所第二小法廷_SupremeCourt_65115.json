@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 10,
+    "day": 31
+  },
+  "case_number": "昭和27(し)2",
+  "case_name": "覚せい剤取締法違反被告事件に関し上訴権回復請求却下決定に対する抗告棄却の決定に対する特別抗告の申立",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第68号849頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 12,
+    "day": 12
+  },
+  "gist": "控訴審の弁護人として選任された弁護士は、控訴申立に関しては刑訴法第三六二条にいわゆる被告人の代人か",
+  "case_gist": "控訴審の弁護人として選任された弁護士は控訴申立に関しては刑訴三六二条にいわゆる被告人の代人と解すべきものである。",
+  "ref_law": "刑訴法362条",
+  "lawsuit_id": "65115",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=65115",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/115/065115_hanrei.pdf"
+}

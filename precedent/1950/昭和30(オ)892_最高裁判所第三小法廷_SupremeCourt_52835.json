@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 6,
+    "day": 17
+  },
+  "case_number": "昭和30(オ)892",
+  "case_name": "企業再建整備計画認可無効確認請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第12巻10号1505頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 8,
+    "day": 27
+  },
+  "gist": "企業再建整備法第一四条第一項による公告の方法",
+  "case_gist": "企業再建整備法第一四条第一項によつて特別経理会社の特別管理人がする公告は、会社の定款で定める方法によるべきではなく、同法施行規則第九条第三項によつて店頭掲示の方法によるべきである",
+  "ref_law": "企業再建整備法14条，企業再建整備法55条，企業再建整備法施行規則9条，商法166条1項",
+  "lawsuit_id": "52835",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52835",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/835/052835_hanrei.pdf"
+}

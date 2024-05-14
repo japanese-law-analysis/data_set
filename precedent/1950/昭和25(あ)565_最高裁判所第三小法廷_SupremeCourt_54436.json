@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 12,
+    "day": 26
+  },
+  "case_number": "昭和25(あ)565",
+  "case_name": "傷害致死",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第4巻12号2636頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 12,
+    "day": 9
+  },
+  "gist": "精神鑑定申請の却下と憲法第三七条第二項",
+  "case_gist": "弁護人のした被告人の精神鑑定の申請を却下したからといつて、憲法第三七条第二項に違反しない。",
+  "ref_law": "憲法37条2項，刑訴法298条",
+  "lawsuit_id": "54436",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54436",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/436/054436_hanrei.pdf"
+}

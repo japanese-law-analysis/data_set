@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 6,
+    "day": 14
+  },
+  "case_number": "昭和28(あ)3564",
+  "case_name": "私文書毀棄、私文書偽造、同行使、公正証書原本不実記載、同行使、詐欺未遂",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第106号85頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 6,
+    "day": 22
+  },
+  "gist": "刑訴第二〇条七号に当らない一事例  ―民事々件に関与したる裁判官がそれと関連ある刑事々件の判決宣告への関与―",
+  "case_gist": "所論判事は、本件犯罪の捜査、第一審、第二審を通じ、ただ第二審第二回公判の判決宣告に関与したのみに過ぎない。従つて、同判事が関与した民事裁判が本件第一審判決における事実認定の証拠に採用されたからといつて、同判事が除斥されるべき職務の執行をしたものということはできない。",
+  "ref_law": "刑訴法20条7号",
+  "lawsuit_id": "60523",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60523",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/523/060523_hanrei.pdf"
+}

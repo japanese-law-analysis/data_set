@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 9,
+    "day": 10
+  },
+  "case_number": "昭和27(オ)726",
+  "case_name": "金員返還、損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第8巻9号1589頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 6,
+    "day": 16
+  },
+  "gist": "将来成立しない場合は返還を受くべき約旨の下に将来成立すべき賃借権の対価として金員を交付した場合と不法原因給付",
+  "case_gist": "将来不成立の場合は返還を受くべき約旨の下に将来成立すべき賃借権の対価として金員を交付した場合において、その賃借権が不成立に終つたときは、その金員の交付をもつて権利金の交付と目すべきでなくこれをもつて直ちに不法原因給付ということはできない。",
+  "ref_law": "民法708条，地代家賃統制令12条の2",
+  "lawsuit_id": "57342",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57342",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/342/057342_hanrei.pdf"
+}

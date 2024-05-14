@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 11,
+    "day": 27
+  },
+  "case_number": "昭和32(ヤ)12",
+  "case_name": "競落許可決定の抗告棄却決定に対する抗告事件につきなした抗告却下決定に対する再審",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "却下",
+  "article_info": "集民　第28号871頁",
+  "original_court_name": "最高裁判所",
+  "original_case_number": "昭和32(ク)78",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 6,
+    "day": 11
+  },
+  "lawsuit_id": "77567",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77567",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/567/077567_hanrei.pdf"
+}

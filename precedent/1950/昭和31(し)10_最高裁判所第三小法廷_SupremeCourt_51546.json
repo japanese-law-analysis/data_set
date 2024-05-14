@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 6,
+    "day": 5
+  },
+  "case_number": "昭和31(し)10",
+  "case_name": "裁判官忌避申立却下決定に対する即時抗告につきなした決定に対する特別抗告",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第10巻6号805頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 1,
+    "day": 25
+  },
+  "gist": "地方裁判所の一人の裁判官が刑訴第二四条によりした忌避申立却下の裁判に対し高等裁判所に即時抗告の申立があつた場合の措置。",
+  "case_gist": "地方裁判所の一人の裁判官が刑訴第二四条によりした忌避申立却下の裁判に対し地方裁判所に即時抗告の申立があつた場合には、同裁判所は刑訴第四二六条第一項前段により不適法として右抗告を棄却すべきものである。",
+  "ref_law": "刑訴法24条，刑訴法25条，刑訴法426条1項，刑訴法429条1項1号",
+  "lawsuit_id": "51546",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51546",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/546/051546_hanrei.pdf"
+}

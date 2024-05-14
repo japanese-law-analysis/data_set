@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 6,
+    "day": 14
+  },
+  "case_number": "昭和31(オ)1083",
+  "case_name": "家屋明渡等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第32号231頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 9,
+    "day": 21
+  },
+  "gist": "家屋台帳の証拠力",
+  "case_gist": "家屋台帳の記載上、所有者が当初から原告である旨記載されている以上、反証なきかぎり、その記載内容は真実であると推定すべきものであつて、昭和一九年四月建築したものが、昭和二一年一〇月にその新築申告がなされ、その間相当の隔りがあるというだけのことで、右の推定を覆すに足りる反証とすることはできない",
+  "ref_law": "民訴法第185条，家屋台帳法第4条",
+  "lawsuit_id": "63095",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63095",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/095/063095_hanrei.pdf"
+}

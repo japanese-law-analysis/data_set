@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 12,
+    "day": 14
+  },
+  "case_number": "昭和28(あ)5314",
+  "case_name": "賍物故買、賍物牙保",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第9巻13号2771頁",
+  "original_court_name": "福岡高等裁判所\n        　宮崎支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 11,
+    "day": 11
+  },
+  "gist": "裁判官の職務代行については管内の住民に周知させる手続を採らなければならないか",
+  "case_gist": "裁判所法第三六条第一項にもとずき地裁がその地方裁判所の判事に簡易裁判所の裁判官の職務を行わせる場合において、管内の住民にこれを周知させる手続を採ることは、法の要求するところでない。",
+  "ref_law": "裁判所法36条1項",
+  "lawsuit_id": "56887",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56887",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/887/056887_hanrei.pdf"
+}

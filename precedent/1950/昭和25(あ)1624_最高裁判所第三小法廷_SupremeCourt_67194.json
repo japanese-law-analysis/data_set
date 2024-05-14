@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 6,
+    "day": 3
+  },
+  "case_number": "昭和25(あ)1624",
+  "case_name": "差押評示無効",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第65号13頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 6,
+    "day": 1
+  },
+  "gist": "封印又は差押の標示された物自体を損壊する場合と刑法第九六条及び第二六二条の両罪の成立",
+  "case_gist": "論旨引用の大審院大正五年（れ）第二八七七号同六年二月六日宣告の判決は執達吏が強制執行のため差押をなし封印を施した穀類の一部を窃取し封印を破棄した事案に関するものであるが、別段刑法九六条の罪の成立を否定したものではなく、却つて同罪と窃盗罪の両罪の成立を認めた趣旨である。そして、原判決も封印又は差押の標示された物自体を損壊することによつて他人の権利を害し同時に封印又は差押の標示を無効ならしめた場合には刑法九六条の罪と同法二六二条の罪の両罪が成立する旨判決していることは判文上極めて明かであつて、前記大審院の判決と何ら相牴触するものではない。",
+  "ref_law": "刑法96条，刑法262条",
+  "lawsuit_id": "67194",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=67194",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/194/067194_hanrei.pdf"
+}

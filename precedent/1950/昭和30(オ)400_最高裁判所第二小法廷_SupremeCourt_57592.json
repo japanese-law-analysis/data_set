@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 12,
+    "day": 28
+  },
+  "case_number": "昭和30(オ)400",
+  "case_name": "農地買収処分取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第10巻12号1627頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 2,
+    "day": 28
+  },
+  "gist": "自作農創設特別措置法（昭和二一年法律第四三号）附則第二項にいう「昭和二〇年一一月二三日現在における事実に基いて……農地買収計画を定める」ということの意義",
+  "case_gist": "自作農創設特別措置法（昭和二一年法律第四三号）附則第二項に「昭和二〇年一一月二三日現在における事実に基いて……農地買収計画を定める」とあるのは、昭和二〇年一一月二三日以後地区農地委員会の設置により農地委員会の管轄区域が変更された場合において、不在地主かどうかを同日現在の管轄区域を基準として決定すべき趣旨を含むものではない。",
+  "ref_law": "自作農創設特別措置法（昭和21年法律43号、昭和22年法律241号による改正前のもの）附則2項，自作農創設特別措置法（昭和21年法律43号、昭和22年法律241号による改正前のもの）48条",
+  "lawsuit_id": "57592",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57592",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/592/057592_hanrei.pdf"
+}

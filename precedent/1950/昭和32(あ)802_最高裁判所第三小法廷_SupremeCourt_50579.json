@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 6,
+    "day": 17
+  },
+  "case_number": "昭和32(あ)802",
+  "case_name": "傷害致死、傷害、銃砲刀剣類所持取締令違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第12巻10号2142頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 1,
+    "day": 26
+  },
+  "gist": "共謀による傷害致死罪が成立する事例",
+  "case_gist": "Ａ方を襲撃して暴行を加えることを共謀した者は、右共謀にもとづく襲撃の結果連行されたＡを、実行担当者がさらに某所で殴りつけることを謀議してこれを実行した事実を知らなかつたとしても、その暴行の結果生じたＡの死亡につき傷害致死罪の責任を免れない",
+  "ref_law": "刑法205条1項，刑法60条",
+  "lawsuit_id": "50579",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50579",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/579/050579_hanrei.pdf"
+}

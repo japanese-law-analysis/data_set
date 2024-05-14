@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 11,
+    "day": 1
+  },
+  "case_number": "昭和30(オ)247",
+  "case_name": "抵当権設定契約無効確認等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第11巻12号1832頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 11,
+    "day": 19
+  },
+  "gist": "一部の債権者に対する根抵当権の設定と詐害行為の成否",
+  "case_gist": "債務者が、他の債権者に十分な弁済をなし得ないためその利益を害することになることを知りながら、ある債権者のために根抵当権を設定する行為は、詐害行為にあたるものと解すべきである。",
+  "ref_law": "民法424条",
+  "lawsuit_id": "57577",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57577",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/577/057577_hanrei.pdf"
+}

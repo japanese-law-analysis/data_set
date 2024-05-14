@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 12,
+    "day": 24
+  },
+  "case_number": "昭和25(オ)71",
+  "case_name": "仮処分請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第7巻12号1401頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 2,
+    "day": 23
+  },
+  "gist": "一　土地の使用収益を目的とする債権に基く妨害排除請求の許否\n二　仮処分申請を理由なしとして却下した裁判と民訴第七四一条第二項",
+  "case_gist": "一　土地の使用収益をなすべき契約上の債権に基き、第三者に対し直接妨害排除の請求をすることはできない。\n二　仮処分申請を理由なしとして却下した以上、保証を立ててもなお仮処分を命ずべからずと判断したものと解すべきである。",
+  "ref_law": "民法第3編第1章，民訴法741条2項",
+  "lawsuit_id": "56038",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56038",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/038/056038_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 4,
+    "day": 24
+  },
+  "case_number": "昭和25(れ)1443",
+  "case_name": "強盜致死、窃盜",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第44号407頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 12,
+    "day": 27
+  },
+  "gist": "被告人の精神状態について異常の有無の判断と鑑定の要否",
+  "case_gist": "原審は被告人の原審公判廷の供述及びその態度並びに訴訟記録その他諸般の情況に照らし被告人の精神状態に所論のような異常がないと判断しているのである。そうして事実審裁判所が被告人の犯行当時における精神状態について疑のない程度にその認識を得た場合にはわざわざ専門家に鑑定させてその結果を判断の資料に供する必要はないのである。（昭和二三年（れ）第一、四二二号同二四年二月八日第二小法廷判決参照）。",
+  "ref_law": "旧刑訴法219条，旧刑訴法337条",
+  "lawsuit_id": "71446",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=71446",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/446/071446_hanrei.pdf"
+}

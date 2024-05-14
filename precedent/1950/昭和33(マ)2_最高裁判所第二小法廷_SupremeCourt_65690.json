@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 1,
+    "day": 17
+  },
+  "case_number": "昭和33(マ)2",
+  "case_name": "判決補正申立",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "却下",
+  "article_info": "集民　第30号99頁",
+  "original_court_name": "最高裁判所",
+  "original_case_number": "昭和31(オ)608",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 12,
+    "day": 20
+  },
+  "lawsuit_id": "65690",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=65690",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/690/065690_hanrei.pdf"
+}

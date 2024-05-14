@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 7,
+    "day": 19
+  },
+  "case_number": "昭和29(あ)2062",
+  "case_name": "関税法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第11巻7号1987頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 3,
+    "day": 25
+  },
+  "gist": "密輸出未遂罪の成立する事例",
+  "case_gist": "政府の免許を受けないで貨物を韓国へ密輸出しようと企て、門司市田の浦海上附近で韓国向けの韓国船に貨物を積み換える目的をもつて、宇品港で本邦船に貨物を積載、同港を出港、宇部港に寄港、同港を出港し、田の浦港に入港した際、門司市警察署員に検挙され、その目的を遂げなかつたときは、旧関税法第七六条第二項の密輸出未遂罪が成立する。",
+  "ref_law": "旧関税法76条2項，刑法43条本文",
+  "lawsuit_id": "51332",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51332",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/332/051332_hanrei.pdf"
+}

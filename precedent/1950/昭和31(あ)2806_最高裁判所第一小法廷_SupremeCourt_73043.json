@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 10,
+    "day": 8
+  },
+  "case_number": "昭和31(あ)2806",
+  "case_name": "恐喝、住居侵入、不法監禁",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第131号661頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 7,
+    "day": 2
+  },
+  "gist": "権利行使の方法が社会通念上一般に忍容すべきものと認められる程度を逸脱している事例",
+  "case_gist": "一　本件権利行使の方法が社会通念上一般に忍容すべきものと認められる程度を逸脱していると認むべきこと原判示のとおりである。\n二　（原審の認定事実の要旨）被告人ＡはＢに約二万円余を横領されその被害金の弁償を受けるまで同人所有家屋内の戸、障子等を担保にとつたところ、事情を知らない同人の妻Ｃが担保品を売却したことから躍起となつて、被告人Ｄ等と共謀し右Ｃ等に担保にとつと戸、障子を売つたからその代りに仏壇を貰つて行くと大声で怒鳴り、もしその要求が容れられないときはどうゆう危害を加えるかも知れないような態度を見せて右Ｃ等を畏怖させ、同家所有の仏壇一基を交付させた。",
+  "ref_law": "刑法249条",
+  "lawsuit_id": "73043",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=73043",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/043/073043_hanrei.pdf"
+}

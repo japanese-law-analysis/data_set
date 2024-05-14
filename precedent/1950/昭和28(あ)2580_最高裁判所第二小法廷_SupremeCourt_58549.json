@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 3,
+    "day": 14
+  },
+  "case_number": "昭和28(あ)2580",
+  "case_name": "関税法違反、昭和二四年政令第三八九号違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第123号637頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 4,
+    "day": 15
+  },
+  "lawsuit_id": "58549",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58549",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/549/058549_hanrei.pdf"
+}

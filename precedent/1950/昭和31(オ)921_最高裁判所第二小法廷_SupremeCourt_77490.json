@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 9,
+    "day": 27
+  },
+  "case_number": "昭和31(オ)921",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第27号1083頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 8,
+    "day": 3
+  },
+  "lawsuit_id": "77490",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77490",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/490/077490_hanrei.pdf"
+}

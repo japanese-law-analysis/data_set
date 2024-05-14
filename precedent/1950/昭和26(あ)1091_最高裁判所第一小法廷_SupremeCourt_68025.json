@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 2,
+    "day": 19
+  },
+  "case_number": "昭和26(あ)1091",
+  "case_name": "貿易等臨時措置令違反、関税法違反、外国人登録令違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第74号57頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 9,
+    "day": 25
+  },
+  "gist": "告発書の証拠能力について判例と相反する判断をしたものといえない一事例",
+  "case_gist": "原審判決が、本件第一審判決の判文全体の記載から合理的に見て、同判決が所論告発書を挙示したのは、その判示第一事実の罪となるべき事実の直接認定資料に供したものではなく、公訴提訴の手続の有効性の認定のためであると判示したときは、かかる告発書を証拠とすることは違法である旨判示した判例（昭和二五年二月一五日福岡高裁判決）と相反する判断をしたものとはいえない。",
+  "ref_law": "刑訴法405条，刑訴法335条",
+  "lawsuit_id": "68025",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=68025",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/025/068025_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 10,
+    "day": 16
+  },
+  "case_number": "昭和28(あ)168",
+  "case_name": "連合国占領軍財産等収受所持禁止令違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "刑集　第7巻10号1940頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 11,
+    "day": 10
+  },
+  "gist": "刑訴第四一一条第一号にあたる一事例（前科の誤認の場合）",
+  "case_gist": "大赦令により赦免された罪に科せられた懲役刑を前科と認定して累犯加重をした法令違反は、刑訴第四一一条第一号の場合にあたる。",
+  "ref_law": "恩赦法3条，昭和27第政令117号大赦令1条83号，昭和27第政令117号大赦令1条117号，刑法56条，刑法57条，刑訴法411条1号",
+  "lawsuit_id": "55726",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55726",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/726/055726_hanrei.pdf"
+}

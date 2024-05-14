@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 4,
+    "day": 11
+  },
+  "case_number": "昭和31(あ)3408",
+  "case_name": "贈賄、食糧管理法違反、業務上過失致死",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第11巻4号1360頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 8,
+    "day": 9
+  },
+  "gist": "運転免許停止中の自動車運転手と業務上過失致死の罪",
+  "case_gist": "自動車運転免許一時停止処分を受けていて法令に定められた運転資格がない場合においても、自動三輪車を運転し、自己の不注意によりて他人を死に致した者は、業務上過失致死の罪責を免れない。",
+  "ref_law": "刑法211条",
+  "lawsuit_id": "50512",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50512",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/512/050512_hanrei.pdf"
+}

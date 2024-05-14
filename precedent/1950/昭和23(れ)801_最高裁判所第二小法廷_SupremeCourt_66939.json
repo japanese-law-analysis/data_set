@@ -1,0 +1,24 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 12,
+    "day": 15
+  },
+  "case_number": "昭和23(れ)801",
+  "case_name": "公文書変造、変造公文書行使、物価統制令違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第37号729頁",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 3,
+    "day": 22
+  },
+  "lawsuit_id": "66939",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66939",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/939/066939_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 5,
+    "day": 10
+  },
+  "case_number": "昭和30(オ)155",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第11巻5号715頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 12,
+    "day": 8
+  },
+  "gist": "不法行為における過失の認定の当否",
+  "case_gist": "甲事実および乙事実がともに診療行為上の過失となすに足るものである以上、裁判所が甲または乙のいずれかについて過誤があつたものと推断しても、過失の事実認定として不明または未確定というべきではない。",
+  "ref_law": "民法709条",
+  "lawsuit_id": "57563",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57563",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/563/057563_hanrei.pdf"
+}

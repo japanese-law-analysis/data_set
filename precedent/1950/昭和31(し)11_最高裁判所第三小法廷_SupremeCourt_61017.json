@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 3,
+    "day": 27
+  },
+  "case_number": "昭和31(し)11",
+  "case_name": "強盗殺人被告事件の有罪の確定判決に対する再審請求事件についてなした再審請求棄却決定に対する即時抗告につきなした抗告棄却の決定に対する特別抗告",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第112号841頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 12,
+    "day": 23
+  },
+  "gist": "刑落第四三五条六号にもとずく再審の請求と証人の取調",
+  "case_gist": "刑訴四三五条六号にもとずく再審の請求にあたり、あらたに発見した証拠として証人の取調を求めている場合でも、再審の請求が理由があるかどうかを判断するためには、必ずその証人の取調をしなければならないものではないことは、当裁判所の判例とするところである。（昭和二八年（し）第一二号同年一一月二四日第三小法廷決定、集七巻一一号二二八三頁昭和二九年（し）六〇号同年一一月二二日第二小法廷決定集八巻一一号一八五七頁参照）",
+  "ref_law": "刑訴法435条6号，刑訴法445条，刑訴法43条3項",
+  "lawsuit_id": "61017",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61017",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/017/061017_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 6,
+    "day": 11
+  },
+  "case_number": "昭和27(オ)9",
+  "case_name": "動産及び不動産引渡等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第8巻6号1055頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 12,
+    "day": 7
+  },
+  "gist": "控訴及び控訴取下の能力",
+  "case_gist": "成年後も一二、三歳程度の精神能力しかなく、控訴の取下により敗訴の確定判決が執行され、そのため自己の生活の根拠が脅かされる結果を生じることを理解できない者のなした控訴の取下は無効であるが、控訴の提起は有効と解すべきである。",
+  "ref_law": "民訴法45条",
+  "lawsuit_id": "57363",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57363",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/363/057363_hanrei.pdf"
+}

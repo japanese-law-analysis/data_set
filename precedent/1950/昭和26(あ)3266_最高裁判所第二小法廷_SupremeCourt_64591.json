@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 4,
+    "day": 30
+  },
+  "case_number": "昭和26(あ)3266",
+  "case_name": "食糧管理法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第79号633頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 7,
+    "day": 25
+  },
+  "gist": "第一審裁判所が懲役刑につき誤つてその執行を猶予したが控訴中に執行を猶予しうる状態が生じた場合と控訴裁判所の量刑",
+  "case_gist": "第一審裁判所が禁錮以上の刑に処せられてその執行を終つた日から七年を経過しない者に対し、誤つて懲役刑に執行猶予を付したが、控訴中に七年を経過した場合、控訴裁判所が第一審判決を破棄した上、更めて実刑を科することは違法ではない。",
+  "ref_law": "刑法25条，刑訴法380条，刑訴法397条，刑訴法400条",
+  "lawsuit_id": "64591",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64591",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/591/064591_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 5,
+    "day": 4
+  },
+  "case_number": "昭和25(れ)1905",
+  "case_name": "収賄",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第45号125頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 9,
+    "day": 29
+  },
+  "gist": "証拠調に関する公判調書の記載の解釈",
+  "case_gist": "原審第一回公判調書によれば「裁判長は本件証拠として各原審公判調書各訊問調書各聴取書各領置書各顛末書被告人の履歴書その他関係書類一切の要旨を告げ」証拠調をした旨の記載のあることは所論指摘のとおりである。そして右の内の「その他関係書類一切」という部分の記載は、証拠能力ある「各原審公判調書各訊問調書各聴取書」の内に引用されている逮捕状強制処分請求書及び公判請求書等を指す趣旨の記載であることはこれを了解するに十分であつて、所論のように、証拠関係の有無に拘わらず「一件記録中の一切の書類」につき証拠調手続としての各要旨を告げた趣旨の記載とは、到底解することはできない。",
+  "ref_law": "旧刑訴法60条，旧刑訴法64条，旧刑訴法340条",
+  "lawsuit_id": "67942",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=67942",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/942/067942_hanrei.pdf"
+}

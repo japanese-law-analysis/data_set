@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 6,
+    "day": 9
+  },
+  "case_number": "昭和26(み)5",
+  "case_name": "窃盗等被告事件につき最高裁判所判決に対する判決訂正の申立等",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第5巻7号1267頁",
+  "original_court_name": "最高裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 4,
+    "day": 18
+  },
+  "gist": "最高裁判所の判決に対する判決訂正申立期間の延長の申立の期間",
+  "case_gist": "昭和二六年四月一八日当裁判所大法廷の言渡した判決に対し、被告人から同年五月一六日判決訂正の申立及び右申立期間延長の申出があつたが、右申立はいずれも刑訴法第四一五条に従つて判決の宣告があつた日から一〇日以内にしなければならないから、期間経過後の本件申立は不敵法である。",
+  "ref_law": "刑訴法415",
+  "lawsuit_id": "54632",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54632",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/632/054632_hanrei.pdf"
+}

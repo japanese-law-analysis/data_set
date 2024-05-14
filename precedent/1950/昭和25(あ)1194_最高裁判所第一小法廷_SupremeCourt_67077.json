@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 3,
+    "day": 15
+  },
+  "case_number": "昭和25(あ)1194",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第41号625頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 3,
+    "day": 31
+  },
+  "gist": "第一審判決の認定と異る事実を前提として第一審判決及び原判決の判例違反を主張する上告の適否",
+  "case_gist": "被告人には他の共犯者との間に相互の意思連絡がないことを前提として、原判決が最高裁判所の判例に違反すると主張するのである。しかし、第一審判決の掲げる証拠によれば同判決認定の事実は十分認められ、同判決は被告人と他の共犯者との間には相互する意思の連絡のあつたことを認定している。すなわち、所論判例（昭和二三年（れ）第一六六八号同二四年二月四日第二小法廷判決参照）にいわゆる共同犯行の認識があつた事実を認定しているのである。されば所論は、第一審判決の認定と異る事実を前提とする主張であつて、第一審判決及びこれを是認した原判決は何等前記判例に反する判断をしたものと言うことはできない。",
+  "ref_law": "刑訴法405条2号",
+  "lawsuit_id": "67077",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=67077",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/077/067077_hanrei.pdf"
+}

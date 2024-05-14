@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 6,
+    "day": 15
+  },
+  "case_number": "昭和26(れ)67",
+  "case_name": "傷害致死",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第5巻7号1269頁",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 11,
+    "day": 20
+  },
+  "gist": "数個の証拠を綜合して事実を認定した場合そのうちの一証拠が証拠調を経ていなくても判決破棄の理由とならない事例",
+  "case_gist": "原判決が右司法警察吏の捜査報告書の記載を証拠としたのは、専ら被害者Ａの死亡した日時及び場所が判示のとおりである事実のみを認定するためであつて、その他の判示事実には閑連のないものであることは原判決自体に徴し明らかである。そして、傷害致死の罪において殺害者の死亡した日時場所は罪となるべき事実ではなく、従つて適法に証拠調を経た証拠によつてこれを認定しなければならないものではないのであるから、所論捜査報告書については証拠調の手続がなされていないからといつて原判決破棄の理由とならない。",
+  "ref_law": "旧刑訴法336條，旧刑訴法360條1項，旧刑訴法410條19號",
+  "lawsuit_id": "54672",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54672",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/672/054672_hanrei.pdf"
+}

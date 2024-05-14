@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 5,
+    "day": 11
+  },
+  "case_number": "昭和24新(れ)375",
+  "case_name": "物価統制令違反、臨時物資需給調整法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第4巻5号765頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 9,
+    "day": 26
+  },
+  "gist": "具体的に摘示してない判例違反の主張と刑訴規則第二五三條",
+  "case_gist": "所論は、所論にいわゆる從來の大審院判例なるものを毫も具体的に摘示していないから、原判決が如何なる大審院の判例と相反する判斷をしているのかこれを判定するに由がなく、從つて、刑訴規則二五三條に違反し採ることができない。",
+  "ref_law": "刑訴法405條3號，刑訴規則253條",
+  "lawsuit_id": "56747",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56747",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/747/056747_hanrei.pdf"
+}

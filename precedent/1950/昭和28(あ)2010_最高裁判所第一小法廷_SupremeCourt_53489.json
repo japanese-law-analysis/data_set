@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 4,
+    "day": 15
+  },
+  "case_number": "昭和28(あ)2010",
+  "case_name": "虚偽公文書作成、同行使",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第8巻4号508頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 3,
+    "day": 5
+  },
+  "gist": "一　文書偽造罪における行使の目的の意義\n二　公文書の意義",
+  "case_gist": "一　文書偽造罪における行使の目的は、必ずしも本来の用法に従つて、これを真正なものとして使用することに限るものではなく、真正な文書としてその効用に役立たせる目的があれば足りる。\n二　公文書とは、公務所又は公務員がその名義をもつてその権限内において所定の形式に従い作成すべき文書を指し、実生活に交渉を有する事項の証明又は権利、義務に関する内容を有することを要するものではない。",
+  "ref_law": "刑法155条1項，刑法156条，刑法158条1項",
+  "lawsuit_id": "53489",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53489",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/489/053489_hanrei.pdf"
+}

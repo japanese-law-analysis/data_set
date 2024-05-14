@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 3,
+    "day": 5
+  },
+  "case_number": "昭和30(あ)2419",
+  "case_name": "窃盜",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第123号505頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 6,
+    "day": 7
+  },
+  "gist": "再犯につき刑法第五九条を適用した違法と刑訴法第四一一条",
+  "case_gist": "本件犯罪が（イ）の前科とは累犯の関係にあるが（ロ）の前科の仮出獄中の犯行である場合に、原判決が刑法第五九条を適用した違法であつても、刑訴第四一一条を適用すべき場合にあたらない。",
+  "ref_law": "刑法56条1項，刑法57条，刑法59条，刑訴法411条1号",
+  "lawsuit_id": "60805",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60805",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/805/060805_hanrei.pdf"
+}

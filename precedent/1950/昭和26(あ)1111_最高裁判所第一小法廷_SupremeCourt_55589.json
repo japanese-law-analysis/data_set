@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 11,
+    "day": 15
+  },
+  "case_number": "昭和26(あ)1111",
+  "case_name": "衆議院議員選挙法違反、同幇助",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第5巻12号2393頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 11,
+    "day": 11
+  },
+  "gist": "刑訴第三二一条第一項第二号但書の規定の趣旨",
+  "case_gist": "刑訴第三二一条第一項第二号但書の規定は、検察官の面前における供述を録取した書面を証拠とするにあたつては該書面の供述が右公判準備又は公判期日における供述より信用すべき特別の情況が存するか否かは結局事実審裁判所の裁量にまかされているものと解するのが相当である。",
+  "ref_law": "刑訴法321条1項2号",
+  "lawsuit_id": "55589",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55589",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/589/055589_hanrei.pdf"
+}

@@ -1,0 +1,24 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 10,
+    "day": 11
+  },
+  "case_number": "昭和25(あ)158",
+  "case_name": "公務執行妨害並びに傷害",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第54号687頁",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 12,
+    "day": 6
+  },
+  "lawsuit_id": "67189",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=67189",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/189/067189_hanrei.pdf"
+}

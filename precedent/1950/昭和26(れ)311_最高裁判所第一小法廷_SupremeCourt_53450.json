@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 1,
+    "day": 17
+  },
+  "case_number": "昭和26(れ)311",
+  "case_name": "脅迫",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第7巻1号5頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 12,
+    "day": 26
+  },
+  "gist": "前審関与の裁判官が職務の執行をした場合と判決破棄の要否",
+  "case_gist": "前審関与の裁判官が判決言渡期日の延期ならびに弁論再開および証人喚問の決定に関与した違法があつても、その後公判手続が更新され判決の基礎となつた審理ならびにその判決に関与していないときは、判決破棄の理由とならない。",
+  "ref_law": "旧刑訴法24条，旧刑訴法410条2号，旧刑訴法411条",
+  "lawsuit_id": "53450",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53450",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/450/053450_hanrei.pdf"
+}

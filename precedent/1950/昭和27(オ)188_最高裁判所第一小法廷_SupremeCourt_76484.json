@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 1,
+    "day": 24
+  },
+  "case_number": "昭和27(オ)188",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集民　第25号71頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 3,
+    "day": 4
+  },
+  "gist": "賃貸借の規定が適用されない貸店契約の一事例",
+  "case_gist": "貸店使用の事実関係（判決理由参照）からみて、借店人が貸店舗内の特定の場所の使用収益をなさしめることを請求できる独立の権利を有するものと認められないときは、その貸店契約については、賃貸借の規定の適用はないと解するのが相当である。",
+  "ref_law": "民法601条",
+  "lawsuit_id": "76484",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=76484",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/484/076484_hanrei.pdf"
+}

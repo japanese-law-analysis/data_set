@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 11,
+    "day": 18
+  },
+  "case_number": "昭和28(あ)4109",
+  "case_name": "公務員虚偽公文書作成、同行使、詐欺",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第9巻12号2470頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 4,
+    "day": 30
+  },
+  "gist": "予算の違法な現金化と詐欺罪",
+  "case_gist": "県財務事務所長らが、仮空の請求書にもとずき虚偽の支払確定通知書および支払通知書を作成行使して県支金庫係員を欺罔し現金を交付させる方法により、同事務所の予算を現金化した場合に、それが予算上の一切の拘束をはなれ交際費や接待費をふくむどんな用途にでもまつたく同人らの意のままに支配費消しうる違法な資金のプールを作る意図で常時大規模に行われたものであり、単なる財政法規違反としての予算の流用ないしは公金の移管の域にとどまるものとみることができないときは、たとえ私腹をこやしまたは私用に濫費することを本来の目的とするものでなくても、詐欺罪の成立を肯定しうる。",
+  "ref_law": "刑法246条1項",
+  "lawsuit_id": "56859",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56859",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/859/056859_hanrei.pdf"
+}

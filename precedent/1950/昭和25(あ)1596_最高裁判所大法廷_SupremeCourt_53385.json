@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 6,
+    "day": 10
+  },
+  "case_number": "昭和25(あ)1596",
+  "case_name": "賍物故買",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第7巻6号1404頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 5,
+    "day": 10
+  },
+  "gist": "執行猶予を言い渡された犯罪のいわゆる余罪についてさらに執行猶予を言い渡すことができるか",
+  "case_gist": "併合罪の関係に立つ数罪が前後して起訴され、後に犯した罪につき刑の執行猶予が言い渡されていた場合に、前に犯した罪が同時に審判されていたならば一括して執行猶予が言い渡されたであろうときは、前に犯した罪につきさらに執行猶予を言い渡すことができる。",
+  "ref_law": "刑法25条1号，刑法26条1項2号，刑法45条",
+  "lawsuit_id": "53385",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53385",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/385/053385_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 3,
+    "day": 17
+  },
+  "case_number": "昭和30(あ)2676",
+  "case_name": "業務上過失致死、道路交通取締法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第12巻4号581頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 7,
+    "day": 25
+  },
+  "gist": "一　道路交通取締法違反（無謀操縦）と業務上過失致死の各事実が公訴事実の同一性を欠く一事例\n二　道路交通取締法違反（無謀操縦）罪と業務上過失致死罪との間に牽連関係乃至一所為数法の関係が存しない場合",
+  "case_gist": "一　本件における道路交通取締法違反（無謀操縦）の事実と業務上過失致死の事実とは、公訴事実としては別個の事実であつて、公訴事実の同一性を認むべきではない。\n二　本件における道路交通取締法違反（無謀操縦）の罪と業務上過失致死罪とは別個独立の犯罪であつて、右両者の間には牽連関係ないし一所為数法の関係は存しない。",
+  "ref_law": "道路交通取締法28条1号，道路交通取締法7条1項，道路交通取締法2項，刑法54条1項，刑法211条，刑訴法256条，刑訴法312条1項",
+  "lawsuit_id": "50439",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50439",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/439/050439_hanrei.pdf"
+}

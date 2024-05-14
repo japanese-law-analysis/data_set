@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 8,
+    "day": 29
+  },
+  "case_number": "昭和27(あ)2432",
+  "case_name": "強盗殺人、死体遺棄",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第67号275頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 3,
+    "day": 15
+  },
+  "lawsuit_id": "64892",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64892",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/892/064892_hanrei.pdf"
+}

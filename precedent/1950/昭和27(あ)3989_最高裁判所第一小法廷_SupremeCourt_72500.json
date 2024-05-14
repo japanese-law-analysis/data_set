@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 10,
+    "day": 15
+  },
+  "case_number": "昭和27(あ)3989",
+  "case_name": "銃砲等所持禁止令違反、脅迫、窃盗、暴力行為等処罰ニ関スル法律違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集刑　第87号377頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 4,
+    "day": 1
+  },
+  "gist": "刑訴四一一条に当る一事例。第一審で確定した部分につき控訴審が更に審判したとき",
+  "case_gist": "原審が控訴審として既に第一審判決の確定によつて完結した銃砲等所持禁止令違反事件についてまで審判をなしたのは違法であり、刑訴四一一条一号に基きこの部分を破棄しなければ著しく正義に反するものといわなければならない。（そして、右銃砲等所持禁止令違反の点については、前示の如く第一審判決の確定により事件は完結し、その判決の効力が持続するのは当然であるから、本件ではこの点に関する原判決を破棄するのみで足るものと認める。）",
+  "ref_law": "憲法39条後段，刑訴法411条，刑訴法357条",
+  "lawsuit_id": "72500",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=72500",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/500/072500_hanrei.pdf"
+}

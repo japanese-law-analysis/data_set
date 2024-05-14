@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 3,
+    "day": 28
+  },
+  "case_number": "昭和24(れ)2654",
+  "case_name": "脅迫",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第4巻3号425頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 7,
+    "day": 6
+  },
+  "gist": "職務強要罪にあたる一事例",
+  "case_gist": "所論水増し課税や徴税目標額に基く課税方法が不當なものであつても、その課税方法竝に課税額等の變更をなさしむる爲め税務署係官を脅迫した場合は職務強要罪にあたる。",
+  "ref_law": "刑法95條2項",
+  "lawsuit_id": "56684",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56684",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/684/056684_hanrei.pdf"
+}

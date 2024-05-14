@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 4,
+    "day": 22
+  },
+  "case_number": "昭和25(あ)2869",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第63号389頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 9,
+    "day": 28
+  },
+  "gist": "証拠調前に被告人に対し公訴事実につき尋問しても釈明権行使の範囲を逸脱したことにならない例",
+  "case_gist": "記録について調べてみると、第一審公判において、裁判官、検察官及び弁護人と被告人との間に、所論の如き問答がなされ、検察官による質問に対しては、異議の申立があり、これが却下され検察官が質問を継続した経緯を認めることができる。しかし右の如き問答や経緯を検討してみても、その質問内容が所論のように、釈明権行使の範囲を遥かに逸脱し、争点を明らかにする必要の限度を越えたものであつて、裁判官に予断を生ぜしめるおそれのある違法の被告人尋問であるということはできない。",
+  "ref_law": "刑訴法291条，刑訴法311条",
+  "lawsuit_id": "67437",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=67437",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/437/067437_hanrei.pdf"
+}

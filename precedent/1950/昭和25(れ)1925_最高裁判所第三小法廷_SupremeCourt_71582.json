@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 4,
+    "day": 10
+  },
+  "case_number": "昭和25(れ)1925",
+  "case_name": "傷害、傷害致死",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第43号557頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 9,
+    "day": 11
+  },
+  "gist": "刑訴施行法第二条と刑訴応急措置法第一三条第二項の規定の効力",
+  "case_gist": "憲法施行前に公訴の提起のあつた事件については、新法施行後も、なお旧法及び応急措置法によるべきことは、刑訴施行法第二条の明定するところである。従つて新法施行後においても、旧刑訴法第四一二条の適用を排除する刑訴応急措置法第一三条第二項の規定は、旧法事件の処理については、なお有効に存続するのである。そして所論は結局量刑不当の主張に帰するから右応急措置法の規定によつて上告適法の理由となり得ない。",
+  "ref_law": "刑訴施行法2条，刑訴応急措置法13条2項",
+  "lawsuit_id": "71582",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=71582",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/582/071582_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 8,
+    "day": 28
+  },
+  "case_number": "昭和32(オ)1140",
+  "case_name": "強制執行異議",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第13巻10号1336頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 9,
+    "day": 12
+  },
+  "gist": "差押中の有体動産の占有改定の効力。",
+  "case_gist": "有体動産に対する占有権は、差押によつて失われるものではないからその動産の占有改定による引渡は、差押の存続する間、差押債権者に対抗できないにとどまるものと解すべきである。",
+  "ref_law": "民訴法566条，民法183条",
+  "lawsuit_id": "56215",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56215",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/215/056215_hanrei.pdf"
+}

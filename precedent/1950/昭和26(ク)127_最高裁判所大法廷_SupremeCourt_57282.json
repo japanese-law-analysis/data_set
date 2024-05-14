@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 3,
+    "day": 26
+  },
+  "case_number": "昭和26(ク)127",
+  "case_name": "仮処分事件の申請却下決定に対する再抗告",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "民集　第6巻3号378頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和26(ラ)37",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 5,
+    "day": 30
+  },
+  "gist": "非訟事件手続法第一二九条ノ四による抗告に同法第二一条により執行停止の効力を認めないことの合憲性",
+  "case_gist": "非訟事件手続法大一三二条ノ六によつてされた裁判に対し、同法第一二九条ノ四に基いて即時抗告をした場合には、同法第二一条によつて、執行停止の効力は生じない、とする解釈は、憲法第六章が審級制度を認めた精神に違反しない。",
+  "ref_law": "非訟事件手続法21条，非訟事件手続法129条ノ四，憲法76条1項",
+  "lawsuit_id": "57282",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57282",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/282/057282_hanrei.pdf"
+}

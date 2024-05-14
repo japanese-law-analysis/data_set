@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 10,
+    "day": 15
+  },
+  "case_number": "昭和26(オ)74",
+  "case_name": "文書偽造確定請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第7巻10号1083頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 11,
+    "day": 28
+  },
+  "gist": "請求が証書真否確認の訴の対象たる資格を欠く訴における請求の認諾の効力",
+  "case_gist": "請求が証書真否確認の訴の対象たる資格を欠く不適法な訴においてした請求の認諾は、訴訟法上の効力を生じない。",
+  "ref_law": "民訴法203条，民訴法225条",
+  "lawsuit_id": "57265",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57265",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/265/057265_hanrei.pdf"
+}

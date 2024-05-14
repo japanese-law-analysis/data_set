@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 10,
+    "day": 30
+  },
+  "case_number": "昭和27(あ)2939",
+  "case_name": "商標法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第7巻10号2041頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 3,
+    "day": 5
+  },
+  "gist": "商標法第三四条第一号の罪と商品の類別",
+  "case_gist": "他人の登録商標と同一の商標を自己の製造する類似の商品に使用したものである以上、その類似商品が商標権者の指定した商品の類別内に属するかどうかにかかわらず、商標法第三四条第一号の罪が成立する。",
+  "ref_law": "商標法5条，商標法34条1号",
+  "lawsuit_id": "55678",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55678",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/678/055678_hanrei.pdf"
+}

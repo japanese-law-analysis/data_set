@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 3,
+    "day": 14
+  },
+  "case_number": "昭和31(あ)2778",
+  "case_name": "傷害致死",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第11巻3号1075頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 5,
+    "day": 24
+  },
+  "gist": "傷害致死罪と因果関係",
+  "case_gist": "傷害致死罪における致死の原因たる傷害は、必らずしもそれが死亡の唯一の原因または直接の原因たることを要するものではなく、他の原因と相まつて死亡の結果を招来した場合をも包含するものと解すべきである。",
+  "ref_law": "刑法205条",
+  "lawsuit_id": "50495",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50495",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/495/050495_hanrei.pdf"
+}

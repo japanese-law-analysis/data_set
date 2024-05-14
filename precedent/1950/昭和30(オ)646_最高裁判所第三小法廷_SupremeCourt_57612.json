@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 11,
+    "day": 27
+  },
+  "case_number": "昭和30(オ)646",
+  "case_name": "建物明渡請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第10巻11号1480頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 3,
+    "day": 25
+  },
+  "gist": "債務の本旨に従つた履行の提供と認められない事例",
+  "case_gist": "甲家屋の賃貸人がその賃料の支払を催告したのに対し、賃借人が、乙家屋と丙土地もともに賃貸借の目的物であると争つて甲家屋の賃料に乙家屋と丙土地の相当賃料額を合わせた金員を、その金額を受領しなければ支払わない意思で提供した場合には、債務の本旨に従つた履行の提供があつたものとはいえない。",
+  "ref_law": "民法493条，民法541条",
+  "lawsuit_id": "57612",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57612",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/612/057612_hanrei.pdf"
+}

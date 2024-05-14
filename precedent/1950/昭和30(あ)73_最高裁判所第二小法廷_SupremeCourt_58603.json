@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 4,
+    "day": 5
+  },
+  "case_number": "昭和30(あ)73",
+  "case_name": "外国為替及び外国貿易管理法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第118号751頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 11,
+    "day": 26
+  },
+  "gist": "昭和二七年政令第一二七号第四条第二項違反（軍票不寄託）罪の成立時期",
+  "case_gist": "軍票の収受者又は所持者がその収受し若しくは所持する軍票を正当の理由なく他に譲り渡すなど、同条項により命ぜられた日本銀行への寄託と全く相容れない処分行為をするにおいては、その者に対しては、もはや右に命ぜられた寄託行為の如きは到底望むべくもなく、その義務違反は明らかなところであるというべきであるから、この時において、同条項違反罪は完全に成立するものと解しなければならない。",
+  "ref_law": "外国為替及び外国貿易管理法21条，外国為替及び外国貿易管理法70条22号，日本国とアメリカ合衆国との間の安全保障条約第3条に基く行政協定の実施に伴う外国為替管理令等の臨時特例に関する政令（昭和27年政令127号）4条2項",
+  "lawsuit_id": "58603",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58603",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/603/058603_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 5,
+    "day": 11
+  },
+  "case_number": "昭和31(あ)3328",
+  "case_name": "麻薬取締法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第13巻5号699頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 8,
+    "day": 10
+  },
+  "gist": "公訴事実の同一性の認められる事例。",
+  "case_gist": "起訴状に公訴事実として、（一）被告人甲は昭和三〇年一月一六日丙方において同人に対しヘロイン一袋を代金一万二千円で譲渡し、（二）被告人乙は同日前記甲丙間のヘロイン授受に際し、丙の依頼を受けて、甲方において同人より右ヘロイン一袋を受領し、これを丙方で同人に手交し、以つて丙のヘロイン譲渡行為を容易ならしめてこれを幇助したものである旨記載されていた場合に、第一審裁判所が、被告人甲は昭和三〇年一月一六日自宅において乙に対しヘロイン一袋を代金一万二千円で譲渡したものである旨の事実を認定したとしても、該認定事実と被告人甲に対する公訴事実との間にはその同一性を失うものではない。",
+  "ref_law": "刑訴法312条，麻薬取締法12条1項，麻薬取締法64条",
+  "lawsuit_id": "51502",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51502",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/502/051502_hanrei.pdf"
+}

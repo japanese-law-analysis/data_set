@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 5,
+    "day": 6
+  },
+  "case_number": "昭和28(あ)5081",
+  "case_name": "殺人、尊属殺人",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第95号71頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 10,
+    "day": 15
+  },
+  "lawsuit_id": "75490",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=75490",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/490/075490_hanrei.pdf"
+}

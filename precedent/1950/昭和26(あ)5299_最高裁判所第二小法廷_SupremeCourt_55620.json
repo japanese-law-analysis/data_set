@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 9,
+    "day": 11
+  },
+  "case_number": "昭和26(あ)5299",
+  "case_name": "外国人登録令違反、関税法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第7巻9号1810頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 11,
+    "day": 19
+  },
+  "gist": "一　いわゆる占領軍物資の密輸入と関税法違反罪の成否\n二　証拠と事実の認定",
+  "case_gist": "一　有税物件を密輸入しその関税を逋脱した以上、たといそれがいわゆる占領軍物資で、後に占領軍に引き渡されたとしても、関税逋脱罪が成立する。\n二　訴訟において、最後的に確定しなければならない事実は、必ずしも直接証拠のみによつて、これを認定しなければならないものではなく、ある証拠によつて先ず他の事実を認定し、その事実からの推理によつて、又はその事実と証拠との双方からの推理によつて主要事実を認定することを妨げるものではない。",
+  "ref_law": "関税法75条1項，刑訴法317条",
+  "lawsuit_id": "55620",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55620",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/620/055620_hanrei.pdf"
+}

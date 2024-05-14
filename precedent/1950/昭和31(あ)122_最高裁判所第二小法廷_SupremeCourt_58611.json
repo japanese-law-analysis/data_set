@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 7,
+    "day": 15
+  },
+  "case_number": "昭和31(あ)122",
+  "case_name": "詐欺",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第126号887頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 11,
+    "day": 29
+  },
+  "gist": "法定刑が同一である同一罰条における一項と二項との適用の誤と判決への影響。",
+  "case_gist": "法定刑が同一である同一罰条における一項と二項との適用の誤は判決に影響を及ぼさないものである。",
+  "ref_law": "刑法246条，刑訴法335条1項",
+  "lawsuit_id": "58611",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58611",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/611/058611_hanrei.pdf"
+}

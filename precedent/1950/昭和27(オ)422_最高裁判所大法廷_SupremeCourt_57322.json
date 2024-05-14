@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 6,
+    "day": 8
+  },
+  "case_number": "昭和27(オ)422",
+  "case_name": "仮処分申請",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第9巻7号888頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 4,
+    "day": 30
+  },
+  "gist": "一　宗教法人令による寺院と住職の任命に関する宗派の規則の適用の有無\n二　檀信徒の信任しない者を住職に任命した場合と信教の自由侵害の有無",
+  "case_gist": "一　宗教法人令（昭和二〇年勅令第七一九号）により寺院は宗派とは別個の法人であるが、住職の任命について規定した宗派の規則は宗派に所属する寺院にも適用されるものと解すべきである。\n二　憲法の保障する信教の自由は、宗派の管長が宗派の規則に従つてなした寺院の住職の任命を、その住職が徳行を欠き、檀信徒の信服しない者であるとの理由で排除できる権能を檀信徒の与えたものではない。",
+  "ref_law": "宗教法人令（昭和20年勅令719号）2条，憲法20条",
+  "lawsuit_id": "57322",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57322",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/322/057322_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 6,
+    "day": 20
+  },
+  "case_number": "昭和31(オ)1084",
+  "case_name": "不動産所有権移転登記手続等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第12巻10号1585頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 9,
+    "day": 21
+  },
+  "gist": "特定物の売買と所有権移転の時期",
+  "case_gist": "売主の所有に属する特定物を目的とする売買においては、特にその所有権の移転が将来なされるべき約旨に出たものでないかぎり、買主に対し直ちに所有権移転の効力を生ずるものと解するを相当とする",
+  "ref_law": "民法176条",
+  "lawsuit_id": "52844",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52844",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/844/052844_hanrei.pdf"
+}

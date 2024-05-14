@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 6,
+    "day": 21
+  },
+  "case_number": "昭和30(あ)2244",
+  "case_name": "強姦致傷",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "刑集　第11巻6号1721頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 6,
+    "day": 14
+  },
+  "gist": "刑訴法第四〇〇条但書に違反する一事例",
+  "case_gist": "強姦致傷の公訴事実について第一審が、単なる傷害罪と認定処断したのに対し、控訴審が何ら自ら事実の取調をしないで第一審判決を事実誤認があるとして破棄し、訴訟記録並びに第一審で取り調べた証拠のみによつて、直ちに強姦致傷の事実を認定処断することは、刑訴第四〇〇条但書に違反するものである。",
+  "ref_law": "刑法204条，刑法181条，刑訴法400条",
+  "lawsuit_id": "51410",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51410",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/410/051410_hanrei.pdf"
+}

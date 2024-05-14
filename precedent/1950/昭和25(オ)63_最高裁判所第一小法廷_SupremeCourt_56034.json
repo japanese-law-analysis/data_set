@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 10,
+    "day": 18
+  },
+  "case_number": "昭和25(オ)63",
+  "case_name": "仮処分異議",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第5巻11号600頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 12,
+    "day": 23
+  },
+  "gist": "仮処分により保全すべき請求と本案訴訟の請求とがその基礎において同一性のある一事例",
+  "case_gist": "仮処分により保全すべき請求が、所有権に基く不動産の引渡及び虚偽譲渡を理由とする右不動産の所有権移転登記の抹消を求めるものであり、起訴命令に基いて提起された本案訴訟における請求が、右譲渡行為を詐害行為として同様右登記の抹消を求めるものであるときは、両者は、請求の基礎において同一性がある。",
+  "ref_law": "民訴法746条",
+  "lawsuit_id": "56034",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56034",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/034/056034_hanrei.pdf"
+}

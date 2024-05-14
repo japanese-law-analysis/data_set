@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 5,
+    "day": 20
+  },
+  "case_number": "昭和34(あ)78",
+  "case_name": "不正競争防止法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第13巻5号755頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 12,
+    "day": 23
+  },
+  "gist": "不正競争防止法第一条第一号にいう「本法施行ノ地域内ニ於テ広ク認識セラルル」の意義。",
+  "case_gist": "不正競争防止法第一条第一号にいう「本法施行ノ地域内ニ於テ広ク認識セラルル」とは本邦全般にわたり広く知られていることを要するという趣旨ではなく、一地方（例えば中部地方というが如き）において広く知られている場合をも含むものと解するのが相当である。",
+  "ref_law": "不正競争防止法1条1号，不正競争防止法5条2号",
+  "lawsuit_id": "51681",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51681",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/681/051681_hanrei.pdf"
+}

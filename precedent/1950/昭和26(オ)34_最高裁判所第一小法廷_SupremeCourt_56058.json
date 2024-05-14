@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 5,
+    "day": 28
+  },
+  "case_number": "昭和26(オ)34",
+  "case_name": "議会招集請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第7巻5号601頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 10,
+    "day": 28
+  },
+  "gist": "地方公共団体の長を被告として議会を招集すべき旨の判決を求める議員の訴の適否",
+  "case_gist": "地方公共団体の長を被告として、議会を招集すべき旨の判決を求める議員の訴は不適法である。",
+  "ref_law": "行政事件訴訟特例法1条，地方自治法101条",
+  "lawsuit_id": "56058",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56058",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/058/056058_hanrei.pdf"
+}

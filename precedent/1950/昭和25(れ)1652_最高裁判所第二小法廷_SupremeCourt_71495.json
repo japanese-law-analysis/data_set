@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 3,
+    "day": 16
+  },
+  "case_number": "昭和25(れ)1652",
+  "case_name": "詐欺",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第42号141頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 7,
+    "day": 17
+  },
+  "gist": "主要食糧の不正受配行為の擬律",
+  "case_gist": "主要食糧に関し、原判決認定のような不正受配の行為は刑法詐欺罪を構成し、所論食糧緊急措置令第一〇条違反をもつて問擬すべきものでないことは、既に、当裁判所の判例とするところである（昭和二三年（れ）第三二九号同年七月一五日第一小法廷判決、判例集二巻八号九〇三頁以下）。又それが公定価格を支払つて受配しても詐欺罪の成立を妨げるものではないことも、当裁判所の判例の趣旨とするところである（昭和二二年（れ）第六号同二三年六月九日大法廷判決）。",
+  "ref_law": "刑法246条，食糧緊急措置令10条",
+  "lawsuit_id": "71495",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=71495",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/495/071495_hanrei.pdf"
+}

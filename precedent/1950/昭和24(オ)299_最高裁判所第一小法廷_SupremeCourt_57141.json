@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 12,
+    "day": 25
+  },
+  "case_number": "昭和24(オ)299",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第6巻12号1271頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 10,
+    "day": 27
+  },
+  "gist": "調停成立当時その調書に記載されない（家屋明渡に関する）合意が成立したことを理由とする家屋明渡請求の許否",
+  "case_gist": "借地借家調停調書に単に家屋を「昭和二三年九月一〇日まで賃貸する」と記載されただけであつても、右調停期日に当事者間において、右家屋を右約定の日かぎり明け渡す旨の合意が成立した以上、賃貸人はこれを理由として家屋明渡の請求をすることができる。",
+  "ref_law": "民訴法203条，民訴法199条，民法604条",
+  "lawsuit_id": "57141",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57141",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/141/057141_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 5,
+    "day": 14
+  },
+  "case_number": "昭和29(あ)1101",
+  "case_name": "業務上横領",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集刑　第95号403頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 2,
+    "day": 8
+  },
+  "gist": "控訴提起期間の末日が「文化の日」にあたる場合に不成立として棄却した違法は法四〇六条の上告受理申立の理由となるか",
+  "case_gist": "記録を調査するに、原判決の違法であるとはまことに所論のとおりであるから、刑訴四一一条四一三条により、裁判官全員一致の意見で主文のとおり判決する。註。本件は原審が控訴申立期間の最終日が国民の祝日に関する法律により一般の休日と指定された文化の日に当るとを看過して控訴棄却の判決をしたと見られるのであるがこれを右法律の解釈を誤つたとして上告を受理して破棄したものである。",
+  "ref_law": "刑訴法373条，刑訴法395条，刑訴法55条3項，刑訴法406条，国民の祝日に関する法律（昭和23年法律第178号）2条，刑訴規則257条",
+  "lawsuit_id": "75560",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=75560",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/560/075560_hanrei.pdf"
+}

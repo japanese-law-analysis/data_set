@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 2,
+    "day": 26
+  },
+  "case_number": "昭和27(れ)76",
+  "case_name": "物価統制令違反、経済関係罰則の整備に関する法律違反、同幇助",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集刑　第74号403頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 6,
+    "day": 4
+  },
+  "gist": "従犯減軽をした罰金刑が法律上の減軽をした処断刑の範囲を超えた場合と判決の破棄",
+  "case_gist": "本件行為時における昭和一九年法律第四号経済関係罰則の整備に関する法律五条所定の罰金刑は五千円以下であり、従犯減軽をした罰金刑は二千五百円以下であるのに、原判決は被告人に対して法律上の減軽をした処断刑の範囲を超える罰金刑を科したものであるから、刑訴施行法三条の二により適用される刑訴四一一条一号に該当する法令の違反があるといわなければならない。",
+  "ref_law": "経済関係罰則の整備に関する法律5条，刑法63条，刑法68条，新刑訴法411条1号",
+  "lawsuit_id": "69374",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=69374",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/374/069374_hanrei.pdf"
+}

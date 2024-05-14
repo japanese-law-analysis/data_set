@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 4,
+    "day": 17
+  },
+  "case_number": "昭和28(あ)157",
+  "case_name": "窃盜",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第78号819頁",
+  "original_court_name": "広島高等裁判所\n        　松江支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 12,
+    "day": 1
+  },
+  "gist": "起訴状に訴因が明示されていると認められる一事例",
+  "case_gist": "「被告人は同年（昭和二七年の意）三月二六日某農業協同組合購買部において他人の現金三一九六円を窃取したものである。」という起訴状の記載は必ずしも訴因の明示として欠くるところはない。",
+  "ref_law": "刑訴法256条2項",
+  "lawsuit_id": "75362",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=75362",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/362/075362_hanrei.pdf"
+}

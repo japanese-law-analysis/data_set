@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 6,
+    "day": 11
+  },
+  "case_number": "昭和27(あ)4447",
+  "case_name": "詐欺",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第8巻6号859頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 7,
+    "day": 18
+  },
+  "gist": "倉荷証券に記載された物件の大部分が虚偽無価値のものである場合にその倉荷証券を担保として金融を受けた行為と詐欺罪の成否",
+  "case_gist": "倉荷証券に記載されている物件の大部分が虚偽無価値のものであることを知れば相手方は同証券を担保に金員を交付することがなかつた関係がある以上、右倉荷証券自体は真正に成立したものであるため、相手方と倉庫営業所との間における寄託に関する事項は同証券に記載されているところによるとしても刑法第二四六条第一項の詐欺罪の成立を妨げない。",
+  "ref_law": "刑法246条，商法627条，商法602条，商法599条",
+  "lawsuit_id": "54697",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54697",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/697/054697_hanrei.pdf"
+}

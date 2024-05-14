@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 7,
+    "day": 6
+  },
+  "case_number": "昭和27(あ)6815",
+  "case_name": "公務執行妨害、傷害",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第97号141頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 11,
+    "day": 12
+  },
+  "gist": "警察官等職務執行法第二条にいう「職務質問」は公務執行妨害における公務か",
+  "case_gist": "第一審判決に判示するように、巡査部長Ａが被告人を挙動不審者として職務質問したことは、同判決挙示の証拠によつて十分に肯認されるのであるから、同人の行為は警察官等職務執行法二条による適法な公務執行々為と認むべきである。論旨は、本件公務執行々為が適法でないことを前提として判例違反を主張するか、事実誤認又は単なる法令違反を主張するものであつて刑訴四〇五条の上告理由に当らない。",
+  "ref_law": "警察官等職務執行法2条，刑訴法405条",
+  "lawsuit_id": "75323",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=75323",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/323/075323_hanrei.pdf"
+}

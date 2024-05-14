@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 4,
+    "day": 26
+  },
+  "case_number": "昭和26(れ)190",
+  "case_name": "食糧管理法違反、物価統制令違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第44号621頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 12,
+    "day": 25
+  },
+  "gist": "統制額指定の告示には瓩を標準として規定しているのに販売価額を桝目で判示した判決の適否",
+  "case_gist": "原判決が適用した各告示は判示物品の価格を瓩（重量）を標準として定めているのに、原判決は判示物品の数量を桝目（容積）で示していることは所論のとおりであるが、桝目を瓩に換算することによつて、生ずる誤差は極めて微少であつて、量刑に影響を与えないこと明らかであるから、桝目で判示したからといつて原判決は違法であるとはいえない。",
+  "ref_law": "旧刑訴法360条1項，旧刑訴法411条",
+  "lawsuit_id": "72021",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=72021",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/021/072021_hanrei.pdf"
+}

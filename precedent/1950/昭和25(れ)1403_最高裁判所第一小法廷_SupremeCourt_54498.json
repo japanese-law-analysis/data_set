@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 12,
+    "day": 14
+  },
+  "case_number": "昭和25(れ)1403",
+  "case_name": "強盗殺人、住居侵入",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "刑集　第4巻12号2548頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 6,
+    "day": 13
+  },
+  "gist": "一　疊建具と刑法第一〇八条にいわゆる「建造物」放火未遂罪の成立\n二　強盗の機会に人を殺害した所為と強盗殺人罪の成立",
+  "case_gist": "一　疊建具その他家屋の従物が建造物たる家屋の一部を構成するものと認めるには、該物件が家屋の一部に建付けられているだけでは足りず更らにこれを毀損しなければ取り外すことができない状態にあることを必要とするものである。従つて、判示布団は勿論判示疊のごときは未だ家屋と一体となつてこれを構成する建造物の一部といえないこと多言を要しないから、原判決の前示判示は、建造物の放火既遂の犯罪事実を認定判示したものではなく、その放火未遂の認定判示であるといわなければならない。\n二　強盗の機会に人を殺害すれば、刑法第二四〇条後段の「強盗人ヲ死ニ致シタルトキ」にあたる。",
+  "ref_law": "刑法108条，刑法112条，刑法240条",
+  "lawsuit_id": "54498",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54498",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/498/054498_hanrei.pdf"
+}

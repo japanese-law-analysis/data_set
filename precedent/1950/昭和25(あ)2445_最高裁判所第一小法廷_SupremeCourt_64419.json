@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 8,
+    "day": 21
+  },
+  "case_number": "昭和25(あ)2445",
+  "case_name": "麻薬取締法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第67号103頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 6,
+    "day": 9
+  },
+  "gist": "一　麻薬中毒患者であるか否かの認定と鑑定の要否\n二　麻薬施用の罪及び記録不作成の罪の罪数",
+  "case_gist": "一　麻薬中毒患者であるか否かの認定には所論のように特別の知識経験のある者の鑑定等を必要とするものではない。\n二　第一審判決竝びに原判決が麻薬施用の罪及び記録不作成の罪について、その施用の都度又は記録不作成毎に別個独立の各罪が成立し包括一罪でない旨判示したのは正当である。",
+  "ref_law": "麻薬取締法39条，麻薬取締法42条1項，刑訴法165条，刑法45条",
+  "lawsuit_id": "64419",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64419",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/419/064419_hanrei.pdf"
+}

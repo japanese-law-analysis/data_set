@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 12,
+    "day": 20
+  },
+  "case_number": "昭和30(オ)165",
+  "case_name": "無尽掛金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第11巻14号2307頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 12,
+    "day": 4
+  },
+  "gist": "無尽業法旧第一条にいわゆる「抽籖、入札其ノ他類似ノ方法ニ依」らない無尽金給付の特約の効力",
+  "case_gist": "無尽業法旧第一条にいわゆる「抽籖、入札其ノ他類似ノ方法ニ依」らず、無尽会社と加入者との間でその加入者を落札者とする旨の合意は、それによつて他の無尽加入者の権利利益を害しない場合でない限り、法律上落札の効力を生じないものと解すべきである。",
+  "ref_law": "無尽業法（昭和26年法律199号相互銀行法附則による改正前のもの）1条",
+  "lawsuit_id": "57565",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57565",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/565/057565_hanrei.pdf"
+}

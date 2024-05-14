@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 12,
+    "day": 23
+  },
+  "case_number": "昭和26(あ)5000",
+  "case_name": "業務妨害、電車往来危険",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第8巻13号2175頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 10,
+    "day": 30
+  },
+  "gist": "正当な争議行為とは認められない一事例",
+  "case_gist": "国鉄当局の業務命令に違反して禁止された電車を運転し、しかもその出発に当つて多数の威力を用いて信号掛を威嚇して進行信号現示のやむなきに至らしめた場合の如きは、正当な争議行為ということはできない。",
+  "ref_law": "労働関係調整法6条，労働関係調整法7条，労働組合法1条，公共企業体労働関係法17条，憲法28条",
+  "lawsuit_id": "56794",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56794",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/794/056794_hanrei.pdf"
+}

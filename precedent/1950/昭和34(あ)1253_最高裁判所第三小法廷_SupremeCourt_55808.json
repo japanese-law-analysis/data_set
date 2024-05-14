@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 10,
+    "day": 9
+  },
+  "case_number": "昭和34(あ)1253",
+  "case_name": "窃盜",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第13巻11号3034頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 5,
+    "day": 9
+  },
+  "gist": "一　公判調書に刑訴規則第一九七条の二所定の処置をした記載がない場合と右処置の有無\n二　刑訴法第二九一条の二にいわゆる「有罪である旨を陳述した」と認められる事例",
+  "case_gist": "一　公判調書に簡易公判手続により審判する旨の決定をする前、刑訴規則一九七条の二所定の処置をした記載がないからといつて、必ずしも右処置が行われなかつたということはできない。\n二　被告人が公判における被告事件に対する陳述において、「事実はその通りです。尚有罪で処断されても異議はありません」と述べているときは、刑訴第二九一条の二にいわゆる「有罪である旨を陳述した」ものと認められる。",
+  "ref_law": "刑訴法48条，刑訴法291条の2，刑訴規則44条，刑訴規則197条の2",
+  "lawsuit_id": "55808",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55808",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/808/055808_hanrei.pdf"
+}

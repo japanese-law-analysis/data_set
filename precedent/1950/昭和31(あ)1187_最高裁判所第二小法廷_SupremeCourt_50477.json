@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 9,
+    "day": 8
+  },
+  "case_number": "昭和31(あ)1187",
+  "case_name": "業務上過失致死",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第12巻13号2873頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 2,
+    "day": 28
+  },
+  "gist": "学校の正門前道路を進行する場合における乗合自動車運転者の注意義務。",
+  "case_gist": "乗合自動車の運転者が、中学校の正門前附近道路を進行する場合には、前方ならびにその左右を警戒して校門出入者の有無に注意し、その出入者と衝突のおそれがあるときは何時でも停車することができる程度に速度を減少する等事故の発生を未然に防止すべき業務上の注意義務がある。",
+  "ref_law": "刑法211条",
+  "lawsuit_id": "50477",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50477",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/477/050477_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 7,
+    "day": 3
+  },
+  "case_number": "昭和26(オ)664",
+  "case_name": "行政処分取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第7巻7号799頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 9,
+    "day": 10
+  },
+  "gist": "農地賃貸借の合意解約が自作農創設特別措置法第六条の二第二項第一号所定の「正当」に行われたと認めるにたりない場合の一事例",
+  "case_gist": "地主の妻が小作人に農地の返還を求め、小作人が替地を要求したところ、地主の妻が「帰つて相談しておこう、或はまたもとのように此の田をあんたに代つて貰うことになるかも知らぬが、とにかく今年は返してくれ」と懇請したので、小作人がこれを承諾して右農地を返還した場合は、右の事実だけでは、右合意解約を、自作農創設特別措置法第六条の二第二項第一号にいう「正当」な解約であるとするには不充分である。",
+  "ref_law": "自作農創設特別措置法6条の2第1項2項1号",
+  "lawsuit_id": "56073",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56073",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/073/056073_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 11,
+    "day": 16
+  },
+  "case_number": "昭和25(れ)1235",
+  "case_name": "傷害",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第36号45頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 5,
+    "day": 9
+  },
+  "gist": "被害者の真意にあらざる承諾と違法性阻却の有無",
+  "case_gist": "被告人が被害者の承諾が真意でないかも知れないと推知していたことは、原判決挙示の証拠就中これによつて認められる被告人並びに被害者の遅疑逡巡せる状況に照しこれを肯認するに足りるから、原判決には所論の違法は認められない。そして、仮りに、被害者の承諾があつたとしても、判示局部の切断（旧刑法第三〇〇条中「陰陽ヲ毀敗シ」参照）のごときは、その行為の違法性を阻却するものでないこと多言を要しないから、所論は採用し難い。",
+  "ref_law": "刑法204条，旧刑訴法360条2項",
+  "lawsuit_id": "67777",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=67777",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/777/067777_hanrei.pdf"
+}

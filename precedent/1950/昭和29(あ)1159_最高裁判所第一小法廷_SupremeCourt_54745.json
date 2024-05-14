@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 1,
+    "day": 13
+  },
+  "case_number": "昭和29(あ)1159",
+  "case_name": "塩専売法違反、同幇助",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第9巻1号36頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 11,
+    "day": 16
+  },
+  "gist": "いわゆる鯨血塩の採取と「塩の製造」",
+  "case_gist": "鯨肉の貯蔵用に供した塩が溶けている鯨血汁から、再び塩（いゆる鯨血塩）を採用することは塩専売法にいう「塩の製造」にあたる。",
+  "ref_law": "塩専売法1条，塩専売法5条，塩専売法42条，塩専売法47条3号",
+  "lawsuit_id": "54745",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54745",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/745/054745_hanrei.pdf"
+}

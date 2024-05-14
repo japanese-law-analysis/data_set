@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 10,
+    "day": 10
+  },
+  "case_number": "昭和26(れ)1898",
+  "case_name": "横領、金銀又は白金の取引等取締に関する件違反、臨時貴金属数量等報告令違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集刑　第68号153頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 6,
+    "day": 26
+  },
+  "lawsuit_id": "64789",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64789",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/789/064789_hanrei.pdf"
+}

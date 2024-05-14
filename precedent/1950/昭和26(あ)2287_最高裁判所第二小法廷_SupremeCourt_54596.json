@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 3,
+    "day": 20
+  },
+  "case_number": "昭和26(あ)2287",
+  "case_name": "賍物収受",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第7巻3号597頁",
+  "original_court_name": "福岡高等裁判所\n        　宮崎支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 5,
+    "day": 18
+  },
+  "gist": "簡易裁判所の管轄に属しない事件を刑訴第三三二条により移送できるか",
+  "case_gist": "簡易裁判所の事物管轄に属する刑事事件が簡易裁判所に起訴された後、検察官においてその訴因罰条の変更を請求し、同裁判所がこれを許可したためその事件が簡易裁判所の事物管轄に属しないこととなつた場合においても、同裁判所が刑訴三三二条により事件を管轄地方裁裁所に移送することを妨げないものと解すべきである。（ただしかかる場合においては、簡易裁判所が訴因罰条変更請求の許可の決定を留保したまゝ移送するを可とする。）",
+  "ref_law": "刑訴法332条，裁判所法33条",
+  "lawsuit_id": "54596",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54596",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/596/054596_hanrei.pdf"
+}

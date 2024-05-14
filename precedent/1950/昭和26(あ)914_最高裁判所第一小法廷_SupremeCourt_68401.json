@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 6,
+    "day": 12
+  },
+  "case_number": "昭和26(あ)914",
+  "case_name": "暴行傷害、住居侵入、公務執行妨害",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第65号167頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 2,
+    "day": 15
+  },
+  "gist": "刑訴第四一一条を適用すべきものと認められない事例―破棄自判に当つて他の論旨についての判断を省略した場合",
+  "case_gist": "多くの控訴論旨の一つについて破毀理由があり自判する場合においては、本件におけるごとく他の論旨について破毀差戻をすべき事由なきこと明らかな場合には、他の論旨の判断を省略したとしても刑訴第四一一条を適用すべきものとは認められない。",
+  "ref_law": "刑訴法411条，刑訴法392条，刑訴法400条但書，刑訴規則246条",
+  "lawsuit_id": "68401",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=68401",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/401/068401_hanrei.pdf"
+}

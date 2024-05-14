@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 4,
+    "day": 28
+  },
+  "case_number": "昭和31(あ)1649",
+  "case_name": "強要、不法監禁、公務執行妨害、傷害",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第13巻4号466頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 4,
+    "day": 11
+  },
+  "gist": "労働組合法第一条第一項の目的達成のための正当行為と認められない事例。",
+  "case_gist": "スト支援者が会社の構内において争議中の労組員ら六、七〇名と共謀し、たまたま五・三〇記念大会視察中の巡査部長を取り囲み、多衆の威力を背景にして身体または自由に対し危害を加えかねまじき気勢を示して脅迫を続け、取り上げた警察手帳を読み上げたりした上強要して詫状を書かせ、これを参集者に向つて読み上げさせた後、強いてデモ隊の中央附近に引き入れてスクラムを組み、その脱出を不可能にして同所より警察署前まで連行し、三時間余り同巡査部長を不法に監禁した所為は、労働組合法第一条第一項の目的達成のためにした正当行為というこはできない。",
+  "ref_law": "労働組合法1条，刑法223条1項，刑法220条1項，憲法28条",
+  "lawsuit_id": "51476",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51476",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/476/051476_hanrei.pdf"
+}

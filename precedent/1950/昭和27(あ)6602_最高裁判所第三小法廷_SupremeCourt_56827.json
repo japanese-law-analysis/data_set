@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 5,
+    "day": 11
+  },
+  "case_number": "昭和27(あ)6602",
+  "case_name": "食糧管理法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第8巻5号670頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 6,
+    "day": 18
+  },
+  "gist": "被疑者を勾留する際の陳述調書は第一回公判期日後裁判官から裁判所に送付すべき書類に含まれるか",
+  "case_gist": "被疑者を勾留する際に被疑事件を告げこれに関する陳述をきいた調書は、第一回の公判期日が開かれたとき裁判官から裁判所に送付すべき書類のうちに含まれない。",
+  "ref_law": "刑訴法207条1項，刑訴法61条，刑訴規則39条，刑訴規則150条，刑訴規則167条1項，刑訴規則167条3項",
+  "lawsuit_id": "56827",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56827",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/827/056827_hanrei.pdf"
+}

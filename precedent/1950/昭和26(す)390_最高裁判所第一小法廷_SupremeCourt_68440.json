@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 10,
+    "day": 25
+  },
+  "case_number": "昭和26(す)390",
+  "case_name": "公職選挙法違反被告事件について最高裁判所の上告棄却の決定に対する訂正の申立",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第55号497頁",
+  "original_court_name": "最高裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 10,
+    "day": 4
+  },
+  "gist": "上告棄却決定に対する訂正申立の適否",
+  "case_gist": "右の者から被告人Ａに対する公職選挙法違反被告事件について昭和二六年一〇月四日当裁判所が宣告した上告棄却の決定に対し、別紙添附の書面記載の通り訂正の申立があつたが裁判の内容に誤のあることを発見しないから、刑訴四一七条一項により裁判官全員一致の意見で次の通り決定する。",
+  "ref_law": "刑訴法415条",
+  "lawsuit_id": "68440",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=68440",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/440/068440_hanrei.pdf"
+}

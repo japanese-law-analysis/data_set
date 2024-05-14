@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 10,
+    "day": 16
+  },
+  "case_number": "昭和26(あ)1996",
+  "case_name": "酒税法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第6巻9号1114頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 3,
+    "day": 23
+  },
+  "gist": "訴因の変更を要しない一事例",
+  "case_gist": "免許を受けないで濁酒を製造したという起訴に対し、審理の結果雑酒を製造したものと認定するには、訴因の変更をする必要はない。",
+  "ref_law": "酒税法60条，刑訴法312条",
+  "lawsuit_id": "53413",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53413",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/413/053413_hanrei.pdf"
+}

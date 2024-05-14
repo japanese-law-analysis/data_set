@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 7,
+    "day": 25
+  },
+  "case_number": "昭和31(あ)4726",
+  "case_name": "有価証券偽造同行使",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第11巻7号2037頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 11,
+    "day": 13
+  },
+  "gist": "一　刑法第一六二条にいわゆる「有価証券」の意義\n二　電車定期乗車券の偽造と有価証券偽造罪",
+  "case_gist": "一　刑法第一六二条にいわゆる「有価証券」とは財産上の権利が証券に表示され、その表示された権利の行使につきその証券の占有を必要とするものをいい、その証券が取引上流通性を有すると否とは必ずしも問わないものと解すべきである。\n二　電車定期乗車券の偽造は刑法第一六二条第一項の有価証券偽造罪を構成する。",
+  "ref_law": "刑法162条1項",
+  "lawsuit_id": "51533",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51533",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/533/051533_hanrei.pdf"
+}

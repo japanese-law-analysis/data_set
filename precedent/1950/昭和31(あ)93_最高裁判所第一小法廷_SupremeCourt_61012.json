@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 6,
+    "day": 21
+  },
+  "case_number": "昭和31(あ)93",
+  "case_name": "強盗傷人、窃盗、窃盗未遂",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第113号829頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 12,
+    "day": 13
+  },
+  "gist": "刑法第四二条第一項の刑の減軽と刑訴法第三三五条第二項にいう法律上刑の減免の理由となる事実",
+  "case_gist": "刑法四二条一項の刑の減軽は、裁判所の裁量に属する事項であつて、刑訴三三五条二項に所謂法律上刑上刑の減免の理由となる事実には当らない。",
+  "ref_law": "刑法42条1項，刑訴法335条2項",
+  "lawsuit_id": "61012",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61012",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/012/061012_hanrei.pdf"
+}

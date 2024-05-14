@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 4,
+    "day": 25
+  },
+  "case_number": "昭和31(あ)3746",
+  "case_name": "偽造私文書行使詐欺",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第11巻4号1485頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 9,
+    "day": 25
+  },
+  "gist": "犯罪が前刑の執行猶予期間内に犯されたことを量刑に考慮することの適否",
+  "case_gist": "量刑の当否を判断するにあたり、犯罪が前刑の執行猶予期間内に犯されたことを情状として考慮することは、違法ではない。",
+  "ref_law": "刑訴法381条，刑訴法248条，憲法14条",
+  "lawsuit_id": "50517",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50517",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/517/050517_hanrei.pdf"
+}

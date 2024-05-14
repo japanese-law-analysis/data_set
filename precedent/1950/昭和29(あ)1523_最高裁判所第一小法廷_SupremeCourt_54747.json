@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 2,
+    "day": 3
+  },
+  "case_number": "昭和29(あ)1523",
+  "case_name": "虚偽公文書作成、同行使、印紙犯罪処罰法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第9巻2号177頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 11,
+    "day": 30
+  },
+  "gist": "取引高税印紙は印紙犯罪処罰法にいう印紙にあたるか",
+  "case_gist": "印紙犯罪処罰法制定後、その施行中に政府が新たに発行した取引高税印紙は、同法にいわゆる印紙に該当する。",
+  "ref_law": "印紙犯罪処罰法2条，昭和23年法律142号印紙をもつてする歳入金納付に関する，法律2条",
+  "lawsuit_id": "54747",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54747",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/747/054747_hanrei.pdf"
+}

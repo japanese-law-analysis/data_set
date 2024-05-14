@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 2,
+    "day": 5
+  },
+  "case_number": "昭和33(あ)1197",
+  "case_name": "賍物運搬、賍物故買",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第129号35頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 5,
+    "day": 27
+  },
+  "gist": "仮釈放の日は刑期満了の日となるか。",
+  "case_gist": "仮釈放の日は刑期満了の日となるものではない。",
+  "ref_law": "刑法25条，刑法28条",
+  "lawsuit_id": "61118",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61118",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/118/061118_hanrei.pdf"
+}

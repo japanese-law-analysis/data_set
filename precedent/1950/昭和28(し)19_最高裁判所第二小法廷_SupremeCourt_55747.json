@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 10,
+    "day": 23
+  },
+  "case_number": "昭和28(し)19",
+  "case_name": "公職選挙法違反被告事件についての証人の証言に拒否に該る決定に対する特別抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第7巻10号1968頁",
+  "original_court_name": "宇都宮地方裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 2,
+    "day": 20
+  },
+  "gist": "刑訴第一四六条にいう「刑事訴追を受ける虞あるとき」の意義",
+  "case_gist": "刑訴第一四六条にいう「刑事訴追を受ける虞あるとき」とは、証言の内容自体に刑事訴追を受ける虞のある事実を包含する場合をいうのであつて、証人が真実を述べることによりその供述を偽証なりとして訴追を受ける虞ありとの事由で、証言を拒否し得るものではない。",
+  "ref_law": "刑訴法146条，刑法169条，憲法38条1項",
+  "lawsuit_id": "55747",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55747",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/747/055747_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 7,
+    "day": 11
+  },
+  "case_number": "昭和24(れ)3122",
+  "case_name": "労働組合法違反、労働基準法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第4巻7号1275頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 11,
+    "day": 19
+  },
+  "gist": "全從業員が事實上代表者を擇んで使用者と交渉する場合と勞働組合の結成の有無",
+  "case_gist": "全從業員が事實上代表者を擇んで使用者と交渉し、代表者を通じて全員辭職の申出をした事實があつたとしても、直に、勞働組合が結成されているものと認めなければならないものではない。",
+  "ref_law": "昭和20年法律51號勞働組合法2條",
+  "lawsuit_id": "54339",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54339",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/339/054339_hanrei.pdf"
+}

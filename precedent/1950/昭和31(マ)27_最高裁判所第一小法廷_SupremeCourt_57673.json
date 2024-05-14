@@ -1,0 +1,21 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 10,
+    "day": 31
+  },
+  "case_number": "昭和31(マ)27",
+  "case_name": "養子縁組無効確認の訴の管轄裁判所を定める申立",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "却下",
+  "article_info": "民集　第10巻10号1398頁",
+  "gist": "養父母がその普通裁判籍所在地を異にする場合と養子縁組無効確認の訴の管轄裁判所",
+  "case_gist": "養父母がその普通裁判籍所在地を異にする場合には、養子縁組無効確認の訴は養父母のいずれの普通裁判籍所在地の地方裁判所に対してもこれを提起することができる。",
+  "ref_law": "人事訴訟手続法24条，民訴法24条",
+  "lawsuit_id": "57673",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57673",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/673/057673_hanrei.pdf"
+}

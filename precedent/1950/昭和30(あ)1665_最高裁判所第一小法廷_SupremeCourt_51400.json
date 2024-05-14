@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 1,
+    "day": 12
+  },
+  "case_number": "昭和30(あ)1665",
+  "case_name": "覚せい剤取締法違反、麻薬取締法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第10巻1号43頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 4,
+    "day": 19
+  },
+  "gist": "覚せい剤の譲受行為とその所持の行為が併合罪となる一事例",
+  "case_gist": "昭和二八年三月一〇日頃から同年六月末日頃までの間に接続して一一回に覚せい剤を譲受けた行為と、その覚せい剤の一部を同年七月一四日頃居宅炊事場の石油罐または土蔵内にそれぞれ隠匿所持していた行為とは、各別個の罪を構成し併合罪となる。",
+  "ref_law": "覚せい剤取締法17条，覚せい剤取締法14条，刑法45条",
+  "lawsuit_id": "51400",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51400",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/400/051400_hanrei.pdf"
+}

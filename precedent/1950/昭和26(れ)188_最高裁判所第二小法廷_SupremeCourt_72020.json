@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 6,
+    "day": 29
+  },
+  "case_number": "昭和26(れ)188",
+  "case_name": "恐喝",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第48号585頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 11,
+    "day": 27
+  },
+  "gist": "旧刑訴法第四〇四条にいわゆる正当の事由のない事例",
+  "case_gist": "以上の経過によると、被告人は、前記原審再度の期日にも予め右期日に出廷不能である特段の具体的事由を具申することもなく、その期日の直前に至つて単に従前どおり潜伏性第二期梅毒により二ケ月間の休養を要する旨の医師の診断書を添付して病気のため出廷し難いから期日を変更せられたい旨を反覆し公判期日の変更を申請したにすぎないのであつて、これに前記その前後の事情を合せ考えれば原審裁判所が右被人の期日変更申請を容れないで被告人は正当の事由なく出頭しないものと認めたことは相当といわなければならない。",
+  "ref_law": "旧刑訴法404条，旧刑訴法410条8号",
+  "lawsuit_id": "72020",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=72020",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/020/072020_hanrei.pdf"
+}

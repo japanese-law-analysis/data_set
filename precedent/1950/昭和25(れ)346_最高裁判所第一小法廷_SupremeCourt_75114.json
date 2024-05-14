@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 5,
+    "day": 25
+  },
+  "case_number": "昭和25(れ)346",
+  "case_name": "強姦致傷",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第17号771頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 11,
+    "day": 8
+  },
+  "gist": "憲法第三七條第二項及刑訴應急措置法第一二條違反にあたらない事例",
+  "case_gist": "記録によれば所論Ａは第一審公判廷で證人として喚問され被告人に對し同人を訊問する機會を充分に與えていること明白であるから、原審において同人を重ねて喚問しないで同人に對する檢事の聽取書の供述記載を證據としても所論法條に反しない。また爾余の者はいずれも原審における共同被告人で同一公判廷で審理された者で、被告人は何時でも相被告人を訊問することができるものであること刑訴應急措置法一一條の明定するところであるから、原審においてかゝる相被告人を重ねて喚問しないでその第一審公判における供述記載を證據としても同法一二條又は憲法三七條第二項に觸れる道理がない。",
+  "ref_law": "憲法37條2項，刑訴應急措置法12條",
+  "lawsuit_id": "75114",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=75114",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/114/075114_hanrei.pdf"
+}

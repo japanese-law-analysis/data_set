@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 8,
+    "day": 9
+  },
+  "case_number": "昭和25(あ)2700",
+  "case_name": "強姦致傷",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第51号773頁",
+  "original_court_name": "札幌高等裁判所\n        　函館支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 9,
+    "day": 18
+  },
+  "lawsuit_id": "67414",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=67414",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/414/067414_hanrei.pdf"
+}

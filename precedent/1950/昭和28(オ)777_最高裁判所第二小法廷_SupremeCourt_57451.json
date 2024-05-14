@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 10,
+    "day": 28
+  },
+  "case_number": "昭和28(オ)777",
+  "case_name": "預け金返還請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第9巻11号1739頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 5,
+    "day": 28
+  },
+  "gist": "裁判所と弁護士会との申合せに基く裁判所書記官のなす送達が有効と認められた一事例",
+  "case_gist": "裁判所と弁護士会との申合せに基き、訴訟代理人たる弁護士に対する判決正本の送達が、裁判所書記官の命をうけた雇員より、裁判所構内弁護士控室に常勤する弁護士会の事務員に対して交付され、同事務員を通じて当該弁護士がこれを受領し、同封された送達報告書に弁護士が書類受領者としての捺印を施して裁判所に返送する方法によりなされた場合においては、右事務員に判決正本が交付されたときに有効な送達があつたものと認めるべきである。",
+  "ref_law": "民訴法163条，民訴法170条",
+  "lawsuit_id": "57451",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57451",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/451/057451_hanrei.pdf"
+}

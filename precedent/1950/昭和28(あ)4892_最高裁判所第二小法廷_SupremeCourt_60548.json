@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 5,
+    "day": 31
+  },
+  "case_number": "昭和28(あ)4892",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第105号1077頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 10,
+    "day": 5
+  },
+  "gist": "判決に犯情として選挙運動の総括主宰者なる地位を認定することは違法か",
+  "case_gist": "所論の選挙運動の総括主宰者なる地位は、公職選挙法中に規定するところであり、犯情として被告人がこの地位にあつたことを認定しても違法ということはできない。",
+  "ref_law": "刑訴法335条1項",
+  "lawsuit_id": "60548",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60548",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/548/060548_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 9,
+    "day": 19
+  },
+  "case_number": "昭和31(し)38",
+  "case_name": "横領被告事件につきなした控訴棄却決定に対する異議申立棄却決定に対する特別抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第114号713頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 8,
+    "day": 29
+  },
+  "gist": "弁護人の事務員の過失のため控訴趣意書提出期間徒過による控訴棄却と違憲（三二条違反）の主張",
+  "case_gist": "所論は違憲（三二条の違反）をいうけれども、その本旨は、弁護人の事務員の過失により弁護人が裁判所から控訴趣意書提出最終日の指定通知のあつたことを知らず、控訴趣意書を提出しないで右の提出期限を徒過したため、控訴裁判所が控訴棄却の決定をしたことについて、原決定がこれを相当と認めて右控訴棄却の決定を維持したことが、不当違法であるという趣旨に帰し、単なる控訴法違反の主張を出ないものと認められる。従つて所論は適法な特別抗告の理由に当らない。",
+  "ref_law": "刑訴法386条1項1号，憲法32条",
+  "lawsuit_id": "61022",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61022",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/022/061022_hanrei.pdf"
+}

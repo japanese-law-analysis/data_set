@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 7,
+    "day": 23
+  },
+  "case_number": "昭和27(あ)3309",
+  "case_name": "史蹟名勝天然記念物保存法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第85号281頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 10,
+    "day": 24
+  },
+  "gist": "史蹟名勝仮指定の告示解釈の一事例",
+  "case_gist": "新潟県西蒲原郡ａ村大字ｂｃ番地、ｄ番地の地域一五五〇坪内に在るＡ神社参道杉並木（杉五三二本、松四本）につき史蹟名勝として仮指定する旨の昭和二四年七月一八日新潟県告示第五五五号中には、右地番上には存在しないが、右神社並木敷地域上にあり、同地域上の杉並木と樹齢概観略同一であつてこれと一体をなすと認められる杉立木を含むものと解するのが相当である。",
+  "ref_law": "昭和24・7・18新潟県告示555号，憲法31条，史蹟名勝天然記念物保存法3条",
+  "lawsuit_id": "64923",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64923",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/923/064923_hanrei.pdf"
+}

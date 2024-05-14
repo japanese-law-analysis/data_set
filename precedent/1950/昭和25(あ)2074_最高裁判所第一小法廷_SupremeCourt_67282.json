@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 1,
+    "day": 18
+  },
+  "case_number": "昭和25(あ)2074",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第39号517頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 6,
+    "day": 6
+  },
+  "gist": "併合罪の関係にある事件を分離して審判とすることの適否",
+  "case_gist": "併合罪の関係にある二個以上の犯罪について、各別に公訴の提起があり、各別個の事件として、同一裁判所に繋属する場合においても、これを併合審理するか否かは、裁判所が各場合における諸般の事情を斟酌して適当に裁定するところに委ねられているのである。そして刑法はその第四七条乃至第五三条において、併合罪が同時に審判せられる場合の刑の加重併科等に関して規定すると共に、それが各別に裁判せられた場合における刑の執行に関しても特に規定を設け以て併合罪が各別個の事件として審判せられるか否かにより被告人に不利益を来さないように用意しているのである。",
+  "ref_law": "刑法47条，刑法53条，刑訴法313条",
+  "lawsuit_id": "67282",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=67282",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/282/067282_hanrei.pdf"
+}

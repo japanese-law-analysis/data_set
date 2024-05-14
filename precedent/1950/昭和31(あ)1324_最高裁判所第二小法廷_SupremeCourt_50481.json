@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 10,
+    "day": 10
+  },
+  "case_number": "昭和31(あ)1324",
+  "case_name": "業務上横領、詐欺",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第12巻14号3246頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 2,
+    "day": 7
+  },
+  "gist": "信用組合の支店長等の預金者に対するいわゆる預金謝礼金の交付および融資希望者に対する不正高利の貸付がともに業務上横領罪を構成するとされた事例。",
+  "case_gist": "信用組合の支店長等が、支店の預金成績の向上を装うため、勧誘に応じた一部預金者に対し、正規の利息のほかに多額の金員を自己の業務上保管する組合の金員中から預金謝礼金名下に勝手に支出交付し、同謝礼金を補填するため、正規に融資を受ける資格のない者に対し、前同様組合の金員を貸付名下に高利をもつて勝手に支出交付したときは、それが自己の計算においてなされたものである限り、いずれも業務上横領罪を構成する。",
+  "ref_law": "刑法253条，刑法247条",
+  "lawsuit_id": "50481",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50481",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/481/050481_hanrei.pdf"
+}

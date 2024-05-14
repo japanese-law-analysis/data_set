@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 10,
+    "day": 14
+  },
+  "case_number": "昭和30(あ)2076",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第109号447頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 6,
+    "day": 16
+  },
+  "gist": "甲被疑事件につき勾留中の被疑者を乙被疑事件につき取り調べることと「不利益な供述の強要」",
+  "case_gist": "ある被疑事件につき勾留中の被疑者に対し、他の被疑事件につき取調をしたからといつて、特段の事情のない以上、右取調をもつて直ちに不利益な供述を強要したものということはできない。",
+  "ref_law": "憲法38条1項，刑訴法319条",
+  "lawsuit_id": "75819",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=75819",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/819/075819_hanrei.pdf"
+}

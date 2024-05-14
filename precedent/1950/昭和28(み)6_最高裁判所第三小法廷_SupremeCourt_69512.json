@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 3,
+    "day": 10
+  },
+  "case_number": "昭和28(み)6",
+  "case_name": "麻薬取締法違反被告事件について当裁判所の言渡した判決に対する判決訂正の申立",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集刑　第75号711頁",
+  "original_court_name": "最高裁判所",
+  "original_case_number": "昭和26(あ)1391",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 2,
+    "day": 24
+  },
+  "gist": "判決を訂正した一事例。",
+  "case_gist": "被告人が死亡している旨の届出があつたのにかゝわらず、被告人の上告を棄却する判決をしたときには、これを訂正して公訴を棄却すべきである。",
+  "ref_law": "刑訴法339条1項3号，刑訴法415条1項",
+  "lawsuit_id": "69512",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=69512",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/512/069512_hanrei.pdf"
+}

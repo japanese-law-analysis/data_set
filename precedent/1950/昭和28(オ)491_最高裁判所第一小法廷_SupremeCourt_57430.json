@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 12,
+    "day": 5
+  },
+  "case_number": "昭和28(オ)491",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第11巻13号2060頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 3,
+    "day": 20
+  },
+  "gist": "訴訟提起後における裏書の抹消と手形法第一六条",
+  "case_gist": "約束手形の裏書人が、裏書を抹消することなく所持人として提起した手形金請求訴訟において、振出人から裏書の連続を欠く旨の抗弁が提出された後に右裏書を抹消した場合においても、手形法第一六条により右裏書はこれを記載せざりしものとみなすべきものである。",
+  "ref_law": "手形法16条，手形法77条",
+  "lawsuit_id": "57430",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57430",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/430/057430_hanrei.pdf"
+}

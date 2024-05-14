@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 11,
+    "day": 11
+  },
+  "case_number": "昭和29(あ)1401",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第8巻11号1834頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 1,
+    "day": 28
+  },
+  "gist": "刑訴法第三二一条第一項第一号の「裁判官の面前における供述を録取した書面」には、他の事件において作成されたものを含むか",
+  "case_gist": "刑訴法第三二一条第一項第一号の「裁判官の面前における供述を録取した書面」には、他の事件において作成されたものを含む。",
+  "ref_law": "刑訴法321条1項1号",
+  "lawsuit_id": "56903",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56903",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/903/056903_hanrei.pdf"
+}

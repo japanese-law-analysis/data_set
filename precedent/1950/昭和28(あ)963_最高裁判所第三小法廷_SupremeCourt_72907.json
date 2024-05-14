@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 9,
+    "day": 28
+  },
+  "case_number": "昭和28(あ)963",
+  "case_name": "食糧管理法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第98号833頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 12,
+    "day": 17
+  },
+  "gist": "第一審判決より重い判決を求むる検察官の上訴と一事不再理の原則",
+  "case_gist": "弁護人鍛治利一の上告趣意は、憲法違反を主張するけれども当裁判所大法廷判例によれば検察官の上訴は違憲でないのであり（昭和二四年新（れ）二二号同二五年九月二七日、刑集四、九、一八〇五頁）、このことは上訴審が覆審であると、続審であると、事後審であるとを問わないものであるから所論は理由がない。",
+  "ref_law": "憲法39条，刑訴法351条",
+  "lawsuit_id": "72907",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=72907",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/907/072907_hanrei.pdf"
+}

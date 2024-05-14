@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 8,
+    "day": 7
+  },
+  "case_number": "昭和32(オ)835",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第13巻10号1262頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 6,
+    "day": 11
+  },
+  "gist": "裁判官の署名捺印を欠く証人尋問調書の効力。",
+  "case_gist": "検証現場で取調べた証人の尋問調書が検証調書と一体をなし、検証調書に裁判官の署名捺印があるときは、証人尋問調書に裁判官の署名捺印を欠く瑕疵があつても、同調書の無効をきたすものではない。",
+  "ref_law": "民訴法143条，民訴法144条，民訴法147条",
+  "lawsuit_id": "56224",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56224",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/224/056224_hanrei.pdf"
+}

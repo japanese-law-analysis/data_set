@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 5,
+    "day": 27
+  },
+  "case_number": "昭和25(オ)350",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第6巻5号568頁",
+  "original_court_name": "仙台高等裁判所\n        　秋田支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 9,
+    "day": 22
+  },
+  "gist": "新民法附則第四条により新法の遡及効を認め得ない一事例",
+  "case_gist": "旧民法施行当時、子と家を異にする母が、親権者母たる資格において子の法定代理人として締結した賃貸借には、新民法附則第四条によつて新民法を適用すべきでない。",
+  "ref_law": "民法附則4条，民法818条2項，民法824条，旧民法884条，旧民法877条2項",
+  "lawsuit_id": "57196",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57196",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/196/057196_hanrei.pdf"
+}

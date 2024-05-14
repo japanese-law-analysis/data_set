@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 6,
+    "day": 11
+  },
+  "case_number": "昭和30(オ)851",
+  "case_name": "不動産等売買無効確認等請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第11巻6号1030頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 6,
+    "day": 29
+  },
+  "gist": "証拠を排斥する理由を判示することの要否",
+  "case_gist": "裁判所は証拠を排斥する理由を一々判示する必要はない。",
+  "ref_law": "民訴法185条",
+  "lawsuit_id": "57628",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57628",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/628/057628_hanrei.pdf"
+}

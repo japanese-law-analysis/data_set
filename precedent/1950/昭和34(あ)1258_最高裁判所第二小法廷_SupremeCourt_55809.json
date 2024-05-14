@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 12,
+    "day": 4
+  },
+  "case_number": "昭和34(あ)1258",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第13巻12号3152頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 5,
+    "day": 27
+  },
+  "gist": "公職選挙法第一四二条の法定外文書の頒布にあたる事例。",
+  "case_gist": "選挙前一年以来引き続き発行している第三種郵便物の許可ある句刊新聞である「Ａ情報」の地方版の号外であると名をかり、「Ａ情報」という名称の下に、特定の候補者に当選を得しめる趣旨の文書を印刷しこれを無償で選挙民に配布する所為は、公職選挙法第一四二条の法定外の文書を頒布する場合にあたる。",
+  "ref_law": "公職選挙法142条，公職選挙法148条，公職選挙法148条の2第3項，公職選挙法235条の2第3号",
+  "lawsuit_id": "55809",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55809",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/809/055809_hanrei.pdf"
+}

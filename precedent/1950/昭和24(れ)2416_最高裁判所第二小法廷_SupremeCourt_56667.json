@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 4,
+    "day": 7
+  },
+  "case_number": "昭和24(れ)2416",
+  "case_name": "賭場開帳図利、常習賭博",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第4巻1号507頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 6,
+    "day": 30
+  },
+  "gist": "賭博常習性を認定するにあたり十年前の賭博の前科を一資料とすることの可否",
+  "case_gist": "賭博の前科の外に賭博常習性を認定する資料のある場合には、たといその前科の事實は十年以前のものであつても之を賭博常習性認定の資料に供することは差支えない。",
+  "ref_law": "刑法186條1項，舊刑訴法336條，舊刑訴法337條",
+  "lawsuit_id": "56667",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56667",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/667/056667_hanrei.pdf"
+}

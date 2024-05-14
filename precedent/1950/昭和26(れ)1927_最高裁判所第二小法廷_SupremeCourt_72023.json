@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 3,
+    "day": 14
+  },
+  "case_number": "昭和26(れ)1927",
+  "case_name": "業務上横領、物価統統制令違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第62号463頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 5,
+    "day": 8
+  },
+  "gist": "物価統制令第三条にいわゆる「契約」につき処分権限の要否と同令第三三条違反罪の成立",
+  "case_gist": "物価統制令三条所定の「契約」とは、その物に関し処分権限ある者より適法に買受けたる場合のみに限らず、広く価格の統制ある物につき、そのものの、処分行為に関する契約を指すものであることは、同令の立法精神（同第一条参照）に照し疑のないところであるから、本件司厨長等に本件精米につき適法な処分権限のあるなしにかかわらず、苟しくもその統制価格を超過してこれが売買契約をするときは同令三三条違反の罪を構成することは多言を要しないところといわねばならない。",
+  "ref_law": "物価統制令1条，物価統制令3条，物価統制令33条",
+  "lawsuit_id": "72023",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=72023",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/023/072023_hanrei.pdf"
+}

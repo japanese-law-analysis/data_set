@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 7,
+    "day": 20
+  },
+  "case_number": "昭和26(オ)426",
+  "case_name": "土地明渡請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第8巻7号1408頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 4,
+    "day": 28
+  },
+  "gist": "土地の賃借人は賃借権侵害を理由として第三者に対し土地明渡を求め得るか",
+  "case_gist": "土地の賃借人は、賃借地上にバラツクを所有する第三者に対し、賃借人であるというだけで（何等特別の事情なく）賃借権侵害を理由として土地明渡を求める権利を有するものではない。",
+  "ref_law": "民法第3編第1章第2節債権の効力，民法601条",
+  "lawsuit_id": "57243",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57243",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/243/057243_hanrei.pdf"
+}

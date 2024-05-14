@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 11,
+    "day": 30
+  },
+  "case_number": "昭和26(れ)686",
+  "case_name": "麻薬取締規則、麻薬取締法重要物資在庫緊急調査令違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第57号797頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 2,
+    "day": 6
+  },
+  "gist": "被告人の供述と押収物件の存在とにより被告人が押収物件の存在を認識していたことを確定することと憲法第三八条第三項",
+  "case_gist": "原判決は判示第一、第二事実を被告人に対する検事聴取書中の同人の供述記載、第一審第一回公判調書中の被告人の供述記載と判示の各押収物件の存在とを綜合してそれぞれこれを認定しているのであり、判示の各押収物件の存在を以て被告人が右各物件の存在を認識していたことの証拠とすることは毫も差支えないのであるから所論は既にその前提を欠き論旨の理由のないこと明らかである。",
+  "ref_law": "旧刑訴法336条，旧刑訴法337条，憲法38条3項",
+  "lawsuit_id": "69018",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=69018",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/018/069018_hanrei.pdf"
+}

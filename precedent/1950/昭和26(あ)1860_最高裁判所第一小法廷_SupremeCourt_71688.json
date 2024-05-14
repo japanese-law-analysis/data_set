@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 9,
+    "day": 6
+  },
+  "case_number": "昭和26(あ)1860",
+  "case_name": "強盗殺人、同未遂",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第52号101頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 3,
+    "day": 20
+  },
+  "gist": "満一八才以上の少年に対して死刑を科することは残虐か",
+  "case_gist": "しかし死刑が所論憲法の規定にいわゆる残虐な刑罰にあたらないことは昭和二二年（れ）第一一九号、同二三年三月一二日大法廷判決（判例集二巻三号一九一頁以下）の示すとおりであり、同判決の趣旨に徴すれば、満一八才以上の少年であるからといつて、これに対し死刑を科することが残虐であると解すべき理由は認められない。",
+  "ref_law": "憲法36条，刑法9条，少年法51条",
+  "lawsuit_id": "71688",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=71688",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/688/071688_hanrei.pdf"
+}

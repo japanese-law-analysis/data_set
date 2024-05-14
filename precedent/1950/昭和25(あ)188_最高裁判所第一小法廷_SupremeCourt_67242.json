@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 6,
+    "day": 29
+  },
+  "case_number": "昭和25(あ)188",
+  "case_name": "賍物故買",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第18号433頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 12,
+    "day": 10
+  },
+  "gist": "第一審判決が認めていないにかゝわらず前科のあることを主張して累犯加重しないことを理由とする上告と被告人に不利益な上告",
+  "case_gist": "論旨第一點の前提とするところは、要するに第一審判決が被告人に對し累犯加重の法條を適用しないのは違法であるというに歸する。しかし、第一審判決は被告人に前科のあることを判示してはいない。しかるに上訴審においては第一審判決の認めていない前科のあることを主張して累犯加重をしないことを非難するのは、新らたな事實を以て、第一審判決を被告人に不利益に變更することを求めるものといわなければならない。されば、論旨第一點はすでにその前提において被告人のための上訴理由として採ることができない。",
+  "ref_law": "刑訴法414條，刑訴法386條1項3號",
+  "lawsuit_id": "67242",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=67242",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/242/067242_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 2,
+    "day": 14
+  },
+  "case_number": "昭和26(あ)2592",
+  "case_name": "強盗殺人、死体遺棄、窃盗、賍物故買",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "刑集　第11巻2号554頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 5,
+    "day": 8
+  },
+  "gist": "刑訴法第四一一条第三号の法意",
+  "case_gist": "判決に影響を及ぼすべき重大な事実誤認の疑があつて、原判決を破棄しなければ著しく正義に反するものと認められるときは、刑訴第四一一条第三号により原判決を破棄することができる。",
+  "ref_law": "刑訴法411条3号",
+  "lawsuit_id": "51240",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51240",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/240/051240_hanrei.pdf"
+}

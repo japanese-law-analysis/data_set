@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 7,
+    "day": 30
+  },
+  "case_number": "昭和32(オ)769",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第13巻8号1209頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 4,
+    "day": 26
+  },
+  "gist": "店舗部分のみの不法占有による損害金算定の標準。",
+  "case_gist": "家屋の階下部分（床面積約五坪）が使用貸借の当初より店舗として使用し得る構造を有し、階上部分とは別個に店舗の用に供することが相当な利用方法といい得る場合に、右家屋の所有者が使用貸借の解約後店舗部分のみの無断転借人に対して請求する損害金を算定するにあたり、いわゆる公定賃料をこえる約定転貸賃料を標準としても違法ではない。",
+  "ref_law": "民法709条，地代家賃統制令23条",
+  "lawsuit_id": "56222",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56222",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/222/056222_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 9,
+    "day": 24
+  },
+  "case_number": "昭和27(あ)5471",
+  "case_name": "麻藥取締法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第98号739頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 5,
+    "day": 23
+  },
+  "gist": "麻薬の不法所持の目的が売買の仲介にあつたときと麻薬所持罪の成否",
+  "case_gist": "麻薬の不法所持はその所持の目的原因の如何は問わないのであるから、かりに被告人の所持の目的が所論のように売買の仲介であつて自ら販売する目的でなかつたとしても、かかる目的に関する事実認定の相違は、犯罪の成否にも刑の量定にも影響するものではない。",
+  "ref_law": "麻薬取締法（昭和23年法律123号）3条",
+  "lawsuit_id": "72595",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=72595",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/595/072595_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 12,
+    "day": 4
+  },
+  "case_number": "昭和34(あ)1266",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第13巻12号3167頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 5,
+    "day": 8
+  },
+  "gist": "公職選挙法第二五二条第三項により、刑の執行猶予の期間を超える短縮期間を定めることは違法か。",
+  "case_gist": "公職選挙法第二五二条第三項により、刑の執行猶予の期間を超える短縮期間を定めても、それは執行猶予が取り消されることある場合に備えて法定の選挙権および被選挙権の停止期間を短縮する趣旨と解され、なんら違法でない。",
+  "ref_law": "公職選挙法252条",
+  "lawsuit_id": "55810",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55810",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/810/055810_hanrei.pdf"
+}

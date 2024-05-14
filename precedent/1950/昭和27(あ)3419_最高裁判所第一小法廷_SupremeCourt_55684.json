@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 3,
+    "day": 11
+  },
+  "case_number": "昭和27(あ)3419",
+  "case_name": "食糧管理法違反、贈賄",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第8巻3号270頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 2,
+    "day": 16
+  },
+  "gist": "刑法第三四条の二第一項の法意",
+  "case_gist": "刑法第三四条の二第一項に「刑ノ言渡ハ其効力ヲ失フ」とあるのは、刑の言渡に基く法的効果が将来に向つて消滅するという趣旨であつて、その刑の言渡を受けたという既往の事実そのものを、量刑判断にあたつて参酌することは、同条項に違反しない。",
+  "ref_law": "刑法34条の2第1項",
+  "lawsuit_id": "55684",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55684",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/684/055684_hanrei.pdf"
+}

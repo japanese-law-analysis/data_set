@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 8,
+    "day": 28
+  },
+  "case_number": "昭和30(オ)15",
+  "case_name": "土地明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第12巻12号1936頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 10,
+    "day": 1
+  },
+  "gist": "不動産所有権の時効取得と対抗要件。",
+  "case_gist": "時効により不動産の所有権を取得しても、その登記がないときは、時効完成後旧所有者から所有権を取得し登記を経た第三者に対し、その善意であると否とを問わず、所有権の取得を対抗できない。",
+  "ref_law": "民法177条",
+  "lawsuit_id": "52825",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52825",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/825/052825_hanrei.pdf"
+}

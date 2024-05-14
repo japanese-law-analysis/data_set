@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 8,
+    "day": 20
+  },
+  "case_number": "昭和30(あ)259",
+  "case_name": "窃盗、差押標示無効",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第11巻8号2090頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 12,
+    "day": 21
+  },
+  "gist": "法の不知と差押標示無効罪および窃盗罪の成立",
+  "case_gist": "杉立木一一本が警察より仮還付せられたものであるから伐採してもよいと信じていたとしても、いやしくも右杉立木を執行吏の占有に移す旨の仮処分命令にもとずき掲示された公示札の趣旨を知悉し、現実に右杉立木が執行吏の占有中にあることを認識しながらこれを伐採、搬出した所為は、差押標示無効罪および窃盗罪に該当する。",
+  "ref_law": "刑法38条，刑法96条，刑法235条",
+  "lawsuit_id": "51416",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51416",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/416/051416_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 12,
+    "day": 1
+  },
+  "case_number": "昭和25(あ)1865",
+  "case_name": "賍物運搬",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第4巻12号2472頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 6,
+    "day": 3
+  },
+  "gist": "訴因の変更と裁判書の件名",
+  "case_gist": "訴因が変更せられたからといつて、必ずしも裁判書の件名を変更する必要はない。",
+  "ref_law": "刑訴法312条",
+  "lawsuit_id": "54388",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54388",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/388/054388_hanrei.pdf"
+}

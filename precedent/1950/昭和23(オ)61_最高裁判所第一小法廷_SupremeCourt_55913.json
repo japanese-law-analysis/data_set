@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 4,
+    "day": 19
+  },
+  "case_number": "昭和23(オ)61",
+  "case_name": "共有物分割請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第5巻5号256頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 5,
+    "day": 12
+  },
+  "gist": "共有土地を共同で使用するのは民法第六六七条の「共同の事業を営むこと」にあたるか",
+  "case_gist": "土地の共有者が共同でその土地を使用することは共有土地の利用方法であつて、民法第六六七条の「共同の事業を営むこと」にあたらない。",
+  "ref_law": "民法259条，民法667条",
+  "lawsuit_id": "55913",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55913",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/913/055913_hanrei.pdf"
+}

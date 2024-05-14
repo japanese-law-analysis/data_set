@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 2,
+    "day": 24
+  },
+  "case_number": "昭和27(し)92",
+  "case_name": "強盗殺人並びに銃砲等所持禁止令違反被告事件について東京高等裁判所が言渡した有罪の確定判決に対する再審請求事件につき同裁判所がなした請求棄却の決定に対する即時抗告の申立",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第74号389頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 11,
+    "day": 10
+  },
+  "lawsuit_id": "69364",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=69364",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/364/069364_hanrei.pdf"
+}

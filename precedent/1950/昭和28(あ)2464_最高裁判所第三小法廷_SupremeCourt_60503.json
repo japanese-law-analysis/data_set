@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 3,
+    "day": 22
+  },
+  "case_number": "昭和28(あ)2464",
+  "case_name": "收賄",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第103号661頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 5,
+    "day": 7
+  },
+  "gist": "控訴趣意に対する判断の省略が違法でない場合",
+  "case_gist": "控訴審において控訴趣意第一点の事実誤認の主張を容れ第一審判決を破棄した上自ら犯罪事実を認定して有罪の判決をした場合においては、その他の控訴趣意に対する判断を省略してもそれが右控訴趣意第一点と同趣意に帰するものと認められる限り違法とはいえない。",
+  "ref_law": "刑訴法392条1項",
+  "lawsuit_id": "60503",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60503",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/503/060503_hanrei.pdf"
+}

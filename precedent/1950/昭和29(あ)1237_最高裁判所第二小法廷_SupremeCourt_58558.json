@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 2,
+    "day": 14
+  },
+  "case_number": "昭和29(あ)1237",
+  "case_name": "関税法違反、外国登録令違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第123号309頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 2,
+    "day": 12
+  },
+  "gist": "関税法による没収船舶の所有者認定の証拠説示の要否",
+  "case_gist": "所論Ａ丸の没収につきその所有者が何人であるかの事実は、刑訴三三五条にいう罪となるべき事実に属しないから、これを認めた証拠を判決に挙示する必要はない。",
+  "ref_law": "旧関税法（明治32年法律61号―昭和23年法律107号による改正後のもの）83条1項，関税法（昭和29年法律61号）118条1項，刑法19条，刑訴法335条1項",
+  "lawsuit_id": "58558",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58558",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/558/058558_hanrei.pdf"
+}

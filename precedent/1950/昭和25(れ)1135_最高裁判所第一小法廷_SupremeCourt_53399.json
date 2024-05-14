@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 1,
+    "day": 22
+  },
+  "case_number": "昭和25(れ)1135",
+  "case_name": "公務執行妨害、強要",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第7巻1号8頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 2,
+    "day": 21
+  },
+  "gist": "一　憲法第二八条にいわゆる「団体行動をする権利」の行使に該当しない一事例\n二　刑法第九五条第二項にいわゆる「公務員の処分」の意義",
+  "case_gist": "一　被告人等はいずれも昭和二二年度所得税更正決定に不正があると主張し納税民主化同盟及びその友誼団体に属する大衆を指導してその威力によりその主張を貫徹しようと企て、判示第一及び第二の如き脅迫行為に出でたというにあるから、その団体行動が憲法二八条の保障する団体行動権に基ずくものに該当しないこと多言を要しない。\n二　刑法第九五条第二項にいわゆる「公務員の処分」とはその公務員の職務に関係ある処分であればたり、その職務権限内の処分であると否とを問わない。",
+  "ref_law": "刑法95条，憲法28条",
+  "lawsuit_id": "53399",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53399",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/399/053399_hanrei.pdf"
+}

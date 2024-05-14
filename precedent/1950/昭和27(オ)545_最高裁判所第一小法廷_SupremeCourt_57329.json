@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 11,
+    "day": 27
+  },
+  "case_number": "昭和27(オ)545",
+  "case_name": "家屋収去、土地明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第6巻10号1062頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 5,
+    "day": 7
+  },
+  "gist": "一　留置権の基礎たる事実関係の主張があるにすぎない場合と留置権の抗弁に関する判断の要否\n二　当事者がある権利を取得したことを窺わしめる事実が訴訟上あらわれたにかからず右当事者がこれを行使しない場合における裁判所の責務",
+  "case_gist": "一　置留権のような権利抗弁にあつては、抗弁権取得の事実関係が訴訟上主張せられたとしても、権利者においてその権利を行使する意思を表明しないかぎり、裁判所においてこれを斟酌することはできない。\n二　当事者の一方がある権利を取得したことを窺わしめるような事実が訴訟上あらわれたにかかわらず、その当事者がこれを行使しない場合にあつても、裁判所はその者に対してその権利行使の意思の有無をたしかめ、あるいはその権利行使を促すべき責務はない。",
+  "ref_law": "民法295条，民訴法186条，民訴法127条",
+  "lawsuit_id": "57329",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57329",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/329/057329_hanrei.pdf"
+}

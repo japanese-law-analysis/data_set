@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 3,
+    "day": 8
+  },
+  "case_number": "昭和25(オ)119",
+  "case_name": "買収令書に因る行政処分取消請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第5巻4号151頁",
+  "original_court_name": "仙台高等裁判所\n        　秋田支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 3,
+    "day": 10
+  },
+  "gist": "買収農地を特定しない買収令書の違法",
+  "case_gist": "買収農地は、事実上特定されているのみでなく、買収令書で特定されていることを要する。",
+  "ref_law": "自作農創設特別措置法9条",
+  "lawsuit_id": "56006",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56006",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/006/056006_hanrei.pdf"
+}

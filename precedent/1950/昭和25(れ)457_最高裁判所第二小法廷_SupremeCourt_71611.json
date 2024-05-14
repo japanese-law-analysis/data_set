@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 2,
+    "day": 2
+  },
+  "case_number": "昭和25(れ)457",
+  "case_name": "強盗殺人、強盗、住居侵入",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第40号81頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 12,
+    "day": 26
+  },
+  "gist": "記録取寄決定の施行",
+  "case_gist": "原審が昭和二四年一〇年二四日の再開決定を為すにあたり、被告人に対する窃盗屠場法違反被告事件の記録を姫路区検察庁から取寄せる決定をしたことは所論のとおりであるが、原審裁判長はその第六回公判廷で右取寄記録中の被告人及びＡに対する各司法警察官の聴取書を読聞けていることに鑑み、該記録が前記公判廷に顕出されたものであることは明でもる。そして記録取寄の証拠決定をした場合には、所論のように記録全部について証拠調をしなくともその取寄記録を公判廷に顕出せしめれば証拠決定は完全に施行せられたことになるものといえるのであり他方原判決は右取寄記録を証拠にとつていないことは原判文で明であるから、所論は何れの点よりするも採用の限りでない。",
+  "ref_law": "旧刑訴法344条2項",
+  "lawsuit_id": "71611",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=71611",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/611/071611_hanrei.pdf"
+}

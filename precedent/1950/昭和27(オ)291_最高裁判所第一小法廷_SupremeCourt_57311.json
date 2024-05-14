@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 3,
+    "day": 17
+  },
+  "case_number": "昭和27(オ)291",
+  "case_name": "仮処分異議",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第9巻3号307頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 3,
+    "day": 15
+  },
+  "gist": "進駐車の接収使用中の土地について存する対抗要件を欠く賃借権とその対抗力",
+  "case_gist": "賃借している土地が、昭和二〇年勅令第六三六号土地工作物使用令第一一条によつて進駐車が接収使用中のものであつても、賃借人は賃貸借の登記があるか、またはその土地の上に登記した建物を有しない限り、その賃借権をもつて土地の新取得者に対抗できない。",
+  "ref_law": "民法605条，土地工作物使用令（昭和20年勅令第636号）11条",
+  "lawsuit_id": "57311",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57311",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/311/057311_hanrei.pdf"
+}

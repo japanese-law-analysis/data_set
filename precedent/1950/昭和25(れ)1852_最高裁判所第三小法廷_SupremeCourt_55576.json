@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 4,
+    "day": 3
+  },
+  "case_number": "昭和25(れ)1852",
+  "case_name": "強盗予備、強盗",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第5巻5号804頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 7,
+    "day": 31
+  },
+  "gist": "強盗予備罪と強盗罪が併合罪となる一事例",
+  "case_gist": "被告人が甲乙と強盗と共謀し被害者方に侵入しようとしたが強盗の目的を達せずその予備をした後、さらに乙、丙と右同一被害者方に強盗に押し入ることを共謀しその目的を遂げた場合は、強盗予備罪と強盗罪の併合罪となる。",
+  "ref_law": "刑法236条，刑法237条，刑法45条前段",
+  "lawsuit_id": "55576",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55576",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/576/055576_hanrei.pdf"
+}

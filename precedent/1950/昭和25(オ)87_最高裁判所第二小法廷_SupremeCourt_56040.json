@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 4,
+    "day": 27
+  },
+  "case_number": "昭和25(オ)87",
+  "case_name": "建物収去土地明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第5巻5号325頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 2,
+    "day": 14
+  },
+  "gist": "賃貸人の承諾のない転貸借と賃貸人の所有権に基く返還請求",
+  "case_gist": "土地所有者である賃貸人がその承諾のない転貸借によつてこれを占有する転借人に対して直接土地の返還を請求するについては、賃貸借契約を解除しまたは賃借人の承諾を得るを要しない。",
+  "ref_law": "民法601条，民法612条",
+  "lawsuit_id": "56040",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56040",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/040/056040_hanrei.pdf"
+}

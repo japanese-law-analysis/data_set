@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 10,
+    "day": 27
+  },
+  "case_number": "昭和29(オ)502",
+  "case_name": "貸金請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第9巻11号1720頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 4,
+    "day": 26
+  },
+  "gist": "いわゆる恩給担保の場合における恩給証書の返還と民法第五〇四条にいわゆる担保の喪失または減少",
+  "case_gist": "いわゆる恩給担保の場合に、債権者が、債務者から交付を受けた恩給証書を任意に債務者に返還しても、民法第五〇四条にいう「担保ヲ喪失又ハ減少シタル」ものとはいえない。",
+  "ref_law": "民法504条，民法500条",
+  "lawsuit_id": "57504",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57504",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/504/057504_hanrei.pdf"
+}

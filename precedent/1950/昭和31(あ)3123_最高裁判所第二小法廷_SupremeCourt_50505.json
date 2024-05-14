@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 7,
+    "day": 9
+  },
+  "case_number": "昭和31(あ)3123",
+  "case_name": "道路交通取締法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第12巻11号2424頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 7,
+    "day": 12
+  },
+  "gist": "鉄道踏切における遮断機の上昇開放と道路交通取締法第一五条但書。",
+  "case_gist": "鉄道踏切における遮断機の上昇開放は、道路交通取締法第一五条但書にいう「一時停車の義務を免除する事由」にあたらない。",
+  "ref_law": "道路交通取締法15条，道路交通取締法施行令1条4号",
+  "lawsuit_id": "50505",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50505",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/505/050505_hanrei.pdf"
+}

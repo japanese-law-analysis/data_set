@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 5,
+    "day": 7
+  },
+  "case_number": "昭和32(あ)979",
+  "case_name": "食糧管理法違反、傷害致死",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第129号643頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 2,
+    "day": 26
+  },
+  "gist": "通達に基き払下げられたビルマ米と食糧管理法の適用",
+  "case_gist": "一　本件ビルマ米が所論のごとく食糧管理法第四条第一項後段による払下でなく、所論通達に基く払下であるとしても、これをもつて食糧管理法の統制の枠外に置かれて自由な取引を許容されるものと解することはできない。\n二　註、通達＝昭和二五年四月一三日付食糧庁長官発二五食糧第三〇二三号「政府及食糧公団所有綜合配給不適格食糧の処理に関する件」\n昭和二六年九月一日付同長官発二六食糧第五六三五号「政府所有綜合配給不適食糧の処理について」",
+  "ref_law": "食糧管理法4条1項，食糧管理法2条，食糧管理法31条，食糧庁長官通達",
+  "lawsuit_id": "61095",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61095",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/095/061095_hanrei.pdf"
+}

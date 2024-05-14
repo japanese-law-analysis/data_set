@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 5,
+    "day": 31
+  },
+  "case_number": "昭和25(オ)125",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第5巻6号359頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 2,
+    "day": 15
+  },
+  "gist": "賃借権の譲渡または転貸を承諾しない家屋の賃貸人は賃貸借契約を解除せずに譲受人または転借人に対し明渡を求め得るか",
+  "case_gist": "賃借権の譲渡または転貸を承諾しない家屋の賃貸人は、賃借契約を解除しなくても、譲受人または転借人に対しその明渡を求めることができる。",
+  "ref_law": "民法612条",
+  "lawsuit_id": "56007",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56007",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/007/056007_hanrei.pdf"
+}

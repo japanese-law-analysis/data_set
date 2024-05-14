@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 8,
+    "day": 22
+  },
+  "case_number": "昭和26(オ)45",
+  "case_name": "株式名義書換請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "却下",
+  "article_info": "民集　第6巻8号707頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 12,
+    "day": 28
+  },
+  "gist": "受領者欄に受送達者の記名押印のある送達報告書用紙持参者に対してなされた民訴第一六三条による送達の適否",
+  "case_gist": "弁護士用の法律事務所に常勤し、甲の指揮命令を受けて法律事務に従事する弁護士乙が、係書記官から交付された判決正本送達報告書用紙に、受送達者甲の記名押印をして裁判所に持参し、係書記官から判決正本の交付を受けた場合、乙がかねて甲から同判決謄本の受領方を命ぜられ、そのための印鑑使用を許されていて、右印鑑を用いて同時にその判決正本を受領しても甲の意に反するものと思われないときは、右判決正本の交付は、甲に対する民訴第一六三条の送達として適法である。",
+  "ref_law": "民訴法163条",
+  "lawsuit_id": "57245",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57245",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/245/057245_hanrei.pdf"
+}

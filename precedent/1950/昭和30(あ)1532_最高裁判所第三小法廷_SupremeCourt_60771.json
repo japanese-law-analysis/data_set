@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 6,
+    "day": 25
+  },
+  "case_number": "昭和30(あ)1532",
+  "case_name": "食糧管理法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第119号581頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 5,
+    "day": 7
+  },
+  "gist": "弁護人に対する控訴趣意書提出最終日指定通知のなされなかつた違法とその治ゆ",
+  "case_gist": "所論のとおり、弁護人牟田真に対する控訴趣意書提出最終日指定通知の効力が認められず、従つて弁護人田原昇に対し右通知がなされていない違法があるとしても、本件記録によれば、被告人両名に対しては右通知が適法になされており、その弁護人田原昇において、右指定の提出期日最終日に控訴趣意書を提出しておるのみならず、原審第一回公判期日に出廷の上右の点については何らの異議を述べることもなく、自己の外牟田弁護人提出の各控訴趣意書に基づき陳述した事実が認められるから、所論通知のなされなかつた違法は治ゆされたものと解するを相当とする。",
+  "ref_law": "刑訴法376条，刑訴法389条，刑訴規則236条",
+  "lawsuit_id": "60771",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60771",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/771/060771_hanrei.pdf"
+}

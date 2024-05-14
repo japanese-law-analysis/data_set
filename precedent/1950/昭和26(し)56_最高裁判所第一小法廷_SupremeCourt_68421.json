@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 8,
+    "day": 9
+  },
+  "case_number": "昭和26(し)56",
+  "case_name": "窃盗被告事件について保釈請求の却下決定に対する抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第51号913頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 6,
+    "day": 8
+  },
+  "lawsuit_id": "68421",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=68421",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/421/068421_hanrei.pdf"
+}

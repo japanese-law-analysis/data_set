@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 12,
+    "day": 24
+  },
+  "case_number": "昭和26(あ)1567",
+  "case_name": "賍物故買",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "刑集　第8巻13号2336頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 12,
+    "day": 12
+  },
+  "gist": "自ら控訴申立をした第一審弁護人が差出した控訴趣意書の効力",
+  "case_gist": "自ら控訴の申立をした第一審弁護人が控訴趣意書差出期間内に控訴趣意書を提出した場合には、控訴審において弁護届の提出がなくても、その趣意書が撤回される等の特段の事情のない限り、右控訴趣意は審判の対象とさるべきである。",
+  "ref_law": "刑訴法355条，刑訴法376条，刑訴法32条2項，刑訴規則236条，刑訴規則18条",
+  "lawsuit_id": "56786",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56786",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/786/056786_hanrei.pdf"
+}

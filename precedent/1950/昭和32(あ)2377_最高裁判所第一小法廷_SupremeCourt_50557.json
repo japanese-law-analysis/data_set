@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 4,
+    "day": 10
+  },
+  "case_number": "昭和32(あ)2377",
+  "case_name": "業務上過失、致死傷害等",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第12巻5号877頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 8,
+    "day": 26
+  },
+  "gist": "一個の道路交通取締法違反（居眠り運転）行為と二個の刑法第二一一条にあたる行為とがそれぞれ想像的競合犯の関係にある場合とその擬律",
+  "case_gist": "一個の道路交通取締法違反（居眠り運転）行為と二個の刑法第二一一条にあたる行為とがそれぞれ想像的競合犯の関係にある本件の場合には、刑法第五四条第一項前段第一〇条を適用し一罪としてその最も重い刑に従い処断すべきものである",
+  "ref_law": "刑法10条，刑法54条1項前段，刑法211条，道路交通取締法7条1項，道路交通取締法2項3号，道路交通取締法28条1号",
+  "lawsuit_id": "50557",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50557",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/557/050557_hanrei.pdf"
+}

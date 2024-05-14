@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 3,
+    "day": 8
+  },
+  "case_number": "昭和25(あ)1591",
+  "case_name": "恐喝",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第5巻4号495頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 5,
+    "day": 31
+  },
+  "gist": "裁判資料に供されなかつた証人の費用を訴訟費用として被告人に負担させることの適否と刑訴法第四〇二条違反の有無",
+  "case_gist": "裁判資料に供されなかつた証人の費用を訴訟費用として刑の言渡をうけた被告人に負担せしめることは違法でない。また訴訟費用の負担は刑ではないのであるから、所論刑訴第四〇二条に違反するとの主張は当を得ない。",
+  "ref_law": "刑訴法181条，刑訴法402条",
+  "lawsuit_id": "54387",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54387",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/387/054387_hanrei.pdf"
+}

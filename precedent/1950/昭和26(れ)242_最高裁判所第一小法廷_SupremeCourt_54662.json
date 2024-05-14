@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 9,
+    "day": 27
+  },
+  "case_number": "昭和26(れ)242",
+  "case_name": "公務執行妨害、酒税法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第5巻10号1975頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 10,
+    "day": 14
+  },
+  "gist": "濁酒の醸造量と仕込原料の総量に関する経験則",
+  "case_gist": "濁酒の醸造量はその仕込原料よりも減少することが経験則に合致する。",
+  "ref_law": "酒税法（昭和24年法律43号による改正前）60条1項，酒税法（昭和24年法律43号による改正前）60条2項，旧刑訴法336条",
+  "lawsuit_id": "54662",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54662",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/662/054662_hanrei.pdf"
+}

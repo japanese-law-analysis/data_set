@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 11,
+    "day": 22
+  },
+  "case_number": "昭和24新(れ)252",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第4巻11号2372頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 10,
+    "day": 4
+  },
+  "gist": "一　破棄差戻判決に対する上告の適否\n\n二　職権による控訴審の事実の取調",
+  "case_gist": "一　高等裁判所のした破棄差戻の判決に対しては、上告することができる\n\n二　所論引用の判例（昭和二三年（れ）第九七八号同年一一月一八日第一小法廷判決）は、被告人の前科の有無を必ずしも前科調書により判断しなくてもよいというのであつて第一審判決後に取り寄せた前科回答書を控訴審が判断の資料としてはならない旨判示したものではないから、原判決を目して所論最高裁判所の判例と相反する判断をしたものとすることはできない。",
+  "ref_law": "刑訴法405条，刑訴法405条2号，刑訴法393条1項，刑法25条",
+  "lawsuit_id": "54354",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54354",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/354/054354_hanrei.pdf"
+}

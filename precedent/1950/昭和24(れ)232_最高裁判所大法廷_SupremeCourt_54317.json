@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 7,
+    "day": 19
+  },
+  "case_number": "昭和24(れ)232",
+  "case_name": "強盗殺人、死体遺棄",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第4巻8号1429頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 11,
+    "day": 15
+  },
+  "gist": "一　刑訴施行法第二條と憲法第一四條\n二　檢事が論告の際に附帶控訴を申立てることの適否\n三　附帶控訴による刑の不利益變更について裁判長が被告人に注意を與えることの要否",
+  "case_gist": "一　刑訴施行法第二條は、すべて同類型の事件に同様の取扱をなすものであつて、もとより憲法第一四條の平等の原則に違反するものではない。\n二　檢事が論告の際に附帶控訴を申立てたとの一事をもつて違法であると論結することはできない。\n三　辯護士の立會なき被告人に對しては、附帶控訴による刑の不利益變更について裁判長が注意を與えることは親切な取扱というべきであるが被告人の辯護機關として資格ある辯護士が立會つている場合には、裁判長がこれについて被告人に注意を與へる必要はない。",
+  "ref_law": "刑訴施行法2條，憲法14條，舊刑訴法399條，舊刑訴法403條",
+  "lawsuit_id": "54317",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54317",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/317/054317_hanrei.pdf"
+}

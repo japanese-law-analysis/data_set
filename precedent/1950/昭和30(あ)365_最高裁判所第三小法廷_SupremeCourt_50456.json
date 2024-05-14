@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 5,
+    "day": 27
+  },
+  "case_number": "昭和30(あ)365",
+  "case_name": "食糧管理法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第12巻8号1625頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 12,
+    "day": 21
+  },
+  "gist": "証人尋問請求の撤回があつたと認められる一事例",
+  "case_gist": "検察官の証人尋問請求の趣旨がその者の検察官に対する供述調書を刑訴第三二一条一項二号により証拠とするためになされたと認められる場合において、被告人がその証人尋問の施行に先立ち右書面を証拠とすることに同意した場合には右証人尋問請求は撤回されたものと認めることができる",
+  "ref_law": "刑訴法298条1項，刑訴法321条1項2号",
+  "lawsuit_id": "50456",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50456",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/456/050456_hanrei.pdf"
+}

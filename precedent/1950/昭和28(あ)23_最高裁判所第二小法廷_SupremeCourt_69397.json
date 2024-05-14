@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 6,
+    "day": 4
+  },
+  "case_number": "昭和28(あ)23",
+  "case_name": "賍物故買",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第96号103頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 11,
+    "day": 18
+  },
+  "lawsuit_id": "69397",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=69397",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/397/069397_hanrei.pdf"
+}

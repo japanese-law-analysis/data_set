@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 7,
+    "day": 8
+  },
+  "case_number": "昭和33(ク)371",
+  "case_name": "上告却下決定に対する特別抗告",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "民集　第13巻7号955頁",
+  "original_court_name": "広島高等裁判所\n        　松江支部",
+  "original_case_number": "昭和33(ネオ)25",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 8,
+    "day": 20
+  },
+  "gist": "上告理由書提出期間の遵守の有無を到達主義によつて決することと憲法第一四条。",
+  "case_gist": "民訴規則第五〇条の定める上告理由書提出期間の遵守の有無を到達主義によつて決しても憲法第一四条に違反しない。",
+  "ref_law": "憲法14条，民訴法398条1項，民訴規則50条",
+  "lawsuit_id": "56232",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56232",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/232/056232_hanrei.pdf"
+}

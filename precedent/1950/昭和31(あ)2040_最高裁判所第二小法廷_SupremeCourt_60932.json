@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 10,
+    "day": 31
+  },
+  "case_number": "昭和31(あ)2040",
+  "case_name": "殺人、同未遂",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第115号269頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 5,
+    "day": 1
+  },
+  "gist": "未決勾留日数を本刑に算入したことが違憲との主張と上告理由。",
+  "case_gist": "上告趣意第一点は原判決が未決勾留の日数を本刑に算入したことを非難するのであるがこれは、自ら不利益な時効を主張するに帰するものというの外なく、その他所論は未決勾留の違憲性が原判決の違法を来す事由について、何ら説明するところなく、上告適法の理由として採用することはできない。",
+  "ref_law": "刑法21条，憲法18条，刑訴法405条1号",
+  "lawsuit_id": "60932",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60932",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/932/060932_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 3,
+    "day": 5
+  },
+  "case_number": "昭和32(す)113",
+  "case_name": "麻薬取締法違反被告事件につきなした上告棄却の決定に対する異議申立",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第11巻3号995頁",
+  "original_court_name": "最高裁判所",
+  "original_case_number": "昭和29(あ)3962",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 2,
+    "day": 5
+  },
+  "gist": "被告人の住居の記載の誤を理由とする上告棄却決定に対する異議申立の適否",
+  "case_gist": "上告棄却決定に対する異議申立が、単に被告人の住居の記載の訂正を求めるもので、裁判の内容に誤があることを理由とするものでないときは、その申立は不適法である。",
+  "ref_law": "刑訴法385条2項，刑訴法386条2項，刑訴法428条2項",
+  "lawsuit_id": "50583",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50583",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/583/050583_hanrei.pdf"
+}

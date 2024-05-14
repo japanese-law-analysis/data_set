@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 10,
+    "day": 13
+  },
+  "case_number": "昭和27(あ)2161",
+  "case_name": "窃盗、同幇助",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第87号295頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 3,
+    "day": 11
+  },
+  "gist": "争議中の労働者の賃金支払にあてるため工場資材を工場外に搬出することを教唆するが如き言動と言論の自由",
+  "case_gist": "労働者に、生産管理中の工場から、争議期間中の賃金支払にあてる目的をもつてほしいままに工場資材を工場外に搬出することを教唆する所為は言論の自由の範囲を逸脱し許さるべきものではない（昭和二四年（れ）第四九八号同二七年一月九日大法廷判決、昭和二三年（れ）第一三〇八号同二四年五月一八日大法廷判決参照）。",
+  "ref_law": "刑法235条，刑法61条，憲法21条",
+  "lawsuit_id": "72401",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=72401",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/401/072401_hanrei.pdf"
+}

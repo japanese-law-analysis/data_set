@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 9,
+    "day": 28
+  },
+  "case_number": "昭和29(あ)2899",
+  "case_name": "公職選挙法違反、昭和二五年政令第三二五号違反",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第9巻10号2084頁",
+  "original_court_name": "仙台高等裁判所\n        　秋田支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 8,
+    "day": 17
+  },
+  "gist": "昭和二七年政令第一一七号大赦令第二条にいう「他の罪名に触れる行為」の意義",
+  "case_gist": "昭和二七年政令第一一七号大赦令第二条にいう「他の罪名に触れる行為」とは平和条約発効後も犯罪として存続し且つ赦免されない罪にあたる行為をいい、平和条約発効と共に刑の廃止となり処罰し得なくなる行為はこれを含まない。",
+  "ref_law": "大赦令（昭和27年政令117号）1条5号，大赦令（昭和27年政令117号）23号ロ，大赦令（昭和27年政令117号）2条，刑法54条1項，昭和27年4月28日内閣告示1号",
+  "lawsuit_id": "56917",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56917",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/917/056917_hanrei.pdf"
+}

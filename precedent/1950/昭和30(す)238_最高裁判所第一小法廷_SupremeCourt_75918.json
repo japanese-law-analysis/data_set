@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 8,
+    "day": 18
+  },
+  "case_number": "昭和30(す)238",
+  "case_name": "詐欺被告事件につきなした上告棄却決定に対する裁判の解釈を求める申立",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第108号187頁",
+  "original_court_name": "最高裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 6,
+    "day": 9
+  },
+  "gist": "刑訴第五〇一条にいう「裁判の解釈について疑があるとき」の意義",
+  "case_gist": "刑訴五〇一条にいう「裁判の解釈について疑があるとき」とは、裁判の主文の趣旨が明瞭でなく、その解釈につき疑義がある場合のことで、被告人の上告を棄却した本件はかような疑義なきこと明瞭であるのみでなく、刑訴法にいう刑の言渡をした裁判所ともいえないから、右いずれの点からも本件申立は不適法で棄却すべきものである。",
+  "ref_law": "刑訴法501条",
+  "lawsuit_id": "75918",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=75918",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/918/075918_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 5,
+    "day": 6
+  },
+  "case_number": "昭和28(あ)3321",
+  "case_name": "賍物牙保",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第95号49頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 3,
+    "day": 4
+  },
+  "gist": "上告理由として被告人に不利益な主張となる一事例",
+  "case_gist": "上告趣意第二点は賍物牙保罪と印紙犯罪処罰法二条の罪との間に刑法五四条一項前段の適用を主張し原判決の認定した前者の罪のほか新らたに後者の罪の成立をも主張するのであつて、被告人に不利益な主張であるから不適法である。",
+  "ref_law": "刑訴法402条，刑訴法411条1号",
+  "lawsuit_id": "75408",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=75408",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/408/075408_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 6,
+    "day": 29
+  },
+  "case_number": "昭和28(あ)685",
+  "case_name": "窃盗、横領、偽害",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第8巻6号985頁",
+  "original_court_name": "広島高等裁判所\n        　松江支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 12,
+    "day": 1
+  },
+  "gist": "同一事件が数個の簡易裁判所に係属している場合に、関連事件の係属している地方裁判所は、後に起訴された事件を併せて審判することができるか",
+  "case_gist": "同一の傷害事件が数個の簡易裁判所に別々に起訴され、同時に係属する場合において、上級の地方裁判所に窃盗等の関連事件が係属しているときは、同地方裁判所は刑訴第一一条にかかわらず、後に起訴された傷害事件を併せて審判することができる。（本件においては先に起訴された傷害事件は略式命令謄本の不送達によりその後失効した場合に関する。）",
+  "ref_law": "刑訴法5条1項，刑訴法10条1項，刑訴法11条1項，刑訴法339条1項5号",
+  "lawsuit_id": "54741",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54741",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/741/054741_hanrei.pdf"
+}

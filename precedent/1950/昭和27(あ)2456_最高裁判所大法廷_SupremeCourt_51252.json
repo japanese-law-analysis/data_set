@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 10,
+    "day": 9
+  },
+  "case_number": "昭和27(あ)2456",
+  "case_name": "関税法違反",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "刑集　第11巻10号2509頁",
+  "original_court_name": "福岡高等裁判所\n        　宮崎支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 2,
+    "day": 6
+  },
+  "gist": "外国とみなされていた地域からの貨物無免許輸入の罪と、右地域が外国とみなされなくなつたことによる刑の廃止の有無",
+  "case_gist": "北緯三〇度以南の南西諸島（口之島を含む）が外国とみなされていた当時免許を受けないで貨物を同地域から日本内地に密輸入した罪については、その後右地域が外国とみなされなくなつた場合は、犯罪後の法令により刑が廃止されたものと解すべきである。",
+  "ref_law": "旧関税法（明治32年法律61号−昭和24年法律65号により改正のもの）104条，旧関税法（昭和25年法律117号により改正されたもの）76条，関税法104条、関税定率法12条及び噸税法8条の規定に基き附属島しよを定める等の省令（昭和24年大蔵省令36号），右省令の一部を改正する省令（昭和27年大蔵省令5号），刑法6条，刑訴法337条2号，刑訴法411条5号",
+  "lawsuit_id": "51252",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51252",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/252/051252_hanrei.pdf"
+}

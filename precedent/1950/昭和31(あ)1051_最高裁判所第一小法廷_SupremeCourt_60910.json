@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 7,
+    "day": 26
+  },
+  "case_number": "昭和31(あ)1051",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第114号377頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 1,
+    "day": 31
+  },
+  "gist": "被告人の生年月日を自白だけで認定したという違憲の主張が、その前提を欠く事例",
+  "case_gist": "被告人の上告趣意は、第一、二審裁判所は、憲法、判例に反し被告人の強要された自白に基き、しかも、補強証拠なく自白だけで被告人の生年月日が昭和一〇年一二月一四日であるのを成年者と認定し、従つて、少年法に従わない控訴手続違反があるというに帰する。しかし、被告人の生年月日が第一、二審裁判所が認定したとおり昭和七年一二月一四日であることは、本件第一審記録中の指紋照合回答票で明らかであつて、従つて被告人の自白だけで認定したものでないこと明白であるから所論違憲の主張は、その前提を欠く。",
+  "ref_law": "憲法38条3項，刑訴法405条，刑訴法319条2項，少年法2条",
+  "lawsuit_id": "60910",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60910",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/910/060910_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 12,
+    "day": 6
+  },
+  "case_number": "昭和25(あ)3344",
+  "case_name": "傷害、器物毀棄、恐喝未遂",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第58号93頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 7,
+    "day": 5
+  },
+  "gist": "第一審判決の冒頭説示を量刑の判断に供することと憲法第三九条",
+  "case_gist": "論旨に摘示する第一審判決の冒頭判示は被告人の経歴としての説示にとどまつて、同判決がこれを事由として累犯加重をしていないことは判文上明らかなところであり、仮りに第一審がこれを情状として量刑の判断資料に供したとしても、かかる事実を量刑の資料に供しても所論憲法の規定に違反するものでないと解すべきことは昭和二四年（れ）一二六〇号同年一二月二一日大法廷判決（判例集三巻一二号二〇六二頁以下）の趣旨とするところである。",
+  "ref_law": "憲法39条，刑法56条，刑法57条",
+  "lawsuit_id": "67499",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=67499",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/499/067499_hanrei.pdf"
+}

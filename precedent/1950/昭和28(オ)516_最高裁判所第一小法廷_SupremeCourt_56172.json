@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 10,
+    "day": 14
+  },
+  "case_number": "昭和28(オ)516",
+  "case_name": "市議会議員選挙無効裁決取消請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第8巻10号1858頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 4,
+    "day": 20
+  },
+  "gist": "一　選挙の効力に関する訴願で主張されていない事実を、選挙の効力に関する判決の基礎とすることの可否\n二　選挙の効力に関する訴願裁決庁の職権による事実探知の可否\n三　選挙争訟における公職選挙法第二〇九条の二の適用の有無",
+  "case_gist": "一　選挙の効力に関する訴願で主張されていない事実でも、訴訟で当事者が主張した事実は選挙の効力に関する判決の基礎とすることができる。\n二　選挙の効力に関する訴願の審理に際し、裁決庁は訴願人の主張しない事実を職権によつて探知することができる。\n三　公職選挙法第二〇九条の二は当選の効力に関する争訟についての規定であつて、選挙の効力について争訟が提起された場合には適用がない。",
+  "ref_law": "公職選挙法202条，公職選挙法203条，公職選挙法209条の2",
+  "lawsuit_id": "56172",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56172",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/172/056172_hanrei.pdf"
+}

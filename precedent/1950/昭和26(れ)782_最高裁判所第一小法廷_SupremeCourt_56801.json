@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 7,
+    "day": 12
+  },
+  "case_number": "昭和26(れ)782",
+  "case_name": "住居侵入",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第5巻8号1432頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 10,
+    "day": 30
+  },
+  "gist": "一　正当争議行為にあたらない一事例\n二　争議行為にあたらない一事例",
+  "case_gist": "一　労働争議中の工場に擅に入場する行為は、たとえ争議目的達成のためなされたしても、憲法第二八条、労働組合法第一条の正当行為にあたらない。\n二　労働関係の当事者たる労働組合員以外の者が、労働争議中組合の争議行為を応援するためにした行為は、争議行為にあたらない。",
+  "ref_law": "憲法28条，労働組合法1条（昭和24年法律174号による改正前のもの），労働関係調整法6条，刑法130条",
+  "lawsuit_id": "56801",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56801",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/801/056801_hanrei.pdf"
+}

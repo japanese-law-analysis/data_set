@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 11,
+    "day": 13
+  },
+  "case_number": "昭和26(れ)2321",
+  "case_name": "強盗傷人",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第88号347頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 6,
+    "day": 30
+  },
+  "gist": "「旧刑事訴訟法事件の控訴審及び上告審における審判の特例に関する規則」第六条によつて事実の摘示証拠の説明を記載した判決の趣旨",
+  "case_gist": "「旧刑事訴訟法事件の控訴審及び上告審における審判の特例に関する規則」第六条により、判決の事実の摘示証拠の説明として、「罪となるべき事実は原審判決に記載してある通りであつて、右は控訴申立人において不服のないところである」と記載した控訴審判決は、右規則第五条に則つて、被告人に不服のない限度において、第一審判決の認定した事実によつた旨を明らかにしたものであつて、控訴審における被告人の自白で犯罪事実を認定した趣旨ではない。",
+  "ref_law": "旧刑訴事件の上訴審における審判の特例規則5条，旧刑訴事件の上訴審における審判の特例規則6条，旧刑訴法360条1項，新刑訴法335条1項",
+  "lawsuit_id": "72105",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=72105",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/105/072105_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 3,
+    "day": 30
+  },
+  "case_number": "昭和33(オ)1119",
+  "case_name": "市長選挙当選の効力に関する訴願裁決取消請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第13巻3号427頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 9,
+    "day": 29
+  },
+  "gist": "佐賀県モーターボート競走会会長辞任の意思表示の解釈。",
+  "case_gist": "佐賀県モーターボート競走会会長辞任の意思表示が会長のみを辞任する趣旨のものか理事をも辞任する趣旨のものであるかは、同会役員選任手続に関する慣習や辞任の動機等をも考慮して真意に副うように解釈すべきである。",
+  "ref_law": "地方自治法142条（昭和31年法律147号による改正前），公職選挙法104条（昭和31年法律148号による改正前）",
+  "lawsuit_id": "54880",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54880",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/880/054880_hanrei.pdf"
+}

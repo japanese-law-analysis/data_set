@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 5,
+    "day": 19
+  },
+  "case_number": "昭和29(あ)3030",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集刑　第105号507頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 6,
+    "day": 29
+  },
+  "gist": "刑訴第四一一条にあたる一事例  ―量刑の不当―",
+  "case_gist": "原判決の是認した第一審判決の被告人Ａの所為に対する法律適用において、買収の点につき公職選挙法二二一条第一項一号の規定のほか同法第一二九条を適用した点並びに本件一個の行為にして数個の罪名に触れる場合の法定刑の比較をするに際し、まず各条の所定刑の選択をした点等その法律適用の措置失当であるばかりでなく、同被告人に対する本件犯罪の日時、金額、犯罪の態様、被告人の経歴その他記録に現われた一切の情状を綜合すると、同被告人に対する刑は甚だしく不当であつて、刑訴第四一一条を適用して同判決を破棄するを相当とする。",
+  "ref_law": "刑訴法411条",
+  "lawsuit_id": "60648",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60648",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/648/060648_hanrei.pdf"
+}

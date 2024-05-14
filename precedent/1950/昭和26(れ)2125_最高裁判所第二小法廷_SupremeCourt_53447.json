@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 3,
+    "day": 27
+  },
+  "case_number": "昭和26(れ)2125",
+  "case_name": "殺人",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第7巻4号680頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 6,
+    "day": 23
+  },
+  "gist": "鑑定書にもとずく動機の認定が実験則に違反しない一事例",
+  "case_gist": "被告人が昭和二三年一一月一二日同一会社に事務員として勤務中の婦女を殺害した動機は、被告人が同年七月頃より被害者と情交関係を結び、その結果同女は妊娠したので会社における自己の立場に鑑みその処置に苦慮したがためであると認めるにあたり（情交から殺害までの期間四ケ月余）、被害者が妊娠六ケ月に達する男性の胎児を有する旨の鑑定書を証拠として採用しても、右の認定に実験則の違反はない。",
+  "ref_law": "旧刑訴法336条，旧刑訴法337条，旧刑訴法221条1項",
+  "lawsuit_id": "53447",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53447",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/447/053447_hanrei.pdf"
+}

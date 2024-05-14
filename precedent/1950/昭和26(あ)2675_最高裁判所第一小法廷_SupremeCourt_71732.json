@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 11,
+    "day": 13
+  },
+  "case_number": "昭和26(あ)2675",
+  "case_name": "脅迫",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第69号269頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 1,
+    "day": 19
+  },
+  "gist": "控訴審における判決宣告期日の指定及びその通知に関する手続上の瑕疵が判決に影響を及ぼさない一事例",
+  "case_gist": "判決宣告期日が如何にして指定されたか、またその期日の通知が弁護人及び被告人等になされたものであるか否かを記録上窺い知る由もないときは原審の訴訟手続が適法になされたものといい得ないが、前示裁判宣告期日には弁護人三名が出廷していること明らかでその公判手続の公正に行われたことは認め得るのであるから、右手続上の瑕疵は原判決に影響がない。",
+  "ref_law": "刑訴法273条，刑訴法411条",
+  "lawsuit_id": "71732",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=71732",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/732/071732_hanrei.pdf"
+}

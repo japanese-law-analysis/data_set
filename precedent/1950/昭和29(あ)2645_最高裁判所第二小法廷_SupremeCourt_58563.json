@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 3,
+    "day": 2
+  },
+  "case_number": "昭和29(あ)2645",
+  "case_name": "単純収賄、贈賄",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第118号1頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 6,
+    "day": 3
+  },
+  "lawsuit_id": "58563",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58563",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/563/058563_hanrei.pdf"
+}

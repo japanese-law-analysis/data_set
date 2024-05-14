@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 7,
+    "day": 20
+  },
+  "case_number": "昭和28(あ)5069",
+  "case_name": "公務執行妨害、建造物侵入",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第114号331頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 8,
+    "day": 14
+  },
+  "gist": "同時に同一場所で数名の県事務吏員の公務の執行を妨害した場合の罪数",
+  "case_gist": "原判決は、被告人Ａが判示の如き言動によりＢ等五名の群馬県事務吏員を脅迫して差押物件の引揚を断念せしめ、以て一個の行為によつて右公務員等の公務執行を妨害した事実を認定したのであるから、同判決がこれに対し刑法九五条一項、同五四条一項前段の規定を適用し一罪として処断したのは相当である（昭和二四年（れ）第一三九号同二六年五月一六日大法廷判決、集五巻六号一一六〇頁参照）。",
+  "ref_law": "刑法95条1項，刑法54条1頁前段",
+  "lawsuit_id": "60552",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60552",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/552/060552_hanrei.pdf"
+}

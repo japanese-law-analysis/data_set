@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 11,
+    "day": 28
+  },
+  "case_number": "昭和26(オ)326",
+  "case_name": "土地買収取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第6巻10号1073頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 5,
+    "day": 12
+  },
+  "gist": "一　自作農創設特別措置法第九条第一項但書による公告と同法第四七条の二前段の出訴期間\n二　自作農創設特別措置法第九条第一項但書にいう「令書の交付をすることができないとき」の一事例",
+  "case_gist": "一　自作農創設特別措置法第九条第一項但書の公告が適法になされたときは、同法第四七条の二前段所定の出訴期間は、右公告の日から起算すべきである。\n二　農地委員会が買収令書の受領方を土地所有者に通知し、かつ、その後、委員会のおかれている村役場内で委員会の書記が右買収令書の受領方を促したにかかわらず、右土地所有者が係争中であるという理由でその受領方を拒絶した場合は、同方第九条第一項但書にいう「令書の交付をすることができないとき」にあたるものと解すべきである。",
+  "ref_law": "自作農創設特別措置法9条1項，自作農創設特別措置法47条の2",
+  "lawsuit_id": "57228",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57228",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/228/057228_hanrei.pdf"
+}

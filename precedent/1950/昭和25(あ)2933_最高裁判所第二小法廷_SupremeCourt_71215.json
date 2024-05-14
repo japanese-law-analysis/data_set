@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 2,
+    "day": 15
+  },
+  "case_number": "昭和25(あ)2933",
+  "case_name": "酒税法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第61号19頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 9,
+    "day": 29
+  },
+  "lawsuit_id": "71215",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=71215",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/215/071215_hanrei.pdf"
+}

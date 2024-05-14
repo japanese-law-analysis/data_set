@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 5,
+    "day": 31
+  },
+  "case_number": "昭和26(あ)1319",
+  "case_name": "昭和二二年勅令第一号違反および公職選挙法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第46号859頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 3,
+    "day": 15
+  },
+  "gist": "公職追放者の選挙運動と公職追放令第一六条第七号にあたる事例",
+  "case_gist": "一　いわゆる公職追放者が選挙運動をすれば当然公職に関する就職禁止、退官、退職等に関する勅令第一五条一項に違反し、同第一六条七号に該当することは条文上明白であつて、所論引用の当裁判所判例を俟つまでもないのである。\n注\n　第一審判決は「被告人は、選挙運動者Ａから甲が立候補した際は、甲の選挙運動者に予定されている乙、丙、丁に投票取纒その他の選挙運動の費用及び報酬として金五万円を供与されたい旨の依頼を受けこれを諒承の上Ａから五万円の交付を受け以つて政治活動をした」とするもの。",
+  "ref_law": "公職追放令（昭和22年勅令1号）15条1項，公職追放令（昭和22年勅令1号）16条7号",
+  "lawsuit_id": "68043",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=68043",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/043/068043_hanrei.pdf"
+}

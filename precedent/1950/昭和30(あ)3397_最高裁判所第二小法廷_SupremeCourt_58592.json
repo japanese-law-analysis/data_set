@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 9,
+    "day": 3
+  },
+  "case_number": "昭和30(あ)3397",
+  "case_name": "業務上過失致死",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第127号65頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 10,
+    "day": 25
+  },
+  "gist": "貨物自動車運転者が交叉点で同一方向に歩行している児童を認めた場合の注意義務。",
+  "case_gist": "貨物自動車運転者が道路の交叉点を右折しようとするにあたり、該交叉点に差しかかる六、七米手前において同一方向に歩行している児童の姿を認めた場合には、車体を歩行者に接触せしめないよう前方左右を警戒し、警音器を吹鳴し、または極度に徐行するか、あるいは停車する等危害の発生を未然に防止すべき業務上の注意義務がある。",
+  "ref_law": "刑法211条",
+  "lawsuit_id": "58592",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58592",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/592/058592_hanrei.pdf"
+}

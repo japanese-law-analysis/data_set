@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 4,
+    "day": 24
+  },
+  "case_number": "昭和32(あ)2994",
+  "case_name": "外国人登録法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第12巻6号1154頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 10,
+    "day": 14
+  },
+  "gist": "外国人登録法第一八条第一項第八号前段の罪の成立時期",
+  "case_gist": "外国人登録法第一八条第一項第八号前段の罪は、同法第一四条第一項所定の各申請をする者が、その申請に際し登録原票等に指紋を押なつしなかつたときは直ちに成立し、その後になつて指紋を押なつしても、同罪の成立に何らの影響を及ぼすものではない",
+  "ref_law": "外国人登録法14条1項，外国人登録法14条2項，外国人登録法11条1項，外国人登録法18条1項8号",
+  "lawsuit_id": "50569",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50569",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/569/050569_hanrei.pdf"
+}

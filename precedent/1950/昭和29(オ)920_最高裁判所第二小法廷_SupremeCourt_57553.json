@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 2,
+    "day": 15
+  },
+  "case_number": "昭和29(オ)920",
+  "case_name": "土地引渡並びに損害金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第11巻2号270頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 9,
+    "day": 21
+  },
+  "gist": "会社の代表者として土地を所持する者の占有権の有無",
+  "case_gist": "株式会社の代表取締役が会社の代表者として土地を所持する場合には、右土地の直接占有者は会社自身であつて、代表者は、個人のためにもこれを所持するものと認めるべき特段の事情がないかぎり、個人として占有者たる地位にあるものとはいえない。",
+  "ref_law": "民法180条，民法181条",
+  "lawsuit_id": "57553",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57553",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/553/057553_hanrei.pdf"
+}

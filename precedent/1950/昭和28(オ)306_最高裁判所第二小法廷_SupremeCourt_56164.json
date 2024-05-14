@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 4,
+    "day": 30
+  },
+  "case_number": "昭和28(オ)306",
+  "case_name": "仮処分申請",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第8巻4号897頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 3,
+    "day": 19
+  },
+  "gist": "一　民訴第七五九条の特別事情は仮処分申請事件の口頭弁論において抗弁として主張できるか\n二　被保全権利と金銭的補償能否の判断の標準",
+  "case_gist": "一　民訴第七五九条の特別事情による仮処分取消の申立は、仮処分申請事件の口頭弁論において、抗弁としてなすこともできる。\n二　仮処分によつて保全せらるべき権利が金銭的補償によつてその終局の目的を達し得るかどうかは、本案訴訟における請求の内容および当該仮処分の目的等諸般の状況に照らし、社会通念に従い客観的に考察し判断すべきものである。",
+  "ref_law": "民訴法759条",
+  "lawsuit_id": "56164",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56164",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/164/056164_hanrei.pdf"
+}

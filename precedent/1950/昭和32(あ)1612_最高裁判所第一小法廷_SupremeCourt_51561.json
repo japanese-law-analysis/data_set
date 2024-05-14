@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 11,
+    "day": 28
+  },
+  "case_number": "昭和32(あ)1612",
+  "case_name": "業務上横領収賄",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第11巻12号3148頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 5,
+    "day": 9
+  },
+  "gist": "収賄罪の成立する一事例。",
+  "case_gist": "地方法務局支局長が、不動産登記法第一一条の二の規定によりいわゆる登記事務を取扱う者として指定されていなくとも、不動産登記申請者のため、自己の指揮監督下にある同支局不動産登記係に命じて登記申請書ならびにその附属書類の書式を作成させる等登記申請が滞りなく受理されるよう便宜を図りその謝礼として金員の給与を受けた場合は、公務員収賄罪が成立する。",
+  "ref_law": "刑法197条，不動産登記法11条の2，法務局及び地方法務局組織規程15条，法務局及び地方法務局組織規程13条，法務局及び地方法務局組織規程2条2項",
+  "lawsuit_id": "51561",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51561",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/561/051561_hanrei.pdf"
+}

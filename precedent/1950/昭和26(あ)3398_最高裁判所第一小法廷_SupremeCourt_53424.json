@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 10,
+    "day": 30
+  },
+  "case_number": "昭和26(あ)3398",
+  "case_name": "賍物運搬",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第6巻9号1122頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 6,
+    "day": 28
+  },
+  "gist": "窃盗の訴因を賍物運搬の訴因に変更することが許される事例。",
+  "case_gist": "「被告人ＩはＫと共謀して昭和二五年一二月二日頃堺市ａ町ｂ丁目)ｃ番地ｊで自転車一台及び飴一瓶を窃取した。」との窃盗の訴因を「被告人Ｉは同日右ｊ附近までＫと同行し同人の依頼により賍品たる自転車等をその情を知りながら大阪市ｄ区ｅ町ｆ丁目ｇ番地附近まで運搬した。」との賍物運搬の訴因に変更することは差支えない。",
+  "ref_law": "刑訴法312条",
+  "lawsuit_id": "53424",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53424",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/424/053424_hanrei.pdf"
+}

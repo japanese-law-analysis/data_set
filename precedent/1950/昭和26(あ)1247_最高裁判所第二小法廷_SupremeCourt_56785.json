@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 10,
+    "day": 22
+  },
+  "case_number": "昭和26(あ)1247",
+  "case_name": "詐欺、自転車競技法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第8巻10号1616頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 12,
+    "day": 6
+  },
+  "gist": "競輪選手が八百長レースにより賞金、払戻金を受領する行為と詐欺罪の成否",
+  "case_gist": "競輪選手が他の選手（又は第三者）と通謀して実力に非ざる競技をなすいわゆる八百長レースにより賞金及び払戻金を受領する行為は、刑法の詐欺罪を構成する。",
+  "ref_law": "刑法246条，自転車競技法23条（昭和27年法律220号による改正前の同法16条）",
+  "lawsuit_id": "56785",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56785",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/785/056785_hanrei.pdf"
+}

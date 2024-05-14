@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 2,
+    "day": 4
+  },
+  "case_number": "昭和27(あ)1534",
+  "case_name": "強盗殺人、死体遺棄、詐欺強盗予備",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第92号87頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 11,
+    "day": 10
+  },
+  "lawsuit_id": "72372",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=72372",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/372/072372_hanrei.pdf"
+}

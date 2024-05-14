@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 3,
+    "day": 27
+  },
+  "case_number": "昭和32(あ)2914",
+  "case_name": "たばこ専売法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第12巻4号697頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 10,
+    "day": 30
+  },
+  "gist": "製造たばこ無指定販売罪幇助犯の公訴事実の記載方法",
+  "case_gist": "製造たばこ無指定販売罪の幇助犯の公訴事実を起訴状に記載するには、日本専売公社より製造たばこの小売人として指令を受けない者が製造たばこを販売したこと、ならびにその販売を容易ならしめた具体的行為の日時、場所、方法を特定して記載するをもつて足るものと解するを相当とする。",
+  "ref_law": "たばこ専売法29条2項，たばこ専売法71条5号，刑訴法256条，刑法62条",
+  "lawsuit_id": "50566",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50566",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/566/050566_hanrei.pdf"
+}

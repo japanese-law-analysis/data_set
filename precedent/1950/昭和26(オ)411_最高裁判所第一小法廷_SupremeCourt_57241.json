@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 2,
+    "day": 11
+  },
+  "case_number": "昭和26(オ)411",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第8巻2号401頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 6,
+    "day": 20
+  },
+  "gist": "債権者に対する供託受領証書の交付は弁済供託の有効要件か",
+  "case_gist": "債権者に対し供託受領証書を交付することは弁済供託の有効要件ではなく、弁済の効力は供託によつて生ずると解するのが相当である。",
+  "ref_law": "民法494条",
+  "lawsuit_id": "57241",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57241",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/241/057241_hanrei.pdf"
+}

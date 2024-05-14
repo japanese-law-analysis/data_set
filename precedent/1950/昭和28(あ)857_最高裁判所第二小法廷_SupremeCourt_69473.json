@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 6,
+    "day": 30
+  },
+  "case_number": "昭和28(あ)857",
+  "case_name": "道路交通取締法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第96号605頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 1,
+    "day": 20
+  },
+  "gist": "控訴審において控訴を棄却する場合には如何なる時期を標準として少年法第五二条の適用の適否を判断すべきか",
+  "case_gist": "上訴審において原判決を破棄し自判する場合においては、その自判する時を標準として少年法五二条を適用すべきや否やを決すべきであるが（昭和二六年（あ）第一二四一号同年八月一七日第二小法廷判決、集五巻九号参照）控訴審が控訴を理由ないものとして棄却する場合においては、第一審判決時を基準として被告人に少年法を適用するか否かを決すべきものと解するを相当とする（昭和二六年（あ）第三一一五号同二八年一月二七日第三小法廷判決参照）から原判決には所論判例違反並びに法令の適用を誤つた違法はない。",
+  "ref_law": "刑訴法396条，刑訴法380条，少年法52条",
+  "lawsuit_id": "69473",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=69473",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/473/069473_hanrei.pdf"
+}

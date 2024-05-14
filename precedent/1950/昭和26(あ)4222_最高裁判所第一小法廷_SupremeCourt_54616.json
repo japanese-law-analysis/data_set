@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 4,
+    "day": 2
+  },
+  "case_number": "昭和26(あ)4222",
+  "case_name": "物価統制令違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第7巻4号745頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 9,
+    "day": 27
+  },
+  "gist": "公判廷において黙祕権を告知しないことは憲法第三八条に違反するか",
+  "case_gist": "公判廷において被告人に対し黙祕権を告知しなかつたとしても、憲法第三八条に違反するものとはいえない。",
+  "ref_law": "憲法38条1項，刑訴法291条，刑訴規則197条",
+  "lawsuit_id": "54616",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54616",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/616/054616_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 3,
+    "day": 8
+  },
+  "case_number": "昭和25(あ)2358",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第41号363頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 8,
+    "day": 7
+  },
+  "gist": "公判調書並びに判決書に「判事何某」と記載することの適否",
+  "case_gist": "所論は、原審公判調書並びに判決書に単に「判事何某」と記載してあるだけで「裁判官判事何某」と記載していないのは裁判所を適法に構成しない違法があると主張する。しかし、判事はすべて裁判官であり裁判官でない判事は存しないのであるから、「判事」の表示さえあれば何らの違法もないのである。論旨は、刑訴第四〇五条の上告理由に当らない。",
+  "ref_law": "刑訴法48条，刑訴規則44条2号，刑訴規則第46条，刑訴規則55条",
+  "lawsuit_id": "67338",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=67338",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/338/067338_hanrei.pdf"
+}

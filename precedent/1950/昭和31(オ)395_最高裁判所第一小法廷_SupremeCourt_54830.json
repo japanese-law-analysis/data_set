@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 5,
+    "day": 14
+  },
+  "case_number": "昭和31(オ)395",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第13巻5号584頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 2,
+    "day": 28
+  },
+  "gist": "建築確認の許否は建物建築請負契約の要素か。",
+  "case_gist": "注文者の指定場所に建物を建築すべき請負契約において、注文者が建築確認を受け得るかどうかは、右事情が当事者間で特に契約の内容とされないかぎり、契約の要素と解すべきではない。",
+  "ref_law": "民法95条，建築基準法6条",
+  "lawsuit_id": "54830",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54830",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/830/054830_hanrei.pdf"
+}

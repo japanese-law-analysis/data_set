@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 3,
+    "day": 12
+  },
+  "case_number": "昭和25(オ)225",
+  "case_name": "治具代金等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第8号455頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 4,
+    "day": 28
+  },
+  "gist": "請求原因発生の前提たる経過的事実関係認定についての採証の非難は上告適法な理由となるか",
+  "case_gist": "本件請求原因は、昭和二十年九月二日の契約（甲一号証）に基く請求にあるのであるか、所論は結局、右請求原因発生の前提たる経過的事実関係の認定に関し原審のなした証拠の取捨判断、事実認定を非難するに帰し、本件請求原因自体には関係ない事柄であつて、たとえ、所論のごとき違法があるとしても、その違法は、原判決の主文に影響なく、所論は上告適法の理由とならない。",
+  "lawsuit_id": "76263",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=76263",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/263/076263_hanrei.pdf"
+}

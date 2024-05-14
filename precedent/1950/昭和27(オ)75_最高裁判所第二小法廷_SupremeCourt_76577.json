@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 1,
+    "day": 27
+  },
+  "case_number": "昭和27(オ)75",
+  "case_name": "自作農創設特別措置法第六条の三による指示をしない旨の決定取消請求についての更正決定",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集民　第12号261頁",
+  "original_court_name": "最高裁判所",
+  "original_case_number": "昭和27(オ)75",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 12,
+    "day": 25
+  },
+  "lawsuit_id": "76577",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=76577",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/577/076577_hanrei.pdf"
+}

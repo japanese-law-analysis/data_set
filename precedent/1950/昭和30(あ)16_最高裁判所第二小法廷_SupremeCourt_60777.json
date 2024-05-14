@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 5,
+    "day": 2
+  },
+  "case_number": "昭和30(あ)16",
+  "case_name": "業務上横領、物価統制令違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第125号145頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 11,
+    "day": 10
+  },
+  "gist": "刑訴法第二二六条又は同条第二二七条による裁判官の証人尋問と除斥原因",
+  "case_gist": "刑訴二二六条又は同二二七条による証人尋問をした裁判官は当該被告事件の審判から除斥されるものでないことも当裁判所の判例（昭和二九年（あ）第一三九六号同三〇年三月二五日第二小法廷判決、集九巻三号五一九頁）の趣旨に徴して明らかである",
+  "ref_law": "刑訴法226条，刑訴法227条，刑訴法20条",
+  "lawsuit_id": "60777",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60777",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/777/060777_hanrei.pdf"
+}

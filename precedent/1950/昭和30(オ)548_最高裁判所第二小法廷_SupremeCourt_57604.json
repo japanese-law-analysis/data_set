@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 6,
+    "day": 7
+  },
+  "case_number": "昭和30(オ)548",
+  "case_name": "登記抹消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第11巻6号999頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 3,
+    "day": 26
+  },
+  "gist": "公売取消処分に基く所有権の復帰と対抗力",
+  "case_gist": "甲所有の不動産につき、一旦国税滞納処分による公売に基き落札者乙のため所有権取得の登記がなされた後、右公売の取消処分があつた結果、甲に所有権が復帰した場合であつても、その登記がないときは、甲は、前記落札者乙から公売取消後その不動産を譲り受けた丙に対し、右所有権の復帰を対抗することを得ない。",
+  "ref_law": "民法177条",
+  "lawsuit_id": "57604",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57604",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/604/057604_hanrei.pdf"
+}

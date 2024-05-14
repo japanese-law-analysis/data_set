@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 5,
+    "day": 21
+  },
+  "case_number": "昭和27(あ)4620",
+  "case_name": "物価統制令違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第95号493頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 7,
+    "day": 24
+  },
+  "gist": "綜合認定した証拠の一部に違法なものがあつても判決に影響を及ぼさない一事例",
+  "case_gist": "第一審判決認定の事実は、所論検察官の被告人に対する供述調書（刑訴三二八条の証拠として取調の請求があり、取調のあつたもの）を除いてもその他の同判決挙示の各証拠により認定することができるのであるから、仮りに所論のごとき違法ありとしても原判決に影響を及ぼさないものである。",
+  "ref_law": "刑訴法321条1項3号，刑訴法328条，刑訴法411条",
+  "lawsuit_id": "75288",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=75288",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/288/075288_hanrei.pdf"
+}

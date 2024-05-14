@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 12,
+    "day": 12
+  },
+  "case_number": "昭和29(あ)3204",
+  "case_name": "業務上横領",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第116号87頁",
+  "original_court_name": "仙台高等裁判所\n        　秋田支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 9,
+    "day": 14
+  },
+  "gist": "横領罪においては包括一罪と認められない事例",
+  "case_gist": "昭和二七年九月着工、同年一二月完成するにいたつた自己の家屋の建築工事費を支払うため、前後一二回にわたり、その都度、公金をもつて支弁した事実があつても、最初から全部の横領を企図したものと認められないかぎり、横領罪は個々に成立し、併合罪と認めるべきである。",
+  "ref_law": "刑法253条，刑法45条",
+  "lawsuit_id": "60658",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60658",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/658/060658_hanrei.pdf"
+}

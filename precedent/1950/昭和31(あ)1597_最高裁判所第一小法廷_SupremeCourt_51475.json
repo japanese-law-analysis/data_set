@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 8,
+    "day": 30
+  },
+  "case_number": "昭和31(あ)1597",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第10巻8号1302頁",
+  "original_court_name": "広島高等裁判所\n        　松江支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 4,
+    "day": 18
+  },
+  "gist": "公職選挙法第二五二条第三項の法意",
+  "case_gist": "公職選挙法第二五二条第三項の規定は、処刑者の利益のために、同法条第一項所定の刑に処せられたという事実に伴い法律上当然発生する選挙権、被選挙権停止の効果を、発生せしめず若しくはその停止期間を短縮するか否かの量刑的裁量を刑の言渡裁判所に与えたに過ぎない。",
+  "ref_law": "公職選挙法252条",
+  "lawsuit_id": "51475",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51475",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/475/051475_hanrei.pdf"
+}

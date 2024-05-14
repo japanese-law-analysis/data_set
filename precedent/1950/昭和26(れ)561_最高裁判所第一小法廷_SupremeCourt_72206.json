@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 9,
+    "day": 6
+  },
+  "case_number": "昭和26(れ)561",
+  "case_name": "収賄",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第52号113頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 2,
+    "day": 8
+  },
+  "gist": "一般社交的儀礼の範囲を逸脱すると認められる金員の供与と収賄罪の成立",
+  "case_gist": "原審の確定した事実によれば、被告人は兵庫県Ａ部Ｂ課勤務のＣ係主任としての職務に関し、Ｄ繊維製品株式会社常務取締役兼事務部長であつたＥから、昭和二一年八月初頃及び同年一二月二五日頃それぞれ現金五〇〇円宛の供与を受けたというのである。右判示日時当時における現金五〇〇円の供与が、一般社交的儀礼の範囲を逸脱すると認められるべきものであり、論旨は理由なきものである。",
+  "ref_law": "刑法197条",
+  "lawsuit_id": "72206",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=72206",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/206/072206_hanrei.pdf"
+}

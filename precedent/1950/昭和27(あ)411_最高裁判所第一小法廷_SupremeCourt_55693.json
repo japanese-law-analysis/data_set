@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 2,
+    "day": 25
+  },
+  "case_number": "昭和27(あ)411",
+  "case_name": "麻薬取締法違反、麻薬取締規則違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第8巻2号179頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 12,
+    "day": 10
+  },
+  "gist": "麻薬中毒患者が自己の中毒症状緩和のため使用する目的をもつて麻薬を譲り受け所持する場合と罪数",
+  "case_gist": "麻薬中毒患者が自己の中毒症状緩和のため使用する目的をもつて、麻薬を譲り受け所持する場合には、右譲り受ける行為と所持する行為とはこれを包括し、一罪を構成するものと解すべきである。",
+  "ref_law": "麻薬取締法（昭和28年法律第14号による改正前のもの）3条1項，麻薬取締法（昭和28年法律第14号による改正前のもの）57条1項",
+  "lawsuit_id": "55693",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55693",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/693/055693_hanrei.pdf"
+}

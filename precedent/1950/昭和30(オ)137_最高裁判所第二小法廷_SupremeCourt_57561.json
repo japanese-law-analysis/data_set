@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 11,
+    "day": 16
+  },
+  "case_number": "昭和30(オ)137",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第10巻11号1453頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 10,
+    "day": 30
+  },
+  "gist": "従業員専用の寮の使用関係が賃貸借か否かの判断",
+  "case_gist": "従業員専用の寮の使用関係において、世間並みの家賃相当額を使用料として支払つている等、原審認定のような事実（原判決理由参照）があるときは、その使用関係を賃貸借と判断して妨げない。",
+  "ref_law": "民法601条，借家法1条",
+  "lawsuit_id": "57561",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57561",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/561/057561_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 8,
+    "day": 18
+  },
+  "case_number": "昭和30(あ)216",
+  "case_name": "業務上横領",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第9巻9号2031頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 12,
+    "day": 8
+  },
+  "gist": "刑法第二五三条の業務上他にの物を占有するということは、憲法第一四条にいわゆる社会的身分にあたるか",
+  "case_gist": "刑法第二五三条の業務上他人の物を占有するということは、犯罪者の属性による刑法上の身分であるが、憲法第一四条にいわゆる社会的身分と解することはできない。",
+  "ref_law": "刑法65条，刑法253条，憲法14条",
+  "lawsuit_id": "56951",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56951",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/951/056951_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 12,
+    "day": 26
+  },
+  "case_number": "昭和24(オ)197",
+  "case_name": "硬山所有権確認及び搬出妨害禁止並に損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第6巻12号1302頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 7,
+    "day": 12
+  },
+  "gist": "いわゆる廃炭の所有権放棄に関する認定と実験則。",
+  "case_gist": "鉱業権者が多年広大な地域に集積放置した廃炭でも、その品質、同種廃炭の利用および取引の実状、放置の状況並びに従来の利用の実蹟等を総合して、集積にあたつて所有権放棄の意思がなかつたものと認定することは、必ずしも実験則に反しない。",
+  "ref_law": "旧鉱業法（明治38年法律45号）3条",
+  "lawsuit_id": "57134",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57134",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/134/057134_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 1,
+    "day": 29
+  },
+  "case_number": "昭和27(あ)6719",
+  "case_name": "贈賄、収賄",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第102号463頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 7,
+    "day": 14
+  },
+  "gist": "都議会議員の職務と密接な関係にある行為と認められる一事例",
+  "case_gist": "第二点所論の点については、原判決の説示は正当である。註。原判決は、「東京都会議員で経済常任委員会の委員会又は委員をしている者は、各経済部門における陳述、請願等を審査し、委員会はその結果に基き採否並びに請願を執行機関に送付すべきものは、その旨の意見を附して都議会議長に報告し、都議会ではその請願の採否につき議決の権限があり、採決の議決のあつたものは、議長から執行機関に送付し、その処理及び結果につき報告を求めることになつていた場合に、前記委員長及び委員が請願書の提出を受け前記手続の下に尽力する趣旨の下に金員を収受することは、職務と密接は関連を有する行為として収賄罪を構成する。」と判断したものである。",
+  "ref_law": "刑法197条",
+  "lawsuit_id": "69339",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=69339",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/339/069339_hanrei.pdf"
+}

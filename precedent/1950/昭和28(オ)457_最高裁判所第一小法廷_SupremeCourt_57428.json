@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 12,
+    "day": 1
+  },
+  "case_number": "昭和28(オ)457",
+  "case_name": "土地返還請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第9巻13号1903頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 3,
+    "day": 30
+  },
+  "gist": "所有権に基く登記請求を認容した確定判決と所有権の存否についての既判力の有無",
+  "case_gist": "所有権に基く登記請求を認容した確定判決は、その理由において所有権の存否を確認している場合であつても所有権の存否についての既判力を有しない。",
+  "ref_law": "民訴法199条",
+  "lawsuit_id": "57428",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57428",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/428/057428_hanrei.pdf"
+}

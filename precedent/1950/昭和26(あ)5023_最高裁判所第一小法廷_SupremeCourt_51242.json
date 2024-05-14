@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 2,
+    "day": 14
+  },
+  "case_number": "昭和26(あ)5023",
+  "case_name": "収賄、贈賄",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "刑集　第11巻2号696頁",
+  "original_court_name": "福岡高等裁判所\n        　宮崎支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 11,
+    "day": 2
+  },
+  "gist": "刑訴法第四一一条第一号第三号にあたる一事例",
+  "case_gist": "贈収賄被告事件において、不可分の供述の一部をとつて全体の意味と異る趣旨を認定して職務に関する饗応を認めた判決は証拠法の違反があると共に事実の誤認があつて刑訴第四一一条第一号第三号によりこれを破棄した上無罪の言渡をすることができる。",
+  "ref_law": "刑訴法317条，刑訴法318条，刑訴法411条，刑訴法413条，刑法197条，刑法198条",
+  "lawsuit_id": "51242",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51242",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/242/051242_hanrei.pdf"
+}

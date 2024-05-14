@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 12,
+    "day": 4
+  },
+  "case_number": "昭和26(あ)4098",
+  "case_name": "聯合国占領軍の占領目的に有害な行為に対する処罰等に関する勅令違反",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集刑　第122号463頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 10,
+    "day": 4
+  },
+  "lawsuit_id": "60459",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60459",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/459/060459_hanrei.pdf"
+}

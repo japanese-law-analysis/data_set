@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 6,
+    "day": 13
+  },
+  "case_number": "昭和25(れ)229",
+  "case_name": "賍物故買",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第4巻6号989頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 11,
+    "day": 29
+  },
+  "gist": "第一審判決の認定した數罪のうちその一部を無罪としながら第一審判決と同一の刑を言渡した第二審判決と舊刑訴法第四〇三條",
+  "case_gist": "舊刑訴法第四〇三條に「原判決ノ刑ヨリ重キ刑ヲ言渡スコトヲ得ス」というのは、主文の刑についてのことであつて、控訴審判決が第一審判決の認定した數罪の中その一部分を無罪とした場合でも、その言渡した刑が第一審判決の主文の刑より重くない限りこれを以て右の法條に違背するものということはできない。（昭和二三年（れ）第七四五號同年一二月一四日最高裁判所第三小法廷判決參照）。",
+  "ref_law": "舊刑訴法403條",
+  "lawsuit_id": "54514",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54514",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/514/054514_hanrei.pdf"
+}

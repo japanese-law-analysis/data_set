@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 6,
+    "day": 6
+  },
+  "case_number": "昭和25(あ)872",
+  "case_name": "窃盗、賍物故買、同牙保",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第65号113頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 12,
+    "day": 28
+  },
+  "gist": "刑訴三九二条一項の調査を公開の法廷で為すことの要否",
+  "case_gist": "刑訴三九二条一項にいわゆる調査を公開の法廷で為すべきものとした規定は存しない。",
+  "ref_law": "刑訴法392条1項",
+  "lawsuit_id": "67655",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=67655",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/655/067655_hanrei.pdf"
+}

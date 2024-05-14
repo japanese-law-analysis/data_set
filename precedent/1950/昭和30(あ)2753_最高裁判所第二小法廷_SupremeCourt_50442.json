@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 4,
+    "day": 18
+  },
+  "case_number": "昭和30(あ)2753",
+  "case_name": "業務上過失致死",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第12巻6号1101頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 7,
+    "day": 25
+  },
+  "gist": "一　業務上過失致死罪の刑責と被害者側の過失\n二　経験則上明らかな法則と証明の要否",
+  "case_gist": "一　業務上必要な注意を怠り因つて人を死に致した以上、被害者が死亡するのに至つた原因につき、被害者側にも過失があつたからといつて、その刑責を免れ得るものではない\n二　人家の建ち並ぶ巾五米の道路上を宣伝車が拡声器をつけて音楽を奏でつつ、人の歩行する程度の速度で進行していた場合には、その後部に数人の児童が取り付きまたはこれに追随するものであることが通例であるから、その児童が該宣伝車と反対の方向から進行する自動車の前面に何時飛び出すかも測り知れないことも経験則上明らかなところであつて、かくの如き経験則上明らかな法則については、特段の証明を要するものではない",
+  "ref_law": "刑法211条，刑訴法第317条，刑訴法335条1項",
+  "lawsuit_id": "50442",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50442",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/442/050442_hanrei.pdf"
+}

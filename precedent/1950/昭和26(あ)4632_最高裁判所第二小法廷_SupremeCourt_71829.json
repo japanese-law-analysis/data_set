@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 10,
+    "day": 23
+  },
+  "case_number": "昭和26(あ)4632",
+  "case_name": "暴行、強制猥褻、業務妨害、詐欺、恐喝、脅迫、横領、地代家賃統制令違反職業安定法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集刑　第87号725頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 10,
+    "day": 16
+  },
+  "lawsuit_id": "71829",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=71829",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/829/071829_hanrei.pdf"
+}

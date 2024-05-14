@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 4,
+    "day": 18
+  },
+  "case_number": "昭和25(れ)1341",
+  "case_name": "傷害致死、窃盜",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第44号185頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 4,
+    "day": 27
+  },
+  "gist": "殺害された被害者の所持する財布を奪取した者の罪責",
+  "case_gist": "なお、被害者が殺害されたからとてその死亡によつて直ちに所論財布を何人も所持しなくなるというわけのものでない。そうして盗罪は他人の所持を奪うことによつて成立するのであるから原判決が判示第二の所為を、所論のように占有離脱物の横領とせずに、窃盗罪としたのは正当である。",
+  "ref_law": "刑法235条，刑法254条",
+  "lawsuit_id": "71430",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=71430",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/430/071430_hanrei.pdf"
+}

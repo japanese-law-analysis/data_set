@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 9,
+    "day": 10
+  },
+  "case_number": "昭和31(あ)38",
+  "case_name": "道路交通取締法違反、道路交通取締法施行令違反、業務上過失致傷",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第12巻13号2897頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 11,
+    "day": 16
+  },
+  "gist": "禁錮刑と憲法第二七条第一項。",
+  "case_gist": "法律により犯罪者に対し自由刑の一種として禁錮刑を定めることは憲法第二七条第一項に牴触するものではない。",
+  "ref_law": "憲法27条1項，刑法13条，監獄法26条",
+  "lawsuit_id": "50520",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50520",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/520/050520_hanrei.pdf"
+}

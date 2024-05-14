@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 2,
+    "day": 26
+  },
+  "case_number": "昭和27(あ)4044",
+  "case_name": "建造物侵入",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第92号801頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 6,
+    "day": 2
+  },
+  "gist": "憲法第二八条の保障する団結権ないし団体交渉その他の団体行動権の行使にあたらない一事例",
+  "case_gist": "本件においては原判示Ａ職業安定所Ｂ出張所と被告人等が代表した日傭労働者とは使用者対勤労者というような関係に立つものではないのであるから、被告人等の本件所為が憲法二八条の保障する団結権ないし団体交渉その他の団体行動権の行使に該当しないことは多言を要しない。",
+  "ref_law": "憲法28条，刑法130条",
+  "lawsuit_id": "72503",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=72503",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/503/072503_hanrei.pdf"
+}

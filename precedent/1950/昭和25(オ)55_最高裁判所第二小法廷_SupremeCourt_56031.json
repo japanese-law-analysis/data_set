@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 3,
+    "day": 23
+  },
+  "case_number": "昭和25(オ)55",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第5巻4号163頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 12,
+    "day": 12
+  },
+  "gist": "他世帯との同居を命じた判決と憲法第二五条",
+  "case_gist": "他世帯との同居を命じた判決は、憲法第二五条に違反しない。",
+  "ref_law": "憲法25条，民訴法182条",
+  "lawsuit_id": "56031",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56031",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/031/056031_hanrei.pdf"
+}

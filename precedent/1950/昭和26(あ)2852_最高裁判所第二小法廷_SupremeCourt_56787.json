@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 7,
+    "day": 2
+  },
+  "case_number": "昭和26(あ)2852",
+  "case_name": "関税法違反、物価統制令違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "刑集　第8巻7号991頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 6,
+    "day": 16
+  },
+  "gist": "二回に亘る密輸入貨物の運搬寄蔵行為が一罪を構成する事例",
+  "case_gist": "特定の密輸入貨物全部の運搬保管方法依頼を受けて、その一部をある倉庫まで運搬して寄蔵し、さらに同時刻頃引続いて残りの貨物を附近の他の倉庫まで運搬して寄蔵したときは一罪を構成する。",
+  "ref_law": "刑法45条，関税法76号ノ2",
+  "lawsuit_id": "56787",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56787",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/787/056787_hanrei.pdf"
+}

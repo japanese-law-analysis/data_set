@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 10,
+    "day": 18
+  },
+  "case_number": "昭和26(れ)899",
+  "case_name": "強盗幇助、窃盗、賍物牙保",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第5巻11号2268頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 3,
+    "day": 2
+  },
+  "gist": "物の名称につき判文中外国文字を使用することの適否",
+  "case_gist": "論旨第四点に主張する判示「Ｄ・Ｄ・Ｔ油液」は、物の名称であるから所論裁判所法第七四条に違背するとはいえない。",
+  "ref_law": "裁判所法74条，旧刑訴法234条",
+  "lawsuit_id": "54677",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54677",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/677/054677_hanrei.pdf"
+}

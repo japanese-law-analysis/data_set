@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 5,
+    "day": 16
+  },
+  "case_number": "昭和26(あ)5177",
+  "case_name": "薬事法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第64号565頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 10,
+    "day": 4
+  },
+  "gist": "薬事法第四四条第八号にいわゆる「販売業を営むこと」の意義",
+  "case_gist": "凡そ営利の目的をもつて継続反覆して一定の物品の販売をなす者であれば、これを販売業者にあたると解すべきであり、その者が他に主たる営業を有すると否とは何等影響を来さないことについては昭和二六年（れ）七四二号、同年九月一一日第三小法廷判決、判例集五巻一〇号一九〇九頁以下の示すとおりである。",
+  "ref_law": "薬事法29条，薬事法44条8号",
+  "lawsuit_id": "64740",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64740",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/740/064740_hanrei.pdf"
+}

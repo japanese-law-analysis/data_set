@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 11,
+    "day": 25
+  },
+  "case_number": "昭和28(あ)5444",
+  "case_name": "傷害",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第8巻11号1888頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 11,
+    "day": 13
+  },
+  "gist": "刑訴第三二一条第一項第三号の「被告人以外の者が作成した供述書」にはその者の署名、押印を必要とするか",
+  "case_gist": "刑訴第三二一条第一項第三号の「被告人以外の者が作成した供述書」にはその者の署名、押印を必要としない。",
+  "ref_law": "刑訴法321条，刑訴法322条",
+  "lawsuit_id": "56890",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56890",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/890/056890_hanrei.pdf"
+}

@@ -1,0 +1,22 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 1,
+    "day": 21
+  },
+  "case_number": "昭和27(ヤ)9",
+  "case_name": "不動産競売事件の特別抗告却下決下に対する再審",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "却下",
+  "article_info": "民集　第7巻1号54頁",
+  "original_court_name": "最高裁判所",
+  "gist": "不動産競落許可決定に対する抗告棄却決定につきなされた特別抗告却下決定に対する再審申立の適否",
+  "case_gist": "不動産競落許可決定に対する抗告棄却決定につきなされた特別抗告を却下する決定は、民訴第四二九条にいわゆる「即時抗告ヲ以テ不服ヲ申立ツルコトヲ得ル決定」にあたらない。",
+  "ref_law": "民訴法429条，民訴法680条，競売法32条2項",
+  "lawsuit_id": "57369",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57369",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/369/057369_hanrei.pdf"
+}

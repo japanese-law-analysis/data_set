@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 8,
+    "day": 3
+  },
+  "case_number": "昭和29(あ)180",
+  "case_name": "麻薬取締法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "刑集　第10巻8号1202頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 12,
+    "day": 5
+  },
+  "gist": "一　包括一罪と認むべき事例\n二　包括一罪の公訴時効",
+  "case_gist": "一　医師で麻薬施用者として免許を受けている被告人が、昭和二三年六月一五日頃より同九月三〇日頃までの間五四回および昭和二六年八月一〇日頃より同年一〇月一六日頃までの間三五回にわたり、同一の麻薬中毒患者に対しその中毒症状を緩和する目的をもつて麻薬である塩酸モルヒネ注射八九本を施用した各所為は、それぞれ包括一罪であると解するのが相当である。\n二　包括一罪の公訴時効は、その最終の犯罪行為が終つた日から進行する。",
+  "ref_law": "旧麻薬取締法（昭和23年法律123号）39条，旧麻薬取締法（昭和23年法律123号）57条，刑法45条，刑訴法253条",
+  "lawsuit_id": "51328",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51328",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/328/051328_hanrei.pdf"
+}

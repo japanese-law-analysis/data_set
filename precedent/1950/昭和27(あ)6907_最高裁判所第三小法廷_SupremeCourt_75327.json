@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 5,
+    "day": 11
+  },
+  "case_number": "昭和27(あ)6907",
+  "case_name": "物価統制令違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第95号297頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 11,
+    "day": 11
+  },
+  "gist": "控訴審が第一審判決の量刑不当を理由として破棄自判した場合と犯罪事実の判示の要否",
+  "case_gist": "控訴審において事実の確定に影響を及ぼさない事由（本件では量刑不当）により第一審判決を破棄して自判する場合に第一審判決の認定した事実を基礎として法令を適用することの正当であることは、当裁判所の判例とするところであるから（昭和二七年（あ）四一七号同二八年一一月一〇日第三小法廷判決〔集七巻一一号二〇五一頁〕、昭和二七年（あ）五二六一号同二九年二月九日第三小法廷判決参照）、原判決にすこしも違法はない。",
+  "ref_law": "刑訴法381条，刑訴法397条，刑訴法400条",
+  "lawsuit_id": "75327",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=75327",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/327/075327_hanrei.pdf"
+}

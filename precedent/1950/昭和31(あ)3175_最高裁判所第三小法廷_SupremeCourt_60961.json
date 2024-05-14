@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 12,
+    "day": 25
+  },
+  "case_number": "昭和31(あ)3175",
+  "case_name": "窃盗、強盗未遂",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第116号407頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 7,
+    "day": 17
+  },
+  "gist": "上告理由として被告人に不利益な主張となる一事例 ―擬律錯誤及び判例違背の主張―",
+  "case_gist": "原判決の是認した第一審判決は、その認定した二個の窃盗及び一個の強盗未遂につき所論各本条を適用の上、すべからく刑法七二条の順序に従い先ず後者につき未遂減軽をなし次に前二者と後者とにつき併合罪の加重をなすべきに拘らず、逆に先ず併合罪の加重に未遂減軽をした擬律錯誤の違法及び所論判例違背あるものであること所論のとおりであるが、若し同七二条所定の順序に従い右減軽と加重とをするならば以上三罪についての被告人に対する刑期範囲は第一審判決のそれよりも重くなるから、論旨は結局被告人に不利益な主張となり、この点からも適法な上告理由とならない。",
+  "ref_law": "刑訴法402条，刑訴法405条3号，刑訴法411条1号",
+  "lawsuit_id": "60961",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60961",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/961/060961_hanrei.pdf"
+}

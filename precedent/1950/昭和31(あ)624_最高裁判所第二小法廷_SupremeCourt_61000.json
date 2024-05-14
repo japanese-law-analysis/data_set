@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 5,
+    "day": 21
+  },
+  "case_number": "昭和31(あ)624",
+  "case_name": "詐欺、同未遂",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第125号445頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 12,
+    "day": 22
+  },
+  "gist": "詐欺罪の成立する一事例",
+  "case_gist": "酒類の卸売業を営む者が地方の醸造業者から買入れた特級、一級および二級の清酒を混合または格上転用した一升瓶詰に灘の清酒用の王冠用紙、胴張紙、肩張紙および特級または一級清酒たることを表示する証紙を施し、これを灘の銘酒の特級酒または一級酒であるかのように装つて酒類小売業者に販売し、右業者を欺罔してその代金の交付を受けたときは、詐欺罪が成立する",
+  "ref_law": "刑法246条",
+  "lawsuit_id": "61000",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61000",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/000/061000_hanrei.pdf"
+}

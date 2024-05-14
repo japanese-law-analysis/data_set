@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 5,
+    "day": 20
+  },
+  "case_number": "昭和33(あ)113",
+  "case_name": "窃盜",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第125号437頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 12,
+    "day": 13
+  },
+  "gist": "掏摸現行犯逮捕手続において警察官等職務執行法第五条に違反しないと認められる場合",
+  "case_gist": "本件現行犯逮捕手続書によれば、所論司法警察員は挙動不審の被告人を看視中被告人が被害者のポケツトから品物を抜き取つたのを現認したので逮捕したというのであつて、抜き取りを現認する直前までは被告人が何らかの現行を行なおうとする様子を認めたという場合でないから、右警察員の措置は所論警察官等職務執行法五条に反するところもなく、本件逮捕手続には何らの違法もないことが明らかである",
+  "ref_law": "警察官等職務執行法5条，刑法235条，刑訴法212条，刑訴法213条",
+  "lawsuit_id": "58666",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58666",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/666/058666_hanrei.pdf"
+}

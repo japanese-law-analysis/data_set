@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 2,
+    "day": 25
+  },
+  "case_number": "昭和33(あ)2566",
+  "case_name": "出入国管理令違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第13巻2号197頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 11,
+    "day": 18
+  },
+  "gist": "千島列島に属する国後島は出入国管理令第二条第一号にいう本邦に属するか。",
+  "case_gist": "日本国との平和条約発効の日以降、千島列島に属する国後島は、出入国管理令の適用上においては、同令第二条第一号にいう本邦には属しないこととなつたものと解するを相当とする。",
+  "ref_law": "出入国管理令2条1号，出入国管理令施行規則（昭和26年外務省令18号）1条，昭和27年外務省令12号（出入国管理令施行規則の一部改正）1条，昭和27年外務省令12号（出入国管理令施行規則の一部改正）附則，日本国との平和条約2条（C），憲法98条2項，憲法7条1号",
+  "lawsuit_id": "51629",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51629",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/629/051629_hanrei.pdf"
+}

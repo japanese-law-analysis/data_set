@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 6,
+    "day": 29
+  },
+  "case_number": "昭和26(れ)227",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第48号609頁",
+  "original_court_name": "仙台高等裁判所\n        　秋田支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 12,
+    "day": 20
+  },
+  "gist": "第一審の判決が言渡されてから二年六月余を経て控訴審の第一回公判期日が開かれた場合と憲法第三七条第一項",
+  "case_gist": "本件被告事件に付昭和二三年五月三一日に第一審の有罪判決が言渡され之に対し被告人から控訴の申立をなし控訴審の第一回公判期日が同二五年一二月七日に開かれ同月二〇日判決の言渡があつたことは所論のとおりである。しかしこのような遅廷は当時における控訴審の事件の輻輳と裁判所職員の手不足、殊に第二審である仙台高裁秋田支部が昭和二四年三月一〇日開設せられて早々のことでありその施設機構の整備等の関係上早急な審理を望み得なかつたことに因るものであり不合理な遅滞があつたものということわできないからこれを目して直ちに憲法第三七条第一項に違反するものとはいえない。",
+  "ref_law": "憲法37条1項",
+  "lawsuit_id": "72097",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=72097",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/097/072097_hanrei.pdf"
+}

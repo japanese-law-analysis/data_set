@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 8,
+    "day": 17
+  },
+  "case_number": "昭和25(れ)1242",
+  "case_name": "毀棄並びに窃盗",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "刑集　第5巻9号1789頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 5,
+    "day": 24
+  },
+  "gist": "毀棄並びに窃盗罪について犯意を欠く一事例（非刑罰放棄の錯誤は犯意を阻却するか）",
+  "case_gist": "被告人が飼犬証票なく且つ飼主分明ならざる犬は無主犬と看做す旨の警察規則を誤解した結果鑑札をつけていない犬は他人の飼犬であつても直ちに無主の犬と看做されるものと誤信し他人所有の犬を撲殺し、その皮を剥いだ場合は器物毀棄並びに窃盗罪の犯意を欠く。",
+  "ref_law": "刑法38条1項，刑法38条3項，刑法235条，刑法261条",
+  "lawsuit_id": "54482",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54482",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/482/054482_hanrei.pdf"
+}

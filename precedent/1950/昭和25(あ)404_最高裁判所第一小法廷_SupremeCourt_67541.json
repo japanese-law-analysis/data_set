@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 10,
+    "day": 26
+  },
+  "case_number": "昭和25(あ)404",
+  "case_name": "臨時物資需給調整法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第19号1025頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 1,
+    "day": 23
+  },
+  "gist": "一　臨時物資需給調整法違反罪において人絹糸の統制解除以前に成立した犯罪と刑の廃止\n二　判決においていかなる事実が認定されたかを理解する方法",
+  "case_gist": "一　昭和二四年一〇月二五日人絹糸が指定生産資材から除外されたことは所論のとおりである。しかし、人絹糸が将来に向つて統制から解除されたからといつて、既往においてその統制に違反し成立した犯罪の刑を廃止したと解すべき何等の理由も存しない。\n二　判決において認定された犯罪事実は、単にいわゆる事実摘示の部分に局限して故らに狭く理解すべきではなく、挙示の証拠、引用された法条等判決書の全面に索めて広く理解すべきものであることは多言を要しない。",
+  "ref_law": "臨時物資需給調整法1条，指定生産資材割当規則1条，衣料品配給規則1条，刑訴法337条2号，刑訴法335条1項",
+  "lawsuit_id": "67541",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=67541",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/541/067541_hanrei.pdf"
+}

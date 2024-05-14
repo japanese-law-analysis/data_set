@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 5,
+    "day": 6
+  },
+  "case_number": "昭和30(あ)3483",
+  "case_name": "労働基準法違反、職業安定法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "刑集　第12巻7号1297頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 10,
+    "day": 25
+  },
+  "gist": "動労基準法第一一八条（第六条違反）の罪と、職業安定法第六三条第二号の罪とが想像的競合となる事例",
+  "case_gist": "業として、同一の婦女を公衆衛生又は公衆道徳上有害な売淫婦の業に就かせる目的で、婦女に売淫させることを業としている者に接客婦として就職を斡旋し、雇主から紹介手数料として金員を受領し利益を得たときは、一個の行為にして労働基準法一一八条（六条違反）の罪と職業安定法六三条二号の罪との二個の罪名に触れる場合に当る",
+  "ref_law": "労働基準法6条，労働基準法118条，職業安定法63条2号，刑法54条1項",
+  "lawsuit_id": "50454",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50454",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/454/050454_hanrei.pdf"
+}

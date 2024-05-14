@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 6,
+    "day": 2
+  },
+  "case_number": "昭和28(あ)5322",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第8巻6号794頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 10,
+    "day": 26
+  },
+  "gist": "一　憲法違反の語を用いていても憲法違反の主張をするものと認められない一事例\n二　選挙権、被選挙権の停止、不停止は刑訴第三八一条の「刑の量定」に含まれるか",
+  "case_gist": "一　如何なる理由により憲法の如何なる条項に違反するか述べていない上告趣意は、違憲の語を用いていても刑訴第四〇五条第一号の主張といえない。\n二　公職選挙法第二五二条にいう選挙権、被選挙権の停止、不停止は刑法第九条第一〇条にいわゆる刑ではないが刑訴法第三八一条の「刑訴法の量定」には含まれるものと解すべきである。",
+  "ref_law": "公職選挙法252条，刑訴法381条，刑法9条，刑法10条",
+  "lawsuit_id": "54735",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54735",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/735/054735_hanrei.pdf"
+}

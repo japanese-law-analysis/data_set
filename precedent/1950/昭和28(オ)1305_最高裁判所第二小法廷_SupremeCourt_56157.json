@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 4,
+    "day": 30
+  },
+  "case_number": "昭和28(オ)1305",
+  "case_name": "村会議員補欠選挙無効裁決取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第8巻4号919頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 11,
+    "day": 4
+  },
+  "gist": "村議会議員補欠選挙において選挙すべき人数を誤つて告示した違法",
+  "case_gist": "村議会議員欠員二名中一名を繰上補充すべき場合に、まだ繰上補充が行われていなくても、選挙すべき者の数を二名として告示することは違法である。",
+  "ref_law": "公職選挙法34条6項，公職選挙法112条1項",
+  "lawsuit_id": "56157",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56157",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/157/056157_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 3,
+    "day": 17
+  },
+  "case_number": "昭和26(あ)3090",
+  "case_name": "関税法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第76号273頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 2,
+    "day": 12
+  },
+  "gist": "公判調書に予め不動文字を印刷した用紙を利用することと憲法第三七条",
+  "case_gist": "原審における所論公判調書中検事の意見陳述の記載につき印刷文字を用いていることは所論のとおりであるが、右は検事が同旨の意見陳述をしたればこそ、かかる印刷文字の記載のある用紙を利用して、公判調書の作成を簡略にした趣旨であることは一見して明瞭であつて、到底所論の如く、原裁判所が控訴趣意の理由なきことを予断して公判に臨んだものと認めるを得ない。",
+  "ref_law": "憲法37条，刑訴法48条，刑訴法389条",
+  "lawsuit_id": "68236",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=68236",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/236/068236_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 1,
+    "day": 22
+  },
+  "case_number": "昭和26(オ)162",
+  "case_name": "農地等買収並びに売渡処分無効確認請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第8巻1号172頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 12,
+    "day": 20
+  },
+  "gist": "一　処分行政庁を被告として行政処分無効確認を求める訴の適否\n二　登記簿上の名義人に対してなされた農地買収処分の効力",
+  "case_gist": "一　行政処分の無効確認を求める訴は、処分行政庁を被告として提起することができる。\n二　農地所有者が死亡し家督相続によつて農地の所有権が相続人に移転した場合において、登記簿上の所有者たる被相続人宛の買収令書が相続人の親族の者に交付せられ同人がこれを右相続人に送付したときは、相続人が買収令書を返送しても、右買収令書による農地買収処分は当然には無効ではない。",
+  "ref_law": "行政事件訴訟特例法1条，行政事件訴訟特例法3条，自作農創設特別措置法6条，自作農創設特別措置法7条，自作農創設特別措置法9条，民法177条",
+  "lawsuit_id": "57221",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57221",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/221/057221_hanrei.pdf"
+}

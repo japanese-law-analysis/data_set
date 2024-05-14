@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 2,
+    "day": 26
+  },
+  "case_number": "昭和29(ク)44",
+  "case_name": "競落許可決定に対する抗告につきなした抗告棄却の決定に対する再抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "却下",
+  "article_info": "集民　第12号897頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_case_number": "昭和28(ラ)32",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 12,
+    "day": 28
+  },
+  "lawsuit_id": "77026",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77026",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/026/077026_hanrei.pdf"
+}

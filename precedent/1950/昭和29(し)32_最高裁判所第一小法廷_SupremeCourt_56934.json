@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 7,
+    "day": 7
+  },
+  "case_number": "昭和29(し)32",
+  "case_name": "保釈許可決定に対する抗告事件につきなした原決定取消保釈請求却下の決定に定する特別抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第8巻7号1065頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 5,
+    "day": 20
+  },
+  "gist": "保釈決定に対する抗告事件と抗告裁判所の審査範囲",
+  "case_gist": "保釈を許す決定に対する抗告事件において、抗告裁判所は、原決定が違法であるかどうかにとどまらず、それが不当であるかどうかをも審査し得るものである。",
+  "ref_law": "刑訴法419条，刑訴法420条，刑訴法426条，刑訴法88条1項，刑訴法91条1項",
+  "lawsuit_id": "56934",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56934",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/934/056934_hanrei.pdf"
+}

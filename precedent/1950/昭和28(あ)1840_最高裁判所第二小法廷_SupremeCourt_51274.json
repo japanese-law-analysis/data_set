@@ -1,0 +1,22 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 3,
+    "day": 18
+  },
+  "case_number": "昭和28(あ)1840",
+  "case_name": "関税法違反被告事件につきなした押收物売却許可申請",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "その他",
+  "article_info": "刑集　第9巻3号508頁",
+  "original_court_name": "最高裁判所",
+  "gist": "関税法違反被告事件における検察官押収中の没収可能物件の換価処分と裁判所の許可",
+  "case_gist": "関税法違反被告事件において、検察官押収中の没収可能物件につき滅失等の虞がある場合には、当該被告事件の係属する裁判所の許可を得てその物件の換価処分をすることができる。",
+  "ref_law": "刑訴法122條，刑訴法222條，関税法133条，関税法140條4項，関税法附則4項",
+  "lawsuit_id": "51274",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51274",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/274/051274_hanrei.pdf"
+}

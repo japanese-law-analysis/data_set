@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 10,
+    "day": 1
+  },
+  "case_number": "昭和29(す)390",
+  "case_name": "公務執行妨害、住居侵入被告事件につきなした保釈請求却下決定に対する抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第99号7頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 4,
+    "day": 24
+  },
+  "gist": "高等裁判所のした保釈請求却下決定に対して最高裁判所に抗告をなし得るか",
+  "case_gist": "保釈の請求を却下する決定で高等裁判所がしたものに対しては、刑訴四二八条二項により、その高等裁判所に異議の申立をすることができるのである。従つて、原決定は同四三三条にいう「この法律により不服を申し立てることができない決定」にあたらないから、これに対し同条所定の特別抗告を申し立てることはできない。",
+  "ref_law": "刑訴法88条，刑訴法428条2項，刑訴法433条",
+  "lawsuit_id": "75723",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=75723",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/723/075723_hanrei.pdf"
+}

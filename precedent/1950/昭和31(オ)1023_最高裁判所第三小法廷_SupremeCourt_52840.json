@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 10,
+    "day": 14
+  },
+  "case_number": "昭和31(オ)1023",
+  "case_name": "家屋収去土地明渡請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第12巻14号3111頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 9,
+    "day": 18
+  },
+  "gist": "被相続人の不動産の譲渡と民法第一七七条の第三者。",
+  "case_gist": "被相続人が不動産の譲渡をなした場合、その相続人から同一不動産の譲渡を受けた者は、民法第一七七条にいう第三者に該当するものと解すべきである。",
+  "ref_law": "民法177条",
+  "lawsuit_id": "52840",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52840",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/840/052840_hanrei.pdf"
+}

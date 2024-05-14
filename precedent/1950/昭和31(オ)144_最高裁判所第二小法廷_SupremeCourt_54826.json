@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 2,
+    "day": 13
+  },
+  "case_number": "昭和31(オ)144",
+  "case_name": "所有権移転登記手続請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第13巻2号105頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 12,
+    "day": 5
+  },
+  "gist": "売買契約締結の代理人と契約取消の意思表示を受ける権限の有無",
+  "case_gist": "売買契約締結の代理権を授与された者は、特段の事情がないかぎり、相手方から、旧民法第八八七条に基く当該売買契約取消の意思表示を受ける権限をも有するものと解するのが相当である。",
+  "ref_law": "民法99条",
+  "lawsuit_id": "54826",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54826",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/826/054826_hanrei.pdf"
+}

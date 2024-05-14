@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 7,
+    "day": 13
+  },
+  "case_number": "昭和26(れ)843",
+  "case_name": "酒税法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第49号1123頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 12,
+    "day": 28
+  },
+  "gist": "被告事件の解示に対する被告人の陳述部分が空欄であることと旧刑訴法第一三四条の手続の履践",
+  "case_gist": "原判決が所論一審第一回公判調書中被告人の供述として判示同旨の記載を採証したこと及び右公判調書中に所論空欄部分があることは所論のとおりである。しかし所論被告事件解示に対する被告人の陳述部分が空欄であることは、被告事件の解示に対し被告人が何等記載すべき陳述をしなかつたものと解し得られるのであつて、所定手続の記載として違法はない。",
+  "ref_law": "旧刑訴法64条，旧刑訴法134条，旧刑訴法345条",
+  "lawsuit_id": "75261",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=75261",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/261/075261_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 10,
+    "day": 26
+  },
+  "case_number": "昭和25(あ)477",
+  "case_name": "食糧管理法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第4巻10号2170頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 2,
+    "day": 2
+  },
+  "gist": "一　有罪判決において証拠の標目を挙示したことと証拠説明に関する法律上の判断\n二　刑訴法第一二二条による換価代金と刑法第一九条",
+  "case_gist": "一　有罪判決において、数個の独立した犯罪事実を認定するにあたり、証拠の標目を一括して挙示したからといつて、ただそれだけでは、その判決は、かかる場合の証拠説明の仕方に関し、何ら法律上の判断見解を示したものとはいえない。\n二　押収した犯罪行為組成物件の刑訴第一二二条（第二二二条）による換価代金は、刑法第一九条の適用上、被換価物件と同一視すべきものであつて、同条にいわゆる「対価」ではない。",
+  "ref_law": "刑訴法335条1項，刑訴法405条，刑訴法122条，刑訴法222条，刑訴法19条",
+  "lawsuit_id": "54432",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54432",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/432/054432_hanrei.pdf"
+}

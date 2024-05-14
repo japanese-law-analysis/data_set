@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 12,
+    "day": 27
+  },
+  "case_number": "昭和30(オ)225",
+  "case_name": "庭石庭樹所有権確認請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第11巻14号2485頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 12,
+    "day": 24
+  },
+  "gist": "占有改定による占有の取得と民法第一九二条の不適用",
+  "case_gist": "占有改定により占有を取得したに止まるときは、民法第一九二条の適用はない。",
+  "ref_law": "民法192条",
+  "lawsuit_id": "57574",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57574",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/574/057574_hanrei.pdf"
+}

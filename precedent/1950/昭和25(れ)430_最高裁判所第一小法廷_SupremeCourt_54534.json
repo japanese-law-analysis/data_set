@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 6,
+    "day": 1
+  },
+  "case_number": "昭和25(れ)430",
+  "case_name": "詐欺",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第4巻6号909頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 11,
+    "day": 24
+  },
+  "gist": "縣經濟部商工課長名義の硝子の配給を約束する書面には詐欺罪の目的物たる財物にあたるか",
+  "case_gist": "詐欺罪の目的物たる財物とは、財産權ことに所有權の目的となることを得べき物をいい、必ずしも金錢的價値を有すると否とを問わないものである。そして、原判決の認定した詐欺の目的物は、兵庫縣經濟部商工課長名義のＡ戰災者同盟本部宛硝子特配申請の件については四箱の配給を約束する旨の書面であるから、かゝる配給を受くべき財産上の利益を期待しうべき書面であり、從つて經濟的價値なしといえないばかりでなく、少くとも所有權の目的となることを得べきものであること明らかであるといわなければならない。從つて、たといその約束書それ自体が所論のように硝子板の受配の權利を附與するものでないとしても財物でないとはいえない。",
+  "ref_law": "刑法246條",
+  "lawsuit_id": "54534",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54534",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/534/054534_hanrei.pdf"
+}

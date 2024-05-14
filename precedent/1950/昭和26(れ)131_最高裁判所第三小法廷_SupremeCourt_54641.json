@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 5,
+    "day": 8
+  },
+  "case_number": "昭和26(れ)131",
+  "case_name": "詐欺",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第5巻6号1012頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 12,
+    "day": 4
+  },
+  "gist": "一個の通帳に基く数個の詐欺受配行為と罪数",
+  "case_gist": "刑法第五五条が削除された後においては、いわゆる犯意の継続があつたからとて、それだけで数個の行為を一罪として処断しなければならないという理由はない。本件についてみれば、原審が認定しているように、各受配の度毎にそれぞれ別個の欺罔行為が認められる以上、たとえそれが一個の配給通帳に基き、継続した意図の下にくりかえされたものであつても、各受配行為ごとに一個の詐欺罪が成立するものといわなければならない。",
+  "ref_law": "刑法55条（削除前），刑法45条，刑法246条1項",
+  "lawsuit_id": "54641",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54641",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/641/054641_hanrei.pdf"
+}

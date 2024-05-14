@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 12,
+    "day": 22
+  },
+  "case_number": "昭和26(し)71",
+  "case_name": "特別公務員職権濫用被疑事件につきなした請求棄却の決定に対する特別抗告",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第7巻13号2595頁",
+  "original_court_name": "広島地方裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 9,
+    "day": 18
+  },
+  "gist": "一　いわゆる審判請求を棄却した決定の性質\n二　審判請求棄却決定に対する不服申立の方法",
+  "case_gist": "一　刑訴第二六六条第一号により同法第二六二条第一項のいわゆる審判請求を棄却した決定は、同法第四二〇条の「裁判所の管轄又は訴訟手続に関し判決前にした決定」にあたらない。\n二　刑訴第二六六条第一号によりいわゆる審判請求を棄却した決定に対しては、刑訴第四一九条による抗告をすることができる。",
+  "ref_law": "刑訴法262条1項，刑訴法266条1号，刑訴法269条，刑訴法419条，刑訴法420条1項",
+  "lawsuit_id": "54630",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54630",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/630/054630_hanrei.pdf"
+}

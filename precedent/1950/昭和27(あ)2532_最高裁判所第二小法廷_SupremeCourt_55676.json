@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 11,
+    "day": 20
+  },
+  "case_number": "昭和27(あ)2532",
+  "case_name": "医師法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第7巻11号2249頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 2,
+    "day": 16
+  },
+  "gist": "一　医師法第一一条一号にいわゆる実地修練の範囲を超える一事例\n二　医師法にいわゆる医業の意義",
+  "case_gist": "一　医師法施行規則第一一条に規定する以外の場所である実父の開業している医院で代診として独立して自ら医行為をするような場合は、実地修練の範囲を超えるものである。\n二　医師法にいわゆる医業とは、反覆継続の意思を以つて医行為をすることをいう。",
+  "ref_law": "医師法11条，医師法17条，医師法31条1項1号，医師法施行規則11条",
+  "lawsuit_id": "55676",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55676",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/676/055676_hanrei.pdf"
+}

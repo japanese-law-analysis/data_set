@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 3,
+    "day": 28
+  },
+  "case_number": "昭和29(あ)950",
+  "case_name": "たばこ専売法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "刑集　第11巻3号1275頁",
+  "original_court_name": "仙台高等裁判所\n        　秋田支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 12,
+    "day": 15
+  },
+  "gist": "一　たばこ専売法第二九条第二項にいう「販売」の意義\n二　社会共同生活上許容さるべき行為とたばこ専売法第七一条第五号所定の販売罪または販売準備罪の成否",
+  "case_gist": "一　たばこ専売法第二九条第二項にいう「販売」とは、不特定、多数人に対してなす目的を以てなされる有償的譲渡行為を指称するものであつて、必ずしも営利の目的を要するものと解すべきではない。\n\n二　判示旅館業を営む者が、宿泊客等から煙草の購入方を依頼されるのを予想し、予め小売人から煙草を購入し置き、客の依頼のある都度、これを取り出し客に小売価格にて交付しても、それが社会共同生活の上において許容さるべきものと認められる以上、たばこ専売法第七一条第五号所定の販売罪または販売準備罪は成立しない。",
+  "ref_law": "たばこ専売法29条2項，たばこ専売法71条5号，たばこ専売法60条1項",
+  "lawsuit_id": "50430",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50430",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/430/050430_hanrei.pdf"
+}

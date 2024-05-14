@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 5,
+    "day": 18
+  },
+  "case_number": "昭和24新(れ)490",
+  "case_name": "強盗、窃盗",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第4巻5号826頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 11,
+    "day": 18
+  },
+  "gist": "高等裁判所と職權調査義務",
+  "case_gist": "刑訴法第三九二條第二項の規定は任意職權調査の規定であるから、高等裁判所が控訴趣意書に包含されない事項について調査しなかつたからといつて、違法であるということはできない。",
+  "ref_law": "刑訴法392條2項",
+  "lawsuit_id": "56753",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56753",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/753/056753_hanrei.pdf"
+}

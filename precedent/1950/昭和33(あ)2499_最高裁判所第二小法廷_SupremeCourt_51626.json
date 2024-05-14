@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 3,
+    "day": 23
+  },
+  "case_number": "昭和33(あ)2499",
+  "case_name": "強盗致傷、窃盜",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第13巻3号391頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 11,
+    "day": 24
+  },
+  "gist": "刑法第二三八条の「逮捕ヲ免レ」るための暴行にあたる事例。",
+  "case_gist": "窃盗犯人が、進行中の電車内で現行犯として車掌に逮捕され、約五分経過後到着駅ホームを警察官に引渡のため連行されている際に、逃走を企て右車掌に暴行したときは、刑法第二三八条の「逮捕ヲ免レ」るための暴行にあたる。",
+  "ref_law": "刑法238条，刑訴法213条，刑訴法214条",
+  "lawsuit_id": "51626",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51626",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/626/051626_hanrei.pdf"
+}

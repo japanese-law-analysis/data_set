@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 2,
+    "day": 21
+  },
+  "case_number": "昭和24新(れ)234",
+  "case_name": "酒税法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第16号579頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 6,
+    "day": 30
+  },
+  "gist": "憲法の如何なる條規に違反するかを明示せず基本的人權という語を籍りて量刑不當の主張を理由とする上告の適否",
+  "case_gist": "論旨は、原審の言渡した罰金を負擔する能力のない被告人に對して過重の負擔をかけることは基本人權の侵害であるというのである、然し乍ら所論は原判決が憲法の如何なる條規に違反するかを明示しないばかりでなく、基本人權の侵害という語を籍りて、その實は量刑不當の主張をしているに過ぎない。それ故論旨は刑訴法第四〇五條に定める事由に該當しない。",
+  "ref_law": "刑訴法405條",
+  "lawsuit_id": "75010",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=75010",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/010/075010_hanrei.pdf"
+}

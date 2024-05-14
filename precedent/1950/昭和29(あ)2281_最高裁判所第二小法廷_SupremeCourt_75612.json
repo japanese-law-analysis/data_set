@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 7,
+    "day": 22
+  },
+  "case_number": "昭和29(あ)2281",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第107号1021頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 5,
+    "day": 11
+  },
+  "gist": "公職選挙法違反罪において選挙権、被選挙権停止の処分は法律の定める手続によらないものといえるか",
+  "case_gist": "公職選挙法の規定による選挙権被選挙権停止の効果は、全く裁判所の法定の手続によりなされる選挙犯罪に対する有罪判決にかかるものである（公職選挙法二五二条三項による選挙権被選挙権の不停止または停止期間の短縮については、右有罪判決においてその判断が明示されるから、右の関係はなおさら明らかである）から、所論のように選挙権被選挙権停止の不利益が何等法律の定める手続によらないで科せられるものということはできない。",
+  "ref_law": "公職選挙法252条，憲法31条",
+  "lawsuit_id": "75612",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=75612",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/612/075612_hanrei.pdf"
+}

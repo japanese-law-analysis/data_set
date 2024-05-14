@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 4,
+    "day": 30
+  },
+  "case_number": "昭和30(あ)1157",
+  "case_name": "食糧管理法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第118号1129頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 3,
+    "day": 14
+  },
+  "gist": "食糧管理法施行令第六条の法意",
+  "case_gist": "食糧管理法施行令六条は、政府以外の者は所定の除外事由がある場合のほか、何人も米穀の生産者からその生産した米穀を買い受けてはならない旨規定しているのであつて、買い受ける者が消費者であるか、その他の者であるかによつてなんら差別せず、何人でも右規定に違反すれば食糧管理法九条一項三一条によつて処罰されるのである。されば、消費者とその他の者との処遇につき不平等であるとの所論は、本件には全く当らない。",
+  "ref_law": "食糧管理法施行令6条，食糧管理法9条，食糧管理法31条",
+  "lawsuit_id": "58576",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58576",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/576/058576_hanrei.pdf"
+}

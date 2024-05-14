@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 11,
+    "day": 16
+  },
+  "case_number": "昭和25(れ)1268",
+  "case_name": "賍物運搬",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第4巻11号2315頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 6,
+    "day": 20
+  },
+  "gist": "取寄記録の性質と証拠物の送付に関する手続違反は上告理由となるか",
+  "case_gist": "取寄記録のごときは、旧刑訴法上訴訟記録に包含されるものではなく証拠物に属するものである。そして、原二審裁判所は、必ずしもかかる証拠物を法律審である上告裁判所に送付することを要しないものであることは旧刑訴第四二一条を同第三九八条と対照すれば明白であつて弁護人は必要とあれば何時でも当裁判所にその取寄を求めることができるのである。しかのみならず、元来訴訟記録又は証拠物の上訴裁判所への送付に関する手続違反のごときは、原判決そのものの違反ではないから、かかる手続違反ありとの主張は、原判決に対する適法な上訴理由ではない。",
+  "ref_law": "旧刑訴法398条，旧刑訴法421条，旧刑訴法409条",
+  "lawsuit_id": "54485",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54485",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/485/054485_hanrei.pdf"
+}

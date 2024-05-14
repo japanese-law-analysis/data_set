@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 11,
+    "day": 15
+  },
+  "case_number": "昭和26(あ)2234",
+  "case_name": "恐喝、麻薬取締法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第56号851頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 5,
+    "day": 23
+  },
+  "gist": "心神喪失の主張に対する判断をなし、心神耗弱の主張に対する判断を欠く判決の当否",
+  "case_gist": "そして原審では心身喪失の主張がなされたけれども所論の心身耗弱の主張はなされていないから、喪失の点について判断を与えた以上耗弱の点について判示しないからといつて、原判決に判断遺脱の違法ありとはいえない。",
+  "ref_law": "刑法39条，刑訴法335条2項，刑訴法411条3号",
+  "lawsuit_id": "71712",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=71712",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/712/071712_hanrei.pdf"
+}

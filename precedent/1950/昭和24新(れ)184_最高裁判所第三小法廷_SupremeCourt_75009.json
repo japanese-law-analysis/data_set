@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 2,
+    "day": 7
+  },
+  "case_number": "昭和24新(れ)184",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第16号353頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 8,
+    "day": 25
+  },
+  "gist": "共謀の點につき自白のみを證據とした判決と憲法第三八條第三項刑訴法第三一九條第二項",
+  "case_gist": "論旨第一點は、原判決が本件犯罪事實中の共謀の點につき被告人の自白のみを證據にしたのは憲法第三八條第三項および刑事訴訟法第三一九條第二項違反である。と非難する。なるほど第一審判決の舉げた證據中共謀の點の證據は被告人の自白以外にはないが、しかし、犯罪事實の一部については本人の自白以外に認定資料がない場合でも、舉示の證據を綜合して判示事實全体が認定できる以上、その認定は憲法違反でない旨は、當裁判所大法廷判例の明示するところである。（昭和二二年（れ）第一五三號、同二三年六月九日判決）。その判例もまた共謀つ點に關しそして舊刑訴法下の判例であるが、新法下にも適切であのて、論旨は理由がない。",
+  "ref_law": "憲法38條3項，刑訴法319條2項",
+  "lawsuit_id": "75009",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=75009",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/009/075009_hanrei.pdf"
+}

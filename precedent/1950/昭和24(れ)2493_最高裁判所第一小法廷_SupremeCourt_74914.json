@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 12,
+    "day": 11
+  },
+  "case_number": "昭和24(れ)2493",
+  "case_name": "詐欺",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第70号417頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 7,
+    "day": 26
+  },
+  "gist": "単に被告人の供述の一部を措信しない理由の説示の根拠としたに過ぎない聴取書に対する適法な証拠調手続を欠くことと証拠手続上の違法の有無",
+  "case_gist": "所論聴取書は、原判決が、犯罪事実認定の証拠に供したものではなく、単に被告人の供述の一部を措信しない理由の説示の根拠にしたに過ぎないものであるから、仮りに所論聴取書について適法な証拠調手続を履践していないとしても、原判決には証拠手続上の違法があるとはいえない。",
+  "ref_law": "旧刑訴法340条，旧刑訴法336条，旧刑訴法410条13号",
+  "lawsuit_id": "74914",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74914",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/914/074914_hanrei.pdf"
+}

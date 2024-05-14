@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 6,
+    "day": 20
+  },
+  "case_number": "昭和25(れ)345",
+  "case_name": "強姦、強盗傷人",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第4巻6号1025頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 12,
+    "day": 15
+  },
+  "gist": "罪を犯したことを疑うに足りる充分な理由の一つとして逮捕後得られた自供の存在することを舉示した逮捕状請求書に基き逮捕状が發せられた場合における緊急逮捕の適法性",
+  "case_gist": "いわゆる緊急逮捕の場合、被疑者が罪を犯したことを疑うに足りる充分な理由の一つとして逮捕後得られた自供の存在することを舉示した逮捕状請求書に基いて逮捕状が發布されたとしても、逮捕手續書の記載並びに逮捕までに集取されたその他の資料によつて、逮捕者において被疑者が罪を犯したことを疑うに足りる充分な理由があると判斷したことが一應肯定され、前記自供の記載がなかつたとしても、逮捕状請求書のその他の記載によつて、逮捕の理由のあることが一應肯定される逮捕状が發せられたであろうと判斷される場合には、右緊急逮捕は適法有効である。",
+  "ref_law": "刑訴應急措置法8條2號",
+  "lawsuit_id": "54527",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54527",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/527/054527_hanrei.pdf"
+}

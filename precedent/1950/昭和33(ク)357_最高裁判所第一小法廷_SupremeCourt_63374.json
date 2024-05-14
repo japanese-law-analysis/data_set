@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 12,
+    "day": 25
+  },
+  "case_number": "昭和33(ク)357",
+  "case_name": "破産宣告前の保全処分の決定に対する抗告についてなした抗告却下決定に対する再抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "却下",
+  "article_info": "集民　第34号733頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和33(ラ)241",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 11,
+    "day": 14
+  },
+  "lawsuit_id": "63374",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63374",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/374/063374_hanrei.pdf"
+}

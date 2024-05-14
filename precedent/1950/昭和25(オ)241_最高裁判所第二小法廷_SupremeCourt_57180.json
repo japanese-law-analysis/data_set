@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 6,
+    "day": 27
+  },
+  "case_number": "昭和25(オ)241",
+  "case_name": "離婚等本訴及び反訴請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第6巻6号602頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 5,
+    "day": 10
+  },
+  "gist": "夫婦の一方が他方の不正行為を摘発する行為と旧民法第八一三条第五号",
+  "case_gist": "夫婦の一方が他方の不正行為を摘発してこれを罪におとすことは、その名誉もしくは面目を著しく毀損するものであつて、改正前の民法第八一三条第五号の重大なる侮辱にあたる。",
+  "ref_law": "旧民法813条5号",
+  "lawsuit_id": "57180",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57180",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/180/057180_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 10,
+    "day": 26
+  },
+  "case_number": "昭和25(あ)1748",
+  "case_name": "衆議院議員選挙法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第55号501頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 6,
+    "day": 12
+  },
+  "gist": "一　原判決の趣旨に副わない事実を前提とする判例違反の主張と上告の適否\n二　報酬と実費とを区別し得ない金員供与の不可分的違法性",
+  "case_gist": "原判決は、本件金員の供与は「報酬と実費とを包含し二者は一体を成しその何れの部分が報酬で、何れの部分が実費であるかこれを区別するに由ない関係にあるから。その全部について不法の供与と認め」るべきものとの判断を示したものであるが、所論判例はいずれも、報酬と実費とを判然区別し得る案件に関するものであつて、本件に適切でない。",
+  "ref_law": "衆議院議員選挙法112条1項3号，衆議院議員選挙法112条1項4号，刑訴法405条2号，刑訴法405条3号",
+  "lawsuit_id": "67216",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=67216",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/216/067216_hanrei.pdf"
+}

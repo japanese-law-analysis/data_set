@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 10,
+    "day": 8
+  },
+  "case_number": "昭和27(オ)639",
+  "case_name": "土地建物所有權移転登記等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第8巻10号1831頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 5,
+    "day": 27
+  },
+  "gist": "自作農創設特別措置法に基く農地の売渡処分を当然無効と認むべき一事例。",
+  "case_gist": "村農地委員会が、はじめ売渡の相手方を甲と定めた農地売渡計画を樹立し、公告縦覧の手続を践み、県農地委員会の承認を受けた後、売渡の相手方を乙に変更する旨の議決をなしてその旨甲および乙に通知し、次いで知事から乙に対し売渡通知書を交付した場合においては、乙に対する農地の売渡処分は当然無効と認むべきである。",
+  "ref_law": "自作農創設特別措置法8条，自作農創設特別措置法16条1項，自作農創設特別措置法18条，自作農創設特別措置法20条",
+  "lawsuit_id": "56125",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56125",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/125/056125_hanrei.pdf"
+}

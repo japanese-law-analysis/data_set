@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 4,
+    "day": 8
+  },
+  "case_number": "昭和28(あ)2460",
+  "case_name": "貸金業等の取締に関する法律違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第8巻4号435頁",
+  "original_court_name": "広島高等裁判所\n        　松江支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 5,
+    "day": 6
+  },
+  "gist": "貸金業等の取締に関する法律にいう貸金業の意義",
+  "case_gist": "貸金業等の取締に関する法律にいわゆる「貸金業」とは、反覆継続して行う意思の下に金銭の貸付又は金銭貸借の媒介行為を行うことをいい、利を図ることはその要件でない。",
+  "ref_law": "貸金業等の取締に関する法律2条，貸金業等の取締に関する法律5条，貸金業等の取締に関する法律18条1号",
+  "lawsuit_id": "53491",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53491",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/491/053491_hanrei.pdf"
+}

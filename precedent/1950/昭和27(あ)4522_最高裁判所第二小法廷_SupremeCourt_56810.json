@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 8,
+    "day": 20
+  },
+  "case_number": "昭和27(あ)4522",
+  "case_name": "強制猥褻",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "刑集　第8巻8号1249頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 5,
+    "day": 16
+  },
+  "gist": "強制猥褻の訴因に対し、訴因変更手続を経ることなく公然猥褻の事実を認定した判決と刑訴第三七八条第三号後段",
+  "case_gist": "行為の公然性について何ら明示するところなく、単に被告人甲乙両名はＳ方二畳の間において、Ｍ女に対し暴行を加え、それぞれ猥褻の行為をなしたとの強制猥褻の訴因に対し、訴因の変更または追加の手続をなすことなく、飲食店Ｓ方において右Ｓ及び同店の客Ｔ外二名の面前で被告人甲乙両名はＭ女に対しそれぞれ公然猥褻の行為をなしたとの事実を認定した有罪判決は、審判の請求を受けない事件について判決をした違法があるものといわなければならない。",
+  "ref_law": "刑法176条，刑法174条，刑訴法256条，刑訴法312条，刑訴法378条3号",
+  "lawsuit_id": "56810",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56810",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/810/056810_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 12,
+    "day": 16
+  },
+  "case_number": "昭和27(あ)2226",
+  "case_name": "昭和二五年政令第三二五号違反",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "刑集　第7巻12号2520頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 1,
+    "day": 18
+  },
+  "gist": "いわゆる「アカハタ及びその後継紙、同類紙の発行停止に関する指令」についての昭和二五年政令第三二五号違反被告事件は講和条約発効後は免訴すべきか。",
+  "case_gist": "いわゆる「アカハタ及びその後継紙、同類紙の発行停止に関する指令」についての昭和二五年政令第三二五号違反被告事件は、講和条約発効後においては、刑の廃止があつたものとして免訴すべきである。",
+  "ref_law": "昭和20年勅令542号，昭和25年政令325号前文，昭和25年政令325号1条，昭和25年政令325号2条，昭和25・6・26附同25・7・18附マツカーサー書簡，刑訴法337条2号，刑訴法411条5号，昭和27年法律81号，昭和27年法律137号2条6号，昭和27年法律137号3条1項，憲法39条，憲法21条",
+  "lawsuit_id": "54683",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54683",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/683/054683_hanrei.pdf"
+}

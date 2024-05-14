@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 3,
+    "day": 30
+  },
+  "case_number": "昭和24(れ)2702",
+  "case_name": "強盗、住居侵入",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第16号967頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 3,
+    "day": 16
+  },
+  "gist": "被告人の案件と相被告人の案件との間に關連がないという主張と併合審理の成否",
+  "case_gist": "事件審判の併合分離は裁判所の便宜の處分に委せられているところであるから、たとえ所論のように第一審の場合と異なり、原審の場合には被告人の共犯者Ａが控訴しなかつたために被告人の案件と相被告人等の案件との間に關連がなくなつたからといつて、原審が被告人と相被告人等とを併合審理したことをとらえて、違法であるということはできない。",
+  "ref_law": "舊刑訴法348條，舊刑訴法第4章第2節公判手續",
+  "lawsuit_id": "74928",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74928",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/928/074928_hanrei.pdf"
+}

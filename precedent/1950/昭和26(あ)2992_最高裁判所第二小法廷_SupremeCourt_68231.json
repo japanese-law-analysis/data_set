@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 5,
+    "day": 29
+  },
+  "case_number": "昭和26(あ)2992",
+  "case_name": "詐欺",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第81号597頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 1,
+    "day": 10
+  },
+  "gist": "被告人側が証拠とすることには同意するが内容には異議があると述べた告訴状の証拠力",
+  "case_gist": "告訴状につき弁護人及び被告人がこれを証拠とすることに同意するが告訴状の内容については異議があると述べたときは結局告訴状の証拠能力は認めるが証明力は争うという趣旨であると認められる。",
+  "ref_law": "刑訴法230条，刑訴法318条",
+  "lawsuit_id": "68231",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=68231",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/231/068231_hanrei.pdf"
+}

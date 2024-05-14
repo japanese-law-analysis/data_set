@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 4,
+    "day": 12
+  },
+  "case_number": "昭和25(れ)1570",
+  "case_name": "恐喝",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第43号691頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 7,
+    "day": 4
+  },
+  "gist": "恐喝罪における害悪告知の方法",
+  "case_gist": "恐喝取財罪の成立するためには、所謂相手方に対する害悪の告知として必ずしも明示の言動を必要とするものではなく、自己の経歴性行及び職業上の不法な威勢等を利用して財物の交付を要求し相手方をしてもその要求を容れないときは不当な不利益を醸される危障があるとの危惧の念を拘かしめるような暗黙の告知をなせば足るものといわなければならない（昭和二四年（れ）第九〇八号同年九月二九日第一小法廷判決参照）",
+  "ref_law": "刑法249条",
+  "lawsuit_id": "71478",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=71478",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/478/071478_hanrei.pdf"
+}

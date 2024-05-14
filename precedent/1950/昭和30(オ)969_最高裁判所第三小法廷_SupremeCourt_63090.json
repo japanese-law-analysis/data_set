@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 10,
+    "day": 21
+  },
+  "case_number": "昭和30(オ)969",
+  "case_name": "境界確認損害請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第34号285頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 9,
+    "day": 5
+  },
+  "gist": "境界確定の判断が違法とされた事例",
+  "case_gist": "境界確定事件において、裁判所が、証拠により係争両地所在地の土地整理委員らが村役場備付の図面に基き実地を測量して右両地の境界線を定め当事者双方もこれにつき何ら異議のなかつた事実を認定し、これにより右境界線どおり境界を確定すべきものと判断した場合、右証拠自体から、前記土地整理委員らの境界線測定には、前記図面に基き測量すれば実地には繩のびがあるに拘らずこれを無視した不合理の存することが明らかなときは、裁判所の右境界確定の判断は違法である。",
+  "lawsuit_id": "63090",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63090",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/090/063090_hanrei.pdf"
+}

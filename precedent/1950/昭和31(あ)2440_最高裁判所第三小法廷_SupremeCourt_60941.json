@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 6,
+    "day": 9
+  },
+  "case_number": "昭和31(あ)2440",
+  "case_name": "職業安定法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第130号87頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 5,
+    "day": 16
+  },
+  "gist": "職業安定法第六三条二号と憲法第一四条。",
+  "case_gist": "論旨は職業安定法六三条二号が憲法一四条に違反すると主張する。しかし職業安定法六三条二号は職業紹介、労働者の募集若しくは労働者の供給の適正を期するために設けられた規定であつて、この目的に背き同法条に違反するものは何人といえどもひとしくこれによつて処罰せられ、その間何等の差別もなされない。されば所論違憲の主張はその前提を欠き採用できない。",
+  "ref_law": "職業安定法63条2号，憲法14条",
+  "lawsuit_id": "60941",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60941",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/941/060941_hanrei.pdf"
+}

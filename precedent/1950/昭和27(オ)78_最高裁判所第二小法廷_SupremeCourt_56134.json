@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 4,
+    "day": 30
+  },
+  "case_number": "昭和27(オ)78",
+  "case_name": "家屋渡明請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第8巻4号867頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 12,
+    "day": 24
+  },
+  "gist": "著しく過大な賃料支払の催告の効力",
+  "case_gist": "賃料支払の催告に定められた金額が、約定賃料の五・六倍又は一二・七倍というが如き、約定額を著しく超過するものである場合には、特別の事情のないかぎり、賃貸人は約定賃料額の提供をうけても、これを受領する意思がないものと認めるのが相当であつて、該催告は無効である。",
+  "ref_law": "民法541条",
+  "lawsuit_id": "56134",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56134",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/134/056134_hanrei.pdf"
+}

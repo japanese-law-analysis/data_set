@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 4,
+    "day": 15
+  },
+  "case_number": "昭和29(あ)4187",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第9巻4号851頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 11,
+    "day": 29
+  },
+  "gist": "控訴趣意書の撤回",
+  "case_gist": "被告人が控訴裁判所に差し出した控訴趣意書を弁護人が撤回することは、刑事訴訟法上全然許されないものと解すべきではない。",
+  "ref_law": "刑訴法376条1項，刑訴法392条1項",
+  "lawsuit_id": "55762",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55762",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/762/055762_hanrei.pdf"
+}

@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 8,
+    "day": 4
+  },
+  "case_number": "昭和25(オ)255",
+  "case_name": "団体等規正令濫用の不当解散財産接収等指定取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集民　第3号653頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 6,
+    "day": 29
+  },
+  "lawsuit_id": "73447",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=73447",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/447/073447_hanrei.pdf"
+}

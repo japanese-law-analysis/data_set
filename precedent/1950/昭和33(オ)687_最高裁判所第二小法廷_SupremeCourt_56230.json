@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 8,
+    "day": 28
+  },
+  "case_number": "昭和33(オ)687",
+  "case_name": "行政処分取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第13巻10号1348頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 5,
+    "day": 30
+  },
+  "gist": "租税滞納処分としてした不動産差押処分の取消を求める訴訟は民事訴訟用印紙法の適用上財産権上の請求に係る訴訟か。",
+  "case_gist": "租税滞納処分としてした不動産差押処分の取消を求める訴訟は、民事訴訟用印紙法の適用については、財産権上の請求に係る訴訟である。",
+  "ref_law": "民事訴訟用印紙法2条",
+  "lawsuit_id": "56230",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56230",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/230/056230_hanrei.pdf"
+}

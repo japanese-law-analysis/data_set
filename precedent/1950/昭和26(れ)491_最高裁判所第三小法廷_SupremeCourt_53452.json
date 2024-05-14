@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 4,
+    "day": 28
+  },
+  "case_number": "昭和26(れ)491",
+  "case_name": "物価統制令違反、贈賄、収賄",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "刑集　第7巻4号887頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 1,
+    "day": 20
+  },
+  "gist": "鉄道警備係につき収賄罪の成立する一事例",
+  "case_gist": "鉄道警備係が闇物資の輸送を黙認するよう請託を受け、金品を収受すれば刑法一九七条一項後段の収賄罪となる。",
+  "ref_law": "刑法197条1項",
+  "lawsuit_id": "53452",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53452",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/452/053452_hanrei.pdf"
+}

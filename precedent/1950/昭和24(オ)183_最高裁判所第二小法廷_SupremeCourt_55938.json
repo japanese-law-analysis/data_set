@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 12,
+    "day": 22
+  },
+  "case_number": "昭和24(オ)183",
+  "case_name": "徴税手続停止仮処分申請",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第4巻12号668頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 7,
+    "day": 6
+  },
+  "gist": "税務署長のした滞納処分の執行停止を求める仮処分申請の適否",
+  "case_gist": "税務署長のした滞納処分の執行停止を求める民事訴訟法に基く仮処分は許されない。",
+  "ref_law": "行政事件訴訟特例法10条7項",
+  "lawsuit_id": "55938",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55938",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/938/055938_hanrei.pdf"
+}

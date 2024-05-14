@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 12,
+    "day": 4
+  },
+  "case_number": "昭和26(れ)536",
+  "case_name": "銃砲等所持禁止令違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第58号5頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 12,
+    "day": 8
+  },
+  "gist": "被告人の精神状態につき特別の調査をしなくても審理不尽とはならない一事例",
+  "case_gist": "論旨は本件犯行後略二年六ケ月後（原判決言渡より略六ケ月後）に作成された医師の診断書を根拠として被告人は犯行当時精神に異常があつたか否かについて適当な調査をしないことは審理不尽であると主張する。しかし記録に徴するに原審においては被告人の公判廷における動作並に供述其他諸般の事情より判断して通常人と異るところはないと認め被告人の精神状態に関する特別の調査手続をしなかつたものと認め得る、そして裁判所は公判廷における被告人の動作並に供述其他諸般の事情に鑑み通常人と異るところがないと認めた場合はことさら精神鑑定等の手続をする必要のないことはいうをまたないことである。",
+  "ref_law": "刑法39条，旧刑訴法337条",
+  "lawsuit_id": "68983",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=68983",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/983/068983_hanrei.pdf"
+}

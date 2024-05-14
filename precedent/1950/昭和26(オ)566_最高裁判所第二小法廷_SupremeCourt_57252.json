@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 1,
+    "day": 22
+  },
+  "case_number": "昭和26(オ)566",
+  "case_name": "自動車残代金並びに附属品代請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第8巻1号198頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 6,
+    "day": 29
+  },
+  "gist": "商事売買における目的物の瑕疵と代金減額請求権の有無",
+  "case_gist": "商事売買においても、目的物に瑕疵あることを理由として代金減額の請求をすることはできない。",
+  "ref_law": "商法526条，民法570条，民法566条",
+  "lawsuit_id": "57252",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57252",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/252/057252_hanrei.pdf"
+}

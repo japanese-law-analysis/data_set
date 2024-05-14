@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 10,
+    "day": 23
+  },
+  "case_number": "昭和32(し)49",
+  "case_name": "強盗殺人、同未遂被告事件につきなした再審請求棄却決定に対する即時抗告申立棄却決定に対する抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第11巻10号2696頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 9,
+    "day": 14
+  },
+  "gist": "刑訴規則第二八六条の法意",
+  "case_gist": "再審請求人が裁判所の求意見に対し現実に意見書を提出した場合のみならず、裁判所が再審を請求した者に対し意見を求め、且つその意見の申述につき相当期間をおいたにも拘らず、請求人から遂に意見を申述しなかつた場合も、刑訴規則二八六条にいう意見を聴いた場合に該る。",
+  "ref_law": "刑訴規則286条",
+  "lawsuit_id": "51597",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51597",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/597/051597_hanrei.pdf"
+}

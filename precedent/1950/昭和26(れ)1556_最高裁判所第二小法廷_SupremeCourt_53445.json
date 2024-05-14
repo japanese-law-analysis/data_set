@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 5,
+    "day": 2
+  },
+  "case_number": "昭和26(れ)1556",
+  "case_name": "殺人",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "刑集　第6巻5号721頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 5,
+    "day": 23
+  },
+  "gist": "適法に人の住居の一室に入った者が故なく他の室に入つた場合と盗犯等ノ防止及処分ニ関スル法律第一条第一項第三号にいわゆる「故ナク人ノ住居ニ侵入シタル者」",
+  "case_gist": "当初不法な目的なく他人の住居を訪れ家人から「用があるなら這入つてくれ」と挨拶されて適法にその入口土間に入つた者も、爾後家人の意に反して、またはその承諾がないのに、擅に中の間座敷に土足のまま立ち入り暴行に及んだ場合には、盗犯等ノ防止及処分ニ関スル法律第一条第一項第三号にいわゆる「故ナク人ノ住居ニ侵入シタル者」にあたる。",
+  "ref_law": "盗犯等ノ防止及処分ニ関する法律1条1項3号",
+  "lawsuit_id": "53445",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53445",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/445/053445_hanrei.pdf"
+}

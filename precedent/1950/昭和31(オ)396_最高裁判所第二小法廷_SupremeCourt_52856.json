@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 10,
+    "day": 3
+  },
+  "case_number": "昭和31(オ)396",
+  "case_name": "株主総会決議不存在確認請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第12巻14号3053頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 2,
+    "day": 21
+  },
+  "gist": "株主総会の決議が不存在と認められた事例。",
+  "case_gist": "株主九名、株式総数五、〇〇〇株の株式会社において、株主の一名である代表取締役が、単に、自己の実子である二名の株主に口頭で株主総会招集の通知をしただけで、他の六名の株主（その持株二、一〇〇株）には招集の通知を全然なさず、右親子三名だけが株式総会としての決議をしても、これにより株主総会が成立しその決議があつたものということはできない。",
+  "ref_law": "商法232条，商法252条",
+  "lawsuit_id": "52856",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52856",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/856/052856_hanrei.pdf"
+}

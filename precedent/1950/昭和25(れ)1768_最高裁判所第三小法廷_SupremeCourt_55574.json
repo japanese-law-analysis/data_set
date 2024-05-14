@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 2,
+    "day": 2
+  },
+  "case_number": "昭和25(れ)1768",
+  "case_name": "強盗、住居侵入、銃砲等所持禁止令違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "刑集　第5巻3号395頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 11,
+    "day": 11
+  },
+  "gist": "刑事の契印を欠く判決書の適否と共同上告人に対する破棄理由の共通",
+  "case_gist": "原判決を調べて見るに、その第二葉目と第三葉目との間に所論の契印を欠いていることは明である。旧刑訴法によると、判決書に判示の契印が欠けているときは常に上告の理由があつて判決に影響を及ぼすべき法令違背あるものと、されているのであるから、論旨は理由があり原判決は破棄を免れない。そして、原判決は被告人Ａに対する強盗、住所侵入、銃砲等所持禁止令違反被告事件についてばかりであく同一事件の共同被告人であるＢに対しても言渡されたものであるから、前記破棄の理由は共同被告人たるＢにも共通のものといわなければならない。従つて原判決は右Ｂの為にも破棄を免れないのである。",
+  "ref_law": "旧刑訴法71条2項，旧刑訴法410条21号，旧刑訴法451条",
+  "lawsuit_id": "55574",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55574",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/574/055574_hanrei.pdf"
+}

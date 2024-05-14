@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 9,
+    "day": 14
+  },
+  "case_number": "昭和31(あ)1548",
+  "case_name": "業務上横領",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第114号697頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 3,
+    "day": 6
+  },
+  "gist": "憲法第七六条第三項違反との上告趣意がその前提を欠く一事例",
+  "case_gist": "上告趣意中憲法違反を主張する点は記録を精査しても原審裁判官がその良心に反して裁判をしたことを疑うに足る形跡は何もないから所論はその前提を欠く。",
+  "ref_law": "憲法76条3項，刑訴法405条1号",
+  "lawsuit_id": "60919",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60919",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/919/060919_hanrei.pdf"
+}

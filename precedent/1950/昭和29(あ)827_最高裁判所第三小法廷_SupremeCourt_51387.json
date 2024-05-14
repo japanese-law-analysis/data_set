@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 6,
+    "day": 5
+  },
+  "case_number": "昭和29(あ)827",
+  "case_name": "物品税法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第10巻6号787頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 2,
+    "day": 2
+  },
+  "gist": "一　物品税法第一八条第一項（無申告製造罪）の法意\n二　旧物品税法第一七条ノ三第二項を適用する場合と無申告製造にかかる物品を移出した事実を判示することの要否",
+  "case_gist": "一　物品税法第一八条第一項（無申告製造罪）は、政府に申告しないで同号所定の物品を製造した事実そのものを処罰しようとするもので、無申告製造にかかる物品を移出した事実の存する必要はない。\n\n二　旧物品税法第一七条ノ三（昭和二四年法律第二八六号による改正前のもの）を適用する場合においても、必ずしも無申告で製造した物品の移出した事実を判文に明示する必要はない。",
+  "ref_law": "物品税法（昭和24年法律第286号による改正後）18条，物品税法（昭和24年法律第286号による改正前）17条ノ3，刑訴法335条1項",
+  "lawsuit_id": "51387",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51387",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/387/051387_hanrei.pdf"
+}

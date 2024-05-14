@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 1,
+    "day": 26
+  },
+  "case_number": "昭和24(れ)2330",
+  "case_name": "物価統制令違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第5巻1号94頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 6,
+    "day": 29
+  },
+  "gist": "物価統制令第一三条の二違反事実の判示方法",
+  "case_gist": "原判決が、本件畳表について、特上、並の等級を明示していないことは、所論のとおりであるが、本件は、統制額を超過して販売する目的を以て畳表を所持したという罪であつて、原判決は被告人が販売せんとした価格は一枚三六〇円乃至四〇〇円であつたことを判示しているのであつて、かりに右畳表の等級がいずれにあつたとしても、右価格は決定の統制額を超過するものであることは関係法規に照し明らかであるから、本件において更に右畳表の等級を特定して判示する必要はないものというべきである。けだし、右はいずれにしても、本件犯罪の成否にも犯情にも影響を及ぼすべき事項と解せられないからである。",
+  "ref_law": "物価統制令13条の2，物価統制令3条，昭和23年2月物価庁告示72号",
+  "lawsuit_id": "54318",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54318",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/318/054318_hanrei.pdf"
+}

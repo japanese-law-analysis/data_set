@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 4,
+    "day": 8
+  },
+  "case_number": "昭和27(オ)1119",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第8巻4号819頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 9,
+    "day": 18
+  },
+  "gist": "相続財産たる金銭その他の可分債権と共同相続人の分割承継",
+  "case_gist": "相続人数人ある場合において、相続財産中に金銭の他の可分債権あるときは、その債権は法律上当然分割され各共同相続人がその相続分に応じて権利を承継するものと解すべきである。",
+  "ref_law": "民法898条，民法899条",
+  "lawsuit_id": "56093",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56093",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/093/056093_hanrei.pdf"
+}

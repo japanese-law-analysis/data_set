@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 11,
+    "day": 17
+  },
+  "case_number": "昭和25(れ)1160",
+  "case_name": "食糧管理法違反、酒税法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第4巻11号2351頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 3,
+    "day": 3
+  },
+  "gist": "食糧管理法旧第三一条違反と酒税法旧第六〇条第一項違反とは牽連犯となるか",
+  "case_gist": "食糧管理法旧第三一条違反と酒税法旧第六〇条第一項違反とは牽連犯の関係に立たない。",
+  "ref_law": "食糧管理法（昭和23年法律272号による改正前のもの）9条，食糧管理法（昭和23年法律272号による改正前のもの）31条，酒税法（昭和24年法律43号による改正前のもの）60条1項，刑法54条1項",
+  "lawsuit_id": "54477",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54477",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/477/054477_hanrei.pdf"
+}

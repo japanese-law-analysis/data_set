@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 8,
+    "day": 27
+  },
+  "case_number": "昭和34(し)39",
+  "case_name": "裁判官忌避申立却下決定に対する異議申立の棄却決定に対する特別抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第131号347頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和34(け)3",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 6,
+    "day": 17
+  },
+  "gist": "刑訴法第三九三条第二項の合憲性。",
+  "case_gist": "刑訴第三九三条第二項が、控訴審における第一審判決後の刑の量定に影響を及ぼすべき情状に関する事実取調の必要の有無を裁判所の裁量に委ねたことは、憲法に違反しない。",
+  "ref_law": "刑訴法393条2項，憲法98条1項",
+  "lawsuit_id": "73074",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=73074",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/074/073074_hanrei.pdf"
+}

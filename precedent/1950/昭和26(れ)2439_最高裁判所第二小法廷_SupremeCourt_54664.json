@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 2,
+    "day": 20
+  },
+  "case_number": "昭和26(れ)2439",
+  "case_name": "物価統制令違反、公文書偽造、同行使、詐欺",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "刑集　第7巻2号426頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 9,
+    "day": 29
+  },
+  "gist": "偽造公文書の意義",
+  "case_gist": "偽造公文書が一般人をして公務所または公務員の職務権限内において作成せられたものと信ぜしめるに足る形式外観を具えている以上は、その作成名義者たる公務所または公務員にその権限がない場合においても、刑法一五五条の偽造公文書というを妨げないものである。（大分県議会事務局印が押捺され、県議局第一〇四号という番号が附けてある同事務局作成名義の九二式電纜解体工事委託書と題する書面であつて、少数意見は、かかる議決機関に附属する機関がかかる書面作成の権限がないこと通常人にも明らかであるとして公文書偽造罪を否定している。）",
+  "ref_law": "刑法155条",
+  "lawsuit_id": "54664",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54664",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/664/054664_hanrei.pdf"
+}

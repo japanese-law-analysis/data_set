@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 12,
+    "day": 11
+  },
+  "case_number": "昭和27(あ)5265",
+  "case_name": "傷害致死",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第89号209頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 6,
+    "day": 30
+  },
+  "gist": "刑訴第三九三条による事実取調の方法。",
+  "case_gist": "控訴裁判所が公判廷に出頭した被告人に対し必要と認めて事件に関連する事項を質問することは、刑訴三九三条一項の事実の取調として許されることは論旨も認めるとおりであるが、右事実の取調として被告人に質問するにあたり、所論のように訴訟関係人の意見を聞き、決定を以つて右質問を開始することを宣言しなければならないという法則は何処にも存しない。",
+  "ref_law": "刑訴法393条，刑訴法311条",
+  "lawsuit_id": "69298",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=69298",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/298/069298_hanrei.pdf"
+}

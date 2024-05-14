@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 7,
+    "day": 29
+  },
+  "case_number": "昭和33(あ)741",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第126号1129頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 3,
+    "day": 18
+  },
+  "gist": "控訴裁判所が第一審において有罪とした数十個の犯罪事実のうち一部分を無罪としながらなお第一審判決と同一の刑を被告人に科した場合と刑訴法第四〇二条。",
+  "case_gist": "被告人が控訴をした事件について、控訴裁判所が第一審において有罪とした数十個の犯罪事実のうち一部分を無罪としながらなお第一審判決と同一の刑を被告人に科しても刑訴第四〇二条に違反しない。",
+  "ref_law": "刑訴法402条，刑訴法411条1号",
+  "lawsuit_id": "58684",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58684",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/684/058684_hanrei.pdf"
+}

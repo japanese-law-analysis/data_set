@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 5,
+    "day": 13
+  },
+  "case_number": "昭和29(あ)3045",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第9巻6号1023頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 4,
+    "day": 16
+  },
+  "gist": "公職選挙法第二五二条の合憲性",
+  "case_gist": "公職選挙法第二五二条は憲法第一四条、第一五条、第四四条に違反せず、かつ国民の参政権を不当に奪うものではない。",
+  "ref_law": "公職選挙法252条，憲法前文，憲法1条，憲法14条，憲法15条，憲法44条",
+  "lawsuit_id": "51355",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51355",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/355/051355_hanrei.pdf"
+}

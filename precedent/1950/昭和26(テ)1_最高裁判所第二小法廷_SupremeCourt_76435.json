@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 6,
+    "day": 20
+  },
+  "case_number": "昭和26(テ)1",
+  "case_name": "妨害排除請求上告事件の特別上告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第6号779頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 2,
+    "day": 12
+  },
+  "lawsuit_id": "76435",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=76435",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/435/076435_hanrei.pdf"
+}

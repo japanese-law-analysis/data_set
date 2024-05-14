@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 3,
+    "day": 28
+  },
+  "case_number": "昭和32(オ)925",
+  "case_name": "行政処分取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第12巻4号667頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 6,
+    "day": 26
+  },
+  "gist": "一　小麦委託加工および木炭販売を業とする者の玄関口の店舗に接続する帳場の柱に掛けられていた柱時計は、国税徴収法第一七条にいう営業に必要な器具にあたるか\n二　国税徴収法第一七条に基く代替物件の提供が適法になされたものと認められた事例",
+  "case_gist": "一　小麦委託加工および木炭販売を業とする者の玄関口の店舗に接続する帳場の柱に掛けられていた時計は、国税徴収法第一七条にいう営業に必要な器具にあたる。\n二　滞納処分による動産の差押にあたり、滞納者が徴税吏員から差押物件の保管を求められ、これを拒絶すると共に、右物件が営業上必要なものであるとの理由で代替物件を提供し、その差押方を申し出た場合は、国税徴収法第一七条に基く代替物件の提供が、適法になされたものと認むべきである。",
+  "ref_law": "国税徴収法17条，国税徴収法22条",
+  "lawsuit_id": "53614",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53614",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/614/053614_hanrei.pdf"
+}

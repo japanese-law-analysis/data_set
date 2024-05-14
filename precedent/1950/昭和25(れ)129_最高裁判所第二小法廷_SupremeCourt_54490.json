@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 7,
+    "day": 7
+  },
+  "case_number": "昭和25(れ)129",
+  "case_name": "有毒飲食物等取締令違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第4巻7号1211頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 10,
+    "day": 5
+  },
+  "gist": "有毒飲食物等取締令第一条第二項の規定の趣旨",
+  "case_gist": "有毒飲食物等取締令第一条第二項は「メタノールは飲食ニ供スル目的ヲ以テ之ヲ販賣、譲渡、製造又ハ所持スルコトヲ得ズ」と規定しているのであつて、メタノールを買い受けた者自身において之を飲用に供すると將た又同人自身はこれを飲用せず更に他に轉賣売するとを問わず、苟くも飲用に供せられることを知りながら之を販賣することを禁止するものであることは同令立法の趣旨に鑑み疑を容れないところである。",
+  "ref_law": "有毒飲食物等取締令1條2項",
+  "lawsuit_id": "54490",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54490",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/490/054490_hanrei.pdf"
+}

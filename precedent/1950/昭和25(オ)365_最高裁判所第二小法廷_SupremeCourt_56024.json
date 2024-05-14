@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 5,
+    "day": 8
+  },
+  "case_number": "昭和25(オ)365",
+  "case_name": "売買契約無効確認物件引渡並に所有権移転登記抹消登記手続請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第7巻5号545頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 9,
+    "day": 22
+  },
+  "gist": "臨時農地等管理令第七条ノ二違反の農地売買契約の効力",
+  "case_gist": "臨時農地等管理令第七条ノ二に基く地方長官の許可を得ない農地の売買契約であつても、それが農地を耕作の目的に供するためになされ、かつ昭和二一年一〇月二一日法律第四二号をもつて改正された農地調整法施行当時すでに農地の引渡またはその所有権移転登記のいずれかが完了している場合には、その売買契約は有効である。",
+  "ref_law": "臨時農地等管理令7条ノ2，農地調整法（昭和20年法律64号により改正のもの）5条，農地調整法（昭和20年法律64号により改正のもの）6条3号，農地調整法（昭和21年法律42号により改正前のもの）4条，農地調整法（昭和21年法律42号により改正前のもの）附則2項",
+  "lawsuit_id": "56024",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56024",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/024/056024_hanrei.pdf"
+}

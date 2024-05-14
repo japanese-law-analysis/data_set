@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 12,
+    "day": 27
+  },
+  "case_number": "昭和26(し)103",
+  "case_name": "殺人、同未遂被告事件についてした証拠決定に対する特別抗告の申立",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第6巻12号1477頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 11,
+    "day": 8
+  },
+  "gist": "旧刑訴第三四四条第二項に基く証人尋問の決定と刑訴応急措置法第一八条第一項にいわゆる「不服を申し立てることができない決定」",
+  "case_gist": "旧刑訴第三四四条第二項に基く証人尋問の決定は、刑訴応急措置法第一八条第一項にいわゆる「不服を申し立てることができない決定」にあたらない。",
+  "ref_law": "旧刑訴法344条，旧刑訴法457条，刑訴応急措置法18条",
+  "lawsuit_id": "53440",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53440",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/440/053440_hanrei.pdf"
+}

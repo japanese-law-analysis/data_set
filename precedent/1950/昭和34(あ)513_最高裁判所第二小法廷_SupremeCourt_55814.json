@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 12,
+    "day": 5
+  },
+  "case_number": "昭和34(あ)513",
+  "case_name": "弁護士法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第13巻12号3174頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 2,
+    "day": 19
+  },
+  "gist": "弁護士法第七二条にいわゆる「業とする」の意義。",
+  "case_gist": "弁護士法第七二条にいわゆる「業とする」とは、反覆継続して行う意思のもとに同条列記の行為をなすことをいうものであつて、具体的になされた行為の多少は問うところではない。",
+  "ref_law": "弁護人法72条，弁護人法77条",
+  "lawsuit_id": "55814",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55814",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/814/055814_hanrei.pdf"
+}

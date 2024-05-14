@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 10,
+    "day": 6
+  },
+  "case_number": "昭和25(し)55",
+  "case_name": "執行猶予取消決定に対する抗告棄却の決定に対する特別抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第5巻11号2173頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 9,
+    "day": 2
+  },
+  "gist": "刑法第二六条第一項第一号の合憲性",
+  "case_gist": "前犯に対する確定判決を動かしたり或は前犯に対し、重ねて刑罰を科する趣旨のものでもない刑法第二六条第一項第一号の規定が憲法第三九条その他の規定に違反しないことは、当裁判所昭和二四年（れ）第一二六〇号同年一二月二一日大法廷判決、昭和二四年（れ）第一四〇四号、同二五年三月一五日大法廷判決の趣旨に徴し疑をいれないところである。従つてこの点に関する論旨は理由がない。",
+  "ref_law": "刑法26条1項1号，憲法39条",
+  "lawsuit_id": "54459",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54459",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/459/054459_hanrei.pdf"
+}

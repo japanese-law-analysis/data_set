@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 8,
+    "day": 22
+  },
+  "case_number": "昭和26(オ)138",
+  "case_name": "農地買収対価増額請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第6巻8号712頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 11,
+    "day": 4
+  },
+  "gist": "一　民訴応急措置法第八条および行政事件訴訟特例法附則第三項による自作農創設特別措置法第一四条の効力\n二　証拠方法を放棄したものと認むべき一事例\n三　代物弁済の予約が公序良俗に反すると認められる一事例",
+  "case_gist": "一　民訴応急措置法第八条および行政事件訴訟特例法附則第三項によつて自作農創設特別措置法第一四条の出訴期間の規定は効力を失うものではない。\n二　証拠申請につき許否を決定しないで口頭弁論を終結した場合、当事者が異議を述べないときは、その証拠方法を放棄したものと認むべきである。\n三　代物弁済の予約につき、後記事由（第二審判決理由参照）があるときは、公序良俗に反し無効である。",
+  "ref_law": "民訴応急措置法8条，行政事件訴訟特例法5条，行政事件訴訟特例法附則3項，自作農創設特別措置法14条",
+  "lawsuit_id": "57218",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57218",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/218/057218_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 2,
+    "day": 12
+  },
+  "case_number": "昭和30(オ)478",
+  "case_name": "滞納処分無効確認請求",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第12巻2号190頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 3,
+    "day": 28
+  },
+  "gist": "一定の住民を国民健康保険に強制加入させ、保険料を町民税の賦課等級に応じて納付させることにした町条例の憲法適否",
+  "case_gist": "一定の住民を国民健康保険に強制加入させ保険料は世帯主の町民税賦課等級に応じて納付させることにした町条例は、憲法第一九条に関係なく、憲法上の自由権および憲法第二九条第一項所定の財産権を侵害するものとはいえない。",
+  "ref_law": "国民健康保険法8条の13，国民健康保険法8条の14，国民健康保険法8条の15，小城町国民健康保険条例5条，小城町国民健康保険条例32条，憲法19条，憲法29条",
+  "lawsuit_id": "53515",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53515",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/515/053515_hanrei.pdf"
+}

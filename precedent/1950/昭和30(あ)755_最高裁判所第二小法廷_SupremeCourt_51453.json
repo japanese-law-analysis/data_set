@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 10,
+    "day": 18
+  },
+  "case_number": "昭和30(あ)755",
+  "case_name": "爆発物取締罰則違反、往来妨害",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "刑集　第11巻10号2663頁",
+  "original_court_name": "仙台高等裁判所\n        　秋田支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 1,
+    "day": 18
+  },
+  "gist": "刑法第三八条第三項但書の法意",
+  "case_gist": "刑法第三八条第三項但書は、自己の行為が刑罰法令により処罰さるべきことを知らず、これがためその行為の違反であることを意識しなかつたにかかわらず、それが故意犯として処罰される場合において、右違法の意識を欠くことにつき斟酌または宥恕すべき事由があるときは、刑の減軽をなし得べきことを認めたものと解するを相当とする。",
+  "ref_law": "刑法38条3項",
+  "lawsuit_id": "51453",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51453",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/453/051453_hanrei.pdf"
+}

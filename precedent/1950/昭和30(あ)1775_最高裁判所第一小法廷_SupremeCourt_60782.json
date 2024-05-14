@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 11,
+    "day": 1
+  },
+  "case_number": "昭和30(あ)1775",
+  "case_name": "覚せい剤取締法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第115号275頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 5,
+    "day": 23
+  },
+  "lawsuit_id": "60782",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60782",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/782/060782_hanrei.pdf"
+}

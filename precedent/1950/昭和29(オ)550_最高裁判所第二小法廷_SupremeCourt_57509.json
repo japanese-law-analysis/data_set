@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 4,
+    "day": 13
+  },
+  "case_number": "昭和29(オ)550",
+  "case_name": "農地売渡処分取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第10巻4号397頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 4,
+    "day": 16
+  },
+  "gist": "昭和二四年法律第二一五号による改正前の農地調整法第四条の承認と市町村農地委員会の裁量権",
+  "case_gist": "昭和二四年法律第二一五号による農地調整法改正前においても、同法第四条によつて市町村農地委員会が行う農地等の所有権、賃借権等の設定、移転等の承認は同委員会の自由な裁量に委せられていたものと解すべきでない。",
+  "ref_law": "農地調整法（昭和24年法律35号による改正前）4条",
+  "lawsuit_id": "57509",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57509",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/509/057509_hanrei.pdf"
+}

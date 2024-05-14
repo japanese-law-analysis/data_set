@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 4,
+    "day": 12
+  },
+  "case_number": "昭和27(あ)4000",
+  "case_name": "昭和二四年政令第三八九号違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第9巻4号838頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 6,
+    "day": 26
+  },
+  "gist": "公務員の免官の効力発生時期と辞令の発信または官報の掲載",
+  "case_gist": "公務員（裁判官）の免官の効力は辞令の交付によつて生ずるものであつて、辞令の発信または官報の掲載によつて生ずるものではない。",
+  "ref_law": "憲法32条，裁判官分限法1条，刑訴法377条1号",
+  "lawsuit_id": "55691",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55691",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/691/055691_hanrei.pdf"
+}

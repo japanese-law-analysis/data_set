@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 6,
+    "day": 21
+  },
+  "case_number": "昭和23(れ)1432",
+  "case_name": "強盗未遂",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第4巻6号1045頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 3,
+    "day": 16
+  },
+  "gist": "被告人に精神異状の認められない場合と鑑定の要否",
+  "case_gist": "およそ裁判所が、被告人の公判廷における供述並びに供述の態度、訴訟記録、その他辯論の全趣旨により、被告人に精神の異状はないと認めた以上は、ことさらに精神鑑定を命ずる必要はない。",
+  "ref_law": "舊刑訴法219條，舊刑訴法317條",
+  "lawsuit_id": "54285",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54285",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/285/054285_hanrei.pdf"
+}

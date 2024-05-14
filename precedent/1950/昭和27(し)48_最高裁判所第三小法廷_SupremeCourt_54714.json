@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 4,
+    "day": 7
+  },
+  "case_number": "昭和27(し)48",
+  "case_name": "麻薬取締法違反、昭和二四年政令第三八九号違反被告事件の有罪の確定判決に関し刑法五二条による刑を定める決定に対する異議の申立につきなした異議申立棄却決定に対する特別抗告",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第7巻4号771頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 7,
+    "day": 15
+  },
+  "gist": "刑法第五二条と判決確定後における刑の廃止または法令の変更",
+  "case_gist": "刑法第五二条により刑を定めるにあたつては、判決確定後に刑の廃止または法令の変更があつてもこれを考慮に容れるべきものではない。",
+  "ref_law": "刑法第52条",
+  "lawsuit_id": "54714",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54714",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/714/054714_hanrei.pdf"
+}

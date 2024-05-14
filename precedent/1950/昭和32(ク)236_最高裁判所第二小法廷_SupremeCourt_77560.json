@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 11,
+    "day": 29
+  },
+  "case_number": "昭和32(ク)236",
+  "case_name": "会社更正計画認可決定に対する抗告につきなした抗告棄却決定に対する抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "却下",
+  "article_info": "集民　第28号963頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和31(ラ)402",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 9,
+    "day": 28
+  },
+  "lawsuit_id": "77560",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77560",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/560/077560_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 3,
+    "day": 12
+  },
+  "case_number": "昭和26(あ)5184",
+  "case_name": "物価統制令違反、公文書変造同行使、偽造公文書行使",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集刑　第76号103頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 11,
+    "day": 13
+  },
+  "gist": "公務員に対して虚偽の申立をなし情を知らない公務員をして虚偽の証明書を作成させこれを行使した所為と犯罪の成否",
+  "case_gist": "被告人が情を知らないＡ食糧事務所Ｂ出張所長Ｃに対し虚偽の申立を為し交付を受けた出荷証明書を行使したときは、かゝる証明書を以て偽造の公文書といえないのは勿論虚偽の公文書ともいえないこと当法廷の判例であるから（昭和二四年（れ）一四九六号同二七年一二月二五日当法廷判決参照）、これを行使した所為も罪とならないものといわなければならない。",
+  "ref_law": "刑法155条，刑法158条1項",
+  "lawsuit_id": "68362",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=68362",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/362/068362_hanrei.pdf"
+}

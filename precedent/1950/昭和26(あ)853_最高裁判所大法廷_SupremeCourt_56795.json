@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 11,
+    "day": 24
+  },
+  "case_number": "昭和26(あ)853",
+  "case_name": "貸金業等の取締に関する法律違反",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第8巻11号1860頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 1,
+    "day": 27
+  },
+  "gist": "一　貸金業等の取締に関する法律にいう「貸金業」の意義\n二　貸金業等の取締に関する法律第一八条第一号の規定の合憲性",
+  "case_gist": "一　貸金業等の取締に関する法律二条第一項にいう「貸金業」とは反覆、継続の意思をもつて金銭の貸付又は金銭の貸借の媒介をする行為をすれば足り必ずしも報酬若しくは利益を得る意思またはこれを得た事実を必要とするものではない。\n二　貸金業等の取締に関する法律第一八条第一号の規定は職業選択の自由について規定した憲法第二二条に違反しない。",
+  "ref_law": "貸金業等の取締に関する法律2条，貸金業等の取締に関する法律18条1号，貸金業等の取締に関する法律5条，憲法22条1項",
+  "lawsuit_id": "56795",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56795",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/795/056795_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 8,
+    "day": 3
+  },
+  "case_number": "昭和33(し)95",
+  "case_name": "保護処分に対する抗告棄却決定に対する再抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第13巻10号2735頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 11,
+    "day": 17
+  },
+  "gist": "少年審判規則第四三条第二項にいう抗告趣意の明示を欠く抗告申立書による抗告の適否。",
+  "case_gist": "保護処分決定に対する抗告申立書に抗告の理由は追つて申述する旨を記載しただけで、抗告提起期間内に理由書の提出がないときは、右抗告は少年審判規則第四三条第二項に違背し棄却を免れない。",
+  "ref_law": "少年審判規則43条2項，少年法32条，少年法33条1項",
+  "lawsuit_id": "55805",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55805",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/805/055805_hanrei.pdf"
+}

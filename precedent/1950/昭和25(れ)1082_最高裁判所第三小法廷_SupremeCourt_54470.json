@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 11,
+    "day": 21
+  },
+  "case_number": "昭和25(れ)1082",
+  "case_name": "臨時物資需給調整法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第4巻11号2359頁",
+  "original_court_name": "福岡高等裁判所\n        　宮崎支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 4,
+    "day": 17
+  },
+  "gist": "検察事務官の取調と默秘権の告知",
+  "case_gist": "原審並びに検察事務官がその取調に際し被告人に默秘権のあることを告知しなかつたからといつて憲法第三八条、刑訴応急措置法第一〇条に違反しないし、またこれらの取調に基く被告人の供述が任意性を欠くものと速断することもできない。",
+  "ref_law": "憲法38条，刑訴応急措置法10条，旧刑訴法254条1項",
+  "lawsuit_id": "54470",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54470",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/470/054470_hanrei.pdf"
+}

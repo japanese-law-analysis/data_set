@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 1,
+    "day": 24
+  },
+  "case_number": "昭和26(あ)125",
+  "case_name": "酒税法違反、同幇助",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第59号413頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 11,
+    "day": 16
+  },
+  "gist": "量刑不当の控訴趣意を排斥する判示の程度",
+  "case_gist": "原判決が、「所論に鑑み記録によつて被告人の本件犯情、その他諸般の情状を考察して見たが原審の科刑は必ずしも重きに過ぐるとすることはできない」と説示しているときは、訴訟法が有罪を言渡す判決においても必ずしも量刑上の理由につき斟酌された情状を一々説示すべきことを要請していないことに徴しても（刑訴三三五条一項参照）、原判決に量刑不当の訴訟趣意を排斥する判示として理由不備の違法ありということはできない。",
+  "ref_law": "刑訴法335条1項，刑訴法381条，刑訴法396条，刑訴規則246条",
+  "lawsuit_id": "71647",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=71647",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/647/071647_hanrei.pdf"
+}

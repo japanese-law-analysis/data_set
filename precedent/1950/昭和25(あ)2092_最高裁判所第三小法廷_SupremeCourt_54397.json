@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 12,
+    "day": 5
+  },
+  "case_number": "昭和25(あ)2092",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第4巻12号2486頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 5,
+    "day": 16
+  },
+  "gist": "新刑訴法と裁判官による公訴事実開示手続の要否",
+  "case_gist": "新刑訴法の下においては検察官が起訴状を朗読するのみで旧刑訴法第一三四条が規定していたような裁判官による公訴事実開示の手続をする必要はなくなつたのである。",
+  "ref_law": "刑訴法291条，旧刑訴法134条",
+  "lawsuit_id": "54397",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54397",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/397/054397_hanrei.pdf"
+}

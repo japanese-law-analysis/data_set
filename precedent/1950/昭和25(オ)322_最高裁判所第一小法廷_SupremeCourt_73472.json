@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 6,
+    "day": 28
+  },
+  "case_number": "昭和25(オ)322",
+  "case_name": "農地買収計画除外請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第4号937頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 8,
+    "day": 8
+  },
+  "lawsuit_id": "73472",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=73472",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/472/073472_hanrei.pdf"
+}

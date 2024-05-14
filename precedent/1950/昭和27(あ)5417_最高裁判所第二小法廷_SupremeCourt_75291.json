@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 10,
+    "day": 6
+  },
+  "case_number": "昭和27(あ)5417",
+  "case_name": "麻薬取締法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第99号9頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 6,
+    "day": 24
+  },
+  "gist": "弁護人が被告人の氏名を代書してした弁護人選任届の効力",
+  "case_gist": "かりに所論弁護人選任届に所論のような瑕疵（註、被告人氏名の弁護人による代書）がありとしても、右弁護人は何らの異議なく原審公判に立ち会い弁論をしており、また、その際被告人も、これに関し何ら異議を述べなかつたことは、記録上明らかであるから、右の瑕疵はこれによつて治癒せられたと解すべきである。",
+  "ref_law": "刑訴法30条，刑訴規則18条，刑訴規則61条",
+  "lawsuit_id": "75291",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=75291",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/291/075291_hanrei.pdf"
+}

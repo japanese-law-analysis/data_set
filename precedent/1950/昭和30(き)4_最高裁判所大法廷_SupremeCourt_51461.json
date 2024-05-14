@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 5,
+    "day": 21
+  },
+  "case_number": "昭和30(き)4",
+  "case_name": "強盗殺人、窃盗被告事件につきなした上告棄却の決定に対する再審請求",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第10巻5号717頁",
+  "original_court_name": "最高裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 4,
+    "day": 30
+  },
+  "gist": "上告棄却決定に対する再審請求の適否",
+  "case_gist": "上告を棄却した確定決定に対しても再審の請求をなし得る。",
+  "ref_law": "刑訴法436条1項",
+  "lawsuit_id": "51461",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51461",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/461/051461_hanrei.pdf"
+}

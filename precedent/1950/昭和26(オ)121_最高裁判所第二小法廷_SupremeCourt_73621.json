@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 4,
+    "day": 13
+  },
+  "case_number": "昭和26(オ)121",
+  "case_name": "行政処分取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "却下",
+  "article_info": "集民　第4号579頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 1,
+    "day": 9
+  },
+  "lawsuit_id": "73621",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=73621",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/621/073621_hanrei.pdf"
+}

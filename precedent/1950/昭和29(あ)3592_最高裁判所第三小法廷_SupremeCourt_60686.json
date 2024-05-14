@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 9,
+    "day": 25
+  },
+  "case_number": "昭和29(あ)3592",
+  "case_name": "猥褻図画販売目的所持",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第114号743頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 8,
+    "day": 31
+  },
+  "gist": "猥褻の意義",
+  "case_gist": "刑法一七五条にいわゆる猥褻とは徒らに性慾を興奮又は刺戟せしめ、且つ、普通人の正常な性的羞恥心を害し、善良な性的道義観念に反するものをいうこと当裁判所の判例（昭和二六年（れ）第一七二号同年五月一〇日第一小法廷判決、集五巻六号一〇二六頁参照）とするところであり、この判例を変更すべき理由を見ない。",
+  "ref_law": "刑法175条",
+  "lawsuit_id": "60686",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60686",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/686/060686_hanrei.pdf"
+}

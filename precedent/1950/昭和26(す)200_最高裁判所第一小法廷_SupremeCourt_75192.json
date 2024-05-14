@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 7,
+    "day": 12
+  },
+  "case_number": "昭和26(す)200",
+  "case_name": "私文書偽造同行使等被告事件について最高裁判所の上告棄却決定に対する訂正の申立",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第49号1007頁",
+  "original_court_name": "最高裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 6,
+    "day": 7
+  },
+  "gist": "上告棄却の決定に対する訂正申立を実質的に判断して棄却した事例",
+  "case_gist": "従つて本件訂正申立の理由は既に違憲を主張する前提である事実関係において事実と相違しその理由がないから刑訴法第四一七条第一項に則り主文のように決定する。",
+  "ref_law": "刑訴法417条1項",
+  "lawsuit_id": "75192",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=75192",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/192/075192_hanrei.pdf"
+}

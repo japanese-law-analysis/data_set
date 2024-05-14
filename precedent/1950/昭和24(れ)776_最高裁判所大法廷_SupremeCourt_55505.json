@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 3,
+    "day": 28
+  },
+  "case_number": "昭和24(れ)776",
+  "case_name": "詐欺",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第5巻4号704頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 12,
+    "day": 27
+  },
+  "gist": "刑訴応急措置法に基く逮捕状により逮捕された被疑者に対する司法警察官ならびに検察官の尋問権",
+  "case_gist": "刑訴応急措置法に基く逮捕状の執行による被疑者逮捕の場合には、同法第八条第四号の規定により同条第三号掲と記の旧刑訴第一二七条及び第一二九条所定の手続を準用し、逮捕状によつて逮捕された被疑者を受け取つた司法警察官又は検察官はその被疑者を尋問することができる。",
+  "ref_law": "日本國憲法の施行に伴う刑事訴訟法の應急的措置に関する法律8條，旧刑訴法127條，旧刑訴法129條",
+  "lawsuit_id": "55505",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55505",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/505/055505_hanrei.pdf"
+}

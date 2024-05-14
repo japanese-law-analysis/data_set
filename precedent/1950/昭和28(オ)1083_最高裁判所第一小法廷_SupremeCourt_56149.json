@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 12,
+    "day": 2
+  },
+  "case_number": "昭和28(オ)1083",
+  "case_name": "行政処分取消請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第8巻12号2127頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 6,
+    "day": 22
+  },
+  "gist": "一　農地調整法第四条による知事の許可なくして耕作権が設定されている農地は自作農創設特別措置法第三条第五項第四号の小作地に包含されるか\n二　自作農創設特別措置法第二条第二項の「耕作の業務を営む者」は法人を包含するか",
+  "case_gist": "一　耕作権設定契約が農地調整法第四条の知事の許可がないために無効である場合でも、右農地は、自作農創設特別措置法第三条第五項第四号の小作地に包含せられるものと解するを相当とする。\n二　自作農創設特別措置法第二条第二項の「耕作の業務を営む者」は法人を包含するもの解するを相当とする。",
+  "ref_law": "農地調整法4条1項，自作農創設特別措置法3条5項4号，自作農創設特別措置法2条2項，自作農創設特別措置法2条5項",
+  "lawsuit_id": "56149",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56149",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/149/056149_hanrei.pdf"
+}

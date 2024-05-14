@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 4,
+    "day": 25
+  },
+  "case_number": "昭和29(あ)2390",
+  "case_name": "現住建造物等放火",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "刑集　第12巻6号1161頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 5,
+    "day": 14
+  },
+  "gist": "刑訴法第四一一条第一号にあたる事例―審理不尽に基く理由不備",
+  "case_gist": "放火被告事件の控訴審において、被告人の自白する放火の手段方法では独立燃焼を合理的に認められないとの主張を排斥するにあたり、一審における受命裁判官の右放火手段方法の検証調書の記載（実験の結果）は独立燃焼の結果を生じなかつたにかかわらず、この点についての鑑定を含む証拠調の請求を却下し、単に、右実験の結果によれば、被告人自白の放火の手段方法によつても独立燃焼を生ずることは合理的に考えてその可能性は十分認められるとし、証拠に基ずいた説明を加えないで、ただちに抽象的に条件の如何によつては独立燃焼の可能性のあることを肯定することは審理不尽に基く理由不備の違法があり破棄を免かれない",
+  "ref_law": "刑訴法411条1号",
+  "lawsuit_id": "50420",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50420",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/420/050420_hanrei.pdf"
+}

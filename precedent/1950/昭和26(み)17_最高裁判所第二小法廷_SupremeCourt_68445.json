@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 12,
+    "day": 27
+  },
+  "case_number": "昭和26(み)17",
+  "case_name": "上告棄却の判決に対し判決訂正申立",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第58号1007頁",
+  "original_court_name": "最高裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 11,
+    "day": 30
+  },
+  "gist": "上告棄却の判決に対する訂正申立",
+  "case_gist": "被告人Ａに対する物価統制令違反並びに食糧管理法違反被告事件（当庁昭和二六年（れ）第六八三号）について、昭和二六年一一月三〇日当裁判所が言渡した上告棄却の判決に対し、右申立人等から判決訂正の申立があつたが、右はその理由がないので、刑訴施行法三条の二、刑訴法四一七条により、余裁判官一致の意見で、次のとおり決定する。",
+  "ref_law": "刑訴法415条",
+  "lawsuit_id": "68445",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=68445",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/445/068445_hanrei.pdf"
+}

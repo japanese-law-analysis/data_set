@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 10,
+    "day": 9
+  },
+  "case_number": "昭和30(オ)467",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第10巻10号1252頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 3,
+    "day": 30
+  },
+  "gist": "家屋賃貸借の期限付合意解約と借家法第六条",
+  "case_gist": "賃借人をして一定の期限に賃借家屋の明渡を約せしめた場合であつても、賃貸借の期限付合意解約と認められるときは、右約定をもつて借家法第六条にいう賃借人に不利な特約にあたるものとはいえない。",
+  "ref_law": "借家法6条",
+  "lawsuit_id": "57598",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57598",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/598/057598_hanrei.pdf"
+}

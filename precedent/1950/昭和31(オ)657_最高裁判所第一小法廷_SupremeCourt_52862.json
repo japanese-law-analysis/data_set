@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 9,
+    "day": 18
+  },
+  "case_number": "昭和31(オ)657",
+  "case_name": "貸金請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第12巻13号2027頁",
+  "original_court_name": "仙台高等裁判所\n        　秋田支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 3,
+    "day": 10
+  },
+  "gist": "農業協同組合が非組合員との間に締結した準消費貸借が組合の目的の範囲内に属すると認められた事例。",
+  "case_gist": "農業協同組合が、その経済的基礎を確立するため、林ごの移出業者との間に、同人らをして林ごの集荷をさせ、右組合においてその販売委託を受けて所定の手数料を受くべき契約を締結し、同人らに対し林ごの集荷に要する資金を貸し付け、後日その帳尻を準消費貸借に改めた場合は、その借主が右組合の組合員でなくても、特段の事情の認められない限りは、右準消費貸借は、少くとも組合の事業に附帯する事業の範囲内に属するものと認めるを相当とする。",
+  "ref_law": "農業協同組合法10条，民法43条",
+  "lawsuit_id": "52862",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52862",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/862/052862_hanrei.pdf"
+}

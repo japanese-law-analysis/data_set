@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 12,
+    "day": 4
+  },
+  "case_number": "昭和25(オ)377",
+  "case_name": "抵当権設定登記抹消登記手続請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第6巻11号1085頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 9,
+    "day": 18
+  },
+  "gist": "被担保債権成立後その成立の日を遡及してなされた抵当権設定登記の効力",
+  "case_gist": "四月一三日に成立した消費貸借上の債務につき、同月三〇日になされた抵当権設定登記において、右消費貸借成立の日が三月三一日と表示されていても、同一の消費貸借を表示するものである以上、右登記は有効である。",
+  "ref_law": "不動産登記法117条",
+  "lawsuit_id": "57200",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57200",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/200/057200_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 7,
+    "day": 5
+  },
+  "case_number": "昭和26(れ)703",
+  "case_name": "強盗傷人強盗、住居侵入",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第49号213頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 12,
+    "day": 28
+  },
+  "gist": "強盗の機会に与えた傷害と強盗傷人罪の成立",
+  "case_gist": "強盗傷人罪が成立するには、強盗の機会に傷害の結果を発生せしめるを以て足りるものであつて、必ずしも強盗の手段である暴行又は脅迫により人を傷害し、又は傷害の意思を必要とするものではない。",
+  "ref_law": "刑法240条",
+  "lawsuit_id": "75249",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=75249",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/249/075249_hanrei.pdf"
+}

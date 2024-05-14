@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 7,
+    "day": 20
+  },
+  "case_number": "昭和25(オ)318",
+  "case_name": "国籍関係確認請求",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第11巻7号1314頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 8,
+    "day": 30
+  },
+  "gist": "一　日本国籍離脱が無効な場合にその後なされた国籍回復許可の効力\n二　日本国籍を有することについて争のない場合に、その取得原因について確認を求める法律上の利益",
+  "case_gist": "一　日本国籍離脱が無効な場合には、その後なされた国籍回復許可も無効である。\n二　現在日本国籍を有することについて争のない場合でも、その国籍取得が国籍回復許可によるものではなく日本人を父としての出生したことによると主張する者はその旨の確認を求める法律上の利益がある。",
+  "ref_law": "民訴法225条，旧国籍法20条ノ2，旧国籍法26条",
+  "lawsuit_id": "57190",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57190",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/190/057190_hanrei.pdf"
+}

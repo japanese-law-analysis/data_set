@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 2,
+    "day": 29
+  },
+  "case_number": "昭和26(れ)2027",
+  "case_name": "詐欺、窃盜",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第61号721頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 4,
+    "day": 3
+  },
+  "gist": "事実審が証人申請を却下した場合と実験則",
+  "case_gist": "証拠調の限度を如何に定めるかは、事実審たる原審の自由裁量に任されているところであり、記録を調べても所論証人の喚問は必ずしも本件裁判に必要適切なものとは認められないから、原審が該証人の申請を却下したからといつて、何ら実験則に反するところはない。",
+  "ref_law": "旧刑訴法344条",
+  "lawsuit_id": "72041",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=72041",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/041/072041_hanrei.pdf"
+}

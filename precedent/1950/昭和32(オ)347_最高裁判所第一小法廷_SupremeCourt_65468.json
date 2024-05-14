@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 10,
+    "day": 22
+  },
+  "case_number": "昭和32(オ)347",
+  "case_name": "借地権確認等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第38号291頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 1,
+    "day": 21
+  },
+  "gist": "借地期間満了前における契約解除の意思表示と借地法第六条所定の異議",
+  "case_gist": "借地期間の満了から二年余り前に賃貸人から賃借人に対し賃借権の無断譲渡若しくは無断転貸を理由とする契約解除の意思表示があつたからといつて、借地法第六条所定の異議の申述があつたものと解することはできない。",
+  "lawsuit_id": "65468",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=65468",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/468/065468_hanrei.pdf"
+}

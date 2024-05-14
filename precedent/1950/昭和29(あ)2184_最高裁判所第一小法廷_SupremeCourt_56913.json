@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 12,
+    "day": 27
+  },
+  "case_number": "昭和29(あ)2184",
+  "case_name": "公務執行妨害、傷害",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第8巻13号2435頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 5,
+    "day": 18
+  },
+  "gist": "警察吏員の職務執行（いわゆる職務質問）として許容される一事例",
+  "case_gist": "午後一時二〇分頃、警ら中の警察史員が一通行人の服装、年令、態度、携帯品などから推して、当時同一警察署管内に頻発していた窃盗事件に関係がありはしないかとの疑を抱き、これを呼び止めて職務質問をなし、更にその所持に係る風呂敷包みの内容について呈示を求めたところ、同人が俄かに歩きはじめ更に逃げ出す等の異常の態度を示すに至つたときは、これが停止を求め職務質問を続行するためにその跡を追いかけても、警察吏員として正当な職務執行の範囲を超えたものとはいえない。",
+  "ref_law": "憲法35条，警察法1条，警察官職務執行法2条",
+  "lawsuit_id": "56913",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56913",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/913/056913_hanrei.pdf"
+}

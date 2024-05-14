@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 9,
+    "day": 30
+  },
+  "case_number": "昭和29(あ)1373",
+  "case_name": "麻藥取締法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第98号1011頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 3,
+    "day": 23
+  },
+  "gist": "起訴状に公訴犯罪事実を具体的に明瞭ならしめるため他の犯罪事実を記載することの適否",
+  "case_gist": "所論起訴状中の記載（註、麻薬購入に必要な文書を偽造し薬局員を欺罔して麻薬を騙取して所持した旨）は、本件公訴にかかる犯罪事実を具体的に明瞭にするための記載と解するを相当とし、また、第一審判決は、麻薬取締法違反の事実を認定したに止まり、請求を受けない事件につき有罪の判決をしたものではない。それ故、所論の違法は認められない。",
+  "ref_law": "刑訴法256条6項",
+  "lawsuit_id": "72967",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=72967",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/967/072967_hanrei.pdf"
+}

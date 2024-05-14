@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 9,
+    "day": 27
+  },
+  "case_number": "昭和31(あ)890",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第114号803頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 2,
+    "day": 16
+  },
+  "gist": "刑訴法第三八一条第四一一条第二号にいう「刑の量定」の意義",
+  "case_gist": "刑訴三八一条、四一一条二号の規定にいわゆる「刑の量定」とは、広義であつて、刑法にいわゆる「刑」の量定のほか、罰金の換刑処分、未決勾留日数の算入、刑の執行猶予等の附随処分をも含む概念であるから、選挙権、被選挙権に関する公職選挙法二五二条三項所定の裁判所の裁量に関する上訴理由は、前記刑訴の規定にいわゆる「刑の量定」の非難に該当するものと解すべきことは、大審院及び当裁判所における従来の判例の示すところである。（大審院判例集七巻一四六頁以下、最高裁判所判例集八巻六号七九四頁以下第二小法廷決定参照）",
+  "ref_law": "刑訴法381条，刑訴法411条2号",
+  "lawsuit_id": "61011",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61011",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/011/061011_hanrei.pdf"
+}

@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 3,
+    "day": 29
+  },
+  "case_number": "昭和27(み)6",
+  "case_name": "判決訂正の申立",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第62号1045頁",
+  "original_court_name": "最高裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 2,
+    "day": 8
+  },
+  "lawsuit_id": "72668",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=72668",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/668/072668_hanrei.pdf"
+}

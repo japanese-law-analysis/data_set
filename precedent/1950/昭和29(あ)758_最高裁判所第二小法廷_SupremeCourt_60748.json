@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 6,
+    "day": 29
+  },
+  "case_number": "昭和29(あ)758",
+  "case_name": "酒税法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第113号961頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 8,
+    "day": 28
+  },
+  "gist": "収税官吏が国税犯則取締法第三条第一項の規定に基き現場を臨検、捜索等をなした顛末を記載した書面、右現場において差押さえた証憑物件およびその差押目録と憲法第三五条との関係",
+  "case_gist": "収税官吏が国税犯則取締法第三条第一項の規定に基き犯則の現場において、犯則嫌疑者を立ち会わしめて臨検、捜索および差押をなし、かつ、犯則嫌疑者に質問をした顛末を記載した書面、右現場において差押えた証憑物件およびその差押目録は憲法第三五条に違反する手続によつてなされたものということはできない。",
+  "ref_law": "国税犯則取締法2条1項，国税犯則取締法3条1項，国税犯則取締法6条1項，国税犯則取締法7条1項，国税犯則取締法10条，国税犯則取締法施行規則1条1号，憲法35条，憲法33条",
+  "lawsuit_id": "60748",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60748",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/748/060748_hanrei.pdf"
+}

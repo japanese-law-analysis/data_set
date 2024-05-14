@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 9,
+    "day": 11
+  },
+  "case_number": "昭和31(オ)1047",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第12巻13号1998頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 9,
+    "day": 28
+  },
+  "gist": "手形振出人の一人が支払により手形を受け戻した上更に第三者に交付した場合における他の振出人の責任。",
+  "case_gist": "甲乙共同振出にかかる受取人白地の約束手形を、甲が満期後手形金を支払つて受け戻し、更にこれを丙に交付した場合には、乙は丙に対し手形金の支払をなす義務はない。",
+  "ref_law": "手形法20条，手形法39条",
+  "lawsuit_id": "52842",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52842",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/842/052842_hanrei.pdf"
+}

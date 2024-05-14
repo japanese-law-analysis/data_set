@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 1,
+    "day": 23
+  },
+  "case_number": "昭和26(あ)3104",
+  "case_name": "殺人、同未遂、放火",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第6巻1号104頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 6,
+    "day": 29
+  },
+  "gist": "刑法第一九九条の合憲法（憲法第三六条）",
+  "case_gist": "所論は死刑一般を違憲であると主張するものではなく、単に具体的に刑法一九九条の普通殺人罪に対する死刑の規定は残虐な刑罰であるから、原審判決は憲法三六条に違反すると主張するのである。しかしながら、殺人は尊厳な個人の生命を奪うものであつて社会的人間生活の安全を根底から破壊する憎むべき反社会的行為である。今日の時代と環境とにおいて、殺人罪に対し社会の秩序と公共の福祉を護るために刑罰として死刑を科する場合のあることは、必要であり是認さるべきであると言わなければならない（判例集二巻三号一九三頁参照）。それ故、刑法一九九条の規定は、憲法三六条に違反するところはない。また本件の具体的事案において死刑を科したことも違憲と認むべき点は存在しない。",
+  "ref_law": "刑法199条，憲法36条",
+  "lawsuit_id": "55605",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55605",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/605/055605_hanrei.pdf"
+}

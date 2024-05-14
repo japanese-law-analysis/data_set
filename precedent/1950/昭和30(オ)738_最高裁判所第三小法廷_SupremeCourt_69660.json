@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 5,
+    "day": 20
+  },
+  "case_number": "昭和30(オ)738",
+  "case_name": "預ヶ金請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第31号661頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 3,
+    "day": 17
+  },
+  "gist": "法第七〇八条の適用のない事例",
+  "case_gist": "価統制令に違反した価額で魚粕を買い受けるものであることを知りながら、その買主に買受資金を貸与した場合であつても、原審認定の事情（原判決理由参照）の下になされたものであるときは、民法第七〇八条の適用はなく、貸主は貸金の返還を請求することができる",
+  "lawsuit_id": "69660",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=69660",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/660/069660_hanrei.pdf"
+}

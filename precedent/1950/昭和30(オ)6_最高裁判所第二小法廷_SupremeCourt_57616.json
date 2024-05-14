@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 6,
+    "day": 7
+  },
+  "case_number": "昭和30(オ)6",
+  "case_name": "物件引渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第11巻6号960頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 9,
+    "day": 7
+  },
+  "gist": "損害賠償額算定の時期について理由不備の違法があるとされた一事例",
+  "case_gist": "履行に代わる損害賠償額を時価により算定するにあたり、裁判所が債務の履行期および不履行の時期を確定せず、漫然、訴提起後のある時期における時価を基礎とし、結局、右算定の基準とされた時期が、当該債務不履行と如何なる関係にあるか判文上不明の場合は理由不備の違法があるというべきである。",
+  "ref_law": "民法416条",
+  "lawsuit_id": "57616",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57616",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/616/057616_hanrei.pdf"
+}

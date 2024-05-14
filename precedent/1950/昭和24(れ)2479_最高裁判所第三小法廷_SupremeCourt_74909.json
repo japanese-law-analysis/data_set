@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 2,
+    "day": 21
+  },
+  "case_number": "昭和24(れ)2479",
+  "case_name": "恐喝",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第16号557頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 6,
+    "day": 23
+  },
+  "gist": "刑法第二四九條第一項と第二項の摘示",
+  "case_gist": "原判決は被告人の行爲に對し、刑法第二四九條を適用したがその第一項を適用したのか、第二項を適用したのかを明示しない違法があると主張する。しかし、同條第一項の罪と第二項の罪とは、罪質を同じうし且つ、同一刑罰であるから、第一項と第二項とを區別しないで概括的に同條適用するも違法とはならない。それ故、論旨は理由がない",
+  "ref_law": "刑法249條，舊刑訴法360條",
+  "lawsuit_id": "74909",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74909",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/909/074909_hanrei.pdf"
+}

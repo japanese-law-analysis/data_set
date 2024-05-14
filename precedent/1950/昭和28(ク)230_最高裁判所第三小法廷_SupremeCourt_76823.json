@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 11,
+    "day": 17
+  },
+  "case_number": "昭和28(ク)230",
+  "case_name": "扶養料請求事件の審判に対する抗告棄却決定に対する抗告につきなした抗告却下の決定に対する再抗告",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "却下",
+  "article_info": "集民　第10号493頁",
+  "original_court_name": "最高裁判所",
+  "original_case_number": "昭和28(ク)213",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 9,
+    "day": 15
+  },
+  "lawsuit_id": "76823",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=76823",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/823/076823_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 5,
+    "day": 15
+  },
+  "case_number": "昭和26(あ)3788",
+  "case_name": "昭和二四年政令第三八九号違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第80号657頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 9,
+    "day": 11
+  },
+  "gist": "他人から預つた物を届けた行為と不法所持罪の成立",
+  "case_gist": "他人から預つた物を他に届けた以上、その間預つた物を事実上「自分の支配し得べき状態」に置いたものであることはいうまでもない。",
+  "ref_law": "昭和24年政令389号2条",
+  "lawsuit_id": "64623",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64623",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/623/064623_hanrei.pdf"
+}

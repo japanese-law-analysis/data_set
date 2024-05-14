@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 6,
+    "day": 3
+  },
+  "case_number": "昭和26(あ)709",
+  "case_name": "古物商取締法、古物営業法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第65号59頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 12,
+    "day": 2
+  },
+  "gist": "古物商取締法第二二条及び古物営業法第三三条の代表規定は憲法第一四条に反するか",
+  "case_gist": "論旨は、古物商取締法二二条は家族の行為につき戸主を罰する規定であり、古物営業法三三条は営業者と雇人等の従業者とを主従関係によつて区別し、従業者の犯罪行為につき主人を処罰するものであるから憲法一四条に反すると主張するけれども、これらの両規定は、古物商という業務取締の必要上、従業者の営業上の反則行為について、業務の主体たる営業者を処罰する趣旨であつて、戸主家族の身分若しくは主従の地位によつて処罰するものではない。それゆえ、これらの規定が憲法一四条に違反するとの所論はその前提を欠く。",
+  "ref_law": "憲法14条，古物商取締法22条，古物営業法33条",
+  "lawsuit_id": "68384",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=68384",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/384/068384_hanrei.pdf"
+}

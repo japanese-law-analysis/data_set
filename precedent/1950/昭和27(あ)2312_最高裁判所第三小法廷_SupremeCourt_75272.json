@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 12,
+    "day": 2
+  },
+  "case_number": "昭和27(あ)2312",
+  "case_name": "公務執行妨害、昭和二二年勅令第一号違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集刑　第70号109頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 3,
+    "day": 12
+  },
+  "lawsuit_id": "75272",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=75272",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/272/075272_hanrei.pdf"
+}

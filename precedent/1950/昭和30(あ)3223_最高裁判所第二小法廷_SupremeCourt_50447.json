@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 5,
+    "day": 30
+  },
+  "case_number": "昭和30(あ)3223",
+  "case_name": "酒税法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第12巻8号1858頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 8,
+    "day": 30
+  },
+  "gist": "自己等の飲用に供するために酒類を製造した場合と旧酒税法第一六条但書の適用の有無",
+  "case_gist": "政府の免許を受けないで酒類を製造した以上、たとい自己等の飲用に供するために製造したものであつても、旧酒税法（昭和二八年法律第六号による改正前のもの）第一六条但書を拡張して適用さるべきものではない",
+  "ref_law": "旧酒税法（昭和15年法律35号）3条，旧酒税法（昭和15年法律35号）16条，旧酒税法（昭和15年法律35号）62条1項",
+  "lawsuit_id": "50447",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50447",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/447/050447_hanrei.pdf"
+}

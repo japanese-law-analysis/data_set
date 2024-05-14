@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 9,
+    "day": 15
+  },
+  "case_number": "昭和24(オ)42",
+  "case_name": "行政処分取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第4巻9号404頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 12,
+    "day": 21
+  },
+  "gist": "買収計画に対する不服申立の権利を失つた後の買収処分取消訴訟において買収計画の違法を攻撃することの当否",
+  "case_gist": "自作農創設特別措置法第五条に違反した買収計画にもとずいて買収処分が行われたときは、所有農地を買収された者は、買収計画に対する不服を申し立てる権利を失つた後も、買収処分取消の訴において買収計画の違法を攻撃することができる。",
+  "ref_law": "自作農創設特別措置法5条，自作農創設特別措置法6条1項，自作農創設特別措置法7条",
+  "lawsuit_id": "55979",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55979",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/979/055979_hanrei.pdf"
+}

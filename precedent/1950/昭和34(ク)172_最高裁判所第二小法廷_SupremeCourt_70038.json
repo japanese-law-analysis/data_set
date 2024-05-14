@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 6,
+    "day": 17
+  },
+  "case_number": "昭和34(ク)172",
+  "case_name": "破産宣告決定に対する抗告についてなした棄却決定に対する再抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "却下",
+  "article_info": "集民　第36号683頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和34(ラ)13",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 3,
+    "day": 31
+  },
+  "lawsuit_id": "70038",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70038",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/038/070038_hanrei.pdf"
+}

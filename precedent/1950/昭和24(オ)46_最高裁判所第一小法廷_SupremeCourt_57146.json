@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 1,
+    "day": 8
+  },
+  "case_number": "昭和24(オ)46",
+  "case_name": "費用償還請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第7巻1号1頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 12,
+    "day": 27
+  },
+  "gist": "売主が売買契約の合意解除により買主に代金を返還した後右代金額につき財産税を徴収された場合における買主に対する右税額の償還請求権の有無",
+  "case_gist": "売主が売買契約の合意解除により代金を買主に返還した後、右代金額につき財産税を徴収された場合においても、売主は、民法第六六五条および第六五〇条または第一九六条の規定に基き、買主に対し右税額の償還を請求することはできない。",
+  "ref_law": "財産税法（昭和21年法律52号）1条，財産税法（昭和21年法律52号）22条，民法196条，民法650条，民法665条",
+  "lawsuit_id": "57146",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57146",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/146/057146_hanrei.pdf"
+}

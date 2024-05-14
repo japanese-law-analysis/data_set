@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 10,
+    "day": 11
+  },
+  "case_number": "昭和31(あ)4601",
+  "case_name": "外国為替及び外国貿易管理法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第11巻10号2576頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 11,
+    "day": 20
+  },
+  "gist": "一　外国為替及び外国貿易管理法第二八条違反の罪と同法第七条第六項違反の罪とは観念的競合となるか\n二　国外に去ることが明らかな者に対し検察官の作成した供述調書の証拠能力",
+  "case_gist": "一　外国にある弗預金を取得した代償として本邦の居住者に対して基準外国為替相場を超える支払をした場合は、外国為替及び外国貿易管理法第二八条と同法第七条第六項違反の罪が成立し、両者は観念的競合になる。\n二　国外に去ることが明らかな参考人の検察官面前調書であつても証拠能力を失うものではない。",
+  "ref_law": "外国為替及び外国貿易管理法28条，外国為替及び外国貿易管理法7条6項，外国為替及び外国貿易管理法70条2号，外国為替及び外国貿易管理法70条9号，昭和24年大蔵省告示970号（基準外国為替相場及び裁定外国為替相場），刑法54条1項，刑訴法321条1項2号",
+  "lawsuit_id": "51527",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51527",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/527/051527_hanrei.pdf"
+}

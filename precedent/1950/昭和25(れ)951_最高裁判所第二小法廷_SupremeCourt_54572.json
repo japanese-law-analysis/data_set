@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 5,
+    "day": 11
+  },
+  "case_number": "昭和25(れ)951",
+  "case_name": "贈賄、臨時物資需給調整法違反・物価統制令違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第5巻6号1035頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 11,
+    "day": 28
+  },
+  "gist": "鉄道部内の職員による国有鉄道共済組合の業務の執行は公務員としての職務に属するか",
+  "case_gist": "鉄道部内の職員が、鉄道共済組合令に基き、運輸大臣の命によつて国有鉄道共済組合の業務に従事する場合、その業務の執行は、刑法第一九七条にいう同職員の公務員としての職務に属する。",
+  "ref_law": "刑法197条1項，鉄道共済組合令（明治40年勅令127号）1条，鉄道共済組合令（明治40年勅令127号）3条，国有鉄道共済組合規則（昭和25年鉄道省令7号）1条，国有鉄道共済組合規則（昭和25年鉄道省令7号）2条，国有鉄道共済組合物資部規定（昭和19年運輸大臣達253号）1条，国有鉄道共済組合物資部規定（昭和19年運輸大臣達253号）4条",
+  "lawsuit_id": "54572",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54572",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/572/054572_hanrei.pdf"
+}

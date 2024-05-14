@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 9,
+    "day": 6
+  },
+  "case_number": "昭和26(れ)845",
+  "case_name": "酒税法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第52号179頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 2,
+    "day": 16
+  },
+  "gist": "発覚当時濁酒製造の未遂であつたものが起訴当時までに自然と濁酒となつた場合と既遂の認定",
+  "case_gist": "仮りに所論のごとく濁酒にならない中に税務署員に発見され、従つてその発覚当時（昭和二三年一一月一七日）濁酒製造の未遂であつたとしても、本件起訴当時（昭和二三年一二月二三日）までには、時の経過により自然に濁酒となり、従つて、判示仕込み行為の当然の結果として既遂の段階に達していたこと明白であるから（なお記録五〇丁の次に添附された昭和二三年一二月二二日附押収濁酒八斗六升買受受取書参照）、結局原判決には所論の違法も認められない。",
+  "ref_law": "酒税法40条，酒税法3条，酒税法12条",
+  "lawsuit_id": "72309",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=72309",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/309/072309_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 6,
+    "day": 17
+  },
+  "case_number": "昭和28(あ)5506",
+  "case_name": "軽犯罪法違反銃砲刀剣類等所持取締令違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第8巻6号881頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 11,
+    "day": 6
+  },
+  "gist": "軽犯罪法第一条第三一号は犯罪の構成要件を明らかにしていないか",
+  "case_gist": "軽犯罪法第一条第三一号は犯罪の構成要件を明らかにしていると認められる。",
+  "ref_law": "軽犯罪法1条31号，憲法31条",
+  "lawsuit_id": "54737",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54737",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/737/054737_hanrei.pdf"
+}

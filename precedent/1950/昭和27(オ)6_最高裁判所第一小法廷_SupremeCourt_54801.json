@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 5,
+    "day": 29
+  },
+  "case_number": "昭和27(オ)6",
+  "case_name": "租税処分取消並びに不当利得返還請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第12巻8号1254頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 12,
+    "day": 20
+  },
+  "gist": "旧法人税法（昭和一五年法律第二五号）第二八条による同族会社の行為計算の否認が違法とされた一事例",
+  "case_gist": "同族会社たる甲株式会社が、乙株式会社の全株式を買収した後乙会社を合併しついで増資した場合に、右買収代金が乙会社の払込済資本金額と積立金額の合計額を超えていても、それだけで、旧法人税法（昭和一五年法律第二五号）第二八条によつて、右超過金額を合併交付金と認定して課税することは違法である",
+  "ref_law": "旧法人税法（昭和15年法律25号）28条",
+  "lawsuit_id": "54801",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54801",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/801/054801_hanrei.pdf"
+}

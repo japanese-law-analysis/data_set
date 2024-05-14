@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 10,
+    "day": 3
+  },
+  "case_number": "昭和24(オ)229",
+  "case_name": "養子縁組無効確認請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第6巻9号753頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 7,
+    "day": 4
+  },
+  "gist": "他人の子を実子として届け出た者の代諾による養子縁組の追認の許否",
+  "case_gist": "一　他人の子を実子として届け出た者の代諾による養子縁組も、養子が満一五年に達した後これを有効に追認することができる。\n二　右追認は、明示または黙示の意思表示をもつて養子から養親の双方に対し、養親の一方が死亡した後は他の一方に対してすればたりる。",
+  "ref_law": "旧民法843条，民法797条",
+  "lawsuit_id": "57136",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57136",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/136/057136_hanrei.pdf"
+}

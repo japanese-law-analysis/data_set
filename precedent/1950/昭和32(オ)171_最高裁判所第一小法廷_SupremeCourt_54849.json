@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 6,
+    "day": 11
+  },
+  "case_number": "昭和32(オ)171",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第13巻6号683頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 11,
+    "day": 7
+  },
+  "gist": "手形の所持の喪失による損害額。",
+  "case_gist": "手形権利者が手形を騙取されてその所持を失つても、それだけではまだ手形額面金額相当の損害を被つたものとはいえない。",
+  "ref_law": "民法709条，手形法16条",
+  "lawsuit_id": "54849",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54849",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/849/054849_hanrei.pdf"
+}

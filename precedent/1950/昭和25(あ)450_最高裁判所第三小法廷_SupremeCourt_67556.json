@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 12,
+    "day": 26
+  },
+  "case_number": "昭和25(あ)450",
+  "case_name": "臨時物資需給調整法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第38号821頁",
+  "original_court_name": "広島高等裁判所\n        　松江支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 1,
+    "day": 9
+  },
+  "gist": "判例違反の主張を具体的に示さない上告の適否",
+  "case_gist": "刑訴第四〇五条第二号又は第三号に基き、原判決が判例と相反する判断をしたことを理由として上告の申立をする場合には、上告趣意書にその判例を具体的に示さなければならない（刑事訴訟規則第二五三条）にもかかわらず、論旨は原判決が如何なる判例に違背したかを具体的に示していないから、これを適当な上告理由と認めるいとはできない",
+  "ref_law": "刑訴405条2号，刑訴規則253条",
+  "lawsuit_id": "67556",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=67556",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/556/067556_hanrei.pdf"
+}

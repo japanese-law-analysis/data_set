@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 12,
+    "day": 20
+  },
+  "case_number": "昭和25(オ)128",
+  "case_name": "売買契約履行請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第10巻12号1573頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 12,
+    "day": 17
+  },
+  "gist": "一　控訴審において訴が変更された場合と新訴に対する主文の判示方法\n二　訴の変更について旧訴が取下の要件を具備しない場合の措置",
+  "case_gist": "一　控訴審において訴の変更により新訴が係属した場合、新訴については、控訴裁判所は、事実上第一審としての裁判をすべきであり、たとえ新訴に対する結論が旧訴に対する第一審判決の主文の文言と合致する場合であつても、控訴棄却の裁判をすべきではない。\n二　訴の変更において旧訴を撤回する旨の意思表示がなされても、旧訴につき民訴第二三六条の定める取下の要件を具備しない場合は、裁判所は、旧訴についても判決をすべきである。",
+  "ref_law": "民訴法232条，民訴法384条，民訴法236条，民訴法195条1項",
+  "lawsuit_id": "57157",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57157",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/157/057157_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 7,
+    "day": 6
+  },
+  "case_number": "昭和29(オ)762",
+  "case_name": "懲戒決議並びに懲戒処分取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第10巻7号819頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 6,
+    "day": 22
+  },
+  "gist": "一　町警察基本規定に反し懲戒申立書の写を被審人に送付しないで懲戒委員会で審理した場合にその勧告に基く懲戒処分の適否\n二　審理期日とその通知との間に町警察基本規定所定の期間をおかないことについて被審人が承諾したと認められない場合",
+  "case_gist": "一　町警察基本規定に反して懲戒申立書の写を送付しなかつた場合に、審理期日の呼出通知書に申立事由の記載があつてもその記載が防禦上重要な事項を欠くときは、その期日の審理に基く懲戒委員会の勧告によつて行つた懲戒処分は違法である。\n二　審理期日とその通知との間に町警察基本規定の期間をおかないで懲戒委員会を開いた場合に、被審人がこれに抗議したときは、審理に応じたというだけでは、同人がこれを承諾したものとは認められない。",
+  "ref_law": "行政事件訴訟特例法（1条の前），旧警察法（昭和22年法律196号）50条",
+  "lawsuit_id": "57530",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57530",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/530/057530_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 3,
+    "day": 6
+  },
+  "case_number": "昭和26(れ)2353",
+  "case_name": "業務上横領",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第62号145頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 6,
+    "day": 18
+  },
+  "gist": "横領罪につき不法領得の意思ある例―業務上保管中の救助物資を指定救助者以外のものに給与した場合",
+  "case_gist": "横領罪の成立に必要な不法領得の意思とは他人の物の占有者が委託の任務に背いてその物につき権限がないのに所有者でなければならないような処分をする意思をいうのであつて、必ずしも占有者が自己の利益取得を意図することを必要とするものではない（判例集三巻三号二七六頁以下参照）。しかるところ、所論原審認定の事実によれば、被告人等は共謀して栃木県庁から判示のとおり指定救助者にかぎり給与すべき旨の指示を受けて配布された判示救助物資を、業務上保管中敢えて、右県の指示に違背し、何等の権限もなく指定救助者以外のものに給与したことに帰するのであるから被告人等に不法領得の意思なしということはできない。",
+  "ref_law": "刑法253条",
+  "lawsuit_id": "72114",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=72114",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/114/072114_hanrei.pdf"
+}

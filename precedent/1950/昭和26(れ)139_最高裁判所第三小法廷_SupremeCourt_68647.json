@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 5,
+    "day": 8
+  },
+  "case_number": "昭和26(れ)139",
+  "case_name": "強盗、窃盗",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第45号311頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 11,
+    "day": 14
+  },
+  "gist": "一　憲法と陪審制度\n二　陪審手続は法律により停止することができるか",
+  "case_gist": "憲法が陪審手続を保障したものでないことは当裁判所大法廷の判決の趣旨に徴して明かである（昭和二四年新（れ）第三〇一号同二五年一〇月二五日言渡大法廷判決）。しかる以上陪審手続は特に法律で定めたものであるからこれを法律で停止することを得るのは言うを持たない。",
+  "ref_law": "憲法98条，陪審法1条",
+  "lawsuit_id": "68647",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=68647",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/647/068647_hanrei.pdf"
+}

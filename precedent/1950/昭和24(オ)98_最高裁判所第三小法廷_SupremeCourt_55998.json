@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 2,
+    "day": 28
+  },
+  "case_number": "昭和24(オ)98",
+  "case_name": "仮処分異議",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第4巻2号93頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 3,
+    "day": 28
+  },
+  "gist": "「法律事務取扱ノ取締ニ関スル法律」第二条にあたらない場合",
+  "case_gist": "紛争のある土地であることを知りながら、最初から訴訟手段によつて権利を実行する考えでこれを買い受け、買受けと同時に訴訟準備をし、十一日目には仮処分申請をしたという事情にあり、しかも右買い受けにはいわゆる事件屋が関与していたからといつて、必ずしも法律事務取扱ノ取締ニ関スル法律第二条にいわゆる「他人ノ権利ヲ譲受ケ訴訟其ノ他ノ手段ニ依リ其ノ権利ノ実行ヲ為スコトヲ業」とするために買い受けたものということはできない。",
+  "ref_law": "法律事務取扱ノ取締ニ関スル法律2条，弁護士法73条",
+  "lawsuit_id": "55998",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55998",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/998/055998_hanrei.pdf"
+}

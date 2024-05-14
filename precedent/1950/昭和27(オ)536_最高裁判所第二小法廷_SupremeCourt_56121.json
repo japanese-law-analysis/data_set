@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 9,
+    "day": 23
+  },
+  "case_number": "昭和27(オ)536",
+  "case_name": "行政処分取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第9巻10号1329頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 4,
+    "day": 30
+  },
+  "gist": "いわゆる附帯買収の目的となるべき宅地と解放農地との間に利用上密接な牽連関係がない場合と附帯買収の相当性",
+  "case_gist": "附帯買収が相当であるためには買収の目的となるべき宅地と解放農地との間に利用上密接な牽連関係がなければならないとし、右牽連性を欠くことの基準として原審が認定した事実（原判決理由参照）は、附帯買収を相当としないことの基準となるものではない。",
+  "ref_law": "自作農創設特別措置法15条",
+  "lawsuit_id": "56121",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56121",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/121/056121_hanrei.pdf"
+}

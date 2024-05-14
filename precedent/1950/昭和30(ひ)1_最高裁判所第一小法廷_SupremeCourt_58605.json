@@ -1,0 +1,18 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 5,
+    "day": 31
+  },
+  "case_number": "昭和30(ひ)1",
+  "case_name": "上告審における訴訟費用補償請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "その他",
+  "article_info": "集刑　第125号765頁",
+  "lawsuit_id": "58605",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58605",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/605/058605_hanrei.pdf"
+}

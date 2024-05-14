@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 11,
+    "day": 29
+  },
+  "case_number": "昭和30(オ)299",
+  "case_name": "契約金返還請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第11巻12号1994頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 12,
+    "day": 23
+  },
+  "gist": "従前の代理人が代理権の消滅後従前の代理権の範囲に属しない行為をした場合と本人の責任",
+  "case_gist": "代理権の消滅後従前の代理人がなお代理人と称して従前の代理権の範囲に属しない行為をなした場合に、右代理権の消滅につき善意無過失の相手方が自称代理人の行為につきその権限があると信ずべき正当の理由を有するときは、当該の代理人と相手方との間になした行為につき、本人をしてその責に任ぜしめるのを相当とする。",
+  "ref_law": "民法110条，民法112条",
+  "lawsuit_id": "57581",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57581",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/581/057581_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 3,
+    "day": 23
+  },
+  "case_number": "昭和28(あ)3502",
+  "case_name": "食糧管理法違反、窃盗",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第103号717頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 6,
+    "day": 8
+  },
+  "gist": "刑法二四二条の罪の成立する事例",
+  "case_gist": "原判決が本件物件は司法警察職員の正当な領置手続の過程において、その命によりａ駅長が看守していたもので、ａ駅長の占有は適法な占有であるとした判断は正当である。註。第一審の認定は他人の占有に係る自己の財物の窃取であり、この判例は右の認定を支持したものである。",
+  "ref_law": "刑訴法221条，刑法242条",
+  "lawsuit_id": "60521",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60521",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/521/060521_hanrei.pdf"
+}

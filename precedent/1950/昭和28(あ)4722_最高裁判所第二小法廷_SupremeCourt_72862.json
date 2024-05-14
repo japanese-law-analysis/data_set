@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 3,
+    "day": 31
+  },
+  "case_number": "昭和28(あ)4722",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第93号1043頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 9,
+    "day": 28
+  },
+  "gist": "選挙運動の実費または正当な報酬とそれ以外の選挙運動に対する報酬とを不可分的に授受された場合と公職選挙法第二二一条第一項第四号の罪の成否",
+  "case_gist": "原判決は、本件金員が専ら所論の如き選挙運動の実費または労務者に対する正当な報酬として授受されたものとは認定していないのであつて、それ以外の選挙運動に対する報酬などとして不可分的に授受されたものと認定しているのであるから、被告人において、仮に該金員を悉く実費等に充当したと仮定しても、公職選挙法二二一条一項四号の受供与罪の成否に何ら消長を来たすものではない。",
+  "ref_law": "公職選挙法221条1項4号，公職選挙法197条の2，公職選挙法187条1項",
+  "lawsuit_id": "72862",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=72862",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/862/072862_hanrei.pdf"
+}

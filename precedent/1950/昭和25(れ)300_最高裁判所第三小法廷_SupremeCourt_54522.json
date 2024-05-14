@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 6,
+    "day": 6
+  },
+  "case_number": "昭和25(れ)300",
+  "case_name": "酒税法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第4巻6号944頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 11,
+    "day": 14
+  },
+  "gist": "酒税法（昭和二四年法律第四三號による改正前のもの）第六〇條第三項、第六四條第二項の没收の趣旨と刑法第一九條との關係",
+  "case_gist": "原判決は、酒類醪ならびに容器、器具を没收するにつき酒税法第六〇條第三項、同第六四條第二項のほかに刑法第一九條第二項を適用しているが、本件犯行當時の酒税法第六〇條第三項には「前二項ノ場合ニ於テハ其ノ製造ニ係ル酒類並ニソノ機械器具及容器ハ之ヲ没收ス」とあり同法第六四條第二項も右と同一の表現をしているのであつて、右各條は刑法第一九條に對する特別規定であり、刑法第一九條第二項の規定と異なり酒類器具等は犯人以外の者に屬すると否とにかかわらず没收する趣旨と思われる。",
+  "ref_law": "酒税法60條3項，酒税法64條2項，刑法19條",
+  "lawsuit_id": "54522",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54522",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/522/054522_hanrei.pdf"
+}

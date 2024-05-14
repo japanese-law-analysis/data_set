@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 10,
+    "day": 4
+  },
+  "case_number": "昭和32(オ)587",
+  "case_name": "選挙無効請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第11巻10号1704頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 3,
+    "day": 28
+  },
+  "gist": "市選挙管理委員会がした違法なポスター検印が選挙無効の原因とならないとされた一事例",
+  "case_gist": "市長選挙に際し、市選挙管理委員会のポスター検印に違法があつてもその検印が特定の候補者の当選の便宜を図る目的で故意に為されたものではなく、右違法検印によつて掲示されたポスターの数は最大限一四〇枚であつて、掲示された時間は一枚を除き一時間三〇分ないし二時間三〇分くらいであり、候補者氏名は市民によく知られており、選挙の結果候補者二名の得票数がそれぞれ一〇、三〇八票九、一〇二票であつた場合には、右違法検印に基くポスターの掲示は選挙の結果に異動を及ぼす虞があるものと認め難く、よつて選挙を無効とすべきではない。",
+  "ref_law": "公職選挙法144条2項，公職選挙法205条1項",
+  "lawsuit_id": "57685",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57685",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/685/057685_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 7,
+    "day": 3
+  },
+  "case_number": "昭和32(あ)910",
+  "case_name": "監禁",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第13巻7号1088頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 3,
+    "day": 8
+  },
+  "gist": "刑法第二二〇条第一項の監禁罪が成立する事例。",
+  "case_gist": "日本共産党員たる被告人が、ほか二名と共謀の上、当時同じく日本共産党員であつた某平和病院の炊事婦をしていた某女（当時二三年）を、日本共産党に対するスパイ活動容疑により弾劾査問しようと企て、そのため、某年三月一〇日午前〇時頃より同月一四日午前一一時頃までの間、某人方物置に留め置き、その間同女が同所から脱出することを防止するため、自ら、若しくは他の婦女五名の監視人をおいて、間断なく同女を監視し、因つて同女をして同所から脱出することを不可能ならしめた場合には、刑法第二二〇条第一項の不法監禁罪が成立する。",
+  "ref_law": "刑法220条1項",
+  "lawsuit_id": "51589",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51589",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/589/051589_hanrei.pdf"
+}

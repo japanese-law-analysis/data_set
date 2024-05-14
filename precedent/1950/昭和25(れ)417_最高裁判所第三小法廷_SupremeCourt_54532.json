@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 6,
+    "day": 27
+  },
+  "case_number": "昭和25(れ)417",
+  "case_name": "傷害、傷害致死等",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第4巻6号1096頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 12,
+    "day": 21
+  },
+  "gist": "共同犯行の意思を實行にうつす意思決定における動機の錯誤と共同正犯の一事例",
+  "case_gist": "乙のため傷つけられた甲が、そのことにつき乙方二階で乙と強談中、甲の輩下たる被告人等七、八名が乙方に馳せ集り、若し甲乙間に話がつかない場合には當然喧嘩となる情勢であり殺傷沙汰の起ることを豫期し、その場合は甲に加勢し、乙と爭鬪すべきことを暗に共謀して待期中、突如二階で物音がしたので一同は豫期の如く喧嘩が始まつたものと速斷して二階に押寄せ、その際被告人等の一人が乙に傷害を加へ死に致した場合は、たとえ甲乙間に未だ喧嘩が始まらず、なお談合中であつたとしても、被告人等は傷害致死の共同正犯たるの罪責を免れない。",
+  "ref_law": "刑法60條",
+  "lawsuit_id": "54532",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54532",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/532/054532_hanrei.pdf"
+}

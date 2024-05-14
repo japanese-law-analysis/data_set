@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 2,
+    "day": 26
+  },
+  "case_number": "昭和26(オ)151",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第7巻2号199頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 2,
+    "day": 12
+  },
+  "gist": "白地式裏書手形の所持人の手形上の権利の行使と白地補充の要否",
+  "case_gist": "白地式裏書手形の所持人が手形上の権利の行使するには、必ずしも自己を被裏書人として記載することを要しない。",
+  "ref_law": "手形法16条1項",
+  "lawsuit_id": "57219",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57219",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/219/057219_hanrei.pdf"
+}

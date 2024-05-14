@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 11,
+    "day": 30
+  },
+  "case_number": "昭和25(れ)1307",
+  "case_name": "賍物故買、同寄蔵",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第4巻11号2434頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 5,
+    "day": 15
+  },
+  "gist": "起訴前の強制処分関与と旧刑訴第二四条第八号",
+  "case_gist": "刑訴応急措置法第八条第四号に基く検察官の請求により被告人に対し勾留訊問をなし勾留状を発した判事が、第二審の審判に関与したとしても、その勾留訊問調書が第一審判決の証拠とされていない以上は、右判事は旧刑訴第二四条第八号にいわゆる「前審ノ裁判又ハソノ基礎トナリタル取調ニ関与シタ」ものにあたらない。",
+  "ref_law": "刑訴法24条8号，刑訴法410条2号",
+  "lawsuit_id": "54492",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54492",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/492/054492_hanrei.pdf"
+}

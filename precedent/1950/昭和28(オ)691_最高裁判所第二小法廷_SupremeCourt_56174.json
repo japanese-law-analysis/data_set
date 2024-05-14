@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 11,
+    "day": 5
+  },
+  "case_number": "昭和28(オ)691",
+  "case_name": "貸金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第8巻11号2014頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 5,
+    "day": 20
+  },
+  "gist": "月一割の利息および損害金を支払う旨の消費貸借は公序良俗に反するか",
+  "case_gist": "昭和二五年二月二〇日に元金を三万円、弁済期を同年五月二五日、支払うべき利息ならびに損害金の割合を月一割とする約定で、商人の営業資金に供するために成立した消費貸借は、特別の事情のない限り、公序良俗に反し無効であるということはできない。",
+  "ref_law": "民法587条，民法70条，旧利息制限法5条",
+  "lawsuit_id": "56174",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56174",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/174/056174_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 3,
+    "day": 7
+  },
+  "case_number": "昭和24(れ)2780",
+  "case_name": "公務執行妨害、傷害、窃盜、建造物侵入、物価統制令違反、銃砲等所持禁止令違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "刑集　第6巻3号387頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 6,
+    "day": 11
+  },
+  "gist": "検事に対する自白の任意性についての審理不尽の一例",
+  "case_gist": "検事に対する被告人の自白が、その一両日前警察署における刑事の取調の際に長時間に亘る肉体的苦痛を伴う訊問の結果した自白を反覆しているに過ぎないのではないかとの疑が記録上極めて濃厚であつて、かかる疑を打ち消すべき特段の事情を発見することができないにも拘らず、警察における前示肉体的苦痛と検事に対する右自白との間に因果関係がなかつたかどうかについて十分な審理の尽さず、この自白を犯罪事実認定の証拠としたときは、審理不尽の違法があるといわなければならない。",
+  "ref_law": "憲法38条1項，憲法38条2項，刑訴応急措置法10条1項，刑訴応急措置法10条2項",
+  "lawsuit_id": "55480",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55480",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/480/055480_hanrei.pdf"
+}

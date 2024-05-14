@@ -1,0 +1,24 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 1,
+    "day": 27
+  },
+  "case_number": "昭和28(あ)4507",
+  "case_name": "窃盗、同未遂、横領",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第91号893頁",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 9,
+    "day": 4
+  },
+  "lawsuit_id": "72853",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=72853",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/853/072853_hanrei.pdf"
+}

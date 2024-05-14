@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 3,
+    "day": 28
+  },
+  "case_number": "昭和26(あ)2113",
+  "case_name": "強盜殺人、同未遂",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第62号833頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 4,
+    "day": 20
+  },
+  "gist": "原判決が第一審判決の量刑を認容したのは実体法の適用の問題で憲法三一条に違反すとの主張の適否",
+  "case_gist": "所論は原判決が第一審判決の量刑を容認したのに対し、それは単なる量刑の問題ではなくして刑法二四〇条の真意を誤り実体法の適正な適用をしなかつたものであるから憲法三一条に違反するものであると主張するのである。しかしこの主張もまた第一審判決が実体法の適正な適用をしなかつたというに帰するものであつて、そして右主張は原審で申立てず且つ原審の判断を経なかつたものであるから、原判決に対する不服の申立として不適法であると断ぜざるをえない。",
+  "ref_law": "刑訴法405条，憲法31条",
+  "lawsuit_id": "71707",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=71707",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/707/071707_hanrei.pdf"
+}

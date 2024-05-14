@@ -1,0 +1,21 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 7,
+    "day": 4
+  },
+  "case_number": "昭和32(す)453",
+  "case_name": "審判併合請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "却下",
+  "article_info": "刑集　第11巻7号1807頁",
+  "gist": "刑訴法第八条第二項による審判併合請求事件について、それぞれ現に係属する裁判所で各別に審判するを相当と認めるときの直近上級裁判所の措置",
+  "case_gist": "刑訴第八条第二項による審判併合請求事件について、直近上級裁判所が、それぞれ現に係属する裁判所で各別に審判するを相当と認めるときは、その請求を却下すべきである。",
+  "ref_law": "刑訴法8条",
+  "lawsuit_id": "51600",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51600",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/600/051600_hanrei.pdf"
+}

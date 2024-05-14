@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 11,
+    "day": 29
+  },
+  "case_number": "昭和26(れ)1655",
+  "case_name": "物価統制令違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第57号701頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 4,
+    "day": 28
+  },
+  "gist": "犯罪発生原因上に存する憫諒すべき客観的な情状と期待可能性の有無",
+  "case_gist": "本件は期待可能性を欠き責任を阻却し無罪である旨の所論は、原審でその主張がなく従つて原判決もその点について何等判断を与えていなのである。しかのみならず、所論摘示の事情（割当てられた原料は公定価格で買えず製品の公定価格は生産原価を割るので原料の出目で作つた製品を公定価格で売らなければ立ち行かない等）は、いわば貧困で止むなく窃盗をした場合の貧困という状態のように、本件犯罪の主観的責任に関係のない単なる犯罪発生原因上に存する憫諒すべき客観的な情状たるに過ぎないものと認められる。",
+  "ref_law": "旧刑訴法360条2項，刑法36条",
+  "lawsuit_id": "68762",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=68762",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/762/068762_hanrei.pdf"
+}

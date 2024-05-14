@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 12,
+    "day": 26
+  },
+  "case_number": "昭和31(オ)806",
+  "case_name": "土地区画整理換地予定地指定取消請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第11巻14号2470頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 4,
+    "day": 24
+  },
+  "gist": "特別都市計画法による換地予定地指定の取消を求める訴の出訴期間",
+  "case_gist": "特別都市計画法にいよる換地予定地指定の取消を求める訴は、本換地のなされるまで何時でも提起できる合のではなく、行政事件訴訟特例法第五条の制約を受けるものと解すべきである。",
+  "ref_law": "特別都市計画法13条，行政事件訴訟特例法5条",
+  "lawsuit_id": "57667",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57667",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/667/057667_hanrei.pdf"
+}

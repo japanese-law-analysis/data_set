@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 12,
+    "day": 25
+  },
+  "case_number": "昭和24(オ)274",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第6巻12号1263頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 9,
+    "day": 15
+  },
+  "gist": "賃貸人が移転先を提供しても解約申入に正当事由が認められない一事例",
+  "case_gist": "賃貸人が現在家屋を賃借人に提供して入り替わりを求めた場合でも、後記事情（原判決理由参照）があるときは、賃貸人のなした解約申入には正当の事由がない。",
+  "ref_law": "借家法1条ノ2",
+  "lawsuit_id": "57140",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57140",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/140/057140_hanrei.pdf"
+}

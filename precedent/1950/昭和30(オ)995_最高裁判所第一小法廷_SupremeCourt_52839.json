@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 6,
+    "day": 5
+  },
+  "case_number": "昭和30(オ)995",
+  "case_name": "土地所有権移転登記手続請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第12巻9号1359頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 9,
+    "day": 28
+  },
+  "gist": "一　知事の許可を停止条件とする農地売買の効力\n二　民法第五五七条にいわゆる「契約の履行に著手」したものと認められた事例",
+  "case_gist": "一　知事の許可を停止条件として締結された農地の売買契約は、無効ではない\n二　土地の買主が約定の履行期後、売主に対し、しばしばその履行を求め、かつ売主において右土地の所有権移転登記手続をすれば、何時でも支払えるよう残代金の準備をしていたときは、民法第五五七条にいわゆる「契約の履行に著手」したものと認めるのが相当である",
+  "ref_law": "農地法3条1項本文，農地法3条4項，農地調整法4条1項，農地調整法4条5項，民法90条，民法557条",
+  "lawsuit_id": "52839",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52839",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/839/052839_hanrei.pdf"
+}

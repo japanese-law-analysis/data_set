@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 9,
+    "day": 23
+  },
+  "case_number": "昭和28(オ)1367",
+  "case_name": "所有権移転登記抹消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第9巻10号1367頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 11,
+    "day": 28
+  },
+  "gist": "地盤について所有権移転登記がなされた後に、立木についてなされた保存登記の効力",
+  "case_gist": "土地およびその上に生立する立木をともに買い受けた者が、土地につき所有権取得登記をしたときは、たとえその後立木につき前所有者のため、保存登記がなされても、この登記は無効である。",
+  "ref_law": "民法177條，立木ニ關スル法律1條，立木ニ關スル法2條",
+  "lawsuit_id": "56160",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56160",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/160/056160_hanrei.pdf"
+}

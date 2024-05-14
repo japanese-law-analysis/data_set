@@ -1,0 +1,22 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 7,
+    "day": 7
+  },
+  "case_number": "昭和30(あ)822",
+  "case_name": "覚せい剤取締法違反被告事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第9巻9号1863頁",
+  "original_court_name": "福岡高等裁判所",
+  "gist": "刑訴第三二〇条第二項の法意",
+  "case_gist": "いわゆる簡易公判手続の決定のあつた事件において、検察官提出の証拠につき、被告人または弁護人が証拠とすることに意義を述べないときは、被告人または弁護人の同意がなくても証拠調をし且つこれに証拠能力を認めて事実認定の資料に供することができる。",
+  "ref_law": "刑訴法291条の2，刑訴法320条，刑訴法326条",
+  "lawsuit_id": "56958",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56958",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/958/056958_hanrei.pdf"
+}

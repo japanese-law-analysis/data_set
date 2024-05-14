@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 8,
+    "day": 9
+  },
+  "case_number": "昭和25(あ)2892",
+  "case_name": "銃砲等所持禁止令違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第5巻9号1744頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 9,
+    "day": 19
+  },
+  "gist": "銃砲等所持禁止令にいわゆる銃砲にあたる一事例",
+  "case_gist": "照準が破棄されていても拳銃の発射機能がないとはいえないし、また、弾丸が伴わなくとも鉄砲所持禁止令違反たるを免れないこと多言を要しない。",
+  "ref_law": "鉄砲法等所持禁止令1条，鉄砲法等所持禁止令1条施行規則1条",
+  "lawsuit_id": "54412",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54412",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/412/054412_hanrei.pdf"
+}

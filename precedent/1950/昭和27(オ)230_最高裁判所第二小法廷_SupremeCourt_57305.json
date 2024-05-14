@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 11,
+    "day": 20
+  },
+  "case_number": "昭和27(オ)230",
+  "case_name": "船舶引渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第7巻11号1229頁",
+  "original_court_name": "札幌高等裁判所\n        　函館支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 2,
+    "day": 4
+  },
+  "gist": "損害賠償請求訴訟において損害額につき立証がない場合と裁判所の釈明義務",
+  "case_gist": "裁判所が、被告に損害賠償義務のあることを認めながら、損害額の立証がないという理由で損害賠償請求を排斥しても、釈明権不行使または審理不尽の違法があるとはいえない。",
+  "ref_law": "民訴法127条",
+  "lawsuit_id": "57305",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57305",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/305/057305_hanrei.pdf"
+}

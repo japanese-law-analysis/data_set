@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 2,
+    "day": 2
+  },
+  "case_number": "昭和24(れ)2418",
+  "case_name": "強盗",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第16号287頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 6,
+    "day": 27
+  },
+  "gist": "公判請求書中強盜の被脅迫者の表示の誤記と起訴事實の同一性",
+  "case_gist": "所論は、公判請求書において強盜の被脅迫者はＡの次女Ｂとなつているのに、原判決においてはこれを同人の妻Ｂと認定している點を捉えて、審判の請求をうけない事件について判決した違法があると主張するものである。しかし、兩者を通じて被脅迫者Ｂは同一人であつてただ公判請求書はＡの妻と表示すべきを次女と誤記したに過ぎないと認められるから起訴の基本的事實の同一性も亳も害するものではない。",
+  "ref_law": "舊刑訴法291條1項，舊刑訴法410條18號",
+  "lawsuit_id": "74904",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74904",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/904/074904_hanrei.pdf"
+}

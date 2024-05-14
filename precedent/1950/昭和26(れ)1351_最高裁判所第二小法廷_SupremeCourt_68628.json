@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 12,
+    "day": 21
+  },
+  "case_number": "昭和26(れ)1351",
+  "case_name": "収賄",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第58号637頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 3,
+    "day": 31
+  },
+  "gist": "聴取書の作成日附の誤記とその聴取書の証拠能力",
+  "case_gist": "所論被告人に対する検察事務官の第一回聴取書の日附が昭和二三年三月二八日であり、同第二回聴取書の日附が同月二七日となつていることは所論指摘のとおりである。しかし本件起訴が同月二七日であること等の点から考えて、右第一回聴取書の日附も同月二七日の誤記と認められるのであるが、それはさておくも、右第一、二回の聴取書は右日附頃適法に作成されたものであり、原審において右両聴取書が証拠調された際も被告人も弁護人も所論の点につき何等の異議も述べていないのであつて、右日附が右の如く逆になつていることの一事によつては、右各聴取書が証拠能力のないものと論結し得ない。",
+  "ref_law": "旧刑訴法71条，旧刑訴法337条",
+  "lawsuit_id": "68628",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=68628",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/628/068628_hanrei.pdf"
+}

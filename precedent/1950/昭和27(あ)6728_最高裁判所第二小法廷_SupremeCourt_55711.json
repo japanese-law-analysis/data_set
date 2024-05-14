@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 8,
+    "day": 20
+  },
+  "case_number": "昭和27(あ)6728",
+  "case_name": "国民医療法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第8巻8号1287頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 8,
+    "day": 4
+  },
+  "gist": "国民医療法第八条第一項の医業に当る事例",
+  "case_gist": "長期且つ多数回にわたり数多くの患者を診断して、自己創出にかかる「アウトン」その他の皮下注射、薬物の塗布等をしている以上、たとえ右「アウトン」が有効無害であり、またそれが営利を目的とせず特殊な希望者だけを対象として行つたものだとしても、国民医療法第八条第一項にいう医業をした場合に当る。",
+  "ref_law": "国民医療法8条1項，医師法40条",
+  "lawsuit_id": "55711",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55711",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/711/055711_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 6,
+    "day": 25
+  },
+  "case_number": "昭和30(あ)2893",
+  "case_name": "詐欺",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第119号599頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 8,
+    "day": 27
+  },
+  "gist": "詐欺罪の判示として理由不備でない一事例",
+  "case_gist": "原判決が確定した事実の趣旨は要するに被告人が待合の主人に対し代金を確実に支払い得る見込もその支払をする意思もないのにその見込及び意思があるように装うてその待合において飲食遊興したい旨申し入れ同人をして確実にその代金の支払を受け得るものと誤信させてこれを提供せしめその結果即時同所で他人とともに代金一九、九一〇円に相当する飲食遊興をしその支払をせずこれに相当する財産上不法の利益を得たというにあると解せられるから、被告人らが右主人をして右待合における飲食遊興の提供をさせてこれを享受したときに財産上それだけの不法利益を得たものということができる。",
+  "ref_law": "刑法246条2項，刑訴法335条",
+  "lawsuit_id": "60817",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60817",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/817/060817_hanrei.pdf"
+}

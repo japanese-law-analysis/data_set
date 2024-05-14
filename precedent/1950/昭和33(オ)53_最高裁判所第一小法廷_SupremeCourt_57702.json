@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 6,
+    "day": 11
+  },
+  "case_number": "昭和33(オ)53",
+  "case_name": "売掛代金請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第13巻6号692頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 11,
+    "day": 15
+  },
+  "gist": "商法第二三条の「自己ノ氏ヲ使用シテ営業ヲ為スコトヲ他人ニ許諾シタル」場合にあたる事例。",
+  "case_gist": "Ａの氏を有し、以前Ａ製材組合の商号で木材業をしたことのある者が、木材業を営む甲のため、自己の居宅内およびその附近の一部を甲の事務所、木材置場として使用させ、玄関の土間の部分に「Ａ木材」の看板を掲げることを許す等、原審認定のような事情（原判決理由参照）があつたときは、右の者は、同人の氏を使用して営業をなすことを甲に許諾したものと解して妨げない。",
+  "ref_law": "商法23条",
+  "lawsuit_id": "57702",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57702",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/702/057702_hanrei.pdf"
+}

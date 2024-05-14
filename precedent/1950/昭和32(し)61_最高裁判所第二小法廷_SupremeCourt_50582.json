@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 7,
+    "day": 15
+  },
+  "case_number": "昭和32(し)61",
+  "case_name": "保釈保証金没取決定に対する異議申立棄却決定に対する特別抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第12巻11号2578頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 12,
+    "day": 23
+  },
+  "gist": "甲に対する刑事被告事件の弁護人であつた者が、右事件終結後甲に対しなされた高等裁判所の保釈保証金没取決定に対しなした異議申立の適否。",
+  "case_gist": "甲に対する刑事被告事件の弁護人であつても、右事件が終結後においては、高等裁判所がなした甲に対する保釈保証金没取決定に対し、甲の特別の委任なき以上、甲を代理して異議の申立をすることができない。",
+  "ref_law": "刑訴法96条，刑訴法428条，刑訴法420条1項，刑訴法420条2項",
+  "lawsuit_id": "50582",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50582",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/582/050582_hanrei.pdf"
+}

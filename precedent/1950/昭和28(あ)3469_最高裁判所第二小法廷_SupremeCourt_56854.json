@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 11,
+    "day": 18
+  },
+  "case_number": "昭和28(あ)3469",
+  "case_name": "銃砲刀剣類等所持取締令違反・恐喝、傷害、暴行",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第9巻12号2460頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 6,
+    "day": 17
+  },
+  "gist": "証拠調の請求が放棄されたものと解される事例",
+  "case_gist": "取調請求のあつた証人につき、証拠決定の施行も取消もないまま弁論を終結するにあたつて、訴訟関係人が異議を述べないときは、特段の事情のない限り右証拠申請は放棄せられたものと解すべきである。",
+  "ref_law": "刑訴法298条，刑訴法308条，刑訴規則190条，刑訴規則204条",
+  "lawsuit_id": "56854",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56854",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/854/056854_hanrei.pdf"
+}

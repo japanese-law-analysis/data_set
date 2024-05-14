@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 2,
+    "day": 4
+  },
+  "case_number": "昭和26(あ)975",
+  "case_name": "食糧管理法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第92号75頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 11,
+    "day": 29
+  },
+  "gist": "立稲売買を主要食糧の不法譲渡と認定した原審判決と判例違反の有無",
+  "case_gist": "所論大審院判例（昭和一三年九月二八日民集一九二七頁）は、まだ刈り取らない立稲でも観念上地盤とは別箇の物として民事上の取引をすることができるというだけであつて、当事者間の或る契約が如何なる趣旨の契約であるかの裁判所の認定権を拘束するものでないことはいうを俟たない。されば、原判決が被告人Ａと被告人Ｂとの間の本件契約を判示のごとく食糧管理法の禁止する主要食糧の不法譲渡をしたものと認定しても、所論判例に反する判断をしたものということはできない。",
+  "ref_law": "食糧管理法9条，刑訴法405条3号",
+  "lawsuit_id": "71866",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=71866",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/866/071866_hanrei.pdf"
+}

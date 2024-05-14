@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 1,
+    "day": 11
+  },
+  "case_number": "昭和29(あ)2090",
+  "case_name": "公印偽造、偽造公印不正使用・公職選挙法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第9巻1号25頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 4,
+    "day": 13
+  },
+  "gist": "一　公務所の印章と記号とを区別する標準\n二　全国選挙管理委員会の検印は公務所の印章か",
+  "case_gist": "一　公務所の印章と記号とを区別する標準は、その使用の目的物の如何にあるもので文書に押捺して証明の用に供するものは公務所の印章であり、産物、商品等に押捺するものはその記号である。\n二　全国選挙管理委員会が選挙運動用のポスターにする検印は、公務所の印章である。",
+  "ref_law": "刑法165条，刑法166条，公職選挙法144条2項",
+  "lawsuit_id": "54750",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54750",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/750/054750_hanrei.pdf"
+}

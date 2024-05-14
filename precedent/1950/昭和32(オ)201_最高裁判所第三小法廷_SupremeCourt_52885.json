@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 6,
+    "day": 17
+  },
+  "case_number": "昭和32(オ)201",
+  "case_name": "行政処分取消請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第12巻10号1555頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 12,
+    "day": 20
+  },
+  "gist": "旧関税法（昭和二九年法律第六一号による改正前）第八三条第三項による追徴のない場合の同条第四項による関税徴収の可否",
+  "case_gist": "刑事判決で旧関税法（昭和二九年法律第六一号による改正前）第八三条第三項によつて追徴していない場合でも、同条第四項によつて関税を徴収することができる",
+  "ref_law": "旧関税法（昭和29年法律61号による改正前）83条",
+  "lawsuit_id": "52885",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52885",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/885/052885_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 6,
+    "day": 29
+  },
+  "case_number": "昭和25(オ)38",
+  "case_name": "仮処分決定取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "却下",
+  "article_info": "民集　第5巻7号396頁",
+  "original_court_name": "札幌高等裁判所\n        　函館支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 11,
+    "day": 18
+  },
+  "gist": "上告理由として他事件についての上告理由書の記載を引用することの適否",
+  "case_gist": "上告理由は、上告理由書自体に記載すべきであつて、他事件についての上告理由書の記載を引用することは許されない。",
+  "ref_law": "民訴法389条",
+  "lawsuit_id": "56028",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56028",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/028/056028_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 9,
+    "day": 17
+  },
+  "case_number": "昭和27(オ)295",
+  "case_name": "建物所有権取得登記抹消登記手続請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第8巻9号1635頁",
+  "original_court_name": "福岡高等裁判所\n        　宮崎支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 2,
+    "day": 25
+  },
+  "gist": "不動産の売渡人と買受人とに対し所有権取得登記の抹消を求める訴は必要的共同訴訟か",
+  "case_gist": "抵当権実行による競売手続において競落により不動産を取得した者およびその者から右不動産を買受けた者を共同被告として右不動産の所有者として抵当権の効力を否定する者から各所有権取得登記の抹消を求める訴は、訴訟の目的が共同訴訟人の全員につき合一にのみ確定すべき場合に当らない。",
+  "ref_law": "民訴法62条",
+  "lawsuit_id": "57312",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57312",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/312/057312_hanrei.pdf"
+}

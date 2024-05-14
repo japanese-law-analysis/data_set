@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 1,
+    "day": 28
+  },
+  "case_number": "昭和26(あ)4982",
+  "case_name": "傷害致死",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第91号1083頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 10,
+    "day": 24
+  },
+  "gist": "過剰防衛の成り立たない一事例",
+  "case_gist": "原判決の認定したように本件の相手方は何等兇器等を所持していなかつたのであるから、ジヤツクナイフを取出し立ち向う必要はなく、また、その場から逃避することも可能であつたにかかわらず、第一審判決の判示したようにＡ、Ｂを相手に廻し喧嘩闘争をしようと決意し右ナイフを以て立ち向い、相互に揉み合ううちＢに対し判示傷害を加え死に致し、以て被告人の行為が一種の闘争行為の域に達したと認められるがごとき案件では過剰防衛は成り立たない。",
+  "ref_law": "刑法20条，刑法36条",
+  "lawsuit_id": "71840",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=71840",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/840/071840_hanrei.pdf"
+}

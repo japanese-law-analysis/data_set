@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 5,
+    "day": 6
+  },
+  "case_number": "昭和30(あ)4054",
+  "case_name": "賍物故買",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第12巻7号1327頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 11,
+    "day": 28
+  },
+  "gist": "一　弁護権の不法制限にならない一事例\n二　事実の取調請求とは認められない一事例",
+  "case_gist": "一　量刑不当を主張している控訴趣意書を提出した私選弁護人が約二ヶ月の余裕を以て通知された第一回公判期日の三日前になつてから病気を理由として、公判期日変更の申請をしても、その病気が既に三ヶ月前に発した乳糜病でなお二ヶ月の安静加療を要するという場合には、右公判期日当日国選弁護人を選任して手続を進めても、特段の異議がない限り弁護権の不法制限とはいえない\n二　量刑不当を理由とする控訴趣意書に数種の証明書類が添附されていたというだけでは、その証明書につき事実の取調請求があつたものとはいえない",
+  "ref_law": "憲法37条3項，刑訴法276条，刑訴法389条，刑訴法393条1項，刑訴規則179の5",
+  "lawsuit_id": "50464",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50464",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/464/050464_hanrei.pdf"
+}

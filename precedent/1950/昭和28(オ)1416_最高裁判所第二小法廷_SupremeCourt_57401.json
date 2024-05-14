@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 11,
+    "day": 25
+  },
+  "case_number": "昭和28(オ)1416",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第9巻12号1852頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 10,
+    "day": 22
+  },
+  "gist": "第三者所有の動産の競売と債権者の過失の有無。",
+  "case_gist": "債務者の占有する動産を差し押えたところ、第三者から、右動産は自己の所有に属し、執行意義の訴を提起した旨の通告があつたにかかわらず、右事実の真否を調査せずに、競売手続を遂行したときは、債務者は第三者の権利侵害につき過失の責を免れることはできない。",
+  "ref_law": "民法709条",
+  "lawsuit_id": "57401",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57401",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/401/057401_hanrei.pdf"
+}

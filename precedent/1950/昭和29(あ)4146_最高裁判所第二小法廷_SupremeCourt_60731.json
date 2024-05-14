@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 3,
+    "day": 26
+  },
+  "case_number": "昭和29(あ)4146",
+  "case_name": "覚せい剤取締法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第118号391頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 12,
+    "day": 4
+  },
+  "gist": "刑訴法第三二二条第一項本文前段の供述調書が証拠能力を有するための条件",
+  "case_gist": "所論被告人の検察官に対する供述調書は刑訴三二二条の書面として検察官が取調を請求し、第一審裁判所も同書面として証拠決定をなし取り調べたものであることは所論のとおりであるが、右供述調書は被告人の署名拇印があり、その供述が被告人に不利益な事実の承認を内容とするものであること（同条一項本文前段参照）記録上明白であるから、かかる書面については供述の任意性が認められるかぎりこれを証拠とすることができるのであつて（同条一項但書参照）「特に信用すべき情況の下にされたものである」（同条一項本文後段参照）ことを条件とするものではないことは同条の明文に徴し明らかである。",
+  "ref_law": "刑訴法322条",
+  "lawsuit_id": "60731",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60731",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/731/060731_hanrei.pdf"
+}

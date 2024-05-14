@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 4,
+    "day": 12
+  },
+  "case_number": "昭和24(オ)360",
+  "case_name": "建物収去土地明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第5巻5号228頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 12,
+    "day": 15
+  },
+  "gist": "一　罹災都市借地借家臨時処理法第二条第一項但書にいわゆる権原による土地使用者の意義\n二　土地の無断転借人と罹災都市借地借家臨時処理法第二条第一項但書にいわゆる権原による土地使用者",
+  "case_gist": "一　罹災都市借地借家臨時処理法第三条が準用する同法第二条第一項但書にいわゆる権原により現に建物所有の目的で土地を使用する者とは、法律上何等かの権原に基いてその土地を現に使用している者を意味し、その土地につき借地権譲渡の申出権を有する罹災建物の借主があるか否か又何人であるかに関し、その権原者が善意であると否とを問わない。\n\n二　賃貸人の承諾を得ない転貸借に基いて土地を使用する者は、罹災都市借地借家臨時処理法第二条第一項但書にいわゆる権原により現に建物所有の目的で土地を使用する者にあたらない。",
+  "ref_law": "罹災都市借地借家臨時処理法2条1項",
+  "lawsuit_id": "55978",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55978",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/978/055978_hanrei.pdf"
+}

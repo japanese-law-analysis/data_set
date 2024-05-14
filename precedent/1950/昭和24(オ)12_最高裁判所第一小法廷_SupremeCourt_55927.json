@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 4,
+    "day": 19
+  },
+  "case_number": "昭和24(オ)12",
+  "case_name": "不動産仮処分異議",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第5巻5号274頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 11,
+    "day": 5
+  },
+  "gist": "被保全権利の疏明がない場合と仮処分理由についての判断の要否",
+  "case_gist": "仮処分の申請において、被保全権利の疏明がなく、裁判所が保証をもつて疏明に代えることを不適当と考えるときは、仮処分の理由の存否を判断しないで仮処分の申請を却下することができる。",
+  "ref_law": "民訴法740条2項，民訴法741条2項（756条）",
+  "lawsuit_id": "55927",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55927",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/927/055927_hanrei.pdf"
+}

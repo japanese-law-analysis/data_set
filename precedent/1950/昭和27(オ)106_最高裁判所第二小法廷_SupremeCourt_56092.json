@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 12,
+    "day": 17
+  },
+  "case_number": "昭和27(オ)106",
+  "case_name": "所有權移転登記抹消登記等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第8巻12号2182頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 11,
+    "day": 21
+  },
+  "gist": "不動産または電話加入権の譲渡人の死亡後同人またはその代理人の名義でなされた登記登録と相続人の抹消請求の許否",
+  "case_gist": "不動産の所有権移転登記または電話加入名義の変更登録が事実上の権利関係に合致するときは、たとえ右登記登録が譲渡人の死亡後同人またはその代理人名義の申請によりなされたものであつても、譲渡人の相続人は、譲受人に対しその抹消を請求することはできない。",
+  "ref_law": "民法111条，民法653条，不動産登記法26条，旧電話規則（昭和12年逓信省令73号）7条",
+  "lawsuit_id": "56092",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56092",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/092/056092_hanrei.pdf"
+}

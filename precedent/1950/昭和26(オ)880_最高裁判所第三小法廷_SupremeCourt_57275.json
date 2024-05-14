@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 5,
+    "day": 13
+  },
+  "case_number": "昭和26(オ)880",
+  "case_name": "当選確認請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第6巻5号567頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 11,
+    "day": 30
+  },
+  "gist": "一　公職選挙法第八九条第一項の趣旨\n二　公職選挙法第一〇三条と同法第八九条第一項の関係",
+  "case_gist": "一　公職選挙法第八九条第一項の規定は、同項但書の場合および同条第二項の場合を除いて、国または地方公共団体の公務員は公務員たる職を辞した上でなければ公職の候補者となることができない趣旨である。\n二　公職選挙法第一〇三条は、同法第八九条第一項本文の適用のない者で兼職を禁じられている者が当選人となつた場合の規定である。",
+  "ref_law": "公職選挙法89条，公職選挙法103条",
+  "lawsuit_id": "57275",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57275",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/275/057275_hanrei.pdf"
+}

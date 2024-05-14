@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 4,
+    "day": 10
+  },
+  "case_number": "昭和30(あ)3255",
+  "case_name": "賍物牙保、たばこ専売違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "刑集　第12巻5号806頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 9,
+    "day": 29
+  },
+  "gist": "たばこ専売法第二九条第二項の販売にあたらない事例",
+  "case_gist": "被告人が、窃盗本犯から依頼を受けて、その窃取にかかる専売公社の製造たばこであるピース九百五十箱および光五百箱を、その情を知りながら代金合計五万三千円で特定人に売却する周旋をしたとしても、被告人の所為はたばこ専売法第二九条第二項の販売をしまたはこれを幇助したものということはできない",
+  "ref_law": "たばこ専売法29条2項",
+  "lawsuit_id": "50449",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50449",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/449/050449_hanrei.pdf"
+}

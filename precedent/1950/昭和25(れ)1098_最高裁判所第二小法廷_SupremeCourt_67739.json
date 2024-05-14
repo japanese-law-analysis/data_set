@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 10,
+    "day": 27
+  },
+  "case_number": "昭和25(れ)1098",
+  "case_name": "窃盗、同幇助",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第19号1051頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 4,
+    "day": 21
+  },
+  "gist": "窃盗の共犯として起訴せられ第一審が臟物運搬と認定し原審が窃盗の幇助と認定した場合と事実の同一性",
+  "case_gist": "裁判所は、その基本たる事実関係の同一性を害しない限り、公訴事実とその態様において異り、したがつて適用法条を異にする事実を認定することができるものである（昭和二三年れ第八三八号、同年一二月四日第二小法廷判決参照）。そして、所論の原判示事実は、窃盗の共犯として起訴せられ、第一審が臟物運搬と認定したのを、原審において窃盗の幇助と認定したものであり、起訴事実と原審認定事実とは、その基本たる事実関係において同一性を失わないことが明らかであるから、原判決には何等所論のような違法はない。",
+  "ref_law": "刑法60条，刑法235条，刑法256条，刑法62条，旧刑訴法291条，旧刑訴法410条18号",
+  "lawsuit_id": "67739",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=67739",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/739/067739_hanrei.pdf"
+}

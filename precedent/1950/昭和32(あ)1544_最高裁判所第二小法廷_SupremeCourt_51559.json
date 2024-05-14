@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 9,
+    "day": 18
+  },
+  "case_number": "昭和32(あ)1544",
+  "case_name": "詐欺強盗",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第11巻9号2353頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 5,
+    "day": 7
+  },
+  "gist": "第一審判決の不定期刑を第二審判決で定期刑に変更する場合における刑の軽重の比較",
+  "case_gist": "第一審判決の不定期刑を第二審判決で定期刑に変更する場合において、両者の刑の軽重は、右第一審判決の不定期刑の中間位を標準とし、これを定期刑の刑期と比較対照して、その長い方を重いとする、いわゆる中間位説に従つて決すべきものである。",
+  "ref_law": "刑法10条，少年法52条，刑訴法402条",
+  "lawsuit_id": "51559",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51559",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/559/051559_hanrei.pdf"
+}

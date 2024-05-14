@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 3,
+    "day": 15
+  },
+  "case_number": "昭和25(あ)1650",
+  "case_name": "臨時物資需給調整法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第41号925頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 5,
+    "day": 11
+  },
+  "gist": "具体的に挙示しない判例違反の主張の適否",
+  "case_gist": "論旨は原判決をもつて起訴のない事実につき被告人を有罪としたものと前提して原判決は大審院の判例に反するものというのであるが、論旨には原判決の反すると主張する大審院の判例を具体的に挙示していないのであるから、論旨は刑訴規則第二五三条の規定に違反する不適法の上告申立であるといわなければならない。",
+  "ref_law": "刑訴法405条3号，刑訴規則253条",
+  "lawsuit_id": "67197",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=67197",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/197/067197_hanrei.pdf"
+}

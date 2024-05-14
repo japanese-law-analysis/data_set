@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 12,
+    "day": 15
+  },
+  "case_number": "昭和30(オ)210",
+  "case_name": "裁決取消等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第9巻13号1997頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 12,
+    "day": 16
+  },
+  "gist": "一　選挙関係訴訟における選挙人の都道府県選挙管理委員会え補助参加の許否\n二　「Ｄバカ」と記載しこれを抹消して候補者氏名を記載した投票の効力",
+  "case_gist": "一　選挙関係訴訟においては、選挙人は当事者たる都道府県選挙管理委員会に補助参加するこができる。\n二　Ｄなる候補者がある場合でも「Ｄバカ」と記載し抹消してＥなる候補者氏名を記載した投票は無効である。",
+  "ref_law": "民訴法64条，公職選挙法207条1項，公職選挙法68条1項5号",
+  "lawsuit_id": "57572",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57572",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/572/057572_hanrei.pdf"
+}

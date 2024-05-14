@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 3,
+    "day": 19
+  },
+  "case_number": "昭和25(れ)841",
+  "case_name": "器物毀棄",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第6巻3号502頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 2,
+    "day": 20
+  },
+  "gist": "一　捜索押収令状の表示の誤記と捜索押収の効力\n二　捜索押収の許可を一通の令状によることは適法か",
+  "case_gist": "一　捜索、押収令状の捜索の場所の表示中、捜索押収を受ける者の氏名に誤記があつても、これに基いてした捜索、押収は違法にはならない。\n二　捜索と押収の許可は、一通の令状に記載することができる。",
+  "ref_law": "憲法35条，刑訴応急措置法7条2項",
+  "lawsuit_id": "55584",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55584",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/584/055584_hanrei.pdf"
+}

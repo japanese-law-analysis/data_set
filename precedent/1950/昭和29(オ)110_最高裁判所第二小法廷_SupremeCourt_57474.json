@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 7,
+    "day": 20
+  },
+  "case_number": "昭和29(オ)110",
+  "case_name": "建物収去土地明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第10巻8号965頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 1,
+    "day": 23
+  },
+  "gist": "判決の反射的効力を認めたことが違法とされた一事例",
+  "case_gist": "土地の適法な転借人およびその者からその所有の地上建物を賃借する者等は、賃借人の土地明渡義務が判決により確定されている場合においても、これがために当然賃貸人の土地明渡の請求を拒みえないものと解すべきではない。",
+  "ref_law": "民訴法201条，民法612条",
+  "lawsuit_id": "57474",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57474",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/474/057474_hanrei.pdf"
+}

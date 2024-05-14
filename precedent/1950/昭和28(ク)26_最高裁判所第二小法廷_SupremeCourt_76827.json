@@ -1,0 +1,21 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 4,
+    "day": 3
+  },
+  "case_number": "昭和28(ク)26",
+  "case_name": "競売開始決定に対する異議申立事件の決定に対する抗告につきなした抗告棄却の決定に対する再抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集民　第8号625頁",
+  "original_court_name": "東京高等裁判所",
+  "gist": "原決定における憲法上の判断が無用なものである場合にその判断の不当を主張する特別抗告理由の適否。",
+  "case_gist": "高等裁判所がその決定において示した憲法上の判断が無用のものであるときは、その判断の不当を主張する抗告理由は、特別抗告における適法な違憲の主張とはいえない。",
+  "lawsuit_id": "76827",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=76827",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/827/076827_hanrei.pdf"
+}

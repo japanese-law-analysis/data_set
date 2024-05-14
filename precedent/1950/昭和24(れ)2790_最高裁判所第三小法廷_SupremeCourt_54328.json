@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 12,
+    "day": 26
+  },
+  "case_number": "昭和24(れ)2790",
+  "case_name": "物価統制令違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第4巻13号2885頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 10,
+    "day": 1
+  },
+  "gist": "一　物価統制令違反罪の犯意の成立には違法の認識を必要とするか\n二　縣防犯課長及び同水産課長の統制額を超過した収引行為の默認は物価統制令第三条第一項但書所定の法定の除外事由にあたるか",
+  "case_gist": "一　物価統制令違反の犯罪行為についてはその犯意の成立について違法の認識を必要としないものと解すべきである。\n二　物価統制令にいう価格等の統制額を超過して取引することの許容されるいわゆる法定の除外の事由ある場合とは、同令第三条第一項但書及び第八条所定の場合に限るものと解すべきである。従つて本件取引について、所論の宮城縣防犯課長及び同水産課長から統制額超過の默認があつたとの事由の如きは右にいわゆる法定の除外事由ある場合にあたらないこと明らかである。",
+  "ref_law": "刑決38条，物価統制令3条，物価統制令8条",
+  "lawsuit_id": "54328",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54328",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/328/054328_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 9,
+    "day": 6
+  },
+  "case_number": "昭和29(あ)1295",
+  "case_name": "収賄",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第120号165頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 2,
+    "day": 1
+  },
+  "gist": "刑法第一九七条ノ二の第三者供賄罪についての請託があつたものと認められる事例−判示の程度",
+  "case_gist": "刑法第一九七条ノ二の第三者供賄の罪については請託のある場合に限り成立するものであることは所論のとおりであるが、第一審判決判示の「被告人Ａにつきその支払能力、意思等を打診した結果その頃同所において同被告人から右実務を自己に委嘱されたい旨の請託を受け」云々の事実は証拠により認定するに十分であり、この程度を以つて請託があつたものと認めることができる。",
+  "ref_law": "刑法197条ノ2，刑訴法335条",
+  "lawsuit_id": "60571",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60571",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/571/060571_hanrei.pdf"
+}

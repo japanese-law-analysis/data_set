@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 1,
+    "day": 28
+  },
+  "case_number": "昭和28(オ)384",
+  "case_name": "行政処分取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第9巻1号116頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 3,
+    "day": 9
+  },
+  "gist": "使用人に耕作せしめている農地で自作地と認められた一事例",
+  "case_gist": "地主が農地上に小屋を建設し使用人とその家族を居住せしめ、右農地の管理耕作にあたらせていても、右使用人は地主の作付計画に基き耕作しこれに要する農器具、肥料、農薬、種子等はすべて地主が調達し、手不足の場合は地主の他の使用人を使用し、あるいは右使用人をして地主の計算で他人を雇入れしめ、収穫物は右使用人が自家用に消費する分を除いては全部地主が収納し、右使用人に対しては定額の給料が支給されている場合は、当該農地は右地主の自作地である。",
+  "ref_law": "自作農創設特別措置法2条2項",
+  "lawsuit_id": "57423",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57423",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/423/057423_hanrei.pdf"
+}

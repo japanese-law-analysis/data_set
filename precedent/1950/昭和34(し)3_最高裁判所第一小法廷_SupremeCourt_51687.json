@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 2,
+    "day": 19
+  },
+  "case_number": "昭和34(し)3",
+  "case_name": "再審請求事件についてなした即時抗告棄却決定に対する特別抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第13巻2号179頁",
+  "original_court_name": "福岡高等裁判所\n        　宮崎支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 12,
+    "day": 23
+  },
+  "gist": "再審請求の目的となつた確定判決に関与した裁判官の再審請求事件への関与。",
+  "case_gist": "再審請求の目手となつた確定判決に関与した裁判官は再審請求事件の裁判に関与することを妨げるものではない。",
+  "ref_law": "刑訴法20条，刑訴法438条",
+  "lawsuit_id": "51687",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51687",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/687/051687_hanrei.pdf"
+}

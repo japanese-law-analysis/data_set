@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 1,
+    "day": 31
+  },
+  "case_number": "昭和26(れ)2132",
+  "case_name": "詐欺、同未遂、食糧管理法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第59号483頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 2,
+    "day": 16
+  },
+  "gist": "必要的弁護の条件に関する新旧両刑訴法の差異と憲法の平等の原則",
+  "case_gist": "必要的弁護の条件が新旧刑訴法の間に区別があり従つて旧件と新件との間に取扱に差等を生ずるが、それは憲法の平等原則に違反するものでない。",
+  "ref_law": "憲法14条，旧刑訴法334条，新刑訴法289条",
+  "lawsuit_id": "72064",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=72064",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/064/072064_hanrei.pdf"
+}

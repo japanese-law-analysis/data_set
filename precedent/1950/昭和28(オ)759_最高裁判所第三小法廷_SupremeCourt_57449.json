@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 4,
+    "day": 5
+  },
+  "case_number": "昭和28(オ)759",
+  "case_name": "家屋収去、土地明渡請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第9巻4号439頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 6,
+    "day": 27
+  },
+  "gist": "一　控訴審において初めて提出した攻撃防禦の方法と民訴第一三九条の適用\n二　借地法第一〇条による建物買取請求権行使の効果",
+  "case_gist": "一　控訴審において初めて提出した攻撃防禦の方法が、民訴第一三九条にいわゆる時機に後れたるや否やは、第一審以来の訴訟手続の経過を通観してこれを判断すべく、時機に後れた攻撃防禦の方法であつても、当事者に故意または重大な過失が存し、かつ訴訟の完結を遅延せしめたる場合でなければ、同条によりこれを却下し得ないものと解すべきである。\n二　借地法第一〇条による建物買取請求権の行使があるときは、これと同時に目的家屋の所有権は、当然土地賃貸人に移転するものと解すべきである。",
+  "ref_law": "民訴法139条，借地法10条",
+  "lawsuit_id": "57449",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57449",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/449/057449_hanrei.pdf"
+}

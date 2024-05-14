@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 11,
+    "day": 16
+  },
+  "case_number": "昭和24(オ)292",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第4巻11号582頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和24(ネ)31",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 9,
+    "day": 19
+  },
+  "gist": "借家法第一条ノ二の正当事由の有無の判断に参酌し得べき借家人の同居者の居住",
+  "case_gist": "ひとり身の借家人が先夫の子及びその妻子三名を同居させている場合先夫の子をして借家人の主な営業を担当させているときは、賃貸人の解約申入につき借家法第一条ノ二にいわゆる正当の有無の判断に当り、借家人の家屋使用利益を衡量するにつき右同居者の居住を参酌することを妨げない。",
+  "ref_law": "借家法1条ノ2",
+  "lawsuit_id": "55961",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55961",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/961/055961_hanrei.pdf"
+}

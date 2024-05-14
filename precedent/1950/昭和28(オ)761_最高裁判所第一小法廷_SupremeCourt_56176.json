@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 10,
+    "day": 7
+  },
+  "case_number": "昭和28(オ)761",
+  "case_name": "借地權確認、家屋収去、土地明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第8巻10号1816頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 6,
+    "day": 17
+  },
+  "gist": "一　賃借権の共同相続人の一人が賃貸人の承諾なく他の共同相続人から共有持分の譲渡を受けた場合と民法第六一二条\n二　戦時罹災土地物件令第三条の適用を受ける土地賃借権と妨害排除請求の許否",
+  "case_gist": "一　土地の賃借権の共同相続人の一人が賃貸人の承諾なく他の共同相続人からその賃借権の共有持分を譲り受けても、賃貸人は、民法第六一二条により賃貸借契約を解除することはできないものと解するのが相当である。\n二　戦時罹災土地物件令第三条の適用を受ける土地賃借権を有する者は、罹災後当該土地を所有者から賃借しこれに建物を建ててその占有をなす第三者に対し、直接その建物の収去および土地の明渡を請求することができる。",
+  "ref_law": "民法612条，民法601条，民法第3編第1章第2節，戦時罹災土地物件令3条，戦時罹災土地物件令6条",
+  "lawsuit_id": "56176",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56176",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/176/056176_hanrei.pdf"
+}

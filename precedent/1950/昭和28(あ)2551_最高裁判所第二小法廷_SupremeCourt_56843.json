@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 12,
+    "day": 18
+  },
+  "case_number": "昭和28(あ)2551",
+  "case_name": "窃盗、食糧管理法違反、賍物故買、同運搬、強盗未遂、住居侵入",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第8巻13号2158頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 2,
+    "day": 26
+  },
+  "gist": "弁護権の不法制限とならない一事例",
+  "case_gist": "控訴審において公判期日を指定告知した後、弁護人から他の裁判所の公判があるため差支がある旨の証明書を添えてその公判期日の変更申請があつても、右期日は裁判所において弁護人の再三の変更申請を容れて指定したものであり、当該期日には国選弁護人により右私選弁護人提出の控訴趣意書に基き弁論し、その内容も量刑不当および多数の犯罪事実中の一部認定事実の誤記を指して事実誤認を主張するものにすぎないようなものである場合には、右変更申請を却下しても弁護権を不法に制限したものということはできない。",
+  "ref_law": "刑訴法276条1項，刑訴規則179条ノ4",
+  "lawsuit_id": "56843",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56843",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/843/056843_hanrei.pdf"
+}

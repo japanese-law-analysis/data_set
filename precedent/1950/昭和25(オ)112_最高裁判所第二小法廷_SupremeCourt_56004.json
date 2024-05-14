@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 11,
+    "day": 30
+  },
+  "case_number": "昭和25(オ)112",
+  "case_name": "農地買収価格変更請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第5巻12号759頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 4,
+    "day": 10
+  },
+  "gist": "一　自作農創設特別措置法第一四条と憲法第三二条\n二　買収令書の誤記訂正と自作農創設特別措置法第一四条の訴の出訴期間",
+  "case_gist": "一　自作農創設特別措置法第一四条は、憲法第三二条に違反しない。\n二　買収令書の交付後誤記を訂正しても、誤記が土地そのものの同一性の認識を害する程度でなく、かつ、請求原因が誤記訂正によつて生じたものでないときは、自作農創設特別措置法第一四条の出訴期間は誤記訂正のときから計算すべきものではない。",
+  "ref_law": "自作農創設特別措置法14条，憲法32条",
+  "lawsuit_id": "56004",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56004",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/004/056004_hanrei.pdf"
+}

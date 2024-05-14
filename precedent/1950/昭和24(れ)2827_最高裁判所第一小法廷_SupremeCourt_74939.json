@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 5,
+    "day": 4
+  },
+  "case_number": "昭和24(れ)2827",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第17号521頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 9,
+    "day": 29
+  },
+  "gist": "少年法第五〇條は訓示的規定である",
+  "case_gist": "少年法第五〇條の規定は、なるべく同九條の趣旨に從つて審理を行うべき旨の訓示的規定である。",
+  "ref_law": "少年法50條，少年9條",
+  "lawsuit_id": "74939",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74939",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/939/074939_hanrei.pdf"
+}

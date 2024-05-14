@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 4,
+    "day": 23
+  },
+  "case_number": "昭和24(オ)264",
+  "case_name": "小作地引上許可指令取消請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第8号763頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 9,
+    "day": 21
+  },
+  "lawsuit_id": "76223",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=76223",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/223/076223_hanrei.pdf"
+}

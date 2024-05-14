@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 7,
+    "day": 29
+  },
+  "case_number": "昭和30(し)32",
+  "case_name": "貸金業等の取締に関する法律違反等被告事件につきなした裁判官忌避申立却下決定に対する即時抗告棄却決定に対する特別抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第107号1211頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 6,
+    "day": 14
+  },
+  "lawsuit_id": "75906",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=75906",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/906/075906_hanrei.pdf"
+}

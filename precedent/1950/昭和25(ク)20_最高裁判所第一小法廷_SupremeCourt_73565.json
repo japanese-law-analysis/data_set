@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 6,
+    "day": 15
+  },
+  "case_number": "昭和25(ク)20",
+  "case_name": "人身保護請求事件につきなした決定に対する抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "却下",
+  "article_info": "集民　第3号397頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_case_number": "昭和25(人ナ)1",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 2,
+    "day": 20
+  },
+  "lawsuit_id": "73565",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=73565",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/565/073565_hanrei.pdf"
+}

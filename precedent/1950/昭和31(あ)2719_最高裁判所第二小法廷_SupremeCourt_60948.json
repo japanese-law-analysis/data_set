@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 12,
+    "day": 7
+  },
+  "case_number": "昭和31(あ)2719",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第116号29頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 5,
+    "day": 28
+  },
+  "gist": "刑訴法第三二一条第一項第二号の書面の証拠調の請求と信用すべき特別の情況立証の要否",
+  "case_gist": "刑訴第三二一条第一項第二号但書の「特別の情況」の存否に関する調査は常に右書面の証拠調前にしなければならないものではなくその時期方法等については事実審裁判所の裁量にまかされていると解するを相当とする、従つて裁判所が右書面の証拠調をするには必ずしもその請求者の右の点に関する立証にまつことを要しないものというべきである。",
+  "ref_law": "刑訴法321条1項2号",
+  "lawsuit_id": "60948",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60948",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/948/060948_hanrei.pdf"
+}

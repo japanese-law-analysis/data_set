@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 5,
+    "day": 22
+  },
+  "case_number": "昭和26(あ)476",
+  "case_name": "強盗未遂、銃砲等所持禁止令違反、窃盗",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第64号683頁",
+  "original_court_name": "広島高等裁判所\n        　松江支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 12,
+    "day": 13
+  },
+  "lawsuit_id": "64710",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64710",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/710/064710_hanrei.pdf"
+}

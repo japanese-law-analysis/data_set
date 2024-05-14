@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 11,
+    "day": 15
+  },
+  "case_number": "昭和26(れ)43",
+  "case_name": "収賄、農地調整法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第5巻12号2368頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 10,
+    "day": 24
+  },
+  "gist": "農具小屋建築を目的とする畑地の一部の借地料と農地調整法第九条の二にいわゆる「小作料」",
+  "case_gist": "畑二反七畝余の内十坪の土地を農具小屋建築の目的で借り受けた場合、他に特別の事情のないかぎり、右土地は耕作の目的で賃借された農地とはいえないから、その借地料は、農地調整法第九条の二にいわゆる「小作料」にあたらない。",
+  "ref_law": "農地調整法（昭和21、10、21、法律42号）9条の2第1項，農地調整法2条",
+  "lawsuit_id": "55651",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55651",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/651/055651_hanrei.pdf"
+}

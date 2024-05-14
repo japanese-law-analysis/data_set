@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 5,
+    "day": 16
+  },
+  "case_number": "昭和32(オ)899",
+  "case_name": "所有権移転登記並びに引渡請求手続請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第31号647頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 6,
+    "day": 29
+  },
+  "gist": "雇を補助機関としてなした交付送達および送達証書の適否",
+  "case_gist": "民訴第六三条により裁判所書記官がなす交付送達およびその送達証書の作成は、事実上補助機関たる雇を用いてこれをしても妨げない",
+  "lawsuit_id": "69871",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=69871",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/871/069871_hanrei.pdf"
+}

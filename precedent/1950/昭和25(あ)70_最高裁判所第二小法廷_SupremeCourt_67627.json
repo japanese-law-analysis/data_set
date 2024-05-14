@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 5,
+    "day": 18
+  },
+  "case_number": "昭和25(あ)70",
+  "case_name": "恐喝、建造物損壊",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第46号111頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 11,
+    "day": 2
+  },
+  "gist": "量刑不当の控訴趣意中その一理由に犯行が飲酒酩酊によるものであるとの主張と刑訴法第三三五条第二項",
+  "case_gist": "記録によれば、原審において弁護人は控訴趣意として第一審判決の量刑不当を主張するに当り、その一理由に犯行が飲酒酩酊の上の行為であつたという事実を述べていることが認められる。この趣旨は、控訴審において右の酩酊の点を斟酌して科刑を減軽せんことを求める事情を述べたに過ぎないものと解せられるのであつて、所論の如く心身喪失または心身耗弱の主張であるとは認められないのであるから、この点につき原判決が判断を示していないことは当然であつて、刑訴法第三三五条二項に違反せず、論旨は理由がない。",
+  "ref_law": "刑法39条，刑訴法335条2項",
+  "lawsuit_id": "67627",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=67627",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/627/067627_hanrei.pdf"
+}

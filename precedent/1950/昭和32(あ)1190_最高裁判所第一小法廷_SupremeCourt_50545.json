@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 5,
+    "day": 24
+  },
+  "case_number": "昭和32(あ)1190",
+  "case_name": "食糧管理法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第12巻8号1585頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 1,
+    "day": 29
+  },
+  "gist": "いわゆる黄変米と食糧管理法の適用",
+  "case_gist": "本件ビルマ粳精米のごとく、水洗、再搗精の上高熱処理する菓子（例、おこし、せんべい、掛物等）の製造原料に供せられうる米穀は、それがいわゆる黄変米として農林大臣より主食として配給することが不適当と認められたとしても、これをもつて直ちに食糧管理法の適用より除外されるべきものと認むべき根拠とはならない",
+  "ref_law": "食糧管理法2条",
+  "lawsuit_id": "50545",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50545",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/545/050545_hanrei.pdf"
+}

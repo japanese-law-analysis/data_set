@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 11,
+    "day": 9
+  },
+  "case_number": "昭和25(れ)1204",
+  "case_name": "強盗傷人",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第4巻11号2244頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 4,
+    "day": 28
+  },
+  "gist": "短期のある有期懲役刑の減軽",
+  "case_gist": "原判決は、その法律適用に関する説明によれば、刑法第二四〇条前段所定の法定刑中有期懲役刑を選擇し、その法定の有期懲役刑を同法第六八条第三号に従い酌量減軽し、懲役三年六月以上同七年六月の刑期範囲内において被告人を懲役五年に処したものであること明白であるそして同条号に基く減軽はその長期と短期とを各二分の一に減ずるものであるから、原判決の擬律には何等の錯誤も存しない。",
+  "ref_law": "刑法68条3号，刑法240条",
+  "lawsuit_id": "55557",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55557",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/557/055557_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 9,
+    "day": 28
+  },
+  "case_number": "昭和30(オ)81",
+  "case_name": "人身保護請求",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第9巻10号1453頁",
+  "original_court_name": "横浜地方裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 12,
+    "day": 25
+  },
+  "gist": "人身保護請求の要件",
+  "case_gist": "人身保護法により救済を請求することができるのは、被拘束者の拘束または拘束に関する裁判もしくは処分が権限なしにされ、または法令の定める方式もしくは手続に著しく違反していることが顕著な場合に限る。",
+  "ref_law": "人身保護法2条，同規則3条",
+  "lawsuit_id": "56203",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56203",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/203/056203_hanrei.pdf"
+}

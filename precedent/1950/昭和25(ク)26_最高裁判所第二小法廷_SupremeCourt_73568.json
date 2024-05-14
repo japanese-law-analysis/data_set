@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 5,
+    "day": 8
+  },
+  "case_number": "昭和25(ク)26",
+  "case_name": "強制執行停止決定申請事件につきなした決定に対する再抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "却下",
+  "article_info": "集民　第3号305頁",
+  "original_court_name": "最高裁判所",
+  "original_case_number": "昭和25(マ)9",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 3,
+    "day": 15
+  },
+  "lawsuit_id": "73568",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=73568",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/568/073568_hanrei.pdf"
+}

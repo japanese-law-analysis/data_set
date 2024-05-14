@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 3,
+    "day": 27
+  },
+  "case_number": "昭和24新(つ)11",
+  "case_name": "裁判所の処分に対する異議申立却下決定に対する抗告申立",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第4巻3号420頁",
+  "original_court_name": "佐賀地方裁判所\n        　伊万里支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 9,
+    "day": 2
+  },
+  "gist": "辯護人のした憲法違反を理由とする公訴棄却の申立に對する却下決定と却下理由明示の要否",
+  "case_gist": "辯護人が「訴訟の途中に於て本件公訴の提起が合憲性を有するや否やに付重大なる疑問を生じた」からといつて公訴棄却の申立をしても裁判所が事案を審理するに當り、これに關する辯護人の申立を却下するに際し、公訴提起の憲法適否につき理由を示さなければならぬことは憲法上も訴訟法上も要請されてはないのである。",
+  "ref_law": "刑訴法338條，刑訴法44條，憲法78條3項",
+  "lawsuit_id": "56736",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56736",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/736/056736_hanrei.pdf"
+}

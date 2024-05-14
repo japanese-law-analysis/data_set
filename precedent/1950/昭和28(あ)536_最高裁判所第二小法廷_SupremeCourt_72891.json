@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 8,
+    "day": 20
+  },
+  "case_number": "昭和28(あ)536",
+  "case_name": "恐喝未遂、銃砲等所持禁止令違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第98号131頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 10,
+    "day": 25
+  },
+  "gist": "憲法第三七条第一項に違反しない一事例  ―黙秘権告知前の若干の質問、弁護人申請証拠からの取調開始―",
+  "case_gist": "所論は、第一審裁判所が被告人に対し、黙秘権を告げる前に、学校はどこまで行つたか等と尋問したこと、並びに証拠調に際し弁護人申請にかゝる証人からその取り調べを開始したことを捉え予断をもつて審理に当つたものであるから右は憲法三七条一項にいわゆる公平な裁判所の裁判とはいえないというのであるが、一審裁判所の右措置が何等違法でないことは原審の判示するところによつて明らかであり、これを目して予断であるとなす主張は独自の見解に過ぎないのであるからこれを理由とする違憲の主張はその前提を欠くものである。",
+  "ref_law": "憲法37条1項，刑訴法291条2項，刑訴法311条，刑訴規則199条",
+  "lawsuit_id": "72891",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=72891",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/891/072891_hanrei.pdf"
+}

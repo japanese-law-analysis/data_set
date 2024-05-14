@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 7,
+    "day": 2
+  },
+  "case_number": "昭和33(オ)27",
+  "case_name": "所有権移転登記手続請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第13巻7号875頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 9,
+    "day": 25
+  },
+  "gist": "換地予定地指定前の一部譲渡を原因として従前の土地の分筆並びに所有権移転登記手続を求める訴と訴の利益。",
+  "case_gist": "従前の土地の一部を譲り受けた後、所有権移転登記未了の間に、特別都市計画法第一三条による換地予定地の指定があつたからといつて、その後右譲渡部分につき分筆並びに所有権移転登記手続を訴求すべき法律上の利益がないとはいえない。",
+  "ref_law": "特別都市計画法（昭和21年法律19号）13条，特別都市計画法（昭和21年法律19号）14条，民訴法第2編第1章（223条以下）",
+  "lawsuit_id": "56226",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56226",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/226/056226_hanrei.pdf"
+}

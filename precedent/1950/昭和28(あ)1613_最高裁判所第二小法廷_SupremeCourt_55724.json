@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 8,
+    "day": 20
+  },
+  "case_number": "昭和28(あ)1613",
+  "case_name": "昭和二二年政令第一六五号違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第8巻8号1299頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 10,
+    "day": 20
+  },
+  "gist": "一　被疑者の供述調書に供述拒否権の告知の記載がないときは右告知がなかつたことになるか\n二　捜査機関の作成する被疑者の供述調書には刑訴規則第三九条が適用されるか\n三　証拠能力ある書面についてもこれを証拠とすることの同意を確めることを要するか",
+  "case_gist": "一　被疑者の供述調書に供述拒否権を告知した旨の記載がないからといつて、直ちにこの告知がなかつたとはいえない。\n二　捜査機関の作成する被疑者の供述調書は刑訴第一九八条の適用を受け、刑訴規則第三九条の適用は受けない。\n三　法律条証拠能力のある書面については、これを証拠とすることに同意するかどうかを確める必要はない。",
+  "ref_law": "刑訴法198条，刑訴法326条，刑訴規則39条",
+  "lawsuit_id": "55724",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55724",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/724/055724_hanrei.pdf"
+}

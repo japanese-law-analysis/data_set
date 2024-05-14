@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 5,
+    "day": 4
+  },
+  "case_number": "昭和25(れ)1979",
+  "case_name": "傷害致死、死体遺棄",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第45号155頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 10,
+    "day": 14
+  },
+  "gist": "鑑定書の死因に関する記載の証拠力",
+  "case_gist": "所論指摘の鑑定書の死因に関する記載は単なる空な想像を記載したものではなく、学識経験者がそれにより実験した事実に基ずき推測した事項を記載したもの（旧刑訴第二一九条、第二二八条第二〇六条参照）であることは右後の鑑定書の記載に照し極めて明瞭であるから、これを証拠に供した原\n判決には何等所論のような違法はないのである。",
+  "ref_law": "旧刑訴法219条，旧刑訴法206条，旧刑訴法336条",
+  "lawsuit_id": "67953",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=67953",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/953/067953_hanrei.pdf"
+}

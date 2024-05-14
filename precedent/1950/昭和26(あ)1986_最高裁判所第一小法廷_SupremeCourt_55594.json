@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 1,
+    "day": 14
+  },
+  "case_number": "昭和26(あ)1986",
+  "case_name": "関税法違反、外国人登録令違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第8巻1号1頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 3,
+    "day": 19
+  },
+  "gist": "二重起訴にあたらない一事例",
+  "case_gist": "第一審において訴因の追加がなされたところ、控訴審において右は公訴事実の同一性の範囲外の事実にかかり違法の手続であるとして第一審判決が破棄差戻された後、第一審においてその事実につき改めて追起訴がなされたとしても、同一の事実につき二重の起訴があつたものとはいえない。註。関税法違反（密輸入）の公訴事実に対し差戻後の第一審において同一船舶による被告人本人の密入国の事実が追起訴されたもの。",
+  "ref_law": "憲法39条，刑訴法312条1項，刑訴法338条3号",
+  "lawsuit_id": "55594",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55594",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/594/055594_hanrei.pdf"
+}

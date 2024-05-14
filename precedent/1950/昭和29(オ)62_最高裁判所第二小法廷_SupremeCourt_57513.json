@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 3,
+    "day": 30
+  },
+  "case_number": "昭和29(オ)62",
+  "case_name": "和解無効確認、土地引渡、同反訴請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第10巻3号242頁",
+  "original_court_name": "仙台高等裁判所\n        　秋田支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 11,
+    "day": 5
+  },
+  "gist": "和解調書の解釈",
+  "case_gist": "裁判上の和解の有効無効は、調書の文言のみに拘泥せず、一般法律行為の解釈の基準に従つてこれを判定すべきである。",
+  "ref_law": "民法第1編第4章第1節（90条の前），民法第1編第4章第1節695条，民訴法203条",
+  "lawsuit_id": "57513",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57513",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/513/057513_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 9,
+    "day": 19
+  },
+  "case_number": "昭和25(あ)1417",
+  "case_name": "昭和二二年勅令第一号違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第4巻9号1706頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 5,
+    "day": 23
+  },
+  "gist": "刑訴法第四一一條の合憲性（第三七條）と同條を上告申立の理由としなかつたことは憲法第八一條に違反するか",
+  "case_gist": "上告審に如何なる事項を以つて上告申立の理由とするか、又職權調査の範圍を如何に定めるかは立法上の問題であり、憲法第八一條の外には何等これを制限した規定は存しないのであるから、刑事訴訟法がその第四〇五條各號に規定する事由だけを上告申立の理由とすることを許し、同法第四一一條に規定する各事由を上告審の職權による破棄事由としながら、これを當事者からの上告申立の理由とすることを許さなかつたからといつて、憲法第八一條に牴觸するものではないので、同法第四一一條が憲法第三七條若しくはその精神に違反するものということはできない。",
+  "ref_law": "刑訴法411條，憲法37條，憲法81條",
+  "lawsuit_id": "54382",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54382",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/382/054382_hanrei.pdf"
+}

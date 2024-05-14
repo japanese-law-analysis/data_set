@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 3,
+    "day": 20
+  },
+  "case_number": "昭和26(あ)1989",
+  "case_name": "食糧管理法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第76号473頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 3,
+    "day": 30
+  },
+  "gist": "控訴審における弁護人の選任の時期と憲法第三七条第三項",
+  "case_gist": "本件記録によると原審は被告人に対し控訴趣意書提出最終日を昭和二五年一〇月一四日と定めて通知し、被告人は同年一〇月九日自ら作成した控訴趣意書を提出し、原審は昭和二六年三月一二日弁護人を国選し、右国選弁護人は同日の公判期日において異議なく被告人の控訴趣意書に基き陳述し、弁論を終結していること及び原審においては弁護人を選任し得る旨の告知をしなかつたことが判るのであるが、原審における右手続が憲法三七条三項に違反するものではない。",
+  "ref_law": "憲法37条3項，刑訴法289条，刑訴規則178条，刑訴規則250条",
+  "lawsuit_id": "68136",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=68136",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/136/068136_hanrei.pdf"
+}

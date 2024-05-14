@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 11,
+    "day": 15
+  },
+  "case_number": "昭和30(オ)349",
+  "case_name": "建物収去土地明渡等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第10巻11号1438頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 1,
+    "day": 21
+  },
+  "gist": "代理人の弁護士法第二六条違反行為によつてされた調停の効力",
+  "case_gist": "調停の代理人たる弁護士に弁護士法第二六条違反の行為があつても、それによつてされた調停は当然無効ではない。",
+  "ref_law": "弁護士法26条",
+  "lawsuit_id": "57585",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57585",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/585/057585_hanrei.pdf"
+}

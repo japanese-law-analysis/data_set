@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 5,
+    "day": 26
+  },
+  "case_number": "昭和28(す)225",
+  "case_name": "窃盜被告事件についてなした上告棄却の判決に対する裁判解釈の申立",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第81号433頁",
+  "original_court_name": "最高裁判所",
+  "original_case_number": "昭和28(あ)131",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 4,
+    "day": 21
+  },
+  "lawsuit_id": "69505",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=69505",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/505/069505_hanrei.pdf"
+}

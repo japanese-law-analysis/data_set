@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 6,
+    "day": 5
+  },
+  "case_number": "昭和29(オ)522",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第11巻6号915頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 4,
+    "day": 21
+  },
+  "gist": "弁済を受領しない意思が明確な債権者に口頭の提供をしない場合と債務不履行",
+  "case_gist": "債権者が契約の存在を否定する等、弁済を受領しない意思が明確と認められるときは、債務者は言語上の提供をしなくても債務不履行の責を免れるものと解すべきである。",
+  "ref_law": "民法493条",
+  "lawsuit_id": "57506",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57506",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/506/057506_hanrei.pdf"
+}

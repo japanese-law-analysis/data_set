@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 11,
+    "day": 20
+  },
+  "case_number": "昭和24(オ)138",
+  "case_name": "土地所有権確認等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第6巻10号1015頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 3,
+    "day": 30
+  },
+  "gist": "一　証拠方法を放棄したものと認むべき一事例\n二　代物弁済の予約が公序良俗に反すると認められる一事例",
+  "case_gist": "一　証拠申請につき許否を決定しないで口頭弁論を終結した場合、当事者が異議を述べないときは、その証拠方法を放棄したものと認むべきである。\n二　代物弁済の予約につき、後記事由（第二審判決理由参照）があるときは、公序良俗に反し無効である。",
+  "ref_law": "民訴法258条，民法482条，民法90条",
+  "lawsuit_id": "57128",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57128",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/128/057128_hanrei.pdf"
+}

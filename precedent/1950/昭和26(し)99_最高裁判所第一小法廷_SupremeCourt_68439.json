@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 12,
+    "day": 22
+  },
+  "case_number": "昭和26(し)99",
+  "case_name": "控訴棄却決定に対する異議申立",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第58号719頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 10,
+    "day": 12
+  },
+  "gist": "刑訴規則第二三八条にいわゆる「その遅延がやむを得ない事情に基くものと認めるとき」に該るか否かに関する裁判所の自由裁量と法令違反の主張の当否",
+  "case_gist": "刑訴規則第二三八条は「控訴裁判所は控訴趣意書を差し出すべき期間経過後に控訴趣意書を受け取つた場合においてもその遅延がやむを得ない事情に基くものと認めるときは、これを期間内に差し出されたものとして審判をすることが出来る」と定めて、右の「遅延がやむを得ない事情に基くものと認め」るか否かの判断を控訴裁判所の自由裁量にかゝらしめているのである。即ち本件特別抗告は、裁判所のかゝる自由裁量の範囲に属する処置を違法であると主張するに帰するから、法令違反の主張としてこれを採用することができない。",
+  "ref_law": "刑訴規則238条，刑訴法386条1項，刑訴法386条2項，刑訴法433条",
+  "lawsuit_id": "68439",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=68439",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/439/068439_hanrei.pdf"
+}

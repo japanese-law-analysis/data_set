@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 7,
+    "day": 20
+  },
+  "case_number": "昭和25(れ)822",
+  "case_name": "収賄",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第5巻8号1586頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 4,
+    "day": 5
+  },
+  "gist": "一　賄賂収受罪判示の程度−公務員たる法令上の根拠を示す要否\n二　兵庫県雇と公務員",
+  "case_gist": "一　公務員の賄賂収受罪を判示するに当つては、公務員であることを判断しうる具体的事実を示しその者が職務に関し賄賂を収受した事実を説明すれば足り、公務員たることの資格を認められる法令上の根拠までも示す必要はないのである。（昭和二四年（れ）第八五六号、同二五年二月二八日第三小法廷判決。最高裁判所判例終四巻二号二六八頁参照）\n二　被告人は兵庫県知事より任命された国費支弁の雇であつたことが窺われる。そして、同知事にかかる雇の任命権があつたことは大正十五年六月四日勅令第一四七号地方官々制第五条第八条一行の規定の趣旨に徴し明らかである。されば、原判決は被告人の公務員たる判示に欠くるところはない。",
+  "ref_law": "旧刑訴法360条1項，刑法197条，刑法7条",
+  "lawsuit_id": "55583",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55583",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/583/055583_hanrei.pdf"
+}

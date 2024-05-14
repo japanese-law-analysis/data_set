@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 12,
+    "day": 28
+  },
+  "case_number": "昭和26(れ)617",
+  "case_name": "物価統制令違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第58号1019頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 12,
+    "day": 28
+  },
+  "gist": "犯意の成立と違法の認識",
+  "case_gist": "所論は被告人は当時麻の配給に関する統制が撤廃されたので、価格の統制も廃止になつたものと確信していたから犯意がなかつたと主張するものであるが、仮りに所論のような事実があつたとしても、右は刑法第三八条三項によつて、犯意なしとすることを得ないものであるから論旨は採用しがたい（昭和二三年（れ）二〇二号同年七月十一日大法廷判決、判例集二巻八号、昭和二四年（れ）第二〇〇六年同二六年一月三〇日第三小法廷判決、判例集五巻二号参照）。",
+  "ref_law": "刑法38条3項",
+  "lawsuit_id": "69002",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=69002",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/002/069002_hanrei.pdf"
+}

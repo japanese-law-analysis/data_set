@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 12,
+    "day": 18
+  },
+  "case_number": "昭和25(あ)2068",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第70号721頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 7,
+    "day": 10
+  },
+  "gist": "勾留に際し陳述を聴いた調書が記録にないことは勾留を不適法たらしめるか",
+  "case_gist": "新刑訴においては、逮捕状、勾留状等法律又は規則によつて提出を要する書類を除いて、証拠上必要と認めて当事者が提出した書類の外記録に編綴されないのであるから、勾留に際して陳述を聴いた書面も編綴されていないのがむしろ普通である。されば、この書面が記録に見当らないことを理由とする憲法第三四条違反の主張は、その前提を欠き採用の限りでない。",
+  "ref_law": "憲法34条，刑訴法62条，刑訴法61条，刑訴法199条，刑訴規則167条3項",
+  "lawsuit_id": "75065",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=75065",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/065/075065_hanrei.pdf"
+}

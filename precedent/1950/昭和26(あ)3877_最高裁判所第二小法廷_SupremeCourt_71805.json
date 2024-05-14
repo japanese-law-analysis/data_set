@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 9,
+    "day": 11
+  },
+  "case_number": "昭和26(あ)3877",
+  "case_name": "賍物故買",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第86号553頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 9,
+    "day": 20
+  },
+  "gist": "刑訴法第二五六条第六項の法意",
+  "case_gist": "一　刑訴二五六条末項はいわゆる起訴状一本主義を規定したに止まるものであつて、裁判官が審理開始前に事件につき予断を生ぜしめる虞のある証拠資料を知り得るその他の場合に、総て審理を許されないものとする趣旨ではない。\n二　註本件は当初の起訴事実の証拠調において一証人は偶々後に追起訴された事実に関し被告人に不利益な供述をなしたところ、その後右事実につき追起訴がなされ、両被告事件は同一裁判官により併合審理されることになつたが、検察官は追起訴事件の最初の公判において右証人尋問の結果を追起訴事実の立証に供しようとした場合に関する。",
+  "ref_law": "刑訴法256条6項",
+  "lawsuit_id": "71805",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=71805",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/805/071805_hanrei.pdf"
+}

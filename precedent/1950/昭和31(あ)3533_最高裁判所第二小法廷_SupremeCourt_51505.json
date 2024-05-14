@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 2,
+    "day": 9
+  },
+  "case_number": "昭和31(あ)3533",
+  "case_name": "賍物牙保",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第13巻1号76頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 9,
+    "day": 4
+  },
+  "gist": "賍物罪の成立と民法第一九二条。",
+  "case_gist": "賍物に対する罪は、被害者が民法の規程によりその物の回復を請求する権利を失わない以上、その物につき成立し得る。",
+  "ref_law": "刑法256条，民法192条，民法193条",
+  "lawsuit_id": "51505",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51505",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/505/051505_hanrei.pdf"
+}

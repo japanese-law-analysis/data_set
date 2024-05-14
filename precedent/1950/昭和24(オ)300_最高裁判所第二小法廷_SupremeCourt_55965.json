@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 7,
+    "day": 6
+  },
+  "case_number": "昭和24(オ)300",
+  "case_name": "家屋明渡並に損害金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第5巻8号464頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 10,
+    "day": 17
+  },
+  "gist": "一　口頭弁論を終た後控訴期間経過後の控訴として控訴却下の判決を言い渡すことの適否\n二　口頭弁論を経て控訴期間経過後の控訴として控訴却下の判決を言い渡す場合と民訴第三八三条第二項の審尋手続の要否",
+  "case_gist": "一　数回の口頭弁論を経た後、控訴期間経過後の控訴として控訴却下の判決を言い渡しても違法でない。\n二　口頭弁論を経て、控訴期間経過後の控訴として控訴却下の判決を言い渡す場合には、民訴第三八三条第二項の審尋手続を要しない。",
+  "ref_law": "民訴法383条，民訴法114条2項",
+  "lawsuit_id": "55965",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55965",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/965/055965_hanrei.pdf"
+}

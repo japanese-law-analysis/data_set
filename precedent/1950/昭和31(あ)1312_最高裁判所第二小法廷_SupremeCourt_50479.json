@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 10,
+    "day": 27
+  },
+  "case_number": "昭和31(あ)1312",
+  "case_name": "関税法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第12巻14号3413頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 3,
+    "day": 20
+  },
+  "gist": "関税法第一一一条第一項違反罪と同法第一一〇条第一項違反罪との関係。",
+  "case_gist": "関税法第一一一条第一項に違反する無許可輸入と同法第一一〇条第一項に違反する関税逋脱とを一個の所為で行うときは、観念的競合と解すべきである。",
+  "ref_law": "関税法111条1項，関税法110条1項，関税法112条1項，関税法112条3項，刑法54条1項，日本国とアメリカ合衆国との間の安全保証条約3条に基く行政協定の実施に伴う関税法等の臨時特例に関する法律11条1項，日本国とアメリカ合衆国との間の安全保証条約3条に基く行政協定の実施に伴う関税法等の臨時特例に関する法律12条1項",
+  "lawsuit_id": "50479",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50479",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/479/050479_hanrei.pdf"
+}

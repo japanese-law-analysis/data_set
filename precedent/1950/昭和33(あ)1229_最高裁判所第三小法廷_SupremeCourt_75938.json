@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 9,
+    "day": 16
+  },
+  "case_number": "昭和33(あ)1229",
+  "case_name": "窃盜",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第127号219頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 5,
+    "day": 14
+  },
+  "gist": "一　証拠の標目の表示程度。\n二　外来語である「ドル」は日本語か。",
+  "case_gist": "一　所論六月四日付の書類は、記録によれば、原判示の照会とこれに対する回答との両者を含む書類の謄本であつて、その謄本作成名義人は憲兵中佐Ａであり、その内容たる回答書の作成名義人はＢであること明白であるから、右書類を表示するのに一審第五回公判調書は、右回答書の作成名義人によつて記載したのに対し、一審判決は右謄本作成名義人によつて記載したものと認めるのを相当とする。従つて所論のように証拠調を経ない虚無の証拠を採証したとの非難は当らない。この点に関する原判決の判断は正当である。\n二　所論の「ドル」なる言葉は、外来した言語ではあるけれども、メートル、グラム等と同様、日本語である。",
+  "ref_law": "刑訴法335条1項，刑訴法177条，刑訴規則44条，裁判所法74条",
+  "lawsuit_id": "75938",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=75938",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/938/075938_hanrei.pdf"
+}

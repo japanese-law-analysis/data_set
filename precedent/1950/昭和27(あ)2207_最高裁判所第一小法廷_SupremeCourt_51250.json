@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 2,
+    "day": 7
+  },
+  "case_number": "昭和27(あ)2207",
+  "case_name": "業務上横領、賍物故買",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第11巻2号522頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 3,
+    "day": 11
+  },
+  "gist": "弁論の再開請求却下手続の瑕疵と判決への影響",
+  "case_gist": "控訴審において、弁護人から示談弁償を理由として弁論再開申請があつたにかかわらず再開を許さなかつたことが、再開の請求を却下するという決定の形式によらなかつた違法があるとしても、それは形式だけの違法であつて、原判決に影響を及ぼさないこと明白である。",
+  "ref_law": "刑訴法313条，刑訴規則214条",
+  "lawsuit_id": "51250",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51250",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/250/051250_hanrei.pdf"
+}

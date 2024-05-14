@@ -1,0 +1,20 @@
+{
+  "trial_type": "HighCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 2,
+    "day": 6
+  },
+  "case_number": "昭和25(う)752",
+  "case_name": "窃盗被告事件",
+  "court_name": "広島高等裁判所岡山支部         　第二部",
+  "result": "棄却",
+  "article_info": "第5巻2号193頁",
+  "gist": "駅職員の監視可能の実力支配区域においても窃盗既遂となる場合",
+  "case_gist": "駅職員の監視可能の線路敷地内であつても、数名の共犯者が夜間のある時期、ある場所を予定し投下貨物を機を逸せず他に持ち去るべく張り込み待機している場合の如きは、その地域が駅ホーム内であるとかその他特別の事情の存しないかぎり、その期間その地域に対する国鉄の実力支配は、犯人等の実力によつて一時的に奪われているものと解せられるから、共犯者の他の一名が進行中の貨物列車からこの予定地に向つてひそかに積載貨物を蹴落したときは、その瞬間その貨物は国鉄の支配を脱し犯人等の実力支配に置かれたものと見ることができる。",
+  "lawsuit_id": "24714",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail3?id=24714",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/714/024714_hanrei.pdf",
+  "contents": "/\n"
+}

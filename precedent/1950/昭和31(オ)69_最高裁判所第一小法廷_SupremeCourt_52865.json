@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 6,
+    "day": 14
+  },
+  "case_number": "昭和31(オ)69",
+  "case_name": "建物収去土地明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第12巻9号1472頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 10,
+    "day": 3
+  },
+  "gist": "借地法にいわゆる普通建物の所有を目的とする借地権と判定された事例",
+  "case_gist": "前賃借人が建物の種類構造および期間を特に定めることなく土地を賃借して、その地上に建坪延一〇〇余坪の木造建物を所有し、その後他から買い受けた堅固な構造の建坪延一七坪余の土蔵を右地上に移築して前記木造建物に従たる建物として所有しているうち、木造建物のみ焼失し、その後間もなく右賃借権と土蔵とを譲り受けた者が、地主との間に従前と同額の賃料の支払を約したとの事実のほか、特段の合意のあつた事実の認められない場合、右譲受にかかる賃借権は、普通建物の所有を目的としたものと認めるのが相当である",
+  "ref_law": "借地法2条，借地法17条1項",
+  "lawsuit_id": "52865",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52865",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/865/052865_hanrei.pdf"
+}

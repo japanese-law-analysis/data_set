@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 1,
+    "day": 31
+  },
+  "case_number": "昭和24(れ)1428",
+  "case_name": "賍物牙保、同寄藏",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第5巻1号129頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 3,
+    "day": 29
+  },
+  "gist": "一　補強証拠は犯罪事実の前部にわたつて存する必要はない\n二　判決裁判所の公判廷の被告人の自白も補強証拠となる",
+  "case_gist": "賍物罪において、本件のように寄蔵、牙保等の客観的事実が他の証拠によつて確認される以上、賍物たるの情を知つていたかどうかに関する事実は、たとえこれを認める直接の証拠は、司法警察官に対する被告人の自白のみであつても、結局、如上各証拠を綜合して、犯罪事実の全部が認められるかぎり、刑訴応急措置第一〇条三項にも憲法法第三八条第三項にも違反するものでないこと、しかして、右客観的事実に対する証拠が被告人の原審公判廷における自白であつてもその理は同一であることは当裁判所の判例の示すところである。（昭和二四年（れ）第八二九号同二五年一一月二九日大法廷判決参照）。",
+  "ref_law": "憲法38条3項，刑訴応急措置法10条3項",
+  "lawsuit_id": "54297",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54297",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/297/054297_hanrei.pdf"
+}

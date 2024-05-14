@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 6,
+    "day": 29
+  },
+  "case_number": "昭和25(れ)1956",
+  "case_name": "収賄",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第48号537頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 10,
+    "day": 6
+  },
+  "gist": "金五千円の賄賂については贈賄者に返還するつもりで預つていたという主張と情況証拠による収受の意思の認定",
+  "case_gist": "又金五千円の賄賂について、被告人はこれを贈賄者に返還するつもりで預つていたものであると弁解するにかかわらず、原判決が被告人がこれを収受したものと認定したのは、その証拠として挙げた被告人の原審公判廷における供述に徴し明らかなとをり、被告人が右五千円の賄賂たることを知りながら検挙直前まで（約三ケ月間）これを所持していた事情から、領得の意思を認めるに足るものとしたことによるものであつて、かかる認定は不当ではない。",
+  "ref_law": "刑法197条，旧刑訴法336条，旧刑訴法360条1項",
+  "lawsuit_id": "71599",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=71599",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/599/071599_hanrei.pdf"
+}

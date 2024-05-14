@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 6,
+    "day": 8
+  },
+  "case_number": "昭和25(あ)368",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第18号139頁",
+  "original_court_name": "福岡高等裁判所\n        　宮崎支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 9,
+    "day": 30
+  },
+  "gist": "被告人の自白と盜難届とによる窃盜罪の認定",
+  "case_gist": "窃盜罪を認定する證據として、被告人が窃盜した旨の自白の外その窃盜が架空のものでなく客観的に存在した旨の盜難届があれば、被告人がその下手人である旨の補強證據がなくとも被告人の自白のみを唯一の證據として有罪としたとはいえないことは當裁判所大法廷判決の趣旨とするところである。",
+  "ref_law": "刑法235條，刑訴法319條2項，刑訴法317條",
+  "lawsuit_id": "67527",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=67527",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/527/067527_hanrei.pdf"
+}

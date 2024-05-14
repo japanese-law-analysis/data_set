@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 12,
+    "day": 12
+  },
+  "case_number": "昭和32(あ)958",
+  "case_name": "詐欺",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第122号559頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 2,
+    "day": 14
+  },
+  "gist": "いわゆる「たたき売り」として「さくら」等を使い商品を販売する行為と正当な業務行為―詐欺罪の成否―",
+  "case_gist": "一　原審が、その認定した被告人らの本件所為をもつて、一般の誇大広告宣伝の類とは趣きを異にし、正当な業務による行為の範囲に属するものとは認め難く、刑法上詐欺罪を構成すべきこと当然であると判断したことは正当である。\n二　（原審認定事実）被告人等は市街の一隅に売場を設け通りがかりの一般人に繊維製品類を売りつけるに当りいわゆる「真打ち」「脇役」「さくら」の部署を定めてそれぞれこれを担当し、広告宣伝を行い、一般人の容易に看破することの出来ない詐術を施用し客をして商品の品質並びに売買値段の決定方法に関する判断を誤らせその錯誤に基いて申し出た値段で買受けるのやむなきに至らしめたもの",
+  "ref_law": "刑法35条，刑法246条",
+  "lawsuit_id": "61094",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61094",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/094/061094_hanrei.pdf"
+}

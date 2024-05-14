@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 2,
+    "day": 22
+  },
+  "case_number": "昭和25(れ)1721",
+  "case_name": "麻薬取締有法違反、麻薬取締規則違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第40号871頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 8,
+    "day": 9
+  },
+  "gist": "阿片末の共同所持に対する刑法第六〇条の適用と総則規定の適用を明示するとの要否",
+  "case_gist": "原判決が所論の刑法第六〇条を明示していないことは所論のとおりであるが、その判示第三として「被告人Ａは阿片末の売却斡旋方依頼を受け更に被告人Ｂに依頼してここに右両被告人は共同して他に売却するためにＣ方に同行持参する迄共同所持し」と例示しているから、原判決は被告人Ｂ相被告人Ａの両名の判示阿片末所持の犯行について刑法第六〇条を適用して右両名は共同正犯であると認定しているものであること明白であるそして刑法総則の規定は本件のようにこれを適用した場合にこれを適用した旨を条文を摘示して明示しないからといつて違法であるとはいえない。",
+  "ref_law": "刑法60条，旧刑訴法360条1項",
+  "lawsuit_id": "71513",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=71513",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/513/071513_hanrei.pdf"
+}

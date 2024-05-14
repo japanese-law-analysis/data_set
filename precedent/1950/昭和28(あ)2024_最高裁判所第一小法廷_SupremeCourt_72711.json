@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 10,
+    "day": 15
+  },
+  "case_number": "昭和28(あ)2024",
+  "case_name": "酒税法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第87号411頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 3,
+    "day": 9
+  },
+  "gist": "アルコールを水にて稀釈して焼酎を製出する行為と酒税法第九条第二項後段",
+  "case_gist": "アルコールを水にて稀釈して焼酎となし得ることは、酒税法九条二項後段によつても認められるところであることはいうまでもない。",
+  "ref_law": "酒税法9条2項後段",
+  "lawsuit_id": "72711",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=72711",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/711/072711_hanrei.pdf"
+}

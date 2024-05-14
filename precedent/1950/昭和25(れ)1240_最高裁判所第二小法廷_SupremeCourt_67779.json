@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 12,
+    "day": 1
+  },
+  "case_number": "昭和25(れ)1240",
+  "case_name": "詐欺",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第37号47頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 4,
+    "day": 24
+  },
+  "gist": "他人名義の転出証明書を利用し虚偽の届出をなし食糧配給公図の係員を欺罔してなした不正受配行為の擬律と食糧緊急措置令第一〇条",
+  "case_gist": "他人名義の転出証明書を利用し、同人等と自己の同居人の如く虚偽の届出をし、自己の主食配給通帳にその旨の登載を受け食糧配給公団の係員に対し、恰も正当な同居人の配給を受けるものの如く装い、係員を欺きその配給を受けたときは詐欺罪が成立し食糧緊急措置令第一〇条本文の適用がないと解すべきである。",
+  "ref_law": "刑法246条1項，食糧緊急措置令10条",
+  "lawsuit_id": "67779",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=67779",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/779/067779_hanrei.pdf"
+}

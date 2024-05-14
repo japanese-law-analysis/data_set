@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 5,
+    "day": 10
+  },
+  "case_number": "昭和29(オ)973",
+  "case_name": "懲戒免職処分取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第11巻5号699頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 9,
+    "day": 21
+  },
+  "gist": "公務員の懲戒処分と懲戒権者の裁量権",
+  "case_gist": "公務員の懲戒権者が懲戒処分を発動するかどうか、懲戒処分のうちいずれの処分を選ぶべきかを決定することは、その処分が全く事実上の根拠に基かないと認められる場合であるか、もしくは社会観念上著しく妥当を欠き懲戒権者に任された裁量権の範囲を超えるものと認められる場合を除き、懲戒権者の裁量に任されているものと解するのが相当である。",
+  "ref_law": "警察法（昭和29年法律第162号による改正前のもの）48条，警察法（昭和29年法律第162号による改正前のもの）50条1項，大阪市警視庁設置等に関する条例10条",
+  "lawsuit_id": "57557",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57557",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/557/057557_hanrei.pdf"
+}

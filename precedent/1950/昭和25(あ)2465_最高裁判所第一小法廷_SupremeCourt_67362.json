@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 6,
+    "day": 7
+  },
+  "case_number": "昭和25(あ)2465",
+  "case_name": "放火",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第47号501頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 7,
+    "day": 19
+  },
+  "gist": "被告人の供述が強制脅迫によりなされた任意のものでない旨の主張は法令違反の主張にあたらない",
+  "case_gist": "本論旨中被告人の司法警察員に対する供述が強制脅迫により為された任意のものでない旨の主張は、結局事実審の裁量に任かされている同供述調書の取捨判断を非難するに帰し法令違反の主張とは認め難い。なぜなら、司法警察員作成の実況見分書の記載が仮りに所論のごとく司法警察員の描いた実体のない空中楼閣であるとしても、被告人の供述がこれと一致符合しているからといつて、それだけの理由でその供述が司法警察員の強制脅迫によるものとはいえないし、その他右被告人の供述が強制脅迫によるものであると認むべき証拠がない。",
+  "ref_law": "憲法38条2項，刑訴法319条，刑訴法405条",
+  "lawsuit_id": "67362",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=67362",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/362/067362_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 10,
+    "day": 14
+  },
+  "case_number": "昭和27(あ)3693",
+  "case_name": "賍物故買",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第87号321頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 4,
+    "day": 11
+  },
+  "gist": "刑法第一九条の二の法意",
+  "case_gist": "刑法第一九条の二は、沒収できないときは沒収物の価額を追徴することを規定したもので、犯人の犯罪による利得額を追徴する趣旨ではない。",
+  "ref_law": "刑法19条の2，刑法256条2項",
+  "lawsuit_id": "72485",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=72485",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/485/072485_hanrei.pdf"
+}

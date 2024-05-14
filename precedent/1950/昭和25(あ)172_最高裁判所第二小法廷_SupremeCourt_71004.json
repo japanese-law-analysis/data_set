@@ -1,0 +1,24 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 9,
+    "day": 14
+  },
+  "case_number": "昭和25(あ)172",
+  "case_name": "国税犯則取締法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集刑　第52号421頁",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 12,
+    "day": 13
+  },
+  "lawsuit_id": "71004",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=71004",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/004/071004_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 2,
+    "day": 14
+  },
+  "case_number": "昭和26(れ)1930",
+  "case_name": "殺人未遂",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第60号687頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 5,
+    "day": 26
+  },
+  "gist": "出頭必ずしも不可能となつていない診断書の提出と旧刑訴第四〇四条の適用",
+  "case_gist": "被告人が適法な召喚を受けながら医師Ａ作成の、出頭必ずしも不可能とはなつていない診断書を提出して出頭しなかつたときは、正当の事由なくして出頭しなかつた場合に該当する。",
+  "ref_law": "旧刑訴法404条，刑訴規則183条，刑訴規則184条1項，刑訴規則施行規則3条",
+  "lawsuit_id": "72025",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=72025",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/025/072025_hanrei.pdf"
+}

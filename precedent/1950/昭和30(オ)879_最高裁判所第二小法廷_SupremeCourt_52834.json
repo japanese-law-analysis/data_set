@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 10,
+    "day": 10
+  },
+  "case_number": "昭和30(オ)879",
+  "case_name": "不動産強制競売申立記入登記嘱託却下決定取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第12巻14号3064頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 8,
+    "day": 15
+  },
+  "gist": "滞納処分による差押登記のある不動産につき強制競売の申立を受けた（滞納処分と強制執行等との手続の調整に関する法律―昭和三二年法律第九四号―施行前）裁判所のとるべき措置。",
+  "case_gist": "滞納処分と強制執行等との手続の調整に関する法律（昭和三二年法律第九四号）施行前においても、滞納処分による差押登記のある不動産につき強制競売の申立を受けた裁判所は、競売開始決定をなし、競売申立の登記簿記入を登記官吏に嘱託し、差押の効力を保持せしめた上で、爾後の手続を停止すべきものである。",
+  "ref_law": "民訴法644条，民訴法645条，民訴法651条",
+  "lawsuit_id": "52834",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52834",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/834/052834_hanrei.pdf"
+}

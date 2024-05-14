@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 1,
+    "day": 28
+  },
+  "case_number": "昭和26(オ)115",
+  "case_name": "物件引取請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第8巻1号265頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 1,
+    "day": 30
+  },
+  "gist": "一　履行遅滞後の履行期の延期とすでに生じた遅滞の効果の消滅の有無\n二　履行遅滞後の履行期の延期の場合におけるすでに生じた遅滞の効果の消滅事由の立証責任",
+  "case_gist": "一　履行遅滞後の履行期の延期は、特段の意思表示がないかぎり、将来に向つて遅滞の責を免れしめるだけで、すでに生じた遅滞の効果まで消滅させるものではない。\n二　履行遅滞後履行期が延期された場合において、すでに生じた遅滞の効果の消滅事由は、債務者に立証責任がある。",
+  "ref_law": "民法412条",
+  "lawsuit_id": "57215",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57215",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/215/057215_hanrei.pdf"
+}

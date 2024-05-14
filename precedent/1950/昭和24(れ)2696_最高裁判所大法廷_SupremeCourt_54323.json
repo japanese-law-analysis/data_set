@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 1,
+    "day": 31
+  },
+  "case_number": "昭和24(れ)2696",
+  "case_name": "重要物資在庫緊急調査令違反",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第5巻1号137頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 9,
+    "day": 29
+  },
+  "gist": "一　昭和二二年政令第六五号重要物資緊急調査令の合憲性\n二　原審に提出された上告趣意を最上告趣意として援用することの可否",
+  "case_gist": "一　昭和二二年政令第六五号重要物資緊急調査令は同二〇年勅令第五号二号ポッダム宣言の受諾に伴い発する命令に関する件に基いて制定されたもので、それが官報による公布の際同政令前文にその旨明示せず罰則を設けても憲法第七三条に違反しない。\n二　なお、論旨末段においては原審に提出された上告趣意書の記載を本件再上告趣意として援用しているが、このような援用は許されないのであるから、この点については別に説明を与えない。",
+  "ref_law": "憲法73条，昭和20年勅令542号ポッダム宣言の受諾に伴い発する命令の件，昭和23年3月27日政令65号9条，昭和23年3月27日政令65号11条，旧刑訴法409条",
+  "lawsuit_id": "54323",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54323",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/323/054323_hanrei.pdf"
+}

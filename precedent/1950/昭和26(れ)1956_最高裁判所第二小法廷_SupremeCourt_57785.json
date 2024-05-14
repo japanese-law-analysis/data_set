@@ -1,0 +1,22 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 2,
+    "day": 29
+  },
+  "case_number": "昭和26(れ)1956",
+  "case_name": "窃盗教唆物価統制令違反同幇助被告事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第6巻2号321頁",
+  "original_court_name": "広島高等裁判所",
+  "gist": "刑訴施行法第三条の二並びに旧刑訴事件の上訴審における審判の特例規則と憲法第一四条",
+  "case_gist": "刑訴施行法第三条の二並びに旧刑訴事件の上訴審における審判の特例規則は憲法第一四条に違反しない。",
+  "ref_law": "旧刑訴事件の上訴審における審判の特例規則，刑訴施行法3条の2，憲法14条",
+  "lawsuit_id": "57785",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57785",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/785/057785_hanrei.pdf"
+}

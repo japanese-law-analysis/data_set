@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 5,
+    "day": 18
+  },
+  "case_number": "昭和25(れ)274",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第17号685頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 11,
+    "day": 30
+  },
+  "gist": "第一審で喚問された證人に對し被告人が審問の機會を與えられた以上第二審で重ねて同證人を喚問しないで右證言を證據にとることは憲法に違反しない",
+  "case_gist": "記録によれば、所論Ａは既に第一審公判廷に證人として喚問され被告人に對し同證人を審問する機會を充分に與えたものであるから、原審において重ねて同人を喚問しなかつたからといつて憲法の條項に反するとはいえない。",
+  "ref_law": "憲法37條2項，刑訴應急措置法12條",
+  "lawsuit_id": "75110",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=75110",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/110/075110_hanrei.pdf"
+}

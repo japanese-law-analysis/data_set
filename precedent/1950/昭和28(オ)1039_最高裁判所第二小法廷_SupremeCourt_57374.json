@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 2,
+    "day": 12
+  },
+  "case_number": "昭和28(オ)1039",
+  "case_name": "村会議員選挙の当選の効力に関する訴願裁決取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第8巻2号483頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 9,
+    "day": 9
+  },
+  "gist": "議員候補者の現存する父の氏名を記載した投票が右候補者に対する有効投票と認められた一事例",
+  "case_gist": "議員候補者の現存する父の氏名を記載した投票であつても、その名が代々襲名され、父は永年病弱で社会的活動を行わず、その候補者は父の名で区長及び農家組合長の職務を行い、父の名は実際上その家の当主である右候補者を指称するものとして取り扱われて来、部落区長の選挙でも父の名を記載した投票は右候補者に対する投票として取り扱われていたような場合は、父の名は右候補者の通称と解すべく、父の名を記載した投票は右候補者に対する有効投票と認めるべきである。",
+  "ref_law": "公職選挙法68条",
+  "lawsuit_id": "57374",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57374",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/374/057374_hanrei.pdf"
+}

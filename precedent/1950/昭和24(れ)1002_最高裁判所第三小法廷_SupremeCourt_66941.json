@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 1,
+    "day": 23
+  },
+  "case_number": "昭和24(れ)1002",
+  "case_name": "物価統制令違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第39号581頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 2,
+    "day": 19
+  },
+  "gist": "物価統制令違反の罪において販売価格の当否を決すべき基準時",
+  "case_gist": "しかし物価統制令なるものは、当該時期の経済状態に即応した物価の適正を期し需給関係の円滑をはかり国民経済の運行を確保しようとするものであるから、販売価格の当否は当然に販売当時の指定価格を基準として決すべきであつてその後指定価格の廃止は、犯罪の成否に影響しないことおよび指定価格の変動のあつた場合も同様であることは当裁判所の判例（昭和二三年（れ）第八〇〇号同二五年一〇月一一日大法廷判決指定価格の廃止の場合については、井上裁判官の少数意見がある。）とするところである。",
+  "ref_law": "物価統制令3条，旧刑訴法363条3号",
+  "lawsuit_id": "66941",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66941",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/941/066941_hanrei.pdf"
+}

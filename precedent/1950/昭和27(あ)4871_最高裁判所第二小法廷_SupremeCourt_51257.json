@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 2,
+    "day": 22
+  },
+  "case_number": "昭和27(あ)4871",
+  "case_name": "収賄、贈賄",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第11巻2号946頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 6,
+    "day": 13
+  },
+  "gist": "繊維貿易公団神戸支所棉花課長の職務",
+  "case_gist": "一　繊維貿易公団神戸支所棉花課長は、法令上、神戸港における輸入棉花の引取、保管、輸送、引渡に関する輸入実務取扱業者（貿易庁の定める資格に該当し入札によつて繊維貿易公団のなすべき業務の委託を受ける輸入商社）と連絡し、必要な報告を徴しまたは実務処理の状況につき調査する等これを監督指導する職務を有していたものである。\n二　右輸入実務取扱業者の下請業者（荷役、倉庫、運送等の各業者）を監督指導することは右棉花課長の職務自体には属しないとしてもその職務と密接な関係を有し、同人の職務に関するものと解するのが相当である。",
+  "ref_law": "刑法197条，刑法198条，貿易公団法1条，貿易公団法15条，貿易公団法16条，貿易公団業務方法22条",
+  "lawsuit_id": "51257",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51257",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/257/051257_hanrei.pdf"
+}

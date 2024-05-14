@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 5,
+    "day": 1
+  },
+  "case_number": "昭和31(し)19",
+  "case_name": "正式裁判請求権回復請求並びに正式裁判請求棄却決定に対する特別抗告",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第113号437頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 3,
+    "day": 26
+  },
+  "gist": "刑訴法第三六二条に該当しない一事例",
+  "case_gist": "原決定が「所論主張のような事由により錯誤に陥り正式裁判の申立をしなかつたとしても、単に検察官の一片の言辞を軽信し失格問題は起らないものと解し略式命令の当選に及ぼす効果について何等の調査もしなかつたのは明かに過失たるを免れないから、かような事由は刑訴三六二条に該当しないものといわねばならない」とした判断は正当であり、従つて所論違憲論は前提において失当である。",
+  "ref_law": "刑訴法362条",
+  "lawsuit_id": "61020",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61020",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/020/061020_hanrei.pdf"
+}

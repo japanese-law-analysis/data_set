@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 12,
+    "day": 4
+  },
+  "case_number": "昭和33(オ)831",
+  "case_name": "懲戒処分に対する異議",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第13巻12号1599頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 7,
+    "day": 8
+  },
+  "gist": "弁護士懲戒後の事実と懲戒処分の当否。",
+  "case_gist": "弁護士会または日本弁護士連合会が弁護士を懲戒した後に、懲戒請求者と被請求弁護士との間に示談が成立したとしても、かかる事実は、懲戒処分の当否とは関係がなく、懲戒処分の当否を争う訴訟の裁判に際し斟酌すべき事実ではない。",
+  "ref_law": "弁護士法56条，弁護士法60条，弁護士法62条",
+  "lawsuit_id": "53659",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53659",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/659/053659_hanrei.pdf"
+}

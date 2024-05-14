@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 4,
+    "day": 28
+  },
+  "case_number": "昭和25(オ)358",
+  "case_name": "行政処分取消請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第7巻4号439頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 8,
+    "day": 31
+  },
+  "gist": "一　自作農創設特別措置法第一五条によるいわゆる附帯買収と農地委員会の裁量権\n二　自創法による宅地の買収計画決定の判断の資料と将来の事実の参酌",
+  "case_gist": "一　自作農創設特別措置法第一五条によるいわゆる附帯買収の申請を相当と認めるかどうかは農地委員会の自由な裁量に属しない。\n二　自創法による宅地の買収計画決定ないし買収令書の発行は、その当時の事実に基いて行われることもちろんであるが、同時にその当時明らかに予見のできる将来の事実も、判断の資料たるべきものであつて、本件宅地が将来不要となることが当時明らかに期待できる以上、これを買収すべき理由はなく、原判決の判断は正当である。",
+  "ref_law": "自作農創設特別措置法15条",
+  "lawsuit_id": "57198",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57198",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/198/057198_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 11,
+    "day": 25
+  },
+  "case_number": "昭和24(オ)107",
+  "case_name": "行政処分変更請求",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第7巻11号1273頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 4,
+    "day": 21
+  },
+  "gist": "一　自作農創設特別措置法による買収農地についての農地所有者の選択権の有無\n二　自作農創設特別措置法による買収農地についての農地所有者の選択権の有無と同法の合憲性",
+  "case_gist": "一　自作農創設特別措置法による農地の買収において、買収農地につき農地所有者は選択権を有しない。\n二　自作農創設特別措置法が農地所有者に買収農地の選択権を与えなくても、同法を違憲とすることはできない。",
+  "ref_law": "自作農創設特別措置法3条1項，憲法29条，憲法11条",
+  "lawsuit_id": "57124",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57124",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/124/057124_hanrei.pdf"
+}

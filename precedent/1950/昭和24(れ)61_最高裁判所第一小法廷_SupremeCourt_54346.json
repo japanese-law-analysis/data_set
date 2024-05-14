@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 4,
+    "day": 17
+  },
+  "case_number": "昭和24(れ)61",
+  "case_name": "収賄",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第6巻4号665頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 11,
+    "day": 16
+  },
+  "gist": "税務署直税課係員の職務権限と収賄罪",
+  "case_gist": "税務署直税課第一係所属職員として管内の納税義務者に対する所得税の賦課、減免に関する事務に従う法令上の職務権限を有する者が、その職務に関し納税者から賄賂を収受した以上、たとえその納税者が当該年度において係主管者から分担を命ぜられた区域及び業種外のものであつても、収賄罪が成立する。",
+  "ref_law": "刑法197条",
+  "lawsuit_id": "54346",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54346",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/346/054346_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 12,
+    "day": 25
+  },
+  "case_number": "昭和24(れ)2991",
+  "case_name": "詐欺",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第71号525頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 10,
+    "day": 5
+  },
+  "gist": "包括一罪として起訴され併合罪または連続犯として起訴されたものと認められない一事例",
+  "case_gist": "公判請求書に公訴事実として引用された司法警察官の意見書に犯罪事実として単に被告人が実在しない架空人員をもつて一定の期間、一定の主要食糧を不正に受配した旨の記載があるだけで、犯罪の回数の記載もなければ犯意係属とも記載されておらず、また右公判請求書若しくは意見書には犯罪明細表の添附がないばかりでなく記録添附の始末書、聴取書等にも右意見書に記載されている程度の犯罪事実の記載しかない場合には、右公訴にかかる犯罪は、併合罪または連続犯として起訴されたものではなく包括一罪として起訴されたものと認めるのが相当である。",
+  "ref_law": "旧刑訴法288条，旧刑訴法290条，旧刑訴法291条，刑法45条，改正前の刑法55条",
+  "lawsuit_id": "64390",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64390",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/390/064390_hanrei.pdf"
+}

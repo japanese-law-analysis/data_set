@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 10,
+    "day": 20
+  },
+  "case_number": "昭和24(れ)2898",
+  "case_name": "公務執行妨害",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第4巻10号2115頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 10,
+    "day": 3
+  },
+  "gist": "一　市の雇と公務員\n二　公務執行妨害罪における暴行脅迫と結果発生の要否",
+  "case_gist": "一　市長により任命され市統計課で市の統計事務に従事する市雇は、公務員である。\n二　刑法第九五条の公務執行妨害罪の要件たる暴行脅迫は、これにより現実に職務執行妨害の結果が発生したことを必要とするものではなく、妨害となるべきものであれば足りる。",
+  "ref_law": "刑法7条，刑法95条",
+  "lawsuit_id": "54331",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54331",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/331/054331_hanrei.pdf"
+}

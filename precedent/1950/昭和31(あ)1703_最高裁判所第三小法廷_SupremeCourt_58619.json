@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 6,
+    "day": 24
+  },
+  "case_number": "昭和31(あ)1703",
+  "case_name": "覚せい剤取締法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第126号531頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 3,
+    "day": 27
+  },
+  "gist": "判決に理由を附しなかつたことにならない事例",
+  "case_gist": "原判決が量刑不当の控訴趣意は後記自判の際示されるとしたのは、「懲役六月に処し」といつて一審判決と同じ判決をしたことによつて右控訴趣意の理由のないことが示されるとの趣旨であつて、何ら理由を附しなかつたことにならない",
+  "ref_law": "刑訴法44条",
+  "lawsuit_id": "58619",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58619",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/619/058619_hanrei.pdf"
+}

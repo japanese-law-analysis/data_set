@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 11,
+    "day": 27
+  },
+  "case_number": "昭和26(れ)1826",
+  "case_name": "物価統制令違反、食糧管理法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第5巻13号2457頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 4,
+    "day": 18
+  },
+  "gist": "第一審で懲役三年、罰金三〇万円、第二審で懲役三年但し五年間刑の執行猶予及び罰金四〇万円を言渡した場合と不利益変更に関する判例違反の有無",
+  "case_gist": "本件において、第一審判決は被告人を懲役三年及び罰金三〇万円（罰金不完納の場合における労役場留置期間の言渡を遺脱）に処したのに対し、原控訴審判決は被告人を懲役三年但し五年間刑の執行猶予及び罰金四〇万円（前金不完納の場合に金一、〇〇〇円を一日に換算した期間労役場留置）に処したのであるから、原控訴審判決は少しも前記大審院判決（昭和一五年（れ）第五〇四号同年七月二四日）に反するものではない。",
+  "ref_law": "旧刑訴法403条，刑訴法405条，刑訴法411条",
+  "lawsuit_id": "54655",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54655",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/655/054655_hanrei.pdf"
+}

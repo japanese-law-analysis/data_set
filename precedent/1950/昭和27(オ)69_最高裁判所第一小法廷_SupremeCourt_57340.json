@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 9,
+    "day": 19
+  },
+  "case_number": "昭和27(オ)69",
+  "case_name": "手附金倍額返還請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第11巻9号1565頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 10,
+    "day": 15
+  },
+  "gist": "不動産の譲渡後登記前に同不動産につき処分禁止の仮処分があつたときは、譲渡人の登記義務は履行不能となるか",
+  "case_gist": "不動産の譲渡後登記義務の履行期前に、同不動産につき第三者から処分禁止の仮処分をうけたからといつて、右移転登記義務が履行不能になつたものということはできない。",
+  "ref_law": "民法177条，民法415条，民訴法758条",
+  "lawsuit_id": "57340",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57340",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/340/057340_hanrei.pdf"
+}

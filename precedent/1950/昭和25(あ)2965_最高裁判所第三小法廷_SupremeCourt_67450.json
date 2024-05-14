@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 4,
+    "day": 15
+  },
+  "case_number": "昭和25(あ)2965",
+  "case_name": "殺人",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第63号261頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 9,
+    "day": 22
+  },
+  "gist": "司法警察員作成の被告人の供述調書に証拠能力を認め得る例――該調書の署名押印は同人がなした旨の公判廷の供述を認定資料とした場合",
+  "case_gist": "原判決が司法警察員作成の被告人の供述調書中の署名押印は自分がしたものに相違ない旨の被告人の第一審公判廷の供述を以てその供述内容が強制、脅迫によるものでないと認定するための一資料としても経験則に違背するものとはいえない。",
+  "ref_law": "刑訴法322条，刑訴法318条",
+  "lawsuit_id": "67450",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=67450",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/450/067450_hanrei.pdf"
+}

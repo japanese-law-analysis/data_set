@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 6,
+    "day": 13
+  },
+  "case_number": "昭和31(し)14",
+  "case_name": "窃盗、麻薬取締法違反等被告事件につきなした保釈許可決定の抗告棄却決定に対する特別抗告",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "決定",
+  "result": "その他",
+  "article_info": "刑集　第10巻6号847頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 3,
+    "day": 6
+  },
+  "gist": "地方裁判所の一人の裁判官のした保釈許可決定に対する不服の申立を審判すべき裁判所",
+  "case_gist": "地裁の一人の裁判官をもつて構成する裁判所としての保釈許可決定は、刑訴第四二九条にいう「その他の裁判官がした裁判」にはあたらず、これに対する抗告審は高等裁判所である。",
+  "ref_law": "刑訴法97条，刑訴法419条，刑訴法429条1項2号",
+  "lawsuit_id": "51547",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51547",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/547/051547_hanrei.pdf"
+}

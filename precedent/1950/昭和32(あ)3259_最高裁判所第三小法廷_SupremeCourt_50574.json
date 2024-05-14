@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 6,
+    "day": 24
+  },
+  "case_number": "昭和32(あ)3259",
+  "case_name": "強盗殺人、強盗強姦未遂",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第12巻10号2301頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 11,
+    "day": 29
+  },
+  "gist": "強盗強姦未遂と強盗殺人との競合",
+  "case_gist": "婦女を強姦した上所持品を強取しようと決意し、まずその前頸部を扼して失神させ被害者の自転車を隠す等の行為に出で、強姦の点は未遂に終つた後即時犯行の発覚をおそれて殺意を生じ殺害した場合は、刑法第二四〇条後段、第二四一条前段、第二四三条、第五四条第一項前段を適用すべきものである",
+  "ref_law": "刑法240条，刑法241条，刑法243条，刑法54条1項",
+  "lawsuit_id": "50574",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50574",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/574/050574_hanrei.pdf"
+}

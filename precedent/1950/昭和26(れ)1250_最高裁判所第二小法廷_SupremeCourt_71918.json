@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 9,
+    "day": 14
+  },
+  "case_number": "昭和26(れ)1250",
+  "case_name": "昭和二二年政令第一六五号違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第52号725頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 5,
+    "day": 24
+  },
+  "gist": "上告趣意書提出期間経過後、弁護人選任届を提出した場合の上告趣意書の効力",
+  "case_gist": "上告趣意書を差出すべき法廷期間を経過した後に差出された弁護人選任届によつては、その以前に差出された弁護人名義の上告趣意書を追完してその差出を有効とすることができないことは、当裁判所の判例とするところである（昭和二三年（れ）第一二九号、同年六月一二日第二小法廷判決、同年（れ）第四〇二号、同年七月六日第三小法廷決定）。",
+  "ref_law": "旧刑訴法423条",
+  "lawsuit_id": "71918",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=71918",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/918/071918_hanrei.pdf"
+}

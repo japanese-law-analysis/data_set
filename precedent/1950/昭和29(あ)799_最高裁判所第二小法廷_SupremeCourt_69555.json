@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 6,
+    "day": 23
+  },
+  "case_number": "昭和29(あ)799",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第96号479頁",
+  "original_court_name": "福岡高等裁判所\n        　宮崎支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 2,
+    "day": 3
+  },
+  "gist": "証人の供述中の伝聞部分を排除してその余を罪証の用に供したと認められる場合",
+  "case_gist": "所論証人Ａの証言については、同証言中伝聞にわたる部分は、第一審裁判所において排除決定をしていること記録上明らかであるから、第一審判決は、右の部分を除いて同証言を採証したものと解するを相当する。",
+  "ref_law": "刑訴法320条，刑訴法335条1項，刑訴法309条，刑訴規則205条の6",
+  "lawsuit_id": "69555",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=69555",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/555/069555_hanrei.pdf"
+}

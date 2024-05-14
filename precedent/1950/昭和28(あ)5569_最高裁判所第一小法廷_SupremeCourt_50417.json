@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 1,
+    "day": 23
+  },
+  "case_number": "昭和28(あ)5569",
+  "case_name": "暴行、地代家賃統制令違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第12巻1号34頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 11,
+    "day": 17
+  },
+  "gist": "一　訴因の記載が明確でない場合の措置\n二　控訴審が事実の取調をすることなく、第一審の訴訟記録を書面審理しただけで、被告事件につき更に判決をすることは憲法第三九条後段に違反するか",
+  "case_gist": "一　訴因の記載が明確でない場合には、裁判所は、検察官の釈明を求め、検察官がもしこれを明確にしないときにこそ、訴因が特定していないものとして公訴を棄却すべきである。\n二　控訴審が事実の取調をすることなく、第一審の訴訟記録を書面審理しただけで、被告事件につき、更に判決することは憲法第三九条後段に違反しない。",
+  "ref_law": "刑訴法256条，刑訴法338条，刑訴法400条但書，憲法39条",
+  "lawsuit_id": "50417",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50417",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/417/050417_hanrei.pdf"
+}

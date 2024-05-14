@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 11,
+    "day": 18
+  },
+  "case_number": "昭和26(オ)603",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第8巻11号2052頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 7,
+    "day": 9
+  },
+  "gist": "一　手形書替の性質\n二　手形書替後における旧手形の効力\n三　手形書替後における手形金の請求方法\n四　手形行為と民法第九五条の適用",
+  "case_gist": "一　手形の書替は、旧手形を現実に回収して発行する等特別の事情のない限り、単に旧手形債務の支払を延長するためになされるものと解すべきである。\n二　旧手形が新手形に書き替えられても、旧手形は当然に無効となるものではない。\n三　旧手形債務の支払を延長するために手形の書替が行われたときは、新手形の所持人は、新手形のみにて手形金の請求をすることができる。\n四　手形の書替にあたり、旧手形が返還されるものと誤信して新手形を振出したとしても、手形振出の要素に錯誤があるということはできない。",
+  "ref_law": "手形法1条，民法95条",
+  "lawsuit_id": "56069",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56069",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/069/056069_hanrei.pdf"
+}

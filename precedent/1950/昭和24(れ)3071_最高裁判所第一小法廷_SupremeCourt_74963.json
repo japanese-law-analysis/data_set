@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 2,
+    "day": 23
+  },
+  "case_number": "昭和24(れ)3071",
+  "case_name": "強盗、銃砲等所持禁止令違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第16号605頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 7,
+    "day": 11
+  },
+  "gist": "銃砲通所持禁止令第二條後段は必要的没收の規定にあらず",
+  "case_gist": "しかし銃砲等所持禁止令はその第二條後段において、「その所持する鉄砲等は裁判により没收する場合を除いては何人が所有していても行政の處分でこれを没收する」と規定しているに過ぎないのであつて、所論のように裁判によつて没收し得る場合には裁判上必ず没收すべき旨すなわち裁判上の没收義務を定めているものではない。",
+  "ref_law": "銃砲等所持禁止令2條後段，刑法19條",
+  "lawsuit_id": "74963",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74963",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/963/074963_hanrei.pdf"
+}

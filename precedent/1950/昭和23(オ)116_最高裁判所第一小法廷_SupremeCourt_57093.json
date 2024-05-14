@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 12,
+    "day": 18
+  },
+  "case_number": "昭和23(オ)116",
+  "case_name": "離縁請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第6巻11号1190頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 7,
+    "day": 12
+  },
+  "gist": "一　旧民法第八六六条第一号の「虐待」にあたる一事例\n二　旧民法第八六六条と訴提起後に生じた事実を原因として離縁判決をすることの可否",
+  "case_gist": "一　原判決（後記）の確定した事実関係のもとにおいては、上告人（養子）の行為は、旧民法第八六六条第一号の「虐待」にあたるものと解するのが相当である。\n\n二　離縁の訴において、当事者が訴提起後に生じた事実を請求原因に追加し、裁判所が右追加された事実に基き離縁の判決をすることは、旧民法第八六六条の禁ずるところではない。",
+  "ref_law": "旧民法866条1号，旧民法866条，人事訴訟手続法8条（26条）",
+  "lawsuit_id": "57093",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57093",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/093/057093_hanrei.pdf"
+}

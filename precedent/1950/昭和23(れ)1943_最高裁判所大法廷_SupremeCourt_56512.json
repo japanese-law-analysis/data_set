@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 4,
+    "day": 26
+  },
+  "case_number": "昭和23(れ)1943",
+  "case_name": "強盗幇助、窃盗",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第4巻1号697頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 8,
+    "day": 30
+  },
+  "gist": "存在しない事實を前提とする憲法違反の主張",
+  "case_gist": "上告理由として、原審が證據として採用した被告人の公判廷の供述は警察署における取調官の不當な干渉に起因するもので原判決は憲法第三八條第一項及び第二項に違反するとの主張があつた場合に、右の如き不當干渉の事實が認められないときは、かゝる主張はその前提を欠くものであるから、憲法違反の問題を生ずる余地はない。",
+  "ref_law": "憲法38條1項，憲法38條2項",
+  "lawsuit_id": "56512",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56512",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/512/056512_hanrei.pdf"
+}

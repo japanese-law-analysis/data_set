@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 11,
+    "day": 26
+  },
+  "case_number": "昭和33(オ)866",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第13巻12号1573頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 7,
+    "day": 7
+  },
+  "gist": "一　刑事判決における過失の有無の判断と民事判決\n二　慰藉料を請求する父母の一方に過失のある場合と民法第七二二条第二項",
+  "case_gist": "一　自動車運転者が業務上過失致死被告事件の判決で過失を否定された場合でも、不法行為に関する民事判決ではその過失を否定しなければならぬものではない。\n二　幼児の生命を害された慰藉料を請求する父母の一方に、その事故の発生につき監督上の過失があるときは、父母の双方に民法第七二二条第二項の適用があるものと解すべきである。",
+  "ref_law": "民法709条，民法722条2項，民訴法185条",
+  "lawsuit_id": "53662",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53662",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/662/053662_hanrei.pdf"
+}

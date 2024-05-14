@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 12,
+    "day": 28
+  },
+  "case_number": "昭和25(あ)1913",
+  "case_name": "逃走未遂",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第38号1057頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 5,
+    "day": 8
+  },
+  "gist": "逮捕後四七日目、勾留後四五日目、犯行後一六日目の自白と不当に長く抑留若しくは拘禁された後の自白",
+  "case_gist": "原判決が証拠としている被告人の自白は、昭和二五年一月七日の第一審公判における自白で、しかもそれは昭和二四年一二月二三日の犯行に関するものである。そして、記録によると、被告人が逮捕されたのは同年一一月二二日で、勾留されたのは同二四日であるから、右自白は逮捕後四七日目、勾留後四五日目犯行後一六日目のものであつて、本件事案に則して考えると、同自白を以つて不当に長く抑留若しくは拘禁された後の自白ということはできない。",
+  "ref_law": "憲法38条3項，刑訴法319条1項",
+  "lawsuit_id": "67248",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=67248",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/248/067248_hanrei.pdf"
+}

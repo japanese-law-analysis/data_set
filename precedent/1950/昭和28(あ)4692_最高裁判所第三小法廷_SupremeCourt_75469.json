@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 10,
+    "day": 19
+  },
+  "case_number": "昭和28(あ)4692",
+  "case_name": "收賄、詐欺",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第99号195頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 7,
+    "day": 30
+  },
+  "gist": "国税監察官あての被告人の始末書の証拠能力。",
+  "case_gist": "所論被告人の国税監察官Ａ、同Ｂあて始末書は、第一審公判において、被告人がこれを証拠とすることに同意しており、右始末書は被告人自身が作成したものであるから供述拒否権の告知があつた旨の記載がないのは当然である。",
+  "ref_law": "刑訴法322条，刑訴法326条",
+  "lawsuit_id": "75469",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=75469",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/469/075469_hanrei.pdf"
+}

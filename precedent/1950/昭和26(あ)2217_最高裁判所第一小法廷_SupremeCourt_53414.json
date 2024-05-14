@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 10,
+    "day": 23
+  },
+  "case_number": "昭和26(あ)2217",
+  "case_name": "恐喝",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第6巻9号1118頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 4,
+    "day": 19
+  },
+  "gist": "控訴趣意書提出日の通知は控訴の申立をなした原審弁護人にもしなければならないか",
+  "case_gist": "控訴の申立をした原審弁護人には、控訴趣意書最終提出日の通知をする必要はない。",
+  "ref_law": "刑訴法376条，刑訴規則236条1項",
+  "lawsuit_id": "53414",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53414",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/414/053414_hanrei.pdf"
+}

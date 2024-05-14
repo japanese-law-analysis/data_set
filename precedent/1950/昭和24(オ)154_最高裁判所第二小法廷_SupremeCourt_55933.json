@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 12,
+    "day": 1
+  },
+  "case_number": "昭和24(オ)154",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第4巻12号651頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 5,
+    "day": 31
+  },
+  "gist": "判決原本に言渡前他へ転補された裁判官の署名捺印がある場合と民訴第一九一条第三項",
+  "case_gist": "最終口頭弁論に関与した裁判官が、判決言渡期日前他へ転補された場合において、判決原本に同裁判官の署名捺印があるときは、右原本は反証がない限り、右裁判官が転補の辞令を受領した日までに作成されたものと認めるのが相当である。",
+  "ref_law": "民訴法191条3項，民訴法387条",
+  "lawsuit_id": "55933",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55933",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/933/055933_hanrei.pdf"
+}

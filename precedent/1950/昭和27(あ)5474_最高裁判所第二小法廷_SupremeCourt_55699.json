@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 2,
+    "day": 26
+  },
+  "case_number": "昭和27(あ)5474",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第8巻2号198頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 4,
+    "day": 25
+  },
+  "gist": "少年法第二〇条による検察官送致の決定をした裁判官はその刑事事件において職務の執行から除斥されるか",
+  "case_gist": "少年法第二〇条による検察官送致の決定をした裁判官が、後にその刑事事件の審判に関与しても、刑訴第二〇条第七号にいう前審の裁判に関与したものということはできない。",
+  "ref_law": "憲法37条1項，刑訴法20条7号，少年法20条",
+  "lawsuit_id": "55699",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55699",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/699/055699_hanrei.pdf"
+}

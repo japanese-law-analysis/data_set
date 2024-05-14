@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 6,
+    "day": 7
+  },
+  "case_number": "昭和27(あ)5732",
+  "case_name": "食糧管理法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第96号107頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 9,
+    "day": 19
+  },
+  "gist": "食糧管理法施行令第七条及び同法施行規則第四〇条は同法第九条による委任の範囲内に属するか",
+  "case_gist": "食糧管理法九条にいう譲渡その他の処分の中には売買を含むものと解するのが相当であり、従つて同条は政府が本件の如き主要食糧の買受行為を禁圧するため必要な命令をなすことを得る趣旨をも包含するものと解すべきであることは当裁判所の判例とするところである（昭和二六年（あ）四八九六号同二七年一二月一九日第二小法廷判決参照）、そして同法施行令七条及び同法施行規則四〇条が同法九条による委任の範囲内で適法に定められたものと認められるから原判決には所論の法令違反は存しない。",
+  "ref_law": "食糧管理法9条，食糧管理法施行令7条，食糧管理法施行規則40条",
+  "lawsuit_id": "69313",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=69313",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/313/069313_hanrei.pdf"
+}

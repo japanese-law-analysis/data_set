@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 8,
+    "day": 30
+  },
+  "case_number": "昭和27(し)16",
+  "case_name": "上訴権回復請求棄却決定に関する異議申立",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "その他",
+  "article_info": "刑集　第6巻8号1063頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 1,
+    "day": 22
+  },
+  "gist": "大審院によつて既に変更された決定に違反するとの主張と上告理由の適否",
+  "case_gist": "大審院のした決定であつても、大審院のその後の決定で既に変更されている以上、右変更前の決定と相反する判断をしたとの主張は、刑訴第四〇五条第三号の上告理由として不適法である。",
+  "ref_law": "刑訴法405条3号，裁判所構成法49条",
+  "lawsuit_id": "53484",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53484",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/484/053484_hanrei.pdf"
+}

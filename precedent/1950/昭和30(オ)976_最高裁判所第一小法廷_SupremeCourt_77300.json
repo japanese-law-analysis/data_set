@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 10,
+    "day": 24
+  },
+  "case_number": "昭和30(オ)976",
+  "case_name": "売買無効確認等請求再審",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第28号257頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 6,
+    "day": 29
+  },
+  "gist": "民訴法第四二〇条第一項第三号にいわゆる「訴訟代理権の欠缺」の有無につき審理不尽があるとされた一事例",
+  "case_gist": "夫婦両名から訴訟代理の委任を受けたと称する弁護士によつてなされた訴訟が敗訴に確定した後、妻から同人の委任状は夫の偽造にかかるものであると主張して提起された再審の訴において、妻の訴訟代理権の欠缺があつたものと認定するためには、前訴が四年余り継続していた間に、夫婦が同居し且つ正常な夫婦生活を持続していたか否かの争点について、審理検討しなければならない。",
+  "lawsuit_id": "77300",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77300",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/300/077300_hanrei.pdf"
+}

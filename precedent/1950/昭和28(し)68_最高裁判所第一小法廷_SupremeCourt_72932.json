@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 11,
+    "day": 16
+  },
+  "case_number": "昭和28(し)68",
+  "case_name": "詐欺、窃盗被告事件につきなした控訴棄却の決定に対する異議棄却の決定に対する特別抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第88号465頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 8,
+    "day": 19
+  },
+  "lawsuit_id": "72932",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=72932",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/932/072932_hanrei.pdf"
+}

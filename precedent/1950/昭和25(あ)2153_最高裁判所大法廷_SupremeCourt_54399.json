@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 4,
+    "day": 1
+  },
+  "case_number": "昭和25(あ)2153",
+  "case_name": "恐喝未遂、恐喝",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第7巻4号713頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 7,
+    "day": 8
+  },
+  "gist": "一　憲法第三七条第三項前段と刑訴規則第一七八条により裁判所のなす弁護人選任の照会手続\n二　控訴趣意書の提出期限に近接してなされた弁護人選任の請求と憲法第三七条第三項",
+  "case_gist": "一　刑訴規則第一七八条により裁判所のなす弁護人選任の照会手続は、憲法第三七条第三項前段の要請にもとずくものでない。\n二　被告人による弁護人選任の請求がその責に帰すべき事由により控訴趣意書の提出期限に近接していて、期間内に控訴趣意書を提出できるような適当な時期になされなかつた場合には、たとえ裁判所が控訴趣意書の提出期限後に弁護人を選任したとしても、憲法第三七条第三項によつて保障された権利の行使を妨げたものとはいえない。",
+  "ref_law": "憲法37条3項，刑訴法36条，刑訴法272条，刑訴法289条，刑訴規則177条，刑訴規則178条，刑訴規則250条",
+  "lawsuit_id": "54399",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54399",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/399/054399_hanrei.pdf"
+}

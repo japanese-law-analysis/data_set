@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 10,
+    "day": 20
+  },
+  "case_number": "昭和28(オ)1430",
+  "case_name": "株主総会決議取消請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第9巻11号1657頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 12,
+    "day": 2
+  },
+  "gist": "一　株式の譲渡につき名義書換が未了の場合会社はその譲渡を認めることができるか\n二　株主総会決議取消の訴と裁判所の裁量権",
+  "case_gist": "一　商法旧第二〇六条（昭和二五年法律第一六七号による改正前のもの）の施行当時、記名株式の譲渡があつたにかかわらず株主名簿の名義書換が会社の都合でおくれていても、会社が右譲渡を認め譲受人を株主として取り扱うことは妨げないと解するのが相当である。\n二　株主総会決議取消の訴において、当該決議に取消の原因となるべき違法の点があつても、その違法が決議の結果に異動を及ぼすと推測されるような事情が認められない場合には、裁判所は原告の請求を棄却するべきもの解するのが相当である。",
+  "ref_law": "商法旧206条，商法247条，商法旧251条",
+  "lawsuit_id": "57402",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57402",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/402/057402_hanrei.pdf"
+}

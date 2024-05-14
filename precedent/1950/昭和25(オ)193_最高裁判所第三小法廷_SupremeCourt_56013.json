@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 10,
+    "day": 31
+  },
+  "case_number": "昭和25(オ)193",
+  "case_name": "物品引渡請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第4巻10号516頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 6,
+    "day": 1
+  },
+  "gist": "一　民訴第一五二条第四項にいわゆる口頭弁論における最初の期日\n二　民訴第一五二条第四項にいわゆる顕著な事由に当らない一事例\n三　民訴第一三八条は控訴審に適用があるか\n四　民訴第一三八条にいわゆる最初になすべき口頭弁論期日",
+  "case_gist": "一　民訴第一五二条第四項にいわゆる口頭弁論における最初の期日とは、最初に指定された口頭弁論期日を指すものと解すべきである。\n二　「当日代理人において都合悪く出頭できざるにつき」という期日変更申請の事由は、民訴第一五二条第四項にいわゆる顕著な事由に当るものとは認められない。\n\n三　民訴第一三八条は、控訴審にも適用がある。\n\n四　民訴第一三八条が控訴審にも適用がある場合、同条にいわゆる最初の口頭弁論期日とは、控訴審において最初の口頭弁論が行われた期日をいう。",
+  "ref_law": "民訴法152条4項，民訴法152条4項。，民訴法138条",
+  "lawsuit_id": "56013",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56013",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/013/056013_hanrei.pdf"
+}

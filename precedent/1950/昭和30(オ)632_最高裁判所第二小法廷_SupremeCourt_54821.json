@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 5,
+    "day": 9
+  },
+  "case_number": "昭和30(オ)632",
+  "case_name": "抵当権登記抹消手続請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第12巻7号989頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 4,
+    "day": 27
+  },
+  "gist": "被担保債権である現存の債権および条件付債権を現存の貸金債権としてなされた抵当権設定登記の効力",
+  "case_gist": "被担保債権である現存の債権および将来成立すべき条件付債権を、現存の貸金債権と表示してなされた抵当権設定登記であつても、当事者が真実その設定した抵当権を登記する意思で登記手続を終えた以上、これを当然に無効のものと解すべきではない",
+  "ref_law": "不動産登記法117条",
+  "lawsuit_id": "54821",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54821",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/821/054821_hanrei.pdf"
+}

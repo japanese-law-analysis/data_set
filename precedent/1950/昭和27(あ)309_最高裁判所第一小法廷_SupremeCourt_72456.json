@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 2,
+    "day": 25
+  },
+  "case_number": "昭和27(あ)309",
+  "case_name": "麻薬取締法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第92号709頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 11,
+    "day": 9
+  },
+  "gist": "罰則施行前から施行後まで引き続きかつ新旧両法に跨つてなされた麻薬所持に対する適用",
+  "case_gist": "麻薬所得の罪において、一個の所持が罰則施行前より罰則施行後まで引き続きなされかつ新旧両法に跨つてなされたとしても、その一個の所持全体に対して新法を適用して処置すべきものであつて、罰則施行前の部分を分割して無罪の言渡しをなしまたは旧法の部分を分割してこれに対し旧法および刑法第六条をも適用すべきものではない。",
+  "ref_law": "麻薬取締規則42条，麻薬取締規則56条1項1号，旧麻薬取締法3条1項，旧麻薬取締法57条1項，旧麻薬取締法74条，刑訴法335条，刑法6条",
+  "lawsuit_id": "72456",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=72456",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/456/072456_hanrei.pdf"
+}

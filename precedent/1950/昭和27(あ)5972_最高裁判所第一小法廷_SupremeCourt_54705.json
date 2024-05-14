@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 3,
+    "day": 5
+  },
+  "case_number": "昭和27(あ)5972",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第7巻3号510頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 10,
+    "day": 14
+  },
+  "gist": "窃盗教唆が成立する一事例",
+  "case_gist": "牛を盗む方法を教え、盗んだ牛を自分の小屋に入れるよう指示して再三牛を盗んでくるように勧説した者は、被害者が具体的に特定されていなかつたところで、それに基いて正犯が牛を盗んで来たときは、窃盗教唆としての責任を免れない。",
+  "ref_law": "刑法235条，刑法61条",
+  "lawsuit_id": "54705",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54705",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/705/054705_hanrei.pdf"
+}

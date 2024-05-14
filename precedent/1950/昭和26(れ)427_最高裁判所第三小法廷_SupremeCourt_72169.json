@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 7,
+    "day": 17
+  },
+  "case_number": "昭和26(れ)427",
+  "case_name": "窃盗、賍物牙保",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第50号97頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 12,
+    "day": 28
+  },
+  "gist": "不正確な犯罪日時の記載と破棄理由の有無",
+  "case_gist": "原判決が証拠に挙示した被告人の原審公判の供述によれば第一審判決の事実認定の通りである旨を述べている。そして所論の点に対する第一審判決の事実認定によれば、犯罪日時は昭和二三年八月二六日となつているし、また原審が証拠に挙示した被害者Ａの盗難被害届には被害日時は昭和二三年八月二六日となつている。そして記録を精査しても所論犯罪の日時が昭和二三年八月二六日でないと認むべき何等の資料もない等の点に鑑みれば原審では「八月」の二字を書き落したものであると認めるを相当とする。犯罪日時の記載として不正確であるというそしりはまぬかれないが、破棄の理由とするに足りないから論旨は採用できない。",
+  "ref_law": "旧刑訴法360条，旧刑訴法410条20号",
+  "lawsuit_id": "72169",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=72169",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/169/072169_hanrei.pdf"
+}

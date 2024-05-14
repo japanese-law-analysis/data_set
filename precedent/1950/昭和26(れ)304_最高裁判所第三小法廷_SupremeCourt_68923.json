@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 5,
+    "day": 29
+  },
+  "case_number": "昭和26(れ)304",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第46号615頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 11,
+    "day": 30
+  },
+  "gist": "猶予期間内に更に罪を犯したことを量刑上参酌することができるか",
+  "case_gist": "また原判決の言渡のあつた当時は未だ所論執行猶予の期間は経過していなかつたのであつて、従つて、その猶予期間内に更に本件犯罪を犯したことを量刑上参酌することは、決して所論のように不当であるとはいえない。",
+  "ref_law": "刑法26条2項，憲法39条",
+  "lawsuit_id": "68923",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=68923",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/923/068923_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 7,
+    "day": 16
+  },
+  "case_number": "昭和28(あ)5604",
+  "case_name": "騒擾指揮助勢、逮捕監禁致傷、騒擾附和随行、監禁、監禁致傷、傷害",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第8巻7号1169頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 12,
+    "day": 20
+  },
+  "gist": "一　騒擾罪の成立と地方の静謐との関係\n二　訴訟費用の裁判に対する不服申立",
+  "case_gist": "一　騒擾罪は多衆が集合して暴行または脅迫をなすことによつて成立し、その地方の静謐を害することを要件とするものではない。\n二　本案の裁判に対する上告の理由がないときは、控訴費用の裁判に対する不服の申立は不適法である。",
+  "ref_law": "刑法106条，刑訴法181条，刑訴法185条",
+  "lawsuit_id": "56892",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56892",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/892/056892_hanrei.pdf"
+}

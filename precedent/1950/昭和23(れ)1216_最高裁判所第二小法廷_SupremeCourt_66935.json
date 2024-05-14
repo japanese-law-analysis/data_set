@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 8,
+    "day": 17
+  },
+  "case_number": "昭和23(れ)1216",
+  "case_name": "食糧管理法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集刑　第51号935頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 5,
+    "day": 7
+  },
+  "gist": "生産者が政府に売渡すべき米について所定の証印の表示を受けず期日までに所定の倉庫に寄託しなかつた行為の擬律",
+  "case_gist": "米の生産者が政府に売渡すべき米について所定の証印の表示を受けず所定の期日迄に所定の倉庫に寄託しなかつたとの所為については、食糧管理法第三条違反の罪に問擬すべく同第九条違反の罪に問擬すべきではない。",
+  "ref_law": "食糧管理法3条（昭和22年法律247号による改正前のもの），食糧管理法9条，食糧管理法31条，食糧管理法32条，食糧管理法施行規則（農林省令103号による改正前のもの）3条",
+  "lawsuit_id": "66935",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66935",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/935/066935_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 6,
+    "day": 7
+  },
+  "case_number": "昭和25(あ)1333",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第5巻7号1243頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 3,
+    "day": 30
+  },
+  "gist": "被告人が書面の証拠とすることに同意した場合とその供述の任意性調査の要否",
+  "case_gist": "被告人が書面の証拠とすることに同意した場合には、刑訴法第三二五条に従つてその書面に記載された供述の任意性を調査しなければならないものではない。",
+  "ref_law": "刑訴法325条，刑訴法326条",
+  "lawsuit_id": "54377",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54377",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/377/054377_hanrei.pdf"
+}

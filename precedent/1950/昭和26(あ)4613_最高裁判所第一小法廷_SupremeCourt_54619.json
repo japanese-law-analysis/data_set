@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 4,
+    "day": 2
+  },
+  "case_number": "昭和26(あ)4613",
+  "case_name": "詐欺",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第7巻4号750頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 8,
+    "day": 9
+  },
+  "gist": "約定よりも品質の悪い木炭の交付と騙取金額の範囲",
+  "case_gist": "約定よりも品質の悪い木炭の交付を手段として約定の品質の木炭の代金に相当する金員を不可分的に騙取した場合はその金員全額について詐欺罪が成立する。",
+  "ref_law": "刑法246条1項",
+  "lawsuit_id": "54619",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54619",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/619/054619_hanrei.pdf"
+}

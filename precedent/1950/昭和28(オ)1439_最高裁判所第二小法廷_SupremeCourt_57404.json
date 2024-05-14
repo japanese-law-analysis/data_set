@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 5,
+    "day": 28
+  },
+  "case_number": "昭和28(オ)1439",
+  "case_name": "解職請求署名簿一部無効決定取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第8巻5号1014頁",
+  "original_court_name": "青森地方裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 10,
+    "day": 31
+  },
+  "gist": "農業委員会の委員として在職中の者を請求代表者の一人に加えてしゆう集した村長および村会議員解職請求の署名の効力",
+  "case_gist": "農業委員会の委員として在職中の者を請求代表者の一人に加えてしゆう集した村長および村会議員解職請求の署名は、たとえ右の者が直接署名のしゆう集に従事しなかつたとしても、すべて法令の定める成規の手続によらない署名として無効である。",
+  "ref_law": "地方自治法81条，地方自治法80条，地方自治法74条の3第1項1号，地方自治法施行令116条の2，地方自治法施行令113条，地方自治法施行令109条，公職選挙法89条1項但書，公職選挙法89条2項，公職選挙法89条3項",
+  "lawsuit_id": "57404",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57404",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/404/057404_hanrei.pdf"
+}

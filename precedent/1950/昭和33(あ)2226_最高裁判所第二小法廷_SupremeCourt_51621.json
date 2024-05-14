@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 2,
+    "day": 9
+  },
+  "case_number": "昭和33(あ)2226",
+  "case_name": "邸宅侵入、窃盜",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第13巻1号82頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 10,
+    "day": 3
+  },
+  "gist": "一　刑法第四五条後段の法意\n二　確定裁判前に犯した罪が数個あるときの適条。",
+  "case_gist": "一　刑法第四五条後段は、裁判確定前に犯した罪が確定裁判を経た罪と併合罪となり、その後に犯した罪とは併合罪にならない趣旨を規定したものであつて、その処断刑まで定めたものではない。\n二　確定裁判前に犯した罪が数個あつて、同時に審判すべき場合においては、刑法四五条後段の外、その前段を適用して併合罪加重を行うべきである。",
+  "ref_law": "刑法45条",
+  "lawsuit_id": "51621",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51621",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/621/051621_hanrei.pdf"
+}

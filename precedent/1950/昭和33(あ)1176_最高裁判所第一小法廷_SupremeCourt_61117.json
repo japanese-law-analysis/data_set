@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 2,
+    "day": 12
+  },
+  "case_number": "昭和33(あ)1176",
+  "case_name": "覚せい剤取締法違反、同幇助有価証券変造、同行使、詐欺",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第129号125頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 4,
+    "day": 28
+  },
+  "gist": "一　有価証券変造罪の成立する事例\n二　刑訴法第四一一条第一号にあたらない事例\n―有価証券の偽造と変造",
+  "case_gist": "一　行使の目的をもつて有効に成立している他人振出名義の小切手の金額欄の数字をインキ消で抹消した上、ほしいままに同欄に別の金額をあらたにペンで記入したときは、有価証券の偽造罪ではなく、その変造罪が成立する。\n二　有価証券の変造にあたるものと解すべき場合に、第一審判決がこれを有価証券の偽造にあたると判示したとしても、判決を破棄する事由とはならない。",
+  "ref_law": "刑法162条1項，刑訴法380条，刑訴法411条1号",
+  "lawsuit_id": "61117",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61117",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/117/061117_hanrei.pdf"
+}

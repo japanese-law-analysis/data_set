@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 2,
+    "day": 27
+  },
+  "case_number": "昭和25(オ)161",
+  "case_name": "農地調整法第九条第三項の再審議決定に対する不服",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第5巻3号127頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 3,
+    "day": 31
+  },
+  "gist": "行政処分について法令に訴願を許した規定のない場合に処分行政庁に再審議を申請したときの行政処分の取消変更を求める訴の出訴期間",
+  "case_gist": "行政処分について法令に訴願を許した規定のない場合に、処分行政庁に再審議を申請し行政庁が審議の結果を通知したからといつて、その行政処分の取消又は変更を求める訴の出訴期間が、行政事件訴訟特例法第五条第四項によつて伸長されることはない。",
+  "ref_law": "行政事件訴訟特例法5条1項，行政事件訴訟特例法5条4項",
+  "lawsuit_id": "56011",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56011",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/011/056011_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 2,
+    "day": 27
+  },
+  "case_number": "昭和32(あ)2014",
+  "case_name": "暴力行為等処罰ニ関スル法律違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第12巻2号332頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 5,
+    "day": 29
+  },
+  "gist": "憲法第二八条の団体交渉権の行使にあたらない一事例",
+  "case_gist": "本件Ａ労働組合ａ分会と日立職業安定所ａ分室との間における就労斡旋の際の職場の配置転換および全員就労についての交渉のごときものは、憲法第二八条の保障する団体交渉権にあたるものとはいえない。",
+  "ref_law": "憲法28条",
+  "lawsuit_id": "50552",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50552",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/552/050552_hanrei.pdf"
+}
