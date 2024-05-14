@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 12,
+    "day": 23
+  },
+  "case_number": "昭和28(オ)746",
+  "case_name": "宅地建物買収計画取消請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第8巻12号2245頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 4,
+    "day": 25
+  },
+  "gist": "建物の賃借権に附随して使用収益を認められた建物敷地といわゆる附帯買収の許否",
+  "case_gist": "建物の賃借権に附随して使用収益を認められた建物敷地は、自作農創設特別措置法第一五条第一項第二号により買収することができる。",
+  "ref_law": "自作農創設特別措置法15条",
+  "lawsuit_id": "56175",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56175",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/175/056175_hanrei.pdf"
+}

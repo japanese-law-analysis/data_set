@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 7,
+    "day": 27
+  },
+  "case_number": "昭和34(オ)61",
+  "case_name": "抵当権設定登記手続請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第14巻10号1926頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 10,
+    "day": 13
+  },
+  "gist": "抵当権の仮登記ある不動産の所有権移転と右仮登記の本登記義務者。",
+  "case_gist": "抵当権の仮登記ある不動産の所有権が第三者に移転したときは、仮登記権利者は第三者に対し直接に抵当権設定本登記手続を請求することができる。",
+  "ref_law": "民法369条，不動産登記法7条，不動産登記法26条",
+  "lawsuit_id": "53680",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53680",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/680/053680_hanrei.pdf"
+}

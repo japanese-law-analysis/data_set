@@ -1,0 +1,21 @@
+{
+  "trial_type": "HighCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 7,
+    "day": 10
+  },
+  "case_number": "平成20(う)923",
+  "case_name": "業務上横領被告事件",
+  "court_name": "東京高等裁判所第8刑事部",
+  "result": "棄却",
+  "article_info": "第61巻3号1頁",
+  "original_court_name": "千葉地方裁判所\n        　木更津支部",
+  "gist": "刑訴法４０３条の２第１項と憲法３２条",
+  "case_gist": "刑訴法４０３条の２第１項は，憲法３２条に違反しない。",
+  "lawsuit_id": "37346",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail3?id=37346",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/346/037346_hanrei.pdf",
+  "contents": ""
+}

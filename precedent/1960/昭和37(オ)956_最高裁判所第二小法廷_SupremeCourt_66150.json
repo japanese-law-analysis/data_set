@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 6,
+    "day": 21
+  },
+  "case_number": "昭和37(オ)956",
+  "case_name": "所有権確認等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第66号623頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 3,
+    "day": 20
+  },
+  "gist": "境界査定処分が当然無効でないとされた事例。",
+  "case_gist": "境界査定処分により所有地の面積が約四分の一に減少しても、\n右査定処分は、当然無効とならない。",
+  "lawsuit_id": "66150",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66150",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/150/066150_hanrei.pdf"
+}

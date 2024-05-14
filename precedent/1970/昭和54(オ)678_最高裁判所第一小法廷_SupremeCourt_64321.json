@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 10,
+    "day": 18
+  },
+  "case_number": "昭和54(オ)678",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第128号11頁",
+  "original_court_name": "広島高等裁判所",
+  "original_case_number": "昭和54(ネ)13",
+  "original_date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 2,
+    "day": 20
+  },
+  "gist": "在監者に対する送達の効力発生時期",
+  "case_gist": "民訴法一六八条所定の送達は、監獄の長（代用監獄である警察署については当該署長）に対する送達があつたときに在監者に対してその効力を生じる。",
+  "ref_law": "民訴法168条",
+  "lawsuit_id": "64321",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64321",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/321/064321_hanrei.pdf"
+}

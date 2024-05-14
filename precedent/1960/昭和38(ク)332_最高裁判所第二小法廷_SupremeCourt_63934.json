@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 10,
+    "day": 11
+  },
+  "case_number": "昭和38(ク)332",
+  "case_name": "不動産競売手続開始決定に対する異議申立事件につきなした異議申立棄却の決定に対する特別抗告の申立",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "その他",
+  "article_info": "集民　第68号341頁",
+  "original_court_name": "前橋地方裁判所\n        　桐生支部",
+  "original_case_number": "昭和37(モ)49",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 7,
+    "day": 15
+  },
+  "gist": "競売手続開始決定に対する異議申立の棄却決定に対する特別抗告の適否。",
+  "case_gist": "競売手続開始決定に対する異議申立の棄却決定に対しては、民訴法第五五八条、裁判所法第一六条第二号により高等裁判所に即時抗告をすることができるのであり、このように不服申立ができる場合には、たとい原決定に憲法解釈の誤りがあることその他憲法の違背あることを理由としても、民訴法第四一九条ノ二による特別抗告の申立は許されない。",
+  "ref_law": "民訴法419条の2",
+  "lawsuit_id": "63934",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63934",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/934/063934_hanrei.pdf"
+}

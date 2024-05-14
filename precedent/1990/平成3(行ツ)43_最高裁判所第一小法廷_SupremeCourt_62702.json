@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 3,
+    "month": 11,
+    "day": 28
+  },
+  "case_number": "平成3(行ツ)43",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第163号611頁",
+  "original_court_name": "高松高等裁判所",
+  "original_case_number": "昭和62(行コ)6",
+  "original_date": {
+    "era": "Heisei",
+    "year": 2,
+    "month": 11,
+    "day": 29
+  },
+  "gist": "土地開発公社の理事の違法な行為と地方自治法二四二条の二第一項四号の訴訟の提起",
+  "case_gist": "土地開発公社の理事の違法な行為につき、その設立者である普通地方公共団体の住民は、地方自治法二四二条の二第一項四号の規定による訴訟を提起することができない。",
+  "ref_law": "公有地の拡大の推進に関する法律10条，地方自治法242条，地方自治法242条の2",
+  "lawsuit_id": "62702",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62702",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/702/062702_hanrei.pdf"
+}

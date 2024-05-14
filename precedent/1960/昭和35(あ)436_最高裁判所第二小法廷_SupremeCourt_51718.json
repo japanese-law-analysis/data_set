@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 6,
+    "day": 10
+  },
+  "case_number": "昭和35(あ)436",
+  "case_name": "恐喝、傷害",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第14巻7号973頁",
+  "original_court_name": "福岡高等裁判所\n        　宮崎支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 2,
+    "day": 2
+  },
+  "gist": "刑訴法第三〇四条の二による措置と憲法第三七条第二項前段。",
+  "case_gist": "裁判所が、立証趣旨その他により、証人が被告人の面前においては圧迫を受け充分な供述をすることができないと認めたとき、刑訴第三〇四条の二により、証人の供述中被告人を退廷させても、弁護人が終始右証人の尋問に立ち会つて主尋問をしており、且つ、供述終了後被告人を入廷させ、これに証言の要旨を告知して、その証人を尋問する機会を与え、しかも被告人が右証人に対し尋問をしている場合には、裁判所の右措置は、憲法第三七条第二項前段に違反しない。",
+  "ref_law": "憲法37条2項，刑訴法304条の2",
+  "lawsuit_id": "51718",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51718",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/718/051718_hanrei.pdf"
+}

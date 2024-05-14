@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 9,
+    "day": 26
+  },
+  "case_number": "昭和31(あ)1791",
+  "case_name": "道路交通取締法施行令違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第11巻9号2371頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 4,
+    "day": 28
+  },
+  "gist": "刑訴法第三二二条第一項にいわゆる被告人作成の供述書と認められる一事例",
+  "case_gist": "表面は、司法巡査作成名義の交通違反現認報告書と題する書類で、道路交通取締法令違反の被疑者の氏名、住所、違反の概要を記載せるものの裏面に、不動文字をもつて「表記の通り違反を認む」と記載しあり末尾に日付、被告人の住所、氏名の自署および押印がなされているときは、該書類の裏面は、書面全体の形式から被告人の意思に基き被告人自ら作成したものと認められる限り、刑訴第三二二条第一項にいわゆる被告人作成の供述書に該当するものと認むべきである。",
+  "ref_law": "刑訴法322条1項",
+  "lawsuit_id": "51481",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51481",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/481/051481_hanrei.pdf"
+}

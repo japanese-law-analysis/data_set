@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 5,
+    "day": 19
+  },
+  "case_number": "昭和45(オ)685",
+  "case_name": "預入金返還請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第26巻4号723頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_case_number": "昭和43(ネ)104",
+  "original_date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 4,
+    "day": 15
+  },
+  "gist": "動機が表示されても民法九五条にいう法律行為の要素とはならないとされた事例",
+  "case_gist": "甲乙問の土地売買契約の解除と土地交換契約の締結に伴い、甲が乙に対して負担した清算金債務を弁済するため、自己が金融機関である丙との間で締結していた定期貯金契約を合意解約し、その払戻金を乙に支払うことを丙に対し委任した場合において、右売買契約の解除および交換契約が甲の土地評価の誤認に起因し法律行為の要素の錯誤により無効であり、甲の前記清算金債務は存在しないときであつても、甲が右支払を委任するに至つた動機のごときは、丙に表示されたとしても、右定期貯金契約の合意解約および支払委任につき、民法九五条にいう法律行為の要素とはならないものと解すべきである。",
+  "ref_law": "民法95条",
+  "lawsuit_id": "52014",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52014",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/014/052014_hanrei.pdf"
+}

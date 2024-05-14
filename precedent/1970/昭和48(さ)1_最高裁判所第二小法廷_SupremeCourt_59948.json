@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 4,
+    "day": 27
+  },
+  "case_number": "昭和48(さ)1",
+  "case_name": "売春防止法違反被告事件の確定判決に対する非常上告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集刑　第187号857頁",
+  "original_court_name": "神戸地方裁判所\n        　尼崎支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 3,
+    "day": 10
+  },
+  "gist": "法定刑超過の事例（非常上告）",
+  "ref_law": "刑訴法458条1号但",
+  "lawsuit_id": "59948",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59948",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/948/059948_hanrei.pdf"
+}

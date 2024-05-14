@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 6,
+    "day": 24
+  },
+  "case_number": "昭和39(あ)1854",
+  "case_name": "公正証書原本不実記載、同行使幇助",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第19巻4号469頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 6,
+    "day": 30
+  },
+  "gist": "会社が不存在であるにかかわらずその設立の登記をした場合と公正証書原本不実記載罪。",
+  "case_gist": "いわゆる見せ金により、株式の払込を仮装したのみで、なんら設立手続が行なわれていないため、会社が不存在であるにかかわらずその設立の登記を申請し、登記官をして商業登記簿の原本にその旨記載させたときは、登記事項のすべてに関し公正証書原本不実記載罪合が成立する。",
+  "ref_law": "刑法157条1項，商法188条，商法57条",
+  "lawsuit_id": "50733",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50733",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/733/050733_hanrei.pdf"
+}

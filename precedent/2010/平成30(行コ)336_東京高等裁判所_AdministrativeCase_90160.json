@@ -1,0 +1,15 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Reiwa",
+    "year": 1,
+    "month": 10,
+    "day": 2
+  },
+  "case_number": "平成30(行コ)336",
+  "case_name": "各行政文書不開示処分取消請求控訴事件",
+  "court_name": "東京高等裁判所",
+  "lawsuit_id": "90160",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=90160",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/160/090160_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 4,
+    "day": 15
+  },
+  "case_number": "昭和40(あ)2538",
+  "case_name": "恐喝",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第159号215頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 9,
+    "day": 22
+  },
+  "gist": "二通の小切手を喝取した事実を単純一罪として起訴されその一部について犯罪の成立が認められない場合の判示方法",
+  "case_gist": "被告人が二通の小切手を喝取した事実を単純一罪として起訴された場合、右被害金品の一部である額面六六万円の小切手一通について、犯罪の成立が認められないときには、有罪と認めた事実のみを罪となるべき事実として判示すれば足り、認めなかつた部分について、主文においては勿論理由においても特に判示する必要はないものと解すべきであるから、所論のように審判の請求を受けた事件について判決をしなかつたという違法はない。",
+  "ref_law": "刑訴法335条，刑訴法336条，刑法249条",
+  "lawsuit_id": "61459",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61459",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/459/061459_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 1,
+    "day": 28
+  },
+  "case_number": "昭和28(オ)251",
+  "case_name": "労働者災害補償認定および裁決取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第9巻1号60頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 2,
+    "day": 24
+  },
+  "gist": "労働者災害補償保険審査会に対する審査請求が不適法として却下された場合における原決定の取消を求める訴の適否",
+  "case_gist": "保険給付に関する決定および保険審査官のした審査決定についての、労働者災害補償保険審査会に対する審査請求が不適法として却下された場合は、右却下決定が正当である以上、右保険給付に関する決定および保険審査官の決定の取消を求める訴は不適法である。",
+  "ref_law": "労働者災害補償保険法19条，労働者災害補償保険法35条，労働者火災補償保険法40条，行政事件訴訟特例法2条，行政事件訴訟特例法5条",
+  "lawsuit_id": "57412",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57412",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/412/057412_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 7,
+    "day": 25
+  },
+  "case_number": "昭和30(オ)973",
+  "case_name": "未墾地買収に関する行政処分取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第12巻12号1963頁",
+  "original_court_name": "福岡高等裁判所\n        　宮崎支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 10,
+    "day": 3
+  },
+  "gist": "塩田を自作農創設特別措置法第三〇条によつて買収することができるか。",
+  "case_gist": "塩田を自作農創設特別措置法第三〇条によつて買収することはできない。",
+  "ref_law": "自作農創設特別措置法30条1項本文1号",
+  "lawsuit_id": "52837",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52837",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/837/052837_hanrei.pdf"
+}

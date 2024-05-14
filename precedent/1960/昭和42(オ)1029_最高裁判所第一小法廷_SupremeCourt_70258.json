@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 5,
+    "day": 23
+  },
+  "case_number": "昭和42(オ)1029",
+  "case_name": "借地権不存在確認等参加、同附帯控訴",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第91号75頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和35(ネ)1502",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 5,
+    "day": 16
+  },
+  "gist": "一、借地権ないし仮換地上の借地権と同等の権利の不存在確認訴訟における右権利等の立証責任\n二、従前の土地の一部について賃借権を有する者が土地区画整理事業の施行者からの通知により賃借地上の建物を解体移転したときと仮換地の使用収益権の有無",
+  "case_gist": "一、借地権ないし仮換地上の借地権と同等の権利（使用収益権）の不存在確認訴訟においては、右権利の存在を主張する者が、その要件事実について、主張、立証をすることを要する。\n二、従前の土地の一部について賃借権を有する者は、土地区画整理事業の施行者から、権利の目的となるべき土地としての指定通知を受けないかぎり、たとえ右施行者からの通知により賃借地上の建物を解体移転したとしても、当然には仮換地について現実に使用収益をすることができない。",
+  "ref_law": "民法601条，民訴法225条，土地区画整理法98条",
+  "lawsuit_id": "70258",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70258",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/258/070258_hanrei.pdf"
+}

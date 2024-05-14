@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 3,
+    "day": 15
+  },
+  "case_number": "昭和36(オ)947",
+  "case_name": "土地買収計画取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第65号153頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 5,
+    "day": 11
+  },
+  "gist": "農地の遡及買収基準時における被買収者の住所の認定が是認された事例。",
+  "case_gist": "被買収者が農地所在の村で農地委員の選挙権を行使した等の事実があつても、右買収基準時に教師として他村に転任しその学校住宅に家族とともに居住していたという事実関係のもとにおいては、その住所が当該農地の所在地にあつたと認めなければならないものではない。",
+  "ref_law": "民法21条，自作農創設特別措置法3条1項1号",
+  "lawsuit_id": "66020",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66020",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/020/066020_hanrei.pdf"
+}

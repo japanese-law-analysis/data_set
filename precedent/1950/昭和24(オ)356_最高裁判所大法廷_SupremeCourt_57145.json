@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 10,
+    "day": 26
+  },
+  "case_number": "昭和24(オ)356",
+  "case_name": "自作農創設特別措置法による土地買収の対価に対する不服",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第9巻11号1690頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 12,
+    "day": 13
+  },
+  "gist": "自作農創設特別措置法による未墾地買収対価と憲法第二九条第三項にいう「正当な補償」",
+  "case_gist": "自作農創設特別措置法第三一条第三項、同法施行令第二五条第一項、昭和二二年四月一七日付開第七五五号農林次官依命通牒「未墾地等の対価算定基準及び損失補償額算定に関する件」による未墾地の買収対価は憲法第二九条第三項にいう「正当な補償」にある。",
+  "ref_law": "自作農創設特別措置法31条3項，自作農創設特別措置法施行令25条1項，憲法29条3項",
+  "lawsuit_id": "57145",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57145",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/145/057145_hanrei.pdf"
+}

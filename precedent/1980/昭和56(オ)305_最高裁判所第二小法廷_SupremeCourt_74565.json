@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 12,
+    "day": 9
+  },
+  "case_number": "昭和56(オ)305",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第140号643頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和54(ネ)224",
+  "original_date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 12,
+    "day": 15
+  },
+  "gist": "自衛隊の航空機の機長が操縦上の注意義務を怠つたことにより生じた同乗者の死亡事故と国の右同乗者に対する安全配慮義務違反の成否",
+  "case_gist": "自衛隊の航空機の機長が出張先から隊員を同乗させて自隊へ帰る途上、同機の位置の不確認等により正規の航空路を外れて航行するなど操縦者において航空法その他の法令等に基づき当然に負うべき通常の注意義務を怠つたことによつて同機を山腹に激突させ、同乗者を死亡させたとしても、それだけでは国に右同乗者に対する安全配慮義務違反があるということはできない。",
+  "ref_law": "民法1条2項，国家公務員法第3章第6節第3款第3目公務傷病に対する補償",
+  "lawsuit_id": "74565",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74565",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/565/074565_hanrei.pdf"
+}

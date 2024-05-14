@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 5,
+    "day": 19
+  },
+  "case_number": "昭和43(行ツ)79",
+  "case_name": "営業許可取消等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第26巻4号698頁",
+  "original_court_name": "広島高等裁判所",
+  "original_case_number": "昭和41(行コ)2",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 5,
+    "day": 16
+  },
+  "gist": "一、公衆浴場営業許可申請と先願主義\n二、競願関係にある公衆浴場営業許可申請につき先願後願を定める基準",
+  "case_gist": "一、公衆浴場営業許可の申請が競願関係にある場合には、行政庁は、先願者の申請が許可の要件をみたすものであるかぎり、これに許可を与えなければならない。\n二、競願関係にある公衆浴場営業許可申請に関する先願後願の関係は、所定の申請書がこれを受け付ける権限を有する行政庁に提出された時を基準として定めるべきである。",
+  "ref_law": "公衆浴場法2条",
+  "lawsuit_id": "51941",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51941",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/941/051941_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 6,
+    "month": 9,
+    "day": 13
+  },
+  "case_number": "平成2(あ)1095",
+  "case_name": "所得税法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第48巻6号289頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 2,
+    "month": 10,
+    "day": 1
+  },
+  "gist": "売上げを正確に記載した帳簿を作成している場合に売上金の一部を仮名又は借名の預金口座に入金保管することと不申告ほ脱犯の所得秘匿工作",
+  "case_gist": "売上げを正確に記載した帳簿を作成しており、これをことさら税務当局から隠匿したり、別に虚偽の帳簿を作成したりするなどの工作を積極的に行っていない場合であっても、売上金の一部を仮名又は借名の預金口座に入金保管することは、ほ脱の意思に出たものと認められる以上、不申告ほ脱犯の所得秘匿工作に当たる。",
+  "ref_law": "所得税法238条1項",
+  "lawsuit_id": "50112",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50112",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/112/050112_hanrei.pdf"
+}

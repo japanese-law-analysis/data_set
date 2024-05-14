@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 12,
+    "day": 21
+  },
+  "case_number": "昭和25(れ)1387",
+  "case_name": "銃砲等所持禁止令違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "刑集　第4巻12号2604頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 9,
+    "day": 29
+  },
+  "gist": "官報に掲載され召喚状謄本における被告人氏名の誤記と公示送達の効力",
+  "case_gist": "官報に掲載された第一回公判期日の召喚状の謄本に、被告人氏名「来海Ａ」を、海Ａと表示したのでは、公示送達の方式として召喚状の謄本を官報に掲載することを、適法に履踐したものということはできない。",
+  "ref_law": "旧刑訴79条3項",
+  "lawsuit_id": "54497",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54497",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/497/054497_hanrei.pdf"
+}

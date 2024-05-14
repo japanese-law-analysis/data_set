@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 6,
+    "day": 19
+  },
+  "case_number": "昭和27(あ)37",
+  "case_name": "公務執行妨害",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第83号319頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 10,
+    "day": 18
+  },
+  "gist": "税務署員が被告人等の暴行脅迫により捜索差押許可状を呈示できなかつた場合と公務執行妨害罪の成立",
+  "case_gist": "税務署員において捜索差押許可状をその処分を受ける者に対し呈示することが法の要請するところであるとしても、本件の如く相手方においてこれが呈示を要求した事実の認められないのは勿論、これを呈示することが事実上不可能であつたと認められる場合においては、たとい税務署員が許可状を呈示しなかつたとしても、唯だその一事により、その調査が公務の執行たることを妨げられるものではなく、暴行脅迫によつてこれを妨害した被告人等の所為が公務執行妨害罪を構成することは多言を要しない。",
+  "ref_law": "刑訴法110条，国税犯則取締法2条，刑法95条",
+  "lawsuit_id": "69220",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=69220",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/220/069220_hanrei.pdf"
+}

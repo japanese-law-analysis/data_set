@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 10,
+    "day": 30
+  },
+  "case_number": "昭和26(れ)1293",
+  "case_name": "賍物故買、古物商取締法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第55号871頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 3,
+    "day": 29
+  },
+  "gist": "旧刑訴法第二四八条の司法警察官と巡査部長の聴取書作成資格",
+  "case_gist": "原判決は、第一審判決と同一の証拠（被告人に対する第二回司法警察官の聴取書中判示同旨の供述記載）のほか、原審証人Ａの供述をも証書に援用している。そして前記聴取書は司法警察官巡査部長Ｂ名義で作成されたものであるが（所論のようにＣが作成したものではない）、警察法第三五条、四六条、同法附則一九条等によれば、巡査部長は、旧刑訴二四八条の司法警察官に当ること疑ないので（昭和二四年（れ）七七三号同年六月一八日言渡当裁判所第二小法廷判決参照）右聴取書は所論のように作成資格を濫用した無効のものでない。",
+  "ref_law": "警察法35条，警察法46条，警察法附則19条，旧刑訴法48条，旧刑訴法249条",
+  "lawsuit_id": "68608",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=68608",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/608/068608_hanrei.pdf"
+}

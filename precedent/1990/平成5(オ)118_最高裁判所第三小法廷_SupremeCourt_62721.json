@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 6,
+    "month": 9,
+    "day": 13
+  },
+  "case_number": "平成5(オ)118",
+  "case_name": "所有権移転登記手続等請求本訴、同反訴",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第173号53頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成3(ネ)1512",
+  "original_date": {
+    "era": "Heisei",
+    "year": 4,
+    "month": 9,
+    "day": 28
+  },
+  "gist": "農地の小作人が所有者に対し所有の意思のあることを表示したものとして右農地の時効取得が認められた事例",
+  "case_gist": "農地の小作人がいわゆる農地解放後に最初に地代を支払うべき時期にその支払をせず、これ以降、所有者は小作人が地代等を一切支払わずに右農地を自由に耕作し占有することを容認していたなど原判示の事実関係の下においては、小作人は、遅くとも右の時期に、所有者に対して右農地につき所有の意思のあることを表示したものというべきである。",
+  "ref_law": "民法162条，民法185条",
+  "lawsuit_id": "62721",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62721",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/721/062721_hanrei.pdf"
+}

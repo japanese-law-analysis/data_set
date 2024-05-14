@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 6,
+    "day": 8
+  },
+  "case_number": "昭和30(あ)638",
+  "case_name": "業務上過失致死",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第119号419頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 2,
+    "day": 14
+  },
+  "gist": "一　乗合自動車運転者の業務上の注意義務\n二　業務上過失致死罪の成立する一事例",
+  "case_gist": "一　乗合自動車運転者は、停留所発車に際し、単に乗務車掌の発車合図に従い警笛を吹鳴するをもつて足れりとせず、自身また車掌を督励して、車体の前後左右に人影の存否を確め、若し車体附近に人影を発見したときは、これを安全地帯に退避せしめた上発車すべき義務があるものと解するのを相当とする。\n二　乗合自動車運転者たる被告人が、停留所発車に際し、かかる措置をとることなく、単に乗務車掌の発車合図による漫然ハンドルを右に切りつつ発車進行したため、発車の際該自動車車体右側間近かに佇立していた被害者に気付かず、同人を押し倒し、地上に転倒せしめた上右側後車輪をもつて轢き因つて即死せしめたときは、業務上過失致死罪が成立する。",
+  "ref_law": "刑法211条",
+  "lawsuit_id": "60877",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60877",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/877/060877_hanrei.pdf"
+}

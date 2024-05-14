@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 4,
+    "day": 2
+  },
+  "case_number": "昭和60(オ)232",
+  "case_name": "配当異議",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第150号575頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和59(ネ)962",
+  "original_date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 11,
+    "day": 28
+  },
+  "gist": "動産売買の先取特権に基づく物上代位権を有する債権者が自ら目的債権を強制執行によつて差し押さえたときに競合する差押債権者等がある場合と優先弁済を受ける方法",
+  "case_gist": "動産売買の先取特権に基づく物上代位権を有する債権者は、自ら目的債権を強制執行によつて差し押さえても、他に競合する差押債権者等がある場合は、配当要求の終期までに、担保権を証する文書を提出して、先取特権に基づく配当要求又はこれに準ずる先取特権行使の申出をしなければ、優先弁済を受けることができない。",
+  "ref_law": "民法304条，民事執行法143条，民事執行法154条，民事執行法165条，民事執行法193条",
+  "lawsuit_id": "70483",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70483",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/483/070483_hanrei.pdf"
+}

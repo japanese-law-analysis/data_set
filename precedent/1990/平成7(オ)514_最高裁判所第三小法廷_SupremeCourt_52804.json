@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 10,
+    "month": 3,
+    "day": 24
+  },
+  "case_number": "平成7(オ)514",
+  "case_name": "供託金還付請求権確認等",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第52巻2号399頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成6(ネ)3078",
+  "original_date": {
+    "era": "Heisei",
+    "year": 6,
+    "month": 11,
+    "day": 29
+  },
+  "gist": "建物の賃料債権の差押えの効力が発生した後に建物を譲り受けた者が賃貸人の地位の移転に伴う賃料債権の取得を差押債権者に対抗することの可否",
+  "case_gist": "建物の賃料債権の差押えの効力が発生した後に、建物が譲渡され賃貸人の地位が譲受人に移転したとしても、譲受人は、建物の賃料債権を取得したことを差押債権者に対抗することができない。",
+  "ref_law": "民事執行法145条，民事執行法151条",
+  "lawsuit_id": "52804",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52804",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/804/052804_hanrei.pdf"
+}

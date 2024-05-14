@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 10,
+    "day": 1
+  },
+  "case_number": "昭和35(オ)1051",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第17巻11号1301頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 6,
+    "day": 16
+  },
+  "gist": "管轄違による移送決定と民訴法第二三八条による訴訟下の効果。",
+  "case_gist": "当事者双方功口頭弁論期日に不出頭の後三箇月経過前に管轄違による移送決定がなされたときは、期日申立の指定がないまま右三箇月を経過しても、訴訟下の効果を生じない。",
+  "ref_law": "民訴法238条，民訴法30条",
+  "lawsuit_id": "52997",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52997",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/997/052997_hanrei.pdf"
+}

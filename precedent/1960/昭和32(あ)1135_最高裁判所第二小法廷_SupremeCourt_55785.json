@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 9,
+    "day": 9
+  },
+  "case_number": "昭和32(あ)1135",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第14巻11号1457頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 3,
+    "day": 27
+  },
+  "gist": "窃盗罪の成立する事例",
+  "case_gist": "河川の流れに入り、大水で漂流中の木材一本（トガの木、直径三尺、長さ二間）を拾得して河岸に引揚げた上、その流失を防ぐため、附近の柱に巻きつけてあつた他人所有の電線三本長さ二一メートル（同所からの揚水用モーターに送電するためのもので、当時は大水に備え一時支柱から外し、本柱にまきつけてあつた。）中の約一二メートル（時価約金一、二〇〇円相当）を勝手に切断し、これを用いて前記木材を繋留した場合には、右電線を不法に領得する意思がなかつたものとはいえず、同電線窃盗の罪が成立するものと解するのが相当である。",
+  "ref_law": "刑法235条",
+  "lawsuit_id": "55785",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55785",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/785/055785_hanrei.pdf"
+}

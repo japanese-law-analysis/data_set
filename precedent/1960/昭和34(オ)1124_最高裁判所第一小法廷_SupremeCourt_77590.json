@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 4,
+    "day": 12
+  },
+  "case_number": "昭和34(オ)1124",
+  "case_name": "請求異議",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第60号135頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 8,
+    "day": 17
+  },
+  "gist": "公正証書が偽造の委任状に基づき作成された場合と請求異議の訴",
+  "case_gist": "偽造の委任状に基づき作成された公正証書が債務名義の場合には請求異議の訴によりその執行力の排除を争うことができる。",
+  "lawsuit_id": "77590",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77590",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/590/077590_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 5,
+    "day": 21
+  },
+  "case_number": "昭和23(れ)2075",
+  "case_name": "窃盗、窃盗幇助、昭和二二年政令第一六五号違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第10号401頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 10,
+    "day": 29
+  },
+  "gist": "相被告人の供述と他の被告人の自白に對する補強",
+  "case_gist": "相被告人の供述は、共犯關係にあると否とを問はず互に他の被告人の自白の補強證據となり得ることは當裁判所の判例とするところである。（昭和二二年（れ）第一八八號、同二三年七月七日大法廷判決及び昭和二三年（れ）第一一二號同年七月一四日大法廷判決参照）",
+  "ref_law": "憲法38條3項，刑訴應急措置法10條3項",
+  "lawsuit_id": "70644",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70644",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/644/070644_hanrei.pdf"
+}

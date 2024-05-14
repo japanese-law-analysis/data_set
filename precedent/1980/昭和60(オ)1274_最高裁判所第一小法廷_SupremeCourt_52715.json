@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 12,
+    "day": 21
+  },
+  "case_number": "昭和60(オ)1274",
+  "case_name": "損害賠償等",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第43巻12号2252頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和58(ネ)245",
+  "original_date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 7,
+    "day": 17
+  },
+  "gist": "公立小学校における通知表の交付をめぐる混乱についての批判、論評を主題とするビラの配布行為が名誉侵害としての違法性を欠くとされた事例",
+  "case_gist": "公立小学校教師の氏名・住所・電話番号等を記載し、かつ、有害無能な教職員等の表現を用いた大量のビラを繁華街等で配布した場合において、右ビラの内容が、一般市民の間でも大きな関心事になつていた通知表の交付をめぐる混乱についての批判、論評を主題とする意見表明であつて、専ら公益を図る目的に出たものに当たらないとはいえず、その前提としている客観的事実の主要な点につき真実の証明があり、論評としての域を逸脱したものでないなど判示の事実関係の下においては、右配布行為は、名誉侵害としての違法性を欠く。",
+  "ref_law": "民法709条，民法723条，刑法230条ノ2第1項，刑法230条ノ2第3項",
+  "lawsuit_id": "52715",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52715",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/715/052715_hanrei.pdf"
+}

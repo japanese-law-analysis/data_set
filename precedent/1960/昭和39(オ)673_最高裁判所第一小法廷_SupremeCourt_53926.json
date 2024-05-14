@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 10,
+    "day": 31
+  },
+  "case_number": "昭和39(オ)673",
+  "case_name": "過誤納金返還請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第22巻10号2312頁",
+  "original_court_name": "高松高等裁判所",
+  "original_case_number": "昭和36(ネ)139",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 3,
+    "day": 26
+  },
+  "gist": "旧物品税法第三条にいう「製造場ヨリ移出スル時ノ物品ノ価格」についての誤つた解釈に基づく課税処分が当然無効ではないとされた事例",
+  "case_gist": "旧物品税法（昭和二三年法律第一〇七号による改正前のもの）第三条にいう「製造場ヨリ移出スル時ノ物品ノ価格」は、統制額の定のあるものについては、その統制額を意味するが、課税当局が右価格の解釈を誤り、実際の取引価格を基準として課税したことにも原判示のような事情（原判決理由参照）があるときは、右課税処分中統制額を基準とした税額をこえる部分は、当然無効とはいえない。",
+  "ref_law": "旧物品税法（昭和23年法律第107号による改正前のもの）3条",
+  "lawsuit_id": "53926",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53926",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/926/053926_hanrei.pdf"
+}

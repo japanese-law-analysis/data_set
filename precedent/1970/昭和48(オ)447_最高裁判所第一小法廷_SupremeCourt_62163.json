@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 4,
+    "day": 25
+  },
+  "case_number": "昭和48(オ)447",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第111号599頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和45(ネ)1593",
+  "original_date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 12,
+    "day": 20
+  },
+  "gist": "一、東京証券取引所受託契約準則一三条の九による会員の反対売買権の性質\n二、会員の反対売買権行使の時期と証券の市場価格の変動による顧客の損失",
+  "case_gist": "一、東京証券取引所受託契約準則一三条の九は、顧客が所定の時限までに買付代金を会員に交付しないときには、会員は、任意に、当該売買取引を決済するために、顧客の計算において買付証券を売却して買付代金に充当する権限があることを定めたものであり、会員は、このような場合、直ちに買付証券を売却すべき義務を負うものではない。\n二、会員の反対売買権行使の時期が特に信義則上顧客にとり不当と認められる特段の事情がないかぎり、会員は、証券の市場価格の変動による顧客の損失について、なんらの責任を負わない。",
+  "ref_law": "商法556条，商法524条",
+  "lawsuit_id": "62163",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62163",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/163/062163_hanrei.pdf"
+}

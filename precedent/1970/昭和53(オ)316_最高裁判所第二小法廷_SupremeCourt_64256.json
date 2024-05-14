@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 4,
+    "day": 7
+  },
+  "case_number": "昭和53(オ)316",
+  "case_name": "人身保護",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第123号525頁",
+  "original_court_name": "神戸地方裁判所\n        　尼崎支部",
+  "original_case_number": "昭和51(人)1",
+  "original_date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 1,
+    "day": 26
+  },
+  "gist": "親権者である父から親権者でない母に対する幼児の人身保護請求の場合における拘束の違法性の顕著性",
+  "case_gist": "幼児を認知し、かつ、審判によりその親権者と定められた父が、右幼児を拘束する母に対し、人身保護法に基づいて幼児の引渡を求める場合には、請求者に右幼児を引き渡すことが明らかにその幸福に反するものでない限り、たとえ、拘束開始当時には、右審判が拘束者のした即時抗告により未確定の状態にあり、拘束者がなお親権者の地位にあつて、請求者に監護権の行使を委ねていた事実がなく、また、現在の拘束者の監護が一応妥当なときであつても、その拘束は違法性が顕著であると解するのが相当である。",
+  "ref_law": "人身保護法2条，人身保護規則4条",
+  "lawsuit_id": "64256",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64256",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/256/064256_hanrei.pdf"
+}

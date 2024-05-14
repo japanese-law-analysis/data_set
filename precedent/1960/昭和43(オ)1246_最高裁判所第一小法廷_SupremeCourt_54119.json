@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 7,
+    "day": 10
+  },
+  "case_number": "昭和43(オ)1246",
+  "case_name": "請求異議",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第23巻8号1450頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和41(ネ)1052",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 9,
+    "day": 10
+  },
+  "gist": "訴訟上の和解の解釈",
+  "case_gist": "訴訟の係属中に訴訟代理人たる弁護士も関与して成立した訴訟上の和解においては、その文言自体相互に矛盾し、または文言自体によつてその意味を了解しがたいなど、和解条項それ自体にかしを含むような特別の事情のないかぎり、和解調書に記載された文言と異なる意味に和解の趣旨を解すべきではない。",
+  "ref_law": "民法695条，民訴法203条，民訴法",
+  "lawsuit_id": "54119",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54119",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/119/054119_hanrei.pdf"
+}

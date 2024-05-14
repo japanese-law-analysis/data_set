@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 11,
+    "day": 29
+  },
+  "case_number": "昭和47(オ)1279",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第28巻8号1670頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和45(ネ)2498",
+  "original_date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 9,
+    "day": 21
+  },
+  "gist": "交通事故による損害賠償債権を有する者が債権者代位権により債務者の有する自動車対人賠償責任保険の保険金請求権を行使するための要件",
+  "case_gist": "交通事故による損害賠償債権を有する者がその債権を保全するため民法四二三条一項本文により債務者の有する自動車対人賠償責任保険の保険金請求権を行使するには、債務者の資力が債権を弁済するについて十分でないことを要する。",
+  "ref_law": "民法423条1項",
+  "lawsuit_id": "55140",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55140",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/140/055140_hanrei.pdf"
+}

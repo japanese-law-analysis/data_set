@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 1,
+    "day": 14
+  },
+  "case_number": "昭和40(オ)611",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第82号41頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和37(ネ)282",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 2,
+    "day": 26
+  },
+  "gist": "相殺の遡及効が契約解除に及ぼす影響の有無",
+  "case_gist": "賃貸借契約が賃料不払のため適法に解除された以上、たとえその後賃借人の相殺の意思表示により右賃料債務が遡つて消滅しても、解除の効力に影響はない。",
+  "ref_law": "民法506条，民法541条",
+  "lawsuit_id": "66459",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66459",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/459/066459_hanrei.pdf"
+}

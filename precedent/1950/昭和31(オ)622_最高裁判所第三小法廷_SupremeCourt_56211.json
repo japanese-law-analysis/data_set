@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 7,
+    "day": 14
+  },
+  "case_number": "昭和31(オ)622",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第13巻7号978頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 4,
+    "day": 28
+  },
+  "gist": "融通手形の振出人の責任。",
+  "case_gist": "いわゆる融通手形の振出人は、直接被融通者から手形金の支払を請求された場合に支払を拒絶できるのは格別、被融通者以外の所持人に対しては、特段の事情のないかぎり、その者が融通手形であることを知つていたと否とを問わず、その支払を拒絶することはできない。",
+  "ref_law": "手形法17条",
+  "lawsuit_id": "56211",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56211",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/211/056211_hanrei.pdf"
+}

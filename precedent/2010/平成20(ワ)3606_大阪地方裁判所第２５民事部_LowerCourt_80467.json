@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 7,
+    "day": 9
+  },
+  "case_number": "平成20(ワ)3606",
+  "case_name": "損害賠償請求事件",
+  "court_name": "大阪地方裁判所第２５民事部",
+  "gist": "地方公共団体が管理する道路建設予定地の上に放置された可燃性廃棄物に放火され隣接する建物に延焼したことについて，当該土地の管理に国家賠償法２条１項の瑕疵があったとはいえないが，当該地方公共団体が当該廃棄物の撤去をしなかったことは，当該地方公共団体が当該建物の所有者らから当該廃棄物の撤去を求める陳情を受けていた等判示の事実関係の下では，注意義務に違反するとして，同法１条１項の責任が認められた事例",
+  "lawsuit_id": "80467",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=80467",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/467/080467_hanrei.pdf",
+  "contents": ""
+}

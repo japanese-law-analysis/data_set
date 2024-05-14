@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 4,
+    "day": 2
+  },
+  "case_number": "昭和36(オ)1308",
+  "case_name": "行政処分取消請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第17巻3号435頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 8,
+    "day": 23
+  },
+  "gist": "小学校教員の期限付任用が適法とされた事例。",
+  "case_gist": "県教育委員会のした小学校教員の期限付任用も、（イ）同委員会としては、定年退職の制度がないため、高齢者を罷免し人事の刷新を図るには勧奨退職の方法を活用するよりほかなく、この方法の円滑な運用を期するうえに期限付任用を行う必要があつたこと、（ロ）本人としても、かかる任用を諒承し、再度期間の更新を受けるにあたり年度末には自発的に退職する旨の誓約書を差し入れていたこと、（ハ）地方公務員法の職員任用に関する規定の適用をみるにいたつたのが、再度の更新期間中であつたことを等の事情の下では、地方公務員法の右規定施行後においても、違法とはいえない。",
+  "ref_law": "地方公務員法22条",
+  "lawsuit_id": "53750",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53750",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/750/053750_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 10,
+    "day": 28
+  },
+  "case_number": "昭和27(あ)1799",
+  "case_name": "薬事法違反、物価統制令違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第87号941頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 2,
+    "day": 13
+  },
+  "gist": "医薬品販売業者たることと店舗の要否。",
+  "case_gist": "被告人が所論の如く店舗を有しなかつたからといつて、その一事により被告人が独立の医薬品販売業者といえないものでないことは、薬事法二九条の規定に徴し明らかである。",
+  "ref_law": "薬事法29条",
+  "lawsuit_id": "72385",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=72385",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/385/072385_hanrei.pdf"
+}

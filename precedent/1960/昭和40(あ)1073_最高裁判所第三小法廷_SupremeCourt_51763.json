@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 10,
+    "day": 19
+  },
+  "case_number": "昭和40(あ)1073",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第19巻7号765頁",
+  "original_court_name": "仙台高等裁判所\n        　秋田支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 4,
+    "day": 6
+  },
+  "gist": "公職選挙法違反罪（受供与）の自白と補強証拠。",
+  "case_gist": "被告人が、昭和三九年三月六、七日頃、甲から投票並びに投票取纒めの選挙運動を依頼され、その報酬として金一〇〇〇円の供与を受けたとの受供与罪につき、被告人の捜査段階における自白と、被告人の妻乙の「『甲から金を貰つて来たがお前にもやる、選挙のときは甲に投票してくれ。』と右日時頃被告人から頼まれ、自分の分として金五〇〇円貰つた。」旨の供述とを綜合して、右受供与の事実を認定しても、刑訴法三一九条第二項に違反しない。",
+  "ref_law": "公職選挙法221条1項1号，公職選挙法221条1項4号，刑訴法319条2項",
+  "lawsuit_id": "51763",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51763",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/763/051763_hanrei.pdf"
+}

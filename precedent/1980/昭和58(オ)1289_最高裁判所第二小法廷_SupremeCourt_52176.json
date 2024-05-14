@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 4,
+    "day": 20
+  },
+  "case_number": "昭和58(オ)1289",
+  "case_name": "建物収去土地明渡",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第38巻6号610頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和57(ネ)1667",
+  "original_date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 7,
+    "day": 19
+  },
+  "gist": "更新料の支払義務の不履行を理由として土地賃貸借契約の解除が認められた事例",
+  "case_gist": "建物の所有を目的とする土地の賃借権の存続期間の満了にあたり賃借人が賃貸人に更新料の支払を約しながらこれを履行しなかつた場合において、右更新料が、将来の賃料の一部、借地法四条一項及び六条所定の更新についての異議権放棄の対価並びに賃借人の従前の債務不履行行為についての紛争の解決金としての性質を有する等判示のような事実関係があるときは、賃貸人は、更新料の支払義務の不履行を理由として、更新されたのちの賃貸借契約を解除することができる。",
+  "ref_law": "借地法4条1項，借地法6条，民法541条",
+  "lawsuit_id": "52176",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52176",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/176/052176_hanrei.pdf"
+}

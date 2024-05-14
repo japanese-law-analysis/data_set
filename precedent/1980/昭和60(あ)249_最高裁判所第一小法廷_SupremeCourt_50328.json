@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 5,
+    "day": 1
+  },
+  "case_number": "昭和60(あ)249",
+  "case_name": "業務上過失傷害",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第43巻5号323頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 1,
+    "day": 21
+  },
+  "gist": "被告人の控訴により差し戻された事件の第二次第一審裁判所が第一次第一審で否定された本位的訴因につき判決したことに違法はないとされた事例",
+  "case_gist": "本位的訴因の犯罪事実も予備的訴因の犯罪事実も同一の被害者に対する同一の交通事故に係るものであり、過失の態様についての証拠関係上本位的訴因と予備的訴因とが構成された場合において、予備的訴因に沿う事実を認定した第一審判決に対し被告人のみが控訴して破棄差戻しになつたとき、第二次第一審裁判所が本位的訴因について審理判決することは違法でない。",
+  "ref_law": "刑訴法312条，刑訴法392条2項，刑訴法400条",
+  "lawsuit_id": "50328",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50328",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/328/050328_hanrei.pdf"
+}

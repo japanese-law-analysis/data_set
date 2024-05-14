@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 4,
+    "day": 25
+  },
+  "case_number": "昭和25(し)24",
+  "case_name": "刑訴二二七条による証人の尋問請求却下の申請を却下する決定に対する特別抗告の申立",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第7巻4号876頁",
+  "original_court_name": "岐阜地方裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 3,
+    "day": 24
+  },
+  "gist": "一　刑訴第二二七条の証人尋問における立会人の範囲\n二　右証人尋問において立会人に与えるべき準備期間",
+  "case_gist": "一　刑訴第二二七条の証人尋問にあたつて被告人または弁護人の何れかまたは双方或は弁護人中の何名に立会を許すかは、裁判官の裁量に属する。\n二　右証人尋問にあたつて立会人にどの程度の準備の余裕を与えるかも裁判官の裁量に属する。",
+  "ref_law": "刑訴法227条，刑訴法228条2項",
+  "lawsuit_id": "53398",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53398",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/398/053398_hanrei.pdf"
+}

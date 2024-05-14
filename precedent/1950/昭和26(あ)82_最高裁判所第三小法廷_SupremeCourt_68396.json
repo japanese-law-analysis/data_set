@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 7,
+    "day": 15
+  },
+  "case_number": "昭和26(あ)82",
+  "case_name": "窃盗未遂",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第66号247頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 7,
+    "day": 17
+  },
+  "gist": "理由のくいちがいが判決に影響をおよぼさない一事例",
+  "case_gist": "掬り未遂犯において、事実摘示においては、被害者が所持していた現金一八万円および小切手一枚（額面二〇万円）在中の風呂敷包みを掬り取ろうとしたと判示しながら、引用の証拠によれば、当時被害者が右小切手を所持していなかつたことが明らかな場合でも、右理由のくいちがいは判決に影響を及ぼさない。",
+  "ref_law": "刑訴法411条",
+  "lawsuit_id": "68396",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=68396",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/396/068396_hanrei.pdf"
+}

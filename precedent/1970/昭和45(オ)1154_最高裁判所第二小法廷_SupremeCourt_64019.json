@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 3,
+    "day": 26
+  },
+  "case_number": "昭和45(オ)1154",
+  "case_name": "根抵当権設定登記抹消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第102号355頁",
+  "original_court_name": "広島高等裁判所",
+  "original_case_number": "昭和41(ネ)21",
+  "original_date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 9,
+    "day": 14
+  },
+  "gist": "銀行が担保権者としてなした根抵当権の設定登記が無効であるとされた事例",
+  "case_gist": "甲からの手形の割引による金員の借用の申込を諒承した銀行が、甲と銀行との間に従前取引がなかつたため、貸付の便宜上銀行と取引関係のある乙を借主とし、甲を担保提供者として甲所有の土地に根抵当権を設定して右手形の割引をすることとして右土地につき根抵当権を設定した場合において、右根抵当権の債務者を乙、被担保債権を銀行の乙に対する取引債権とし、しかも、銀行が甲の右手形の割引を拒否したものであるときは、右根抵当権設定の登記は、実体関係に符合せず、無効と解すべきである。",
+  "ref_law": "民法569条",
+  "lawsuit_id": "64019",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64019",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/019/064019_hanrei.pdf"
+}

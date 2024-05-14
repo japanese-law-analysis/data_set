@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 8,
+    "day": 24
+  },
+  "case_number": "昭和38(あ)386",
+  "case_name": "殺人",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第152号545頁",
+  "original_court_name": "仙台高等裁判所\n        　秋田支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 1,
+    "day": 29
+  },
+  "gist": "第二審における訴因変更手続の要否。",
+  "case_gist": "殺人罪として起訴された事案について、第一審判決が殺人予備と重過失致死で処断し、第二審がこれを破棄自判するに当り、訴因変更手続を経ることなく殺人罪として処断したとしても、第一審において訴因変更手続がとられた形跡が存しないときは、第二審は本来の訴因そのものにつき審判をしたに止まり、訴因変更手続要否の問題が生ずる余地は存しない。",
+  "ref_law": "刑訴法312条，刑訴法404条，刑訴規則209条，刑法199条，刑法201条，刑法211条後段",
+  "lawsuit_id": "69601",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=69601",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/601/069601_hanrei.pdf"
+}

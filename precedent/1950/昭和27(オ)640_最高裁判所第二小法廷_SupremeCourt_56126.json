@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 9,
+    "day": 23
+  },
+  "case_number": "昭和27(オ)640",
+  "case_name": "行政処分取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第9巻10号1344頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 4,
+    "day": 30
+  },
+  "gist": "農地買収計画に対し異議の申立をしないで右計画公告後五箇月を経て直接訴願庁に提起された訴願を棄却する裁決と行政事件訴訟特例法第五条第四項にいう訴願の裁決",
+  "case_gist": "農地買収計画に対し異義の申立をしないで右計画公告後五箇月を経て直接訴願庁に提起された訴願であつても、訴願庁が宥恕すべき事情があると認めてこれを受理し棄却の裁決をした以上、右裁決は、行政事件訴訟特例法第五条第四項にいう訴願の裁決に当るものと解すべきである。",
+  "ref_law": "自作農創設特別措置法7条，訴願法8条",
+  "lawsuit_id": "56126",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56126",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/126/056126_hanrei.pdf"
+}

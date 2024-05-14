@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 3,
+    "day": 17
+  },
+  "case_number": "昭和34(オ)42",
+  "case_name": "建物収去土地明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第14巻3号461頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 9,
+    "day": 29
+  },
+  "gist": "学校農園内の建物の敷地と空地を農地と認めた事例。",
+  "case_gist": "小学校の学校農園のなかに建物の敷地と空地がある場合、右農園が肥培管理されており、建物は農園に附随した教室、農園管理者の宿舎、農具倉庫などであり、空地は児童の集合場所、通路等に使用され、その使用目的並びに客観的使用状況において学校農園として不可分の一体を形成しているときは、右建物の敷地および空地も農地と認めて妨げない。",
+  "ref_law": "農地法2条，農地調整法2条",
+  "lawsuit_id": "54910",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54910",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/910/054910_hanrei.pdf"
+}

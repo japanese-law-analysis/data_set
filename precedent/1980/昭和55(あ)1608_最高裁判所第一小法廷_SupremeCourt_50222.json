@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 6,
+    "day": 23
+  },
+  "case_number": "昭和55(あ)1608",
+  "case_name": "兇器準備集合",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第37巻5号555頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 8,
+    "day": 25
+  },
+  "gist": "一　兇器準備集合罪の保護法益\n二　迎撃形態の兇器準備集合罪と相手方からの襲撃の客観的蓋然性の要否",
+  "case_gist": "一　兇器準備集合罪は、個人の生命、身体又は財産ばかりでなく、公共的な社会生活の平穏をも同様に保護法益とするものである。\n二　兇器準備集合罪はいわゆる抽象的危険反であつて、いわゆる迎撃形態の兇器準備集合罪が成立するためには、必ずしも相手方からの襲撃の蓋然性ないし切迫性が客観的状況として存在することは必要でなく、兇器準備集合の状況が社会生活の平穏を害しうる態様のものであれば足りる。",
+  "ref_law": "刑法208条ノ2",
+  "lawsuit_id": "50222",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50222",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/222/050222_hanrei.pdf"
+}

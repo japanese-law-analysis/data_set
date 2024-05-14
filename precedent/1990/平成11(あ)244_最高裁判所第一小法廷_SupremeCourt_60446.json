@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 11,
+    "month": 10,
+    "day": 21
+  },
+  "case_number": "平成11(あ)244",
+  "case_name": "監禁、強姦被告事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集刑　第276号579頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 11,
+    "month": 1,
+    "day": 20
+  },
+  "gist": "監禁，強姦事件につき，監禁罪の成立を認めた点で第一，二審判決には事実誤認があるとして破棄自判した事例",
+  "ref_law": "刑法177条前段，刑法220条，刑訴法411条3号",
+  "lawsuit_id": "60446",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60446",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/446/060446_hanrei.pdf",
+  "contents": ""
+}

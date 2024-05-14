@@ -1,0 +1,18 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Heisei",
+    "year": 27,
+    "month": 9,
+    "day": 2
+  },
+  "case_number": "平成26(行コ)488",
+  "case_name": "不動産取得税還付不許可決定処分取消請求控訴事件",
+  "court_name": "東京高等裁判所",
+  "field": "行政",
+  "gist": "地方税法附則６条の１７第２項にいう「居住の用に供するために独立的に区画された部分が１００以上ある共同住宅等」の解釈",
+  "case_gist": "地方税法施行令３９条の２の３第１項２号の定める特例適用住宅が，地方税法附則６条の１７第２項にいう「居住の用に供するために独立的に区画された部分が１００以上ある共同住宅等」に該当するか否かの判断においては，１棟の共同住宅等で独立的に区画された部分が１００以上あることを要するものではなく，複数の棟の共同住宅棟で独立的に区画された部分が１００以上ある場合もこれに該当する。",
+  "lawsuit_id": "86039",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=86039",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/039/086039_hanrei.pdf"
+}

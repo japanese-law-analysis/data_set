@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 7,
+    "day": 5
+  },
+  "case_number": "昭和36(オ)804",
+  "case_name": "買收処分無効確認請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第16巻7号1437頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 4,
+    "day": 28
+  },
+  "gist": "行政処分の瑕疵が客観的に明白であるということの意義。",
+  "case_gist": "行政処分の瑕疵が客観的に明白であるということは、処分関係人の知、不知とは無関係に、また、権限ある国家機関の判定をまつまでもなく、何人の判断によつてもほぼ同一の結論に到達しうる程度に明らかであることを指すものと解すべきである。",
+  "ref_law": "行政事件訴訟特例法1条",
+  "lawsuit_id": "53077",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53077",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/077/053077_hanrei.pdf"
+}

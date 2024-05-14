@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 11,
+    "day": 26
+  },
+  "case_number": "昭和43(オ)938",
+  "case_name": "抵当権取得登記抹消登記等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第101号605頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和41(ネ)302",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 6,
+    "day": 17
+  },
+  "gist": "農地の売買の予約が農地法の法意に反し無効とした判断が違法であるとされた事例",
+  "case_gist": "農地法六一条の規定により国から農地の売渡を受けた者であつても、指定開墾完了時より三年を経過した後には、都道府県知事または農林大臣の許可を得たうえ、当該農地を農地以外のものに転用するためその所有権を他に移転することができるから、右期間経過前に、将来所有権の移転が可能となつたときに完結する約定のもとに、当該農地につき売買の予約をした場合、その買受人が農地取得資格を有せず、これを農地以外のものにする目的で買い受け、しかも、その真意が当該農地が宅地に変更された場合の値上りによる利得にあつたとしても、これらの事実をもつて直ちに右予約が農地法の法意に反し無効であるとはいえない。",
+  "ref_law": "農地法3条，農地法5条",
+  "lawsuit_id": "63999",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63999",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/999/063999_hanrei.pdf"
+}

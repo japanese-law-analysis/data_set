@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 6,
+    "day": 24
+  },
+  "case_number": "平成19(ワ)16569",
+  "case_name": "損害賠償請求事件",
+  "court_name": "大阪地方裁判所第２２民事部",
+  "gist": "国立大学の教授らによる，博士課程に在籍する原告らに対する留年措置及び共著勧奨等の行為につき，国立大学法人に国家賠償法１条１項による損害賠償責任を認めたが，原告らの請求権は時効により消滅したとして原告らの請求を棄却した事案",
+  "lawsuit_id": "80466",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=80466",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/466/080466_hanrei.pdf",
+  "contents": ""
+}

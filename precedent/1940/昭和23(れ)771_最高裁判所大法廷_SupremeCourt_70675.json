@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 6,
+    "day": 29
+  },
+  "case_number": "昭和23(れ)771",
+  "case_name": "強盗殺人、死体遺棄",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第11号591頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 5,
+    "day": 29
+  },
+  "gist": "近親者ことに母兄等に精神病者がある旨の供述がある場合と被告人の精神鑑定の要否",
+  "case_gist": "その近親者ことに母、兄等に多くの精神病者がある旨の供述をしても、原判決の認定した本件犯行の動機經過、事後の處置等については、特に犯人の精神状態の異常を思わしむるような點もないのであつて、かかる場合に裁判所が右犯罪の情状及び被告人の公判廷における言語、動作、その他諸般の状況からして、被告人の精神状態について、別段疑惑を挾むべき徴候を認めないときは、特に専門家の精神鑑定に付することなくして、被告人の犯行當時の精神状態に異常はなかつたものと判斷しても、これをもつて、所論のごとく、原審に審理不盡の違法ありということはできない。",
+  "ref_law": "舊刑訴法219條，舊刑訴法336條，舊刑訴法337條",
+  "lawsuit_id": "70675",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70675",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/675/070675_hanrei.pdf"
+}

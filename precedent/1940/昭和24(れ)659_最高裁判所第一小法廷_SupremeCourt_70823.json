@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 9,
+    "day": 1
+  },
+  "case_number": "昭和24(れ)659",
+  "case_name": "麻薬取締規則違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第13号355頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 12,
+    "day": 27
+  },
+  "gist": "刑法第六條にいわゆる法律の範圍",
+  "case_gist": "刑法第六條にいわゆる法律は國家制定法に限るものでなく、法律であると政令であるそとの他の命令であるとを問わず、すべての刑罰を意味するものであることは明白である。",
+  "ref_law": "刑法6條",
+  "lawsuit_id": "70823",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70823",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/823/070823_hanrei.pdf"
+}

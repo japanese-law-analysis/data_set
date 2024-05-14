@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 9,
+    "day": 18
+  },
+  "case_number": "昭和39(オ)21",
+  "case_name": "電機艤装工事代金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集民　第75号315頁",
+  "original_court_name": "福岡高等裁判所\n        　宮崎支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 9,
+    "day": 23
+  },
+  "gist": "裁判官の更迭後更新手続がなされなかつた場合と民訴法第三九五条第一項第一号。",
+  "case_gist": "裁判官の更迭後更新手続がなされず判決された場合は、民訴法第三九五条第一項第一号の上告理由にあたる。",
+  "ref_law": "民訴法395条1項1号",
+  "lawsuit_id": "66328",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66328",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/328/066328_hanrei.pdf"
+}

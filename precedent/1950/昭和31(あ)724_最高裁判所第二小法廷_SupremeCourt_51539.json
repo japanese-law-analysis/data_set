@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 7,
+    "day": 11
+  },
+  "case_number": "昭和31(あ)724",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第10巻7号1050頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 2,
+    "day": 7
+  },
+  "gist": "公職選挙法第二二一条第一項第二号にいわゆる特殊の直接利害関係を利用して選挙人を誘導したときにあたる事例",
+  "case_gist": "市議会議員選挙に際し、議員候補者が特定地域の選挙人に対して、当選の上はその居住する場所の道路を、選挙人等に一切の負担をかけないで市の予算をもつて舗装するように努力し、もしこれが不可能な場合には私財を投じても舗装する旨の演説をすることは、公職選挙法第二二一条第一項第二号にいわゆる特殊の直接利害関係を利用して選挙人を誘導したときにあたる。",
+  "ref_law": "公職選挙法221条1項2号",
+  "lawsuit_id": "51539",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51539",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/539/051539_hanrei.pdf"
+}

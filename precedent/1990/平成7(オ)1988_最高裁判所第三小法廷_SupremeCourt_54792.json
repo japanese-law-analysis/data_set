@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 9,
+    "month": 7,
+    "day": 1
+  },
+  "case_number": "平成7(オ)1988",
+  "case_name": "特許権侵害差止等",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第51巻6号2299頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成6(ネ)3272",
+  "original_date": {
+    "era": "Heisei",
+    "year": 7,
+    "month": 3,
+    "day": 23
+  },
+  "gist": "いわゆる並行輸入に対して特許権に基づく差止請求権等を行使することの可否",
+  "case_gist": "我が国の特許権者又はこれと同視し得る者が国外において当該特許発明に係る製品を譲渡した場合においては、特許権者は、譲受人に対しては当該製品について販売先ないし使用地域から我が国を除外する旨を譲受人との間で合意した場合を除き、その後の転得者に対しては譲受人との間で右の旨を合意した上当該製品にこれを明確に表示した場合を除いて、当該製品について我が国において特許権に基づき差止請求権損害賠償請求権等を行使することはできない。",
+  "ref_law": "特許法68条，特許法100条",
+  "lawsuit_id": "54792",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54792",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/792/054792_hanrei.pdf"
+}

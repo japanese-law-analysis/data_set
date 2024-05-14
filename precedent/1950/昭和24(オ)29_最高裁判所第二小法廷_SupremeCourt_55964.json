@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 4,
+    "day": 28
+  },
+  "case_number": "昭和24(オ)29",
+  "case_name": "強制執行異議",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第4巻4号152頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 12,
+    "day": 27
+  },
+  "gist": "家督相続開始前相続人以外の者に対してなした被相続人の全財産の贈与の効力",
+  "case_gist": "家督相続開始前、被相続人がその所有に係る一切の動産、不動産を挙げて相続人以外の者に贈与したとしても、これをもつてただちに公序良俗に違反する無効の契約とすることはできない。",
+  "ref_law": "民法90条，旧民法1133条",
+  "lawsuit_id": "55964",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55964",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/964/055964_hanrei.pdf"
+}

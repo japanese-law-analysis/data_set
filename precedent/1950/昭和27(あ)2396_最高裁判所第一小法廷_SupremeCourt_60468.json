@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 1,
+    "day": 31
+  },
+  "case_number": "昭和27(あ)2396",
+  "case_name": "詐欺",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第117号519頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 11,
+    "day": 13
+  },
+  "gist": "減刑令（昭和二七年政令第一一八号）の効力。−上訴中の者に対する適用有無−",
+  "case_gist": "所論減刑令（昭和二七年政令一一八号）は、基準日前に禁こ以上の刑に処せられその裁判が確定した者に対し、その宣告された刑を減軽し、及び執行猶予の期間を短縮し、又は、禁こ以上の刑の言渡を受け、この減刑令施行の際まだその裁判が確定していない者に対しては、この政令の施行後その裁判に係る罪につき裁判が確定した時に、その確定裁判につきその宣告された刑を、減軽し、及び執行猶予の期間を短縮するものであつて、本件のような禁こ以上の刑に処せられまだ上訴中の者に対しこれに適用すべき法定刑を軽く変更するものでないこというまでもないから本件では判決のあつた後に刑の変更があつた場合に当らない。",
+  "ref_law": "減刑令（昭和27年政令118号）",
+  "lawsuit_id": "60468",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60468",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/468/060468_hanrei.pdf"
+}

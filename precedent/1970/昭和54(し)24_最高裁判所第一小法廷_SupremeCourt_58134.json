@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 3,
+    "day": 22
+  },
+  "case_number": "昭和54(し)24",
+  "case_name": "公正証書原本不実記載等被告事件についてした訴訟記録及び証拠物の閲覧に関する措置に対する特別抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第214号93頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 2,
+    "day": 13
+  },
+  "gist": "不服申立の対象たる裁判は存在しないとして不適法とされた事例",
+  "lawsuit_id": "58134",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58134",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/134/058134_hanrei.pdf"
+}

@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 12,
+    "day": 26
+  },
+  "case_number": "昭和36(オ)1320",
+  "case_name": "農地買収等無効確認請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第70号603頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 9,
+    "day": 8
+  },
+  "gist": "自作地を小作地と誤つて行つた農地買収処分のかしが客観的に明白であるかどうか疑わしいとされた事例。",
+  "lawsuit_id": "65946",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=65946",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/946/065946_hanrei.pdf"
+}

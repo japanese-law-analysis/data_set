@@ -1,0 +1,18 @@
+{
+  "trial_type": "IPCase",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 11,
+    "day": 24
+  },
+  "case_number": "平成21(ワ)11464",
+  "case_name": "損害賠償請求事件",
+  "court_name": "東京地方裁判所",
+  "right_type": "特許権",
+  "lawsuit_type": "民事訴訟",
+  "lawsuit_id": "80857",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail7?id=80857",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/857/080857_hanrei.pdf",
+  "contents": "11 13 14\n14 10\n10 11\n13 14\n14 10\n10 11 13\n1 2\n3a 4\n"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 3,
+    "day": 6
+  },
+  "case_number": "昭和25(れ)1597",
+  "case_name": "殺人",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第41号221頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 9,
+    "day": 7
+  },
+  "gist": "沒収物が犯人以外の者に属しないと認むべき事例",
+  "case_gist": "記録に徴するに所論沒収物が犯人以外の者に属するものではないかとの疑ををおこさせるような事情もなくまた犯人以外の者に属すると認むべき証拠もない。かくの如く特別の事情もまた証拠のない限り判示事実に照らし本件沒収にかかる金槌は被告人以外の者に属しないと認めるを相当とする。そして原判決は、本件沒収物は被告人以外の者に属しない旨を明示していないが刑法第一九条二項を適用している点に鑑みれば右沒収物は被告人以外の者に属しないと認めた趣旨と解し得るから論旨は採用しがたい。（昭和二四年（れ）第三、一七九号同二五年七月四日第三小法廷判決昭和二二年（れ）第二五号同二二年一一月一四日第三小法廷判決参照）",
+  "ref_law": "刑法19条2項",
+  "lawsuit_id": "67875",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=67875",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/875/067875_hanrei.pdf"
+}

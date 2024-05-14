@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 10,
+    "day": 12
+  },
+  "case_number": "昭和34(オ)1268",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第62号777頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 10,
+    "day": 17
+  },
+  "gist": "第一審における弁論更新手続前の口頭弁論にのみ関与した裁判官がその後控訴審の口頭弁論に関与し判決した場合と民訴法第三五条六号の適用。",
+  "case_gist": "第一審における弁論更新手続前の口頭弁論にのみ関与した裁判官が、その後控訴審の口頭弁論に関与し判決をしたからといって、民訴法第三五条六号にいわゆる前審の裁判に関与したものにはあたらない。",
+  "lawsuit_id": "63414",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63414",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/414/063414_hanrei.pdf"
+}

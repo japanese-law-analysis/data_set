@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 3,
+    "day": 29
+  },
+  "case_number": "昭和59(し)29",
+  "case_name": "刑の執行猶予の言渡取消請求事件について地方裁判所がした裁判官忌避申立却下の裁判に対する準抗告棄却決定に対する特別抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第38巻5号2095頁",
+  "original_court_name": "名古屋地方裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 3,
+    "day": 5
+  },
+  "gist": "忌避申立簡易却下の裁判と不服申立の利益",
+  "case_gist": "刑の執行猶予の言渡取消請求事件につき忌避された裁判官が忌避の申立を簡易却下した場合において、同裁判官が、刑の執行猶予の言渡取消決定をし、これに対する即時抗告につき意見書等を抗告裁判所に送付したときは、右簡易却下の裁判に対する不服申立の利益は失われる。",
+  "ref_law": "刑訴法21条，刑訴法24条，刑訴法25条，刑訴法429条1項1号，刑訴法433条",
+  "lawsuit_id": "50324",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50324",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/324/050324_hanrei.pdf"
+}

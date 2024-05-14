@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 6,
+    "day": 12
+  },
+  "case_number": "昭和27(オ)1244",
+  "case_name": "訴願裁決取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第7巻6号698頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 11,
+    "day": 26
+  },
+  "gist": "公職選挙法第五三条の趣旨",
+  "case_gist": "公職選挙法第五三条で「投票所の入口を鎖し」とあるのは、定刻までに投票所に到着した者とその後に到着した者とを区別するためであつて、厳格に投票所の入口を鎖さなければならない趣旨ではない。",
+  "ref_law": "公職選挙法53条",
+  "lawsuit_id": "56101",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56101",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/101/056101_hanrei.pdf"
+}

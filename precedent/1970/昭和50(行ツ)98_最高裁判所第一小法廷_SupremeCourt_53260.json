@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 3,
+    "day": 30
+  },
+  "case_number": "昭和50(行ツ)98",
+  "case_name": "被爆者健康手帳交付申請却下処分取消",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第32巻2号435頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和49(行コ)3",
+  "original_date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 7,
+    "day": 17
+  },
+  "gist": "不法入国した外国人である原子爆弾被爆者と原子爆弾被爆者の医療等に関する法律",
+  "case_gist": "原子爆弾被爆者の医療等に関する法律は、わが国に不法入国した外国人被爆者についても適用される。",
+  "ref_law": "原子爆弾被爆者の医療等に関する法律3条",
+  "lawsuit_id": "53260",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53260",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/260/053260_hanrei.pdf"
+}

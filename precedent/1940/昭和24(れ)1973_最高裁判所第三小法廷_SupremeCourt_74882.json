@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 11,
+    "day": 1
+  },
+  "case_number": "昭和24(れ)1973",
+  "case_name": "銃砲等所持禁止令違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第14号365頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 5,
+    "day": 19
+  },
+  "gist": "公判事實に被告人の自宅に隠匿所持したとあるのを原審が自動車で運搬して所持したと判示したことの正否",
+  "case_gist": "公判請求書の公訴事実に、被告人の自宅において隠匿所持したとあるのを、原判決摘示事實のように、自動車で運搬して所持したと認定しても、それは本件銃砲等不法所持の態様が異なつただけで基本たる事實に相違を來たしたのでないことは、右の公判請求書の公判事實と原判決摘示事實第一とを比照すればおのずから明らかである。よつて原判決には所論のように、公訴の提起なき事實に對して有罪の認定をしたという違法はない。",
+  "ref_law": "舊刑訴法291條1項，舊刑訴法410條18號",
+  "lawsuit_id": "74882",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74882",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/882/074882_hanrei.pdf"
+}

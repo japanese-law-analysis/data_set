@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 5,
+    "day": 28
+  },
+  "case_number": "昭和41(行ツ)41",
+  "case_name": "農地買収処分無効確認請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第91号175頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和37(ネ)929",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 2,
+    "day": 28
+  },
+  "gist": "耕地整理ののち都市計画法による都市計画区域に編入された土地を農地と認定した判断に審理不尽理由不備の違法があるとされた事例",
+  "case_gist": "耕地整理の施行により大略一反歩ずつに整然と区画されて後、都市計画法による都市計画区域に編入された土地を対象とする農地買収処分の無効確認訴訟において、旧所有者である原告から、右土地が大都市近郊の住宅地として開発され、戦前すでに風致地区に指定された旨の主張があり、また判示のように、右土地の耕作が必ずしも正当な権原に基づくものといえないものであるにもかかわらず、これらの事情を度外視すべき特段の理由を説示することなく、これが現に耕作されていることから、ただちに右土地を買収の対象となるべき農地にあたると判断したのは、審理不尽・理由不備の違法がある。",
+  "ref_law": "自作農創設特別措置法（昭和21年法律第43号）2条1項，民訴法395条1項6号",
+  "lawsuit_id": "70248",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70248",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/248/070248_hanrei.pdf"
+}

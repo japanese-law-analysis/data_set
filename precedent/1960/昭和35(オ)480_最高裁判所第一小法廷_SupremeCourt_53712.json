@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 2,
+    "day": 21
+  },
+  "case_number": "昭和35(オ)480",
+  "case_name": "和解契約無効確認等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第17巻1号182頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 1,
+    "day": 26
+  },
+  "gist": "訴訟代理人の和解の権限の範囲。",
+  "case_gist": "貸金請求事件における被告の訴訟代理人の和解の権限には、和解の一条項として、当該貸金債権の担保のため被告所有の不動産について原告に対し抵当権設定契約をなす権限も包含されるものと解するのが相当である。",
+  "ref_law": "民訴法81条2項",
+  "lawsuit_id": "53712",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53712",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/712/053712_hanrei.pdf"
+}

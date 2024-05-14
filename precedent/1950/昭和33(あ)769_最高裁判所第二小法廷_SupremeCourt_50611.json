@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 10,
+    "day": 31
+  },
+  "case_number": "昭和33(あ)769",
+  "case_name": "覚せい剤取締法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第12巻14号3429頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 3,
+    "day": 15
+  },
+  "gist": "刑訴法第三三二条による移送と土地管轄。",
+  "case_gist": "簡易裁判所が刑訴第三三二条により移送するにあたり、土地管轄を有しない地方裁判所に移送することは違法であるが、移送を受けた地方裁判所は被告人の申立がなければ管轄違の言渡をすることはできない。",
+  "ref_law": "刑訴法332条，刑訴法331条",
+  "lawsuit_id": "50611",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50611",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/611/050611_hanrei.pdf"
+}

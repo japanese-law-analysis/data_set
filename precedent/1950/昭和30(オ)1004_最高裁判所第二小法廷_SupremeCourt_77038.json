@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 6,
+    "day": 29
+  },
+  "case_number": "昭和30(オ)1004",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第22号647頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 9,
+    "day": 27
+  },
+  "lawsuit_id": "77038",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77038",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/038/077038_hanrei.pdf"
+}

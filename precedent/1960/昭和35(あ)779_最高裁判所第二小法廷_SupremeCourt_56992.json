@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 11,
+    "day": 16
+  },
+  "case_number": "昭和35(あ)779",
+  "case_name": "恐喝、銃砲刀剣類等所持取締法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第16巻11号1562頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 3,
+    "day": 9
+  },
+  "gist": "刑法第二五条第二項但書と憲法第三九条後段、第一四条第一項。",
+  "case_gist": "刑法第二五条第二項但書は、憲法第三九条後段、第一四条第一項に違反しない。",
+  "ref_law": "刑法25条1項，刑法2項，憲法39条，憲法14条1項",
+  "lawsuit_id": "56992",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56992",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/992/056992_hanrei.pdf"
+}

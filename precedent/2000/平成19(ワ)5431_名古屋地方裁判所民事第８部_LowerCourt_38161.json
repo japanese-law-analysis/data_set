@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 7,
+    "day": 10
+  },
+  "case_number": "平成19(ワ)5431",
+  "case_name": "損害賠償請求事件",
+  "court_name": "名古屋地方裁判所民事第８部",
+  "gist": "(1) 地方公共団体の組合が発注したごみ焼却施設建設工事の指名競争入札において，入札業者間に談合が存在したと認定された事例\n(2) 談合による損害賠償額が民事訴訟法２４８条に基づき契約金額の８％と算定された事例",
+  "lawsuit_id": "38161",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=38161",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/161/038161_hanrei.pdf",
+  "contents": ""
+}

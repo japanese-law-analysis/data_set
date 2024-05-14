@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 11,
+    "day": 10
+  },
+  "case_number": "昭和42(オ)495",
+  "case_name": "土地所有権確認等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第89号141頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和41(ネ)475",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 2,
+    "day": 9
+  },
+  "gist": "農地法第三条または第五条にもとづく知事の許可とその判断事項",
+  "case_gist": "農地法第三条または第五条にもとづく知事の許可は、農地法の立法目的に照らして、当該農地の所有権の移転等につき、その権利の取得者が農地法上の適格性を有するか否かの点のみを判断して決定すべきであり、それ以上に、その所有権の移転等の私法上の効力やそれによる犯罪の成否等の点についてまで判断してなすべきではない、と解するのが相当である。",
+  "ref_law": "農地法3条，農地法5条",
+  "lawsuit_id": "74484",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74484",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/484/074484_hanrei.pdf"
+}

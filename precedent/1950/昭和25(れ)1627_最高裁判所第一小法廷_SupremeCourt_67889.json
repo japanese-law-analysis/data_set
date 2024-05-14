@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 1,
+    "day": 25
+  },
+  "case_number": "昭和25(れ)1627",
+  "case_name": "常習賭博",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第39号685頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 6,
+    "day": 12
+  },
+  "gist": "一　賭博罪の判示とその相手方の員数及び氏名の判示の要否\n二　賭博方法の判示の程度",
+  "case_gist": "一　賭博罪は二人で偶然の事情により勝負を決しこれに財物を賭けることによつて成立するものであり、その相手方が特定の人物であること及びその員数の如きは必ずしも賭博罪成立の要件ではない。されば所論のように被告人等のなした各賭博行為毎にその相手方の員数及びその氏名を明確に判示しなかつたとしても違法はない。\n二　花札を使用して行われる俗に名古屋花、後先、又はハンカンと称する賭銭博賭をしたと犯時する以上、賭博罪の判示として欠くるところがないからそれ以上詳細にその方法内容を判示しなくとも差支えないのである。",
+  "ref_law": "刑法185条，旧刑訴法360条1項",
+  "lawsuit_id": "67889",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=67889",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/889/067889_hanrei.pdf"
+}

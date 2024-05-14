@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 6,
+    "day": 22
+  },
+  "case_number": "昭和46(オ)95",
+  "case_name": "第二封鎖預金調整勘定利益分配金請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第103号207頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和45(ネ)803",
+  "original_date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 10,
+    "day": 28
+  },
+  "gist": "会社を当事者とする訴を提起した者の代表権の存否の認定の基準時",
+  "case_gist": "会社を当事者とする訴を提起した者の代表権は、事実審の口頭弁論の終結時に存在していなければならないものであつて、裁判所は、右代表権の存否の認定にあたつては、事実審の口頭弁論の終結時を基準としてこれを判断すれば足り、その後に生じる事情の変動を斟酌することを要しない。",
+  "ref_law": "民訴法58条，民訴法45条",
+  "lawsuit_id": "62080",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62080",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/080/062080_hanrei.pdf"
+}

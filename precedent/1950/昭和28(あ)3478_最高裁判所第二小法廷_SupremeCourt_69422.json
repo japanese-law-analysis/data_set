@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 12,
+    "day": 25
+  },
+  "case_number": "昭和28(あ)3478",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第90号593頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 6,
+    "day": 8
+  },
+  "gist": "一　刑訴法第三二一条第一項二号但書の規定の趣旨\n二　「信用すべき特別の情況」存否の判断に関する証拠調の要否",
+  "case_gist": "公判期日における供述より信用すべき特別の情況が存するか否かの判断は、結局事実審裁判所の裁量にまかされているとするのが、当裁判所判例である。（昭和二六年（あ）一一一一号同年一一月一五日第一小法廷判決、集五巻一二号二三九三頁。昭和二七年（あ）六四二号同二八年六月二三日第三小法廷判決）そして、「信用すべき特別の情況」の存否の判断については、必ずしも特段の証拠調を要するものでないから、第一審の手続に所論の違法はない。",
+  "ref_law": "刑訴法321条1項2号但書",
+  "lawsuit_id": "69422",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=69422",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/422/069422_hanrei.pdf"
+}

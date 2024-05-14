@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 9,
+    "day": 30
+  },
+  "case_number": "昭和55(オ)606",
+  "case_name": "所有権移転登記手続、土地引渡",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第130号409頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和49(ネ)1549",
+  "original_date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 3,
+    "day": 19
+  },
+  "gist": "土地の一部を目的とする売買契約における買受部分の特定につき選択債権に関する規定を適用した原審の判断が是認された事例",
+  "case_gist": "一〇〇坪の土地のうち西側半分五〇坪を売渡すものとして売買契約が成立した後、買主において、売主に対し、一定期間を定めて右五〇坪を特定するよう催告したが売主がこれに応じなかつたため、買主が測量のうえ右五〇坪を一〇〇坪の土地の西側一五九・六四平方メートルの部分に定め、不足部分は放棄する旨を通知した等原判示の事実関係（原判決理由参照）のもとで、民法四〇六条以下の規定により売買の範囲が特定し、買受土地の所有権は売買契約の効力の発生時に遡つて買主に帰属した旨の原審の判断は、正当である。",
+  "ref_law": "民法406条，民法407条，民法408条，民法411条",
+  "lawsuit_id": "64354",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64354",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/354/064354_hanrei.pdf"
+}

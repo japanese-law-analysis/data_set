@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 7,
+    "day": 14
+  },
+  "case_number": "昭和32(オ)20",
+  "case_name": "所有権移転登記抹消請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第13巻7号1005頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 10,
+    "day": 23
+  },
+  "gist": "瑕疵ある登記申請に基いてなされた登記の効力。",
+  "case_gist": "登記申請が登記義務者の意思に基いてなされたものであり、よつてなされた登記が実体的権利関係に合致するときは、たとえ右申請の際に添付された印鑑証明書の日附が変造されたものであつても、なお、登記の効力を妨げないというべきである。",
+  "ref_law": "民法177条，不動産登記法35条，不動産登記法施行細則43条",
+  "lawsuit_id": "56216",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56216",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/216/056216_hanrei.pdf"
+}

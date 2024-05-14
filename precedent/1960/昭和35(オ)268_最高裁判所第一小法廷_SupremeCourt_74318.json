@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 11,
+    "day": 7
+  },
+  "case_number": "昭和35(オ)268",
+  "case_name": "採掘権取得登録抹消手続請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第69号107頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 11,
+    "day": 11
+  },
+  "gist": "判決理由の記載に矛盾があるが判決に影響がないとされた事例。",
+  "case_gist": "判決理由の記載に矛盾があつても、それが単なる蛇足的記載にすぎないかぎり、判決に影響を及ぼすべき違法があるとはいえない。",
+  "ref_law": "民訴法394条，民訴法395条1項",
+  "lawsuit_id": "74318",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74318",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/318/074318_hanrei.pdf"
+}

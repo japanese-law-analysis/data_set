@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 2,
+    "day": 8
+  },
+  "case_number": "昭和59(し)126",
+  "case_name": "所得税法違反被告事件について地方裁判所がした裁定合議決定取消決定に対する特別抗告",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第39巻1号15頁",
+  "original_court_name": "大阪地方裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 12,
+    "day": 10
+  },
+  "gist": "裁定合議決定の取消決定に対する不服申立の許否",
+  "case_gist": "裁判所法二六条二項一号の決定を取り消す決定は、訴訟法に準拠する不服申立の対象とならない。",
+  "ref_law": "裁判所法26条2項1号，刑訴法419条，刑訴法420条1項，刑訴法433条1項",
+  "lawsuit_id": "50323",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50323",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/323/050323_hanrei.pdf"
+}

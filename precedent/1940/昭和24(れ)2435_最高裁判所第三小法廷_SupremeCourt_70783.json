@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 12,
+    "day": 6
+  },
+  "case_number": "昭和24(れ)2435",
+  "case_name": "常習賭博",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第15号211頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 7,
+    "day": 5
+  },
+  "gist": "賭博の常習性の認定と實驗則",
+  "case_gist": "原審は、所論のように被告人が昭和二一年および翌二二年いづれも高山區裁判所において賭博罪により罰金刑に處せらた事實と昭和二二年九月一四日頃行われた本件賭博の事實によつて被告人が常習として本件賭博罪を犯したものと認定したのであつて、これらの證據から認められる状況によつて被告人の賭博の習癖があつたものと認定することは、少しも實驗則に反するところはない。",
+  "ref_law": "刑法186條，舊刑訴法336條，舊刑訴法337條",
+  "lawsuit_id": "70783",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70783",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/783/070783_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 1,
+    "day": 27
+  },
+  "case_number": "昭和48(あ)1984",
+  "case_name": "覚せい剤取締法違反、同幇助",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第29巻1号22頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 8,
+    "day": 6
+  },
+  "gist": "覚せい剤の所持罪と覚せい剤原料の所持罪とが併合罪の関係にあるとされた事例",
+  "case_gist": "覚せい剤（粉末〇・四三七グラム）を自宅でテレビの上に置いて所持する罪と、覚せい剤原料（粉末〇・七六一二グラム）を自宅で着衣のポケットに入れて所持する罪とは、併合罪の関係にある。",
+  "ref_law": "覚せい剤取締法14条1項，覚せい剤取締法（昭和48年法律114号による改正前のもの）30条の7，覚せい剤取締法（昭和48年法律114号による改正前のもの）41条1項2号，覚せい剤取締法（昭和48年法律114号による改正前のもの）41条の4第1項3号，刑法45条",
+  "lawsuit_id": "51063",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51063",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/063/051063_hanrei.pdf"
+}

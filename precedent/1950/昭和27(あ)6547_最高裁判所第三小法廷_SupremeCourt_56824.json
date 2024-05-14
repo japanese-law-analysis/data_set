@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 5,
+    "day": 11
+  },
+  "case_number": "昭和27(あ)6547",
+  "case_name": "賍物牙保",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第8巻5号664頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 11,
+    "day": 4
+  },
+  "gist": "伝聞証言について証拠とすることの同意があつたと認められる場合",
+  "case_gist": "伝聞証言について、被告人が何ら異議を述べず、証人に兼ねることもないといつている場合には、これを証拠とすることの同意があつたものと認められる。",
+  "ref_law": "刑訴法326条，刑訴法320条",
+  "lawsuit_id": "56824",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56824",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/824/056824_hanrei.pdf"
+}

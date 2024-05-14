@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 11,
+    "day": 18
+  },
+  "case_number": "昭和23(れ)792",
+  "case_name": "強盗、窃盗",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第2巻12号1610頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 5,
+    "day": 27
+  },
+  "gist": "一　強盜の見張りと強盜の共同正犯\n二　窃盜罪における被害物件の判示程度",
+  "case_gist": "一　數名共同で強盜することを謀議して、その實行行爲の分擔を定め、各自の行爲を集結して所期の目的を達成した以上、たとい犯行現場において見張をしたに過ぎないものであつても、なお強盜の共同正犯たるの責を兔れ得ないものであるということは當裁判所の判例とするところである。\n二　窃盜罪における被害物件の判示としては、窃取された財物の何たるかを明らかにすれば、十分なのであつて、これを具體的に確定する外その價格までも認定しなければならぬものではない。",
+  "ref_law": "刑法236條，刑法60條，刑法235條，刑訴法360條1項",
+  "lawsuit_id": "56597",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56597",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/597/056597_hanrei.pdf"
+}

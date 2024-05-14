@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 1,
+    "day": 31
+  },
+  "case_number": "昭和27(あ)2261",
+  "case_name": "詐欺",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第11巻1号346頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 2,
+    "day": 29
+  },
+  "gist": "いわゆる「刺米」をいわゆる「匿名供出」として生産者から売渡を委託された米であるかのように装い係員を欺罔し、その代金を預金口座に振り込ませる行為と詐欺罪の成否",
+  "case_gist": "供出米の検査に際し俵から刺とられるいわゆる「刺米」をいわゆる「匿名供出」として生産者から売渡を委託された米であるかのように装い政府に対し売渡を申し込み、係員を誤信せしめた結果預金として口座に代金を振り込ませて財産上の利益を得た場合には、詐欺罪を構成する。",
+  "ref_law": "刑法246条，食糧管理法3条1項，主要食糧検査令施行規則2条1項，主要食糧検査令施行規則3条5項",
+  "lawsuit_id": "51251",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51251",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/251/051251_hanrei.pdf"
+}

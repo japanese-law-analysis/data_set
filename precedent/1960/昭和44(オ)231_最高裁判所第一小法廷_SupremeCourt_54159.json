@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 9,
+    "day": 18
+  },
+  "case_number": "昭和44(オ)231",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第23巻9号1699頁",
+  "original_court_name": "高松高等裁判所",
+  "original_case_number": "昭和41(オ)372",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 11,
+    "day": 25
+  },
+  "gist": "自動車損害賠償保障法三条による運行供用者責任が認められた事例",
+  "case_gist": "甲の買い受けた自動車をその被用者が運転中に事故を起こした場合において、甲が、自動車運送事業の免許を受けないで、自動車の使用者名義を乙とし、車体に乙の商号を表示した該自動車を使用して、専属的に乙のための貨物運送にあたつていたもので、右事故もその業務に従事中におけるものであり、また、右自動車の割賦代金やガソリン代等は乙が支払つて甲に対する運賃から差し引いていた等、判示のような事実関係があるときは、乙は、自動車損害賠償保障法三条による運行供用者としての責任を負う。",
+  "ref_law": "自動車損害賠償保障法3条",
+  "lawsuit_id": "54159",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54159",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/159/054159_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 6,
+    "day": 30
+  },
+  "case_number": "昭和27(あ)1485",
+  "case_name": "詐欺",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第7巻6号1397頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 10,
+    "day": 29
+  },
+  "gist": "通帳を騙取した行為と右通帳を配給所へ提出して米穀を騙取した行為との関係",
+  "case_gist": "米穀通帳を騙取しこれを配給所へ提出し、係員を欺罔して米穀の配給を受けた場合、米穀通帳の詐欺罪のほかに米穀の詐欺罪が成立するのであつて、この二罪は併合罪の関係にあるものと解するのを相当とする。",
+  "ref_law": "刑法246条，刑法45条，刑法47条",
+  "lawsuit_id": "54681",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54681",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/681/054681_hanrei.pdf"
+}

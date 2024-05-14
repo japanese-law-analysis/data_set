@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 5,
+    "day": 2
+  },
+  "case_number": "昭和38(オ)155",
+  "case_name": "所有権確認等請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第21巻4号811頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和35(ネ)157",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 11,
+    "day": 21
+  },
+  "gist": "一　財産税物納の場合における財産税債権消滅の時期\n二　財産税物納許可後における財産税債権の消滅時効進行の有無",
+  "case_gist": "一　財産税について不動産が物納許可の対象とされた場合、財産税債権は、右許可によつてただちに消滅するのではなく、右不動産について物納許可を原因とする所有権移転登記手続が完了するまで存続する。\n二　財産税について、物納許可がされた後においても、財産税債権の消滅時効が進行する。",
+  "ref_law": "財産税法56条，財産税法施行規則60条，昭和22年政令109号1条，民法166条",
+  "lawsuit_id": "54948",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54948",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/948/054948_hanrei.pdf"
+}

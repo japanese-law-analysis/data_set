@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 3,
+    "day": 20
+  },
+  "case_number": "昭和28(さ)2",
+  "case_name": "窃盗被告事件について福岡簡易裁判所のなした有罪確定判決に対する非常上告の申立",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集刑　第76号663頁",
+  "original_court_name": "福岡簡易裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 6,
+    "day": 18
+  },
+  "gist": "非常上告につき原判決を破棄して更に判決をした一事例。（執行猶予中の前科刑に対し累犯加重をした場合）",
+  "case_gist": "原判決において当時被告人の判示前科の刑が執行猶予中であることを認定しながら、刑法五六条、五七条を適用して累犯加重をした上被告人を懲役一年に処する旨の言渡をなしたことは、右各法条の適用を誤つた違法があり、本件非常上告は理由があるのみならず、原判決は被告人のため不利益であること明らかであるから、刑訴四五八条一号により原判決を破棄し、被告事件につき更に判決をする。",
+  "ref_law": "刑法25条，刑法56条，刑法57条，刑訴法411条",
+  "lawsuit_id": "69489",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=69489",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/489/069489_hanrei.pdf"
+}

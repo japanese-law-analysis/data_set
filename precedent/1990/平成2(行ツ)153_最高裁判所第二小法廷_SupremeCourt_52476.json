@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 4,
+    "month": 1,
+    "day": 24
+  },
+  "case_number": "平成2(行ツ)153",
+  "case_name": "土地改良事業施行認可処分取消",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第46巻1号54頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成2(行コ)21",
+  "original_date": {
+    "era": "Heisei",
+    "year": 2,
+    "month": 6,
+    "day": 28
+  },
+  "gist": "土地改良事業の工事等が完了して原状回復が社会通念上不可能となった場合と右事業の施行の認可の取消しを求める訴えの利益の帰すう",
+  "case_gist": "町営の土地改良事業の工事等が完了して原状回復が社会通念上不可能となった場合であっても、右事業の施行の認可の取消しを求める訴えの利益は消滅しない。",
+  "ref_law": "行政事件訴訟法9条31条，土地改良法96条の2第1項",
+  "lawsuit_id": "52476",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52476",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/476/052476_hanrei.pdf"
+}

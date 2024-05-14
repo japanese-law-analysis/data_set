@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 5,
+    "month": 6,
+    "day": 25
+  },
+  "case_number": "平成4(オ)1078",
+  "case_name": "未払賃金",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第47巻6号4585頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成2(ネ)4399",
+  "original_date": {
+    "era": "Heisei",
+    "year": 4,
+    "month": 3,
+    "day": 18
+  },
+  "gist": "タクシー会社の乗務員が月ごとの勤務予定表作成後に年次有給休暇を取得した場合に皆勤手当を支給しない旨の約定が公序に反する無効なものとはいえないとされた事例",
+  "case_gist": "タクシー会社の乗務員に対し、月ごとの勤務予定表どおり勤務した場合には月額三一〇〇円ないし四一〇〇円の皆勤手当を支給するが、右勤務予定表作成後に年次有給休暇を取得した場合には右手当の全部又は一部を支給しない旨の約定は、右手当の支給が代替要員の手配が困難となり自動車の実働率が低下する事態を避ける配慮をした乗務員に対する報奨としてされ、右手当の額も相対的に大きいものではないなどの判示の事情の下においては、年次有給休暇取得の権利の行使を抑制して労働基準法が労働者に右権利を保障した趣旨を実質的に失わせるものとは認められず、公序に反する無効なものとはいえない。",
+  "ref_law": "民法90条，労働基準法39条，労働基準法134条",
+  "lawsuit_id": "52785",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52785",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/785/052785_hanrei.pdf"
+}

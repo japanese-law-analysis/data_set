@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 6,
+    "day": 4
+  },
+  "case_number": "昭和24(れ)213",
+  "case_name": "強盗殺人",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第11号65頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 11,
+    "day": 16
+  },
+  "gist": "勾留手續の不當と上告理由",
+  "case_gist": "被告人に對する勾留が、手續上不當であつても、これを理由として上告をすることはできない。",
+  "ref_law": "舊刑訴法91條，舊刑訴法114條",
+  "lawsuit_id": "70765",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70765",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/765/070765_hanrei.pdf"
+}

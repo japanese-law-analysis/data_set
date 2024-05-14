@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 11,
+    "day": 5
+  },
+  "case_number": "昭和23(れ)1541",
+  "case_name": "偽証、飲食営業緊急措置令違反",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "刑集　第6巻10号1159頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 8,
+    "day": 16
+  },
+  "gist": "一　証言拒絶権ある証人を宣誓させて尋問した場合と憲法第三八条第一項\n二　宣誓させないで尋問すべき証人に宣誓させた場合と偽証罪の成否",
+  "case_gist": "一　旧刑訴第一八八条第一項にあたる場合、証人は証言を拒む権利があるから、右証人に宣誓させて尋問したからといつて直ちに憲法第三八条第一項にいう自己に不利益な供述を強要したものということはできない。\n二　証人が旧刑訴第一八八条第一項により証言を拒むことができるのにこれを拒まなかつた場合に、その証人が、宣誓の上虚偽の陳述をしても偽証罪は成立しない。",
+  "ref_law": "刑法169，旧刑訴法188条，旧刑訴法201条，憲法38条1項",
+  "lawsuit_id": "55300",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55300",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/300/055300_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 4,
+    "day": 5
+  },
+  "case_number": "昭和32(み)16",
+  "case_name": "猥褻文書販売被告事件につきなした上告棄却の判決に対する判決訂正申立",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第118号769頁",
+  "original_court_name": "最高裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 3,
+    "day": 13
+  },
+  "gist": "刑訴法第四一五条の判決の内容に誤のある場合にあたらない一事例",
+  "case_gist": "判決理由中の訂正を求める箇所が、訂正事項と趣旨において異るところがないときは、刑訴第四一五条の判決の内容に誤ある場合にあたらない。",
+  "ref_law": "刑訴法415条",
+  "lawsuit_id": "58663",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58663",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/663/058663_hanrei.pdf"
+}

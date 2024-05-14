@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 7,
+    "day": 30
+  },
+  "case_number": "昭和28(オ)525",
+  "case_name": "放学処分取消請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第8巻7号1463頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 4,
+    "day": 30
+  },
+  "gist": "一　公立大学学生の退学処分の性格\n二　公立大学学生の懲戒処分と裁判権のおよぶ範囲",
+  "case_gist": "一　公立大学の学長がその学生に退学を命ずる行為は、行政事件訴訟特例法第一条にいう行政処分に当る。\n二　公立大学学生の行為に対し、懲戒処分を発動するかどうか、懲戒処分のうちいずれの処分を選ぶかを決定することは、この点の判断が社会観念上著しく妥当を欠くものと認められる場合を除き、原則として、懲戒権者としての学長の裁量に任されるが、懲戒処分が全く事実の基礎を欠くものであるかどうかの点は、裁判所の判断に服する。",
+  "ref_law": "行政事件訴訟特例法1条，学校教育法11条，学校教育法施行規則13条",
+  "lawsuit_id": "57432",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57432",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/432/057432_hanrei.pdf"
+}

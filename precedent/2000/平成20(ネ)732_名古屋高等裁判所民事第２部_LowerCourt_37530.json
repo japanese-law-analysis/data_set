@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 3,
+    "day": 13
+  },
+  "case_number": "平成20(ネ)732",
+  "case_name": "損害賠償請求控訴事件",
+  "court_name": "名古屋高等裁判所民事第２部",
+  "result": "棄却",
+  "original_court_name": "名古屋地方裁判所",
+  "original_case_number": "平成19(ワ)1317",
+  "original_result": "棄却",
+  "gist": "名古屋市Ａ区長による固定資産税等の賦課決定に従い固定資産税等を納付してきた建物所有者が，当該課税処分には経年減点補正率の適用を誤った違法があるとして，国家賠償法１条１項に基づき固定資産税の過納金相当額等の損害賠償を求めたのに対し，課税処分の違法が，当該処分を当然無効ならしめるものではない場合には，それが適法に取り消されない限り，同処分の違法を理由とし，過納金相当額を損害とする国家賠償法に基づく損害賠償請求は許されないとして請求を棄却した原審を維持した事例",
+  "lawsuit_id": "37530",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=37530",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/530/037530_hanrei.pdf",
+  "contents": ""
+}

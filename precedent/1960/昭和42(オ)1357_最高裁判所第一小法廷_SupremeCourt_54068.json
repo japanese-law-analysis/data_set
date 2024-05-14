@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 3,
+    "day": 28
+  },
+  "case_number": "昭和42(オ)1357",
+  "case_name": "売掛代金（本訴）、損害賠償（反訴）請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第22巻3号707頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和39(ネ)23",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 8,
+    "day": 22
+  },
+  "gist": "錯誤または詐欺による取消の主張について擬制自白の成立が認められなかつた事例",
+  "case_gist": "立木の売主甲より買主乙に対する売渡代金の請求訴訟において、甲勝訴の第一審判決後の控訴審で、乙が買受の意思表示に要素の錯誤があるか、または右意思表示が詐欺によるものとして取り消された旨の主張をしたのに対し、甲が弁論期日に欠席してその認否をしなかつたとしても、甲が右訴訟を維持している等の事実があるときは、甲は乙の右主張を争つているものと認めるのが相当である。",
+  "ref_law": "民訴法140条3項",
+  "lawsuit_id": "54068",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54068",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/068/054068_hanrei.pdf"
+}

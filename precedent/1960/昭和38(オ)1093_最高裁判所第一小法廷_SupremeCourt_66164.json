@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 6,
+    "day": 4
+  },
+  "case_number": "昭和38(オ)1093",
+  "case_name": "債務不存在確認等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第74号23頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 6,
+    "day": 29
+  },
+  "gist": "登記申請書には抵当権設定と表示されていて「根抵当権」なる文言が用いられていなくても申請書の記載趣旨により根抵当権設定登記がなされた場合の登記の効力。",
+  "case_gist": "登記申請書には抵当権設定と表示されていて「根抵当権」なる文言が用いられていなくても、同申請書に当該抵当権の被担保債権額として元本極度額金何円なる記載がある場合、右申請書によつてなされた根抵当権設定登記は有効である。",
+  "ref_law": "不動産登記法117条",
+  "lawsuit_id": "66164",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66164",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/164/066164_hanrei.pdf"
+}

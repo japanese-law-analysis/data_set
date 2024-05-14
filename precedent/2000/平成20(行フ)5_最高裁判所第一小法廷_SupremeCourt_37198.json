@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 1,
+    "day": 15
+  },
+  "case_number": "平成20(行フ)5",
+  "case_name": "検証物提示命令申立て一部提示決定に対する許可抗告事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "破棄自判",
+  "article_info": "民集　第63巻1号46頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "平成20(行タ)3",
+  "original_date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 5,
+    "day": 12
+  },
+  "gist": "情報公開法に基づく行政文書の開示請求に対する不開示決定の取消訴訟において，不開示とされた文書を検証の目的として被告にその提示を命ずることの許否",
+  "case_gist": "情報公開法に基づく行政文書の開示請求に対する不開示決定の取消訴訟において，不開示とされた文書を目的とする検証を被告に受忍義務を負わせて行うことは，原告が検証への立会権を放棄するなどしたとしても許されず，上記文書を検証の目的として被告にその提示を命ずることも許されない。\n(補足意見がある。）",
+  "ref_law": "民訴法223条1項，民訴法232条1項，行政機関の保有する情報の公開に関する法律（情報公開法）5条，行政機関の保有する情報の公開に関する法律（情報公開法）9条2項",
+  "lawsuit_id": "37198",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=37198",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/198/037198_hanrei.pdf",
+  "contents": ""
+}

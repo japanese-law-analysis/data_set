@@ -1,0 +1,17 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Reiwa",
+    "year": 1,
+    "month": 10,
+    "day": 30
+  },
+  "case_number": "平成30(行ウ)219",
+  "case_name": "更正をすべき理由がない旨の通知処分取消請求事件",
+  "court_name": "東京地方裁判所",
+  "gist": "競馬の当たり馬券の払戻金が所得税法上の一時所得ではなく雑所得に当たるとされた事例",
+  "case_gist": "回収率が総体として１００％を超えることを期待し得る独自のノウハウに基づいて長期間にわたり多数の馬券を頻繁かつ継続的に選別して購入していたという本件の事実関係の下では，一連の馬券の購入は客観的にみて営利を目的とする継続的行為と認められるから，その馬券の的中による払戻金に係る所得は所得税法上の一時所得ではなく雑所得に当たる。",
+  "lawsuit_id": "89402",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=89402",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/402/089402_hanrei.pdf"
+}

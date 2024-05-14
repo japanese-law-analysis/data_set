@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 2,
+    "day": 27
+  },
+  "case_number": "昭和48(オ)345",
+  "case_name": "建物収去土地明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第114号241頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和46(ネ)2291",
+  "original_date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 1,
+    "day": 22
+  },
+  "gist": "正当な賃料支払の相手方を確知できないため賃料の支払をしなかつた土地賃借人につきその責に帰すべき履行遅滞がないとされた事例",
+  "case_gist": "賃貸人甲が係争土地をその弟乙に売渡し、乙がさらにこれを甲の養子丙、丁に売渡した場合において、甲の死亡後その実子とされている戊と丙、丁との間に係争土地及び甲の相続財産の帰属に関し深刻な紛争を生じ、戊から丙、丁を相手方として係争土地に処分禁止の仮処分をし、また、戊の訴提起により甲〜丙、丁間の養子縁組の無効確認を求める訴訟及び係争土地の所有権移転登記手続を求める訴訟が係属していたなど判示の事情があるときは、正当な賃料支払の相手方を確知できないため賃料の支払をしなかつた係争土地の賃借人につき、その責に帰すべき履行遅滞はない。",
+  "ref_law": "民法412条，民法494条",
+  "lawsuit_id": "62160",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62160",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/160/062160_hanrei.pdf"
+}

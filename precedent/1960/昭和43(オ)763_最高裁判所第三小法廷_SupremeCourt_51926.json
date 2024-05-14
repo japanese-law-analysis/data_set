@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 12,
+    "day": 2
+  },
+  "case_number": "昭和43(オ)763",
+  "case_name": "立木所有権確認請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第23巻12号2374頁",
+  "original_court_name": "広島高等裁判所\n        　松江支部",
+  "original_case_number": "昭和39(ネ)41",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 4,
+    "day": 30
+  },
+  "gist": "自作農創設特別措置法三〇条一項一号による未墾地買収処分の効力が地上樹木に及ばないとされた事例",
+  "case_gist": "自作農創設特別措置法三〇条一項一号により国が未墾地を買収する場合において、当該未墾地上に、立木に関する法律の適用も受けず、いわゆる明認方法もほどこされていないが、独立した取引価値のある樹木が生立するにもかかわらず、当該買収対価中に右樹木の価格が算定されていないときは、当該未墾地買収処分の効力は、右樹木に及ばないものと解すべきである。",
+  "ref_law": "自作農創設特別措置法30条1項1号",
+  "lawsuit_id": "51926",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51926",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/926/051926_hanrei.pdf"
+}

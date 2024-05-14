@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 6,
+    "day": 29
+  },
+  "case_number": "昭和58(あ)1056",
+  "case_name": "殺人",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第237号37頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 6,
+    "day": 30
+  },
+  "gist": "控訴審裁判所の構成員たる裁判官が、それ以前に、同一の犯罪事実に関し、共犯者の別件被告事件の控訴審の審理判決に関与したとしても、憲法三七条一項（公平な裁判所）に違反しないとされた事例",
+  "ref_law": "憲法37条1項",
+  "lawsuit_id": "58295",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58295",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/295/058295_hanrei.pdf"
+}

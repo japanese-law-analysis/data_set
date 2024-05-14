@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 10,
+    "day": 15
+  },
+  "case_number": "昭和24(れ)1660",
+  "case_name": "物価統制令違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第14号219頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 5,
+    "day": 18
+  },
+  "gist": "被告事件に關し事實の顛未を記載した始末書の性質",
+  "case_gist": "所論の始末書は、本件被告事件に關しその名義人の關與した事實の顛未を記載してこれを捜査官署に提出したものであつて、したがつてその本質は一種の報告的文書であること明かであるから舊刑訴法第三四〇條に所謂證據書類に該當し、所謂證據物たる書類（同法第三四一條第二項）に該當しないことは明かである。",
+  "ref_law": "舊刑訴法340條，舊刑訴法341條2項",
+  "lawsuit_id": "74855",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74855",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/855/074855_hanrei.pdf"
+}

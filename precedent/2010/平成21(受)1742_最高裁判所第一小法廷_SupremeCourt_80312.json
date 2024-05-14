@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 6,
+    "day": 17
+  },
+  "case_number": "平成21(受)1742",
+  "case_name": "損害賠償請求事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第64巻4号1197頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "平成20(ネ)1063",
+  "original_date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 6,
+    "day": 4
+  },
+  "gist": "売買の目的物である新築建物に重大な瑕疵がありこれを建て替えざるを得ない場合に，買主からの工事施工者等に対する不法行為に基づく建て替え費用相当額の損害賠償請求において買主が当該建物に居住していたという利益を損益相殺等の対象として損害額から控除することの可否",
+  "case_gist": "売買の目的物である新築建物に重大な瑕疵がありこれを建て替えざるを得ない場合において，当該瑕疵が構造耐力上の安全性にかかわるものであるため建物が倒壊する具体的なおそれがあるなど，社会通念上，建物自体が社会経済的な価値を有しないと評価すべきものであるときには，上記建物の買主がこれに居住していたという利益については，当該買主からの工事施工者等に対する不法行為に基づく建て替え費用相当額の損害賠償請求において損益相殺ないし損益相殺的な調整の対象として損害額から控除することはできない。\n(補足意見がある。）",
+  "ref_law": "民法709条",
+  "lawsuit_id": "80312",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=80312",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/312/080312_hanrei.pdf",
+  "contents": ""
+}

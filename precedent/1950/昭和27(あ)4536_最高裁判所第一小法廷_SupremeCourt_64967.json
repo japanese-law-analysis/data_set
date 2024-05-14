@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 7,
+    "day": 16
+  },
+  "case_number": "昭和27(あ)4536",
+  "case_name": "窃盗、賍物収受",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第84号593頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 6,
+    "day": 6
+  },
+  "gist": "さきに予備的訴因として甲の公訴事実に追加された乙事実が公訴事実に同一性なしとして破棄差し戻された判決の確定後、新らたに乙事実につき公訴を提起することと二重起訴の有無",
+  "case_gist": "本件差戻の控訴判決は、所論強盗殺人の公訴事実と予備的訴因として追加請求された賍物収受の事実との間には公訴事実の同一性がないから、その予備的追加の請求は不適法として許されないものと判断して事件を差し戻し、その差戻判決が確定したから、新らたに賍物収受の事実につき公訴を提起したものである。従つて二重に起訴したものとはいえない。",
+  "ref_law": "刑訴法338条，憲法39条",
+  "lawsuit_id": "64967",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64967",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/967/064967_hanrei.pdf"
+}

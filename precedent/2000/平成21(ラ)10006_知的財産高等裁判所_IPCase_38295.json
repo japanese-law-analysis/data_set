@@ -1,0 +1,18 @@
+{
+  "trial_type": "IPCase",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 12,
+    "day": 15
+  },
+  "case_number": "平成21(ラ)10006",
+  "case_name": "不正競争仮処分申立却下決定に対する抗告事件",
+  "court_name": "知的財産高等裁判所",
+  "right_type": "不正競争",
+  "lawsuit_type": "民事仮処分",
+  "lawsuit_id": "38295",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail7?id=38295",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/295/038295_hanrei.pdf",
+  "contents": ""
+}

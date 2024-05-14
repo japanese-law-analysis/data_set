@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 9,
+    "day": 22
+  },
+  "case_number": "昭和23(つ)14",
+  "case_name": "高等裁判所のなした保釈請求却下決定に対する抗告",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第4号153頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 8,
+    "day": 13
+  },
+  "gist": "保釋請求却下決定に對し最高裁判所に抗告を申立てることの適否",
+  "case_gist": "最高裁判所に對しては、刑訴應急措置法第一八條のように特に最高裁判所に抗告を申立てることを許された場合の外抗告をすることは許されないものであることは既に當裁判所の判例とするところである（昭和二二年（つ）第七號、同年一二月八日決定）。",
+  "ref_law": "裁判所法7條2號，刑訴應急措置法18條",
+  "lawsuit_id": "74646",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74646",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/646/074646_hanrei.pdf"
+}

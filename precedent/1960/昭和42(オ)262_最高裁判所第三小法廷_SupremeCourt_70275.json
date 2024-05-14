@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 7,
+    "day": 25
+  },
+  "case_number": "昭和42(オ)262",
+  "case_name": "損害補償金請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第88号183頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_case_number": "昭和40(ネ)88",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 12,
+    "day": 27
+  },
+  "gist": "北海道旧土人保護法に基づく無償下付土地に対する賃借権の設定が同法第二条第二項の制限を潜脱する脱法行為として無効とされた事例",
+  "case_gist": "北海道旧土人保護法に基づく無償下付土地に対する賃借権設定契約について、各個の存続期間は二〇年を超えることがないが、その期間満了によつて直ちに次期の契約が発効するため賃貸人に更新拒絶の余地がなく、その通算期間は数十年に及び、その全期間に亘つて賃料が前払され、また、転貸があらかじめ承諾され、その賃借権について登記を経ている等の事情（第一審判決理由参照）があつて、同法の予想する正常な賃貸借の範囲を逸脱し、同法第二条第二項の規定による制限を回避するために締結されたものと認められるときは、右賃借権の設定は、右条項の制限を潜脱する脱法行為として無効である。",
+  "ref_law": "北海道旧土人保護法2条2項",
+  "lawsuit_id": "70275",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70275",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/275/070275_hanrei.pdf"
+}

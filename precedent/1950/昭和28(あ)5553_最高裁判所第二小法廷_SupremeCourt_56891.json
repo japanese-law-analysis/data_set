@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 12,
+    "day": 23
+  },
+  "case_number": "昭和28(あ)5553",
+  "case_name": "強盗強姦",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第9巻14号2957頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 11,
+    "day": 16
+  },
+  "gist": "強姦前に盗品を返還した場合と強盗強姦罪の成立",
+  "case_gist": "犯人が衣類を窃取して屋外に出た際、帰宅した家人（女）に発見され、逮捕を免れるため、同女を屋内に押し入れ両手を後手に縛り上げて押入れに入れる等の暴行を加えたのち、同女の姿態をみて劣情を催しその押入内で同女を強姦した場合において、強姦前に盗品をもとの場所に返還した事実があつたとしても、刑法第二四一条前段の罪の成立を妨げない。",
+  "ref_law": "刑法238条，刑法241条",
+  "lawsuit_id": "56891",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56891",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/891/056891_hanrei.pdf"
+}

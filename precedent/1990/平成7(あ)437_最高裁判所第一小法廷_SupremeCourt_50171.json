@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 8,
+    "month": 2,
+    "day": 8
+  },
+  "case_number": "平成7(あ)437",
+  "case_name": "鳥獣保護及狩猟ニ関スル法律違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第50巻2号221頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 7,
+    "month": 4,
+    "day": 13
+  },
+  "gist": "鳥獣保護及狩猟ニ関スル法律一条の四第三項の委任を受けた昭和五三年環境庁告示第四三号三号リが禁止する「弓矢を使用する方法による捕獲」に当たるとされた事例",
+  "case_gist": "食用とする目的で狩猟鳥獣であるマガモ又はカルガモをねらい洋弓銃（クロスボウ）で矢を射かけた行為は、矢が外れたため鳥獣を自己の実力支配内に入れられず、かつ、殺傷するに至らなくても、鳥獣保護及狩猟ニ関スル法律一条の四第三項の委任を受けた昭和五三年環境庁告示第四三号三号リが禁止する「弓矢を使用する方法による捕獲」に当たる。",
+  "ref_law": "鳥獣保護及狩猟ニ関スル法律1ノ4第3項，昭和53年環境庁告示43号3号リ",
+  "lawsuit_id": "50171",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50171",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/171/050171_hanrei.pdf"
+}

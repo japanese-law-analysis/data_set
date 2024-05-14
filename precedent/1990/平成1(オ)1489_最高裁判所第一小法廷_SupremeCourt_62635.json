@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 3,
+    "month": 7,
+    "day": 18
+  },
+  "case_number": "平成1(オ)1489",
+  "case_name": "所有権確認等",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第163号165頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和63(ネ)2362",
+  "original_date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 7,
+    "day": 18
+  },
+  "gist": "同一の建物に二重の表示登記がされた場合における先行の表示登記の申請人ないしその登記を基礎とする所有権保存登記の名義人の地位に基づく後行の表示登記ないしその登記を基礎とする所有権保存登記の抹消請求の可否",
+  "case_gist": "同一の建物に二重の表示登記がされた場合において、先行の表示登記の申請人ないしその登記を基礎とする所有権保存登記の名義人は、その地位に基づいて、後行の表示登記ないしその登記を基礎とする所有権保存登記の抹消を求めることができない。",
+  "ref_law": "不動産登記法15条，不動産登記法25条ノ2",
+  "lawsuit_id": "62635",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62635",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/635/062635_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 2,
+    "day": 21
+  },
+  "case_number": "昭和24(れ)2446",
+  "case_name": "賭場開張図利",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第16号541頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 8,
+    "day": 23
+  },
+  "gist": "「各訊問調書」の證據調をしたとの記載と「一件記録を證據調した」との記載の相異",
+  "case_gist": "原審公判調書に、裁判官は「各訊問調書」の證據調をしたと記載されていることは、所論の通りである。しかし、右の記載は被告人に關する本件記録中に存するすべての訊問調書について證據調をした趣旨であることが明らかであつて、記録と對照すればそれが如何なる訊問調書であるか具体的に判明するのであるから、右の場合を所論のように「一件記録を證據調した」というやうな記載内容の不明な場合と同一に斷定することはできない。",
+  "ref_law": "舊刑訴法338條1項，舊刑訴法60條",
+  "lawsuit_id": "74906",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74906",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/906/074906_hanrei.pdf"
+}

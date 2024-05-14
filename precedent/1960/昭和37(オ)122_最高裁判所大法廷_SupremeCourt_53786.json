@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 2,
+    "day": 23
+  },
+  "case_number": "昭和37(オ)122",
+  "case_name": "区画整理事業設計等無効確認請求",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第20巻2号271頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和35(ネ)703",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 10,
+    "day": 31
+  },
+  "gist": "土地区画整理事業計画の決定と抗告訴訟の対象",
+  "case_gist": "土地区画整理事業計画の決定は、その公告がなされた段階においても、抗告訴訟の対象とならないものと解すべきである。",
+  "ref_law": "土地区画整理法66条，土地区画整理法6条，行政事件訴訟特例法1条",
+  "lawsuit_id": "53786",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53786",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/786/053786_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 4,
+    "day": 28
+  },
+  "case_number": "昭和38(オ)5",
+  "case_name": "退職手当金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第21巻3号759頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和37(ネ)1310",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 10,
+    "day": 30
+  },
+  "gist": "司法修習生は国家公務員等退職手当法にいう国家公務員またはこれに準ずるものにあたるか",
+  "case_gist": "司法修習生は、国家公務員等退職手当法にいう国家公務員またはこれに準ずるものにあたらない。",
+  "ref_law": "国家公務員等退職手当法2条，裁判所法66条1項",
+  "lawsuit_id": "54953",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54953",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/953/054953_hanrei.pdf"
+}

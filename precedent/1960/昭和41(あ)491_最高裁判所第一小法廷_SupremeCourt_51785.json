@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 7,
+    "day": 21
+  },
+  "case_number": "昭和41(あ)491",
+  "case_name": "道路交通法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第20巻6号696頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 1,
+    "day": 27
+  },
+  "gist": "逮捕手続における警察官の違法行為と公訴提起の効力",
+  "case_gist": "逮捕の際犯人に対して警察官による暴行陵虐の行為があつたとしても、そのために公訴提起の手続が憲法第三一条に違反し無効となるものではない。",
+  "ref_law": "憲法31条，刑訴法338条4号",
+  "lawsuit_id": "51785",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51785",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/785/051785_hanrei.pdf"
+}

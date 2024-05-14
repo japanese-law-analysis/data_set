@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 10,
+    "day": 11
+  },
+  "case_number": "平成18(行ウ)28",
+  "case_name": "許認可等拒否処分取消等請求事件",
+  "court_name": "岐阜地方裁判所",
+  "result": "その他",
+  "gist": "利害関係者である町内会長の同意がないことを理由に法定外公共物自費工事施行許可申請を拒否した処分につき，町内会長は「利害関係者」に当たらないとして取り消された事例",
+  "lawsuit_id": "35768",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=35768",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/768/035768_hanrei.pdf",
+  "contents": ""
+}

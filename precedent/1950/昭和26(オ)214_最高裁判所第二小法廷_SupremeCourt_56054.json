@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 12,
+    "day": 18
+  },
+  "case_number": "昭和26(オ)214",
+  "case_name": "宅地建物買収裁決取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第7巻12号1456頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 1,
+    "day": 31
+  },
+  "gist": "昭和二四年六月法律第二一五号による自作農創設特別措置法の改正前における同法第一五条のいわゆる附帯買収と右改正によつて加えられた同条第二項",
+  "case_gist": "昭和二四年六月法律第二一五号による自作農創設特別措置法の改正前においても、右改正によつて加えられた同法第一五条第二項に該当する事情のある場合は、同条第一項によるいわゆる附帯買収の申請を相当と認めることができない。",
+  "ref_law": "自作農創設特別措置法15条",
+  "lawsuit_id": "56054",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56054",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/054/056054_hanrei.pdf"
+}

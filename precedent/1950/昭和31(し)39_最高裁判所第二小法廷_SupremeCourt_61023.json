@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 9,
+    "day": 26
+  },
+  "case_number": "昭和31(し)39",
+  "case_name": "窃盗被告事件につきなした保釈請求却下決定に対する異議申立棄却決定に対する特別抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第114号797頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 8,
+    "day": 24
+  },
+  "gist": "保釈請求却下決定の理由として「被告人が逃亡する疑なしとは認められない」との認定に対する違憲（第三四条違反）の主張",
+  "case_gist": "所論は違憲をいうが、実質は原審が適法に認定した本件被告人に逃亡する疑なしとは認められないとする事実認定を争うに帰し、前提において採用できない。",
+  "ref_law": "刑訴法60条，刑訴法89条，刑訴法344条，憲法34条",
+  "lawsuit_id": "61023",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61023",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/023/061023_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 2,
+    "day": 20
+  },
+  "case_number": "昭和60(オ)1365",
+  "case_name": "保険金",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第41巻1号159頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "昭和58(ネ)457",
+  "original_date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 7,
+    "day": 19
+  },
+  "gist": "自家用自動車保険普通保険約款所定の対人事故通知義務の懈怠の効果",
+  "case_gist": "自家用自動車保険の保険契約者又は被保険者が保険者に対してすべき対人事故の通知を懈怠したときには保険者は原則として事故に係る損害を填補しない旨の普通保険約款の規定は、当該対人事故の通知義務の懈怠につき約款所定の例外的事由がない場合でも、保険契約者又は被保険者が保険金の詐取等保険契約上における信義誠実の原則上許されない目的のもとに通知を懈怠したときを除き、保険者において填補責任を免れうるのは通知を受けなかつたため取得することのあるべき損害賠償請求権の限度においてであることを定めたものと解すべきである。",
+  "ref_law": "商法658条",
+  "lawsuit_id": "55206",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55206",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/206/055206_hanrei.pdf"
+}

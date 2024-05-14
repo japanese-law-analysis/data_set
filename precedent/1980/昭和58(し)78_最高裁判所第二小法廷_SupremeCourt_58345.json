@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 9,
+    "day": 8
+  },
+  "case_number": "昭和58(し)78",
+  "case_name": "付審判請求事件についてした抗告棄却決定に対する特別抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第232号83頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 7,
+    "day": 19
+  },
+  "gist": "付審判請求事件についての特別抗告が原決定に対する不服を内容とするものでないとして不適法とされた事例",
+  "lawsuit_id": "58345",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58345",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/345/058345_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 2,
+    "day": 25
+  },
+  "case_number": "昭和33(オ)968",
+  "case_name": "土地建物所有権移転登記手続請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第14巻2号279頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 6,
+    "day": 17
+  },
+  "gist": "一　親権者の一方に利益相反関係のある場合における代理の方法\n二　民法八二六条第一項の利益相反行為の事例",
+  "case_gist": "一　親権者たる父母の一方に民法第八二六条第一項にいう利益相反関係があるときは、利益相反関係のない親権者と同項の特別代理人とが共同して子のための代理行為をなすべきである。\n二　甲が乙の親権者として、自己の事業上の債務のため乙所有の不動産を\n代物弁済として他に譲渡する行為は、乙が甲の事業により生活上の利\n益を受けており、その利益も考慮してなされたものであるとしても、\n民法第八二六条第一項にいう利益相反行為である。",
+  "ref_law": "民法826条1項，民法818条3項",
+  "lawsuit_id": "53666",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53666",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/666/053666_hanrei.pdf"
+}

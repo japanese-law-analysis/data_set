@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 15,
+    "month": 6,
+    "day": 2
+  },
+  "case_number": "平成11(あ)697",
+  "case_name": "電汽車往来危険，威力業務妨害，弁護士法違反，有印公文書変造，同行使，詐欺未遂被告事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第57巻6号749頁",
+  "original_court_name": "広島高等裁判所",
+  "original_case_number": "平成1(う)104",
+  "original_date": {
+    "era": "Heisei",
+    "year": 11,
+    "month": 3,
+    "day": 11
+  },
+  "gist": "線路沿いの土地を掘削した行為により電汽車往来危険罪にいう往来の危険が発生したと認められた事例",
+  "case_gist": "線路沿いの土地をパワーショベルで掘削した行為により，線路脇にある鉄道用の電柱付近の土砂が崩壊して掘削断面上端部が同電柱の間近に迫るとともに路盤の法面が急傾斜となるなどし，掘削現場にいた国鉄職員らが，掘削により地すべりが生じ同電柱が倒壊して電車の脱線に至るなど極めて危険な状態にあると認識していたなど判示の事実関係の下では，電汽車往来危険罪にいう往来の危険が発生したと認められる。",
+  "ref_law": "刑法（平成7年法律第91号による改正前のもの）125条1項",
+  "lawsuit_id": "50013",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50013",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/013/050013_hanrei.pdf"
+}

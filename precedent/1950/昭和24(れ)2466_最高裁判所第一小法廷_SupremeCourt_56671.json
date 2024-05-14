@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 2,
+    "day": 16
+  },
+  "case_number": "昭和24(れ)2466",
+  "case_name": "強盗、窃盗、住居侵入",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第4巻2号184頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 5,
+    "day": 18
+  },
+  "gist": "共謀共同正犯の成立――強盜の見張行爲と審理不盡の有無",
+  "case_gist": "強盜の共謀をした者は他の共謀者の暴行脅迫強取等の實行行爲を通じて自己の犯意が實行に移された以上は、たとい、自分は直接強盜の實行行爲をしなくとも強盜の共同正犯たる罪責を免れえないものであるから共謀者の一人である被告人が判示のごとく見張行爲をした以上判示他の共謀者の脅迫、強奪行爲に對しその責を負うべきものである。されば、原審が被告人の見張り行爲について所論のように強盜の共同加功行爲と見るべき程度に達していたか否かを認定判示するところがなく被告人を強盜の共同正犯として處斷したからといつて原判決には所論のような審理不盡又は理由不備の違法あるものとはいえない。",
+  "ref_law": "刑法60條，刑法236條，舊刑訴法410條19號",
+  "lawsuit_id": "56671",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56671",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/671/056671_hanrei.pdf"
+}

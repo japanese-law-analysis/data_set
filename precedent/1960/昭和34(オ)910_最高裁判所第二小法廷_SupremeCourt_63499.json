@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 6,
+    "day": 1
+  },
+  "case_number": "昭和34(オ)910",
+  "case_name": "貸金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第61号13頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 6,
+    "day": 11
+  },
+  "gist": "受任者の金銭消費の責任の成否につき審理不尽の違法があるとされた事例。",
+  "case_gist": "小切手の取立委任を受け、所定期日に取立金を委任者に引渡す旨特約した金融機関が、委任者の了解の下に取立金を普通預金としたときでも、判示の事情がある場合には、民法第六四七条による損害賠償の責任が成立する場合があるから右委託事務処理についての特約の存否について顧慮しないことには審理不尽の違法がある。",
+  "ref_law": "民訴法395条1項6号，民法647条",
+  "lawsuit_id": "63499",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63499",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/499/063499_hanrei.pdf"
+}

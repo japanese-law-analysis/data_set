@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 12,
+    "day": 17
+  },
+  "case_number": "昭和53(オ)1463",
+  "case_name": "第三者異議",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第35巻9号1328頁",
+  "original_court_name": "広島高等裁判所",
+  "original_case_number": "昭和53(ネ)145",
+  "original_date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 10,
+    "day": 9
+  },
+  "gist": "一　譲渡担保権者と第三者異議の訴え\n二　譲渡担保権者が目的物件につき自己の債権者のために更に譲渡担保権を設定した場合と第三者異議の訴え",
+  "case_gist": "一　譲渡担保権者は、特段の事情がない限り、第三者異議の訴えによつて目的物件に対し譲渡担保権設定者の一般債権者がした強制執行の排除を求めることができる。\n二　譲渡担保権者は、目的物件につき自己の債権者のために更に譲渡担保権を設定したのちにおいても、第三者異議の訴えによつて目的物件に対し原譲渡担保権設定者の一般債権者がした強制執行の排除を求めることができる。",
+  "ref_law": "民法369条（譲渡担保），民訴法（昭和54年法律第4号による改正前のもの）549条1項，民事執行法38条1項",
+  "lawsuit_id": "54235",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54235",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/235/054235_hanrei.pdf"
+}

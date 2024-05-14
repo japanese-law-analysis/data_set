@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 10,
+    "day": 13
+  },
+  "case_number": "昭和54(オ)145",
+  "case_name": "不正競争防止法に基づく差止",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第35巻7号1129頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和51(ネ)1839",
+  "original_date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 10,
+    "day": 25
+  },
+  "gist": "一　不正競争防止法一条一項一号にいう商品の混同と同項柱書にいう「営業上ノ利益ヲ害セラルル虞アル者」\n二　商標権者による登録商標に類似する標章の使用と不正競争防止法六条",
+  "case_gist": "一　不正競争防止法一条一項一号にいう他人の商品との混同の事実が認められる場合には、特段の事情がない限り、右他人は営業上の利益を害されるおそれがある者にあたるというべきである。\n二　商標権者が登録商標に類似する標章を使用する行為は、不正競争防止法六条にいう「商標法ニ依リ権利ノ行使ト認メラルル行為」に該当しない。",
+  "ref_law": "不正競争防止法1条1項1号，不正競争防止法6条，商標法25条，商標法36条，商標法37条",
+  "lawsuit_id": "54244",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54244",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/244/054244_hanrei.pdf"
+}

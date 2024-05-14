@@ -1,0 +1,20 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 10,
+    "day": 25
+  },
+  "case_number": "平成18(う)302",
+  "case_name": "道路交通法違反，業務上過失傷害",
+  "court_name": "福岡高等裁判所第三刑事部",
+  "result": "破棄自判",
+  "original_court_name": "佐賀地方裁判所\n        　武雄支部",
+  "original_case_number": "平成17(わ)101",
+  "gist": "過失の大きさや結果の重大性に鑑み，原判決を破棄した事例",
+  "lawsuit_id": "33873",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=33873",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/873/033873_hanrei.pdf",
+  "contents": ""
+}

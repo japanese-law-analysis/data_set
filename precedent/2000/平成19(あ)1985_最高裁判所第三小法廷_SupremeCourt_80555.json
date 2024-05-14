@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 3,
+    "day": 4
+  },
+  "case_number": "平成19(あ)1985",
+  "case_name": "麻薬及び向精神薬取締法違反，覚せい剤取締法違反，関税法違反被告事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第293号683頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 10,
+    "day": 2
+  },
+  "gist": "いわゆる瀬取り方式による覚せい剤の輸入行為につき覚せい剤取締法４１条の輸入罪及び関税法（平成１７年法律第２２号による改正前のもの）１０９条１項，３項の禁制品輸入罪の実行の着手があったとはいえないとされた事例",
+  "ref_law": "覚せい剤取締法13条，覚せい剤取締法41条，関税法（平成17年法律第22号による改正前のもの）109条1項，関税法（平成17年法律第22号による改正前のもの）109条3項，刑法43条",
+  "lawsuit_id": "80555",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=80555",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/555/080555_hanrei.pdf",
+  "contents": ""
+}

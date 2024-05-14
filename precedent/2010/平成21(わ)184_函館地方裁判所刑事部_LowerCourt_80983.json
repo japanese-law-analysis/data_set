@@ -1,0 +1,20 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 12,
+    "day": 14
+  },
+  "case_number": "平成21(わ)184",
+  "case_name": "殺人，死体遺棄被告事件",
+  "court_name": "函館地方裁判所刑事部",
+  "result": "その他",
+  "original_court_name": "函館地方裁判所",
+  "original_case_number": "平成21(わ)184",
+  "original_result": "その他",
+  "lawsuit_id": "80983",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=80983",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/983/080983_hanrei.pdf",
+  "contents": ""
+}

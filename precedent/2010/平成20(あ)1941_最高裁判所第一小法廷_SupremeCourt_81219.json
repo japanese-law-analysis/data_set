@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 9,
+    "day": 27
+  },
+  "case_number": "平成20(あ)1941",
+  "case_name": "道路整備特別措置法違反被告事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第301号281頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 9,
+    "day": 25
+  },
+  "gist": "道路整備特別措置法５８条，２４条３項は実質的には高速道路株式会社に定めを委任していないなどとして，同条項に関する違憲主張が欠前提処理された事例",
+  "ref_law": "憲法13条，憲法22条，憲法29条，憲法31条，憲法41条，憲法73条6号，道路整備特別措置法24条3項，道路整備特別措置法58条",
+  "lawsuit_id": "81219",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=81219",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/219/081219_hanrei.pdf",
+  "contents": ""
+}

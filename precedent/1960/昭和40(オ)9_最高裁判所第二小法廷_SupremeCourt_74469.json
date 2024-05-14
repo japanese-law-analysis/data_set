@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 6,
+    "day": 18
+  },
+  "case_number": "昭和40(オ)9",
+  "case_name": "家屋収去土地明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第79号455頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和39(ネ)112",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 10,
+    "day": 5
+  },
+  "gist": "建物収去土地明渡を求める訴状の送達により原被告間の土地賃貸借契約解除の意思表示がなされたと解しうるか。",
+  "case_gist": "原告所有地上に被告が権限なく建物を存置してこれを占有していることを理由として建物収去土地明渡を求める訴状が被告に送達されたときは、特別の事情がないかぎり、原被告間にもし当該土地賃貸借契約が存在するならば、これを解約する旨の意思表示がなされたものと解することができる。",
+  "ref_law": "民法617条",
+  "lawsuit_id": "74469",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74469",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/469/074469_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 5,
+    "day": 19
+  },
+  "case_number": "昭和40(あ)2850",
+  "case_name": "軽犯罪法違反、鉄道営業法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第20巻5号335頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 11,
+    "day": 16
+  },
+  "gist": "軽犯罪法第一条第三二号違反の罪と鉄道営業法第三七条違反の罪との罪数関係",
+  "case_gist": "鉄道駅構内に所定の許諾を得ることなく立ち入る行為は、軽犯罪法第一条第三二号違反の罪と鉄道営業法第三七条違反の罪との一所為数法の関係にある。",
+  "ref_law": "軽犯罪法1条32号前段，鉄道営業法37条，刑法54条1項前段",
+  "lawsuit_id": "51777",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51777",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/777/051777_hanrei.pdf"
+}

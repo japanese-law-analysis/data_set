@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 7,
+    "day": 19
+  },
+  "case_number": "昭和26(れ)830",
+  "case_name": "臨時物資需給調整法（繊維製品配給消費統制規則並衣料品配給規則）違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第50号345頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 12,
+    "day": 16
+  },
+  "lawsuit_id": "72304",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=72304",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/304/072304_hanrei.pdf"
+}

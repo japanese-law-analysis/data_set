@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 9,
+    "day": 29
+  },
+  "case_number": "昭和45(ク)191",
+  "case_name": "裁判官忌避申立事件の申立却下決定に対する抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集民　第100号499頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和45(ウ)283",
+  "original_date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 5,
+    "day": 8
+  },
+  "gist": "裁判官忌避の原因と憲法三二条",
+  "case_gist": "民訴法三七条にいう忌避の原因となるべき「裁判官二付裁判ノ公正ヲ妨クヘキ事情アルトキ」とは、裁判官と具体的事件との間に客観的に公正な裁判を期待しえないような人的、物的に特殊な関係がある場合をいい、具体的事件と直接無関係な裁判官としての適格性、行状、思想、単なる法律上の見解等に関する一般的事由は、忌避の原因を構成しないと解しても憲法三二条に反しない。",
+  "ref_law": "民訴法57条，憲法52条",
+  "lawsuit_id": "66760",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66760",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/760/066760_hanrei.pdf"
+}

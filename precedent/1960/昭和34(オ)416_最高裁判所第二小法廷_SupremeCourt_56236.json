@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 3,
+    "day": 9
+  },
+  "case_number": "昭和34(オ)416",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第16巻3号514頁",
+  "original_court_name": "広島高等裁判所\n        　松江支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 2,
+    "day": 23
+  },
+  "gist": "過大催告を無効と判断するにつき理由不備があるとされた事例",
+  "case_gist": "延滞賃料額七、三五三円に対しこれを二九、九三〇円としてなした催告の無効をいうためには、右催告にあたり、催告額全額の提供を得なければ債権者がその受領を拒絶する意思を有したことの認定判示が必要であり、前示過大の程度のみでは、いまだ右受領拒絶の意思を推認することはできないから、右認定判示をしない点に理由不備がある。",
+  "ref_law": "民法541条，民訴法395条1項6号",
+  "lawsuit_id": "56236",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56236",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/236/056236_hanrei.pdf"
+}

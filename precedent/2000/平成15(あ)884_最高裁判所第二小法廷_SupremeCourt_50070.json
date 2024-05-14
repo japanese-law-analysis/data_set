@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 16,
+    "month": 1,
+    "day": 20
+  },
+  "case_number": "平成15(あ)884",
+  "case_name": "法人税法違反被告事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第58巻1号26頁",
+  "original_court_name": "高松高等裁判所",
+  "original_case_number": "平成14(う)36",
+  "original_date": {
+    "era": "Heisei",
+    "year": 15,
+    "month": 3,
+    "day": 13
+  },
+  "gist": "法人税法（平成１３年法律第１２９号による改正前のもの）１５３条ないし１５５条に規定する質問又は検査の権限の行使により取得収集される証拠資料が後に犯則事件の証拠として利用されることが想定できる場合と同法１５６条",
+  "case_gist": "法人税法（平成１３年法律第１２９号による改正前のもの）１５３条ないし１５５条に規定する質問又は検査の権限の行使に当たって，取得収集される証拠資料が後に犯則事件の証拠として利用されることが想定できたとしても，そのことによって直ちに，上記質問又は検査の権限が同法１５６条に反して犯則事件の調査あるいは捜査のための手段として行使されたことにはならない。",
+  "ref_law": "法人税法（平成13年法律第129号による改正前のもの）153条，法人税法（平成13年法律第6号による改正前のもの）154条，法人税法155条，法人税法156条",
+  "lawsuit_id": "50070",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50070",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/070/050070_hanrei.pdf"
+}

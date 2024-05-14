@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 12,
+    "day": 20
+  },
+  "case_number": "昭和47(行ツ)63",
+  "case_name": "行政処分取消",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第31巻7号1225頁",
+  "original_court_name": "高松高等裁判所",
+  "original_case_number": "昭和41(行コ)8",
+  "original_date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 12,
+    "day": 13
+  },
+  "gist": "勤務評定反対闘争の際の違法行為を理由としてされた財務局職員たる国家公務員に対する懲戒免職処分が懲戒権者に任された裁量権の範囲を超えたものとはいえないとざれた事例",
+  "case_gist": "財務局職員たる国家公務員が、勤務評定反対闘争において、「オールＡ・公開」等現行法規のもとでは許されない要求を貫徹するため、十数日間にわたり違法行為を繰り返し、被評定者の人物能力、適性をはじめその勤務状況を記入した極秘の公文書である勤務状況報告書を当局の意思に反し組合側において保管するという重大な違法行為をしたなど判示の事実関係のもとでは、これらの違法行為を理由としてされた懲戒免職処分は、懲戒権者に任された裁量権の範囲を超えたものということはできない。",
+  "ref_law": "国家公務員法（昭和40年法律第69号による改正前のもの）82条",
+  "lawsuit_id": "53214",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53214",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/214/053214_hanrei.pdf"
+}

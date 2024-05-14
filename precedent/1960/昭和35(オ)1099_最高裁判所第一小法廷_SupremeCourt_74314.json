@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 1,
+    "day": 30
+  },
+  "case_number": "昭和35(オ)1099",
+  "case_name": "建物収去土地明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第71号485頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 6,
+    "day": 30
+  },
+  "gist": "調停成立前における当事者の権利関係について審理不尽理由不備が存するとされた事例。",
+  "case_gist": "本件調停成立前に、本件土地全部について借地法の適用のある土地賃貸借が成立していたとすると、原判決のいう「調停成立前における当事者の権利関係」が原判決の認定と異なる結果になり、ひいて本件調停の本旨を究める上に影響をおよぼさないとはいえないから、右当事者の権利関係について審理不尽理由不備の違法が存するといわねばならない。",
+  "ref_law": "借地法1条，借地法6条，民訴法395条1項6号",
+  "lawsuit_id": "74314",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74314",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/314/074314_hanrei.pdf"
+}

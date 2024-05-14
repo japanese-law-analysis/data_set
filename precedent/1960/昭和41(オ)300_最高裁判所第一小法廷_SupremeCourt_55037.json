@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 9,
+    "day": 21
+  },
+  "case_number": "昭和41(オ)300",
+  "case_name": "建物収去、土地明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第21巻7号1852頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_case_number": "昭和39(ネ)192",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 10,
+    "day": 29
+  },
+  "gist": "借地上の建物に通常の修繕の域をこえた大修繕がされた場合に借地契約が修繕前の建物が朽廃すべかりし時期に終了するものとされた事例",
+  "case_gist": "借地上の木造建物（アパート）について、二箇月間にわたり、布コンクリートの基礎にブロツクを積みあげてセメントでかため、基礎をあげて家屋の土台を据え付け、支柱の腐蝕部分を切りとつてつぎたすなどの通常の修繕の域をこえる大修繕をした場合において、その建物の築造後の経過、修繕前の状況、修繕の実態、修繕当時の老朽の度合、とくに賃貸人がその修繕工事の着手の前後にわたつて反対を申し入れたなど判示事実関係のもとでは、その借地契約は、おそくともその修繕前の建物が朽廃すべかりし時期に終了したものと解するのが相当である。",
+  "ref_law": "借地法2条1項",
+  "lawsuit_id": "55037",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55037",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/037/055037_hanrei.pdf"
+}

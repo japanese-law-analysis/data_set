@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 9,
+    "day": 4
+  },
+  "case_number": "昭和53(あ)2289",
+  "case_name": "銃砲刀剣類所持等取締法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第215号233頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 10,
+    "day": 27
+  },
+  "gist": "違法に押収された証拠物を証拠としたことが適正手続の原則に違背する旨の主張を欠前提で処理した事例",
+  "ref_law": "憲法31条",
+  "lawsuit_id": "60302",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60302",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/302/060302_hanrei.pdf"
+}

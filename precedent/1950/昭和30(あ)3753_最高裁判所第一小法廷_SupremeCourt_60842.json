@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 6,
+    "day": 14
+  },
+  "case_number": "昭和30(あ)3753",
+  "case_name": "関税法違反、物品税法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第113号769頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 9,
+    "day": 28
+  },
+  "gist": "告発書の性質",
+  "case_gist": "所論告発書の証拠調については第一審において所論のごとく弁護人が不同意を唱えた形跡が認められないばかりでなく、同告発書は、本件についての訴訟要件としての告発があつた事実を証明する資料であつて、本件事実認定の証拠として提出されたものでないこと記録上明白であるから、仮りに被告人、弁護人から不同意の申立があつたとしても、記録に編綴することは当然であつて、これを違法とすべき理由はない。",
+  "ref_law": "刑訴法239条，刑訴法241条，刑訴法326条",
+  "lawsuit_id": "60842",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60842",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/842/060842_hanrei.pdf"
+}

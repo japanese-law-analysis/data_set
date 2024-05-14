@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 6,
+    "day": 29
+  },
+  "case_number": "昭和32(あ)188",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第11巻6号1801頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 12,
+    "day": 27
+  },
+  "gist": "刑法第五六条第一項にいう「五年内ニ更ニ罪ヲ犯シ有期懲役ニ処ス可キトキハ」の意義",
+  "case_gist": "刑法第五六条第一項に「五年内ニ更ニ罪ヲ犯シ有期懲役ニ処ス可キトキハ」とあるのは、前犯の刑の執行を終つた日または執行の免除があつた日から五年の期間内に後犯が行われればよいので、後犯に対する裁判がこの期間内に言渡されることを必要としないものと解すべきである。",
+  "ref_law": "刑法56条1項",
+  "lawsuit_id": "51564",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51564",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/564/051564_hanrei.pdf"
+}

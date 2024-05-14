@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 6,
+    "day": 7
+  },
+  "case_number": "昭和43(オ)1044",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第27巻6号681頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和37(ネ)885",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 6,
+    "day": 27
+  },
+  "gist": "不法行為による損害賠償と民法四一六条",
+  "case_gist": "不法行為による損害賠償についても、民法四一六条の規定が類推適用され、特別の事情によつて生じた損害については、加害者において右事情を予見しまたは予見することを得べかりしときにかぎり、これを賠償する責を負うものと解すべきである。",
+  "ref_law": "民法416条，民法709条，民訴法746条，民訴法755条，民訴法756条",
+  "lawsuit_id": "51910",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51910",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/910/051910_hanrei.pdf"
+}

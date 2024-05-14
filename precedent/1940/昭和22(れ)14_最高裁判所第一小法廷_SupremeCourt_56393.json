@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 2,
+    "day": 12
+  },
+  "case_number": "昭和22(れ)14",
+  "case_name": "窃盗、住居侵入、強盗殺人",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第2巻2号80頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 5,
+    "day": 26
+  },
+  "gist": "一　判決に於ける證據摘示の方法\n二　公判廷における被告人の自白と憲法第三八條第三項及び刑訴應急措置法第一〇條第三項",
+  "case_gist": "一　判決における證據摘示の有無は判決書の全面にわたりこれを索むべく必ずしもいわゆる證據説明の部分に限定すべきでない。\n二　公判廷における被告人の自白は、憲法第三八條第三項及び刑訴應急措置法第一〇條第三項の自白に含まれない。（なお、公判廷における自白について、裁判官齊藤悠輔の補足意見がある）",
+  "ref_law": "刑訴法360條1項，刑訴法336條，憲法38條3項，刑訴應急措置法10條3項",
+  "lawsuit_id": "56393",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56393",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/393/056393_hanrei.pdf"
+}

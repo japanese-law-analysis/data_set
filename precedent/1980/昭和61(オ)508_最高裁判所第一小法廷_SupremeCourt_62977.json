@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 9,
+    "day": 11
+  },
+  "case_number": "昭和61(オ)508",
+  "case_name": "所有権確認等",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第148号489頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和60(ネ)1471",
+  "original_date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 1,
+    "day": 30
+  },
+  "gist": "地上権と農地法一九条の適用又は準用の有無",
+  "case_gist": "農地法一九条は地上権に適用又は準用されない。",
+  "ref_law": "農地法19条",
+  "lawsuit_id": "62977",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62977",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/977/062977_hanrei.pdf"
+}

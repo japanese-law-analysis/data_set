@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 2,
+    "day": 9
+  },
+  "case_number": "昭和31(あ)2018",
+  "case_name": "覚せい剤取締法違反、銃砲刀剣類等所持取締令違反、酒税法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第14巻1号82頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 4,
+    "day": 2
+  },
+  "gist": "刀剣不法所持の継続中他の罪につき確定裁判があつたときと刑法第四五条。",
+  "case_gist": "刀剣不法所持の犯罪は、いわゆる継続犯として一罪であり不法所持の継続の終了の時を犯罪終了時と解すべきであるから、不法所持の継続中に他の罪につき確定裁判があつても、その罪と刑法第四五条後段の併合罪となるものではない。",
+  "ref_law": "銃砲刀剣類等所持禁止令2条，銃砲刀剣類等所持禁止令26条1号，刑法45条",
+  "lawsuit_id": "51487",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51487",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/487/051487_hanrei.pdf"
+}

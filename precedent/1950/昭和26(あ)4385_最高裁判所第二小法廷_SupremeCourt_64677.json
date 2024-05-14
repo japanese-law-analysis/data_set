@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 12,
+    "day": 26
+  },
+  "case_number": "昭和26(あ)4385",
+  "case_name": "窃盜",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第71号951頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 10,
+    "day": 3
+  },
+  "gist": "刑法第二四四条第一項前段にいわゆる「同居の親族」といえない一事例",
+  "case_gist": "一　刑法二四四条一項前段にいわゆる同居の親族に関する原審の見解は正当である。\n二　（原審見解）右被害者Ａは所論のように被告人と従兄弟の関係にあたる親族ではあるが当時被告人方の一室を間代一ケ月金二百円にて借受け特に被告人方と区劃を為し諸物資の受配、炊事、起居等全く別個に生活をしていたことを明認することができるから、右が同一家屋内において居住して居たからというて、これを以て二百四十四条第一項前段に該当する所謂同居の親族と為すことは出来ない。",
+  "ref_law": "刑法244条",
+  "lawsuit_id": "64677",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64677",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/677/064677_hanrei.pdf"
+}

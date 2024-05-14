@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 4,
+    "day": 27
+  },
+  "case_number": "昭和28(オ)720",
+  "case_name": "選挙無効事件",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第9巻5号582頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 6,
+    "day": 13
+  },
+  "gist": "一　昭和二七年法律第三〇七号公職選挙法改正法附則第二項の合憲性\n二　書損を抹消して候補者氏名を記載した投票の効力\n三　唯一の証拠方法と民訴第一三九条の適用",
+  "case_gist": "一　昭和二七年法律第三〇七号公職選挙法改正法附則第二項が右改正によつて新たに設けられた第二〇九条の二を現に裁判所に係属している事件に適用すべきものとしたのは憲法第三一条に違反しない。\n二　書損を抹消して候補者氏名を記載した投票は無効ではない。\n三　唯一の証拠方法であつても時機に後れて提出された場合はこれを却下しても違法でない。",
+  "ref_law": "公職選挙法209条の2，公職選挙法68条1項本文5号，昭和27年法律307号（公職選挙法の一部を改正する法律）附則2項，民訴法139条，民訴法259条",
+  "lawsuit_id": "57443",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57443",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/443/057443_hanrei.pdf"
+}

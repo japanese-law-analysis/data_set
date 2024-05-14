@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 7,
+    "day": 2
+  },
+  "case_number": "昭和24(れ)112",
+  "case_name": "強盗傷人",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第12号5頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 9,
+    "day": 27
+  },
+  "gist": "共謀による強盜の機會に一人の共犯者の爲した傷害に對する他の者の責任",
+  "case_gist": "既に強盜について共謀のある以上他の共犯者がその強盜の機會において、被害者に傷害を與えた時は、たとえ被告人が所論のごとく、現實にその傷害の原因たる暴行について認識がなかつたとしても被告人もまた、強盜傷人罪の責任を負わなければならないのである。",
+  "ref_law": "刑法60條，刑法240條",
+  "lawsuit_id": "74812",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74812",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/812/074812_hanrei.pdf"
+}

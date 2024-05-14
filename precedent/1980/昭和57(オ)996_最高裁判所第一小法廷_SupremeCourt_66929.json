@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 3,
+    "day": 24
+  },
+  "case_number": "昭和57(オ)996",
+  "case_name": "建物収去土地明渡",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第138号387頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和56(ネ)847",
+  "original_date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 6,
+    "day": 30
+  },
+  "gist": "建物の買取請求権の行使が信義則に反し許されないとされた事例",
+  "case_gist": "朽廃に近い建物とその敷地の転借権を譲り受けた者が、その譲受につき転貸人の承諾を得ないまま建物の大改造の工事を開始し、転貸人の異議の申入及び工事続行禁止の仮処分決定を無視してこれを完成したなど判示の事実関係のもとでは、右の譲受人がした借地法一〇条に基づく建物の買取請求権の行使は、改造工事による建物の増加価格を放棄し譲受当時の価格によつてしたときであつても、信義則に反し許されない。",
+  "ref_law": "民法1条2項，借地法2条1項，借地法4条2項，借地法10条",
+  "lawsuit_id": "66929",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66929",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/929/066929_hanrei.pdf"
+}

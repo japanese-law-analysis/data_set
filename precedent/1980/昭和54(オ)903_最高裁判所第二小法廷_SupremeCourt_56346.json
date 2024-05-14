@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 2,
+    "day": 16
+  },
+  "case_number": "昭和54(オ)903",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第35巻1号56頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和51(ネ)482",
+  "original_date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 5,
+    "day": 14
+  },
+  "gist": "国の国家公務員に対する安全配慮義務違反を理由とする損害賠償請求と右義務違反の事実に関する主張・立証責任",
+  "case_gist": "国の国家公務員に対する安全配慮義務違反を理由として国に対し損害賠償を請求する訴訟においては、原告が、右義務の内容を特定し、かつ、義務違反に該当する事実を主張・立証する責任を負う。",
+  "ref_law": "民法1条2項，民法415条",
+  "lawsuit_id": "56346",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56346",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/346/056346_hanrei.pdf"
+}

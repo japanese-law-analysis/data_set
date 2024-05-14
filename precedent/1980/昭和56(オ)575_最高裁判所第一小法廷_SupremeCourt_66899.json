@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 10,
+    "day": 1
+  },
+  "case_number": "昭和56(オ)575",
+  "case_name": "土地所有権移転登記手続",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第134号23頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和55(ネ)1414",
+  "original_date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 3,
+    "day": 27
+  },
+  "gist": "農地の受贈者の贈与者に対して有する知事に対する所有権移転許可申請協力請求権と消滅時効",
+  "case_gist": "農地の受贈者の贈与者に対して有する知事に対する所有権移転許可申請協力請求権は、民法一六七条一項所定の債権にあたる。",
+  "ref_law": "民法167条1項，農地法3条",
+  "lawsuit_id": "66899",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66899",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/899/066899_hanrei.pdf"
+}

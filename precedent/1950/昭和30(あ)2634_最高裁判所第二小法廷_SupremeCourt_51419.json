@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 12,
+    "day": 6
+  },
+  "case_number": "昭和30(あ)2634",
+  "case_name": "業務上過失致死",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第11巻13号3187頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 7,
+    "day": 30
+  },
+  "gist": "貨車入替業務における制動手の注意義務",
+  "case_gist": "無看視踏切を通過する貨車入替業務に当り、制動手は突放貨車に乗車するに際し、前方の安全確認義務あるのみならず、制動手としての固有の作業をなして、なお余裕ある場合は、他の係員の作業範囲に亘りて、貨車入替業務に関し危険の発生を未然に防止すべき注意義務を負うものと解すべきである。",
+  "ref_law": "刑法211条",
+  "lawsuit_id": "51419",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51419",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/419/051419_hanrei.pdf"
+}

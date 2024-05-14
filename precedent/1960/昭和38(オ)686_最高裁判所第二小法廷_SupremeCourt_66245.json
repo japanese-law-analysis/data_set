@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 12,
+    "day": 17
+  },
+  "case_number": "昭和38(オ)686",
+  "case_name": "解雇無効確認請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第81号493頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和31(ネ)473",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 2,
+    "day": 18
+  },
+  "gist": "一　連合国最高司令官の指示に対する司法審査権の有無\n二　昭和二五年七月一八日付連合国最高司令官マツクアーサー元帥より内閣総理大臣にあてた書簡の法意",
+  "case_gist": "一　ポツダム宣言を受諾した日本国としては、連合国最高司令官の指示がポツダム宣言および降伏文書に違反して有効であるかどうかを審査判断する立場にない。\n二　昭和二五年七月一八日付連合国最高司令官マツクアーサー元帥より内閣総理大臣にあてた書簡は、公共的報道機関のみならずその他の重要産業の経営者に対し企業から共産党員およびその同調者を排除すべきことを要請した同司令官の指示であり、このような解釈指示が当時においてはが国の国家機関および国民に対し最終的権威をもつていたものと解すべきである。",
+  "ref_law": "憲法81条，裁判所法3条",
+  "lawsuit_id": "66245",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66245",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/245/066245_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 4,
+    "day": 30
+  },
+  "case_number": "昭和23(れ)1861",
+  "case_name": "強盗傷人、強盗、昭和二二年政令第一六五号違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第3巻5号691頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 10,
+    "day": 6
+  },
+  "gist": "犯罪事実の一部に対する補強証拠",
+  "case_gist": "自白を補強する証拠は、必ずしも自白にかかる犯罪構成事実の全部にわたる必要はなく、自白にかかる事実の真実性を保障し得るものであれば足りる。",
+  "ref_law": "憲法38条3項",
+  "lawsuit_id": "55335",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55335",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/335/055335_hanrei.pdf"
+}

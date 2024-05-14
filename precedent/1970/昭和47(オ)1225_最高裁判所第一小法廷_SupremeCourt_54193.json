@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 9,
+    "day": 26
+  },
+  "case_number": "昭和47(オ)1225",
+  "case_name": "会社解散請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第28巻6号1306頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和45(ネ)2137",
+  "original_date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 8,
+    "day": 10
+  },
+  "gist": "取締役と会社との取引が株主全員の合意によつてされた場合と取締役会の承認",
+  "case_gist": "取締役と会社との取引が株主全員の合意によつてされた場合には、右取引につき取締役会の承認を要しない。",
+  "ref_law": "商法265条",
+  "lawsuit_id": "54193",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54193",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/193/054193_hanrei.pdf"
+}

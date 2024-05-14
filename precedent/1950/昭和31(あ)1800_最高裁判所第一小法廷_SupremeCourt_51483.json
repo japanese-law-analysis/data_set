@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 6,
+    "day": 27
+  },
+  "case_number": "昭和31(あ)1800",
+  "case_name": "詐欺、有印私文書偽造等",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第11巻6号1741頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 3,
+    "day": 29
+  },
+  "gist": "日本電信電話公社の職員の作成すべき文書は公文書か",
+  "case_gist": "日本電信電話公社職員たる信越電気通信局支出役名義の文書は、公文書である。",
+  "ref_law": "刑法155条，刑法7条，日本電信電話公社法18条，日本電信電話公社法35条",
+  "lawsuit_id": "51483",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51483",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/483/051483_hanrei.pdf"
+}

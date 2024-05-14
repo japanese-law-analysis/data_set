@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 2,
+    "day": 17
+  },
+  "case_number": "昭和44(オ)967",
+  "case_name": "為替手形金請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第98号209頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和42(ネ)33",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 6,
+    "day": 19
+  },
+  "gist": "喪失した白地手形について除権判決を得た者と手形上の権利行使",
+  "case_gist": "白地手形を喪失し除権判決を得た者は、手形債務者から手形の再発行を得て白地を補充したうえ請求するのであれば格別、除権判決を得たことのみを主張して手形金の支払を求めることはできない。",
+  "ref_law": "手形法10条，民訴法785条",
+  "lawsuit_id": "66748",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66748",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/748/066748_hanrei.pdf"
+}

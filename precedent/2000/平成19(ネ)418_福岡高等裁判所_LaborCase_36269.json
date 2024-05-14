@@ -1,0 +1,16 @@
+{
+  "trial_type": "LaborCase",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 3,
+    "day": 12
+  },
+  "case_number": "平成19(ネ)418",
+  "case_name": "解雇無効確認等請求控訴事件（通称　西日本鉄道懲戒解雇）",
+  "court_name": "福岡高等裁判所",
+  "lawsuit_id": "36269",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail6?id=36269",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/269/036269_hanrei.pdf",
+  "contents": ""
+}

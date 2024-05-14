@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 9,
+    "day": 4
+  },
+  "case_number": "平成16(受)1748",
+  "case_name": "認知請求事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第60巻7号2563頁",
+  "original_court_name": "高松高等裁判所",
+  "original_case_number": "平成15(ネ)497",
+  "original_date": {
+    "era": "Heisei",
+    "year": 16,
+    "month": 7,
+    "day": 16
+  },
+  "gist": "保存された男性の精子を用いて当該男性の死亡後に行われた人工生殖により女性が懐胎し出産した子と当該男性との間における法律上の親子関係の形成の可否",
+  "case_gist": "保存された男性の精子を用いて当該男性の死亡後に行われた人工生殖により女性が懐胎し出産した子と当該男性との間に，法律上の親子関係の形成は認められない。\n（補足意見がある。）",
+  "ref_law": "民法787条",
+  "lawsuit_id": "33488",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=33488",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/488/033488_hanrei.pdf",
+  "contents": ""
+}

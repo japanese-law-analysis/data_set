@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 2,
+    "day": 23
+  },
+  "case_number": "昭和40(オ)1439",
+  "case_name": "所有権移転登記抹消登記手続請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第22巻2号281頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和40(ネ)357",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 9,
+    "day": 20
+  },
+  "gist": "土地の売買契約において付随的約款で定められている義務の不履行を理由として契約解除が認められた事例",
+  "case_gist": "土地の売買契約において、所有権移転登記手続は代金完済と同時にし、代金完済までは買主は右土地の上に建物等を築造しない旨の付随的約款がつけられている場合にあつて、右約款は、本来契約締結の目的に必要不可欠のものでないが、代金の完全な支払の確保のために重要な意義をもち、その不履行が契約締結の目的の達成に重大な影響を与えるものであるときは、売主は、右約款の不履行を理由として、売買契約を解除することができると解するのが相当である。",
+  "ref_law": "民法541条",
+  "lawsuit_id": "53964",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53964",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/964/053964_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 12,
+    "day": 17
+  },
+  "case_number": "昭和36(オ)906",
+  "case_name": "山林境界確認等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集民　第76号547頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 5,
+    "day": 15
+  },
+  "gist": "山林の境界確定訴訟の係属中山林の所有権を譲り受けた者が第二審において第一審被告を相手方として境界確定について当事者参加をしたときと第二審の判決主文。",
+  "case_gist": "山林の境界確定訴訟の係属中山林の所有権を譲り受けた者が第二審において第一審被告を相手方として第一審判決主文と同旨の境界確定を求める旨当事者参加をした場合においても、第二審は、右山林の境界線が第一審判決の結論と同一の結論に達しても、控訴棄却の判決をすべきではなく、新請求としてあらたな判決をすべきであつて、もし、第二審判決が控訴棄却の主文を記載したときは、上告審は第二審判決を破棄して、自判をすることができる。",
+  "ref_law": "民訴法73条，民訴法384条，民訴法408条1号",
+  "lawsuit_id": "63747",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63747",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/747/063747_hanrei.pdf"
+}

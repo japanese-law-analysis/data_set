@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 11,
+    "day": 1
+  },
+  "case_number": "昭和26(み)10",
+  "case_name": "有価証券偽造等被告事件について最高裁判所の上告棄却の判決に対する判決訂正申立",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第56号117頁",
+  "original_court_name": "最高裁判所",
+  "original_case_number": "昭和26(あ)1977",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 10,
+    "day": 18
+  },
+  "lawsuit_id": "71887",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=71887",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/887/071887_hanrei.pdf"
+}

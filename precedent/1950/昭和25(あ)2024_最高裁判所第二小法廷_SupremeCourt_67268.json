@@ -1,0 +1,24 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 12,
+    "day": 25
+  },
+  "case_number": "昭和25(あ)2024",
+  "case_name": "窃盗、同未遂",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第38号715頁",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 6,
+    "day": 19
+  },
+  "lawsuit_id": "67268",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=67268",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/268/067268_hanrei.pdf"
+}

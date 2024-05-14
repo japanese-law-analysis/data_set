@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 3,
+    "day": 30
+  },
+  "case_number": "平成17(ワ)45",
+  "case_name": "工作物収去等請求、損害賠償請求反訴",
+  "court_name": "名古屋地方裁判所民事第６部",
+  "result": "その他",
+  "gist": "建物新築工事請負契約において，施主が基礎工事の施工不良を理由に工事のやり直しを要求したにもかかわらず，請負業者が同要求を拒絶し事態が膠着した事案において，請負業者の仕事完成義務が履行不能となったものと判断し，施主の請負業者に対する解除による原状回復請求及び損害賠償請求の一部を認容した事例",
+  "lawsuit_id": "34691",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=34691",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/691/034691_hanrei.pdf",
+  "contents": ""
+}

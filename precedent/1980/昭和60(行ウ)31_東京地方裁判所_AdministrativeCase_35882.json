@@ -1,0 +1,18 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 9,
+    "day": 30
+  },
+  "case_number": "昭和60(行ウ)31",
+  "case_name": "供託金払渡請求却下処分取消請求事件",
+  "court_name": "東京地方裁判所",
+  "field": "行政",
+  "gist": "供託金の還付請求に際して供託受諾の意思表示に付することのできる留保は，被供託者が取得した還付請求権の同一性を損なわない範囲のものでなければならないとして，土地賃料債務の弁済供託に対して，右土地の不法占拠による賃料相当損害金として受領する旨の留保を付してした還付請求を却下した処分が，適法とされた事例",
+  "lawsuit_id": "35882",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=35882",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/882/035882_hanrei.pdf",
+  "contents": ""
+}

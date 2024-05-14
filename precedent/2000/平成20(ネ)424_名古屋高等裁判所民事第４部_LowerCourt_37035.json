@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 11,
+    "day": 11
+  },
+  "case_number": "平成20(ネ)424",
+  "case_name": "損害賠償請求控訴事件",
+  "court_name": "名古屋高等裁判所民事第４部",
+  "result": "棄却",
+  "original_court_name": "名古屋地方裁判所",
+  "original_case_number": "平成17(ワ)1243",
+  "original_result": "棄却",
+  "gist": "インターネットオークションにおいて詐欺被害に遭った者からの，インターネットオークションの設営会社に対する債務不履行又は不法行為に基づく損害賠償請求が否定された事例",
+  "lawsuit_id": "37035",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=37035",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/035/037035_hanrei.pdf",
+  "contents": ""
+}

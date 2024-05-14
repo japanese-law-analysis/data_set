@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 6,
+    "day": 24
+  },
+  "case_number": "昭和37(オ)255",
+  "case_name": "申告所得更正決定取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第20巻5号1146頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和31(ネ)501",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 11,
+    "day": 29
+  },
+  "gist": "法律上他社の株式取得の制限を受けている会社が所有株式についての増資新株を自社重役等に無償で取得させた場合における課税所得の算定",
+  "case_gist": "「私的独占の禁止及び公正取引の確保に関する法律」（昭和二四年法律第二一四号による改正前）第一〇条により他社の株式取得の制限を受けている事業会社が、その所有に係る他社の株式についての増資新株を自ら取得できないため、自社の重役等個人に無償で取得させた場合において、同社になんら利得をもたらさないことを理由として、右行為に基づき同社に法人所得の益金を生ずる余地がないとすることはできない。",
+  "ref_law": "私的独占の禁止及び公正取引の確保に関する法律（昭和24年法律214号による改正前）10条，法人税法（昭和22年法律28号）9条",
+  "lawsuit_id": "57743",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57743",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/743/057743_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 11,
+    "day": 29
+  },
+  "case_number": "昭和31(さ)4",
+  "case_name": "略式命令に対する非常上告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "刑集　第10巻11号1570頁",
+  "original_court_name": "熊本簡易裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 2,
+    "day": 28
+  },
+  "gist": "包括一罪と認められる一事例",
+  "case_gist": "被告人が法令に定められた運転の資格を持たないで、昭和三〇年五月一九日午後一時頃玉名市ａよりＡ号自動三輪車を運転して、玉名市ｂ町内を乗り廻して無謀操縦をしたという公訴事実と、同一被告人が法令に定められた運転の資格を持たないで、昭和三〇年五月一九日午後一時四〇分頃玉名市ｃ町道路においてＢ家所有の自動三輪車を運転して無謀操縦をしたという公訴事実とは、その各運転行為が同一自動三輪車の一連の無謀操縦行為と認められる以上は、両公訴事実は包括一罪の関係にあるものというべきである。",
+  "ref_law": "刑訴法337条，刑訴法338条，刑訴法454条",
+  "lawsuit_id": "56975",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56975",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/975/056975_hanrei.pdf"
+}

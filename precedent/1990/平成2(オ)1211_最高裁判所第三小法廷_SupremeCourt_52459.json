@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 6,
+    "month": 6,
+    "day": 21
+  },
+  "case_number": "平成2(オ)1211",
+  "case_name": "貸金",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第48巻4号1101頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成2(ネ)161",
+  "original_date": {
+    "era": "Heisei",
+    "year": 2,
+    "month": 5,
+    "day": 30
+  },
+  "gist": "仮差押解放金の供託による仮差押えの執行の取消しと時効中断の効力",
+  "case_gist": "仮差押えによる時効中断の効力は、仮差押解放金の供託により仮差押えの執行が取り消された場合においても、なお継続する。",
+  "ref_law": "民法147条2号，民法157条1項，民事執行法（平成元年法律第91号による改正前のもの）179条，民事保全法51条",
+  "lawsuit_id": "52459",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52459",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/459/052459_hanrei.pdf"
+}

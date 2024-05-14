@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 8,
+    "day": 9
+  },
+  "case_number": "昭和25(あ)2408",
+  "case_name": "物価統制令違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第51号751頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 7,
+    "day": 22
+  },
+  "gist": "業者販売価格の統制額違反の罪につき業者であるか否かを判示するとの要否",
+  "case_gist": "物価庁の告示が業者の統制額を定めた場合には業者ではない者でも業者と同一の取引をするときは業者に対する統制額が適用されるものであるから統制額違反事件においては必ずしも業者であるか否かを確定判示しなくとも差支えないものである。",
+  "ref_law": "物価統制令3条，刑訴法335条1項",
+  "lawsuit_id": "67352",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=67352",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/352/067352_hanrei.pdf"
+}

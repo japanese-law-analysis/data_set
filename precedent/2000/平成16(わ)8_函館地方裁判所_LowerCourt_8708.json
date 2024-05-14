@@ -1,0 +1,15 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 16,
+    "month": 6,
+    "day": 24
+  },
+  "case_number": "平成16(わ)8",
+  "case_name": "詐欺，殺人，死体遺棄，窃盗被告事件",
+  "court_name": "函館地方裁判所",
+  "lawsuit_id": "8708",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=8708",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/708/008708_hanrei.pdf"
+}

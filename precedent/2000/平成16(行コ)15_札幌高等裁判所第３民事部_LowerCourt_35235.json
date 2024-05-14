@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 9,
+    "day": 27
+  },
+  "case_number": "平成16(行コ)15",
+  "case_name": "時間外勤務手当等（通称　北海道立学校教育職員時間外勤務手当請求）",
+  "court_name": "札幌高等裁判所第３民事部",
+  "result": "棄却",
+  "original_court_name": "札幌地方裁判所",
+  "original_case_number": "平成14(行ウ)26",
+  "original_result": "棄却",
+  "gist": "公立学校の教育職員であった控訴人らが，時間外勤務及び休日勤務を行ったとして，時間外勤務等手当及び休日勤務手当の支払いを求めたが，公立の義務教育諸学校等の教育職員の給与等に関する特別措置条例３条３項の規定が適用されることを理由にその請求が棄却された事例",
+  "lawsuit_id": "35235",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=35235",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/235/035235_hanrei.pdf",
+  "contents": "%\n"
+}

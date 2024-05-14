@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 7,
+    "day": 11
+  },
+  "case_number": "昭和41(オ)465",
+  "case_name": "第三者異議",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第22巻7号1471頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和38(ネ)1528",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 1,
+    "day": 31
+  },
+  "gist": "第二次仮処分の執行により第一次仮処分がその実効を失う場合と第三者異議の訴",
+  "case_gist": "建築工事妨害禁止の仮処分（第一次仮処分）の執行後、その仮処分の債務者が、右仮処分の債権者の依頼によつて右建築工事に従事している者を相手方として、右建築中の建物およびその敷地の占有を執行吏に保管させ、右建築工事続行禁止を命ずる等の仮処分（第二次仮処分）をえて、その執行をしたため、第一次仮処分がその実効を失う場合には、第一次仮処分の債権者は、第三者異議の訴によつて、第二次仮処分の執行の排除を求めることができる。",
+  "ref_law": "民訴法549条1項，民訴法755条，民訴法760条",
+  "lawsuit_id": "55041",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55041",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/041/055041_hanrei.pdf"
+}

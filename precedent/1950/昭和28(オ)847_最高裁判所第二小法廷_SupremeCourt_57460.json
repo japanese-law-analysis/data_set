@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 6,
+    "day": 24
+  },
+  "case_number": "昭和28(オ)847",
+  "case_name": "土地所有権移転登記手続請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第9巻7号919頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 6,
+    "day": 10
+  },
+  "gist": "一　「分筆の上」登記を命ずる判決と「申立テザル事項」\n二　一筆の土地の一部の売買",
+  "case_gist": "一　一筆の土地全部の所有権移転登記手続を求める請求において、その土地の一部につき「分筆の上」所有権移転登記手続をなすべき旨の判決をしても、「申立テザル事項ニ付判決ヲ為シ」たことにはならない。\n二　一筆の土地の一部といえども、売買の目的とすることをうべく、その部分が具体的に特定しているかぎりは、右部分につき分筆手続未了前においても、買主はその部分につき所有権を取得することができる。",
+  "ref_law": "民訴185条，民法176条，民法177条，民法206条，不動産登記法79条，不動産登記法46条ノ2",
+  "lawsuit_id": "57460",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57460",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/460/057460_hanrei.pdf"
+}

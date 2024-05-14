@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 9,
+    "day": 7
+  },
+  "case_number": "昭和54(オ)30",
+  "case_name": "土地境界確定等",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集民　第127号439頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_case_number": "昭和53(ネ)67",
+  "original_date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 11,
+    "day": 8
+  },
+  "gist": "土地の売買契約が第三者の不法行為により解除され売主が右売買代金額相当の土地を現に保有している場合と売主についての損害の発生の有無",
+  "case_gist": "土地の所有者甲と乙との間で締結していた右土地の売買契約が丙の境界侵犯行為の存在を理由に解除されたため、甲において売買代金を取得しえなかつた場合であつても、甲が右代金額相当の右土地を現に保有しているときは、特段の事情のない限り、丙に対し、右売買契約によつて取得しうべかりし代金額と右土地を他へ売却した場合に取得しうべき税額控除後の代金額との差額を損害として請求することはできない。",
+  "ref_law": "民法709条",
+  "lawsuit_id": "62241",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62241",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/241/062241_hanrei.pdf"
+}

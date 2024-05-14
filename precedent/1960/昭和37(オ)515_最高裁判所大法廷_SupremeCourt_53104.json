@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 4,
+    "day": 28
+  },
+  "case_number": "昭和37(オ)515",
+  "case_name": "免職取消請求",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第19巻3号721頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和35(ネ)365",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 1,
+    "day": 31
+  },
+  "gist": "一　行政事件訴訟法附則第三条但書にいう「旧法によつて生じた効力」の意義。\n二　免職された公務員が免職処分の取消訴訟係属中に公職の候補者として届出をした場合と行政事件訴訟法第九条のもとにおける当該訴の利益。",
+  "case_gist": "一　行政事件訴訟法附則第三条にいう「旧法によつて生じた効力」とは、旧法を適用してすでに確定した個々の法律上の効力を指すものと解するのが相当である。\n二　免職された公務員が、免職処分の取消訴訟係属中に公職の候補者として届出をしたため、法律上その職を辞したしたものとみなされるにいたつた場合においても、行政事件訴訟法第九条のもとでは、当該訴の利益を認めるのが相当である。",
+  "ref_law": "行政事件訴訟法9条，行政事件訴訟法附則3条",
+  "lawsuit_id": "53104",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53104",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/104/053104_hanrei.pdf"
+}

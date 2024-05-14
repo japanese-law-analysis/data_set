@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 5,
+    "day": 30
+  },
+  "case_number": "昭和45(オ)76",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第26巻4号919頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和43(ネ)767",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 10,
+    "day": 24
+  },
+  "gist": "伐採を目的とする山林立木の売買契約における売主の義務",
+  "case_gist": "伐採を目的とする山林立木の売買契約においては、立木の引渡をもつて売主の義務の履行が完了するものではなく、売主は、立木の伐採、造材、搬出に必要な相当の期間、買主をして当該山林敷地を使用させる義務を負うものと解すべきである。",
+  "ref_law": "民法555条",
+  "lawsuit_id": "52017",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52017",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/017/052017_hanrei.pdf"
+}

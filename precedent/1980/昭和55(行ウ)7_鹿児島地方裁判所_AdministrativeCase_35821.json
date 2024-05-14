@@ -1,0 +1,18 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 3,
+    "day": 22
+  },
+  "case_number": "昭和55(行ウ)7",
+  "case_name": "公有水面埋立免許処分等取消請求事件",
+  "court_name": "鹿児島地方裁判所",
+  "field": "行政",
+  "gist": "公有水面埋立法２条１項に基づく公有水面埋立免許処分及び同法４２条１項に基づく公有水面埋立承認処分につき，右埋立予定区域付近で漁業を営み，あるいは同付近に居住する者で，同法５条所定の公有水面に関し権利を有する者に当たらないものは，右各処分の取消しを求める訴えの原告適格を有しないとした事例",
+  "lawsuit_id": "35821",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=35821",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/821/035821_hanrei.pdf",
+  "contents": ""
+}

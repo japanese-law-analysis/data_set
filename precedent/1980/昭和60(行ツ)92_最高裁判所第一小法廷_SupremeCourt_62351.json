@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 3,
+    "day": 2
+  },
+  "case_number": "昭和60(行ツ)92",
+  "case_name": "国民年金裁定却下処分取消請求事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第156号271頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和55(行コ)52",
+  "original_date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 12,
+    "day": 19
+  },
+  "gist": "国民年金法（昭和五六年法律第八六号による改正前のもの）一八一条一項の障害福祉年金の支給について適用される同法五六条一項ただし書と憲法二五条、一四条一項",
+  "case_gist": "国民年金法（昭和五六年法律第八六号による改正前のもの）一八一条一項の障害福祉年金の支給について適用される同法五六条一項ただし書は、憲法二五条、一四条一項に違反しない。",
+  "ref_law": "憲法14条1項，憲法25条，国民年金法（昭和56年法律第86号による改正前のもの）56条1項ただし書，国民年金法（昭和56年法律第86号による改正前のもの）81条1項",
+  "lawsuit_id": "62351",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62351",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/351/062351_hanrei.pdf"
+}

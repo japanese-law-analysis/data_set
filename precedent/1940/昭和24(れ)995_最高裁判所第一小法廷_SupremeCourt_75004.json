@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 10,
+    "day": 6
+  },
+  "case_number": "昭和24(れ)995",
+  "case_name": "強盗",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第14号89頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 20,
+    "month": 2,
+    "day": 28
+  },
+  "gist": "公判廷における訴訟手續と公判調書の證明力",
+  "case_gist": "公判廷において裁判所が辯護人の證人申請に對し却下すると決定を言渡したかどうか、又は證人の取調をしたかどうかと云うがごとき公判期日における訴訟手續については、公判調書のみによつて、立證さるべきものであつて他の資料又は方法による立證を許さないことは舊刑訴法第六四條の定めているところである。",
+  "ref_law": "舊刑訴法64條，舊刑訴法60條",
+  "lawsuit_id": "75004",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=75004",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/004/075004_hanrei.pdf"
+}

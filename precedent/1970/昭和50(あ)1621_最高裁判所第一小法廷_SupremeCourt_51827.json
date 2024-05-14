@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 5,
+    "day": 6
+  },
+  "case_number": "昭和50(あ)1621",
+  "case_name": "有印公文書偽造、同行使",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "刑集　第30巻4号591頁",
+  "original_court_name": "仙台高等裁判所\n        　秋田支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 6,
+    "day": 19
+  },
+  "gist": "補助公務員による手続違反の公文書作成につき公文書偽造罪の成立が否定された事例",
+  "case_gist": "市長の代決者である課長を補助し、一定の手続に従つて印鑑証明書の作成にあたつていた補助公務員が、右手続の要求する申請書の提出と手数料の納付をせずに、自己の用に供するため印鑑証明書を作成した行為は、判示の事情のもとにおいては、作成権限に基づくものとして、公文書偽造罪を構成しない。",
+  "ref_law": "刑法155条1項",
+  "lawsuit_id": "51827",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51827",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/827/051827_hanrei.pdf"
+}

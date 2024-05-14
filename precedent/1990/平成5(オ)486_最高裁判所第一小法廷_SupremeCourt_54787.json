@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 9,
+    "month": 7,
+    "day": 17
+  },
+  "case_number": "平成5(オ)486",
+  "case_name": "建物収去土地明渡等、建物収去土地明渡",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第51巻6号2882頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成3(ネ)4548",
+  "original_date": {
+    "era": "Heisei",
+    "year": 4,
+    "month": 12,
+    "day": 2
+  },
+  "gist": "借地上の建物の譲渡担保権者が建物の引渡しを受けて使用収益をする場合と民法六一二条にいう賃借権の譲渡又は転貸",
+  "case_gist": "借地上の建物につき借地人から譲渡担保権の設定を受けた者が、建物の引渡しを受けて使用又は収益をする場合には、いまだ譲渡担保権が実行されておらず、譲渡担保権設定者による受戻権の行使が可能であるとしても、建物の敷地について民法六一二条にいう賃借権の譲渡又は転貸がされたものと解するのが相当である。",
+  "ref_law": "民法369条（譲渡担保），民法612条",
+  "lawsuit_id": "54787",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54787",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/787/054787_hanrei.pdf"
+}

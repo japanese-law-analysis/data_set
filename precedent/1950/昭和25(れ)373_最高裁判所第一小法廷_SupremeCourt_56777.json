@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 5,
+    "day": 25
+  },
+  "case_number": "昭和25(れ)373",
+  "case_name": "放火",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第4巻5号854頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 12,
+    "day": 24
+  },
+  "gist": "放火罪における燒燬の意義",
+  "case_gist": "證人Ａの原審における供述豫審における供述記載その他原判決舉示の證據を綜合すれば、Ａ及びその家族の現に居住する本件家屋の一部たる三疉間の床板約一尺四方竝びに押入床板及び上段各約三尺四方を燒燬したる原判示事實の認定を肯認することができる。そして原判決は右のごとき現に人の居住する家屋の一部を判示程度に燒燬したと判示した以上被告人の放火が判示媒介物を離れて判示家屋の部分に燃え移り獨立して燃燒する程度に達したこと明らかであるから、人の現在する建造物を燒燬した判示として欠くるところはないものといわなければならない。",
+  "ref_law": "刑法108條，舊刑訴法360條1項",
+  "lawsuit_id": "56777",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56777",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/777/056777_hanrei.pdf"
+}

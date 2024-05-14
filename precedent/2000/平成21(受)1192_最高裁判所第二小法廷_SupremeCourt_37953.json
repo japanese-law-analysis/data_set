@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 9,
+    "day": 4
+  },
+  "case_number": "平成21(受)1192",
+  "case_name": "不当利得返還請求事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第231号477頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成21(ネ)60",
+  "original_date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 3,
+    "day": 26
+  },
+  "gist": "いわゆる過払金充当合意を含む基本契約に基づく金銭消費貸借の借主が利息制限法所定の制限を超える利息の支払を継続したことにより過払金が発生した場合における，民法７０４条前段所定の利息の発生時期",
+  "case_gist": "いわゆる過払金充当合意（過払金発生当時他の借入金債務が存在しなければ過払金をその後に発生する新たな借入金債務に充当する旨の合意）を含む基本契約に基づく金銭消費貸借の借主が利息制限法所定の制限を超える利息の支払を継続したことにより過払金が発生した場合においても，悪意の受益者である貸主は過払金発生の時から民法７０４条前段所定の利息を支払わなければならない。",
+  "ref_law": "民法704条前段，利息制限法1条1項",
+  "lawsuit_id": "37953",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=37953",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/953/037953_hanrei.pdf",
+  "contents": ""
+}

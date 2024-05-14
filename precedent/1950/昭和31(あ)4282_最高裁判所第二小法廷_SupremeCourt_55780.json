@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 8,
+    "day": 28
+  },
+  "case_number": "昭和31(あ)4282",
+  "case_name": "詐欺",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第13巻10号2906頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 10,
+    "day": 15
+  },
+  "gist": "一　国鉄公傷年金証書は財物か\n二　担保に供した国鉄公傷年金証書に対する詐欺罪の成立",
+  "case_gist": "一　国鉄公傷年金証書は、刑法にいわゆる財物にあたる。\n二　国鉄公傷年金証書はこれを債権の担保に供することは法令上禁止され無効であるとしても、該年金の受給者がその証書を債権担保のため債権者に差入れた後債権者を欺罔して右証書を交付させたときは、刑法第二四二条にいわゆる「他人ノ財物ト看做」された自己の財物を騙取した詐欺罪が成立する。",
+  "ref_law": "刑法242条，刑法246条1項，刑法251条，国有鉄道共済組合規則（昭和15年鉄道省令7号）34条，国有鉄道共済組合規則（昭和135鉄道省令7号）31条，公共企業体職員等共済組合法29条，恩給法11条",
+  "lawsuit_id": "55780",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55780",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/780/055780_hanrei.pdf"
+}

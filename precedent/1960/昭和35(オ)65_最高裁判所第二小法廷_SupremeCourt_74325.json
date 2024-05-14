@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 3,
+    "day": 23
+  },
+  "case_number": "昭和35(オ)65",
+  "case_name": "金員返還請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第59号521頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 8,
+    "day": 5
+  },
+  "gist": "当事者間に争いのある事実を争いなしとした違法があつてもその違法が判決に影響を及ぼさないとされた事例",
+  "case_gist": "売買契約当事者間において授受された金員につき、被告（売主）がこれを売買代金の内金としてではなく解約手附金として受取つた旨抗争しているのにかかわらずこれを当事者間に争いなしとした違法があつても、意思表示が法律行為の要素に錯誤があるため右売買契約は無効であるとして右金員の返還請求権の存することが認定された場合は右違法は判決に影響を及ぼさないというべきである。",
+  "ref_law": "民訴法257条，民訴法394条",
+  "lawsuit_id": "74325",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74325",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/325/074325_hanrei.pdf"
+}

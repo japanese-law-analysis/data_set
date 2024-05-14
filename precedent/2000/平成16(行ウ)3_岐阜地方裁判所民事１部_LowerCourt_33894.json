@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 10,
+    "day": 26
+  },
+  "case_number": "平成16(行ウ)3",
+  "case_name": "特別掛金賦課処分取消請求事件",
+  "court_name": "岐阜地方裁判所民事１部",
+  "result": "その他",
+  "gist": "被告の１つの設立事業所の事業主である原告が，従業員の一部が原告代表者の経営する別会社に転籍し，被告の加入員資格を喪失した旨を被告に届け出たところ，被告が，事実上，設立事業所の任意脱退に該当するとして，厚生年金保険法等に基づき，特別掛金（一括拠出金）の納入告知処分をしたため，原告が被告に対し上記処分の取消しを求め，これが認められた事例",
+  "lawsuit_id": "33894",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=33894",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/894/033894_hanrei.pdf",
+  "contents": ""
+}

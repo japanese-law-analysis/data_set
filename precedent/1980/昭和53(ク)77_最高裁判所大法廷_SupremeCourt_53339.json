@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 11,
+    "day": 5
+  },
+  "case_number": "昭和53(ク)77",
+  "case_name": "船舶所有者等責任制限手続開始決定に対する抗告棄却決定に対する抗告",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "民集　第34巻6号765頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和52(ラ)701",
+  "original_date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 1,
+    "day": 26
+  },
+  "gist": "船舶の所有者等の責任の制限に関する法律第二章の規定の合憲性",
+  "case_gist": "船舶の所有者等の責任の制限に関する法律第二章の規定は、憲法二九条一項、二項に違反しない。",
+  "ref_law": "船舶の所有者等の責任の制限に関する法律第2章船舶の所有者等の責任の制限，憲法29条1項，憲法29条2項",
+  "lawsuit_id": "53339",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53339",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/339/053339_hanrei.pdf"
+}

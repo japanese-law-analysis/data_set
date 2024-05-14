@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 7,
+    "month": 2,
+    "day": 24
+  },
+  "case_number": "平成3(行ツ)139",
+  "case_name": "審決取消",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第49巻2号460頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成2(ネ)131",
+  "original_date": {
+    "era": "Heisei",
+    "year": 3,
+    "month": 3,
+    "day": 28
+  },
+  "gist": "類似意匠の意匠登録出願に係る意匠が先に意匠登録出願がされた他人の意匠と類似する場合における右意匠登録出願の許否",
+  "case_gist": "類似意匠の意匠登録出願に係る意匠が先に意匠登録出願がされた他人の意匠と類似する場合には、右他人の意匠の意匠登録出願が取り下げられ又は無効にされたときを除き、その意匠が本意匠に類似するかどうかにかかわらず、右類似意匠の意匠登録出願は、意匠法九条一項により拒絶されるべきである。",
+  "ref_law": "意匠法9条1項，意匠法10条1項",
+  "lawsuit_id": "52496",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52496",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/496/052496_hanrei.pdf"
+}

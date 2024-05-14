@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 11,
+    "day": 17
+  },
+  "case_number": "昭和38(オ)627",
+  "case_name": "建物収去、土地明渡等請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第76号151頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 3,
+    "day": 4
+  },
+  "gist": "相上告人の上告理由中利益なものを援用するとの記載は上告理由の具体性をそなえるか。",
+  "case_gist": "ただ、相上告人の上告理由中利益なものを援用すると主張する上告理由の記載は、具体性を欠き法定の方式をそなえるものとは認められない。",
+  "ref_law": "民訴法398条2項，民訴規則49条",
+  "lawsuit_id": "63910",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63910",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/910/063910_hanrei.pdf"
+}

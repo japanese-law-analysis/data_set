@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 14,
+    "month": 1,
+    "day": 22
+  },
+  "case_number": "平成10(オ)512",
+  "case_name": "商品代金請求事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第205号93頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成9(ネ)589",
+  "original_date": {
+    "era": "Heisei",
+    "year": 9,
+    "month": 10,
+    "day": 30
+  },
+  "gist": "旧民訴法７０条所定の効力の客観的範囲",
+  "case_gist": "旧民訴法７０条所定の効力が及ぶ判決の理由中でされた事実の認定や先決的権利関係の存否についての判断とは，判決の主文を導き出すために必要な主要事実に係る認定及び法律判断などをいう。",
+  "ref_law": "民訴法46条",
+  "lawsuit_id": "62399",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62399",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/399/062399_hanrei.pdf"
+}

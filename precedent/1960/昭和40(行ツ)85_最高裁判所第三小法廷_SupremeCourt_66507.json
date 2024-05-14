@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 8,
+    "day": 27
+  },
+  "case_number": "昭和40(行ツ)85",
+  "case_name": "審査決定取消請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第92号105頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_case_number": "昭和38(ネ)110",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 6,
+    "day": 28
+  },
+  "gist": "札幌市中小企業設備合理化促進条例に基づく普通使用料の性質",
+  "case_gist": "札幌市中小企業設備合理化促進条例により、市長から機械等の使用許可を受けた者と市との間に成立するのは割賦払約款附売買であり、その者の納付する普通使用料は、売買代金の一部を構成するものとして、使用中の機械等の当該事業年度における減価償却の限度においてのみ損金に計上することが許される。",
+  "ref_law": "旧法人税法（昭和22年法律第28号）9条，地方自治法14条",
+  "lawsuit_id": "66507",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66507",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/507/066507_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 3,
+    "day": 12
+  },
+  "case_number": "昭和31(あ)635",
+  "case_name": "公職選挙法違反、国家公務員法違反",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第12巻3号501頁",
+  "original_court_name": "広島高等裁判所\n        　松江支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 1,
+    "day": 23
+  },
+  "gist": "国家公務員法第一〇二条の合憲性",
+  "case_gist": "国家公務員法第一〇二条の規定は憲法第一四条に違反しない。",
+  "ref_law": "憲法14条，国家公務員法102条",
+  "lawsuit_id": "50532",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50532",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/532/050532_hanrei.pdf"
+}

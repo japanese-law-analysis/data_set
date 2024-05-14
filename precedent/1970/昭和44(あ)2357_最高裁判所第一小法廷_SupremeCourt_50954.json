@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 10,
+    "day": 22
+  },
+  "case_number": "昭和44(あ)2357",
+  "case_name": "関税法違反、同幇助、外国為替及び外国貿易管理法違反、同幇助",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第24巻11号1516頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 9,
+    "day": 11
+  },
+  "gist": "無許可輸出罪の成立が否定された事例",
+  "case_gist": "輸出貨物代金前受証明書あるいは外貨交換済証明書を他から買い受けて、外国為替銀行の認証を受け、標準決済方法による輸出であるように装い、税関長に対し、右認証書を付し輸出申告をしてその許可を受けたうえ、貨物を輸出した場合は、右輸出許可が無効なものとはいえず、無許可輸出罪は成立しない。",
+  "ref_law": "関税法111条1項，関税法67条，関税法113条の2",
+  "lawsuit_id": "50954",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50954",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/954/050954_hanrei.pdf"
+}

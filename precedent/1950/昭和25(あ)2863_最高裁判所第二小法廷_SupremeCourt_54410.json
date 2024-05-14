@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 12,
+    "day": 8
+  },
+  "case_number": "昭和25(あ)2863",
+  "case_name": "公職選挙法違反、昭和二二年勅令第一号違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第4巻12号2534頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 10,
+    "day": 14
+  },
+  "gist": "覚書該当者の指定の特免と「刑の廃止」",
+  "case_gist": "昭和二二年勅令第一号第一五条第一項、第一六条第一項第七号違反（覚書該当者の政治活動）事件の第二審判決後、覚書該当者の指定の特免があつても、刑訴第四一一条五号にいう「刑の廃止」があつた場合にあたらない。",
+  "ref_law": "昭和22年勅令1号15条1項，昭和22年勅令1号16条1項7号，昭和24年政令39号1条，昭和24年政令39号5条6条，刑訴法411条5号",
+  "lawsuit_id": "54410",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54410",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/410/054410_hanrei.pdf"
+}

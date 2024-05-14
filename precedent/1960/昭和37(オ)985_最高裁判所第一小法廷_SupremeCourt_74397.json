@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 7,
+    "day": 29
+  },
+  "case_number": "昭和37(オ)985",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第79号967頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和33(ネ)120",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 4,
+    "day": 19
+  },
+  "gist": "過大催告として催告が無効とされた事例",
+  "case_gist": "催告賃料額が適正賃料額の約三、六倍であり、たとえ債務者が適正賃料額を提供しても債権者が受領を拒絶したであろうことが推認できる事情のもとでは、右催告は過大催告としてその効力が生じないというべきである。",
+  "ref_law": "民訴法541条",
+  "lawsuit_id": "74397",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74397",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/397/074397_hanrei.pdf"
+}

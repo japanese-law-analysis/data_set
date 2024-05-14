@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 10,
+    "day": 22
+  },
+  "case_number": "平成18(ワ)11104",
+  "case_name": "損害賠償等",
+  "court_name": "東京地方裁判所民事第３０部",
+  "result": "棄却",
+  "lawsuit_id": "35317",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=35317",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/317/035317_hanrei.pdf",
+  "contents": ""
+}

@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 3,
+    "day": 14
+  },
+  "case_number": "平成15(ワ)3753",
+  "case_name": "損害賠償請求事件",
+  "court_name": "名古屋地方裁判所民事第６部",
+  "gist": "江戸時代に本川の洪水を調節する目的で設置された洗堰を閉鎖せずに派川への洪水の流入を残したまま改修を行ってきた本川及び派川の河川管理について，河川管理における財政的，技術的及び社会的制約の下で，同種同規模の河川の管理の一般水準及び社会通念に照らして瑕疵はないとして，上記洗堰からの本川の流水の流入等によって派川の堤防が決壊して浸水被害を受けた住民らの国及び県に対する損害賠償請求がいずれも排斥された事例",
+  "lawsuit_id": "36594",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=36594",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/594/036594_hanrei.pdf",
+  "contents": ""
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 10,
+    "day": 10
+  },
+  "case_number": "昭和33(あ)319",
+  "case_name": "賍物牙保、横領",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第15巻9号1580頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 1,
+    "day": 31
+  },
+  "gist": "賍物の牙保者がその売却代金を着服した場合と横領罪の成否。",
+  "case_gist": "窃盗犯人から賍物の牙保を依頼されてその交付を受けた牙保者が、その売却代金をほしいままに着服した場合は、横領罪が成立する。",
+  "ref_law": "刑法256条，刑法252条",
+  "lawsuit_id": "50602",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50602",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/602/050602_hanrei.pdf"
+}

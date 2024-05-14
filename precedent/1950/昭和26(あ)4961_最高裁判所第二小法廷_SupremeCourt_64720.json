@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 4,
+    "day": 28
+  },
+  "case_number": "昭和26(あ)4961",
+  "case_name": "背任、業務上横領",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第79号537頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 9,
+    "day": 10
+  },
+  "gist": "控訴趣意書に包含される事項の調査がなされたものと認められる一事例",
+  "case_gist": "原判決は控訴趣意に包含されている事項につき調査を経ていない違法があるとの所論につき按ずるに、記録に徴すれば本件の証拠物は第一審裁判所から原審裁判所に送付されておらず、原裁判所もこれを取り寄せた形跡は見当らないけれども、控訴趣意において援用されている所論手帳については、所論犯罪事実に関する限り被告人自らその関係部分を摘録して提出した書面が記録に編綴されているのであるから、原裁判所が右手帳そのものを取り調べなかつたとしても、記録について調査したものと認められる以上、所論のごとき違法があるというに足りない。",
+  "ref_law": "刑訴法392条",
+  "lawsuit_id": "64720",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64720",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/720/064720_hanrei.pdf"
+}

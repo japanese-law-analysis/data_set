@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 11,
+    "day": 20
+  },
+  "case_number": "昭和24(オ)122",
+  "case_name": "仮処分取消請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第6巻10号1008頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 4,
+    "day": 22
+  },
+  "gist": "仮処分債権者が本訴において敗訴した場合と事情変更による仮処分の取消",
+  "case_gist": "仮処分決定があつた後に仮処分申請者がその本案訴訟で敗訴の判決を受けた場合においては、その確定前であつても、裁判所は自由裁量によつて本案判決が上級審において取り消されるおそれがないと判断するときには、事情の変更があつたものとして仮処分決定を取り消すことができる。",
+  "ref_law": "民訴法747条（756条）",
+  "lawsuit_id": "57127",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57127",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/127/057127_hanrei.pdf"
+}

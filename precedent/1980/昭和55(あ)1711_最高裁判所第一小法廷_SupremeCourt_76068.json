@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 2,
+    "day": 27
+  },
+  "case_number": "昭和55(あ)1711",
+  "case_name": "福岡県青少年保護育成条例違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第221号121頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 9,
+    "day": 25
+  },
+  "gist": "量刑不当を理由とする破棄自判の原判決が手適用した罰条についての規定違憲の主張を原審不経由で処理した事例",
+  "ref_law": "刑訴法386条1項3号，刑訴法405条",
+  "lawsuit_id": "76068",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=76068",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/068/076068_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 2,
+    "day": 13
+  },
+  "case_number": "昭和61(オ)1036",
+  "case_name": "貸金返還本訴、土地所有権移転登記手続等反訴",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第150号175頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和60(ネ)2513",
+  "original_date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 5,
+    "day": 28
+  },
+  "gist": "売買代金債務を目的とする準消費貸借契約が締結された場合であつても売主が自己の所有権移転登記手続債務につき売買契約に基づいて有していた同時履行の抗弁権を失わないとされた事例",
+  "case_gist": "土地の売買代金債務を目的とする準消費貸借契約が締結された場合であつても、右契約が、従来明確でなかつた残代金の支払時期とこれに付すべき利息の利率を定めるとともに連帯保証人を付すことを目的としてされたなど原判示の事情（原判決理由参照）があるときは、売主は、買主に対する所有権移転登記手続債務につき、売買契約に基づいて有していた同時履行の抗弁権を失わず、右準消費貸借契約上の債務の履行の提供があるまで、自己の債務の履行を拒むことができる。",
+  "ref_law": "民法533条，民法588条",
+  "lawsuit_id": "70493",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70493",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/493/070493_hanrei.pdf"
+}

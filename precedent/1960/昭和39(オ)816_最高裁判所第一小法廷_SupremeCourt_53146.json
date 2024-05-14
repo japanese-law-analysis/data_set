@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 4,
+    "day": 22
+  },
+  "case_number": "昭和39(オ)816",
+  "case_name": "値合金請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第19巻3号703頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和33(ネ)736",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 3,
+    "day": 30
+  },
+  "gist": "証券取引法第四九条に違反して委託証拠金なしに信用取引がなされた場合における証券業者と委託者との間の契約の効力。",
+  "case_gist": "証券取引法第四九条に違反して委託証拠金なしに信用取引により株式が売買されても、右違反は、証券業者と委託者との間の契約の効力に影響を及ぼすものではない。",
+  "ref_law": "民法91条，民法642条，商法552条，証券取引法49条",
+  "lawsuit_id": "53146",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53146",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/146/053146_hanrei.pdf"
+}

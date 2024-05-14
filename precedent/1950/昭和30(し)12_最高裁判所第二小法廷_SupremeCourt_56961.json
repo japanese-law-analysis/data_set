@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 10,
+    "day": 24
+  },
+  "case_number": "昭和30(し)12",
+  "case_name": "平和条約の実施に伴う刑事判決の再審査等に関する法律に基く再審査請求事件につきなした決定に対する抗告の棄却決定に対する抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第9巻11号2278頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 12,
+    "day": 28
+  },
+  "gist": "昭和二七年法律第一〇五号平和条約の実施に伴う刑事判決の再審査等に関する法律第六条の法意",
+  "case_gist": "昭和二七年法律第一〇五号平和条約の実施に伴う刑事判決の再審査等に関する法律第六条の規定は、再審査の対象となる判決の手続が準拠した訴訟法の新旧の区別に従い、再審査手続も読一の訴訟法によるべく、なお旧刑訴法による場合は刑訴応急措置法の規定に従うべきものであることを規定した趣旨とする解すべきである。",
+  "ref_law": "平和条約の実施に伴う刑事判決の再審査等に関する法律（昭和27年法律105号）3条，平和条約の実施に伴う刑事判決の再審査等に関する法律（昭和27年法律105号）6条，刑訴応急措置法18条",
+  "lawsuit_id": "56961",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56961",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/961/056961_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 2,
+    "day": 9
+  },
+  "case_number": "昭和34(あ)387",
+  "case_name": "背任、公入札妨害",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第16巻2号54頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 1,
+    "day": 21
+  },
+  "gist": "刑法第九六条ノ三第一項にいわゆる「偽計ヲ用ヒ公ノ入札ノ公正ヲ害スヘキ行為ヲ為シタル者」に該当する事例",
+  "case_gist": "町教育委員会の決議に基き、小学校の改築工事が敷札による競争入札により、敷札に最も近い入札者を落札者とすることとされ、且つ敷札額の決定は、同町長、同町議会議長、同副議長たる被告人及び同教育委員長の四名に一任された場合、被告人が右敷札額を特定の入札予定者のみに内報し、同人をしてこれに基き入札させた所為は、刑法第九六条ノ三第一項にいわゆる「偽計ヲ用ヒ公ノ入札ノ公正ヲ害スヘキ行為ヲ為シタル者」に該当する。",
+  "ref_law": "刑法96条ノ3第1項",
+  "lawsuit_id": "50629",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50629",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/629/050629_hanrei.pdf"
+}

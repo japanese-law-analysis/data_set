@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 11,
+    "day": 26
+  },
+  "case_number": "昭和39(オ)125",
+  "case_name": "家屋収去、土地明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第76号319頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 10,
+    "day": 14
+  },
+  "gist": "明権不行使の違法がないとされた事例。",
+  "case_gist": "論旨は、原審は上告人に買収請求権行使の点につき釈明を求むべきであつたのに右釈明義務を果たしていないという。しかし、当事者の一方がある権利を取得したことをうかがわしめるような事実が訴訟上あらわれたにかかわらず、その当事者がこれを行使しない場合にあつても、裁判所はその者に対しその権利行使の意思の有無をたしかめ、あるいは、その権利行使を促すべき責務があるものではないのであつて、このことは、当裁判所の判例とするところである（昭和二七年（オ）第五四五号同年一一月二七日第一小法廷判決、民集六巻一〇号一〇六二頁）。",
+  "ref_law": "民訴法127条",
+  "lawsuit_id": "63946",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63946",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/946/063946_hanrei.pdf"
+}

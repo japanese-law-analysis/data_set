@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 3,
+    "day": 13
+  },
+  "case_number": "昭和53(オ)979",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第129号285頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和51(ネ)137",
+  "original_date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 5,
+    "day": 17
+  },
+  "gist": "歩道と車道とが分離されずまた歩行者が通行している路肩部分が未舗装で降雨時にぬかるうえ夜間の照明が十分でない道路であつてもその設置又は管理に瑕疵がないとされた事例",
+  "case_gist": "幅員が八・六メートルで、そのうち片側の路肩部分の幅員一・四メートルが未舗装であるほかは全部舗装されていて、道路構造令の適用を受けるとすれば同令上三種四級道路にあたるとされる県道について、右道路が国道の補完道路としての機能を果たすもので、夜間の交通量は少なく、事故多発地点にもあたらないうえ、終日駐車禁止、車両の速度制限毎時四〇キロメートルとの規制がざれているなど原判決判示のような事情がある場合においては、歩道と車道とが分離されず、また、歩行者が通行している右路肩部分が降雨時ぬかるうえ、夜間の照明が十分でなくとも、道路の設置又は管理に瑕疵があるとはいえない。",
+  "ref_law": "国家賠償法2条1項",
+  "lawsuit_id": "64282",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64282",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/282/064282_hanrei.pdf"
+}

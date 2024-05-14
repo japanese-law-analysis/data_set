@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 12,
+    "day": 21
+  },
+  "case_number": "昭和35(オ)572",
+  "case_name": "小切手金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第63号795頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 2,
+    "day": 27
+  },
+  "gist": "判決言渡の方式を民訴法第一四七条にいう「口頭弁論の方式」",
+  "case_gist": "判決言渡の方式は民訴法第一四七条にいわゆる「口頭弁論の方式」に該当する。",
+  "ref_law": "民訴法147条",
+  "lawsuit_id": "65879",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=65879",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/879/065879_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 10,
+    "day": 15
+  },
+  "case_number": "昭和25(ク)12",
+  "case_name": "行政処分執行停止申請事件について抗告棄却の決定に対する抗告の申立",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "決定",
+  "result": "その他",
+  "article_info": "民集　第6巻9号827頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和24(ラ)33",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 12,
+    "day": 19
+  },
+  "gist": "一　行政事件訴訟特例法第一〇条第二項本文の規定の合憲性\n二　特別抗告の理由として民訴第四一九条の二第二項が憲法に反するとの主張の適否",
+  "case_gist": "一　行政事件訴訟特例法第一〇条第二項本文が、行政処分の執行停止について一定の制限を設けているからといつて、同条項は、憲法によつて裁判所に与えられた行政事件審判権を侵犯する違憲の法律とはいえない。\n二　民訴第四一九条の二第二項が憲法に違反するとの主張は、適法な同条の抗告理由でない。",
+  "ref_law": "行政事件訴訟特例法10条2項，憲法76条，民訴法419条ノ2",
+  "lawsuit_id": "57210",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57210",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/210/057210_hanrei.pdf"
+}

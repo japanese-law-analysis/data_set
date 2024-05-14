@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 5,
+    "day": 22
+  },
+  "case_number": "昭和31(あ)4519",
+  "case_name": "窃盜",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第129号919頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 11,
+    "day": 21
+  },
+  "gist": "下級裁判所の裁判官と憲法前文にいう「国民の代表者」",
+  "case_gist": "一　裁判官河村大助の補足意見\n二　所論は、現行の下級裁判所の裁判官は、憲法八〇条の規定により任命されたものであるけれども、国民から選挙せられたものではなく、従つて国民の代表者たる裁判官とはいえないから、本件原審裁判官による原判決は、国政の権力は国民の代表者が行使する旨定めた憲法の前文に違反するものであると主張するに帰する。\n　しかし、現行の下級裁判所の裁判官の任命については、所論主張のように、憲法自らその八〇条において、下級裁判所の裁判官は最高裁判所の指命した者の名簿によつて内閣でこれを任命すると規定している。しかるに、所論は、右憲法八〇条の規定自体が違憲無効であることを前提とする議論であつて、かかる主張は上告適法の理由とならない。",
+  "ref_law": "憲法前文，憲法80条",
+  "lawsuit_id": "60990",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60990",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/990/060990_hanrei.pdf"
+}

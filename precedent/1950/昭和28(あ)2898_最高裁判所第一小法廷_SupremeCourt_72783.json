@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 11,
+    "day": 26
+  },
+  "case_number": "昭和28(あ)2898",
+  "case_name": "業務上横領",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第88号887頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 5,
+    "day": 23
+  },
+  "gist": "他人のために業務上保管する代金を一時費消し短期間内に補堝した場合と横領罪の成否",
+  "case_gist": "他人のために所論のような代金を保管しているものは商慣習により判示短期間内は実体法上自己のために一時これを流用し得る権限が認められているというのではなくて、たとえ一時私にこれを費消することがあつても、判示短期間内にこれを填補さえすればその刑責を追及しないことが実際上の慣例である旨を判示した原判決は正当である。",
+  "ref_law": "刑法253条",
+  "lawsuit_id": "72783",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=72783",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/783/072783_hanrei.pdf"
+}

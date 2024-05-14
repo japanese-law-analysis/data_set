@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 4,
+    "day": 3
+  },
+  "case_number": "昭和24(オ)273",
+  "case_name": "仮処分取消申立",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第5巻5号207頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 9,
+    "day": 16
+  },
+  "gist": "一　仮処分による強制執行停止の許否\n二　強制執行着手前の請求異議の許否",
+  "case_gist": "一　仮処分の方法により強制執行を停止することは許されない。\n二　請求異議の訴は、強制執行の着手前であつても提起することができる。",
+  "ref_law": "民訴法760条，民訴法545条",
+  "lawsuit_id": "55958",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55958",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/958/055958_hanrei.pdf"
+}

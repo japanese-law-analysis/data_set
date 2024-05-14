@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 3,
+    "day": 1
+  },
+  "case_number": "平成19(ワ)5886",
+  "case_name": "損害賠償請求事件",
+  "court_name": "大阪地方裁判所第１７民事部",
+  "gist": "妊婦が分娩中に脳出血を発症して死亡したことにつき，被告病院医師がCT検査等を実施しなかった点に過失はなく，死亡との因果関係も認められないとして，損害賠償請求が棄却された事例（大淀病院事件）",
+  "lawsuit_id": "38718",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=38718",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/718/038718_hanrei.pdf",
+  "contents": "SpO2\n4,469,300 1 0.35 16.3741 47,567,497\nSpO2\nSpO2\n5.5 6\n7 5.5 6\n7 5.5 6\nSpO2\n60 9 20\n"
+}

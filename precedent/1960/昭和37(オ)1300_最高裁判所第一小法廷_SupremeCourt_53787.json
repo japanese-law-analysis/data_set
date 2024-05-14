@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 10,
+    "day": 29
+  },
+  "case_number": "昭和37(オ)1300",
+  "case_name": "自動車所有権確認等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第18巻8号1823頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 9,
+    "day": 8
+  },
+  "gist": "免許を受けるべきであるにかかわらずこれを受けていない自動車運送事業の経営により得べかりし営業利益の喪失を理由とする損害賠償請求を認容した事例。",
+  "case_gist": "自動車の売主が債務の履行を遅滞したため、買主が右自動車を運送事業の用に供し、運送賃を取得することができなかつた場合には、その買主が当該運送事業の免許を受けるべきであるにかかわらずこれを受けていないときでも、債務不履行により得べかりし営業利益喪失の損害をこうむつたものとして、売主に対しその賠償を請求することができる。",
+  "ref_law": "民法415条，民法416条，民法708条，道路運送法4条1項",
+  "lawsuit_id": "53787",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53787",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/787/053787_hanrei.pdf"
+}

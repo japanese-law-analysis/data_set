@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 10,
+    "day": 25
+  },
+  "case_number": "昭和46(あ)1625",
+  "case_name": "業務上過失傷害等",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第181号855頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 7,
+    "day": 6
+  },
+  "gist": "量刑事情と憲法三九条",
+  "ref_law": "憲法39条",
+  "lawsuit_id": "59650",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59650",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/650/059650_hanrei.pdf"
+}

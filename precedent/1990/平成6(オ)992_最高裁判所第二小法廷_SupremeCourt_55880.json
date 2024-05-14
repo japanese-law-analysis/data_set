@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 8,
+    "month": 2,
+    "day": 23
+  },
+  "case_number": "平成6(オ)992",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第50巻2号249頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成5(ネ)71",
+  "original_date": {
+    "era": "Heisei",
+    "year": 6,
+    "month": 1,
+    "day": 28
+  },
+  "gist": "労働者災害補償保険特別支給金支給規則（昭和四九年労働省令第三〇号）による特別支給金を被災労働者の損害額から控除することの可否",
+  "case_gist": "労働者災害補償保険特別支給金支給規則（昭和四九年労働省令第三〇号）による特別支給金は、被災労働者の損害額から控除することができない。",
+  "ref_law": "労働基準法84条2項，労働者災害補償保険法12条の4，労働者災害補償保険法（平成7年法律第35号による改正前のもの）23条1項，労働者災害補償保険特別支給金支給規則（昭和49年労働省令第30号）1条，労働者災害補償保険特別支給金支給規則（昭和49年労働省令第30号）2条，民法709条",
+  "lawsuit_id": "55880",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55880",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/880/055880_hanrei.pdf"
+}

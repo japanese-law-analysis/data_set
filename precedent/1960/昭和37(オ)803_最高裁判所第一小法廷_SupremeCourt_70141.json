@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 7,
+    "day": 4
+  },
+  "case_number": "昭和37(オ)803",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第67号7頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 1,
+    "day": 18
+  },
+  "gist": "民法第一八八条の推定が覆えされたとされた事例。",
+  "case_gist": "不動産所有権の帰属を争う甲乙のうち該不動産を占有する甲が民法第一八八条により一応所有権者と推定される場合においても、該不動産は、乙の先代が他からこれを買い受けて所有権保存登記を了し、次いで乙が家督相続により右所有権を承継した事実が証明されたときは、（他に、乙の先代または乙が所有権を喪失した事由がない限り）前記推定は覆えされたものというべきである。",
+  "ref_law": "民法188条",
+  "lawsuit_id": "70141",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70141",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/141/070141_hanrei.pdf"
+}

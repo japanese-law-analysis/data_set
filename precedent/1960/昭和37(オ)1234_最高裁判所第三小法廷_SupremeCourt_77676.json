@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 4,
+    "day": 30
+  },
+  "case_number": "昭和37(オ)1234",
+  "case_name": "建物明渡請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第65号795頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 8,
+    "day": 18
+  },
+  "gist": "建物賃借人の賃貸人に対する背信行為が賃貸借上の義務違背にあたらないとして解約申入につき正当事由の存在が否定された事例。",
+  "case_gist": "賃貸人（男）と不倫関係にあつた建物賃借人（女）が右男の態度の冷淡になつたのに憤慨し、いやがらせのため右不倫関係を近所の者に言いふらしたり、同男の操業中の工場の送電線のスイツチを切つたり原判示のようなことをしても、右背信行為は建物賃貸借において直接賃借人として要求される義務に違反するものでないから、解約申入の正当事由にあたらない。",
+  "ref_law": "借家法1条ノ2",
+  "lawsuit_id": "77676",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77676",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/676/077676_hanrei.pdf"
+}

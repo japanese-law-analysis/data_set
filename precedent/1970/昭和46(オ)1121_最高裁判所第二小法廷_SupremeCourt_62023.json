@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 3,
+    "day": 31
+  },
+  "case_number": "昭和46(オ)1121",
+  "case_name": "預金債権確認請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第105号429頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和45(ネ)555",
+  "original_date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 10,
+    "day": 6
+  },
+  "gist": "被用者の行為を職務権限内の行為と信じた相手方に重大な過失がないとされた事例",
+  "case_gist": "甲が、相互銀行乙に預金するために、その外交係被用者丙に金銭を交付した場合において、甲は、丙と古くからの知己で、数年前から同人を通じて乙と預金取引をしていたものであり、丙を信頼していたため、同人の勧誘に応じて右預金に及んだものであるなど原判示の事実関係（原判決理由参照）があるときは、丙が支払を約した利息が銀行預金としては異例の高率のものであり、右預金の授受に際し丙の交付した領収証が乙所定のものでなかつたという事情があつても、甲において、丙が右預金を受領する行為を同人の職務権限内における適法な行為と信じたことにつき、重大な過失があつたものとはいえない。",
+  "ref_law": "民法715条",
+  "lawsuit_id": "62023",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62023",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/023/062023_hanrei.pdf"
+}

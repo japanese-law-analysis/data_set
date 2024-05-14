@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 2,
+    "day": 23
+  },
+  "case_number": "昭和25(オ)320",
+  "case_name": "区会議員当選確認",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第5巻3号118頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 8,
+    "day": 31
+  },
+  "gist": "選挙人名簿調製に際し選挙権の要件としての居住期間を計算するについて基準とすべき日",
+  "case_gist": "選挙人名簿調製に際し選挙権の要件としての居住期間の計算は、法律に特別の規定のないかぎり選挙人名簿調製期日によるべきものである。",
+  "ref_law": "東京都制13条，東京都制145条1項，昭和22年法律2号衆議院議員選挙法12条の特例等に関する法律（昭和22年法律169号による改正前のもの）1条，昭和22年法律2号衆議院議員選挙法12条の特例等に関する法律（昭和22年法律169号による改正前のもの）3条，昭和22年3月15日内務省令15号",
+  "lawsuit_id": "56021",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56021",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/021/056021_hanrei.pdf"
+}

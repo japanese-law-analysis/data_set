@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 5,
+    "day": 1
+  },
+  "case_number": "昭和36(あ)1835",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "刑集　第16巻5号470頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 11,
+    "day": 7
+  },
+  "gist": "選挙運動報酬等として供与された金銭が、受供与者の手許で、一旦他の預金と共に預金された後、供与者に返還された場合の価額の追徴",
+  "case_gist": "選挙運動報酬等として供与された金銭が、一旦受供与者の手許で他の預金と共に預金された後、更に引出されて供与者に返還された場合に、その返還された金銭またはその価額を、供与者から没収または追徴することはできない。",
+  "ref_law": "公職選挙法221条1項1号，公職選挙法224条",
+  "lawsuit_id": "56995",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56995",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/995/056995_hanrei.pdf"
+}

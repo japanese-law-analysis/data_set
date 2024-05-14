@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 11,
+    "day": 2
+  },
+  "case_number": "昭和29(き)12",
+  "case_name": "強盗殺人、放火、住居侵入被告事件につきなした上告棄却の判決に対する再審",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第100号1頁",
+  "original_court_name": "最高裁判所",
+  "original_case_number": "昭和27(あ)2144",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 2,
+    "day": 18
+  },
+  "lawsuit_id": "75697",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=75697",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/697/075697_hanrei.pdf"
+}

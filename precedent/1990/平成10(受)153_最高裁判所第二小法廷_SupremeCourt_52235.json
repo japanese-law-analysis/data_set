@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 11,
+    "month": 4,
+    "day": 16
+  },
+  "case_number": "平成10(受)153",
+  "case_name": "医薬品販売差止請求事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第53巻4号627頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成9(ネ)1476",
+  "original_date": {
+    "era": "Heisei",
+    "year": 10,
+    "month": 5,
+    "day": 13
+  },
+  "gist": "いわゆる後発医薬品について薬事法１４条所定の承認を申請するため必要な試験を行うことと特許法６９条１項にいう「試験又は研究のためにする特許発明の実施」",
+  "case_gist": "特許権の存続期間終了後に特許発明に係る医薬品と有効成分等を同じくするいわゆる後発医薬品を製造販売することを目的として，薬事法１４条所定の製造承認を申請するため，特許権の存続期間中に特許発明の技術的範囲に属する化学物質又は医薬品を生産し，これを使用して製造承認申請書に添付すべき資料を得るのに必要な試験を行うことは，特許法６９条１項にいう「試験又は研究のためにする特許発明の実施」に当たる。",
+  "ref_law": "特許法67条，特許法68条，特許法69条1項，特許法100条，薬事法14条",
+  "lawsuit_id": "52235",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52235",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/235/052235_hanrei.pdf"
+}

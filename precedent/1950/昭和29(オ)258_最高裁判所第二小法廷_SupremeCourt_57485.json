@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 3,
+    "day": 2
+  },
+  "case_number": "昭和29(オ)258",
+  "case_name": "農地買収計画決定取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第10巻3号163頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 2,
+    "day": 11
+  },
+  "gist": "遡及買収指示手続の違法は右指示に基き定められた農地買収計画を違法ならしめるか",
+  "case_gist": "遡及買収指示手続に違法があつても、このため、右指示に基き定められた農地買収計画が違法となることはない。",
+  "ref_law": "自作農創設特別措置法6条の3",
+  "lawsuit_id": "57485",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57485",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/485/057485_hanrei.pdf"
+}

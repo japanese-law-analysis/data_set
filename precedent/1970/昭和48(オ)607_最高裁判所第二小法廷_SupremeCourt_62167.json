@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 11,
+    "day": 16
+  },
+  "case_number": "昭和48(オ)607",
+  "case_name": "家屋明渡等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第110号491頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和44(ネ)1912",
+  "original_date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 3,
+    "day": 23
+  },
+  "gist": "借家法一条ノ二の正当事由が認められなかつた事例",
+  "case_gist": "原審認定事実（第一、二審判決理由参照）のもとにおいて借家法一条ノ二の正当事由がないとした原審の判断は正当である。",
+  "ref_law": "借家法1条ノ2",
+  "lawsuit_id": "62167",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62167",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/167/062167_hanrei.pdf"
+}

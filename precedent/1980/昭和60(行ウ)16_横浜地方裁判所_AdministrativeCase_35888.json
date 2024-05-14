@@ -1,0 +1,19 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 10,
+    "day": 9
+  },
+  "case_number": "昭和60(行ウ)16",
+  "case_name": "裁決取消等請求事件",
+  "court_name": "横浜地方裁判所",
+  "field": "行政",
+  "gist": "第三者の請求により住民票の写しの交付がされた場合に，当該住民がした交付請求書の開示請求を拒否する区長の行為は，行政事件訴訟法３条２項にいう「行政庁の処分その他公権力の行使に当たる行為」に当たるか",
+  "case_gist": "第三者の請求により住民票の写しの交付がされた場合に，当該住民がした交付請求書の開示請求を拒否する区長の行為は，行政事件訴訟法３条２項にいう「行政庁の処分その他公権力の行使に当たる行為」に当たらない。",
+  "lawsuit_id": "35888",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=35888",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/888/035888_hanrei.pdf",
+  "contents": ""
+}

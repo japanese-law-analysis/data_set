@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 10,
+    "day": 25
+  },
+  "case_number": "昭和24(れ)1285",
+  "case_name": "物価統制令違反、食糧管理法違反等",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第4巻11号2203頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 3,
+    "day": 4
+  },
+  "gist": "一　起訴状における犯罪事実の表示方法として、司法警察官意見書記載の犯罪事実を引用することの可否\n二　旧刑訴第二九一条において公判請求書に犯罪事実表示のため司法警察官意見書記載の犯罪事実を引用することの可否",
+  "case_gist": "一　旧刑訴法第二九一条第一項に公訴提起の方法として犯罪事実の表示を必要としたのは、訴訟物体の範囲を明確にするために外ならないのであるから、公訴状に犯罪事実の表示として、記録編綴の司法警察官意見書記載の犯罪事実を引用することはもとより何等妨げないところである。\n二　旧刑訴第二九一条において公判請求書に犯罪事実を表示するため、記録編綴の司法警察官意見書記載の犯罪事実を引用してもかまはない。",
+  "ref_law": "旧刑訴法291条1項，旧刑訴法291条",
+  "lawsuit_id": "54295",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54295",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/295/054295_hanrei.pdf"
+}

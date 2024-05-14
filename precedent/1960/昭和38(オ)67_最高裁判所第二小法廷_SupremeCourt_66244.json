@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 7,
+    "day": 29
+  },
+  "case_number": "昭和38(オ)67",
+  "case_name": "売買代金等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第74号789頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 9,
+    "day": 28
+  },
+  "gist": "民法第七一五条の「事業ノ執行ニ付キ」にあたらないとされた事例。",
+  "case_gist": "保安大学の職員が、判示のとおり、職務分掌規程上または事実上の職務の範囲外において、共謀して自動車を騙取した行為は、同大学の「事業ノ執行ニ付キ」なした行為に該当しない。",
+  "ref_law": "民法715条",
+  "lawsuit_id": "66244",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66244",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/244/066244_hanrei.pdf"
+}

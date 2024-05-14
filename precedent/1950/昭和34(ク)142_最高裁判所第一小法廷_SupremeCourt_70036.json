@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 5,
+    "day": 18
+  },
+  "case_number": "昭和34(ク)142",
+  "case_name": "行政代執行執行停止申立事件の決定に対する特別抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "却下",
+  "article_info": "集民　第36号265頁",
+  "original_court_name": "長崎地方裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 4,
+    "day": 25
+  },
+  "lawsuit_id": "70036",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70036",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/036/070036_hanrei.pdf"
+}

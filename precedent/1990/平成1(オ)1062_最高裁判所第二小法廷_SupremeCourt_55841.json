@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 5,
+    "month": 1,
+    "day": 25
+  },
+  "case_number": "平成1(オ)1062",
+  "case_name": "否認権行使",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第47巻1号344頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和63(ネ)626",
+  "original_date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 4,
+    "day": 27
+  },
+  "gist": "特定の債務の弁済に充てる約定で借り入れた金員による当該債務の弁済が破産法七二条一号による否認の対象とならないとされた事例",
+  "case_gist": "破産者が特定の債務の弁済に充てる約定の下に借り入れた金員により当該債務を弁済した場合において、借入債務が弁済された債務より利息などその態様において重くなく、また、破産者が、右約定をしなければ借入れができず、貸主及び弁済を受ける債権者の立会いの下に借入後その場で直ちに右弁済をしており、右約定に違反して借入金を他の使途に流用したり、借入金が差し押さえられるなどして右約定を履行できなくなる可能性も全くなかったなど判示の事実関係の下では、右弁済は、破産法七二条一号による否認の対象とならない。",
+  "ref_law": "破産法72条1号",
+  "lawsuit_id": "55841",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55841",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/841/055841_hanrei.pdf"
+}

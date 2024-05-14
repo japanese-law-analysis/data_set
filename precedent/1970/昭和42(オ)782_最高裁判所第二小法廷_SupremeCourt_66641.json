@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 1,
+    "day": 30
+  },
+  "case_number": "昭和42(オ)782",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集民　第98号173頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和40(ネ)614",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 3,
+    "day": 31
+  },
+  "gist": "土地区画整理法七七条一項に基づく建物除却処分を忍受すべきものとされた事例",
+  "case_gist": "判示事実関係（判決理由参照）のもとにおいては、被上告人（本件建物の旧所有者、現占有者）は、名古屋市長の為した土地区画整理法七七条一項の本件除却処分を忍受し、かつ、本件建物から搬出された本件家財道具（被上告人所有）を受領すべき義務があり、名古屋市長には、右物件の保管義務はない。",
+  "ref_law": "土地区画整理法77条1項，土地区画整理法2項",
+  "lawsuit_id": "66641",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66641",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/641/066641_hanrei.pdf"
+}

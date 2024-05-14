@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 12,
+    "day": 6
+  },
+  "case_number": "昭和40(行ツ)30",
+  "case_name": "決議取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第22巻13号2908頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和35(行ナ)23",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 1,
+    "day": 29
+  },
+  "gist": "弁護士法第五条第三号にいう大学の学部等における法律学の教授または助教授の職にあつた者の意義",
+  "case_gist": "弁護士法第五条第三号にいう「大学の学部、専攻科又は大学院において法律学の教授又は助教授の職に在つた者」とは、大学が法律学研修の施設として設けている学部等で研修の課程とされている法律学の授業科目を担当する教授または助教授の職にあつた者を指すものと解すべきである。",
+  "ref_law": "弁護士法5条",
+  "lawsuit_id": "55009",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55009",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/009/055009_hanrei.pdf"
+}

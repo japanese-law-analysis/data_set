@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 2,
+    "day": 8
+  },
+  "case_number": "昭和30(オ)249",
+  "case_name": "建物明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第11巻2号258頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 12,
+    "day": 22
+  },
+  "gist": "反対訊問の機会がなかつた本人訊問の結果を証拠資料となし得る一事例。",
+  "case_gist": "当事者本人に対する臨床訊問が途中で打ち切られ、結局、反対訊問の機会がなかつたとしても、それが、右本人の病状に照らし、やむを得ない事由によるものと認められる以上、右本人訊問の結果は、これを証拠資料としても違法ではない。",
+  "ref_law": "民訴法294条1項，民訴法342条",
+  "lawsuit_id": "57578",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57578",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/578/057578_hanrei.pdf"
+}

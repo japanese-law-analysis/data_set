@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 10,
+    "day": 7
+  },
+  "case_number": "昭和42(オ)535",
+  "case_name": "土地所有権確認等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第25巻7号885頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成16(ネ)30",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 2,
+    "day": 17
+  },
+  "gist": "一、共有者全員が提起した共有権確認訴訟と固有必要的共同訴訟\n二、共有者全員が提起した共有権に基づく所有権移転登記手続請求訴訟と固有必要的共同訴訟",
+  "case_gist": "一、一個の物を共有する数名の者全員が、共同原告となり、共有権（その数名が共同して有する一個の所有権）に基づき共有権の確認を求めているときは、その訴訟の形態は、固有必要的共同訴訟と解すべきである。\n二、一個の不動産を共有する数名の者全員が、共同原告となり、共有権（その数名が共同して有する一個の所有権）に基づき所有権移転登記手続を求めているときは、その訴訟の形態は、固有必要的共同訴訟と解すべきである。",
+  "ref_law": "民訴法62条，民法249条，民法251条",
+  "lawsuit_id": "51900",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51900",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/900/051900_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 3,
+    "day": 4
+  },
+  "case_number": "昭和22(れ)312",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "刑集　第2巻3号135頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 11,
+    "day": 21
+  },
+  "gist": "連續せる窃盗罪の事實及び證據説明の判示の程度",
+  "case_gist": "連續せる窃盗罪の判示に於て、被害者の氏名又は員數を明示せず、その證據説明に於て、證據の具體的内容を示さず、又その證據説明が一部は虚無であり、一部は證據の具體的内容を示さず、一部は判示に照應することが明確でないことは違法である。",
+  "ref_law": "刑法235條，刑訴法360條1項",
+  "lawsuit_id": "56443",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56443",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/443/056443_hanrei.pdf"
+}

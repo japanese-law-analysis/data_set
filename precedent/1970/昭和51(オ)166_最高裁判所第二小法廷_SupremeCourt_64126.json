@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 12,
+    "day": 19
+  },
+  "case_number": "昭和51(オ)166",
+  "case_name": "建物所有権確認等",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第122号455頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和48(ネ)633",
+  "original_date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 11,
+    "day": 27
+  },
+  "gist": "借地期間の経過と同時に地上建物を賃貸人に贈与すべき旨の特約が無効とされた事例",
+  "case_gist": "建物所有を目的とする土地賃貸借契約において、賃借人が借地期間の経過と同時に地上建物を贈与すべき旨特約した場合に、右特約によつて賃借人が受ける不利益を補償するに足りる特段の事情がないときは、右特約は借地法一一条により無効である。\n\n（意見がある。）",
+  "ref_law": "借地法4条，借地法11条",
+  "lawsuit_id": "64126",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64126",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/126/064126_hanrei.pdf"
+}

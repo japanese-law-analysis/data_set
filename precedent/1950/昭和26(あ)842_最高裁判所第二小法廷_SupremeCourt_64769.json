@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 1,
+    "day": 16
+  },
+  "case_number": "昭和26(あ)842",
+  "case_name": "酒税法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第72号97頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 11,
+    "day": 18
+  },
+  "gist": "酒税法第一四条（昭和二四年法律第四三号による改正前のもの）違反事件は必要的弁護事件になるか",
+  "case_gist": "第一審判決の認定例示するところによると、本件犯罪は、昭和二三年十月に行われたものであるから、本件に適用される酒税法は昭和一五年法律第三五号によるものである。これによると、（その後の改正により罰金額は引上げられたが）その六〇条及び六四条とも、罰金刑のみを科することゝなつており、所論の如く懲役刑をも科することを得るようになつたのは、本件犯罪後の昭和二四年五月一日施行の昭和二四年法律第四三号からである。従つて原審が弁護人なくして公判を開廷したことには、何等の違法もないのである。",
+  "ref_law": "酒税法（昭和24年法律43号による改正前のもの）60条，酒税法（昭和24年法律43号による改正前のもの）64条，刑訴法289条",
+  "lawsuit_id": "64769",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64769",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/769/064769_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 9,
+    "day": 21
+  },
+  "case_number": "昭和59(オ)250",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第142号345頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和58(ネ)1443",
+  "original_date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 11,
+    "day": 30
+  },
+  "gist": "当座勘定取引契約を解約した銀行が顧客から未使用手形用紙を回収しなかつた場合において顧客が第三者に対し右手形用紙を用いて手形を振り出して加えた損害につき銀行が不法行為責任を負わないとされた事例",
+  "case_gist": "当座勘定取引契約を解約した銀行が顧客から未使用手形用紙を回収しなかつた場合において、顧客が第三者に対し右手形用紙を用いて手形を振り出し、これにより損害を加えたとしても、原判示の事実関係のもとでは、銀行は第三者の右損害につき不法行為責任を負わない。",
+  "ref_law": "民法709条，民法719条",
+  "lawsuit_id": "62930",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62930",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/930/062930_hanrei.pdf"
+}

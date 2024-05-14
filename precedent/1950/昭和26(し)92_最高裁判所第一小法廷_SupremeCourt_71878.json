@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 1,
+    "day": 31
+  },
+  "case_number": "昭和26(し)92",
+  "case_name": "物価統制令違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第59号503頁",
+  "original_court_name": "最高裁判所",
+  "original_case_number": "昭和26(れ)1960",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 10,
+    "day": 24
+  },
+  "gist": "在監者に対する書類の送達とその書類が本人に交付されなかつた場合の送達の効力",
+  "case_gist": "旧刑訴八〇条民訴一六八条によれば、在監者に対する送達は監獄の長に之を為すべきものであるから、右通知書が刑務所長に適法に送達されたものである以上、それが同所長から本人に交付されなかつたからといつて送達の効力が左右さるべきものではない。",
+  "ref_law": "旧刑訴法80条，民訴法168条",
+  "lawsuit_id": "71878",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=71878",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/878/071878_hanrei.pdf"
+}

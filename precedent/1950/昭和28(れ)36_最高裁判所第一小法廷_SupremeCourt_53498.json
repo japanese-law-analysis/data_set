@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 4,
+    "day": 1
+  },
+  "case_number": "昭和28(れ)36",
+  "case_name": "日本銀行券預入令の特例の件違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第8巻4号383頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 4,
+    "day": 17
+  },
+  "gist": "日本銀行券預入令の特例の件は、日本国憲法の施行又は昭和二二年一二月三一日限り失効したか",
+  "case_gist": "日本銀行券預入令の特例の件は、帝国議会の承諾を得て法律と同一の効力を有するに至つた勅令であつて日本国憲法の施行又は昭和二二年一二月三一日限り失効したものではない。",
+  "ref_law": "日本銀行券預入令の特例の件，憲法98条1項，旧憲法8条，日本国憲法施行の際現に効力を有する命令の効力等に関する法律1条，日本国憲法施行の際現に効力を有する勅令の効力等に関する政令",
+  "lawsuit_id": "53498",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53498",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/498/053498_hanrei.pdf"
+}

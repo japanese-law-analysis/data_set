@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 4,
+    "day": 28
+  },
+  "case_number": "昭和27(あ)4371",
+  "case_name": "強制執行妨害",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第8巻4号596頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 6,
+    "day": 19
+  },
+  "gist": "刑法第九六条ノ二の「強制執行」と国税徴収法に基く滞納処分たる差押",
+  "case_gist": "刑法第九六条ノ二にいう「強制執行」には、国税徴収法に基く滞納処分たる差押を含まない。",
+  "ref_law": "刑法96条ノ2，国税徴収法（昭和25年3月法律第69号による改正前のもの）32条，国税徴収法（右改正後のもの）32条",
+  "lawsuit_id": "53464",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53464",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/464/053464_hanrei.pdf"
+}

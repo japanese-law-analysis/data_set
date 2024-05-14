@@ -1,0 +1,18 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Showa",
+    "year": 63,
+    "month": 5,
+    "day": 30
+  },
+  "case_number": "昭和50(行コ)9",
+  "case_name": "所得税更正処分等取消請求控訴事件（原審・広島地方裁判所昭和４４年（行ウ）第１２号）",
+  "court_name": "広島高等裁判所",
+  "field": "行政",
+  "gist": "１　租税特別措置法（昭和４０年法律第３２号による改正前）３８条の６第１項にいう「事業の用に供している資産」とは，譲渡の当時，現に事業の用に供している資産だけでなく，たまたま現に事業の用に供していなくても事業の用に供する意図の下に所有している資産も含むが，その意図は，近い将来において実現されることが客観的に明白なものでなければならないとした事例　\n２　所得税についての更正決定及び過少申告加算税の賦課決定が，適法とされた事例",
+  "lawsuit_id": "36179",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=36179",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/179/036179_hanrei.pdf",
+  "contents": ""
+}

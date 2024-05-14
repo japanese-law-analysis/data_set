@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 11,
+    "month": 4,
+    "day": 26
+  },
+  "case_number": "平成11(オ)133",
+  "case_name": "人身保護請求事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第193号259頁",
+  "original_court_name": "広島地方裁判所",
+  "original_case_number": "平成10(人)3",
+  "original_date": {
+    "era": "Heisei",
+    "year": 11,
+    "month": 1,
+    "day": 7
+  },
+  "gist": "離婚等の調停の進行過程における夫婦間の合意に基づく幼児との面接の機会に夫婦の一方が右幼児を連れ去ってした拘束に顕著な違法性があるとして夫婦の他方からした人身保護法に基づく幼児の引渡請求が認められた事例",
+  "case_gist": "離婚等の調停の期日において調停委員の関与の下に形成された夫婦間の合意によってその共同親権に服する幼児との面接が実現した機会をとらえて，夫婦の一方が実力を行使して右幼児を面接場所から自宅へ連れ去って拘束したなど判示の事情の下においては，右幼児が現に良好な養育環境の下にあるとしても，右拘束には，人身保護法二条一項，人身保護規則四条に規定する顕著な違法性があるというべきである。",
+  "ref_law": "人身保護法2条1項，人身保護規則4条",
+  "lawsuit_id": "62423",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62423",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/423/062423_hanrei.pdf"
+}

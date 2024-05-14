@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 7,
+    "day": 17
+  },
+  "case_number": "昭和57(オ)1190",
+  "case_name": "賃金",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第41巻5号1350頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和55(ネ)472",
+  "original_date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 7,
+    "day": 19
+  },
+  "gist": "部分ストライキと民法五三六条二項の「債権者ノ責ニ帰スヘキ事由」",
+  "case_gist": "部分ストライキによつてストライキ不参加労働者の労働義務の履行が不能となつた場合は、使用者が不当労働行為の意思その他不当な目的をもつてことさらストライキを行わしめたなどの特別の事情がない限り、右ストライキは民法五三六条二項の「債権者ノ責ニ帰スヘキ事由」に当たらない。",
+  "ref_law": "民法536条2項",
+  "lawsuit_id": "55184",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55184",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/184/055184_hanrei.pdf"
+}

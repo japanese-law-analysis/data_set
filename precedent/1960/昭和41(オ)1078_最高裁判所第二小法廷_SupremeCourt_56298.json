@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 11,
+    "day": 10
+  },
+  "case_number": "昭和41(オ)1078",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第21巻9号2377頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和40(ネ)325",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 6,
+    "day": 30
+  },
+  "gist": "一　民訴法第五七三条にいう鑑定人の資格\n二　執行債権者からの競売期日立会方の希望に反して実施した競売について執行吏が受任義務に反しないとされた事例",
+  "case_gist": "一　民訴法第五七三条の規定により評価をさせるべき鑑定人は、目的物の評価をなしうるだけの知識経験を有している者であれば足り、とくに同種の物を平常取り扱つているなどの高度に専門的な知識経験を有する者にかぎられないというべきである。\n二　執行債権者からの競売期日の立会方希望に対し執行吏が執行吏役場にくる旨を指示し、かつ右期日立会のため到着すると予想される最後の列車の到着時刻をすぎてもその債権者が来なかつた等原判決事実関係（原判決理由参照）のもとでは、執行吏が、執行債権者の立会をえないで競売を実施したといても、受任者の義務に違反して違法であるとはいえない。",
+  "ref_law": "民訴法573条，民訴法531条，国家賠償法1条",
+  "lawsuit_id": "56298",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56298",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/298/056298_hanrei.pdf"
+}

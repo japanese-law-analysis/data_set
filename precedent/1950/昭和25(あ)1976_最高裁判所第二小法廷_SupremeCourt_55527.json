@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 11,
+    "day": 14
+  },
+  "case_number": "昭和25(あ)1976",
+  "case_name": "食糧管理法違反、物価統制令違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第6巻10号1199頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 6,
+    "day": 22
+  },
+  "gist": "一　併合審理の決定があつたと解される一事例\n二　最初の事件につき付した国選弁護人の弁護権の範囲と追起訴事件",
+  "case_gist": "一　さきに起訴された事件と併合審理しても被告人の権利保護を害するおそれのない事件が追起訴され、公判延において右両事件につき事実上併合して審理が行われ、被告人弁護人ともに異議なく手続が進行された場合は、併合審理の決定はあつたものと解すべきである。\n二　最初起訴された必要的弁護事件につき被告人のため付した国選弁護人の弁護権は、裁判所の別段の意思表示もなく、被告人および右弁護人になんら異議がない以上、その被告人に対し追起訴されて先の事件と併合審理された他の必要的弁護事件にも及ぶものと解するのを相当とする。",
+  "ref_law": "刑訴法313条，刑訴法43条，刑訴法289条，刑訴規則178条，刑訴規則210条",
+  "lawsuit_id": "55527",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55527",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/527/055527_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 9,
+    "day": 25
+  },
+  "case_number": "平成19(あ)1706",
+  "case_name": "風俗営業等の規制及び業務の適正化等に関する法律違反被告事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第297号291頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 8,
+    "day": 29
+  },
+  "gist": "店舗型性風俗特殊営業の規制に係る改正規定の施行に関し，いわゆる既存業者の営んでいる営業について改正規定を適用しないことが憲法１４条１項，２２条１項に違反するとの主張が，原判決の結論に影響を及ぼさない違憲の主張であるとされた事例",
+  "ref_law": "憲法14条1項，憲法22条1項，風俗営業等の規制及び業務の適正化等に関する法律2条6項2号，風俗営業等の規制及び業務の適正化等に関する法律28条1項，風俗営業等の規制及び業務の適正化等に関する法律28条3項，風俗営業等の規制及び業務の適正化等に関する法律49条5号，大阪府風俗営業等の規制及び業務の適正化等に関する法律施行条例9条1号",
+  "lawsuit_id": "80594",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=80594",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/594/080594_hanrei.pdf",
+  "contents": ""
+}

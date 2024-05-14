@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 2,
+    "day": 8
+  },
+  "case_number": "昭和46(ク)436",
+  "case_name": "裁判官忌避申立却下決定に対する抗告事件の抗告却下決定に対するその取消を求める申立",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "その他",
+  "article_info": "集民　第105号49頁",
+  "original_court_name": "福岡高等裁判所\n        　宮崎支部",
+  "original_case_number": "昭和46(ラ)17",
+  "original_date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 9,
+    "day": 23
+  },
+  "gist": "抗告期間経過後の申立であることを理由に抗告を却下した決定に対する不服申立が特別抗告の申立でなくして再審抗告の申立であるとされた事例",
+  "case_gist": "（省略）",
+  "ref_law": "民訴法429条，民訴法419条ノ2，民訴法420条1項9号",
+  "lawsuit_id": "62087",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62087",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/087/062087_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 4,
+    "day": 26
+  },
+  "case_number": "昭和45(あ)2007",
+  "case_name": "暴力行為処罰に関する法律違反、不法逮捕強制、犯人蔵匿",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第187号695頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 8,
+    "day": 25
+  },
+  "gist": "憲法二三条違反の主張が不適法とされた事例―愛知大事件―\n第一小法廷の上告棄却決定において「刑訴法四一一条を適用すべきものとは認められない」旨判示された事例",
+  "ref_law": "憲法23条",
+  "lawsuit_id": "59557",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59557",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/557/059557_hanrei.pdf",
+  "contents": ""
+}

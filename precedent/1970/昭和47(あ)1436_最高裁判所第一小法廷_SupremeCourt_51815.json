@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 5,
+    "day": 6
+  },
+  "case_number": "昭和47(あ)1436",
+  "case_name": "威力業務妨害",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "刑集　第30巻4号519頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 1,
+    "day": 31
+  },
+  "gist": "争議中の労働組合員が会社側管理職員の行つているテレビ生放送に騒音を混入せしめた威力業務妨害行為が刑法上の違法性及び責任に欠けるところはないとされた事例",
+  "case_gist": "争議中の労働組合員が、争議のため職場を離れた労働組合員に代つて会社側管理職員が予定の放送業務を行つているスタジオ出入口扉前に集まり、一斉に労働歌を高唱し、拍手し、シユプレヒコールを行う等してテレビ生放送に騒音を混入せしめた威力業務妨害行為（判文参照）は、動機・目的その他諸般の事情を考慮に入れても、法秩序全体の見地からみて、刑法上、違法性及び責任を欠くものではない。",
+  "ref_law": "刑法35条，刑法234条，労働組合法1条2項",
+  "lawsuit_id": "51815",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51815",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/815/051815_hanrei.pdf"
+}

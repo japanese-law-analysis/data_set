@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 12,
+    "day": 3
+  },
+  "case_number": "昭和26(オ)510",
+  "case_name": "土地建物返還並不動産所有権移転登記請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第7巻12号1299頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 6,
+    "day": 30
+  },
+  "gist": "一　定款に記載のない財産引受に対する株主総会の承認決議の効力\n二　財産引受の無効は譲渡人も主張することができるか",
+  "case_gist": "一　定款に記載のない財産引受は、たとえ会社成立後株主総会が特別決議をもつてこれを承認しても、有効にはならない。\n二　財産引受が無効である場合には、会社側だけでなく、譲渡人もその無効を主張することができる。",
+  "ref_law": "商法168条1項6号，商法246条",
+  "lawsuit_id": "56064",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56064",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/064/056064_hanrei.pdf"
+}

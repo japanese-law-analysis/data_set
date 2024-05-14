@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 10,
+    "day": 5
+  },
+  "case_number": "昭和25(あ)1169",
+  "case_name": "強盗殺人",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第4巻10号1875頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 2,
+    "day": 20
+  },
+  "gist": "刑の量定に関する事項と証拠説明の要否",
+  "case_gist": "刑の量定に関する事項については、記録上これを認むべき証拠あるをもつて足り、判決に証拠を掲げてこれを説明するを要しない。",
+  "ref_law": "刑訴法317条",
+  "lawsuit_id": "54372",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54372",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/372/054372_hanrei.pdf"
+}

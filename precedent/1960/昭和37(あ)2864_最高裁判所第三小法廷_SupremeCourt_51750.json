@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 4,
+    "day": 30
+  },
+  "case_number": "昭和37(あ)2864",
+  "case_name": "業務上過失致死、道路交通法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第17巻3号254頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 10,
+    "day": 26
+  },
+  "gist": "道路交通法第七二条第一項前段にいう負傷者を救護した場合に当らないとされた事例。",
+  "case_gist": "自動三輪車の運転者が、前方注視業務を怠つた過失により、道路上において歩行者に衝突し、同人を附近用水路に顛落させて頭部打撲挫創等の重傷（約三時間後に死亡）を負わせた場合、直ちに車の運転を停止して近所の人に援助を求め、同人等と協力して被害者を用水路より道路上に引き上げたが、その事故の重大であることに気づいて現場より逃れようと考え、救護に当つた人達から直ちに被害者を病院まで運ぶよう要請されたにもかかわらず、車が故障していると称してこれを拒絶し、そのまま右自動三輪車を運転して立ち去つたときは、道路交通法第七二条第一項前段にいう負傷者を救護した場合に当らない。",
+  "ref_law": "道路交通法72条1項",
+  "lawsuit_id": "51750",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51750",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/750/051750_hanrei.pdf"
+}

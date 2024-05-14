@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 1,
+    "day": 31
+  },
+  "case_number": "昭和43(オ)565",
+  "case_name": "株主総会決議無効確認請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第23巻1号178頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "昭和39(ネ)253",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 1,
+    "day": 30
+  },
+  "gist": "見せ金による株式の払込をした株主と株主総会決議無効確認の訴の許否",
+  "case_gist": "見せ金による株式の払込をしたにすぎない株主であつても、原告として、株主総会決議無効確認の訴を提起することができる。",
+  "ref_law": "商法252条，商法177条",
+  "lawsuit_id": "55105",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55105",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/105/055105_hanrei.pdf"
+}

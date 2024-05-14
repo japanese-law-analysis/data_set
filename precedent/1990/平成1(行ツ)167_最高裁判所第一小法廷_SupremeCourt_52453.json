@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 2,
+    "month": 4,
+    "day": 12
+  },
+  "case_number": "平成1(行ツ)167",
+  "case_name": "選挙の効力に関する審査申立に対する裁決取消",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第44巻3号480頁",
+  "original_court_name": "福岡高等裁判所\n        　宮崎支部",
+  "original_case_number": "昭和63(行ケ)1",
+  "original_date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 9,
+    "day": 27
+  },
+  "gist": "不在者投票の立会人が立会いと併行して不在者投票事務の補助執行に従事し監視機関としての役割を十分に果たすことができない状態にあった場合と不在者投票の適否",
+  "case_gist": "不在者投票の立会人が、立会いをしつつ併せて不在者投票事務の補助執行に従事していたため、立会人の監視機関としての役割を十分に果たすことができない状態にあったときは、その間にされた不在者投票は、公職選挙法四九条一項同法施行令五六条一項、二項の規定に違反した違法のものというべきである。",
+  "ref_law": "公職選挙法49条1項，公職選挙法施行令56条1項，公職選挙法施行令56条2項",
+  "lawsuit_id": "52453",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52453",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/453/052453_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 12,
+    "day": 23
+  },
+  "case_number": "昭和38(オ)889",
+  "case_name": "土地所有権確認等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第20巻10号2186頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "昭和35(ネ)447",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 5,
+    "day": 17
+  },
+  "gist": "自作農創設特別措置法第三〇条に基づく未墾地買収処分による国の所有権取得と民法第一七七条の適用",
+  "case_gist": "自作農創設特別措置法第三〇条に基づく未墾地買収処分により国がその所有権を取得した場合でも、その所有権の取得については、民法第一七七条が適用される。",
+  "ref_law": "自作農創設特別措置法30条，民法177条",
+  "lawsuit_id": "53881",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53881",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/881/053881_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 6,
+    "day": 17
+  },
+  "case_number": "昭和25(オ)178",
+  "case_name": "貸金請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第6巻6号595頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 4,
+    "day": 28
+  },
+  "gist": "相手方不在廷の場合における準備書面に記載もなく写の送達もない書証の提出。",
+  "case_gist": "被告（控訴人）が数回適法な呼出を受けながら、第一、二審とも口頭弁論に出頭しなかつた場合、第二審裁判所が、準備書面に記載もなくまた写の送達もなかつた原告（被控訴人）提出の書証を採用して控訴人敗訴の判決をしても、控訴人において右書証が提出さるべきことを十分予想し得べかりし場合においては、右第二審裁判所の措置は違法ではない。",
+  "ref_law": "民訴法243条，民訴法245条，民訴法247条",
+  "lawsuit_id": "57166",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57166",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/166/057166_hanrei.pdf"
+}

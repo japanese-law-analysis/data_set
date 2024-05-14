@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 5,
+    "day": 4
+  },
+  "case_number": "昭和57(し)58",
+  "case_name": "爆発物取締罰則違反、殺人、殺人未遂被告事件についてした証拠決定に対する異議申立棄却決定に対する特別抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第227号301頁",
+  "original_court_name": "札幌地方裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 4,
+    "day": 8
+  },
+  "gist": "証拠決定に対する異議申立棄却決定に対する特別抗告の適否",
+  "ref_law": "刑訴法433条1項",
+  "lawsuit_id": "58287",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58287",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/287/058287_hanrei.pdf"
+}

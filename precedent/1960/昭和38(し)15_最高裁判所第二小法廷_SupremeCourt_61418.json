@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 4,
+    "day": 18
+  },
+  "case_number": "昭和38(し)15",
+  "case_name": "窃盗被告事件についての控訴棄却決定に対する異議申立事件につきなした異議申立棄却決定に対する特別抗告の申立",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第147号93頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 3,
+    "day": 22
+  },
+  "lawsuit_id": "61418",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61418",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/418/061418_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 8,
+    "day": 18
+  },
+  "case_number": "昭和24(れ)1003",
+  "case_name": "強盗、強盗幇助",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第3巻9号1489頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 2,
+    "day": 15
+  },
+  "gist": "一　少年に對する被告事件と他の被告事件と分離して審理する場合と自由裁量\n二　舊刑訴法第一三五條と訓示的規定",
+  "case_gist": "一　具體的事件の審理にあたつて、少年に對する被告事件と他の被告事件とを分離して審理しても審理の妨げとなるか否かの判斷は事實承審官の良識に信任してその裁量に委したものと解するのが相當である。\n二　舊刑訴法第一三五條の規定は、裁判官に對する執務の方法態度についての訓示的性質のものにすぎないと解するのが相當である。",
+  "ref_law": "少年法49條2項，舊刑訴法135條",
+  "lawsuit_id": "55424",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55424",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/424/055424_hanrei.pdf"
+}

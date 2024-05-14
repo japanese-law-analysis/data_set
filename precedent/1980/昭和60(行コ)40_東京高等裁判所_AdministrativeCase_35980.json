@@ -1,0 +1,18 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 2,
+    "day": 26
+  },
+  "case_number": "昭和60(行コ)40",
+  "case_name": "所得税更正処分等取消請求控訴事件（原審・東京地方裁判所昭和５７年（行ウ）第１８号）",
+  "court_name": "東京高等裁判所",
+  "field": "行政",
+  "gist": "資産取得のために借り入れた金員の利息として当該資産の譲渡時までに支払われた金員の総額のうち，当該資産を現に使用に供するまでの期間に対応する部分のみが，右譲渡に係る譲渡所得金額の算定に当たり，所得税法３８条１項にいう「資産の取得に要した金額」として控除されるべきであるとされた事例",
+  "lawsuit_id": "35980",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=35980",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/980/035980_hanrei.pdf",
+  "contents": ""
+}

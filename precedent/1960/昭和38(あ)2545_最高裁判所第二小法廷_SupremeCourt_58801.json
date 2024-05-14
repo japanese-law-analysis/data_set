@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 2,
+    "day": 7
+  },
+  "case_number": "昭和38(あ)2545",
+  "case_name": "窃盜",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集刑　第150号421頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 9,
+    "day": 28
+  },
+  "lawsuit_id": "58801",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58801",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/801/058801_hanrei.pdf"
+}

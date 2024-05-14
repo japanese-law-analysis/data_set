@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 11,
+    "day": 20
+  },
+  "case_number": "昭和60(オ)356",
+  "case_name": "貸金請求本訴、不当利得金請求反訴",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第149号151頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和59(ネ)142",
+  "original_date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 12,
+    "day": 13
+  },
+  "gist": "クラブのホステスが顧客の飲食代金債務についてした保証契約が公序良俗に反するものとはいえないとされた事例",
+  "case_gist": "クラブのホステスが顧客の当該クラブに対する飲食代金債務についてした保証契約は、ホステスにおいて自己独自の客としての当該顧客との関係の維持継続を図ることによりクラブから支給される報酬以外の特別の利益を得ることを目的として任意に締結したと認められるなど原判示のような事情がある場合には、公序良俗に反するものとはいえない。",
+  "ref_law": "民法90条，民法446条",
+  "lawsuit_id": "62959",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62959",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/959/062959_hanrei.pdf"
+}

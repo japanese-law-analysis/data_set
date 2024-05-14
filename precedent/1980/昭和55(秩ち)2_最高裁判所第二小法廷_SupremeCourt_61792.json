@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 7,
+    "day": 22
+  },
+  "case_number": "昭和55(秩ち)2",
+  "case_name": "法廷等の秩序維持に関する法律による制裁事件についてした抗告棄却決定に対する特別抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第218号271頁",
+  "original_court_name": "広島高等裁判所\n        　松江支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 6,
+    "day": 30
+  },
+  "gist": "法廷等の秩序維持に関する法律による制裁の手続等と憲法三一条、三二条、三四条",
+  "ref_law": "法秩法，憲法31条，憲法32条，憲法34",
+  "lawsuit_id": "61792",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61792",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/792/061792_hanrei.pdf"
+}

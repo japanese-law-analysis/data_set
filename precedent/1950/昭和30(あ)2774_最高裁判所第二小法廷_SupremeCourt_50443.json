@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 2,
+    "day": 24
+  },
+  "case_number": "昭和30(あ)2774",
+  "case_name": "殺人",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第12巻2号297頁",
+  "original_court_name": "広島高等裁判所\n        　松江支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 9,
+    "day": 7
+  },
+  "gist": "正当防衛ないし過剰防衛とならない一事例",
+  "case_gist": "急迫不正の侵害ある場合に、これに対する行為が本件のように権利防衛に出たものでない以上、正当防衛ないし過剰防衛の観念を容れる余地はない。",
+  "ref_law": "刑法36条",
+  "lawsuit_id": "50443",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50443",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/443/050443_hanrei.pdf"
+}

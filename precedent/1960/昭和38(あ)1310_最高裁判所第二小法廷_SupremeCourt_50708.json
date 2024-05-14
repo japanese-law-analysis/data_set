@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 11,
+    "day": 8
+  },
+  "case_number": "昭和38(あ)1310",
+  "case_name": "賍物運搬",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第17巻11号2357頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 4,
+    "day": 19
+  },
+  "gist": "刑法第二五七条第一項の法意。",
+  "case_gist": "刑法第二五七条第一項は、本犯と賍物に関する犯人との間に同条項所定の関係がある場合に、賍物に関する犯人の刑を免除する旨を規定したものであり、賍物に関する犯人相互の間に右所定の関係があつてもその刑を免除すべき事由とはならない。",
+  "ref_law": "刑法257条1項，刑法256条",
+  "lawsuit_id": "50708",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50708",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/708/050708_hanrei.pdf"
+}

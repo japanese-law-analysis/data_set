@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 7,
+    "day": 12
+  },
+  "case_number": "平成18(ネ)986",
+  "case_name": "国家賠償請求控訴事件",
+  "court_name": "名古屋高等裁判所民事第１部",
+  "result": "その他",
+  "original_court_name": "名古屋地方裁判所",
+  "original_case_number": "平成17(ワ)1750",
+  "original_result": "その他",
+  "gist": "弁護人から検察庁の庁舎内に居る被疑者との接見の申出を受けた検察官\nが本件執務室においていわゆる面会接見を実施した際，刑務官が被疑者の腰縄を把持し，同接見に検察官及び検察事務官が立ち会ったことについて，面会接見の即時実施の必要や被疑者の罪証隠滅，逃亡及び戒護上の支障の発生を防止する観点に照らし，その実施場所，立会人の人選，人数及び方法等において，その必要性又は合理性を欠き裁量権の逸脱又は濫用にあたるような特段の事情を認めることができず，検察官において面会接見につき特別の配慮を怠った違法があるとはいえないとした事例",
+  "lawsuit_id": "35276",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=35276",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/276/035276_hanrei.pdf",
+  "contents": ""
+}

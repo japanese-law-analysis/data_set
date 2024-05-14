@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 11,
+    "day": 28
+  },
+  "case_number": "昭和45(オ)121",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第107号241頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和44(ネ)372",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 9,
+    "day": 25
+  },
+  "gist": "債務不履行による損害の一部の賠償請求権を被保全権利とする仮差押が他の損害について消滅時効を中断しないとされた事例",
+  "case_gist": "店舗を賃貸する旨の約定の不履行による損害のうち営業上の逸失利益の賠償請求権を被保全権利としてした仮差押は、通常の借家権価格相当の損害賠償請求権については、消滅時効を中断しない。",
+  "ref_law": "民法147条2号，民法154条，民法416条，民訴法737条",
+  "lawsuit_id": "62843",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62843",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/843/062843_hanrei.pdf"
+}

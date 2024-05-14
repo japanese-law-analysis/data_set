@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 6,
+    "day": 26
+  },
+  "case_number": "昭和33(オ)1002",
+  "case_name": "村長選挙無効請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第13巻6号862頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 8,
+    "day": 20
+  },
+  "gist": "公職選挙法第三四条第六項第五号の「少くとも七日前」の意味。",
+  "case_gist": "公職選挙法第三四条第六項第五号の「少くとも七日前」とは、選挙期日の前日を第一日として逆算して七日目にあたる日以前を指すものと解すべきである。",
+  "ref_law": "公職選挙法34条6項本文5号",
+  "lawsuit_id": "54878",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54878",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/878/054878_hanrei.pdf"
+}

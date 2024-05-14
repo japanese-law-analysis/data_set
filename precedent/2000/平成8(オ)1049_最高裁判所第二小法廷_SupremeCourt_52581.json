@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 12,
+    "month": 4,
+    "day": 21
+  },
+  "case_number": "平成8(オ)1049",
+  "case_name": "譲受債権請求事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第54巻4号1562頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成6(ネ)3036",
+  "original_date": {
+    "era": "Heisei",
+    "year": 8,
+    "month": 1,
+    "day": 26
+  },
+  "gist": "既発生債権及び将来債権を一括して目的とするいわゆる集合債権の譲渡予約において譲渡の目的となるべき債権の特定があるとされる場合",
+  "case_gist": "甲が乙との間の特定の商品の売買取引に基づき乙に対して現に有し又は将来有することのある売掛代金債権を目的として丙との間で譲渡の予約をした場合、譲渡の目的となるべき債権は、甲の有する他の債権から識別ができる程度に特定されているということができる。",
+  "ref_law": "民法369条（譲渡担保）・民法466条",
+  "lawsuit_id": "52581",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52581",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/581/052581_hanrei.pdf"
+}

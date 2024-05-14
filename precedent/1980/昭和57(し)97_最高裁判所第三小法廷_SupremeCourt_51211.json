@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 12,
+    "day": 14
+  },
+  "case_number": "昭和57(し)97",
+  "case_name": "訴訟費用執行免除申立事件についてした申立棄却決定に対する異議申立棄却決定に対する特別抗告",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "その他",
+  "article_info": "刑集　第36巻12号1015頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 7,
+    "day": 22
+  },
+  "gist": "刑訴法四二三条二項により更正の決定をすべきであるとされた事例",
+  "case_gist": "申立提起期間内にされた異議の申立を右期間経過後にされた不敵法なものとして誤つて棄却決定をした原裁判所は、同決定に対する特別抗告の申立があつたときは、刑訴法四二三条二項により右決定を更正して新たな決定をすべきである。",
+  "ref_law": "刑訴法423条2項，刑訴法428条3項，刑訴法434条",
+  "lawsuit_id": "51211",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51211",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/211/051211_hanrei.pdf"
+}

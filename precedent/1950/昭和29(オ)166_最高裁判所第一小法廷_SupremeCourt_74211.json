@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 4,
+    "day": 8
+  },
+  "case_number": "昭和29(オ)166",
+  "case_name": "過払金返還請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "その他",
+  "article_info": "集民　第13号539頁",
+  "original_court_name": "徳島地方裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 2,
+    "day": 3
+  },
+  "lawsuit_id": "74211",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74211",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/211/074211_hanrei.pdf"
+}

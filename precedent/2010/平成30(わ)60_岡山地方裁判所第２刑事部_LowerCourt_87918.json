@@ -1,0 +1,15 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 30,
+    "month": 7,
+    "day": 13
+  },
+  "case_number": "平成30(わ)60",
+  "case_name": "過失運転致死傷",
+  "court_name": "岡山地方裁判所第２刑事部",
+  "lawsuit_id": "87918",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=87918",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/918/087918_hanrei.pdf"
+}

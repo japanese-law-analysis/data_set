@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 7,
+    "day": 7
+  },
+  "case_number": "昭和30(あ)478",
+  "case_name": "詐欺",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第9巻9号1856頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 12,
+    "day": 22
+  },
+  "gist": "刑法第二四六条第二項の詐欺罪において債務の支払を免れたとするための要件",
+  "case_gist": "刑法第二四六条第二項の詐欺罪において、財産上不法の利益が、債務の支払を免れたことであるとするには、相手方たる債権者を欺罔して債務免除の意思表示をさせることを要し、単に逃走して事実上支払をしなかつただけで足りるものではない。",
+  "ref_law": "刑法246条，刑訴法335条1項",
+  "lawsuit_id": "56956",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56956",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/956/056956_hanrei.pdf"
+}

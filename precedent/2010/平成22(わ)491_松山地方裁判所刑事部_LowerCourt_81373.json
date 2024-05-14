@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 23,
+    "month": 4,
+    "day": 28
+  },
+  "case_number": "平成22(わ)491",
+  "case_name": "殺人未遂",
+  "court_name": "松山地方裁判所刑事部",
+  "gist": "知人である被害者から度重なる暴力や，いわれのない金銭等の要求を受けた末，被害者との関係を断ち切ろうと考え，殺意をもって，被害者方で同人の頸部を狙い包丁で数回突き刺すなどしたが，未遂に終わった事案で，執行猶予付きの有罪判決が言い渡された事例（懲役３年，４年間執行猶予／裁判員裁判対象事件）",
+  "lawsuit_id": "81373",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=81373",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/373/081373_hanrei.pdf",
+  "contents": ""
+}

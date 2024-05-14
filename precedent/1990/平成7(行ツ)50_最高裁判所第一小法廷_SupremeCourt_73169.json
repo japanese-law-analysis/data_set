@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 8,
+    "month": 2,
+    "day": 22
+  },
+  "case_number": "平成7(行ツ)50",
+  "case_name": "学校規則違法確認等請求、同参加、公法上の義務不存在確認等追加的併合申立",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第178号437頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成6(行コ)40",
+  "original_date": {
+    "era": "Heisei",
+    "year": 6,
+    "month": 11,
+    "day": 29
+  },
+  "gist": "市立中学校の「中学校生徒心得」に男子生徒の頭髪は丸刈りとするなどの定めを置く行為が抗告訴訟の対象となる処分に当たらないとされた事例",
+  "case_gist": "市立中学校の「中学校生徒心得」に男子生徒の頭髪は丸刈りとする旨の定め及び生徒は外出のとき原則として制服又は体操服を着用する旨の定めを置く行為は、右「中学校生徒心得」が「次にかかげる心得は、大切にして守ろう。」などの前文に続けて諸規定を掲げているものであり、右各定めに違反した場合の処分等の定めは置かれていないなど判示の事実関係の下においては、抗告訴訟の対象となる処分に当たらない。",
+  "ref_law": "行政事件訴訟法3条",
+  "lawsuit_id": "73169",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=73169",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/169/073169_hanrei.pdf"
+}

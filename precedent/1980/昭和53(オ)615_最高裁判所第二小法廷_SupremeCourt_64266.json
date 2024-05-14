@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 4,
+    "day": 18
+  },
+  "case_number": "昭和53(オ)615",
+  "case_name": "損失補償請求、同附帯",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第129号575頁",
+  "original_court_name": "仙台高等裁判所\n        　秋田支部",
+  "original_case_number": "昭和49(ネ)37",
+  "original_date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 2,
+    "day": 27
+  },
+  "gist": "土地収用法旧七一条及び七四条（昭和四二年法律第七四号による改正前のもの）のもとにおいて、残地補償の額の算定にあたりいわゆる起業利益を勘案することの可否",
+  "case_gist": "土地収用法旧七一条及び七四条（昭和四二年法律第七四号による改正前のもの）のもとにおいて、残地補償の額の算定にあたり、当該事業の施行が残地の価格に及ぼす影響のうち利益と損失とを明確に区別することができない場合に、それらを総合的に勘案することは、同法九〇条の相殺禁止規定に抵触しない。",
+  "ref_law": "土地収用法90条，土地収用法（昭和42年法律第74号による改正前のもの）71条，土地収用法（昭和42年法律第74号による改正前のもの）74条",
+  "lawsuit_id": "64266",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64266",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/266/064266_hanrei.pdf"
+}

@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 7,
+    "day": 26
+  },
+  "case_number": "昭和53(し)44",
+  "case_name": "兇器準備集合、火炎びんの使用等の処罰に関する法律違反、公務執行妨害、殺人未遂被疑事件についてした司法警察員による建物差押処分取消しの準抗告決定に対する特別抗告",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第211号875頁",
+  "original_court_name": "千葉地方裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 5,
+    "day": 8
+  },
+  "gist": "司法警察員による建物差押処分を取り消す旨の準抗告決定に対する特別抗告の決定中に、「なお、所論にかんがみ職権により調査するもいまだ刑訴法四一一条を適用すべきものとまでは認められない。」との判示が付加された事例―いわゆる成田・横堀要塞差押事件―",
+  "ref_law": "刑訴法430条2項，刑訴法411条",
+  "lawsuit_id": "60320",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60320",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/320/060320_hanrei.pdf"
+}

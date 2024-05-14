@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 11,
+    "day": 15
+  },
+  "case_number": "昭和42(オ)1408",
+  "case_name": "代物弁済契約否認等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第93号271頁",
+  "original_court_name": "広島高等裁判所",
+  "original_case_number": "昭和40(ネ)158",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 9,
+    "day": 20
+  },
+  "gist": "破産会社が国からの土地払下資金調達のためにした代物弁済と否認権の行使の許否（再度の差戻）",
+  "case_gist": "破産会社が国からの土地払下代金の資金調達のために代物弁済に供する行為が破産債権者を害する行為に当るかどうかを判断するためには、その会社の資産状態一般にとどまらず、払下資金調達の方法の適切性その他関連する事実を確定してこれらをしんしゃくしたうえ、右払下のために借り受けた金員とそのために代物弁済に供した本件土地の客観的価額との間の合理的均衡の有無によつて決しなければならない。",
+  "ref_law": "破産法72条1号",
+  "lawsuit_id": "70264",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70264",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/264/070264_hanrei.pdf"
+}

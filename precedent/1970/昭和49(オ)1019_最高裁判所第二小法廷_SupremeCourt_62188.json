@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 6,
+    "day": 27
+  },
+  "case_number": "昭和49(オ)1019",
+  "case_name": "根抵当権設定登記抹消登記手続等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第115号153頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和49(ネ)70",
+  "original_date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 7,
+    "day": 15
+  },
+  "gist": "準禁治産者が取消の対象である金銭消費貸借契約によつて得た利益を賭博に浪費した場合と返還義務",
+  "case_gist": "準禁治産者が取消の対象である金銭消費貸借契約によつて得た利益を賭博に浪費し、右利益が現存しない場合には、その返還義務を負わない。",
+  "ref_law": "民法121条但書",
+  "lawsuit_id": "62188",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62188",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/188/062188_hanrei.pdf"
+}

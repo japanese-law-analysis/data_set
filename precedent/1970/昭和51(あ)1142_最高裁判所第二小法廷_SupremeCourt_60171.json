@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 6,
+    "day": 28
+  },
+  "case_number": "昭和51(あ)1142",
+  "case_name": "非現住建造物等放火、同未遂、現住建造物等放火、窃盗",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第204号637頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 6,
+    "day": 16
+  },
+  "gist": "被告人の自白を内容とする被告人以外の者の検察官面前供述を証拠とすることと憲法三七条二項",
+  "ref_law": "憲法37条2項",
+  "lawsuit_id": "60171",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60171",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/171/060171_hanrei.pdf"
+}

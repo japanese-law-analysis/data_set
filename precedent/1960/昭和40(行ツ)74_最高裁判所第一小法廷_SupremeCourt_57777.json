@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 6,
+    "day": 23
+  },
+  "case_number": "昭和40(行ツ)74",
+  "case_name": "当選無効請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第20巻5号1134頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和40(行ケ)1",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 5,
+    "day": 26
+  },
+  "gist": "一　公職選挙法における出納責任者の意義\n二　公職選挙法第二五一条の二項一項所定の規定による当選無効の要件に関する審査の範囲",
+  "case_gist": "一　公職選挙法にいう出納責任者とは、同法第一八〇条所定の手続により出納責任者として選任届出された者を指し、その者が実際に出納責任者として同法に定める職務を行なつたと否とを問わない。\n二　公職選挙法第二五一条の二項一項により、出納責任者の選挙犯罪を理由として当選人の当選を無効とするためには、出納責任者と認められる者が、同項に掲げる罪を犯したものとして刑に処せられたことが証明されれば足りる。",
+  "ref_law": "公職選挙法180条，公職選挙法211条，公職選挙法251条の2",
+  "lawsuit_id": "57777",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57777",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/777/057777_hanrei.pdf"
+}

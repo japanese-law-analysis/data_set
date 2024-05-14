@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 12,
+    "day": 17
+  },
+  "case_number": "昭和38(オ)133",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第81号481頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和37(ネ)265",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 10,
+    "day": 6
+  },
+  "gist": "旧戦災復興土地区画整理施行地区内建築制限令第五条違反の建築物に対する原状回復義務の代執行における戒告、通知の相手方",
+  "case_gist": "土地区画整理法施行令（昭和三〇年政令第四七号附則第七条第二項）、旧戦災復興土地区画整理施行地区内建築制限令（昭和二四年政令第三六〇号）第五条による違反建築物に対する原状回復義務の代執行に際しては、戒告、通知は、義務者たる建物所有者に対しなされるべきであつて、建物の単なる占有者に対しなされる必要はないと解すべきである。",
+  "ref_law": "土地区画整理法施行令附則7条2項，旧戦災復興土地区画整理施行地区内建築制限令5条",
+  "lawsuit_id": "66176",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66176",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/176/066176_hanrei.pdf"
+}

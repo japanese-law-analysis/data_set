@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 10,
+    "day": 13
+  },
+  "case_number": "昭和35(オ)38",
+  "case_name": "売買契約無効確認等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第15巻9号2409頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 11,
+    "day": 16
+  },
+  "gist": "一　会社更生法による更生手続中に会社代表取締役によつて締結された売買契約の更生手続廃止後における効力。\n二　株式会社の重要財産の譲渡について株主総会の特別決議を要するか。",
+  "case_gist": "一　会社更生法による更生手続中に会社代表取締役によつて締結された売買契約は、更生手続が廃止された以上その効力を主張できる。\n二　株式会社の重要な財産の譲渡であつても、株主総会の特別決議を経ることを要しない。",
+  "ref_law": "会社更生法56条1項，会社更生法53条，商法245条1項",
+  "lawsuit_id": "53709",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53709",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/709/053709_hanrei.pdf"
+}

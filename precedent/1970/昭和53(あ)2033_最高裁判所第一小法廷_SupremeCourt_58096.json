@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 5,
+    "day": 16
+  },
+  "case_number": "昭和53(あ)2033",
+  "case_name": "銃砲刀剣類所持等取締法違反幇助",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第214号497頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 9,
+    "day": 7
+  },
+  "gist": "約束ないし利益誘導があつたことを理由とする憲法三八条一項、二項違反及び判例違反の主張を欠前提で処理した事例",
+  "ref_law": "憲法38条1項，憲法38条2項，刑訴法405条",
+  "lawsuit_id": "58096",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58096",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/096/058096_hanrei.pdf"
+}

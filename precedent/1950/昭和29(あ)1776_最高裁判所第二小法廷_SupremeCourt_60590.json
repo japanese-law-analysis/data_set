@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 7,
+    "day": 27
+  },
+  "case_number": "昭和29(あ)1776",
+  "case_name": "公益事業令違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第114号391頁",
+  "original_court_name": "福岡高等裁判所\n        　宮崎支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 4,
+    "day": 14
+  },
+  "gist": "公益事業失効後同令違反の所為は免訴すべきか",
+  "case_gist": "公益事業令が昭和二七年一〇月二四日かぎり失効し、その後においては刑の廃止があつたものとして同令違反の所為を免訴すべきであること既に当裁判所大法廷の判例（集八巻一一号一七九一頁参照）とするところである。",
+  "ref_law": "刑法6条，刑訴法337条2号，公益事業令（昭和25年政令343号）",
+  "lawsuit_id": "60590",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60590",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/590/060590_hanrei.pdf"
+}

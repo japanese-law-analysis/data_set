@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 7,
+    "day": 19
+  },
+  "case_number": "昭和60(ク)256",
+  "case_name": "人身保護事件についてした請求棄却の決定に対する抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "その他",
+  "article_info": "集民　第145号271頁",
+  "original_court_name": "東京地方裁判所",
+  "original_case_number": "昭和60(人)2",
+  "original_date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 5,
+    "day": 30
+  },
+  "gist": "一　死刑の確定裁判を受けた者が刑法一一条二項に基づき拘置されている場合における死刑の時効の進行の有無\n二　死刑の確定裁判を受けた者につき長期間にわたる拘置を継続したのちに死刑を執行することと憲法三六条にいう「残虐な刑罰」",
+  "case_gist": "一　死刑の確定裁判を受けた者が刑法一一条二項に基づき拘置されている場合には、死刑の時効は進行しない。\n二　死刑の確定裁判を受けた者につき長期間にわたる拘置を継続したのちに死刑を執行することは、憲法三六条にいう「残虐な刑罰」に当たらない。",
+  "ref_law": "刑法11条，刑法32条1号，刑法33条，刑法34条1項，刑訴法475条，刑訴法479条，憲法36条",
+  "lawsuit_id": "62965",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62965",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/965/062965_hanrei.pdf"
+}

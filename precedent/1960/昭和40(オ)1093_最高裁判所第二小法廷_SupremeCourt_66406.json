@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 2,
+    "day": 11
+  },
+  "case_number": "昭和40(オ)1093",
+  "case_name": "身元保証金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第82号333頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和39(ネ)768",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 6,
+    "day": 21
+  },
+  "gist": "職務担当の変更が身元保証人の責任額の決定につき斟酌する必要がないとされた事例",
+  "case_gist": "相互銀行の募集係外務員として雇傭された者が集金係に変つた場合、銀行においてこれを身元保証人に通知しなくても、そのような職務内容の変更があることを予定して身元保証契約が締結されたものであるときは、身元保証人の責任額の決定につき斟酌する必要がない。",
+  "ref_law": "身元保証ニ関スル法律3条，身元保証ニ関スル法律5条",
+  "lawsuit_id": "66406",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66406",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/406/066406_hanrei.pdf"
+}

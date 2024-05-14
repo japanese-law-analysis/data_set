@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 8,
+    "day": 9
+  },
+  "case_number": "昭和25(あ)1243",
+  "case_name": "殺人未遂、銃砲等所持禁止令違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第51号331頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 2,
+    "day": 23
+  },
+  "gist": "「拳銃を携えていた」との判示を弁護人が「拳銃を差向け」と解し正当防衛を主張しても急迫不正の侵害行為があつたとはいえない",
+  "case_gist": "本件第一審判決は、弁護人の正当防衛の主張を排斥して「Ａが拳銃を携えていたことは認め得るが、同人が拳銃を被告人の心臓部に突き付けたということは之を認め難く、従つて未だ急迫不正の侵害行為があつたとは謂い得ない」と判示し、原判決もこの認定を是認したのである。「被害者が拳銃を所持していたことを認め」たからとて、それは必ずしも所論のように「その時被害者は被告人に向つて拳銃を差向けて居た事実を認めたに因るものと解しなければならない」という理由はない。このように原判決が急迫不正の侵害の事実を認めない以上、正当防衛の主張を排斥したのは当然である。",
+  "ref_law": "刑法36条，刑訴法335条2項",
+  "lawsuit_id": "67094",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=67094",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/094/067094_hanrei.pdf"
+}

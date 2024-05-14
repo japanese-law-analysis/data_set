@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 12,
+    "day": 24
+  },
+  "case_number": "昭和23(れ)908",
+  "case_name": "食糧管理法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集刑　第6号451頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 6,
+    "day": 4
+  },
+  "gist": "他人の供述の趣旨を變更して採證した判決の違法",
+  "case_gist": "第一審相被告人Ａに對する判事の訊問に對いてなした、同人が玄米三俵を自宅より四丁位離れた附近まで運搬して被告人に引渡したこと及び同人が歸宅して疊の上に上つて見ると新聞紙に三六〇〇圓の金があつたこと、その金は、被告人がその後廣島方向へ行つて、行先きが判らなかつたので、そのまま返還はしていない旨の同人の供述記載をば、被告人の供述に對する補強證據とすることは、もとより原審裁判所の自由裁量をもつてなし得るところであるけれども、これをもつて被告人に玄米三俵を賣渡した旨の供述であるとすることは到底是認し難いところである。",
+  "ref_law": "刑訴法336條",
+  "lawsuit_id": "70688",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70688",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/688/070688_hanrei.pdf"
+}

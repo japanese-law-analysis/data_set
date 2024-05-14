@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 7,
+    "day": 12
+  },
+  "case_number": "昭和28(あ)3777",
+  "case_name": "食糧管理法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第107号327頁",
+  "original_court_name": "広島高等裁判所\n        　松江支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 7,
+    "day": 13
+  },
+  "gist": "合議体の裁判所の判決書には、すべての裁判官がその作成日附の日に署名押印を要するか",
+  "case_gist": "合議体の裁判所の判決書には、必ずしもすべての裁判官がその作成日附の日に署名押印しなければならないものではない。",
+  "ref_law": "刑訴規則54条，刑訴規則55条1項，刑訴規則58条",
+  "lawsuit_id": "75421",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=75421",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/421/075421_hanrei.pdf"
+}

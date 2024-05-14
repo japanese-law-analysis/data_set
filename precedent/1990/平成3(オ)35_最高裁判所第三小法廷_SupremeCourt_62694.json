@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 3,
+    "month": 10,
+    "day": 1
+  },
+  "case_number": "平成3(オ)35",
+  "case_name": "地代確定等",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第163号327頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成2(ネ)725",
+  "original_date": {
+    "era": "Heisei",
+    "year": 2,
+    "month": 9,
+    "day": 25
+  },
+  "gist": "法定地上権の移転と未払地代支払債務の承継の有無",
+  "case_gist": "建物の所有を目的とする法定地上権と共にその建物の所有権を取得した者は、前主の未払地代の支払債務を当然には承継しない。",
+  "ref_law": "民法266条，民法388条",
+  "lawsuit_id": "62694",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62694",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/694/062694_hanrei.pdf"
+}

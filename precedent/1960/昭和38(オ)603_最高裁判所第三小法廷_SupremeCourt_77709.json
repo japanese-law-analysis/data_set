@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 1,
+    "day": 12
+  },
+  "case_number": "昭和38(オ)603",
+  "case_name": "家屋収去土地明渡等請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第77号1頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 12,
+    "day": 26
+  },
+  "gist": "目的物件の所有者は現在の賃料額より高額の賃料相当損害金の支払を請求できるか。",
+  "case_gist": "目的物件の所有者は、その目的物件を現在の賃料額よりも高額で第三者に賃貸できるような場合には、その高額の賃料額相当の損害金を不法占有者に対し請求できる。",
+  "ref_law": "民法601条，民法709条",
+  "lawsuit_id": "77709",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77709",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/709/077709_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 3,
+    "day": 14
+  },
+  "case_number": "昭和35(あ)2366",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第15巻3号508頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 9,
+    "day": 13
+  },
+  "gist": "公職選挙法第一四六条にいう文書図画の提示につき禁止を免れる行為にあたる事例。",
+  "case_gist": "昭和三三年五月二二日に施行された衆議院議員総選挙に際し兵庫県第二区から立候補した塩田賀四郎のため選挙運動をするにあたり、公職選挙法第一四三条所定の文書図画の掲示の禁止を免れるため、東京都第一区より立候補した被告人の選挙運動用ポスターを利用し、タブロイド型用紙の右半分に「革新自由民主党」、左半分に「革新自由民主党幹事長塩田賀四郎」等と大書し、左端に「掲載責任者東京都千代田区神田錦町一ノ一肥後亨」と小さく記載した東京都選挙管理委員会の検印ずみのポスター一五七五枚を、右選挙運動の期間中、兵庫県第二区内に掲示する所為は、公職選挙法第一四六条にいう禁止を免れる行為にあたる。",
+  "ref_law": "公職選挙法146条，公職選挙法243条5号",
+  "lawsuit_id": "51709",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51709",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/709/051709_hanrei.pdf"
+}

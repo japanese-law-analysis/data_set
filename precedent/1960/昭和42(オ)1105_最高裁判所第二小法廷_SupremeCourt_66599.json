@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 3,
+    "day": 15
+  },
+  "case_number": "昭和42(オ)1105",
+  "case_name": "養子縁組無効確認請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第90号749頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和41(ム)17",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 6,
+    "day": 30
+  },
+  "gist": "民訴法第四二〇条第一項第六号にいう「判決ノ証拠ト為リタル文書」にあたらないとされた事例",
+  "case_gist": "養子縁組無効確認請求事件において、偽造の縁組届に基づき不実の記載がされた戸籍簿に一致する戸籍謄本が証拠として提出されていた場合でも、判決が縁組の効力を判断するにあたつて、右戸籍謄本を認定に用いていないときには、右不実の記載がされた事実は、右判決に対する再審事由とはならない。",
+  "ref_law": "民訴法420条",
+  "lawsuit_id": "66599",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66599",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/599/066599_hanrei.pdf"
+}

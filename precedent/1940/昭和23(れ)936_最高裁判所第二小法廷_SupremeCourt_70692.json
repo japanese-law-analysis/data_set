@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 4,
+    "day": 2
+  },
+  "case_number": "昭和23(れ)936",
+  "case_name": "強盗殺人、死体遺棄",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第9号1頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 3,
+    "day": 13
+  },
+  "gist": "刑法第四五條の適用を前後して記載した判決の適否",
+  "case_gist": "刑法第四五條は併合罪の意義を定めた規定にすぎないから同條前段の併合罪であることを明示した上適用すべき罰條を適用して處斷した以上は、同條の適用を些か前後して記載したきらいがあつても法律の適用を誤つた違法があるということはできない、本件においては同條を所論の順序に適用しても、原判決掲記のとおりに適用しても、刑法第四六條第一項を適用して處斷すべきことには差異はないのである。",
+  "ref_law": "刑法45條，刑法46條1項",
+  "lawsuit_id": "70692",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70692",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/692/070692_hanrei.pdf"
+}

@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 12,
+    "day": 8
+  },
+  "case_number": "昭和58(あ)1768",
+  "case_name": "強盗殺人、現住建造物等放火、同未遂、非現住建造物等放火",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第253号581頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 11,
+    "day": 17
+  },
+  "gist": "死刑事件（伊勢崎市連続放火、女子中学生二名強殺事件）",
+  "lawsuit_id": "58312",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58312",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/312/058312_hanrei.pdf"
+}

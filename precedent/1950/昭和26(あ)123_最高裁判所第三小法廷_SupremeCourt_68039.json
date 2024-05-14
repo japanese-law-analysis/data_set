@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 7,
+    "day": 22
+  },
+  "case_number": "昭和26(あ)123",
+  "case_name": "強盗",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第66号357頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 11,
+    "day": 16
+  },
+  "gist": "控訴審における事実認定と事実取調の要否",
+  "case_gist": "控訴裁判所は、検察官乃至被告人の控訴趣意に対し何等、新らたに事実の取調乃至証拠調もなすことなく、訴訟記録並びに第一審裁判所において取り調べた証拠のみによつて、いわゆる破棄自判の判決をすることができるのであり、本件におけるがごとく第一審裁判所が犯罪の証明がないという理由で無罪とした事案に対し、控訴裁判所が刑訴四〇〇条但書に従い事実の取調をしないで有罪の認定をすることも違法ではないのである。",
+  "ref_law": "刑訴法393条，刑訴法400条但書",
+  "lawsuit_id": "68039",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=68039",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/039/068039_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 12,
+    "day": 5
+  },
+  "case_number": "昭和31(あ)4041",
+  "case_name": "物価統制令違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第11巻13号3167頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 9,
+    "day": 25
+  },
+  "gist": "破棄差戻判決の拘束力",
+  "case_gist": "第一審裁判所が公訴事実はこれを認めるに足る証拠がないとして無罪の判決を言い渡したのに対し、原審裁判所のした破棄差戻判決における破棄の理由として示された判断が、第一審裁判所の無罪判決には事実の誤認および訴訟法の違反があり、そのために有罪を宣告すべきにかかわらず、無罪を宣告しているのであるから、右の誤りは判決に影響を及ぼすことが明らかであるというにある場合には、差し戻しを受けた第一審裁判所は、第一審判決に事実誤認、訴訟法違反があり、その誤りが判決に影響を及ぼすことが明らかであるとの原判決の判断の範囲内において更に審理すべき拘束を受けるに止まり、必ず有罪の宣告をしなければならないというごとき拘束を受けるものではない。",
+  "ref_law": "裁判所法4条，刑訴法397条，刑訴法400条本文",
+  "lawsuit_id": "51518",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51518",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/518/051518_hanrei.pdf"
+}

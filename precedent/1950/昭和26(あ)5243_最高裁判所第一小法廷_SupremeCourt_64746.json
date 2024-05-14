@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 4,
+    "day": 23
+  },
+  "case_number": "昭和26(あ)5243",
+  "case_name": "賍物寄藏、同運搬",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第79号213頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 11,
+    "day": 14
+  },
+  "gist": "検察庁における被告人の供述が畏迫強制に基くものとは認められない一事例",
+  "case_gist": "被告人が検察庁に身柄を送致されるに際し、警察署で事実をはつきりいえば保釈して貰えるというような事を言い聞かされたとしてもこの一事だけで検察庁における被告人の供述が畏迫強制によるものであると断ずることを得ない。",
+  "ref_law": "刑訴法319条，刑訴法322条，刑訴法198条，憲法38条",
+  "lawsuit_id": "64746",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64746",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/746/064746_hanrei.pdf"
+}

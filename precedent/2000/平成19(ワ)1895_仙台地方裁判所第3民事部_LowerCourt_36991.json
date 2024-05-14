@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 10,
+    "day": 22
+  },
+  "case_number": "平成19(ワ)1895",
+  "case_name": "損害賠償請求事件",
+  "court_name": "仙台地方裁判所第3民事部",
+  "gist": "交通事故により死亡した２歳の女子の逸失利益を算定するに当たって，事故当時みられた男女の賃金格差が将来どの時点で解消されるかを予想するのは不可能であるとして，賃金センサスによる男女別平均賃金を基礎収入とみるのが相当であると判断した事例",
+  "lawsuit_id": "36991",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=36991",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/991/036991_hanrei.pdf",
+  "contents": ""
+}

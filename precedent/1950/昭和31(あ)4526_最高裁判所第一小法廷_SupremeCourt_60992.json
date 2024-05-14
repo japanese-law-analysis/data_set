@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 8,
+    "day": 8
+  },
+  "case_number": "昭和31(あ)4526",
+  "case_name": "印紙犯罪処罰法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第120号15頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 11,
+    "day": 16
+  },
+  "gist": "不当勾留中の供述調書の任意性",
+  "case_gist": "勾留が不当であるとしても、その一事を以て勾留中の供述調書が強制に基づくものであり又は任意性を欠くものであるといえないことは、当裁判所の判例の趣旨とするところである。（判例集九巻四号六六三頁以下大法廷判決、同四巻九号一七五一頁以下当法廷判決参照）",
+  "ref_law": "憲法38条1項，刑訴法319条",
+  "lawsuit_id": "60992",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60992",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/992/060992_hanrei.pdf"
+}

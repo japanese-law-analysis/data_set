@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 2,
+    "day": 3
+  },
+  "case_number": "昭和39(オ)1201",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第82号309頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和38(ネ)2060",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 3,
+    "day": 16
+  },
+  "gist": "任意に支払われた法定の制限超過の利息損害金は残存元本に充当されるか",
+  "case_gist": "残存元本に充当されるものと解すべきである（昭和三九年一一月一八日大法廷判決に従つて、昭和三七年六月一三日大法廷判決によつた原判決を破棄した事案）。\n（反対意見がある。）",
+  "ref_law": "利息制限法1条，利息制限法2条，利息制限法4条，民法491条",
+  "lawsuit_id": "66290",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66290",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/290/066290_hanrei.pdf"
+}

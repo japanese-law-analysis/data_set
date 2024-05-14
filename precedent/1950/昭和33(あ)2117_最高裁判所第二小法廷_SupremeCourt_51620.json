@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 2,
+    "day": 6
+  },
+  "case_number": "昭和33(あ)2117",
+  "case_name": "業務上過失傷害",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第13巻1号66頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 9,
+    "day": 25
+  },
+  "gist": "被害者の交通法規の無視と業務上過失傷害罪の成立。",
+  "case_gist": "被害者が自転車に乗つて狭い道路から広い道路に進入するに当り優先順位を守らなかつたため被告人操縦の自動車と衝突したものであつても、被告人に前方注視、徐行等の注意義務を守らない果実がある以上業務上過失傷害罪の成立を妨げない。",
+  "ref_law": "刑法211条，道路交通取締法18条",
+  "lawsuit_id": "51620",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51620",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/620/051620_hanrei.pdf"
+}

@@ -1,0 +1,20 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 12,
+    "day": 18
+  },
+  "case_number": "平成19(行コ)22",
+  "case_name": "所得税更正処分等取消請求控訴事件（原審・名古屋地方裁判所平成１６年（行ウ）第７５号(甲事件），平成１７年（行ウ）第３８号（乙事件））",
+  "court_name": "名古屋高等裁判所民事第１部",
+  "original_court_name": "名古屋地方裁判所",
+  "original_case_number": "平成16(行ウ)75",
+  "original_result": "棄却",
+  "gist": "都市計画区域内の事業予定地の買取制度に基づき，該当土地の市への買取申出をした地権者が，該当土地上における具体的な建築意思に基づく建築許可申請を経ていなくても，その買取を求める意思が明確であれば，その売却対価につき租税特別措置法上の減免特例が受けられるとして，１審判決を取り消した上，減免特例が受けられないとした税務署長の更正処分を取り消した事例",
+  "lawsuit_id": "37313",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=37313",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/313/037313_hanrei.pdf",
+  "contents": ""
+}

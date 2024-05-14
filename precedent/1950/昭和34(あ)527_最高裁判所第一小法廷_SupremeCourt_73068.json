@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 12,
+    "day": 3
+  },
+  "case_number": "昭和34(あ)527",
+  "case_name": "収賄",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第131号823頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 12,
+    "day": 27
+  },
+  "gist": "収賄罪の成立する事例。",
+  "case_gist": "原審の認定したところによれば、被告人は愛知県農地部耕地課管理係長として、耕地課長の指導監督の下に同県下における耕地整理組合の事務指導、土地改良区の認定認可ならびに監督整理事業の指導監督、農林漁業資金融資などに関する職務を担当していた。そして同人は本件土地改良区の施行する区画整理事業に要するトロツコレールの払下につき種々世話になつたことの謝礼の趣旨の下に供与されるものであることの情を知りながら商品券を収受したというのである。しからば右トロツコレールの払下につき種々世話をした被告人の行為は、所論のように、区画整理事業所要の資材に関する事項が同人の本来の職務と密接な関係のある行為というべく、その謝礼として金品を収受した以上、収賄罪の成立は免れない。",
+  "ref_law": "刑法197条",
+  "lawsuit_id": "73068",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=73068",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/068/073068_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 10,
+    "day": 12
+  },
+  "case_number": "昭和25(あ)1220",
+  "case_name": "詐欺、横領",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第4巻10号2084頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 4,
+    "day": 20
+  },
+  "gist": "控訴趣意を援用すると記載した上告趣意の適否",
+  "case_gist": "上告趣意第二点は、理由については控訴趣意第一点を援用するというのであつて、上告趣意書自体に亳もその趣意内容を示していないから適法な上告趣意ではない。",
+  "ref_law": "刑訴法407条，刑訴規則240条",
+  "lawsuit_id": "54376",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54376",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/376/054376_hanrei.pdf"
+}

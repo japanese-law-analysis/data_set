@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 3,
+    "day": 10
+  },
+  "case_number": "昭和27(オ)621",
+  "case_name": "市議会議員選挙無効訴願棄却裁決取消請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第9巻3号256頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 5,
+    "day": 28
+  },
+  "gist": "開票管理者が、開票事務終了後、開票所以外の場所において一部の開票立会人の面前で投票入封筒の封印を破棄し在中の投票を取り出し再調査した違法と選挙の効力",
+  "case_gist": "開票管理者が、開票事務終了後、開票所以外の場所において一部の開票立会人の面前で投票入封筒の封印を破棄し在中の投票を取り出し再調査した違法は、常に選挙の結果に異動を及ぼす虞のある場合にあたる。",
+  "ref_law": "公職選挙法64条，公職選挙法67条，公職選挙法70条，公職選挙法205条，公職選挙法施行令76条",
+  "lawsuit_id": "57335",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57335",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/335/057335_hanrei.pdf"
+}

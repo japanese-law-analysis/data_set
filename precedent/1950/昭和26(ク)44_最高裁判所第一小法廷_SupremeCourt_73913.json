@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 5,
+    "day": 17
+  },
+  "case_number": "昭和26(ク)44",
+  "case_name": "不動産強制競売事件に因る強制競売手続取消決定に対する抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "却下",
+  "article_info": "集民　第4号777頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和25(ラ)36",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 1,
+    "day": 25
+  },
+  "lawsuit_id": "73913",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=73913",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/913/073913_hanrei.pdf"
+}

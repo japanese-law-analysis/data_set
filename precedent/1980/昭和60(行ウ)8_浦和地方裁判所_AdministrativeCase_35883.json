@@ -1,0 +1,18 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 9,
+    "day": 30
+  },
+  "case_number": "昭和60(行ウ)8",
+  "case_name": "行政行為違法確認請求事件",
+  "court_name": "浦和地方裁判所",
+  "field": "行政",
+  "gist": "助役が市町村の長を補佐すること又は補佐を怠ることは，財務会計上の行為に当たらないので，助役は，自ら地方公共団体の財産管理を行う権限及び財産管理の懈怠を防止する権限を有せず，地方自治法２４２条の２第１項３号に基づく地方公共団体の財産の管理を怠る事実の違法確認を求める訴えの被告適格を有しないとした事例",
+  "lawsuit_id": "35883",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=35883",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/883/035883_hanrei.pdf",
+  "contents": ""
+}

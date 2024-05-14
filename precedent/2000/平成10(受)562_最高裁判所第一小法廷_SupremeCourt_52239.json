@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 13,
+    "month": 1,
+    "day": 25
+  },
+  "case_number": "平成10(受)562",
+  "case_name": "約束手形金請求事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第55巻1号1頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成10(ネ)1926",
+  "original_date": {
+    "era": "Heisei",
+    "year": 10,
+    "month": 9,
+    "day": 16
+  },
+  "gist": "手形について除権判決の言渡しがあったこととこれよりも前に当該手形を善意取得した者の手形上の権利",
+  "case_gist": "手形について除権判決の言渡しがあったとしても，これよりも前に当該手形を善意取得した者は，当該手形に表章された手形上の権利を失わない。",
+  "ref_law": "公示催告手続及ビ仲裁手続ニ関スル法律785条，手形法16条2項，手形法77条1項1号",
+  "lawsuit_id": "52239",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52239",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/239/052239_hanrei.pdf"
+}

@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 6,
+    "day": 15
+  },
+  "case_number": "昭和50(あ)1927",
+  "case_name": "威力業務妨害",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第201号27頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 9,
+    "day": 19
+  },
+  "gist": "一、公労法一七条が憲法に違反しないとの原判決の憲法解釈の当否が原判決の結論に影響するものでないことがその判示自体において明らかであるとして違憲の主張が不適法とされた事例\n二、国鉄職員による列車の一時進行阻止行為が威力業務妨害罪の成立に必要な違法性に欠けるところはないとされた事例",
+  "ref_law": "憲法28条，憲法31条，憲法18条，刑法234条，刑法35条",
+  "lawsuit_id": "60119",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60119",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/119/060119_hanrei.pdf"
+}

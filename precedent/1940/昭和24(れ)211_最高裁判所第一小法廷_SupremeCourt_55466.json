@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 8,
+    "day": 18
+  },
+  "case_number": "昭和24(れ)211",
+  "case_name": "窃盗、賍物故買、同寄藏",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第3巻9号1455頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 12,
+    "day": 14
+  },
+  "gist": "刑法第四七條の併合罪における最も重き罪につき定めた刑の決定方法と同法第一〇條",
+  "case_gist": "刑法第四七條の併合罪における最も重き罪につき定めた刑を決定するには、法定刑中二個以上の有期の懲役又は禁錮刑、すなわち各本條に二個以上の刑名あるときは、まず適用すべき有期の懲役刑又は禁錮刑を選擇した上、これに再犯加重、法律上の減輕を行つた處斷刑のみを標準として、同法第一〇條に從い決すべきもので、各本條に併科的又は選擇的に規定せられている死刑無期刑又は罰金刑等を比較の對照として定むべきものでないこと同法第四六條乃至第四八條及び同第七二條の規定に照し明らかなところである。",
+  "ref_law": "刑法第10條，刑法47條，舊刑訴法360條1項",
+  "lawsuit_id": "55466",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55466",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/466/055466_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 4,
+    "day": 6
+  },
+  "case_number": "昭和24(れ)1449",
+  "case_name": "収賄、恐喝、詐欺、横領、強盗未遂",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第4巻4号481頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 3,
+    "day": 8
+  },
+  "gist": "公務員がその職務の執行に名を籍りて人を恐喝し財物を交付せしめた行爲の擬律",
+  "case_gist": "人を恐喝して財物を交付せしめる場合には恐喝罪が成立する。本件のように公務員がその職務を執行する意思がなく、ただ名をその職務の執行に籍りて、人を恐喝し財物を交付せしめた場合には、たといその被害者の側においては公務員の職務に對し財物を交付する意思があつたときと雖も、當該公務員の犯行は、收賄罪を構成せず恐喝罪を構成するものと見るを相當とする。すなわち被害者の側では公務員たる警察官に自己の犯行を押さえられているので、處罰を怖れて財物の交付をするのであつて全然任意に出でた交付ということはできないから、恐喝罪のみを構成するものである。",
+  "ref_law": "刑法249條1項",
+  "lawsuit_id": "56632",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56632",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/632/056632_hanrei.pdf"
+}

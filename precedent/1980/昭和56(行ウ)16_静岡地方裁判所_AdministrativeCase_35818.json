@@ -1,0 +1,19 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 3,
+    "day": 14
+  },
+  "case_number": "昭和56(行ウ)16",
+  "case_name": "課税処分取消請求事件",
+  "court_name": "静岡地方裁判所",
+  "field": "行政",
+  "gist": "１　所得税法６０条１項１号にいう「贈与」の意義　\n２　甲が乙に対して土地の共有持分を譲渡し，乙が甲の第三者に対する債務を代わって弁済するという内容の負担付贈与契約に基づき，甲が乙に対してした土地の譲渡が，甲は乙に対して右債務を消滅させるよう請求し得る権利を取得したものであって，右債務の額相当額の収入すベき金額があるとして，所得税法６０条１項１号にいう「贈与」に当たらないとされた事例",
+  "case_gist": "１　所得税法６０条１項１号にいう「贈与」とは，同法５９条１項１号にいう「贈与」と同様に，資産を譲渡した者に収入すベき金銭その他の経済的利益を全くもたらさない贈与のみを意味する。",
+  "lawsuit_id": "35818",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=35818",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/818/035818_hanrei.pdf",
+  "contents": ""
+}

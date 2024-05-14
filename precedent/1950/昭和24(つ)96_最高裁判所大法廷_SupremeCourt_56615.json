@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 4,
+    "day": 21
+  },
+  "case_number": "昭和24(つ)96",
+  "case_name": "上訴権回復請求棄却決定に対する抗告につきなした棄却決定に対する特別抗告",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第4巻1号675頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 9,
+    "day": 24
+  },
+  "gist": "代人の過失によつて上訴期間を徒過した場合に上訴權回復の請求權を却下したことの合憲性",
+  "case_gist": "舊刑訴法第三八七條が代人の過失によつて上訴期間を徒過した場合上訴權回復の請求權なきものとしたのは違憲ではない。",
+  "ref_law": "舊刑訴法387條，憲法37條1項",
+  "lawsuit_id": "56615",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56615",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/615/056615_hanrei.pdf"
+}

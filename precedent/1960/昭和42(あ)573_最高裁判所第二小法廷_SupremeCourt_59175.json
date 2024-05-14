@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 2,
+    "day": 12
+  },
+  "case_number": "昭和42(あ)573",
+  "case_name": "責任、商法違反、経済関係罰則の整備に関する法律違反、預金等に係る不当契約の取締に関する法律違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第166号91頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 1,
+    "day": 24
+  },
+  "gist": "信用金庫の専務理事が株式払込の仮装につき請託を受けその費用と謝礼とを不可分的に一括して収受した場合の追徴の範囲",
+  "case_gist": "信用金庫の専務理事が、株式払込の仮装につき請託を受け、その費用ならびに謝礼の趣旨で、いずれの部分が費用でありいずれの部分が謝礼であるか区別できない関係で一括して金員を収受した場合、その金員の全額について経済関係罰則の整備に関する法律第二条所定の賄賂収受罪が成立し、その全額が追徴の対象になるものと解すべきである。",
+  "ref_law": "経済関係罰則の整備に関する法律2条，経済関係罰則の整備に関する法律4条",
+  "lawsuit_id": "59175",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59175",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/175/059175_hanrei.pdf"
+}

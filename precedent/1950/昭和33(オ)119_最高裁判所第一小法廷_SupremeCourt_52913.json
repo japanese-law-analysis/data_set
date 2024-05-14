@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 12,
+    "day": 18
+  },
+  "case_number": "昭和33(オ)119",
+  "case_name": "貸金並びに抵当権設定登記抹消登記請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第12巻16号3323頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 11,
+    "day": 20
+  },
+  "gist": "不足の弁済供託金を無留保で受領した場合の効力。",
+  "case_gist": "金額に争のある債権につき、全額に対する弁済を供託原因として供託した金額が、債権者の主張する額に足らない場合であつても、債権者が供託書の交付を受けてその供託金を受領したときは、受領の際別段の留保の意思表示をなした等特別の事情のない限り、その債権の金額に対する弁済供託の効力を認めたものと解するのが相当である。",
+  "ref_law": "民法494条，民法496条",
+  "lawsuit_id": "52913",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52913",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/913/052913_hanrei.pdf"
+}

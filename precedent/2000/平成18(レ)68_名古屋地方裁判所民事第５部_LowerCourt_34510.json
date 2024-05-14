@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 2,
+    "day": 1
+  },
+  "case_number": "平成18(レ)68",
+  "case_name": "損害賠償請求控訴事件",
+  "court_name": "名古屋地方裁判所民事第５部",
+  "result": "その他",
+  "original_court_name": "名古屋簡易裁判所",
+  "original_case_number": "平成17(ハ)4372",
+  "original_result": "その他",
+  "gist": "Ｕ型道路側溝の蓋が５センチメートルほど持ち上がっている状況を国家賠償法２条にいう道路管理の瑕疵にあたると認め，上記側溝蓋につまずき負傷した歩行者に８割の過失相殺をした損害賠償請求を認めた原判決に対し，同歩行者から控訴がなされ，その過失割合が争点となった事案で，同歩行者が歩道と接続した側溝上を歩行したこと自体は格別とがめられるべきことではないが，同歩行者において上記蓋の持ち上がりに容易に気づくことができたとして，その過失割合を５割とした事例。",
+  "lawsuit_id": "34510",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=34510",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/510/034510_hanrei.pdf",
+  "contents": ""
+}

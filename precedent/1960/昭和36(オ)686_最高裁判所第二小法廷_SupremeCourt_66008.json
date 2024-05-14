@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 11,
+    "day": 9
+  },
+  "case_number": "昭和36(オ)686",
+  "case_name": "不当利得返還請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第63号187頁",
+  "original_court_name": "仙台高等裁判所\n        　秋田支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 2,
+    "day": 27
+  },
+  "gist": "合意解除に基づく不当利得返還請求において合意解除が当事者間に争いのないものと誤認した違法が判決に影響を及ぼすものでないとされた事例。",
+  "case_gist": "合意解除に基づく不当利得返還請求において、合意解除について当事者間に争いがあるのにかかわらず争いのないものと誤認した違法があつても、判示事情のもとにおいては、判決に影響を及ぼすものとはいえない。",
+  "ref_law": "民法545条，民法703条，民訴法394条",
+  "lawsuit_id": "66008",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66008",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/008/066008_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 5,
+    "day": 2
+  },
+  "case_number": "昭和51(オ)1311",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第120号567頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和50(ネ)1325",
+  "original_date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 9,
+    "day": 21
+  },
+  "gist": "兄の許しを得て兄所有の自動車を使用して旅行中たまたま運転を代つた同乗の友人が惹起した事故により受傷した者が兄に対し自動車損害賠償保障法三条にいう他人であることを主張して損害賠償を請求することが許されないとされた事例",
+  "case_gist": "兄所有の自動車を使用する許しを受けた弟が、友人とともに右自動車を使用して旅行中、運転にあたつていた友人の惹起した事故により受傷した場合において、右旅行が約一週間の日程であり、友人と交代で運転をしながら旅行を続けているうち、たまたま運転にあたつた友人が運転操作を誤つて自動車を道路下に転落させたものであるなど判示の事実関係があるときは、弟は、兄に対し自動車損害賠償保障法三条にいう他人であることを主張して損害賠償を求めることは、許されない。",
+  "ref_law": "自動車損害賠償保障法3条",
+  "lawsuit_id": "74517",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74517",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/517/074517_hanrei.pdf"
+}

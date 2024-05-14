@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 6,
+    "day": 10
+  },
+  "case_number": "昭和40(あ)1761",
+  "case_name": "道路交通取締法違反、業務上過失致死",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第159号1113頁",
+  "original_court_name": "仙台高等裁判所\n        　秋田支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 5,
+    "day": 17
+  },
+  "lawsuit_id": "58912",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58912",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/912/058912_hanrei.pdf"
+}

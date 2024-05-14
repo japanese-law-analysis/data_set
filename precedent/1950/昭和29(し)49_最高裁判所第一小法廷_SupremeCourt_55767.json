@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 9,
+    "day": 18
+  },
+  "case_number": "昭和29(し)49",
+  "case_name": "強盗致傷被告事件につきなした勾留取消請求却下の裁判に対する抗告棄却決定に対する特別抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第8巻9号1500頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 6,
+    "day": 28
+  },
+  "gist": "準抗告についてした決定と抗告",
+  "case_gist": "刑訴第四二九条による請求（いわゆる準抗告）についてした決定に対しては、高裁に抗告をすることはできない。",
+  "ref_law": "刑訴法429條，刑訴法419條，刑訴法432條，刑訴法427條",
+  "lawsuit_id": "55767",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55767",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/767/055767_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 7,
+    "day": 17
+  },
+  "case_number": "昭和26(あ)3796",
+  "case_name": "傷害",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "刑集　第7巻7号1533頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 9,
+    "day": 10
+  },
+  "gist": "刑訴第四一一条第一号にあたる一事例",
+  "case_gist": "主文において被告人を罰金二〇〇〇円に処しながら、その理由において被告刑を罰金一〇〇〇円に処する旨を判示したときは、主文と理由との間にくいちがいがあり、刑訴第四一一条第一号にあたる。",
+  "ref_law": "刑訴法411条",
+  "lawsuit_id": "53430",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53430",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/430/053430_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 12,
+    "day": 26
+  },
+  "case_number": "昭和34(し)60",
+  "case_name": "証拠書類等閲覧に関する裁判長の命令に対し検察官のした異議棄却決定に対する特別抗告",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "その他",
+  "article_info": "刑集　第13巻13号3372頁",
+  "original_court_name": "大阪地方裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 10,
+    "day": 3
+  },
+  "gist": "裁判所は検察官所持の証拠を予め被告人または弁護人に閲覧させるよう命令することができるか。",
+  "case_gist": "現行刑事訴訟法規のもとで、裁判所が検察官に対し、その所持する証拠書類または証拠物を、検察官において公判で取調べを請求すると否とにかかわりなく、予め、被告人または弁護人に閲覧させるように命令することはできない。",
+  "ref_law": "刑訴法40条，刑訴法49条，刑訴法299条1項，刑訴法300条，刑訴規則178条の3，刑訴規則193条",
+  "lawsuit_id": "55822",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55822",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/822/055822_hanrei.pdf"
+}

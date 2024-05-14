@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 6,
+    "day": 12
+  },
+  "case_number": "昭和49(あ)2488",
+  "case_name": "強姦致傷",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第196号569頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 10,
+    "day": 11
+  },
+  "gist": "原判決が証拠によらずして犯罪事実を認定したものとはいえないとされた事例",
+  "case_gist": "本件罪となるべき事実は、第一審判決掲記の証拠のうち被告人の所論各供述調書を除くその余の各証拠によつて優にその認定を妨げないのであつて、原判決か証拠によらずして犯罪事実を認定したものとはいえない。",
+  "ref_law": "刑訴法317条",
+  "lawsuit_id": "60025",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60025",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/025/060025_hanrei.pdf"
+}

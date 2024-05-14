@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 2,
+    "day": 16
+  },
+  "case_number": "昭和24(れ)2311",
+  "case_name": "恐喝",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集刑　第16号481頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 7,
+    "day": 25
+  },
+  "gist": "數個の犯行の間に確定判決のあることを無視した判決と擬律錯誤の違法",
+  "case_gist": "職權を以て調査すると、被告人は、昭和二三年七月二三日千葉地方裁判所で横領並に窃盜罪により懲役一年（三年間執行獪豫）の判決を云渡され、その判決は上訴期間の經過により同年同月三〇日確定したもたものである。從つて原判決の確定した判示（一）の恐喝罪は右確定判決のあつた横領並びに窃盜の罪と併合罪の關係があるけれども右確定判決後の判示（二）及び（三）の恐喝罪とは併合罪の關係にあるものでないことは刑法四五條の規定に照らし明らかである。しかるに、被告人に對し單一の刑を宣告したのは擬律錯誤の違法を犯したものといわなければならない。",
+  "ref_law": "刑法45條，刑法50條，舊刑訴法360條1項，舊刑訴法409條",
+  "lawsuit_id": "74899",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74899",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/899/074899_hanrei.pdf"
+}

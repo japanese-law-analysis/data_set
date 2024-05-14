@@ -1,0 +1,20 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 8,
+    "day": 29
+  },
+  "case_number": "平成17(ネ)2259",
+  "case_name": "損害賠償請求控訴事件",
+  "court_name": "大阪高等裁判所第１民事部",
+  "result": "その他",
+  "original_court_name": "神戸地方裁判所\n        　姫路支部",
+  "original_case_number": "平成15(ワ)1005",
+  "gist": "特別養護老人ホームにおいて，いわゆるショートステイを利用した際，他の利用者に車椅子を押されて転倒し，後遺症を負ったことにつき，同ホームに対してしたショートステイ利用契約上の債務不履行に基づく損害賠償請求が認められた事例",
+  "lawsuit_id": "33800",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=33800",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/800/033800_hanrei.pdf",
+  "contents": "2 4\n1,896,411 47,342 996,913\n3 1\n4 3\n1,894,411 47,342 19 994,913\n3,000 585 4 5 1,128,214 .\n"
+}

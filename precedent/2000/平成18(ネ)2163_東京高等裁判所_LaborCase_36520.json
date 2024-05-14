@@ -1,0 +1,17 @@
+{
+  "trial_type": "LaborCase",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 12,
+    "day": 13
+  },
+  "case_number": "平成18(ネ)2163",
+  "case_name": "地位確認等請求控訴事件（通称　大学共同利用機関法人情報・システム研究機構非常勤職員再任用拒否）",
+  "court_name": "東京高等裁判所",
+  "field": "労働",
+  "lawsuit_id": "36520",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail6?id=36520",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/520/036520_hanrei.pdf",
+  "contents": ""
+}

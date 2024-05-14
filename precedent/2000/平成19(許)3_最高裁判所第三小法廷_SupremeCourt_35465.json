@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 12,
+    "day": 4
+  },
+  "case_number": "平成19(許)3",
+  "case_name": "賃借権譲渡許可並びに建物及び土地賃借権譲受許可申立て却下決定に対する抗告棄却決定に対する許可抗告事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集民　第226号387頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成18(ラ)1494",
+  "original_date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 12,
+    "day": 15
+  },
+  "gist": "賃借権の目的である土地と他の土地とにまたがって建築されている建物について，借地権設定者が，借地借家法１９条３項に基づき，自ら当該建物及び賃借権の譲渡を受ける旨の申立てをすることの許否",
+  "case_gist": "借地権者が，賃借権の目的である土地と他の土地とにまたがって建築されている建物を第三者に譲渡するために，借地借家法１９条１項に基づき，賃借権の譲渡の承諾に代わる許可を求める旨の申立てをした場合において，借地権設定者が，同条３項に基づき，自ら当該建物及び賃借権の譲渡を受ける旨の申立てをすることは許されない。",
+  "ref_law": "借地借家法19条1項，借地借家法19条3項",
+  "lawsuit_id": "35465",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=35465",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/465/035465_hanrei.pdf",
+  "contents": ""
+}

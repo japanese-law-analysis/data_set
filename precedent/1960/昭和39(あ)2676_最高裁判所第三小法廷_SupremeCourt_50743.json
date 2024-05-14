@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 12,
+    "day": 24
+  },
+  "case_number": "昭和39(あ)2676",
+  "case_name": "法人税法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第19巻9号827頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 11,
+    "day": 6
+  },
+  "gist": "訴因変更手続を要するとされた事例。",
+  "case_gist": "法人税逋脱罪につき、裁判所が、被告会社の逋脱所得の内容を認定するにあたり、検察官の主張しなかつた勘定科目である仮払金一七五万円、貸付金五万円を新たに加え、また、検察官の主張した勘定科目である借入金七五万円を削除するような場合には、訴因変更の手続を必要とする。",
+  "ref_law": "刑訴法256条1項，刑訴法256条2項，刑訴法312条，昭和37年法律45号法人税法の一部改正法律附則11項，法人税法（昭和37年法律45号による改正前）48条1項，法人税法（昭和37年法律45号による改正前）51条1項",
+  "lawsuit_id": "50743",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50743",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/743/050743_hanrei.pdf"
+}

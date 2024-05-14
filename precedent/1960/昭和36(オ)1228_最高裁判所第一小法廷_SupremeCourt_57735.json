@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 4,
+    "day": 26
+  },
+  "case_number": "昭和36(オ)1228",
+  "case_name": "土地所有権移転登記手続請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第16巻4号1002頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 8,
+    "day": 23
+  },
+  "gist": "民法第五五〇条の書面に当るとされた事例",
+  "case_gist": "県知事に対する農地所有権移転許可申請書に、譲渡人、譲渡人と表示して各記名捺印がなされ、「権利を移転しようとする事由の詳細」の項に本件農地を贈与することにした旨、「権利を移転しようとする契約の内容」の項に無償贈与とする旨の各記載がある以上、該申請書は民法第五五〇条の書面に当る。",
+  "ref_law": "民法550条",
+  "lawsuit_id": "57735",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57735",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/735/057735_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 7,
+    "day": 29
+  },
+  "case_number": "昭和22(れ)280",
+  "case_name": "住居侵入、強盗",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第2巻9号1007頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 10,
+    "day": 16
+  },
+  "gist": "一　強盜の共謀と暴行脅迫をしなかつた者の責任\n二　裁判所法第二六條第二項第二號中刑法第二三六條、第二三八條、第二三九條の罪の除外規定の合憲性",
+  "case_gist": "一　被告人等數名が強盜を共謀し、その中、被告人以外の者が被害者を脅迫して財物を奪取した以上、たとえ、被告人が暴行脅迫を行はなかつたとしても、強盜罪の共同正犯としての責任を兔れない。\n二　裁判所法第二六條第二項第二號中刑法第二三六條、第二三七條及び第二三九條の罪に係る事件は地方裁判所の一人の裁判官がこれを取り扱いうる旨の規定は違法に違反するものではない。",
+  "ref_law": "刑法60條，刑法236條1項，裁判所法26條2項2號",
+  "lawsuit_id": "56432",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56432",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/432/056432_hanrei.pdf"
+}

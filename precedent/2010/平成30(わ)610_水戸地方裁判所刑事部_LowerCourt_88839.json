@@ -1,0 +1,15 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Reiwa",
+    "year": 1,
+    "month": 7,
+    "day": 5
+  },
+  "case_number": "平成30(わ)610",
+  "case_name": "殺人，死体遺棄，窃盗，有印私文書偽造・同行使，電磁的公正証書原本不実記録・同供用，詐欺未遂被告事件",
+  "court_name": "水戸地方裁判所刑事部",
+  "lawsuit_id": "88839",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=88839",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/839/088839_hanrei.pdf"
+}

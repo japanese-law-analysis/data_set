@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 10,
+    "day": 10
+  },
+  "case_number": "昭和27(ヤ)2",
+  "case_name": "人身保護請求却下決定に対する特別抗告事件につきなした決定に対する再審の申立",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "却下",
+  "article_info": "集民　第7号301頁",
+  "original_court_name": "最高裁判所",
+  "original_case_number": "昭和26(ク)189",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 1,
+    "day": 24
+  },
+  "lawsuit_id": "76635",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=76635",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/635/076635_hanrei.pdf"
+}

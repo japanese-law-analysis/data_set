@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 12,
+    "day": 27
+  },
+  "case_number": "昭和36(オ)1063",
+  "case_name": "貸生糸返還請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第17巻12号1838頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 6,
+    "day": 26
+  },
+  "gist": "附帯控訴は取下後ふたたび申し立てることができるか。",
+  "case_gist": "附帯控訴は、いつたんこれを取り下げても、口頭弁論終結にいたるまでは、ふたたび申し立てることができる。",
+  "ref_law": "民訴法372条，民訴法237条2項",
+  "lawsuit_id": "53738",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53738",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/738/053738_hanrei.pdf"
+}

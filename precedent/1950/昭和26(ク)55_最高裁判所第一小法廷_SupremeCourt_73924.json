@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 5,
+    "day": 19
+  },
+  "case_number": "昭和26(ク)55",
+  "case_name": "仮処分申請事件の却下決定に対する抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "却下",
+  "article_info": "集民　第4号801頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和25(ラ)26",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 11,
+    "day": 10
+  },
+  "lawsuit_id": "73924",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=73924",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/924/073924_hanrei.pdf"
+}

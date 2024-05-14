@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 63,
+    "month": 12,
+    "day": 12
+  },
+  "case_number": "昭和63(す)181",
+  "case_name": "傷害致死被告事件についてした上告棄却決定に対する異議申立",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第250号1061頁",
+  "original_date": {
+    "era": "Showa",
+    "year": 63,
+    "month": 11,
+    "day": 21
+  },
+  "gist": "上告棄却決定に対する裁判解釈の申立を適法な異議申立として取り扱った事例",
+  "ref_law": "刑訴法501条，刑訴法386条",
+  "lawsuit_id": "58524",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58524",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/524/058524_hanrei.pdf"
+}

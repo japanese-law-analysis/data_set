@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 1,
+    "day": 19
+  },
+  "case_number": "昭和33(テ)12",
+  "case_name": "売買代金請求（特別上告）",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第58号237頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 3,
+    "day": 3
+  },
+  "gist": "訴訟承継人らが選定当事者を選定して特別上告をした事例",
+  "case_gist": "右事例としての意義以外に裁判要旨として特記すべき意義はない。",
+  "ref_law": "民訴法47条",
+  "lawsuit_id": "63376",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63376",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/376/063376_hanrei.pdf"
+}

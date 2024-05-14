@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 6,
+    "day": 13
+  },
+  "case_number": "昭和32(オ)1106",
+  "case_name": "損害賠償請求事件の口頭弁論期日指定の申立",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "却下",
+  "article_info": "民集　第14巻8号1323頁",
+  "original_case_number": "昭和32(オ)1106",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 3,
+    "day": 24
+  },
+  "gist": "民訴法第二三八条の期間徒過後追完を理由とする期日指定申立があつた場合の裁判。",
+  "case_gist": "民訴法第二三八条の期間徒過により上告取下とみなされた後において、当事者が同法第一五九条に基き追完できると主張して口頭弁論期日指定の申立をした場合、右申立は決定をもつて却下すべきである。",
+  "ref_law": "民訴法238条，民訴法159条",
+  "lawsuit_id": "53565",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53565",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/565/053565_hanrei.pdf"
+}

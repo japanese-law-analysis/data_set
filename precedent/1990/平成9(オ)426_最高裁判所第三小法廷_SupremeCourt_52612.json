@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 11,
+    "month": 11,
+    "day": 9
+  },
+  "case_number": "平成9(オ)426",
+  "case_name": "求償債権請求事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第53巻8号1403頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成8(ネ)2299",
+  "original_date": {
+    "era": "Heisei",
+    "year": 8,
+    "month": 11,
+    "day": 27
+  },
+  "gist": "破産免責の効力の及ぶ債務の保証人とその債権の消滅時効の援用",
+  "case_gist": "主債務者である破産者が免責決定を受けた場合に、免責決定の効力の及ぶ債務の保証人は、その債権についての消滅時効を援用することができない。",
+  "ref_law": "民法145条，民法166条1項，民法446条，破産法366条ノ12，破産法366条ノ13",
+  "lawsuit_id": "52612",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52612",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/612/052612_hanrei.pdf"
+}

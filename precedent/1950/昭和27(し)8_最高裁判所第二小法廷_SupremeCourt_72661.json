@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 2,
+    "day": 22
+  },
+  "case_number": "昭和27(し)8",
+  "case_name": "刑執行猶予言渡取消決定に対する即時抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第61号541頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 1,
+    "day": 16
+  },
+  "gist": "裁判官が裁判所の建物外で裁判事務を行うことの合憲性（憲法第三二条）",
+  "case_gist": "憲法並びに法律に定められた裁判所の裁判官が、自宅その他裁判所の建物外において裁判事務を行つても、憲法第三二条に違反するものではない。",
+  "ref_law": "憲法32条",
+  "lawsuit_id": "72661",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=72661",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/661/072661_hanrei.pdf"
+}

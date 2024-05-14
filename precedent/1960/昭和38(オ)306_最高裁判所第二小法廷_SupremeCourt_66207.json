@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 6,
+    "day": 12
+  },
+  "case_number": "昭和38(オ)306",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第74号57頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 12,
+    "day": 12
+  },
+  "gist": "民法第一一二条の表見代理の主張に対し商法第二六二条の表見代表取締役の規定を適用して判断することの可否。",
+  "case_gist": "当事者が民法第一一二条の表見代理による約束手形金の支払請求を主張している場合であっても、商法第二六二条の要件事実が主張されている以上、同条の表見代表取締役の行為による会社に対する責任に基づいて、請求を認容することに違法はない。",
+  "ref_law": "民法112条，商法262条，民訴法186条",
+  "lawsuit_id": "66207",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66207",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/207/066207_hanrei.pdf"
+}

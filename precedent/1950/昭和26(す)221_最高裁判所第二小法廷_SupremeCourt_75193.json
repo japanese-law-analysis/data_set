@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 7,
+    "day": 11
+  },
+  "case_number": "昭和26(す)221",
+  "case_name": "殺人被告事件について最高裁判所の判決に対する判決訂正の申立",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第49号769頁",
+  "original_court_name": "最高裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 6,
+    "day": 29
+  },
+  "gist": "昭和二五年一二月二〇日に言渡された旧刑訴法による控訴審判決の訂正申立の適否",
+  "case_gist": "本件は、昭和二三年一一月三日に公判が請求され、旧刑訴に則つて審判されており、控訴審たる大阪高等裁判所の判決は、昭和二五年一二月二〇日に言渡されたものであるから、判決訂正等について新刑訴法の一部を適用することを定めた刑事訴訟施行法の一部を改正する法律（昭和二五年一二月一五日法律第二六七号）も、その附則第一、二項の関係上適用されない。",
+  "ref_law": "刑事訴訟法施行法の一部を改正する法律（昭和25年12月15日法律267号）",
+  "lawsuit_id": "75193",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=75193",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/193/075193_hanrei.pdf"
+}

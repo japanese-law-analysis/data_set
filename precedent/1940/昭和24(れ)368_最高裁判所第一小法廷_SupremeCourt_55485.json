@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 9,
+    "day": 1
+  },
+  "case_number": "昭和24(れ)368",
+  "case_name": "公務執行妨害",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第3巻10号1529頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 12,
+    "day": 28
+  },
+  "gist": "舊刑訴法第三六〇條第二項の主張に對する判斷を示す方法",
+  "case_gist": "原審における辯護人の期待可能性の理論の主張が、刑訴法第三六〇條第二項に該當するものとしても、これに對する判斷の判示方法は必ずしも常に辯護人の主張事實を掲げてこれに對し直接的に判斷を示す方法を採ることを要するものではなく、辯護人の主張する事實に關し却つて反對の事實を認定して、間接的に主張否定の判斷を示す方法を採ることも差支えがないと云わねばならぬ。",
+  "ref_law": "舊刑訴法360條2項",
+  "lawsuit_id": "55485",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55485",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/485/055485_hanrei.pdf"
+}

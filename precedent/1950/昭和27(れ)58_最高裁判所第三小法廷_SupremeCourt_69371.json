@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 6,
+    "day": 24
+  },
+  "case_number": "昭和27(れ)58",
+  "case_name": "強盗",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第65号303頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 12,
+    "day": 2
+  },
+  "gist": "旧刑訴事件の控訴審における判決言渡当時少年でなくなつた者と少年法第五二条の適用の有無",
+  "case_gist": "原判決言渡当時においては被告人は既に少年ではなかつた場合にはたとえ犯行当時少年であつたとしても、定期刑を言渡すべきもので、不定期刑を言渡すべきものではない（昭和二六年（あ）第一二四一号、同二六年八月一七日言渡第二小法廷判決参照）。",
+  "ref_law": "少年法2条，少年法68条1項，少年法52条，旧少年法1条，旧少年法8条",
+  "lawsuit_id": "69371",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=69371",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/371/069371_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 9,
+    "day": 30
+  },
+  "case_number": "昭和25(あ)1381",
+  "case_name": "窃盗、銃砲等所持禁止令違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第4巻9号1856頁",
+  "original_court_name": "福岡高等裁判所\n        　宮崎支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 3,
+    "day": 15
+  },
+  "gist": "前科調回答電信訳文の証拠法上の地位",
+  "case_gist": "甲検察庁が乙検察庁に対して為した前科調回答の電信訳文は、刑訴法第三二三条三号に該当する書面と認むべきである。",
+  "ref_law": "刑訴法313条3号",
+  "lawsuit_id": "54379",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54379",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/379/054379_hanrei.pdf"
+}

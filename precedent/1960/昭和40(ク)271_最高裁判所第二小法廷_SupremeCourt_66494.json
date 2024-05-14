@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 9,
+    "day": 3
+  },
+  "case_number": "昭和40(ク)271",
+  "case_name": "競落許可決定に対する抗告却下決定に対する抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "却下",
+  "article_info": "集民　第80号137頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和40(ラ)54",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 6,
+    "day": 1
+  },
+  "gist": "民訴法第四一五条と憲法第三二条",
+  "case_gist": "民訴法第四一五条は、憲法第三二条に違反しない。（昭和二三年（ク）第一三号、同二四年七月二二日大法廷決定、民集三巻八号二八一頁の趣旨による）",
+  "ref_law": "民訴法415条，憲法32条",
+  "lawsuit_id": "66494",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66494",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/494/066494_hanrei.pdf"
+}

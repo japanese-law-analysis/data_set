@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 8,
+    "month": 1,
+    "day": 22
+  },
+  "case_number": "平成8(し)6",
+  "case_name": "逮捕監禁、強姦致傷被告事件に対する管轄移転請求棄却決定に対する特別抗告",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第267号1頁",
+  "original_court_name": "福岡高等裁判所\n        　那覇支部",
+  "original_date": {
+    "era": "Heisei",
+    "year": 8,
+    "month": 1,
+    "day": 12
+  },
+  "gist": "管轄移転請求棄却決定に対する特別抗告において，憲法３７条違反の主張が欠前提処理された事例",
+  "ref_law": "憲法37条，刑訴法17条，刑訴法433条",
+  "lawsuit_id": "58053",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58053",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/053/058053_hanrei.pdf"
+}

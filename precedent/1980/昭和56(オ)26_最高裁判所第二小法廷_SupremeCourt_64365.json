@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 6,
+    "day": 19
+  },
+  "case_number": "昭和56(オ)26",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第133号145頁",
+  "original_court_name": "高松高等裁判所",
+  "original_case_number": "昭和51(ネ)41",
+  "original_date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 10,
+    "day": 27
+  },
+  "gist": "頭蓋骨陥没骨折の傷害を受けた患者の開頭手術を行う医師といわゆる説明義務の範囲",
+  "case_gist": "頭蓋骨陥没骨折の傷害を受けた患者に対して開頭手術を行う医師は、患者又はその法定代理人に対し、右手術の内容及びこれに伴う危険性を説明する義務を負うが、そのほかに、患者の現症状とその原因、手術による改善の程度、手術をしない場合の具体的予後内容、危険性について不確定要素がある場合にはその基礎となる症状把握の程度、その要素が発現した場合の対処の準備状況等についてまで説明する義務を負うものではない。",
+  "ref_law": "民法709条",
+  "lawsuit_id": "64365",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64365",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/365/064365_hanrei.pdf"
+}

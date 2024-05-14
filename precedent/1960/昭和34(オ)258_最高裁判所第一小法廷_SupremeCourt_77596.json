@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 5,
+    "day": 25
+  },
+  "case_number": "昭和34(オ)258",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第51号139頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 11,
+    "day": 26
+  },
+  "gist": "契約の解釈について審理不尽ありとされた事例。",
+  "case_gist": "原判決末尾添付の契約条項によりなる国有不動産払下げのための売買契約において、売買代金（第一回分納金）納入期限をすぎて代金支払いがないとき、売主たる国は無条件で契約解除できる旨の約定があつても、右契約の趣旨を原判示（原判決理由並びに後記判示参照）のように、右不動産の引渡し、使用可能の前提がそなわらない限り、特段の事情がないのにその契約を右代金不払いを理由として無条件で契約解除することはできないものと解釈する原判決は、契約の解釈について審理を尽さない違法がある。",
+  "lawsuit_id": "77596",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77596",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/596/077596_hanrei.pdf"
+}

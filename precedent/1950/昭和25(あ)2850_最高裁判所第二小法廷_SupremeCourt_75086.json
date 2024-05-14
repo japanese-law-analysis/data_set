@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 12,
+    "day": 8
+  },
+  "case_number": "昭和25(あ)2850",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第70号195頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 6,
+    "day": 22
+  },
+  "gist": "証拠調の請求に際し、検察官がその他の証拠と一括して前科調書や素行調書を提出することは、裁判所に対し被告人につき不利益な予断を抱かしめることになるか",
+  "case_gist": "検察官が冒頭陳述の後本件犯罪に関する被害届等と共に、所論前科調書及び素行調書の取調を請求したのに対し、被告人及び弁護人は証拠調に異議がなく、右書類を証拠とすることに同意した為め、順次証拠調が実施せられ、右前科調書及び素行調書は、前記被害届等の本件犯罪に関する証拠書類が取り調べられた後にその取調がなされている場合には、第一審の訴訟手続には何等刑訴二九六条、三〇一条違反のかどはない。",
+  "ref_law": "刑訴法296条，刑訴法298条，刑訴法301条，刑訴規則193条",
+  "lawsuit_id": "75086",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=75086",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/086/075086_hanrei.pdf"
+}

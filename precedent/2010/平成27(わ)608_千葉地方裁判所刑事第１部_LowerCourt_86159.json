@@ -1,0 +1,16 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 28,
+    "month": 3,
+    "day": 23
+  },
+  "case_number": "平成27(わ)608",
+  "case_name": "傷害被告事件",
+  "court_name": "千葉地方裁判所刑事第１部",
+  "gist": "私立高校の剣道部顧問であった被告人が同校の剣道部員であった被害者に対して暴行を加えて傷害を負わせたという傷害被告事件について，被害者の証言自体に信用性を揺るがす不自然，不合理な点があり，被害者の証言を裏付ける証拠も被害者の証言の信用性を担保するだけの証明力を持たないとして，被告人に無罪を言い渡した事例",
+  "lawsuit_id": "86159",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=86159",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/159/086159_hanrei.pdf"
+}

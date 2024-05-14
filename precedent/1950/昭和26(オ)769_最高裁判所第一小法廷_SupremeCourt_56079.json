@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 12,
+    "day": 3
+  },
+  "case_number": "昭和26(オ)769",
+  "case_name": "小切手金請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第7巻12号1311頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 10,
+    "day": 17
+  },
+  "gist": "民法第一一〇条の正当理由と本人の作為不作為の要否",
+  "case_gist": "民法第一一〇条にいわゆる代理権ありと信ずべき正当な理由は、必ずしも常に本人の作為または不作為に基くものであることを要しないと解するのを相当とする。",
+  "ref_law": "民法110条",
+  "lawsuit_id": "56079",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56079",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/079/056079_hanrei.pdf"
+}

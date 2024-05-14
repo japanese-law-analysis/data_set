@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 6,
+    "day": 10
+  },
+  "case_number": "昭和58(行ツ)96",
+  "case_name": "行政処分取消等",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第148号195頁",
+  "original_court_name": "高松高等裁判所",
+  "original_case_number": "昭和57(行コ)4",
+  "original_date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 5,
+    "day": 30
+  },
+  "gist": "鉱業等に係る土地利用の調整手続等に関する法律五〇条の趣旨",
+  "case_gist": "鉱業等に係る土地利用の調整手続等に関する法律五〇条は、公害等調整委員会に対して裁定を申請することができる処分については、その無効確認を含め一切の抗告訴訟の提起を禁止している趣旨と解すべきである。",
+  "ref_law": "鉱業等に係る土地利用の調整手続等に関する法律50条",
+  "lawsuit_id": "62920",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62920",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/920/062920_hanrei.pdf"
+}

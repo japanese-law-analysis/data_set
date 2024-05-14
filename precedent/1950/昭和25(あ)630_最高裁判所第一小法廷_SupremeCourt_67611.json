@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 12,
+    "day": 24
+  },
+  "case_number": "昭和25(あ)630",
+  "case_name": "外国人登録令違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第90号211頁",
+  "original_court_name": "熊本地方裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 12,
+    "day": 27
+  },
+  "gist": "刑訴規則第二五四条と跳躍上告の適否",
+  "case_gist": "本件はいわゆる跳躍上告事件であるが、検察官でない者が、地方裁判所のした第一審判決に対して控訴審を飛び越え最高裁判所に上告をするには、その第一審の判決において法律等が憲法に違反するものとした判断が不当であることを理由とするときに限り許されるものであつて、本件のごとくかかる判断を含まない第一審判決の違憲を理由として跳躍上告をすることは許されないことは、刑訴四〇六条、刑訴規則二五四条によつて明白である。",
+  "ref_law": "刑訴法406条，刑訴規則254条1項",
+  "lawsuit_id": "67611",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=67611",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/611/067611_hanrei.pdf"
+}

@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 9,
+    "day": 9
+  },
+  "case_number": "平成20(わ)651",
+  "case_name": "自動車運転過失致死傷",
+  "court_name": "神戸地方裁判所第４刑事部",
+  "gist": "量刑（耳目）",
+  "lawsuit_id": "37145",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=37145",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/145/037145_hanrei.pdf",
+  "contents": "a b c d e\nA\nA\nB\nA\nB A\nC\nB\n"
+}

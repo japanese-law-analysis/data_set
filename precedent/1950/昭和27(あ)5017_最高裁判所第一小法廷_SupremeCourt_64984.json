@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 7,
+    "day": 30
+  },
+  "case_number": "昭和27(あ)5017",
+  "case_name": "物価統制令違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第85号411頁",
+  "original_court_name": "広島高等裁判所\n        　松江支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 9,
+    "day": 1
+  },
+  "gist": "一　告示違反の違法があつても判決に影響を及ぼさない一事例\n二　物価統制令違反の判決に物品税法の税率を定めた法条の適用を示すことを要するか",
+  "case_gist": "一　仮りに、被告人の物価統制令違反の基礎となる統制額に取引高税を加算しなかつたことが違法であるとしても、被告人等の販売額が取引高税を加算した額を著しく超過したものであること判示に照し明白であるから、右の違法は判決に影響を及ぼしたことが明白であるとはいえない。\n二　物品税法二条は、本件物品の販売条件として、その統制額に加算することのできる物品税率を定めた規定であつて、本件統制額を定めた規定ではないから、判決理由の法令適用の箇所に同条の適用を示さなければならないものではない。",
+  "ref_law": "清酒粕及び味りん粕の販売価格の統制額指定の件（昭和24物価庁告示117号），物品税法2条，刑訴法411条，刑訴法335条",
+  "lawsuit_id": "64984",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64984",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/984/064984_hanrei.pdf"
+}

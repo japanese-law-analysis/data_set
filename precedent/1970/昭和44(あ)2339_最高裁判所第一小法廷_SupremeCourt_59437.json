@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 4,
+    "day": 9
+  },
+  "case_number": "昭和44(あ)2339",
+  "case_name": "道路交通法違反、業務上過失傷害",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第176号59頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 11,
+    "day": 4
+  },
+  "gist": "道路交通法七二条一項後段（報告義務を定める部分）の合憲性",
+  "case_gist": "所論の道路交通法七二条一項後段の規定が憲法三八条一項に違反するものでないことは当裁判所の判例（昭和三五年（あ）第六三六号同三七年五月二日大法廷判決、刑集一六巻五号四九五頁）の趣旨に徴して明らかである。",
+  "ref_law": "道路交通法72条1項後段，道路交通法119条1項10号，憲法38条1項",
+  "lawsuit_id": "59437",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59437",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/437/059437_hanrei.pdf"
+}

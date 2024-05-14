@@ -1,0 +1,22 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 3,
+    "day": 5
+  },
+  "case_number": "平成18(あ)2339",
+  "case_name": "殺人，銃砲刀剣類所持等取締法違反被告事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "その他",
+  "article_info": "集刑　第293号689頁",
+  "original_court_name": "最高裁判所",
+  "gist": "殺人に係る被害者特定事項を公開の法廷で明らかにしない旨の決定がされた事例\n\n被害者特定事項を公開の法廷で明らかにしない旨の決定をすることと憲法３２条，３７条１項",
+  "ref_law": "刑訴法290条の2第1項，刑訴法290条の2第3項，憲法32条，憲法37条1項",
+  "lawsuit_id": "80533",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=80533",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/533/080533_hanrei.pdf",
+  "contents": ""
+}

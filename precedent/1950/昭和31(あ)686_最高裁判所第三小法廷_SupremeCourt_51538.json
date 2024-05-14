@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 12,
+    "day": 24
+  },
+  "case_number": "昭和31(あ)686",
+  "case_name": "不法監禁等",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第11巻14号3349頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 1,
+    "day": 31
+  },
+  "gist": "労働組合法第一条第一項の目的達成のための正当行為と認められない事例",
+  "case_gist": "鉱山会社の企業整備に伴う人員解雇の撤回要求貫徹のため、同会社の労働組合執行委員たる被告人が、執務中の同会社鉱務課長を強いて会社事務所外の組合本部前広場まで連行した上爾後約三時間四〇分の長きに亘り、組合員数百名と円陣を作つて取り囲み、その脱出を不能ならしめた上マイクを突きつけて解雇反対に協力方を執拗に迫り或は組合員大衆のデモ隊の先頭に立たせて数百米の間を強いて駈足行進させる等、もつて同課長を多衆の包囲と威圧下において、その自由を拘束し、業務を妨害したという事実関係の下においては、被告人の所為が労働組合法第一条第一項の目的を達成するためにした正当な行為であると認めることができない。",
+  "ref_law": "憲法28条，労働組合法1条，刑法220条，刑法234条",
+  "lawsuit_id": "51538",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51538",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/538/051538_hanrei.pdf"
+}

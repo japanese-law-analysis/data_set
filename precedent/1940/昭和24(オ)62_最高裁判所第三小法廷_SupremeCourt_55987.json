@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 8,
+    "day": 2
+  },
+  "case_number": "昭和24(オ)62",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第3巻9号305頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 1,
+    "day": 24
+  },
+  "gist": "調停の申立と訴訟手続中止の要否",
+  "case_gist": "金銭債務臨時調停法又は戦時民事特別法による調停の申立があつた場合において、その事件につき係属中の訴訟の手続を中止するかどうかは受訴裁判所の自由裁量に属する。",
+  "ref_law": "金銭債務臨時調停法1条，金銭債務臨時調停法6条1項，戦時民事特別法14条，戦時民事特別法18条",
+  "lawsuit_id": "55987",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55987",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/987/055987_hanrei.pdf"
+}

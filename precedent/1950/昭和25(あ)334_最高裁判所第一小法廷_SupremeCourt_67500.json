@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 12,
+    "day": 17
+  },
+  "case_number": "昭和25(あ)334",
+  "case_name": "臨時物資需給調整法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第89号489頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 12,
+    "day": 15
+  },
+  "gist": "第一審における証人喚問手続に関する違法があつても判決に影響を及ぼさない事例",
+  "case_gist": "第一審の裁判官が職権を以て所論証人を喚問する旨の決定をするについて検察官及び被告人又は弁護人の意見を聴かなかつたことは所論のとおりであるが、検察官及び被告人又は弁護人はこれに対し何等異議の申立をした形跡はなく、却つて、右証人尋問の際、検察官及び弁護人は自ら進んで右証人の尋問をもしていることが認められるのであるから、前記違反は、該証言を証拠とすることに影響を及ぼさないことが明白である。",
+  "ref_law": "刑訴法298条2項，刑訴法299条2項，刑訴法379条，刑訴規則190条2項後段",
+  "lawsuit_id": "67500",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=67500",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/500/067500_hanrei.pdf"
+}

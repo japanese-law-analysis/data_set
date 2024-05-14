@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 11,
+    "day": 20
+  },
+  "case_number": "昭和27(あ)2879",
+  "case_name": "業務上横領、窃盗",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第69号609頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 3,
+    "day": 26
+  },
+  "gist": "弁護権の不法制限とならない一事例。",
+  "case_gist": "必要弁護事件につき私選弁護人が控訴趣意書を提出しないで控訴趣意書最終提出日後に辞任した場合、被告人が控訴趣意書を提出しておれば公判期日に国選弁護人を選任することで足りる。",
+  "ref_law": "憲法37条3項",
+  "lawsuit_id": "72440",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=72440",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/440/072440_hanrei.pdf"
+}

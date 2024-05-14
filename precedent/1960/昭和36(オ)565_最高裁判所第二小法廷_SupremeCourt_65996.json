@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 5,
+    "day": 10
+  },
+  "case_number": "昭和36(オ)565",
+  "case_name": "求償債権等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第66号17頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 2,
+    "day": 14
+  },
+  "gist": "弁論再開申請の不採用は証拠提出の不当制限になるか。",
+  "case_gist": "弁論の再開を命ずると否とは裁判所の専権事項であつて、裁判所が当事者の弁論再開の申請を採用しなかつたため、新な証拠の提出ができなかつたとしても、証拠提出を不当に制限したことにはならない。",
+  "ref_law": "民訴法133条，民訴法137条",
+  "lawsuit_id": "65996",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=65996",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/996/065996_hanrei.pdf"
+}

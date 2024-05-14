@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 4,
+    "day": 24
+  },
+  "case_number": "昭和35(あ)377",
+  "case_name": "加重収賄、単純収賄、受託収賄、詐欺",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第141号907頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 12,
+    "day": 17
+  },
+  "gist": "税務署所得税第一係係員の職務権限と収賄罪",
+  "case_gist": "大蔵事務官として新潟税務署所得税第一係に勤務していた職員は、調査班に所属すると総括班に所属するとにかかわりなく、また係主管者から分担を命ぜられた担当区域および業種にかかわりなく、同第一係の分掌事務全般にわたつてこれに従事する法令上の職務権限を有する旨判示した原判決は、正当である。",
+  "ref_law": "刑法197条，刑法197条ノ3",
+  "lawsuit_id": "61259",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61259",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/259/061259_hanrei.pdf"
+}

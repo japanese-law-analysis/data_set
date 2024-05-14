@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 4,
+    "day": 20
+  },
+  "case_number": "昭和34(オ)775",
+  "case_name": "離婚無効確認請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第60号315頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 5,
+    "day": 7
+  },
+  "gist": "一　上告判決の当事者たる検察官の表示\n二　人事訴訟事件の上告審判決における当事者たる検察官の表示方法",
+  "case_gist": "一　検察官が当事者となる離婚無効事件の上告審判決において、当事者としての検察官の表示を検事総長何某としている判決例。\n二　検察官が当事者となる離婚無効事件の上告審判決においては、当事者としての検察官の表示を検事総長何某とすべきである。",
+  "ref_law": "民訴法191条1項，人事訴訟手続法2条",
+  "lawsuit_id": "77607",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77607",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/607/077607_hanrei.pdf"
+}

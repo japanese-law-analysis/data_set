@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 9,
+    "day": 27
+  },
+  "case_number": "昭和29(あ)287",
+  "case_name": "公務執行妨害",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第14巻11号1515頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 11,
+    "day": 17
+  },
+  "gist": "昭和二五年京都市条例第六二号、集会、集団行進及び集団示威運動に関する条例の合憲性。",
+  "case_gist": "昭和二五年京都市条例第六二号、集会、集団行進及び集団示威運動に関する条例は憲法第二一条に違反しない。",
+  "ref_law": "昭和25年京都市条例62号集会、集団行進及び集団示威運動に関する条例，憲法21条",
+  "lawsuit_id": "55758",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55758",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/758/055758_hanrei.pdf"
+}

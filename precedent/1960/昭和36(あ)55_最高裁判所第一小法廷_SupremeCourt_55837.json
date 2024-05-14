@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 12,
+    "day": 27
+  },
+  "case_number": "昭和36(あ)55",
+  "case_name": "関税法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第15巻12号2098頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 10,
+    "day": 22
+  },
+  "gist": "関税法第二条第一号にいう「輸入」にあたる事例。",
+  "case_gist": "いわゆるすり替輸出の方法により甲物品に代えて乙物品を船積輸出する目的であるため、甲物品については当初からこれを真実船積輸出する意思がない場合でも、甲物品を保税上屋に搬入し税関から輸出の許可を得た以上、これを船積しないで保税上屋から引き取ることは、関税法第二条第一号にいう「輸入」にあたる。",
+  "ref_law": "関税法2条1号，関税法111条",
+  "lawsuit_id": "55837",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55837",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/837/055837_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 63,
+    "month": 12,
+    "day": 20
+  },
+  "case_number": "昭和60(オ)269",
+  "case_name": "損害賠償請求事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第155号477頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和59(ネ)713",
+  "original_date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 11,
+    "day": 29
+  },
+  "gist": "税務調査のため臨場した国税調査官が納税者の店舗兼作業場の内部に立ち入つた行為が所得税法二三四条一項に基づく質問検査権の範囲内の正当な行為とはいえないとされた事例",
+  "case_gist": "原判示の事実関係（原判文参照）のもとにおいては、税務調査のため納税者の店舗兼作業場に臨場した国税調査官が、納税者の不在を確認する目的で、同人の意思に反して内扉の止め金を外して内部まで立ち入つた行為は、所得税法二三四条一項に基づく質問検査権の範囲内の正当な行為とはいえない。",
+  "ref_law": "所得税法234条1項，国家賠償法1条1項",
+  "lawsuit_id": "62339",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62339",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/339/062339_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 10,
+    "day": 12
+  },
+  "case_number": "昭和26(れ)1792",
+  "case_name": "窃盗、賍物故買、同運搬",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "刑集　第5巻11号2224頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 6,
+    "day": 21
+  },
+  "gist": "被告人に対する公判期日の召喚状を公示送達したことが違法と認められる一事例",
+  "case_gist": "被告人が第一審裁判所における保釈の制限住居に居住し、その後転宅又は長期間家を不在にしたことはなく、右制限住居に宛てた他の郵便物も被告人に到達しているのに、原審が同人に対するこの制限住居宛の公判期日の召喚状が郵便局集配人により「宛先番地を尋ねたるも不明、転居先不明」の事由により返戻されたことの一事をもつて、他に何等の調査をつくさず直ちに住居が不明な場合として同人に対する召喚状を公示送達したことは違法である。",
+  "ref_law": "旧刑訴法78条，旧刑訴法410条8号",
+  "lawsuit_id": "54654",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54654",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/654/054654_hanrei.pdf"
+}

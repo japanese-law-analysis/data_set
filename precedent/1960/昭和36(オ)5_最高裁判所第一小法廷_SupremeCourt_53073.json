@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 2,
+    "day": 1
+  },
+  "case_number": "昭和36(オ)5",
+  "case_name": "着手金並びに報酬金請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第16巻2号157頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 10,
+    "day": 5
+  },
+  "gist": "一　弁護士報酬額算定の基準\n二　着手金、成功報酬金の額が相当と認められた事例",
+  "case_gist": "一　弁護士の訴訟委任事務処理に対する報酬の額につき依頼者との間に別段の定めがなかつた場合には、事件の難易、訴額および労力の程度ばかりでなく、依頼者との平生からの関係、所属弁護士会の報酬規則等その他諸般の状況をも審査し、当事者の意思を推定し、以て相当報酬額を算定すべきである。\n二　原判決認定の事実関係（原判決理由参照）のもとにおいて、弁護士が、訴訟事務処理に関するいわゆる着手金として訴額の五分にあたる金三二万二九八八円、いわゆる成功報酬金として和解による利益金の五分にあたる金三〇万四〇〇〇円を請求することは、不相当とはいえない。",
+  "ref_law": "民法648条，民法649条，弁護士法33条2項8号",
+  "lawsuit_id": "53073",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53073",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/073/053073_hanrei.pdf"
+}

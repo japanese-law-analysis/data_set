@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 3,
+    "day": 16
+  },
+  "case_number": "昭和55(あ)487",
+  "case_name": "住居侵入、軽犯罪法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "刑集　第36巻3号260頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 9,
+    "day": 25
+  },
+  "gist": "住居侵入罪と軽犯罪法一条二三号の罪との罪数関係\n\n住居侵入罪と軽犯罪法一条二三号の罪との罪数関係（反対意見がある）",
+  "case_gist": "他人の住居の庭先に侵入してその住居内をひそかにのぞき見た場合における住居侵入罪と軽犯罪法一条二三号の罪とは、牽連犯の関係にある。",
+  "ref_law": "刑法45条，刑法54条1項，刑法130条，軽犯罪法1条23号",
+  "lawsuit_id": "50225",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50225",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/225/050225_hanrei.pdf"
+}

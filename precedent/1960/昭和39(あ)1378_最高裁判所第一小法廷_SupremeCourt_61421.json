@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 9,
+    "day": 16
+  },
+  "case_number": "昭和39(あ)1378",
+  "case_name": "公務執行妨害",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第156号437頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 5,
+    "day": 21
+  },
+  "gist": "刑訴法第二二〇第一項による捜索等が適法に行なわれたものと認められた事例。",
+  "case_gist": "原判決の認定した事実によると、警察官らは、所論小料理店「Ａ」の二階に立入る直前に、その一階において、「Ａ」に寝泊まりしていた被疑者Ｂに逮捕状を示して、これを適法に逮捕していたというのであるから、「Ａ」の二階に立入り、差押、捜索または検証をすることが適法にできたものといわなければならない〔刑訴法第二二〇条第一項〕。",
+  "ref_law": "刑訴法220条1項",
+  "lawsuit_id": "61421",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61421",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/421/061421_hanrei.pdf"
+}

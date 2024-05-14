@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 5,
+    "day": 26
+  },
+  "case_number": "昭和36(あ)159",
+  "case_name": "狩猟法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第15巻5号904頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 11,
+    "day": 24
+  },
+  "gist": "カモシカの原皮は昭和三三年法律第五一号による改正前の狩猟法第二〇条にいわゆる鳥獣に含まれるか。",
+  "case_gist": "カモシカの原皮（動物を解体しその毛皮を剥ぎ取つて陰干にし或いは塩漬にしたもの）は、昭和三三年法律第五一号による改正前の狩猟法第二〇条にいわゆる鳥獣に含まれる。",
+  "ref_law": "狩猟法（昭和33年法律51号による改正前のもの）20条，狩猟法（昭和33年法律51号による改正後のもの）20条",
+  "lawsuit_id": "50659",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50659",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/659/050659_hanrei.pdf"
+}

@@ -1,0 +1,17 @@
+{
+  "trial_type": "LaborCase",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 10,
+    "day": 19
+  },
+  "case_number": "平成19(行コ)9",
+  "case_name": "休業補償不支給処分取消請求控訴事件（通称　札幌東労基署長休業補償不支給処分取消）",
+  "court_name": "札幌高等裁判所",
+  "field": "労働",
+  "lawsuit_id": "80394",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail6?id=80394",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/394/080394_hanrei.pdf",
+  "contents": ""
+}

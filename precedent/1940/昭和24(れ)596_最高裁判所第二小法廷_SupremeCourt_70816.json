@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 9,
+    "day": 17
+  },
+  "case_number": "昭和24(れ)596",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第13号467頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 10,
+    "day": 12
+  },
+  "gist": "辯護人を要しない事件において被告人が辯護を抛棄し辯護人が適法な召喚を受けながら理由なく公判期日を懈怠した場合と辯護權の不法制限の存否",
+  "case_gist": "記録を調べてみると辯護人は適法に召喚せられていたにもかかわらず、辯護人は被告人が宇都宮刑務所に勾留中であるから出頭できないという理由の下に公判期日延期の申請をして出頭しなかつたことがわかる。然るに被告人は宇都宮刑務所から護送されて公判期日に出頭しそして公判廷で辯護人の辯論を抛棄する旨陳述をしているのである。即ち強制辯護の事件でない本件において被告人自ら辯護人の辯護を抛棄したことと他方辯護人は適法な召喚を受けながら正常の理由もなく右公判期日に出頭しなかつたことが明らかである。してみれば何れの點よりするも原審が所論のように辯護權を不當に制限したということができない。",
+  "ref_law": "舊刑訴法410條11號",
+  "lawsuit_id": "70816",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70816",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/816/070816_hanrei.pdf"
+}

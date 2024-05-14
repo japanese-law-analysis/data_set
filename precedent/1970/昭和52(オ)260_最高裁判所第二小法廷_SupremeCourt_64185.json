@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 10,
+    "day": 24
+  },
+  "case_number": "昭和52(オ)260",
+  "case_name": "建物収去土地明渡",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第122号63頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和46(ネ)116",
+  "original_date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 12,
+    "day": 13
+  },
+  "gist": "土地の賃借権の時効取得を否定された事例",
+  "case_gist": "原判示の事実関係のもとでは、土地の用益について賃借意思が客観的に表現されたものとはいえず、右土地につき賃借権の時効取得は成立しない。",
+  "ref_law": "民法162条，民法601条",
+  "lawsuit_id": "64185",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64185",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/185/064185_hanrei.pdf"
+}

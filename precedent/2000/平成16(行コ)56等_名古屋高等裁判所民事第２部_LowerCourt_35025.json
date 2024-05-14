@@ -1,0 +1,20 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 5,
+    "day": 30
+  },
+  "case_number": "平成16(行コ)56等",
+  "case_name": "損害賠償等住民訴訟控訴・同附帯控訴事件",
+  "court_name": "名古屋高等裁判所民事第２部",
+  "original_court_name": "津地方裁判所",
+  "original_case_number": "平成11(行ウ)9",
+  "original_result": "その他",
+  "gist": "市の斎場建設用地取得を可決した市議会の議決が不存在または無効であるとはいえないが，当時市長であった控訴人には，裁量権を逸脱濫用して適正価格を著しく超える代金額の売買契約を締結した違法があったとして，予備的請求の一部を認容して，支払済みの代金のうち適正価格を超える額につき市への賠償を命じた事例（住民訴訟）。",
+  "lawsuit_id": "35025",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=35025",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/025/035025_hanrei.pdf",
+  "contents": ""
+}

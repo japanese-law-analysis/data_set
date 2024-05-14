@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 11,
+    "day": 28
+  },
+  "case_number": "昭和48(オ)896",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第29巻10号1754頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和46(ネ)1772",
+  "original_date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 5,
+    "day": 30
+  },
+  "gist": "地方公共団体の執行する国立公園事業の施設に対し補助金を交付した国が国家賠償法三条一項にいう公の営造物の設置費用の負担者にあたるとされた事例",
+  "case_gist": "国が、地方公共団体に対し、国立公園に関する公園事業の一部の執行として周回路の設置を承認し、その際右設置費用の半額相当の補助金を交付し、また、その後の改修にも補助金を交付して、右周回路に関する設置費用の二分の一近くを負担しているときには、国は、右周回路については、国家賠償法三条一項所定の公の営造物の設置費用の負担者にあたる。",
+  "ref_law": "国家賠償法3条1項，自然公園法14条2項，自然公園法25条，自然公園法26条，地方財政法16条",
+  "lawsuit_id": "54207",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54207",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/207/054207_hanrei.pdf"
+}

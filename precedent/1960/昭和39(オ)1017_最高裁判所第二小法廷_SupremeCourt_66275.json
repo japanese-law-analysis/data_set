@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 2,
+    "day": 17
+  },
+  "case_number": "昭和39(オ)1017",
+  "case_name": "建物収去土地明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集民　第86号287頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和37(ネ)777",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 5,
+    "day": 12
+  },
+  "gist": "特定物の給付を目的とする債務についての保証人に対し当該物件の給付義務の履行を求めることができるか",
+  "case_gist": "保証人が特定物の給付を目的とする債務を保証した場合に、その後保証人が当該物件の給付義務の履行をすることができる地位を取得したときは、債権者は保証人に対し右物件の給付義務の履行を求めることができる。",
+  "ref_law": "民法446条",
+  "lawsuit_id": "66275",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66275",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/275/066275_hanrei.pdf"
+}

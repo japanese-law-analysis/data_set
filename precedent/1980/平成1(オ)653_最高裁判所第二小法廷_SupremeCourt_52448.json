@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 10,
+    "day": 13
+  },
+  "case_number": "平成1(オ)653",
+  "case_name": "土地抵当権設定登記抹消登記手続",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第43巻9号985頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和63(ネ)2431",
+  "original_date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 1,
+    "day": 30
+  },
+  "gist": "不動産強制競売手続において抵当権者がする債権の届出と時効の中断",
+  "case_gist": "不動産強制競売手続において催告を受けた抵当権者がする債権の届出は、その届出に係る債権に関する裁判上の請求、破産手続参加又はこれらに準ずる時効中断事由に該当しない。",
+  "ref_law": "民法147条，民法149条，民法152条，民事執行法50条",
+  "lawsuit_id": "52448",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52448",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/448/052448_hanrei.pdf"
+}

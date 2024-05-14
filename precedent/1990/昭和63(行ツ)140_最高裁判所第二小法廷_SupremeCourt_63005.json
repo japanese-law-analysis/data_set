@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 3,
+    "month": 2,
+    "day": 22
+  },
+  "case_number": "昭和63(行ツ)140",
+  "case_name": "不当労働行為救済命令取消",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第162号123頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和62(行コ)72",
+  "original_date": {
+    "era": "Showa",
+    "year": 63,
+    "month": 6,
+    "day": 23
+  },
+  "gist": "ポストノーティス命令が憲法一九条に違反するものとはいえないとされた事例",
+  "case_gist": "使用者に対し、陳謝文という題の下に、使用者が労働組合の組合員に対し仕事上の差別取扱いをしたことが労働委員会により不当労働行為であると認定された旨及び使用者が労働組合とその組合員に対し右不当労働行為を行つたことについて深く陳謝すると共に今後このような行為を繰り返さないことを約する旨の文言を墨書した白色木板を掲示するよう命じたポストノーティス命令は、使用者に対し陳謝の意思表明を強制するものではなく、憲法一九条に違反するものとはいえない。",
+  "ref_law": "憲法19条，労働組合法27条4項",
+  "lawsuit_id": "63005",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63005",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/005/063005_hanrei.pdf"
+}

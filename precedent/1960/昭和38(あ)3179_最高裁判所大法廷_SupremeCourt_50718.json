@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 7,
+    "day": 14
+  },
+  "case_number": "昭和38(あ)3179",
+  "case_name": "薬事法違反",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第19巻5号554頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 11,
+    "day": 11
+  },
+  "gist": "医薬品の販売業につき登録制を定めた旧薬事法（昭和三五年法律第一四五号による改正前の同二三年法律第一九七号）第二九条第一項の合憲性。",
+  "case_gist": "医薬品の販売業につき登録制を定めた旧薬事法（昭和三五年法律第一四五号による改正前の同二三年法律第一九七号）第二九条第一項は、憲法第二二条第一項、第二五条に違反しない。",
+  "ref_law": "旧薬事法（昭和23年法律197号）29条1項，旧薬事法（昭和23年法律197号）52条，旧薬事法（昭和23年法律197号）56条，憲法22条1項，憲法25条",
+  "lawsuit_id": "50718",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50718",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/718/050718_hanrei.pdf"
+}

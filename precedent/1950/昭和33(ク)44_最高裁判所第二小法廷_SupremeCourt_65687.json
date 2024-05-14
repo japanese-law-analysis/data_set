@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 3,
+    "day": 12
+  },
+  "case_number": "昭和33(ク)44",
+  "case_name": "禁治産宣告取消申立却下決定に対する抗告却下の決定に対する抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "却下",
+  "article_info": "集民　第30号879頁",
+  "original_court_name": "福岡高等裁判所\n        　宮崎支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 1,
+    "day": 30
+  },
+  "lawsuit_id": "65687",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=65687",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/687/065687_hanrei.pdf"
+}

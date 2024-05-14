@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 4,
+    "day": 26
+  },
+  "case_number": "昭和42(オ)1134",
+  "case_name": "建物収去土地明渡",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第90号1127頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和41(ネ)1409",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 6,
+    "day": 28
+  },
+  "gist": "訴の変更と旧訴に対する判断",
+  "case_gist": "第一審において訴の変更による新訴の提起がされた場合において、新訴のみにつき判決がされたときは、旧訴は取り下げられたか、請求の放棄がされたか、またはなお第一審に係属するかのいずれかであり、旧訴につき第二審が判断を加えないのは相当である。",
+  "ref_law": "民訴法232条，民訴法236条，民訴法203条",
+  "lawsuit_id": "66603",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66603",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/603/066603_hanrei.pdf"
+}

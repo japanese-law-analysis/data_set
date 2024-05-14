@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 5,
+    "day": 23
+  },
+  "case_number": "昭和49(あ)2203",
+  "case_name": "道路交通法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集刑　第196号453頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 9,
+    "day": 10
+  },
+  "gist": "道路交通法六四条、一一八条一項一号の無免許運転の所為とその運転中に行われた同法二二条一項、一一八条一項二号、同法施行令一一条一号の速度違反の所為の罪数",
+  "case_gist": "道路交通法六四条、一一八条一項一号の無免許運転の所為とその運転中に行われた同法二二条一項、一一八条一項二号、同法施行令一一条一号の速度違反の所為とは併合罪の関係にある。",
+  "ref_law": "道路交通法22条1項，道路交通法64条，道路交通法118条1項1号，道路交通法118条1項2号，刑法45条",
+  "lawsuit_id": "60018",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60018",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/018/060018_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 7,
+    "day": 25
+  },
+  "case_number": "昭和42(オ)209",
+  "case_name": "請負代金請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第96号407頁",
+  "original_court_name": "広島高等裁判所",
+  "original_case_number": "昭和39(ネ)104",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 11,
+    "day": 30
+  },
+  "gist": "民法一一二条の表見代理が成立するためには相手方がかつて当該代理人と取引をしたことがあることを要するか",
+  "case_gist": "民法一一二条の表見代理が成立するためには、相手方が、代理権の消滅する前に代理人と取引をしたことがあることを要するものではなく、かような事実は、同条所定の相手方の善意無過失に関する認定のための一資料となるにとどまるものと解すべきである。",
+  "ref_law": "民法112条",
+  "lawsuit_id": "66620",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66620",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/620/066620_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 6,
+    "day": 27
+  },
+  "case_number": "昭和30(オ)810",
+  "case_name": "借地権確認請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第11巻6号1165頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 8,
+    "day": 10
+  },
+  "gist": "戦時罹災土地物件令附則第三項にいう「空襲其ノ他戦争ニ起因スル災害ニ因リ滅失シタル建物ノ敷地」の意義",
+  "case_gist": "戦時罹災土地物件令附則第三項にいう「空襲其ノ他戦争ニ起因スル災害ニ因リ滅失シタル建物ノ敷地」には、疎開建物の敷地の如きを、包含しないものと解すべきである。",
+  "ref_law": "戦時罹災土地物件令2条，戦時罹災土地物件令附則3項",
+  "lawsuit_id": "57625",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57625",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/625/057625_hanrei.pdf"
+}

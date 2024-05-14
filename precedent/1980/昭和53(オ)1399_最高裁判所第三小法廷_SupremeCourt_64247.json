@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 7,
+    "day": 15
+  },
+  "case_number": "昭和53(オ)1399",
+  "case_name": "約束手形金",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第130号227頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和53(ネ)749",
+  "original_date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 9,
+    "day": 29
+  },
+  "gist": "自己の名称を使用して営業を営むことを許諾した場合において、被許諾者が右名称を使用して営業を営むことがなくても、商法二三条の類推適用があるとされた事例",
+  "case_gist": "（省略）",
+  "ref_law": "商法23条",
+  "lawsuit_id": "64247",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64247",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/247/064247_hanrei.pdf"
+}

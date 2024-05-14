@@ -1,0 +1,17 @@
+{
+  "trial_type": "IPCase",
+  "date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 12,
+    "day": 14
+  },
+  "case_number": "昭和41(行ツ)1",
+  "case_name": "審決取消請求",
+  "court_name": "最高裁判所第一小法廷",
+  "right_type": "特許権",
+  "lawsuit_type": "行政訴訟",
+  "lawsuit_id": "52628",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail7?id=52628",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/628/052628_hanrei.pdf"
+}

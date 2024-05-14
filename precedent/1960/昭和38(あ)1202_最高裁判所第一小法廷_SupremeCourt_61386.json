@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 12,
+    "day": 12
+  },
+  "case_number": "昭和38(あ)1202",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第149号291頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 3,
+    "day": 6
+  },
+  "gist": "刑訴法第二二七条による証人尋問請求において、刑訴規則第一六〇条第一項第七号の違反は証人尋問請求手続ないし証人尋問調書の効力を失わしめるか。",
+  "case_gist": "弁護人は刑訴規則第一六〇条第一項第七号は法律要件であるからこれを欠く証人申請書はその手続が違法だから却下さるべきであり、違法なる申請によつて開始された証人尋問もまた違法だからその調書は証拠能力を欠くと主張するが、刑訴法第二二八条第二項の弁護人の立会が裁判官の裁量によるものであり、また記録によれば所論証人尋問調書の証拠調請求に際し異議申立のなかつたことが明らかであるから、右の違法が直ちに右証人尋問請求手続、ひいてこれに基づく証人尋問手続および証人尋問調書の無効を来たすものではない。",
+  "ref_law": "刑訴法227条，刑訴法228条2項，刑訴規則160条1項7号，刑訴規則162条",
+  "lawsuit_id": "61386",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61386",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/386/061386_hanrei.pdf"
+}

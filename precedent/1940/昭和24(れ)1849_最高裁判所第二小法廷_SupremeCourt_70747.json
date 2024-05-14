@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 12,
+    "day": 10
+  },
+  "case_number": "昭和24(れ)1849",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第15号269頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 5,
+    "day": 7
+  },
+  "gist": "窃盜罪における被害物件の所有者を判示する事の要否",
+  "case_gist": "原判決によると被告人はＡ等と共謀の上進行中の貨物列車内から玄米や、砂糖を窃取したというのであるからそれらの物品が被告人以外の者の所有保管に屬するものであることは明瞭であり罪となるべき事實の判示としては右で充分であつて所有者又は保管者が何人であるかを特定することは必ずしも必要としないのである。それゆえ原判決には所論の如き理由不備の違法があるとはいえない。",
+  "ref_law": "刑法235條，刑訴法360條1項，刑訴法410條19號",
+  "lawsuit_id": "70747",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70747",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/747/070747_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 3,
+    "day": 5
+  },
+  "case_number": "昭和37(オ)249",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第19巻2号213頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 12,
+    "day": 19
+  },
+  "gist": "技術士法第三九条および同法附則第三項の合憲性。",
+  "case_gist": "技術士法第三九条および同法附則第三項は、憲法第二二条第一項に違反しない。",
+  "ref_law": "技術士法39条，技術士法附則3項，憲法22条",
+  "lawsuit_id": "53097",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53097",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/097/053097_hanrei.pdf"
+}

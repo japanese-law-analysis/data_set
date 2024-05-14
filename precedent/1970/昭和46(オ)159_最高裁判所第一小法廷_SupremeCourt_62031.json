@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 9,
+    "day": 23
+  },
+  "case_number": "昭和46(オ)159",
+  "case_name": "譲受債権請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第103号541頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和45(ネ)2237",
+  "original_date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 12,
+    "day": 8
+  },
+  "gist": "民訴法二三一条が禁止する二重起訴にあたるとされた事例",
+  "case_gist": "（省略）",
+  "ref_law": "民訴法231条",
+  "lawsuit_id": "62031",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62031",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/031/062031_hanrei.pdf"
+}

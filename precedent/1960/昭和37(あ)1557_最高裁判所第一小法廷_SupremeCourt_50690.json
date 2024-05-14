@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 12,
+    "day": 12
+  },
+  "case_number": "昭和37(あ)1557",
+  "case_name": "所得税法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "刑集　第17巻12号2460頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 6,
+    "day": 4
+  },
+  "gist": "所得税法第六九条第一項前段の罪の判示方法。",
+  "case_gist": "所得税法第六九条第一項前段の犯罪事実については、逋脱の犯意や逋脱行為にとどまらず、その行為による免脱した所得税額をも認定判示することを要する。",
+  "ref_law": "所得税法69条1項",
+  "lawsuit_id": "50690",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50690",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/690/050690_hanrei.pdf"
+}

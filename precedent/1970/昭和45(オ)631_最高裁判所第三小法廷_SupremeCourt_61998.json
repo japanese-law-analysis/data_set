@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 3,
+    "day": 7
+  },
+  "case_number": "昭和45(オ)631",
+  "case_name": "建物収去、土地明渡請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第105号251頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和44(ネ)494",
+  "original_date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 3,
+    "day": 18
+  },
+  "gist": "土地の賃貸人がその賃貸借契約の合意解約をもつて地上建物の抵当権実行による競落人に対抗することができるとされた事例",
+  "case_gist": "土地の賃貸人と賃借人との間において土地賃貸借契約が合意解約されたが、一方、土地の賃借人が同地上に所有する建物に設定した根抵当権が実行され、右建物が競落された場合において、右合意解約の原因がもつぱら賃借人の賃料不払にあり、また、右競落は、合意解約により右土地の賃借権が消滅したのちであつて、競落人は右賃借権消滅の事実を知悉しながら競落取得したものである等判示の事実関係があるときは、土地の賃貸人は、右合意解約をもつて競落人に対抗することができる。",
+  "ref_law": "民法545条1項，民法601条",
+  "lawsuit_id": "61998",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61998",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/998/061998_hanrei.pdf"
+}

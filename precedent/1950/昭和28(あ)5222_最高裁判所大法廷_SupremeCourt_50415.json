@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 4,
+    "day": 3
+  },
+  "case_number": "昭和28(あ)5222",
+  "case_name": "金属屑業条例違反",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第11巻4号1319頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 9,
+    "day": 9
+  },
+  "gist": "一　昭和二六年八月広島県条例第三九号「金属屑業条例」第一〇条、第二〇条、第二三条の合憲性\n二　右条例第一〇条は地方自治法第二条、第一四条に違反するか",
+  "case_gist": "一　昭和二六年八月広島県条例第三九号「金属屑業条例」第一〇条、第二〇条、第二三条は職業選択の自由について規定した憲法第二二条第一項に違反しない。\n二　右条例第一〇条は民法第四条第五条と牴触せず、従つて地方自治法第二条、第一四条に違反しない。",
+  "ref_law": "昭和26年8月広島県条例39号「金属屑業条例」10条，昭和26年8月広島県条例39号「金属屑業条例」20条，昭和26年8月広島県条例39号「金属屑業条例」23条，憲法22条1項，民法4条，民法5条，地方自治法2条，地方自治法14条",
+  "lawsuit_id": "50415",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50415",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/415/050415_hanrei.pdf"
+}

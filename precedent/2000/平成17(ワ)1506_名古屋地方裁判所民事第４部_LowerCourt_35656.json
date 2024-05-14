@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 9,
+    "day": 27
+  },
+  "case_number": "平成17(ワ)1506",
+  "case_name": "損害賠償請求（医療事件）",
+  "court_name": "名古屋地方裁判所民事第４部",
+  "gist": "急性喉頭蓋炎に罹患し，頸部に著しい腫脹があった患者について，気管切開の経験が豊富な被告病院担当医師が，緊急時に備えて輪状甲状靱帯穿刺キットを用意しつつ，確実に気道確保ができる気管切開を選択したことが不合理な判断であったとはいえず，また，患者が窒息後そのまま気管切開を続行したことも，頸部の腫脹により輪状甲状靱帯の位置の特定が容易ではなかったという事実関係の下では不合理なものであるとはいえないとして，原告らの請求がいずれも棄却された事例",
+  "lawsuit_id": "35656",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=35656",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/656/035656_hanrei.pdf",
+  "contents": "1 1\n2 2\n3 3\n4 4\n3 1\n3 2\n5 3\n1 3\n"
+}

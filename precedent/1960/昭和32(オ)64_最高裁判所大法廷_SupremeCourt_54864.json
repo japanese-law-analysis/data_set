@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 12,
+    "day": 21
+  },
+  "case_number": "昭和32(オ)64",
+  "case_name": "農地交換分合計画取消請求",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第14巻14号3157頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 9,
+    "day": 26
+  },
+  "gist": "土地改良法による農地所有権の交換分合の憲法第二九条第三項適否。",
+  "case_gist": "土地改良法による農地所有権の交換分合は憲法第二九条第三項に違反しない。",
+  "ref_law": "土地改良法第3章，憲法29条3項",
+  "lawsuit_id": "54864",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54864",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/864/054864_hanrei.pdf"
+}

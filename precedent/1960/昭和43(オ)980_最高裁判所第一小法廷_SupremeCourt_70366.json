@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 2,
+    "day": 27
+  },
+  "case_number": "昭和43(オ)980",
+  "case_name": "建物収去土地明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第94号463頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和36(ネ)2385",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 5,
+    "day": 31
+  },
+  "gist": "建物保護ニ関スル法律一条の建物の登記の主張立証責任",
+  "case_gist": "建物保護ニ関スル法律一条の建物の登記の主張立証責任は、建物の敷地についての地上権または賃借権を第三者に対抗しようとする当該敷地の地上権者または賃借人にある。",
+  "ref_law": "建物保護ニ関スル法律1条，民訴法2編3章1節",
+  "lawsuit_id": "70366",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70366",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/366/070366_hanrei.pdf"
+}

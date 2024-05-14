@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 11,
+    "day": 25
+  },
+  "case_number": "昭和29(あ)2096",
+  "case_name": "窃盗、公務執行妨害・傷害",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第100号593頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 5,
+    "day": 12
+  },
+  "lawsuit_id": "75597",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=75597",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/597/075597_hanrei.pdf"
+}

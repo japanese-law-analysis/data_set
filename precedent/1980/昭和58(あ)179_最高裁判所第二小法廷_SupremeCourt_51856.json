@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 11,
+    "day": 30
+  },
+  "case_number": "昭和58(あ)179",
+  "case_name": "児童福祉法違反、労働基準法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第38巻11号2989頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 12,
+    "day": 9
+  },
+  "gist": "児童福祉法三四条一項九号にいう「児童の心身に有害な影響を与える行為をさせる」ことにあたる場合",
+  "case_gist": "満一八歳に満たない児童を、裸体の女性の下腹部を露骨に強調して撮影した写真集（いわゆるビニール本）の販売店で店員としてその販売に従事させることは、児童福祉法三四条一項九号にいう「児童の心身に有害な影響を与える行為をさせる」ことに該当し、この場合、必ずしも右写真集が刑法上のわいせつ物であることを要しない。",
+  "ref_law": "児童福祉法34条1項9号",
+  "lawsuit_id": "51856",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51856",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/856/051856_hanrei.pdf"
+}

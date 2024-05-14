@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 3,
+    "day": 17
+  },
+  "case_number": "平成18(行ヒ)168",
+  "case_name": "損害賠償代位請求事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第227号551頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "平成17(行コ)19",
+  "original_date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 2,
+    "day": 27
+  },
+  "gist": "県警察本部の県外出張に係る旅費の支出のあった日から１年を経過して住民監査請求がされたことについて地方自治法２４２条２項ただし書にいう正当な理由があるとされた事例",
+  "case_gist": "県警察本部の県外出張に係る旅費の支出について住民監査請求がされた場合において，当該住民が県の情報公開条例に基づき上記出張に関する資料の開示を求めたところ，当初は，上記出張の旅行期間，目的地，用務等の事項が開示されず，その部分開示決定に対する異議申立ての結果，初めてこれらの事項が開示されるに至り，その１か月後に上記監査請求がされたなど判示の事実関係の下では，上記監査請求が上記支出のあった日から１年を経過した後にされたことについて地方自治法２４２条２項ただし書にいう正当な理由がある。",
+  "ref_law": "地方自治法242条2項",
+  "lawsuit_id": "36076",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=36076",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/076/036076_hanrei.pdf",
+  "contents": ""
+}

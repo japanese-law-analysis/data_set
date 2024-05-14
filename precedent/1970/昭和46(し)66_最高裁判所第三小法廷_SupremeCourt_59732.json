@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 9,
+    "day": 20
+  },
+  "case_number": "昭和46(し)66",
+  "case_name": "付審判請求事件についてした抗告棄却決定に対する特別抗告",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第181号527頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 7,
+    "day": 14
+  },
+  "gist": "受刑者に対する戒具（革手錠）の使用と憲法三六条\n受刑者に対し一定の限度で運動を命令強制することと憲法一八条・三一条・三六条",
+  "ref_law": "監獄法，憲法36条",
+  "lawsuit_id": "59732",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59732",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/732/059732_hanrei.pdf"
+}

@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 6,
+    "day": 29
+  },
+  "case_number": "昭和48(し)47",
+  "case_name": "横領（詐欺に訴因変更）被告事件の訴因・罰条変更許可決定の取消決定に対する特別抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第189号335頁",
+  "original_court_name": "鳥取地方裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 5,
+    "day": 22
+  },
+  "gist": "訴因・罰条変更許可決定の取消決定と特別抗告の適否",
+  "ref_law": "刑訴法433条1項",
+  "lawsuit_id": "59956",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59956",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/956/059956_hanrei.pdf"
+}

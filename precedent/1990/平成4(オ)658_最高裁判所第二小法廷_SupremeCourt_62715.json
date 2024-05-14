@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 6,
+    "month": 12,
+    "day": 16
+  },
+  "case_number": "平成4(オ)658",
+  "case_name": "持分移転登記手続",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第173号503頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成2(ネ)4234",
+  "original_date": {
+    "era": "Heisei",
+    "year": 3,
+    "month": 12,
+    "day": 24
+  },
+  "gist": "民法八九一条五号にいう遺言書の隠匿に当たらないとされた事例",
+  "case_gist": "被相続人甲からその子乙が遺言公正証書の正本の保管を託され、乙は遺産分割協議の成立に至るまで法定相続人の一人である姉に対して遺言書の存在と内容を告げなかったが、甲の妻丙は甲が公正証書によって遺言をしたことを知っており、丙の実家の当主は証人として遺言書の作成に立ち会った上、遺言執行者の指定を受け、また、乙は遺産分割協議の成立前に法定相続人の一人である妹に対して遺言公正証書の正本を示してその存在と内容を告げたなど判示の事実関係においては、乙の行為は、民法八九一条五号にいう遺言書の隠匿に当たらない。",
+  "ref_law": "民法891条5号",
+  "lawsuit_id": "62715",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62715",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/715/062715_hanrei.pdf"
+}

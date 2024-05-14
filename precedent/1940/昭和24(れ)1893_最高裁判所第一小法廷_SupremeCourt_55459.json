@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 12,
+    "day": 15
+  },
+  "case_number": "昭和24(れ)1893",
+  "case_name": "食糧管理法違反、物価統制令違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第3巻12号1018頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 5,
+    "day": 31
+  },
+  "gist": "刑法施工法第三條第三項の適用を明示していないと判決と破棄の理由",
+  "case_gist": "併科刑又は選擇刑の定めある場合にその法廷刑の輕重を比照するにあたり、刑法施工法第三條第三項の規定のごときは、特にその適用を明示しなくとも判決破棄の理由となるものでない。",
+  "ref_law": "刑法施工法3條3項，刑法9條，刑法10條",
+  "lawsuit_id": "55459",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55459",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/459/055459_hanrei.pdf"
+}

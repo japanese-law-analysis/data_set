@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 3,
+    "day": 26
+  },
+  "case_number": "昭和59(あ)567",
+  "case_name": "宅地建物取引業法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第39巻2号67頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 3,
+    "day": 28
+  },
+  "gist": "宅地建物取引業法四九条にいう「帳簿」の意義",
+  "case_gist": "宅地建物取引業法四九条にいう「帳簿」とは、本人の意思並びにその形式、記載内容及び保管状況から判断して、宅地建物取引業者がその業務に関し同条所定の事項を記載することを予定して備え付けたと認められる帳簿をいう。",
+  "ref_law": "宅地建物取引業法49条，宅地建物取引業法83条1項",
+  "lawsuit_id": "50320",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50320",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/320/050320_hanrei.pdf"
+}

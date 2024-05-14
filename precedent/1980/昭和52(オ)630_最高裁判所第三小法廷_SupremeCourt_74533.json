@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 2,
+    "day": 17
+  },
+  "case_number": "昭和52(オ)630",
+  "case_name": "取立金",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第132号129頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和47(ネ)1171",
+  "original_date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 2,
+    "day": 16
+  },
+  "gist": "工事未完成の間における既施工部分についての請負契約解除の可否",
+  "case_gist": "建物等の工事未完成の間に注文者が請負人の債務不履行を理由に請負契約を解除する場合において、工事内容が可分であり、かつ、当事者が既施工部分の給付について利益を有するときは、特段の事情のない限り、右部分についての契約を解除することはできない。",
+  "ref_law": "民法541条，民法632条",
+  "lawsuit_id": "74533",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74533",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/533/074533_hanrei.pdf"
+}

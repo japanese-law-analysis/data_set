@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 11,
+    "day": 9
+  },
+  "case_number": "昭和29(あ)1480",
+  "case_name": "封印破棄",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "刑集　第8巻11号1742頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 3,
+    "day": 29
+  },
+  "gist": "差押の標示が剥離損壊された後に、差押物件を擅に搬出転移した行為と刑法第九六条の罪の成否",
+  "case_gist": "刑法第九六条にいわゆる「差押ノ標示ヲ損壊シ」または「無効タラシメタ」ものとして、同条所定の犯罪が成立するためには、有効な差押の標示の存在を前提とするものであることはいうまでもないところであるから、本件差押の標示が被告人の在監中にその長男Ａにより既に剥離損壊され、差押の標示としての効用を滅却されるに至つたものとすれば、その後において被告人等が原判決認定の如く本件差押にかかる物件を他に搬出転移した行為は、なお別罪を構成する余地ありとしても、同条所定の犯罪を構成するいわれはないものといわなければならない。",
+  "ref_law": "刑法96条，刑法252条2項，民訴法756条，民訴法748条，民訴法566条2項",
+  "lawsuit_id": "56904",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56904",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/904/056904_hanrei.pdf"
+}

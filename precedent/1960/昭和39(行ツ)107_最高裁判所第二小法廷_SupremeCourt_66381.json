@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 9,
+    "day": 10
+  },
+  "case_number": "昭和39(行ツ)107",
+  "case_name": "最高裁判所裁判官国民審査の効力に関する異議",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第80号275頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和35(行ナ)162",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 9,
+    "day": 21
+  },
+  "gist": "最高裁判所裁判官国民審査法の合憲性",
+  "case_gist": "一　憲法第七九条第二項所定の国民審査につき、最高裁判所裁判官国民審査法が、これを解職投票としてその手続を規定したことは、右憲法の条項に違反するものではない。\n二　（昭和二七年二月二〇日大法廷判決、民集六巻二号一二二頁参照）\n三（補足意見がある）",
+  "ref_law": "憲法79条，最高裁判所裁判官国民審査法15条，最高裁判所裁判官国民審査法22条，最高裁判所裁判官国民審査法32条，最高裁判所裁判官国民審査法35条",
+  "lawsuit_id": "66381",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66381",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/381/066381_hanrei.pdf"
+}

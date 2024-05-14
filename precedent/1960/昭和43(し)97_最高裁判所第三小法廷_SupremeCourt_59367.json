@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 12,
+    "day": 2
+  },
+  "case_number": "昭和43(し)97",
+  "case_name": "準抗告棄却決定に対する特別抗告",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第169号577頁",
+  "original_court_name": "東京地方裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 11,
+    "day": 12
+  },
+  "gist": "憲法第一四条にいう社会的身分による差別的取扱いをしたものではないとされた事例",
+  "case_gist": "所論は、憲法第一四条違反をいうが、原決定は、証拠隠滅のおそれの有無の判断にあたつて、被告人その他の事件関係者の多くが、暴力団関係者あるいはこれと交渉のある者であるということを考慮しているだけで、被告人を暴力団関係者として他の者と差別し、不平等な取扱いをしているわけではないから、前提を欠き、適法な抗告理由にあたらない。",
+  "ref_law": "憲法14条",
+  "lawsuit_id": "59367",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59367",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/367/059367_hanrei.pdf"
+}

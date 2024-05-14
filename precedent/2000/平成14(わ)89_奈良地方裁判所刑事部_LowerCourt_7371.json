@@ -1,0 +1,16 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 15,
+    "month": 6,
+    "day": 13
+  },
+  "case_number": "平成14(わ)89",
+  "case_name": "殺人被告事件",
+  "court_name": "奈良地方裁判所刑事部",
+  "lawsuit_id": "7371",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=7371",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/371/007371_hanrei.pdf",
+  "contents": "2 10\n37 39\n40 1\n1 45\n50 3\n55 4\n1 100 40 50\n1 5000\n11 7\n13 4\n14 2 13\n1300 1000\n21 7\n14 2 21 9 30\n14 2 21 9 51\n9 54\n10 7\n9 30\n10 35\n11 15\n15 6 13\n"
+}

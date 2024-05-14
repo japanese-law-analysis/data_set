@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 1,
+    "day": 31
+  },
+  "case_number": "昭和56(オ)184",
+  "case_name": "換地計画同意等",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第38巻1号30頁",
+  "original_court_name": "仙台高等裁判所\n        　秋田支部",
+  "original_case_number": "昭和54(ネ)32",
+  "original_date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 12,
+    "day": 10
+  },
+  "gist": "共同施行の土地改良事業において換地を行うことが予定されているのを了知して右事業の認可の申請に同意した者と換地計画に同意する義務の有無",
+  "case_gist": "数人が共同して行う土地改良事業の認可の申請に同意した者は、既に換地を行うことが予定されているのを了知して右同意をしたときであつても、換地計画に同意する義務を負うものではない。",
+  "ref_law": "土地改良法（昭和47年法律第37号による改正前のもの）52条3項，土地改良法（昭和47年法律第37号による改正前のもの）95条2項，土地改良法（昭和47年法律第37号による改正前のもの）96条",
+  "lawsuit_id": "52157",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52157",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/157/052157_hanrei.pdf"
+}

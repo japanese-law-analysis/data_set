@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 1,
+    "day": 31
+  },
+  "case_number": "昭和26(れ)2078",
+  "case_name": "賭場開帳図利、常習賭博",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集刑　第59号475頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 2,
+    "day": 13
+  },
+  "gist": "弁護権不法制限の例",
+  "case_gist": "被告人が弁護人を選任しその届出をなしたに拘わらず、原審がその後指定した公判期日を弁護人に通知せず、従つて弁護人不出頭のまま審理を終結し、判決宣告期日に有罪判決を言渡したときは弁護権の不法な制限であつて、判決に影響を及ぼすべき法令の違反があり、且つ原判決を破棄しなければ著しく正義に反する。",
+  "ref_law": "旧刑訴法410条11号，旧刑訴法320条2項，旧刑訴法320条3項，新刑訴法411条，刑訴施行法3条の2",
+  "lawsuit_id": "72053",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=72053",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/053/072053_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 10,
+    "day": 21
+  },
+  "case_number": "昭和41(オ)722",
+  "case_name": "不当利得返還請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第84号703頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和39(ネ)2138",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 3,
+    "day": 28
+  },
+  "gist": "保険会社外務員と民法第九六条第二項の第三者",
+  "case_gist": "保険会社外務員は、保険契約の締結について民法第九六条第二項にいう第三者にあたらない。",
+  "ref_law": "民法96条2項",
+  "lawsuit_id": "66566",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66566",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/566/066566_hanrei.pdf"
+}

@@ -1,0 +1,15 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 29,
+    "month": 10,
+    "day": 10
+  },
+  "case_number": "平成25(ワ)38",
+  "case_name": "原状回復等請求事件",
+  "court_name": "福島地方裁判所",
+  "lawsuit_id": "87223",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=87223",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/223/087223_hanrei.pdf"
+}

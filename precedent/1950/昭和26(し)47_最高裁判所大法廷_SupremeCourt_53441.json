@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 6,
+    "day": 10
+  },
+  "case_number": "昭和26(し)47",
+  "case_name": "窃盗、傷害、傷害致死被告事件の各刑の執行猶予言渡取消決定の抗告事件に対する特別抗告",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第7巻6号1419頁",
+  "original_court_name": "東京地方裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 6,
+    "day": 1
+  },
+  "gist": "一　刑訴応急措置法第一八条による特別抗告にも刑訴第四〇五条第二号、第三号、第四一一条第一号の準用があるか\n二　検察官から刑の執行猶予言渡の取消請求があつた場合の決定手続の方式",
+  "case_gist": "一　刑訴応急措置法第一八条による特別抗告には、刑訴第四〇五条第二号第三号および第四一一条第一号は準用されない。\n二　本件に適用される旧刑訴三七四条二項の規定によれば、検察官から執行猶予の言渡の取消請求があつた場合には、裁判所は、被告人又はその代理人の意見を聴き決定を為すべきものであつて、決定を為すには国選弁護人を選任したり、口頭弁論に基いたりする必要のないものであることは論を俟たない。",
+  "ref_law": "刑訴応急措置法18条，刑訴法405条，刑訴法411条1号，刑法26条，旧刑訴法374条2項",
+  "lawsuit_id": "53441",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53441",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/441/053441_hanrei.pdf"
+}

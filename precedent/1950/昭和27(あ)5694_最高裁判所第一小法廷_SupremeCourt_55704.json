@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 2,
+    "day": 18
+  },
+  "case_number": "昭和27(あ)5694",
+  "case_name": "賭場開帳図利",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第8巻2号145頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 5,
+    "day": 26
+  },
+  "gist": "証拠の標目として掲げられている証人の供述中に伝聞にかかる部分がある場合その部分を証拠としたものと解すべきであるか",
+  "case_gist": "一　判決に証拠の標目として掲げられている証人の供述中に伝聞にかかる部分がある場合、その部分について特に排除決定、または判決に当該部分を除外する旨の説示がないからといつて、その伝聞にかかる部分をも証拠としたものと断定すべきではない。\n二　判決に証拠の標目として掲げられている証人の供述中伝聞にかかる部分を除いた他の部分とその余の証拠とによつて判示事実が充分に認定できる場合には、右証人の供述については、伝聞にかかる部分を除いた部分だけを証拠としたものと解すべきである。",
+  "ref_law": "刑訴法335条1項，刑訴法320条，刑訴法324条2項，刑訴法326条，刑訴法405条3号，刑訴法401条2項",
+  "lawsuit_id": "55704",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55704",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/704/055704_hanrei.pdf"
+}

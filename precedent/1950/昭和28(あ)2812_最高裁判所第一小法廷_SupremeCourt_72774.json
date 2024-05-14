@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 11,
+    "day": 12
+  },
+  "case_number": "昭和28(あ)2812",
+  "case_name": "麻薬取締法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第88号331頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 12,
+    "day": 27
+  },
+  "gist": "麻薬取締法違反罪につき、確定判決を経た罪と同一性のないと認められる一事例",
+  "case_gist": "所論確定判決を経た事件は、被告人が昭和二四年九月中旬頃新橋駅でＡから入手した麻薬を同年一〇月初旬頃神田駅でＢに譲渡したとの事案であり、本件犯行は被告人が昭和二四年九月下旬頃本郷肴町附近でＣ某から譲り受けた麻薬をその頃判示のとおり二回にＢに交付したという事案であつて、全然別異の事実関係にあること記録上明白であるから、憲法三九条違反であるとの所論はその前提を欠くものといわなければならない。",
+  "ref_law": "憲法39条後段，麻薬取締法（改正前）3条，麻薬取締法（改正前）57条，刑訴法337条1号",
+  "lawsuit_id": "72774",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=72774",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/774/072774_hanrei.pdf"
+}

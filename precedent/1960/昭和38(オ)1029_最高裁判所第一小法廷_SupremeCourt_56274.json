@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 5,
+    "day": 20
+  },
+  "case_number": "昭和38(オ)1029",
+  "case_name": "山林所有権確認等",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第19巻4号822頁",
+  "original_court_name": "広島高等裁判所",
+  "original_case_number": "昭和34(ネ)262",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 6,
+    "day": 19
+  },
+  "gist": "いわゆる「分け地」が入会地の性格を失わないとされた事例。",
+  "case_gist": "入会地の一部がいわゆる「分け地」として部落民個人に分配されたが、部落民は、採草については「分け地」の区分なく、入会地のどこにでも自由に立ち入ることができるし、部落外に転出することにより「分け地」はもとより入会地についての一切の権利を喪失する慣習であり、該権利の売買譲渡その他の処分行為がされた事例がないときは、「分け地」は入会地の性格を失つたということはできない。",
+  "ref_law": "民法263条",
+  "lawsuit_id": "56274",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56274",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/274/056274_hanrei.pdf"
+}

@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 6,
+    "day": 17
+  },
+  "case_number": "昭和45(す)122",
+  "case_name": "道路交通法違反事件の上告棄却決定に対する訂正の申立",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第176号591頁",
+  "original_court_name": "最高裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 6,
+    "day": 5
+  },
+  "lawsuit_id": "59618",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59618",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/618/059618_hanrei.pdf"
+}

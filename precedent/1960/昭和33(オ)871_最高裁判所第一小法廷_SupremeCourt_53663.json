@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 6,
+    "day": 29
+  },
+  "case_number": "昭和33(オ)871",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第15巻6号1764頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 7,
+    "day": 15
+  },
+  "gist": "一　所有権移転請求権保全仮登記の効力。\n二　仮登記ある不動産の賃貸借と本登記名義人に対する損害の発生。",
+  "case_gist": "一　所有権移転請求権保全の仮登記後本登記をしたときは、仮登記の時以後におけるこれと相容れない中間処分の効力を否定することができるけれども、仮登記の時に所有権移転のあつた事実が擬制されるものではない。\n二　家屋賃貸借が仮登記後の中間処分として本登記名義人に対抗できない場合でも、特段の事情のないかぎり、本登記名義人において現実に所有権を取得する以前、右賃貸借に基づく家屋占有により損害を被つたものと認むべきではない。",
+  "ref_law": "不動産登記法2条，不動産登記法7条2項",
+  "lawsuit_id": "53663",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53663",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/663/053663_hanrei.pdf"
+}

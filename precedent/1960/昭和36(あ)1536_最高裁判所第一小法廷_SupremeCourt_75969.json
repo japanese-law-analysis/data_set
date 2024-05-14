@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 1,
+    "day": 17
+  },
+  "case_number": "昭和36(あ)1536",
+  "case_name": "出入国管理令違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第146号1頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 5,
+    "day": 18
+  },
+  "gist": "刑訴法第二五五条第一項前段の法意。",
+  "case_gist": "諭旨は、原判決の刑訴二五五条第一項の解釈を非難するけれども、同項前段の「犯人が国外にいる場合」は、同項後段の「犯人が逃げ隠れている」場合と異なり、公訴時効の進行停止につき、起訴状の謄本の送達もしくは略式命令の告知ができなかつたことを前提要件とするものでないことは該規定の明文上疑いを容れないところであり、また、犯人が国外にいる場合は、捜査官において犯罪の発生またはその犯人を知ると否とを問わず、犯人の国外にいる期間、公訴時効の進行を停止するものと解すべきことは、当裁判所の判例とするところである。（昭和三五年（あ）第七三五号同三七年九月十八日第三小法定判決参照）。",
+  "ref_law": "刑訴法255条1項",
+  "lawsuit_id": "75969",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=75969",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/969/075969_hanrei.pdf"
+}

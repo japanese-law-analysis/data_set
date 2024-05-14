@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 2,
+    "day": 21
+  },
+  "case_number": "昭和31(あ)1864",
+  "case_name": "威力業務妨害",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第11巻2号877頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 4,
+    "day": 26
+  },
+  "gist": "刑法第二三四条にいう「威力ヲ用ヒ」の意義",
+  "case_gist": "刑法第二三四条にいう「威力ヲ用ヒ」とは、一定の行為の必然的結果として、人の意思を制圧するような勢力を用いれば足り、必ずしもそれが直接現に業務に従事している他人に対してなされることを要しない。",
+  "ref_law": "刑法234条",
+  "lawsuit_id": "51484",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51484",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/484/051484_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 2,
+    "day": 12
+  },
+  "case_number": "昭和27(あ)4277",
+  "case_name": "放火",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第73号343頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 6,
+    "day": 17
+  },
+  "gist": "共犯者又は共同被告人の自白と他の補強証拠とを綜合して被告人との共犯事実を認定することと憲法第三八条第三項",
+  "case_gist": "共犯者又は共同被告人は、その自白が互に補強証拠となりうる関係にあるものであることは当裁判所屡次の判例であるから、共犯者又は共同被告人の自白と他の補強証拠とを綜合して被告人との共犯事実を認定しても憲法三八条三項に違反するといえないこと多言を要しない。",
+  "ref_law": "憲法38条3項，刑訴法319条2項",
+  "lawsuit_id": "64955",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64955",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/955/064955_hanrei.pdf"
+}

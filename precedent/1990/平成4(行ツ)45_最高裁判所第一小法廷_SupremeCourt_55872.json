@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 5,
+    "month": 11,
+    "day": 25
+  },
+  "case_number": "平成4(行ツ)45",
+  "case_name": "法人税更正処分等取消",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第47巻9号5278頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和61(行コ)25",
+  "original_date": {
+    "era": "Heisei",
+    "year": 3,
+    "month": 12,
+    "day": 19
+  },
+  "gist": "一　船荷証券が発行されている商品の輸出取引による収益を船積みの時点で計上する会計処理と一般に公正妥当と認められる会計処理の基準\n\n二　船荷証券が発行されている商品の輸出取引による収益を取引銀行による荷為替手形の買取りの時点で計上する会計処理と一般に公正妥当と認められる会計処理の基準",
+  "case_gist": "一　船荷証券が発行されている商品の輸出取引による収益を船積みの時点で計上する会計処理は、一般に公正妥当と認められる会計処理の基準に適合する。\n\n二　船荷証券が発行されている商品の輸出取引による収益を取引銀行による荷為替手形の買取りの時点で計上する会計処理は、一般に公正妥当と認められる会計処理の基準に適合しない。\n（二につき反対意見がある。）",
+  "ref_law": "法人税法22条2項，法人税法22条4項",
+  "lawsuit_id": "55872",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55872",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/872/055872_hanrei.pdf"
+}

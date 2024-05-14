@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 16,
+    "month": 9,
+    "day": 10
+  },
+  "case_number": "平成13(あ)347",
+  "case_name": "背任被告事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "刑集　第58巻6号524頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "平成11(う)53",
+  "original_date": {
+    "era": "Heisei",
+    "year": 13,
+    "month": 1,
+    "day": 24
+  },
+  "gist": "銀行の頭取が信用保証協会の役員と共謀して同協会に対する背任罪を犯したと認めるには合理的な疑いが残るとされた事例",
+  "case_gist": "甲銀行の頭取乙が，丙信用保証協会の役員丁から，丙の基本財産の増強計画に基づき甲において負担金を拠出するよう依頼された際に，丁に対し，丙の甲に対する別件の保証債務につき免責を主張する丙の方針を見直して代位弁済に応ずるよう要請した結果，丁ら役員が丙の従前の方針を変更し，丙が代位弁済に応じた場合において，甲が上記負担金の拠出を拒絶することが実際上可能であったか疑問であること，丙としては代位弁済に応ずることと負担金の拠出が受けられないこととの利害得失を総合検討して態度を決定すべき立場にあったことなどの事情の下では（判文参照），乙が丁らと共謀して丙に対する背任罪を犯したと認めるには，合理的な疑いが残る。",
+  "ref_law": "刑法60条，刑法65条，刑法247条",
+  "lawsuit_id": "50034",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50034",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/034/050034_hanrei.pdf"
+}

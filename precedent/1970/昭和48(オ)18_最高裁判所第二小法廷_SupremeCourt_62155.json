@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 3,
+    "day": 29
+  },
+  "case_number": "昭和48(オ)18",
+  "case_name": "母子関係等確認請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第111号487頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和46(ネ)2821",
+  "original_date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 10,
+    "day": 12
+  },
+  "gist": "母死亡後非嫡出の子の提起する親子関係存在確認の訴の許否",
+  "case_gist": "認知の訴によらず母との親子関係を主張できる非嫡出の子は、母が死亡した後でも、検察官を相手方として、同女との間の親子関係の存在確認の訴を提起することができる。",
+  "ref_law": "民法787条，民訴法225条，人事訴訟手続法2条3項",
+  "lawsuit_id": "62155",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62155",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/155/062155_hanrei.pdf"
+}

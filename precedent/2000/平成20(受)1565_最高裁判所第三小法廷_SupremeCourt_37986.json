@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 9,
+    "day": 15
+  },
+  "case_number": "平成20(受)1565",
+  "case_name": "土地明渡等，代表役員の登記抹消手続請求事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第231号563頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "平成19(ネ)1010",
+  "original_date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 6,
+    "day": 18
+  },
+  "gist": "宗教法人の所有する土地の明渡しを求める訴えが，法律上の争訟に当たらず，不適法とされた事例",
+  "case_gist": "宗教法人がその所有する土地の明渡しを求める訴えは，請求の当否を決する前提問題となっている占有者である住職に対する擯斥処分の効力を判断するために，宗教上の教義ないし信仰の内容に立ち入って審理，判断することを避けることができないという事情の下においては，裁判所法３条にいう「法律上の争訟」に当たらず，不適法である。",
+  "ref_law": "裁判所法3条",
+  "lawsuit_id": "37986",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=37986",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/986/037986_hanrei.pdf",
+  "contents": ""
+}

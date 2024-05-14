@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 5,
+    "day": 30
+  },
+  "case_number": "昭和42(オ)550",
+  "case_name": "建物所有権移転登記抹消登記等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第95号443頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和38(ネ)1875",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 2,
+    "day": 28
+  },
+  "gist": "建物の一部分の改築により区分所有権が成立したとされた事例",
+  "case_gist": "従来母屋に接続した簡単なバラック建附属建物にすぎなかつた部分を倍以上に拡げて店舗に改造し、母屋との間に板壁による間じきりをし、母屋とは全く独立して使用できるようにしたなど原判示の事情（原判決理由参照）がある場合においては、柱および板壁を共通にし、建物が屋根続きで外見上は一体の建物の観を呈していても、右改造部分につき区分所有権が成立する。",
+  "ref_law": "建物の区分所有等に関する法律1条",
+  "lawsuit_id": "66631",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66631",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/631/066631_hanrei.pdf"
+}

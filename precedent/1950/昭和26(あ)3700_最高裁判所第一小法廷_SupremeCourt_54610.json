@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 2,
+    "day": 19
+  },
+  "case_number": "昭和26(あ)3700",
+  "case_name": "強盗傷人",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第7巻2号280頁",
+  "original_court_name": "広島地方裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 8,
+    "day": 27
+  },
+  "gist": "一　強盗傷人罪における暴行と認められる一事例\n二　傷害が暴行の結果と認められる一事例\n三　共同被告人が弁論分離後証人としてした供述の証拠能力",
+  "case_gist": "一　被害者に対し「金を出せ、騒ぐと突き刺すぞ」等と申し向けて刃渡四五糎の日本刀を突きつける所為は、人の身体に対する不法な有形力の行使であつて、強盗傷人罪における暴行にあたる。\n二　右の場合、被害者が右日本刀にしがみついて救を求め、犯人がその刀を引いたことによつて右手掌等に傷害を負わしめたときは、その所為は暴行の結果といい得る。\n三　共同被告人であつても弁論分離後証人としてした供述は、完全な証拠能力を有する。",
+  "ref_law": "刑法236条1項，刑法240条，刑訴法317条，刑訴法319条2項",
+  "lawsuit_id": "54610",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54610",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/610/054610_hanrei.pdf"
+}

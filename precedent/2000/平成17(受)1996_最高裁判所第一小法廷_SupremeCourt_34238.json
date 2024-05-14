@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 3,
+    "day": 8
+  },
+  "case_number": "平成17(受)1996",
+  "case_name": "不当利得返還請求事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第61巻2号479頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成17(ネ)1587",
+  "original_date": {
+    "era": "Heisei",
+    "year": 17,
+    "month": 7,
+    "day": 27
+  },
+  "gist": "法律上の原因なく代替性のある物を利得した受益者が利得した物を第三者に売却処分した場合に負う不当利得返還義務の内容",
+  "case_gist": "法律上の原因なく代替性のある物を利得した受益者は，利得した物を第三者に売却処分した場合には，損失者に対し，原則として，売却代金相当額の金員の不当利得返還義務を負う。",
+  "ref_law": "民法703条",
+  "lawsuit_id": "34238",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=34238",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/238/034238_hanrei.pdf",
+  "contents": ""
+}

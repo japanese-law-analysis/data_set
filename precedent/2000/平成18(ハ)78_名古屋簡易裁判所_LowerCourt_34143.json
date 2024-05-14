@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 12,
+    "day": 13
+  },
+  "case_number": "平成18(ハ)78",
+  "case_name": "損害賠償請求",
+  "court_name": "名古屋簡易裁判所",
+  "result": "棄却",
+  "gist": "退職年金規定の改廃は合理的な範囲で有効であるとし，１０年間の年金支給を打ち切り，これを一括支給としたことを適法とした事例",
+  "lawsuit_id": "34143",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=34143",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/143/034143_hanrei.pdf",
+  "contents": ""
+}

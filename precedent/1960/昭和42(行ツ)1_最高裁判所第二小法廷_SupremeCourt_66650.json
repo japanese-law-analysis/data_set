@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 9,
+    "day": 6
+  },
+  "case_number": "昭和42(行ツ)1",
+  "case_name": "土地買収および売渡処分無効確認等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第92号211頁",
+  "original_court_name": "高松高等裁判所",
+  "original_case_number": "昭和40(行コ)7",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 10,
+    "day": 20
+  },
+  "gist": "一、買収農地の売渡を受けて農業用施設として占有している場合において売渡処分の無効のときと占有開始時の善意・無過失\n二、民法第一六二条の適用には他人の所有に属することを要するか",
+  "case_gist": "一、買収農地の売渡を受けて農業用施設として占有している者は、その売渡処分が当然無効であつても、特段の事情のないかぎり、その占有の始めに善意・無過失というべきである。\n二、民法第一六二条の適用には、他人の所有に属することを必要としない。",
+  "ref_law": "民法162条",
+  "lawsuit_id": "66650",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66650",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/650/066650_hanrei.pdf"
+}

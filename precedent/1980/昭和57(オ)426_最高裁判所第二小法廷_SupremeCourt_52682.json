@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 11,
+    "day": 15
+  },
+  "case_number": "昭和57(オ)426",
+  "case_name": "保険金還付",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第39巻7号1487頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和56(ネ)597",
+  "original_date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 1,
+    "day": 29
+  },
+  "gist": "破産法人の簡易生命保険の還付金請求権と破産財団への帰属",
+  "case_gist": "簡易生命保険の保険金受取人である法人が破産宣告を受けて解散した場合には、簡易生命保険法三九条一項の規定に基づく還付金請求権は、破産財団に属する。",
+  "ref_law": "簡易生命保険法39条1項，簡易生命保険法50条，破産法（昭和54年法律第5号による改正前のもの）6条",
+  "lawsuit_id": "52682",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52682",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/682/052682_hanrei.pdf"
+}

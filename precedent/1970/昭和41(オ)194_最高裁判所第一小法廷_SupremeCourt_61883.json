@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 12,
+    "day": 2
+  },
+  "case_number": "昭和41(オ)194",
+  "case_name": "株主総会決議取消請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第104号541頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和40(ネ)288",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 11,
+    "day": 30
+  },
+  "gist": "遺言による寄附行為に基づく財団の設立行為がされたあとで遺言者の生前処分の寄附行為に基づく財団の設立行為がされた場合と遺言の取消",
+  "case_gist": "遺言による寄附行為に基づく財団の設立行為がされたあとで、遺言者の生前処分の寄附行為に基づく財団設立行為がされて、両者が競合する形式になつた場合において、右生前処分が遺言と抵触し、その遺言が取り消されたものとみなされるためには、少なくとも、まず、右生前処分の寄附行為に基づく財団設立行為が主務官庁の許可によつてその効果の生じたことを必要とする。",
+  "ref_law": "民法1023条",
+  "lawsuit_id": "61883",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61883",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/883/061883_hanrei.pdf"
+}

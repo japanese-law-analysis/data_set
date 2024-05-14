@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 12,
+    "month": 4,
+    "day": 11
+  },
+  "case_number": "平成10(オ)364",
+  "case_name": "債務不存在確認請求事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第54巻4号1368頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成6(ネ)3790",
+  "original_date": {
+    "era": "Heisei",
+    "year": 9,
+    "month": 9,
+    "day": 10
+  },
+  "gist": "無効理由が存在することが明らかな特許権に基づく差止め等の請求と権利の濫用",
+  "case_gist": "特許に無効理由が存在することが明らかであるときは、その特許権に基づく差止め、損害賠償等の請求は、特段の事情がない限り、権利の濫用に当たり許されない。",
+  "ref_law": "特許法68条・特許法第4章第2節　権利侵害・特許法100条・特許法123条　民法1条3項",
+  "lawsuit_id": "52224",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52224",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/224/052224_hanrei.pdf"
+}

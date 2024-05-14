@@ -1,0 +1,22 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 7,
+    "day": 4
+  },
+  "case_number": "昭和43(し)17",
+  "case_name": "再審請求に関する特別抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第22巻7号581頁",
+  "original_court_name": "東京高等裁判所",
+  "gist": "少年を成人と誤認して有罪の言渡しをした確定判決と刑訴法四三五条六号の再審事由",
+  "case_gist": "少年を成人と誤認したため、家庭裁判所を経由せずに提起された公訴を受理し、かつ、定期刑を科したことは、刑訴法四三五条六号所定の再審事由にあたらない。",
+  "ref_law": "刑訴法435条6号",
+  "lawsuit_id": "50928",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50928",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/928/050928_hanrei.pdf"
+}

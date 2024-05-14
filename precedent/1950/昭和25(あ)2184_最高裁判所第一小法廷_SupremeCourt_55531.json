@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 7,
+    "day": 26
+  },
+  "case_number": "昭和25(あ)2184",
+  "case_name": "公文書偽造、臨時物資需給調整法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第5巻8号1640頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 7,
+    "day": 4
+  },
+  "gist": "昭和二四年五月二四日経済案定本部訓令第二二号指定物資の輸送証明要領の性質",
+  "case_gist": "昭和二四年五月二四日経済案定本部訓令第二二号指定物資の輸送証明制要領のごときは、臨時物資需給調整法第一条第一項の命令に対する同条第四項の同意たる性質を有するに過ぎず、何等法令を改廃する効力を有するものではない。",
+  "ref_law": "刑訴法373条2号，臨時物資需給調整法1条1項4項，昭和24年5月24日経済安定本部訓令",
+  "lawsuit_id": "55531",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55531",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/531/055531_hanrei.pdf"
+}

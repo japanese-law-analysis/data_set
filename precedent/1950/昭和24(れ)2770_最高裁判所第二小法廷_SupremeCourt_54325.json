@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 7,
+    "day": 21
+  },
+  "case_number": "昭和24(れ)2770",
+  "case_name": "麻薬取締法違反、麻薬取締規則違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第4巻8号1513頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 7,
+    "day": 16
+  },
+  "gist": "麻藥を不法に所持する行爲とこれを自己の身体に使用する行爲とは別罪か",
+  "case_gist": "麻藥取締規則（昭和二一年厚生省令第二五號）施行中において不法に麻藥を所持した行爲とその所持者が自らこれを自己の身体に使用した行爲とは各別罪を構成する",
+  "ref_law": "麻藥取締規則（昭和21年厚生省令25號）23條，麻藥取締規則（昭和22年厚生省令25號）42條，麻藥取締規則（昭和21年厚生省令56條）56條，刑法45條",
+  "lawsuit_id": "54325",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54325",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/325/054325_hanrei.pdf"
+}

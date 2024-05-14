@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 4,
+    "day": 11
+  },
+  "case_number": "昭和63(オ)462",
+  "case_name": "損害賠償請求事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第43巻4号209頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和62(ネ)324",
+  "original_date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 12,
+    "day": 16
+  },
+  "gist": "いわゆる第三者行為災害に係る損害賠償額の算定に当たつての過失相殺と労働者災害補償保険法に基づく保険給付額の控除との先後",
+  "case_gist": "労働者がいわゆる第三者行為災害により被害を受け、第三者がその損害につき賠償責任を負う場合において、賠償額の算定に当たり労働者の過失を斟酌すべきときは、右損害の額から過失割合による減額をし、その残額から労働者災害補償保険法に基づく保険給付の価額を控除するのが相当である。",
+  "ref_law": "民法709条，民法722条2項，労働者災害補償保険法12条の4",
+  "lawsuit_id": "52214",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52214",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/214/052214_hanrei.pdf"
+}

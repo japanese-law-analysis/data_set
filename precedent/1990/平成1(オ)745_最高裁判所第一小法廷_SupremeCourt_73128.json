@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 5,
+    "month": 1,
+    "day": 21
+  },
+  "case_number": "平成1(オ)745",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第167号297頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和61(ネ)3312",
+  "original_date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 2,
+    "day": 23
+  },
+  "gist": "注文者が労働安全衛生法三〇条二項前段による指名をしなかったことと作業員の死亡事故との間に相当因果関係がないとされた事例",
+  "case_gist": "漁船の機関室で甲社と乙社の作業が並行して行われた際、甲社の作業員の過失によりアンモニアガスが漏出して乙社の作業員が死亡した場合において、甲乙両社に漁船の整備点検を分割発注した注文者が労働安全衛生法三〇条二項前段による指名をしていなかったとしても、当日予定されていた甲社の作業にはアンモニアガス漏出の危険性のあるものはなく、事故の原因となった作業は甲社の作業員がその場の思い付きで行ったものであるなど判示の事実関係の下では、注文者が右指名をしなかったことと事故との間に相当因果関係があるとはいえない。",
+  "ref_law": "民法709条，労働安全衛生法30条1項，労働安全衛生法30条2項",
+  "lawsuit_id": "73128",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=73128",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/128/073128_hanrei.pdf"
+}

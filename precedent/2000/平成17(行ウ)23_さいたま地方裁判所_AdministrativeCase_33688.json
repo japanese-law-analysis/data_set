@@ -1,0 +1,19 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 4,
+    "day": 19
+  },
+  "case_number": "平成17(行ウ)23",
+  "case_name": "不動産取得税賦課決定処分取消請求事件",
+  "court_name": "さいたま地方裁判所",
+  "field": "行政",
+  "gist": "地方税法７３条の１４第８項にいう「当該収用され，譲渡し，又は移転補償金に係る契約をした日から２年以内」の起算日",
+  "case_gist": "地方税法７３条の１４第８項にいう「当該収用され，譲渡し，又は移転補償金に係る契約をした日から２年以内」の起算日は，譲渡契約締結の日ではなく，代金支払，目的物の引渡し，登記のいずれかが行われた日と解釈するのが合理的というべきである。",
+  "lawsuit_id": "33688",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=33688",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/688/033688_hanrei.pdf",
+  "contents": ""
+}

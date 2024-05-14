@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 10,
+    "day": 26
+  },
+  "case_number": "昭和25(れ)1087",
+  "case_name": "物価統制令違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第19号1015頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 5,
+    "day": 10
+  },
+  "gist": "魚粕等の統制額に関する告示の廃止と旧刑訴法第三六三条号第二号にいわゆる「刑ノ廃止」",
+  "case_gist": "原審が判示犯行当時魚粕等の販売価格の統制額を指定していた告示として本件に適用した物価庁告示第一〇五三号は昭和二三年八月一日物価庁告示第六七三号により廃止され、これと同時に新統制額の指定がなされ、次いで右告示も同二五年四月二〇日同庁告示第三〇三号により廃止されるに至り、現在においては魚粕等の販売価格については何等統制額の指定なき状態にあることは認められる。しかし、一旦成立した物価統制令違反罪の処罰が、爾後におけるかかる告示の改変廃止により何等左右せらるべきものでないことは勿論である。",
+  "ref_law": "物価統制令3条，昭和23年8月物価庁告示673号，旧刑訴法363条2号",
+  "lawsuit_id": "67736",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=67736",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/736/067736_hanrei.pdf"
+}

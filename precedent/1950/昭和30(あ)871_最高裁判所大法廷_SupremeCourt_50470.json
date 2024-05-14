@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 10,
+    "day": 15
+  },
+  "case_number": "昭和30(あ)871",
+  "case_name": "覚せい剤取締法違反",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第12巻14号3313頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 2,
+    "day": 18
+  },
+  "gist": "官報による法令公布の時期。",
+  "case_gist": "法令を官報により公布する場合において、その法令を掲載した官報が、印刷局から発送され、一般希望者において右官報を閲覧し、または購読し得る場所である東京都官報販売所または印刷局官報課のうちのいずれかに最初に到達したときは、右法令は、おそくとも、右最初に到達した時までには公布せられたものと解すべきである。",
+  "ref_law": "憲法7条1号，憲法39条，法例1条，旧公式令12条",
+  "lawsuit_id": "50470",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50470",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/470/050470_hanrei.pdf"
+}

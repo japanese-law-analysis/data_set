@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 1,
+    "day": 16
+  },
+  "case_number": "昭和26(あ)757",
+  "case_name": "銃砲等所持禁止令違反、窃盗",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第72号89頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 11,
+    "day": 30
+  },
+  "gist": "共犯者たる共同被告人の証人としての供述の証拠能力",
+  "case_gist": "所論は第一審判が判示第二乃至第六の事実認定の証拠として共犯者三名の公判廷における供述を採用したことを認容した原審の判断は刑訴三一九条二項憲法三八条三項に違反するというのであるが、記録によると一審の採用した右共犯者等の供述は被告人としてなされたものではなく、宣誓の上証人として供述したものであるから右刑訴法の規定に反するものではない。しかも第一審は右共犯者等の供述の外各被害者の被害届を証拠に引用しているのであるから所論違憲の主張はその前提を欠き採るを得ない。",
+  "ref_law": "刑訴法318条，刑訴法319条2項，憲法38条3項",
+  "lawsuit_id": "64764",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64764",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/764/064764_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 5,
+    "day": 20
+  },
+  "case_number": "昭和39(オ)764",
+  "case_name": "境界確認損害賠償請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第19巻4号859頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和34(ネ)92",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 2,
+    "day": 25
+  },
+  "gist": "共有持分権の及ぶ土地の範囲の確認を求める訴と必要的共同訴訟。",
+  "case_gist": "土地の共有者は、その土地の一部が自己の所有に属すると主張する第三者に対し、各自単独で、係争地が自己の共有持分権に属することの確認を訴求することができる。",
+  "ref_law": "民法249条，民訴法62条",
+  "lawsuit_id": "56292",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56292",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/292/056292_hanrei.pdf"
+}

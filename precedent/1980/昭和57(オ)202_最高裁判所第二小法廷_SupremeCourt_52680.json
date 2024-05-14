@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 12,
+    "day": 13
+  },
+  "case_number": "昭和57(オ)202",
+  "case_name": "損害賠償等",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第39巻8号1779頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和55(ネ)3031",
+  "original_date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 11,
+    "day": 25
+  },
+  "gist": "差入人と受刑者との関係が明らかでない場合と差入の許否に関する刑務所長の裁量権",
+  "case_gist": "受刑者に対する差入が差入人と受刑者との関係が明らかでないため受刑者の処遇上害があるか否か不明である場合は、刑務所長は、その裁量により、右差入の許否を決することができる。",
+  "ref_law": "監獄法53条，監獄法施行規則142条，監獄法施行規則143条，監獄法施行規則146条",
+  "lawsuit_id": "52680",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52680",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/680/052680_hanrei.pdf"
+}

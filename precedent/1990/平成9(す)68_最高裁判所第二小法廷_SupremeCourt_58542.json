@@ -1,0 +1,21 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 9,
+    "month": 4,
+    "day": 21
+  },
+  "case_number": "平成9(す)68",
+  "case_name": "裁判官忌避申立",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "却下",
+  "article_info": "集刑　第270号529頁",
+  "original_court_name": "最高裁判所",
+  "gist": "上告取下げの有効性が争われた事件において忌避申立てが適法とされた上で理由がないといて排斥された事例",
+  "ref_law": "刑訴法23条",
+  "lawsuit_id": "58542",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58542",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/542/058542_hanrei.pdf"
+}

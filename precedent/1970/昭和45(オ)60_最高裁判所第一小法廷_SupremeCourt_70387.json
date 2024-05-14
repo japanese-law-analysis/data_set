@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 5,
+    "day": 28
+  },
+  "case_number": "昭和45(オ)60",
+  "case_name": "建物収去土地明渡等本訴ならびに反訴、同附帯請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第99号233頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和37(ネ)778",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 10,
+    "day": 30
+  },
+  "gist": "一、地上権の時効取得の成立要件\n二、右成立要件の立証責任",
+  "case_gist": "一、地上権の時効取得が成立するためには、土地の継続的な使用という外形的事実が存在するほかに、その使用が地上権行使の意思にもとづくものであることが、客観的に表現されていることを要する。\n二、右成立要件の立証責任は、地上権の時効取得の成立を主張する者の側にある。",
+  "ref_law": "民法163条・265条",
+  "lawsuit_id": "70387",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70387",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/387/070387_hanrei.pdf"
+}

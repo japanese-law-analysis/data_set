@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 11,
+    "day": 27
+  },
+  "case_number": "昭和38(オ)1362",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第18巻9号2025頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 8,
+    "day": 15
+  },
+  "gist": "催告および右催告期限徒過を停止条件とする契約解除の意思表示が右期限後に到達した場合に催告および解除の意思表示が有効とされた事例。",
+  "case_gist": "特定の日を催告期限に指定した延滞賃料の催告および右期限徒過を停止条件とする賃貸借契約解除の意思表示が郵便延着により右期限後に到達した場合において、催告者被催告者双方が同一市内に居住する等原判決認定の事情（原判決理由参照）があるときは、右催告は通常の状態において予定される到達日と右指定期限までの期間を催告期間としたものと認められ、現実の到達日より計算して右催告期間を徒過したときに解除の効果が生ずるものと解することができる。",
+  "ref_law": "民法541条",
+  "lawsuit_id": "53120",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53120",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/120/053120_hanrei.pdf"
+}

@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Reiwa",
+    "year": 3,
+    "month": 3,
+    "day": 25
+  },
+  "case_number": "令和2(ネ)1325",
+  "case_name": "損害賠償請求控訴事件",
+  "court_name": "東京高等裁判所",
+  "result": "その他",
+  "original_court_name": "東京地方裁判所",
+  "original_case_number": "平成27(ワ)35014",
+  "lawsuit_id": "90688",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=90688",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/688/090688_hanrei.pdf"
+}

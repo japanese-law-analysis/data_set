@@ -1,0 +1,18 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 4,
+    "day": 24
+  },
+  "case_number": "昭和59(行コ)12",
+  "case_name": "水害義援金配分処分取消請求控訴事件（原審・長崎地方裁判所昭和５８年（行ウ）第３号）",
+  "court_name": "福岡高等裁判所",
+  "field": "行政",
+  "gist": "地方公共団体に対して使途を定めないで送付された水害に対する義援金は，地方公共団体にその適正な配分をゆだねる意思で寄託されたものと解するのが相当であり，贈り主と地方公共団体との間の法律関係は委任又は準委任の契約関係であるとして，地方公共団体が右義援金を配分する行為が，右契約に基づく債務の履行としてされる私法上の行為であるにすぎず，抗告訴訟の対象となる行政処分に当たらないとされた事例",
+  "lawsuit_id": "35832",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=35832",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/832/035832_hanrei.pdf",
+  "contents": ""
+}

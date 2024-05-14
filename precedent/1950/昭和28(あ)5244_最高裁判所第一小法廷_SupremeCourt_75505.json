@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 5,
+    "day": 6
+  },
+  "case_number": "昭和28(あ)5244",
+  "case_name": "傷害",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第95号81頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 10,
+    "day": 13
+  },
+  "gist": "同一動機にもとずき犯行の時と所を殆んど同じくするが、別個の行為により数人に対してなした傷害行為の罪数  −併合罪か否か−",
+  "case_gist": "原審の是認した第一審判決の確定した事実によれば被告人はジヤツクナイフでまずＡの左前頚部を突刺し、これに挫傷を与え、次いでＢの右耳前部左顎下等を三回突き刺しこれに切創を与えたというのである。すなわち被告人は別個の行為によつて被害者両名に対しそれぞれ傷害を加えたというのであるから、たとえ、それが同一動機に基ずき殆んど時と所とを同じくして順次行われたものであるとしても、被害者毎に別異の法益の侵害ありと認むべく従つて本件傷害罪は二個成立するものというべく、これを併合罪とした原判旨は正当である。",
+  "ref_law": "刑法204条，刑法45条",
+  "lawsuit_id": "75505",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=75505",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/505/075505_hanrei.pdf"
+}

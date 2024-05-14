@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 9,
+    "day": 29
+  },
+  "case_number": "昭和41(オ)1225",
+  "case_name": "株券引渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集民　第88号611頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_case_number": "昭和34(ネ)318",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 8,
+    "day": 10
+  },
+  "gist": "一　記名株式を目的とする質権の設定の要件\n二　親権の共同行使に違反して親権者の父または母が単独でした未成年の子の財産についての処分行為の効力",
+  "case_gist": "一　記名株式を目的とする質権の設定には、質権設定の合意のほか株券の交付を要するが、それのみで足りると解すべきである。\n二　親権の共同行使に違反して親権者の父または母が単独でした未成年の子の財産についての処分行為は無効である。",
+  "ref_law": "商法205条（昭和41年法律83号による改正前のもの。），商法207条，商法209条，民法824条，民法825条",
+  "lawsuit_id": "70206",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70206",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/206/070206_hanrei.pdf"
+}

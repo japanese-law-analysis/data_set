@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 8,
+    "day": 29
+  },
+  "case_number": "平成19(ネ)99",
+  "case_name": "損害賠償請求控訴事件",
+  "court_name": "札幌高等裁判所第２民事部",
+  "result": "破棄自判",
+  "original_court_name": "札幌地方裁判所",
+  "original_case_number": "平成16(ワ)1413",
+  "original_result": "棄却",
+  "gist": "ホテルの従業員としてボイラーの運転や保守の業務に従事していた者が悪性胸膜中皮腫で死亡した事案において，使用者（ホテル）が石綿（アスベスト）の吸引防止等の安全配慮義務を怠ったとされた事例。",
+  "lawsuit_id": "36809",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=36809",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/809/036809_hanrei.pdf",
+  "contents": ""
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 12,
+    "day": 15
+  },
+  "case_number": "昭和45(オ)186",
+  "case_name": "貸金請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第24巻13号2081頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "昭和42(ネ)299",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 11,
+    "day": 27
+  },
+  "gist": "本人の実印を所持する代理人と金融機関との間で継続的取引契約上の債務につき締結された連帯保証契約と民法一一〇条の代理権ありと信ずべき正当の理由の有無",
+  "case_gist": "金融機関が保証人の代理人との間で代理人を借主とする取引元本極度額の定めのない継続的取引契約上の債務につき保証極度額および保証期間の制限のない連帯保証契約を締結するにあたつては、代理人が本人の実印を所持している場合においても、他に代理権の存在を信ずるに足りる事情のないかぎり、本人に対し保証の限度等について照会するなどしてその意思を確かめる義務があり、これを怠つて代理人が実印を所持していたことのみにより代理権があるものと信じたにすぎないときは、いまだ民法一一〇条にいう代理権ありと信ずべき正当の理由がある場合にあたるとはいえない。",
+  "ref_law": "民法110条",
+  "lawsuit_id": "53189",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53189",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/189/053189_hanrei.pdf"
+}

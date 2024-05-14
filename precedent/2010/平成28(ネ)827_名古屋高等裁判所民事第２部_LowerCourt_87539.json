@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 29,
+    "month": 9,
+    "day": 29
+  },
+  "case_number": "平成28(ネ)827",
+  "case_name": "退学処分取消等請求控訴事件",
+  "court_name": "名古屋高等裁判所民事第２部",
+  "original_court_name": "名古屋地方裁判所",
+  "original_case_number": "平成25(行ウ)94",
+  "gist": "大学院生に対する退学処分が適法と判断された事例。",
+  "lawsuit_id": "87539",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=87539",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/539/087539_hanrei.pdf"
+}

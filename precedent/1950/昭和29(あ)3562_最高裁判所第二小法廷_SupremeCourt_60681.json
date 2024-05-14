@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 8,
+    "day": 30
+  },
+  "case_number": "昭和29(あ)3562",
+  "case_name": "収賄",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第120号77頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 9,
+    "day": 14
+  },
+  "gist": "任命権委任に関する建設省訓令と刑法第七条にいう法令",
+  "case_gist": "建設省訓令第五号「国家公務員法第五五条第二項の規定により任命権の委任に関する訓令」もまた刑法七条にいう法令のうちに含まれる。",
+  "ref_law": "昭和24年2月15日建設省訓令5号「国家公務員法55条2項の規定により任命権の委任に関する訓令」，刑法7条",
+  "lawsuit_id": "60681",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60681",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/681/060681_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 3,
+    "day": 15
+  },
+  "case_number": "昭和58(オ)749",
+  "case_name": "土地所有権確認等請求、同附帯控訴並びに同参加",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集民　第144号177頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "昭和54(ネ)241",
+  "original_date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 3,
+    "day": 15
+  },
+  "gist": "民訴法七一条に基づく当事者参加の申立があつた場合における原告の訴えの取下",
+  "case_gist": "民訴法七一条に基づく当事者参加の申立があつた場合でも、原告は、被告及び参加人の同意を得て、訴えを取り下げることができる。",
+  "ref_law": "民訴法71条，民訴法236条",
+  "lawsuit_id": "62906",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62906",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/906/062906_hanrei.pdf"
+}

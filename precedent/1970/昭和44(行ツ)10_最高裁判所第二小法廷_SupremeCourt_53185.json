@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 10,
+    "day": 16
+  },
+  "case_number": "昭和44(行ツ)10",
+  "case_name": "不作為の違法確認請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第24巻11号1512頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和43(行コ)55",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 12,
+    "day": 18
+  },
+  "gist": "再入国許可申請に対する不許可処分の取消を求める訴の利益が失われたものとされた事例",
+  "case_gist": "朝鮮民主主義人民共和国創建二〇周年祝賀行事に参加することを目的とする再入国許可申請に対してされた不許可処分の取消を求める訴は、参加を予定した右行事のすべてが終了した後約一か月を経過した時点においては、すでに判決を求める法律上の利益を喪失したものというべきである。",
+  "ref_law": "行政事件訴訟法9条，出入国管理令26条1項，出入国管理令施行規則24条，出入国管理令施行規則別記25号様式",
+  "lawsuit_id": "53185",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53185",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/185/053185_hanrei.pdf"
+}

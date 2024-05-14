@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 10,
+    "day": 24
+  },
+  "case_number": "昭和30(オ)426",
+  "case_name": "株主総会決議不存在確認",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第12巻14号3194頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 2,
+    "day": 21
+  },
+  "gist": "株券発行前のいわゆる合理的期間経過後における記名株式の譲渡と会社に対する効力。",
+  "case_gist": "株券発行前になされた記名株式の譲渡は、会社成立後通常株券を発行し得る合理的期間の経過後になされ、会社においてその譲渡を承認した場合であつても、会社に対しその効力を生じない。",
+  "ref_law": "商法204条2項",
+  "lawsuit_id": "52829",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52829",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/829/052829_hanrei.pdf"
+}

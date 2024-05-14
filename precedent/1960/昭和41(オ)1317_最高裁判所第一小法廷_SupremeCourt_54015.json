@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 4,
+    "day": 3
+  },
+  "case_number": "昭和41(オ)1317",
+  "case_name": "婚姻無効確認請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第23巻4号709頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "昭和41(ネ)152",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 9,
+    "day": 7
+  },
+  "gist": "婚姻の届書が受理された当時本人が意識を失つていた場合と婚姻の届出の効力",
+  "case_gist": "事実上の夫婦共同生活関係にある者が、婚姻意思を有し、その意思に基づいて婚姻の届書を作成したときは、届書の受理された当時意識を失つていたとしても、その受理前に翻意したなど特段の事情のないかぎり、右届書の受理により婚姻は有効に成立する。",
+  "ref_law": "民法739条，民法742条",
+  "lawsuit_id": "54015",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54015",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/015/054015_hanrei.pdf"
+}

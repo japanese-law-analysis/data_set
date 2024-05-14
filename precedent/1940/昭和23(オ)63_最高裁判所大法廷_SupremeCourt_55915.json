@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 6,
+    "day": 15
+  },
+  "case_number": "昭和23(オ)63",
+  "case_name": "行政行為禁止仮処分申請",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第3巻7号265頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 6,
+    "day": 30
+  },
+  "gist": "行政行為禁止仮処分申請事件の上告審係属中行政事件訴訟特例法が施行されたときの上告審の判決",
+  "case_gist": "民事訴訟法による行政処分禁止仮処分申請事件が上告審に係属中、行政事件訴訟特例法が施行されたときは、上告審は、原判決及び第一審判決を破棄し、仮処分申請を不適法とし却下すべきものである。",
+  "ref_law": "行政事件訴訟特例法10条，行政事件訴訟特例法附則2項",
+  "lawsuit_id": "55915",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55915",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/915/055915_hanrei.pdf"
+}

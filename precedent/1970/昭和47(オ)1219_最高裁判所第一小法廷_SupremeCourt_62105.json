@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 4,
+    "day": 19
+  },
+  "case_number": "昭和47(オ)1219",
+  "case_name": "建物収去土地明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第109号157頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和43(ネ)837",
+  "original_date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 8,
+    "day": 31
+  },
+  "gist": "民法五四一条の催告の内容",
+  "case_gist": "民法五四一条の催告には、履行がないときは契約を解除する旨を附言する必要はない。",
+  "ref_law": "民法541条",
+  "lawsuit_id": "62105",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62105",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/105/062105_hanrei.pdf"
+}

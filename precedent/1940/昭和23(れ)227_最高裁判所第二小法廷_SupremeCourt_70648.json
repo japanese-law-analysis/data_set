@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 6,
+    "day": 19
+  },
+  "case_number": "昭和23(れ)227",
+  "case_name": "銃砲等所持禁止令違反、強盗予備",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第2号507頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 12,
+    "day": 15
+  },
+  "gist": "證據の取捨選擇の自由と實驗則",
+  "case_gist": "同一の事實について相互に矛盾する數個の證據がある場合には事實審裁判所はその自由な心證に從つてそのうち何れが眞實に符合するかを判斷して取捨選擇することができるのであつて特定の證據を他の證據より優れた證明力あるものとして他に優先して證據に採用しなければならないことはない、したがつて原審が何れも適法なものである原判決舉示の各證據を判示第一事實の認定の資料として採用しその措信しなかつた原審公判に於ける被告人の供述を證據に採用しなかつた點に實驗則に反するところはない。",
+  "ref_law": "刑訴法337條",
+  "lawsuit_id": "70648",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70648",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/648/070648_hanrei.pdf"
+}

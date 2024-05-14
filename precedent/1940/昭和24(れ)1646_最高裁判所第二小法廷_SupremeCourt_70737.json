@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 9,
+    "day": 17
+  },
+  "case_number": "昭和24(れ)1646",
+  "case_name": "強盗、同予備",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第13号471頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 3,
+    "day": 26
+  },
+  "gist": "共謀による強盜と共同正犯の成立――共犯者中實行行爲者の氏名を明示しない判決の適否",
+  "case_gist": "原判決の示すような共謀の事實が認められる以上たとえ強盜等の實行行為について、共同正犯の責任を兔れないことは、當裁判所の判例として示すところである。しかしたとえその犯行を實行した共犯者の氏名が特に判決の事實摘示の項に明らかにされていなくても、所論のようにそれをもつて判決を違法ならしめる瑕疵とすることはできないのである。",
+  "ref_law": "刑法60條，刑法236條，舊刑訴法360條1項",
+  "lawsuit_id": "70737",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70737",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/737/070737_hanrei.pdf"
+}

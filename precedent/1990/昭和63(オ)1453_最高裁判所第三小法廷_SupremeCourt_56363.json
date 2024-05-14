@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 5,
+    "month": 3,
+    "day": 30
+  },
+  "case_number": "昭和63(オ)1453",
+  "case_name": "配当異議",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第47巻4号3300頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和62(ネ)2515",
+  "original_date": {
+    "era": "Showa",
+    "year": 63,
+    "month": 7,
+    "day": 27
+  },
+  "gist": "動産売買の先取特権に基づく物上代位権の行使としての債権の差押命令の申立てと他の債権者による債権差押事件の配当手続における優先弁済",
+  "case_gist": "動産売買の先取特権に基づく物上代位権を有する債権者甲が、物上代位の目的たる債権につき仮差押えをした後、右債権につき債権者乙による差押えがあつたため第三債務者が民事執行法（平成元年法律第九一号による改正前のもの）一五六条二項、一七八条五項に基づく供託をした場合において、甲が右供託前に更に物上代位権の行使として右債権の差押命令の申立てをしたときであつても、その差押命令が右供託前に第三債務者に送達されない限り、甲は乙による債権差押事件の配当手続において優先弁済を受けることができない。",
+  "ref_law": "民事執行法154条1項1165条1号，民事執行法193条1項",
+  "lawsuit_id": "56363",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56363",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/363/056363_hanrei.pdf"
+}

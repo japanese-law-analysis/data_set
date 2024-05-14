@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 3,
+    "day": 6
+  },
+  "case_number": "昭和32(あ)2716",
+  "case_name": "恐喝、暴行、出資の受入、預り金及び金利等の取締等に関する法律違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第12巻3号452頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 9,
+    "day": 26
+  },
+  "gist": "恐喝罪における害悪通知の方法",
+  "case_gist": "恐喝罪における害悪通知の方法には制限がないから、第一審判決判示の如く被告人が被害者に判示暴行を加え、さらに判事の如く申し受けて同人をして若しその要求に応じないときはさらに暴行等いかなる危害を加えるかも知れないと畏怖せしめたような場合には、暴行も恐喝罪の手段となり得る。",
+  "ref_law": "刑法249条",
+  "lawsuit_id": "50563",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50563",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/563/050563_hanrei.pdf"
+}

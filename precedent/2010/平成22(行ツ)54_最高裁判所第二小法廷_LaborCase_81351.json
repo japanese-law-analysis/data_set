@@ -1,0 +1,16 @@
+{
+  "trial_type": "LaborCase",
+  "date": {
+    "era": "Heisei",
+    "year": 23,
+    "month": 5,
+    "day": 30
+  },
+  "case_number": "平成22(行ツ)54",
+  "case_name": "再雇用拒否処分取消等請求事件",
+  "court_name": "最高裁判所第二小法廷",
+  "lawsuit_id": "81351",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail6?id=81351",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/351/081351_hanrei.pdf",
+  "contents": ""
+}

@@ -1,0 +1,18 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 5,
+    "day": 7
+  },
+  "case_number": "昭和59(行コ)59",
+  "case_name": "通知処分取消請求控訴事件（原審・和歌山地方裁判所昭和５９年（行ウ）第７号）",
+  "court_name": "大阪高等裁判所",
+  "field": "行政",
+  "gist": "建築主事が日本国有鉄道大阪工事局長に対してしたターミナルビル駐車場の建築計画に係る建築基準法１８条３項の審査結果の通知につき，右駐車場の敷地の譲渡を受ける期待権及び営業上の利益は同法によって保護される利益には当たらないとして，右駐車場予定地の周辺において物品販売等の営業を行っている組合員らによって構成される協同組合は，右通知の取消しを求める訴えの原告適格を有しないとした事例",
+  "lawsuit_id": "35837",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=35837",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/837/035837_hanrei.pdf",
+  "contents": ""
+}

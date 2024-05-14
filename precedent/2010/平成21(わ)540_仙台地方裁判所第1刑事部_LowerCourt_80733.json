@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 8,
+    "day": 27
+  },
+  "case_number": "平成21(わ)540",
+  "case_name": "営利誘拐，逮捕監禁，強盗殺人，殺人被告事件",
+  "court_name": "仙台地方裁判所第1刑事部",
+  "gist": "裁判員裁判において，第１事件（殺人）と第２，３事件（営利誘拐，逮捕監禁，強盗殺人）の各犯行の間に確定裁判があり，第１事件について自首を認定して懲役１５年の刑，第２，第３事件について無期懲役刑に処する２個の主文が宣告された事例。",
+  "lawsuit_id": "80733",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=80733",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/733/080733_hanrei.pdf",
+  "contents": ""
+}

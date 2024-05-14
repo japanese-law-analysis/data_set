@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 9,
+    "day": 26
+  },
+  "case_number": "昭和44(テ)23",
+  "case_name": "競売無効確認、所有権移転登記手続請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第96号651頁",
+  "original_court_name": "高松高等裁判所",
+  "original_case_number": "昭和42(ツ)11",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 4,
+    "day": 3
+  },
+  "gist": "控訴審たる地方裁判所が訴の変更により追加提起された新請求につきした判決と不服申立の種類",
+  "case_gist": "事件が控訴審たる地方裁判所に係属中、訴の変更により新請求が追加提起された場合において、同裁判所が新訴に対してする判断は実質上初審としてするものではあるが、第二審としてした判断であり、したがつて、これに対し高等裁判所にする不服申立は上告であつて控訴ではない。",
+  "ref_law": "民訴法360条，民訴法393条1項",
+  "lawsuit_id": "66751",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66751",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/751/066751_hanrei.pdf"
+}

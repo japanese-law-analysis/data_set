@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 12,
+    "day": 12
+  },
+  "case_number": "昭和31(オ)899",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第11巻13号2131頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 7,
+    "day": 18
+  },
+  "gist": "民法第五六六条第二項の類推適用を妨ぐべき買主の悪意の程度",
+  "case_gist": "売買の目的たる土地につき罹災都市借地借家臨時処理法第一〇条により対抗力を有する賃借権が存する場合、買主において右対抗力発生の要件たる事実関係を知つていた以上、たとえ対抗力あることを知らなくても、民法第五六六条第二項を類推適用するにつき準用すべき同条第一項の「知ラザリシトキ」にあたらない。",
+  "ref_law": "民法566条，罹災都市借地借家臨時処理法10条",
+  "lawsuit_id": "57670",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57670",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/670/057670_hanrei.pdf"
+}

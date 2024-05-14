@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 2,
+    "day": 11
+  },
+  "case_number": "昭和39(オ)976",
+  "case_name": "子の認知請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第77号383頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和37(ネ)139",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 5,
+    "day": 26
+  },
+  "gist": "Ｒｈ式血液鑑定の結果により被告が原告の父たりえないとした認定判例が正当とされた事例。",
+  "case_gist": "（省略）",
+  "lawsuit_id": "77762",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77762",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/762/077762_hanrei.pdf"
+}

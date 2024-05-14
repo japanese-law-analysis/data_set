@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 6,
+    "day": 4
+  },
+  "case_number": "昭和33(あ)1512",
+  "case_name": "鉱山保安法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第13巻6号851頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 7,
+    "day": 3
+  },
+  "gist": "一　鉱山保安法第七条第一項にいう「使用し」の意義\n二　鉱山保安法第五八条と法人若しくは人の従業者等の義務",
+  "case_gist": "一　鉱山保安法第七条第一項にいう「使用し」とは、鉱山権者または鉱業代理人が同条項所定の物件を現実に使用した場合はもちろん、使用人その他の従業者に使用させよつて抗内において使用されるに至つた場合をも含むものと解するのが相当である。\n二　法人若しくは人の従業者等は、鉱山保安法第五八条によつて、同法第五五条乃至第五七条の違反行為に該当する行為をしてはならない義務を負わされているものと解すべきである。",
+  "ref_law": "鉱山保安法7条1項，鉱山保安法56条2号，鉱山保安法58条，石炭鉱山保安規則78条1項9号イ，石炭鉱山保安規則78条2項",
+  "lawsuit_id": "51611",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51611",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/611/051611_hanrei.pdf"
+}

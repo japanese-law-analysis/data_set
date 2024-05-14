@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 5,
+    "day": 23
+  },
+  "case_number": "昭和32(あ)2956",
+  "case_name": "偽造有印公文書行使",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第15巻5号712頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 10,
+    "day": 31
+  },
+  "gist": "偽造運転免許証行使罪の成立する事例。",
+  "case_gist": "一　偽造にかかる公安委員会作成名義の運転免許証を携帯して自動車を運転した場合は、偽造公文書行使罪が成立する。\n\n二　垂水裁判官の少数意見\n\n三　たとえ法令上自動車を運転する場合に運転免許証を携帯すべき義務ある場合であつても、運転者が運転の際、偽造の運転免許証を単にポケツトまたは自動社内に携帯所蔵しているだけでは、未だもつて他人が随時これを真正な文書として閲覧できる状態においたものというに足りない。他人に対する外部的行為がないのであるから、これを原判示のように偽造免許証（有印公文書）の行使罪に当るものということはできない。被告人の判示所為は罪とならない。",
+  "ref_law": "刑法158条，刑法155条，道路交通取締法9条3号，道路交通法95条",
+  "lawsuit_id": "50568",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50568",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/568/050568_hanrei.pdf"
+}

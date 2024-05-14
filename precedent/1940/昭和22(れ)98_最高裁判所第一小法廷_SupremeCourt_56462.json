@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 1,
+    "day": 5
+  },
+  "case_number": "昭和22(れ)98",
+  "case_name": "強盗窃盗",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第2巻1号4頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 7,
+    "day": 24
+  },
+  "gist": "共犯の判示の程度",
+  "case_gist": "凡そ共同正犯者が共同正犯者として所罰せられる所以のものは、共犯者が、共同意思の下に一體となつて、互に他人の行爲を利用して自己の意思を實行に移す點にあるのであるから、苟も判文上共謀の事實を明確にさえすれば、共犯者の何人が實行行爲の際、その如何なる部分を分擔したかは、これを特に明示しなくとも、罪となるべき事實の判示として、間然するところはない。",
+  "ref_law": "刑法60條，刑訴法360條1項",
+  "lawsuit_id": "56462",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56462",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/462/056462_hanrei.pdf"
+}

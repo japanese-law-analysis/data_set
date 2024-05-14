@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 11,
+    "day": 14
+  },
+  "case_number": "平成18(む)497",
+  "case_name": "証拠開示にかかる裁定決定",
+  "court_name": "徳島地方裁判所刑事部",
+  "result": "棄却",
+  "lawsuit_id": "38551",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=38551",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/551/038551_hanrei.pdf",
+  "contents": ""
+}

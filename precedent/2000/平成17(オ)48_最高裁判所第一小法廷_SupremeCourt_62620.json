@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 1,
+    "day": 19
+  },
+  "case_number": "平成17(オ)48",
+  "case_name": "建物収去土地明渡等請求事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第219号49頁",
+  "original_court_name": "高松高等裁判所",
+  "original_case_number": "平成16(ネ)267",
+  "original_date": {
+    "era": "Heisei",
+    "year": 16,
+    "month": 10,
+    "day": 12
+  },
+  "gist": "登記に表示された所在地番及び床面積が実際と異なる建物が借地借家法１０条１項にいう「登記されている建物」に当たるとされた事例",
+  "case_gist": "借地上の建物の登記に表示された所在地番及び床面積が実際と異なる場合において，所在地番の相違が職権による表示の変更の登記に際し登記官の過誤により生じたものであること，床面積の相違は建物の同一性を否定するようなものではないことなど判示の事情の下では，上記建物は，借地借家法１０条１項にいう「登記されている建物」に当たる。",
+  "ref_law": "借地借家法10条1項，不動産登記法44条",
+  "lawsuit_id": "62620",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62620",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/620/062620_hanrei.pdf"
+}

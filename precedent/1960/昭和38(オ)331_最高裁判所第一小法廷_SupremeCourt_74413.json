@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 6,
+    "day": 17
+  },
+  "case_number": "昭和38(オ)331",
+  "case_name": "貸金請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第79号401頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和35(ネ)1543",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 11,
+    "day": 30
+  },
+  "gist": "融通手形の振出と消費貸借の成立。",
+  "case_gist": "なんら現実の商取引がなく、受取人をして他から金融を得させる目的でいわゆる融通手形が振り出された場合において、振出人と受取人との間で、受取人が事実上その支払の責に任じ振出人がその責に任じないことを約したときは、右融通手形の授受のみによつては、当事者間に消費貸借が成立したものとはいえない。",
+  "ref_law": "民法587条",
+  "lawsuit_id": "74413",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74413",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/413/074413_hanrei.pdf"
+}

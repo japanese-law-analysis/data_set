@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 12,
+    "day": 21
+  },
+  "case_number": "昭和34(オ)596",
+  "case_name": "第三者異議等",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第15巻12号3243頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 4,
+    "day": 16
+  },
+  "gist": "賃借人の債務不履行による賃貸借解除と転貸借の終了。",
+  "case_gist": "賃貸借の終了によつて転貸借は当然にその効力を失うものではないが、賃借人の債務不履行により賃貸借が解除された場合には、その結果転貸人としての義務に履行不能を生じ、よつて転貸借は右賃貸借の終了と同時に終了に帰する。",
+  "ref_law": "民法601条，民法612条",
+  "lawsuit_id": "52977",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52977",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/977/052977_hanrei.pdf"
+}

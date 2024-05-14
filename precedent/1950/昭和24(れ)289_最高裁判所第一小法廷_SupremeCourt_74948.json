@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 12,
+    "day": 11
+  },
+  "case_number": "昭和24(れ)289",
+  "case_name": "賍物故買、物価統制令違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第70号331頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 12,
+    "day": 20
+  },
+  "gist": "いわゆる米の闇取引についての告示の適用",
+  "case_gist": "本件当時販売を業務とする者又は他方食糧営団でない者が、法定の除外事由のないのにかかわらず国内産玄米を一般消費者に売渡したような場合には、本件当時物価統制令第四条の規定によつて、国内産玄米及び国内産籾の販売価格の統制額を指定した右告示中の政府がこれを売渡したときの販売価格（買入価格ではない。）に依るを相当とするから、原判決が同告示のみを引用したのは正当である。",
+  "ref_law": "物価統制令3条，物価統制令4条，昭和23年1月10日物価庁告示7号国内産玄米等の販売価格の統制額指定の件",
+  "lawsuit_id": "74948",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74948",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/948/074948_hanrei.pdf"
+}

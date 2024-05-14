@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 2,
+    "month": 9,
+    "day": 28
+  },
+  "case_number": "昭和62(あ)486",
+  "case_name": "破壊活動防止法違反、兇器準備集合、威力業務妨害",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第255号261頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 3,
+    "day": 16
+  },
+  "gist": "破壊活動防止法四〇条のせん動を処罰する規定と憲法二一条一項",
+  "case_gist": "破壊活動防止法四〇条のせん動を処罰する規定は、憲法二一条一項に違反しない。",
+  "ref_law": "破壊活動防止法4条2項，破壊活動防止法40条，憲法21条1項",
+  "lawsuit_id": "58464",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58464",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/464/058464_hanrei.pdf"
+}

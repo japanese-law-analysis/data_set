@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 9,
+    "day": 25
+  },
+  "case_number": "昭和46(オ)1110",
+  "case_name": "転付預金債権支払請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第29巻8号1287頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和45(ネ)980",
+  "original_date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 9,
+    "day": 13
+  },
+  "gist": "金融機関が手形貸付債権又は手形買戻請求権をもつて転付された預金債権を相殺した場合と手形の返還先",
+  "case_gist": "金融機関が預金者から第三者に転付された預金債権を右預金者に対する手形貸付債権又は手形買戻請求権をもつて相殺した結果預金債権が転付前に遡つて消滅した場合には、金融機関は、手形貸付けについて振り出された手形又は買戻の対象となつた手形を右預金者に返還すべきであり、預金債権の転付を受けた第三者に返還すべきではない。",
+  "ref_law": "民法468条，民法511条，民訴法601条，手形法39条，手形法50条，手形法77条",
+  "lawsuit_id": "54181",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54181",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/181/054181_hanrei.pdf"
+}

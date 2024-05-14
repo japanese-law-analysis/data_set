@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 10,
+    "day": 18
+  },
+  "case_number": "昭和54(し)106",
+  "case_name": "公務執行妨害等被告事件についてした裁判長の処分に対する異議申立棄却決定に対する特別抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第216号141頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 9,
+    "day": 18
+  },
+  "gist": "裁判長が看守の着席位置に関してとつた措置に対する異議申立棄却決定が、刑訴法四三三条一項にいう決定にあたらないとされた事例",
+  "ref_law": "刑訴法433条1項",
+  "lawsuit_id": "60376",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60376",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/376/060376_hanrei.pdf"
+}

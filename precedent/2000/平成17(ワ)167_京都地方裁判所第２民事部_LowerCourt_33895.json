@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 11,
+    "day": 30
+  },
+  "case_number": "平成17(ワ)167",
+  "case_name": "損害賠償請求事件",
+  "court_name": "京都地方裁判所第２民事部",
+  "gist": "脚立の変形が，脚立に存した不具合に起因するものであるとして，その製造業者に対し，製造物責任法に基づく責任を，その販売業者に対し，瑕疵担保責任に基づく責任をそれぞれ負わせた事例",
+  "lawsuit_id": "33895",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=33895",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/895/033895_hanrei.pdf",
+  "contents": "1 2\na b c d\ne C\n1 2\n2 1\n"
+}

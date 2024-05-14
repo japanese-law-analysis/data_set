@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 4,
+    "day": 8
+  },
+  "case_number": "昭和49(オ)515",
+  "case_name": "債務額確認請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第120号421頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和46(ネ)1886",
+  "original_date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 2,
+    "day": 25
+  },
+  "gist": "悪意の指名債権譲受人に対する債権譲渡の承諾の効力",
+  "case_gist": "指名債権の債務者は、異議をとどめずに債権の譲渡を承諾した場合であつても、譲渡人に対抗することのできる事由があることについて悪意の譲受人に対しては、右の事由をもつて対抗することができる。",
+  "ref_law": "民法468条1項",
+  "lawsuit_id": "74501",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74501",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/501/074501_hanrei.pdf"
+}

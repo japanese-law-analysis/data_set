@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 63,
+    "month": 12,
+    "day": 9
+  },
+  "case_number": "昭和57(行ツ)131",
+  "case_name": "懲戒処分取消請求事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第42巻10号880頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和51(行コ)19",
+  "original_date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 4,
+    "day": 27
+  },
+  "gist": "地方公営企業労働関係法附則四項により地方公営企業職員以外の単純な労務に雇用される一般職の地方公務員に準用される同法一一条一項と憲法二八条",
+  "case_gist": "地方公営企業労働関係法附則四項により地方公営企業職員以外の単純な労務に雇用される一般職の地方公務員に準用される同法一一条一項は、憲法二八条に違反しない。",
+  "ref_law": "地方公営企業労働関係法11条1項，地方公営企業労働関係法附則4項，憲法28条",
+  "lawsuit_id": "52170",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52170",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/170/052170_hanrei.pdf"
+}

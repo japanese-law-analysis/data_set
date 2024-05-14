@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 11,
+    "day": 29
+  },
+  "case_number": "平成18(行ウ)17",
+  "case_name": "砂防指定地内行為許可取消請求事件",
+  "court_name": "岐阜地方裁判所民事２部",
+  "result": "却下",
+  "gist": "県がした砂防指定地内行為許可処分の取消訴訟において，当該行為が完了した後は処分取消により回復すべき法律上の利益が認められないとして，訴えが却下された事例",
+  "lawsuit_id": "33910",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=33910",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/910/033910_hanrei.pdf",
+  "contents": ""
+}

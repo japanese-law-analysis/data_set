@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 11,
+    "day": 7
+  },
+  "case_number": "昭和34(あ)266",
+  "case_name": "関税法違反",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "刑集　第16巻11号1505頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 12,
+    "day": 13
+  },
+  "gist": "一　憲法第三九条後段の法意\n二　刑罰法令の規定に従い一の犯罪につき法定の主刑を科した上、没収又は追徴を科することは右憲法の規定に違反するか",
+  "case_gist": "一　憲法第三九条後段の規定は、一の犯罪につき、裁判により処罰された上は、同一の犯罪について重ねて処罰されない趣旨を定めたものである。\n二　刑罰法令で一の犯罪に対する法定刑として、主刑及び犯罪に係る物の没収又はこれに代る追徴を、併科しうるべき旨の現定がある場合において、右規定に従い、一の裁判によりその一個の犯罪につき、法定の主刑及び没収又はこれに代る追徴を併科することは、憲法同条後段の禁止するところではない。",
+  "ref_law": "憲法39条，旧関税法（昭和29年法律61号による改正前のもの）75条1項，旧関税法（昭和29年法律61号による改正前のもの）83条",
+  "lawsuit_id": "56985",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56985",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/985/056985_hanrei.pdf"
+}

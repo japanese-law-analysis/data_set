@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 2,
+    "day": 13
+  },
+  "case_number": "平成17(ワ)2092",
+  "case_name": "損害賠償請求事件",
+  "court_name": "京都地方裁判所第４民事部",
+  "gist": "1　原告らが被告(寺院)の信徒でなくなったことを理由に，被告の管理する納骨堂に原告らが納骨した遺骨をほかの遺骨と分別できない状態にした被告の行為が，債務不履行及び不法行為に該当するとされた事例\n2　納骨時の「納骨された遺骨は一切返還しない」との約定に基づき遺骨の返還義務を負わないとする被告の主張が排斥された事例\n3　上記被告の行為は「合祀」として社会通念上相当な行為であるから不法行為に該当しないとする被告の主張が排斥された事例",
+  "lawsuit_id": "34237",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=34237",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/237/034237_hanrei.pdf",
+  "contents": "H19.2.13  17 2092\n17 2092 18 871\nH19.2.13\n1 1\n2 2\n3 3\n4 4\n5 5\n6 6\n3 4\n"
+}

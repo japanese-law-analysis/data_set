@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 1,
+    "day": 22
+  },
+  "case_number": "昭和39(オ)547",
+  "case_name": "建物明渡等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第77号113頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 1,
+    "day": 22
+  },
+  "gist": "建物賃貸借の解除権が発生しないとされた事例。",
+  "case_gist": "建物賃借人が本件店舗を建築するにいたつた経緯、店舗の構造、その他原判示の事実関係のもとにおいては、賃借人の本件家屋賃貸借上の義務違背は軽微であると判断すべきであるから、前記店舗の無断建築によつては、本件家屋賃貸借の解除権は発生しない。",
+  "ref_law": "民法541条，民法1条",
+  "lawsuit_id": "77746",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77746",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/746/077746_hanrei.pdf"
+}

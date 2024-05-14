@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 10,
+    "day": 24
+  },
+  "case_number": "昭和42(オ)1089",
+  "case_name": "保証金支払請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第22巻10号2245頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和40(ネ)1305",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 5,
+    "day": 29
+  },
+  "gist": "市役所文書課係員が受け付けた事実を記入し受付日付を記載した債権譲渡通知書と確定日付のある証書",
+  "case_gist": "債務者たる市の文書受領権限のある市役所文書課係員が、市役所の文書処理規定に基づき、私署証書たる債権譲渡通知書に、これを受け付けた事実を記入し、受付日付を記載したときは、右債権譲渡通知書は、民法施行法第五条第五号所定の確定日付のある証書にあたる。",
+  "ref_law": "民法施行法5条5号，民法467条2項",
+  "lawsuit_id": "54063",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54063",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/063/054063_hanrei.pdf"
+}

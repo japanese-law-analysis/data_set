@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 11,
+    "day": 24
+  },
+  "case_number": "昭和62(オ)584",
+  "case_name": "離婚",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第152号233頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和60(ネ)2080",
+  "original_date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 12,
+    "day": 15
+  },
+  "gist": "別居期間が三〇年に及びその間に未成熟の子がない夫婦につき有責配偶者からの離婚請求を認容することが著しく社会正義に反するといえるような特段の事情があるとはいえないとされた事例",
+  "case_gist": "夫が妻のもとを去つて既に別居期間が三〇年に及び夫婦の間に未成熟の子がなく、夫が現在妻の住んでいる住居の購入費を一部負担するなどの援助をし、妻は病気がちであるものの、年金収入により普通の生活をし、夫の再三の離婚申入れに対して結婚した以上は戸籍上の夫婦の記載を守り抜きたいという気持から拒否しつづけているなど判示の事情のもとにおいては、有責配偶者たる夫からの離婚請求を認容することが著しく社会正義に反するといえるような特段の事情があるとはいえない。",
+  "ref_law": "民法1条2項，民法770条",
+  "lawsuit_id": "70507",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70507",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/507/070507_hanrei.pdf"
+}

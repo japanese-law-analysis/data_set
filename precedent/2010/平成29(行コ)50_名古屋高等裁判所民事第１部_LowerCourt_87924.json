@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 30,
+    "month": 4,
+    "day": 13
+  },
+  "case_number": "平成29(行コ)50",
+  "case_name": "裁決取消請求控訴事件",
+  "court_name": "名古屋高等裁判所民事第１部",
+  "original_court_name": "岐阜地方裁判所",
+  "original_case_number": "平成26(行ウ)8",
+  "gist": "岐阜県知事は，Ａに対し，岐阜県中津川市内の土地（以下「本件計画地」という。）において，産業廃棄物の焼却施設及び焼成施設を設置することの許可をしたが，その後，同設置許可処分を取り消したところ，Ａから同取消処分の取消しを求める審査請求を受けた環境大臣は，同取消処分を取り消す裁決をした。本件は，本件計画地の所在する岐阜県中津川市に居住する住民である控訴人らが，国に対し，上記裁決が違法であるとしてその取消しを求めた件につき，控訴人らの請求を却下又は棄却した原判決が是認された事案である。",
+  "lawsuit_id": "87924",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=87924",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/924/087924_hanrei.pdf"
+}

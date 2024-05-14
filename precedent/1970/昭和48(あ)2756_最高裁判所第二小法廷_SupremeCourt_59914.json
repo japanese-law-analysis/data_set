@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 3,
+    "day": 22
+  },
+  "case_number": "昭和48(あ)2756",
+  "case_name": "業務上過失致死",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第191号505頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 11,
+    "day": 5
+  },
+  "gist": "刑訴法三八六条一項二号、三号を混合適用して決定棄却した事例",
+  "ref_law": "刑訴法386条1項2号，刑訴法386条1項3号",
+  "lawsuit_id": "59914",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59914",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/914/059914_hanrei.pdf"
+}

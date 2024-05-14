@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 1,
+    "day": 30
+  },
+  "case_number": "昭和37(オ)1294",
+  "case_name": "建物収去土地明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第71号557頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 8,
+    "day": 29
+  },
+  "gist": "更新拒絶の正当事由の有無の判断時点。",
+  "case_gist": "更新拒絶の正当事由の有無は、土地所有者が遅滞なく異議を述べるべきであつた時期を基準として判断すべきであるから、その時期以後に立退料支払の条件提示の事実が生じたとしても、正当事由として斟酌しえない。",
+  "ref_law": "借地法6条",
+  "lawsuit_id": "74381",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74381",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/381/074381_hanrei.pdf"
+}

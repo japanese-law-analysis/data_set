@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 12,
+    "day": 26
+  },
+  "case_number": "昭和37(オ)11",
+  "case_name": "違約金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第63号1099頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 10,
+    "day": 6
+  },
+  "gist": "一　立木の二重売買と債務不履行の成立時期\n二　売主の債務不履行のときは内入金の倍額を買主に支払い、買主の債務不履行のときは内入金を放棄するとの約定と賠償額の予定\n三　予定賠償額の請求と契約解除の要否",
+  "case_gist": "一　売買の目的物である立木を売主が買主以外の者に売却して伐採搬出されたときは、そのときに買主に対する債務不履行が成立する。\n二　売主が債務不履行のときは内入金の倍額を買主に支払い、買主の債務不履行のときは内入金を放棄するとの約定は、債務不履行の場合に当事者間の契約関係を清算しようとするための損害賠償を予定したものと解することができる。\n三　右のような場合に、売主が買主の債務不履行を理由として損害賠償を請求するためには、契約を解除する必要はない。",
+  "ref_law": "民法415条，民法557条，民法420条，民法541条",
+  "lawsuit_id": "66053",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66053",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/053/066053_hanrei.pdf"
+}

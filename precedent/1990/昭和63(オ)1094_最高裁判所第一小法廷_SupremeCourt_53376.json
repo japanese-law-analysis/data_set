@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 4,
+    "month": 6,
+    "day": 25
+  },
+  "case_number": "昭和63(オ)1094",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第46巻4号400頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和59(ネ)288",
+  "original_date": {
+    "era": "Showa",
+    "year": 63,
+    "month": 4,
+    "day": 25
+  },
+  "gist": "損害賠償額の算定に当たって加害行為前から存在した被害者の疾患をしんしゃくすることの可否",
+  "case_gist": "被害者に対する加害行為と加害行為前から存在した被害者の疾患とがともに原因となって損害が発生した場合において、当該疾患の態様、程度などに照らし、加害者に損害の全部を賠償させるのが公平を失するときは、裁判所は、損害賠償の額を定めるに当たり、民法七二二条二項の規定を類推適用して、被害者の疾患をしんしゃくすることができる。",
+  "ref_law": "民法722条2項",
+  "lawsuit_id": "53376",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53376",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/376/053376_hanrei.pdf"
+}

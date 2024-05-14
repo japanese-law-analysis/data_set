@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 2,
+    "month": 10,
+    "day": 24
+  },
+  "case_number": "平成1(し)121",
+  "case_name": "強姦未遂保護事件についてした保護観察決定に対する抗告棄却決定に対する再抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第44巻7号639頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 9,
+    "day": 20
+  },
+  "gist": "家庭裁判所の捜査機関に対し補充捜査を促し又は求める権限",
+  "case_gist": "家庭裁判所は、事実調査のため、捜査機関に対し、補充捜査を促し、又は少年法一六条の規定に基づいて補充捜査を求めることができる。",
+  "ref_law": "少年法8条，少年法16条，刑訴法189条2項，刑訴法191条1項",
+  "lawsuit_id": "50110",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50110",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/110/050110_hanrei.pdf"
+}

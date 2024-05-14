@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 6,
+    "day": 30
+  },
+  "case_number": "昭和30(あ)467",
+  "case_name": "強盗殺人、放火、死体損壊",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第106号891頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 12,
+    "day": 28
+  },
+  "gist": "死刑と憲法第三六条、第一一条、第一三条、第九条、第九七条",
+  "case_gist": "死刑は憲法三六条、一一条、一三条、九条、九七条等に違反しない。",
+  "ref_law": "刑法9条，憲法36条，憲法11条，憲法13条，憲法9条，憲法97条",
+  "lawsuit_id": "60860",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60860",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/860/060860_hanrei.pdf"
+}

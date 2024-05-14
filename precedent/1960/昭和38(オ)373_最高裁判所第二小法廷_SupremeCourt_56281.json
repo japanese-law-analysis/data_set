@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 1,
+    "day": 24
+  },
+  "case_number": "昭和38(オ)373",
+  "case_name": "慰藉料請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第18巻1号121頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 12,
+    "day": 14
+  },
+  "gist": "不法行為により身体の障害を受けた者の父母が自己の権利として慰藉料請求権を有するとされた事例。",
+  "case_gist": "一二歳の娘が不法行為により身体の傷害を受け、右受傷の部位程度、治癒後の創痕などが原判示（原判決理由参照）のごとくであるところから、同女が世間なみの幸福な結婚生活にはいることができるかどうかを危惧するなど人の親として相当の精神的苦痛を味つている場合においては、右父母は、民法第七〇九条第七一〇条に基づいて自己の権利として加害者に対し慰藉料の請求ができる。",
+  "ref_law": "民法709条，民法710条，民法711条",
+  "lawsuit_id": "56281",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56281",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/281/056281_hanrei.pdf"
+}

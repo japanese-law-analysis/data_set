@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 2,
+    "day": 12
+  },
+  "case_number": "昭和39(し)3",
+  "case_name": "審判請求棄却決定に対する抗告棄却決定に対する特別抗告の申立",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第150号433頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 1,
+    "day": 16
+  },
+  "gist": "刑訴規則第二七四条の規定の趣旨と特別抗告申立書にその理由を記載するにあたつて抗告理由の記載をもつてこれに代えることの適否。",
+  "case_gist": "刑訴規則第二七四条によれば、刑訴法第四三三条の特別抗告の申立書には、抗告の趣旨を簡潔に記載しなければならないと定められている。この規定は抗告申立書にその理由を記載するにあたつて、他の文書の記載を引用することは許されないという趣旨である。したがつて、抗告理由の記載の引用は不適法である。",
+  "ref_law": "刑訴法433条，刑訴規則274条",
+  "lawsuit_id": "58891",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58891",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/891/058891_hanrei.pdf"
+}

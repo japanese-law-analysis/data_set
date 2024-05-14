@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 6,
+    "day": 30
+  },
+  "case_number": "昭和57(あ)1777",
+  "case_name": "業務上横領、詐欺",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第37巻5号592頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 10,
+    "day": 26
+  },
+  "gist": "すでに公判期日において証人として尋問された者を同一事項につき検察官が取り調べて作成した供述調書と刑訴法三二一条一項二号にいう「前の供述」",
+  "case_gist": "すでに公判期日において証人として尋問された者を同一事項につき検察官が取り調べて作成した供述調書であつても、その後の公判準備若しくは公判期日において、その者が右供述調書の内容と相反するか若しくは実質的に異なつた供述をした以上、刑訴法三二一条一項二号にいう「前の供述」の要件を欠くものではない。",
+  "ref_law": "刑訴法321条1項2号",
+  "lawsuit_id": "50254",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50254",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/254/050254_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 12,
+    "month": 4,
+    "day": 28
+  },
+  "case_number": "平成11(許)40",
+  "case_name": "配当表に対する異議申立て却下決定に対する抗告審の取消決定に対する許可抗告事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "破棄自判",
+  "article_info": "集民　第198号193頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成11(ラ)449",
+  "original_date": {
+    "era": "Heisei",
+    "year": 11,
+    "month": 10,
+    "day": 14
+  },
+  "gist": "破産財団から放棄された財産を目的とする別除権につき放棄の意思表示をすべき相手方",
+  "case_gist": "破産者が株式会社である場合を含め、破産財団から放棄された財産を目的とする別除権につき別除権者がその放棄の意思表示をすべき相手方は、破産者である。",
+  "ref_law": "破産法96条・破産法197条12号・破産法277条",
+  "lawsuit_id": "62457",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62457",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/457/062457_hanrei.pdf"
+}

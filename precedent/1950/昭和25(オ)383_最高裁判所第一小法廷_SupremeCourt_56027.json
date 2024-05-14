@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 12,
+    "day": 28
+  },
+  "case_number": "昭和25(オ)383",
+  "case_name": "自作農創設特別措置法に基く違法処分取消請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第7巻13号1696頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 10,
+    "day": 16
+  },
+  "gist": "自作農創設特別措置法第三条第一項または同条第五項の特定の号に該当するものとして定められた農地買収計画を、訴願裁決で右第五項の他の号に該当するものとして維持することの可否",
+  "case_gist": "自作農創設特別措置法第三条第一項または同条第五項の特定の号に該当するものとして定められた農地買収計画を、訴願裁決で右農地は右特定の号にはあたらないが、同項の他の号に該当するものとして維持することはゆるされない。",
+  "ref_law": "自作農創設特別措置法3条1項5項，自作農創設特別措置法6条1項，自作農創設特別措置法7条",
+  "lawsuit_id": "56027",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56027",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/027/056027_hanrei.pdf"
+}

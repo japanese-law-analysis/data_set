@@ -1,0 +1,22 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 7,
+    "day": 20
+  },
+  "case_number": "昭和28(あ)4361",
+  "case_name": "贈賄、収賄",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第107号803頁",
+  "original_court_name": "広島高等裁判所",
+  "gist": "刑法第一九七条の「ソノ職務ニ関シ」と認められる一事例",
+  "case_gist": "被告人は特別都市計画法に基く広島市東部地区土地区劃整理委員会の委員として、換地に関する事項その他同法所定の土地区劃整理について工事施行者である広島市長の諮問に対し審議答申する職務を担当しているものであるが、判示の各日時に判示各場所において、Ａ外一名から同人等の各土地の換地等について斡旋等をしたことに対する謝礼の趣旨として判示各金品を収受したというのであり、右判示事実は同判決挙示の証拠によつて十分肯認することができるから、被告人はその職務執行と密接な関係を有する行為をなすことにより金品を収受したことが認められる。",
+  "ref_law": "刑法197条",
+  "lawsuit_id": "75443",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=75443",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/443/075443_hanrei.pdf"
+}

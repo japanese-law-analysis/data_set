@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 7,
+    "day": 11
+  },
+  "case_number": "昭和26(オ)879",
+  "case_name": "当選無効請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第6巻7号653頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 10,
+    "day": 10
+  },
+  "gist": "公職選挙法第六七条後段の趣旨",
+  "case_gist": "公職選挙法第六七条後段の趣旨は、投票の効力について、同法施行前よりも厳格に解すべきものとする趣旨ではなく、かえつて選挙人の意思が投票の記載で判断し得る以上は、なるべくこれを有効とすべきものとする趣旨である。",
+  "ref_law": "公職選挙法67条",
+  "lawsuit_id": "57274",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57274",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/274/057274_hanrei.pdf"
+}

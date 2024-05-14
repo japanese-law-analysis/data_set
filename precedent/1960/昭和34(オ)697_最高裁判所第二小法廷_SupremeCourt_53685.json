@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 10,
+    "day": 13
+  },
+  "case_number": "昭和34(オ)697",
+  "case_name": "貸金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第15巻9号2320頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 2,
+    "day": 28
+  },
+  "gist": "商法第二八条の広告にあたらない事例。",
+  "case_gist": "甲、乙、丙の三会社が営業を廃止し、新たに丁会社が設立されて旧三会社と同一の中央卸売市場における水産物等の卸売業務を開始するという趣旨の書面を丁会社が旧三会社の取引先に送付しても、商法第二八条にいう債務引受の広告をしたことにあたらない。",
+  "ref_law": "商法28条",
+  "lawsuit_id": "53685",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53685",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/685/053685_hanrei.pdf"
+}

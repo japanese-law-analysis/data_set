@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 10,
+    "day": 1
+  },
+  "case_number": "昭和38(あ)1266",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集刑　第148号663頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 5,
+    "day": 7
+  },
+  "gist": "刑訴法第六〇条第一項第一号にいう「定まつた住居を有しないとき」にあたるとされた事例。",
+  "case_gist": "被告人が勾留請求の直前の約六ヶ月間に都内の簡易旅館等を数回転々しており、右請求当時も簡易宿泊所に住居していた等の事情があるときは、刑訴法第六〇条第一項第一号にいう「被告人が定まつた住居を有しなかつた」にあたる。",
+  "ref_law": "刑訴法60条1項1号",
+  "lawsuit_id": "58777",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58777",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/777/058777_hanrei.pdf"
+}

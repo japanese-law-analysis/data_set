@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 3,
+    "day": 15
+  },
+  "case_number": "昭和34(オ)1132",
+  "case_name": "通行権確認",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第16巻3号556頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 8,
+    "day": 7
+  },
+  "gist": "既存通路が東京都建築安全条例第三条所定の幅員に欠ける場合と民法第二一〇条の囲繞地通行権の成否",
+  "case_gist": "土地が路地状部分で公路に通じており、既存建物所有により右土地の利用をするのになんらの支障がない場合、その路地状部分が東京都建築安全条例第三条所定の幅員に欠けるとの理由で増築につき建築基準適合の確認がして貰えないというだけでは、民法第二一〇条の囲繞地通行権は成立しない。",
+  "ref_law": "民法210条，建築基準法6条，建築基準法43条，東京都建築安全条例3条",
+  "lawsuit_id": "56233",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56233",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/233/056233_hanrei.pdf"
+}

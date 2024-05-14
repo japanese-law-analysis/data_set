@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 2,
+    "day": 28
+  },
+  "case_number": "昭和31(あ)3915",
+  "case_name": "窃盗、住居侵入",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第117号1357頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 10,
+    "day": 6
+  },
+  "gist": "管理人の管理下にある空別荘は軽犯罪法第一条第一号にいう「看守していない邸宅、建物」に当るか",
+  "case_gist": "所論Ｂ所有の別荘は右Ｃにおいて管理しているものであることが明らかであるから軽犯罪法一条一号にいう「看守していない邸宅、建物」に当らない。刑法一三〇条に規定する住居侵入罪を構成すること勿論である。",
+  "ref_law": "軽犯罪法1条1号，刑法130条",
+  "lawsuit_id": "60977",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60977",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/977/060977_hanrei.pdf"
+}

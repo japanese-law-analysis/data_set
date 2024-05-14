@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 11,
+    "day": 19
+  },
+  "case_number": "昭和53(あ)1084",
+  "case_name": "わいせつ図画販売",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第33巻7号754頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 3,
+    "day": 2
+  },
+  "gist": "モーテル用ビデオテープが刑法一七五条にいう「猥褻ノ図画」にあたるとされた事例―いわゆる日活わいせつビデオ事件―",
+  "case_gist": "男女の性器及び実際の性交場面を直接撮影していないモーテル用ビデオテープであつても、男女の俳優による性交、性戯等の姿態、発声の演技をきわめて大胆、露骨、執ように描写することにより、見る者に対し、実際の性交場面等を容易に連想させて直接的かつ強度の性的刺激を与えるもの（原判文参照）は、刑法一七五条にいう「猥褻ノ図画」にあたる。",
+  "ref_law": "刑法175条",
+  "lawsuit_id": "51148",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51148",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/148/051148_hanrei.pdf"
+}

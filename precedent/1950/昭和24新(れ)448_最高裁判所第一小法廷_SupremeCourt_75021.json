@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 5,
+    "day": 25
+  },
+  "case_number": "昭和24新(れ)448",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第17号795頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 10,
+    "day": 20
+  },
+  "gist": "一　辯護人に對する公判期日通知手續に懈怠があるという主張と上告理由\n\n二　量刑不當の主張と上告の適否",
+  "case_gist": "一　所論は第一審における辯護人に對する公判期日通知手續に懈怠ありと主張するものであるから、明らかに刑訴法第四〇五條に定める事由に該當しない。\n\n二　所論は第一判決の量刑不當の主張であるから、明らかに刑訴法第四〇五條に定める事由に該當しない。",
+  "ref_law": "刑訴法386條1項3號，刑訴法405條",
+  "lawsuit_id": "75021",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=75021",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/021/075021_hanrei.pdf"
+}

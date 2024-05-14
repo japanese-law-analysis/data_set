@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 2,
+    "day": 22
+  },
+  "case_number": "昭和23(オ)170",
+  "case_name": "町会議員選挙無効",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第3巻2号44頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 10,
+    "day": 25
+  },
+  "gist": "議員一人の発議に基いて開かれた秘密会でした町議会の議決の効力",
+  "case_gist": "町議会で議員一人の発議に基いて採決の結果、秘密会を開くことに全員異議のなかつた場合は、その秘密会でした議決は無効ではない。",
+  "ref_law": "地方自治法115条",
+  "lawsuit_id": "55906",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55906",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/906/055906_hanrei.pdf"
+}

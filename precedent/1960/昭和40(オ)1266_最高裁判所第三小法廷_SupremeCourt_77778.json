@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 5,
+    "day": 17
+  },
+  "case_number": "昭和40(オ)1266",
+  "case_name": "売掛代金請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第83号531頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和39(ネ)1491",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 8,
+    "day": 26
+  },
+  "gist": "民法第一〇九条の表見代理の成立が認められた事例",
+  "case_gist": "甲会社営業部責任者が松本市内において店舗を賃借し、乙をこれに常駐させ、長野県下の工事注文の獲得に尽力させており、乙は、右店舗の入口に「甲会社Ｄセンター」と表示し、右名称を刻したゴム印を同所に備えつけ、自己の氏名に右センター所長の肩書を付し、かつ甲会社の本店等の所在電話番号を付した名刺を作成使用していたものであり、右店舗の表示については甲会社もこれを許容し、甲会社営業部第二課長も乙が甲会社のための木材購入にあたり、右名刺を使用することを認容していた等、判示の事情があるときは、甲会社は乙に対し資材受注の代理権を付与したものと解するのが相当である。",
+  "ref_law": "民法109条",
+  "lawsuit_id": "77778",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77778",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/778/077778_hanrei.pdf"
+}

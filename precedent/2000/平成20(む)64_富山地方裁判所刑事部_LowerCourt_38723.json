@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 6,
+    "day": 13
+  },
+  "case_number": "平成20(む)64",
+  "case_name": "証拠開示に関する裁定請求（証拠開示命令請求）事件",
+  "court_name": "富山地方裁判所刑事部",
+  "result": "棄却",
+  "lawsuit_id": "38723",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=38723",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/723/038723_hanrei.pdf",
+  "contents": ""
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 12,
+    "day": 24
+  },
+  "case_number": "昭和48(さ)3",
+  "case_name": "窃盗被告事件の判決に対する非常上告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "刑集　第27巻11号1469頁",
+  "original_court_name": "神戸簡易裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 8,
+    "day": 2
+  },
+  "gist": "一　刑訴法四五八条一号但書にいう「原判決が被告人のため不利益であるとき」の意義\n二　少年に対し定期刑を科した原判決が刑訴法四五八条一号但書にいう「被告人のため不利益であるとき」にあたるとされた事例",
+  "case_gist": "一　刑訴法四五八条一号但書にいう「原判決が被告人のため不利益であるとき」とは、原判決の誤りを是正してあらたに言い渡すべき判決が、原判決より被告人に利益なことが法律上明白である場合をいう。\n二　本件におけるように、少年である被告人に対し言い渡された原判決の刑が懲役八月の定期刑であり、あらたに言い渡すべき刑が懲役六月以上八月以下の不定期刑であるときは、刑訴法四五八条一号但書にいう「原判決が被告人のため不利益であるとき」にあたる。",
+  "ref_law": "刑訴法458条1号",
+  "lawsuit_id": "51072",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51072",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/072/051072_hanrei.pdf"
+}

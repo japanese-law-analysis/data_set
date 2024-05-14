@@ -1,0 +1,17 @@
+{
+  "trial_type": "LaborCase",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 8,
+    "day": 25
+  },
+  "case_number": "平成21(行コ)7",
+  "case_name": "療養補償給付不支給決定処分取消等請求控訴事件（通称　北大阪労基署長療養補償等不支給処分取消）",
+  "court_name": "大阪高等裁判所",
+  "field": "労働",
+  "lawsuit_id": "81424",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail6?id=81424",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/424/081424_hanrei.pdf",
+  "contents": ""
+}

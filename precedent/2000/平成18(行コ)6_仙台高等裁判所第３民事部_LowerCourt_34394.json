@@ -1,0 +1,20 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 2,
+    "day": 26
+  },
+  "case_number": "平成18(行コ)6",
+  "case_name": "障害基礎年金不支給決定取消等請求控訴事件",
+  "court_name": "仙台高等裁判所第３民事部",
+  "result": "棄却",
+  "original_court_name": "盛岡地方裁判所",
+  "original_case_number": "平成13(行ウ)8",
+  "gist": "国民年金法３０条の４に規定する２０歳前障害基礎年金受給要件である２０歳前に診療を受けていること（２０歳前初診日要件）について，２０歳以後の初診であっても，ア２０歳直後に診療を受け，その診断及び診察資料で２０歳前に発症していることが明確に判断できること，イ２０歳前のときに診療を受けられないことに無理からぬ事情が存在すること，ウ２０歳以後に国民年金に任意加入していながら保険金未払等の事情から受給要件を充足しないために２０歳前障害基礎年金を選択したものではない場合には，これを具備するものとして，２０歳前障害基礎年金の受給資格を認めて社会保険庁がした不支給処分を取り消した事例",
+  "lawsuit_id": "34394",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=34394",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/394/034394_hanrei.pdf",
+  "contents": "\u0001\n\u0001\n\u0001\n\u0001\n"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 4,
+    "day": 4
+  },
+  "case_number": "昭和52(行ツ)69",
+  "case_name": "行政処分取消",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第123号501頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和50(行コ)7",
+  "original_date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 3,
+    "day": 28
+  },
+  "gist": "社会保険診療報酬支払基金が保険医療機関からの診療報酬請求に対して行ういわゆる減点の措置と抗告訴訟の対象",
+  "case_gist": "社会保険診療報酬支払基金が保険医療機関からの診療報酬請求に対して行ういわゆる減点の措置は、抗告訴訟の対象となる行政処分にはあたらない。",
+  "ref_law": "健康保険法43条の9第4項，健康保険法43条の9第5項，社会保険診療報酬支払基金法13条1項3号，行政事件訴訟法3条",
+  "lawsuit_id": "64233",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64233",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/233/064233_hanrei.pdf"
+}

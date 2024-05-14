@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 10,
+    "day": 15
+  },
+  "case_number": "昭和39(オ)402",
+  "case_name": "土地建物明渡等請求並びに当事者参加による土地建物所有権確認請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第19巻7号1788頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和37(ネ)2822",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 12,
+    "day": 25
+  },
+  "gist": "民訴法第七一条に基づく参加人が原告および被告の双方を相手方として確認の請求をした場合において相手方の一方が参加人の請求を争わないときと確認の利益の有無。",
+  "case_gist": "民訴法第七一条に基づく参加人が原告および被告の双方を相手方として確認の請求をした場合において、相手方の一方が参加人の請求を争わないときでも、他の相手方が参加人の請求を争つているかぎり、参加人は、相手方双方に対し、当然確認の利益を有する。",
+  "ref_law": "民訴法62条，民訴法71条，民訴法225条",
+  "lawsuit_id": "53914",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53914",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/914/053914_hanrei.pdf"
+}

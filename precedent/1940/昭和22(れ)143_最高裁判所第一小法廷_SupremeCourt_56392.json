@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 12,
+    "day": 15
+  },
+  "case_number": "昭和22(れ)143",
+  "case_name": "町会議員選挙罰則違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "刑集　第1巻号83頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 9,
+    "day": 10
+  },
+  "gist": "公判期日に於ける證人訊問申請と刑訴應急措置法第一二條",
+  "case_gist": "司法警察官の聽取書の供述者を證人として訊問することを辯護人が申請しているにかかわらず、これを却下し、供述者を公判期日において訊問する機曾を被告人に興えないで、前記聴取書を證據として採つたことは、刑訴應急措置法第一二條に反するものである。",
+  "ref_law": "刑訴應急措置法12條",
+  "lawsuit_id": "56392",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56392",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/392/056392_hanrei.pdf"
+}

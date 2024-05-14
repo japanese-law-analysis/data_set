@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 7,
+    "day": 17
+  },
+  "case_number": "昭和39(し)30",
+  "case_name": "上訴権回復請求却下決定に対する即時抗告棄却決定に対する特別抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "その他",
+  "article_info": "刑集　第18巻6号399頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 4,
+    "day": 28
+  },
+  "gist": "上訴権回復請求が認められた事例。",
+  "case_gist": "上訴申告書が上訴申立期間の最終日に速達郵便に付され、該郵便物が法令上即日管轄裁判所に配達さるべき時間内に配達受持局に到達したにもかかわらず、翌日配達された場合、右期間の徒過は、上訴権者又はその代人の責に帰することはできない。",
+  "ref_law": "刑訴法362条，刑訴法411条1号，郵便法60条，郵便規則100条1項，郵便規則100条2項，昭和38年12月28日郵業6633号仙台郵政局郵務部長通達",
+  "lawsuit_id": "54773",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54773",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/773/054773_hanrei.pdf"
+}

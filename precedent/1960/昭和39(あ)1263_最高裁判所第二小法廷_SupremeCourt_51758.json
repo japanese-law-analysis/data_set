@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 1,
+    "day": 29
+  },
+  "case_number": "昭和39(あ)1263",
+  "case_name": "道路交通法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第19巻1号26頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 5,
+    "day": 28
+  },
+  "gist": "道路交通法第六四条違反の無免許運転の所為と同法第五七条第一項の乗車制限違反の所為とが同一の運転の機会に行われた場合の罪数。",
+  "case_gist": "道路交通法第六四条違反の無免許運転の所為と、同法第五七条第一項の乗車制限違反の所為とが、たまたま同一の運転の機会に行われたとしても、両者は併合罪の関係にあるものと解すべきである。",
+  "ref_law": "道路交通法64条，道路交通法118条1項1号，道路交通法57条1項，道路交通法120条1項10号，刑法45条，刑法54条1項",
+  "lawsuit_id": "51758",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51758",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/758/051758_hanrei.pdf"
+}

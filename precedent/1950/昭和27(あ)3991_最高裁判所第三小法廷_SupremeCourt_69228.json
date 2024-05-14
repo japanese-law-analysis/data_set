@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 12,
+    "day": 25
+  },
+  "case_number": "昭和27(あ)3991",
+  "case_name": "昭和二二年勅令第九号違反、旅館業法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第90号445頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 6,
+    "day": 7
+  },
+  "gist": "昭和二二年勅令第九号違反罪と旅館業法違反罪との関係  ―併合罪か否か―",
+  "case_gist": "論旨は、原判示第一の事実と第二の事実とは一罪の関係に在るに拘らず一つの行為を二つの行為として重ねて処分するのは憲法三九条に違反するというのであるが、原判示のように婦女に売淫させることを内容とする契約をした行為と人を宿泊させる営業を営んだ行為とは、それぞれ別個の行為であつて別罪を構成するこというまでもない。されば、右行為が一個であり一罪であるとの独自の見解に基く違憲論はその前提を欠き問題とならない。",
+  "ref_law": "憲法39条，刑法45条，昭和22年勅令9号2条，旅館業法2条",
+  "lawsuit_id": "69228",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=69228",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/228/069228_hanrei.pdf"
+}

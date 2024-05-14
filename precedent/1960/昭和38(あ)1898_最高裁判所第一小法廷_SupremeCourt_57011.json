@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 5,
+    "day": 7
+  },
+  "case_number": "昭和38(あ)1898",
+  "case_name": "あん摩師、はり師、きゆう師及び柔道整復師法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第18巻4号144頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 7,
+    "day": 22
+  },
+  "gist": "あん摩師、はり師、きゆう師及び柔道整復師法第一二条にいう「医業類似行為」ということは、概念が明確でないか。",
+  "case_gist": "あん摩師、はり師、きゆう師及び柔道整復師法第一二条は「何人も、第一条に掲げるものを除く外、医業類似行為を業としてはならない」と規定し、同法第一条に掲げるものとは、あん摩（マツサージおよび指圧を含む）、はり、きゆうおよび柔道整復の四種の行為であるから、これらの行為は、何が医業類似行為であるかを定める場合の基準となるものであつて、その概念が明確性を欠くものとはいえない。",
+  "ref_law": "あん摩師、はり師、きゆう師及び柔道整復師法12条，憲法31条",
+  "lawsuit_id": "57011",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57011",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/011/057011_hanrei.pdf"
+}

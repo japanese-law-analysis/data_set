@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 3,
+    "day": 15
+  },
+  "case_number": "昭和23(れ)221",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第5巻4号512頁",
+  "original_court_name": "水戸地方裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 9,
+    "day": 9
+  },
+  "gist": "警察犯処罰令の規定の趣旨と同令第二条二九号と窃盗罪の区別",
+  "case_gist": "警察犯処罰令第二条二九号において「他人ノ田野園囿ニ於テ菜果ヲ採摘シ、又ハ花弁ヲ採折シタル者」は「三十日未満ノ拘留又ハ二十円未満ノ科料ニ処ス」る旨を規定している。この警察犯処罰令の規定は、軽微な犯罪を対象とし、被害法益の零細軽微なものに対して警察的取を締することを目的とするものであることは、前記法条の字句に照らしても又立法の沿革に徴しても明白である。窃盗罪との区別は被害法益の大小軽量によつて決すべきものとするのが妥当である。その被害法益が「財物」として保護さるべき程度に達するときは窃盗罪を構成し、然らざるときは警察犯としての野荒しとなるのである。結局は社会通念に従つて裁判官が判定すべき事柄である。",
+  "ref_law": "刑法235条，警察犯処罰令（明治41・9・29）2条29号",
+  "lawsuit_id": "54289",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54289",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/289/054289_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 8,
+    "day": 18
+  },
+  "case_number": "昭和24(れ)1056",
+  "case_name": "銃砲等所持禁止令違反、暴力行為等処罰に関する法律違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第3巻9号1501頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 12,
+    "day": 28
+  },
+  "gist": "一　暴力行爲等處罰ニ關スル法律第一條にいわゆる「多衆ノ威力ヲ示シ」の意義\n二　銃砲等不法所持罪の犯意",
+  "case_gist": "一　暴力行爲等處罰ニ關スル法律第一條にいわゆる「多衆ノ威力ヲ示シ」というのは、同條所定の罪の實行行爲擔當者が、多衆を背景にして其の威力を相手方に示すことを必要とする。\n二　銃砲等不法所持罪の成立に必要な犯意は、被告人が日本人であることを認識し乍ら、これを自己の實力支配内に置くを以つて足り、その所持の動機の如何は犯意の存否に影響はない。",
+  "ref_law": "暴力行爲等處罰ニ關スル法律1條，刑法208條，銃砲等所持禁止令1條，銃砲等所持禁止令2條",
+  "lawsuit_id": "55429",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55429",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/429/055429_hanrei.pdf"
+}

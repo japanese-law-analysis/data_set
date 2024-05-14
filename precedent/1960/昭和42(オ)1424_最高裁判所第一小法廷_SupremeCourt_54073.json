@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 5,
+    "day": 1
+  },
+  "case_number": "昭和42(オ)1424",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第23巻6号935頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和40(ネ)335",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 8,
+    "day": 31
+  },
+  "gist": "債権者において弁済を受領しない意思が明確な場合でも弁済の提供をしない債務者は債務不履行の責を免れないとされた事例",
+  "case_gist": "弁済の準備ができない経済状態にあるため言語上の提供もできない債務者は、債権者が弁済を受領しない意思が明確な場合であつても、弁済の提供をしないかぎり、債務不履行の責を免れない。",
+  "ref_law": "民法493条",
+  "lawsuit_id": "54073",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54073",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/073/054073_hanrei.pdf"
+}

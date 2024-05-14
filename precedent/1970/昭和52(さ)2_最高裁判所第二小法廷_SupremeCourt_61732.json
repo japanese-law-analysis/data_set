@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 12,
+    "day": 23
+  },
+  "case_number": "昭和52(さ)2",
+  "case_name": "道路交通法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集刑　第208号597頁",
+  "original_court_name": "富山簡易裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 6,
+    "day": 17
+  },
+  "gist": "二重処罰（略式命令）に対する非常上告",
+  "ref_law": "刑訴法458条1号",
+  "lawsuit_id": "61732",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61732",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/732/061732_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 3,
+    "day": 12
+  },
+  "case_number": "昭和26(あ)4331",
+  "case_name": "業務上横領",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第76号79頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 8,
+    "day": 30
+  },
+  "gist": "業務上横領罪の成立。",
+  "case_gist": "貸付の権限のない公団の出納係が、業務上保管にかかる小切手金員等をほしいままに他人に流用したときは、右流用が貸付の形式をとつても不法領得の意思を実現したものであるから、業務上横領罪を構成する。",
+  "ref_law": "刑法253条",
+  "lawsuit_id": "68313",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=68313",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/313/068313_hanrei.pdf"
+}

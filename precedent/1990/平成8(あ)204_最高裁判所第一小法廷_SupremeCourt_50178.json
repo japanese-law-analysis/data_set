@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 10,
+    "month": 3,
+    "day": 12
+  },
+  "case_number": "平成8(あ)204",
+  "case_name": "常習累犯窃盗",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "刑集　第52巻2号17頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 7,
+    "month": 12,
+    "day": 7
+  },
+  "gist": "重度の聴覚障害及び言語を習得しなかったことによる二次的精神遅滞により精神的能力及び意思疎通能力に重い障害を負っている被告人が刑訴法三一四条一項にいう「心神喪失の状態」にはなかったと認められた事例",
+  "case_gist": "被告人が重度の聴覚障害及び言語を習得しなかったことによる二次的精神遅滞により精神的能力及び意思疎通能力に重い障害を負っている場合であっても、手話通訳を介することにより、刑事手続において自己の置かれている立場をある程度正確に理解して、自己の利益を防御するために相当に的確な状況判断をすることができ、個々の訴訟手続においても、手続の趣旨に従い、自ら決めた防御方針に沿った供述なしに対応をすることができるなど判示の事実関係の下においては、被告人は、刑訴法三一四条一項にいう「心神喪失の状態」にはなかったものと認められる。",
+  "ref_law": "刑訴法314条1項",
+  "lawsuit_id": "50178",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50178",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/178/050178_hanrei.pdf"
+}

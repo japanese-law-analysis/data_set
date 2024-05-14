@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 5,
+    "day": 11
+  },
+  "case_number": "昭和26(す)109",
+  "case_name": "傷害致死、恐喝等被告事件について裁判官忌避申立",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "却下",
+  "article_info": "刑集　第5巻6号1107頁",
+  "original_court_name": "最高裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 4,
+    "day": 19
+  },
+  "gist": "刑訴法第四〇八条にあたるとして判決言渡期日を指定したことに対する忌避申立と刑訴法第二四条",
+  "case_gist": "上告の申立の理由があるかないかということ及びその理由のないことが明かであるかどうかということは、憲法及び法律に則り上告裁判所がその良心に従い独立して判断すべきところに委ねられている事柄である。しかるに、本件忌避の申立は、自己の上告の理由あることを独断して当裁判所を構成する裁判官全員に不公平の裁判をする虞ありとするものであつて、他に何らの理由をも示していない。されば本件申立は、もつぱら訴訟を遅延させる目的を以つてなされたものと解するの外はない。",
+  "ref_law": "刑訴法21条，刑訴法24条，刑訴法408条",
+  "lawsuit_id": "54631",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54631",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/631/054631_hanrei.pdf"
+}

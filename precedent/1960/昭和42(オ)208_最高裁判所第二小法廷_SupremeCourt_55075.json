@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 8,
+    "day": 25
+  },
+  "case_number": "昭和42(オ)208",
+  "case_name": "共有権確認ならびに家屋明渡請求事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第21巻7号1740頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和36(ネ)362",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 10,
+    "day": 31
+  },
+  "gist": "貸主が数名あるときの家屋明渡請求権と不可分給付を求める権利",
+  "case_gist": "使用貸借契約の終了を原因とする家屋明渡請求権は性質上の不可分給付を求める権利と解すべきであつて、貸主が数名あるときは、各貸主は総貸主のため家屋全部の明渡を請求することができる。",
+  "ref_law": "民法428条",
+  "lawsuit_id": "55075",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55075",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/075/055075_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 5,
+    "day": 2
+  },
+  "case_number": "昭和41(行ツ)106",
+  "case_name": "特許出願拒絶査定に対する抗告審判の審決取消請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第91号51頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和33(行ナ)49",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 7,
+    "day": 7
+  },
+  "gist": "公知の装置の構造につき一定の数値的限定を与える発明の特許に要する進歩性",
+  "case_gist": "公知の装置の構造につき一定の数値的限定を与えるものが特許に値する発明と認められるためには、それによつて、その装置から当業者の技術水準によつては予想できないような高度の効果を発揮させる構想でなければならない。",
+  "ref_law": "旧特許法（大正10年法律第96号）1条",
+  "lawsuit_id": "70244",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70244",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/244/070244_hanrei.pdf"
+}

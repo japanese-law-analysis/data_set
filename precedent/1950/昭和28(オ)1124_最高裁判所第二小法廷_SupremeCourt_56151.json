@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 7,
+    "day": 15
+  },
+  "case_number": "昭和28(オ)1124",
+  "case_name": "貸間等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第9巻9号1086頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 10,
+    "day": 5
+  },
+  "gist": "民法第九〇条により契約が無効と認められた一事例",
+  "case_gist": "原審認定の一切の事実関係（原判決参照）、就中、甲は乙から受けた情宜を無視し、いわれなき義務不履行によつて乙を困惑させ、結局、乙をしてその旅館経営上重要不可欠な帳場に充つべき玄関脇一室を甲に無償で使用させるとの苛酷な条項を受諾するのを止むなきに至らしめたものである事情等を綜合すれば、右室の無償使用に関する契約は、民法第九〇条に照らし無効と解するのが相当である。",
+  "ref_law": "民法90条",
+  "lawsuit_id": "56151",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56151",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/151/056151_hanrei.pdf"
+}

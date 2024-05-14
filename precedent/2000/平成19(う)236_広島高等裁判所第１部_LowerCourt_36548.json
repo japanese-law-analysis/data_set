@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 5,
+    "day": 27
+  },
+  "case_number": "平成19(う)236",
+  "case_name": "危険運転致傷，道路交通法違反",
+  "court_name": "広島高等裁判所第１部",
+  "result": "棄却",
+  "original_court_name": "広島地方裁判所",
+  "original_case_number": "平成19(わ)796",
+  "original_result": "その他",
+  "gist": "警察車両に追尾された被告人が，酒気帯び運転の発覚を免れるため，反対車線へ進入して進行中，対向車両と衝突してその運転者に傷害を負わせたという危険運転致傷の事案において，被告人は，警察車両から逃れることだけを意図して反対車線に進入したもので，対向車両の自由かつ安全な通行を妨げることを積極的に意図していないから，人又は車の通行を妨害する目的はなく，同罪は成立しないと主張した被告人の控訴を棄却した事例",
+  "lawsuit_id": "36548",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=36548",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/548/036548_hanrei.pdf",
+  "contents": ""
+}

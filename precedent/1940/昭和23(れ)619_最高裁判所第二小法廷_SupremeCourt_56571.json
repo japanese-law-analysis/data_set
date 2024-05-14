@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 10,
+    "day": 16
+  },
+  "case_number": "昭和23(れ)619",
+  "case_name": "公文書偽造行使、詐欺",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第2巻11号1351頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 4,
+    "day": 27
+  },
+  "gist": "判示事實と證據との間における瑣末な點の不一致と理由不備",
+  "case_gist": "原判決の事實摘示と、これが採證の用に供した各始末書、申述書の記載との間に、被告人が僞造轉出證明書に使用した架空人物の氏名不一致の點がありとしても、作成名儀人その他本件僞造文書の重大な要素についての記載内容において、兩者が一致する以上、右判示を違法とすることはできない。",
+  "ref_law": "刑法155条，刑訴法360条1項，刑訴法410条19号",
+  "lawsuit_id": "56571",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56571",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/571/056571_hanrei.pdf"
+}

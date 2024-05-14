@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 3,
+    "day": 7
+  },
+  "case_number": "昭和26(あ)4078",
+  "case_name": "恐喝、業務上横領",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第6巻3号450頁",
+  "original_court_name": "福岡高等裁判所\n        　宮崎支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 9,
+    "day": 7
+  },
+  "gist": "財物を交付させる手段として他人を脅迫した者がこれを交付させるにつき正当な権利を有していた場合と恐喝罪の成否",
+  "case_gist": "財物を交付させる手段として他人を脅迫した者が、これを交付させるにつき正当な権利を有していたとしても、その行為が、右権利の実行としてなされたものと認められない場合には、恐喝罪が成立する。",
+  "ref_law": "刑法249条",
+  "lawsuit_id": "55611",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55611",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/611/055611_hanrei.pdf"
+}

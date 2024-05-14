@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 7,
+    "day": 3
+  },
+  "case_number": "昭和29(あ)2229",
+  "case_name": "商標法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第10巻7号981頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 5,
+    "day": 6
+  },
+  "gist": "商標法第三四条にいう「類似ノ商標」と認められる一事例",
+  "case_gist": "「Ｃｏｃａ　Ｃｏｌａ」なる文字で示した商標と「Ｃｏｌａ　Ｃｏｌａ」なる文字の部分を要部とし、これと図形、記号との結合、着色による商標とは、称呼上および外観上類似し、両商標は商標法第三四条にいう「類似ノ商標」というべきである。",
+  "ref_law": "商標法34条",
+  "lawsuit_id": "51337",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51337",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/337/051337_hanrei.pdf"
+}

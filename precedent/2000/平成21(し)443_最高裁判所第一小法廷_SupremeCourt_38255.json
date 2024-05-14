@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 12,
+    "day": 9
+  },
+  "case_number": "平成21(し)443",
+  "case_name": "保釈保証金の一部を没取する決定に対する抗告棄却決定に対する特別抗告事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第63巻11号2907頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成21(く)461",
+  "original_date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 9,
+    "day": 18
+  },
+  "gist": "保釈された者につき，刑訴法９６条３項所定の事由が認められる場合，刑事施設に収容され刑の執行が開始された後に保釈保証金を没取することができるか",
+  "case_gist": "保釈された者について，禁錮以上の実刑判決が確定した後逃亡したなど刑訴法９６条３項所定の事由が認められる場合には，刑事施設に収容され刑の執行が開始された後であっても，保釈保証金を没取することができる。",
+  "ref_law": "刑訴法96条3項，刑訴規則91条1項2号",
+  "lawsuit_id": "38255",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=38255",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/255/038255_hanrei.pdf",
+  "contents": ""
+}

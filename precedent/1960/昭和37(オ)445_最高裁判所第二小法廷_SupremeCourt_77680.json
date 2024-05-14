@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 4,
+    "day": 22
+  },
+  "case_number": "昭和37(オ)445",
+  "case_name": "建物収去土地明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第83号277頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和35(ネ)2602",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 12,
+    "day": 20
+  },
+  "gist": "借地権者が従前土地上に登記ある建物を所有している場合と仮換地の使用収益権",
+  "case_gist": "借地権者が従前土地上に登記ある建物を所有している場合でも、借地権の申告に基づいて施行者が仮換地上に使用収益部分の指定をしなければ、仮換地上に使用収益権は生じない。",
+  "ref_law": "土地区画整理法85条，土地区画整理法98条，建物保護ニ関スル法律1条",
+  "lawsuit_id": "77680",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77680",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/680/077680_hanrei.pdf"
+}

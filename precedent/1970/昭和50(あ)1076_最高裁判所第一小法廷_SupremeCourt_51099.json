@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 9,
+    "day": 14
+  },
+  "case_number": "昭和50(あ)1076",
+  "case_name": "建造物侵入、傷害",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第30巻8号1611頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 4,
+    "day": 22
+  },
+  "gist": "最高裁判所の判決により破棄された高等裁判所の判決と刑訴法四〇五条三号にいう判例",
+  "case_gist": "最高裁判所により破棄された高裁の判決は、刑訴法四〇五条三号にいう判例にあたらない。",
+  "ref_law": "刑訴法405条3号「",
+  "lawsuit_id": "51099",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51099",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/099/051099_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 2,
+    "day": 19
+  },
+  "case_number": "昭和27(あ)4113",
+  "case_name": "殺人、銃砲等所持禁止令違反（再審事件あり（殺人につき無罪）：仙台高等裁判所昭和４６年（お）第１号）",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第7巻2号305頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 5,
+    "day": 31
+  },
+  "gist": "一　鑑定の意義\n二　鑑定人とその鑑定を為すに必要な特別の知識経験",
+  "case_gist": "一　鑑定は、裁判所が裁判上必要な実験則等に関する知識経験の不足を補給する目的で、その指示する事項につき、第三者をして新たに調査をなさしめて、法則そのもの又はこれを適用して得た具体的事実判断等を報告せしめるものである。\n二　鑑定人がいわゆる鑑定事項の調査をなすに際して、特別な知識経験を必要とする場合、その知識経験は必ずしも鑑定人その人が自ら直接経験により体得したもののみに限定すべきいわれはなく、鑑定人は他人の著書等によるとその他如何なる方法によるとを問わず、必要な知識を会得した上、これを利用して鑑定をなすことができる。",
+  "ref_law": "刑訴法165条",
+  "lawsuit_id": "54695",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54695",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/695/054695_hanrei.pdf"
+}

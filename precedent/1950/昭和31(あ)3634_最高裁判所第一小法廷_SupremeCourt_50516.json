@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 4,
+    "day": 25
+  },
+  "case_number": "昭和31(あ)3634",
+  "case_name": "偽造外国通貨行使、賍物運搬",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第11巻4号1480頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 8,
+    "day": 30
+  },
+  "gist": "偽造外国通貨行使罪にあたる一事例",
+  "case_gist": "偽造に係る内国に流通するアメリカ合衆国政府発行のドル表示軍票を邦貨と両替する行為は刑法第一四九条第二項に規定する偽造外国通貨行使罪にあたる。",
+  "ref_law": "刑法149条",
+  "lawsuit_id": "50516",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50516",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/516/050516_hanrei.pdf"
+}

@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 28,
+    "month": 3,
+    "day": 23
+  },
+  "case_number": "平成26(あ)1870",
+  "case_name": "詐欺被告事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第319号301頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 26,
+    "month": 11,
+    "day": 20
+  },
+  "gist": "罪数に関する法令適用の誤りがあるが，刑訴法４１１条を適用すべきものとは認められないとされた事例",
+  "ref_law": "刑法４５条前段，刑訴法４１１条",
+  "lawsuit_id": "85897",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=85897",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/897/085897_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 10,
+    "day": 5
+  },
+  "case_number": "昭和34(オ)844",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第15巻9号2271頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 6,
+    "day": 26
+  },
+  "gist": "刑事上罰すべき他人の行為による自白が効力がない旨の主張と民訴法第四二〇条第二項の要件の要否。",
+  "case_gist": "当該民事判決確定前に、民訴第四二〇条第一項第五号所定の刑事上罰すべき他人の行為による自白が効力がない旨主張するには、同条第二項の要件を具備する必要はない。",
+  "ref_law": "民訴法257条，民訴法420条1項5号，民訴法同条2項",
+  "lawsuit_id": "53689",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53689",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/689/053689_hanrei.pdf"
+}

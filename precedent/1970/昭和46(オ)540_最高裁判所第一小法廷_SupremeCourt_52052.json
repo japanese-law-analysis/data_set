@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 6,
+    "day": 15
+  },
+  "case_number": "昭和46(オ)540",
+  "case_name": "家屋明渡本訴並びに反訴請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第26巻5号1015頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和41(ネ)246",
+  "original_date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 3,
+    "day": 29
+  },
+  "gist": "賃貸家屋の一部の無断転貸を理山に賃貸借契約が解除されたのちに右家屋を譲り受けた転借人の賃借人に対する明渡請求が許されないとされた事例",
+  "case_gist": "家屋賃貸人甲が、賃借人乙から丙への家屋の一部の無断転貸を理由に賃貸借契約を解除し、その後右家産を丙に譲渡した場合において、丙が、転借後約三年間転借部分を占有使用して、転貸借による利益を享受していた者であり、しかも、転借に際し、転貸についての家主の了解を丙みずから求めてもよい旨を乙に申し出ていながら、その後承諾を得るための努力を払つた形跡もないなど判示の事情があるときは、丙において、乙に対し、右賃貸借契約の解除を主張し、家屋所有権に基づき乙の占有部分の明渡を求めることは、信義則に反しまたは権利の濫用にあたるものであつて、許されない。",
+  "ref_law": "民法1条，民法612条",
+  "lawsuit_id": "52052",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52052",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/052/052052_hanrei.pdf"
+}

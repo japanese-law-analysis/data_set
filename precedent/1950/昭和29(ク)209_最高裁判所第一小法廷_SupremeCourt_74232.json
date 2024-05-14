@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 11,
+    "day": 22
+  },
+  "case_number": "昭和29(ク)209",
+  "case_name": "行政処分執行停止申請事件につきなした申請却下の決定に対する抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "その他",
+  "article_info": "集民　第16号573頁",
+  "original_court_name": "岡山地方裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 10,
+    "day": 22
+  },
+  "lawsuit_id": "74232",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74232",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/232/074232_hanrei.pdf"
+}

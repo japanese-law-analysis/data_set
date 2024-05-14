@@ -1,0 +1,17 @@
+{
+  "trial_type": "IPCase",
+  "date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 11,
+    "day": 12
+  },
+  "case_number": "昭和57(行ツ)15",
+  "case_name": "審決取消",
+  "court_name": "最高裁判所第二小法廷",
+  "right_type": "商標権",
+  "lawsuit_type": "行政訴訟",
+  "lawsuit_id": "55187",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail7?id=55187",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/187/055187_hanrei.pdf"
+}

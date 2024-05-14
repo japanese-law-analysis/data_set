@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 10,
+    "day": 2
+  },
+  "case_number": "昭和26(オ)400",
+  "case_name": "不当利得金返還請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第7巻10号1065頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 5,
+    "day": 15
+  },
+  "gist": "一時使用のためにする賃貸借と昭和二五年政令第二二五号による改正前の地代家賃統制令の適用の有無",
+  "case_gist": "昭和二五年政令第二二五号による改正前の地代家賃統制令施行当時、博覧会の見物人を相手に飲食店を営む目的で、その開催期間たる、二ケ月を賃貸期間と定めてなされた土地賃貸借は、一時使用のためにする賃貸借であつて、その当時においても同令の適用がなかつたものと解するのを妥当とする。",
+  "ref_law": "昭和25年7月11日政令225号による改正前の地代家賃統制令（昭和21年勅令443号）2条，昭和25年7月11日政令225号による改正前の地代家賃統制令（昭和21年勅令443号）23条",
+  "lawsuit_id": "57236",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57236",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/236/057236_hanrei.pdf"
+}

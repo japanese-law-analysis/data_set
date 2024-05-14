@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 3,
+    "day": 28
+  },
+  "case_number": "昭和31(あ)3643",
+  "case_name": "麻薬取締法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第118号655頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 9,
+    "day": 12
+  },
+  "gist": "塩酸ジアセチルモルヒネは麻薬取締法第一二条中の「その塩類」に当るか",
+  "case_gist": "塩酸ジアセチルモルヒネは麻薬取締法一二条中の「その塩類」に当るこというまでもない。",
+  "ref_law": "麻薬取締法12条",
+  "lawsuit_id": "58630",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58630",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/630/058630_hanrei.pdf"
+}

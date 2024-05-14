@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 6,
+    "day": 26
+  },
+  "case_number": "昭和26(オ)548",
+  "case_name": "仮処分異議",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第7巻6号769頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 7,
+    "day": 23
+  },
+  "gist": "行政処分を無効であるとしてその効力の停止を求める趣旨の仮処分申請の適否",
+  "case_gist": "行政処分の無効を理由としても、その行政処分の効力を停止する趣旨の仮処分申請は許されない。",
+  "ref_law": "行政事件訴訟特例法10条",
+  "lawsuit_id": "56066",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56066",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/066/056066_hanrei.pdf"
+}

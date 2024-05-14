@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 11,
+    "day": 19
+  },
+  "case_number": "昭和43(オ)732",
+  "case_name": "抵当権設定登記抹消登記手続請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第24巻12号1916頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和41(ネ)668",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 3,
+    "day": 25
+  },
+  "gist": "不動産を買い受けた者が抵当権および停止条件付代物弁済契約上の権利を有するものとして抵当権設定登記および所有権移転請求権保全の仮登記を経由した場合と第三者",
+  "case_gist": "甲が、乙からその所有不動産を買い受けたものであるにもかかわらず、乙に対する貸金を被担保債権とする抵当権と、右貸金を弁済期に弁済しないことを停止条件とする代物弁済契約上の権利とを有するものとして、抵当権設定登記および所有権移転請求権保全の仮登記を経由した場合において、丙が乙から右不動産を買い受けて所有権取得登記を経由したときは、丙が善意無過失であるかぎり、甲は、丙に対し、自己の経由した登記が実体上の権利関係と相違し、自己が仮登記を経由した所有権者であると主張することはできないと解すべきである。",
+  "ref_law": "民法94条2項，民法369条，民法482条，不動産登記法2条2号",
+  "lawsuit_id": "53178",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53178",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/178/053178_hanrei.pdf"
+}

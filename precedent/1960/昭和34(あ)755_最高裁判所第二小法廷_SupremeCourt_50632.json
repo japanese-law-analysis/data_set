@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 2,
+    "day": 21
+  },
+  "case_number": "昭和34(あ)755",
+  "case_name": "詐欺、弁護士法違反、脅迫",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第16巻2号162頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 3,
+    "day": 27
+  },
+  "gist": "競売手続実行中の抵当権附債権は弁護士法第二八条にいう係争権利に当るか",
+  "case_gist": "競売手続実行中の抵当権附債権は、弁護士法第二八条にいう係争権利に当る。",
+  "ref_law": "弁護士法28条，弁護士法77条",
+  "lawsuit_id": "50632",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50632",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/632/050632_hanrei.pdf"
+}

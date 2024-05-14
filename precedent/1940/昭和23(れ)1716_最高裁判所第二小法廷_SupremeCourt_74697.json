@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 7,
+    "day": 16
+  },
+  "case_number": "昭和23(れ)1716",
+  "case_name": "業務上横領",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第12号599頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 9,
+    "day": 28
+  },
+  "gist": "一　横領罪の意義\n二　横領罪の成立に必要な不法領得の意思の意義",
+  "case_gist": "一　横領罪は他人の物を保管する者が、他人の權利を排除して、ほしいままにこれを處分すれば成立するのであつて、必らずしも自己の所有とし又はこれによつて利益をうることを必要としない。（昭和二三年（れ）第九三〇號、同二四年六月二九日大法廷判決參照）\n二　横領罪の成立に必要ないわゆる不法領得の意思とは他人の物を保管する者が他人の權利を排除してほしいままにこれを處分する意思をいうので必らずしも自己の利益取得を意圖することを必要とするものではない。",
+  "ref_law": "刑法252條1項",
+  "lawsuit_id": "74697",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74697",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/697/074697_hanrei.pdf"
+}

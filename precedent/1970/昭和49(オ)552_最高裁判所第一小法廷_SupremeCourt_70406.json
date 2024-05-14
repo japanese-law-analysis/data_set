@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 10,
+    "day": 24
+  },
+  "case_number": "昭和49(オ)552",
+  "case_name": "建物収去土地明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第113号61頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和48(ネ)1315",
+  "original_date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 2,
+    "day": 20
+  },
+  "gist": "借地法六条の適用回数",
+  "case_gist": "借地法六条の規定は、その要件を満たす事実が存在するかぎり、これに適用され、その適用回数についてなんら制限がない。",
+  "ref_law": "借地法6条",
+  "lawsuit_id": "70406",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70406",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/406/070406_hanrei.pdf"
+}

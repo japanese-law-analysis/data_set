@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 2,
+    "day": 14
+  },
+  "case_number": "昭和24(れ)2678",
+  "case_name": "業務妨害、器物毀棄、農地調整法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第4巻2号161頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 9,
+    "day": 17
+  },
+  "gist": "農地調整法第九條第三項（昭和二二年法律第二四〇號による改正前のもの）違反の罪において賃貸借契約が合意解約若しくは解除された旨の主張と舊刑訴法第三六〇條第二項",
+  "case_gist": "農地調整法第九條第三項（昭和二二年法律第二四〇號による改正前のもの）違反の罪において小作地の賃貸借契約が合意解約若しくは解除された旨の主張は舊刑訴法第三六〇第二項に規定する事實上の主張に當らない。",
+  "ref_law": "農地調整法9條3項17條ノ5（昭和22年法律240號による改正前のもの）舊刑訴法360條2項",
+  "lawsuit_id": "56686",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56686",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/686/056686_hanrei.pdf"
+}

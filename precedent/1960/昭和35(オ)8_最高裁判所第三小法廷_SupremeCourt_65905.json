@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 2,
+    "day": 26
+  },
+  "case_number": "昭和35(オ)8",
+  "case_name": "貸金請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第64号619頁",
+  "original_court_name": "福岡高等裁判所\n        　宮崎支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 10,
+    "day": 19
+  },
+  "gist": "一　原告主張の金額の債務の負担を認める旨の口頭弁論調書の記載からその弁済期の主張についても自白があつたものと解された事例\n二　本案の上訴理由がないときの訴訟費用の裁判に対する不服申立",
+  "case_gist": "本案の裁判に対する上訴とともに訴訟費用の裁判に対し不服が申し立てられた場合においても、本案の裁判に対する上訴の理由がないときは、訴訟費用の裁判に対する不服の申立は許されない。（昭和二九年一月二八日第一小法廷判決、民集八巻一号三〇八頁参照）。",
+  "ref_law": "民訴法257条，民訴法361条，民訴法384条，民訴法396条，民訴法414条",
+  "lawsuit_id": "65905",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=65905",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/905/065905_hanrei.pdf"
+}

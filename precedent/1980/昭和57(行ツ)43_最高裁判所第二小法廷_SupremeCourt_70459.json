@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 10,
+    "day": 8
+  },
+  "case_number": "昭和57(行ツ)43",
+  "case_name": "三重県久居市の長の選挙の効力に関する裁決取消等",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第137号309頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和56(行ケ)2",
+  "original_date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 12,
+    "day": 23
+  },
+  "gist": "選挙管理委員会がした選挙に関する啓発、周知等の活動が選挙の自由公正を阻害するものでなく公職選挙法二〇五条一項にいう選挙の規定違反にはあたらないとされた事例",
+  "case_gist": "市選挙管理委員会が市章を図案にしたポスターを掲示してした選挙に関する啓発、周知等の活動は、候補者の一人が市章に酷似した図形を図案にしたポスターを掲示するなどして選挙運動をしている場合であつても、選挙の自由公正を阻害するものでなく、公職選挙法二〇五条一項にいう選挙の規定違反にはあたらない。",
+  "ref_law": "公職選挙法6条1項，公職選挙法205条1項",
+  "lawsuit_id": "70459",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70459",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/459/070459_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 9,
+    "day": 14
+  },
+  "case_number": "昭和35(あ)578",
+  "case_name": "逮捕監禁",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第15巻8号1348頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 2,
+    "day": 23
+  },
+  "gist": "逮捕監禁行為の違法性の有無につき破壊活動防止法の合憲性等の判断を要しないとした事例。",
+  "case_gist": "公安調査官に対する本件逮捕監禁行為（判文参照）の違法性の有無を判断するためには、破壊活動防止法の合憲性、日本共産党に対する調査の合憲性ないし合法性の判断は必要でない。",
+  "ref_law": "刑法220条，刑法35条，破壊活動防止法3条，破壊活動防止法27条，憲法19条，憲法21条，憲法28条",
+  "lawsuit_id": "50648",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50648",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/648/050648_hanrei.pdf"
+}

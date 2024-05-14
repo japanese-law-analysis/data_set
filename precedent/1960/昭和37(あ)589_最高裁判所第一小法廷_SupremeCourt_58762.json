@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 10,
+    "day": 3
+  },
+  "case_number": "昭和37(あ)589",
+  "case_name": "建造物損壊",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第148号675頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 2,
+    "day": 20
+  },
+  "gist": "自己所有にかかる建物につき根抵当権の設定されていることを知りながら、右建物を完全に解体した所為と擬律。",
+  "case_gist": "原判決が挙示の証拠により確定した事実関係の下において、被告人が自己所有にかかる判示建物につき債権者甲のために根抵当権の設定されていることを知りながら（右根抵当権は被告人に抵抗できる関係にあつた）、人夫十数名を使役して右建物を完全に解体した所為を刑法第二六二条、同第二六〇条前段に該当するものとした原判決の判断は正当として是認すべきである。",
+  "ref_law": "刑法262条，刑法260条前段",
+  "lawsuit_id": "58762",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58762",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/762/058762_hanrei.pdf"
+}

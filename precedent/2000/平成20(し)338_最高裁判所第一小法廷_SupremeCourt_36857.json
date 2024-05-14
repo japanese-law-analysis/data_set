@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 9,
+    "day": 30
+  },
+  "case_number": "平成20(し)338",
+  "case_name": "証拠開示決定に対する即時抗告棄却決定に対する特別抗告事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第62巻8号2753頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成20(く)413",
+  "original_date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 8,
+    "day": 19
+  },
+  "gist": "警察官が私費で購入したノートに記載し，一時期自宅に持ち帰っていた取調べメモについて，証拠開示を命じた判断が是認された事例",
+  "case_gist": "警察官が私費で購入したノートに記載し，一時期自宅に持ち帰っていた本件取調べメモについて，同メモは，捜査の過程で作成され，公務員が職務上現に保管し，かつ，検察官において入手が容易な証拠であり，弁護人の主張（判文参照）と同メモの記載の間には一定の関連性が認められ，開示の必要性も肯認できないではなく，開示により特段の弊害が生じるおそれも認められず，その証拠開示を命じた判断は結論において是認できる。\n（補足意見及び反対意見がある。）",
+  "ref_law": "刑訴法316条の17第1項，刑訴法316条の20，刑訴法316条の26第1項",
+  "lawsuit_id": "36857",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=36857",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/857/036857_hanrei.pdf",
+  "contents": ""
+}

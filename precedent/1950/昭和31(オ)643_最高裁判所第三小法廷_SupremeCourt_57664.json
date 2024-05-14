@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 12,
+    "day": 10
+  },
+  "case_number": "昭和31(オ)643",
+  "case_name": "金員貸借契約公正証書無効確認請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第11巻13号2117頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 4,
+    "day": 21
+  },
+  "gist": "公証人法第二六条に違反して作成された公正証書の効力",
+  "case_gist": "公証人法第二六条に違反して作成された公正証書であつても、当然に債務名義たる効力を有しないものではない。",
+  "ref_law": "公証人法26条，民訴法559条3号",
+  "lawsuit_id": "57664",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57664",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/664/057664_hanrei.pdf"
+}

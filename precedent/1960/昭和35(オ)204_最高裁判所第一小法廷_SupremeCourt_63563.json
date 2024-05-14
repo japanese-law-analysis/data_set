@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 2,
+    "day": 22
+  },
+  "case_number": "昭和35(オ)204",
+  "case_name": "耕作権確認等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第58号819頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 11,
+    "day": 17
+  },
+  "gist": "農地法第二条第五項の法旨",
+  "case_gist": "農地法第二条第五項は、農地法の適用にあたつて「自作」「小作」の区別を要する場合に、これを決定する基準を定めたものに過ぎないのであつて、右以外の場合にも、世帯員が所有権その他の権利を有する農地又は採草放牧地であるというだけの理由で、当然世帯主がその土地につき所有権その他の権利を有するものとみなすと規定するものではない。",
+  "ref_law": "農地法2条5項",
+  "lawsuit_id": "63563",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63563",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/563/063563_hanrei.pdf"
+}

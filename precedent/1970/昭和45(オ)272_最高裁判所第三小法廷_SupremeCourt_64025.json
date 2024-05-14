@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 3,
+    "day": 16
+  },
+  "case_number": "昭和45(オ)272",
+  "case_name": "保証債務履行請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第102号249頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和43(ネ)796",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 12,
+    "day": 25
+  },
+  "gist": "基本代理権が詐欺によつて授与された場合と表見代理の成否",
+  "case_gist": "基本代理権が代理人の詐欺によつて授与された場合においても、民法一一〇条の表見代理は、これによつてその成立を妨げられない。",
+  "ref_law": "民法110条",
+  "lawsuit_id": "64025",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64025",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/025/064025_hanrei.pdf"
+}

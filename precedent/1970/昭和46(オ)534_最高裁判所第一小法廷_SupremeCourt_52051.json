@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 5,
+    "day": 25
+  },
+  "case_number": "昭和46(オ)534",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第26巻4号780頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和45(ネ)1327",
+  "original_date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 3,
+    "day": 22
+  },
+  "gist": "少年院に収容中の少年が他の在院者の暴行により死亡した場合に少年院の教官に過失があるとされた事例",
+  "case_gist": "少年院に収容中の少年が寮内の居室において他の在院者より私刑として暴行を受け死亡した場合に、右暴行が朝の点呼直後における担当教官の事務引継および寮内各居室巡回中に行なわれたものであり、暴行現場の居室は事務引継のなされていた寮監室ときわめて近接しているなど、原判示のような事情（原判決理由参照）があるときは、右担当教官に右暴行の発生を防止すべき注意義務を尽くさなかつた過失がある。",
+  "ref_law": "民法709条，国家賠償法1条",
+  "lawsuit_id": "52051",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52051",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/051/052051_hanrei.pdf"
+}

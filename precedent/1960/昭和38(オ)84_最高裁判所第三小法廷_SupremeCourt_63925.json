@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 5,
+    "day": 12
+  },
+  "case_number": "昭和38(オ)84",
+  "case_name": "第三者異議",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第73号493頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 10,
+    "day": 30
+  },
+  "gist": "民法第九四条第二項の「善意」の主張および立証責任。",
+  "case_gist": "第三者が民法第九四条第二項の保護を受けるためには、自己が善意であつたことを主張、立証しなければならない。",
+  "ref_law": "民法94条2項",
+  "lawsuit_id": "63925",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63925",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/925/063925_hanrei.pdf"
+}

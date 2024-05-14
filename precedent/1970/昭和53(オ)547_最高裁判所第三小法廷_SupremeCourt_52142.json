@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 7,
+    "day": 10
+  },
+  "case_number": "昭和53(オ)547",
+  "case_name": "約束手形金",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第33巻5号533頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和51(ネ)2387",
+  "original_date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 1,
+    "day": 25
+  },
+  "gist": "転付債権者・第三債務者間の債権債務の相殺適状は債務者・第三債務者間の債権債務の相殺適状より後に生じたが転付債権者の相殺の意思表示が第三債務者の相殺の意思表示より先にされた場合と相殺の優劣",
+  "case_gist": "転付債権者に転付された債務者の第三債務者に対する甲債権と第三債務者の転付債権者に対する乙債権との相殺適状が甲債権と第三債務者の債務者に対する丙債権との相殺適状より後に生じた場合であつても、第三債務者が丙債権を自働債権とし甲債権を受働債権とする相殺の意思表示をするより先に、転付債権者の甲債権を自働債権とし乙債権を受働債権とする相殺の意思表示により甲債権が消滅していた場合には、第三債務者による右相殺の意思表示はその効力を生じない。",
+  "ref_law": "民法505条1項，民法506条",
+  "lawsuit_id": "52142",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52142",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/142/052142_hanrei.pdf"
+}

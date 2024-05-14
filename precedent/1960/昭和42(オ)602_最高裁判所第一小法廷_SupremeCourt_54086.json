@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 4,
+    "day": 3
+  },
+  "case_number": "昭和42(オ)602",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第23巻4号737頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和40(ネ)903",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 3,
+    "day": 15
+  },
+  "gist": "一、代理人が権限を濫用して振り出した約束手形と第三取得者に対する本人の手形抗弁\n二、手形行為は農業協同組合の目的たる事業の範囲に含まれるか",
+  "case_gist": "一、代理人が自己または第三者の利益をはかるため、代理権限を濫用して約束手形を振り出した場合において、権限濫用の事実を知りまたは知りうべかりし状態で右手形の交付を受けた受取人が、これを他に裏書譲渡したときは、本人は、手形法一七条但書の規定により、第三取得者が受取人の右知情について悪意であることを立証した場合にかぎり、右第三取得者に対する手形上の責任を免れることができると解するのが相当である。\n二、手形行為は、農業協同組合の目的たる事業の範囲に含まれる。",
+  "ref_law": "手形法77条1項1号，手形法17条，民法43条，民法93条，農業協同組合法10条",
+  "lawsuit_id": "54086",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54086",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/086/054086_hanrei.pdf"
+}

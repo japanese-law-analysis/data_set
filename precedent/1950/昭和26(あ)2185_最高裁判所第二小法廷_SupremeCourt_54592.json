@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 3,
+    "day": 13
+  },
+  "case_number": "昭和26(あ)2185",
+  "case_name": "公文書毀棄、公務執行妨害",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第7巻3号545頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 12,
+    "day": 21
+  },
+  "gist": "差押の許可の瑕疵は他の差押許可の効力に影響をおよぼすか",
+  "case_gist": "一通の許可状でもつて臨検、捜索および差押について各個の許可がなされた場合、差押の許可に関する瑕疵は臨検、捜索の許可の効力に何らの影響もおよぼさない。",
+  "ref_law": "国税犯則取締法2条，憲法35条",
+  "lawsuit_id": "54592",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54592",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/592/054592_hanrei.pdf"
+}

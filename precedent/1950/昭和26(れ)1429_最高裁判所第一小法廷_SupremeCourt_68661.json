@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 10,
+    "day": 25
+  },
+  "case_number": "昭和26(れ)1429",
+  "case_name": "収賄",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第55号365頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 11,
+    "day": 29
+  },
+  "gist": "特に命ぜられてした他局課所管の事務に関し賄賂を収受したときと収賄罪の成立",
+  "case_gist": "仮りに所論のとおりであつたとしても、被告人は会計検査院事務総長の命により所論事務総局検査第一局第一課の事務を応援することとなり本件出張をなすに至つたというに帰すものであるから、当時被告人が事務総長官房調査課に勤務していたとの一事は、必ずしも原審が判示被告人の所為を検査第一局第一課の職務に関し賄賂を収受しものと認定することを妨げるものではない。",
+  "ref_law": "刑法197条",
+  "lawsuit_id": "68661",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=68661",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/661/068661_hanrei.pdf"
+}

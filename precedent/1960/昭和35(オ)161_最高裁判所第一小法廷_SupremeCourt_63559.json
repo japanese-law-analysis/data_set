@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 6,
+    "day": 21
+  },
+  "case_number": "昭和35(オ)161",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第61号295頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 12,
+    "day": 9
+  },
+  "gist": "家屋賃貸借契約についての解釈申入の意思表示と解除の意思表示は両立しうるか。",
+  "case_gist": "家屋賃貸借契約について、解約申入れの意思表示と賃料不払を理由とする解除の意思表示を共に主張することは、なんら法律の禁ずるところではない。",
+  "ref_law": "民法90条",
+  "lawsuit_id": "63559",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63559",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/559/063559_hanrei.pdf"
+}

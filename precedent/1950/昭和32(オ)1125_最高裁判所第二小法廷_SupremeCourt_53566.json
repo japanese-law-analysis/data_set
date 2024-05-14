@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 12,
+    "day": 18
+  },
+  "case_number": "昭和32(オ)1125",
+  "case_name": "田地返還並に永小作権設定登録抹消登録請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第13巻13号1647頁",
+  "original_court_name": "仙台高等裁判所\n        　秋田支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 9,
+    "day": 16
+  },
+  "gist": "永小作権と農地法第一九条、第二〇条の適用または準用の有無。",
+  "case_gist": "農地法第一九条、第二〇条は永小作権に適用または準用がない。",
+  "ref_law": "農地法19条，農地法20条",
+  "lawsuit_id": "53566",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53566",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/566/053566_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 7,
+    "day": 19
+  },
+  "case_number": "昭和34(オ)950",
+  "case_name": "建物收去土地明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第16巻8号1566頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 6,
+    "day": 30
+  },
+  "gist": "地上建物の朽廃と借地権の存続。",
+  "case_gist": "堅固の建物以外の建物の所有を目的とし、期間を二〇年とする借地権は、右期間満了前は、地上建物が朽廃しても消滅しない。",
+  "ref_law": "借地法2条2項，借地法2条1項但書",
+  "lawsuit_id": "52989",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52989",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/989/052989_hanrei.pdf"
+}

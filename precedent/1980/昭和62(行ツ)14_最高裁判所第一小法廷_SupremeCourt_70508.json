@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 9,
+    "day": 24
+  },
+  "case_number": "昭和62(行ツ)14",
+  "case_name": "選挙無効",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第151号711頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和58(行ケ)124",
+  "original_date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 8,
+    "day": 14
+  },
+  "gist": "公職選挙法一四条、同法別表第二の参議院選挙区選出議員の議員定数配分規定の合憲性",
+  "case_gist": "公職選挙法一四条、同法別表第二の参議院選挙区選出議員の議員定数配分規定は、昭和五八年六月二六日の参議院議員選挙当時、憲法一四条一項、一五条一ないし三項、四三条一項、四四条但し書に違反するに至つていたものとはいえない。",
+  "ref_law": "憲法14条1項，憲法15条1ないし3項，憲法43条1項，憲法44条但し書，公職選挙法14条，公職選挙法別表第2",
+  "lawsuit_id": "70508",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70508",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/508/070508_hanrei.pdf"
+}

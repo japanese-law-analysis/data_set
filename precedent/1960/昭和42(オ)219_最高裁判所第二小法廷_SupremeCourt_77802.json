@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 9,
+    "day": 20
+  },
+  "case_number": "昭和42(オ)219",
+  "case_name": "取立命令に基づく取立請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第92号329頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和40(ネ)342",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 11,
+    "day": 30
+  },
+  "gist": "委任契約に基づく委任事務の処理が受任者の利益でもある場合と右契約の解除事由",
+  "case_gist": "委任契約に基づく委任事務の処理が、委任者の利益であると同時に受任者の利益でもある場合においても、受任者が著しく不誠実な行動に出た等やむをえない事由があるときは、委任者は民法第六五一条に則り委任契約を解除することができる。",
+  "ref_law": "民法651条",
+  "lawsuit_id": "77802",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77802",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/802/077802_hanrei.pdf"
+}

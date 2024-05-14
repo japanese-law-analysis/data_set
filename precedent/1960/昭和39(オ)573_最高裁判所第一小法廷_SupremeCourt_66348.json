@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 12,
+    "day": 2
+  },
+  "case_number": "昭和39(オ)573",
+  "case_name": "建物収去土地明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第81号257頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和28(ネ)2289",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 1,
+    "day": 31
+  },
+  "gist": "訴の変更があつた場合と従前の訴訟資料との関係",
+  "case_gist": "訴の変更があつた場合においては、従前の訴訟資料はそのまま引きつがれると解するのが相当である。",
+  "ref_law": "民訴法232条",
+  "lawsuit_id": "66348",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66348",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/348/066348_hanrei.pdf"
+}

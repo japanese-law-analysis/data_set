@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 7,
+    "day": 2
+  },
+  "case_number": "昭和33(み)24",
+  "case_name": "威力業務妨害等被告事件につきなした上告棄却の判決に対する訂正申立",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第12巻11号2394頁",
+  "original_court_name": "最高裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 5,
+    "day": 28
+  },
+  "gist": "原判決をした大法廷を構成する裁判官の退官による定足数の不足とその判決に対する訂正申立についての裁判をなすべき裁判所の構成。",
+  "case_gist": "原判決をした大法廷を構成する裁判官が退官したため、右大法廷判決に対する判決訂正の申立について裁判しようとする時において、その定足数を欠くときは、新たに任命された裁判官を加えた大法廷で右訂正申立についての裁判をなすべきである。",
+  "ref_law": "刑訴法415条，刑訴法416条，刑訴規則270条，最高裁判所裁判事務処理規則7条",
+  "lawsuit_id": "50622",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50622",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/622/050622_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 8,
+    "month": 5,
+    "day": 28
+  },
+  "case_number": "平成7(行ツ)67",
+  "case_name": "判決無効確認並びに年金裁定",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第179号95頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成6(行コ)198",
+  "original_date": {
+    "era": "Heisei",
+    "year": 6,
+    "month": 12,
+    "day": 26
+  },
+  "gist": "不適法なことが明らかであって当事者の訴訟活動により適法とすることが全く期待できない訴えにつき口頭弁論を経ずに訴えを却下するか又は却下判決に対する控訴を棄却する場合における被告に対する訴状、控訴状又は判決正本の送達の要否",
+  "case_gist": "不適法なことが明らかであって当事者の訴訟活動により適法とすることが全く期待できない訴えにつき、口頭弁論を経ずに、訴えを却下するか、又は却下判決に対する控訴を棄却する場合には、訴状において被告とされている者に対し訴状、控訴状又は判決正本を送達することを要しない。",
+  "ref_law": "民訴法193条，民訴法202条，民訴法229条，民訴法371条，民訴法384条",
+  "lawsuit_id": "76130",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=76130",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/130/076130_hanrei.pdf"
+}

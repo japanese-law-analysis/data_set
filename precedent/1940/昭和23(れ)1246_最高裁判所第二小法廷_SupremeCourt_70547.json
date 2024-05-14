@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 12,
+    "day": 27
+  },
+  "case_number": "昭和23(れ)1246",
+  "case_name": "詐欺",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第6号645頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 6,
+    "day": 11
+  },
+  "gist": "司法警察官が非現行犯を現行犯として處理した違法と上告理由",
+  "case_gist": "假りに所論のように、非現行犯を現行犯としての處分手續に據り司法警察官が被告人に對する訊問調書を作成し、檢事はこの訊問調書等を基礎として公訴を提起したとしても、そのこと自體は、裁判所の審理手續並びに判決に何等の影響を及ぼすものではないから、上告適法の理由とすることを得ないものである。",
+  "ref_law": "刑訴法124條，刑訴法411條",
+  "lawsuit_id": "70547",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70547",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/547/070547_hanrei.pdf"
+}

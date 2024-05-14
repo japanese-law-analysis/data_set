@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 11,
+    "day": 17
+  },
+  "case_number": "昭和38(オ)964",
+  "case_name": "損害金、転付債権請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第89号191頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和37(ネ)979",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 5,
+    "day": 29
+  },
+  "gist": "甲の乙に対する債権を丙が仮差押をした場合、甲の乙に対する債権につき、時効は進行を停止するか",
+  "case_gist": "甲の乙に対する債権が、丙によつて仮差押されても、民法第一五八条乃至第一六一条所定の停止の事由にあたらず、甲の乙に対する債権の時効は、進行を停止しない。",
+  "ref_law": "民法158条，民法159条，民法160条，民法161条",
+  "lawsuit_id": "74427",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74427",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/427/074427_hanrei.pdf"
+}

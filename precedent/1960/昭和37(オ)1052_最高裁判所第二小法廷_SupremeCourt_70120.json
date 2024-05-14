@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 9,
+    "day": 27
+  },
+  "case_number": "昭和37(オ)1052",
+  "case_name": "貸金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第67号723頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 6,
+    "day": 22
+  },
+  "gist": "連帯債務者に対する請求を連帯保証人に対する請求として認容することの可否。",
+  "case_gist": "主債務者たる連帯債務者の責任と連帯保証人の責任とでは、その発生の法律要件を異にし、両者に対する請求は互に訴訟物を異にするから、連帯債務者に対する請求のなかに連帯保証人としての請求が含まれると解することはできない。",
+  "ref_law": "民訴法186条",
+  "lawsuit_id": "70120",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70120",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/120/070120_hanrei.pdf"
+}

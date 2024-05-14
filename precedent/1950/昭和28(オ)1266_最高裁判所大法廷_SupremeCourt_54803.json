@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 4,
+    "day": 30
+  },
+  "case_number": "昭和28(オ)1266",
+  "case_name": "農地買収無効確認請求",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第12巻6号926頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 10,
+    "day": 17
+  },
+  "gist": "農地所有権の移転後、移転登記未経由の間に登記簿上の所有名義人を所有者としてなされた農地買収処分の効力",
+  "case_gist": "農地所有権の移転後、移転登記未経由の間に登記簿上の所有名義人を所有者としてなされた農地買収処分は、当然無効と解すべきではない",
+  "ref_law": "行政事件訴訟特例法1条，自作農創設特別措置法3条",
+  "lawsuit_id": "54803",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54803",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/803/054803_hanrei.pdf"
+}

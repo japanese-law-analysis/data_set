@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 11,
+    "day": 19
+  },
+  "case_number": "昭和54(あ)627",
+  "case_name": "覚せい剤取締法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第220号223頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 2,
+    "day": 21
+  },
+  "gist": "強制採尿の過程に適切な条件を付した捜索差押令状によらなかつた不備があつても採尿検査の適法性がそこなわれないとされた事例",
+  "case_gist": "強制採尿の過程に、適切な条件を付した捜索差押令状でなく、身体検査令状及び鑑定処分許可状によつてこれを行つた不備があつても、法の実質的な要請が満されているときには（判文参照）、右の不備は採尿検査の適法性をそこなうものではない。",
+  "ref_law": "憲法31条，憲法35条，憲法38条2項，刑訴法99条，刑訴法102条，刑訴法218条，刑訴法219条，刑訴法222条",
+  "lawsuit_id": "60357",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60357",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/357/060357_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 5,
+    "day": 20
+  },
+  "case_number": "昭和31(あ)127",
+  "case_name": "酒税法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第12巻7号1526頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 12,
+    "day": 22
+  },
+  "gist": "酒税法第四三条第一項の酒類の製造にあたる一事例",
+  "case_gist": "飲食店の経営者が消費者の要求に応じてその店舗で消費の直前に酒類にその他の物品を混和するのではなく、不特定の客に飲用させるためあらかじめ焼酎に葡萄糖、水を混和したもの約三升を製造したときは、酒税法第四三条第一項により「新たに酒類を製造したもの」とみなされる",
+  "ref_law": "酒税法43条1項，酒税法43条6項，酒税法54条，酒税法施行令32条",
+  "lawsuit_id": "50478",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50478",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/478/050478_hanrei.pdf"
+}

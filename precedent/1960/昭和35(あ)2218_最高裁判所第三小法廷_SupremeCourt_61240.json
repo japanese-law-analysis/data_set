@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 2,
+    "day": 7
+  },
+  "case_number": "昭和35(あ)2218",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第137号101頁",
+  "original_court_name": "福岡高等裁判所\n        　宮崎支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 9,
+    "day": 20
+  },
+  "gist": "一　公職選挙法第一二九条、第一四二条の「選挙運動」と同法第一三八条。\n二　団体に対する推せん依頼と公職選挙法第一四二条第一項の「選挙運動」。",
+  "case_gist": "一　公職選挙法一二九条、一四二条等にいわゆる「選挙運動」には、同法一三八のいわゆる戸別訪問禁止の規定にいう「投票を得若しくは得しめ又は得しめない目的」のごとき投票依頼等の目的を要件としないものと解すべきである。\n二　ある団体の推せん候補者であることが当選獲得に効果があると認めれる場合に、同団体員でない者が甲某に当選を得させる目的で、同団体員に対して甲某を候補者として推せんして貰いたい旨の依頼をなす行為は、公職選挙法第一四二条第一項にいわゆる「選挙運動」に該当するものと解すべきである。",
+  "ref_law": "公職選挙法129条，公職選挙法142条，公職選挙法138条，公職選挙法142条1項",
+  "lawsuit_id": "61240",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61240",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/240/061240_hanrei.pdf"
+}

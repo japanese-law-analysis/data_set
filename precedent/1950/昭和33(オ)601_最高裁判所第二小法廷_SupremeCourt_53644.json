@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 12,
+    "day": 11
+  },
+  "case_number": "昭和33(オ)601",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第13巻13号1623頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 4,
+    "day": 15
+  },
+  "gist": "第三者所有の木材に対する差押につき債権者に過失ありとせられた事例。",
+  "case_gist": "木材の所有権者の表示方法として木材の切口断面に所有者の刻印をする慣行のある場合に、債務者の刻印が（記載内容は末尾添付）であることを知つている債権者に対し、債務者からその木材に付されている（記載内容は末尾添付）又は（記載内容は末尾添付）の刻印を指摘して、債務者所有の木材でないことを申し出でたに拘わらず、右木材に対し差押をなしたときは、差押債権者はその差押について過失があるものと解すべきである。",
+  "ref_law": "民法709条",
+  "lawsuit_id": "53644",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53644",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/644/053644_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 8,
+    "day": 27
+  },
+  "case_number": "昭和31(あ)4625",
+  "case_name": "公務執行妨害",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第13巻10号2769頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 11,
+    "day": 20
+  },
+  "gist": "公務執行妨害罪の成立する事例。",
+  "case_gist": "司法巡査が覚せい剤取締法違反の現行犯人甲を逮捕する現場で証拠物として適法に差押え整理のため同所に置いた覚せい剤注射液入りアンプルを、被告人乙が足で踏付けて損壊したときは公務執行妨害罪が成立する。",
+  "ref_law": "刑法95条1項",
+  "lawsuit_id": "55781",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55781",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/781/055781_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 12,
+    "day": 13
+  },
+  "case_number": "昭和54(行ツ)88",
+  "case_name": "町長当選決定取消",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第33巻7号743頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和53(行ケ)3",
+  "original_date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 3,
+    "day": 30
+  },
+  "gist": "刑法上の贈賄罪が町議会の議長選挙に関して犯された場合と公職選挙法一一条一項四号にいう「法律で定めるところにより行なわれる選挙投票及び国民審査に関する犯罪」",
+  "case_gist": "刑法上の贈賄罪は、それが町議会の議長選挙に関して犯された場合であつても、公職選挙法一一条一項四号にいう「法律で定めるところにより行なわれる選挙、投票及び国民審査に関する犯罪」にあたらない。",
+  "ref_law": "公職選挙法11条1項，刑法198条",
+  "lawsuit_id": "53363",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53363",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/363/053363_hanrei.pdf"
+}

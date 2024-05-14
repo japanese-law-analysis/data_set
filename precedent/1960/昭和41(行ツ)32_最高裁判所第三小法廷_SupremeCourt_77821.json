@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 11,
+    "day": 22
+  },
+  "case_number": "昭和41(行ツ)32",
+  "case_name": "町議会議員一般選挙の当選の効力に関する裁決取消請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第85号253頁",
+  "original_court_name": "仙台高等裁判所\n        　秋田支部",
+  "original_case_number": "昭和39(行ケ)3",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 2,
+    "day": 14
+  },
+  "gist": "一　候補者の父の名に合致する記載のある投票を右候補者の得票と認めた事例\n二　赤のマヂツクインキで記載された投票の効力",
+  "case_gist": "一　候補者の父の名に合致する記載のある投票でも、右父の名は代々襲名されたもので、現に候補者の家の家号として取り扱われ、候補者自身の通称とも認められるときは、これを右候補者に宛てられた有効投票と解すべきである。\n二　赤のマヂツクインキで候補者の氏名を記載した投票は無効でない。",
+  "ref_law": "公職選挙法68条，公職選挙法46条",
+  "lawsuit_id": "77821",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77821",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/821/077821_hanrei.pdf"
+}

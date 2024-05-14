@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 5,
+    "day": 29
+  },
+  "case_number": "昭和45(あ)318",
+  "case_name": "常習賭博",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第176号425頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 12,
+    "day": 26
+  },
+  "gist": "刑法一八六条一項の規定を違憲（三一条）とする主張が前提を欠くとされた事例",
+  "case_gist": "上告趣意は、違憲（三一条）をいうが、賭博行為が風俗を害し公共の福祉に反するもので、実質的に違法であることは、判例（昭和二五年（れ）第二八〇号同年一一月二二日最高裁判所大法廷判決、刑集四巻一一号二三八〇頁）の趣旨に徴し明らかであつて、この点の主張は前提を欠く。\n　注　所論は賭博行為が実質的には違法でないとして、これを禁止処罰する刑法一八六条一項の違憲をいうもの。",
+  "ref_law": "刑法186条1項，憲法31条，刑訴法405条1号",
+  "lawsuit_id": "59583",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59583",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/583/059583_hanrei.pdf"
+}

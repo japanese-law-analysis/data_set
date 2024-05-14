@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 2,
+    "day": 22
+  },
+  "case_number": "昭和24(オ)277",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第5巻3号106頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 10,
+    "day": 17
+  },
+  "gist": "贈与の主張に対し死因贈与を認定したことの適否",
+  "case_gist": "係争家屋の所有権を取得したと抗争する被告が、その取得の原因として「被告は原告の亡先代から右家屋の贈与を受けた」旨主張している場合弁論の全趣旨から右贈与の主張が死因贈与の主張を包含すると認められる以上、たとい死因贈与を受けた旨の明示的主張がなくても、裁判所が被告は原告先代から右家屋の死因贈与を受けその所有権を取得したと認定しても、当事者の主張しない事実を認定したものとはいえない。",
+  "ref_law": "民訴法186条，民法554条",
+  "lawsuit_id": "55959",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55959",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/959/055959_hanrei.pdf"
+}

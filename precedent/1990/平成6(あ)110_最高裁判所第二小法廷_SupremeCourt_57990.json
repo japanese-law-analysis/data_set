@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 8,
+    "month": 6,
+    "day": 21
+  },
+  "case_number": "平成6(あ)110",
+  "case_name": "愛媛県屋外広告物条例違反、軽犯罪法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第268号75頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 5,
+    "month": 12,
+    "day": 9
+  },
+  "gist": "愛媛県屋外広告物条例及び軽犯罪法の合憲性",
+  "ref_law": "憲法21条，愛媛県屋外広告物条例27条1号，愛媛県屋外広告物条例4条2項1号，愛媛県屋外広告物条例4条2項4号，軽犯罪法1条33号",
+  "lawsuit_id": "57990",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57990",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/990/057990_hanrei.pdf"
+}

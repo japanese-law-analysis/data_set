@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 12,
+    "day": 19
+  },
+  "case_number": "昭和26(あ)4896",
+  "case_name": "食糧管理法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第71号141頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 11,
+    "day": 12
+  },
+  "gist": "食糧管理法第九条の法意",
+  "case_gist": "食糧管理法第九条にいう譲渡その他の処分の中には、売買をも含むものと解するのが相当である。従つて、同法第九条は、政府が本件の如き主要食糧の買受行為を禁圧するため必要な命令をなすことを得る趣旨をも包含するものと解すべきは勿論である。",
+  "ref_law": "食糧管理法9条",
+  "lawsuit_id": "64716",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64716",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/716/064716_hanrei.pdf"
+}

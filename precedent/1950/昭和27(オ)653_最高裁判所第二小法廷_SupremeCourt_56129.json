@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 9,
+    "day": 9
+  },
+  "case_number": "昭和27(オ)653",
+  "case_name": "土地所有権移転登記抹消登記手続請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第9巻10号1228頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 6,
+    "day": 23
+  },
+  "gist": "一　農地贈与の効力と知事の許可\n二　死亡した贈与者名義でなされた受贈者に対する土地所有権移転登記と相続人の抹消請求の許否",
+  "case_gist": "一　農地の贈与についての知事の許可は、贈与の成立前になされることを要せず、許可のあつたときから右贈与は効力を生ずるものであり、許可当時贈与者が既に死亡していても、その効力の発生を妨げない。\n二　受贈者に対する土地所有権移転登記が、死亡している贈与者名義でなされた場合であつても、右登記が死亡者およびその相続人の意志に反しないものと認められ且つ実体上の権利関係に吻合するものであるときは、相続人は受贈者に対し、その抹消を請求することは許されない。",
+  "ref_law": "旧農地調整法4条，旧農地調整法施行令2条1項，不動産登記法26条，不動産登記法36条",
+  "lawsuit_id": "56129",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56129",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/129/056129_hanrei.pdf"
+}

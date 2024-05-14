@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 10,
+    "day": 11
+  },
+  "case_number": "昭和28(オ)1034",
+  "case_name": "詐害行為取消請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第9巻11号1626頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 9,
+    "day": 14
+  },
+  "gist": "詐害行為の目的物が不可分な場合と取消の範囲",
+  "case_gist": "詐害行為となる債務者の行為の目的物が、不可分な一棟の建物であるときは、たとえその価額が債権者を超える場合でも、債権者は、右行為の全部を取り消すことができる。",
+  "ref_law": "民法424条",
+  "lawsuit_id": "57373",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57373",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/373/057373_hanrei.pdf"
+}

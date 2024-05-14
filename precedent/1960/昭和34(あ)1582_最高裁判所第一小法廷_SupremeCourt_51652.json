@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 2,
+    "day": 18
+  },
+  "case_number": "昭和34(あ)1582",
+  "case_name": "関税法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第14巻2号153頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 6,
+    "day": 4
+  },
+  "gist": "一　関税法第一一八条の没収および追徴規定の趣旨\n二　同条第二項の追徴規定と憲法第二九条および第三六条",
+  "case_gist": "一　関税法第一一八条において、犯罪に係る貨物を没収し、または、これを没収することができない場合にその没収することができないものの犯罪が行われた時の価格に相当する金額を犯人から追徴する趣旨は、単に犯人が現実に取得した不正の利益だけを剥奪せんとするに過ぎないのではなく、むしろ、国家が関税法規に違反して輸入した貨物またはこれに代るべき価格を犯人連帯の責任において納付せしめ、もつて密輸入の取締を厳に励行せんとするに出たものと解すべきである。\n二　同条第二項は憲法第二九条に違反せず、また、同第三六条にいわゆる残虐な刑罰規定ともいえない。",
+  "ref_law": "関税法118条，憲法29条，憲法36条",
+  "lawsuit_id": "51652",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51652",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/652/051652_hanrei.pdf"
+}

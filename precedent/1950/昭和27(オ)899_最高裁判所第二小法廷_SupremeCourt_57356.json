@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 6,
+    "day": 25
+  },
+  "case_number": "昭和27(オ)899",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第8巻6号1321頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 8,
+    "day": 18
+  },
+  "gist": "抹消登記のために交付された書類を利用してした移転登記の効力",
+  "case_gist": "所有不動産を丙に譲渡した甲が、さきに乙名義になした所有権移転登記の抹消手続のため同人から交付を受けた同人名義の必要書類を冒用して、乙から丙に移転登記手続をなしたときは、一般の偽造文書による登記の場合とは異なり右登記を無効とすることはできない。",
+  "ref_law": "民法177条",
+  "lawsuit_id": "57356",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57356",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/356/057356_hanrei.pdf"
+}

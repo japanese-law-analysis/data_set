@@ -1,0 +1,22 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 10,
+    "day": 15
+  },
+  "case_number": "昭和28(す)510",
+  "case_name": "建造物侵入被告事件につき勾留中の被告人よりの勾留理由開示の請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "却下",
+  "article_info": "刑集　第7巻10号1938頁",
+  "original_court_name": "最高裁判所",
+  "gist": "再度の勾留理由開示請求の適否",
+  "case_gist": "既に一度勾留理由の開示がなされたときは、その同一勾留の継続中は重ねて勾留理由の開示を請求することを許さないものと解すべきである。",
+  "ref_law": "刑訴法86条",
+  "lawsuit_id": "55749",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55749",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/749/055749_hanrei.pdf"
+}

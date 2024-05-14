@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 12,
+    "day": 24
+  },
+  "case_number": "昭和29(す)488",
+  "case_name": "詐欺被告事件につきなした上告棄却の決定に対する執行異議申立",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第101号967頁",
+  "original_court_name": "最高裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 9,
+    "day": 8
+  },
+  "gist": "刑訴法第五〇二条という「言渡をした裁判所」",
+  "case_gist": "裁判の執行を受ける者の執行に関する異議の申立は刑訴五〇二条により刑の言渡をした裁判所のすべきところ、右にいわゆる言渡をした裁判所とは執行をすべき刑の言渡をした裁判所を指称すること明らかである。そして本件被告事件については昭和二八年一〇月一六日長野地裁上田支部において懲役一年（未決勾留日数中三〇日に刑期に算入）、同二九年二月二五日東京高裁において控訴棄却の各言渡をし、同年九月当裁判所においてはもとより刑の言渡をしないのであるから、執行に関する本件異議申立は刑を言渡した長野地方裁判所に対しすべきものである。されば本件異議申立は結局不適法である。",
+  "ref_law": "刑訴法502条",
+  "lawsuit_id": "75726",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=75726",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/726/075726_hanrei.pdf"
+}

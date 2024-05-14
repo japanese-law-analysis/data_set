@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 11,
+    "day": 19
+  },
+  "case_number": "昭和38(オ)455",
+  "case_name": "所有権確認登記抹消等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第76号181頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 1,
+    "day": 30
+  },
+  "gist": "死亡した訴訟代理人の氏名を判決の当事者欄に記載したことの違法性の有無。",
+  "case_gist": "訴訟係属中に死亡した訴訟代理人の氏名を判決の当事者欄に記載しているからといつて、同人が死亡後も訴訟を遂行した旨の判示をしているわけではなく、なんら違法はない。",
+  "ref_law": "民訴法395条1項4号",
+  "lawsuit_id": "63898",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63898",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/898/063898_hanrei.pdf"
+}

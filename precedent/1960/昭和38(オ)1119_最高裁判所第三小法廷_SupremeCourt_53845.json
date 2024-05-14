@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 10,
+    "day": 19
+  },
+  "case_number": "昭和38(オ)1119",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第19巻7号1876頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和34(ネ)107",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 6,
+    "day": 26
+  },
+  "gist": "一　寄託物について仮処分がされた場合と民法第六六〇条の適用。\n二　受寄者の寄託者に対する通知義務の範囲。",
+  "case_gist": "一　受寄者は、寄託物について仮処分がされた場合でも、民法第六六〇条により通知義務を負うものと解すべきである。\n二　受寄者は、寄託物につき仮処分がされたときは、寄託者に対し、その旨を通知すれば足り、その後の経過（点検、保管換え）まで遂一報告する義務はないと解するのが相当である。",
+  "ref_law": "民法660条",
+  "lawsuit_id": "53845",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53845",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/845/053845_hanrei.pdf"
+}

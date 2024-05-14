@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 12,
+    "day": 28
+  },
+  "case_number": "昭和24(れ)2148",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第3巻12号2130頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 6,
+    "day": 23
+  },
+  "gist": "刑訴應急措置法第三條の法意",
+  "case_gist": "刑訴應急措置法第三條は、舊刑訴法第三九條第二項の所定の者に對し、被疑者が勾留された事實並びに辯護人の選任權ある旨の通知すべき義務までを裁判所に課したものではない。",
+  "ref_law": "刑訴應急措置法3條，舊刑訴法39條2項",
+  "lawsuit_id": "55468",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55468",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/468/055468_hanrei.pdf"
+}

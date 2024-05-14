@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 4,
+    "day": 19
+  },
+  "case_number": "昭和30(あ)2523",
+  "case_name": "贈賄、収賄",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "刑集　第10巻4号588頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 6,
+    "day": 28
+  },
+  "gist": "刑訴法第四一一条第一号にあたる一事例\n―同法第四〇二条違反の場合―",
+  "case_gist": "第一審判決は、主文において贈賄をした被告人四名を各罰金に、収賄をした被告人三名を各懲役刑に処し、各被告人に対し一年間右刑の執行を猶予する旨を記載し、理由の法律適用の部分には第一（贈賄）、二（収賄）事実を区別することなく単に刑法第二五条とのみ記載しあるにすぎないこと並びに公判調書によれば、第一審においては右判決を宣告したものであることが認められる場合においては、罰金刑に処せられた被告人四名に対しても各罰金刑について執行猶予の言渡がなされたものと認むべきであるから、原判決が右各罰金刑について執行猶予の言渡をしなかつたことは刑訴第四〇二条の規定に違反し、同法第四一一条第一号により破棄を免れない。",
+  "ref_law": "刑訴法411条1号，刑訴法402条",
+  "lawsuit_id": "51415",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51415",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/415/051415_hanrei.pdf"
+}

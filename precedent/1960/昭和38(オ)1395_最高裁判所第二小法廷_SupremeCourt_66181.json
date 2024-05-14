@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 9,
+    "day": 10
+  },
+  "case_number": "昭和38(オ)1395",
+  "case_name": "不動産所有権確認共有登記抹消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第80号233頁",
+  "original_court_name": "広島高等裁判所\n        　松江支部",
+  "original_case_number": "昭和35(ネ)120",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 9,
+    "day": 27
+  },
+  "gist": "共有者の一人から物件を買い受けた者は、所有権の時効取得を主張するためには他の共有者に対し自主占有の意思を主張することが必要か",
+  "case_gist": "共有者の一人から物件の所有権を買い受けた者は、他の共有者に対し、改めて、所有の意思で占有する旨を表示しなくても、所有権の取得時効の要件たる所要の意思をもつて占有をはじめたというべきである。",
+  "ref_law": "民法162条，民法249条",
+  "lawsuit_id": "66181",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66181",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/181/066181_hanrei.pdf"
+}

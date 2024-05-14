@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 9,
+    "day": 2
+  },
+  "case_number": "昭和35(オ)348",
+  "case_name": "土地所有権確認、土地所有権移転登記手続請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第14巻11号2094頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 12,
+    "day": 21
+  },
+  "gist": "一　民法第一六二条第二項の無過失の事例\n二　相続財産の管理人選任前取得時効期間が満了した場合と民法第一六〇条",
+  "case_gist": "一　空襲により一家全滅した本家の再興のため、親族の協議により相続人に選ばれて本家の家業を継ぎ、相続財産に属する土地を占有している二二歳の女子につき、原審認定のような事実関係（原判決理由参照）があるときは、同人がその土地の所有権を取得したものと信ずるにつき過失はないものと解すべきである。\n二　民法第一六〇条は、相続財産の管理人の選任前、相続財産たる土地を、所有の意思をもつて、平穏、公然、善意無過失で一〇年間占有した場合にも、その適用があるものと解すべきである。",
+  "ref_law": "民法162条2項，民法160条",
+  "lawsuit_id": "53016",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53016",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/016/053016_hanrei.pdf"
+}

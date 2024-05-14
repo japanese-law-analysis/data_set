@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 10,
+    "day": 5
+  },
+  "case_number": "昭和48(オ)494",
+  "case_name": "建物明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第110号211頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和45(ネ)103",
+  "original_date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 2,
+    "day": 19
+  },
+  "gist": "建物の買主の占有が抵当権実行による建物の競落人に対抗できない場合と民法二九五条二項",
+  "case_gist": "抵当権の設定されている建物の買主は、抵当権の実行により建物が他に競落されたのち不法占有中右建物につき支出した費用に関し留置権を主張することはできない。",
+  "ref_law": "民法295条2項",
+  "lawsuit_id": "62164",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62164",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/164/062164_hanrei.pdf"
+}

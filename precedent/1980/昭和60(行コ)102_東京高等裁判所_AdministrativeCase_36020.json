@@ -1,0 +1,19 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 7,
+    "day": 16
+  },
+  "case_number": "昭和60(行コ)102",
+  "case_name": "行政処分取消請求控訴事件（原審・東京地方裁判所昭和５８年（行ウ）第１４３号）",
+  "court_name": "東京高等裁判所",
+  "field": "行政",
+  "gist": "工事が完了した場合における建築物の用途変更確認の取消しを求める訴えの利益の有無",
+  "case_gist": "建築基準法８７条，６条による確認を受けた建築物の用途変更工事が完了したときは，右確認の取消しを求める訴えの利益は失われる。",
+  "lawsuit_id": "36020",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=36020",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/020/036020_hanrei.pdf",
+  "contents": ""
+}

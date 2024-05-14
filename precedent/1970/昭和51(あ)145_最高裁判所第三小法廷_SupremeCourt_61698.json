@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 9,
+    "day": 9
+  },
+  "case_number": "昭和51(あ)145",
+  "case_name": "家畜伝染病予防法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第205号431頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 11,
+    "day": 27
+  },
+  "gist": "家畜伝染病予防法一七条の殺処分に伴う同法五八条の手当金に関する違憲（一四条、二九条）主張が欠前提とされた事例",
+  "ref_law": "憲法14条，憲法29条",
+  "lawsuit_id": "61698",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61698",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/698/061698_hanrei.pdf"
+}

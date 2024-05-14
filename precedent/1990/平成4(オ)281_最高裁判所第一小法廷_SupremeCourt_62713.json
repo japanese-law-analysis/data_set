@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 6,
+    "month": 3,
+    "day": 10
+  },
+  "case_number": "平成4(オ)281",
+  "case_name": "登録債元利金請求、独立当事者参加申立",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第172号55頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成3(ネ)63",
+  "original_date": {
+    "era": "Heisei",
+    "year": 3,
+    "month": 10,
+    "day": 8
+  },
+  "gist": "債権者を確知することができないことを理由とする弁済供託の被供託者の中に権利義務の帰属主体となる実体を備えていないものが含まれる場合と供託の効力",
+  "case_gist": "債権者を確知することができないことを理由とする弁済供託は、被供託者の中に、還付請求権を有する者が含まれている以上、権利義務の帰属主体となる実体を備えていないものが含まれていても、無効とはならない。",
+  "ref_law": "民法494条後段，供託法9条",
+  "lawsuit_id": "62713",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62713",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/713/062713_hanrei.pdf"
+}

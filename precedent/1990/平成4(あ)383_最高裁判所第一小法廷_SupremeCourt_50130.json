@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 4,
+    "month": 12,
+    "day": 17
+  },
+  "case_number": "平成4(あ)383",
+  "case_name": "業務上過失致死",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第46巻9号683頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 4,
+    "month": 3,
+    "day": 11
+  },
+  "gist": "夜間潜水の講習指導中受講生ができ死した事故につき指導補助者及び受講生の不適切な行動が介在した場合でも指導者の行為と受講生の死亡との間に因果関係があるとされた事例",
+  "case_gist": "海中における夜間潜水の講習指導中、指導者が不用意に受講生らのそばから離れて同人らを見失い、受講生が圧縮空気タンク内の空気を使い果たしてでき死するに至った事故について、右受講生は潜水経験に乏しく技術が未熟であり、指導補助者もその経験が極めて浅かったことなどの本件の事実関係（判文参照）の下においては、指導補助者及び受講生の不適切な行動が介在したとしても、指導者の右行為と受講生と死亡との間には因果関係がある。",
+  "ref_law": "刑法第1編第7章，刑法211条（平成3年法律31号による改正前のもの）",
+  "lawsuit_id": "50130",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50130",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/130/050130_hanrei.pdf"
+}

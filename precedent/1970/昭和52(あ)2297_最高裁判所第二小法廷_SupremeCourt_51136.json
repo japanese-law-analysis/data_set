@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 10,
+    "day": 26
+  },
+  "case_number": "昭和52(あ)2297",
+  "case_name": "常習賭博",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第33巻6号665頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 10,
+    "day": 19
+  },
+  "gist": "常習賭博罪の常習性が認められるとされた事例",
+  "case_gist": "長期間営業を継続する意思のもとに、多額の資本を投下して多数の賭博遊技機を設置した遊技場の営業を開始し、警察による摘発を受けて廃業するまでの三日間、来場した多数の遊技客と賭博をしたなど原判示の事情のもとにおいては、右遊技場の営業者に常習賭博罪の常習性を認めることができる。",
+  "ref_law": "刑法186条1項",
+  "lawsuit_id": "51136",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51136",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/136/051136_hanrei.pdf"
+}

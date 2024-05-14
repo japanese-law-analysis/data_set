@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 4,
+    "day": 19
+  },
+  "case_number": "昭和55(オ)148",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第138号611頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和52(ネ)1994",
+  "original_date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 11,
+    "day": 7
+  },
+  "gist": "土地売買契約の過程において当事者の一方が契約の成立を不可能にしたことが不法行為になるとされた事例",
+  "case_gist": "土地売買契約締結の過程において、当事者が互いに契約条項をすべて諒解し、公正証書の作成をもつてすることとした契約締結の日を取り決めるなどして、買主となる者が交渉の結果に沿つた契約の成立を期待し買受代金の調達などの準備を進めるのが当然であるとみられるような段階に達した場合に、売主となる者がその責に帰すべき事由によつて契約の締結を不可能にすることは、特段の事情のない限り、不法行為となり、買主となる者は、買受代金にあてる資金を借り受けたため金融機関に支払を余議なくされた利息相当額の損害につき、売主となる者に対しその賠償を求めることができる。",
+  "ref_law": "民法709条",
+  "lawsuit_id": "66869",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66869",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/869/066869_hanrei.pdf"
+}

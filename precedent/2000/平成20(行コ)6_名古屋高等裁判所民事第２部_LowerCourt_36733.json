@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 7,
+    "day": 16
+  },
+  "case_number": "平成20(行コ)6",
+  "case_name": "保有個人情報一部不開示決定処分取消等請求控訴事件（原審・名古屋地方裁判所平成１９年（行ウ）第４７号）",
+  "court_name": "名古屋高等裁判所民事第２部",
+  "result": "その他",
+  "original_court_name": "名古屋地方裁判所",
+  "original_case_number": "平成19(行ウ)47",
+  "original_result": "その他",
+  "gist": "子の死亡現場を検分した調書等の開示請求に対して，一部不開示決定がされた処分の取消等を求めた抗告訴訟において，不開示処分の取消等を認めた原判決を取り消して，処分行政庁の決定には裁量権の逸脱や濫用が認められないとした事例",
+  "lawsuit_id": "36733",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=36733",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/733/036733_hanrei.pdf",
+  "contents": ""
+}

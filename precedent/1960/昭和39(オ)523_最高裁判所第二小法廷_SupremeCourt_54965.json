@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 10,
+    "day": 27
+  },
+  "case_number": "昭和39(オ)523",
+  "case_name": "土地建物所有権移転登記手続等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第21巻8号2110頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和34(ネ)2685",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 12,
+    "day": 25
+  },
+  "gist": "一　他人の債務のため自己の所有物をいわゆる弱い譲渡担保に供した者は右債務の消滅時効を援用することができるか\n二　債務者の時効の利益の放棄は当該債務のため自己の所有物をいわゆる弱い譲渡担保に供した者に影響を及ぼすか",
+  "case_gist": "一　他人の債務のため自己の所有物をいわゆる弱い譲渡担保に供した者は、右債務の消滅時効を援用することができる。\n二　債務者の時効の利益の放棄は、当該債務のため自己の所有物をいわゆる弱い譲渡担保に供した者に影響を及ぼさない。",
+  "ref_law": "民法369条，民法145条，民法146条",
+  "lawsuit_id": "54965",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54965",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/965/054965_hanrei.pdf"
+}

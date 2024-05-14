@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 12,
+    "day": 5
+  },
+  "case_number": "昭和27(オ)136",
+  "case_name": "農業委員会委員選挙無効請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第6巻11号1127頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 2,
+    "day": 2
+  },
+  "gist": "違法な選挙立会人の立会と選挙の効力",
+  "case_gist": "候補者から届出のあつた立会人の立会を拒否し、選挙長の選任した立会人を立ち会わしめて選挙会の事務を行つた違法のある場合は、公職選挙法第二〇五条にいわゆる「選挙の結果に異動を及ぼす虞がある場合」にあたり、その選挙は無効とすべきである。",
+  "ref_law": "公職選挙法76条，公職選挙法205条",
+  "lawsuit_id": "57300",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57300",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/300/057300_hanrei.pdf"
+}

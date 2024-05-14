@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 4,
+    "day": 5
+  },
+  "case_number": "昭和48(オ)835",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第111号521頁",
+  "original_court_name": "広島高等裁判所",
+  "original_case_number": "昭和46(ネ)250",
+  "original_date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 5,
+    "day": 23
+  },
+  "gist": "過失相殺後の請求認容額等を考慮して定められた弁護士費用と過失相殺",
+  "case_gist": "過失相殺後の請求認容額等を考慮して定められた弁護士費用については、過失相殺による差引をすべきではない。",
+  "ref_law": "民法709条，民法722条2項",
+  "lawsuit_id": "62175",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62175",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/175/062175_hanrei.pdf"
+}

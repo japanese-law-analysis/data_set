@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 6,
+    "day": 16
+  },
+  "case_number": "昭和24(れ)857",
+  "case_name": "殺人、死体遺棄、死体損壊",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第3巻7号1082頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 1,
+    "day": 27
+  },
+  "gist": "被告人の控訴權と辯護人の控訴自立權",
+  "case_gist": "辯護人は、固有の獨立した上訴權を有するものではなく、被告人の上訴權をその明示した意思に反しない限り、行使し得るに過ぎないものであること、舊刑訴法第三七八條の規定の明文と同第三七九條の規定の明文とを對照し且つ辯護人には上訴の放棄は勿論その取下をも認めなかつた立法の趣旨に照し、明白なところであるから、辯護人の控訴申立權は、被告人の控訴權の存續を前提とするものと解すべきである。從つて、前記辯護人の控訴、申立も亦た右被告人の控訴取下により消滅し、存續するを得ないものといわねばならぬ。",
+  "ref_law": "舊刑訴法378條，舊刑訴法379條，舊刑訴法382條",
+  "lawsuit_id": "55507",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55507",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/507/055507_hanrei.pdf"
+}

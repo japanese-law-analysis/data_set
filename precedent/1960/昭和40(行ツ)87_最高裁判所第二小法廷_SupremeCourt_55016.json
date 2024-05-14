@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 5,
+    "day": 19
+  },
+  "case_number": "昭和40(行ツ)87",
+  "case_name": "所得税審査決定処分取消等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第21巻4号896頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和39(行コ)54",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 6,
+    "day": 17
+  },
+  "gist": "租税特別措置法（昭和三八年法律第六五号による改正前のもの）第三五条にいう譲渡に係る「居住の用に供する家屋の敷地に供される土地」の意義",
+  "case_gist": "租税特別措置法（昭和三八年法律第六五号による改正前のもの）第三五条にいう譲渡に係る「居住の用に供する家屋の敷地に供される土地」とは、譲渡の当時現実に居住用家屋の敷地に供されている土地だけでなく、所有者が居住用家屋の敷地に供する意図のもとに所有している土地をも含むが、所有者の右の意図は、近い将来において実現されることが客観的に明白なものでなければならないと解するのが相当である。",
+  "ref_law": "租税特別措置法（昭和38年法律65号による改正前のもの）35条",
+  "lawsuit_id": "55016",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55016",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/016/055016_hanrei.pdf"
+}

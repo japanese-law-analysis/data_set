@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 12,
+    "day": 13
+  },
+  "case_number": "昭和56(あ)233",
+  "case_name": "威力業務妨害",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第232号1145頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 1,
+    "day": 22
+  },
+  "gist": "銀行に対する一円振込み行動が憲法二八条の権利行使にあたらないとされた事例",
+  "case_gist": "銀行に対する本件一円振込み行動は、使用者対被使用者の関係を前提とする憲法二八条の権利行使にあたらない。",
+  "ref_law": "憲法28条，刑法234条",
+  "lawsuit_id": "58209",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58209",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/209/058209_hanrei.pdf"
+}

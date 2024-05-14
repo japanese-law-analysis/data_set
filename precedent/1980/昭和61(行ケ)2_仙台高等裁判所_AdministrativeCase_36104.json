@@ -1,0 +1,18 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 9,
+    "day": 8
+  },
+  "case_number": "昭和61(行ケ)2",
+  "case_name": "選挙無効請求事件",
+  "court_name": "仙台高等裁判所",
+  "field": "行政",
+  "gist": "公職選挙法１４条及び同法別表第２による議員定数の定めが，昭和６１年７月６日施行の参議院（選挙区選出）議員選挙当時において，議員１人当たりの選挙人数の最大区と最小区との較差が５・８５対１に達していたが，いまだ国会の裁量権の範囲を逸脱し，憲法１４条１項に違反するとはいえないとされた事例",
+  "lawsuit_id": "36104",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=36104",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/104/036104_hanrei.pdf",
+  "contents": ""
+}

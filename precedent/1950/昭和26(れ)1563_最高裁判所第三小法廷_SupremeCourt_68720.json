@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 10,
+    "day": 2
+  },
+  "case_number": "昭和26(れ)1563",
+  "case_name": "賍物故買",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第54号103頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 12,
+    "day": 11
+  },
+  "gist": "公判請求書に引用されている司法警察官意見書と犯罪一覧表との間に契印を欠くことと公訴事実の確定",
+  "case_gist": "論旨のように公判請求書とそこに引用されている司法警察官意見書との間、又は司法警察官意見書とそこに引用されている犯罪一覧表との間に常に契印を必要とするものではない。以上のように審判の範囲は明確なのであるから公訴棄却をすべきものであるという論旨は採用できない。",
+  "ref_law": "旧刑訴法71条2項，旧刑訴法291条",
+  "lawsuit_id": "68720",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=68720",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/720/068720_hanrei.pdf"
+}

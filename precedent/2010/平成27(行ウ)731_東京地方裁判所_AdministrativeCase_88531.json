@@ -1,0 +1,16 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Heisei",
+    "year": 29,
+    "month": 3,
+    "day": 28
+  },
+  "case_number": "平成27(行ウ)731",
+  "case_name": "年金記録に係る不訂正決定取消請求事件",
+  "court_name": "東京地方裁判所",
+  "field": "行政",
+  "lawsuit_id": "88531",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=88531",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/531/088531_hanrei.pdf"
+}

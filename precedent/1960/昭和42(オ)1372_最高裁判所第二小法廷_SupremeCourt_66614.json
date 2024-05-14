@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 3,
+    "day": 29
+  },
+  "case_number": "昭和42(オ)1372",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第90号851頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和41(ネ)913",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 8,
+    "day": 30
+  },
+  "gist": "訴訟上の和解に訴訟物たる権利関係以外の権利関係を包含させることは違法か",
+  "case_gist": "訴訟上の和解に、当該訴訟の訴訟物たる権利関係以外の権利関係を包含させても違法ではない。",
+  "ref_law": "民訴法203条",
+  "lawsuit_id": "66614",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66614",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/614/066614_hanrei.pdf"
+}

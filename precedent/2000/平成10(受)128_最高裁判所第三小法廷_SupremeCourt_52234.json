@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 12,
+    "month": 6,
+    "day": 27
+  },
+  "case_number": "平成10(受)128",
+  "case_name": "動産引渡請求本訴、代金返還請求反訴事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第54巻5号1737頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "平成9(ネ)668",
+  "original_date": {
+    "era": "Heisei",
+    "year": 10,
+    "month": 4,
+    "day": 8
+  },
+  "gist": "一　民法一九四条に基づき盗品等の引渡しを拒むことができる占有者と右盗品等の使用収益権\n二　盗品の占有者がその返還後にした民法一九四条に基づく代価弁償請求が肯定される場合",
+  "case_gist": "一　盗品又は遺失物の占有者は、民法一九四条に基づき右盗品等の引渡しを拒むことができる場合には、代価の弁償の提供があるまで右盗品等の使用収益権を有する。\n二　盗品の占有者が民法一九四条に基づき盗品の引渡しを拒むことができる場合において、被害者が代価を弁償して盗品を回復することを選択してその引渡しを受けたときには、占有者は、盗品の返還後、同条に基づき被害者に対して代価の弁償を請求することができる。",
+  "ref_law": "民法194条",
+  "lawsuit_id": "52234",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52234",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/234/052234_hanrei.pdf"
+}

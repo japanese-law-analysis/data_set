@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 12,
+    "day": 24
+  },
+  "case_number": "昭和23(ク)35",
+  "case_name": "強制執行続行命令に対する即時抗告事件につきなした決定に対する抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "却下",
+  "article_info": "集民　第1号615頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和23(ラ)33",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 10,
+    "day": 26
+  },
+  "lawsuit_id": "76193",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=76193",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/193/076193_hanrei.pdf"
+}

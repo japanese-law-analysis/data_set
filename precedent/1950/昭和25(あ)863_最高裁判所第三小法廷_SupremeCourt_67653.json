@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 5,
+    "day": 15
+  },
+  "case_number": "昭和25(あ)863",
+  "case_name": "臨時物資需給調整法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第45号761頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 2,
+    "day": 13
+  },
+  "gist": "押収物の数量について自白と証拠との間にくいちがいがある場合と補強証拠",
+  "case_gist": "被告人は人絹糸合計四五〇封度を不法に買受けたことを自白しており、他方司法警察員Ａ作成の領置調書の記載及び同人の第一審公判廷における供述によつて、被告人の買受けた人絹糸が同人の家において押収されたことが立証され、従つて被告人の自白した事実が架空のものでないことがわかる、さればこれらの証拠は被告人の自白の真実性を裏付けるに足り、その補強証拠となり得る。押収された人絹糸の数量が被告人の自白した数量と喰い違つているというだけの理由によつて、これ等のものが補強証拠となり得ないということはできない。\n（昭和二三年（れ）第六一号同年一一月五日大法廷判決参照）。",
+  "ref_law": "憲法38条3項，刑訴法319条2項，刑訴法318条，刑訴法378条4号",
+  "lawsuit_id": "67653",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=67653",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/653/067653_hanrei.pdf"
+}

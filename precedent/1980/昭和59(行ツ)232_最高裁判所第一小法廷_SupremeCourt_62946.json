@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 2,
+    "day": 21
+  },
+  "case_number": "昭和59(行ツ)232",
+  "case_name": "裁決取消",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第144号119頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和58(行コ)74",
+  "original_date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 3,
+    "day": 21
+  },
+  "gist": "一　商業登記法二四条違反の瑕疵ある登記と審査請求が許される事由\n二　商法一九条に反する登記申請が受理され登記が完了したときと審査請求の許否",
+  "case_gist": "一　登記の申請が商業登記法二四条各号所定の却下事由に該当していても、これが受理されて登記が完了したときは、審査請求により右登記の抹消を求めることができるのは、登記につき登記官による職権抹消事由が存することを理由とする場合に限られる。\n二　商法一九条の規定に反し登記することができない商号の登記を目的とする登記申請でも、登記官がその申請を受理して登記を完了したときは、審査請求の方法によつて右登記の抹消を求めることは許されない。",
+  "ref_law": "商業登記法24条13号，商業登記法27条，商業登記法109条1項，商業登記法110条1項，商業登記法114条，商法19条",
+  "lawsuit_id": "62946",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62946",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/946/062946_hanrei.pdf"
+}

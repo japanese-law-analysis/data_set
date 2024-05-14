@@ -1,0 +1,20 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 10,
+    "day": 27
+  },
+  "case_number": "昭和29(す)361",
+  "case_name": "関税法違反被告事件の押收物売却請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "その他",
+  "article_info": "集刑　第99号539頁",
+  "gist": "最高裁判所で押収物の売却決定をした事例\n　　― 裁判所では押収していないが第二審判決で沒収の言渡のあつた船舶 ―",
+  "ref_law": "刑訴法122条",
+  "lawsuit_id": "75721",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=75721",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/721/075721_hanrei.pdf"
+}

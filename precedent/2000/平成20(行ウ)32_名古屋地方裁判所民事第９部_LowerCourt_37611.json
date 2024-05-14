@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 3,
+    "day": 26
+  },
+  "case_number": "平成20(行ウ)32",
+  "case_name": "政務調査費返還代位請求事件",
+  "court_name": "名古屋地方裁判所民事第９部",
+  "gist": "市議会の会派が政務調査費から支出した費用のうち，?当該会派の所属議員により構成される議員総会等の昼食代，?当該会派発行に係る機関紙の印刷費用のうち，所属議員の後援会活動又は選挙活動の一環と認められる記載部分に係る費用は，政務調査費の使途基準に適合しないとされた事例",
+  "lawsuit_id": "37611",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=37611",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/611/037611_hanrei.pdf",
+  "contents": ""
+}

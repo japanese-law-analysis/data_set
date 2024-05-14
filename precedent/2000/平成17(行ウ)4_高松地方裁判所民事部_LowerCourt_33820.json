@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 10,
+    "day": 18
+  },
+  "case_number": "平成17(行ウ)4",
+  "case_name": "勧告無効確認",
+  "court_name": "高松地方裁判所民事部",
+  "gist": "県知事が医療法３０条の７に基づいてした病院開設の中止勧告について，その手続的要件を実質的に欠いているとはいえないなどとして，その無効確認請求が棄却された事例",
+  "lawsuit_id": "33820",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=33820",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/820/033820_hanrei.pdf",
+  "contents": ""
+}

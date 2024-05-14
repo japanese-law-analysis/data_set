@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 5,
+    "day": 6
+  },
+  "case_number": "昭和50(行ツ)93",
+  "case_name": "課税処分取消請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第30巻4号頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和50(行コ)1",
+  "original_date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 6,
+    "day": 10
+  },
+  "gist": "課税処分に対する審査請求につき裁決があつた場合と右課税処分に対する異議申立につき税務署長がした決定の取消を求める訴の出訴期間",
+  "case_gist": "課税処分に対する異議申立につき税務署長がした決定の取消を求める訴の出訴期間は、右課税処分に対する審査請求につき裁決があつた場合においても、異議申立についての決定があつたことを知つた日又は決定の日から起算すべきである。",
+  "ref_law": "行政事件訴訟法14条，国税通則法75条1項，国税通則法75条3項，国税通則法76条1号",
+  "lawsuit_id": "53258",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53258",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/258/053258_hanrei.pdf"
+}

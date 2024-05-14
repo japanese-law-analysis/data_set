@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 5,
+    "day": 18
+  },
+  "case_number": "昭和25(あ)574",
+  "case_name": "傷害致死、恐喝、窃盗",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第46号119頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 1,
+    "day": 31
+  },
+  "gist": "いわゆる因果関係と法令違反の主張に過ぎない判例違反を主張する上告の適否",
+  "case_gist": "刑事責任の要件の一である因果関係が、法律上の観念であることはいうまでもない。しかし、具体的事案において因果関係があるか否かの判定は、結局当該行為が刑罰法令の定める要件を具備するか否かという事実判断に関するものであるから、単に一定の事情の下に或る行為と結果との間に因果関係を認め難いとしたにすぎない論旨援用の判例を以つて、これと全く異つた事情の下になされた行為と結果との間に因果関係ありとした原判決の判断を非難することはできない。従つて、論旨は判例違反を主張するけれども、その実質は単なる法令違反の主張に帰し、適法な上告理由とならない。",
+  "ref_law": "刑訴法405条2号3号",
+  "lawsuit_id": "67591",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=67591",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/591/067591_hanrei.pdf"
+}

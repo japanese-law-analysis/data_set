@@ -1,0 +1,17 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Heisei",
+    "year": 28,
+    "month": 2,
+    "day": 10
+  },
+  "case_number": "平成25(行ウ)386",
+  "case_name": "社会保険審査会の裁決取消請求事件",
+  "court_name": "東京地方裁判所",
+  "gist": "厚生年金保険の保険給付及び保険料の納付の特例等に関する法律（平成２６年法律第６４号による改正前のもの）１条１項に基づく厚生年金保険の被保険者に係る標準報酬月額の決定と当該被保険者を使用していた事業主の不服申立適格",
+  "case_gist": "厚生年金保険の保険給付及び保険料の納付の特例等に関する法律（平成２６年法律第６４号による改正前のもの）１条１項に基づく厚生年金保険の被保険者に係る標準報酬月額の決定につき，当該被保険者を使用していた事業主はその取消しを求めて不服申立てをする法律上の利益を有しない。",
+  "lawsuit_id": "86010",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=86010",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/010/086010_hanrei.pdf"
+}

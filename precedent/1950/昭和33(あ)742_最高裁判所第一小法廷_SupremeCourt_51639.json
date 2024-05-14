@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 2,
+    "day": 19
+  },
+  "case_number": "昭和33(あ)742",
+  "case_name": "傷害致死、死体遺棄",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第13巻2号161頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 3,
+    "day": 20
+  },
+  "gist": "傷害致死後における死体遺棄の罪責。",
+  "case_gist": "身体傷害により人を死に致した後、さらに死体を遺棄するにおいては、傷害致死罪のほかに死体遺棄罪を構成する。",
+  "ref_law": "刑法205条，刑法190条，刑法45条",
+  "lawsuit_id": "51639",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51639",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/639/051639_hanrei.pdf"
+}

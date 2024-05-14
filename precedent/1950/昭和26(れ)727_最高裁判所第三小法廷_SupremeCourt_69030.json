@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 9,
+    "day": 18
+  },
+  "case_number": "昭和26(れ)727",
+  "case_name": "常習賭博",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第53号31頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 1,
+    "day": 23
+  },
+  "gist": "常習賭博の事実を認めている被告人の「罰金にしてもらいたい」との最終陳述の意義",
+  "case_gist": "被告人は原審公判で第一審の判決摘示の犯罪事実（原判決と同様に常習賭博の事実を認定している）を読み聞けられたのに対し、「その通り相違ありません」と答えているのである。従つて、被告人の全供述を通読すると、最後に被告人が述べた「罰金刑をお願い致します」という供述は、懲役刑より軽い罰金刑の方を願う常人の単純な希望を述べたに過ぎないのであつて、常習賭博の法定刑が懲役刑のみを規定していることを特に念頭に入れた精密な法律智識を前提として発言したものでないと解するのが妥当である。",
+  "ref_law": "刑法186条1項，旧刑訴法349条",
+  "lawsuit_id": "69030",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=69030",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/030/069030_hanrei.pdf"
+}

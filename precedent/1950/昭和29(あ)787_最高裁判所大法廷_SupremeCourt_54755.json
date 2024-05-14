@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 2,
+    "day": 16
+  },
+  "case_number": "昭和29(あ)787",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第9巻2号305頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 1,
+    "day": 28
+  },
+  "gist": "一　新聞紙を通常の方法で頒布したことにならない一事例\n二　公職選挙法第一四八条第二項の合憲性",
+  "case_gist": "一　新聞の発行、販売者が町長選挙に際し、従来行つていた郵送の方法によらないで特定の候補者の当選に有利な事項を掲載した、その発行にかかる新聞紙数百部を氏名不詳者数名に交付し、町長に頒布させることは、公職選挙法第一四八条第二項にいわゆる新聞紙を通常の方法で頒布したことに当らない。\n二　公職選挙法第一四八条第二項は憲法第二一条に反しない。",
+  "ref_law": "憲法21条，公職選挙法148条2項，公職選挙法248条6号",
+  "lawsuit_id": "54755",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54755",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/755/054755_hanrei.pdf"
+}

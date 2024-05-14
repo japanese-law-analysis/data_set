@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 3,
+    "day": 31
+  },
+  "case_number": "昭和55(オ)211",
+  "case_name": "建物収去土地明渡等本訴、不当利益返還反訴",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第37巻2号152頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和50(ネ)423",
+  "original_date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 11,
+    "day": 28
+  },
+  "gist": "清算金の支払のないまま仮登記担保権者から目的不動産の所有権を取得した第三者の債務者に対する右不動産の明渡請求と債務者の留置権の抗弁",
+  "case_gist": "清算金の支払のないまま仮登記担保権者から第三者が目的不動産の所有権を取得した場合には、債務者は、右第三者からの右不動産の明渡請求に対し、仮登記担保権者に対する清算金支払請求権を被担保債権とする留置権の抗弁権を主張することができる。",
+  "ref_law": "民法295条，民法482条，仮登記担保契約に関する法律3条1項",
+  "lawsuit_id": "54255",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54255",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/255/054255_hanrei.pdf"
+}

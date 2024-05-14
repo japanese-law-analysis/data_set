@@ -1,0 +1,21 @@
+{
+  "trial_type": "HighCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 3,
+    "day": 19
+  },
+  "case_number": "平成19(う)2824",
+  "case_name": "住居侵入，強制わいせつ致傷，強盗被告事件",
+  "court_name": "東京高等裁判所第９刑事部",
+  "result": "破棄自判",
+  "article_info": "第61巻1号1頁",
+  "original_court_name": "横浜地方裁判所",
+  "gist": "強制わいせつ目的による緊縛状態に乗じて財物を取得した行為につき，強盗罪が成立するとされた事例",
+  "case_gist": "強制わいせつ目的で被害者を緊縛した後，新たに財物取得の意思を生じた場合において，被害者が緊縛されたまま反抗が抑圧されている状態に乗じて財物を取得したときは，新たな暴行・脅迫がなくとも，強盗罪が成立する。",
+  "lawsuit_id": "36741",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail3?id=36741",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/741/036741_hanrei.pdf",
+  "contents": ""
+}

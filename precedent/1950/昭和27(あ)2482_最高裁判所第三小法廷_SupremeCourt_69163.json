@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 7,
+    "day": 29
+  },
+  "case_number": "昭和27(あ)2482",
+  "case_name": "詐欺",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第66号515頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 12,
+    "day": 17
+  },
+  "gist": "強制による自白の主張と認められない例",
+  "case_gist": "警察官が被告人を警察に連行する途中において同人に暴行を加え、或は不当な措置をしたことを述べているに過ぎないときは、これを強制による自白の主張とは認められない。",
+  "ref_law": "憲法38条2項，刑訴法319条1項",
+  "lawsuit_id": "69163",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=69163",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/163/069163_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 12,
+    "day": 18
+  },
+  "case_number": "昭和56(オ)595",
+  "case_name": "建物所有権移転登記等抹消登記手続",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第134号591頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和55(ネ)1184",
+  "original_date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 3,
+    "day": 16
+  },
+  "gist": "競落許可決定確定後における強制執行停止決定と競売手続",
+  "case_gist": "競落許可決定確定後代金支払期日指定前に強制執行停止決定正本が提出された場合であつても、執行裁判所は配当手続を除くじ後の手続を停止するべきではない。",
+  "ref_law": "民訴法（昭和54年法律第4号による改正前のもの）550条，民訴法（昭和54年法律第4号による改正前のもの）686条",
+  "lawsuit_id": "66900",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66900",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/900/066900_hanrei.pdf"
+}

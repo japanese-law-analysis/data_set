@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 8,
+    "day": 3
+  },
+  "case_number": "昭和35(オ)419",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第62号17頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 1,
+    "day": 27
+  },
+  "gist": "証拠調の申請につき許否を決することなく結審しても違法でないとされた事例",
+  "case_gist": "証拠調の申請につきその許否を決することなくして結審したのは、訴訟の指揮およびその経過に徴すれば、その取調の要がないとしてこれを排斥した趣旨と解することを相当とする。",
+  "ref_law": "民訴法259条",
+  "lawsuit_id": "63580",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63580",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/580/063580_hanrei.pdf"
+}

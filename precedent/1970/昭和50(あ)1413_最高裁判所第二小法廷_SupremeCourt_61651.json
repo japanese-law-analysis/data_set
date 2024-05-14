@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 10,
+    "day": 17
+  },
+  "case_number": "昭和50(あ)1413",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第198号35頁",
+  "original_court_name": "仙台高等裁判所\n        　秋田支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 6,
+    "day": 19
+  },
+  "gist": "共犯者の自白と憲法三八条三項",
+  "case_gist": "共犯者（いわゆる対向犯）の自白を、憲法三八条三項にいわゆる「本人の自白」と同一視し、又はこれを準ずるものとすることのできないことは、当裁判所の判例（昭和二九年（あ）第一〇五六号同三三年五月二八日大法廷判決・刑集一二巻八号一七一八頁）の明らかにするところである。",
+  "ref_law": "憲法38条3項，刑訴法319条2項」",
+  "lawsuit_id": "61651",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61651",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/651/061651_hanrei.pdf"
+}

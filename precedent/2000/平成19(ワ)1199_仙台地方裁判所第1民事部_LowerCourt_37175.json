@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 10,
+    "day": 29
+  },
+  "case_number": "平成19(ワ)1199",
+  "case_name": "損害賠償請求事件",
+  "court_name": "仙台地方裁判所第1民事部",
+  "gist": "被告らには，事前に高校生に対して暴行を加えるとの共謀があったとして，そのうちの１人が高校生をナイフで刺して死亡させたことについて，民法７１９条，７０９条，７１０条，７１１条に基づいて，高校生の両親に対する損害賠償責任が認められた事例",
+  "lawsuit_id": "37175",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=37175",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/175/037175_hanrei.pdf",
+  "contents": ""
+}

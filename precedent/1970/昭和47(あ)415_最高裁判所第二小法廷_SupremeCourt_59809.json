@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 6,
+    "day": 8
+  },
+  "case_number": "昭和47(あ)415",
+  "case_name": "強姦致傷、窃盗",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第184号565頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 2,
+    "day": 8
+  },
+  "gist": "補強証拠欠如の違憲主張が前提を欠くとされた事例",
+  "ref_law": "憲法38条3項",
+  "lawsuit_id": "59809",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59809",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/809/059809_hanrei.pdf"
+}

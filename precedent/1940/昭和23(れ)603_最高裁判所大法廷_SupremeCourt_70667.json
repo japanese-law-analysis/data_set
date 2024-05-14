@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 4,
+    "day": 6
+  },
+  "case_number": "昭和23(れ)603",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集刑　第9号123頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 12,
+    "day": 23
+  },
+  "gist": "被告人の陳述が聽取書の供述者を證人として請求しない趣旨でなくすべて利益の證據提出は辯護人に一任する趣旨である場合に辯護人の請求にも拘わらず供述者を訊問しないでその聽取書を證據とした判決の違法",
+  "case_gist": "原審において被告人の陳述は被告人本人としては別段證據書類に關する反對訊問の請求はしないけれどもなほこの點をも併せてすべて利益の證據提出は辯護人に一任してあるという趣旨に解するのが相當である。然るに本件においては辯護人が檢察事務官のＡに對する聽取書について供述者である右Ａを證人として申請したにもかかわらず原審裁判所は右聽取書について被告人又は辯護人に供述者に對し審問する機會を與えることなくして之を證據にとつたものであるから正に刑訴應急措置法第一二條一項の規定に違反したものである。",
+  "ref_law": "刑訴應急措置法12條1項",
+  "lawsuit_id": "70667",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70667",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/667/070667_hanrei.pdf"
+}

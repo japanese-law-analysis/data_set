@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 5,
+    "day": 1
+  },
+  "case_number": "昭和32(あ)2243",
+  "case_name": "国家公務員法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第12巻7号1272頁",
+  "original_court_name": "福岡高等裁判所\n        　宮崎支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 8,
+    "day": 6
+  },
+  "gist": "人事院規則一四―七の趣旨および国家公務員法第一〇二条第一項との関係",
+  "case_gist": "人事院規則一四―七は国家公務員法第一〇二条第一項に基き、一般職に属する国家公務員の職責に照らして必要と認められる政治的行為の制限を規定したものであり、委任の範囲を逸脱したものではない",
+  "ref_law": "人事院規則14―7，人事院規則14―7政治的行為（昭和24年9月19日），国家公務員法102条1項，国家公務員法110条1項19号，国家公務員法16条，国家公務員法12条6項1号，憲法73条6号",
+  "lawsuit_id": "50554",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50554",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/554/050554_hanrei.pdf"
+}

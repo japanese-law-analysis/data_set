@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 3,
+    "day": 1
+  },
+  "case_number": "昭和35(オ)991",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第17巻2号280頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 6,
+    "day": 15
+  },
+  "gist": "商法第二六条第一項の商号の続用にあたらないとされた事例",
+  "case_gist": "「有限会社Ｄ」から営業を譲り受けた者が「合資会社Ｅ」の商号を使用するときは、商法第二六条第一項の商号を続用する場合にあたらない。",
+  "ref_law": "商法26条1項",
+  "lawsuit_id": "53735",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53735",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/735/053735_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 12,
+    "day": 23
+  },
+  "case_number": "昭和43(オ)941",
+  "case_name": "所有権移転登記手続請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第104号791頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和41(ネ)1711",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 6,
+    "day": 11
+  },
+  "gist": "当事者の申し立てない事項につき判決した場合にあたらないとされた事例",
+  "case_gist": "請求の趣旨が贈与による所有権移転登記手続を求める旨表示されている場合に、主位的請求原因が所有権に基づく真正な登記名義回復を求め、予備的請求原因が贈与による所有権移転登記手続を求めるにあつて、主位的請求を認容するときは、たんに所有権移転登記手続を命ずる判決をしても、当事者の申し立てない事項につき判決した違法はない。",
+  "ref_law": "民訴法186条，不動産登記法36条1項",
+  "lawsuit_id": "61926",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61926",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/926/061926_hanrei.pdf"
+}

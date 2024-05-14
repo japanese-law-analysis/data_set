@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 63,
+    "month": 11,
+    "day": 25
+  },
+  "case_number": "昭和62(行ツ)108",
+  "case_name": "損害賠償請求事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第155号159頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和61(行コ)21",
+  "original_date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 6,
+    "day": 29
+  },
+  "gist": "市が市長交際費をもつて県当局者を接待したことが違法とはいえないとされた事例",
+  "case_gist": "市が県当局者に対し二回にわたり一人当たり一回約一万四〇〇〇円ないし約一万八〇〇〇円の酒食の接待をした場合において、右接待が市民プール建設等の事業計画についての意見調整等をする必要上行われたものであるなど原判示の事実関係（原判決引用の第一審判決参照）の下では、右接待は社会通念上相当な範囲にとどまるものであつて、その費用を市長交際費から支出したことは、違法とはいえない。",
+  "ref_law": "地方自治法2条2項，地方自治法232条1項，地方自治法242条の2第1項4号",
+  "lawsuit_id": "62375",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62375",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/375/062375_hanrei.pdf"
+}

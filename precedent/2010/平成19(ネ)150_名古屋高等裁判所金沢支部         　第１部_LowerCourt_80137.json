@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 3,
+    "day": 8
+  },
+  "case_number": "平成19(ネ)150",
+  "case_name": "損害賠償請求控訴事件（通称　不二越強制労働損害賠償）",
+  "court_name": "名古屋高等裁判所金沢支部         　第１部",
+  "result": "棄却",
+  "original_court_name": "富山地方裁判所",
+  "original_case_number": "平成15(ワ)79",
+  "original_result": "棄却",
+  "gist": "第二次世界大戦中に朝鮮半島から女子勤労挺身隊の募集又は徴用により来日し，労働に従事した女子勤労挺身隊員又はその遺族及び徴用工である控訴人らが，被控訴人らにより強制連行され，強制労働させられたとして，被控訴人らに損害賠償と謝罪広告の掲載を求めたのに対し，控訴人らの不法行為ないし被控訴人会社の債務不履行を理由とする請求権は，いずれもいわゆる日韓請求権協定によって裁判上訴求する権能を失ったとして，控訴人らの請求を棄却した原判決を維持した事例",
+  "lawsuit_id": "80137",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=80137",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/137/080137_hanrei.pdf",
+  "contents": ""
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 7,
+    "day": 11
+  },
+  "case_number": "昭和37(オ)181",
+  "case_name": "所有権確認ならびに所有権移転登記手続履行請求再審",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第67号45頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 11,
+    "day": 30
+  },
+  "gist": "民訴法第四二〇条第一項但書の「当事者」の意義。",
+  "case_gist": "民訴法第四二〇条第一項但書の「当事者」とは、当事者の訴訟代理人を含むものと解すべきである。",
+  "ref_law": "民訴法420条1項",
+  "lawsuit_id": "70132",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70132",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/132/070132_hanrei.pdf"
+}

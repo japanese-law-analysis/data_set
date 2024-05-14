@@ -1,0 +1,18 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 5,
+    "day": 30
+  },
+  "case_number": "昭和57(行ウ)18",
+  "case_name": "所得税更正処分等取消請求事件",
+  "court_name": "東京地方裁判所",
+  "field": "行政",
+  "gist": "資産取得のために借り入れた資金の利子として当該資産の譲渡時までに支払われた金員の総額のうち所得税法３８条１項にいう「資産の取得に要した金額」に当たるのは，当該資産を現に居住等の用に供していない期間の分の借入金利子の金額に限られるとした事例",
+  "lawsuit_id": "35843",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=35843",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/843/035843_hanrei.pdf",
+  "contents": ""
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 7,
+    "day": 29
+  },
+  "case_number": "昭和23(れ)210",
+  "case_name": "常習賭博",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第2巻9号1038頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 2,
+    "day": 12
+  },
+  "gist": "一　違憲と主張するだけで実質上は憲法違反を理由としない再上告理由\n二　裁判所法施行令第一條の合法性",
+  "case_gist": "一　本件賭博は一時の娯楽に供する物を賭した場合にあたらないとする第二審判決を維持し、且つ、金銭を賭したときは一時の娯楽に供した物にあたらないとした原判決は、被告人の基本的人権を無視し、憲法の精神に適合しない裁判であるとの主張は、結局実質上憲法違反の主張にあたらない。\n二　裁判所法施行法第二條は、從前の裁判所における事件の受理その他の手續を最高裁判所又は下級裁判所のいずれの裁判所の受理その他の手續とみなすべきかの自由選擇權を政令に委任したものであるから、裁判所法施行令第一條は右施行法第二條の委任の趣旨に反するものではない。",
+  "ref_law": "憲法13条，裁判所法施行法2條，裁判所法施行令1條",
+  "lawsuit_id": "56516",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56516",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/516/056516_hanrei.pdf"
+}

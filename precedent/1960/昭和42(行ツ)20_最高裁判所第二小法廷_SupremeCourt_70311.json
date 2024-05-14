@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 4,
+    "day": 15
+  },
+  "case_number": "昭和42(行ツ)20",
+  "case_name": "裁決取消、選挙無効確認請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第87号93頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和38(ナ)5",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 10,
+    "day": 24
+  },
+  "gist": "選挙人、候補者、選挙運動者等の選挙の取締りないし罰則違反の行為と選挙の無効原因",
+  "case_gist": "選挙人、候補者、選挙運動者等の選挙の取締りないし罰則違反の行為は、公職選挙法第二〇五条第一項にいう選挙の規定違反にあたらないものと解するのが相当である。",
+  "ref_law": "公職選挙法205条1項",
+  "lawsuit_id": "70311",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70311",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/311/070311_hanrei.pdf"
+}

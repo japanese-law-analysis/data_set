@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 2,
+    "day": 7
+  },
+  "case_number": "昭和30(オ)444",
+  "case_name": "農地買収計画変更請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第12巻2号167頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 9,
+    "day": 11
+  },
+  "gist": "一　農地買収計画に関する異議、訴願を棄却する決定、裁決があつた場合における原計画の取消の適否\n二　耕作されていない僅少面積の土地を含む農地買収計画の適否",
+  "case_gist": "一　農地買収計画に関する異議、訴願を棄却する決定、裁決があつても、村農業委員会は原計画を取り消し得ないものではない。\n二　農地買収計画に耕作されていない土地が含まれていても、その面積は数坪の僅少部分であつて、それ自体独立して価値のあるものと認め難いときは、右買収計画は違法といえない。",
+  "ref_law": "自作農創設特別措置法7条，自作農創設特別措置法6条2項，訴願法16条",
+  "lawsuit_id": "53513",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53513",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/513/053513_hanrei.pdf"
+}

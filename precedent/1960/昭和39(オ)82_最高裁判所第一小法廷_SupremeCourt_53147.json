@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 11,
+    "day": 19
+  },
+  "case_number": "昭和39(オ)82",
+  "case_name": "土地所有権移転仮登記抹消手続請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第18巻9号1891頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 10,
+    "day": 29
+  },
+  "gist": "一　自作農創設特別措置法第三条に基づく農地買収処分による国の所有権取得と民法第一七七条の適用。\n二　自作農創設特別措置法第一一条の法意。",
+  "case_gist": "一　自作農創設特別措置法第三条に基づく農地の買収処分により国が所有権を取得した場合において、その所有権の取得については、民法第一七七条の適用がある。\n二　自作農創設特別措置法第一一条は、農地の買収計画の樹立以降買収の効果発生までに権利関係の変動があつた場合において、その農地の所有者などの承継人に対してのみ農地の買収手続の効力が及ぶ旨を定めたにすぎない、と解するのが相当である。",
+  "ref_law": "民法177条，自作農創設特別措置法3条1項本文，自作農創設特別措置法11条",
+  "lawsuit_id": "53147",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53147",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/147/053147_hanrei.pdf"
+}

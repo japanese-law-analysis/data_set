@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 3,
+    "day": 22
+  },
+  "case_number": "昭和48(オ)142",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第28巻2号368頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和46(ネ)1047",
+  "original_date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 10,
+    "day": 31
+  },
+  "gist": "株式会社が代表取締役の退任及び代表権の喪失を登記したときと民法一一二条",
+  "case_gist": "株式会社が代表取締役の退任及び代表権の喪失につき登記したときは、その後その者が会社の代表者として第三者とした取引については、民法一一二条の適用はない。",
+  "ref_law": "民法112条，商法12条",
+  "lawsuit_id": "52100",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52100",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/100/052100_hanrei.pdf"
+}

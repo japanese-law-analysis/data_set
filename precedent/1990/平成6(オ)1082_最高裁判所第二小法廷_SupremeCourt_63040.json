@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 10,
+    "month": 7,
+    "day": 17
+  },
+  "case_number": "平成6(オ)1082",
+  "case_name": "反論文掲載等",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第189号267頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成4(ネ)765",
+  "original_date": {
+    "era": "Heisei",
+    "year": 5,
+    "month": 12,
+    "day": 1
+  },
+  "gist": "論評中の他人の著作物の引用紹介に適切を欠く部分があっても全体として正確性を欠くとまではいえないとして右論評に名誉毀損としての違法性があるということはできないとされた事例",
+  "case_gist": "他人の著作物に対する論評中に、右著作物の記述が第三者の談話をそのまま紹介したものではなく著作者自身の認識判断であるかのような適切を欠く引用紹介部分があっても、他の部分を併せて読むならば、右論評は専ら著作者が第三者の談話をその真偽を確認しないでそのまま紹介したことを批判するものであって、このことは右論評を通読する一般読者にとって明白であり、右適切を欠く引用紹介部分の内容が右批判の前提となっているわけでもないという事情の下においては、右著作物の引用紹介が全体として正確性を欠くとまではいえないから、右論評に名誉毀損としての違法性があるということはできない。",
+  "ref_law": "民法709条，民法710条，刑法230条の2第1項",
+  "lawsuit_id": "63040",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63040",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/040/063040_hanrei.pdf"
+}

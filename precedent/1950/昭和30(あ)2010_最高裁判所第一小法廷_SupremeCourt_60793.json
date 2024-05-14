@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 2,
+    "day": 16
+  },
+  "case_number": "昭和30(あ)2010",
+  "case_name": "放火",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第112号387頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 5,
+    "day": 30
+  },
+  "gist": "憲法第三八条第二項にいう「不当に長く抑留若しくは拘禁された後の自白」にあたらない一事例",
+  "case_gist": "所論昭和二七年一一月一四日附被告人の検察官に対する供述調書の自白は、一件記録で明らかなように被告人が同年一〇月三〇日裁判官の逮捕状によつて逮捕され、翌一一月一日勾留状の執行により勾留されてから一五日しか経過しない日時になされたものであるから逮捕から自白までの期間、事件の性質等に照し当裁判所大法廷屡次の趣旨に徴し不当に長く抑留若しくは拘禁された後の自白とはいえない。",
+  "ref_law": "憲法38条2項，刑訴法319条1項",
+  "lawsuit_id": "60793",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60793",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/793/060793_hanrei.pdf"
+}

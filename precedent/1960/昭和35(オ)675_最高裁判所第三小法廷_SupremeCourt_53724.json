@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 12,
+    "day": 24
+  },
+  "case_number": "昭和35(オ)675",
+  "case_name": "不当利得返還請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第17巻12号1744頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 2,
+    "day": 25
+  },
+  "gist": "一　債務引受と財産引受との関係\n二　開業準備行為と発起人の権限",
+  "case_gist": "一　発起人が会社の成立を条件としてなした法律行為のうち、単純な債務引受は財産引受にあたらないが、積極消極両財産を含む営業財産を一括して譲り受ける契約は、財産引受にあたる。\n二　発起人は、会社設立自体に必要な行為のほかは、開業準備行為といえども原則としてこれをなしえず、ただ、原始定款に記載されその他法定要件を充した財産引受のみを例外的になしうるものと解すべきである。",
+  "ref_law": "商法第168条1項6号",
+  "lawsuit_id": "53724",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53724",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/724/053724_hanrei.pdf"
+}

@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 11,
+    "day": 15
+  },
+  "case_number": "平成17(行ウ)28",
+  "case_name": "損害賠償請求権行使請求事件",
+  "court_name": "横浜地方裁判所第１民事部",
+  "gist": "地方公共団体が，第三セクターの借入債務について金融機関との間で締結した損失補償契約が，法人に対する政府の財政援助の制限に関する法律３条に違反すると判断された事例。",
+  "lawsuit_id": "33814",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=33814",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/814/033814_hanrei.pdf",
+  "contents": "1 2 5\n2 3\n"
+}

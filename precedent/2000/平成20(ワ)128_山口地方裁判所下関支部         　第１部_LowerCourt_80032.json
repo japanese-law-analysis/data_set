@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 12,
+    "day": 7
+  },
+  "case_number": "平成20(ワ)128",
+  "case_name": "損害賠償請求事件",
+  "court_name": "山口地方裁判所下関支部         　第１部",
+  "result": "棄却",
+  "gist": "原告が発注した建設工事の条件付き一般競争入札に関し，被告の従業員が他の業者の従業員と談合したことにより，不当に高い金額で落札され，原告に損害を被らせたとして，正常落札額と実際の落札額との差額から既払額の約定損害金を控除した残額等損害賠償を求めた事案について，談合及び損害の発生は認めたが，正常な落札額を認定するのは困難であるとし，原告の主張する損害額を退け，本件損害は既に約定賠償金として支払われているとして，残額はないと判断した事例",
+  "lawsuit_id": "80032",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=80032",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/032/080032_hanrei.pdf",
+  "contents": ""
+}

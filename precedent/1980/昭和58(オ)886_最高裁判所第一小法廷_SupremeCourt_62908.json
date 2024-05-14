@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 11,
+    "day": 22
+  },
+  "case_number": "昭和58(オ)886",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第143号189頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和57(ネ)2602",
+  "original_date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 4,
+    "day": 28
+  },
+  "gist": "交通事故により死亡した者が生前に自動車損害賠償責任保険により傷害を受けた者として受領していた保険金と死亡した者としての保険金への充当",
+  "case_gist": "交通事故により死亡した者が、生前に、当該事故により傷害を受けた者として自動車損害賠償保障法施行令（昭和五三年政令第二六一号による改正前のもの）二条一項二号イ所定の傷害につきその保険金額である一〇〇万円全額の保険金及び同号ロ以下所定の後遺障害についての保険金を受領していたときは、死亡により、前者は同項一号ロ所定の死亡に至るまでの傷害についての保険金に、後者は同号イ所定の死亡による損害の保険金に充当しなおされる。",
+  "ref_law": "自動車損害賠償保障法13条，自動車損害賠償保障法施行令（昭和53年政令第261号による改正前のもの）2条1項",
+  "lawsuit_id": "62908",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62908",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/908/062908_hanrei.pdf"
+}

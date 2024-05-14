@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 6,
+    "day": 26
+  },
+  "case_number": "昭和33(オ)31",
+  "case_name": "所有権移転登記手続請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第16巻7号1397頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 10,
+    "day": 28
+  },
+  "gist": "将来出現することが予期された者を民法第五三七条の第三者とすることができるか。",
+  "case_gist": "第三者のためにする契約は、たとい契約の同時に存在していなくても将来出現するであろうと予期された者をもつて第三者とした場合でも、有効に成立する。",
+  "ref_law": "民法537条",
+  "lawsuit_id": "52919",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52919",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/919/052919_hanrei.pdf"
+}

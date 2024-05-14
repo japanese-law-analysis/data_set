@@ -1,0 +1,18 @@
+{
+  "trial_type": "IPCase",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 5,
+    "day": 14
+  },
+  "case_number": "平成19(ネ)10100",
+  "case_name": "特許権侵害に基づく差止等請求控訴事件",
+  "court_name": "知的財産高等裁判所",
+  "right_type": "特許権",
+  "lawsuit_type": "民事訴訟",
+  "lawsuit_id": "36353",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail7?id=36353",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/353/036353_hanrei.pdf",
+  "contents": "1 1 1\nmm mm mm\nmm\nmm mm\nmm mm\nmm\ncm\nkg\ng\nmm mm\nmm\nmm mm\nmm\nkg\nkg\nkg\nkg kg\nkg\n0.055 0.055 0.022 0.022 3.14 0.4 0.000797874\n2 2 2 2\n0.355 0.000797874 444.9324079\n0.290 0.000797874 363.4659107\n0.255 0.000797874 319.5993352\n0.340 0.000797874 426.132447\nkg\n11.2 2500 444.93 444.93 24.07052083\n11.2 2500 363.47 363.47 27.15427643\n11.2 2500 319.60 319.60 29.25382938\n11.8 2500 426.13 426.13 26.03165123\nmm\nmm mm\nkg\nkg\nkg\n11 2500 376 376 26.14\na\nb\nc\n0002 0003\nd\ne\n0006 0011\nf\ng\nh\nCst\n0017 0018\n1 3\n"
+}

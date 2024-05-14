@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 12,
+    "day": 8
+  },
+  "case_number": "昭和22(つ)7",
+  "case_name": "強姦殺人被告事件につきなした判事忌避申立却下の決定に対する抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第1巻号57頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 10,
+    "day": 31
+  },
+  "gist": "裁判所法第七條の法意",
+  "case_gist": "裁判所法第七條第二號にいう訴訟法において特に定める抗告とは、民訴應急措置法第七條又は刑訴應急措置法第一八條に定める抗告のように、訴訟法において特に最高裁判所の權限に屬するものと定められた抗告をいうのであって、その他の高裁の決定及び命令に對する抗告を含まない。",
+  "ref_law": "裁判所法7條，民訴應急措置法7條，刑訴應急措置法18條",
+  "lawsuit_id": "56379",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56379",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/379/056379_hanrei.pdf"
+}

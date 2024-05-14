@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 11,
+    "day": 17
+  },
+  "case_number": "昭和42(オ)231",
+  "case_name": "株券引渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第21巻9号2448頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和38(ネ)2762",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 11,
+    "day": 22
+  },
+  "gist": "他人の承諾のもとにその名義を用いて株式の引受がされた場合における株主",
+  "case_gist": "他人の承諾を得てその名義を用いて株式の引受がされた場合においては、名義貸与者ではなく、実質上の引受人が株主となるものと解すべきである。",
+  "ref_law": "商法201条",
+  "lawsuit_id": "56303",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56303",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/303/056303_hanrei.pdf"
+}

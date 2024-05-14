@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 5,
+    "day": 21
+  },
+  "case_number": "昭和27(オ)41",
+  "case_name": "貸金請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第9号213頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 10,
+    "day": 13
+  },
+  "gist": "利息制限の制限法を超える約定利息損害金の任意支払と超過金額の元本への充当",
+  "case_gist": "本件のように昭和二五年五月二〇日の貸付の日から同月末日の弁済期日後である同年九月末日までの約定利息並びにこれに相当する損害金を任意に支払つたような場合には、たとい右約定利率が利息制限法二条所定の制限利率を超えるときでも、民法七〇八条の趣旨により、その制限超過額を元本に充当することはできないものと解するを正当とする。（大正一〇年三月五日大審院判決、民録二七巻四八七頁以下参照）",
+  "lawsuit_id": "74017",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74017",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/017/074017_hanrei.pdf"
+}

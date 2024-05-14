@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 8,
+    "day": 1
+  },
+  "case_number": "昭和31(オ)15",
+  "case_name": "土地所有権移転登記抹消請求再審",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第11巻8号1437頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 10,
+    "day": 5
+  },
+  "gist": "民訴法第四二〇条第一項但書にいわゆる当事者の意義",
+  "case_gist": "民訴法第四二〇条第一項但書にいわゆる当事者とは、当事者の訴訟代理人をも包含する趣旨と解すべきである。",
+  "ref_law": "民訴法420条1項但書",
+  "lawsuit_id": "57647",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57647",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/647/057647_hanrei.pdf"
+}

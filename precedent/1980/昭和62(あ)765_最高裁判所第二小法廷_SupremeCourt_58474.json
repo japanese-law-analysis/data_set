@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 63,
+    "month": 2,
+    "day": 5
+  },
+  "case_number": "昭和62(あ)765",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第248号287頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 10,
+    "day": 2
+  },
+  "gist": "公職選挙法二五二条の規定が憲法三一条に違反しないとされた事例",
+  "ref_law": "憲法31条，公選法252条",
+  "lawsuit_id": "58474",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58474",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/474/058474_hanrei.pdf"
+}

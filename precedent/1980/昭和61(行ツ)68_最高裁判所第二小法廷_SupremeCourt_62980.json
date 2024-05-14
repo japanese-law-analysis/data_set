@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 10,
+    "day": 17
+  },
+  "case_number": "昭和61(行ツ)68",
+  "case_name": "高額療養費支給決定処分取消",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第149号47頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和59(行コ)15",
+  "original_date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 2,
+    "day": 12
+  },
+  "gist": "国民健康保険法三七条一項所定の療養取扱機関が療養の給付としてした診療行為が同法四〇条の規定による準則に適合しない場合と被保険者の高額療養費支給請求権の有無",
+  "case_gist": "国民健康保険法三七条一項所定の療養取扱機関が被保険者に対して療養の給付として行つた診療行為が同法四〇条の規定による療養の給付に関する準則に適合しない場合には、被保険者はその適合しない診療に係る費用について同法五七条の二所定の高額療養費の支給請求権を有しない。",
+  "ref_law": "国民健康保険法36条1項，国民健康保険法36条5項，国民健康保険法40条，国民健康保険法57条の2",
+  "lawsuit_id": "62980",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62980",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/980/062980_hanrei.pdf"
+}

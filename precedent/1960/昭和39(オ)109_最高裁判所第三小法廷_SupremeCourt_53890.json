@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 2,
+    "day": 15
+  },
+  "case_number": "昭和39(オ)109",
+  "case_name": "認知請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第20巻2号202頁",
+  "original_court_name": "高松高等裁判所",
+  "original_case_number": "昭和34(ネ)155",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 10,
+    "day": 21
+  },
+  "gist": "内縁関係成立の日から二〇〇日後婚姻成立の日から二〇〇日以内に生まれた子は民法第七七二条所定の嫡出の推定を受けるか",
+  "case_gist": "婚姻成立の日から二〇〇日以内に生まれた子は、婚姻に先行する内縁関係の成立の日から二〇〇日後に生まれたものであつても、民法第七七二条所定の嫡出の推定は受けない。",
+  "ref_law": "民法772条",
+  "lawsuit_id": "53890",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53890",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/890/053890_hanrei.pdf"
+}

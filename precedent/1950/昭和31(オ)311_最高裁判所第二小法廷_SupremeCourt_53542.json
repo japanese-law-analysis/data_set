@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 2,
+    "day": 14
+  },
+  "case_number": "昭和31(オ)311",
+  "case_name": "地役権確認並びに妨害物撤去請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第12巻2号268頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 12,
+    "day": 8
+  },
+  "gist": "通行地役権時効取得における「継続」の要件",
+  "case_gist": "民法第二八三条にいう「継続」の要件をみたすには、承役地たるべき土地の上に通路の開設があつただけでは足りず、その開設が要役地所有者によつてなされたことを要する。",
+  "ref_law": "民法283条",
+  "lawsuit_id": "53542",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53542",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/542/053542_hanrei.pdf"
+}

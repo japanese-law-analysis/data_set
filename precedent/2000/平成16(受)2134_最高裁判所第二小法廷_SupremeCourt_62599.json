@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 17,
+    "month": 7,
+    "day": 11
+  },
+  "case_number": "平成16(受)2134",
+  "case_name": "預金払戻，不当利得返還請求事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集民　第217号329頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_case_number": "平成16(ネ)106",
+  "original_date": {
+    "era": "Heisei",
+    "year": 16,
+    "month": 9,
+    "day": 10
+  },
+  "gist": "銀行が相続財産である預金債権の全額を共同相続人の一部に払い戻した場合について他の共同相続人にその法定相続分相当額の預金の支払をした後でなくても当該銀行には民法７０３条所定の「損失」が発生するものとされた事例",
+  "case_gist": "甲銀行に対し預金債権を有していた丁の死亡により，乙，丙及び戊が当該預金債権を相続したのに，甲銀行が当該預金債権の全額を乙及び丙に払い戻したこと，乙及び丙は，戊の法定相続分相当額の預金については，これを受領する権限がなかったにもかかわらず，払戻しを受けたものであり，この払戻しが債権の準占有者に対する弁済に当たるということもできないことなど判示の事情の下においては，甲銀行が戊にその法定相続分相当額の預金の支払をした後でなくても，甲銀行には民法７０３条所定の「損失」が発生したものというべきである。",
+  "ref_law": "民法478条，民法703条，民法899条",
+  "lawsuit_id": "62599",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62599",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/599/062599_hanrei.pdf"
+}

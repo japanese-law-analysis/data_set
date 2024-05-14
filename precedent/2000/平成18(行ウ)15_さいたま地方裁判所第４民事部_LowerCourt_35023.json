@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 5,
+    "day": 30
+  },
+  "case_number": "平成18(行ウ)15",
+  "case_name": "行政処分取消請求事件",
+  "court_name": "さいたま地方裁判所第４民事部",
+  "gist": "被保佐人に対する金員の振込がなされた普通預金口座の帰属につき，預金者は保佐人であると認定し、保佐人に対する滞納処分として同口座の預金債権を差し押さえ、かつ配当をした処分は適法であるとした事例",
+  "lawsuit_id": "35023",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=35023",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/023/035023_hanrei.pdf",
+  "contents": ""
+}

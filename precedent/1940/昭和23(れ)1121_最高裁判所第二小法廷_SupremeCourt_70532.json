@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 4,
+    "day": 2
+  },
+  "case_number": "昭和23(れ)1121",
+  "case_name": "銃砲等所持禁止令違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第9号35頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 8,
+    "day": 2
+  },
+  "gist": "檢舉のため警察署に届出ることが不可能になつた場合と右覺書適用の當否",
+  "case_gist": "假りに所論のように昭和二三年五月一五日頃所轄警察署へ届出るつもりであつたのが檢舉のために不可能になつたのであるとしても處罰を免るべき權利を強制的に喪失せしめたのでないことは勿論であり被告人に對し刑罰を科することが前記覺書の趣旨に背反しないことも明白である、又前記覺書所定の要件を充して處罰せられないものが他にあるからといつてその要件を充さない被告人を處罰することが憲法第一四條に違反しないことは説明する迄もないところである。",
+  "ref_law": "銃砲等所持禁止令1條1項本文，憲法14條",
+  "lawsuit_id": "70532",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70532",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/532/070532_hanrei.pdf"
+}

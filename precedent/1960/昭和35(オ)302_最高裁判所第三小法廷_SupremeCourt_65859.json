@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 3,
+    "day": 19
+  },
+  "case_number": "昭和35(オ)302",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集民　第65号223頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 12,
+    "day": 18
+  },
+  "gist": "民訴法上の仲裁契約が成立した旨の判断が理由不備であるとされた事例。",
+  "case_gist": "建物賃貸借契約の約款中に、弁護士が民訴法に規定されている仲裁手続を予定して作成した条項で、「本契約につき紛争を生じたときは双方から一名宛の仲裁人を選任して当該仲裁人の判断に従う」というものがあり、同契約について紛争が生じ易いと予測される事情がある場合でも、同契約が貸主、借主間で直接締結されたものであるときは、右条項および事情の存在から、直ちに、当事者間に民訴法上の仲裁契約が成立した旨断定することは、理由不備となる。",
+  "ref_law": "民訴法395条1項6号，民訴法786条",
+  "lawsuit_id": "65859",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=65859",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/859/065859_hanrei.pdf"
+}

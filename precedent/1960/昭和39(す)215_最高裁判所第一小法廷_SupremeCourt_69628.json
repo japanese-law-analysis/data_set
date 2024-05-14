@@ -1,0 +1,21 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 7,
+    "day": 2
+  },
+  "case_number": "昭和39(す)215",
+  "case_name": "麻薬取締法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "却下",
+  "article_info": "集刑　第152号93頁",
+  "gist": "同一拘留に対する上告審における拘留理由開示請求の許否。",
+  "case_gist": "拘留理由開示の請求は、同一拘留については、拘留の開始せられた当該裁判者において一回にかぎり許されるものと解すべきところ（昭和二九年（す）第三〇三号同年八月五日第一小法廷決定、刑集八巻八号一二三七頁・昭和二九年（す）第三一六号同年九月七日第三小法廷決定、刑集八巻九号一四五九頁参照。）、本件記録によれば被告人に対する拘留は、第一審以来継続しているものであるから、当裁判所において申し立てられた拘留理由開示の請求は、許されないものといわなければならない。",
+  "ref_law": "刑訴法82条，刑訴法97条",
+  "lawsuit_id": "69628",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=69628",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/628/069628_hanrei.pdf"
+}

@@ -1,0 +1,16 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 14,
+    "month": 11,
+    "day": 19
+  },
+  "case_number": "平成14(レ)26",
+  "case_name": "貸金請求控訴",
+  "court_name": "岡山地方裁判所",
+  "lawsuit_id": "8038",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=8038",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/038/008038_hanrei.pdf",
+  "contents": ""
+}

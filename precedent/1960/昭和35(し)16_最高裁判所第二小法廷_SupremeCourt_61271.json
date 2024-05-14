@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 6,
+    "day": 1
+  },
+  "case_number": "昭和35(し)16",
+  "case_name": "公判調書の記載の正確性に対する異議申立事件についてなした棄却決定に対する特別抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第134号1頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 3,
+    "day": 29
+  },
+  "gist": "公判調書の記載の正確性に対する異議申立を棄却した高等裁判所の決定は刑訴法第四三三条にいう「この法律により、不服を申し立てることができない決定」に当るか。",
+  "case_gist": "申立人の本件公判調書の記載の正確性に対する異議申立を棄却した原決定は、高裁である原審が抗告審としてなした決定ではなく、刑訴四二八条一項にいう「高等裁判所の決定」であること明白であるから、これに対しては、不服申立として、その高等裁判所に異議の申立をすることができることは同条二項の規定するところである。従つて、原決定は刑訴四三三条にいう「この法律により不服を申し立てることができない決定」に当らないから、これに対し同条所定の特別抗告を申し立てることはできない。",
+  "ref_law": "刑訴法428条，刑訴法433条，刑訴法50条1項",
+  "lawsuit_id": "61271",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61271",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/271/061271_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 3,
+    "day": 11
+  },
+  "case_number": "昭和57(あ)363",
+  "case_name": "法人税法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第37巻2号54頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 4,
+    "month": 1,
+    "day": 27
+  },
+  "gist": "法人の代表者ではない実質的な経営者と法人税法一五九条一項、一六四条一項にいう「その他の従業者」",
+  "case_gist": "法人の代表者ではない実質的な経営者も、法人税法一五九条一項、一六四条一項にいう「その他の従業者」にあたる。",
+  "ref_law": "法人税法159条1項，法人税法164条1項",
+  "lawsuit_id": "50263",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50263",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/263/050263_hanrei.pdf"
+}

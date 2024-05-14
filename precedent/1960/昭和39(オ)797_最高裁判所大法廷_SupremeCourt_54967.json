@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 9,
+    "day": 27
+  },
+  "case_number": "昭和39(オ)797",
+  "case_name": "建物明渡等請求",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第21巻7号1925頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和38(ネ)1565",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 12,
+    "day": 25
+  },
+  "gist": "民訴法第七一条に基づく参加の申出はつねに原被告双方を相手方としなければならないか",
+  "case_gist": "民訴法第七一条の参加による訴訟は、同一の権利関係について、原被告および参加人の三者が互に相争う紛争を一の訴訟手続によつて、一挙に矛盾なく解決する訴訟形態で、その申出は、つねに原被告双方を相手方としなければならず、一方のみを相手方とすることは許されない。",
+  "ref_law": "民訴法71条",
+  "lawsuit_id": "54967",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54967",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/967/054967_hanrei.pdf"
+}

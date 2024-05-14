@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 12,
+    "day": 4
+  },
+  "case_number": "平成20(受)1535",
+  "case_name": "遺留分減殺請求事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集民　第232号517頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成19(ネ)3087",
+  "original_date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 6,
+    "day": 13
+  },
+  "gist": "養親自身が婚姻又は養子縁組により家に入った者である場合にその養親が家を去ったときと民法（昭和２２年法律第２２２号による改正前のもの）７３０条２項",
+  "case_gist": "養親自身が婚姻又は養子縁組により家に入った者である場合に，その養親が家を去ったときは，民法（昭和２２年法律第２２２号による改正前のもの）７３０条２項により，その養親と養子との養親子関係は消滅する。",
+  "ref_law": "民法（昭和22年法律第222号による改正前のもの）730条2項",
+  "lawsuit_id": "38224",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=38224",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/224/038224_hanrei.pdf",
+  "contents": ""
+}

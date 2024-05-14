@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 6,
+    "day": 28
+  },
+  "case_number": "平成18(ワ)184",
+  "case_name": "不当利得返還請求事件",
+  "court_name": "岐阜地方裁判所多治見支部",
+  "result": "その他",
+  "gist": "１　継続的な金銭消費貸借取引において超過利息に対する弁済金の引直しによって生じた過払金を，同発生後に行われた新たな貸付にかかる借入債務に充当することの可否\n２　個別の基本契約に基づく複数の金銭消費貸借取引の１つが終了した時点で生じていた過払金を，同時点で生じていた他の金銭消費貸借取引にかかる借入債務に充当することの可否",
+  "lawsuit_id": "34970",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=34970",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/970/034970_hanrei.pdf",
+  "contents": ""
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 4,
+    "day": 4
+  },
+  "case_number": "昭和50(行ツ)115",
+  "case_name": "審決取消",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第123号471頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和49(行ケ)62",
+  "original_date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 9,
+    "day": 29
+  },
+  "gist": "勧告審決と審判審決の手続の選択と公正取引委員会の裁量権",
+  "case_gist": "公正取引委員会が、私的独占の禁止及び公正取引の確保に関する法律の規定に違反する行為があると認めた場合に、違反行為をした者に対し、勧告審決の手続により勧告するか審判審決の手続により審判を開始するかは、その裁量に任されている。",
+  "ref_law": "私的独占の禁止及び公正取引の確保に関する法律48条，私的独占の禁止及び公正取引の確保に関する法律49条",
+  "lawsuit_id": "64113",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64113",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/113/064113_hanrei.pdf"
+}

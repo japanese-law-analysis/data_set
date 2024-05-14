@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 7,
+    "day": 20
+  },
+  "case_number": "昭和25(あ)328",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第4巻8号1500頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 11,
+    "day": 14
+  },
+  "gist": "第一回公判期日と被告人に對する召喚状の送達との間に五日の獪豫期間を置かないで審判した場合の一例",
+  "case_gist": "追起訴状謄本が被告人に送達された翌々日公判を開いて、右追起訴に係る事實をも審理し、辯論を終結し、即時判決の言渡をしても、被告人が出頭して異議なく辯論した以上、かかる第一審の公判手續は違法ではない。",
+  "ref_law": "刑訴規則179條，刑訴法275條",
+  "lawsuit_id": "54424",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54424",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/424/054424_hanrei.pdf"
+}

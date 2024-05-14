@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 3,
+    "month": 3,
+    "day": 8
+  },
+  "case_number": "昭和62(行ツ)3",
+  "case_name": "審決取消",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第45巻3号123頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和58(行ケ)142",
+  "original_date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 10,
+    "day": 29
+  },
+  "gist": "特許出願に係る発明の要旨の認定",
+  "case_gist": "特許の要件を審理する前提としてされる特許出願に係る発明の要旨の認定は、特許請求の範囲の記載の技術的意義が一義的に明確に理解することができないとか、あるいは一見してその記載が誤記であることが発明の詳細な説明の記載に照らして明らかであるなど、発明の詳細な説明の記載を参酌することが許される特段の事情のない限り、特許請求の範囲の記載に基づいてされるべきである。",
+  "ref_law": "特許法29条1項，特許法29条2項，特許法36条，特許法（昭和50年法律第46号による改正前のもの）36条",
+  "lawsuit_id": "52747",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52747",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/747/052747_hanrei.pdf"
+}

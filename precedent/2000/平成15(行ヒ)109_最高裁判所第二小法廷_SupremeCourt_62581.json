@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 16,
+    "month": 7,
+    "day": 12
+  },
+  "case_number": "平成15(行ヒ)109",
+  "case_name": "不当労働行為棄却等命令取消請求事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集民　第214号739頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成14(行コ)28",
+  "original_date": {
+    "era": "Heisei",
+    "year": 15,
+    "month": 1,
+    "day": 29
+  },
+  "gist": "労働組合法７条３号の不当労働行為を理由とする救済申立てと労働組合の組合員の申立て適格",
+  "case_gist": "労働組合の組合員は，使用者が労働組合法７条３号の不当労働行為を行ったことを理由とする救済申立てについて，申立て適格を有する。",
+  "ref_law": "労働組合法7条3号，労働組合法27条",
+  "lawsuit_id": "62581",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62581",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/581/062581_hanrei.pdf"
+}

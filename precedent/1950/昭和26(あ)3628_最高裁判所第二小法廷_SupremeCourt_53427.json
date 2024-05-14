@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 6,
+    "day": 12
+  },
+  "case_number": "昭和26(あ)3628",
+  "case_name": "放火教唆",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第7巻6号1278頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 6,
+    "day": 25
+  },
+  "gist": "被教唆者が自ら犯罪を実行しないで第三者を教唆して犯罪を実行せしめた場合の第一の教唆者の責任",
+  "case_gist": "犯罪の実行を教唆したところが、被教唆者みずから実行せずさらに第三者を教唆して実行せしめた場合には、第一の教唆者は、教唆者として責任を負うものである。",
+  "ref_law": "刑法61条",
+  "lawsuit_id": "53427",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53427",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/427/053427_hanrei.pdf"
+}

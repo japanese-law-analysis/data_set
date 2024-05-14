@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 8,
+    "day": 27
+  },
+  "case_number": "昭和32(オ)720",
+  "case_name": "売掛代金請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第13巻10号1293頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 5,
+    "day": 16
+  },
+  "gist": "真正な代表者でない者の一審における訴訟追行につき二審で追認があつたものとされた事例。",
+  "case_gist": "一審では真正な代表者によつて代表されなかつた場合でも、二審で真正な代表者の委任した訴訟代理人が本案について弁論をしたときは、一審での代表権の欠缺は補正される。",
+  "ref_law": "民訴法54条",
+  "lawsuit_id": "56220",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56220",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/220/056220_hanrei.pdf"
+}

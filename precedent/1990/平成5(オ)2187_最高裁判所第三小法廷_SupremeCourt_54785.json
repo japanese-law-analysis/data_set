@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 9,
+    "month": 7,
+    "day": 15
+  },
+  "case_number": "平成5(オ)2187",
+  "case_name": "請負工事代金請求、民訴法一九八条二項の裁判申立",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第51巻6号2581頁",
+  "original_court_name": "広島高等裁判所",
+  "original_case_number": "平成1(ネ)108",
+  "original_date": {
+    "era": "Heisei",
+    "year": 5,
+    "month": 9,
+    "day": 17
+  },
+  "gist": "一　請負人の報酬債権と注文者の瑕疵修補に代わる損害賠償債権との相殺がされた後の報酬残債務について注文者が履行遅滞による責任を負う時期\n二　仮執行宣言に基づく給付金に商事法定利率による金員を付加してその支払を求める民訴法一九八条二項の申立てが認容された事例",
+  "case_gist": "一　請負人の報酬債権に対し注文者がこれと同時履行の関係にある瑕疵修補に代わる損害賠償債権を自働債権とする相殺の意思表示をした場合、注文者は、相殺後の報酬残債務について、相殺の意思表示をした日の翌日から履行遅滞による責任を負う。\n二　（省略）",
+  "ref_law": "民法412条，民法506条2項，民法533条，民法634条2項，民訴法198条2項，商法514条",
+  "lawsuit_id": "54785",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54785",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/785/054785_hanrei.pdf"
+}

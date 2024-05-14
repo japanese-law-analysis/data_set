@@ -1,0 +1,18 @@
+{
+  "trial_type": "IPCase",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 6,
+    "day": 28
+  },
+  "case_number": "平成18(行ケ)10076",
+  "case_name": "審決取消請求事件",
+  "court_name": "知的財産高等裁判所",
+  "right_type": "特許権",
+  "lawsuit_type": "行政訴訟",
+  "lawsuit_id": "34870",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail7?id=34870",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/870/034870_hanrei.pdf",
+  "contents": "reference\n(voltage,frequency) comparator\nacts as a reference frequency for CPU 38\nThis voltage is compared to a predetermined threshold or reference voltage\nwhich is provided at a second comparator input.\nif the reference voltage in the detector subsequently drifts,\nacts as a reference frequency for CPU 38 and phase detector 50.\na second input coupled to a reference frequency source\na programmable frequency divder for providing the reference frequency\nreference (voltage,frequency)\n"
+}

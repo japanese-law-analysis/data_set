@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 5,
+    "day": 25
+  },
+  "case_number": "昭和25(れ)340",
+  "case_name": "傷害致死",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第17号767頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 12,
+    "day": 27
+  },
+  "gist": "少年法第九條少年審判規則第一一條は訓示的規定である",
+  "case_gist": "少年法第五〇條に引用されている同第九條（從つて少年審判規則第一一條）の規定は、少年に對する刑事々件の審理方針についての準據規定であつて、裁判所がなるべく同條所定の者の所定の事項について例示の専問知識を活用して調査を行うように努めなければならないとする訓示的規定である。されば、假りに裁判所が同條に準據しなかつたとしてもその規定の性質上審理手續を違法ならしめるものではない。しかも本件記録によれば原審々理が同條所定の方針に從つてなされたことを窮い知るに難くない。要するに、所論は結局原審に任かされている審理の範圍程度を非難するに歸し上告適法の理由とならない。",
+  "ref_law": "少年法9條，少年法50條，少年審判規則11條",
+  "lawsuit_id": "75113",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=75113",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/113/075113_hanrei.pdf"
+}

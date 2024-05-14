@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 7,
+    "day": 9
+  },
+  "case_number": "昭和30(あ)2684",
+  "case_name": "出入国管理令違反、外国人登録法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第11巻7号1813頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 8,
+    "day": 8
+  },
+  "gist": "出入国管理令第二五条は不法に入国した外国人に対しても適用があるか",
+  "case_gist": "出入国管理令第二五条は、不法に入国した外国人に対してもその適用があると解するのを相当とする。",
+  "ref_law": "出入国管理令25条1項，出入国管理令25条2項",
+  "lawsuit_id": "51420",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51420",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/420/051420_hanrei.pdf"
+}

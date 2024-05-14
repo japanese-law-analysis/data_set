@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 3,
+    "day": 16
+  },
+  "case_number": "昭和22(れ)238",
+  "case_name": "賍物故買",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第2巻3号227頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 10,
+    "day": 30
+  },
+  "gist": "一　賍物故買罪に於ける犯意\n二　犯罪構成要件たる事實の一小部分に付き被告人の自白以外他に證據なき場合",
+  "case_gist": "一　賍物故買罪は賍物であることを知りながらこれを買受けることによつて成立するものであるが、その故意が成立する爲めには必ずしも買受くべき物が賍物であることを確定的に知つて居ることを必要としない或は賍物であるかも知れないと思いながらしかも敢てこれを買受ける意思（いわゆる未必の故意）があれば足りるものと解すべきである。\n二　犯罪構成要件たる事實の大部分が他の證據の裏付によつて認め得られる以上其一部に付ては被告人の自白以外他に證據が無くても刑訴應急措置法第一〇條第三項に違反するものでないこと既に當裁判所の判例とする處で（昭和二二年一二月一六日言渡昭和二二年（れ）第一三六號事件判決參照）今なお變更の要を認めない。",
+  "ref_law": "刑法256條2項",
+  "lawsuit_id": "56421",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56421",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/421/056421_hanrei.pdf"
+}

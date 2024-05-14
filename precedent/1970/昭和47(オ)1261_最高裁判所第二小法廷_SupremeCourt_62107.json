@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 4,
+    "day": 13
+  },
+  "case_number": "昭和47(オ)1261",
+  "case_name": "請求異議",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第109号97頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和45(ネ)2450",
+  "original_date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 9,
+    "day": 20
+  },
+  "gist": "建物所有を目的とする土地賃貸借契約の借地人が無断増改築等を禁止する特約に反してなした建物改修工事が賃貸人に対する信頼関係を破壊するものと認められた事例",
+  "case_gist": "建物収去土地明渡請求事件につき成立した裁判上の和解において、新規に土地賃貸借の合意が成立したが、その際特に無断増改築を禁止する旨の条項が付せられたにもかかわらず、賃借人が右特約に反し賃貸人に無断で借地上の木造映画館を一階はスーパーマーケットに、二階はアパートに、それぞれ改造する等判示の改修工事を施したときは、右工事は土地賃貸借当事者間の信頼関係を破壊するものと解すべきである。",
+  "ref_law": "民法540条，民法601条",
+  "lawsuit_id": "62107",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62107",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/107/062107_hanrei.pdf"
+}

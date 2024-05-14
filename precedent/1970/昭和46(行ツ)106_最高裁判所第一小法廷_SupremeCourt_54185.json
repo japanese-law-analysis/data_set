@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 5,
+    "day": 30
+  },
+  "case_number": "昭和46(行ツ)106",
+  "case_name": "大阪府国民健康保険審査決定取消請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第28巻4号594頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和40(行コ)54",
+  "original_date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 8,
+    "day": 2
+  },
+  "gist": "国民健康保険の保険者の処分を取り消した国民健康保険審査会の裁決の取消訴訟と保険者の原告適格",
+  "case_gist": "国民健康保険の保険者は、自己のした保険給付に関する処分（被保険者証の交付の請求に関する処分を含む。）又は保険料その他の徴収金に関する処分を取り消した国民健康保険審査会の裁決に対し、取消訴訟を提起することはできない。",
+  "ref_law": "国民健康保険法3条，国民健康保険法91条，国民健康保険法103条，行政事件訴訟法9条",
+  "lawsuit_id": "54185",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54185",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/185/054185_hanrei.pdf"
+}

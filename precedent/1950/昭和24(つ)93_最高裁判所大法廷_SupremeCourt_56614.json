@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 3,
+    "day": 6
+  },
+  "case_number": "昭和24(つ)93",
+  "case_name": "異議申立却下決定に対する特別抗告申立",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第4巻3号308頁",
+  "original_court_name": "東京地方裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 9,
+    "day": 14
+  },
+  "gist": "共同被告人に尋問の都度反對訊問の機會を與えなかつたという主張と憲法第三七條第二項",
+  "case_gist": "所論は裁判長の被告人に對する個々の尋問に對する被告人の供述が他の共同被告人に不利益であつたにもかかわらず、裁判長がその都度當該他の共同被告人に反對訊問するように注意しなかつた措置又はその共同被告人又は辯護人に對しその都度現實に反對尋問する機會を與えなかつた措置は被告人の證人に對する基本的權利を規定した憲法第三七條第二項に違反し無効であるというに歸する。しかし同條項は、刑事被告人は、すべての證人に對して審問する機會を充分に與えれる權利を有する旨規定しているに過ぎないのであつて、所論のような形式や時期までをも規定したと解すべきものではない。",
+  "ref_law": "憲法37條2項前段，舊刑訴法338條",
+  "lawsuit_id": "56614",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56614",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/614/056614_hanrei.pdf"
+}

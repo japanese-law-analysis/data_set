@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 3,
+    "day": 1
+  },
+  "case_number": "昭和35(オ)1024",
+  "case_name": "貸金等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第65号41頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 5,
+    "day": 13
+  },
+  "gist": "準消費貸借の目的たる約束手形金債務を特定するについて手形要件全部の判示を必要とするか。",
+  "case_gist": "準消費貸借の目的たる約束手形金債務を特定するために、必ずしも手形要件のすべてを判示する要はない。",
+  "ref_law": "民法588条，手形法75条",
+  "lawsuit_id": "65801",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=65801",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/801/065801_hanrei.pdf"
+}

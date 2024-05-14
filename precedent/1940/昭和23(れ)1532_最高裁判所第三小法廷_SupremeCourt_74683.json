@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 3,
+    "day": 29
+  },
+  "case_number": "昭和23(れ)1532",
+  "case_name": "強盗殺人",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第8号409頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 5,
+    "day": 25
+  },
+  "gist": "一　死刑の合憲性\n二　一一ケ月前になした鑑定の結果に關する證言の證據力",
+  "case_gist": "一　しかし死刑は憲法第一三條に違反するものではなくまた憲法第三六條の残虐なる刑罰に當らないということは當裁判所の判例とするところである。（昭和二二年（れ）第一一九號同二三年三月一二日大法廷判決）\n二　原審Ａの供述は一一ケ月前になしたる鑑定の結果に關するものであるとしても、これを唯一の證據として判示死亡原因を認定することはできないという何等の法則もない、そして右供述によつて被害者の死亡原因を認定し得るものであるから原判決は採證法則に違背したものではない。",
+  "ref_law": "憲法13條，憲法36條，舊刑訴法337條",
+  "lawsuit_id": "74683",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74683",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/683/074683_hanrei.pdf"
+}

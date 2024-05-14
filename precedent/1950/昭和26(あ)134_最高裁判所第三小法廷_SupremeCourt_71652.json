@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 9,
+    "day": 4
+  },
+  "case_number": "昭和26(あ)134",
+  "case_name": "衆議院議員選挙法違反、同幇助・政治資金規制法違反、同幇助",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第52号67頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 10,
+    "day": 10
+  },
+  "gist": "被告人の連署を欠く弁護人選任届と上告趣意書の提出",
+  "case_gist": "弁護人安井源吾提出の上告趣意書（論旨は刑訴四〇五条に該らす、上告適法の理由でない）は、同弁護人の選任に被告人の連署を欠きその選任を有効と認め難いから、受理することを得ない。結局本件上告につき指定期間内に趣意書の提出がないものというべきである。",
+  "ref_law": "刑訴法30条，刑訴法414条，刑訴法386条1項1号，刑訴規則18条",
+  "lawsuit_id": "71652",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=71652",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/652/071652_hanrei.pdf"
+}

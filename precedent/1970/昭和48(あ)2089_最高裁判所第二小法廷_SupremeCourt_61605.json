@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 11,
+    "day": 22
+  },
+  "case_number": "昭和48(あ)2089",
+  "case_name": "道路交通法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第190号671頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 8,
+    "day": 28
+  },
+  "gist": "原判決に対する論難でないとされた事例",
+  "ref_law": "憲法13条",
+  "lawsuit_id": "61605",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61605",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/605/061605_hanrei.pdf"
+}

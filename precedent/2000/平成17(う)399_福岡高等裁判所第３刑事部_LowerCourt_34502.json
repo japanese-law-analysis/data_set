@@ -1,0 +1,20 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 3,
+    "day": 19
+  },
+  "case_number": "平成17(う)399",
+  "case_name": "殺人",
+  "court_name": "福岡高等裁判所第３刑事部",
+  "result": "棄却",
+  "original_court_name": "佐賀地方裁判所",
+  "original_case_number": "平成14(わ)194",
+  "gist": "成人女性３名の連続殺人事件について，第一審が?被告人の自白等を内容とする同人作成の上申書等については，別件起訴後の身柄拘束期間中の違法な取調に基づいて作成させた違法収集証拠であり，その一部については任意性も認められないとして証拠能力を否定し，?他の状況証拠では証明が不十分であるとして，いずれも無罪の判決をし，検察官から，これらの点について訴訟手続の法令違反及び事実誤認があるとして，控訴の申立があったのに対し，控訴審でも，第一審同様，被告人の上申書等の証拠能力を否定し，控訴審で新たに取り調べた何点かの証拠を含めた状況証拠を総合しても犯罪の証明はできていないとして，控訴を棄却した事例",
+  "lawsuit_id": "34502",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=34502",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/502/034502_hanrei.pdf",
+  "contents": ""
+}

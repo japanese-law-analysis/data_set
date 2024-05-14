@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 5,
+    "day": 22
+  },
+  "case_number": "昭和31(あ)2973",
+  "case_name": "暴力行為等処罰ニ関スル法律違反",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "刑集　第17巻4号370頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 5,
+    "day": 8
+  },
+  "gist": "一　憲法第二三条の趣旨\n二　学生集会と大学の有する学問の自由および自治",
+  "case_gist": "一　憲法第二三条の学問の自由は、学問的研究の自由とその研究結果の発表の自由とを含み、同条は、広くすべての国民に対してそれらの自由を保障するとともに、特に大学におけるそれらの自由および大学における教授の自由を保障することを趣旨としたものである。\n二　学生の集会は、大学の許可したものであつても真に学問的な研究またはその結果の発表のためのものでなく、実社会の政治的社会的活動に当る行為をする場合には、大学の有する特別の学問の自由と自治は享有しない。",
+  "ref_law": "憲法23条，学校教育法52条",
+  "lawsuit_id": "56972",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56972",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/972/056972_hanrei.pdf"
+}

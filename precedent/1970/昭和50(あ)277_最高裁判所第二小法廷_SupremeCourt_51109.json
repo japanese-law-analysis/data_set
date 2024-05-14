@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 6,
+    "day": 13
+  },
+  "case_number": "昭和50(あ)277",
+  "case_name": "通貨変造、窃盗",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第29巻6号375頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 12,
+    "day": 26
+  },
+  "gist": "通貨変造罪が成立するとされた事例",
+  "case_gist": "被告人が、行使の目的をもつて真正な日本銀行券一、〇〇〇円券二枚を用い、これを表裏にはがし、切断し、糊付けする等原判示の方法（原判決参照）により、真正な日本銀行券一、〇〇〇円券を四つ折又は八つ折にしたものと思い誤らせる程度の外観、手ざわりを備えた六片の物件を作出したときは、通貨変造罪が成立する。",
+  "ref_law": "刑法148条1項",
+  "lawsuit_id": "51109",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51109",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/109/051109_hanrei.pdf"
+}

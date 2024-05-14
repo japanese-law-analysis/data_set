@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 11,
+    "day": 18
+  },
+  "case_number": "昭和38(オ)781",
+  "case_name": "商号使用差止等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第85号137頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和29(ネ)482",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 2,
+    "day": 28
+  },
+  "gist": "他人の商号の使用が一定地域内に限られている場合と当該商号の周知性の有無の判断の限界",
+  "case_gist": "他人の商号の使用が、一定地域内に限られている場合には、その商号が当該地域内において「広ク認識セラルル」ものであるかどうかを判断すれば足りる",
+  "ref_law": "不正競争防止法1条",
+  "lawsuit_id": "66253",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66253",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/253/066253_hanrei.pdf"
+}

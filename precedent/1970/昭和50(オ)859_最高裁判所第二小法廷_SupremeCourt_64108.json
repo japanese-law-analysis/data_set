@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 1,
+    "day": 16
+  },
+  "case_number": "昭和50(オ)859",
+  "case_name": "認知無効請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第117号1頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "昭和49(ネ)224",
+  "original_date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 6,
+    "day": 11
+  },
+  "gist": "民法九六九条二号にいう口授の意義",
+  "case_gist": "遺言者が、公正証書によつて遺言をするにあたり、公証人の質問に対し言語をもつて陳述することなく単に肯定又は否定の挙動を示したにすぎないときには、民法九六九条二号にいう口授があつたものとはいえず、このことは遺言事項が子の認知に関するものであつても異ならない。",
+  "ref_law": "民法969条",
+  "lawsuit_id": "64108",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64108",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/108/064108_hanrei.pdf"
+}

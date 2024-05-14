@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 7,
+    "day": 19
+  },
+  "case_number": "昭和44(行ツ)68",
+  "case_name": "異議申立棄却決定取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集民　第112号315頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和41(行コ)32",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 5,
+    "day": 27
+  },
+  "gist": "異議申立棄却決定に対する取消訴訟の許否",
+  "case_gist": "国税に関する処分に対する異議申立てを棄却した決定に対しては、異議決定固有の瑕疵を理由としてその取消訴訟を提起することができる。",
+  "ref_law": "行政事件訴訟法3条3項，行政事件訴訟法10条2項",
+  "lawsuit_id": "66757",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66757",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/757/066757_hanrei.pdf"
+}

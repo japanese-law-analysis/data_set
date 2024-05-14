@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 4,
+    "month": 12,
+    "day": 15
+  },
+  "case_number": "平成4(し)109",
+  "case_name": "傷害、毒物及び劇物取締法違反保護事件についてした抗告棄却決定に対する再抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "その他",
+  "article_info": "集刑　第261号313頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 4,
+    "month": 9,
+    "day": 25
+  },
+  "gist": "少年のした再抗告を再度の抗告と解してした抗告棄却決定を取り消すとともに，あわせて右再抗告を棄却した事例",
+  "ref_law": "少年法35条1項，少年法32条，少年審判規則53条2項，少年審判規則54条，少年審判規則53条1項",
+  "lawsuit_id": "57970",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57970",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/970/057970_hanrei.pdf"
+}

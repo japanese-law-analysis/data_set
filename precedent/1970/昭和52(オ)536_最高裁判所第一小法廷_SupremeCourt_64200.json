@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 9,
+    "day": 22
+  },
+  "case_number": "昭和52(オ)536",
+  "case_name": "保険金",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第121号289頁",
+  "original_court_name": "広島高等裁判所",
+  "original_case_number": "昭和51(ネ)326",
+  "original_date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 2,
+    "day": 28
+  },
+  "gist": "弟が兄所有の自動車を無断で使用し同乗の弟の友人に一時運転させている間に友人の起こした事故により死亡した場合に兄弟の両親が弟の相続人として弟は兄に対して自動車損害賠償保障法三条にいう他人にあたることを主張することができないとされた事例",
+  "case_gist": "弟が兄から一時預つた兄所有の自動車の鍵を利用し、自動車を駐車場所から無断で持ち出して運行し、同乗した弟の友人に一時自動車を運転させている間に友人の起こした事故により死亡したなど判示の事実関係があるときは、兄弟の両親は弟の相続人として兄に対し、弟が兄に対して自動車損害賠償保障法三条にいう他人にあたることを主張して損害賠償を求めることは、許されない。",
+  "ref_law": "自動車損害賠償保障法3条",
+  "lawsuit_id": "64200",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64200",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/200/064200_hanrei.pdf"
+}

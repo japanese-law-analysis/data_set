@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 2,
+    "day": 9
+  },
+  "case_number": "昭和36(オ)610",
+  "case_name": "特殊清算事務執行の取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第16巻2号243頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 1,
+    "day": 30
+  },
+  "gist": "特殊清算人が特殊清算事務の執行として行う閉鎖機関の財産の処分行為の性質",
+  "case_gist": "特殊清算人が特殊清算事務の執行として行う閉鎖機関の財産の処分行為は、行政事件訴訟特例法第一条にいう行政処分にあたらない。",
+  "ref_law": "行政事件訴訟特例法1条，閉鎖機関令（昭和23年政令第251号による改正後のもの）10条",
+  "lawsuit_id": "53074",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53074",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/074/053074_hanrei.pdf"
+}

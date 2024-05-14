@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 12,
+    "day": 19
+  },
+  "case_number": "昭和48(あ)1930",
+  "case_name": "昭和三六年広島県条例第一三号集団示威運動、集団行進及び集会に関する条例違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第198号863頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 7,
+    "day": 19
+  },
+  "gist": "広島県庁正面玄関前構内におけるＡ事件についての再上告審決定",
+  "lawsuit_id": "61604",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61604",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/604/061604_hanrei.pdf"
+}

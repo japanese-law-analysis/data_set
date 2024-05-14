@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 9,
+    "day": 28
+  },
+  "case_number": "昭和57(あ)423",
+  "case_name": "大麻取締法違反、関税法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第228号621頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 2,
+    "day": 8
+  },
+  "gist": "大麻取締法一条と憲法三一条",
+  "ref_law": "憲法31条，大麻法1条",
+  "lawsuit_id": "58257",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58257",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/257/058257_hanrei.pdf"
+}

@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 11,
+    "month": 12,
+    "day": 16
+  },
+  "case_number": "平成10(あ)413",
+  "case_name": "強盗殺人、死体遺棄、恐喝未遂被告事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第277号407頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 10,
+    "month": 1,
+    "day": 13
+  },
+  "gist": "強盗殺人、恐喝未遂等被告事件につき、無期懲役に処した第一審判決を維持した控訴審判決を破棄しなければ著しく正義に反するとは認められないとされた事例",
+  "lawsuit_id": "58526",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58526",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/526/058526_hanrei.pdf"
+}

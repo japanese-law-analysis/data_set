@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 11,
+    "day": 28
+  },
+  "case_number": "平成15(ワ)91",
+  "case_name": "損害賠償等請求事件",
+  "court_name": "甲府地方裁判所民事部",
+  "gist": "被告会社及びその代表者が，原告の製造・販売する商品を欠陥品であると断定して，原告の取引関係者あてに虚偽の事実を告知し，内容虚偽の文書を配付するなどして原告の名誉権，信用を侵害し，原告の営業を妨害したとして，原告が，被告らに対し，民法７１９条１項に基づく損害賠償と，不正競争防止法３条に基づく虚偽告知等の差止めを求めた事案につき，原告の差止請求と損害賠償請求の一部が認められた事例。",
+  "lawsuit_id": "33891",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=33891",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/891/033891_hanrei.pdf",
+  "contents": ""
+}

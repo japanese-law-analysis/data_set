@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 9,
+    "day": 11
+  },
+  "case_number": "昭和53(す)183",
+  "case_name": "強盗殺人被告事件についてした上告棄却の決定に対する訂正及び訂正の期間延長の申立",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第213号85頁",
+  "original_court_name": "最高裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 8,
+    "day": 4
+  },
+  "gist": "上告棄却決定に対する判決訂正の期間延長の申立を棄却した事例",
+  "ref_law": "刑訴法415条",
+  "lawsuit_id": "61755",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61755",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/755/061755_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 10,
+    "day": 24
+  },
+  "case_number": "昭和36(オ)12",
+  "case_name": "所有権確認等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第68号493頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 10,
+    "day": 12
+  },
+  "gist": "県知事の宅地転用の許可があり地目変更がなされている農地（現況）と農地法第三条による県知事の許可の要否。",
+  "case_gist": "県知事の宅地転用許可があり地目変更がなされていても、現況が農地である土地の競落による所有権移転には、農地法第三条による県知事の許可が必要である。",
+  "ref_law": "農地法3条",
+  "lawsuit_id": "63671",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63671",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/671/063671_hanrei.pdf"
+}

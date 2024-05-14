@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 5,
+    "day": 19
+  },
+  "case_number": "昭和39(オ)1498",
+  "case_name": "建物収去土地明渡請求並びに同参加",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第83号565頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "昭和38(ネ)402",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 9,
+    "day": 16
+  },
+  "gist": "原告代理人である弁護士が参加人代理人として民訴法第七三条による参加申立をした場合において弁護士法第二五条第一号に違反しないとされた事例",
+  "case_gist": "参加人が、訴訟の目的たる権利の譲渡を受けたとして民訴法第七三条による参加をした場合において、参加人と右譲渡人との間に実質上なんらの利害関係がなく、かつ、右譲渡人を相手方としないときには、右譲渡人の訴訟代理人であつた弁護士が参加人の訴訟代理人として選任され、訴訟行為をしたとしても、弁護士法第二五条に違反しない（第二小法廷昭和三七年四月二〇日判決、民集一六巻四号九一三頁参照）。",
+  "ref_law": "民訴法73条，弁護士法25条1号",
+  "lawsuit_id": "77732",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77732",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/732/077732_hanrei.pdf"
+}

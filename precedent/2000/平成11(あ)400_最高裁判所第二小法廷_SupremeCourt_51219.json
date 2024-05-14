@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 12,
+    "month": 10,
+    "day": 31
+  },
+  "case_number": "平成11(あ)400",
+  "case_name": "麻薬及び向精神薬取締法違反、関税法違反、業務上横領被告事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第54巻8号735頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成8(う)1753",
+  "original_date": {
+    "era": "Heisei",
+    "year": 11,
+    "month": 3,
+    "day": 1
+  },
+  "gist": "国際捜査共助の要請に基づきアメリカ合衆国において作成された供述書が刑訴法三二一条一項三号の書面に当たるとされた事例",
+  "case_gist": "日本国からアメリカ合衆国に対する捜査共助の要請に基づき、同国に在住する者が、黙秘権の告知を受け、同国の捜査官及び日本の検察官の質問に対して任意に供述し、公証人の面前において、偽証罪の制裁の下で、記載された供述内容が真実であることを言明する旨を記載するなどして作成した供述書は、刑訴法三二一条一項三号にいう特に信用すべき情況の下にされた供述に当たる。",
+  "ref_law": "刑訴法321条1項3号",
+  "lawsuit_id": "51219",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51219",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/219/051219_hanrei.pdf"
+}

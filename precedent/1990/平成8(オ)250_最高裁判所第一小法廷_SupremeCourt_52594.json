@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 11,
+    "month": 1,
+    "day": 21
+  },
+  "case_number": "平成8(オ)250",
+  "case_name": "請求異議等",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第53巻1号98頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "平成7(ネ)524",
+  "original_date": {
+    "era": "Heisei",
+    "year": 7,
+    "month": 10,
+    "day": 27
+  },
+  "gist": "債務者の利息の支払が貸金業者の預金等の口座に対する払込みによってされた場合における貸金業の規制等に関する法律四三条一項によるみなし弁済と同法一八条一項に規定する書面の交付の要否",
+  "case_gist": "貸金業の規制等に関する法律四三条一項によるみなし弁済の効果を生ずるためには、債務者の利息の支払が貸金業者の預金又は貯金の口座に対する払込みによってされた場合であっても、特段の事情のない限り、貸金業者は右の払込みを受けたことを確認した都度、直ちに、同法一八条一項に規定する書面を債務者に交付しなければならない。",
+  "ref_law": "貸金業の規制等に関する法律43条1項，貸金業の規制等に関する法律（平成9年法律102号による改正前のもの）18条，利息制限法1条1項",
+  "lawsuit_id": "52594",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52594",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/594/052594_hanrei.pdf"
+}

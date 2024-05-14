@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 7,
+    "day": 4
+  },
+  "case_number": "昭和61(行ツ)121",
+  "case_name": "違法処分行為による損害賠償代位",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第157号329頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和57(行コ)34",
+  "original_date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 3,
+    "day": 28
+  },
+  "gist": "町による地元出身衆議院議員の大臣就任祝賀式典の挙行及びこれに伴う公金の支出が違法ではないとされた事例",
+  "case_gist": "町が地元出身衆議院議員の大臣就任を祝うため提燈行列及び立食パーティなどを内容とする二日間の祝賀式典を挙行し、そのために約三二六万円の公金を支出した場合において、右議員は長年にわたり町の発展のため尽力してきたものであるところがら、各種団体の多数の代表の提案に基づき右式典が計画されたものであり、これに関する予算案は議会の圧倒的多数で可決されており、また、右式典には多数の町民が参加したなど原判示の事実関係（原判決参照）の下においては、右祝賀式典の挙行及びこれに伴う右公金の支出は、社交儀礼の範囲を逸脱しているとまでは断定することができず、違法とはいえない。\n\n（反対意見がある。）",
+  "ref_law": "地方自治法2条2項，地方自治法232条1項，地方自治法242条の2第1項",
+  "lawsuit_id": "62356",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62356",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/356/062356_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 8,
+    "day": 20
+  },
+  "case_number": "昭和40(行ツ)52",
+  "case_name": "判定処分等取消請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第100号399頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和39(行コ)1",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 3,
+    "day": 31
+  },
+  "gist": "国家公務員法七八条三号に定める免職事由に該当するとされた事例",
+  "case_gist": "行政管理庁行政監察局の職員が、上司の承認を得ることなく、同局保管の行政監察業務に関する文書で、その内容が秘密事項に属し、また、そのため適式に秘密文書として指定されたものから取材し、その内容を掲記した単行本または雑誌記事を著述発刊または掲載したときは、右職員は国家公務員法七八条三号に定める免職事由に該当する。",
+  "ref_law": "国家公務員法78条5号，国家公務員法100条1項",
+  "lawsuit_id": "66504",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66504",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/504/066504_hanrei.pdf"
+}

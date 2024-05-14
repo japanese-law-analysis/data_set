@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 7,
+    "day": 28
+  },
+  "case_number": "昭和38(オ)714",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第18巻6号1241頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 4,
+    "day": 15
+  },
+  "gist": "医師の消毒の不完全を理由とする損害賠償の請求を認容する判決において右消毒の不完全部分を確定しないで過失を認定しても違法でないとされた事例。",
+  "case_gist": "注射の際の医師による消毒の不完全を理由とする損害賠償の請求を認容する判決において、右消毒の不完全が注射器具、施術者の手指もしくは患者の注射部位のいずれに存するかを確定しないで過失を認定しても、違法とはいえない。",
+  "ref_law": "民法709条，民訴法395条1項6号",
+  "lawsuit_id": "53875",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53875",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/875/053875_hanrei.pdf"
+}

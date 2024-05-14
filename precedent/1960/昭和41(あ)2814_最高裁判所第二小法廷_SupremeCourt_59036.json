@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 4,
+    "day": 14
+  },
+  "case_number": "昭和41(あ)2814",
+  "case_name": "有価証券偽造、同行使、詐欺",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第163号69頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 11,
+    "day": 18
+  },
+  "lawsuit_id": "59036",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59036",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/036/059036_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 12,
+    "day": 27
+  },
+  "case_number": "昭和23(れ)740",
+  "case_name": "強盗",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第6号605頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 4,
+    "day": 2
+  },
+  "gist": "第一審の手續及び判決の瑕疵と上告理由",
+  "case_gist": "第二審裁判所は、覆審主義の下に事案の全般に亘つて新たに審理を爲し判決をするのであるから、第一審の手續及び判決における瑕疵は、それが第二審判決に影響を及ぼしその違法を招來しない限り、これを以て上告理由となし得ないことは多言を要しないところである。",
+  "ref_law": "刑訴法411條",
+  "lawsuit_id": "70673",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70673",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/673/070673_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 12,
+    "day": 25
+  },
+  "case_number": "昭和27(あ)4835",
+  "case_name": "食糧管理法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第7巻13号2735頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 3,
+    "day": 28
+  },
+  "gist": "昭和二三年産米の供出義務といわゆる事前割当手続の要否",
+  "case_gist": "昭和二三年産米については、いわゆる事前割当手続がない場合においても、供出義務を免れない。",
+  "ref_law": "食糧管理法施行規則附則2項",
+  "lawsuit_id": "54698",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54698",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/698/054698_hanrei.pdf"
+}

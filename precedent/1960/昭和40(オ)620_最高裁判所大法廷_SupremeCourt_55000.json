@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 9,
+    "day": 27
+  },
+  "case_number": "昭和40(オ)620",
+  "case_name": "貸金請求",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第21巻7号1955頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和38(ネ)1748",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 2,
+    "day": 16
+  },
+  "gist": "一　弁護士に対する懲戒処分の効力の発生時期\n二　業務停止の懲戒処分に違反してされた弁護士の訴訟行為の効力",
+  "case_gist": "一　弁護士に対する懲戒処分は告知の時にその効力を生ずる。\n二　業務停止の懲戒処分に違反してされた弁護士の訴訟行為は、無効ではない。",
+  "ref_law": "弁護士法56条，弁護士法57条2号，民訴法79条，民訴法85条",
+  "lawsuit_id": "55000",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55000",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/000/055000_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 6,
+    "day": 20
+  },
+  "case_number": "昭和52(オ)268",
+  "case_name": "家屋買取",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第121号63頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和52(オ)268",
+  "original_date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 11,
+    "day": 29
+  },
+  "gist": "借地上の建物につき地主から提起された建物収去土地明渡請求訴訟の事実審口頭弁論終結時までに建物買取請求権を行使しなかつた建物の譲受人がその後建物買取請求権を行使して地主に対し建物の代金の支払を求めることの可否",
+  "case_gist": "借地上の建物の譲受人が、地主から提起された右建物の収去及び敷地の明渡を請求する訴訟の事実審口頭弁論終結時までに、借地法一〇条の建物買取請求権があることを知りながらその行使をしなかつた場合でも、建物譲受人は、その後において建物買取請求権を行使して、地主に対し建物の代金の支払を求めることができる。",
+  "ref_law": "借地法10条",
+  "lawsuit_id": "64186",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64186",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/186/064186_hanrei.pdf"
+}

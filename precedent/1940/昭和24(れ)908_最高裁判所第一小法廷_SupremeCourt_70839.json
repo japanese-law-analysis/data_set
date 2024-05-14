@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 9,
+    "day": 29
+  },
+  "case_number": "昭和24(れ)908",
+  "case_name": "恐喝",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第13号655頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 2,
+    "day": 11
+  },
+  "gist": "恐喝罪における害悪告知の方法",
+  "case_gist": "刑法第二四九條第一項恐喝の罪は害悪の及ぶべきことを通知して相手方を畏怖させることにより財物を交付させる犯罪ではあるが、その害悪の告知は必ずしも明示の言動を要するものではなく、自己の經歴性行及び職業上の不法は勢威等を利用して財物の交付を要求し、相手方をして若しその要求を容れないときは不當な不利益を釀されるの危險があるとの危惧の念を抱かしめるやうな暗默のときは恐喝取財罪を構成するものと認むべきである。",
+  "ref_law": "刑法249條1項",
+  "lawsuit_id": "70839",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70839",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/839/070839_hanrei.pdf"
+}

@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 11,
+    "day": 12
+  },
+  "case_number": "昭和53(あ)1862",
+  "case_name": "昭和二五年東京都条例第四四号集会、集団行進及び集団示威運動に関する条例違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第216号285頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 9,
+    "day": 13
+  },
+  "gist": "第一次上告審決定の判断に従つてした原判断を非難する違憲主張が不適法とされた事例",
+  "lawsuit_id": "60296",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60296",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/296/060296_hanrei.pdf"
+}

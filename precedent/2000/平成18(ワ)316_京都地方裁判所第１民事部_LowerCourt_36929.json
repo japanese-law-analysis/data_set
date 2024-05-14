@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 9,
+    "day": 18
+  },
+  "case_number": "平成18(ワ)316",
+  "case_name": "損害賠償請求事件",
+  "court_name": "京都地方裁判所第１民事部",
+  "gist": "１　学校のエアコン室外機が発する騒音が受忍限度を超えているとして，隣地居住者が学校の設置者に対して求めた室外機の撤去請求が，抽象的不作為請求の限度で認容された事例\n２　騒音規制法による特定工場等に該当する学校が，同法による規制基準を超える騒音を隣地に到達させたことが隣地居住者に対する不法行為に当たるとされた事例",
+  "lawsuit_id": "36929",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=36929",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/929/036929_hanrei.pdf",
+  "contents": ""
+}

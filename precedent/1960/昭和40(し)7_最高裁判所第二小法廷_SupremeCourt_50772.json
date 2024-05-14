@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 6,
+    "day": 21
+  },
+  "case_number": "昭和40(し)7",
+  "case_name": "触法（要強制措置）保護事件を児童相談所長に送致する決定に対する抗告棄却決定に対する再抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第19巻4号449頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 12,
+    "day": 25
+  },
+  "gist": "少年法第一八条第二項により強制的措置を指示して事件を児童相談所長に送致した家庭裁判所の決定に対し抗告をすることができるか。",
+  "case_gist": "少年法第六条第三項により児童相談所長から事件送致を受けた家庭裁判所が、同法第一八条第二項により、少年の自由を制限し、またはその自由を奪うような強制的措置を指示してそお事件を児童相談所長に送致する旨の決定をした場合、これに対して抗告を申し立てることはできない。",
+  "ref_law": "少年法6条3項，少年法18条2項，少年法32条",
+  "lawsuit_id": "50772",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50772",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/772/050772_hanrei.pdf"
+}

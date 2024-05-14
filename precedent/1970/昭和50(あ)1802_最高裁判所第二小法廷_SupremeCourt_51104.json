@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 6,
+    "day": 13
+  },
+  "case_number": "昭和50(あ)1802",
+  "case_name": "傷害",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第33巻4号348頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 7,
+    "day": 7
+  },
+  "gist": "一　地方裁判所における審理に判事補の参与を認める規則の目的\n二　地方裁判所における審理に判事補の参与を認める規則と二人合議制",
+  "case_gist": "一　地方裁判所における審理に判事補の参与を認める規則は、裁判所法二六条一項の規定により一人の裁判官で事件を取り扱う場合において、当該事件を取り扱う裁判官が判事（特例判事補を含む。）であるときに、判事補（特例判事補を除く。）を参与させ、その判事補をして当該事件の審理に立ち会わせたり、事件について意見を述べさせるなどして、将来よき裁判の担い手となるように判事補を指導養成することを目的とする。\n二　地方裁判所における審理に判事補の参与を認める規則は、いかなる意味においても、二人合議制を採用したものではない。",
+  "ref_law": "地方裁判所における審理に判事補の参与を認める規則（昭和47年最高裁判所規則8号），裁判所法26条",
+  "lawsuit_id": "51104",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51104",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/104/051104_hanrei.pdf"
+}

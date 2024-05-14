@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 5,
+    "day": 2
+  },
+  "case_number": "昭和38(オ)469",
+  "case_name": "審決取消請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第21巻4号834頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和37(行ナ)52",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 1,
+    "day": 29
+  },
+  "gist": "商標権者は原登録商標の指定商品に類似する商品について連合商標の商標登録を受けうる既得権を有するか",
+  "case_gist": "商標権者は、原登録商標の指定商品に類似する商品について、連合商標の商標登録を受けうる既得権を有するものではない。",
+  "ref_law": "商標法7条1項，商標法25条，商標法36条",
+  "lawsuit_id": "57748",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57748",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/748/057748_hanrei.pdf"
+}

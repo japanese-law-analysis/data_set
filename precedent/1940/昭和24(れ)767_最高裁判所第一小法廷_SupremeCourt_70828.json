@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 8,
+    "day": 18
+  },
+  "case_number": "昭和24(れ)767",
+  "case_name": "殺人",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第13号217頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 12,
+    "day": 6
+  },
+  "gist": "上訴を放棄する旨の被告人の明示した意思に反して辯護人のなした上告の適否",
+  "case_gist": "職權を以て調査するに、記録によれば、昭和二三年一二月六日原審第四回公判において被告人は原判決の言渡に對し、即時上訴權を放棄する旨申立てたものであるにかかわらず、原審辯護人Ａは、右被告人の明示した意思に反して同年同月八日本件上告を爲したものであること明白である。從つて本件上告は不適法たるを兔れない。",
+  "ref_law": "舊刑訴法379條，舊刑訴法382條",
+  "lawsuit_id": "70828",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70828",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/828/070828_hanrei.pdf"
+}

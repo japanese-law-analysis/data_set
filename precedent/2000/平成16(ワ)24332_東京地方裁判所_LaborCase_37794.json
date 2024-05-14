@@ -1,0 +1,17 @@
+{
+  "trial_type": "LaborCase",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 4,
+    "day": 22
+  },
+  "case_number": "平成16(ワ)24332",
+  "case_name": "解雇無効確認等請求事件（通称　東芝解雇）",
+  "court_name": "東京地方裁判所",
+  "field": "労働",
+  "lawsuit_id": "37794",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail6?id=37794",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/794/037794_hanrei.pdf",
+  "contents": ""
+}

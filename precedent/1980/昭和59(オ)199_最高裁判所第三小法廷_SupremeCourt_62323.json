@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 9,
+    "day": 19
+  },
+  "case_number": "昭和59(オ)199",
+  "case_name": "土地所有権移転登記抹消登記手続請求本訴、土地所有権移転登記手続請求反訴事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集民　第157号581頁",
+  "original_court_name": "福岡高等裁判所\n        　那覇支部",
+  "original_case_number": "昭和56(ネ)41",
+  "original_date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 11,
+    "day": 22
+  },
+  "gist": "一　アメリカ合衆国軍隊の軍用地として使用されている土地につき時効取得が認められた事例\n二　選択的併合の関係にある一の請求を認容した原判決に対する上告審において他の請求を認容するときと原判決の帰すう",
+  "case_gist": "一　戦後アメリカ合衆国軍隊に接収され今日まで軍用地として使用されている土地につき、登記簿上の所有名義人が同国政府のために締結された賃貸借契約に基づき継続して軍用地料を受領し、公租公課も負担してきたなど原判示の事実関係の下においては、右所有名義人の時効取得を認めることができる。\n二　選択的併合の関係にある一の請求を認容した原判決に対する上告審において他の請求を認容するときは、原判決は、当然に失効する。",
+  "ref_law": "民法162条，民訴法227条，民訴法408条",
+  "lawsuit_id": "62323",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62323",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/323/062323_hanrei.pdf"
+}

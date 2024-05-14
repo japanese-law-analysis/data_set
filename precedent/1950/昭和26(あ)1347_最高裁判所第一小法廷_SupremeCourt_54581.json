@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 2,
+    "day": 26
+  },
+  "case_number": "昭和26(あ)1347",
+  "case_name": "脅迫",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第7巻2号311頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 12,
+    "day": 13
+  },
+  "gist": "脅迫の認定に対し国家公務員法第一一〇条第一項第八号にあたるとして被告人から控訴するのは適法な控訴理由となるか",
+  "case_gist": "脅迫の認定に対し国家公務員法第一一〇条第一項八号にあたるとして被告人から控訴することは、刑訴第四〇二条の規定にかかわらず不利益な主張として適法な控訴理由とならない。",
+  "ref_law": "刑法222条，国家公務員法110条1項8号，国家公務員法39条，刑訴法402条",
+  "lawsuit_id": "54581",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54581",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/581/054581_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 11,
+    "day": 25
+  },
+  "case_number": "昭和51(オ)19",
+  "case_name": "損害賠償請求、同附帯",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第30巻10号999頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和46(ネ)3060",
+  "original_date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 9,
+    "day": 9
+  },
+  "gist": "上訴審が本案判決を変更しない場合と民訴法一九八条二項の申立に対する裁判の要否",
+  "case_gist": "上訴審は、本案判決を変更しない場合においては、民訴法一九八条二項の申立に対する裁判をする必要がない。",
+  "ref_law": "民訴法198条2項",
+  "lawsuit_id": "53271",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53271",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/271/053271_hanrei.pdf"
+}

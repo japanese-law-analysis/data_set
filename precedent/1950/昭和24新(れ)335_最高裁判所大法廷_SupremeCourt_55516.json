@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 4,
+    "day": 18
+  },
+  "case_number": "昭和24新(れ)335",
+  "case_name": "窃盜等",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第5巻5号923頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 10,
+    "day": 5
+  },
+  "gist": "一、刑法の死刑の規定は憲法第九条に違反するか\n\n一、死刑の規定の合憲性（第一三条第三六条）",
+  "case_gist": "各論旨中の（一）はいずれも刑法死刑の規定は憲法第九条に違反するというのであるが、同条の規定から死刑廃止に至らねばならないと解すべき理由を見出すことはできない。されば各論旨（一）はいずれもとるを得ない。各論旨中の（二）及び（三）はいずれも刑法死刑の規定はそれぞれ憲法第一三条、第三六条に違反するというのであるがそのとるをえないことは当裁判所昭和二二年（れ）第一一九号同二三年三月一二日大法廷判決（判例集二巻三号一九一頁）の示すとおりである。されば被告人両名をそれぞれ死刑に処した第一審判決を是認した原判決をもつて所論憲法の各規定に違反すとなす各論旨はいずれも理由がない。",
+  "ref_law": "憲法9条，憲法36条，憲法13条",
+  "lawsuit_id": "55516",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55516",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/516/055516_hanrei.pdf"
+}

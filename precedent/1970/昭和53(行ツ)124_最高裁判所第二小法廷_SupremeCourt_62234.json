@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 5,
+    "day": 28
+  },
+  "case_number": "昭和53(行ツ)124",
+  "case_name": "所有権移転登記手続等",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第127号11頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和46(行コ)18",
+  "original_date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 6,
+    "day": 29
+  },
+  "gist": "当事者の訴訟代理人である弁護士が行政事件訴訟法四五条、二三条によつて参加した行政庁の訴訟代理人を兼ねる場合と民法一〇八条、弁護士法二五条",
+  "case_gist": "当事者の訴訟代理人である弁護士が行政事件訴訟法四五条、二三条によつて参加した行政庁の訴訟代理人を兼ねたとしても、民法一〇八条、弁護士法二五条に違反しない。",
+  "ref_law": "行政事件訴訟法23条，行政事件訴訟法45条，民法108条，弁護士法25条",
+  "lawsuit_id": "62234",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62234",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/234/062234_hanrei.pdf"
+}

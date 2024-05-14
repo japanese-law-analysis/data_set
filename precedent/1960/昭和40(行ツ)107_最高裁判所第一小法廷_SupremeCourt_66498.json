@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 10,
+    "day": 17
+  },
+  "case_number": "昭和40(行ツ)107",
+  "case_name": "法人税課税処分取消請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第92号607頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和40(行コ)16",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 10,
+    "day": 13
+  },
+  "gist": "横領行為により被つた法人の損害の法人所得計算上の処理",
+  "case_gist": "法人が横領行為によつて損害を被つた場合には、その損害額を損金に計上するとともに、これによる損害賠償請求権を益金に計上したうえ、右請求権が債務者の無資力その他の事由によつて実現不能が明白となつたときに至つて、これをその年度の損金とするのが、法人所得の計算上相当である。",
+  "ref_law": "旧法人税法（昭和22年法律第28号）9条",
+  "lawsuit_id": "66498",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66498",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/498/066498_hanrei.pdf"
+}

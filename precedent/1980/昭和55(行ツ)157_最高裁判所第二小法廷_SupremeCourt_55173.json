@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 4,
+    "day": 10
+  },
+  "case_number": "昭和55(行ツ)157",
+  "case_name": "違法支出金補填",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第41巻3号239頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和54(行コ)40",
+  "original_date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 9,
+    "day": 30
+  },
+  "gist": "一　地方自治法二四二条の二第一項四号にいう「当該職員」の意義\n\n二　東京都議会議長の職にあつた者を被告として提起された代位請求住民訴訟の適否",
+  "case_gist": "一　地方自治法二四二条の二第一項四号にいう「当該職員」とは、当該訴訟において適否が問題とされている財務会計上の行為を行う権限を法令上本来的に有するとされている者及びその者から権限の委任を受けるなどして右権限を有するに至つた者をいう。\n\n二　東京都議会議長の職にあつた者が在任中議会運営費のうちの交際費等の公金を違法に支出したとしてその者を被告として提起された代位請求住民訴訟は、地方自治法二四二条の二第一項四号所定の「当該職員に対する損害賠償の請求」に該当しない訴えとして、不適法である。\n（二につき、補足意見がある。）",
+  "ref_law": "地方自治法242条の2第1項4号",
+  "lawsuit_id": "55173",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55173",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/173/055173_hanrei.pdf"
+}

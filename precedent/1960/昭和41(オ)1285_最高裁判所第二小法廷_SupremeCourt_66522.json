@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 3,
+    "day": 31
+  },
+  "case_number": "昭和41(オ)1285",
+  "case_name": "家屋収去土地明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第86号825頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和39(ネ)1402",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 8,
+    "day": 18
+  },
+  "gist": "借地権の無断譲渡が背信行為にあたる場合は譲受人に賃料支払能力がないときにかぎられるか",
+  "case_gist": "借地権の無断譲渡がされた場合、それが賃貸人に対する賃借人の背信行為となるのは、賃貸人が譲受人の賃料の支払能力、態度に不安を感じる場合にかぎられない。",
+  "ref_law": "民法612条",
+  "lawsuit_id": "66522",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66522",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/522/066522_hanrei.pdf"
+}

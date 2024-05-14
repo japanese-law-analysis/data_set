@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 3,
+    "day": 15
+  },
+  "case_number": "昭和51(オ)920",
+  "case_name": "土地明渡請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第120号261頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和50(ネ)33",
+  "original_date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 5,
+    "day": 13
+  },
+  "gist": "賃貸人が地上の建物の不存在を理由に借地人の借地法四条一項に基づく借地権の更新請求権がないと主張することが信義則上許されないとされた事例",
+  "case_gist": "従前の土地の賃借人が、仮換地上に移築し、所有していた建物が火災によつて滅失したのち、その再築をしょうとしたのに、賃貸人の建築禁止通告及びこれに続く仮換地明渡調停の申立によつて建物の築造を妨げられ、その結果、賃貸借期間満了の際、仮換地上に建物を所有することができない状態となるに至つたなど判示の事情がある場合において、賃貸人が地上の建物の不存在を理由に借地人の借地法四条一項に基づく借地権の更新請求権がないと主張して争うことは、信義則上許されない。",
+  "ref_law": "民法1条2項，借地法4条1項",
+  "lawsuit_id": "74524",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74524",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/524/074524_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 11,
+    "month": 11,
+    "day": 10
+  },
+  "case_number": "平成11(行ツ)7",
+  "case_name": "選挙無効請求事件",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第53巻8号1441頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成8(行ケ)281",
+  "original_date": {
+    "era": "Heisei",
+    "year": 10,
+    "month": 10,
+    "day": 9
+  },
+  "gist": "衆議院議員選挙区画定審議会設置法三条の衆議院小選挙区選出議員の選挙区割りの基準を定める規定及び公職選挙法一三条一項、別表第一の右区割りを定める規定の合憲性",
+  "case_gist": "衆議院議員選挙区画定審議会設置法三条の衆議院小選挙区選出議員の選挙区割りの基準を定める規定は、憲法一四条一項、四三条一項に違反するものとはいえず、右基準に従って定められた公職選挙法一三条一項、別表第一の右区割りを定める規定は、平成八年一〇月二〇日施行の衆議院議員選挙当時、憲法一四条一項、四三条一項に違反していたものということはできない。\n（反対意見がある。）",
+  "ref_law": "憲法14条1項，憲法43条1項，公職選挙法13条1項，公職選挙法別表第1，衆議院議員選挙区画定審議会設置法3条，衆議院議員選挙区画定審議会設置法附則2条3項",
+  "lawsuit_id": "52271",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52271",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/271/052271_hanrei.pdf"
+}

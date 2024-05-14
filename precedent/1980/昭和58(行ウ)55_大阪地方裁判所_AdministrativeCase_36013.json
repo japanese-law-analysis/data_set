@@ -1,0 +1,18 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 5,
+    "day": 30
+  },
+  "case_number": "昭和58(行ウ)55",
+  "case_name": "大阪地蔵像違憲請求事件",
+  "court_name": "大阪地方裁判所",
+  "field": "行政",
+  "gist": "市が，住民により組織された町会に対し，右町会が建立し又は移設する地蔵像の敷地として市有地につき地方自治法２３８条の４第４項に基づいて行政財産の目的外使用の許可をすること又は転貸を承諾することにより無償で使用させていることが，憲法２０条３項，８９条に違反するものではなく，地方自治法２条１５項にも違反しないとされた事例",
+  "lawsuit_id": "36013",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=36013",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/013/036013_hanrei.pdf",
+  "contents": ""
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 9,
+    "day": 11
+  },
+  "case_number": "昭和27(あ)2388",
+  "case_name": "賍物故買",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第86号591頁",
+  "original_court_name": "福岡高等裁判所\n        　宮崎支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 2,
+    "day": 20
+  },
+  "gist": "第一審判決の法令適用の誤りを理由として破棄自判する第二審判決と、第一審判決の判示事実および証拠の引用",
+  "case_gist": "原判決は第一審判決の法令の適用に誤りがあるものとしてこれを破棄し、刑訴四〇〇条但書により第一審判決の確定した事実に法律を適用し、被告人を懲役一〇月及び罰金五千円に処したものであつて、かかる場合原判決は第一審判決の判示事実並びに証拠を引用したものと解すべきことは、当裁判所屡次の判例とするところである。",
+  "ref_law": "刑訴法400条但書，刑訴法335条",
+  "lawsuit_id": "72409",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=72409",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/409/072409_hanrei.pdf"
+}

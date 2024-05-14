@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 4,
+    "day": 16
+  },
+  "case_number": "昭和27(あ)1327",
+  "case_name": "恐喝、窃盜、銃砲等所持禁止令違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第78号685頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 2,
+    "day": 6
+  },
+  "gist": "刑訴二二七条により証人訊問した裁判官による裁判と公平な裁判所の裁判",
+  "case_gist": "刑訴二二七条により証人尋問をした裁判官は事件の審判から除斥されるものでもなく、所論裁判官は本件訴訟手続において忌避の申立を受けた事実もないのであり、且つ所論証人尋問調書を証拠とすることには被告弁護人も同意しているのであるから、公平な裁判所でないとの所論は採るを得ない。",
+  "ref_law": "刑訴法227条，刑訴法20条，刑訴法21条，憲法37条1項",
+  "lawsuit_id": "69139",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=69139",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/139/069139_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 14,
+    "month": 10,
+    "day": 24
+  },
+  "case_number": "平成12(行ヒ)174",
+  "case_name": "裁決取消請求事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第56巻8号1903頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成11(行コ)205",
+  "original_date": {
+    "era": "Heisei",
+    "year": 12,
+    "month": 3,
+    "day": 23
+  },
+  "gist": "行政処分が通知ではなく告示をもって画一的に告知される場合における行政不服審査法１４条１項にいう「処分があったことを知った日」の意義",
+  "case_gist": "行政処分が個別の通知ではなく告示をもって多数の関係権利者等に画一的に告知される場合には，行政不服審査法１４条１項にいう「処分があったことを知った日」とは，告示があった日をいう。",
+  "ref_law": "行政不服審査法14条1項，都市計画法（平成11年法律第87号による改正前のもの）59条1項，都市計画法（平成11年法律第87号による改正前のもの）62条1項",
+  "lawsuit_id": "52309",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52309",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/309/052309_hanrei.pdf"
+}

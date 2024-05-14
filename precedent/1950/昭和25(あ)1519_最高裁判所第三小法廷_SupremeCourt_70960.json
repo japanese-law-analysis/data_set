@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 3,
+    "day": 4
+  },
+  "case_number": "昭和25(あ)1519",
+  "case_name": "物価統制令違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第62号1頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 4,
+    "day": 3
+  },
+  "gist": "物価統制令第一一条但書に当る例−炭鉱経営者がその労務者の加配米麦を購入する場合",
+  "case_gist": "炭鉱経営者が、その炭鉱に使用する労務者に加配米として支給するため、米麦を買い入れる行為は、物価統制令一一条但書にいう「当該契約ヲ為スコトガ自己ノ業務ニ属スル」場合に当ると解すべきであつて原判決になんら同条の解釈について誤りはない。（参照昭和二四年（れ）第一六八一号同二六年九月四日第三小法廷判決、集五巻一〇号一八三五頁）",
+  "ref_law": "物価統制令11条但書",
+  "lawsuit_id": "70960",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70960",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/960/070960_hanrei.pdf"
+}

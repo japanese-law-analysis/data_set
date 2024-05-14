@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 12,
+    "day": 20
+  },
+  "case_number": "昭和45(あ)1809",
+  "case_name": "業務上失火",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第25巻9号1086頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 8,
+    "day": 20
+  },
+  "gist": "デイーゼル・エンジン自動車の運転者の失火と業務上失火罪の成否",
+  "case_gist": "自動車に装置したデイーゼル・エンジンの排気管は、運転中著しく高温となり、これに可燃物が接触すると火災発生の危険があるのに、運転者が、排気管と接触するおそれのある状態で運転席の床にゴム板を装着し、また、運転中ゴム板の燻焦する臭気を感知したにもかかわらず、そのまま運転を継続したため、火災が発生した場合には、業務上失火罪が成立する。",
+  "ref_law": "刑法11条ノ2，刑法116条2項",
+  "lawsuit_id": "57021",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57021",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/021/057021_hanrei.pdf"
+}

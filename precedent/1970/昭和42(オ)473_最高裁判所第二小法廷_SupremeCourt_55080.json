@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 5,
+    "day": 22
+  },
+  "case_number": "昭和42(オ)473",
+  "case_name": "所有権移転登記抹消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第24巻5号402頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和37(ネ)989",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 1,
+    "day": 31
+  },
+  "gist": "旧民法九一五条四号にいう「後見人と被後見人トノ利益相反スル行為」にあたるとされた事例",
+  "case_gist": "後見人が未成年者を代理して後見人の内縁の夫に対し未成年者所有の土地を無償譲渡する行為は、旧民法九一五条四号にいう「後見人ト被後見人トノ利益相反スル行為」にあたる。",
+  "ref_law": "旧民法915条4号，民法851条4号，民法860条",
+  "lawsuit_id": "55080",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55080",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/080/055080_hanrei.pdf"
+}

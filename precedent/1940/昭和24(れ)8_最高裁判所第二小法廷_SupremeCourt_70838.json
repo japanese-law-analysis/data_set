@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 6,
+    "day": 4
+  },
+  "case_number": "昭和24(れ)8",
+  "case_name": "強盗傷人、強盗、窃盗",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第11号49頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 10,
+    "day": 30
+  },
+  "gist": "強盜共謀者の一人が加えた傷害と共犯者全員の強盜傷人の責任",
+  "case_gist": "刑法第二四〇條前段の強盜傷人罪はいわゆる結果犯であるから、強盜の共犯者の一部の者が暴行したため傷害の結果を發生せしめた場合は強盜を共謀した者の全員が強盜傷人罪の責任を免れないことは屡々當裁判所の判例とするところである。",
+  "ref_law": "刑法60條，刑法240條",
+  "lawsuit_id": "70838",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70838",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/838/070838_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 10,
+    "day": 20
+  },
+  "case_number": "昭和56(オ)25",
+  "case_name": "損害賠償、慰藉料",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第140号177頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和52(ネ)1684",
+  "original_date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 9,
+    "day": 26
+  },
+  "gist": "他人の名誉を毀損する事実を摘示した者が免責を受けるために真実性を立証すべき範囲",
+  "case_gist": "他人の名誉を毀損する事実を摘示した者は、その重要な部分について真実性を立証することによつて、免責を受けることができる。",
+  "ref_law": "民法710条",
+  "lawsuit_id": "74564",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74564",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/564/074564_hanrei.pdf"
+}

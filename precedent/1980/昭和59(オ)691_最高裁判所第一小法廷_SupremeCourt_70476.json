@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 11,
+    "day": 12
+  },
+  "case_number": "昭和59(オ)691",
+  "case_name": "土地建物所有権移転登記抹消登記手続等",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第152号177頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和57(ネ)622",
+  "original_date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 1,
+    "day": 30
+  },
+  "gist": "譲渡担保権者から譲渡担保権消滅後に目的不動産を譲り受けた者と民法一七七条の第三者",
+  "case_gist": "不動産が譲渡担保の目的とされ、設定者甲から譲渡担保権者乙への所有権移転登記が経由された場合において、被担保債務の弁済等により譲渡担保権が消滅した後に乙から目的不動産を譲り受けた丙は、民法一七七条にいう第三者に当たる。",
+  "ref_law": "民法177条，民法369条（譲渡担保）",
+  "lawsuit_id": "70476",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70476",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/476/070476_hanrei.pdf"
+}

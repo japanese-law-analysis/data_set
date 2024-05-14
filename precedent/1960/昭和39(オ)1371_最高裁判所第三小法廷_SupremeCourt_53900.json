@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 2,
+    "day": 27
+  },
+  "case_number": "昭和39(オ)1371",
+  "case_name": "建物収去土地明渡請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第22巻2号316頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和38(ネ)720",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 7,
+    "day": 31
+  },
+  "gist": "第三者に対する債務名義を騙取した場合と同人に対する債務名義の効力の有無",
+  "case_gist": "甲が乙と通謀のうえ、第三者丙に対する金銭債権に関する債務名義を騙取しようと企て、丙の住所を真実に反して乙方丙として、丙に対する支払命令および仮執行宣言の申立等の訴訟行為をし、裁判所が右申立に応じてした裁判の正本等の訴訟書類を乙において丙本人のように装つて受領し、その裁判を確定させた場合においては、当該債務名義の効力は、丙に対して及ばない。",
+  "ref_law": "民訴法201条，民訴法443条",
+  "lawsuit_id": "53900",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53900",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/900/053900_hanrei.pdf"
+}

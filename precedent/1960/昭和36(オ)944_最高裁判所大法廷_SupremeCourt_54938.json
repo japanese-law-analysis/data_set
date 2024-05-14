@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 11,
+    "day": 13
+  },
+  "case_number": "昭和36(オ)944",
+  "case_name": "所得審査決定取消請求",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第22巻12号2449頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和35(ネ)1072",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 4,
+    "day": 12
+  },
+  "gist": "いわゆる株主相互金融における「株主優待金」と損金算入の許否",
+  "case_gist": "いわゆる株主相互金融を営む会社において、融資を希望しない株主に対し「株主優待金」の支払をしても、法人税法上は、その支出を会社の損金に算入することは許されない。",
+  "ref_law": "旧法人税法（昭和22年法律第28号）9条1項",
+  "lawsuit_id": "54938",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54938",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/938/054938_hanrei.pdf"
+}

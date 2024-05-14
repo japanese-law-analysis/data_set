@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 10,
+    "day": 1
+  },
+  "case_number": "昭和44(あ)1916",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "その他",
+  "article_info": "集刑　第173号1頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 8,
+    "day": 12
+  },
+  "gist": "第二審判決言渡前に被告人が死亡していた事案について最高裁判所において公訴棄却決定がなされた事例",
+  "case_gist": "本件につき、昭和四四年八月一二日広島高裁が言い渡した判決に対し、検察官から上告の申立があつたところ、戸籍謄本によれば、被告人は同年七月三一日に死亡したことが明白であるから、刑訴法四一四条、四〇三条一項、四〇四条、三三九条一項四号に従い、公訴棄却の決定をなすべきものとする。（上告趣意書は提出させていない）",
+  "ref_law": "刑訴法414条，刑訴法403条1項，刑訴法404条，刑訴法339条1項4号",
+  "lawsuit_id": "59417",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59417",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/417/059417_hanrei.pdf"
+}

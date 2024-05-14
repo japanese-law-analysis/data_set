@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 10,
+    "day": 31
+  },
+  "case_number": "昭和53(し)57",
+  "case_name": "兇器準備集合被告事件についてした公訴棄却決定に対する即時抗告棄却決定に対する特別抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第32巻7号1793頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 6,
+    "day": 27
+  },
+  "gist": "公訴棄却の決定に対する被告人・弁護人の上訴権",
+  "case_gist": "公訴棄却の決定に対しては、被告人・弁護人からその違法・不当を主張して上訴することはできない。",
+  "ref_law": "刑訴法339条，刑訴法351条，刑訴法355条，刑訴法426条1項，憲法32条",
+  "lawsuit_id": "51164",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51164",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/164/051164_hanrei.pdf"
+}

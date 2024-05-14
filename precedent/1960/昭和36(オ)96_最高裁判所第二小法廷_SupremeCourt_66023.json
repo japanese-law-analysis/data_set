@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 5,
+    "day": 24
+  },
+  "case_number": "昭和36(オ)96",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第66号165頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 10,
+    "day": 14
+  },
+  "gist": "一　重傷後死亡した者の得べかりし利益の賠償請求権の相続\n二　相続人が被相続人の死亡のあとを受け継いで取締役社長に就任した場合の報酬受給と被相続人の死亡との相当因果関係",
+  "case_gist": "一　重傷後死亡した者の得べかりし利益の賠償請求権は、その相続人において承継取得する。\n二　甲の死後その相続人である乙において従来甲が取締役社長をしていた会社の社長に新たに就任し甲同様の社長報酬を受給するに至つても、右受給は甲の死亡と相当因果関係のある利益とはいえない。",
+  "ref_law": "民法709条，民法896条，民法722条",
+  "lawsuit_id": "66023",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66023",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/023/066023_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 6,
+    "day": 18
+  },
+  "case_number": "昭和34(あ)2182",
+  "case_name": "単純収賄",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第16巻7号1265頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 10,
+    "day": 27
+  },
+  "gist": "刑訴法四〇二条に違反しないとされた事例。",
+  "case_gist": "第一審が被告人を懲役一年（三年間執行猶予）に処するとともに、金五七七、八六六円六六銭を追徴する旨の判決を言い渡したのに対して、被告人から控訴の申立があつた場合、控訴審が右第一審判決を破棄し、被告人を懲役一〇月（三年間執行猶予）に処し、金六〇七、八六六円を追徴する旨の判決を言い渡したとしても、いまだ第一審判決を被告人の不利益に変更したものということはできない。",
+  "ref_law": "刑訴法402条",
+  "lawsuit_id": "50627",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50627",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/627/050627_hanrei.pdf"
+}

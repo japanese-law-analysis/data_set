@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 4,
+    "day": 8
+  },
+  "case_number": "昭和50(オ)932",
+  "case_name": "所有権保存登記抹消登記手続等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第117号359頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和49(ネ)562",
+  "original_date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 5,
+    "day": 28
+  },
+  "gist": "不動産登記法四八条に違反してされた登記の効力",
+  "case_gist": "先順位受附の登記申請人が、後順位受附の登記申請に基づき不動産登記法四八条に違反してされた登記につき、同条違反だけを理由にその抹消登記手続を求めることは許されない。",
+  "ref_law": "不動産登記法48条",
+  "lawsuit_id": "64111",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64111",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/111/064111_hanrei.pdf"
+}

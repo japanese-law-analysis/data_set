@@ -1,0 +1,18 @@
+{
+  "trial_type": "IPCase",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 9,
+    "day": 19
+  },
+  "case_number": "平成17(ワ)1599",
+  "case_name": "損害賠償請求事件",
+  "court_name": "東京地方裁判所",
+  "right_type": "特許権",
+  "lawsuit_type": "民事訴訟",
+  "lawsuit_id": "35166",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail7?id=35166",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/166/035166_hanrei.pdf",
+  "contents": "a\nb\na\nb a\nc\n561,281,422 344,851,306 0.4 0.3333 28,854,463.06\na\nb\na\nb a\nc\n1,609,596,612 946,120,889 0.4 0.3333 88,454,583.39\na\nb\na\nb a\nc\n2,752,659,942 1,703,621,238 0.4 0.3333 139,857,840.01\na\nb\nc\na\nd\na\nb\nb\nc\nb\na c\nc\nd\n1 1 4\na\nb\nc\na\nb\na\nb\nc\na\nb\nc\na\nb\nc c\nd\na\nb\nc\nd\na\nb\nc\na a\nb b\nc\nd\na a\nb b\nc c\nd d\na\nb\nc\na b c\na\nb\nC\nC\n28,854,463 0.40 0.3333 0.25 54,107,528.87\n88,454,583 0.40 0.3333 0.25 165,868,930.01\n139,857,840 0.40 0.3333 0.25 262,259,675.96\n54,107,528 0.05 2,705,376\n2,752,659,942 0.25 0.03 0.95 19,612,702\n2,705,376 19,612,702 22,318,078\n165,868,930 0.05 8,293,447\n8,293,447 19,612,702 27,906,149\n262,259,675 0.05 13,112,983\n13,112,983 19,612,702 32,725,68\n2,705,376 8,293,447 13,112,983 19,612,702 43,724,508\n2,752,659,942\n"
+}

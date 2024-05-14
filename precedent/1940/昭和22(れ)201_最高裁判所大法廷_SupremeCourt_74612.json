@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 3,
+    "day": 24
+  },
+  "case_number": "昭和22(れ)201",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第1号535頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 9,
+    "day": 23
+  },
+  "gist": "掏摸に對する實刑の言渡の合憲性",
+  "case_gist": "憲法第一三條は、個人の尊嚴と人格の尊重を宣告したものであるが、同條には「公共の福祉に反しない限り」との大きな枠をつけており、また他方において憲法第三一條においては、社曾秩序保持のため必要とされる國家の正當なる刑罰權の行使を是認しているのである。されば、被告人が現時國民に非常なる害惡を與え國民憎惡の的である掏摸を行つたことに對し、原審が諸般の事情を考慮して、實刑を科する判決を言渡したことは、事實審である原審の自由裁量權に屬することであつて、これをもつて憲法違反乃至違法であると言うことはできない。",
+  "ref_law": "憲法13條，憲法31條，刑法235條",
+  "lawsuit_id": "74612",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74612",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/612/074612_hanrei.pdf"
+}

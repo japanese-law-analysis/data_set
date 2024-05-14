@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 8,
+    "day": 31
+  },
+  "case_number": "昭和25(れ)827",
+  "case_name": "県会議員選挙罰則違反、町会議員選挙罰則違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第19号85頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 12,
+    "day": 26
+  },
+  "gist": "公判期日の指定又はその變更と公訴時効の中斷事由たる「公判の處分」",
+  "case_gist": "公判期日の指定又はその變更そのものも舊刑訴法第二八五條第一項にいわゆる公判の處分たること勿論であつて、既にそれらの處分のなされた以上、たとい、これが告知の手續がなされなかつたとしても、なお公訴の時効を中斷する効力を有するものと解すべきことは、當裁判所の判例とするところである（昭和二四年（れ）第三四號同年六月二五日第二小法廷判決及び同二五年（れ）第二一二號同年四月二五日第三小法廷判決參照）。",
+  "ref_law": "舊刑訴法320條1項，舊刑訴法285條1項",
+  "lawsuit_id": "68004",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=68004",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/004/068004_hanrei.pdf"
+}

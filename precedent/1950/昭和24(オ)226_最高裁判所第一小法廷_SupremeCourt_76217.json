@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 4,
+    "day": 2
+  },
+  "case_number": "昭和24(オ)226",
+  "case_name": "土地賃貸借契約確認",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第8号591頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 7,
+    "day": 7
+  },
+  "gist": "過去の法律関係の確認の訴の利益",
+  "case_gist": "上告人の本訴請求の要旨が農地の買収基準時たる昭和二〇年一一月二三日において本件農地につき上告人の賃借権が存在したことの確認を求めるにあつたこと、並びに即時確定の法律上の利益の一つとして被上告人等に対し債務不履行又は不法行為を理由として精神上若しくは物質上の損害賠償の請求を為すためであると主張したことは記録上明白であり、何等釈明を必要とすべき余地は存しない。そして過去の法律関係の存否が現在の法律関係の存否に影響を及ぼす場合にあつては、直ちにその現在の法律関係そのものの存否につき確認の訴を提起すべきであり、その前提たるに過ぎない過去の法律関係の存否につき確認の訴を許容すべきではない。されば、原判決には所論のような審理不尽の違法は認められない。",
+  "lawsuit_id": "76217",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=76217",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/217/076217_hanrei.pdf"
+}

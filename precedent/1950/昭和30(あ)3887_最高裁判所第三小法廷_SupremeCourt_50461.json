@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 3,
+    "day": 11
+  },
+  "case_number": "昭和30(あ)3887",
+  "case_name": "食糧管理法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第12巻3号471頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 11,
+    "day": 22
+  },
+  "gist": "食糧管理法施行令第五条の五と同令第八条、同法施行規則第三九条との関係",
+  "case_gist": "米穀の生産者に対しその生産した米穀を政府以外の者に売り渡すことを禁止した食糧管理法施行令第五条の五の罪が成立するときは、同条のほかさらに主要食糧の所有者に対する譲渡制限を規定した同法施行令第八条の罪もしくは何人も米穀を政府以外の者に譲り渡してはならない旨規定した同法施行規則第三九条の罪は成立しないものと解すべきである。",
+  "ref_law": "食糧管理法9条，食糧管理法31条，食糧管理法施行令5条の5，食糧管理法施行令8条，食糧管理法施行規則39条",
+  "lawsuit_id": "50461",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50461",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/461/050461_hanrei.pdf"
+}

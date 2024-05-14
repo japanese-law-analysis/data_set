@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 4,
+    "day": 17
+  },
+  "case_number": "昭和37(オ)1157",
+  "case_name": "土地明渡等本訴並びに反訴請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第18巻4号529頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 6,
+    "day": 30
+  },
+  "gist": "代位権の代位行使の許可。",
+  "case_gist": "債権者は、債務者に代位してその債務者に属する代位権を行使することができる。",
+  "ref_law": "民法423条",
+  "lawsuit_id": "53087",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53087",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/087/053087_hanrei.pdf"
+}

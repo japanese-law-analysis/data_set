@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 6,
+    "month": 10,
+    "day": 13
+  },
+  "case_number": "平成3(オ)424",
+  "case_name": "遺言無効確認等",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集民　第173号149頁",
+  "original_court_name": "高松高等裁判所",
+  "original_case_number": "昭和63(ネ)12",
+  "original_date": {
+    "era": "Heisei",
+    "year": 2,
+    "month": 12,
+    "day": 26
+  },
+  "gist": "相続財産分与の審判前に特別縁故者に当たると主張する者が提起した遺言無効確認の訴えと訴えの利益の有無",
+  "case_gist": "民法九五八条の三第一項の規定による相続財産の分与の審判前に特別縁故者に当たると主張する者が提起した遺言無効確認の訴えは、訴えの利益を欠く。",
+  "ref_law": "民法958条の3第1項，民訴法225条",
+  "lawsuit_id": "62696",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62696",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/696/062696_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 11,
+    "day": 28
+  },
+  "case_number": "昭和43(オ)199",
+  "case_name": "建物収去、土地明渡、家屋明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第22巻12号2833頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和40(ネ)642",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 10,
+    "day": 17
+  },
+  "gist": "特約に基づき賃借権設定登記をする義務と賃料支払義務との同時履行の成否",
+  "case_gist": "不動産の賃貸人が特約に基づき賃借権設定登記をする義務を負つていても、右義務と賃借人の賃料支払義務とを同時履行の関係にたたせる旨の特約がなく、かつ、登記がないため契約の目的を達することができないという特段の事情もない場合には、賃借人は、右登記義務の履行がないことを理由として賃料の支払を拒むことができない。",
+  "ref_law": "民法533条，民法605条",
+  "lawsuit_id": "55099",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55099",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/099/055099_hanrei.pdf"
+}

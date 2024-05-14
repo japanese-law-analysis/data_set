@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 12,
+    "day": 11
+  },
+  "case_number": "平成20(ネ)920",
+  "case_name": "土地建物明渡請求控訴事件",
+  "court_name": "名古屋高等裁判所民事第４部",
+  "result": "却下",
+  "original_court_name": "津地方裁判所\n        　伊勢支部",
+  "original_case_number": "平成20(ワ)112",
+  "original_result": "その他",
+  "gist": "調書判決における請求の記載内容が違法でないとされた事例",
+  "lawsuit_id": "37614",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=37614",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/614/037614_hanrei.pdf",
+  "contents": ""
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 5,
+    "day": 26
+  },
+  "case_number": "昭和49(行ツ)92",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第32巻3号689頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "昭和47(行コ)3",
+  "original_date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 7,
+    "day": 8
+  },
+  "gist": "個室付浴場業の開業を阻止することを主たる目的としてされた知事の児童遊園設置認可処分が行政権の著しい濫用によるものとして国家賠償法一条一項にいう公権力の違法な行使にあたるとされた事例",
+  "case_gist": "個室付浴場業の開業を阻止することを主たる目的として原判示の事実関係（原判決理由参照）のもとにおいてされた知事の児童遊園設置認可処分は、たとえ右児童遊園がその設置基準に適合しているものであるとしても、行政権の著しい濫用によるものとして、国家賠償法一条一項にいう公権力の違法な行使にあたる。",
+  "ref_law": "国家賠償法1条1項，児童福祉法35条3項，風俗営業等取締法4条の4",
+  "lawsuit_id": "53236",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53236",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/236/053236_hanrei.pdf"
+}

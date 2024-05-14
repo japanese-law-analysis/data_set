@@ -1,0 +1,22 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 10,
+    "day": 27
+  },
+  "case_number": "昭和37(オ)212",
+  "case_name": "取立金請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第18巻8号1801頁",
+  "original_court_name": "福岡高等裁判所",
+  "gist": "受働債権につき取立命令がなされた場合と相殺の意思表示の相手方。",
+  "case_gist": "債権の差押債権者が差押債権の取立命令をえた場合に、第三債務者は、差押前に債務者に対し取得した反対債権をもつて差し押えられた債権と相殺するには、右取立命令をえた差押債権者に対しても相殺の意思表示をすることができる。",
+  "ref_law": "民法511条，民訴法600条",
+  "lawsuit_id": "53796",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53796",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/796/053796_hanrei.pdf"
+}

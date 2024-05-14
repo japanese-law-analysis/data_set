@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 11,
+    "day": 6
+  },
+  "case_number": "昭和40(オ)834",
+  "case_name": "土地所有権確認等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第24巻12号1744頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和37(ネ)91",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 4,
+    "day": 14
+  },
+  "gist": "株式会社の取締役に対する職務執行停止代行者選任の仮処分後右取締役が辞任し後任の取締役が選任された場合における代表取締役の選任および右代表取締役の権限の行使",
+  "case_gist": "株式会社の取締役全員の職務の執行を停止しその代行者を選任する仮処分の裁判があつたのち、右取締役全員が辞任し、後任の取締役が選任された場合において、代表取締役が欠けているときは、右後任取締役が構成する取締役会の決議をもつて代表取締役を定めることができるが、右代表取締役は、仮処分の存続中は、その権限を行使することができない。",
+  "ref_law": "商法261条，商法270条，民訴法760条",
+  "lawsuit_id": "53157",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53157",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/157/053157_hanrei.pdf"
+}

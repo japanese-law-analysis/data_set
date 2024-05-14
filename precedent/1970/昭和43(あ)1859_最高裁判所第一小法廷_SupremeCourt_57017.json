@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 12,
+    "day": 2
+  },
+  "case_number": "昭和43(あ)1859",
+  "case_name": "収賄、公職選挙法違反、贈賄、宅地建物取引業法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第25巻9号1041頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 6,
+    "day": 12
+  },
+  "gist": "刑法一九七条一項の罪と公職選挙法二〇〇条二項、二四九条の罪とが一所為数法の関係にあるとされた事例",
+  "case_gist": "地方公共団体の議会の議員が、公職選挙法一九九条三項に規定する会社から、その職務に関し賄賂を収受する趣旨および同議会議員の選挙に関し寄附を受ける趣旨で、現金の供与を受けた場合には、刑法一九七条一項の罪および公職選挙法二〇〇条二項、二四九条の罪が成立し、両者は一所為数法の関係にある。",
+  "ref_law": "刑法197条1項，刑法54条1項，公職選挙法199条3項，公職選挙法200条2項，公職選挙法249条",
+  "lawsuit_id": "57017",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57017",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/017/057017_hanrei.pdf"
+}

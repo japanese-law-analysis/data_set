@@ -1,0 +1,20 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 3,
+    "day": 9
+  },
+  "case_number": "平成21(う)25",
+  "case_name": "殺人",
+  "court_name": "福岡高等裁判所那覇支部",
+  "result": "破棄自判",
+  "original_court_name": "那覇地方裁判所",
+  "original_case_number": "平成19(わ)530",
+  "gist": "被告人の責任能力が争われた事案において，原審で行われた精神鑑定は疑問があるため依拠することができず，被告人の事理弁識能力又は行動制御能力は，持続性妄想性障害により著しく減退していた疑いがあるとして，上記鑑定に依拠して完全責任能力を認めた原判決を破棄し，心神耗弱による減軽をした上で被告人を懲役８年に処した事例",
+  "lawsuit_id": "80035",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=80035",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/035/080035_hanrei.pdf",
+  "contents": ""
+}

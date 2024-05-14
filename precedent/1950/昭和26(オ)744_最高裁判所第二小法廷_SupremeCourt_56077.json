@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 4,
+    "day": 2
+  },
+  "case_number": "昭和26(オ)744",
+  "case_name": "詐害行為取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第8巻4号745頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 10,
+    "day": 23
+  },
+  "gist": "一　取立委任をしていた債権を譲渡した場合の詐害行為取消請求の範囲\n二　詐害行為取消の場合の利得返還の限度",
+  "case_gist": "一　債務弁済の手段として、始め債権の取立を委任し、その後その債権を譲渡した場合、債権譲渡のみを切り離して詐害行為として取消すことができる。\n二　債権譲渡が詐害行為として取り消された場合、受益者が、その債権を行使して得た弁済金はすべて返還することを要し、そのうちから取立費用を差引くことは許されない。",
+  "ref_law": "民法424条",
+  "lawsuit_id": "56077",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56077",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/077/056077_hanrei.pdf"
+}

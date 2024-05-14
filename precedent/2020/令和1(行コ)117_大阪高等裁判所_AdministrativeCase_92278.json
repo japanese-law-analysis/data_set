@@ -1,0 +1,16 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Reiwa",
+    "year": 2,
+    "month": 1,
+    "day": 23
+  },
+  "case_number": "令和1(行コ)117",
+  "case_name": "土地の使用許可申請不許可処分取消等請求控訴事件",
+  "court_name": "大阪高等裁判所",
+  "field": "行政",
+  "lawsuit_id": "92278",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=92278",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/278/092278_hanrei.pdf"
+}

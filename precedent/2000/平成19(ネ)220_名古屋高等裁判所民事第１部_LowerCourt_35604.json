@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 9,
+    "day": 27
+  },
+  "case_number": "平成19(ネ)220",
+  "case_name": "損害賠償請求控訴事件",
+  "court_name": "名古屋高等裁判所民事第１部",
+  "result": "その他",
+  "original_court_name": "名古屋地方裁判所",
+  "original_case_number": "平成18(ワ)2187",
+  "original_result": "その他",
+  "gist": "大手英会話学校が受講生の所属する校舎を廃止して近隣校に移転統合を行ったことが外国語会話レッスン受講契約の債務不履行とされた事例\n外国語会話レッスンの提供を受けることができなくなり，消化できなくなったレッスンポイントに相当する額が債務不履行に基づく損害賠償額とされた事例",
+  "lawsuit_id": "35604",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=35604",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/604/035604_hanrei.pdf",
+  "contents": ""
+}

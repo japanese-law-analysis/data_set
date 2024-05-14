@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 9,
+    "day": 7
+  },
+  "case_number": "昭和37(オ)274",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集民　第80号141頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和36(ネ)459",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 12,
+    "day": 25
+  },
+  "gist": "自動車の無断運転に関し、客観的外形的に自動車所有者のためにする運行と認められるか否かにつき審理不尽があるとされた事例",
+  "case_gist": "原判決は、昭和三八年（オ）第九〇三号昭和三九年二月一一日第三小法廷判決（民集一八巻二号三一五頁以下）が示した自動車損害賠償保障法第三条の「自己のために自動車を運行の用に供する者」の基準につき、必要十分な審理を尽していない。",
+  "ref_law": "自動車損害賠償保障法3条，民法715条",
+  "lawsuit_id": "66089",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66089",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/089/066089_hanrei.pdf"
+}

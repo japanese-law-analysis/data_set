@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 1,
+    "day": 19
+  },
+  "case_number": "昭和55(オ)401",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第36巻1号19頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和53(ネ)1920",
+  "original_date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 1,
+    "day": 30
+  },
+  "gist": "警察官がナイフの所持者からこれを提出させて一時保管の措置をとらなかつたことが違法とされた事例",
+  "case_gist": "酒に酔つて飲食店でナイフを振い客を脅したとして警察署に連れてこられた者の引渡を受けた警察官が、右の者の飲食店における行動などについて所要の調査をすれば容易に判明しえた事実から合理的に判断すると、その者に右ナイフを携帯させたまま帰宅することを許せば帰宅途中他人の生命又は身体に危害を及ぼすおそれが著しい状況にあつたというべきであるような判示の事実関係のもとにおいて、右の調査を怠り、漫然と右の者から右のナイフを提出させて一時保管の措置をとることなくこれを携帯させたまま帰宅させたことは、違法である。",
+  "ref_law": "国家賠償法1条1項，銃砲刀剣類所持等取締法24条の2第2項",
+  "lawsuit_id": "54257",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54257",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/257/054257_hanrei.pdf"
+}

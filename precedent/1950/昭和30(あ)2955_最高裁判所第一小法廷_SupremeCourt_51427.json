@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 12,
+    "day": 13
+  },
+  "case_number": "昭和30(あ)2955",
+  "case_name": "賍物故買",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第10巻12号1633頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 8,
+    "day": 30
+  },
+  "gist": "訴訟費用の裁判に対する不服申立",
+  "case_gist": "上訴審において訴訟費用の裁判を是正すべき場合は単に本案の裁判に対し上訴の申立があつただけでは足らずその上訴が適法であり且つ理由があり、本案についても下級審の判決が取消される場合にかぎるものと解すべきである。",
+  "ref_law": "刑訴法185条",
+  "lawsuit_id": "51427",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51427",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/427/051427_hanrei.pdf"
+}

@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 31,
+    "month": 2,
+    "day": 6
+  },
+  "case_number": "平成29(行コ)254",
+  "case_name": "要指導医薬品指定差止請求控訴事件",
+  "court_name": "東京高等裁判所",
+  "result": "棄却",
+  "original_court_name": "東京地方裁判所",
+  "original_case_number": "平成26(行ウ)29",
+  "lawsuit_id": "88473",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=88473",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/473/088473_hanrei.pdf"
+}

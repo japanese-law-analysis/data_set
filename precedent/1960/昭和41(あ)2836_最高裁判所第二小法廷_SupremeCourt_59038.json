@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 3,
+    "day": 10
+  },
+  "case_number": "昭和41(あ)2836",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第162号845頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 11,
+    "day": 19
+  },
+  "gist": "戸別訪問の禁止および処罰は憲法第二一条に違反するか",
+  "case_gist": "公職選挙法第一三八条、第二三九条第三号による戸別訪問の禁止および処罰が憲法第二一条に違反しないことは当裁判所大法廷の判例（昭和二四年（れ）第二五九一号同二五年九月二七日判決）の趣旨とするところである。",
+  "ref_law": "憲法21条，公職選挙法138条，公職選挙法239条3号",
+  "lawsuit_id": "59038",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59038",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/038/059038_hanrei.pdf"
+}

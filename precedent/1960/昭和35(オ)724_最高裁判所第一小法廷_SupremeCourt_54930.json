@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 9,
+    "day": 19
+  },
+  "case_number": "昭和35(オ)724",
+  "case_name": "請求異議",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第17巻8号981頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 3,
+    "day": 30
+  },
+  "gist": "不足の弁済供託金を債権の一部弁済として受領する旨あらかじめ留保して還付を受けた場合の効力。",
+  "case_gist": "債権全額に対する弁済として債務者のなした供託金額が債権額に足りない場合において、債権者が債務者に対して右供託金を債権の一部に充当する旨通知し、かつ、供託所に対して右留保の意思を明らかにして還付を受けたときは、右供託金は債権の一部の弁済に充当されたものと解すべきである。",
+  "ref_law": "民法494条",
+  "lawsuit_id": "54930",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54930",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/930/054930_hanrei.pdf"
+}

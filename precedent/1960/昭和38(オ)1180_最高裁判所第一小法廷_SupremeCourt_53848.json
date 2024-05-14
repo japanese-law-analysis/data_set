@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 1,
+    "day": 13
+  },
+  "case_number": "昭和38(オ)1180",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第20巻1号1頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和36(ネ)683",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 6,
+    "day": 12
+  },
+  "gist": "登記権利者の関与なくしてなされた不動産所有権取得登記の効力。",
+  "case_gist": "不動産の贈与を予定し、受贈者たるべき者の関与なくして右不動産について同人名義の所有権取得登記手続がなされた場合でも、後日右不動産の贈与が行われたときは、受贈者は、右不動産所有権の取得をもつて第三者に対抗することができる。",
+  "ref_law": "民法177条，不動産登記法26条",
+  "lawsuit_id": "53848",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53848",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/848/053848_hanrei.pdf"
+}

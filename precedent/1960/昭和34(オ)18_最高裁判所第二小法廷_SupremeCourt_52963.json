@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 6,
+    "day": 8
+  },
+  "case_number": "昭和34(オ)18",
+  "case_name": "登記無効確認等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第16巻7号1283頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 10,
+    "day": 16
+  },
+  "gist": "処分禁止の仮処分命令の効力。",
+  "case_gist": "仮処分命令により売買その他の処分行為を禁止された不動産の所有者は、絶対にその物件の処分権を失うものではなく、仮処分債権者に対する関係においてこれを処分することができないにすぎない。",
+  "ref_law": "民訴法755条",
+  "lawsuit_id": "52963",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52963",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/963/052963_hanrei.pdf"
+}

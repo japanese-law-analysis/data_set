@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 5,
+    "day": 2
+  },
+  "case_number": "昭和44(行ツ)12",
+  "case_name": "裁決並に更正処分取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第95号305頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和43(行コ)34",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 12,
+    "day": 10
+  },
+  "gist": "国税通則法七六条三項にいう「やむを得ない理由」にあたらないとされた事例",
+  "case_gist": "外国会社に対する法人税の更正処分がなされた場合において、その通知書が年末休暇に入つた一二月二七日に到達したため、会社責任者が翌年一月六日までこれを知らず、また、和文と欧文との間の二重の翻訳のため時間を要した等、原判示のような事情（原判決引用の第一審判決理由参照）があつたため、右処分に対する審査請求の期間を数日徒過したものであるとしても、右の事情は、国税通則法七九条五項により準用される七六条三項所定の「やむを得ない理由」にあたるとはいえない。",
+  "ref_law": "国税通則法79条5項，国税通則法76条3項",
+  "lawsuit_id": "66753",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66753",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/753/066753_hanrei.pdf"
+}

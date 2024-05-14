@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 3,
+    "day": 8
+  },
+  "case_number": "昭和52(あ)1215",
+  "case_name": "道路交通法違反幇助",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第32巻2号268頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 6,
+    "day": 15
+  },
+  "gist": "不正手段で入手された国際運転免許証と無免許運転罪",
+  "case_gist": "自動車運転者の所持する国際運転免許証が不正手段で入手されたものであるからといつて、直ちに無免許運転罪の成立を認めることはできないが、適性を有することを実証した上で発給を受けたものでない場合には、無免許運転罪の成立が認められる。",
+  "ref_law": "道路交通法64条，道路交通法107条の2，道路交通法118条1項1号，道路交通に関する条約（昭和39年条約17号）24条",
+  "lawsuit_id": "51129",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51129",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/129/051129_hanrei.pdf"
+}

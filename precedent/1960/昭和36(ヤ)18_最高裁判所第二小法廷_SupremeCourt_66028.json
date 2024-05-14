@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 11,
+    "day": 17
+  },
+  "case_number": "昭和36(ヤ)18",
+  "case_name": "署名の効力に関する異議申立に対する決定取消請求（再審）",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "却下",
+  "article_info": "集民　第56号159頁",
+  "original_court_name": "最高裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 3,
+    "day": 30
+  },
+  "lawsuit_id": "66028",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66028",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/028/066028_hanrei.pdf"
+}

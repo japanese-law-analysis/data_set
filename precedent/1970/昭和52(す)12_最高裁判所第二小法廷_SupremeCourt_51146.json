@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 4,
+    "day": 4
+  },
+  "case_number": "昭和52(す)12",
+  "case_name": "最高裁判所のした保釈保証金没取決定に対する異議申立",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第31巻3号163頁",
+  "original_court_name": "最高裁判所",
+  "original_case_number": "昭和46(あ)2304",
+  "original_date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 12,
+    "day": 6
+  },
+  "gist": "最高裁判所のした保釈保証金没取決定に対する異議申立権の有無",
+  "case_gist": "最高裁判所のした保釈保証金没取決定に対しては刑訴法四二八条の準用により異議の申立をすることができる。",
+  "ref_law": "憲法29条，憲法31条，刑訴法96条，刑訴法428条",
+  "lawsuit_id": "51146",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51146",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/146/051146_hanrei.pdf"
+}

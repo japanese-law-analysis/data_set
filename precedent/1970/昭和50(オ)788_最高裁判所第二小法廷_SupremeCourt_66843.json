@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 11,
+    "day": 21
+  },
+  "case_number": "昭和50(オ)788",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第116号509頁",
+  "original_court_name": "高松高等裁判所",
+  "original_case_number": "昭和48(ネ)158",
+  "original_date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 5,
+    "day": 29
+  },
+  "gist": "鉱業権設定後国が鉱区内に公の営造物である水路用隧道を設置したことが違法な権利侵害にあたらないとされた事例",
+  "case_gist": "国が公の営造物である水路用隧道施設設置の計画を立てたうえ、土地所有者との間に締結した土地使用貸借契約によつて取得した土地使用権原に基づいて隧道の掘削を開始したのが鉱業権設定の許可がされる以前であるなど、判示のような事実関係のもとにおいては、鉱区内に隧道施設が設置された結果、右鉱業権の行使に鉱業法六四条所定の掘削制限を課せられても、国が違法に権利を侵害したことにはならない。",
+  "ref_law": "民法709条，国家賠償法1条1項，鉱業法64条",
+  "lawsuit_id": "66843",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66843",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/843/066843_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 17,
+    "month": 11,
+    "day": 25
+  },
+  "case_number": "平成16(あ)2571",
+  "case_name": "ストーカー行為等の規制等に関する法律違反被告事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第59巻9号1819頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成16(う)2000",
+  "original_date": {
+    "era": "Heisei",
+    "year": 16,
+    "month": 10,
+    "day": 20
+  },
+  "gist": "ストーカー行為等の規制等に関する法律２条２項にいう「つきまとい等を反復してすること」の意義",
+  "case_gist": "ストーカー行為等の規制等に関する法律２条２項の「ストーカー行為」とは，同条１項１号から８号までに掲げる「つきまとい等」のうち，いずれかの行為をすることを反復する行為をいい，特定の行為あるいは特定の号に掲げられた行為を反復する場合に限るものではない。",
+  "ref_law": "ストーカー行為等の規制等に関する法律2条",
+  "lawsuit_id": "50083",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50083",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/083/050083_hanrei.pdf"
+}

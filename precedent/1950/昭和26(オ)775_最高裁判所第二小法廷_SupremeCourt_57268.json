@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 6,
+    "day": 25
+  },
+  "case_number": "昭和26(オ)775",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第8巻6号1224頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 7,
+    "day": 27
+  },
+  "gist": "修繕は賃借人においてなす旨の契約の趣旨",
+  "case_gist": "映画館用建物及びその附属設備の賃貸借における「雨漏等の修繕は賃貸人においてこれをなすも、営業上必要なる修繕は賃借人においてこれをなすものとする」との契約条項は、単に賃貸人の修繕義務の限界を定めただけでなく、賃借人にその営業上必要な範囲の修繕の義務を負担させた趣旨と解し得られないことはない。",
+  "ref_law": "民法606条",
+  "lawsuit_id": "57268",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57268",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/268/057268_hanrei.pdf"
+}

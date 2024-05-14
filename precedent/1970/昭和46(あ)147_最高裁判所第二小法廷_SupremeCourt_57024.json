@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 12,
+    "day": 17
+  },
+  "case_number": "昭和46(あ)147",
+  "case_name": "薬事法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第25巻9号1066頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 12,
+    "day": 21
+  },
+  "gist": "一　薬事法二条一項にいう医薬品にあたるとされた事例\n二　同法一二条一項にいう業としての医薬品の製造の意義",
+  "case_gist": "一　本件の牛胆、平胆およびエキス（判文参照）は、薬事法二条一項二号にいう人の疾病の治療または予防に使用されることが目的とされている物にあたる。\n二　同法一二条一項にいう業としての医薬品の製造とは、一般の需要に応ずるため、反覆継続して、医薬品の原料を変形または精製し、もしくは既製の医薬品を配合する等の方法により医薬品を製出することをいい、必ずしも化学的変化を伴うことを要しない。",
+  "ref_law": "薬事法2条1項，薬事法12条1項，薬事法84条",
+  "lawsuit_id": "57024",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57024",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/024/057024_hanrei.pdf"
+}

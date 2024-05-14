@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 11,
+    "day": 1
+  },
+  "case_number": "平成13(ワ)2820",
+  "case_name": "損害賠償請求事件",
+  "court_name": "京都地方裁判所第６民事部",
+  "gist": "看護師が，患者の使用する人工呼吸器の加湿に用いるため本来は滅菌精製水を用意すべきであったのに，滅菌精製水タンクと容器が類似している消毒用エタノータンクを病室に持ち込み，その後同患者を担当した看護師らもその取り違えに気付かずに約５３時間にわたり消毒用エタノールを患者に吸引させ，アルコール中毒によって死亡させた医療事故について，同看護師ら及びその使用者である被告大学の責任が認められた事例。\n　被告医師らをはじめとする被告病院による組織ぐるみの事故隠蔽行為があったという原告らの主張が認められなかった事例。",
+  "lawsuit_id": "33797",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=33797",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/797/033797_hanrei.pdf",
+  "contents": ""
+}

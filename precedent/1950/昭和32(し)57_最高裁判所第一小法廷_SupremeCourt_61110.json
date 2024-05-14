@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 12,
+    "day": 23
+  },
+  "case_number": "昭和32(し)57",
+  "case_name": "付審判請求事件に対する抗告棄却決定に対する特別抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第122号807頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 10,
+    "day": 22
+  },
+  "gist": "付審判請求棄却決定に対する抗告棄却決定と憲法第八二条にいう「裁判の対審」",
+  "case_gist": "所論は憲法八二条違反をいうけれども、本件における決定（付審判請求棄却決定に対する抗告を棄却する決定）の如きは同条にいわゆる「裁判の対審」に当らないことは当裁判所の判例（昭和二三年（つ）第二五号、同年一一月八日大法廷決定、集二巻一二号一四九八頁参照）の趣旨に徴し明らかであるから右違憲の主張はその前提を欠くものである。",
+  "ref_law": "憲法82条，刑訴法262条，刑訴法266条，刑訴法419条，刑訴法426条，刑訴法433条",
+  "lawsuit_id": "61110",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61110",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/110/061110_hanrei.pdf"
+}

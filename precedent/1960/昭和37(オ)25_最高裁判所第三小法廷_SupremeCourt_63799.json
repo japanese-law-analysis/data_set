@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 9,
+    "day": 18
+  },
+  "case_number": "昭和37(オ)25",
+  "case_name": "行政処分取消請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第62号529頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 10,
+    "day": 25
+  },
+  "gist": "判断遺脱の有無。",
+  "case_gist": "判決に当事者の主張の採用すべきものであるか否かに関する裁判所の意見がその理由とともに表明されている以上、それが正当であると否とに拘りなく、民訴法第四二〇条第一項九号所定の判断遺脱があるとはいえない。",
+  "ref_law": "民訴法191条，民訴法420条1項9号",
+  "lawsuit_id": "63799",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63799",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/799/063799_hanrei.pdf"
+}

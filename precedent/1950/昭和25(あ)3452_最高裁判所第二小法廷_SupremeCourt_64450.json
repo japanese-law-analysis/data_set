@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 12,
+    "day": 19
+  },
+  "case_number": "昭和25(あ)3452",
+  "case_name": "詐欺",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第71号91頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 10,
+    "day": 25
+  },
+  "gist": "証人尋問の決定を施行したものと認められる一事例",
+  "case_gist": "第一審第六回公判において、本件と、第五回公判において被告人不出頭のため分離した相被告人Ａに対する事件とを併合の上裁判官が同第五回公判調書中の前記証人の供述記載部分を被告人に読聞けたのに対し、弁護人は同証人の供述内容に基ずいて被告人に対し質問を行つているのであるから、同証人の尋問請求者たる弁護人としては該証人に対する取調請求の目的を達したものともいうべく、かような場合には証拠調の決定を取消すことなく且つ被告人のため更に再びその取調をしなかつたからといつて証拠調決定を施行しない違法があるとはいえない。（昭和二三年（れ）第一一七八号同年一二月二四日第三小法廷判決参照）",
+  "ref_law": "刑訴法304条，刑訴規則190条，刑訴規則203条",
+  "lawsuit_id": "64450",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64450",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/450/064450_hanrei.pdf"
+}

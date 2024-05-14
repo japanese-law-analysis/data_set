@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 7,
+    "day": 30
+  },
+  "case_number": "昭和38(オ)18",
+  "case_name": "請求異議",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第67号207頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 10,
+    "day": 1
+  },
+  "gist": "無権代理人の嘱託に基づく公正証書と請求異議の訴。",
+  "case_gist": "公正証書が無権代理人の嘱託に基づいて作成されたため無効である場合にも請求異議の訴を提起することができる（昭和三二年六月六日第一小法廷判決、民集一一巻七号一一七七頁参照）",
+  "ref_law": "民訴法545条",
+  "lawsuit_id": "70147",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70147",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/147/070147_hanrei.pdf"
+}

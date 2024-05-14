@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 8,
+    "day": 17
+  },
+  "case_number": "昭和24(れ)3062",
+  "case_name": "食糧管理法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集刑　第51号973頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 10,
+    "day": 21
+  },
+  "gist": "米麦の実収高を超える供出割当数量と供出違反罪の成否",
+  "case_gist": "食糧管理法第三条第一項違反の罪は米麦等の生産者がその生産した米麦等で命令により定められたものを所定の時期までに供出しないことによつて成立するのであるが、右命令による供出割当量がその年度の実収高以上であつた場合には、実収高を超える部分については同罪の成立が阻却されると解すべきことはは当裁判所の判例とするところである（昭和二三年（れ）第一七二四号昭和二六年七月一八日大法廷判決参照）。",
+  "ref_law": "食糧管理法（昭和22年法律247号による改正前のもの）3条，食糧管理法（昭和22年法律247号による改正前のもの）32条",
+  "lawsuit_id": "66983",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66983",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/983/066983_hanrei.pdf"
+}

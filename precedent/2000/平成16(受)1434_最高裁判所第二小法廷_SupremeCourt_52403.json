@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 17,
+    "month": 11,
+    "day": 21
+  },
+  "case_number": "平成16(受)1434",
+  "case_name": "損害賠償請求事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第59巻9号2558頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成15(ネ)4064",
+  "original_date": {
+    "era": "Heisei",
+    "year": 16,
+    "month": 5,
+    "day": 27
+  },
+  "gist": "船舶の衝突によって生じた損害賠償請求権の消滅時効の起算点",
+  "case_gist": "船舶の衝突によって生じた損害賠償請求権の消滅時効は，民法７２４条により，被害者が損害及び加害者を知った時から進行する",
+  "ref_law": "民法166条1項，民法724条，商法798条1項",
+  "lawsuit_id": "52403",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52403",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/403/052403_hanrei.pdf"
+}

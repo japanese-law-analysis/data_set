@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 8,
+    "day": 9
+  },
+  "case_number": "昭和25(あ)2884",
+  "case_name": "詐欺",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第51号793頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 9,
+    "day": 30
+  },
+  "gist": "一　事実認定を異にする判例を援用してした判例違反の主張の適否\n二　判決書に裁判所の「部名」を表示することの要否",
+  "case_gist": "一　第一審判決は、被害者Ａが、被告人は検事であるから代金は支払つてくれるものと誤信した結果、金約五百円に相当する酒食を被告人に提供した事実を認定し、原判決もこの事実認定を肯定しているのである。しかるに所論援用の当裁判所判例では、被害者は畏怖の結果として財物の交付をするに至つた場合なのであるから、本件とは事例を異にし、従つて、原判決は何等右判例と相反する判断を示しているものではない。\n二　判決書には裁判所名を示すを以て足り部名を表示することは、刑訴法上要請されていない。",
+  "ref_law": "刑訴法405条2号，刑訴法405条3号，刑訴法44条，刑法246条，刑法249条，刑訴規則55条，刑訴規則58条",
+  "lawsuit_id": "67440",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=67440",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/440/067440_hanrei.pdf"
+}

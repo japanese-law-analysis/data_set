@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 6,
+    "day": 4
+  },
+  "case_number": "平成20(少コ)438",
+  "case_name": "敷金等返還請求事件（通常訴訟手続に移行）",
+  "court_name": "名古屋簡易裁判所",
+  "gist": "敷金は全額償却するとの約定の下に敷金が差し入れられていた建物賃貸借契約が建物入居前に賃借人により解約された場合において，敷金は，賃借人に未払家賃，修繕費等の債務がない場合，賃貸人が賃借人に対して返還する義務を負うものであって，敷金を全額償却する旨の定めは，他に合理的な理由がない限り，消費者契約法１０条により無効になると解し，敷金全額を返還すべきものとした事例",
+  "lawsuit_id": "38035",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=38035",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/035/038035_hanrei.pdf",
+  "contents": ""
+}

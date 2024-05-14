@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 4,
+    "day": 26
+  },
+  "case_number": "昭和26(れ)159",
+  "case_name": "臨時物資需給調整法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第5巻5号939頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 5,
+    "day": 31
+  },
+  "gist": "相被告人から上告趣意が提出されたら有利に援用するとの上申と上告理由",
+  "case_gist": "所論は上告適法の理由とは認められない。ことに相被告人より上告趣意書が提出されますればこれを有利に援用するとの上申書はその内容が未必的で不明確でこれに対し当審で判断を与えることができないから、適法な上告理由に当らないこと明らかであつて、援用できない。",
+  "ref_law": "旧刑訴法423条，旧刑訴法434条，旧刑訴法409条",
+  "lawsuit_id": "55636",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55636",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/636/055636_hanrei.pdf"
+}

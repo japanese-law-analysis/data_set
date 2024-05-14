@@ -1,0 +1,19 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 28,
+    "month": 9,
+    "day": 28
+  },
+  "case_number": "平成28(ネ)149",
+  "case_name": "賃金等，損害賠償請求控訴事件",
+  "court_name": "名古屋高等裁判所民事第４部",
+  "original_court_name": "名古屋地方裁判所\n        　岡崎支部",
+  "original_case_number": "平成27(ワ)62",
+  "original_result": "棄却",
+  "gist": "定年を満６０歳と定める被控訴人会社が，定年を迎える控訴人に対し，６０歳から６１歳までの職務として，それまで従事してきた事務職の業務ではなく清掃業務等を提示したことについて，平成２８年３月３１日までの間につき６１歳までの継続雇用をしなければならないとする平成２４年法律第７８号による高年齢者等の雇用の安定等に関する法律の改正附則の趣旨に反し，継続雇用の機会を与えたとは認められず違法であるとされた事例",
+  "lawsuit_id": "86571",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=86571",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/571/086571_hanrei.pdf"
+}

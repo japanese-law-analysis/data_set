@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 3,
+    "day": 29
+  },
+  "case_number": "昭和40(オ)579",
+  "case_name": "預金返還請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第90号835頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和34(ネ)420",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 9,
+    "day": 7
+  },
+  "gist": "銀行預金の払戻に債権の準占有者の成立が認められた事例",
+  "case_gist": "旧閉鎖機関保管人委員会委員長が占領軍総司令部代表官の指示を受けて、銀行預金を閉鎖機関たるＤ株式会社の権利であるとして、その管理処分に着手した以上、右預金は、同会社の預金としての外観をそなえるに至り、右委員長は、Ｄの財産管理者として、右預金の準占有者となつたものと解すべきである。",
+  "ref_law": "民法478条",
+  "lawsuit_id": "66456",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66456",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/456/066456_hanrei.pdf"
+}

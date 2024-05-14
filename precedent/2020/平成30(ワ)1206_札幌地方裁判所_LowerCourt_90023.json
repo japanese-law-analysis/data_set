@@ -1,0 +1,16 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Reiwa",
+    "year": 2,
+    "month": 5,
+    "day": 29
+  },
+  "case_number": "平成30(ワ)1206",
+  "case_name": "損害賠償請求事件",
+  "court_name": "札幌地方裁判所",
+  "gist": "受刑者の一人が遵守事項に反して他の受刑者に暴行をし始め，これによりその者に対する危険が現実化していた上，当時の一般的指示に照らしても，暴行の開始当時にはこれを制止する職務上の法的義務がその場に居合わせた刑務官２名に生じており，これを制止しなかったことは，権限の不行使が許容される限度を逸脱して著しく合理性を欠くもので，国家賠償法１条１項の適用上違法である。",
+  "lawsuit_id": "90023",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=90023",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/023/090023_hanrei.pdf"
+}

@@ -1,0 +1,18 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 9,
+    "day": 17
+  },
+  "case_number": "昭和59(行ウ)5",
+  "case_name": "たばこ小売人指定処分取消請求事件",
+  "court_name": "広島地方裁判所",
+  "field": "行政",
+  "gist": "たばこ小売人指定処分の取消しを求める訴えにつき，たばこ専売法（昭和２４年法律第１１１号，昭和５９年法律第６８号により廃止，以下同じ。）３１条１項３号の適正配置規制は，既設小売人の経済的利益の確保を目的としたものとは認め難く，右利益は，同法によって保護された法的利益ではなく，同法が小売人指定について公益目的実現の観点から行政権の行使に制約を課した結果生ずるところの事実上の反射的利益に属するものであるとして，右指定処分に係るたばこ小売人の営業所と同一のたばこ消費圏に営業所を有する既設たばこ小売人の原告適格を否定した事例",
+  "lawsuit_id": "36107",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=36107",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/107/036107_hanrei.pdf",
+  "contents": ""
+}

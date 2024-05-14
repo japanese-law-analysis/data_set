@@ -1,0 +1,17 @@
+{
+  "trial_type": "LaborCase",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 5,
+    "day": 24
+  },
+  "case_number": "平成16(ワ)1959",
+  "case_name": "賃金請求事件（通称　学校法人明泉学園教諭就業規則変更）",
+  "court_name": "東京地方裁判所八王子支部",
+  "field": "労働",
+  "lawsuit_id": "36467",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail6?id=36467",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/467/036467_hanrei.pdf",
+  "contents": ""
+}

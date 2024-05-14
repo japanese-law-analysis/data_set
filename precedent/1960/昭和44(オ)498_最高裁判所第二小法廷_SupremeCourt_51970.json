@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 10,
+    "day": 31
+  },
+  "case_number": "昭和44(オ)498",
+  "case_name": "本訴土地所有権移転登記手続請求、反訴土地所有権移転請求権保全仮登記抹消登記手続請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第23巻10号1932頁",
+  "original_court_name": "札幌高等裁判所\n        　函館支部",
+  "original_case_number": "昭和43(ネ)2",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 2,
+    "day": 18
+  },
+  "gist": "農地を目的とする売買契約締結後に目的の土地が農地でなくなつた場合の売買契約の効力",
+  "case_gist": "現況が農地である土地を目的とする売買契約締結後に、右土地を含む周辺一帯が都市計画区域に指定され、順次宅地として分譲されるなど客観的事情が変化し、かつ、買主がこれに地盛りをして売主の承諾のもとに建物を建築するなどしたために、右土地が完全に宅地に変じた場合には、右売買契約は、知事の許可なしに効力を生ずるものと解すべきである。",
+  "ref_law": "農地法2条，農地法5条",
+  "lawsuit_id": "51970",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51970",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/970/051970_hanrei.pdf"
+}

@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 9,
+    "day": 30
+  },
+  "case_number": "昭和58(あ)137",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第232号173頁",
+  "original_court_name": "仙台高等裁判所\n        　秋田支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 12,
+    "day": 14
+  },
+  "gist": "差別的起訴を理由とする憲法一四条、四四条違反の主張が排斥された事例",
+  "ref_law": "憲法14条，憲法44条",
+  "lawsuit_id": "60435",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60435",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/435/060435_hanrei.pdf"
+}

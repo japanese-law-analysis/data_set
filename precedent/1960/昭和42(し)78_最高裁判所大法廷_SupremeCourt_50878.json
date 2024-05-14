@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 12,
+    "day": 3
+  },
+  "case_number": "昭和42(し)78",
+  "case_name": "捜索差押許可の裁判の取消並びに差押処分の取消を求める準抗告棄却決定に対する特別抗告",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第23巻12号1525頁",
+  "original_court_name": "東京地方裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 12,
+    "day": 5
+  },
+  "gist": "一　国税犯則取締法二条により裁判官がした差押等の許可自体に対する準抗告その他独立の不服申立の許否と憲法三二条\n二　国税犯則取締法二条により収税官吏がした差押処分に対する不服申立方法",
+  "case_gist": "一　国税犯則取締法二条により収税官吏の請求に基づいて裁判官がした差押等の許可自体に対しては、準抗告その他独立の不服申立は許されない。このように解しても、憲法三二条に違反しない。\n二　国税犯則取締法二条により収税官吏がした差押処分に対する不服申立は、行政事件訴訟に定める訴訟の方法によるべきであつて、これにつき刑訴法四三〇条の準抗告の規定を準用すべきではない。",
+  "ref_law": "国税犯則取締法2条，刑訴法429条1項2号，刑訴法430条，憲法32条，行政事件訴訟法1条",
+  "lawsuit_id": "50878",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50878",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/878/050878_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 3,
+    "day": 18
+  },
+  "case_number": "昭和26(あ)4629",
+  "case_name": "窃盗、古物営業法違反",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第7巻3号577頁",
+  "original_court_name": "仙台高等裁判所\n        　秋田支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 10,
+    "day": 9
+  },
+  "gist": "一　無許可の古物営業を処罰する古物営業法の規定と憲法第二二条\n二　否認調書の取調の時期",
+  "case_gist": "一　古物営業を許可制度とし、無許可の営業を処罰する古物営業法の規定は、「職業選択の自由」を保障した憲法第二二条に違反しない。\n二　被告人の否認調書を他の証拠より先に取り調べても刑訴三〇一条に違反しない。",
+  "ref_law": "古物営業法1条，古物営業法2条1項，古物営業法4条，古物営業法6条，古物営業法26条，古物営業法27条，憲法22条，刑訴法301条",
+  "lawsuit_id": "54621",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54621",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/621/054621_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 63,
+    "month": 6,
+    "day": 16
+  },
+  "case_number": "昭和59(オ)890",
+  "case_name": "損害賠償請求、民訴法一九八条二項の原状回復等の申立事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第154号133頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和55(ネ)776",
+  "original_date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 4,
+    "day": 26
+  },
+  "gist": "起訴休職中の国家公務員に対し起訴事実につき無罪判決が言い渡され控訴された場合に起訴休職処分を撤回しなかつたことが国家賠償法一条一項にいう違法な行為には当たらないとされた事例",
+  "case_gist": "起訴休職中の国家公務員に対し起訴事実につき無罪判決が言い渡され控訴された場合に、右起訴事実が職場内において管理職に対し暴行を加えて傷害を負わせたという公務執行妨害等であり、右判決が起訴事実のうち犯意について証拠が不十分であるとしているものの外形的事実を認めているなど判示のような事情の下においては、起訴休職処分を撤回しなかつたことは、国家賠償法一条一項にいう違法な行為には当たらない。",
+  "ref_law": "国家賠償法1条1項，国家公務員法79条2号，国家公務員法80条2項",
+  "lawsuit_id": "62327",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62327",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/327/062327_hanrei.pdf"
+}

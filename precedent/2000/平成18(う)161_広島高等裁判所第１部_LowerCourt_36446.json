@@ -1,0 +1,20 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 4,
+    "day": 22
+  },
+  "case_number": "平成18(う)161",
+  "case_name": "殺人，強姦致死，窃盗被告事件",
+  "court_name": "広島高等裁判所第１部",
+  "result": "破棄自判",
+  "original_court_name": "山口地方裁判所",
+  "original_case_number": "平成11(わ)89",
+  "gist": "被告人を無期懲役に処した第一審判決を是認した差戻前控訴審判決（平成14年3月14日 広島高等裁判所 平成12年(う)第66号）について，最高裁判所が，刑の量定が甚だしく不当であるとして，同判決を破棄し，死刑の選択を回避するに足りる特に酌量すべき事情の有無について更に慎重な審理を尽くさせるため当裁判所に差し戻した事案（平成18年6月20日 最高裁判所 平成14年(あ)第730号）について，１２回の公判を開いて審理を尽くしたものの，死刑の選択を回避するに足りる特に酌量すべき事情は認められないなどとして，第一審判決を破棄して死刑を宣告した事例",
+  "lawsuit_id": "36446",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=36446",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/446/036446_hanrei.pdf",
+  "contents": ""
+}

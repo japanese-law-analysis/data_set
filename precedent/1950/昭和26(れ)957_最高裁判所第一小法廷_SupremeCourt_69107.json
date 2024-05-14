@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 10,
+    "day": 18
+  },
+  "case_number": "昭和26(れ)957",
+  "case_name": "賍物故買",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第54号1077頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 2,
+    "day": 7
+  },
+  "gist": "適法な証拠調を欠く証拠を他の証拠と綜合して事実を認定した判決の違法と刑訴第四一一条",
+  "case_gist": "そして所論の聴取書が原審において適法に証拠調をされていないことは所論のとおりであつて、同聴取書を証拠とした原判決は違法といわなければならぬが、同聴取書を除くその余の原判決挙示の各証拠によつて原判示事実の認定の認定はこれを肯認するに難くないから、所論の違法は原判決に影響を及ぼさないものであるので刑訴四一一条を適用して原判決を破棄すべきものとは認められない。",
+  "ref_law": "旧刑訴法336条，刑訴411条",
+  "lawsuit_id": "69107",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=69107",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/107/069107_hanrei.pdf"
+}

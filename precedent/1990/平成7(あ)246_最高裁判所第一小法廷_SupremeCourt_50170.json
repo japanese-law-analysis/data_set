@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 10,
+    "month": 11,
+    "day": 25
+  },
+  "case_number": "平成7(あ)246",
+  "case_name": "商法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第52巻8号570頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 7,
+    "month": 2,
+    "day": 27
+  },
+  "gist": "特別背任罪における第三者図利目的があるとされた事例",
+  "case_gist": "相互銀行の役員らが、土地の購入資金及び開発資金等の融資に当たり、右融資は土地の売主に対し遊休資産化していた土地を売却して代金を直ちに入手できるなどの利益を与えるとともに、融資先に対し大幅な担保不足であるのに多額の融資を受けられる利益を与えることになることを認識しつつ、あえて右融資を実行することとしたものであり、相互銀行と密接な関係にある売主に所有の資金を確保させることによりひいて相互銀行の利益を図るという動機があったにしても、それが融資の決定的な動機ではなかったなどの事情の下では、右役員らに特別背任罪における第三者図利目的を認めることができる。",
+  "ref_law": "商法（平成2年法律64号による改正前のもの）486条1項，刑法（平成7年法律91号による改正前のもの）247条",
+  "lawsuit_id": "50170",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50170",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/170/050170_hanrei.pdf"
+}

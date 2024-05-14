@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 4,
+    "day": 23
+  },
+  "case_number": "昭和56(オ)1246",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第135号773頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和56(ネ)306",
+  "original_date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 9,
+    "day": 30
+  },
+  "gist": "道路交通法違反の犯人の使用者を被疑者として誤認逮捕し身柄を拘束した警察官に過失がないとされた事例",
+  "case_gist": "使用者が被用者の道路交通法違反の事実を知りながら殊更これを隠そうとする不信な言動をとり、また、目撃者が顔写真に基づき犯人は右使用者である旨を断言したなど、原判示の事実関係のもとにおいては、右使用者を被疑者として誤認逮捕し、被用者が犯人であることが判明するまでの間その身柄を拘束した警察官に過失はない。",
+  "ref_law": "国家賠償法1条",
+  "lawsuit_id": "66885",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66885",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/885/066885_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 4,
+    "day": 19
+  },
+  "case_number": "昭和50(行ツ)84",
+  "case_name": "法人税課税処分取消",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第33巻3号379頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和48(行コ)8",
+  "original_date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 6,
+    "day": 27
+  },
+  "gist": "法人税青色申告についてした更正が理由附記の不備のため違法とされた事例",
+  "case_gist": "甲の法人税青色申告について、乙に対する支払家賃の損金算入を否認してした更正の通知書に、更正の理由として、「乙に対する未払家賃は債務未確定のため」と記載されているだけで、右認定の資料の摘示が全くない場合には、右資料の摘示を欠く点において更正の理由附記として不備があり、右更正は違法である。",
+  "ref_law": "法人税法130条2項",
+  "lawsuit_id": "53257",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53257",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/257/053257_hanrei.pdf"
+}

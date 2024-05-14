@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 3,
+    "day": 22
+  },
+  "case_number": "昭和29(あ)3713",
+  "case_name": "外国人登録令違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第118号381頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 9,
+    "day": 20
+  },
+  "gist": "日本内地に居住する朝鮮人と外国人登録令の適用",
+  "case_gist": "被告人両名の弁護人の上告趣意第一点は違憲をいうけれども、その実質は、朝鮮人は外国人登録令二条にいう外国人に当らないことを主張するに帰する。しかし本件において朝鮮人たる被告人等につき同令の適用を認めているのは、朝鮮人が同令二条にいう外国人であるという判断に基くものではなく、同令一一条一項により朝鮮人は同令の適用については当分の間これを外国人とみなすと規定されていることによるものであつて、一般に朝鮮人が憲法上の日本国民であるか否かを決定する意味は少しも含まれているものではない。",
+  "ref_law": "外国人登録令2条，外国人登録令11条",
+  "lawsuit_id": "58570",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58570",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/570/058570_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 12,
+    "day": 9
+  },
+  "case_number": "昭和28(オ)274",
+  "case_name": "合併決定取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第9巻13号1972頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 12,
+    "day": 19
+  },
+  "gist": "村議会解散請求手続中の住民であつても知事がしたその村と他の市町村との合併の取消を求める法律上の利益を有するか",
+  "case_gist": "村議会解散請求手続中の住民であつても、知事がしたその村と他の市町村との合併の取消を求める法律上の利益を有しない。",
+  "ref_law": "地方自治法7条，地方自治法76条",
+  "lawsuit_id": "57414",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57414",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/414/057414_hanrei.pdf"
+}

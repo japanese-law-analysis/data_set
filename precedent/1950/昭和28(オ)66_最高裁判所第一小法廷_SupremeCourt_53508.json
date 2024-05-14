@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 2,
+    "day": 13
+  },
+  "case_number": "昭和28(オ)66",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第12巻2号211頁",
+  "original_court_name": "札幌高等裁判所\n        　函館支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 12,
+    "day": 27
+  },
+  "gist": "すでに解散した組合における組合員の死亡と民法第六七九条第一号の適用の有無",
+  "case_gist": "民法第六七九条第一号の規程は、すでに解散した組合における組合員の死亡の場合に適用されない。",
+  "ref_law": "民法679条1号",
+  "lawsuit_id": "53508",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53508",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/508/053508_hanrei.pdf"
+}

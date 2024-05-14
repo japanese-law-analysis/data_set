@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 9,
+    "day": 4
+  },
+  "case_number": "昭和57(オ)1167",
+  "case_name": "代表役員登記抹消",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第40巻6号1013頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和48(ネ)129",
+  "original_date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 7,
+    "day": 27
+  },
+  "gist": "宗教法人の代表役員に就任した者がその地位にあることの確認の訴えとともに提起した自己の解任及び後任者の就任等の各登記の抹消登記手続を求める訴えの利益の有無",
+  "case_gist": "宗教法人の代表役員に就任した者が、宗教法人に対し、その代表役員の地位にあることの確認を訴求するとともに、自己の解任及び後任の代表役員の就任又はその辞任の各登記の抹消登記手続を求めて提起した訴えは、訴えの利益を欠く。",
+  "ref_law": "民訴法2編1章訴，宗教法人法65条，商業登記法109条1項2号",
+  "lawsuit_id": "52674",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52674",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/674/052674_hanrei.pdf"
+}

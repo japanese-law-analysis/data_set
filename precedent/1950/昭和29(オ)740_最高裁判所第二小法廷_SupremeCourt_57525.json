@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 5,
+    "day": 18
+  },
+  "case_number": "昭和29(オ)740",
+  "case_name": "土地所有権移転登記手続等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第10巻5号532頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 7,
+    "day": 14
+  },
+  "gist": "価格統制に違反した農地の売買契約の効力",
+  "case_gist": "農地の売買契約において、臨時農地価格統制令（昭和一六年勅令第一〇九号）第三条第一項所定の最高価格を超過した代金額の約定があつたというだけでは、超過した代金額の約定部分が無効となるに止まり、統制価格の範囲内では契約は有効たるを失わない。",
+  "ref_law": "臨時農地価格統制令（昭和16年勅令109号）3条",
+  "lawsuit_id": "57525",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57525",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/525/057525_hanrei.pdf"
+}

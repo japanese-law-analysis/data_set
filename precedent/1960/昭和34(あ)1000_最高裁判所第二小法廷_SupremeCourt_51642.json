@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 3,
+    "day": 16
+  },
+  "case_number": "昭和34(あ)1000",
+  "case_name": "入場税法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第16巻3号280頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 4,
+    "day": 25
+  },
+  "gist": "一　入場税逋脱罪と罪数\n二　入場税法第二八条のいわゆる両罰規定の法意",
+  "case_gist": "一　入場税は、月を標準として申告、課税、徴収する月税であつて、その逋脱罪もまた月を標準として罪数を定むべきである旨の原判断は、正当である。\n二　入場税法第二八条は、興行場等の経営者又は主催者（以下、単に経営者等という。）たる人の代理人、使用人その他の従業者が同法第二五条第一項等に違反した行為に対し、経営者等に右行為者らの選任、監督その他違反行為を防止するにつき必要な注意を尽さなかつた過失の存在を推定した規定と解すべきである。",
+  "ref_law": "入場税法25条1項，入場税法10条，入場税法12条，入場税法28条，刑法45条",
+  "lawsuit_id": "51642",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51642",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/642/051642_hanrei.pdf"
+}

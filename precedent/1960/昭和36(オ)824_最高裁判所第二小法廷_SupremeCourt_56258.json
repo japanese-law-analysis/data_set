@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 3,
+    "day": 23
+  },
+  "case_number": "昭和36(オ)824",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第16巻3号607頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 4,
+    "day": 26
+  },
+  "gist": "商法第三八六条第一項第一号による会社債務弁済禁止の保全処分と会社に対する給付の訴の可否",
+  "case_gist": "会社整理の手続において商法第三八六条第一項第一号の保全処分として会社債務弁済禁止の命令がなされていても、会社債権者が会社に対し給付の訴を提起し、債務名義を取得することは禁止されない。",
+  "ref_law": "商法386条1項1号",
+  "lawsuit_id": "56258",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56258",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/258/056258_hanrei.pdf"
+}

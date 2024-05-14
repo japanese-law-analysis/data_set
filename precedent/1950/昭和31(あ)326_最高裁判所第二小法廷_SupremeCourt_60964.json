@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 11,
+    "day": 30
+  },
+  "case_number": "昭和31(あ)326",
+  "case_name": "傷害、暴行",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第115号605頁",
+  "original_court_name": "福岡高等裁判所\n        　宮崎支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 12,
+    "day": 23
+  },
+  "gist": "控訴審が破棄自判する場合と証拠理由の判示",
+  "case_gist": "原判決が第一審判決を量刑不当の理由で破棄自判するに当り、第一審判決認定の事実に法令を適用したのみで、その証拠を援用せず又はその証拠の標目を掲げていないとしても、原判決は第一審判決挙示の同一の証拠を援用した趣旨と解するのが相当である。",
+  "ref_law": "刑訴法400条但書，刑訴法335条",
+  "lawsuit_id": "60964",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60964",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/964/060964_hanrei.pdf"
+}

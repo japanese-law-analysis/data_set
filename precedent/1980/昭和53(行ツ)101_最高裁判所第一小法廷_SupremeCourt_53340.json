@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 12,
+    "day": 18
+  },
+  "case_number": "昭和53(行ツ)101",
+  "case_name": "審決取消",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第34巻7号917頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和47(行ケ)89",
+  "original_date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 5,
+    "day": 2
+  },
+  "gist": "明細書の「特許請求の範囲」に記載されず「発明の詳細なる説明」又は図面に記載されている発明を目的とする分割出願の適否",
+  "case_gist": "明細書の「特許請求の範囲」に記載されず、「発明の詳細なる説明」又は図面に記載されている発明を目的とする分割出願であつても、右記載が、その発明の属する技術分野における通常の技術的知識を有する者において発明の要旨とする技術的事項のすべてを正確に理解し容易に実施することができる程度にされているときは、右分割出願は適法である。",
+  "ref_law": "旧特許法（大正10年法律第96号）9条1項",
+  "lawsuit_id": "53340",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53340",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/340/053340_hanrei.pdf"
+}

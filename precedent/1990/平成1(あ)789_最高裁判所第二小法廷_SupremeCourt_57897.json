@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 6,
+    "month": 3,
+    "day": 15
+  },
+  "case_number": "平成1(あ)789",
+  "case_name": "殺人、窃盗",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第263号115頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 6,
+    "day": 19
+  },
+  "gist": "千葉県市原市の暴力団幹部猟銃射殺事件",
+  "lawsuit_id": "57897",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57897",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/897/057897_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 12,
+    "month": 2,
+    "day": 24
+  },
+  "case_number": "平成9(あ)1299",
+  "case_name": "鳥獣保護及狩猟ニ関スル法律違反被告事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第54巻2号106頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 9,
+    "month": 10,
+    "day": 28
+  },
+  "gist": "鳥獣保護及狩猟ニ関スル法律一六条にいう「人家稠密ノ場所」に当たるとされた事例",
+  "case_gist": "人家と田畑が混在する地域内にあり、周囲半径約二〇〇メートル以内に人家が約一〇軒ある場所は、鳥獣保護及狩猟ニ関スル法律一六条が銃猟を禁止する「人家稠密ノ場所」に当たる。",
+  "ref_law": "鳥獣保護及狩猟ニ関スル法律16条，鳥獣保護及狩猟ニ関スル法律21条1項1号",
+  "lawsuit_id": "51229",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51229",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/229/051229_hanrei.pdf"
+}

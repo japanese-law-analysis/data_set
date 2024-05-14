@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 9,
+    "month": 12,
+    "day": 18
+  },
+  "case_number": "平成7(オ)863",
+  "case_name": "否認権行使",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第51巻10号4210頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成6(ネ)818",
+  "original_date": {
+    "era": "Heisei",
+    "year": 6,
+    "month": 12,
+    "day": 16
+  },
+  "gist": "動産の買主が転売先から取り戻した右動産を売主に対する売買代金債務の代物弁済に供した行為が破産法七二条四号による否認の対象になるとされた事例",
+  "case_gist": "甲から動産を買い受けた乙がこれを丙に転売して引き渡したことにより、甲が右動産に対して動産売買の先取特権を行使し得なくなったところ、その後に支払を停止した乙が、右動産を甲に返還する意図の下に、丙との間で転売契約を合意解除して右動産を取り戻した上、甲に対する右動産の売買代金債務の代物弁済に供したなど判示の事実関係の下においては、乙が右動産を代物弁済に供した行為は、破産法七二条四号による否認の対象になる。",
+  "ref_law": "破産法72条4号，民法322条，民法333条",
+  "lawsuit_id": "52805",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52805",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/805/052805_hanrei.pdf"
+}

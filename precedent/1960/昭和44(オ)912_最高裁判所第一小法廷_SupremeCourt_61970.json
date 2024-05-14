@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 11,
+    "day": 13
+  },
+  "case_number": "昭和44(オ)912",
+  "case_name": "商号使用禁止等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第97号273頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和42(ネ)1605",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 6,
+    "day": 19
+  },
+  "gist": "不正競争防止法一条一項二号にいう、商号が類似し、営業活動の混同を生ぜしめるおそれがあり、営業上の利益を害せられるおそれがある場合にあたるとされた事例",
+  "case_gist": "上告会社と被上告会社の各商号の表示および両社の営業目的ならびに営業活動、両社の営業活動の混同された事例等原審の確定した諸般の事情のもとにおいては、上告会社の商号が被上告会社のそれと類似し、上告会社の営業活動が被上告会社のそれと混同を生ぜしめるおそれがある旨、および上告会社の商号使用によつて被上告会社が営業上の利益を害さられるおそれがある旨の原審の判断は正当である。",
+  "ref_law": "不正競争防止法1条1項2号",
+  "lawsuit_id": "61970",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61970",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/970/061970_hanrei.pdf"
+}

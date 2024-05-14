@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 4,
+    "day": 20
+  },
+  "case_number": "昭和24(オ)8",
+  "case_name": "労働委員委嘱取消請求",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第3巻5号135頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 12,
+    "day": 24
+  },
+  "gist": "一　労働委員会の委員選出方法例による推薦委員会の労働委員候補者の推薦方法\n二　旧労働組合法施行令第三七条（政正前）と憲法第一五条及び旧労働組合法第二六条",
+  "case_gist": "一　労働委員会の委員選出方法例（昭和二一年九月労政局長より各都道府県知事宛通牒）による推薦委員会が、方法例に準拠しない推薦投票の方法を決定するためには、本来推薦権を有する労働組合より事前の委任若しくは事後の承諾を受けることを要する。\n二　旧労働組合法施行令第三七条中の労働組合の推薦を得ること能わざる場合における都道府県知事の労働委員職権委嘱に関する規定は、憲法第一五条及び旧労働組合法第二六条に違反しない。",
+  "ref_law": "労働組合法（昭和20年法律51号）26条，憲法15条，労働組合法施行令37条",
+  "lawsuit_id": "55995",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55995",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/995/055995_hanrei.pdf"
+}

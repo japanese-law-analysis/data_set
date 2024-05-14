@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 13,
+    "month": 3,
+    "day": 27
+  },
+  "case_number": "平成10(オ)1037",
+  "case_name": "遺言無効確認請求事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第201号653頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "平成9(ネ)765",
+  "original_date": {
+    "era": "Heisei",
+    "year": 10,
+    "month": 2,
+    "day": 17
+  },
+  "gist": "遺言の証人となることができない者が同席してされた公正証書遺言の効力",
+  "case_gist": "遺言公正証書の作成に当たり当該遺言の証人となることができない者が同席していたとしても，この者によって遺言の内容が左右されたり，遺言者が自己の真意に基づいて遺言をすることを妨げられたりするなど特段の事情のない限り，同遺言が無効となるものではない。",
+  "ref_law": "民法（平成11年法律第149号による改正前のもの）969条，民法（平成11年法律第149号による改正前のもの）974条",
+  "lawsuit_id": "62393",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62393",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/393/062393_hanrei.pdf"
+}

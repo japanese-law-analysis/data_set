@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 10,
+    "month": 9,
+    "day": 3
+  },
+  "case_number": "平成9(オ)1446",
+  "case_name": "保証金返還",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第52巻6号1467頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成8(ネ)2947",
+  "original_date": {
+    "era": "Heisei",
+    "year": 9,
+    "month": 5,
+    "day": 7
+  },
+  "gist": "災害により居住用の賃借家屋が滅失して賃貸借契約が終了した場合におけるいわゆる敷引特約の適用の可否",
+  "case_gist": "居住用の家屋の賃貸借における敷金につき、賃貸借契約終了時にそのうちの一定金額又は一定割合の金員を返還しない旨のいわゆる敷引特約がされた場合であっても、災害により家屋が滅失して賃貸借契約が終了したときは、特段の事情がない限り、右特約を適用することはできない。",
+  "ref_law": "民法619条2項",
+  "lawsuit_id": "57077",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57077",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/077/057077_hanrei.pdf"
+}

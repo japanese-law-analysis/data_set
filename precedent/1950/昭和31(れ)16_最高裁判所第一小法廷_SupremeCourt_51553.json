@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 7,
+    "day": 18
+  },
+  "case_number": "昭和31(れ)16",
+  "case_name": "傷害、公務執行妨害",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第11巻7号1861頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 10,
+    "day": 9
+  },
+  "gist": "一　強盗傷人とならない一事例\n二　牽連犯の要件",
+  "case_gist": "一　前夜岡山県下で強盗を行つて得た賍物を舟で運搬し、翌晩神戸で陸揚げしようとする際巡査に発見され、逮捕を免れるため暴行を加え、これを傷害した所為は、強盗傷人ではなく、強盗と公務執行妨害、傷害との罪が成立する。\n二　牽連犯が成立するためには犯人が主観的に数罪の一方を他方の手段または結果の関係において実行したというだけでは足りず、その数罪間にその罪質上通常手段結果の関係が存在することを必要とする。",
+  "ref_law": "刑法240条，刑法238条，刑法236条，刑法95条，刑法204条，刑法54条",
+  "lawsuit_id": "51553",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51553",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/553/051553_hanrei.pdf"
+}

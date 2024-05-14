@@ -1,0 +1,22 @@
+{
+  "trial_type": "HighCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 6,
+    "day": 16
+  },
+  "case_number": "平成17(ネ)368",
+  "case_name": "遺産分割対象外範囲確認請求事件",
+  "court_name": "高松高等裁判所第４部",
+  "result": "その他",
+  "article_info": "第59巻2号9頁",
+  "original_court_name": "高知地方裁判所",
+  "original_case_number": "平成17(ワ)55",
+  "gist": "共同相続人間において相続財産である可分債権につき遺産分割の対象でないことの確認を求める訴えの適否",
+  "case_gist": "共同相続人間において相続財産である可分債権につき遺産分割の対象でないことの確認を求める訴えは，確認の利益を欠くものとして不適法である。",
+  "lawsuit_id": "34752",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail3?id=34752",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/752/034752_hanrei.pdf",
+  "contents": ""
+}

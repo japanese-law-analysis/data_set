@@ -1,0 +1,19 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 1,
+    "day": 30
+  },
+  "case_number": "平成19(行ウ)9等",
+  "case_name": "採掘権出願不許可処分取消等請求事件",
+  "court_name": "大阪地方裁判所",
+  "field": "行政",
+  "gist": "鉱業法３１条所定の不許可事由に該当するとして経済産業局長がした採掘権設定出願不許可処分が適法とされた事例",
+  "case_gist": "鉱業法３１条所定の不許可事由に該当するとして経済産業局長がした採掘権設定出願不許可処分につき，同条にいう「なお試掘を要する」とは，鉱区内において試掘権を行使してもなお，鉱量品位等からみて採掘に適する鉱物の賦存が明らかではない場合を指すものと解すべきであるとした上，本件鉱区内において，鉱量品位等からみて採掘に適する鉱物の賦存が明らかであるとは認められないから，同条所定の要件を充足するとして，前記処分を適法とした事例",
+  "lawsuit_id": "36693",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=36693",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/693/036693_hanrei.pdf",
+  "contents": ""
+}

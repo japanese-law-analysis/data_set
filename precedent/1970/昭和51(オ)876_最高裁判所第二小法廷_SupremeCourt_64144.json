@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 11,
+    "day": 26
+  },
+  "case_number": "昭和51(オ)876",
+  "case_name": "保証金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第119号275頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和50(ネ)309",
+  "original_date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 4,
+    "day": 30
+  },
+  "gist": "一、使用者の身元保証法三条所定の通知義務遅滞と身元保証人の責任\n二、使用者の身元保証法三条所定の通知義務遅滞と身元保証人に対する損害賠償義務",
+  "case_gist": "一、使用者が身元保証法三条所定の通知義務を怠つている間に、被用者が不正行為をして身元保証人の責任を惹起した場合において、右通知の遅滞は、裁判所が同法五条所定の身元保証人の損害賠償責任及びその金額を定めるうえで斟酌すべき事情とはなるが、身元保証人の責任を当然に免れさせる理由とはならない。\n二、使用者が身元保証法三条所定の通知義務を怠つている間に、被用者が不正行為をして身元保証人の責任を惹起した結果、身元保証人が損害を被つた場合においても、使用者は、身元保証人に対して、右通知義務遅滞に基づく損害賠償義務を負わない。",
+  "ref_law": "身元保証ニ関スル法律3条，身元保証ニ関スル法律5条，民法415条",
+  "lawsuit_id": "64144",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64144",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/144/064144_hanrei.pdf"
+}

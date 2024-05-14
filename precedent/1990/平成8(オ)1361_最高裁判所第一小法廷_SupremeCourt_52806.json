@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 9,
+    "month": 12,
+    "day": 18
+  },
+  "case_number": "平成8(オ)1361",
+  "case_name": "通行妨害排除",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第51巻10号4241頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成6(ネ)2184",
+  "original_date": {
+    "era": "Heisei",
+    "year": 8,
+    "month": 2,
+    "day": 20
+  },
+  "gist": "いわゆる位置指定道路の通行妨害と妨害排除請求権",
+  "case_gist": "建築基準法四二条一項五号の規定による位置の指定を受け現実に開設されている道路を通行することについて日常生活上不可欠の利益を有する者は、右道路の通行をその敷地の所有者によって妨害され、又は妨害されるおそれがあるときは、敷地所有者が右通行を受忍することによって通行者の通行利益を上回る著しい損害を被るなどの特段の事情のない限り、敷地所有者に対して右妨害行為の排除及び将来の妨害行為の禁止を求める権利（人格権的権利）を有する。",
+  "ref_law": "民法1条ノ2，民法198条，民法199条，建築基準法42条1項5号",
+  "lawsuit_id": "52806",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52806",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/806/052806_hanrei.pdf"
+}

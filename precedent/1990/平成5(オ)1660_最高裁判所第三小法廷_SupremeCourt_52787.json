@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 9,
+    "month": 11,
+    "day": 11
+  },
+  "case_number": "平成5(オ)1660",
+  "case_name": "預託金",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第51巻10号4055頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成4(ネ)1683",
+  "original_date": {
+    "era": "Heisei",
+    "year": 5,
+    "month": 5,
+    "day": 31
+  },
+  "gist": "日本法人がドイツに居住する日本人に対して契約上の金銭債務の履行を求める訴訟につき日本の国際裁判管轄が否定された事例",
+  "case_gist": "ドイツから自動車等を輸入している日本法人甲がドイツに居住する日本人乙に対して契約上の金銭債務の履行を求める訴訟について、右契約が、ドイツ国内で締結され、甲が乙に同国内における種々の業務を委託することを目的とするものであり、右契約において日本国内の地を債務の履行場所とすること又は準拠法を日本法とすることが明示的に合意されていたわけではなく、乙が二〇年以上にわたりドイツ国内に生活上及び営業上の本拠を置いており、乙の防御のための証拠方法も同国内に集中しているなど判示の事実関係の下においては、日本の国際裁判管轄を否定すべきである。",
+  "ref_law": "民訴法第1編第1章裁判所，民訴法5条",
+  "lawsuit_id": "52787",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52787",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/787/052787_hanrei.pdf"
+}

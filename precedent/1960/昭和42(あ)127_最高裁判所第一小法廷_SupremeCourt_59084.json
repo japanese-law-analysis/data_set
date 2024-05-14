@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 8,
+    "day": 31
+  },
+  "case_number": "昭和42(あ)127",
+  "case_name": "業務上過失致死",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第164号77頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 12,
+    "day": 13
+  },
+  "gist": "第一審でなされていない現場検証を控訴審において新たに施行した措置が違法でないとされた事例",
+  "case_gist": "本件において、原審が、検察官の請求により、第一審ではその請求もなされなかつた現場検証を採用決定し、これを施行した措置に違法はない。（注、本件第一審では司法警察員作成の実況見分調書が取調べられている。）",
+  "ref_law": "刑訴法393条",
+  "lawsuit_id": "59084",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59084",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/084/059084_hanrei.pdf"
+}

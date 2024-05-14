@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 8,
+    "day": 9
+  },
+  "case_number": "昭和25(あ)2991",
+  "case_name": "物価統制令違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第5巻9号1747頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 10,
+    "day": 7
+  },
+  "gist": "不当高価契約等の禁止規定違反の罪の成立と統制価格存在の要否",
+  "case_gist": "本件犯行は物価統制令第九条の二（不当高価契約等の禁止規定）の違反であつて、この違反の罪の成立には配給統制の存在を要しないのは勿論統制価格の存在をも要件としないものであるから、原審が本件魚油についての統制が廃止になつたにもかかわらず被告人に対して免訴の言渡をしなかつたのは正当であつて論旨は理由がない。",
+  "ref_law": "物価統制令9条の2",
+  "lawsuit_id": "54416",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54416",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/416/054416_hanrei.pdf"
+}

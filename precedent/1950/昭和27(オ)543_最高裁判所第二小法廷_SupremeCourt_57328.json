@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 2,
+    "day": 11
+  },
+  "case_number": "昭和27(オ)543",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第9巻2号164頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 4,
+    "day": 30
+  },
+  "gist": "第三者所有の動産に対して強制執行をなした債権者の不法行為上の過失責任の有無",
+  "case_gist": "債権者の占有する動産の強制執行に際し、債権者または第三者が差押物件は債権者の所有ではなく第三者の所有である旨申し出たとしても、債務者または第三者においてその申出に沿う証拠資料を何等提出しなかつたときは、特別の事情のない限り、右執行の遂行につき債権者に過失があつたものと推断することはできない。",
+  "ref_law": "民法709条",
+  "lawsuit_id": "57328",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57328",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/328/057328_hanrei.pdf"
+}

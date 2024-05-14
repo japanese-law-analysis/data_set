@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 11,
+    "day": 18
+  },
+  "case_number": "昭和28(オ)1078",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第9巻12号1763頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 9,
+    "day": 29
+  },
+  "gist": "手形法第一七条但書にあたらない一場合",
+  "case_gist": "約束手形を裏書によつて取得した者が、取得の際、右手形は請負代金の前渡金として振り出されたものであることを知つていたとしても、後に請負契約が解除されるかも知れることを予想していたとは認められないときは、手形法第一七条但書にいわゆる「債務者ヲ害スルコトヲ知リテ手形ヲ取得シタルトキ」に該当しない。",
+  "ref_law": "手形法17条",
+  "lawsuit_id": "57377",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57377",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/377/057377_hanrei.pdf"
+}

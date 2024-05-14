@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 12,
+    "day": 14
+  },
+  "case_number": "昭和54(し)118",
+  "case_name": "費用補償決定に対する即時抗告事件についてした即時抗告棄却決定に対する特別抗告",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第33巻7号917頁",
+  "original_court_name": "仙台高等裁判所\n        　秋田支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 10,
+    "day": 22
+  },
+  "gist": "刑訴法一八八条の二、一八八条の六により補償すべき費用の算定基準時",
+  "case_gist": "刑訴法一八八条の二、一八八条の六により補償すべき費用のうち、被告人又は弁護人であつた者に対する旅費、日当、宿泊料については、これらの者が公判準備及び公判期日に出頭した時点を、また、弁護人であつた者に対する報酬については、当該各審級の判決宣告の時点を、それぞれ基準として算定すべきである。",
+  "ref_law": "刑訴法188条の2，刑訴法188条の6",
+  "lawsuit_id": "51187",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51187",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/187/051187_hanrei.pdf"
+}

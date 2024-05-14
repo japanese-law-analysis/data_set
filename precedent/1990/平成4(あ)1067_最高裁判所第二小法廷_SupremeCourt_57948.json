@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 10,
+    "month": 9,
+    "day": 4
+  },
+  "case_number": "平成4(あ)1067",
+  "case_name": "身の代金目的拐取、殺人、死体遺棄、拐取者身の代金要求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第273号551頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_date": {
+    "era": "Heisei",
+    "year": 4,
+    "month": 3,
+    "day": 31
+  },
+  "gist": "死刑事件（富山・長野連続女性誘拐殺人事件）",
+  "lawsuit_id": "57948",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57948",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/948/057948_hanrei.pdf"
+}

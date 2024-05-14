@@ -1,0 +1,18 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 8,
+    "day": 6
+  },
+  "case_number": "昭和60(行コ)12",
+  "case_name": "行政処分無効確認請求控訴事件（原審・仙台地方裁判所昭和５７年（行ウ）第３号）",
+  "court_name": "仙台高等裁判所",
+  "field": "行政",
+  "gist": "食糧管理法（昭和５６年法律第８１号による改正前）の定める米穀小売販売業者の新規登録に関し，原告らと競願関係にあった３名の者に対する業者登録処分の無効確認及び原告らの右登録申請に対する被告の不作為の違法確認を求める訴えが，右法律改正の結果，米穀小売販売業者の登録制度が廃止され，米穀小売業を営むについては新たに都道府県知事の許可を受けることが必要となったことにより，訴えの利益を欠くに至ったとされた事例",
+  "lawsuit_id": "36024",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=36024",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/024/036024_hanrei.pdf",
+  "contents": ""
+}

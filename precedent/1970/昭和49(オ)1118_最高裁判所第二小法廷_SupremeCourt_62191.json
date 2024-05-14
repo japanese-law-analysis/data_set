@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 4,
+    "day": 18
+  },
+  "case_number": "昭和49(オ)1118",
+  "case_name": "借地権確認請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第114号523頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和46(ネ)1188",
+  "original_date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 7,
+    "day": 18
+  },
+  "gist": "借地上の建物についての登記名義のみの変動と敷地賃借権の譲渡、転貸",
+  "case_gist": "土地賃借人が借地上に所有する建物につき、第三者名義で保存登記をし、あるいは第三者に所有権移転登記をした場合でも、それが登記上の名義のみであつて建物所有権の帰属に変動がないときは、敷地賃借権について民法六一二条所定の譲渡又は転貸はない。",
+  "ref_law": "民法612条",
+  "lawsuit_id": "62191",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62191",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/191/062191_hanrei.pdf"
+}

@@ -1,0 +1,18 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 1,
+    "day": 31
+  },
+  "case_number": "昭和59(行ウ)12",
+  "case_name": "建築許可・建築確認処分取消請求事件",
+  "court_name": "東京地方裁判所",
+  "field": "行政",
+  "gist": "建築基準法４８条５項ただし書に規定する特定行政庁の許可の取消しを求める法律上の利益を有する者は，その建物が建築されることによってその商業上の利便が害されるおそれの生ずる範囲に所在する建物において現に商業を営んでいる者であり，右の範囲内の建物において現に商業を営んでいない者は，右許可の取消しを求める原告適格を有しないとした事例",
+  "lawsuit_id": "35809",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=35809",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/809/035809_hanrei.pdf",
+  "contents": ""
+}

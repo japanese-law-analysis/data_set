@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 16,
+    "month": 2,
+    "day": 20
+  },
+  "case_number": "平成14(受)399",
+  "case_name": "預託金返還請求事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第58巻2号367頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成13(ネ)2776",
+  "original_date": {
+    "era": "Heisei",
+    "year": 13,
+    "month": 12,
+    "day": 7
+  },
+  "gist": "ゴルフ場の営業の譲受人が譲渡人の用いていた預託金会員制のゴルフクラブの名称を継続して使用している場合における譲受人の預託金返還義務の有無",
+  "case_gist": "預託金会員制のゴルフクラブの名称がゴルフ場の営業主体を表示するものとして用いられている場合において，ゴルフ場の営業の譲渡がされ，譲渡人が用いていたゴルフクラブの名称を譲受人が継続して使用しているときには，譲受人が譲受後遅滞なく当該ゴルフクラブの会員によるゴルフ場施設の優先的利用を拒否したなどの特段の事情がない限り，譲受人は，商法２６条１項の類推適用により，会員が譲渡人に交付した預託金の返還義務を負う。",
+  "ref_law": "商法26条1項",
+  "lawsuit_id": "57044",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57044",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/044/057044_hanrei.pdf"
+}

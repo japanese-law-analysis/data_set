@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 23,
+    "month": 5,
+    "day": 13
+  },
+  "case_number": "平成23(ヒ)6",
+  "case_name": "金融商品取引法違反行為禁止等命令申立事件",
+  "court_name": "札幌地方裁判所民事第4部",
+  "gist": "金融商品取引法２９条に違反して，同法所定の登録を受けずに有価証券の募集又は私募等を業として行っていた相手方会社及びその従業員らに対し，同法１９２条１項に基づいて，金融商品取引法違反行為の差止めが命じられた事例",
+  "lawsuit_id": "81405",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=81405",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/405/081405_hanrei.pdf",
+  "contents": ""
+}

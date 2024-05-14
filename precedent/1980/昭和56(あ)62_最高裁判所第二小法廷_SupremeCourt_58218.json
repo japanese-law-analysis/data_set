@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 4,
+    "day": 3
+  },
+  "case_number": "昭和56(あ)62",
+  "case_name": "恐喝",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第221号395頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 12,
+    "day": 16
+  },
+  "gist": "判例違反の主張が原判決の是認する第一審判決の認定にそわない事実関係を前提とする不適法なものとされた事例",
+  "lawsuit_id": "58218",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58218",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/218/058218_hanrei.pdf"
+}

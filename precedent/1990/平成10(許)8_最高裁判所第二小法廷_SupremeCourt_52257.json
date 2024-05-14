@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 11,
+    "month": 4,
+    "day": 16
+  },
+  "case_number": "平成10(許)8",
+  "case_name": "破産申立却下決定に対する抗告棄却決定に対する許可抗告事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "民集　第53巻4号740頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_case_number": "平成9(ラ)104",
+  "original_date": {
+    "era": "Heisei",
+    "year": 10,
+    "month": 8,
+    "day": 10
+  },
+  "gist": "債権を目的とする質権の設定者が当該債権に基づきその債務者に対して破産の申立てをすることの可否",
+  "case_gist": "債権を目的とする質権の設定者は，質権者の同意があるなどの特段の事情のない限り，当該債権に基づきその債務者に対して破産の申立てをすることはできない。",
+  "ref_law": "民法367条，破産法132条",
+  "lawsuit_id": "52257",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52257",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/257/052257_hanrei.pdf"
+}

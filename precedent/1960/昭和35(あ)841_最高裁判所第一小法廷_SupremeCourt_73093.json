@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 9,
+    "day": 22
+  },
+  "case_number": "昭和35(あ)841",
+  "case_name": "業務上過失致死",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第135号379頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 3,
+    "day": 22
+  },
+  "gist": "自動三輪車の速度と被告人の自白。",
+  "case_gist": "一　所論速度の如きは被告人の自白のみを以て認定しても差支ない。\n二　（原判決の要旨）本件現場附近による自動三輪車の速度（註、時速約二五粁）について被告人は検察官に対する供述調書において明らかに原判決に副う供述をし又原審公判においてこれを認めており、従来本件自動三輪車の運転経験を有する被告人が自己の運転する同車の速度について供述しているところに措信し得るものがあると認めるのは当然である。",
+  "ref_law": "憲法38条3項，刑訴法319条2項",
+  "lawsuit_id": "73093",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=73093",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/093/073093_hanrei.pdf"
+}

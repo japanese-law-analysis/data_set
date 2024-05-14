@@ -1,0 +1,18 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Heisei",
+    "year": 27,
+    "month": 7,
+    "day": 17
+  },
+  "case_number": "平成26(行ウ)134",
+  "case_name": "公売公告処分取消等請求事件",
+  "court_name": "東京地方裁判所",
+  "field": "行政",
+  "gist": "国税の担保として提供された不動産についての公売公告の取消訴訟の係属中に売却決定がされた場合における訴えの利益の消長",
+  "case_gist": "国税の担保として提供された不動産についての公売公告の取消訴訟の係属中に売却決定がされた場合であっても，当該売却決定時における当該不動産の所有者及び当該国税の滞納者は，当該公売公告の取消しを求める訴えの利益を有する。",
+  "lawsuit_id": "85552",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=85552",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/552/085552_hanrei.pdf"
+}

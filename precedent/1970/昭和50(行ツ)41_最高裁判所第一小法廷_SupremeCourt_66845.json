@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 6,
+    "day": 3
+  },
+  "case_number": "昭和50(行ツ)41",
+  "case_name": "不当労働行為救済命令取消請求等",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第118号31頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和44(行コ)15",
+  "original_date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 12,
+    "day": 28
+  },
+  "gist": "一、全逓信労働組合の組合員に対するいわゆる組合休暇の不承認が労働組合法七条三号の不当労働行為にあたるとされた事例\n二、郵便局長がいわゆる服務表につき全逓信労働組合支部との団体交渉に応ずる権限を有するものと認められた事例",
+  "case_gist": "（省略）",
+  "ref_law": "公共企業体等労働関係法3条，公共企業体等労働関係法8条，公共企業体等労働関係法9条，公共企業体等労働関係法10条，労働組合法7条3号",
+  "lawsuit_id": "66845",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66845",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/845/066845_hanrei.pdf"
+}

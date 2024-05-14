@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 9,
+    "day": 1
+  },
+  "case_number": "昭和41(オ)997",
+  "case_name": "配当表異議",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第21巻7号1755頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和40(ネ)1251",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 4,
+    "day": 28
+  },
+  "gist": "抵当権者から委任をうけた者の過誤による申請によつて抵当権設定登記が抹消された場合と対抗力の消長",
+  "case_gist": "抵当権者から委任をうけた者の過誤による申請によつて抵当権設定登記が抹消された場合には、該抵当権の対抗力は消滅する。",
+  "ref_law": "民法177条",
+  "lawsuit_id": "55056",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55056",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/056/055056_hanrei.pdf"
+}

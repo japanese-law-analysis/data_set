@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 6,
+    "day": 3
+  },
+  "case_number": "昭和41(オ)64",
+  "case_name": "損害賠償、同付帯控訴請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第83号685頁",
+  "original_court_name": "札幌高等裁判所\n        　函館支部",
+  "original_case_number": "昭和40(ネ)7",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 10,
+    "day": 21
+  },
+  "gist": "失火者に重大な過失があつたものと認められた事例",
+  "case_gist": "ストーブおよびその煙突に腐蝕ないし接合不良の箇所があり、過去二年間に三回も小火を出したことがあつて、消防署や隣人から注意を受けていたが、僅かに消火器を備えていた程度で、ストーブから約三〇糎の距離の場所に依然として木綿や毛糸のボロ屑を山積しており、出火当日も、午後七時半頃ストーブの残り火があつたのに、その後見廻りもしなかつた等原判決（引用の一審判決）判示の事情のもとにおいては、右ストーブよりの失火は、重大な過失によるものと認めるのが相当である。",
+  "ref_law": "民法709条，失火の責任に関する法律",
+  "lawsuit_id": "77799",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77799",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/799/077799_hanrei.pdf"
+}

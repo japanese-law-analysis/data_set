@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 5,
+    "day": 1
+  },
+  "case_number": "昭和36(オ)674",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第60号527頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 3,
+    "day": 23
+  },
+  "gist": "弁護士資格の喪失後の訴訟代理人の訴訟行為",
+  "case_gist": "弁護士たる資格を喪失した後の訴訟代理人が訴訟に関与した訴訟手続のかしは、本件のごとき場合、原判決になんらの影響も及ぼさない。",
+  "ref_law": "民訴法79条1項",
+  "lawsuit_id": "77666",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77666",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/666/077666_hanrei.pdf"
+}

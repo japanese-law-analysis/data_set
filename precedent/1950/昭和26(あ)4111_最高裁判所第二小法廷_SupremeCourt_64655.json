@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 5,
+    "day": 13
+  },
+  "case_number": "昭和26(あ)4111",
+  "case_name": "物品税法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第80号517頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 9,
+    "day": 5
+  },
+  "gist": "物品税法一二条による政府の承認なくして未完成の家具を移転する場合は物品税納付の義務があるか",
+  "case_gist": "未完成の家具を他の製造場に移出しようとする場合に、製造者である被告人が物品税の支払を免れんがためには、物品税法第一二条の規定に依り政府の承認を得ることを要し、承認を得ないで移出するときは物品税納付の義務があるものと解するのが相当である。",
+  "ref_law": "物品税法12条",
+  "lawsuit_id": "64655",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64655",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/655/064655_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 7,
+    "day": 6
+  },
+  "case_number": "昭和35(あ)1352",
+  "case_name": "法人税法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第15巻7号1054頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 4,
+    "day": 27
+  },
+  "gist": "一　法人税法第四八条第一項の逋脱罪の既遂時期。\n二　法人税法第四八条第一項の逋脱罪の成立と修正申告の効果。\n三　法人税法第四三条の二の重加算税のほかに刑罰を科することは、憲法第三九条後段に違反するか。",
+  "case_gist": "一　法人税法第四八条第一項の逋脱罪は納期の経過により既遂となる。\n二　法人税法第四八条第一項の逋脱罪成立後に修正申告をしてこれによる増加税額を納付しても逋脱罪の成立を妨げない。\n三　同一の行為について法人税法第四三条の二の重加算税のほかに刑罰を科しても憲法第三九条後段に違反しない。",
+  "ref_law": "法人税法48条，法人税法24条，法人税法43条の2，憲法39条",
+  "lawsuit_id": "50633",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50633",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/633/050633_hanrei.pdf"
+}

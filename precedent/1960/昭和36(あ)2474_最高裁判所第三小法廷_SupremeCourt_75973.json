@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 5,
+    "day": 29
+  },
+  "case_number": "昭和36(あ)2474",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第142号807頁",
+  "original_court_name": "仙台高等裁判所\n        　秋田支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 10,
+    "day": 11
+  },
+  "gist": "公職選挙法第一四二条第一項の法定外文書の頒布にあたる事例",
+  "case_gist": "一　被告人の本件所為をもつて法定外文書の頒布に当るとした原判示は正当である。\n　（原判決の要旨）\n二　本件文書（何れもビラ）は横約四〇糎、縦約一二〇糎の白地の洋紙に「期必勝Ａ」と墨書（但し◎及びふりがなは朱書）したもので、文書の外形、内容自体（特に候補者の姓名にふりがなまで附して表示している点）からみて選挙運動に使用するための文書と認めるのが相当である。\n三　右の如き文書を作成して作成者以外の者に頒布する行為はそれが特定候補者の選挙運動員に対してなされた場合であつてもその志気を鼓舞激励し、ひいては選挙運動の効果を挙げる目的につながるから公職選挙法第一四二条第一項の禁止に該当する。",
+  "ref_law": "公職選挙法142条1項",
+  "lawsuit_id": "75973",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=75973",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/973/075973_hanrei.pdf"
+}

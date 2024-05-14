@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 1,
+    "day": 31
+  },
+  "case_number": "昭和43(オ)801",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第94号155頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和41(ネ)592",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 5,
+    "day": 1
+  },
+  "gist": "自動車損害賠償保障法三条にいう「自己のために自動車を運行の用に供する者」にあたるとされた事例",
+  "case_gist": "判示のような事実関係のように、商会の運送部門を担当し、従属的関係にある者が事故を起した場合には、その商会を経営する者は、自動車損害賠償保障法三条にいう運行供与者にあたる。",
+  "ref_law": "自動車損害賠償保障法3条",
+  "lawsuit_id": "70356",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70356",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/356/070356_hanrei.pdf"
+}

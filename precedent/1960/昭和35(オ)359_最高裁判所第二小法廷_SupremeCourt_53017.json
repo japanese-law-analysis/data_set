@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 8,
+    "day": 10
+  },
+  "case_number": "昭和35(オ)359",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第16巻8号1720頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 12,
+    "day": 24
+  },
+  "gist": "一個の債権の数量的な一部請求についての判決の既判力",
+  "case_gist": "一個の債権の数量的な一部についてのみ判決を求める旨を明示して訴が提起された場合に、右一部請求についての確定判決の既判力は残部の請求に及ばない。",
+  "ref_law": "民訴法199条",
+  "lawsuit_id": "53017",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53017",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/017/053017_hanrei.pdf"
+}

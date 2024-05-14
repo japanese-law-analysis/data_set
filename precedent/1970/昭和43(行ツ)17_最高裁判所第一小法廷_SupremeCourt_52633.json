@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 10,
+    "day": 12
+  },
+  "case_number": "昭和43(行ツ)17",
+  "case_name": "汚物取扱業不許可処分取消請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第26巻8号1410頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和40(行コ)37",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 11,
+    "day": 21
+  },
+  "gist": "清掃法一五条一項によるし尿浄化槽内汚物取扱業の不許可処分が裁量権の範囲を逸脱したものでないとされた事例",
+  "case_gist": "清掃法一五条一項によるし尿浄化槽内汚物取扱業についての不許可処分が、その申請者において申請地域外の汚物をも取り扱つているため、他地域の汚物が申請地域の汚物処理場に持ち込まれるおそれがあり、また、申請地域の汚物の処理にはすでに許可を得ている業者だけで十分であるなど判示のような事情を考慮してされたものであるときは、それにより、従来許可を要しないとの取扱いのもとでし尿浄化槽清掃に従事していた申請者の営業実績が無に帰することになつたとしても、それだけで右不許可処分が裁量権の範囲を逸脱したものということはできない。",
+  "ref_law": "清掃法3条，清掃法6条1項，清掃法15条1項",
+  "lawsuit_id": "52633",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52633",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/633/052633_hanrei.pdf"
+}

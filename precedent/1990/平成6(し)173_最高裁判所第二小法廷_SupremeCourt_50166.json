@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 7,
+    "month": 6,
+    "day": 28
+  },
+  "case_number": "平成6(し)173",
+  "case_name": "訴訟終了宣言決定に対する異議申立て棄却決定に対する特別抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "その他",
+  "article_info": "刑集　第49巻6号785頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 6,
+    "month": 11,
+    "day": 30
+  },
+  "gist": "死刑判決の言渡しを受けた被告人の控訴取下げが無効とされた事例",
+  "case_gist": "死刑判決の言渡しを受けた被告人が、その判決に不服があるのに、死刑判決の衝撃及び公判審理の重圧に伴う精神的苦痛によって精神障害を生じ、その影響下において、苦痛から逃れることを目的として控訴を取り下げたなどの判示の事実関係の下においては、被告人の控訴取下げは、自己の権利を守る能力を著しく制限されていたものであって、無効である。",
+  "ref_law": "刑訴法359条，刑訴法411条1号",
+  "lawsuit_id": "50166",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50166",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/166/050166_hanrei.pdf"
+}

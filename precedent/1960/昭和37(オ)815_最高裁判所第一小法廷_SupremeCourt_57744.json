@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 6,
+    "day": 23
+  },
+  "case_number": "昭和37(オ)815",
+  "case_name": "名誉および信用毀損による損害賠償および慰藉料請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第20巻5号1118頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和34(ネ)359",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 3,
+    "day": 15
+  },
+  "gist": "公共の利害に関する事実の摘示と名誉毀損の成否",
+  "case_gist": "名誉毀損については、当該行為が公共の利害に関する事実に係りもつぱら公益を図る目的に出た場合において、摘示された事実が真実であることが証明されたときは、その行為は、違法性を欠いて、不法行為にならないものというべきである。",
+  "ref_law": "民法710条",
+  "lawsuit_id": "57744",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57744",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/744/057744_hanrei.pdf"
+}

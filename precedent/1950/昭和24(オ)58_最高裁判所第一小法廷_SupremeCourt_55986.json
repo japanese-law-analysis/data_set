@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 12,
+    "day": 14
+  },
+  "case_number": "昭和24(オ)58",
+  "case_name": "仮処分申請",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第7巻12号1386頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 1,
+    "day": 17
+  },
+  "gist": "債務者が自ら権利を行使する場合における債権者代位権行使の許否",
+  "case_gist": "債務者がすでに自ら権利を行使している場合には、その行使の方法または結果の良いと否とにかかわらず、債権者は債権者代位権を行使することはできない。",
+  "ref_law": "民法423条",
+  "lawsuit_id": "55986",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55986",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/986/055986_hanrei.pdf"
+}

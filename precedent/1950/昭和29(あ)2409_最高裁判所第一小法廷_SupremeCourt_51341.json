@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 3,
+    "day": 17
+  },
+  "case_number": "昭和29(あ)2409",
+  "case_name": "贈賄、收賄",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第9巻3号477頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 6,
+    "day": 1
+  },
+  "gist": "一　刑法第一九七条第一項後段の請託の意義\n二　右に関する法令適用の誤は、贈賄者について刑訴第四一一条第一号に該当するか",
+  "case_gist": "一　室内装飾工事の請負人が特別調達局施行の工事につき同局勤務の総理府事務官に対し、一定の職務行為の依頼でなしに、単にその工事の監督促進につき何かと世話になつた謝礼および将来好意ある取扱を受けたい趣旨で金員を供与するのは、刑法第一九八条第一九七条第一項後段にいう請託を贈賄したことにはならない。\n二　右の場合これを刑法第一九八条第一九七条第一項に問擬しても、その違反は刑訴第四一一条第一号に該当しない。",
+  "ref_law": "刑法198条，刑法197条1項，刑訴法411条1号",
+  "lawsuit_id": "51341",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51341",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/341/051341_hanrei.pdf"
+}

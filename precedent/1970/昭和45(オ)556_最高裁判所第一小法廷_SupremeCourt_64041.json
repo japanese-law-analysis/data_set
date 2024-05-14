@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 11,
+    "day": 5
+  },
+  "case_number": "昭和45(オ)556",
+  "case_name": "数量不足による過払代金返還請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第101号347頁",
+  "original_court_name": "高松高等裁判所",
+  "original_case_number": "昭和42(ネ)223",
+  "original_date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 2,
+    "day": 27
+  },
+  "gist": "宅地の売買がいわゆる数量指示売買ではないとされた事例",
+  "case_gist": "（省略）",
+  "ref_law": "民法565条",
+  "lawsuit_id": "64041",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64041",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/041/064041_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 9,
+    "day": 21
+  },
+  "case_number": "昭和38(オ)861",
+  "case_name": "利得返還請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第80号415頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和33(ネ)443",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 4,
+    "day": 10
+  },
+  "gist": "民法第二四二条但書の適用がないとされた事例",
+  "case_gist": "建物所有者の承諾を得て建物に増築した場合でも、増築部分が、構造、用法及び取引の観点から社会的経済的に考察して、独立の建物と同一視できない場合は、民法第二四二条但書の適用はなく増築部分の所有権は附合により建物所有者に帰属する。",
+  "ref_law": "民法242条",
+  "lawsuit_id": "66257",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66257",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/257/066257_hanrei.pdf"
+}

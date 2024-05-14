@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 2,
+    "day": 26
+  },
+  "case_number": "昭和38(オ)361",
+  "case_name": "義務教育費負担請求",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第18巻2号343頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 12,
+    "day": 19
+  },
+  "gist": "公立小学校の教科書代の父兄負担と憲法第二六条第二項後段。",
+  "case_gist": "公立小学校の教科書代を父兄に負担させることは、憲法第二六条第二項後段の規定に違反しない。",
+  "ref_law": "憲法26条",
+  "lawsuit_id": "53124",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53124",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/124/053124_hanrei.pdf"
+}

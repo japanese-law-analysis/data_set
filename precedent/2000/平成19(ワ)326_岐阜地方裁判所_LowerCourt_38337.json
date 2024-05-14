@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 10,
+    "day": 28
+  },
+  "case_number": "平成19(ワ)326",
+  "case_name": "損害賠償請求事件",
+  "court_name": "岐阜地方裁判所",
+  "result": "その他",
+  "gist": "市長が競争入札参加資格者名簿登録業者である原告を指名競争入札において指名しなかったことが違法であるとされた事例",
+  "lawsuit_id": "38337",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=38337",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/337/038337_hanrei.pdf",
+  "contents": ""
+}

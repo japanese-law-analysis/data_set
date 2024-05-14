@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 7,
+    "day": 3
+  },
+  "case_number": "昭和29(あ)2032",
+  "case_name": "贈賄",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第10巻7号965頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 5,
+    "day": 10
+  },
+  "gist": "一　警察署長に対する賄賂供与の申込においてその警察署が刑法第一九七条の二の第三者たりうるか\n二　賄賂供与申込罪の成立と相手方の知情の要否",
+  "case_gist": "一　警察署長に対し、その職務に関し請託をして、その警察署において使用する自動車の改造費用の負担を申込んだときは、その警察署は刑法第一九七条の二にいう第三者に当る。\n\n二　賄賂供与申込の罪は、第一点に説示したように申込者の一方的行為により成立るのであるから、申込の趣旨が相手方たる公務員に認識されなかつたとしても、相手方に対して認識し得べき状態においてこれをなすにおいては成立するものと解するを相当とし、同趣旨の原判示に誤はない。",
+  "ref_law": "刑法197条の2，刑法198条",
+  "lawsuit_id": "51331",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51331",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/331/051331_hanrei.pdf"
+}

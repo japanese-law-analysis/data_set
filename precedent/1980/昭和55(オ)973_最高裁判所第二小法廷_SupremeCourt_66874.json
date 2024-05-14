@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 3,
+    "day": 18
+  },
+  "case_number": "昭和55(オ)973",
+  "case_name": "遺贈存在確認等",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第138号277頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和54(ネ)770",
+  "original_date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 6,
+    "day": 26
+  },
+  "gist": "遺言書中の特定の条項の解釈",
+  "case_gist": "遺言の解釈にあたつては、遺言書の文言を形式的に判断するだけでなく、遺言者の真意を探究すべきものであり、遺言書の特定の条項を解釈するにあたつても、当該条項と遺言書の全記載との関連、遺言書作成当時の事情及び遺言者の置かれていた状況などを考慮して当該条項の趣旨を確定すべきである。",
+  "ref_law": "民法968条",
+  "lawsuit_id": "66874",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66874",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/874/066874_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 3,
+    "day": 5
+  },
+  "case_number": "昭和45(オ)1117",
+  "case_name": "所有権確認等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第102号219頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和43(ネ)1855",
+  "original_date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 8,
+    "day": 27
+  },
+  "gist": "請負人が材料全部を提供して建築した建物が完成と同時に注文者の所有に帰したものと認められた事例",
+  "case_gist": "請負人が、材料全部を提供して、注文者の所有する土地に建物を建築した場合において、請負契約が分譲を目的とする建物六棟につき一括してされたものであり、請負人は、その内三棟については注文者ないしこれから分譲を受けた入居者らに異議なくその引渡を了し、注文者から、請負代金の全額につきその支払のための手形を受領し、その際、六棟全部についての建築確認通知書を注文者に交付したなど、判示の事実関係があるときは、右確認通知書交付にあたり、六棟の建物につき完成と同時に注文者に所有権を帰属させる旨の合意がなされ、いまだ引渡しのされていない建物も完成と同時に注文者の所有に帰したものと認めることができる。",
+  "ref_law": "民法176条，民法655条",
+  "lawsuit_id": "64015",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64015",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/015/064015_hanrei.pdf"
+}

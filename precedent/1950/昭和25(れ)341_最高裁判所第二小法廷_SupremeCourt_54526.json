@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 7,
+    "day": 14
+  },
+  "case_number": "昭和25(れ)341",
+  "case_name": "業務上横領",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第4巻8号1388頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 11,
+    "day": 29
+  },
+  "gist": "檢事の求刑より重い刑の言渡の合憲性",
+  "case_gist": "裁判長が檢事の意見に反してその求刑よりも重い刑を言渡しても憲法第三六條又は第三七條第一項に反しない。",
+  "ref_law": "舊刑訴法349條1項，憲法36條，憲法37條1項",
+  "lawsuit_id": "54526",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54526",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/526/054526_hanrei.pdf"
+}

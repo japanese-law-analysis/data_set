@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 10,
+    "day": 24
+  },
+  "case_number": "昭和46(行ツ)54",
+  "case_name": "農地買収売渡無効確認等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第113号69頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和42(行コ)23",
+  "original_date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 3,
+    "day": 18
+  },
+  "gist": "一、家督相続人の遺留分を害する財産留保の効力\n二、確定日附ある証書の紛失と財産留保の効力",
+  "case_gist": "一、家督相続人の遺留分を害する財産留保は、その害する限度で、遺留分に関する規定にのつとり減殺請求権に服するにとどまり、当然に無効となるものではない。\n二、いつたん確定日附ある証書によつて財産留保がされた以上、その後右証書が紛失しても、その効力に何らの影響を及ぼさない。",
+  "ref_law": "旧民法（昭和22年法律第222号による改正前のもの）988条",
+  "lawsuit_id": "70393",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70393",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/393/070393_hanrei.pdf"
+}

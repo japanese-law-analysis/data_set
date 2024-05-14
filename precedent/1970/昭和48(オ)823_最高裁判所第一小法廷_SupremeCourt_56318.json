@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 3,
+    "day": 17
+  },
+  "case_number": "昭和48(オ)823",
+  "case_name": "転付債権請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第31巻2号308頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和47(ネ)1300",
+  "original_date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 5,
+    "day": 10
+  },
+  "gist": "譲渡禁止の特約のある指名債権を譲受人が特約の存在を知つて譲り受けたのち債務者がその譲渡につき承諾を与えた場合と承諾後債権の差押・転付命令を得た第三者に対する右債権譲渡の効力",
+  "case_gist": "譲渡禁止の特約のある指名債権を譲受人が特約の存在を知つて譲り受けた場合でも、債務者がその譲渡につき承諾を与えたときは、債権譲渡は譲渡の時にさかのぼつて有効となり、譲渡に際し債権者から債務者に対して確定日付のある譲渡通知がされている限り、債務者は、右承諾後に債権の差押・転付命令を得た第三者に対しても債権譲渡の効力を対抗することができる。",
+  "ref_law": "民法119条，民法466条，民法467条",
+  "lawsuit_id": "56318",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56318",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/318/056318_hanrei.pdf"
+}

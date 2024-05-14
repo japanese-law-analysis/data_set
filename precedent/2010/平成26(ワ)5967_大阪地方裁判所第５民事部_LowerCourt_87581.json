@@ -1,0 +1,16 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 30,
+    "month": 2,
+    "day": 21
+  },
+  "case_number": "平成26(ワ)5967",
+  "case_name": "地位確認等請求事件",
+  "court_name": "大阪地方裁判所第５民事部",
+  "gist": "時給制契約社員又は月給制契約社員である原告らと，被告の正社員との労働条件の相違のうち，年末年始勤務手当，住居手当（平成２６年４月以降に限る。）及び扶養手当に関する相違は不合理であり労働契約法２０条に違反するが，夏期年末手当等に関する相違については不合理なものであるとまで認められないとして，原告らの損害賠償請求が一部認容された事例",
+  "lawsuit_id": "87581",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=87581",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/581/087581_hanrei.pdf"
+}

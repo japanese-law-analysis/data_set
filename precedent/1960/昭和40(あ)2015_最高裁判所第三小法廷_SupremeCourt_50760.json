@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 6,
+    "day": 25
+  },
+  "case_number": "昭和40(あ)2015",
+  "case_name": "有価証券偽造、同行使、詐欺",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第22巻6号490頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 6,
+    "day": 18
+  },
+  "gist": "漁業協同組合参事が上司の決裁を受けることなく組合長振出名義の融通手形を作成した行為につき有価証券偽造罪が成立するとされた事例",
+  "case_gist": "被告人が水産業協同組合法により支配人に関する商法の規定が準用される漁業協同組合参事であつても、同組合内部の定めとしては、同組合が融通手形として振り出す組合長振出名義の約束手形の作成権限はすべて専務理事に属するものとされ、被告人は単なる起案者、補佐役として右手形作成に関与していたにすぎない場合において、同人が組合長または専務理事の決裁・承認を受けることなく融通手形として組合長振出名義の約束手形を作成したときは、有価証券偽造罪が成立する。",
+  "ref_law": "刑法162条1項，水産業協同組合法46条，商法38条1項，商法38条3項",
+  "lawsuit_id": "50760",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50760",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/760/050760_hanrei.pdf"
+}

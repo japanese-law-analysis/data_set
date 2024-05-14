@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 16,
+    "month": 10,
+    "day": 8
+  },
+  "case_number": "平成16(し)244",
+  "case_name": "公判記録の謄写許可の措置に関する抗告棄却決定に対する特別抗告事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第286号355頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 16,
+    "month": 8,
+    "day": 17
+  },
+  "gist": "犯罪被害者等の保護を図るための刑事手続に付随する措置に関する法律３条１項に基づき訴訟記録を謄写させる措置に対する抗告の許否（消極）",
+  "ref_law": "犯罪被害者等の保護を図るための刑事手続に付随する措置に関する法律3条1項",
+  "lawsuit_id": "57866",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57866",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/866/057866_hanrei.pdf"
+}

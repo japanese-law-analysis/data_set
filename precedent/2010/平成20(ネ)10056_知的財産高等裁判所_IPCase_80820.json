@@ -1,0 +1,18 @@
+{
+  "trial_type": "IPCase",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 10,
+    "day": 25
+  },
+  "case_number": "平成20(ネ)10056",
+  "case_name": "各損害賠償請求控訴事件",
+  "court_name": "知的財産高等裁判所",
+  "right_type": "特許権",
+  "lawsuit_type": "民事訴訟",
+  "lawsuit_id": "80820",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail7?id=80820",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/820/080820_hanrei.pdf",
+  "contents": "W41SA H18.2.22 - H18.10.22\nW45T H18.9.29 - H18.12.29\nW43CA H18.9.21 - H18.12.21\nW43H H18.9.21 - H.18.12.21\n1,545,753 65,536,075,200\n"
+}

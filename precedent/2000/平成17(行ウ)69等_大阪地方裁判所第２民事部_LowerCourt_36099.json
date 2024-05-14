@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 2,
+    "day": 29
+  },
+  "case_number": "平成17(行ウ)69等",
+  "case_name": "固定資産税等賦課徴収懈怠違法確認等請求",
+  "court_name": "大阪地方裁判所第２民事部",
+  "gist": "ため池として登記されているが，水面上にデッキプレートが設置されて建物敷地として利用され，貯溜水が現実に耕地かんがいの用に供されていたものとは認められない土地について，市がこれを宅地として評価せず固定資産税等を賦課徴収していないことは違法であるとされた事例",
+  "lawsuit_id": "36099",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=36099",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/099/036099_hanrei.pdf",
+  "contents": ""
+}

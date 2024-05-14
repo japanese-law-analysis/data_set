@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 10,
+    "day": 16
+  },
+  "case_number": "昭和27(あ)2190",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第68号351頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 3,
+    "day": 12
+  },
+  "gist": "家庭の都合で上告した旨を記載した上告趣意書は適法か",
+  "case_gist": "何等上告の趣意を記載していない上告趣意書（家庭の都合で上告した旨記載）は、適法な上告趣意書とは認めることができないから判断を与える必要がない。",
+  "ref_law": "刑訴法407条，刑訴規則240条，刑訴規則266条",
+  "lawsuit_id": "64886",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64886",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/886/064886_hanrei.pdf"
+}

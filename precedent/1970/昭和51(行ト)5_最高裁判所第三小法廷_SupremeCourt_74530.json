@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 3,
+    "day": 10
+  },
+  "case_number": "昭和51(行ト)5",
+  "case_name": "行政処分執行停止申立事件の決定に対する抗告につきした抗告棄却決定に対する抗告",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "却下",
+  "article_info": "集民　第120号217頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和49(行ス)13",
+  "original_date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 2,
+    "day": 10
+  },
+  "gist": "外国人に対する退去強制令書の執行と裁判を受ける権利",
+  "case_gist": "外国人が退去強制令書によりその本国等に強制送還されても、日本において裁判を受ける権利を否定されることにはならない。",
+  "ref_law": "憲法32条，出入国管理令24条，出入国管理令52条",
+  "lawsuit_id": "74530",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74530",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/530/074530_hanrei.pdf"
+}

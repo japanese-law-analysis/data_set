@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 9,
+    "day": 25
+  },
+  "case_number": "昭和28(し)66",
+  "case_name": "電車汽車往来危険等被告事件につきなした弁論分離決定に対する特別抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第86号1061頁",
+  "original_court_name": "東京地方裁判所\n        　八王子支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 8,
+    "day": 10
+  },
+  "lawsuit_id": "72930",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=72930",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/930/072930_hanrei.pdf"
+}

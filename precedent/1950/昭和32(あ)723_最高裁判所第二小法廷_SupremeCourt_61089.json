@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 6,
+    "day": 15
+  },
+  "case_number": "昭和32(あ)723",
+  "case_name": "覚せい剤取締法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第119号499頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 2,
+    "day": 28
+  },
+  "gist": "覚せい剤の譲受行為とその所持とを別罪と認定する場合",
+  "case_gist": "一　原判示は正当である。\n二　（註。原判決要旨）覚せい剤を譲り受けた者が、時間的空間的関係において格別の推移変動が認められない状態においてこれを所持するときは、その所持を譲受に随伴する必然的結果として譲受行為に包括吸収せられるものと解すべきであろうが、譲受後における所持に若干の時間的推移と空間的変動とを来たし、社会通念上新たな所持が開始されたと目される場合には、もはや、これを以つて譲受行為に包括せられるものということはできない。",
+  "ref_law": "覚せい剤取締法14条，覚せい剤取締法17条3項",
+  "lawsuit_id": "61089",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61089",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/089/061089_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 1,
+    "day": 29
+  },
+  "case_number": "昭和43(あ)95",
+  "case_name": "強制わいせつ",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "刑集　第24巻1号1頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 12,
+    "day": 26
+  },
+  "gist": "専ら報復または侮辱虐待の目的をもつて婦女を脅迫し裸にして撮影する行為と強制わいせつ罪の成否",
+  "case_gist": "強制わいせつ罪が成立するためには、その行為が犯人の性欲を刺戟興奮させまたは満足させるという性的意図のもとに行なわれることを要し、婦女を脅迫し裸にして、その立つているところを撮影する行為であつても、これが専らその婦女に報復し、または、これを侮辱し、虐待する目的に出たときは、強要罪その他の罪を構成するのは格別、強制わいせつの罪は成立しない。",
+  "ref_law": "刑法176条",
+  "lawsuit_id": "50924",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50924",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/924/050924_hanrei.pdf"
+}

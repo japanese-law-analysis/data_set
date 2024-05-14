@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 4,
+    "day": 10
+  },
+  "case_number": "昭和37(オ)493",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第73号77頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 1,
+    "day": 30
+  },
+  "gist": "一　証人の取調べをなくしても審理不尽の違法があるとはいえないとされた事例。\n二　民訴規則第四九条に違反するとされた事例。",
+  "case_gist": "一　第一回口頭弁論期日において証人尋問が採用されたが、当事者が証拠申請書、証人尋問事項等を記載した書面の提出もせず、約三カ月後の第二回口頭弁論期日に右当事者が何ら理由を届け出ることなく出頭しなかつた場合には、裁判所は右証人を取調べることなく弁論を終結しても、審理不尽の違法があるとはいえない。\n二　「その余の理由は控訴理由と同一につき援用する」との論旨は、具体的上告理由の記載がなく、民訴規則第四九条に違反し採るを得ない。",
+  "ref_law": "民訴法259条，民訴法395条1項6号，民訴規則49条",
+  "lawsuit_id": "63811",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63811",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/811/063811_hanrei.pdf"
+}

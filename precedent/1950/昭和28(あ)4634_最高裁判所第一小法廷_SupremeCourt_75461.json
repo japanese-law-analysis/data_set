@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 5,
+    "day": 6
+  },
+  "case_number": "昭和28(あ)4634",
+  "case_name": "砂糖消費税法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第95号65頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 9,
+    "day": 28
+  },
+  "gist": "砂糖消費税法第一七条にいわゆる法人の業務はその定款に定められた事業の範囲に限られるか",
+  "case_gist": "所論砂糖消費税法一七条にいわゆる「法人の業務」は、必ずしも法人の定款に定められた事業に限るものではなく、法人が自己の計算において反覆継続の意思をもつて行う事業をも含むものと解するを相当とする（判例集四巻一〇号一九三六頁参照）。",
+  "ref_law": "砂糖消費税法（昭和27年法律第57号による改正前のもの）17条",
+  "lawsuit_id": "75461",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=75461",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/461/075461_hanrei.pdf"
+}

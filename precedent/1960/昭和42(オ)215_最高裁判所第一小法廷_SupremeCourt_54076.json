@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 8,
+    "day": 29
+  },
+  "case_number": "昭和42(オ)215",
+  "case_name": "損害賠償等請求再審事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第22巻8号1740頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和41(ム)4",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 11,
+    "day": 9
+  },
+  "gist": "再審の訴を却下した判決ののち偽証について有罪の判決が確定したことは右判決に対する上告の理由となるか",
+  "case_gist": "控訴裁判所の確定判決に対し、その証拠となつた証言が偽証であるとして、再審の訴が提起されたが、民訴法第四二〇条第二項の要件について主張および立証がないため、右訴を却下する判決がされた場合には、その後右偽証について有罪の判決が確定し、上告裁判所に駒いてその旨が主張されたとしても、右訴却下の判決に対する上告の理由として採用することはできない。",
+  "ref_law": "民訴法420条1項7号，民訴法420条2項，民訴法394条，民訴法395条，民訴法158条",
+  "lawsuit_id": "54076",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54076",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/076/054076_hanrei.pdf"
+}

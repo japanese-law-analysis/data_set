@@ -1,0 +1,19 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 30,
+    "month": 1,
+    "day": 19
+  },
+  "case_number": "平成28(行コ)59",
+  "case_name": "退去強制令書発付処分等取消請求控訴事件",
+  "court_name": "名古屋高等裁判所",
+  "original_court_name": "名古屋地方裁判所",
+  "original_case_number": "平成27(行ウ)135",
+  "original_result": "棄却",
+  "gist": "中華人民共和国国籍を有する外国人男性に対する出入国管理及び難民認定法４９条１項に基づく異議の申出には理由がない旨の裁決及び退去強制令書発付処分について，この男性と裁決当時において約６か月同居していた永住者の在留資格を有する同国国籍を有する女性との内縁関係は，安定かつ成熟していたということが可能であるにもかかわらず，この積極要素を全く考慮せず，態様が特に悪質であったとはいえない不法就労という消極要素を過大に考慮してなされたものであり，社会通念に照らし著しく合理性を欠くから，裁量権を逸脱した違法があるとして，裁決及び処分が取り消された事例",
+  "lawsuit_id": "87815",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=87815",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/815/087815_hanrei.pdf"
+}

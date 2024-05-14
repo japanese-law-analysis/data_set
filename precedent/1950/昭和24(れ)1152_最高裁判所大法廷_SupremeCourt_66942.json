@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 10,
+    "day": 11
+  },
+  "case_number": "昭和24(れ)1152",
+  "case_name": "窃盗、賍物寄蔵、賍物故買、銃砲等所持禁止令違反",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第19号761頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 2,
+    "day": 10
+  },
+  "gist": "公判決外の証人訊問に被告人が立会しなければ憲法に違反するか",
+  "case_gist": "公判廷外の証人訊問については弁護人立会のもとに行われていることとが記録上明白であるから被告人が立会しなくとも必ずしも所論憲法第三七条第二項に違背するものではない。（昭和二三年れ第一〇五四号同年九月二二日大法廷判決参照）論旨は理由がない。",
+  "ref_law": "憲法37条2項，旧刑訴法208条",
+  "lawsuit_id": "66942",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66942",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/942/066942_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 2,
+    "day": 6
+  },
+  "case_number": "昭和34(オ)888",
+  "case_name": "離婚請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第16巻2号206頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 6,
+    "day": 29
+  },
+  "gist": "婚姻を継続し難い重大な事由があると認められた事例",
+  "case_gist": "夫婦の性生活において、夫の態度が常態でなく、約一年半の同居期間中終始かわらない状況にあり、また妻が、夫は睾丸を切除したけれど夫婦生活には大して影響がないとの医師の言を信じて結婚したこと等原審認定の諸事情（原判決参照）があるときは、民法第七七〇条第一項五号にいう婚姻を継続し難い重大な事由があるものと認められる。",
+  "ref_law": "民法770条1項5号",
+  "lawsuit_id": "52988",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52988",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/988/052988_hanrei.pdf"
+}

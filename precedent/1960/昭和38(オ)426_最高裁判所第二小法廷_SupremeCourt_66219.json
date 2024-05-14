@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 12,
+    "day": 3
+  },
+  "case_number": "昭和38(オ)426",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第81号281頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和34(ネ)1055",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 12,
+    "day": 25
+  },
+  "gist": "一　税関吏の過失と押収船舶の類焼による損害との間に相当因果関係が認められた事例\n二　前項の損害の算定につき類焼後差押解除時までの間に騰貴した改修費用も含まれるとされた事例",
+  "case_gist": "一　税関吏が税関押収の船舶の噴油弁を取り外させて保管中、台風が近づいたのに右噴油弁の返還処置を怠つたため、右船舶が台風のため押し流されて他の船舶の火災から類焼を受けた等原判示（原判決および一審判決理由参照）の事情のもとにおいては、右税関吏の過失と押収船舶の類焼との間に相当因果関係があるものと解するべきである。\n二　前項の類焼時から差押が解除されるまでに約二年の期間が経過し、還付後の改修費が被害を受けた当時の見積額より増加したとしても、それが自然騰貴によるものである以上、その増加分も損害額に含めて賠償を命ずることが相当である。",
+  "ref_law": "民法709条，民法416条",
+  "lawsuit_id": "66219",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66219",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/219/066219_hanrei.pdf"
+}

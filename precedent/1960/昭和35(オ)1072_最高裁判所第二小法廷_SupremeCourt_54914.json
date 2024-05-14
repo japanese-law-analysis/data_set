@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 3,
+    "day": 24
+  },
+  "case_number": "昭和35(オ)1072",
+  "case_name": "審判官除斥申立事件決定取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第15巻3号587頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 5,
+    "day": 26
+  },
+  "gist": "特許庁審判官の除斥申立を却下する決定の取消を求むる訴の適否。",
+  "case_gist": "特許庁審判官の除斥申立を却下する決定に対しては、取消を求める訴を提起することができない。",
+  "ref_law": "特許法（大正10年法律96号）95条，特許法（大正10年法律96号）128条ノ2第1項，特許法（昭和34年法律121号）143条，特許法（昭和34年法律121号）178条",
+  "lawsuit_id": "54914",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54914",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/914/054914_hanrei.pdf"
+}

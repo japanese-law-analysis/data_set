@@ -1,0 +1,19 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 3,
+    "day": 26
+  },
+  "case_number": "昭和59(行ウ)97",
+  "case_name": "大阪都市計画事業等事業計画決定取消請求事件",
+  "court_name": "大阪地方裁判所",
+  "field": "行政",
+  "gist": "都市再開発法に基づく第二種市街地再開発事業計画の決定は，抗告訴訟の対象となる行政処分に当たるか",
+  "case_gist": "都市再開発法に基づく第二種市街地再開発事業計画の決定は，抗告訴訟の対象となる行政処分に当たらない。",
+  "lawsuit_id": "35998",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=35998",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/998/035998_hanrei.pdf",
+  "contents": ""
+}

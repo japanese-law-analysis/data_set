@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 4,
+    "day": 13
+  },
+  "case_number": "平成16(ワ)1069",
+  "case_name": "損害賠償請求",
+  "court_name": "東京地方裁判所民事第３４部",
+  "result": "棄却",
+  "gist": "帝王切開で出生した女児に脳性麻痺が生じたことについて、担当医師に適切な呼吸管理を怠った過失、血液ガス分析を十分に行わなかった過失、小児科への転科時期が遅れた過失が認められないとして、原告の損害賠償請求が棄却された事例",
+  "lawsuit_id": "34590",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=34590",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/590/034590_hanrei.pdf",
+  "contents": ""
+}

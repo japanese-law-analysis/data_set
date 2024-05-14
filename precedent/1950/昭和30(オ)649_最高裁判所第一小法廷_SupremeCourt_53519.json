@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 11,
+    "day": 19
+  },
+  "case_number": "昭和30(オ)649",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第13巻12号1500頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 6,
+    "day": 6
+  },
+  "gist": "一　控訴状における被控訴人の表示の誤記と補正\n二　偽証と民訴法第第四二〇条第一項七号",
+  "case_gist": "一　控訴状に被控訴人の表示を「東京都千代田区ａｂ丁目ｂ番地Ａ株式会社右代表者代表取締役Ｄ」と記載すべきを、「東京都中央区ｃｄ丁目ｄ番地ｅＡ株式会社右代表者代表取締役Ｅ」と誤記したかしがあつても、控訴審の係属中に訂正した場合には右かしは補正される。\n二　綜合認定に供された証言中に、偽証の証言があつても、偽証の証言が認定に全然関係がないか、もしくは主要事実の認定に影響を及ぼさない事情に関するものに過ぎないときは、民訴第四二〇条第一項七号の再審事由とならない。",
+  "ref_law": "民訴法367条2項，民訴法370条，民訴法228条，民訴法420条1項7号",
+  "lawsuit_id": "53519",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53519",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/519/053519_hanrei.pdf"
+}

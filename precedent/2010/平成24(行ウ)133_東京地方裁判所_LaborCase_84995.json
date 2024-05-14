@@ -1,0 +1,16 @@
+{
+  "trial_type": "LaborCase",
+  "date": {
+    "era": "Heisei",
+    "year": 26,
+    "month": 9,
+    "day": 17
+  },
+  "case_number": "平成24(行ウ)133",
+  "case_name": "遺族補償不支給処分取消請求事件",
+  "court_name": "東京地方裁判所",
+  "field": "労働",
+  "lawsuit_id": "84995",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail6?id=84995",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/995/084995_hanrei.pdf"
+}

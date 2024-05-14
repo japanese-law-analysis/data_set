@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 6,
+    "day": 8
+  },
+  "case_number": "昭和47(ク)77",
+  "case_name": "代替執行事件の授権決定に対する抗告却下の決定に対する抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "その他",
+  "article_info": "集民　第106号267頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和46(ラ)937",
+  "original_date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 1,
+    "day": 31
+  },
+  "gist": "即時抗告期間を徒過したとの原審の決定に判断遺脱がありこれに対する抗告を再審抗告と解するのが相当であるとした事例",
+  "case_gist": "（省略）",
+  "ref_law": "民訴法429条，民訴法420条1項9号",
+  "lawsuit_id": "62146",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62146",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/146/062146_hanrei.pdf"
+}

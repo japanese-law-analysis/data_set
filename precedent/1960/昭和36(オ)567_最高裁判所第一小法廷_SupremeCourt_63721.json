@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 1,
+    "day": 18
+  },
+  "case_number": "昭和36(オ)567",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第58号133頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 2,
+    "day": 28
+  },
+  "ref_law": "借家法1条の二",
+  "lawsuit_id": "63721",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63721",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/721/063721_hanrei.pdf"
+}

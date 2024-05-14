@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 12,
+    "day": 6
+  },
+  "case_number": "平成18(う)120",
+  "case_name": "殺人",
+  "court_name": "広島高等裁判所岡山支部         　第１部",
+  "result": "破棄自判",
+  "original_court_name": "岡山地方裁判所",
+  "original_case_number": "平成17(わ)46",
+  "original_result": "その他",
+  "gist": "被告人が，同居する同人の弟の妻をアジ切包丁で数回突き刺し，多量出血によるショックのため死亡させて殺害したという殺人の事案である。\n　犯行当時，被告人はうつ病のため少なくとも心神耗弱の状態であったから，判決に影響を及ぼすことが明らかな事実誤認がある，量刑が重すぎて不当であるという理由で控訴したものである。\n　証拠によると心神耗弱の状態になかったことが優に認められ，事実誤認は認められないが，精神的疾患が存在すること，同種事犯としては異例の高額の損害賠償がされていること，前科がないこと，妻子が被告人の帰りを待っていることなど，被告人のため斟酌すべき諸事情に徴すると，原判決の量刑は重すぎて不当であるとして，原判決を破棄した上で，懲役７年を言い渡した。",
+  "lawsuit_id": "34050",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=34050",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/050/034050_hanrei.pdf",
+  "contents": ""
+}

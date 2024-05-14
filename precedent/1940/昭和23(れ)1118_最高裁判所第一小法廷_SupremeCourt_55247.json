@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 12,
+    "day": 27
+  },
+  "case_number": "昭和23(れ)1118",
+  "case_name": "詐欺",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第2巻14号1962頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 3,
+    "day": 8
+  },
+  "gist": "上告理由の漠然とした主張と再上告適否",
+  "case_gist": "「原上告判決には、第二審判決が憲法を無視した處分であるか否かについてした判斷に不當があるから、更に上告の申立をする」というごとき漠然たる理由では、再上告の申立は不適法である。",
+  "ref_law": "刑訴應急措置法17條1項",
+  "lawsuit_id": "55247",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55247",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/247/055247_hanrei.pdf"
+}

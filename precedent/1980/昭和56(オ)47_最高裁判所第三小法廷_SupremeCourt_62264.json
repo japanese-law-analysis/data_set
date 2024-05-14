@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 9,
+    "day": 20
+  },
+  "case_number": "昭和56(オ)47",
+  "case_name": "地位確認",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第139号549頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和53(ネ)383",
+  "original_date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 9,
+    "day": 24
+  },
+  "gist": "一　委任契約たる税理士顧問契約と民法六五一条一項に基づく解除\n二　委任契約が受任者の利益のためにも締結されたとはいえないとされた事例",
+  "case_gist": "一　委任契約たる税理士顧問契約は、受任者の利益をも目的として締結された場合でない限り、委任者が、民法六五一条一項に基づき、いつでも、かつ、なんらその理由を告知せずに、解除することができる。\n二　税理士顧問契約において、一般に契約の長期継続が受任事務の的確な処理に資する性質を有し、当事者も通常は相当期間継続することを予定して契約を締結するものであり、依頼者から継続的、定期的に支払われている顧問料が受任者たる税理士の事務所経営の安定の資となつている等の事由があつても、右契約が受任者の利益のためにも締結されたものということはできない。",
+  "ref_law": "民法651条1項",
+  "lawsuit_id": "62264",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62264",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/264/062264_hanrei.pdf"
+}

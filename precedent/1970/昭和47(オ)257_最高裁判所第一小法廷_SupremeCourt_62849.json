@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 11,
+    "day": 2
+  },
+  "case_number": "昭和47(オ)257",
+  "case_name": "建物所有権確認等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第107号91頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和44(ネ)2941",
+  "original_date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 12,
+    "day": 15
+  },
+  "gist": "上告理由で指摘された後に口頭弁論調書の作成が許されないとされた事例",
+  "case_gist": "高等裁判所の判決言渡が三人の裁判官による合議体によつてされなかつた旨の違法が上告理由で指摘されたのちにおいては、判決言渡が右の合議体によつてされた旨を記載する口頭弁論調書（更正調書）を作成することは許されない。",
+  "ref_law": "裁判所法18条，民訴法142条，民訴法147条",
+  "lawsuit_id": "62849",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62849",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/849/062849_hanrei.pdf"
+}

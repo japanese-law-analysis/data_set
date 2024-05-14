@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 12,
+    "day": 4
+  },
+  "case_number": "昭和40(オ)573",
+  "case_name": "抹消登記回復登記承諾請求",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第22巻13号2855頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和35(ネ)370",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 2,
+    "day": 6
+  },
+  "gist": "不法に抹消された仮登記の回復登記と登記上利害の関係を有する第三者の承諾義務",
+  "case_gist": "仮登記が仮登記権利者不知の間に不法に抹消された場合には、登記上利害の関係を有する第三者は、その善意、悪意または回復登記により受ける損害の有無、程度にかかわらず、仮登記権利者の回復登記手続に必要な承諾を与えなければならない。",
+  "ref_law": "不動産登記法2条，不動産登記法67条",
+  "lawsuit_id": "54998",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54998",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/998/054998_hanrei.pdf"
+}

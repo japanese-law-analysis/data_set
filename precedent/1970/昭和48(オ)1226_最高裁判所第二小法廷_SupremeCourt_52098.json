@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 4,
+    "day": 26
+  },
+  "case_number": "昭和48(オ)1226",
+  "case_name": "貸金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第28巻3号540頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和47(ネ)1842",
+  "original_date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 8,
+    "day": 30
+  },
+  "gist": "指名債権の特定遺贈と債務者に対する対抗要件",
+  "case_gist": "指名債権が特定遺贈された場合、遺贈義務者の債務者に対する通知又は債務者の承諾がなければ、受遺者は、遺贈による債権の取得を債務者に対抗することができない。",
+  "ref_law": "民法467条1項，民法964条，民法985条1項",
+  "lawsuit_id": "52098",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52098",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/098/052098_hanrei.pdf"
+}

@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 12,
+    "day": 1
+  },
+  "case_number": "昭和25(れ)853",
+  "case_name": "建造物侵入",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第37号19頁",
+  "original_court_name": "札幌高等裁判所\n        　函館支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 4,
+    "day": 3
+  },
+  "lawsuit_id": "75117",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=75117",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/117/075117_hanrei.pdf"
+}

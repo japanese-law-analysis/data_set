@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 6,
+    "day": 8
+  },
+  "case_number": "平成1(行ト)2",
+  "case_name": "移送決定に対する抗告についてした抗告棄却の決定に対する抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集民　第157号25頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和63(行ス)14",
+  "original_date": {
+    "era": "Showa",
+    "year": 63,
+    "month": 12,
+    "day": 26
+  },
+  "gist": "行政庁を被告とする取消訴訟の管轄を定めた行政事件訴訟法一二条の規定と憲法三二条",
+  "case_gist": "行政庁を被告とする取消訴訟の管轄を定めた行政事件訴訟法一二条の規定は、憲法三二条に違反しない。",
+  "ref_law": "憲法32条，行政事件訴訟法12条",
+  "lawsuit_id": "61880",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61880",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/880/061880_hanrei.pdf"
+}

@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 8,
+    "day": 7
+  },
+  "case_number": "昭和48(あ)168",
+  "case_name": "業務上過失致死",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第190号19頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 12,
+    "day": 13
+  },
+  "gist": "仮定的判断に対する判例違反の主張は不適法である",
+  "lawsuit_id": "59866",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59866",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/866/059866_hanrei.pdf"
+}

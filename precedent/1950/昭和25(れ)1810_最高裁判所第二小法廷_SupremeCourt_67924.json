@@ -1,0 +1,24 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 5,
+    "day": 11
+  },
+  "case_number": "昭和25(れ)1810",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第45号641頁",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 3,
+    "day": 6
+  },
+  "lawsuit_id": "67924",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=67924",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/924/067924_hanrei.pdf"
+}

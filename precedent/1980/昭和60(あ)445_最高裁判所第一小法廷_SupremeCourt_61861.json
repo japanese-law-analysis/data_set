@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 9,
+    "day": 10
+  },
+  "case_number": "昭和60(あ)445",
+  "case_name": "大麻取締法違反、関税法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第240号275頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 2,
+    "day": 13
+  },
+  "gist": "大麻の無害性を理由とする大麻取締法の規定違憲の主張が欠前提とされた事例",
+  "ref_law": "大麻取締法24条，憲法13条，憲法14条，憲法31条，憲法36条",
+  "lawsuit_id": "61861",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61861",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/861/061861_hanrei.pdf"
+}

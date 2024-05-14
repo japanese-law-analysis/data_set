@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 9,
+    "day": 19
+  },
+  "case_number": "昭和24(れ)1836",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第4巻9号1660頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 6,
+    "day": 9
+  },
+  "gist": "控訴審における檢察官の被告事件の陳述と審判の範圍――公訴事實の同一性",
+  "case_gist": "檢察官が占領軍物資の窃盜として公訴を提起したのに對し、第一審がこれを占領軍物資の不法所持と認定し、被告人からの控訴を受けた原審において檢察官は、第一審判決書摘示の通り、被告事件を陳述した場合にも原審がこれを窃盜と認定することは審判の請求を受けない事件について審判をした違法があるということはできない。",
+  "ref_law": "舊刑訴法291條，舊刑訴法410條，舊刑訴法12號，舊刑訴法18號，刑法235條，昭和22年政令165號1條1項",
+  "lawsuit_id": "54308",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54308",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/308/054308_hanrei.pdf"
+}

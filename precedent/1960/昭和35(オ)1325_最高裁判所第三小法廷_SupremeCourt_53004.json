@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 10,
+    "day": 30
+  },
+  "case_number": "昭和35(オ)1325",
+  "case_name": "袋地通行権確認本訴等請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第16巻10号2182頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 8,
+    "day": 30
+  },
+  "gist": "一筆の土地全部を同時に分筆譲渡した場合に生ずる袋地と民法第二一三条第二項の適用。",
+  "case_gist": "土地の所有者が一筆の土地全部を同時に分筆譲渡し、よつて袋地を生じた場合において、袋地の右譲渡人は、民法第二一三条第二項の趣旨に徴し、右分筆前一筆であつた残余の土地についてのみ囲繞地通行権を有するに過ぎないと解すべきである。",
+  "ref_law": "民法213条，民法210条",
+  "lawsuit_id": "53004",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53004",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/004/053004_hanrei.pdf"
+}

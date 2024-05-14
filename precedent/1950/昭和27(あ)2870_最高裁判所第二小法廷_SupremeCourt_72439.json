@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 9,
+    "day": 4
+  },
+  "case_number": "昭和27(あ)2870",
+  "case_name": "常習賭博",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第86号447頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 3,
+    "day": 31
+  },
+  "lawsuit_id": "72439",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=72439",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/439/072439_hanrei.pdf"
+}

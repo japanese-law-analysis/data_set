@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 9,
+    "day": 28
+  },
+  "case_number": "昭和42(行ツ)43",
+  "case_name": "町議会議員一般選挙の効力に関する裁決取消請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第21巻7号1998頁",
+  "original_court_name": "仙台高等裁判所\n        　秋田支部",
+  "original_case_number": "昭和41(行ケ)3",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 1,
+    "day": 30
+  },
+  "gist": "選挙人名簿調製機関が補充選挙人名簿の登録申請を妨げた違法と選挙の効力",
+  "case_gist": "選挙人名簿調製機関が選挙人の補充選挙人名簿の登録申請を妨げた違法は、名簿の脱漏として、法定の選挙人名簿修正争訟によつて争うべきであり、選挙の無効の理由となるものではない。",
+  "ref_law": "公職選挙法（昭和41年法律77号による改正前のもの。）26条，公職選挙法（昭和41年法律77号による改正前のもの。）29条，公職選挙法（昭和41年法律77号による改正前のもの。）23条，公職選挙法（昭和41年法律77号による改正前のもの。）24条，公職選挙法（昭和41年法律77号による改正前のもの。）205条",
+  "lawsuit_id": "55093",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55093",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/093/055093_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 7,
+    "day": 20
+  },
+  "case_number": "昭和34(オ)335",
+  "case_name": "更正登記手続請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第16巻8号1605頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 1,
+    "day": 14
+  },
+  "gist": "免責的債務引受と抵当権の消滅。",
+  "case_gist": "免責的債務引受が行なわれたときは、右債務につき第三者により設定された抵当権は、設定者の同意がない限り、消滅する。",
+  "ref_law": "民法464条，民法369条",
+  "lawsuit_id": "52965",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52965",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/965/052965_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 4,
+    "day": 16
+  },
+  "case_number": "昭和61(オ)625",
+  "case_name": "不当利得返還",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第150号705頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和58(ネ)2570",
+  "original_date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 2,
+    "day": 27
+  },
+  "gist": "供託官が供託金取戻請求権についてされた無効な転付命令を有効なものと誤信して右転付命令取得者に供託元利金の払渡をした場合と民法七〇七条一項の類推適用の有無",
+  "case_gist": "供託官が供託金取戻請求権についてされた無効な転付命令を有効なものと誤信して転付命令取得者に供託元利金の払渡しをした場合において、右転付命令取得者が当該転付命令の執行債権につき証書の毀滅、担保の放棄等の事由を生じさせたとしても、右払渡しに係る供託元利金の不当利得返還請求権について民法七〇七条一項を類推適用すべきものではない。",
+  "ref_law": "民法707条1項，民事執行法160条",
+  "lawsuit_id": "70497",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70497",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/497/070497_hanrei.pdf"
+}

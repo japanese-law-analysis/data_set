@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 5,
+    "day": 20
+  },
+  "case_number": "昭和24(れ)2077",
+  "case_name": "昭和二三年政令第二〇一号違反",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第81号21頁",
+  "original_court_name": "札幌高等裁判所\n        　函館支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 5,
+    "day": 26
+  },
+  "lawsuit_id": "66947",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66947",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/947/066947_hanrei.pdf"
+}

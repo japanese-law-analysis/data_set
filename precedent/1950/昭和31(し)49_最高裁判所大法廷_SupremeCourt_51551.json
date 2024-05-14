@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 6,
+    "day": 12
+  },
+  "case_number": "昭和31(し)49",
+  "case_name": "公訴棄却決定に対する抗告につきなした棄却決定に対する特別抗告",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第11巻6号1649頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 9,
+    "day": 26
+  },
+  "gist": "拘置所長あてに送達された起訴状の謄本が誤つて同姓同名の他の在監者に交付された場合と公訴提起の効力",
+  "case_gist": "拘置所長あてに送達された起訴状の謄本が、誤つて同姓同名の他の在監者に交付され、被告人がその交付を受けなかつた場合には、起訴状の謄本の送達がなかつた場合と同様に、公訴の提起はさかのぼつてその効力を失う。",
+  "ref_law": "刑訴法54条，刑訴法271条，民訴法168条，監獄法48条",
+  "lawsuit_id": "51551",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51551",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/551/051551_hanrei.pdf"
+}

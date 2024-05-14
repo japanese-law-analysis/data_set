@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 3,
+    "day": 28
+  },
+  "case_number": "昭和56(オ)292",
+  "case_name": "土地所有権移転登記手続",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第144号297頁",
+  "original_court_name": "広島高等裁判所",
+  "original_case_number": "昭和54(ネ)298",
+  "original_date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 12,
+    "day": 26
+  },
+  "gist": "一　解除条件付売買契約に基づいて開始される占有と自主占有\n二　解除条件付売買契約に基づいて開始される自主占有の条件成就による他主占有への変更の有無",
+  "case_gist": "一　売買契約に基づいて開始される占有は、残代金が約定期限までに支払われないときは当該売買契約は当然に解除されたものとする旨の解除条件が付されている場合であつても、自主占有であるというを妨げない。\n二　売買契約に基づいて開始された自主占有は、当該売買契約が解除条件（残代金を約定期限までに支払わないときは契約は当然に解除されたものとする旨）の成就により失効しても、それだけでは、他主占有に変わるものではないと解すべきである。",
+  "ref_law": "民法127条2項，民法162条，民法186条",
+  "lawsuit_id": "62869",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62869",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/869/062869_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 3,
+    "day": 17
+  },
+  "case_number": "昭和27(れ)78",
+  "case_name": "詐欺",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第76号229頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 8,
+    "day": 31
+  },
+  "gist": "内容虚偽の代金請求書による第一封鎖預金の不正払戻行為と刑法第二四六条第二項",
+  "case_gist": "第一封鎖預金は正当な理由がなければ払戻を受けて使用することができないものであるにかかわらず、内容虚偽の代金請求書を呈示して小切手等に認証を受けた上は被告人はその企図したとおり、これを債務の弁済等に充当することができるようになつたのであるから、これはまさしく判示のとおり財産上不法な利益を得たものである。従つて原判決がこれを刑法二四六条二項の罪の既遂として処断したのは正当である。",
+  "ref_law": "刑法246条2項，金融緊急措置令1条",
+  "lawsuit_id": "69375",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=69375",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/375/069375_hanrei.pdf"
+}

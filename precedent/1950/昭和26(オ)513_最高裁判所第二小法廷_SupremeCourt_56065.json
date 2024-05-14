@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 9,
+    "day": 11
+  },
+  "case_number": "昭和26(オ)513",
+  "case_name": "訴願裁決取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第7巻9号888頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 7,
+    "day": 7
+  },
+  "gist": "一　溜池又は溝は自作農創設特別措置法第一五条第一項第一号にいういわゆる農業用施設に含まれるか\n二　訴願裁決期間経過後の裁決の適否",
+  "case_gist": "一　土地が溜池または溝という形状において存在する場合は、土地そのものが農業用施設であつて、自作農創設特別措置法第一五条第一項第一号によつて政府はこれを買収することができる。\n二　訴願裁決期間経過後の裁決も違法ではない。",
+  "ref_law": "自作農創設特別措置法（昭和24年6月法律215号による改正前のもの）15条1項，自作農創設特別措置法7条5項，自作農創設特別措置法15条3項",
+  "lawsuit_id": "56065",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56065",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/065/056065_hanrei.pdf"
+}

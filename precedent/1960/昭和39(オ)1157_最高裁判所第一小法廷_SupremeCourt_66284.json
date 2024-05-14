@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 12,
+    "day": 9
+  },
+  "case_number": "昭和39(オ)1157",
+  "case_name": "土地賃貸料値上請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集民　第81号341頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和38(ネ)580",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 7,
+    "day": 22
+  },
+  "gist": "賃料増額の判断に理由不備があるとされた事例",
+  "case_gist": "増額の合意または増額請求の意思表示があつたことの認定のないまま増額賃料による請求を認容した判断には、理由不備の違法がある。",
+  "ref_law": "民訴法395条1項6号",
+  "lawsuit_id": "66284",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66284",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/284/066284_hanrei.pdf"
+}

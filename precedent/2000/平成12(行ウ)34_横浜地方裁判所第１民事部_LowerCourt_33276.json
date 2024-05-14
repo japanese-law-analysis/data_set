@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 6,
+    "day": 21
+  },
+  "case_number": "平成12(行ウ)34",
+  "case_name": "損害賠償請求事件",
+  "court_name": "横浜地方裁判所第１民事部",
+  "gist": "横浜市が発注したごみ焼却炉建設工事を巡る住民訴訟において，入札参加業者らによる談合が行われていたとして，受注業者は横浜市に対し損害賠償をすべきであるとされるとともに，横浜市長が損害賠償の請求を怠る事実が違法であるとされた事案。",
+  "lawsuit_id": "33276",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=33276",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/276/033276_hanrei.pdf",
+  "contents": "6,220,000,000 6,150,000,000 6,050,000,000\n6,460,000,000 6,190,000,000 6,100,000,000\n6,310,000,000 6,195,000,000 6,105,000,000\n6,600,000,000 6,200,000,000 6,125,000,000\n6,690,000,000 6,215,000,000 6,140,000,000\na\nb\nc\nd\ne\nf\na\nb\nc\na\nb\nc\nd\ne\na\nb\na\nb\nc\na\nb\nc\n"
+}

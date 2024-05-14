@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 9,
+    "day": 7
+  },
+  "case_number": "昭和63(オ)316",
+  "case_name": "離婚請求本訴、財産分与等請求反訴事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第157号457頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和61(ネ)1834",
+  "original_date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 11,
+    "day": 26
+  },
+  "gist": "有責配偶者からの離婚請求を認容することが著しく社会正義に反するといえるような特段の事情があるとはいえないとされた事例",
+  "case_gist": "有責配偶者である夫（大正一五年四月生）からの離婚請求であつても、夫婦の別居期間が約一五年六か月に及び、その間の子が夫と同棲する女性に四歳時から実子同然に育てられて一九歳に達しており、妻（昭和九年三月生）は別居期間中夫所有名義のマンションに居住し、主に夫から支払われる婚姻費用によつて生活してきたものであり、しかも、妻が離婚によつて被るべき経済的・精神的不利益が離婚に必然的に伴う範囲を著しく超えるものではないなど判示の事情の下では、右離婚請求を認容することが著しく社会正義に反するといえるような特段の事情があるとはいえない。\n\n（反対意見がある。）",
+  "ref_law": "民法1条2項，民法770条",
+  "lawsuit_id": "62386",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62386",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/386/062386_hanrei.pdf"
+}

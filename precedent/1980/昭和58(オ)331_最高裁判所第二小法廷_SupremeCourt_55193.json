@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 1,
+    "day": 19
+  },
+  "case_number": "昭和58(オ)331",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第41巻1号1頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和57(ネ)988",
+  "original_date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 12,
+    "day": 20
+  },
+  "gist": "就労前の年少女子の得べかりし利益の喪失による損害賠償額を女子労働者の平均給与額によつて算定する場合と家事労働分の加算の可否",
+  "case_gist": "就労前の年少女子の得べかりし利益の喪失による損害賠償額をいわゆる賃金センサスの女子労働者の平均給与額を基準として算定する場合には、賃金センサスの平均給与額に男女間の格差があるからといつて、家事労働分を加算すべきものではない。",
+  "ref_law": "民法709条",
+  "lawsuit_id": "55193",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55193",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/193/055193_hanrei.pdf"
+}

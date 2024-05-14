@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 3,
+    "day": 9
+  },
+  "case_number": "昭和41(あ)2369",
+  "case_name": "重過失失火",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第162号831頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 9,
+    "day": 24
+  },
+  "gist": "起訴猶予処分となつている放火の事実を重過失失火罪成立の要件である注意義務の存在を認定する資料として判示することと憲法第三九条後段",
+  "case_gist": "原判決は、すでに起訴猶予処分となつている所論一四個の放火事実を、本件各重過失失火罪成立の要件である注意義務の存在を認定する資料として判示したにすぎず、右一四個の放火事実について被告人に対し刑事上の責任を問うたものでないことは原判文上明らかであるから、憲法第三九条後段違反であるとの所論はその前提を欠くものである。",
+  "ref_law": "憲法39条後段，刑法117条ノ2，刑法116条，刑法108条",
+  "lawsuit_id": "59015",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59015",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/015/059015_hanrei.pdf"
+}

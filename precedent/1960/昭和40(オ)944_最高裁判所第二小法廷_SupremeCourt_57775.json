@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 4,
+    "day": 15
+  },
+  "case_number": "昭和40(オ)944",
+  "case_name": "所有権移転登記抹消登記手続請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第20巻4号676頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和38(ネ)394",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 5,
+    "day": 26
+  },
+  "gist": "民法第一六二条第二項にいう平穏の占有の意義",
+  "case_gist": "民法第一六二条第二項にいう平穏の占有とは、占有者がその占有を取得し、または、保持するについて、暴行強迫などの違法強暴の行為を用いていない占有を指称するものであり、不動産所有者その他占有の不法を主張する者から、異議をうけ、不動産の返還、占有者名義の所有権移転登記の抹消手続方の請求があつても、これがため、その占有が平穏でなくなるものでない。",
+  "ref_law": "民法162条2項",
+  "lawsuit_id": "57775",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57775",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/775/057775_hanrei.pdf"
+}

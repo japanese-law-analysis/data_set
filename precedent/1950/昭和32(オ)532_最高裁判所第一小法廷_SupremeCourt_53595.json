@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 9,
+    "day": 3
+  },
+  "case_number": "昭和32(オ)532",
+  "case_name": "家屋明渡等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第13巻11号1357頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 2,
+    "day": 26
+  },
+  "gist": "売渡担保に供した不動産の返還義務不履行による損害賠償債権をもつてその不動産を留置し得るか。",
+  "case_gist": "不動産を売渡担保に供した者は、担保権者が約に反して担保不動産を他に譲渡したことにより担保権者に対して取得した担保物返還義務不履行による損害賠償債権をもつて、右譲受人からの転々譲渡により右不動産の所有権を取得した者の明渡請求に対し、留置権を主張することは許されない。",
+  "ref_law": "民法295条",
+  "lawsuit_id": "53595",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53595",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/595/053595_hanrei.pdf"
+}

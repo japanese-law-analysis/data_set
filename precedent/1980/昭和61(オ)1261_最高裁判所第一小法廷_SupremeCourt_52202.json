@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 63,
+    "month": 6,
+    "day": 16
+  },
+  "case_number": "昭和61(オ)1261",
+  "case_name": "損害賠償請求事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第42巻5号414頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和59(ネ)3286",
+  "original_date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 5,
+    "day": 28
+  },
+  "gist": "荷降ろし作業の際の人身事故が自動車損害賠償保障法三条にいう自動車の「運行によつて」生じたものとはいえないとされた事例",
+  "case_gist": "被害者が自動車を運転中、道路上にフオーク部分を突き出した状態で停止中のフオークリフトに衝突して受傷した事故は、本件車両が、フオークリフトによる荷降ろし作業のための枕木を荷台に装着した木材運搬用の貨物自動車であつて、荷降ろし作業終了後直ちに出発する予定で道路上に駐車中であり、本件事故発生当時、右フオークリフトが荷降ろしのため本件車両に向かう途中であつたなどの事情があつても、本件車両の「運行によつて」生じたものとはいえない。",
+  "ref_law": "自動車損害賠償保障法2条2項，自動車損害賠償保障法3条",
+  "lawsuit_id": "52202",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52202",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/202/052202_hanrei.pdf"
+}

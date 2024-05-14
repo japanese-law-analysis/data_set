@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 4,
+    "month": 3,
+    "day": 13
+  },
+  "case_number": "昭和63(オ)1748",
+  "case_name": "保険金",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第46巻3号188頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和61(ネ)1026",
+  "original_date": {
+    "era": "Showa",
+    "year": 63,
+    "month": 9,
+    "day": 20
+  },
+  "gist": "生命保険の保険金受取人が死亡した場合における保険金受取人の変更に関する普通保険約款の解釈",
+  "case_gist": "普通保険約款において、生命保険の保険金受取人の死亡時以後保険金の支払理由が発生するまでに保険金受取人が変更されていないときは保険金受取人は死亡した保険金受取人の死亡時の法定相続人に変更されたものとする旨定められているときは、右条項の趣旨は、死亡した保険金受取人の法定相続人又は順次の法定相続人で保険金の支払理由が発生した当時において生存する者を保険金受取人とすることにあると解すべきである。",
+  "ref_law": "民法91条，商法676条",
+  "lawsuit_id": "52755",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52755",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/755/052755_hanrei.pdf"
+}

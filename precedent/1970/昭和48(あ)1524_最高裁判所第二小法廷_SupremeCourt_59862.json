@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 12,
+    "day": 17
+  },
+  "case_number": "昭和48(あ)1524",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第190号889頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 6,
+    "day": 14
+  },
+  "gist": "自白を唯一の証拠として有罪を云い渡したものでないことは判文上明らかで前提を欠くとされた事例",
+  "ref_law": "憲法38条",
+  "lawsuit_id": "59862",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59862",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/862/059862_hanrei.pdf"
+}

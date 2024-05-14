@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 2,
+    "day": 18
+  },
+  "case_number": "昭和43(オ)867",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第94号333頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_case_number": "昭和42(ネ)279",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 5,
+    "day": 30
+  },
+  "gist": "一、司法省民事局長回答に従つてした登記官吏の職権による登記抹消行為が違法とされた場合と右登記官吏の故意、過失の有無\n二、右の場合において、右回答を改めなかつた法務省民事局長に故意または過失が認められるか",
+  "case_gist": "一、処分禁止の仮処分の執行された不動産に対する滞納処分による公売落札を原因として所有権移転登記をするに際し、登記官吏が職権によつて右仮処分の記入登記を抹消したことが違法であつたとしても、それが司法省民事局長回答に基づく従来の取扱例に従つてなされたものである以上、右登記官吏に故意または過失があつたとはいえない。\n二、右の場合において、学説および行政実務上の見解が激しく対立して容易にその解決を期待しえない事情にあつたものである以上、右登記官吏の上司である法務省民事局長が右回答を改めず、これを維持して来たとしても、同局長に故意または過失があつたとはいえない。",
+  "ref_law": "国家賠償法1条",
+  "lawsuit_id": "70360",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70360",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/360/070360_hanrei.pdf"
+}

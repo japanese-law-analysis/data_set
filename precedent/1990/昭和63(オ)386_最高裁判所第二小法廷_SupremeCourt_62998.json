@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 4,
+    "month": 2,
+    "day": 28
+  },
+  "case_number": "昭和63(オ)386",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第164号113頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和62(ネ)382",
+  "original_date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 12,
+    "day": 24
+  },
+  "gist": "証券会社の従業員の無断売買によつて生じた差損などを顧客の信用取引口座から曳き落とす処理がされた場合と顧客の損害発生の有無",
+  "case_gist": "証券会社の従業員が顧客の信用取引口座を利用して無断売買をし、その結果生じた差損などに相当する金員をその顧客の信用取引口座から引き落とす処理がされたとしても、顧客に右金員相当の損害が生じたものということはできない。",
+  "ref_law": "民法415条，民法644条，商法552条，証券取引法49条",
+  "lawsuit_id": "62998",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62998",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/998/062998_hanrei.pdf"
+}

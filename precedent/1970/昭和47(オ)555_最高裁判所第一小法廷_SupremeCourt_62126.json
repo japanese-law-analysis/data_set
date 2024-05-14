@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 3,
+    "day": 1
+  },
+  "case_number": "昭和47(オ)555",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第108号275頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_case_number": "昭和44(ネ)166",
+  "original_date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 3,
+    "day": 15
+  },
+  "gist": "債権者の担保保存義務を免除する特約の効力",
+  "case_gist": "保証人に対する関係における債権者の担保保存義務を免除し、保証人が民法五〇四条により享受すべき利益をあらかじめ放棄する旨の特約は、有効である。",
+  "ref_law": "民法504条",
+  "lawsuit_id": "62126",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62126",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/126/062126_hanrei.pdf"
+}

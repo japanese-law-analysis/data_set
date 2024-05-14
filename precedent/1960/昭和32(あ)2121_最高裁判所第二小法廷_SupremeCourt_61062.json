@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 7,
+    "day": 15
+  },
+  "case_number": "昭和32(あ)2121",
+  "case_name": "詐欺、業務上横領",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第134号603頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 4,
+    "day": 15
+  },
+  "gist": "業務上横領罪の成立する事例。",
+  "case_gist": "刑法二五三条にいわゆる業務上の占有は他人の物の占有保管を主たる職務又は営業とする場合における占有のみに限局すべきものにあらず、いやしくも職務又は営業に附随して他人の物を占有保管する以上は特に法令においてこれを職務又は営業の範囲より除外せざる限り同条にいわゆる業務上の占有に該当する。されば消防各種自動車、消防ポンプ、消化器および消防器具類の製作、販売等の業務を行うことを目的とする株式会社の代表取締役社長が、同会社が他から買い受けて引き取つた後売買契約を解除して右売主に返品を約した消防ポンプを返還のため荷造発送すべく保管中、ほしいままにこれを第三者に対し前受金の担保として引き渡したときは、業務上横領罪が成立する。",
+  "ref_law": "刑法253条",
+  "lawsuit_id": "61062",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61062",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/062/061062_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 9,
+    "month": 9,
+    "day": 4
+  },
+  "case_number": "平成6(オ)1237",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集民　第185号63頁",
+  "original_court_name": "広島高等裁判所",
+  "original_case_number": "平成3(ネ)426",
+  "original_date": {
+    "era": "Heisei",
+    "year": 6,
+    "month": 3,
+    "day": 16
+  },
+  "gist": "市立中学校の生徒が課外クラブ活動としての柔道部の回し乱取り練習中に負傷した事故について顧問教諭に指導上の過失がないとされた事例",
+  "case_gist": "市立中学校の一年生甲が、同校の課外クラブ活動としての柔道部の回し乱取り練習中に、二年生乙から大外刈りの技をかけられて負傷した場合において、甲が、右の事故当時、回し乱取り練習に通常必要とされる受け身を習得し、乱取り練習及び回し乱取り練習についてもある程度の経験を重ねており、既に回し乱取り練習において乙の練習相手をして特に危険が生じていなかったなど判示の事実関係の下においては、甲と乙との間に大きな技能格差があったとしても、顧問教諭において、甲が回し乱取り練習で乙の相手をするのに必要な受け身を確実に行う技能を有していたと判断し、甲を回し乱取り練習に参加させたことに、指導上の過失があったということはできない。",
+  "ref_law": "国家賠償法1条1項",
+  "lawsuit_id": "62746",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62746",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/746/062746_hanrei.pdf"
+}

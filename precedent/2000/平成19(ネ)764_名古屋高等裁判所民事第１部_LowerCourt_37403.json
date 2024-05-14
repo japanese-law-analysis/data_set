@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 12,
+    "day": 25
+  },
+  "case_number": "平成19(ネ)764",
+  "case_name": "損害賠償請求控訴事件",
+  "court_name": "名古屋高等裁判所民事第１部",
+  "result": "その他",
+  "original_court_name": "名古屋地方裁判所",
+  "original_case_number": "平成17(ワ)1563",
+  "original_result": "その他",
+  "gist": "居眠り運転の大型トレーラーが渋滞中の車列に突っ込み１１名が死傷した交通事故の遺族が，加害車両の運転手，その所属する運送会社，同社労務管理者及び同社社長らに損害賠償を請求した事案につき，社長個人を除く被告らの責任を認めた一審判決を変更し，社長同人に対する請求をも認めた事例",
+  "lawsuit_id": "37403",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=37403",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/403/037403_hanrei.pdf",
+  "contents": ""
+}

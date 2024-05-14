@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 2,
+    "day": 15
+  },
+  "case_number": "昭和36(オ)1133",
+  "case_name": "貸金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第64号463頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 6,
+    "day": 24
+  },
+  "gist": "旧利息制限法施行のもとで任意に支払われた制限超過の利息ならびに損害金は元本債権が存在するかぎり当然に元本債権に充当されるか。",
+  "lawsuit_id": "65927",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=65927",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/927/065927_hanrei.pdf"
+}

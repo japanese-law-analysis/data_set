@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 9,
+    "day": 16
+  },
+  "case_number": "昭和34(し)45",
+  "case_name": "上訴費用補償の請求を棄却する決定に対する特別抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第13巻11号2947頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 7,
+    "day": 8
+  },
+  "gist": "第一審で無罪の判決があり検察官のみが控訴したところ控訴審が第一審判決を破棄し免訴の判決をした場合被告人は上訴費用の補償を請求することができるか。",
+  "case_gist": "第一審で無罪の判決があり、検察官のみが控訴したところ控訴審が第一審判決を破棄し、免訴の判決をした場合には、被告人は上訴費用の補償を請求することはできない。",
+  "ref_law": "刑訴法368条",
+  "lawsuit_id": "55820",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55820",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/820/055820_hanrei.pdf"
+}

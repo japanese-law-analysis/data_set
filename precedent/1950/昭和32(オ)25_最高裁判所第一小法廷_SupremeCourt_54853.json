@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 4,
+    "day": 10
+  },
+  "case_number": "昭和32(オ)25",
+  "case_name": "訴願裁決取消請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第12巻5号748頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 10,
+    "day": 25
+  },
+  "gist": "宅地賃借権者の子が自作農創設特別措置法第一五条第一項第二号によつてした宅地買収申請が適法と認められた一事例",
+  "case_gist": "宅地賃借権者の子であつて現在主力となつて農耕に従事し、農地の売渡も受け近い将来賃借権者の後継者としてその宅地をも管理する関係にあることが明らかな者は自作農創設特別措置法第一五条第一項第二号によつて当該宅地の買収を申請することができる。",
+  "ref_law": "自作農創設特別措置法15条1項",
+  "lawsuit_id": "54853",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54853",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/853/054853_hanrei.pdf"
+}

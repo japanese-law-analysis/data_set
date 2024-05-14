@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 6,
+    "month": 1,
+    "day": 25
+  },
+  "case_number": "平成5(オ)641",
+  "case_name": "遺産確認",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第48巻1号41頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成4(ネ)1988",
+  "original_date": {
+    "era": "Heisei",
+    "year": 4,
+    "month": 12,
+    "day": 15
+  },
+  "gist": "固有必要的共同訴訟における共同被告の一部に対する訴えの取下げの効力",
+  "case_gist": "固有必要的共同訴訟における共同被告の一部に対する訴えの取下げは、効力を生じない。",
+  "ref_law": "民訴法62条，民訴法236条",
+  "lawsuit_id": "52515",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52515",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/515/052515_hanrei.pdf"
+}

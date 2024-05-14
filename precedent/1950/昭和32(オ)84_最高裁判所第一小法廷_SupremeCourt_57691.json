@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 12,
+    "day": 26
+  },
+  "case_number": "昭和32(オ)84",
+  "case_name": "農地地目変換取消及び農地買収決定取消請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第11巻14号2478頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 10,
+    "day": 5
+  },
+  "gist": "休止期間経過前に印紙の貼用されていない期日指定の申立書が提出されていた場合と休止満了の効果の発生の有無。",
+  "case_gist": "休止期間経過前に期日指定申立書が提出された場合には、たとえ申立書に法定の印紙が貼用されていない場合でも、裁判所が民事訴訟用印紙法第一一条により印紙を貼用させるかどうかにつき考慮を払わないかぎり、休止満了の効果は確定的に生ずるに至つていないものと解すべきである。",
+  "ref_law": "民訴法238条，民訴法363条2項，民事訴訟用印紙法11条",
+  "lawsuit_id": "57691",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57691",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/691/057691_hanrei.pdf"
+}

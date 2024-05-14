@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 1,
+    "day": 23
+  },
+  "case_number": "昭和25(れ)1688",
+  "case_name": "有毒飲食物等取締令違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第7巻1号30頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 9,
+    "day": 12
+  },
+  "gist": "過失により有毒飲食物等取締令第一条第一項に違反した罪と共同正犯",
+  "case_gist": "甲乙両名がその共同経営にかかる飲食店で、過失により法定の除外量以上の「メタノール」を含有する飲食物を客に販売した場合において、右両名が意思を連絡して右飲食物を販売したものと認められるときは、有毒飲食物等取締令第四条第一項後段の罪の共同正犯が成立する。",
+  "ref_law": "有毒飲食物等取締令4条1項，有毒飲食物等取締令1条1項，刑法60条",
+  "lawsuit_id": "53400",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53400",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/400/053400_hanrei.pdf"
+}

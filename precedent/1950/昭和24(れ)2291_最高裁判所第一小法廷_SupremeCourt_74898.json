@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 2,
+    "day": 9
+  },
+  "case_number": "昭和24(れ)2291",
+  "case_name": "麻薬取締規則違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第16号359頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 6,
+    "day": 17
+  },
+  "gist": "第二審判決において第一審の刑を減輕し没收を附加した理由を判示することの要否と不利益變更禁止",
+  "case_gist": "控訴審においては、刑の量定は被告人のみの控訴に係る場合であつても舊刑訴法第四〇三條に違反しない限り原裁判所の自由裁量に屬するところであつて、その法廷刑の種類範圍内における量刑の理由はこれを判示するの必要がないことは多言を要しないところである。されば第一審判決の刑が懲役八月であつたのに、原審では懲役六月に減輕所論没收を附加しながらその理由を判示しなかつたからといつて、原判決には所論のように理由缺如の違法は存しない。",
+  "ref_law": "舊刑訴法403條，舊刑訴法360條1項",
+  "lawsuit_id": "74898",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74898",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/898/074898_hanrei.pdf"
+}

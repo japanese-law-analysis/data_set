@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 11,
+    "day": 22
+  },
+  "case_number": "昭和25(あ)19",
+  "case_name": "食糧管理法違反",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第4巻11号2389頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 11,
+    "day": 7
+  },
+  "gist": "食糧管理法第九条の合憲性（第二九条）",
+  "case_gist": "主要食糧の移動を制限又は禁止することを認めた食糧管理法第九条の規定は、公共の福祉を維持するために設けられたもので憲法第二九条に反しない。",
+  "ref_law": "憲法29条，食糧管理法9条",
+  "lawsuit_id": "54393",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54393",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/393/054393_hanrei.pdf"
+}

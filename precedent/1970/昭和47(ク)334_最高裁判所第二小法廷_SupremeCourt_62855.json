@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 11,
+    "day": 29
+  },
+  "case_number": "昭和47(ク)334",
+  "case_name": "裁判官忌避申立却下決定に対する抗告受理事件の抗告却下決定に対する抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "却下",
+  "article_info": "集民　第107号271頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和47(ラク)22",
+  "original_date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 2,
+    "day": 8
+  },
+  "gist": "原裁判所がした特別抗告却下決定が憲法三二条に違反するとの論旨を前提を欠くとして排斥した事例",
+  "case_gist": "書留郵便に付して送達した決定に対する特別抗告の受理手続において、原裁判所が、抗告申立が、右郵便の発送から五日を経過していることを理由にこれを却下したのは正当であつて、右却下が憲法三二条に違反するとの上告理由はその前提を欠く。",
+  "ref_law": "憲法32条，民訴法173条，民訴法419条ノ2，民訴法399条1項1号",
+  "lawsuit_id": "62855",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62855",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/855/062855_hanrei.pdf"
+}

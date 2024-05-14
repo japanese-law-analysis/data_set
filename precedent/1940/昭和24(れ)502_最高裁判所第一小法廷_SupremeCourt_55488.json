@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 6,
+    "day": 9
+  },
+  "case_number": "昭和24(れ)502",
+  "case_name": "賍物故買",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第3巻7号959頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 11,
+    "day": 15
+  },
+  "gist": "數個の同一犯罪を併合罪として處斷刑を定める場合に各犯罪の犯情に輕重がないときその輕重を判決に明示する要否",
+  "case_gist": "所論のように數個の一犯罪を併合罪として刑を加重し處斷刑を定める場合において裁判所が各犯罪の犯情に輕重がないと認めるときは、いずれの犯罪の犯情が重いかを特に判決に明示するを要しないものと解すべきである。なぜならば、かく解することは何等の實害を伴うものでなく、却つて實際上迅速處理の便益を與えるものだからである。",
+  "ref_law": "刑法45條，刑法47條，刑法10條，舊刑訴法360條1項",
+  "lawsuit_id": "55488",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55488",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/488/055488_hanrei.pdf"
+}

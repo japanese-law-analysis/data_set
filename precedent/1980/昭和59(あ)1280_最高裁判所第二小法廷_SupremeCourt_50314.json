@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 63,
+    "month": 4,
+    "day": 15
+  },
+  "case_number": "昭和59(あ)1280",
+  "case_name": "薬事法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第42巻4号758頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 9,
+    "day": 12
+  },
+  "gist": "薬事法二条一項二号の医薬品に当たるとされた事例",
+  "case_gist": "本件「ビバ・ナチユラル」は、その成分、形状、名称、表示された使用目的・効能効果・用法用量、販売方法、特に、販売に際し「高血圧、動脈硬化、肝臓疾患に非常に効果がある」旨記載したポスターや右各疾患、症状に対する薬理作用を示す「治験例集計紙」を添付するなどしてその医薬品的効能効果を演述宣伝していた事実などを総合すると、薬事法二条一項二号の医薬品に当たる。",
+  "ref_law": "薬事法2条1項2号，薬事法24条1項，薬事法（昭和54年法律56号による改正前のもの）84条5号",
+  "lawsuit_id": "50314",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50314",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/314/050314_hanrei.pdf"
+}

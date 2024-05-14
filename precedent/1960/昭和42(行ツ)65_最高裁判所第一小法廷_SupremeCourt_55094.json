@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 6,
+    "day": 13
+  },
+  "case_number": "昭和42(行ツ)65",
+  "case_name": "農地買収処分無効確認等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第22巻6号1198頁",
+  "original_court_name": "高松高等裁判所",
+  "original_case_number": "昭和37(ネ)207",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 3,
+    "day": 30
+  },
+  "gist": "「買収の時期」から十余年を経過した後にされた買収令書の交付による農地買収処分が無効とされた事例",
+  "case_gist": "自作農創設特別措置法による買収計画の公告および承認があつた後、買収令書の交付または交付に代わる公告が行なわれた事跡がなく、「買収の時期」より十余年も経過して後に、農地法施行法第二条第一項第一号の規定に依拠し、あらたに買収令書を交付して買収処分をすることは許されない。",
+  "ref_law": "自作農創設特別措置法（昭和21年法律第43号）6条，自作農創設特別措置法（昭和21年法律第43号）9条，農地法施行法2条1項1号",
+  "lawsuit_id": "55094",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55094",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/094/055094_hanrei.pdf"
+}

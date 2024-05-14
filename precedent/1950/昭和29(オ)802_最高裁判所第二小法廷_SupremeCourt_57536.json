@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 4,
+    "day": 27
+  },
+  "case_number": "昭和29(オ)802",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第10巻4号459頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 6,
+    "day": 30
+  },
+  "gist": "手形の書替により旧手形に基く債務は消滅するか",
+  "case_gist": "手形の書替がなされた場合、その目的が支払延期のためであり、かつ旧手形はこれを新手形の見返り担保とする意味で回収されなかつた以上、旧手形に基く債務は、直接の当事者間においても、右書替により消滅することはない。",
+  "ref_law": "手形法1条，手形法17条",
+  "lawsuit_id": "57536",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57536",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/536/057536_hanrei.pdf"
+}

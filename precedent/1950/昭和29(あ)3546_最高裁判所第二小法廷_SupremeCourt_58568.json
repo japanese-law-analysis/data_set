@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 4,
+    "day": 6
+  },
+  "case_number": "昭和29(あ)3546",
+  "case_name": "麻薬取締法違反、昭和２４年政令第三八九号違反等",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第118号779頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 9,
+    "day": 28
+  },
+  "gist": "訴因変更の手続を要しない事例。",
+  "case_gist": "起訴状記載の偽造米国軍票三百弗を収受したという事実と一審判決認定の真正なる米国軍票三百弗を収受したという事実とは、その収受の客体たる軍票が真正か偽造かの差異だけであつて軍票三百弗を収受したという具体的事実関係は同一であり、しかも右両者は同一の罰条すなわち昭和二五年一〇月二日政令第三〇一号による改正後の昭和二四年政令第三八九号四条一条に触れるものであるから、公訴事実の同一性を害しないのみでなく訴因変更の手続を要するものではない。",
+  "ref_law": "刑訴法312条，連合国占領軍財産等収受所持禁止令（昭和24年政令389号−昭和25年政令301号による改正後のもの）4条，連合国占領軍財産等収受所持禁止令（昭和24年政令389号−昭和25年政令301号による改正後のもの）1条",
+  "lawsuit_id": "58568",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58568",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/568/058568_hanrei.pdf"
+}

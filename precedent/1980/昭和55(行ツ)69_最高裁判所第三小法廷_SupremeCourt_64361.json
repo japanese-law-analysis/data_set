@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 9,
+    "day": 30
+  },
+  "case_number": "昭和55(行ツ)69",
+  "case_name": "当選無効等",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第130号419頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和54(行ケ)4",
+  "original_date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 2,
+    "day": 29
+  },
+  "gist": "投票の効力",
+  "case_gist": "一　「川昭」と記載された投票は、候補者Ｃ川昭雄に対する有効投票と認めるべきである。\n\n二　「Ｃ川昭お（アキオ）」と記載された投票中振仮名に付された括弧は、有意の他事記載にあたらない。",
+  "ref_law": "公職選挙法68条5号，公職選挙法68条7号",
+  "lawsuit_id": "64361",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64361",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/361/064361_hanrei.pdf"
+}

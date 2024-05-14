@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 7,
+    "day": 7
+  },
+  "case_number": "昭和33(あ)402",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第126号701頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 12,
+    "day": 24
+  },
+  "gist": "窃盗罪の成立する事例。",
+  "case_gist": "被告人が本件衣類を着用していたとはいえ未だ売買の完全に成立しておらず被告人また被害者の店舗内において店主の監視下にある以上右衣類は依然被害者の支配下にあつたものと解するを相当とすべく斯る情況下において右衣類を着用の儘其場を逃走した被告人の所為は他人の意思に反して其財物の占有を自己の支配に移したものと解し得べきことに疑いなく窃盗罪を構成すること勿論である。",
+  "ref_law": "刑法235条",
+  "lawsuit_id": "58674",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58674",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/674/058674_hanrei.pdf"
+}

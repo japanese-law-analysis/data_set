@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 3,
+    "day": 29
+  },
+  "case_number": "昭和48(オ)744",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第111号493頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和45(ネ)984",
+  "original_date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 4,
+    "day": 17
+  },
+  "gist": "捜査当局の発表した事実に基づいて報道した取材記者及び編集者に過失の責任があるとされた事例",
+  "case_gist": "捜査機関の広報担当者が発表した被疑事実について、取材記者及び編集者がこれを被疑事実としてではなく客観的真実であるかのように誇張して報道したことにより他人の名誉を段損したときは、取材記者及び編集者は、発表された事実を真実であると信じたことに相当な理由があつたとして過失の責任を免れることはできない。",
+  "ref_law": "民法709条",
+  "lawsuit_id": "62173",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62173",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/173/062173_hanrei.pdf"
+}

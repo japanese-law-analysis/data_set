@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 7,
+    "day": 2
+  },
+  "case_number": "昭和27(あ)5169",
+  "case_name": "食糧管理法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第84号91頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 7,
+    "day": 31
+  },
+  "gist": "綜合認定をした数個の証拠中に証拠調を経ていないものがあつても判決に影響を及ぼさない一事例",
+  "case_gist": "検察官は被告人ＡについてはＢの供述調書を証拠として提出していない。それ故この供述調書を被告人Ａの有罪の証拠として掲げたことは所論のとおり違法である。しかし、右供述調書の内容は被告人Ａの公訴事実には全然関係のないものであり、その余の列挙証拠によつて被告人Ａの有罪事実の認定は十分可能なのであるから、右違法は判決に影響を及ぼさないものというべく原判決を破棄することを要しない。（判例集四巻一号三〇頁、六巻三号三六三頁参照）",
+  "ref_law": "刑訴法317条，刑訴法335条1項",
+  "lawsuit_id": "64992",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64992",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/992/064992_hanrei.pdf"
+}

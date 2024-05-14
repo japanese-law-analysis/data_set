@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 11,
+    "day": 16
+  },
+  "case_number": "昭和47(あ)2606",
+  "case_name": "軽犯罪法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第190号635頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 11,
+    "day": 28
+  },
+  "gist": "軽犯罪法一条三二号前段の「入ることを禁じた場所に正当な理由がなくて入つた」罪が成立するとされた事例",
+  "case_gist": "営林署長は、農林大臣の所管事務を分掌し、国有林野に対し一般的管理権を有するから、右国有林野が国立公園に指定され、自然公園法に定める利用上の規制措置が本来厚生大臣の所管に属する場合でも、自然公園法の趣旨目的に抵触しないかぎり、その有する一般的管理権に基づき、裁量により、営林署長の許可を受けない物品販売業者が一定地域内に立ち入ることを禁止することができ、このような禁止措置に違反して所定地域に立ち入つた所為は、軽犯罪法一条三二号前段の罪を構成する。",
+  "ref_law": "軽犯罪法1条32号",
+  "lawsuit_id": "59803",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59803",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/803/059803_hanrei.pdf"
+}

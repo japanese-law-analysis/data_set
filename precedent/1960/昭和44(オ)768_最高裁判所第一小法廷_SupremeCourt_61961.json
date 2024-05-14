@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 11,
+    "day": 6
+  },
+  "case_number": "昭和44(オ)768",
+  "case_name": "物件引渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第97号211頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_case_number": "昭和42(ネ)169",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 4,
+    "day": 30
+  },
+  "gist": "不特定物の売買における目的物の所有権移転の時期",
+  "case_gist": "不特定物の売買においては、特段の事情のないかぎり、目的物が特定すると同時に、その目的物の所有権が売主から買主に移転するものと解すべきである。",
+  "ref_law": "民法176条，民法401条2項",
+  "lawsuit_id": "61961",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61961",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/961/061961_hanrei.pdf"
+}

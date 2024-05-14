@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 10,
+    "day": 4
+  },
+  "case_number": "昭和56(オ)1230",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第140号1頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和56(ネ)224",
+  "original_date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 9,
+    "day": 16
+  },
+  "gist": "債権の譲受人と同一債権に対し債権差押命令及び転付命令を得た者との間の優劣の基準",
+  "case_gist": "債権の譲受人と同一債権に対し債権差押命令及び転付命令を得た者との間の優劣は、確定日付ある通知が債務者に到達した日時又は確定日付ある債務者の承諾の日時と債権差押命令が第三債務者たる右債務者に送達された日時の先後によつて決すべきである。",
+  "ref_law": "民法467条，民訴法598条（昭和54年法律第4号による改正前のもの）",
+  "lawsuit_id": "74563",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74563",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/563/074563_hanrei.pdf"
+}

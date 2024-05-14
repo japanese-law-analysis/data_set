@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 10,
+    "day": 27
+  },
+  "case_number": "昭和42(オ)186",
+  "case_name": "譲渡債権請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第21巻8号2161頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和40(ネ)301",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 11,
+    "day": 29
+  },
+  "gist": "未完成仕事部分に関する請負報酬金債権の譲渡後に生じた仕事完成義務不履行を事由とする請負契約の解除をもつて右債権の譲受人に対抗することができるとされた事例",
+  "case_gist": "未完成仕事部分に関する請負報酬金債権の譲渡について、債務者の異議をとどめない承諾がされても、譲受人が右債権が未完成仕事部分に関する請負報酬金債権であることを知つていた場合には、債務者は、右債権の譲渡後に生じた仕事完成義務不履行を事由とする当該請負契約の解除をもつて譲受人に対抗することができる。",
+  "ref_law": "民法468条",
+  "lawsuit_id": "55074",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55074",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/074/055074_hanrei.pdf"
+}

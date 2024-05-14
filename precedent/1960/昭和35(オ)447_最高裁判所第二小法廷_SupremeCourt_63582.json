@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 3,
+    "day": 16
+  },
+  "case_number": "昭和35(オ)447",
+  "case_name": "不当利得金返還請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第72号505頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 1,
+    "day": 27
+  },
+  "gist": "行政処分の形式的確定と不当利得。",
+  "case_gist": "滞納処分による売得金の充当処分が形式的に争いえなくなつても、国に対し優先権を有する抵当権者は、国に対し不当利得の返還請求をすることを妨げられない。",
+  "ref_law": "民法703条",
+  "lawsuit_id": "63582",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63582",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/582/063582_hanrei.pdf"
+}

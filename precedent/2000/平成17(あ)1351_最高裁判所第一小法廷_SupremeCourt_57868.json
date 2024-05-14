@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 17,
+    "month": 12,
+    "day": 15
+  },
+  "case_number": "平成17(あ)1351",
+  "case_name": "法人税法違反被告事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第288号779頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 17,
+    "month": 5,
+    "day": 18
+  },
+  "gist": "取引相手である法人の代表者個人に対し取引に関する謝礼等の趣旨で支出した費用が租税特別措置法（平成１４年法律第１５号による改正前のもの）６１条の４第１項にいう「交際費等」に当たるとされた事例",
+  "ref_law": "法人税法22条3項2号，租税特別措置法（平成14年法律第15号による改正前のもの）61条の4第1項",
+  "lawsuit_id": "57868",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57868",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/868/057868_hanrei.pdf"
+}

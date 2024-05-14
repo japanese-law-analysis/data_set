@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 2,
+    "day": 17
+  },
+  "case_number": "昭和29(あ)2294",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第9巻2号310頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 5,
+    "day": 21
+  },
+  "gist": "投票の祕密を犯したものと認められない一事例",
+  "case_gist": "被告人が投票偽造罪の取調を受けるにあたり、あらかじめ供述を拒むことができる旨を告げられた後、検察官に対し自ら進んで正規に投票した一票および不正に投票した一票の被選挙人の氏名を表示し、その投票した二票を指示したにすぎないことがうかがわれるときは、検察官が投票の秘密を犯したものとは認められない。",
+  "ref_law": "公職選挙法52条，公職選挙法237条3項，公職選挙法237条4項，憲法15条4項",
+  "lawsuit_id": "54751",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54751",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/751/054751_hanrei.pdf"
+}

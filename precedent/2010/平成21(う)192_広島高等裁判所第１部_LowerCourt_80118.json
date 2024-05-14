@@ -1,0 +1,20 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 3,
+    "day": 23
+  },
+  "case_number": "平成21(う)192",
+  "case_name": "有印私文書偽造，同行使，詐欺",
+  "court_name": "広島高等裁判所第１部",
+  "result": "破棄自判",
+  "original_court_name": "広島地方裁判所",
+  "original_case_number": "平成20(わ)1084",
+  "gist": "被告人が共犯者と共謀の上，注文書等を偽造し，これを行使するなどして，ノートパソコンを詐取したとの原判示の有印私文書偽造，同行使，詐欺の各事実について，被告人と共犯者との共謀の点については，共犯者の原審公判供述は，その信用性に相当の疑問があり，共犯者の原審公判供述によって，共犯者と被告人との共謀を認定することは困難であるとして，原判決を破棄して，被告人に無罪を言い渡した事案",
+  "lawsuit_id": "80118",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=80118",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/118/080118_hanrei.pdf",
+  "contents": "D\n"
+}

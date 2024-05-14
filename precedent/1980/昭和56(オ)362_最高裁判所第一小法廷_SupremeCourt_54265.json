@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 10,
+    "day": 1
+  },
+  "case_number": "昭和56(オ)362",
+  "case_name": "親子関係不存在確認",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第35巻7号1113頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和54(ネ)1266",
+  "original_date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 1,
+    "day": 19
+  },
+  "gist": "第三者からする死者と生存者間の親子関係存否確認の訴において被告とすべき者",
+  "case_gist": "第三者が死者と生存者間の親子関係存否確認の訴を提起する場合においては、生存者のみを被告とすれば足り、死者について検察官を相手方に加える必要はない。",
+  "ref_law": "民訴法225条，人事訴訟手続法2条2項，人事訴訟手続法第2章親子関係事件ニ関スル手続",
+  "lawsuit_id": "54265",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54265",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/265/054265_hanrei.pdf"
+}

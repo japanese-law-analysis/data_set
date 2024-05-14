@@ -1,0 +1,24 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 6,
+    "day": 19
+  },
+  "case_number": "昭和27(あ)568",
+  "case_name": "賭博、公務執行妨害、傷害",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第83号325頁",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 10,
+    "day": 13
+  },
+  "lawsuit_id": "69312",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=69312",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/312/069312_hanrei.pdf"
+}

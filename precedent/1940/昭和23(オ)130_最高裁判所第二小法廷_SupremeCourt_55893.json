@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 1,
+    "day": 18
+  },
+  "case_number": "昭和23(オ)130",
+  "case_name": "人身保護請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第3巻1号10頁",
+  "original_court_name": "横浜地方裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 10,
+    "day": 15
+  },
+  "gist": "一　子の監護権と人身保護請求。\n二　不法に始められた拘束と人身保護法の適用のない場合。",
+  "case_gist": "一　夫婦離婚等の場合において、不法に子を拘束する夫婦の一方に対して法律上子の監護権を有する他の一方は、人身保護法に基いて救済を請求することができる。\n二　母が暴力をもつて満二歳に達しない幼児を連れ去つたとしても、その子が現在平穏に養育され幸福である場合には、現在の状態をもつて不法の拘束として、人身保護法を適用する必要はない。",
+  "ref_law": "人身保護法2条",
+  "lawsuit_id": "55893",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55893",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/893/055893_hanrei.pdf"
+}

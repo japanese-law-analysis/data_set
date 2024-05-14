@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 10,
+    "day": 19
+  },
+  "case_number": "昭和34(オ)27",
+  "case_name": "売掛代金請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第55号271頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 10,
+    "day": 22
+  },
+  "gist": "類似商号間で商法第２３条の名板貸の責任が認められた事例",
+  "case_gist": "「ローヤル」という商号を用い毛布、洋服生地販売商を営む甲が、乙に右営業店舗内の一部を貸し与え、「ローヤル商会」或いは「ローヤル商会卸部」という類似商号を使用して洋服生地の卸売をすることを終始許諾してきた等原審認定の事実関係のもとでは、乙と取引した丙が乙の営業を甲の営業の一部であると誤認したことは、已むを得ないところであり、過失ありとはいえず、丙は商法第二三条により甲に対し名板貸の責任を問うことができる。",
+  "lawsuit_id": "65732",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=65732",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/732/065732_hanrei.pdf"
+}

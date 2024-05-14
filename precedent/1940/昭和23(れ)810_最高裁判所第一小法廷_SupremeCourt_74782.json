@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 11,
+    "day": 25
+  },
+  "case_number": "昭和23(れ)810",
+  "case_name": "食糧管理法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第5号473頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 5,
+    "day": 21
+  },
+  "gist": "実収高を超えた供出割当通知と不供出罪",
+  "case_gist": "供出割当数量が実収高を超えていたとしても、右割当通知が取消又は変更されない限り米の生産者は割当通知に指示された米穀の数量を政府に売渡す義務がある。",
+  "ref_law": "食糧管理法3条",
+  "lawsuit_id": "74782",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74782",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/782/074782_hanrei.pdf"
+}

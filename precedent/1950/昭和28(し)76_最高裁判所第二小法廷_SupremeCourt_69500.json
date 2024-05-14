@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 12,
+    "day": 25
+  },
+  "case_number": "昭和28(し)76",
+  "case_name": "騒擾助勢等被告事件につきなした異議却下決定に対する特別抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第90号641頁",
+  "original_court_name": "東京地方裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 9,
+    "day": 22
+  },
+  "gist": "法廷秩序維持のためにした裁判長の退去命令と裁判公開の原則",
+  "case_gist": "論旨後段は、憲法の保障する公開裁判の原則に反すると主張するけれども、所論裁判長の命令は、要するに法廷における被告人、傍聴人に対して拍手等法廷秩序の妨害となるがごとき所為をなさざるよう予め注意を喚起するの趣旨に出でたもので、もとより当然の事理に属するところであつて、被告人らが右の命令に反する所為をしないかぎり、その在廷を拒まれるものでないことは、その命令の内容自体から、極めて明白であつて、右の命令を以て公開の原則に反するとの論旨は、畢竟右命令の曲解を前提とするものであつて、また特別抗告の適法な理由とすることはできない。",
+  "ref_law": "刑訴法288条2項，憲法37条1項",
+  "lawsuit_id": "69500",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=69500",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/500/069500_hanrei.pdf"
+}

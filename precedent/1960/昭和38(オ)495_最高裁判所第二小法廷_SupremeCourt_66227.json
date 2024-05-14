@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 9,
+    "day": 4
+  },
+  "case_number": "昭和38(オ)495",
+  "case_name": "土地所有権確認請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第75号159頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 12,
+    "day": 27
+  },
+  "gist": "取得時効の基礎たる平穏な占有の意義。",
+  "case_gist": "甲と乙とが同一地域を重複して管理している場合には、甲の占有は平穏な占有とはいえない。",
+  "ref_law": "民法192条",
+  "lawsuit_id": "66227",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66227",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/227/066227_hanrei.pdf"
+}

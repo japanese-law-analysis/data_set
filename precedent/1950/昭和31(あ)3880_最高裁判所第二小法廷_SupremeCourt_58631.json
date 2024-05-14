@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 4,
+    "day": 19
+  },
+  "case_number": "昭和31(あ)3880",
+  "case_name": "覚せい剤取締法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第118号937頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 9,
+    "day": 25
+  },
+  "gist": "罰金刑を言い渡した第一審判決を控訴審が書面審理のみにより破棄し自ら懲役刑の実刑の言渡をする場合相と刑訴法第四〇〇条但書。",
+  "case_gist": "（裁判官河村大助の少数意見）原判決は第一審が本件被告人に対し罰金三万円（三百円を一日に換算）に処した判決を破棄自判し、懲役三月の実刑を言渡したのであるが、記録によれば、その手続は書面上の調査のもによつたのであつて、事実の取調を行つた形跡は認められない。このように第一審の罰金刑を第二審において破棄自判によつて、懲役刑の実刑に改めるには自ら事実の取調を行うことを要し、さもなければ第一審に差し戻すべきものである。この点において原判決は違法たるを免れないから破棄すべきものである。",
+  "ref_law": "刑訴法400条但書",
+  "lawsuit_id": "58631",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58631",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/631/058631_hanrei.pdf"
+}

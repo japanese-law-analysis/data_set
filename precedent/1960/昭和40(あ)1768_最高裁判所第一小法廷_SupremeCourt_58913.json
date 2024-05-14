@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 2,
+    "day": 17
+  },
+  "case_number": "昭和40(あ)1768",
+  "case_name": "業務上過失致死",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第158号271頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 5,
+    "day": 31
+  },
+  "gist": "実況見分調書における立会人の供述記載の性質。",
+  "case_gist": "捜査機関が任意処分として検証（実況見分）を行うに当り、被疑者、目撃者その他の者（以下関係人という）を立合わせ、これらの立会人をして実況見分の目的物その他必要な状態を任意に指示、説明させるのは、実況見分の一つの手段であつて、関係人を取調べて、その供述を求めるのとは、その性質を異にし、また、右指示説明を実況見分調書に記載するのは、結局これに基づいてなした実況見分の結果を記載する手段にすぎないと解すべきである（昭和三六年（あ）第一四九号同年五月二六日第二小法廷判決、刑集一五巻五号八九三頁参照）。",
+  "ref_law": "刑訴法320条1項，刑訴法321条1項3号，刑訴法321条3項",
+  "lawsuit_id": "58913",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58913",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/913/058913_hanrei.pdf"
+}

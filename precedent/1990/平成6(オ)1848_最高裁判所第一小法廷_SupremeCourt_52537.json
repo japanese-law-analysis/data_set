@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 9,
+    "month": 9,
+    "day": 4
+  },
+  "case_number": "平成6(オ)1848",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第51巻8号3657頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成5(ネ)1423",
+  "original_date": {
+    "era": "Heisei",
+    "year": 6,
+    "month": 5,
+    "day": 30
+  },
+  "gist": "国際仲裁契約の成立及び効力の準拠法",
+  "case_gist": "国際仲裁契約の成立及び効力の準拠法は、第一次的には当事者の意思に従って定められるものと解すべきである。",
+  "ref_law": "民訴法786条，法例7条",
+  "lawsuit_id": "52537",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52537",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/537/052537_hanrei.pdf"
+}

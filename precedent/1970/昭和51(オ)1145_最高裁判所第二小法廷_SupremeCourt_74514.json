@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 4,
+    "day": 8
+  },
+  "case_number": "昭和51(オ)1145",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集民　第120号433頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和49(ネ)2922",
+  "original_date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 8,
+    "day": 4
+  },
+  "gist": "不法行為により休業損害を被つた者が休業補償としての労災保険給付を受けた場合における第三者に対する民法又は自動車損害賠償保障法に基づく休業損害の賠償請求権の帰すう",
+  "case_gist": "不法行為により休業損害を被つた労災保険給付の受給権者が政府から休業補償としての保険給付を受ければ、保険受給権者の第三者に対する民法又は自動車損害賠償保障法に基づく休業損害の賠償請求権は、右給付金額の限度で政府により代位取得され、その分だけ減縮する。",
+  "ref_law": "民法709条，民法715条，自動車損害賠償保障法3条，労働者災害補償保険法12条の4",
+  "lawsuit_id": "74514",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74514",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/514/074514_hanrei.pdf"
+}

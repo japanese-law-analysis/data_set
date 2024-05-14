@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 7,
+    "day": 17
+  },
+  "case_number": "昭和34(あ)604",
+  "case_name": "食糧管理法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第13巻8号1141頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 3,
+    "day": 10
+  },
+  "gist": "主食の所有者が貯蔵するためにこれを輸送の委託をする場合と食糧管理法施行規則第四七条",
+  "case_gist": "食糧管理法施行規則第四七条列挙の事由が存しないかぎり、主食の所有者がその値上りを待つてこれを他人に売り渡す目的で貯蔵するためにこれを自宅から倉庫まで輸送の委託をする場合であつても、犯罪の成立を妨げるものではない。",
+  "ref_law": "食糧管理法施行規則47条，食糧管理法9条",
+  "lawsuit_id": "51677",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51677",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/677/051677_hanrei.pdf"
+}

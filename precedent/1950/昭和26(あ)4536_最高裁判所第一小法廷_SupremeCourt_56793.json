@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 9,
+    "day": 25
+  },
+  "case_number": "昭和26(あ)4536",
+  "case_name": "銃砲刀劒類等所持取締令違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第6巻8号1093頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 10,
+    "day": 16
+  },
+  "gist": "刑罰法規に変更があつた場合継続犯についてはいずれの法律を適用すべきか",
+  "case_gist": "所持罪のような継続犯については、一個の罪が成立しその継続中、たといその刑罰法規に変更があつても、刑法六条による新旧両法対照の問題はおこらず、常に新法を適用処断するを相当とする。",
+  "ref_law": "銃砲刀剣類等所持取締令2条，銃砲等所持禁止令2条",
+  "lawsuit_id": "56793",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56793",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/793/056793_hanrei.pdf"
+}

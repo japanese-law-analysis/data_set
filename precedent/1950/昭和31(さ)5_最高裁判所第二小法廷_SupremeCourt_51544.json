@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 11,
+    "day": 30
+  },
+  "case_number": "昭和31(さ)5",
+  "case_name": "略式命令に対する非常上告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "刑集　第10巻11号1577頁",
+  "original_court_name": "熊本簡易裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 12,
+    "day": 14
+  },
+  "gist": "非常上告を理由ありと認めた一事例。",
+  "case_gist": "さきに起訴略式命令のあつた犯罪事実と同一の犯罪事実につき、同一簡易裁判所に他の犯罪事実と共にさらに起訴略式命令の請求があつた場合に、その簡易裁判所が右二重起訴の部分について刑訴第三三八条第三号により公訴を棄却することなく、略式命令により他の犯罪事実と併合罪として処断し、さきの略式命令確定後右略式命令が確定したときは、後の略式命令を破棄し、二重起訴の部分につき公訴を棄却し、他の犯罪事実につきさらに刑を言渡すべきである。",
+  "ref_law": "刑訴法338条3号，刑訴法458条1号",
+  "lawsuit_id": "51544",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51544",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/544/051544_hanrei.pdf"
+}

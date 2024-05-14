@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 4,
+    "day": 17
+  },
+  "case_number": "昭和52(オ)890",
+  "case_name": "建物収去土地明渡等",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第126号585頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和49(ネ)1076",
+  "original_date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 3,
+    "day": 30
+  },
+  "gist": "土地所有権に基づく建物収去土地明渡請求の再訴につき訴の利益があるとされた事例",
+  "case_gist": "土地所有権に基づく建物収去土地明渡請求の前訴において、建物所有を目的とする借地契約の成立及び地上建物につき借地期間の満了を停止条件とする売買契約の成立が認められ、建物引渡し及び土地明渡しの限度で右請求を認容する判決が言い渡されて確定した後、土地所有者が、前訴判決の事実審口頭弁論終結後に売主の債務不履行を理由に右売買契約を解除したことにより建物の所有権が売主に復帰したものとして、新たに建物収去土地明渡しを求める後訴を提起することは、特段の事情のない限り、訴の利益がある。",
+  "ref_law": "民訴法第2編第1章訴",
+  "lawsuit_id": "64219",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64219",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/219/064219_hanrei.pdf"
+}

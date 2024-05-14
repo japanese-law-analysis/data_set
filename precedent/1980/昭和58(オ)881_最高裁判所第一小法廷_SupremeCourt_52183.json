@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 2,
+    "day": 20
+  },
+  "case_number": "昭和58(オ)881",
+  "case_name": "求償債務履行",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第40巻1号43頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和55(ネ)1999",
+  "original_date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 4,
+    "day": 28
+  },
+  "gist": "代位弁済者の債権者から代位取得した原債権又はその連帯保証債権の給付請求を認容する場合と判決主文における求償権の表示",
+  "case_gist": "代位弁済者が債権者から代位取得した原債権又はその連帯保証債権の給付を求める訴訟において、裁判所が請求を認容する場合には、求償権の額が原債権の額を常に上回るものと認められる特段の事情のない限り、主文において、請求を認容する限度として求償権を表示すべきである。",
+  "ref_law": "民法501条，民訴法191条",
+  "lawsuit_id": "52183",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52183",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/183/052183_hanrei.pdf"
+}

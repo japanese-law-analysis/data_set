@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 5,
+    "day": 25
+  },
+  "case_number": "昭和53(オ)207",
+  "case_name": "家賃増額確認",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第124号69頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和51(ネ)1221",
+  "original_date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 11,
+    "day": 9
+  },
+  "gist": "地代家賃統制令二三条二項三号の規定による建物の延べ面積の算定方法",
+  "case_gist": "地代家賃統制令二三条二項三号の規定による建物の延べ面積は、建築基準法施行令二条一項三号及び四号の規定により算定する。",
+  "ref_law": "地代家賃統制令23条2項3号，建築基準法施行令2条1項3号，建築基準法施行令2条1項4号",
+  "lawsuit_id": "64253",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64253",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/253/064253_hanrei.pdf"
+}

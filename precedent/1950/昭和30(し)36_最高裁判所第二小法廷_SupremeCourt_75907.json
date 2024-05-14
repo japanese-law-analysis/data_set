@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 9,
+    "day": 9
+  },
+  "case_number": "昭和30(し)36",
+  "case_name": "爆発物取締罰則違反、放火未遂等被告事件につきなした訴因罰条追加変更請求許容決定に対する特別抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第108号353頁",
+  "original_court_name": "長野地方裁判所\n        　飯田支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 8,
+    "day": 24
+  },
+  "gist": "一　訴因、罰条の追加変更請求が許容される場合\n二　訴因、罰条の追加、変更により被告人の防禦に実質的な不利益を生ずる虞がありとする場合と違憲の主張",
+  "case_gist": "一　訴因、罰条追加変更請求が公訴事実の範囲を逸脱していないものと認められる以上該請求を許容することができる。\n二　訴因、罰条の追加変更の請求を許可することによつて被告人の防禦に実質的不利益を生ずる虞があれば被告人又は弁護人から充分な防禦の準備をするため必要な期間公判手続停止の請求をすることもできるのである。されば仮りに右請求を許可したことを争う所論を違憲（憲法一一条、一二条、一三条、三一条）の主張としてもその前提を欠くものである。",
+  "ref_law": "刑訴法312条，刑訴法312条4項",
+  "lawsuit_id": "75907",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=75907",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/907/075907_hanrei.pdf"
+}

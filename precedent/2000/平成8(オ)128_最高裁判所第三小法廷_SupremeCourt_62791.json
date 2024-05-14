@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 12,
+    "month": 1,
+    "day": 28
+  },
+  "case_number": "平成8(オ)128",
+  "case_name": "異動命令無効確認等請求事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第196号285頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成5(ネ)3848",
+  "original_date": {
+    "era": "Heisei",
+    "year": 7,
+    "month": 9,
+    "day": 28
+  },
+  "gist": "転勤命令が権利の濫用に当たらないとされた事例",
+  "case_gist": "従業員数約二〇〇〇人の会社の東京都目黒区所在の技術開発本部に勤務する女性従業員に対し、同八王子市所在の事業所への転勤命令がされた場合において、同従業員が他の会社に勤務する夫及び保育園に通う長男と共に同品川区所在の借家に居住しており同所から右事業所へ通勤するには最短距離で片道約一時間四五分を要するなど判示の事実関係の下においては、転勤によって同従業員の負うことになる不利益は、必ずしも小さくないが、なお通常甘受すべき程度を著しく超えるとまではいえず、右転勤命令が権利の濫用に当たるとはいえない。\n（補足意見がある。）",
+  "ref_law": "労働基準法第2章労働契約",
+  "lawsuit_id": "62791",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62791",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/791/062791_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 6,
+    "day": 21
+  },
+  "case_number": "昭和54(オ)149",
+  "case_name": "親子関係存在確認",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第127号117頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和53(ネ)1198",
+  "original_date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 10,
+    "day": 31
+  },
+  "gist": "法律上の父子関係は認知によつてはじめて発生するものと定めることと憲法一三条及び一四条一項",
+  "case_gist": "法律上の父子関係は認知によつてはじめて発生するものと定めることは憲法一三条にも一四条一項にも違反しない。",
+  "ref_law": "民法779条，憲法13条，憲法14条1項",
+  "lawsuit_id": "62235",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62235",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/235/062235_hanrei.pdf"
+}

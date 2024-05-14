@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 7,
+    "day": 17
+  },
+  "case_number": "昭和56(さ)3",
+  "case_name": "公然わいせつ幇助被告事件に対する略式命令に対する非常上告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "刑集　第35巻5号563頁",
+  "original_court_name": "千葉簡易裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 10,
+    "day": 6
+  },
+  "gist": "一個の公然わいせつ行為を幇助したとされた事例",
+  "case_gist": "舞台上で演じられた男女二組のシヨーに照明をあてて公然わいせつの犯行を容易ならしめた所為は、一個の公然わいせつ行為を幇助したものである。",
+  "ref_law": "刑法62条1項，刑法174条",
+  "lawsuit_id": "51207",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51207",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/207/051207_hanrei.pdf"
+}

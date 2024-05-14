@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 8,
+    "day": 20
+  },
+  "case_number": "昭和44(オ)276",
+  "case_name": "株主総会決議不存在確認請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集民　第100号373頁",
+  "original_court_name": "広島高等裁判所",
+  "original_case_number": "昭和43(ネ)8",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 12,
+    "day": 17
+  },
+  "gist": "取締役会の決議を経ることなく代表取締役以外の取締役によつて招集された株主総会の決議の効力",
+  "case_gist": "取締役会の決議を経ることなく、代表取締役以外の取締役によつて招集された株主総会は法律上の意義における株主総会とはいえず、そこで決議がなされたとしても、株主総会の決議があつたものと解することはできない。",
+  "ref_law": "商法251条，商法261条",
+  "lawsuit_id": "66721",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66721",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/721/066721_hanrei.pdf"
+}

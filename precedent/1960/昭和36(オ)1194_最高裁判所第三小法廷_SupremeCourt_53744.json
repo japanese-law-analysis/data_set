@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 7,
+    "day": 14
+  },
+  "case_number": "昭和36(オ)1194",
+  "case_name": "建物収去時明渡請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第18巻6号1120頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 6,
+    "day": 19
+  },
+  "gist": "建物を所有して土地を権原なく占有する者が建物居住者において建物を明け渡さないため土地の返還ができなかつた場合にも土地不法占有による損害賠償責任を負担するとされた事例。",
+  "case_gist": "敷地所有に対抗しうる土地占有権原がないのに土地建物をあえて取得した者は、取得前より右建物に第三者が居住しており、その居住者が任意に建物を明け渡さないため、建物を収去して土地を明け渡すことが遅れたとしても、特段の事情がないかぎり、敷地所有者に対する右土地占有期間中の損害賠償責任を免れない。",
+  "ref_law": "民法709条",
+  "lawsuit_id": "53744",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53744",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/744/053744_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 9,
+    "day": 6
+  },
+  "case_number": "昭和55(行ツ)25",
+  "case_name": "計画変更処分取消等",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集民　第139号367頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和52(行コ)22",
+  "original_date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 11,
+    "day": 30
+  },
+  "gist": "公共施設の整備に関連する市街地の改造に関する法律一．一二条の管理処分計画において定められた概算額の増額変更処分の取消しを求める訴えの利益",
+  "case_gist": "公共施設の整備に関連する市街地の改造に関する法律による市街地改造事業の事業地内の土地の所有者、その土地について借地権を有する者又は権原によりその土地に建築物を所有する者で、施行者から払渡しを受けることとなる当該土地、借地権又は建築物の対償に代えて、建築施設の部分の譲受けを希望する旨の申出をしたものは、右対償の額が同法二二条の管理処分計画において定められた譲り受けるべき建築施設の部分の価額の概算額を超えない限り、右概算額の増額変更処分の取消しを求める訴えの利益を有しない。",
+  "ref_law": "公共施設の整備に関連する市街地の改造に関する法律22条，行政事件訴訟法9条",
+  "lawsuit_id": "62258",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62258",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/258/062258_hanrei.pdf"
+}

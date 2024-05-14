@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 12,
+    "day": 20
+  },
+  "case_number": "昭和43(オ)477",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第93号739頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和41(ネ)1040",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 2,
+    "day": 28
+  },
+  "gist": "将来において得べき全利得を損害賠償として一時に支払を受ける場合とホフマン式計算法",
+  "case_gist": "将来四二〇月にわたる期間に得べき全利得を損害賠償として一時に支払を受ける場合に、一月ごとにホフマン式計算法を適用して算出した金額を合算する方法によることができる。",
+  "ref_law": "民法709条",
+  "lawsuit_id": "70338",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70338",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/338/070338_hanrei.pdf"
+}

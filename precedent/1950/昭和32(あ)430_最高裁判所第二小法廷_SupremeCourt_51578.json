@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 10,
+    "day": 4
+  },
+  "case_number": "昭和32(あ)430",
+  "case_name": "銃砲刀剣類等所持取締令違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "刑集　第11巻10号2474頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 12,
+    "day": 25
+  },
+  "gist": "登録を受けた日本刀の所持と不法所持罪の成否",
+  "case_gist": "銃砲刀剣類等所持取締令第七条の規定による登録を受けた日本刀を所持する所為は、所持者その人の性格ないし所持の目的の如何にかかわらず、同令第二条の規定に違反せず、不法所持罪を構成しない。",
+  "ref_law": "銃砲刀剣類等所持取締令2条，銃砲刀剣類等所持取締令7条，銃砲刀剣類等所持取締令26条",
+  "lawsuit_id": "51578",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51578",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/578/051578_hanrei.pdf"
+}

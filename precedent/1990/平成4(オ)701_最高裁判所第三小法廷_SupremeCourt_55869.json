@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 8,
+    "month": 3,
+    "day": 5
+  },
+  "case_number": "平成4(オ)701",
+  "case_name": "損害填補",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第50巻3号383頁",
+  "original_court_name": "広島高等裁判所\n        　松江支部",
+  "original_case_number": "平成3(ネ)10",
+  "original_date": {
+    "era": "Heisei",
+    "year": 4,
+    "month": 1,
+    "day": 31
+  },
+  "gist": "ある者が交通事故の加害自動車の保有者であるか否かをめぐって争いがある場合における自動車損害賠償保障法七二条一項前段による請求権の消滅時効の起算点",
+  "case_gist": "自動車損害賠償保障法七二条一項前段による請求権の消滅時効は、ある者が交通事故の加害自動車の保有者であるか否かをめぐって、右の者と当該交通事故の被害者との間で同法三条による損害賠償請求権の存否が争われている場合においては、右損害賠償請求権が存在しないことが確定した時から進行する。",
+  "ref_law": "民法166条1項，自動車損害賠償保障法3条，自動車損害賠償保障法（平成7年法律第137号による改正前のもの）72条，自動車損害賠償保障法（平成7年法律第137号による改正前のもの）75条",
+  "lawsuit_id": "55869",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55869",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/869/055869_hanrei.pdf"
+}

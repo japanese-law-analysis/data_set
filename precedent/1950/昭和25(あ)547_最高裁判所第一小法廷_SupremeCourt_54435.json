@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 12,
+    "day": 17
+  },
+  "case_number": "昭和25(あ)547",
+  "case_name": "賍物牙保、銃砲等所持禁止令違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第7巻12号2558頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 12,
+    "day": 17
+  },
+  "gist": "一　原本に代えて証拠書類の謄本の取調請求のあつた場合と証拠調\n二　控訴審において被告人が出頭した場合と人定質問の要否",
+  "case_gist": "一　原本に代えて証拠書類の謄本の取調請求があつた場合、被告人および弁護人がこれを証拠とすることに同意し、且つ証拠調をすることに異議がない以上、謄本を証拠とするため証拠調をしても違法ではない。\n二　控訴審においては、被告人が出頭した場合でも、必ずしも人定質問をするを要しない。",
+  "ref_law": "刑訴法298条1項，刑訴法305条1項，刑訴法309条，刑訴法326条，刑訴法390条，刑訴規則115条，刑訴規則196条",
+  "lawsuit_id": "54435",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54435",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/435/054435_hanrei.pdf"
+}

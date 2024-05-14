@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 6,
+    "day": 2
+  },
+  "case_number": "昭和32(オ)438",
+  "case_name": "報酬金等請求",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第12巻9号1281頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 2,
+    "day": 19
+  },
+  "gist": "一月三日は民訴第一五六条第二項にいわゆる一般の休日にあたるか",
+  "case_gist": "一月三日は二日とともに国民一般の慣行にもとづく休日として民訴第一五六条第二項にいわゆる一般の休日にあたる",
+  "ref_law": "民法142条，民訴法156条2項",
+  "lawsuit_id": "52894",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52894",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/894/052894_hanrei.pdf"
+}

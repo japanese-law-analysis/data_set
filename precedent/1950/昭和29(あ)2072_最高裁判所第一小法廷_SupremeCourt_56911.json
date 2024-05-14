@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 11,
+    "day": 4
+  },
+  "case_number": "昭和29(あ)2072",
+  "case_name": "賍物牙保",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第8巻11号1665頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 4,
+    "day": 27
+  },
+  "gist": "差戻判決と差戻前の訴訟手続の効力",
+  "case_gist": "差戻前の訴訟手続は、差戻判決の破棄の理由となつた限度においてその効力を失い、破棄の理由とならない訴訟手続が全部その効力を失うものではない。",
+  "ref_law": "刑訴法400条，裁判所法4条",
+  "lawsuit_id": "56911",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56911",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/911/056911_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 6,
+    "day": 30
+  },
+  "case_number": "昭和30(き)3",
+  "case_name": "上告棄却の判決に対する再審の請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第106号935頁",
+  "original_court_name": "最高裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 4,
+    "day": 18
+  },
+  "gist": "上告棄却の判決に対する刑訴第四三六条第一項、第四三五条第一、二号の事由による再審請求の要件",
+  "case_gist": "上告棄却の判決に対し、刑訴第四三六条第一項、第四三五条第一、二号の事由による再審の請求が許されるためには、上告審が自ら事実の取調を行つて集取した証拠または上告棄却判決が判断の資料として特に掲げた証拠について右第四三五条第一、二号に定める事由が存在しなければならない。",
+  "ref_law": "刑訴法436条，刑訴法435条1号，刑訴法435条2号",
+  "lawsuit_id": "60895",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60895",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/895/060895_hanrei.pdf"
+}

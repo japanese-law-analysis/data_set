@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 3,
+    "day": 18
+  },
+  "case_number": "昭和38(オ)157",
+  "case_name": "登記抹消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第20巻3号451頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "昭和34(ネ)265",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 11,
+    "day": 22
+  },
+  "gist": "民法第九四条第二項の類推適用を認めた事例",
+  "case_gist": "未登記の建物の所有者甲が、乙にその所有権を移転する意思がないのに、乙の承諾を得て、右建物について乙名義の所有権保存登記を経由したときは、民法第九四条第二項を類推適用して、甲は、乙が右建物の所有権を取得しなかつたことをもつて、善意の第三者に対抗することができないものと解すべきである。",
+  "ref_law": "民法94条",
+  "lawsuit_id": "53858",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53858",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/858/053858_hanrei.pdf"
+}

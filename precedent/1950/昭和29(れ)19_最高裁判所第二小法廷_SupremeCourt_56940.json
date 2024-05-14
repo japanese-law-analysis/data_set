@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 12,
+    "day": 16
+  },
+  "case_number": "昭和29(れ)19",
+  "case_name": "特別公務員暴行陵虐致死",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第9巻14号2797頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 5,
+    "day": 29
+  },
+  "gist": "一　理由不備の違法のない事例\n二　裁判所法第四条に違反しない事例",
+  "case_gist": "一　特別公務員暴行陵虐致死被告事件において、被害者の解剖所見のみを基礎として受傷時と死亡時との時間的間隔を推認し、これにより或る幅をもつた受傷時を推認した上、その推認時間内において被害者と交渉を持つた者のうちから証拠と推理によつて加害者を認定しても差支えなく、理由不備の違法があるとはいえない。\n二　証拠と理由不備の違法を理由として破棄差戻された後の第二審が、証拠を追加し同一事実を認定した場合には、上級審の裁判所の裁判における判断と相反する判断をしたことにはならない。",
+  "ref_law": "刑訴法411条1号，刑訴法317条，裁判所法4条",
+  "lawsuit_id": "56940",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56940",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/940/056940_hanrei.pdf"
+}

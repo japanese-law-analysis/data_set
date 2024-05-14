@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 10,
+    "day": 29
+  },
+  "case_number": "平成19(ワ)1800",
+  "case_name": "損害賠償請求事件",
+  "court_name": "仙台地方裁判所第1民事部",
+  "gist": "過労運転の影響により，居眠り運転をしたため，引き起こされた死亡交通事故について，居眠り運転をした運転手のほか，過労運転を下命した使用者，その代表者，配車担当の従業員にも，民法７１５条，７１９条に基づいて，被害者，その両親である原告らが被った損害を賠償する責任があるとされた事例",
+  "lawsuit_id": "37103",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=37103",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/103/037103_hanrei.pdf",
+  "contents": ""
+}

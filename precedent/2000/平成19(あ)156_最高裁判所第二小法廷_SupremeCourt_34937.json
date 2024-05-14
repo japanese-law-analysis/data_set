@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 7,
+    "day": 10
+  },
+  "case_number": "平成19(あ)156",
+  "case_name": "詐欺被告事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第61巻5号405頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成18(う)1415",
+  "original_date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 12,
+    "day": 20
+  },
+  "gist": "公共工事の請負者が，地方公共団体から使途を限定して請負者名義の預金口座に振り込まれた前払金につき，上記使途に沿った支払と偽って，払出しに係る金員を領得したことが詐欺罪に当たるとされた事例",
+  "case_gist": "公共工事の請負者甲が，地方公共団体から使途を限定して甲名義の預金口座に振り込まれた前払金につき，上記使途に沿った下請業者乙に対する支払と偽って預金の払出しを請求し，その旨誤信した銀行係員をして，乙に無断で開設していた乙名義の預金口座に振込入金させた行為は，詐欺罪に当たる。",
+  "ref_law": "刑法246条1項",
+  "lawsuit_id": "34937",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=34937",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/937/034937_hanrei.pdf",
+  "contents": ""
+}

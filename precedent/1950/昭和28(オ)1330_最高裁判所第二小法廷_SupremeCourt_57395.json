@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 12,
+    "day": 2
+  },
+  "case_number": "昭和28(オ)1330",
+  "case_name": "農地売渡承諾取消等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第9巻13号1947頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 11,
+    "day": 11
+  },
+  "gist": "農地売渡処分の取消処分に対する出訴期間",
+  "case_gist": "農地売渡処分の取消処分に対する出訴期間については、自作農創設特別措置法第四七条の二の規定によるべきではなく、行政事件訴訟特例法第五条の規定によるべきである。",
+  "ref_law": "自作農創設特別措置法47条の2，行政事件訴訟特例法5条",
+  "lawsuit_id": "57395",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57395",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/395/057395_hanrei.pdf"
+}

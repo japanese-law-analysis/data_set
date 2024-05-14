@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 16,
+    "month": 6,
+    "day": 14
+  },
+  "case_number": "平成15(し)360",
+  "case_name": "訴訟終了宣言決定に対する異議申立て棄却決定に対する特別抗告事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第285号447頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 15,
+    "month": 12,
+    "day": 5
+  },
+  "gist": "被告人が控訴を取り下げる際に弁護人が付されていないことと憲法３７条３項",
+  "ref_law": "憲法37条3項，刑訴法359条",
+  "lawsuit_id": "57857",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57857",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/857/057857_hanrei.pdf"
+}

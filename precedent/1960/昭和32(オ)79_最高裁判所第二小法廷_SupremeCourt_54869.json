@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 3,
+    "day": 31
+  },
+  "case_number": "昭和32(オ)79",
+  "case_name": "新株発行無効請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第15巻3号645頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 11,
+    "day": 16
+  },
+  "gist": "有効な取締役会の決議を経ない新株発行の効力。",
+  "case_gist": "株式会社を代表する権限のある取締役が新株を発行した以上、これにつき有効な取締役会の決議がなくても、右新株の発行は有効である。",
+  "ref_law": "商法280条ノ2",
+  "lawsuit_id": "54869",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54869",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/869/054869_hanrei.pdf"
+}

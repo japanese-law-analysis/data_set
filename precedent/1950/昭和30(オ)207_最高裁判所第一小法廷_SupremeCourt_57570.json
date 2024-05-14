@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 7,
+    "day": 12
+  },
+  "case_number": "昭和30(オ)207",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第10巻7号845頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 12,
+    "day": 6
+  },
+  "gist": "白地裏書人が手形を受戻した後、さきの白地裏書に記載した裏書を利用して右手形を第三者に譲渡した場合と裏書人としての責任の有無",
+  "case_gist": "甲から白地裏書により乙に、乙から記名裏書により丙に、順次交付された手形が甲に返還され、かつ乙のなした裏書が適法に抹消された後において、甲がさきの白地裏書の記載をそのまま利用して、右手形を丁に譲渡したときは、甲は丁に対し、裏書人としての手形上の責任を負担する。",
+  "ref_law": "手形法14条2項，手形法16条1項，手形法43条前段，手形法77条",
+  "lawsuit_id": "57570",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57570",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/570/057570_hanrei.pdf"
+}

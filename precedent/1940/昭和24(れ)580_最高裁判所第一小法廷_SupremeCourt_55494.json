@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 8,
+    "day": 25
+  },
+  "case_number": "昭和24(れ)580",
+  "case_name": "賍物故買",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第3巻9号1512頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 11,
+    "day": 9
+  },
+  "gist": "日常生活における實驗則と證據説明の要否",
+  "case_gist": "「現在學校等で盜難豫防のため頭文字等を硝子に記入することは普通であるが個人の家ではそんな事例はない」ということは、現時わが日常生活における實驗則であつて、裁判所はこれを裁判の基礎となし得るものであり、しかもその存在について證據説明をなすことを要しない。",
+  "ref_law": "舊刑訴法336條",
+  "lawsuit_id": "55494",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55494",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/494/055494_hanrei.pdf"
+}

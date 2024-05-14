@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 3,
+    "day": 24
+  },
+  "case_number": "昭和25(あ)344",
+  "case_name": "銃砲等所持禁止令違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第4巻3号417頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 12,
+    "day": 21
+  },
+  "gist": "控訴棄却の決定に對する上告申立の適否とこれに對する措置",
+  "case_gist": "高等裁判所が控訴審として刑訴法第三八六條第一項第一號により控訴を棄却した決定に對してなされた上告申立は、上告申立として不適法なものであつて、刑訴法第四一四條、同第三八五條第一項に則り、決定を以つてこれを棄却するべきである。",
+  "ref_law": "刑訴法386條1項，刑訴法386條2項，刑訴法385條1項，刑訴法385條2項，刑訴法414條",
+  "lawsuit_id": "75121",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=75121",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/121/075121_hanrei.pdf"
+}

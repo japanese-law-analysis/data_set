@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 11,
+    "day": 25
+  },
+  "case_number": "平成16(ワ)1495",
+  "case_name": "損害賠償請求事件",
+  "court_name": "仙台地方裁判所第1民事部",
+  "gist": "不穏状態の沈静のため，抗精神病薬（セレネース），催眠鎮静剤（ドルミカム）を短時間に投与された直後に，心停止となり，死亡した患者について，心停止がセレネース，ドルミカムの投与によって発生したとは認められないとして，セレネース，ドルミカムの投与方法について担当医師，担当看護師に過失があったとする遺族の損害賠償請求を棄却した事例",
+  "lawsuit_id": "37297",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=37297",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/297/037297_hanrei.pdf",
+  "contents": "B\n"
+}

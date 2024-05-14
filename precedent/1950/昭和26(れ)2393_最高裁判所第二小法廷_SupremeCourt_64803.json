@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 5,
+    "day": 16
+  },
+  "case_number": "昭和26(れ)2393",
+  "case_name": "放火",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第64号489頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 6,
+    "day": 25
+  },
+  "gist": "旧刑訴事件の上訴審における審判特例規則の合憲性",
+  "case_gist": "所論は、原判決は旧刑訴法事件の控訴審及び上告審における審判の特例に関する規則に基き本件控訴を棄却したのであるが、右規則は憲法七七条の解釈を誤り裁判所規則制定権の範囲を逸脱して制定された無効のものであるから、右規則を適用した原判決は憲法三一条に違反するというのであるが、右規則は憲法七七条に定める最高裁判所の権限の範囲内に属し、かつ直接には刑訴施行法一三条に基くものであり、すなわち法律によつて委任されたものであるから、憲法七七条、三一条に違反するものでないことは、昭和二四年（れ）第二一二七号同二五年一〇月二五日大法廷判決の示すところである。",
+  "ref_law": "憲法31条，憲法77条，刑訴施行法13条，旧刑訴事件の上訴審における審判特例規則（昭和25年最裁規30号）",
+  "lawsuit_id": "64803",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64803",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/803/064803_hanrei.pdf"
+}

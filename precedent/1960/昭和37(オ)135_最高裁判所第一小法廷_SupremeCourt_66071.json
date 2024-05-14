@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 12,
+    "day": 19
+  },
+  "case_number": "昭和37(オ)135",
+  "case_name": "建物収去、土地明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第70号381頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 10,
+    "day": 30
+  },
+  "gist": "賃貸借の目的たる宅地に対する仮換地の指定と賃貸借関係。",
+  "case_gist": "賃貸借関係のある宅地について仮換地の指定がなされた場合には、賃貸借関係は、従前の内容を変更することなくそのまま仮換地について移行し、賃貸人は賃借人に対し仮換地を使用収益させる義務を負い、賃借人は賃貸人に対し賃料支払義務を負うものと解するのを相当とする。",
+  "ref_law": "土地区画整理法99条",
+  "lawsuit_id": "66071",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66071",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/071/066071_hanrei.pdf"
+}

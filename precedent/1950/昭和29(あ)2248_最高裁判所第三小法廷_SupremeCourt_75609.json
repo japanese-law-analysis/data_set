@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 10,
+    "day": 26
+  },
+  "case_number": "昭和29(あ)2248",
+  "case_name": "麻薬取締法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第99号507頁",
+  "original_court_name": "札幌高等裁判所\n        　函館支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 6,
+    "day": 8
+  },
+  "gist": "一　第一審における執行猶予の判決後控訴審が新たに勾留状を発することの適否\n二　第一審における執行猶予の判決後控訴審が新たに勾留状を発した場合における保釈請求の許否",
+  "case_gist": "一　第一審が勾留中の被告人に対し懲役刑の執行猶予の判決を言渡したため勾留状が効力を失つた後においても刑訴第六〇条第一項各号の事由が新たに生じたときは控訴審において新たに勾留状を発することができる。\n二　右の場合控訴審において新たに勾留状を発したときの保釈の許否については、刑事訴訟法総則の規定が適用され、第一審が禁錮以上の判決をしたことを請求却下の理由とすることはできない。",
+  "ref_law": "刑訴法60条1項，刑訴法89条，刑訴法344条，刑訴法345条",
+  "lawsuit_id": "75609",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=75609",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/609/075609_hanrei.pdf"
+}

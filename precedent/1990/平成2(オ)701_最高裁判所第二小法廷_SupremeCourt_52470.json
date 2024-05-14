@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 2,
+    "month": 11,
+    "day": 26
+  },
+  "case_number": "平成2(オ)701",
+  "case_name": "総会決議無効確認",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第44巻8号1137頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成1(ネ)1452",
+  "original_date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 12,
+    "day": 27
+  },
+  "gist": "区分所有法四七条二項の管理組合法人の理事会への理事の代理出席を認める規約の定めが違法でないとされた事例",
+  "case_gist": "区分所有法四七条二項の管理組合法人の規約中、理事に事故があり、理事会に出席できないときは、その配偶者又は一親等の親族に限り、その理事を代理して理事会に出席させることができる旨を定めた条項は、違法でない。",
+  "ref_law": "民法55条，建物の区分所有等に関する法律30条，建物の区分所有等に関する法律47条，建物の区分所有等に関する法律49条",
+  "lawsuit_id": "52470",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52470",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/470/052470_hanrei.pdf"
+}

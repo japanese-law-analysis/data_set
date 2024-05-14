@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 13,
+    "month": 11,
+    "day": 22
+  },
+  "case_number": "平成10(オ)774",
+  "case_name": "求償金請求事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集民　第203号541頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成8(ネ)5786",
+  "original_date": {
+    "era": "Heisei",
+    "year": 9,
+    "month": 12,
+    "day": 10
+  },
+  "gist": "預託金会員制ゴルフクラブに入会するために支払うべき預託金についてされた申込者とクレジット会社との間のクレジット契約においてゴルフ場の開場遅延が同契約に規定する支払拒絶の事由に該当しないとされた事例",
+  "case_gist": "預託金会員制ゴルフクラブに入会するために支払うべき預託金について申込者とクレジット会社との間で締結されたクレジット契約につき，申込者が未開場のゴルフ場であることを認識した上で，ゴルフクラブに入会することを企図して，同契約を締結したなど判示の事実関係の下においては，ゴルフ場の開場遅延は，同契約に支払拒絶の事由として規定する「その他商品の販売について，販売会社に生じている事由があること」に該当しない。\n（反対意見がある。）",
+  "ref_law": "民法91条，民法第3編第2章　契約",
+  "lawsuit_id": "62404",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62404",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/404/062404_hanrei.pdf"
+}

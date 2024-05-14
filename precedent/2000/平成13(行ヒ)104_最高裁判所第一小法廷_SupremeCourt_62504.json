@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 14,
+    "month": 7,
+    "day": 18
+  },
+  "case_number": "平成13(行ヒ)104",
+  "case_name": "損害賠償請求事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第206号915頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成11(行コ)106",
+  "original_date": {
+    "era": "Heisei",
+    "year": 13,
+    "month": 1,
+    "day": 24
+  },
+  "gist": "府から建設の委託を受けた施設について日本下水道事業団が発注した設備工事の請負金額が業者らの談合によって不当につり上げられた場合には府に損害が発生するとされた事例",
+  "case_gist": "日本下水道事業団が府から建設の委託を受けた施設の設備工事を発注した場合において，請負金額が業者らの談合によって不当につり上げられたとすれば，府と同事業団の委託協定中に，府が同事業団に費用の一部として支払う施設建設工事の予定価格よりも同事業団が発注した工事の総請負金額が低額になったときには同事業団が府に対しその差額を還付する旨の精算の合意があるなど判示の事実関係の下では，府が同事業団の発注工事の請負金額の決定に介入することができないとしても，府には談合によってつり上げられた金額相当の損害が発生する。",
+  "ref_law": "民法709条，地方自治法242条の2第1項",
+  "lawsuit_id": "62504",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62504",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/504/062504_hanrei.pdf"
+}

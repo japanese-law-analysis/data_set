@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 1,
+    "day": 16
+  },
+  "case_number": "昭和35(オ)1067",
+  "case_name": "建物明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集民　第71号43頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 5,
+    "day": 18
+  },
+  "gist": "借家法第一条ノ二の正当事由の存否を判断する時期。",
+  "case_gist": "借家法第一条ノ二の正当の事由は、解約申入当時における賃貸人、賃貸人双方に存する事情を比較考量して、決定すべきものである。",
+  "ref_law": "借家法1条ノ2",
+  "lawsuit_id": "74313",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74313",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/313/074313_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 5,
+    "day": 17
+  },
+  "case_number": "昭和24(れ)282",
+  "case_name": "強盗、詐欺",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第10号211頁",
+  "original_court_name": "広島高等裁判所\n        　松江支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 12,
+    "day": 13
+  },
+  "gist": "錯誤に陥つた被害者の精神状態の認定と採證の自由",
+  "case_gist": "被害者が錯誤に陥つた精神状態の認定をなすには必ず被害者の供述又は他の證據によらなければならないという理由はなく、加害者たる被告人の供述其他の證據によつてこれを認定したとしても採證法則に違背するものではない。",
+  "ref_law": "舊刑訴法336條，舊刑訴法337條",
+  "lawsuit_id": "70789",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70789",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/789/070789_hanrei.pdf"
+}

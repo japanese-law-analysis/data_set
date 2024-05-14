@@ -1,0 +1,24 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 1,
+    "day": 27
+  },
+  "case_number": "昭和28(あ)4377",
+  "case_name": "詐欺、横領",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第91号889頁",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 9,
+    "day": 8
+  },
+  "lawsuit_id": "72849",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=72849",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/849/072849_hanrei.pdf"
+}

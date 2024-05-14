@@ -1,0 +1,17 @@
+{
+  "trial_type": "LaborCase",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 12,
+    "day": 21
+  },
+  "case_number": "平成18(ネ)3848",
+  "case_name": "アメリカ合衆国軍隊駐留軍等労働者解雇",
+  "court_name": "東京高等裁判所",
+  "field": "労働",
+  "lawsuit_id": "36554",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail6?id=36554",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/554/036554_hanrei.pdf",
+  "contents": "HQ US FORCES JAPAN\n1 2\na\nb\nc\nd\n1 1\na\nb\nc\n3 1\nd\n3 2\ne\na\nb\nc\nd\n2 1\na\n3 1\n4 2\na\nb\nc\na\nb\nc\na\nb\na\nb\nc\nd\ne\n3 1\n3 2\n3 1\n3 1 2\n2 1\n"
+}

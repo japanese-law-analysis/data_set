@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 10,
+    "day": 20
+  },
+  "case_number": "昭和56(し)129",
+  "case_name": "窃盗、爆発物取締罰則違反被告事件についてした裁判長の処分に対する異議申立棄却決定に対する特別抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第223号849頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 10,
+    "day": 1
+  },
+  "gist": "公判手続の更新の方法に関する裁判長の処分に対する異議申立棄却決定が、刑訴法四三三条一項にいう決定にあたらないとされた事例",
+  "ref_law": "刑訴法315条，刑訴法433条1項",
+  "lawsuit_id": "61813",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61813",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/813/061813_hanrei.pdf"
+}

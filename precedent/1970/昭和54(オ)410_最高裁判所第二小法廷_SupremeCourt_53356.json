@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 11,
+    "day": 16
+  },
+  "case_number": "昭和54(オ)410",
+  "case_name": "株主総会決議無効確認",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第33巻7号709頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和53(ネ)734",
+  "original_date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 12,
+    "day": 14
+  },
+  "gist": "株主総会決議無効確認の訴が株主総会決議取消の訴の要件をみたしている場合における決議取消の主張と決議取消の訴としての出訴期間の遵守",
+  "case_gist": "株主総会決議無効確認の訴の決議無効原因として主張された瑕疵が決議取消原因に該当し、しかも、右訴が決議取消訴訟の出訴期間内に提起されている場合には、決議取消の主張が出訴期間経過後にされたとしても、右決議取消の訴は出訴期間の関係では決議無効確認の訴提起時に提起されたのと同様に扱うのが相当である。",
+  "ref_law": "商法247条，商法248条，商法252条",
+  "lawsuit_id": "53356",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53356",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/356/053356_hanrei.pdf"
+}

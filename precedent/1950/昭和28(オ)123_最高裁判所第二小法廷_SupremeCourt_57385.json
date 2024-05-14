@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 3,
+    "day": 4
+  },
+  "case_number": "昭和28(オ)123",
+  "case_name": "船舶引渡等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第9巻3号229頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 12,
+    "day": 20
+  },
+  "gist": "民法第二九八条第二項但書にいわゆる留置物の保存に必要な使用",
+  "case_gist": "木造帆船の買主が、売買契約解除前支出した修繕費の償還請求権につき右船を留置する場合において、これを遠方に航行せしめて運送業務のため使用することは、たとえ解除前と同一の使用状態を継続するにすぎないとしても、留置物の保存に必要な使用をなすものとはいえない。",
+  "ref_law": "民法196條，民法295條，民法298條",
+  "lawsuit_id": "57385",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57385",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/385/057385_hanrei.pdf"
+}

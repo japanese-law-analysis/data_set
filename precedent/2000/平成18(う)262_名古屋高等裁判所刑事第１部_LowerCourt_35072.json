@@ -1,0 +1,20 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 7,
+    "day": 6
+  },
+  "case_number": "平成18(う)262",
+  "case_name": "略取，殺人",
+  "court_name": "名古屋高等裁判所刑事第１部",
+  "result": "破棄自判",
+  "original_court_name": "名古屋地方裁判所",
+  "original_case_number": "平成15(わ)940",
+  "gist": "１歳１０か月の幼児に対する略取，殺人被告事件につき，原判決が被告人の捜査段階の自白の信用性を否定して無罪を言い渡したのに対し，被告人の犯人性を認めるに足る間接事実が存し，捜査段階における被告人の自白供述も信用性は十分で有罪の認定をするにつき合理的な疑いはなく，原判決には，事実の誤認があるとして，これを破棄し，各公訴事実につき被告人を有罪とした上で，懲役１７年を言い渡した事案",
+  "lawsuit_id": "35072",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=35072",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/072/035072_hanrei.pdf",
+  "contents": ""
+}

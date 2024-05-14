@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 5,
+    "day": 18
+  },
+  "case_number": "平成20(ワ)4184",
+  "case_name": "地位確認請求事件（通称　京都新聞COM雇止）",
+  "court_name": "京都地方裁判所第６民事部",
+  "result": "その他",
+  "gist": "雇止めがされた期間契約社員からの雇用契約上の地位確認請求について，親会社での雇用期間を含めて契約更新が重ねられ，雇用継続の合理的期待を有するに至っていること，3年を超えて更新しないという取り決めが周知されていなかったことなどを理由として，雇止めが無効であるとされた事例。",
+  "lawsuit_id": "80285",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=80285",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/285/080285_hanrei.pdf",
+  "contents": ""
+}

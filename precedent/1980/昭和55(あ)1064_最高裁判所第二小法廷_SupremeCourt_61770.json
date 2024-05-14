@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 9,
+    "day": 25
+  },
+  "case_number": "昭和55(あ)1064",
+  "case_name": "覚せい剤取締法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第218号351頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 5,
+    "day": 28
+  },
+  "gist": "引用の地裁判決は四〇五条三号の判例にあたらずその余の引用判例は事案を異にするとされた事例",
+  "lawsuit_id": "61770",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61770",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/770/061770_hanrei.pdf"
+}

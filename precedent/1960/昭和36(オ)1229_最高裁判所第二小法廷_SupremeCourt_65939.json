@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 1,
+    "day": 25
+  },
+  "case_number": "昭和36(オ)1229",
+  "case_name": "土地売渡登記手続等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第64号225頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 8,
+    "day": 7
+  },
+  "gist": "国の所有権取得登記抹消請求の訴を知事宛に提起することの適否。",
+  "case_gist": "登記名義人でない県知事を相手方として国のためになされた所有権取得登記の抹消登記手続を求める訴は、不適法である。",
+  "ref_law": "民訴法45条",
+  "lawsuit_id": "65939",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=65939",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/939/065939_hanrei.pdf"
+}

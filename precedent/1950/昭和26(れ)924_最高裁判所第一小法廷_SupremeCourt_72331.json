@@ -1,0 +1,24 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 1,
+    "day": 21
+  },
+  "case_number": "昭和26(れ)924",
+  "case_name": "収賄",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第91号517頁",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 3,
+    "day": 23
+  },
+  "lawsuit_id": "72331",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=72331",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/331/072331_hanrei.pdf"
+}

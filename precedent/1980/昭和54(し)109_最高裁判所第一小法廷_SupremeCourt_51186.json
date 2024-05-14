@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 12,
+    "day": 11
+  },
+  "case_number": "昭和54(し)109",
+  "case_name": "再審請求棄却決定に対する即時抗告についてした決定に対する特別抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第34巻7号562頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 9,
+    "day": 27
+  },
+  "gist": "刑訴法四三五条六号による再審請求を認容すべきものとした原決定が是認された事例",
+  "case_gist": "本件事案（原判文参照）につき請求人提出にかかる証拠の新規性及び明白性を認めて再審請求を認容すべきものとした原決定の判断は、是認することができる。",
+  "ref_law": "刑訴法435条6号",
+  "lawsuit_id": "51186",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51186",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/186/051186_hanrei.pdf"
+}

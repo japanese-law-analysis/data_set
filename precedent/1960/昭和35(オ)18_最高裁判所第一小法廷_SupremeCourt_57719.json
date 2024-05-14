@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 5,
+    "day": 24
+  },
+  "case_number": "昭和35(オ)18",
+  "case_name": "請求異議",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第16巻5号1157頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 9,
+    "day": 7
+  },
+  "gist": "確定判決に基づく強制執行と権利の濫用",
+  "case_gist": "自動車事故により傷害を受けた者が、将来営業活動不能による損害賠償を命ずる確定判決をえた後、負傷が快癒し、電話を引くなどして堂々と営業している反面、加害者が右賠償義務の負担を苦にして自殺するなどの事故があつたにも拘らず、右判決確定後五年を経て、加害者の相続人である父母に対し強制執行をする等の事情があつたとすれば右の強制執行は権利の濫用にあたらないとはいえない。",
+  "ref_law": "民訴法545条，民法1条",
+  "lawsuit_id": "57719",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57719",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/719/057719_hanrei.pdf"
+}

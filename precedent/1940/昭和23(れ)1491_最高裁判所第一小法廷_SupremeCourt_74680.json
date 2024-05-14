@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 3,
+    "day": 17
+  },
+  "case_number": "昭和23(れ)1491",
+  "case_name": "恐喝、傷害等",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集刑　第8号273頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 3,
+    "day": 17
+  },
+  "gist": "一　證據調を經ない證人訊問調書を證據とした判決の違法\n二　原判決中併合罪の關係にある或犯罪事實につき破棄の事由ある場合他の分をも破棄することの要否",
+  "case_gist": "一　原判決の基礎となつた原審第二回の公判調書によれば右證人の訊問調書につきこれを法廷に顯出して證據調をしたことを認め得ない。されば原判決は適法に證據調を經ない證人訊問調書を證據とした違法あるものといわねばならぬ。\n二　適法に證據調を經ない證人訊問調書を證據とした右の違法は原判決に影響を及ぼさないこと明白ではないから所論はその理由あるに歸し原判決の判示の一部分は破棄を免れない。そして右事實は原判決認定の他の犯罪事實と併合罪の關係あるものとして單一刑を以つて處斷されたものであるから結局原判決は全部破棄を免れない。",
+  "ref_law": "舊刑訴法336條，舊刑訴法340條，舊刑訴法411條，刑法45條",
+  "lawsuit_id": "74680",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74680",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/680/074680_hanrei.pdf"
+}

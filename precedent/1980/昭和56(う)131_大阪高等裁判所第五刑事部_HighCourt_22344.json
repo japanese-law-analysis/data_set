@@ -1,0 +1,19 @@
+{
+  "trial_type": "HighCourt",
+  "date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 7,
+    "day": 27
+  },
+  "case_number": "昭和56(う)131",
+  "case_name": "暴力行為等処罰に関する法律違反、傷害被告事件",
+  "court_name": "大阪高等裁判所第五刑事部",
+  "article_info": "第34巻3号355頁",
+  "gist": "現場共謀に基づく傷害罪の実行共同正犯の訴因に対し、事前共謀に基づく共謀共同正犯を認定するには、訴因変更手続が必要であるとされた事例",
+  "case_gist": "訴因が現場共謀に基づく傷害罪の実行共同正犯として構成されており、実質的にはもつぱら暴行を加えた者の中に被告人がいたか否かが中心的な争点になつていたなどの事情のある本件において(判文参照)、犯行現場における共謀及び実行行為を否定し、犯行現場に至る過程における事前の共謀に基づく共同正犯を認定することは、被告人の防禦に実質的不利益をもたらすことになり、訴因変更の手続を必要とする。",
+  "lawsuit_id": "22344",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail3?id=22344",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/344/022344_hanrei.pdf",
+  "contents": ""
+}

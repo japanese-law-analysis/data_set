@@ -1,0 +1,16 @@
+{
+  "trial_type": "LaborCase",
+  "date": {
+    "era": "Heisei",
+    "year": 27,
+    "month": 6,
+    "day": 26
+  },
+  "case_number": "平成26(行コ)163",
+  "case_name": "建物使用不許可処分取消等・建物明渡・使用不許可処分取消等請求控訴事件(原審・大阪地方裁判所平成24年(行ｳ)第49号(第１事件)，同年(ワ)第4909号(第２事件)，平成25年(行ｳ)第75号(第３事件)，平成26年(行ｳ)第59号(第４事件))",
+  "court_name": "大阪高等裁判所",
+  "field": "労働",
+  "lawsuit_id": "85549",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail6?id=85549",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/549/085549_hanrei.pdf"
+}

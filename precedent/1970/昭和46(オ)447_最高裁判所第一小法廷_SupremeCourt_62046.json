@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 5,
+    "day": 29
+  },
+  "case_number": "昭和46(オ)447",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第115号33頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和45(ネ)461",
+  "original_date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 2,
+    "day": 26
+  },
+  "gist": "自動車賃貸業者に自動車損害賠償保障法三条による運行供用者責任が認められた事例",
+  "case_gist": "自動車賃貸業者が、自動車を賃貸するにあたり、借主につき免許証の有無を確認し、使用時間、行先を指定させ、走行粁、使用時間に応じて預り金の名目で賃料の前払をさせ、借主の使用中使用時間、行先を変更する場合には、賃貸業者の指示を受けるため返還予定時刻の三時間前に連絡させ、車両の整備は賃貸業者の手で行われ、賃貸中の故障の修理も原則として賃貸業者の負担であつたなど判示の事実関係があるときは、賃貸業者は、借主の運行による事故につき、自動車損害賠償保障法三条による運行供用者としての責任を免れない。",
+  "ref_law": "自動車損害賠償保障法3条",
+  "lawsuit_id": "62046",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62046",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/046/062046_hanrei.pdf"
+}

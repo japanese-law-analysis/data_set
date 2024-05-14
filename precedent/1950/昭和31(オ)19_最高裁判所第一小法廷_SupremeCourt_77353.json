@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 4,
+    "day": 25
+  },
+  "case_number": "昭和31(オ)19",
+  "case_name": "農地委員会の決議取消請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第26号253頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 10,
+    "day": 17
+  },
+  "lawsuit_id": "77353",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77353",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/353/077353_hanrei.pdf"
+}

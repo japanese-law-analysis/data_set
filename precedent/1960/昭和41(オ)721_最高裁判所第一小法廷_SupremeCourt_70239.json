@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 6,
+    "day": 8
+  },
+  "case_number": "昭和41(オ)721",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第87号1015頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和38(ネ)3064",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 4,
+    "day": 14
+  },
+  "gist": "信用金庫の職員の偽造した定期預金証書を真正なものと信じて金銭を貸与した第三者が損害をこうむつた場合において当該信用金庫に民法第七一五条の責任が認められた事例",
+  "case_gist": "預金係として定期預金証書の作成について密接な関連がある職務に従事している信用金庫の職員が定期預金証書を持ち出して、得意先係である他の職員に交付し、同人が右用紙を利用して定期預金証書を偽造し、その偽造にかかる証書を真正なものと信じて金銭を貸与した第三者が損害をこうむつた等原判決の確定した事実関係（原判決理由参照）のもとにおいては、当該信用金庫は、その第三者に対し民法第七一五条による責任を負うものと認めるのが相当である。",
+  "ref_law": "民法715条",
+  "lawsuit_id": "70239",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70239",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/239/070239_hanrei.pdf"
+}

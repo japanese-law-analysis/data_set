@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 8,
+    "month": 3,
+    "day": 28
+  },
+  "case_number": "平成4(オ)1011",
+  "case_name": "処分無効確認等",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集民　第178号1113頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成3(ネ)1146",
+  "original_date": {
+    "era": "Heisei",
+    "year": 4,
+    "month": 2,
+    "day": 10
+  },
+  "gist": "使用者が企業秩序維持のために従業員の法的利益を侵害する性質を有する指導監督上の措置を執った場合におけるその根拠事実の証明と不法行為の成否",
+  "case_gist": "使用者が企業秩序維持のために従業員の法的利益を侵害する性質を有する指導監督上の措置を執り、これによって従業員が損害を被った場合であっても、使用者が右措置を執ったことを相当とすべき根拠事実の存在が証明されるか、又は使用者において右のような事実があると判断したことに相当の理由があると認められるときには、不法行為は成立しない。",
+  "ref_law": "民法709条，民訴法第2編第3章第1節総則",
+  "lawsuit_id": "73144",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=73144",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/144/073144_hanrei.pdf"
+}

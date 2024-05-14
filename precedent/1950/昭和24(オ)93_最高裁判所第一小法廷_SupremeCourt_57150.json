@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 12,
+    "day": 25
+  },
+  "case_number": "昭和24(オ)93",
+  "case_name": "保険金受取人確認等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第6巻12号1240頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 2,
+    "day": 26
+  },
+  "gist": "一　民訴第一八七条第三項後段の趣旨\n二　証拠決定をしないで結審しても違法でない場合",
+  "case_gist": "一　民訴第一八七条第三項後段の規定は、同一審級において裁判官の過半数が変更するに至つた場合に証人の再尋問の申出があつたときの手続を定めたものであつて、第一審裁判所が尋問した証人につき控訴審において再尋問の申出があつた場合に適用すべきでない。\n二　当事者の申し出た証拠が唯一の証拠方法でないときは、申出の許否を決定することなく結審しても違法でない。",
+  "ref_law": "民訴法187条3項，民訴法259条",
+  "lawsuit_id": "57150",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57150",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/150/057150_hanrei.pdf"
+}

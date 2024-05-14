@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 2,
+    "day": 18
+  },
+  "case_number": "昭和46(オ)179",
+  "case_name": "建物明渡、損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第26巻1号63頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和43(ネ)1614",
+  "original_date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 12,
+    "day": 17
+  },
+  "gist": "建物賃借人の失火による建物焼燬を理由とする賃貸借の解除と催告の要否",
+  "case_gist": "建物の賃借人がその責に帰すべき事由によつて賃借建物に火災を発生させ、これを焼燬した場合には、賃貸人は、特段の事情のないかぎり、催告を経ないで賃貸借契約を解除することができるものと解すべきである。",
+  "ref_law": "民法541条",
+  "lawsuit_id": "52035",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52035",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/035/052035_hanrei.pdf"
+}

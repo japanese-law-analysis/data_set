@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 6,
+    "day": 22
+  },
+  "case_number": "昭和35(オ)505",
+  "case_name": "所有権移転登記手続等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第15巻6号1651頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 1,
+    "day": 16
+  },
+  "gist": "契約解除と同時履行の関係に立つ反対給付の履行の提供の時期。",
+  "case_gist": "双務契約上の債務が同時履行の関係に立つ場合、右契約を解除しようとする当事者の債務の履行の提供は、催告に指定された履行期日にこれをすれば足りる。",
+  "ref_law": "民法541条，民法533条",
+  "lawsuit_id": "53715",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53715",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/715/053715_hanrei.pdf"
+}

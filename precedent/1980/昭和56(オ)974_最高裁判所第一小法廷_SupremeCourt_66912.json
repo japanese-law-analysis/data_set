@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 1,
+    "day": 21
+  },
+  "case_number": "昭和56(オ)974",
+  "case_name": "株主総会決議取消等",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第135号77頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和55(ネ)454",
+  "original_date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 6,
+    "day": 16
+  },
+  "gist": "商法二五七条一項但書にいう「正当ノ事由」がないとはいえないとされた事例",
+  "case_gist": "株式会社の代表取締役であつた甲が持病の悪化により療養に専念するため、その有していた右一会社の株式を取締役乙に譲渡し、乙と代表取締役の地位を交替し、その後乙が、経営陣の一新を図るため臨時株主総会を招集し、右株主総会の決議により、甲を取締役から解任したときは、右解任につき商法二五七条一項但書にいう「正当ノ事由」がないとはいえない。",
+  "ref_law": "商法257条1項但書",
+  "lawsuit_id": "66912",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66912",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/912/066912_hanrei.pdf"
+}

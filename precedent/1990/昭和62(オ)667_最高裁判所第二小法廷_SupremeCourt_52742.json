@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 2,
+    "month": 7,
+    "day": 20
+  },
+  "case_number": "昭和62(オ)667",
+  "case_name": "国家賠償、仮執行の原状回復命令申立",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第44巻5号938頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "昭和56(ネ)202",
+  "original_date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 11,
+    "day": 28
+  },
+  "gist": "一　再審による無罪判決の確定と裁判の違法性\n二　再審による無罪判決の確定と公訴の提起及び追行の違法性",
+  "case_gist": "一　再審により無罪判決が確定した場合であっても、裁判官がした裁判につき国家賠償法一条一項の規定にいう違法な行為があったものとして国の損害賠償責任が認められるためには、当該裁判官が、違法又は不当な目的をもって裁判をしたなど、裁判官がその付与された権限の趣旨に明らかに背いてこれを行使したものと認め得るような特別の事情がある場合であることを要する。\n二　再審により無罪判決が確定した場合であっても、公訴の提起及び追行時における各種の証拠資料を総合勘案して合理的な判断過程により有罪と認められる嫌疑があったときは、検察官の公訴の堤起及び追行は、国家賠償法一条一項の規定にいう違法な行為に当たらない。",
+  "ref_law": "国家賠償法1条1項",
+  "lawsuit_id": "52742",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52742",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/742/052742_hanrei.pdf"
+}

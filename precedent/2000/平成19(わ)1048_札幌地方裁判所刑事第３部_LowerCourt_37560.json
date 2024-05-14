@@ -1,0 +1,16 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 3,
+    "day": 17
+  },
+  "case_number": "平成19(わ)1048",
+  "case_name": "名誉毀損被告事件",
+  "court_name": "札幌地方裁判所刑事第３部",
+  "lawsuit_id": "37560",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=37560",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/560/037560_hanrei.pdf",
+  "contents": "1 3\n5 2\n1 5\n3 5\n1 5 3\n2 5\n"
+}

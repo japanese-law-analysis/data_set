@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 10,
+    "day": 18
+  },
+  "case_number": "昭和25(あ)2384",
+  "case_name": "食糧管理法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第54号1173頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 8,
+    "day": 10
+  },
+  "gist": "食糧管理法に基く命令の改廃と刑の廃止",
+  "case_gist": "食糧管理法九条に基く命令に違反し同法三一条に該当する犯罪成立後命令の一部変更の結果、所論の大豆が主要食糧から除外されたからといつて既往において成立した犯罪の刑罰を廃止したと解すべき何等の理由も存しない。",
+  "ref_law": "食糧管理法9条，食糧管理法31条，刑法6条，刑訴法411条5号",
+  "lawsuit_id": "67347",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=67347",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/347/067347_hanrei.pdf"
+}

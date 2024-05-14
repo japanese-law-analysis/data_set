@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 3,
+    "day": 3
+  },
+  "case_number": "昭和44(オ)1138",
+  "case_name": "家督相続人選定確認請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第98号359頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和44(ネ)226",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 7,
+    "day": 18
+  },
+  "gist": "家督相続人たる地位確認請求が確認の利益を欠くとされた事例",
+  "case_gist": "自己が家督相続人として選定されたことを理由として、戸籍簿上の家督相続人を排除し自己の家督相続人たる地位を回復することを目的とする請求は、戸籍簿上の家督相続人を相手方とする家督相続回復の訴によるべきであり、選定者を相手方として家督相続人たる地位の確認を求める訴は確認の利益を有しない。",
+  "ref_law": "民訴法225条，旧民法966条（昭和22年法律第222号による改正前のもの）",
+  "lawsuit_id": "66706",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66706",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/706/066706_hanrei.pdf"
+}

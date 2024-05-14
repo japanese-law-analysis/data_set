@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 12,
+    "day": 2
+  },
+  "case_number": "平成20(ネ)440",
+  "case_name": "損害賠償請求控訴事件",
+  "court_name": "名古屋高等裁判所民事第１部",
+  "result": "その他",
+  "original_court_name": "岐阜地方裁判所",
+  "original_case_number": "平成18(ワ)238",
+  "original_result": "その他",
+  "gist": "心筋梗塞に対する医療行為後の止血に伴う神経不全等が治癒していないとして５年以上入院している控訴人（患者）に対し，同人は通院可能な状態にまで治癒しているとして，退去等を求めた病院側の請求を認容した１審判決が維持された事例",
+  "lawsuit_id": "37312",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=37312",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/312/037312_hanrei.pdf",
+  "contents": ""
+}

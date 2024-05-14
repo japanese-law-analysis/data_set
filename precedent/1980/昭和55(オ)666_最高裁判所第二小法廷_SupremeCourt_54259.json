@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 1,
+    "day": 29
+  },
+  "case_number": "昭和55(オ)666",
+  "case_name": "破産債権確定",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第36巻1号105頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和52(ネ)500",
+  "original_date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 3,
+    "day": 25
+  },
+  "gist": "執行力のある債務名義又は終局判決を有しない破産債権者の届出債権に対する債権調査期日における破産管財人又は他の債権者の異議と右破産債権届出の時効中断の効力",
+  "case_gist": "執行力のある債務名義又は終局判決を有しない破産債権者の届出債権に対する債権調査期日における破産管財人又は他の債権者の異議は、右破産債権届出の時効中断の効力に影響を及ぼすものではない。",
+  "ref_law": "民法152条，破産法240条1項",
+  "lawsuit_id": "54259",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54259",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/259/054259_hanrei.pdf"
+}

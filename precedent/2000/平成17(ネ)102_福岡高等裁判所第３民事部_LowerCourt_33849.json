@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 11,
+    "day": 14
+  },
+  "case_number": "平成17(ネ)102",
+  "case_name": "損害賠償",
+  "court_name": "福岡高等裁判所第３民事部",
+  "result": "破棄自判",
+  "original_court_name": "熊本地方裁判所",
+  "original_case_number": "平成11(ワ)1385",
+  "original_result": "棄却",
+  "gist": "１　大学のボート部に所属する新入生ｃが，同部の新入生歓迎コンパで早飲み競争（一気飲み）等をして意識がない状態になったのに，ｃを医療機関に搬送せず，同じ新入生のアパートに運んで寝かせていたところ，翌朝，死亡するに至ったという場合に，同部の部長やキャプテンを始め，ｃを同アパートに運ぶなどした上級生部員らには，ｃに対する保護義務違反があり，民事上の責任を免れない。\n２　しかし，ｃにも，意識不明の状態になるまで飲酒酩酊した点で過失があり，また，責任を負う部長らの責任が上記１のような保護義務違反にすぎないことからして，大幅な過失相殺がなされるのはやむを得ない。",
+  "lawsuit_id": "33849",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=33849",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/849/033849_hanrei.pdf",
+  "contents": ""
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 12,
+    "day": 13
+  },
+  "case_number": "昭和31(オ)910",
+  "case_name": "土地明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第11巻13号2143頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 5,
+    "day": 22
+  },
+  "gist": "全部勝訴の原告は控訴審において附帯控訴の方式により請求の拡張をなし得るか",
+  "case_gist": "第一審において全部勝訴の判決を得た原告も、控訴審において、附帯控訴の方式により請求の拡張をなし得るものと解すべきである。",
+  "ref_law": "民訴法232条，民訴法378条，民訴法372条",
+  "lawsuit_id": "57671",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57671",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/671/057671_hanrei.pdf"
+}

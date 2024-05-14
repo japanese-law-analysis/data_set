@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 3,
+    "day": 13
+  },
+  "case_number": "昭和22(れ)260",
+  "case_name": "公文書偽造行使、詐欺、同未遂",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第2巻3号218頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 9,
+    "day": 29
+  },
+  "gist": "判決書に記載すべき被告人の年齡",
+  "case_gist": "原審第一回公判調書には被告人の年齡として大正六年一月三〇日生と記載されていることは所論の通りであるが之を被告人の身上取調書その他本件記録に徴するときは右は大正六年八月三〇日生の誤記であること明であり原判決は其の正しきに從つて大正六年八月三〇日生と表示したものであるから原判決には所論のように被告人の年齡を明にしなかつたという違法はない。",
+  "ref_law": "旧刑訴法69條",
+  "lawsuit_id": "56428",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56428",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/428/056428_hanrei.pdf"
+}

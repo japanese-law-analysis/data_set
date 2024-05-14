@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 1,
+    "day": 25
+  },
+  "case_number": "平成18(ネ)41",
+  "case_name": "損害賠償請求控訴事件",
+  "court_name": "福岡高等裁判所那覇支部",
+  "result": "破棄自判",
+  "original_court_name": "那覇地方裁判所",
+  "original_case_number": "平成16(ワ)1200",
+  "original_result": "棄却",
+  "gist": "当時１３歳の少年が，不審火に関し，触法少年として補導され，児童相談所から家庭裁判所に送致され，その後，家庭裁判所において不処分決定を受けたが，その手続過程において，司法警察員らによる違法な身柄拘束等を受けたことによって精神的損害を受けたとして，国家賠償法１条１項に基づき，県に対して損害賠償請求した事案において，一時保護は，児童相談所付設の一時保護所において実施するのが原則であるところ，本件の警察署長への一時保護の委託は，一時保護所における受入れが不可能ないし著しく困難な事情がなかったにもかかわらず，触法事実の調査の便宜のためになされた違法な処分であって，これに基づき少年を警察署に拘束したことは違法な身柄拘束であるとして，損害賠償が一部認容された事例",
+  "lawsuit_id": "34137",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=34137",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/137/034137_hanrei.pdf",
+  "contents": ""
+}

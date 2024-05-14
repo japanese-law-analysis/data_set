@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 4,
+    "day": 13
+  },
+  "case_number": "昭和27(あ)5648",
+  "case_name": "麻薬取締法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第8巻4号445頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 5,
+    "day": 22
+  },
+  "gist": "証拠調の請求が放棄されたものと解される一事例",
+  "case_gist": "取調請求のあつた証人のある者につき、許否の決定を留保したまま公判が続行されたが、証拠調を終えようとするにあたり、裁判官が反証の取調の請求その他の方法により証拠の証明力を争うことができる旨を告げたのに対し、請求当事者が「他に取調を請求する証拠はない」と述べたときは、右証人の取調請求は放棄されたものと解すべきである。",
+  "ref_law": "刑訴法298条，刑訴法308条，刑訴規則190条，刑訴規則204条",
+  "lawsuit_id": "53469",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53469",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/469/053469_hanrei.pdf"
+}

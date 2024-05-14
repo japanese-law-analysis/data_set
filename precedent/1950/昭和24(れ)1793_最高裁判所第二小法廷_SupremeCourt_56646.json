@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 1,
+    "day": 13
+  },
+  "case_number": "昭和24(れ)1793",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第4巻1号12頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 5,
+    "day": 28
+  },
+  "gist": "一　被告人の精神状態の認定と經驗則\n二　被告人の精神状態の認定と再上告理由",
+  "case_gist": "一　裁判官が公判廷における被告人の供述態度等を仔細に注意し、且つ證人の證言等他の資料と相俟つて、犯行當時の被告人の精神状態に異常のなかつたものとの心證を構成し得る場合においては、たとえ被告人に精神分裂の既往症並びに犯行後に同様の醫師の診斷があつたとしても、敍上裁判所の心證判斷をもつて直ちに經驗則違反の不法あるものとは云い得ない。\n二　原判決の憲法判斷を不當とする主張があつてもその内容においては被告人の犯行當時の精神状態に關する第二審裁判所の證據判斷の不法を爭うに歸するときは、違憲に名を藉りその實は刑事訴訟法手續の意見を攻撃するもので再上告適法の理由とならない。",
+  "ref_law": "舊刑訴法219條，舊刑訴法336條，舊刑訴法337條，憲法13條，刑訴應急措置法17條",
+  "lawsuit_id": "56646",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56646",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/646/056646_hanrei.pdf"
+}

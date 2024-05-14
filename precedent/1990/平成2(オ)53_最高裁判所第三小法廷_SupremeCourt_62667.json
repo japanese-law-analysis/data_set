@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 6,
+    "month": 4,
+    "day": 5
+  },
+  "case_number": "平成2(オ)53",
+  "case_name": "配当異議",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集民　第172号201頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_case_number": "平成1(ネ)44",
+  "original_date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 10,
+    "day": 4
+  },
+  "gist": "記載内容が事実に合致しないため公正証書が無効とされた事例",
+  "case_gist": "公正証書には、昭和六一年二月一三日に二〇〇〇万円を貸し付けたと記載されているが、実際には、同年二月五日から三月一九日まで（二月一三日を除く。）の間に七回にわたり合計七七八万円余の消費貸借、準消費貸借契約を締結し、公正証書作成日である三月二二日ころ債権者が債務者に対し、右各債権を含め将来二〇〇〇万円の限度で逐次貸し付ける旨を約したものであるなど判示の事実関係の下においては、公正証書に記載された債権と真実の債権との間に客観的な同一性を認めることができず、公正証書は債務名義としての効力を有しない。",
+  "ref_law": "民事執行法22条",
+  "lawsuit_id": "62667",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62667",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/667/062667_hanrei.pdf"
+}

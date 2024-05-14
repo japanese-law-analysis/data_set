@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 8,
+    "day": 29
+  },
+  "case_number": "昭和26(れ)2495",
+  "case_name": "昭和二○年厚生省令第四四号違反、薬事法違反、麻薬取締規則違反、銃砲等所持禁止令違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集刑　第67号209頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 7,
+    "day": 29
+  },
+  "gist": "医薬品を一回販売する行為と旧薬事法第二三条第一項にいわゆる業",
+  "case_gist": "たとえ医薬品の販売行為は一回であつても、それが業としてなされたものと認められる場合は、旧薬事法二三条一項に違反するものというべきである。",
+  "ref_law": "旧薬事法23条1項",
+  "lawsuit_id": "64813",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64813",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/813/064813_hanrei.pdf"
+}

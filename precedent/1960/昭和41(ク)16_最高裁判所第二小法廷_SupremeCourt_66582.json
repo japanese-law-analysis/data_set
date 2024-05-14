@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 12,
+    "day": 7
+  },
+  "case_number": "昭和41(ク)16",
+  "case_name": "移送申立却下決定に対する抗告却下の決定に対する抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "却下",
+  "article_info": "集民　第85号609頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和40(ラ)180",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 9,
+    "day": 7
+  },
+  "gist": "書留郵便に付して送達したことに違法がないとされた事例",
+  "case_gist": "民訴法第一七〇条第一項に従つて送達を受けるべき場所および送達受取人の届出をしなかつた抗告人に対し、抗告棄却決定を書留郵便に付して送達したことに、何らの違法はなく、また、送達事務取扱上の過失もない（同法第一七三条の適用上、右発送の日に送達の効果が生じ五日の特別抗告期間が進行するから、現実に郵便が到達した日は右抗告期間満了の前日であつた事案）。",
+  "ref_law": "民訴法170条，民訴法173条",
+  "lawsuit_id": "66582",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66582",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/582/066582_hanrei.pdf"
+}

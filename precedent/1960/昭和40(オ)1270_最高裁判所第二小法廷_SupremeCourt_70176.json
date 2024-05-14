@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 5,
+    "day": 26
+  },
+  "case_number": "昭和40(オ)1270",
+  "case_name": "建物収去、土地明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第87号839頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和36(ネ)310",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 6,
+    "day": 15
+  },
+  "gist": "債権者代位権行使の場合の対抗問題",
+  "case_gist": "甲が乙に対する債権者として、乙の丙に対する所有権に基づく土地明渡請求権を代位行使する場合にあつては、当該土地の所有権の帰属につき甲丙間に対抗問題を生ずることはない。",
+  "ref_law": "民法177条，民法423条",
+  "lawsuit_id": "70176",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70176",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/176/070176_hanrei.pdf"
+}

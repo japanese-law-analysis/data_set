@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 6,
+    "day": 9
+  },
+  "case_number": "昭和22(れ)138",
+  "case_name": "窃盗、賍物故買、物価統制令違反",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第2号353頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 9,
+    "day": 10
+  },
+  "gist": "憲法第三七條第一項にいわゆる「公平な裁判所の裁判」と苛酷な刑の言渡を理由とする上告",
+  "case_gist": "憲法第三七條第一項にいわゆる「公平な裁判所の裁判」とは、偏頗や公平のおそれのない組織と構成をもつた裁判所による裁判を意味するものであつて、個々の事件につきその内容實質が具體的に公平妥當なる裁判を指すのではない。從つて所論のように同規定を以て刑の言渡が苛酷で妥當を缺く場合には刑訴應急措置法第一三條第二項の規定如何にかかわらず、憲法上これを上告理由とすることができるとした趣旨の規定であると解することはできない。それ故被告人を懲役一年に處し刑の執行猶豫を與えなかつた原判決を目して刑の言渡が情状に比し餘りに苛酷であつて前記憲法の規定に違反すると主張本論旨は當らない。",
+  "ref_law": "憲法37條1項，刑訴應急措置法13條2項",
+  "lawsuit_id": "70513",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70513",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/513/070513_hanrei.pdf"
+}

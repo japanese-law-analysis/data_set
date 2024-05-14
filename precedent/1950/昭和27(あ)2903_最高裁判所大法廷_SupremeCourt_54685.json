@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 12,
+    "day": 9
+  },
+  "case_number": "昭和27(あ)2903",
+  "case_name": "臨時物資需給調整法違反",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第7巻12号2415頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 4,
+    "day": 18
+  },
+  "gist": "起訴状の瑕疵を理由とする公訴棄却の判決後の再起訴と憲法第三九条",
+  "case_gist": "憲法第三九条は、起訴状に公訴事実の記載が欠如していることを理由として公訴棄却の判決のなされた場合において、同一事件につき再度公訴を提起することを禁ずる趣旨を包含するものではない。",
+  "ref_law": "憲法39条，刑訴法338条4号",
+  "lawsuit_id": "54685",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54685",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/685/054685_hanrei.pdf"
+}

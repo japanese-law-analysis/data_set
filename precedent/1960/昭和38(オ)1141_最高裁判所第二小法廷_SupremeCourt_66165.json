@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 3,
+    "day": 11
+  },
+  "case_number": "昭和38(オ)1141",
+  "case_name": "所有権確認等請求、家屋明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第82号669頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和32(ネ)965",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 6,
+    "day": 19
+  },
+  "gist": "一　間接事実の認定と当事者の主張の要否\n二　強迫行為の認定のための具体性はいかなる程度で足りるか\n三　時効援用の機会を与えなかつた原審の措置を違法でないとした事例",
+  "case_gist": "一　間接事実は、当事者の主張がなくても判断することができる。\n二　強迫行為の判示については、具体的日時場所を判示することを要せず、強迫行為の態様を示し、かつ、これを特定しうれば足りる。",
+  "ref_law": "民訴法186条，民訴法96条，民訴法394条，民訴法127条",
+  "lawsuit_id": "66165",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66165",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/165/066165_hanrei.pdf"
+}

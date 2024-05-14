@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 11,
+    "day": 17
+  },
+  "case_number": "昭和39(行ニ)5",
+  "case_name": "裁決の取消請求事件及び右裁決の執行停止",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "却下",
+  "article_info": "集民　第76号163頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 5,
+    "day": 30
+  },
+  "gist": "高等海難審判庁の裁決に対する執行停止の要否。",
+  "case_gist": "高等海難審判方の裁決は、確定後執行されるものであるから、その執行停止の必要な存しない。",
+  "lawsuit_id": "63987",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63987",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/987/063987_hanrei.pdf"
+}

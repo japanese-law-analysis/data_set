@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 11,
+    "day": 12
+  },
+  "case_number": "昭和50(行ツ)111",
+  "case_name": "判定取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第119号189頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和45(行コ)49",
+  "original_date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 9,
+    "day": 10
+  },
+  "gist": "一、国家公務員災害補償法（昭和四一年法律第六七号による改正前のもの）一五条及び同法（昭和四八年法律第六九号による改正前のもの）一八条にいう「職員が公務上死亡した場合」の意義\n二、「職員が公務上死亡した場合」にあたらないとされた事例",
+  "case_gist": "一、国家公務員災害補償法（昭和四一年法律第六七号による改正前のもの）一五条及び同法（昭和四八年法律第六九号による改正前のもの）一八条にいう「職員が公務上死亡した場合」とは、職員が公務に基づく負傷又は疾病に起因して死亡した場合をいい、右負傷又は疾病と公務との間には相当因果関係のあることが必要であり、その負傷又は疾病が原因となつて死亡事故が発生した場合でなければならない。\n二、要旨（省略）",
+  "ref_law": "国家公務員災害補償法（昭和41年法律第67号による改正前のもの）15条，同法（昭和48年法律第69号による改正前のもの）18条",
+  "lawsuit_id": "64112",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64112",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/112/064112_hanrei.pdf"
+}

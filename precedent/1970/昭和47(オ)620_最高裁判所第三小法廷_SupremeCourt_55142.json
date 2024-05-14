@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 12,
+    "day": 24
+  },
+  "case_number": "昭和47(オ)620",
+  "case_name": "所有権移転請求権保全仮登記抹消登記手続並びに反訴請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第28巻10号2117頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和45(ネ)474",
+  "original_date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 2,
+    "day": 15
+  },
+  "gist": "附記登記による所有権移転請求権保全仮登記の流用と附記登記後の第三者",
+  "case_gist": "金銭債権の担保のため債務者所有の不動産に所有権移転請求権保全の仮登記をするのに代えて、他の債権者の債権担保のため所有権移転請求権保全の仮登記が被担保債権の消滅にもかかわらず残存しているのを利用して新債権者への右請求権移転の附記登記をした場合、附記登記後に右不動産につき利害関係を有するにいたつた第三者は、特別の事情のないかぎり、右流用による登記の無効を主張することができない。",
+  "ref_law": "民法177条，不動産登記法2条，不動産登記法7条",
+  "lawsuit_id": "55142",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55142",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/142/055142_hanrei.pdf"
+}

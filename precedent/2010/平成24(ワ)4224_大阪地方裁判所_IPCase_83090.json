@@ -1,0 +1,17 @@
+{
+  "trial_type": "IPCase",
+  "date": {
+    "era": "Heisei",
+    "year": 25,
+    "month": 3,
+    "day": 7
+  },
+  "case_number": "平成24(ワ)4224",
+  "case_name": "意匠権侵害差止等請求事件",
+  "court_name": "大阪地方裁判所",
+  "right_type": "意匠権",
+  "lawsuit_type": "民事訴訟",
+  "lawsuit_id": "83090",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail7?id=83090",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/090/083090_hanrei.pdf"
+}

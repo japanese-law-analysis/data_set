@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 12,
+    "day": 25
+  },
+  "case_number": "昭和25(あ)183",
+  "case_name": "所得税法、失業保険法、労働基準法各違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集刑　第71号691頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 12,
+    "day": 28
+  },
+  "lawsuit_id": "64407",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64407",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/407/064407_hanrei.pdf"
+}

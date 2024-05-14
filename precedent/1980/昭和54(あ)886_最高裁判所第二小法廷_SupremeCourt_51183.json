@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 4,
+    "day": 18
+  },
+  "case_number": "昭和54(あ)886",
+  "case_name": "業務上過失致死、ふぐ取扱条例違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第34巻3号149頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 3,
+    "day": 23
+  },
+  "gist": "ふぐの肝料理を提供することによつて客がふぐ中毒症状を起こすことにつき予見可能性があつたとされた事例",
+  "case_gist": "近時解明されてきたふぐの毒性、京都府におけるふぐ取扱いについての規制、府の行政指導に基づくふぐ料理組合における講習等、原判決の判示する諸事情のもとにおいては、京都府のふぐ処理士資格をもつ被告人には本件とらふぐの肝料理を提供することによつて客がふぐ中毒症状を起こすことにつき予見可能性があつたものということができる。",
+  "ref_law": "刑法211条前段，ふぐ取扱条例（昭和25年京都府条例58号、昭和51年京都府条例44号による改正前のもの）7条，ふぐ取扱条例（昭和25年京都府条例58号、昭和51年京都府条例44号による改正前のもの）13条",
+  "lawsuit_id": "51183",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51183",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/183/051183_hanrei.pdf"
+}

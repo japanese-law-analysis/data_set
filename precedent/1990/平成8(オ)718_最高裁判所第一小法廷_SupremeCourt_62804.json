@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 11,
+    "month": 11,
+    "day": 25
+  },
+  "case_number": "平成8(オ)718",
+  "case_name": "建物保存登記抹消登記手続等請求事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集民　第195号377頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "平成7(ネ)461",
+  "original_date": {
+    "era": "Heisei",
+    "year": 7,
+    "month": 12,
+    "day": 26
+  },
+  "gist": "建築請負人からの注文者に対する請負契約に係る建物の所有権保存登記抹消登記手続請求訴訟の提起及び右訴訟の係属と請負代金債権の消滅時効の中断",
+  "case_gist": "建築請負人からの注文者に対する請負契約に係る建物の所有権保存登記抹消登記手続請求訴訟の提起は、右請負代金債権の消滅時効中断事由である裁判上の請求に準ずるものとはいえず、右訴訟の係属中右請負代金について催告が継続していたということもできない。",
+  "ref_law": "民法147条1号，民法153条",
+  "lawsuit_id": "62804",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62804",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/804/062804_hanrei.pdf"
+}

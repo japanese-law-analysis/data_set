@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 6,
+    "day": 16
+  },
+  "case_number": "昭和37(オ)22",
+  "case_name": "建物明渡等請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第74号69頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 10,
+    "day": 25
+  },
+  "gist": "抵当権実行による不動産競売申立当時の登記簿上の所有名義人が真正な所有者でないことは右競落による所有権移転の効力に影響があるか。",
+  "case_gist": "不動産の所有者である甲が乙のために右不動産につき抵当権を設定した後に、甲から丙に対する所有権移転登記がなされ、乙の競売申立により右不動産が競売に付せられ、丁がこれを競落して競売手続が完結した場合には、たとい競売申立当時の右不動産の真正な所有者が甲であるとしても、丁の右不動産の所有権の取得の効果に影響はない。",
+  "ref_law": "競売法2条1項",
+  "lawsuit_id": "66084",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66084",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/084/066084_hanrei.pdf"
+}

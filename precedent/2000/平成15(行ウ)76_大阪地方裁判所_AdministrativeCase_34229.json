@@ -1,0 +1,17 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 9,
+    "day": 13
+  },
+  "case_number": "平成15(行ウ)76",
+  "case_name": "相続税更正処分取消等請求事件",
+  "court_name": "大阪地方裁判所",
+  "field": "行政",
+  "lawsuit_id": "34229",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=34229",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/229/034229_hanrei.pdf",
+  "contents": "1,253,958,849 2,175.96 5268.06 517,944,802\n517,944,802 517,944,802 0.1 466,150,322\n"
+}

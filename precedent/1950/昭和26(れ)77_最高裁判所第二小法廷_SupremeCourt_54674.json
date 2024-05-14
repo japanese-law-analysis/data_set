@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 6,
+    "day": 1
+  },
+  "case_number": "昭和26(れ)77",
+  "case_name": "恐喝",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "刑集　第5巻7号1222頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 11,
+    "day": 27
+  },
+  "gist": "恐喝手段が権利行使の意志をもつてなされたものであるか否か判文上不明な場合と理由不備",
+  "case_gist": "被告人が甲に対し弁償金を要求する権利を有していたか否か、又有していたとしても被告人の行為が該権利を行使する意志に出たものでしかもその権利行使の範囲内に属するものであるか、或は単に権利行使に藉口し若しくはこれに仮託したものであるかの点を明確にしないで、「被告人は甲がその約束を果さなかつたところから弁償金として金一万円を請求していたか、遂に甲を脅迫し右一万円中の五千円を喝取した」との事実を認定し、被告人を恐喝罪に問擬した原判決は、審理不尽に基く理由不備の違法がある。",
+  "ref_law": "刑法249条，旧刑訴法410条19号",
+  "lawsuit_id": "54674",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54674",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/674/054674_hanrei.pdf"
+}

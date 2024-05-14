@@ -1,0 +1,18 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 3,
+    "day": 31
+  },
+  "case_number": "昭和58(行コ)51",
+  "case_name": "医業停止処分取消等請求控訴事件（原審・東京地方裁判所昭和５４年（行ウ）第６８号）",
+  "court_name": "東京高等裁判所",
+  "field": "行政",
+  "gist": "医師が新生児を他に実子としてあっせんするために虚偽の出生証明書を発行したことなどの行為につき医師法違反等の罪により罰金刑に処せられたことを理由として厚生大臣がした右医師に対する医業停止処分が，適法とされた事例",
+  "lawsuit_id": "36001",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=36001",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/001/036001_hanrei.pdf",
+  "contents": ""
+}

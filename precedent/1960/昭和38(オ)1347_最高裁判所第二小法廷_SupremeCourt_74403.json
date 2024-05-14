@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 5,
+    "day": 21
+  },
+  "case_number": "昭和38(オ)1347",
+  "case_name": "自動車代金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集民　第79号125頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和36(ネ)163",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 8,
+    "day": 30
+  },
+  "gist": "自動車の割賦売買契約における違約金の特約が民法第九〇条により無効といえないとされた事例。",
+  "case_gist": "自動車の割賦売買契約で、割賦金遅滞のときは契約を解除され、買主は自動車を返還する外、売買代金相当額の違約金を支払うものとする特約がされていても、該特約を一概に民法第九〇条により無効とすることはできない。",
+  "ref_law": "民法420条，民法90条，割賦販売法6条",
+  "lawsuit_id": "74403",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74403",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/403/074403_hanrei.pdf"
+}

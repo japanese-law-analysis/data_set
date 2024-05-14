@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 6,
+    "day": 26
+  },
+  "case_number": "昭和38(オ)1071",
+  "case_name": "家屋明渡等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第18巻5号968頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 5,
+    "day": 30
+  },
+  "gist": "一　家屋賃貸借における賃料の取立債務の約定と新所有者たる賃貸人による承継の有無。\n二　催告金額以下の金額では賃貸人において受領しないことが明確であることを理由として催告が効力を生じないとされた事例。",
+  "case_gist": "一　家屋賃貸借における賃料の取立債務の約定は、賃借人と前賃貸人との間の特殊事情に基づいて成立したものであつても、新所有者たる賃貸人に承継される。\n二　賃貸人が適正賃料である月三、九八九円を一、〇一一円しかこれない賃料月五、〇〇〇円の割合による賃料債務の支払を催告した場合であつても、賃貸人が右催告金額以下の金員ではこれを受領しないことが明確であるときには、右催告は、その効力を生じない。",
+  "ref_law": "民法600条，民法614条，民法541条，借家法1条",
+  "lawsuit_id": "53842",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53842",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/842/053842_hanrei.pdf"
+}

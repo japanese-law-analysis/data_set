@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 5,
+    "day": 4
+  },
+  "case_number": "昭和25(れ)1717",
+  "case_name": "臨時物資需給調整法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第45号117頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 4,
+    "day": 17
+  },
+  "gist": "繊維製品配給消費統制規則第九条違反行為に対する適用法令",
+  "case_gist": "所論繊維製品配給消費統制規則第二条には「商工大臣ノ指定スル繊維製品（以下指定繊維製品ト称ス）」とあるだけであつて具体的に如何なる繊維製品が指定されているかは同条からは判らないのである。従つて被告人の所為が同規則第九条の違反であることを示すためには同条と同条にいわゆる指定繊維製品とは如何なる繊維製品であるかを具体的に明示している前記昭和一七年一月二〇日商工省告示第四九号を掲げれば足るのであつて同規則第二条を掲げる必要はないのである。",
+  "ref_law": "昭和21年10月1日商工省告示41号繊維製品配給消費統制規則9条，昭和21年10月1日商工省告示41号繊維製品配給消費統制規則2条昭和17年1月20日商工省告示49条",
+  "lawsuit_id": "67913",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=67913",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/913/067913_hanrei.pdf"
+}

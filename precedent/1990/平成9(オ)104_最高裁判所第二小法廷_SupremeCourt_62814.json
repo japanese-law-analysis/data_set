@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 11,
+    "month": 2,
+    "day": 26
+  },
+  "case_number": "平成9(オ)104",
+  "case_name": "境界確定等請求本訴、同反訴",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第191号591頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成7(ネ)50",
+  "original_date": {
+    "era": "Heisei",
+    "year": 8,
+    "month": 9,
+    "day": 19
+  },
+  "gist": "甲地のうち乙地との境界の全部に接続する部分を譲り受けた乙地所有者と残部分を譲り受けた者とが甲乙両地の境界確定の訴えの当事者適格を有するとされた事例",
+  "case_gist": "甲地のうち、乙地との境界の全部に接続する部分を乙地所有者丙が、残部分を丁がそれぞれ譲り受けた場合において、甲乙両地の境界に争いがあり、これを確定することによって初めて丙及び丁がそれぞれ取得した土地の範囲の特定が可能になるという事実関係の下においては、丙及び丁は、甲乙両地の境界確定の訴えの当事者適格を有する。",
+  "ref_law": "民訴法第1編第3章当事者，民訴法第2編第1章訴え",
+  "lawsuit_id": "62814",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62814",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/814/062814_hanrei.pdf"
+}

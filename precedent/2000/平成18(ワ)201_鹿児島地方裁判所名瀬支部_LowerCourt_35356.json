@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 9,
+    "day": 26
+  },
+  "case_number": "平成18(ワ)201",
+  "case_name": "譲受債権請求事件",
+  "court_name": "鹿児島地方裁判所名瀬支部",
+  "result": "棄却",
+  "gist": "公共工事請負契約の代金債権について，注文者から工事完成保証人に対して工事完成請求がされ，工事完成保証人がこれを承諾して請負人から未完成工事の引渡しを受けたとき，請負人から工事完成保証人に移転承継され，請負人はこれを遡及的に失ったことになるとの判断を示した上，この代金債権を請負人から譲り受けたと主張して注文者に代金の支払を求めた原告の請求を棄却した事例",
+  "lawsuit_id": "35356",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=35356",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/356/035356_hanrei.pdf",
+  "contents": "\u0001\n\u0001\n\u0001\n\u0001\n"
+}

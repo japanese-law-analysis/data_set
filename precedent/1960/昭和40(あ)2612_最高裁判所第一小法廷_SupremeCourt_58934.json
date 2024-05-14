@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 6,
+    "day": 23
+  },
+  "case_number": "昭和40(あ)2612",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第159号1249頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 9,
+    "day": 27
+  },
+  "gist": "裁判所法第一〇条第三号同法施行令第五条と最高裁判所裁判事務処理規則第九条第六項との関係",
+  "case_gist": "最高裁判所の意見が大審院のした判例に反する場合において、その裁判は、最高裁判所裁判事務処理規則第九条第六項によつて、小法廷ですることができる。",
+  "ref_law": "裁判所法10条3号，裁判所法施行令5条，最高裁判所裁判事務処理規則9条6項",
+  "lawsuit_id": "58934",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58934",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/934/058934_hanrei.pdf"
+}

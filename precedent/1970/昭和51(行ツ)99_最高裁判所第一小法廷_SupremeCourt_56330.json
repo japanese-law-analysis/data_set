@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 2,
+    "day": 17
+  },
+  "case_number": "昭和51(行ツ)99",
+  "case_name": "贈与税賦課決定等取消請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第31巻1号50頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和50(行コ)17",
+  "original_date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 6,
+    "day": 29
+  },
+  "gist": "行政事件訴訟法一四条四項による出訴期間の計算と「裁決があつたことを知つた日又は裁決の日」の算入",
+  "case_gist": "行政事件訴訟法一四条四項により出訴期間の計算をする場合には、「裁決があつたことを知つた日又は裁決の日」を期間に算入すべきである。",
+  "ref_law": "行政事件訴訟法14条1項，行政事件訴訟法14条3項，行政事件訴訟法14条4項",
+  "lawsuit_id": "56330",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56330",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/330/056330_hanrei.pdf"
+}

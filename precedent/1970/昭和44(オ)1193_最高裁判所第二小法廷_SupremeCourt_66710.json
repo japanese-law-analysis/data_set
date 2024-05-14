@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 3,
+    "day": 27
+  },
+  "case_number": "昭和44(オ)1193",
+  "case_name": "預金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第98号577頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和44(ネ)290",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 7,
+    "day": 19
+  },
+  "gist": "銀行法二二条による業務停止命令の効力",
+  "case_gist": "協同組合による金融事業に関する法律六条によつて準用される銀行法二二条による業務停止命令は、預金者その他第三者の当該金融機関に対する私法上の権利の行使を制限する効力を有するものではないと解するのが相当である。",
+  "ref_law": "銀行法22条，協同組合による金融事業に関する法律6条",
+  "lawsuit_id": "66710",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66710",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/710/066710_hanrei.pdf"
+}

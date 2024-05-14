@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 10,
+    "day": 1
+  },
+  "case_number": "昭和28(オ)82",
+  "case_name": "村会議員除名決議取消請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第7巻10号1045頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 11,
+    "day": 28
+  },
+  "gist": "議員の会期外の行為を事由とする懲罰の適否",
+  "case_gist": "議員の会期外の行為でも、議会の開会を阻止し流会に至らしめるような議会運営に関する行為は、懲罰事由となる。",
+  "ref_law": "地方自治法134条",
+  "lawsuit_id": "57457",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57457",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/457/057457_hanrei.pdf"
+}

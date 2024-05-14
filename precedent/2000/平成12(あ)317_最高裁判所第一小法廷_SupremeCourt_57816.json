@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 16,
+    "month": 9,
+    "day": 9
+  },
+  "case_number": "平成12(あ)317",
+  "case_name": "窃盗，強盗殺人，死体遺棄，死体損壊，準強盗未遂，強制わいせつ致死被告事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第286号1頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 11,
+    "month": 12,
+    "day": 22
+  },
+  "gist": "死刑の量刑が維持された事例（滋賀の連続強盗殺人等事件）",
+  "lawsuit_id": "57816",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57816",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/816/057816_hanrei.pdf"
+}

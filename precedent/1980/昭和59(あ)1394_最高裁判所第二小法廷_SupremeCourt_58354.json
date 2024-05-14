@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 1,
+    "day": 30
+  },
+  "case_number": "昭和59(あ)1394",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第245号495頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 9,
+    "day": 17
+  },
+  "gist": "一　公職選挙法一四二条、一二九条（昭和五七年法律第八一号による改正前のもの）の合憲性（憲法全文、一五条、二一条）\n\n二　公職選挙法一四二条、二四三条三号（昭和五七年法律第八一号による改正前のもの）の合憲性（憲法三一条）\n\n三　公職選挙法二五二条の合憲性（憲法一四条、三一条、四四条）",
+  "ref_law": "憲法前文，憲法14条，憲法15条，憲法21条，憲法31条，憲法44条，公選法129条，公選法142条，公選法243条，公選法3条，公選法252条",
+  "lawsuit_id": "58354",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58354",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/354/058354_hanrei.pdf"
+}

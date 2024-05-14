@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 10,
+    "day": 30
+  },
+  "case_number": "昭和52(オ)360",
+  "case_name": "相続権確認等",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第35巻7号1243頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和51(ネ)1270",
+  "original_date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 11,
+    "day": 24
+  },
+  "gist": "一　相続権確認訴訟の係属と右訴訟の当事者以外の者による相続申出についての民法九五八条の規定による公告期間の延長の有無\n二　民法九五八条の規定による公告期間を徒過した相続人と特別縁故者に対する相続財産分与後の残余財産についての相続権の有無",
+  "case_gist": "一　民法九五八条の規定による公告期間内に相続申出をした者につき相続権確認訴訟が係属していても、右訴訟の当事者以外の者による相続申出について該訴訟の確定まで右公告期間が延長されるものではない。\n二　民法九五八条の規定による公告期間を健過した相続人は、特別縁故者に対する相続財産分与後の残余財産についても相続権を有しない。",
+  "ref_law": "民法958条，民法958条の2，民法958条の3",
+  "lawsuit_id": "54232",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54232",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/232/054232_hanrei.pdf"
+}

@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 3,
+    "day": 9
+  },
+  "case_number": "昭和30(し)7",
+  "case_name": "職権濫用、強要未遂被告事件の刑事訴訟法二六二条一項の請求につきなした請求棄却の決定に対する特別抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第103号239頁",
+  "original_court_name": "大阪地方裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 12,
+    "day": 27
+  },
+  "lawsuit_id": "60899",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60899",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/899/060899_hanrei.pdf"
+}

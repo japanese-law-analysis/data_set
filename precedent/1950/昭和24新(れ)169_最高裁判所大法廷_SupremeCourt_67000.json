@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 6,
+    "day": 18
+  },
+  "case_number": "昭和24新(れ)169",
+  "case_name": "法人税法違反、所得税法違反",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集刑　第65号255頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 9,
+    "day": 10
+  },
+  "lawsuit_id": "67000",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=67000",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/000/067000_hanrei.pdf"
+}

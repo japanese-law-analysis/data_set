@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 3,
+    "day": 24
+  },
+  "case_number": "昭和61(あ)1448",
+  "case_name": "軽犯罪法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集刑　第251号409頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 10,
+    "day": 23
+  },
+  "gist": "平成元年政令第二七号（大赦令）により免訴となった事例",
+  "ref_law": "平成元年政令27号，刑訴法337条3号，刑訴法411条5号，軽犯罪法1条33前段",
+  "lawsuit_id": "58430",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58430",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/430/058430_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 2,
+    "day": 18
+  },
+  "case_number": "昭和45(オ)1081",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第26巻1号46頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和36(ネ)1955",
+  "original_date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 8,
+    "day": 24
+  },
+  "gist": "未成年者の無権代理人が後見人となつた場合においてさきになされた無権代理行為の効果が未成年者に及ぶとされた事例",
+  "case_gist": "甲が未成年者乙の後見人に就職する以前に後見人と称して売買契約をした場合において、甲は右就職前から乙のため事実上後見人の立場でその財産の管理にあたつており、これに対しては何びとからも異議がなく、右売買をなすについて甲乙間に利益相反の関係がないときは、右売買契約は、甲が後見人に就職するとともに、乙に対して効力を生ずるものと解すべきである。",
+  "ref_law": "民法113条，民法859条",
+  "lawsuit_id": "51993",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51993",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/993/051993_hanrei.pdf"
+}

@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 10,
+    "day": 11
+  },
+  "case_number": "昭和48(し)78",
+  "case_name": "司法警察職員のなした押収処分等に対する準抗告申立事件の申立棄却決定に対する特別抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第190号503頁",
+  "original_court_name": "徳島地方裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 9,
+    "day": 12
+  },
+  "gist": "特別抗告が違憲の具体的主張を欠き、その補充もないので、不適法であるとされた事例",
+  "ref_law": "刑訴法426条1項",
+  "lawsuit_id": "59963",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59963",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/963/059963_hanrei.pdf"
+}

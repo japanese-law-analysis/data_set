@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 3,
+    "day": 20
+  },
+  "case_number": "昭和49(あ)1513",
+  "case_name": "森林法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第29巻3号53頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 5,
+    "day": 30
+  },
+  "gist": "森林法一九七条にいう産物の意義",
+  "case_gist": "森林法一九七条にいう産物とは、無機物たると有機物たるとを問わず、森林から産出する一切の物をいい、岩石もこれに含まれる。",
+  "ref_law": "森林法197条，森林法198条，刑法235条",
+  "lawsuit_id": "51080",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51080",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/080/051080_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 10,
+    "day": 6
+  },
+  "case_number": "昭和26(し)57",
+  "case_name": "窃盗被告事件について控訴棄却決定に対する異議申立却下決定に対する抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第5巻11号2177頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 5,
+    "day": 28
+  },
+  "gist": "高等裁判所のした控訴棄却の決定に対する異議申立期間と上訴権回復の規定の準用",
+  "case_gist": "高等裁判所がした控訴棄却の決定に対し、自己又は代人の責に帰することができない事由により所定の期間内に異議の申立をすることができなかつた場合には、上訴権の回復の規定の準用がある。",
+  "ref_law": "刑訴法362条，刑訴法363条，刑訴法386条1項，刑訴法386条2項，刑訴法385条，刑訴法428条2項",
+  "lawsuit_id": "54629",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54629",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/629/054629_hanrei.pdf"
+}

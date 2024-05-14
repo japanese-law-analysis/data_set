@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 4,
+    "day": 12
+  },
+  "case_number": "昭和34(あ)2316",
+  "case_name": "物品税法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第14巻5号582頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 9,
+    "day": 29
+  },
+  "gist": "物品税法第一八条第一項第一号の不申告製造罪の罪数",
+  "case_gist": "政府に申告せずして、物品税法所定の課税物品たる写真機を自ら製造しかつ各別の相手方に委託して製造したときは、各製造行為毎に同法第一八条第一項第一号の不申告製造罪が成立する。",
+  "ref_law": "物品税法15条，物品税法18条1項1号，物品税法施行規則4条，刑法45条",
+  "lawsuit_id": "51667",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51667",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/667/051667_hanrei.pdf"
+}

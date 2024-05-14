@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 2,
+    "day": 22
+  },
+  "case_number": "昭和23(れ)1207",
+  "case_name": "傷害致死、傷害",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第3巻2号216頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 5,
+    "day": 22
+  },
+  "gist": "一　喧嘩と正當防衛\n二　鬪爭者の一方を助けようとした場合と正當防衛\n三　被告人の精神状態の認定と裁判所の自由裁量",
+  "case_gist": "一　互に暴行し合う所謂喧嘩には、正當防衛の観念を容れる餘地のない場合があること、既に當裁判所の判例の示す通りである。\n二　被告人は、その同伴者Ａが組敷かれているのを制止しようとしたところ相手方から毆られたので、これを毆りかえして死亡するに至らしめたのである。即ち被告人は同伴者の喧嘩の渦中にまき込まれたのであつて、全般的に観ると正當防衛と言うことはできない。\n三　被告人が如何なる精神状態にあつたかということは、事實認定の問題であつて、原審の専權に屬することである。",
+  "ref_law": "刑法36條，刑法39條，舊刑訴法337條",
+  "lawsuit_id": "55266",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55266",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/266/055266_hanrei.pdf"
+}

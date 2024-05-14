@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 10,
+    "day": 29
+  },
+  "case_number": "昭和23(ク)30",
+  "case_name": "人身保護請求につきなした決定に対する抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "却下",
+  "article_info": "民集　第2巻11号391頁",
+  "original_court_name": "金沢地方裁判所",
+  "original_case_number": "昭和23(人)1",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 10,
+    "day": 4
+  },
+  "gist": "一　人身保護法と最高裁判所への抗告理由\n二　人身保護法上適法な抗告理由とならない場合",
+  "case_gist": "一　人身保護法による釈放の請求を排斥した決定に対しては、憲法違反を理由とするときに限り、最高裁判所に抗告の申立をすることができる。\n二　昭和二三年政令第二〇一号違反の容疑により勾留された者が人身保護法により釈放を請求したのに対し、原決定が人身保護規則第四条に該当しないとの理由でこれを排斥した場合、右政令が憲法違反であるとの理由は、右決定に対する最高裁判所への適法な抗告理由とならない。",
+  "ref_law": "人身保護法21条，人身保護法規則46条，民訴法410条，民訴応急措置法7条，人身保護規則4条",
+  "lawsuit_id": "57119",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57119",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/119/057119_hanrei.pdf"
+}

@@ -1,0 +1,18 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 9,
+    "day": 5
+  },
+  "case_number": "昭和60(行ウ)3",
+  "case_name": "出席停止処分無効確認請求事件",
+  "court_name": "佐賀地方裁判所",
+  "field": "行政",
+  "gist": "１　地方議会の議員に対する懲罰としての３０日間の出席停止処分が，議員の身分を喪失させる除名処分とは法的性質を異にし，これと同視することはできないとして，司法審査の対象とはならないとされた事例　\n２　地方議会の議員がした右議員に対する懲罰としての３０日間の出席停止処分の無効確認を求める訴えにつき，右停止期間は既に経過しており，右処分により右議員の名誉信用等が棄損されたとしても，それは右処分の直接の効果ではないから，右議員は右処分の無効確認を求める法律上の利益を欠くとして，右訴えを不適法とした事例",
+  "lawsuit_id": "36032",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=36032",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/032/036032_hanrei.pdf",
+  "contents": ""
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 2,
+    "month": 4,
+    "day": 12
+  },
+  "case_number": "昭和62(行ツ)22",
+  "case_name": "損害賠償（住民訴訟）",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第44巻3号431頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和60(行コ)58",
+  "original_date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 11,
+    "day": 28
+  },
+  "gist": "保安林内の市有地における市道建設に関与した市建設局長らの行為が住民訴訟の対象となる財産管理行為に当たらないとされた事例",
+  "case_gist": "保安林内の市有地に市道を建設するに際し、市建設局長らが請負人をして道路建設工事をさせる旨の工事施行決定書に決裁をしてこれに関与した行為は、道路整備計画の円滑な遂行・実現を図るという道路建設行政の見地からする道路行政担当者としての行為（判断）であつて、住民訴訟の対象となる財産管理行為には当たらない。",
+  "ref_law": "地方自治法242条の2第1項",
+  "lawsuit_id": "52746",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52746",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/746/052746_hanrei.pdf"
+}

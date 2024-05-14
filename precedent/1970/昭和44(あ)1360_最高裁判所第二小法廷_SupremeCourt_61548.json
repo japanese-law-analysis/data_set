@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 5,
+    "day": 22
+  },
+  "case_number": "昭和44(あ)1360",
+  "case_name": "業務上過失傷害、道路交通法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第176号295頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 5,
+    "day": 28
+  },
+  "gist": "業務上過失傷害道路交通法違反（酩酊運転）被告事件について量刑不当の上告趣意に対し必ずしも原判決を破棄しなければ著しく正義に反するものとは認められないとされた事例",
+  "case_gist": "量刑不当の所論について考えるに、本件事故当時における被告人の飲酒酩酊の程度、被告人には酩酊運転一件を含む道路交通法違反五件の罰金の前科があること等の情状にかんがみれば、必ずしも原判決を破棄しなければ著しく正義に反するものとは認められない。",
+  "ref_law": "刑訴法411条2号，刑法211条",
+  "lawsuit_id": "61548",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61548",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/548/061548_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 11,
+    "day": 26
+  },
+  "case_number": "昭和46(あ)529",
+  "case_name": "常習特殊窃盗、道路交通法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第25巻8号1022頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 2,
+    "day": 2
+  },
+  "gist": "いわゆる集団万引と盗犯等の防止及び処分に関する法律二条二号の適用",
+  "case_gist": "いわゆる集団万引の犯行において、直接に財物の占有奪取行為をなす者が一人であり、その他の者は見張り、幕、持ち出しなどの役割を分担したにとどまる場合であつても、盗犯等の防止及び処分に関する法律二条二号の適用がある。",
+  "ref_law": "盗犯等の防止及び処分に関する法律2条2号",
+  "lawsuit_id": "57027",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57027",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/027/057027_hanrei.pdf"
+}

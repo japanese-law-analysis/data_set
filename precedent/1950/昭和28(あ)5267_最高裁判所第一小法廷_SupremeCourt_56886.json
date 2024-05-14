@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 5,
+    "day": 6
+  },
+  "case_number": "昭和28(あ)5267",
+  "case_name": "窃盗、同未遂",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第8巻5号634頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 10,
+    "day": 5
+  },
+  "gist": "窃盗の実行に着手したと認められる一事例",
+  "case_gist": "ズボンの尻ポケツトから現金をすり取ろうとして手を差しのべその外側に触れた以上窃盗の実行に着手したものである。",
+  "ref_law": "刑法235条，刑法243条",
+  "lawsuit_id": "56886",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56886",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/886/056886_hanrei.pdf"
+}

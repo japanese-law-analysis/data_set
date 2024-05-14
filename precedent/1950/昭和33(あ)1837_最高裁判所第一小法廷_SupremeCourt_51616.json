@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 6,
+    "day": 4
+  },
+  "case_number": "昭和33(あ)1837",
+  "case_name": "爆発物取締罰則違反、傷害",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "刑集　第13巻6号884頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 6,
+    "day": 26
+  },
+  "gist": "いわゆるラムネ弾が爆発物取締罰則にいう「爆発物」にあたるとされた事例。",
+  "case_gist": "普通のラムネ瓶にカーバイト約三一瓦を入れ、これに適量の水を注入して素早く瓶を投擲するという方法で使用されるいわゆるラムネ弾（原判決の判文参照）は、水が注入または手許に準備されていなくても、爆発物取締罰則にいう「爆発物」にあたる。",
+  "ref_law": "爆発物取締罰則1条",
+  "lawsuit_id": "51616",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51616",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/616/051616_hanrei.pdf"
+}

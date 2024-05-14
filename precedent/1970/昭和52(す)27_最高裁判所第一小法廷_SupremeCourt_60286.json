@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 2,
+    "day": 16
+  },
+  "case_number": "昭和52(す)27",
+  "case_name": "所得税法違反被告事件の上告棄却決定に対する異議申立",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "その他",
+  "article_info": "集刑　第203号99頁",
+  "original_court_name": "最高裁判所",
+  "original_case_number": "昭和51(あ)2117",
+  "original_date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 2,
+    "day": 1
+  },
+  "gist": "上告棄却決定が被告人死亡により取消された事例",
+  "ref_law": "刑訴法339条1項4号，刑訴法385条2項，刑訴法428条2項，刑訴法428条3項，刑訴法426条2項",
+  "lawsuit_id": "60286",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60286",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/286/060286_hanrei.pdf"
+}

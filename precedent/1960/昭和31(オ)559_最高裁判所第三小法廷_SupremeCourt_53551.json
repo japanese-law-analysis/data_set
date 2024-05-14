@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 2,
+    "day": 9
+  },
+  "case_number": "昭和31(オ)559",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第14巻1号84頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 3,
+    "day": 28
+  },
+  "gist": "受託裁判官による証人尋問の結果につき当事者の援用がないまま口頭弁論を終結することの適否。",
+  "case_gist": "裁判所が受託裁判官による証人尋問の結果につき当事者に援用の機会を与えたに拘らず、当事者双方においてこれをしないときは、右援用のないまま口頭弁論を終結しても違法ではない。",
+  "ref_law": "民訴法265条1項",
+  "lawsuit_id": "53551",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53551",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/551/053551_hanrei.pdf"
+}

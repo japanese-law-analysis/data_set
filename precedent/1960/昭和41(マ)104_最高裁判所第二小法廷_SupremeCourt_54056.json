@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 7,
+    "day": 4
+  },
+  "case_number": "昭和41(マ)104",
+  "case_name": "承継執行文付与申請拒絶処分に対する異議申立",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "却下",
+  "article_info": "民集　第23巻8号1366頁",
+  "original_court_name": "最高裁判所",
+  "original_case_number": "昭和41(マ)44",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 7,
+    "day": 20
+  },
+  "gist": "一、上級裁判所の裁判所書記官が執行文付与の権限を失う時期\n二、裁判所書記官の執行文付与権限の喪失と執行文付与拒絶処分に対する異議申立の適否",
+  "case_gist": "一、上級裁判所の裁判所書記官は、同裁判所において訴訟が完結し、その訴訟記録を他の裁判所に送付する手続を完了した時に、執行文付与の権限を失う。\n二、執行文付与拒絶処分に対する異議申立は、その拒絶処分をした裁判所の裁判所書記官が執行文付与の権限を失つた後においては、申立の利益を欠き、不適法として却下を免れない。",
+  "ref_law": "民訴法516条2項，民訴法396条，民訴法392条，民訴法206条",
+  "lawsuit_id": "54056",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54056",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/056/054056_hanrei.pdf"
+}

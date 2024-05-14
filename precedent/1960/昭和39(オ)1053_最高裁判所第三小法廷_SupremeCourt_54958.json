@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 5,
+    "day": 30
+  },
+  "case_number": "昭和39(オ)1053",
+  "case_name": "根抵当権設定登記抹消登記手続等請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第21巻4号988頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和36(ネ)344",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 6,
+    "day": 4
+  },
+  "gist": "民法（昭和三七年法律第四〇号による改正前のもの）第九三九条の施行当時における相続放棄者の相続分の帰属",
+  "case_gist": "民法（昭和三七年法律第四〇号による改正前のもの）第九三九条の施行当時において、相続人である妻と子のうち、子の全員が相続の放棄をしたときは、子の相続分は、孫にではなく、妻に帰属するものと解すべきである。",
+  "ref_law": "民法（昭和37年法律40号による改正前のもの）939条",
+  "lawsuit_id": "54958",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54958",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/958/054958_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 9,
+    "day": 20
+  },
+  "case_number": "昭和58(あ)1436",
+  "case_name": "道路交通法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第38巻9号2810頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 9,
+    "day": 29
+  },
+  "gist": "控訴審における新たな証拠の取調と刑訴法三九三条一項本文",
+  "case_gist": "控訴裁判所は、第一審判決以前に存在した事実に関する限り、第一審で取調ないし取調請求されていない新たな証拠につき、刑訴法三九三条一項但書の要件を欠く場合であつても、第一審判決の当否を判断するため必要と認めるときは、同項本文に基づき、裁量によつてその取調をすることができる。",
+  "ref_law": "刑訴法382条の2，刑訴法393条1項",
+  "lawsuit_id": "51855",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51855",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/855/051855_hanrei.pdf"
+}

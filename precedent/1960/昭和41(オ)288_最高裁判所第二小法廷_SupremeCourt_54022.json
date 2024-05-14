@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 4,
+    "day": 12
+  },
+  "case_number": "昭和41(オ)288",
+  "case_name": "預金返還請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第22巻4号877頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和40(ネ)979",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 12,
+    "day": 17
+  },
+  "gist": "一、民訴法第七一条の参加のある訴訟と本案判決\n二、右訴訟の本案につき一部判決がされた違法と職権調査事項",
+  "case_gist": "一、民訴法第七一条の参加に基づく、参加人、原告、被告間の訴訟について本案判決をするときは、右三当事者を判決の名宛人とする一個の終局判決のみが許され、右当事者の一部に関する判決をすることも、また、残余のものに関する追加判決をすることも、許されない。\n二、右に違背してされた一部判決の違法は職権調査事項にあたる。",
+  "ref_law": "民訴法71条，民訴法62条，民訴法183条，民訴法195条，民訴法405条",
+  "lawsuit_id": "54022",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54022",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/022/054022_hanrei.pdf"
+}

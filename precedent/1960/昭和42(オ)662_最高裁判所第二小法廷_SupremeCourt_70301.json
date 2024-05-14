@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 11,
+    "day": 15
+  },
+  "case_number": "昭和42(オ)662",
+  "case_name": "詐害行為取消等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第93号255頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和36(ネ)66",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 12,
+    "day": 27
+  },
+  "gist": "元本極度額の登記がある根抵当権と民法第三七四条",
+  "case_gist": "根抵当権については、一般に民法第三七四条の適用はないが、元本極度額としての登記がある場合には同条の適用があり、最後の二年分の利息・損害金については、元本との合計額が極度額をこえる場合においても、抵当債権者は優先弁済を受け得るものと解すべきである（大審院昭和一三年（オ）第一二八六号同年二月一日判決、民集一七巻二一六五頁参照）。",
+  "ref_law": "民法374条",
+  "lawsuit_id": "70301",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70301",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/301/070301_hanrei.pdf"
+}

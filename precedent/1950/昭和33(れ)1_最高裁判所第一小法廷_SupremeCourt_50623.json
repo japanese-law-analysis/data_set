@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 6,
+    "day": 26
+  },
+  "case_number": "昭和33(れ)1",
+  "case_name": "傷害致死",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第12巻10号2319頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 10,
+    "day": 11
+  },
+  "gist": "起訴状が紛失していても適法な公訴提起があつたものと認めた事例",
+  "case_gist": "第二審判決宣告後起訴状が紛失した場合に、第一審判決謄本、右第二審判決謄本および第一審担当検察官の証明書並びに右検察官および第一審判決に関与した裁判官の各証言によつて、公訴提起のあつたことおよびその犯罪事実は第一審判決認定事実と同一であつたことを認定し、適法な公訴の提起があつたものと認めることは違法でない",
+  "ref_law": "旧刑訴法290条，旧刑訴法291条，新刑訴法256条",
+  "lawsuit_id": "50623",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50623",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/623/050623_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 12,
+    "day": 17
+  },
+  "case_number": "昭和40(オ)362",
+  "case_name": "債務不存在確認等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第19巻9号2178頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和39(ネ)116",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 12,
+    "day": 11
+  },
+  "gist": "不法な契約によつて生じた債権のためにされた抵当権設定登記の抹消請求と民法第七〇八条の適用の有無。",
+  "case_gist": "賭博行為によつて生じた金銭債権のためにされた抵当権設定登記の抹消を請求するについては、民法第七〇八条は適用されないものと解するのが相当である。",
+  "ref_law": "民法708条",
+  "lawsuit_id": "53982",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53982",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/982/053982_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 4,
+    "day": 6
+  },
+  "case_number": "昭和36(オ)1084",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第16巻4号686頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 6,
+    "day": 29
+  },
+  "gist": "訴の取下に対する同意の拒絶とその撤回の可否",
+  "case_gist": "訴の取下に対し同意を拒絶したときは、訴の取下は無効と確定し、その後右拒絶を撤回し更めて同意をしても、右訴の取下は効力を生じない。",
+  "ref_law": "民訴法236条",
+  "lawsuit_id": "57732",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57732",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/732/057732_hanrei.pdf"
+}

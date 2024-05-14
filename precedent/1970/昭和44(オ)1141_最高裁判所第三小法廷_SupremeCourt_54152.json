@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 7,
+    "day": 21
+  },
+  "case_number": "昭和44(オ)1141",
+  "case_name": "請求異議",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第24巻7号1091頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和42(ネ)547",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 8,
+    "day": 26
+  },
+  "gist": "裁判上の和解により賃貸期間を二〇年と定めた土地の賃貸借と借地法九条にいう一時使用の賃貸借",
+  "case_gist": "借地法九条にいう一時使用の賃貸借というためには、その期間は、少なくとも借地法自体が定める借地権の存続期間より相当短いものであることを要し、賃貸期間を二〇年とする土地賃貸借は、それが裁判上の和解によつて成立した等の事情があつたとしても、これを同条にいう一時使用の賃貸借ということはできない。",
+  "ref_law": "借地法9条",
+  "lawsuit_id": "54152",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54152",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/152/054152_hanrei.pdf"
+}

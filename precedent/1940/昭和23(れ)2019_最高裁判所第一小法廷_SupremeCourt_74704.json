@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 3,
+    "day": 24
+  },
+  "case_number": "昭和23(れ)2019",
+  "case_name": "強制猥褻致傷、強姦未遂、窃盗",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第8号383頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 10,
+    "day": 26
+  },
+  "gist": "公判調書及び判決書に「判事」と記載され「裁判官」と記載されていない場合",
+  "case_gist": "判事はすべて例外なく裁判官であること、裁判官中の一細則に屬するものであることは裁判所法第四〇條第四二條等によつて明らかである、されば原審公判調書及び判決書に「判事」と記載されて「裁判官」と記載されていないことは、該書類の適法様式に何等缺けるところはない。",
+  "ref_law": "裁判所法40條，裁判所法42條",
+  "lawsuit_id": "74704",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74704",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/704/074704_hanrei.pdf"
+}

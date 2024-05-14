@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 2,
+    "day": 21
+  },
+  "case_number": "昭和32(オ)286",
+  "case_name": "監査委員確認請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第12巻2号293頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 12,
+    "day": 10
+  },
+  "gist": "地方自治法第一九七条（昭和三一年法律第一四七号による改正前）第二項但書の規定の趣旨",
+  "case_gist": "地方自治法第一九七条（昭和三一年法律第一四七号による改正前）第二項但書の規定は、議員出身の監査委員が同条第一項の二年の任期満了前に議員の地位を失つた場合に、後任者が選任されるまで右二年の任期を限度としてなお監査委員の職務を行い得べきことを定めたものであつて、議員出身の監査委員に限つて、二年の任期満了後においても、後任者が選任されるまでは、なおその職務を行い得べきことを定めたものではないと解すべきである。",
+  "ref_law": "地方自治法197条（昭和31年法律147号による改正前）",
+  "lawsuit_id": "53581",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53581",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/581/053581_hanrei.pdf"
+}

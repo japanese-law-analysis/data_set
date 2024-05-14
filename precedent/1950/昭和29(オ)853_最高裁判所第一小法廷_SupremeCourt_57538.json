@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 3,
+    "day": 28
+  },
+  "case_number": "昭和29(オ)853",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第11巻3号551頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 8,
+    "day": 25
+  },
+  "gist": "代りの家屋の賃貸および引渡の提供を条件と定めて家屋明渡を命ずる判決の適否",
+  "case_gist": "甲家屋の賃貸人が代りの乙家屋を提供してした解約申入が正当事由を具え、右申入により賃貸借が終了した事実に基き賃貸人の家屋明渡の請求を認容する判決の主文において、賃貸人が乙家屋の賃貸および引渡の提供をすることを条件と定めて、賃借人に甲家屋の明渡を命じても、違法ではない。",
+  "ref_law": "借家法1条ノ2，民訴法518条2項，民訴法520条",
+  "lawsuit_id": "57538",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57538",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/538/057538_hanrei.pdf"
+}

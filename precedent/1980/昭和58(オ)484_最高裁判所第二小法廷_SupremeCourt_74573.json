@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 11,
+    "day": 11
+  },
+  "case_number": "昭和58(オ)484",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第140号453頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和57(ネ)317",
+  "original_date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 1,
+    "day": 31
+  },
+  "gist": "民法七二四条にいう「加害者ヲ知リタル時」の認定事例",
+  "case_gist": "交通事故の被害者が、加害者として取調べを受けたうえ業務上過失致死傷罪で起訴され、一審で有罪判決を受けたものの二審で無罪判決を受け、同判決が確定したなど、原判示の事情のもとにおいては、被害者に対する右無罪判決が確定した時をもつて、民法七二四条にいう「加害者ヲ知リタル時」というべきである。",
+  "ref_law": "民法724条",
+  "lawsuit_id": "74573",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74573",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/573/074573_hanrei.pdf"
+}

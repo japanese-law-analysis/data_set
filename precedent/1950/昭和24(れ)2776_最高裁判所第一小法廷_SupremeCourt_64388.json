@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 4,
+    "day": 30
+  },
+  "case_number": "昭和24(れ)2776",
+  "case_name": "昭和二一年勅令第三一一号違反、昭和二一年政令第二七七号違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第79号617頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 9,
+    "day": 5
+  },
+  "gist": "刑訴第四一一条にあたらない一事例",
+  "case_gist": "仮りに、古い被告人の私物であつて、朝鮮向の貨物でないから沒収をしたのが違法であるとしても、右は判示多数の沒収品中の一点に過ぎないから、原判決を破棄しなければ著しく正義に反するものとは認め難い。",
+  "ref_law": "連合国占領軍の占領目的に有害な行為に対する処罰等に関する勅令（昭和21年勅令311号），関税法の罰則等の特例に関する勅令（昭和21年勅令277号）1条，関税法の罰則等の特例に関する勅令（昭和21年勅令277号）9条，刑訴法411条，関税法76条",
+  "lawsuit_id": "64388",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64388",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/388/064388_hanrei.pdf"
+}

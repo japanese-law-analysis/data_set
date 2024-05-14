@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 10,
+    "day": 2
+  },
+  "case_number": "昭和27(あ)1543",
+  "case_name": "犯人蔵匿",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第7巻10号1879頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 2,
+    "day": 21
+  },
+  "gist": "捜査の存否と犯人蔵匿罪の成否",
+  "case_gist": "直に罰金以上の刑にあたる罪を犯した者であることを知りながら、官憲の発見、逮捕を免れるように、その者をかくまつた場合には、その犯罪がすでに捜査官憲に発覚して捜査が始つているかどうかに関係なく、犯人蔵匿罪が成立する。",
+  "ref_law": "刑法103条",
+  "lawsuit_id": "55670",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55670",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/670/055670_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 2,
+    "day": 24
+  },
+  "case_number": "昭和53(行ツ)51",
+  "case_name": "転任処分取消",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第35巻1号98頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和52(行コ)7",
+  "original_date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 1,
+    "day": 31
+  },
+  "gist": "不利益処分についての不服申立てに関する規則（昭和二六年名古屋市人事委員会規則第七号）一五条の定める再審の請求と行政事件訴訟法一四条四項にいう審査請求",
+  "case_gist": "不利益処分についての不服申立てに関する規則（昭和二六年名古屋市人事委員会規則第七号）一五条の定める再審の請求は、行政事件訴訟法一四条四項にいう審査請求にあたる。",
+  "ref_law": "地方公務員法8条7項，不利益処分についての不服申立てに関する規則（昭和26年名古屋市人事委員会規則第7号）15条，行政事件訴訟法14条4項",
+  "lawsuit_id": "56340",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56340",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/340/056340_hanrei.pdf"
+}

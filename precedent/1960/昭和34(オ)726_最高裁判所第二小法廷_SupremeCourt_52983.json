@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 9,
+    "day": 14
+  },
+  "case_number": "昭和34(オ)726",
+  "case_name": "土地所有権確認等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第16巻9号1935頁",
+  "original_court_name": "札幌高等裁判所\n        　函館支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 5,
+    "day": 19
+  },
+  "gist": "民法第九四条第二項の類推適用を認めた事例。",
+  "case_gist": "丙を代理人として、甲の先代から不動産を買い受けた乙が、丙にその所有権を移転する意思がないにも拘らず、たまたま右の売買契約書に買主名義が丙となつていた関係上、丙をして甲に対する所有権移転登記手続請求の訴を提起させ、その勝訴の確定判決に基づいて甲より丙に所有権移転登記を受けさせた場合には、民法第九四条第二項の法意に照し、乙は丙が所有権を取得しなかつたことをもつて善意の第三者に対抗しえない。",
+  "ref_law": "民法94条",
+  "lawsuit_id": "52983",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52983",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/983/052983_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 11,
+    "day": 19
+  },
+  "case_number": "昭和53(あ)989",
+  "case_name": "業務上失火、業務上過失致死",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第33巻7号728頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 3,
+    "day": 28
+  },
+  "gist": "サウナ風呂の開発・製作の担当者がその構造につき耐火性を検討・確保しなかつた場合と業務上失火罪の成否",
+  "case_gist": "木製ベンチ部分の下部に電熱炉を据えつける方式の組立式サウナ風呂を開発・製作した者が、その構造につき耐火性を検討・確保しなかつたため、右サウナ風呂を継続使用した浴場内において、右木製ベンチを長期間にわたる電熱炉の加熱により漸次炭化させて火災を発生させた場合には、業務上失火罪が成立する。",
+  "ref_law": "刑法116条1項，刑法117条ノ2",
+  "lawsuit_id": "51162",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51162",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/162/051162_hanrei.pdf"
+}

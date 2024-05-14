@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 12,
+    "day": 25
+  },
+  "case_number": "昭和38(あ)1909",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第17巻12号2550頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 6,
+    "day": 6
+  },
+  "gist": "公職選挙法第一四二条（文書図画の頒布）の禁止を免れる行為に当るとされた事例。",
+  "case_gist": "当選を得させる目的で、たばこの箱の蓋の内外に候補者の氏を片仮名で記したものおよび候補者の氏を記した名刺を一〇〇円札に貼付したものを頒布した行為は、公職選挙法第一四六条第一項にいう同第一四二条（文書図画の頒布）の禁止を免れる行為としての文書の頒布に当る。",
+  "ref_law": "公職選挙法142条，公職選挙法146条，公職選挙法243条3号，公職選挙法243条5号",
+  "lawsuit_id": "50710",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50710",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/710/050710_hanrei.pdf"
+}

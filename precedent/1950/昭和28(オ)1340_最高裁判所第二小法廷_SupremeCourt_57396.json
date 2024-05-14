@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 12,
+    "day": 26
+  },
+  "case_number": "昭和28(オ)1340",
+  "case_name": "登記無効確認等本訴及土地返還請求反訴",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第9巻14号2114頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 9,
+    "day": 28
+  },
+  "gist": "一　処分禁止の仮処分前の処分行為に基く権利取得とその登記が仮処分登記後になされた場合の効力\n二　仮処分債権者の仮処分登記後になされた登記の抹消請求の許否",
+  "case_gist": "一　不動産の譲渡人がいまだその登記をなさないうちに、その不動産につき譲渡人を債務者として処分禁止の仮処分登記がなされた場合においては、譲受人がその後に所有権取得登記をしても、これを以て仮処分債権者に対抗することはできない。\n二　前項の場合において、仮処分債権者が自ら所有権取得登記をなしうるにいたつたときは、譲受人に対し所有権取得登記の抹消を求めることができる。",
+  "ref_law": "民訴法755条，民訴法758条，民法177条，不動産登記法4節（25条の前）",
+  "lawsuit_id": "57396",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57396",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/396/057396_hanrei.pdf"
+}

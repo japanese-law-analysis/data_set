@@ -1,0 +1,18 @@
+{
+  "trial_type": "IPCase",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 7,
+    "day": 25
+  },
+  "case_number": "平成18(行ケ)10395",
+  "case_name": "審決取消請求事件",
+  "court_name": "知的財産高等裁判所",
+  "right_type": "特許権",
+  "lawsuit_type": "行政訴訟",
+  "lawsuit_id": "34993",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail7?id=34993",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/993/034993_hanrei.pdf",
+  "contents": "1 31 311\n3 34\n1 5 51 5\n52 1 31 32\n1 5 51\n34 5 52 311\n31 34 5 52 31\n32 31A 311\n1 31\n311 3 31\n34 1 5\n51 5 52 1 31\n32 1 5 51\n34 5 52\n311 1\n4 5 53\n1 5 51\n4 41 1\n5 52 4 41 41\n5 52 41 1\n2 5 52 41\n5 52 1 31\n31 34 5 52\n31 32 31A\n311 1\n1 1 33 5 52\n3 31 3\n1 31\n311 3 31\n34 1 5\n51 5 52 1 31\n32 1 5 51\n34 5 52\n311 1\n1 2\n31 3 3 4\n31 32 33\n311 34 31\n5 52 41\n5 52 1 31\n31 34 5 52 31\n32 31A 311\n1 1\n33 5 52\n31A\n5 52\n1 31 32\n3 31\n311 34\n3 31 34\n1 5 51\n34 5 52\n311 1\n31 34 5 52 31\n32 31A 311\n5 52 34\n1 3\n5 2\n"
+}

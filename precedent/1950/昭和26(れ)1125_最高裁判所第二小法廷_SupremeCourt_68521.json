@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 12,
+    "day": 28
+  },
+  "case_number": "昭和26(れ)1125",
+  "case_name": "昭和二二年政令第一六五号違反、関税法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第58号1041頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 4,
+    "day": 7
+  },
+  "gist": "証拠調をしない証拠を綜合証拠とした違法と、証拠に基かないで事実を認定した違法とがある判決と、著しく正義に反する場合",
+  "case_gist": "原審は所論Ａに対する大蔵事務官の質問調書の証拠調をしていないことを明らかである。そして右質問調書は本件罪証として有力なものと認められるのであり、かかる証拠を他の証拠と綜合して犯罪事実を認定したことは違法である。又原判決は、判示汽船の乗組員たる中華船員が連合国占領軍、その将兵又は連合国占領軍に附属し、若しくは随伴するものであることについては何等の証拠を挙示せず、従つて証拠に基かずして事実を認定した違法がある。かかる違法は判決に影響を及ぼし且つ著しく正義に反するものと認める。（準新事件である）",
+  "ref_law": "刑訴法411条，旧刑訴法336条，旧刑訴法360条",
+  "lawsuit_id": "68521",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=68521",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/521/068521_hanrei.pdf"
+}

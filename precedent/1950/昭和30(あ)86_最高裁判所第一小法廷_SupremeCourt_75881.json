@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 9,
+    "day": 29
+  },
+  "case_number": "昭和30(あ)86",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第108号675頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 12,
+    "day": 8
+  },
+  "gist": "検察官の面前において相被告人の供述を録取した調書の証拠能力",
+  "case_gist": "共同審理を受けている共同被告人が検察官の面前でした供述を録取した調書は、被告人との関係においては刑訴第三二一条第一項第二号の書面として証拠能力を有するけれども、補強証拠なしにそれだけで、被告人の犯罪事実を認定することはできない。",
+  "ref_law": "憲法38条3項，刑訴法321条1項1号",
+  "lawsuit_id": "75881",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=75881",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/881/075881_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 5,
+    "day": 29
+  },
+  "case_number": "昭和23(れ)185",
+  "case_name": "強盗",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第2号243頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 12,
+    "day": 24
+  },
+  "gist": "犯罪の動機と刑事責任",
+  "case_gist": "原判決の確定するところによれば、被告人は、生活に困つた上、性病を思い、その治療費に窮したため、本件強盗を決意するに至つたものであることは、所論のとおりである。しかし、これは要するに犯罪の動機であつて、かかる動機に出たからといつて、所論のごとく、本件被告人の強盗の所爲をもつて、刑事責任を缺くものとすることのできないのは勿論である。",
+  "ref_law": "刑法236條",
+  "lawsuit_id": "70616",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70616",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/616/070616_hanrei.pdf"
+}

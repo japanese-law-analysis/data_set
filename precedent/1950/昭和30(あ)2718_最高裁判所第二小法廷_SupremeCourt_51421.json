@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 12,
+    "day": 13
+  },
+  "case_number": "昭和30(あ)2718",
+  "case_name": "入札談合等",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第11巻13号3207頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 7,
+    "day": 29
+  },
+  "gist": "一　私的独占禁止法第四条第一項（昭和二八年法律第二五九号による改正前のもの）の罪と談合罪との関係\n二　談合罪の成立には入札者全員の参加が必要か",
+  "case_gist": "一　私的独占禁止法第四条第一項（昭和二八年法律第二五九号による改正前のもの）は、刑法上の談合罪の場合に適用される規定ではない。\n二　談合罪の成立するためには入札者全員が談合に参加することを必要としない。",
+  "ref_law": "私的独占の禁止及び公正取引の確保に関する法律（昭和28年法律259号による改正前のもの）4条1項，刑法96条ノ32項",
+  "lawsuit_id": "51421",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51421",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/421/051421_hanrei.pdf"
+}

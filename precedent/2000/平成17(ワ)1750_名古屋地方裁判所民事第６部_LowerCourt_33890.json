@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 10,
+    "day": 27
+  },
+  "case_number": "平成17(ワ)1750",
+  "case_name": "国家賠償請求事件",
+  "court_name": "名古屋地方裁判所民事第６部",
+  "result": "その他",
+  "gist": "検察庁の庁舎内での面会接見に検察官及び検察事務官が立ち会ったことを違法とした事例",
+  "lawsuit_id": "33890",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=33890",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/890/033890_hanrei.pdf",
+  "contents": ""
+}

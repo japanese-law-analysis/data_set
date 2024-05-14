@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 3,
+    "day": 23
+  },
+  "case_number": "昭和27(あ)5977",
+  "case_name": "酒税法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第8巻3号318頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 10,
+    "day": 28
+  },
+  "gist": "没収と裁判所による押収の要否",
+  "case_gist": "没収を言い渡すためには、その物件が裁判所により押収されている物であることを要しない。",
+  "ref_law": "酒税法62条2項，刑訴法99条，刑訴法101条",
+  "lawsuit_id": "55706",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55706",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/706/055706_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 11,
+    "day": 15
+  },
+  "case_number": "昭和42(オ)660",
+  "case_name": "強制執行異議",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第22巻12号2659頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和36(ネ)64",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 12,
+    "day": 27
+  },
+  "gist": "詐害行為取消の訴と第三者異議の訴とが別訴として提起され別個の判決がされる場合に詐害行為の成立を理由として第三者異議の訴を棄却することはできないとされた事例",
+  "case_gist": "詐害行為の成否が第三者異議の訴の異議事由の存否に関する判断の先決問題となる場合において、第三者異議の訴と詐害行為取消の訴とが同一の裁判所において審理され、その結果、詐害行為取消権が存すると判断され、異議事由である所有権の取得が否定されるべきことが裁判所に明らかとなつた場合でも、両者が別訴として提起され、その弁論も併合されず、それぞれ別個の判決がされるときは、詐害行為の成立を理由として、第三者異議の訴を棄却することは許されない。",
+  "ref_law": "民法424条，民訴法549条",
+  "lawsuit_id": "55085",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55085",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/085/055085_hanrei.pdf"
+}

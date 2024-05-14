@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 8,
+    "month": 11,
+    "day": 26
+  },
+  "case_number": "平成5(オ)947",
+  "case_name": "遺留分減殺請求に基づく持分権確認並びに持分権移転登記手続",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第50巻10号2747頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成4(ネ)1575",
+  "original_date": {
+    "era": "Heisei",
+    "year": 5,
+    "month": 1,
+    "day": 27
+  },
+  "gist": "被相続人が相続開始時に債務を有していた場合における遺留分の侵害額の算定",
+  "case_gist": "被相続人が相続開始時に債務を有していた場合における遺留分の侵害額は、被相続人が相続開始時に有していた財産の価額にその贈与した財産の価額を加え、その中から債務の全額を控除して遺留分算定の基礎となる財産額を確定し、それに法定の遺留分の割合を乗じるなどして算定した遺留分の額から遺留分権利者が相続によって得た財産の額を控除し、同人が負担すべき相続債務の額を加算して算定する。",
+  "ref_law": "民法1029条，民法1031条",
+  "lawsuit_id": "52519",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52519",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/519/052519_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 4,
+    "day": 25
+  },
+  "case_number": "昭和26(あ)2529",
+  "case_name": "収賄",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第7巻4号881頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 5,
+    "day": 10
+  },
+  "gist": "公務員が転職後前の職務に関し賄賂を収受することは収賄罪を構成するか",
+  "case_gist": "収賄罪は公務員が職務に関し賄賂を収受するによつて成立する犯罪であつて公務員が他の職務に転じた後、前の職務に関して賄賂を収受する場合であつても、いやしくも収受の当時において公務員である以上は収賄罪はそこに成立し、賄賂に関する職務を現に担任することは収賄罪の要件でないと解するを相当とする。",
+  "ref_law": "刑法197条",
+  "lawsuit_id": "53417",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53417",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/417/053417_hanrei.pdf"
+}

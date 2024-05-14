@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 11,
+    "day": 11
+  },
+  "case_number": "昭和23(れ)717",
+  "case_name": "強盗",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第5号237頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 5,
+    "day": 6
+  },
+  "gist": "事實誤認の判決と憲法第三七條第一項の裁判",
+  "case_gist": "假に原判決が被告人に強盜の意思を認定したことが誤つていたとしても、それだからといつて、原判決が憲法第三七條第一項の規定に反するものとはいえない。蓋し同項にいわゆる公平な裁判所の裁判とは偏頗や不公平のおそれのない組織と構成とをもつた裁判所による裁判という意味であつて必ずしも個々の事件につきその内容實質が具體的に公正妥當である裁判を意味するものでないからである。（昭和二二年（れ）第四八號、同二三年五月二六日言渡大法廷判決參照）",
+  "ref_law": "憲法37條1項",
+  "lawsuit_id": "74767",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74767",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/767/074767_hanrei.pdf"
+}

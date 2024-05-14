@@ -1,0 +1,18 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 11,
+    "day": 27
+  },
+  "case_number": "昭和59(行ウ)59",
+  "case_name": "所得税更正処分取消請求事件",
+  "court_name": "東京地方裁判所",
+  "field": "行政",
+  "gist": "１　基礎控除を定める所得税法（昭和５９年法律第５号による改正前）８６条が，憲法２５条１項，１４条１項に違反しないとされた事例　\n２　所得税法（昭和５９年法律第５号による改正前）８６条に基づき基礎控除額を２９万円としてされた所得税更正処分取消訴訟において，納税者がした右基礎控除額を物価上昇の割合に応じて引き上げるべきである旨の主張が，右基礎控除額の決定は立法府の政策的，技術的な裁量判断にゆだねられているとして，排斥された事例",
+  "lawsuit_id": "36046",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=36046",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/046/036046_hanrei.pdf",
+  "contents": ""
+}

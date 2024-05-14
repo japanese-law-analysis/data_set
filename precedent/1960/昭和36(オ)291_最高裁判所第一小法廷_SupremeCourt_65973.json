@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 12,
+    "day": 23
+  },
+  "case_number": "昭和36(オ)291",
+  "case_name": "共済組合掛金控除権不存在確認請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第81号737頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和35(ネ)1755",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 12,
+    "day": 14
+  },
+  "gist": "国家公務員共済組合法による長期給付事業の主体とその掛金率の決定手続",
+  "case_gist": "国家公務員共済組合法（昭和三三年法律第一二八号）の定める長期給付の事業は、国家公務員共済組合連合会の事業であつて、各単位組合の事業に属しないと解すべきであり、その長期給付の掛金率は、大蔵大臣の許可を得て右連合会定款をもつて定めれば足り、これに基づいて、各単位組合の組合員の給与支給機関は、その支給給与から右掛金率による掛金相当額を控除することができる。",
+  "ref_law": "国家公務員共済組合法41条，国家公務員共済組合法100条，国家公務員共済組合法101条",
+  "lawsuit_id": "65973",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=65973",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/973/065973_hanrei.pdf"
+}

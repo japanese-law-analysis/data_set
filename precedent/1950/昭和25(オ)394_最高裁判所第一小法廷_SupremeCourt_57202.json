@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 10,
+    "day": 1
+  },
+  "case_number": "昭和25(オ)394",
+  "case_name": "家屋収去土地明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第7巻10号1019頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 9,
+    "day": 27
+  },
+  "gist": "地上家屋の仮装譲受人からこれを善意で譲り受けた者の家屋買収請求権の有無",
+  "case_gist": "所有地上に家屋を有する者が、その家屋のみを他に仮装譲渡した場合において、右仮装譲受人よりさらにこれを善意で譲り受けた者に対し、家屋敷地の賃貸を承諾しない場合は、右善意の譲受人は土地所有者に対し家屋の買取請求権を有する。",
+  "ref_law": "民法94条，借地法10条",
+  "lawsuit_id": "57202",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57202",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/202/057202_hanrei.pdf"
+}

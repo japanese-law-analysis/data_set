@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 7,
+    "day": 14
+  },
+  "case_number": "昭和27(あ)5134",
+  "case_name": "占有離脱物横領",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第8巻7号1074頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 5,
+    "day": 13
+  },
+  "gist": "予備的訴因追加請求書の不朗読は判決に影響する法令違反か",
+  "case_gist": "予備的訴因追加請求書が公判廷で朗読されなかつたとしても、被告人に防禦の機会が十分に与えられておれば判決に影響する法令違反があるとはいえない。",
+  "ref_law": "刑訴法312条，刑訴規則209条",
+  "lawsuit_id": "56813",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56813",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/813/056813_hanrei.pdf"
+}

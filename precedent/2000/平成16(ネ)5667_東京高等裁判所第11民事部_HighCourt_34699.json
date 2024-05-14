@@ -1,0 +1,22 @@
+{
+  "trial_type": "HighCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 17,
+    "month": 3,
+    "day": 30
+  },
+  "case_number": "平成16(ネ)5667",
+  "case_name": "求償金請求事件",
+  "court_name": "東京高等裁判所第11民事部",
+  "result": "その他",
+  "article_info": "第58巻1号49頁",
+  "original_court_name": "東京地方裁判所",
+  "original_case_number": "平成16(ワ)11739",
+  "gist": "管理費の滞納のある区分所有建物を競売により買い受けた者が支払った滞納管理費を元の所有者に求償することの可否",
+  "case_gist": "管理費の滞納のある区分所有建物を競売により買い受けた者は，管理組合に支払った滞納管理費を元の所有者に対して求償することができる。",
+  "lawsuit_id": "34699",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail3?id=34699",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/699/034699_hanrei.pdf",
+  "contents": ""
+}

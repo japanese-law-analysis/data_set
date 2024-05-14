@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 11,
+    "day": 24
+  },
+  "case_number": "昭和33(オ)688",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第56号247頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 4,
+    "day": 30
+  },
+  "gist": "保証のための戻裏書と償還請求。",
+  "case_gist": "約束手形の第二裏書人丙が振出人甲の手形債務を保証する趣旨でその手形を第一裏書人乙に戻裏書したときは、乙は丙に対して償還を請求することができると解すべきである。",
+  "lawsuit_id": "65646",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=65646",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/646/065646_hanrei.pdf"
+}

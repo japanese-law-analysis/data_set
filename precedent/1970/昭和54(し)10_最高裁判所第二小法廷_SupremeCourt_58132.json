@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 2,
+    "day": 13
+  },
+  "case_number": "昭和54(し)10",
+  "case_name": "道路交通法違反被疑事件についてした逮捕状発付取消の申立棄却決定に対する特別抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第214号55頁",
+  "original_court_name": "大阪地方裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 1,
+    "day": 17
+  },
+  "gist": "逮捕状発付取消の申立棄却決定に対する特別抗告が不適法として処理された事例",
+  "ref_law": "刑訴法433条1項，刑訴法429条1項",
+  "lawsuit_id": "58132",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58132",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/132/058132_hanrei.pdf"
+}

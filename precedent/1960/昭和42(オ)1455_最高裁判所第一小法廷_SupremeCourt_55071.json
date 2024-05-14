@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 7,
+    "day": 4
+  },
+  "case_number": "昭和42(オ)1455",
+  "case_name": "違法拘束救済人身保護請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第22巻7号1441頁",
+  "original_court_name": "大阪地方裁判所",
+  "original_case_number": "昭和42(人)2",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 11,
+    "day": 30
+  },
+  "gist": "一、意思能力のない幼児の監護と人身保護法および同規則にいう拘束\n二、夫婦の一方から他方に対する人身保護法に基づく幼児引渡請求許否の判断基準",
+  "case_gist": "一、意思能力のない幼児を監護することは、監護方法の当不当または愛情に基づく監護であるかどうかとはかかわりなく、人身保護法および同規則にいう拘束と解すべきである。\n二、夫婦の一方が他方に対し、人身保護法に基づき、共同親権に服する幼児の引渡を請求した場合には、夫婦のいずれに監護させるのが子の幸福に適するかを主眼として子に対する拘束状態の当不当を定め、その請求の許否を決すべきである。",
+  "ref_law": "人身保護法2条1項，人身保護規則3条，人身保護規則4条",
+  "lawsuit_id": "55071",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55071",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/071/055071_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 5,
+    "day": 7
+  },
+  "case_number": "昭和26(あ)3760",
+  "case_name": "暴行、傷害、昭和二二勅令第九号違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第7巻5号937頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 8,
+    "day": 31
+  },
+  "gist": "昭和二二年勅令第九号第二条の注意",
+  "case_gist": "昭和二二年勅令第九号第二条にいわゆる「婦女に売淫をさせることを内容とする契約」は婦女の自由意思による売淫の場合をも処罰する趣旨である。",
+  "ref_law": "昭和22年勅令9号2条",
+  "lawsuit_id": "53429",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53429",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/429/053429_hanrei.pdf"
+}

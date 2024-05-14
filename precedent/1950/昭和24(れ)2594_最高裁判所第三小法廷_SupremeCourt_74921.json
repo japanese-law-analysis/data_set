@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 2,
+    "day": 21
+  },
+  "case_number": "昭和24(れ)2594",
+  "case_name": "森林法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第16号561頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 9,
+    "day": 12
+  },
+  "gist": "森林法違反罪の犯意",
+  "case_gist": "森林法第八四條第二號、五號の犯罪の成立に必要な犯意ありというには、被告人が保安林なることを認識し乍らその森林の樹木を許可なく伐採し或いはその伐採した樹木を原料として木炭を製造する事實を認識すれば足り、同法第九三條第二項の犯罪は、保安林なることを認識し乍ら許可なく之を開墾するの事實を認識すれば、同罪の成立に必要な犯意がありというべきである。",
+  "ref_law": "刑法38條1項，刑法38條3項，森林法84條2號，森林法84條5號，森林法93條2項",
+  "lawsuit_id": "74921",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74921",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/921/074921_hanrei.pdf"
+}

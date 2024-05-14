@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 8,
+    "day": 6
+  },
+  "case_number": "昭和50(行ツ)8",
+  "case_name": "行政処分取消請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第115号623頁",
+  "original_court_name": "広島高等裁判所",
+  "original_case_number": "昭和48(行コ)4",
+  "original_date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 11,
+    "day": 13
+  },
+  "gist": "都市計画法に基づく都市計画決定と抗告訴訟の対象",
+  "case_gist": "都市計画法に基づき土地区画整理事業に関して都道府県知事のした都市計画決定は、抗告訴訟の対象とならない。",
+  "ref_law": "都市計画法18条，行政事件訴訟法3条",
+  "lawsuit_id": "62221",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62221",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/221/062221_hanrei.pdf"
+}

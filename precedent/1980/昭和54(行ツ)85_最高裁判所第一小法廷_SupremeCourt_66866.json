@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 2,
+    "day": 24
+  },
+  "case_number": "昭和54(行ツ)85",
+  "case_name": "不当労働行為救済命令取消",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第138号235頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和53(行コ)22",
+  "original_date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 3,
+    "day": 13
+  },
+  "gist": "夏季一時金算定の基礎となる出勤率を計算するにあたりストライキによる不就労を欠勤として扱つた措置が労働組合法七条一号の不当労働行為にあたるとされた事例",
+  "case_gist": "夏季一時金の算定の基礎となる出勤率を計算する場合にストライキによる不就労を欠勤と扱うべきか否かについて労使間の合意や慣行は成立していなかつたが、組合がはじめてストライキを実施したところ、使用者は右ストライキによる不就労を通常の欠勤と同一に取り扱つたなど判示の事実関係のもとにおいては、使用者の右措置は労働組合法七条一号の不当労働行為にあたる。\n\n（反対意見がある）",
+  "ref_law": "労働組合法7条1号",
+  "lawsuit_id": "66866",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66866",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/866/066866_hanrei.pdf"
+}

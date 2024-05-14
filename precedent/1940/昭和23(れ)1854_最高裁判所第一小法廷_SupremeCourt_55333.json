@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 4,
+    "day": 7
+  },
+  "case_number": "昭和23(れ)1854",
+  "case_name": "常習賭博",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第3巻4号496頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 9,
+    "day": 22
+  },
+  "gist": "常習賭博在認定の一場合",
+  "case_gist": "賭博をした者が約一一年前に常習賭博罪で懲役二月に処せられたことと当該賭博に關する押収金額、用具及び賭博の相手方がいずれも賭博罪又は常習賭博罪で処刑された者であることを綜合して賭博の常習性を認定しても差支えない。",
+  "ref_law": "刑法186条1項，旧刑訴法337条",
+  "lawsuit_id": "55333",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55333",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/333/055333_hanrei.pdf"
+}

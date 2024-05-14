@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 13,
+    "month": 3,
+    "day": 2
+  },
+  "case_number": "平成12(受)222",
+  "case_name": "著作権侵害差止等請求事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第55巻2号185頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成11(ネ)2788",
+  "original_date": {
+    "era": "Heisei",
+    "year": 11,
+    "month": 11,
+    "day": 29
+  },
+  "gist": "専ら音楽著作物を上映し又は演奏して公衆に直接見せ又は聞かせるために使用されるカラオケ装置につきリース業者がリース契約を締結して引き渡す場合の注意義務",
+  "case_gist": "カラオケ装置のリース業者は，カラオケ装置のリース契約を締結した場合において，当該装置が専ら音楽著作物を上映し又は演奏して公衆に直接見せ又は聞かせるために使用されるものであるときは，リース契約の相手方に対し，当該音楽著作物の著作権者との間で著作物使用許諾契約を締結すべきことを告知するだけでなく，上記相手方が当該著作権者との間で著作物使用許諾契約を締結し又は申込みをしたことを確認した上でカラオケ装置を引き渡すべき条理上の注意義務を負う。",
+  "ref_law": "著作権法22条，著作権法22条の2，著作権法第7章権利侵害，民法709条，民法719条",
+  "lawsuit_id": "52293",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52293",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/293/052293_hanrei.pdf"
+}

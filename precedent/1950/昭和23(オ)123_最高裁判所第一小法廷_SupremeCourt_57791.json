@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 11,
+    "day": 9
+  },
+  "case_number": "昭和23(オ)123",
+  "case_name": "無効取消当選確認及び町会議員選挙無効確認",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第4巻11号523頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "昭和22(ナ)11",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 7,
+    "day": 30
+  },
+  "gist": "一　選挙権のない者のした投票と投票の秘密\n二　無資格者その他による投票があつた場合の当選人決定の方法",
+  "case_gist": "一　選挙権のない者又はいわゆる代理投票をした者の投票についても、その投票が何人に対してなされたかは、議員の当選の効力を定める手続において取り調べてはならない。\n二　無資格者その他による帰属不明の無効投票が他の有効投票中に混入されたときは、それから無効投票を各当選者の得票から差し引いてみて最高位落選者より下位となる者は、これを当選者と決定することができない。",
+  "ref_law": "地方自治法37条，地方自治法73条，地方自治法（昭25・3・15改正以前）66条，地方自治法（昭25・3・15改正以前）55条，衆議院議員選挙法39条，衆議院議員選挙法116条2項",
+  "lawsuit_id": "57791",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57791",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/791/057791_hanrei.pdf"
+}

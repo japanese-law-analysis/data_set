@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 3,
+    "day": 3
+  },
+  "case_number": "昭和59(オ)504",
+  "case_name": "退職金分割",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第150号305頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和58(ネ)2246",
+  "original_date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 1,
+    "day": 30
+  },
+  "gist": "死亡退職金の支給規程のない財団法人が死亡した理事長の妻に支給した死亡退職金が相続財産に属さず妻個人に属するものとされた事例",
+  "case_gist": "死亡退職金の支給規程のない財団法人において理事長の死亡後同人に対する死亡退職金として支給する旨の決定をし同人の妻に支払われた金員は、特段の事情のない限り、相続財産に属するものではなく、妻個人に属するものと認めるべきものとした原審の認定判断は相当である。",
+  "ref_law": "民法896条",
+  "lawsuit_id": "70474",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70474",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/474/070474_hanrei.pdf"
+}

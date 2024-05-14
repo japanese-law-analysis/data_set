@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 4,
+    "day": 25
+  },
+  "case_number": "平成18(ワ)1270",
+  "case_name": "損害賠償請求",
+  "court_name": "名古屋地方裁判所民事第４部",
+  "result": "棄却",
+  "gist": "肺結核症等の治療のため入院中に，病室の窓から飛び降りて自殺した患者の遺族が，被告病院の看護師には，当該患者が自殺を図ろうとしたことに気づきながら，自殺を防止する義務を怠った過失があるなどと主張して損害賠償の支払を求めたが，同看護師には自殺の予見可能性がなかったとして請求が棄却された事例",
+  "lawsuit_id": "34797",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=34797",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/797/034797_hanrei.pdf",
+  "contents": ""
+}

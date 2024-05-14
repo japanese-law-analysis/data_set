@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 9,
+    "day": 5
+  },
+  "case_number": "昭和35(オ)1388",
+  "case_name": "登記抹消等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第17巻8号909頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 8,
+    "day": 1
+  },
+  "gist": "代表取締役の権限濫用の行為と民法第九三条。",
+  "case_gist": "株式会社の代表取締役が自己の利益のため会社の代表者名義でなした法律行為は、相手方が右代表取締役の真意を知り、または、知りうべきものであつたときは、その効力を生じない。",
+  "ref_law": "民法93条，商法261条",
+  "lawsuit_id": "54919",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54919",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/919/054919_hanrei.pdf"
+}

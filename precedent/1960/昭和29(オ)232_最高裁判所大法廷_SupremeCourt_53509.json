@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 6,
+    "day": 15
+  },
+  "case_number": "昭和29(オ)232",
+  "case_name": "土地明渡、損害賠償請求",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第14巻8号1376頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和29(オ)232",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 2,
+    "day": 27
+  },
+  "gist": "罹災都市借地借家臨時処理法第二条、第三条と憲法第二九条。",
+  "case_gist": "罹災都市借地借家臨時処理法第二条、第三条は憲法第二九条に違反しない。",
+  "ref_law": "憲法29条，罹災都市借地借家臨時処理法2条，罹災都市借地借家臨時処理法3条",
+  "lawsuit_id": "53509",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53509",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/509/053509_hanrei.pdf"
+}

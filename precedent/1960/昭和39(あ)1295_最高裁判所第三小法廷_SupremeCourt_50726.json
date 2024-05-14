@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 11,
+    "day": 26
+  },
+  "case_number": "昭和39(あ)1295",
+  "case_name": "外国為替及び外国貿易管理法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第19巻8号814頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 5,
+    "day": 6
+  },
+  "gist": "外国為替及び外国貿易管理法二七条第一項第三号違反の罪と同法第四八条第一項に基づく命令に違反する罪とは牽連犯か。",
+  "case_gist": "外国為替及び外国貿易管理法二七条第一項第三号違反の罪と同法第四八条第一項に基づく命令に違反する罪とは、牽連犯ではない。",
+  "ref_law": "外国為替及び外国貿易管理法27条1項3号，外国為替及び外国貿易管理法48条1項，外国為替及び外国貿易管理法70条7号，外国為替及び外国貿易管理法70条21号，輸出貿易管理令1条1項，刑法54条1項",
+  "lawsuit_id": "50726",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50726",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/726/050726_hanrei.pdf"
+}

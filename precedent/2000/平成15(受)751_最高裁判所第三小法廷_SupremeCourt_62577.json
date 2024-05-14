@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 16,
+    "month": 6,
+    "day": 29
+  },
+  "case_number": "平成15(受)751",
+  "case_name": "地代減額確認請求事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第214号595頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成14(ネ)1151",
+  "original_date": {
+    "era": "Heisei",
+    "year": 15,
+    "month": 2,
+    "day": 5
+  },
+  "gist": "建物の所有を目的とする土地の賃貸借契約において賃料を減額しない旨の特約が存することにより賃料減額請求権の行使を妨げられることはないとされた事例",
+  "case_gist": "建物の所有を目的とする土地の賃貸借契約において，３年ごとに賃料の改定を行うものとし，改定後の賃料は，従前の賃料に消費者物価指数の変動率を乗じ，公租公課の増減額を加算又は控除した額とするが，消費者物価指数が下降してもそれに応じて賃料の減額をすることはない旨の特約が存する場合であっても，上記契約の当事者は，そのことにより借地借家法１１条１項に基づく賃料減額請求権の行使を妨げられるものではない。",
+  "ref_law": "借地借家法11条1項，民法91条",
+  "lawsuit_id": "62577",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62577",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/577/062577_hanrei.pdf"
+}

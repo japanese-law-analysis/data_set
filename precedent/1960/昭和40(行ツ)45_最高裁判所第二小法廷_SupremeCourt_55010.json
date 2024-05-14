@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 4,
+    "day": 7
+  },
+  "case_number": "昭和40(行ツ)45",
+  "case_name": "原野売渡処分無効確認請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第21巻3号572頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "昭和37(ネ)387",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 2,
+    "day": 25
+  },
+  "gist": "裁量処分の無効確認訴訟における無効事由の主張・立証責任",
+  "case_gist": "行政庁の裁量に任された行政処分の無効確認を求める訴訟においては、その無効確認を求める者において、行政庁が右行政処分をするにあたつてした裁量権の行使がその範囲をこえまたは濫用にわたり、しかも、当該瑕疵が重大かつ明白であることを主張および立証することを要する。",
+  "ref_law": "行政事件訴訟特例法1条，行政事件訴訟法3条4項，行政事件訴訟法30条，民訴法225条",
+  "lawsuit_id": "55010",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55010",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/010/055010_hanrei.pdf"
+}

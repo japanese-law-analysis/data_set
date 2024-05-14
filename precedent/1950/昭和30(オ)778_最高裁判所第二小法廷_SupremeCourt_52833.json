@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 10,
+    "day": 24
+  },
+  "case_number": "昭和30(オ)778",
+  "case_name": "土地明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第12巻14号3213頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 6,
+    "day": 20
+  },
+  "gist": "旧農地調整法第二条にいう農地にあたらないとされた事例。",
+  "case_gist": "昭和八年頃所有者において建物の敷地にするために水田を埋め立てた土地六八坪を空地のまま放置するうち、その隣家に居住する者が所有者の承諾の下にこれを自家用野菜の栽培のために耕作して今日に至り、その間対価の支払をなしたことがあつても、耕作者は他に生業をもち、右土地以外に土地を耕作せず、終始農会の会員ではなく収穫物の供出をしたこともないような場合には、右の土地は旧農地調整法第二条にいう農地に該当しないと解するのが相当である。",
+  "ref_law": "農地調整法（昭和20年法律64号による改正後のもの）2条",
+  "lawsuit_id": "52833",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52833",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/833/052833_hanrei.pdf"
+}

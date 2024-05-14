@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 12,
+    "day": 5
+  },
+  "case_number": "昭和50(あ)977",
+  "case_name": "航空機の強取等の処罰に関する法律違反、強盗未遂等",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第198号817頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 3,
+    "day": 25
+  },
+  "gist": "航空機強取処罰法一条一項の罪に関する違憲（憲法三七条二項、一四条）の主張が実質法令違反の主張とされた事例",
+  "ref_law": "憲法37条2項，憲法37条14項",
+  "lawsuit_id": "60147",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60147",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/147/060147_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 1,
+    "day": 20
+  },
+  "case_number": "昭和58(オ)171",
+  "case_name": "書籍所有権侵害禁止",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第38巻1号1頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和57(ネ)203",
+  "original_date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 11,
+    "day": 29
+  },
+  "gist": "美術の著作物の原作品につきその無体物の面を利用する行為と所有権侵害の成否",
+  "case_gist": "美術の著作物の原作品の所有者でない者が、有体物としての原作品に対する所有者の排他的支配権能をおかすことなく原作品の無体物としての著作物の面を利用しても、原作品の所有権を侵害するものとはいえない。",
+  "ref_law": "民法206条，著作権法2条1項1号，著作権法45条1項",
+  "lawsuit_id": "52181",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52181",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/181/052181_hanrei.pdf"
+}

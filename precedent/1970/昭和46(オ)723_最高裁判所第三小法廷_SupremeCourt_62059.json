@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 12,
+    "day": 7
+  },
+  "case_number": "昭和46(オ)723",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第104号595頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和45(ネ)277",
+  "original_date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 3,
+    "day": 30
+  },
+  "gist": "下請負人に名義を貸与している元請負人が下請負人の被用者の起こした事故につき運行供用者責任を負わないとされた事例",
+  "case_gist": "甲所有の自動車につき判示のように乙の名義が使用されており、甲の営む残土運搬業の全仕事量の約五割は乙からの下請にかかるものであつたが、甲乙間に、業務上の専属関係や、資本、役員、営業財産等における緊密な一体性があるものではなく、下請業務に関する現実の指揮監督もなされていなかつたなど判示の事実関係のもとにおいて、甲の被用者が右自動車を運転し、甲の第三者からの下請作業に従事中に起こした事故については、乙は、運行供用者としての責任を負わないものと解すべきである。",
+  "ref_law": "自動車損害賠償保障法3条",
+  "lawsuit_id": "62059",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62059",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/059/062059_hanrei.pdf"
+}

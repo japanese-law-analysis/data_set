@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 6,
+    "day": 19
+  },
+  "case_number": "昭和33(オ)421",
+  "case_name": "行政事件訴訟特例法第一条による第一審の本訴請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第36号751頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 2,
+    "day": 28
+  },
+  "lawsuit_id": "69920",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=69920",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/920/069920_hanrei.pdf"
+}

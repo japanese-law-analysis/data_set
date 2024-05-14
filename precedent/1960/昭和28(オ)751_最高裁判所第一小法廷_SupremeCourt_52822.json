@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 9,
+    "day": 15
+  },
+  "case_number": "昭和28(オ)751",
+  "case_name": "株券引渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第14巻11号2146頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 6,
+    "day": 12
+  },
+  "gist": "親株の譲渡行為がなされたにかかわらず名義書替手続の失念された場合と新株引受権。\n株主総会の決議により一定時現在の株主に対し新株引受権を付与する場合の株主の意義。",
+  "case_gist": "株主総会の決議に基き一定時の株主に新株引受権が付与されたとき、親株について右一定時より以前に譲渡行為がなされていても、その日時までに譲渡人の失念により名義書替手続がなされていなければ、譲渡人は新株引受権を取得するものではない。\n株主総会の決議が一定時現在の株主に対し新株引受権を与えている場合の株主とは、右一定時において株主名簿に登録されていて会社に対抗できる株主をいう。",
+  "ref_law": "商法（昭和25年法律167号による削除前）348条1項4号，商法（昭和25年法律167号による改正前）205条，商法（昭和25年法律167号による改正前）206条",
+  "lawsuit_id": "52822",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52822",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/822/052822_hanrei.pdf"
+}

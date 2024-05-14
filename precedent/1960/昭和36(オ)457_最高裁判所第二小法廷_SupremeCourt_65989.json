@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 11,
+    "day": 9
+  },
+  "case_number": "昭和36(オ)457",
+  "case_name": "請求異議",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第63号179頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 1,
+    "day": 31
+  },
+  "gist": "家屋共有者中、一部の者からする家屋明渡訴訟に訴訟追行権ありとされた事例。",
+  "case_gist": "家屋の共有者総会によつて右一部の者に共有家屋賃貸の権限が授与され、これに基づき右一部の者が賃貸人となつた場合の賃貸借の終了を原因とする家屋明渡訴訟においては、右一部の者に訴訟追行権がある。",
+  "ref_law": "民訴法47条",
+  "lawsuit_id": "65989",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=65989",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/989/065989_hanrei.pdf"
+}

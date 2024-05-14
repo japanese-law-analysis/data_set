@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 9,
+    "day": 6
+  },
+  "case_number": "昭和54(オ)29",
+  "case_name": "土地所有権移転登記手続",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第127号395頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_case_number": "昭和52(ネ)71",
+  "original_date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 10,
+    "day": 25
+  },
+  "gist": "土地の売買契約が成立したか賃貸借が成立したかどうかの認定判断につき経験則ないし採証法則の適用の誤り又は審理不尽の違法があるとされた事例",
+  "case_gist": "土地の売買契約が成立したか賃貸借が成立したかどうかの認定判断にあたり、判示のような証拠関係のもとにおいては、契約締結の際授受された五万円が土地の時価に照らして売買代金額とみられるか、それとも賃貸借の敷金と賃料の合計額とみられるかについて考慮を払うことなく、土地の賃貸借が成立したと認定判断することは、経験則ないし採証法則の適用を誤つたか又は審理不尽の違法がある。",
+  "ref_law": "民訴法394条",
+  "lawsuit_id": "62240",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62240",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/240/062240_hanrei.pdf"
+}

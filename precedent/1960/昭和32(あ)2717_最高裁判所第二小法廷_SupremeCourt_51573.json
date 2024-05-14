@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 12,
+    "day": 22
+  },
+  "case_number": "昭和32(あ)2717",
+  "case_name": "横領",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第14巻14号2204頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 10,
+    "day": 15
+  },
+  "gist": "共有者の一人がした告訴の効力範囲。",
+  "case_gist": "共有者の一人が共有物に関する犯罪に対して告訴をしたときは、告訴人が被害共有物について有する持分の多少にかかわらず、不可分的に被害共有物全部に関する犯罪の訴追に対し効力が及ぶ。",
+  "ref_law": "刑法252条1項，刑訴法230条",
+  "lawsuit_id": "51573",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51573",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/573/051573_hanrei.pdf"
+}

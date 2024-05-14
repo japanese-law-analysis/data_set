@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 5,
+    "day": 24
+  },
+  "case_number": "昭和28(オ)102",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第9巻6号744頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 1,
+    "day": 19
+  },
+  "gist": "家屋全部明渡の請求に対する一部明渡の判決と民訴第一八六条",
+  "case_gist": "原告が家屋の全部明渡の請求をした場合に、一部明渡を命じる判決をしても、当事者の申立てない事項につき判決をしないものとはいえない。",
+  "ref_law": "民訴法186条",
+  "lawsuit_id": "57372",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57372",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/372/057372_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 6,
+    "day": 22
+  },
+  "case_number": "昭和33(オ)472",
+  "case_name": "遺言無効確認等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第15巻6号1622頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 3,
+    "day": 12
+  },
+  "gist": "自筆遺言書の日附、署名、捺印の方式。",
+  "case_gist": "自筆遺言書は、数葉にわたるときでも一通の遺言書として作成されているときは、その日附、署名、捺印は一様にされるをもつて足りる。",
+  "ref_law": "民法968条",
+  "lawsuit_id": "53637",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53637",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/637/053637_hanrei.pdf"
+}

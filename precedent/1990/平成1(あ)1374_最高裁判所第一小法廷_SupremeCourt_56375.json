@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 2,
+    "month": 6,
+    "day": 28
+  },
+  "case_number": "平成1(あ)1374",
+  "case_name": "北海道海面漁業調整規則違反、漁船法違反、電波法違反、船舶職員法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第44巻4号396頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 10,
+    "day": 17
+  },
+  "gist": "密漁に使用した漁船の船体等の没収が相当とされた事例",
+  "case_gist": "被告人が海上保安庁の巡視艇等の追尾を振り切るためなどに船体に無線機、レーダー及び高出力の船外機等を装備した漁船を使用し、共犯者らを乗り組ませるなどして、北海道海面漁業調整規則に違反する漁業を営んだという本件事案の下において、同規則五五条二項本文により右船舶船体等をその所有者である被告人から没収することは、相当である。",
+  "ref_law": "北海道海面漁業調整規則5条1号，北海道海面漁業調整規則55条1項1号，北海道海面漁業調整規則55条2項，刑訴法411条",
+  "lawsuit_id": "56375",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56375",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/375/056375_hanrei.pdf"
+}

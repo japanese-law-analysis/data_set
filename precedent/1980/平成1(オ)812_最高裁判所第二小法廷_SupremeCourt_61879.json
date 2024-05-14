@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 9,
+    "day": 22
+  },
+  "case_number": "平成1(オ)812",
+  "case_name": "地位確認請求事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第157号645頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和63(ネ)2157",
+  "original_date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 3,
+    "day": 22
+  },
+  "gist": "労働者の死亡と労働契約上の地位確認請求訴訟の承継の成否",
+  "case_gist": "労働者の提起した労働契約上の地位を有することの確認を求める訴訟は、当該労働者の死亡により当然終了する。",
+  "ref_law": "民法623条，民訴法208条",
+  "lawsuit_id": "61879",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61879",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/879/061879_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 7,
+    "day": 10
+  },
+  "case_number": "昭和32(あ)3266",
+  "case_name": "住居侵入、偽証教唆",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第12巻11号2492頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 12,
+    "day": 12
+  },
+  "gist": "一　偽証教唆被告事件において被教唆者の自白は憲法第三八条第三項の「本人の自白」に含まれるか。\n二　釈放直後精神障害を呈した者の勾留中における供述の証拠力。",
+  "case_gist": "一　偽証教唆被告事件において、被教唆者の自白は憲法第三八条第三項の「本人の自白」に含まれない。\n二　元来ヒステリー性格者である者が、公判廷における証言直後偽証の疑ありとして逮捕勾留され、十日目に釈放されたが心因性反応による一時的精神障害を呈し、二日後には精神病院に入院し約三週間後にほぼ治癒して退院した場合、右の者の勾留中における検察官に対する供述等は必ずしも証拠力がないものではない。",
+  "ref_law": "憲法38条3項，刑訴法321条2号，刑訴法318条",
+  "lawsuit_id": "50575",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50575",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/575/050575_hanrei.pdf"
+}

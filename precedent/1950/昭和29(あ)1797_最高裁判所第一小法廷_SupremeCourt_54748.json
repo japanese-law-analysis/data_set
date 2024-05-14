@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 2,
+    "day": 10
+  },
+  "case_number": "昭和29(あ)1797",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第9巻2号240頁",
+  "original_court_name": "福岡高等裁判所\n        　宮崎支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 4,
+    "day": 14
+  },
+  "gist": "公職選挙法第一三八号にいわゆる「選挙に関し」の意義",
+  "case_gist": "公職選挙法第一三八条にいわゆる「選挙に関し」とは具体的に施行される特定の選挙を意味することは勿論であるが、当該選挙の施行されることが確定的となつた場合に限らず、選挙の施行されることが予測される場合にその来るべき選挙のためにする場合も包含すると解するのが相当である。",
+  "ref_law": "公職選挙法138条",
+  "lawsuit_id": "54748",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54748",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/748/054748_hanrei.pdf"
+}

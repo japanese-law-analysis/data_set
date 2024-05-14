@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 9,
+    "day": 3
+  },
+  "case_number": "昭和39(あ)2834",
+  "case_name": "威力業務妨害",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第156号311頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 11,
+    "day": 25
+  },
+  "gist": "一　刑法第二三四条にいう「威力ヲ用ヒ」の意義。\n二　右「威力ヲ用ヒ」た場合に当るとされた事例。",
+  "case_gist": "原判決が、刑法第二三四条にいう「威力ヲ用ヒ」とは、直接人に暴行を加えたり畏怖させたりする行為に限らず、一定の物的な状態を作為し、その状態のため人の自由な行動を不可能もしくは困難にするものもまたこれに当る旨の法律見解のもとに、他人の店舗南側に接近する道路上に、中古商品ケース外十七点位の家財道具箱を売物として並べ、右店舗南側に顧客の立入りを不可能ならしめた行為を、同条に当るとした第一審判決の判断を正当としたのは相当であり、当裁判所においても、これを是認することができる。",
+  "ref_law": "刑法234条",
+  "lawsuit_id": "61436",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61436",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/436/061436_hanrei.pdf"
+}

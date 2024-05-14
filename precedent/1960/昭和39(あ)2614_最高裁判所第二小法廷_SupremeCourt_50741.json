@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 9,
+    "day": 8
+  },
+  "case_number": "昭和39(あ)2614",
+  "case_name": "所得税法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第19巻6号630頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 11,
+    "day": 9
+  },
+  "gist": "一　売買代金債権が所得税法第一〇条第一項後段にいう「収入すべき金額」となる時期。\n二　いわゆる解約手附として受領した金額は右の「収入すべき金額」に当るか。",
+  "case_gist": "一　売買代金債権は、法律上これを行使することができるようになつたときに、所得税法第一〇条第一項後段にいう「収入すべき金額」となる。\n二　いわゆる解約手附として受領した金額は、そのままでは、右の「収入すべき金額」に当らない。",
+  "ref_law": "所得税法10条1項，所得税法9条1項4号",
+  "lawsuit_id": "50741",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50741",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/741/050741_hanrei.pdf"
+}

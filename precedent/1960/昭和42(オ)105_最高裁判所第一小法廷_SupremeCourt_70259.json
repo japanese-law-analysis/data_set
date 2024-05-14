@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 5,
+    "day": 23
+  },
+  "case_number": "昭和42(オ)105",
+  "case_name": "境界確定等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第91号65頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和37(ネ)462",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 11,
+    "day": 9
+  },
+  "gist": "境界確定の訴の要件",
+  "case_gist": "相隣接する土地の境界が不明であるときは、右境界が主観的に不明であると客観的に不明であるとにかかわらず、右土地の所有者は、境界確定の訴を提起し、裁判所の判決を得て、右境界の不明に基因する紛争の解決を図ることができる。",
+  "ref_law": "民法223条，民訴法225条",
+  "lawsuit_id": "70259",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70259",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/259/070259_hanrei.pdf"
+}

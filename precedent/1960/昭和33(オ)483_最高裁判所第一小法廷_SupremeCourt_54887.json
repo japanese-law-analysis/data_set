@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 12,
+    "day": 15
+  },
+  "case_number": "昭和33(オ)483",
+  "case_name": "所有権確認及び損害賠償請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第14巻14号3060頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 3,
+    "day": 6
+  },
+  "gist": "一　供託金額の不足が弁済提供および供託の効力に影響を及ぼさない事例\n二　売渡担保の目的物返還義務不履行による損害額算定の時期",
+  "case_gist": "一　消費貸借上の債務弁済のため提供供託された元利合計金一五万三一四〇円が、正当な元利合計額に金一、三〇〇余円不足するとしても、この一事により弁済提供および供託の効果を否定することはできない。\n二　債権者が弁済期到来前売渡担保の目的物である山林の立木を伐採したため、弁済により右山林の所有権が債務者に復帰した場合立木の引渡不能によつて債務者の被るべき損害の額は、右不能が確定的となつた伐採時の価格を基準として算出すべきである。",
+  "ref_law": "民法492条，民法494条，民法415条",
+  "lawsuit_id": "54887",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54887",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/887/054887_hanrei.pdf"
+}

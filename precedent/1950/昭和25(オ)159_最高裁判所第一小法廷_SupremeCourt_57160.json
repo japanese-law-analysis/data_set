@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 12,
+    "day": 25
+  },
+  "case_number": "昭和25(オ)159",
+  "case_name": "損害賠償請求権存在確認請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第6巻12号1282頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 4,
+    "day": 27
+  },
+  "gist": "訴訟物が金銭債権である訴と一定金額の表示の要否",
+  "case_gist": "訴訟物が金銭債権である訴においては、それが給付の訴たると確認の訴たるとを問わず、請求趣旨には、訴訟物たる債権の一定金額を表示することを要する。",
+  "ref_law": "民訴法224条1項",
+  "lawsuit_id": "57160",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57160",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/160/057160_hanrei.pdf"
+}

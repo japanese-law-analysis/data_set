@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 10,
+    "day": 25
+  },
+  "case_number": "昭和28(あ)5025",
+  "case_name": "傷害致死・銃砲等所持禁止令違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第9巻11号2295頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 10,
+    "day": 26
+  },
+  "gist": "正当防衛とならない一事例",
+  "case_gist": "被告人が被害者と対面するにおいては攻撃を受ける蓋然性が覆い状況の下に、被害者に対面して謝罪させ相手が攻撃して来たらこれに立ち向うため日本刀一振を拔身のまま携え、被害者の様子を窺ううち、被害者が被告人を認め矢庭に出刃庖丁をもつて突きかかつて来た場合、被害者が不正な侵害は急迫なものといえず、被告人の被害者に加えた傷害行為は権利防衛のため止むを得ざるに出たものといえない。",
+  "ref_law": "刑法36条",
+  "lawsuit_id": "56878",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56878",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/878/056878_hanrei.pdf"
+}

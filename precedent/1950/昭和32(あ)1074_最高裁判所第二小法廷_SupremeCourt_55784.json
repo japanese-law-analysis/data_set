@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 8,
+    "day": 8
+  },
+  "case_number": "昭和32(あ)1074",
+  "case_name": "公職選挙法違反、背任、農業協同組合法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第13巻10号2747頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 3,
+    "day": 19
+  },
+  "gist": "背任罪の成立する事例。",
+  "case_gist": "村長が特定の個人の選挙運動資金を村費から支出するため、該個人の利益を図り、道路改修工事補助金名下に実際の所要経費に右運動資金所要見込額を水増した内容不実の歳出追加更正予算案（道路修繕維持費）を発案し、その旨あらかじめ村議会協議会において村議会議員に諮議しその無修正可決につき諒解を得た上右予算案を村議会本会議に提出し、所期のとおりその議決を得た後、村収入役代理に対し右予算に基き道路改修工事補助金支払名義をもつて前記運動資金所要見込額相当の金員の支出を命令し、これを右資金保管者に対し村公金中から支払わせて村に同額の財産上の損害を加えたときは、村長の任務に違背し、背任罪が成立する。",
+  "ref_law": "刑法247条",
+  "lawsuit_id": "55784",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55784",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/784/055784_hanrei.pdf"
+}

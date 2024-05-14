@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 5,
+    "day": 30
+  },
+  "case_number": "昭和57(あ)246",
+  "case_name": "収賄、贈賄",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第38巻7号2682頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 12,
+    "day": 21
+  },
+  "gist": "大学設置審議会委員の職務に密接な関係のある行為にあたるとされた事例",
+  "case_gist": "大学設置審議会及びその歯学専門委員会の委員である被告人が、歯科大学設置の認可申請をしていた関係者らに対し、教員予定者の適否を右委員会の審査基準に従つて予め判定してやり、あるいは同委員会の中間的審査結果をその正式通知前に知らせた行為は、右審議会及び委員会の委員としての職務に密接な関係のある行為として収賄罪にいわゆる職務行為にあたる。",
+  "ref_law": "刑法197条",
+  "lawsuit_id": "50261",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50261",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/261/050261_hanrei.pdf"
+}

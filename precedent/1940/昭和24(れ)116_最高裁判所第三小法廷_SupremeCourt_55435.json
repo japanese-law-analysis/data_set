@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 6,
+    "day": 14
+  },
+  "case_number": "昭和24(れ)116",
+  "case_name": "傷害",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第3巻7号1063頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 9,
+    "day": 29
+  },
+  "gist": "舊刑訴法第三四二條に規定する證據方法",
+  "case_gist": "公判期日前被告人側から、裁判所に提出された書面でも、犯罪事實の存否に關係がなく犯罪後の被告人の情状に關するにすぎないもので單に參考のために提出されたと認められるときは、舊刑訴法第三四二條に規定する證據書類というような嚴格な證據方法ではない。",
+  "ref_law": "舊刑訴342條",
+  "lawsuit_id": "55435",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55435",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/435/055435_hanrei.pdf"
+}

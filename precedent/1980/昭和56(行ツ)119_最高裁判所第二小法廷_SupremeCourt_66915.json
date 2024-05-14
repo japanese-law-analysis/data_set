@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 12,
+    "day": 18
+  },
+  "case_number": "昭和56(行ツ)119",
+  "case_name": "医業停止処分取消",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第134号599頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和55(行コ)86",
+  "original_date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 3,
+    "day": 30
+  },
+  "gist": "医業停止処分後停止期間が経過した場合と右処分の取消を求める訴えの利益",
+  "case_gist": "医業停止処分を受けた者は、当該停止期間が経過したときは、右処分の取消によつて回復すべき法律上の利益を有しない。",
+  "ref_law": "行政事件訴訟法9条",
+  "lawsuit_id": "66915",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66915",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/915/066915_hanrei.pdf"
+}

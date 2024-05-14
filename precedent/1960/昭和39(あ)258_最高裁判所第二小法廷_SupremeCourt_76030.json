@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 6,
+    "day": 26
+  },
+  "case_number": "昭和39(あ)258",
+  "case_name": "恐喝、傷害、暴行",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第151号517頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 1,
+    "day": 21
+  },
+  "gist": "権利行使と恐喝罪成否に関する大審判例の変更の有無。",
+  "case_gist": "判例違反を主張する所論引用の大正一二年（れ）第一八〇五号同一三年三月五日大審院決定は、当裁判所の判例により変更されたものである（昭和二六年（れ）第七七号同年六月一日第二小法廷判決、刑集五巻七号一二二二頁・昭和二七年（あ）第六五九六号同三〇年一〇月一四日第二小法廷判決、刑集九巻一一号二一七三頁・昭和三一年（あ）第四六九号同三三年五月六日第三小法廷判決、刑集一二巻七号一三三六頁参照）。",
+  "ref_law": "刑訴法405条，刑法249条",
+  "lawsuit_id": "76030",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=76030",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/030/076030_hanrei.pdf"
+}

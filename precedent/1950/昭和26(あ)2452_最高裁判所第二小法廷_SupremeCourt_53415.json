@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 5,
+    "day": 1
+  },
+  "case_number": "昭和26(あ)2452",
+  "case_name": "贈賄",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第7巻5号917頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 5,
+    "day": 11
+  },
+  "gist": "公務員の転職後、前の職務に関し賄賂を供与することは贈賄罪を構成するか",
+  "case_gist": "公務員の転職後、前の職務に関し賄賂を供与することは贈賄罪を構成する。",
+  "ref_law": "刑法198条",
+  "lawsuit_id": "53415",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53415",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/415/053415_hanrei.pdf"
+}

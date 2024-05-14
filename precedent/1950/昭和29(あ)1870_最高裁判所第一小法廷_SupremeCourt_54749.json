@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 2,
+    "day": 10
+  },
+  "case_number": "昭和29(あ)1870",
+  "case_name": "関税法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第9巻2号260頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 4,
+    "day": 15
+  },
+  "gist": "密輸入未遂行為をし、さらに同既遂行為をした場合の擬律",
+  "case_gist": "被告人は昭和二五年八月下旬頃沖縄ａ島において取得した真鍮屑約三二噸の内二〇噸を甲丸に、一二噸を乙丸に積載し、甲丸は同年九月二日頃広島市ｂ海岸に陸揚すべく同所付近まで帰航したが、海上保安官に発見されたため、その貨物輸入の目的を遂げず、乙丸は同月一日広島県安芸郡ｃ町Ａ工業株式会社裏手海岸に帰着し、同所に右貨物を陸揚してこれが密輸入を遂げた旨の事実は包括的な一個の密輸入既遂の事実ではなく甲丸による密輸入未遂と乙丸による既遂との二個の犯罪事実でるから、単に一個の既遂の法条のみに該当するものとし、未遂の事実につき法条を適用しないで処断した判決は、法令に違反した違法があるものといわなければならない。",
+  "ref_law": "関税法76条1項，関税法76条2項，関税法82条の4",
+  "lawsuit_id": "54749",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54749",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/749/054749_hanrei.pdf"
+}

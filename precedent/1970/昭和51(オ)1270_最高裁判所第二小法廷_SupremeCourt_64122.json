@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 8,
+    "day": 9
+  },
+  "case_number": "昭和51(オ)1270",
+  "case_name": "退職金返還",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第121号225頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和50(ネ)339",
+  "original_date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 9,
+    "day": 14
+  },
+  "gist": "同業他社への転職者に対する退職金の支給額を一般の退職の場合の半額と定めた退職金規定の効力",
+  "case_gist": "原審確定の事実関係のもとにおいては、会社が営業担当社員に対し退職後の同業他社への就職をある程度の期間制限し、右制限に反して同業他社に就職した退職社員に支給する退職金の額を一般の自己都合による退職の場合の半額と定めることは、労働基準法三条、一六条、二四条及び民法九〇条に違反しない。",
+  "ref_law": "労働基準法3条，労働基準法16条，労働基準法24条，民法90条",
+  "lawsuit_id": "64122",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64122",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/122/064122_hanrei.pdf"
+}

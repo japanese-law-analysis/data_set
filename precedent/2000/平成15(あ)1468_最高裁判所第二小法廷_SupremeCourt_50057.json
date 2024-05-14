@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 17,
+    "month": 7,
+    "day": 4
+  },
+  "case_number": "平成15(あ)1468",
+  "case_name": "殺人被告事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第59巻6号403頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成14(う)1215",
+  "original_date": {
+    "era": "Heisei",
+    "year": 15,
+    "month": 6,
+    "day": 26
+  },
+  "gist": "重篤な患者の親族から患者に対する「シャクティ治療」（判文参照）を依頼された者が入院中の患者を病院から運び出させた上必要な医療措置を受けさせないまま放置して死亡させた場合につき未必的殺意に基づく不作為による殺人罪が成立するとされた事例",
+  "case_gist": "重篤な患者の親族から患者に対する「シャクティ治療」（判文参照）を依頼された者が，入院中の患者を病院から運び出させた上，未必的な殺意をもって，患者の生命を維持するために必要な医療措置を受けさせないまま放置して死亡させたなど判示の事実関係の下では，不作為による殺人罪が成立する。",
+  "ref_law": "刑法199条",
+  "lawsuit_id": "50057",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50057",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/057/050057_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 3,
+    "day": 9
+  },
+  "case_number": "昭和59(あ)1036",
+  "case_name": "公務執行妨害、傷害",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "刑集　第43巻3号95頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 6,
+    "day": 7
+  },
+  "gist": "公務執行妨害罪にいう「暴行」に当たるとされた事例",
+  "case_gist": "罵声を浴びせながら一方的に抗議する過程において、丸めた紙を相手方の顔面付近に突きつけてその先端をあごに触れさせ、相手方の座つているいすを揺さぶつた行為及び相手方がいすから立ち上がるのを阻止するためその手首を握つた行為は、いずれも公務執行妨害罪にいう「暴行」に当たる。",
+  "ref_law": "刑法95条1項",
+  "lawsuit_id": "50310",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50310",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/310/050310_hanrei.pdf"
+}

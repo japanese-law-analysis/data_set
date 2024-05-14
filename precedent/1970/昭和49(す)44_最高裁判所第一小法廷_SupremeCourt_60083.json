@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 3,
+    "day": 29
+  },
+  "case_number": "昭和49(す)44",
+  "case_name": "道路交通法違反被告事件の上告棄却決定に対する異議の申立",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第191号689頁",
+  "original_court_name": "最高裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 2,
+    "day": 28
+  },
+  "gist": "標題「再上告申立書」をもつて、上告棄却決定に対する異議と解した事例",
+  "ref_law": "刑訴法385条2項",
+  "lawsuit_id": "60083",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60083",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/083/060083_hanrei.pdf",
+  "contents": "右の者に対する道路交通法違反被告事件（当裁判所昭和四八年（あ）第二四八九\n号）について、昭和四九年二月二八日当裁判所がした上告棄却の決定に対し、申立\n人Ａから異議の申立（標題は再上告申立書とあるが、当裁判所がした右決定に対し\nかかる申立をすることは許されないので、異議の申立をしたものと認める。）があ\nつたが、右申立は理由がないので、刑訴法四一四条、三八六条二項、三八五条二項、\n四二六条一項により、裁判官全員一致の意見で、次のとおり決定する。\n主     文\n本件申立を棄却する。\n昭和四九年三月二九日\n最高裁判所第一小法廷\n裁判長裁判官     岸        盛    一\n裁判官     大    隅    健  一  郎\n裁判官     藤    林    益    三\n裁判官     下    田    武    三\n裁判官     岸    上    康    夫\n"
+}

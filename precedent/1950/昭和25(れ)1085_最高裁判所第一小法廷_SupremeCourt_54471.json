@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 9,
+    "day": 21
+  },
+  "case_number": "昭和25(れ)1085",
+  "case_name": "詐欺",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第4巻9号1751頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 2,
+    "day": 16
+  },
+  "gist": "違法勾留中檢察官の作成した被告人に對する聽取書の證據力",
+  "case_gist": "勾留が不法であるということだけでは、原判決に對する適法な上告理由となし難く、また、不法勾留中の檢察事務官の被告人に對する聽取書であるということだけでは、これを無効と解すべき理由がないから所論は採用し難い。",
+  "ref_law": "舊刑訴法336條，舊刑訴法337條",
+  "lawsuit_id": "54471",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54471",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/471/054471_hanrei.pdf"
+}

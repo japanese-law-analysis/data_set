@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 5,
+    "day": 27
+  },
+  "case_number": "昭和47(行ツ)4",
+  "case_name": "所得税更正処分取消請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第29巻5号641頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和45(行コ)8",
+  "original_date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 10,
+    "day": 28
+  },
+  "gist": "財産分与としての不動産の譲渡と譲渡所得課税",
+  "case_gist": "財産分与としてされた不動産の譲渡は、譲渡所得課税の対象となる。",
+  "ref_law": "所得税法33条1項，所得税法33条3項，所得税法36条1項，所得税法36条2項，所得税法（昭和44年法律第14号による改正前のもの）33条3項",
+  "lawsuit_id": "52096",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52096",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/096/052096_hanrei.pdf"
+}

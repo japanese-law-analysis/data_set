@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 3,
+    "day": 13
+  },
+  "case_number": "昭和24(れ)2531",
+  "case_name": "強盜",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第62号361頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 8,
+    "day": 24
+  },
+  "lawsuit_id": "70785",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70785",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/785/070785_hanrei.pdf"
+}

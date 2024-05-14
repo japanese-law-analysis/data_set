@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 7,
+    "day": 29
+  },
+  "case_number": "昭和38(オ)1166",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第74号813頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 7,
+    "day": 9
+  },
+  "gist": "民法第三九五条の短期賃貸借と競売開始後の法定更新。",
+  "case_gist": "民法第三九五条により抵当権者に対抗しうる土地、建物の短期賃貸借の期間が抵当権実行による差押の効力の生じた後に満了した場合には、賃借人は、借地法第六条、借家法第二条による法定更新をもって抵当権者に対抗できない。",
+  "ref_law": "民法395条，民法602条，借地法6条，借家法2条",
+  "lawsuit_id": "66167",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66167",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/167/066167_hanrei.pdf"
+}

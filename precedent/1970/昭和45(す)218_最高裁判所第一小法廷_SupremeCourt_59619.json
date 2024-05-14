@@ -1,0 +1,24 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 10,
+    "day": 8
+  },
+  "case_number": "昭和45(す)218",
+  "case_name": "管轄移転の請求についてした請求棄却決定に対する即時抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第178号17頁",
+  "original_date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 9,
+    "day": 9
+  },
+  "lawsuit_id": "59619",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59619",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/619/059619_hanrei.pdf"
+}

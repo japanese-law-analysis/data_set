@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 10,
+    "day": 12
+  },
+  "case_number": "昭和37(オ)301",
+  "case_name": "訴訟引受",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "却下",
+  "article_info": "民集　第16巻10号2128頁",
+  "original_case_number": "昭和37(オ)301",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 10,
+    "day": 12
+  },
+  "gist": "上告審における訴訟引受申立の許否",
+  "case_gist": "上告審において訴訟引受の申立は許されない。",
+  "ref_law": "民訴法74条",
+  "lawsuit_id": "53802",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53802",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/802/053802_hanrei.pdf"
+}

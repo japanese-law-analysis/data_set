@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 11,
+    "day": 21
+  },
+  "case_number": "昭和44(オ)728",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第97号439頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和43(ネ)781",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 4,
+    "day": 30
+  },
+  "gist": "建物の賃貸借契約において賃料不払が賃貸借契約の解除原因としての背信行為と認めるに足りない特段の事情があるとされた事例",
+  "case_gist": "建物の賃貸借契約において、賃料の増額請求をめぐつて紛争が生じ、賃借人が自発的に一定額の増額をした賃料を供託した等原判示の事情（原判決理由参照）のもとにおいては、本件賃料債務の不履行については、未だこれを賃貸借契約の解除原因としての背信行為と認めるに足りない特段の事情があるものというべきである。",
+  "ref_law": "民法541条",
+  "lawsuit_id": "61954",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61954",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/954/061954_hanrei.pdf"
+}

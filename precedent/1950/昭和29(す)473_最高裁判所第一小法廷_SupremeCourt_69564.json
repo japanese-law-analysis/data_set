@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 2,
+    "day": 10
+  },
+  "case_number": "昭和29(す)473",
+  "case_name": "公務執行妨害、傷害被告事件に対する勾留理由開示請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第102号695頁",
+  "original_court_name": "最高裁判所",
+  "original_case_number": "昭和29(あ)2184",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 12,
+    "day": 27
+  },
+  "lawsuit_id": "69564",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=69564",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/564/069564_hanrei.pdf"
+}

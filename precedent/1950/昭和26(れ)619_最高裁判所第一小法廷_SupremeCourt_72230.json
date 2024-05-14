@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 2,
+    "day": 4
+  },
+  "case_number": "昭和26(れ)619",
+  "case_name": "賍物故買",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第92号59頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 3,
+    "day": 6
+  },
+  "gist": "公判期の召喚状の不送達と刑訴第四一一条",
+  "case_gist": "原審における附郵便送達が事実上到達しなかつたとしても右不送達の原因は、被告人の住居の申出の不完全なことに基因するものと認められるばかりでなく、被告人は、同年三月六日午前九時の判決言渡期日を同年二月二三日適式に通知され且つ右言渡期日に被告人自身が原審公判廷に出頭したにかかわらず、前記再度の公判期日の通知が不送達であつたことを申し出ることなく且つ弁論再開等の申立をもしなかつたことも記録上明白である。されば、当裁判所は、結局刑訴四一一条を適用して原判決を破棄しなければ著しく正義に反するものとは認めることができない。",
+  "ref_law": "旧刑訴法76条，旧刑訴法410条8号，新刑訴法411条",
+  "lawsuit_id": "72230",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=72230",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/230/072230_hanrei.pdf"
+}

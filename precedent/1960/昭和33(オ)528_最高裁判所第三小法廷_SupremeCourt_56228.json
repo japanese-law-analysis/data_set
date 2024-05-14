@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 3,
+    "day": 20
+  },
+  "case_number": "昭和33(オ)528",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第16巻3号578頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 3,
+    "day": 19
+  },
+  "gist": "市財政局主事が同局所管事務を仮装してなした不法行為でも、民法第七一五条の「事業ノ執行ニ付キ」なした行為に当らないとされた事例",
+  "case_gist": "名古屋市財政局主税課に所属する財政局主事が、同局所管事務に属する差押物件公売処分として物件を売却する旨申し欺き、公売代金名下に他より金員を詐取した場合でも、差押物件公売処分が同局収納課の所管であつて右主事の職務と制度上はもとより事実上も全く関係がなく、しかも外見上も公売処分たる形態を備えず、名古屋市の事務執行として事実上の慣行としても行われるはずのない方法によつてなしたときは、右主事の行為は、民法第七一五条の「事業ノ執行ニ付キ」なしたものに当らない。",
+  "ref_law": "民法715条",
+  "lawsuit_id": "56228",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56228",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/228/056228_hanrei.pdf"
+}

@@ -1,0 +1,24 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 1,
+    "day": 28
+  },
+  "case_number": "昭和26(あ)750",
+  "case_name": "銃砲等所持禁止令違反、銃砲火薬類取締法違反幇助、麻薬取締法違反幇助",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第91号943頁",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 11,
+    "day": 25
+  },
+  "lawsuit_id": "71857",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=71857",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/857/071857_hanrei.pdf"
+}

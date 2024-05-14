@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 3,
+    "day": 20
+  },
+  "case_number": "昭和32(オ)926",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第12巻4号583頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 6,
+    "day": 12
+  },
+  "gist": "手形法第七条による署名者の責任と取得者の悪意",
+  "case_gist": "手形法第七条による裏書人の手形上の責任は、取得者の悪意により消長を来たさないと解すべきである。",
+  "ref_law": "手形法7条",
+  "lawsuit_id": "53615",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53615",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/615/053615_hanrei.pdf"
+}

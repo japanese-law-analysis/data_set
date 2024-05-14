@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 2,
+    "day": 23
+  },
+  "case_number": "昭和41(オ)214",
+  "case_name": "抵当権不存在確認請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第86号361頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和39(ネ)541",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 12,
+    "day": 14
+  },
+  "gist": "共有者全員の同意に欠ける抵当権設定契約の解釈",
+  "case_gist": "通常の共有の場合、抵当権設定契約が共有者全員の同意に欠けるため、共有物自体について抵当権設定の効力を生じない場合でも、特段の事情のない限り、同意をしない共有者を除き、右抵当権設定契約をした共有者の各共有持分について抵当権を設定したものと解すべきである。",
+  "ref_law": "民法251条",
+  "lawsuit_id": "66530",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66530",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/530/066530_hanrei.pdf"
+}

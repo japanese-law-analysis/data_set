@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 2,
+    "day": 17
+  },
+  "case_number": "昭和58(オ)1564",
+  "case_name": "譲受金",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第150号189頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_case_number": "昭和58(ネ)34",
+  "original_date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 10,
+    "day": 27
+  },
+  "gist": "有限会社に対する売掛債権の譲渡と譲渡人の取締役に対する有限会社法三〇条ノ三第一項に基づく損害賠償請求権の承継の成否",
+  "case_gist": "有限会社に対し売掛債権を有していた甲が右会社の倒産による右債権の回収不能により取締役に対して有限会社法三〇条ノ三第一項に基づく損害賠償請求権を取得した場合において、右売掛債権が甲から乙に譲渡されても、乙は右の損害賠償請求権を当然には取得しない。",
+  "ref_law": "有限会社法30条ノ3，民法466条",
+  "lawsuit_id": "70464",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70464",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/464/070464_hanrei.pdf"
+}

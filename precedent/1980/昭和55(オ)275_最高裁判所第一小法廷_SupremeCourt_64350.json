@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 7,
+    "day": 17
+  },
+  "case_number": "昭和55(オ)275",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第130号263頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和53(ネ)1918",
+  "original_date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 12,
+    "day": 25
+  },
+  "gist": "河岸に接した堆積土の上で遊んでいた満六歳の男児の転落水死事故につき、その原因は河川への転落事故を防止するための防護柵が設置されていたのにこれを乗り越える等して堆積土の上に降りたものであり、河川管理者の通常予測することのできない異常な行動によるものであつたとして、河川管理の瑕疵が否定された事例",
+  "case_gist": "（省略）",
+  "ref_law": "国家賠償法2条",
+  "lawsuit_id": "64350",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64350",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/350/064350_hanrei.pdf"
+}

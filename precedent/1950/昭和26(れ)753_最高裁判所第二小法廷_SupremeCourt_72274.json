@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 6,
+    "day": 29
+  },
+  "case_number": "昭和26(れ)753",
+  "case_name": "殺人",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第48号685頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 12,
+    "day": 20
+  },
+  "gist": "一　被告人が心神耗弱者であるとの主張があつたものと認められない事例\n二　数回に亘る見聞について一度に作成された実況見分書の証拠力",
+  "case_gist": "一　被告人が本件犯行の当時極度の神経衰弱に陥つていたという弁護人の主張が、被告人の司法警察官に対してした自白が信用できないという事情若しくは犯情の一としてなされたことが明らかであるときは、旧刑訴法第三六〇条第二項の主張があつたものということはできない。\n二　原判示実況見分書が、数回に亘る見分について、一度に作成せられたものであるとしても、所論のように全面的にその証拠価値を否定すべきものではなく、要は、右書類に関する証拠価値判断の問題でありもとより原審の専権に属するところである。",
+  "ref_law": "旧刑訴法360条2項，旧刑訴法337条",
+  "lawsuit_id": "72274",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=72274",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/274/072274_hanrei.pdf"
+}

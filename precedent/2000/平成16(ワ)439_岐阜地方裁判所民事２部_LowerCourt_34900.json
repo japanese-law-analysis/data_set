@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 6,
+    "day": 6
+  },
+  "case_number": "平成16(ワ)439",
+  "case_name": "損害賠償請求事件",
+  "court_name": "岐阜地方裁判所民事２部",
+  "result": "棄却",
+  "gist": "被告の開設する整形外科医院において左第１趾伸展筋腱の腱縫合手術を受けた原告が，手術方法及びギプス固定方法などに過失があったとして，診療契約上の債務不履行に基づき損害賠償を求めたが，被告に過失が認められないとして請求が棄却された事例",
+  "lawsuit_id": "34900",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=34900",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/900/034900_hanrei.pdf",
+  "contents": ""
+}

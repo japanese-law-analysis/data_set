@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 4,
+    "day": 30
+  },
+  "case_number": "昭和55(ク)468",
+  "case_name": "和議開始申立棄却決定に対する抗告却下決定に対する抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集民　第132号649頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和55(ラ)500",
+  "original_date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 10,
+    "day": 29
+  },
+  "gist": "和議法七条と憲法三二条",
+  "case_gist": "和議法一八条の和議開始申立棄却の決定に対し即時抗告による不服申立の方法を認めるかどうかは、立法政策の問題に帰着し、和議法七条が憲法三二条に違反するかどうかの問題を生じない。",
+  "ref_law": "憲法32条，和議法7条，和議法18条",
+  "lawsuit_id": "74558",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74558",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/558/074558_hanrei.pdf"
+}

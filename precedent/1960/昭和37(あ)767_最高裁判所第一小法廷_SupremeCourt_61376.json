@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 9,
+    "day": 13
+  },
+  "case_number": "昭和37(あ)767",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第144号329頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 3,
+    "day": 10
+  },
+  "gist": "公職選挙法第二二一条第一項第四号所定の饗応接待を受ける罪が成立するとされた事例。",
+  "case_gist": "原判決認定の事実関係の下において所論の届物をしたからといつて判示法条の罪の成立を妨げるものでないとした原判決の判断は正当である。\n\n（原判決の要旨）\n被告人は出席に先立つて酒一升（代価五二〇円）を届けているがこれは会合において提供される酒食と対価的意義をもつものでないことは明らかで、むしろ会合の趣旨に賛同した寄付もしくは、その招待を受けたことに対する手土産とみるべく、したがつて被告人において予めそのような物件を届けたからといつて会合主催者の饗応の趣旨を十分了承して饗応をうけた以上、公職選挙法第二二一条第一項第四号所定の饗応接待を受ける罪の成立を妨げるものではない。",
+  "ref_law": "公職選挙法221条1項4号",
+  "lawsuit_id": "61376",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61376",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/376/061376_hanrei.pdf"
+}

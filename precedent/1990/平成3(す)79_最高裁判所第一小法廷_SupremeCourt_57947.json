@@ -1,0 +1,20 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 3,
+    "month": 6,
+    "day": 6
+  },
+  "case_number": "平成3(す)79",
+  "case_name": "覚せい剤取締法違反、暴行被告事件についてした第一審判決中の訴訟費用負担の裁判に対する執行免除申立権の回復請求及び執行免除の申立",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第258号1頁",
+  "gist": "訴訟費用執行免除申立権の回復請求の適否",
+  "ref_law": "刑訴法362条，刑訴法500条",
+  "lawsuit_id": "57947",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57947",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/947/057947_hanrei.pdf"
+}

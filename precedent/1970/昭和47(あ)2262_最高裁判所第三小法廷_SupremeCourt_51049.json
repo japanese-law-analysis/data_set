@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 3,
+    "day": 14
+  },
+  "case_number": "昭和47(あ)2262",
+  "case_name": "関税法違反等",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第27巻2号91頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 9,
+    "day": 27
+  },
+  "gist": "密輸けん銃および実包の故買の罪とそのけん銃および実包の不法所持の罪との罪数関係",
+  "case_gist": "税関長の許可を受けず、かつ、関税を免れて輸入したけん銃および実包を買い受けて取得したとの関税法違反の罪と、法定の除外事由がなく、かつ、公安委員会の許可を受けないでそのけん銃および実包を所持したとの銃砲等剣類所持刀取締法違反および火薬類取締法違反の各罪とは、併合罪の関係にある。",
+  "ref_law": "関税法112条1項，銃砲刀剣類所持等取締法3条1項，銃砲刀剣類所持等取締法31条2第1項，火薬類取締法21条，火薬類取締法59条2号，刑法45条，刑法54条1項",
+  "lawsuit_id": "51049",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51049",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/049/051049_hanrei.pdf"
+}

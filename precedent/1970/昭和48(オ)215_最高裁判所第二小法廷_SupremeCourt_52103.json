@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 7,
+    "day": 20
+  },
+  "case_number": "昭和48(オ)215",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第27巻7号890頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和45(ネ)161",
+  "original_date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 11,
+    "day": 29
+  },
+  "gist": "ある事実を主張して訴を提起追行した者が別訴において右事実を否認しても信義則に反しないとされた事例",
+  "case_gist": "仮差押に対し、その目的物件が営業譲受により自己の所有に帰したと主張して第三者異議訴訟を提起、追行していた者が、その後右営業譲受を理由として仮差押債権者より提起された訴訟においてその事実を否認しても、右否認が真実に合致し、かつ第三者異議訴訟が民訴法二三八条によつて終了しているときには、これを信義則に違反するとはいえない。",
+  "ref_law": "民法1条2項，民訴法第1編第4章第1節",
+  "lawsuit_id": "52103",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52103",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/103/052103_hanrei.pdf"
+}

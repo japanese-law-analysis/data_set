@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 3,
+    "day": 22
+  },
+  "case_number": "昭和37(オ)290",
+  "case_name": "横領金返還請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第65号235頁",
+  "original_court_name": "広島高等裁判所\n        　松江支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 12,
+    "day": 25
+  },
+  "gist": "委任の報酬額の判定に審理不尽理由不備があるとされた事例。",
+  "case_gist": "委任事務処理の報酬支払の特約があつたことを認定した以上、当事者主張の報酬額の特約の事実が認定できなくても、当事者の意思を忖度し諸般の事情を勘案して相当な報酬額を認定すべきであつて、これを確定しない原審判決には審理不尽、理由不備の違法がある。",
+  "ref_law": "民法648条1項，民訴法395条1項6号",
+  "lawsuit_id": "66091",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66091",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/091/066091_hanrei.pdf"
+}

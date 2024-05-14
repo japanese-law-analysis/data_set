@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 8,
+    "day": 29
+  },
+  "case_number": "昭和27(れ)40",
+  "case_name": "食糧管理法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第67号225頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 6,
+    "day": 29
+  },
+  "gist": "台湾高等法院、宇都宮地方裁判所及び東京区裁判所の各判決と刑訴四〇五条三号の判例",
+  "case_gist": "台湾高等法院、宇都宮地裁及び東京区裁判所の各判決は、刑訴四〇五条三号に掲記する判例にあたらない。",
+  "ref_law": "刑訴法405条3号",
+  "lawsuit_id": "65153",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=65153",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/153/065153_hanrei.pdf"
+}

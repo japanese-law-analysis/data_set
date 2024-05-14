@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 5,
+    "day": 2
+  },
+  "case_number": "昭和24新(れ)272",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第4巻5号742頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 9,
+    "day": 27
+  },
+  "gist": "一　控訴趣意として主張せず、原判決も判斷していない事由と上告の理由\n\n二　起訴後第一回公判期日前に保釋に關する決定を判事がその事件につき審判した場合と憲法第三七條第一項",
+  "case_gist": "一　上告趣意第一點については、上告人は原審において控訴趣旨として主張しなかつたところであつて原判決は何ら判斷を加えていないのである從つて、この點に關する主張は上告の理由として許されない。\n\n二　被告事件の起訴後第一回公判期日までの間に被告人の保釋に關する決定をした簡易裁判所判事がその事件につき第一審の審理判決をしたとしても憲法第三七條第一項に違反するものでないことについては、當裁判所が判決において示すところである（昭和二四年新（れ）第一〇四號昭和二五年四月一二大法廷判決）。",
+  "ref_law": "刑訴法392條1項，刑訴法405條，刑訴法280條，憲法37條1項，刑訴規則187條",
+  "lawsuit_id": "56745",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56745",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/745/056745_hanrei.pdf"
+}

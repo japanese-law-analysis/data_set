@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 15,
+    "month": 3,
+    "day": 12
+  },
+  "case_number": "平成10(あ)488",
+  "case_name": "詐欺被告事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第57巻3号322頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成9(う)1142",
+  "original_date": {
+    "era": "Heisei",
+    "year": 10,
+    "month": 3,
+    "day": 18
+  },
+  "gist": "誤った振込みがあることを知った受取人がその情を秘して預金の払戻しを受けた場合と詐欺罪の成否",
+  "case_gist": "誤った振込みがあることを知った受取人が，その情を秘して預金の払戻しを請求し，その払戻しを受けた場合には，詐欺罪が成立する。",
+  "ref_law": "刑法（平成7年法律第91号による改正前のもの）246条1項，民法666条",
+  "lawsuit_id": "50004",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50004",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/004/050004_hanrei.pdf"
+}

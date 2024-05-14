@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 12,
+    "day": 11
+  },
+  "case_number": "昭和22(れ)121",
+  "case_name": "強姦致傷",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第1巻号61頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 6,
+    "day": 13
+  },
+  "gist": "一　訴訟記録整理上の不備と上告理由\n二　少年法第八條の少年の年齡を定める標準\n三　檢事の附帶控訴と刑訴法第四〇三條",
+  "case_gist": "一　訴訟記録に丁數の記載がなく、丁數の記載が連續を缺き、又は丁數を訂正した個所に作成者の認印及び字數の記載がなくても違法ではない\n二　少年法第八條の少年であるかどうかは、判決言渡の時の年齡を標準として定めるべきもので、犯罪の時の年齡を標準とすべきではない。\n三　檢事が附帶控訴をした場合においては、控訴の理由が少年法の適用についてであろうと又は第一審の刑の量定に對してあろうとに拘わらず、第一審の刑より重い刑を言渡すことができる。",
+  "ref_law": "刑訴法71條，刑訴法72條，刑訴法403條，刑訴法399條，少年法8條",
+  "lawsuit_id": "56387",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56387",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/387/056387_hanrei.pdf"
+}

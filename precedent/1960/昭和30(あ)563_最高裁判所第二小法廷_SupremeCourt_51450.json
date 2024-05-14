@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 4,
+    "day": 15
+  },
+  "case_number": "昭和30(あ)563",
+  "case_name": "業務上過失致死傷",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第14巻5号591頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 12,
+    "day": 18
+  },
+  "gist": "他人の過失その他の条件の介入と因果関係。",
+  "case_gist": "特定の過失に起因して特定の結果が発生した場合に、これを一般的に観察して、その過失によつてその結果が発生する虞のあることが実験則上予測される場合においては、たとえ、その間に他の過失が同時に競合し、或は時の前後に従つて累加的に重なり、または他の何らかの条件が介在し、しかもその条件が結果発生に対して直接且つ優勢なものであり、問題とされる過失が間接且つ劣勢なものであつたとしても、これによつて因果関係は中断されず、右過失と結果との間には、なお法律上の因果関係ありといわなければならない。",
+  "ref_law": "刑法211条",
+  "lawsuit_id": "51450",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51450",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/450/051450_hanrei.pdf"
+}

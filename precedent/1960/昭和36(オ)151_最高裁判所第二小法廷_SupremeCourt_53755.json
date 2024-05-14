@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 6,
+    "day": 9
+  },
+  "case_number": "昭和36(オ)151",
+  "case_name": "市長選挙無効",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第15巻6号1558頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 11,
+    "day": 17
+  },
+  "gist": "一　不在者投票事務に従事する者を不在者投票に立ち会わせることの適否\n二　不在者投票に立ち会つた者が投票用封筒の裏面に署名しなかつた違法と選挙の効力",
+  "case_gist": "一　不在者投票事務に従事する者を不在者投票に立ち会わせることは違法とはいえない。\n\n二　不在者投票に立ち会つた者が投票用封筒の裏面に署名せず選挙事務補助者に記入させた違法があつたからといつて、それだけで選挙を無効とすべきではない。",
+  "ref_law": "公職選挙法施行令56条2項，公職選挙法施行令60条1項，公職選挙法205条1項",
+  "lawsuit_id": "53755",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53755",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/755/053755_hanrei.pdf"
+}

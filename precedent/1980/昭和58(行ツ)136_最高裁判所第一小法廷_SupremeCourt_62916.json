@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 5,
+    "day": 31
+  },
+  "case_number": "昭和58(行ツ)136",
+  "case_name": "懲戒免職処分取消",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第142号203頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和57(行コ)40",
+  "original_date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 9,
+    "day": 29
+  },
+  "gist": "当該公務員の職務と関連のない行為が国家公務員法八二条一号及び三号所定の懲戒事由にあたるとされた事例",
+  "case_gist": "郵政職員である公務員が新東京国際空港反対運動に参加し、兇器準備集合、公務執行妨害、火炎びんの使用等の処罰に関する法律違反、傷害の各犯罪行為を実行し、逮捕された行為は、国家公務員法九九条所定の信用失墜行為に該当するとともに同法八二条三号所定の非行に該当し、同条一号及び三号の懲戒事由にあたる。",
+  "ref_law": "国家公務員法82条1号，国家公務員法82条3号，国家公務員法99条",
+  "lawsuit_id": "62916",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62916",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/916/062916_hanrei.pdf"
+}

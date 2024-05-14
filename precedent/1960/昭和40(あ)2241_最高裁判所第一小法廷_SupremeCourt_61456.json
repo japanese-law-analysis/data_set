@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 4,
+    "day": 14
+  },
+  "case_number": "昭和40(あ)2241",
+  "case_name": "公務執行妨害",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第159号181頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 9,
+    "day": 9
+  },
+  "gist": "公務執行妨害罪における職務としての現行犯人逮捕行為の適法性の判断基準",
+  "case_gist": "公務執行妨害罪における職務としての現行犯人逮捕行為の適法性の判断は、逮捕行為当時における具体的状況を客観的に観察して、現行犯人と認められるに十分な理由があつたか否かによるべきものであつて、事後において犯人と認められたか否かによるべきものではない。",
+  "ref_law": "刑法95条1項，刑法36条，刑訴法212条",
+  "lawsuit_id": "61456",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61456",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/456/061456_hanrei.pdf"
+}

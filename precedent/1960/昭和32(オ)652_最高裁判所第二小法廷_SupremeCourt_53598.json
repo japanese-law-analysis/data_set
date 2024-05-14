@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 2,
+    "day": 12
+  },
+  "case_number": "昭和32(オ)652",
+  "case_name": "裁決無効取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第14巻2号196頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 4,
+    "day": 22
+  },
+  "gist": "訴状または準備手続前に提出された準備書面に記載された事項で準備手続における主張整理の結果撤回されたものを口頭弁論において主張することの許否。",
+  "case_gist": "訴状または準備手続前に提出された準備書面に記載された事項であつても、準備手続における主張整理の結果撤回されたものは、民訴第二五五条第三項の規定にかかわらず、口頭弁論においてこれを主張することは許されない。",
+  "ref_law": "民訴法255条",
+  "lawsuit_id": "53598",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53598",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/598/053598_hanrei.pdf"
+}

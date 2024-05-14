@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 12,
+    "day": 25
+  },
+  "case_number": "昭和24(オ)293",
+  "case_name": "借地権不存在確認請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第5巻13号829頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 10,
+    "day": 22
+  },
+  "gist": "一　戦時罹災土地物件令第三条の趣旨\n二　相手方の賃借権を承認した者と賃貸借の対抗要件の欠缺主張の許否",
+  "case_gist": "一　戦時罹災土地物件令第三条は、同条所定の期間、借地権者の土地に対する使用収益を制限すると共に、その地代又は借賃の支払義務を免れしめるに止まり、借地権自体の譲渡を制限禁止する趣旨ではない。\n二　一旦相手方の賃借権を承認した者は、賃貸借の対抗要件の欠缺を主張して相手方の賃借権を否定することは許されない。",
+  "ref_law": "戦時罹災土地物件令（昭和20年勅令411号）3条，民法605条，建物保護ニ関スル法律（明治42年法律40号）1号",
+  "lawsuit_id": "55962",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55962",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/962/055962_hanrei.pdf"
+}

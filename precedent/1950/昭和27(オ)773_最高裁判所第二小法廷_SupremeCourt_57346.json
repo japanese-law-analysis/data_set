@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 2,
+    "day": 19
+  },
+  "case_number": "昭和27(オ)773",
+  "case_name": "自作農農設特別措置法による買収処分取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第8巻2号536頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 7,
+    "day": 18
+  },
+  "gist": "村農地委員会が自作農創設特別措置法第三条第一項第一号によつて定めた買収計画についてその農地が同条第五項第二号に該当する故をもつて農地所有者の異議を斥けることの適否",
+  "case_gist": "村農地委員会が自作農創設特別措置法第三条第一項第一号に該当する農地として定めた買収計画について、その農地が同条第五項第二号に該当する故をもつて、農地所有者の申し立てた異議を斥けることは違法ではない。",
+  "ref_law": "自作農創設特別措置法3条1項，自作農創設特別措置法3条5項，自作農創設特別措置法7条1項，自作農創設特別措置法7条3項",
+  "lawsuit_id": "57346",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57346",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/346/057346_hanrei.pdf"
+}

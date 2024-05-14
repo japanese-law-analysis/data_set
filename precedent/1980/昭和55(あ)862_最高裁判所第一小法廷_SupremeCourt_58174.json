@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 12,
+    "day": 10
+  },
+  "case_number": "昭和55(あ)862",
+  "case_name": "風俗営業等取締法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第220号485頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 4,
+    "day": 16
+  },
+  "gist": "昭和三九年長崎県条例第六一号風俗営業等取締法施行条例二四条四号と憲法三一条",
+  "ref_law": "憲法31条，風俗法3条，風俗法施行条例（昭39長崎県条例61）24条4号",
+  "lawsuit_id": "58174",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58174",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/174/058174_hanrei.pdf"
+}

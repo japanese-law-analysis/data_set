@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 23,
+    "month": 3,
+    "day": 23
+  },
+  "case_number": "平成23(行ク)3",
+  "case_name": "執行停止申立事件",
+  "court_name": "仙台地方裁判所第3民事部",
+  "gist": "病院の職員宿舎の建築確認処分について，近隣に居住する申立人らが，火災による延焼，倒壊等の危険や日影被害が生じることを理由に，行政事件訴訟法２５条２項に基づいて効力停止を求めた事案において，申立人適格を肯定した上で，「重大な損害を避けるため緊急の必要がある」とは認められないとして申立てを却下した事例",
+  "lawsuit_id": "81242",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=81242",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/242/081242_hanrei.pdf",
+  "contents": ""
+}

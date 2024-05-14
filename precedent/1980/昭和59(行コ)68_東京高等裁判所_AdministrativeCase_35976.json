@@ -1,0 +1,18 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 2,
+    "day": 4
+  },
+  "case_number": "昭和59(行コ)68",
+  "case_name": "運転免許取消処分取消請求控訴事件（原審・東京地方裁判所昭和５８年（行ウ）第５６号）",
+  "court_name": "東京高等裁判所",
+  "field": "行政",
+  "gist": "自動車運転免許取消処分を受けた者は，その後新たに右免許と同一種類の免許を取得したとしても，道路交通法（昭和６０年法律第８７号による改正前）７１条の２の規定に基づき所定の期間いわゆる初心運転者標識を表示する法的義務を負うこととなり，そのこと自体が不利益であるから，右処分の取消しを求める法律上の利益を有するとした事例",
+  "lawsuit_id": "35976",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=35976",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/976/035976_hanrei.pdf",
+  "contents": ""
+}

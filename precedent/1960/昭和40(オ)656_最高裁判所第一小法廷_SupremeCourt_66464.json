@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 11,
+    "day": 10
+  },
+  "case_number": "昭和40(オ)656",
+  "case_name": "所有権移転登記抹消登記等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第85号57頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和39(ネ)365",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 1,
+    "day": 30
+  },
+  "gist": "一審判決の送達の不適法と上告理由",
+  "case_gist": "一審判決の送達が不適法であつても、控訴審において異議なく訴訟を遂行してきた以上、適法な上告理由とならない。",
+  "ref_law": "民訴法193条",
+  "lawsuit_id": "66464",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66464",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/464/066464_hanrei.pdf"
+}

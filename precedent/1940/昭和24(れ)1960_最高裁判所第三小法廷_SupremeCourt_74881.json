@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 11,
+    "day": 22
+  },
+  "case_number": "昭和24(れ)1960",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第14号791頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 6,
+    "day": 3
+  },
+  "gist": "刑事訴訟法の手續違背を理由とする再上告の適否",
+  "case_gist": "再上告趣意において主張するところは、いずれも單なる刑事訴訟法の手續違背の問題であつて憲法違反の問題ではない。すでに、當裁判所の判決においても「事實審である第二審犯列の事實認定乃至證據の採否に所論のような瑕疵があつたとしても、それは單に刑事訴訟法の手續違背の問題であつて、憲法違反の問題ではあり得ない。從つて、これを再上告の理由として認めることはできないと判示されている（昭和二三年（れ）第一八八號同年七月八日大法廷判決参照）それゆえ、本件は再上告の適法な理由を欠くものとして採用することができない。",
+  "ref_law": "刑訴應急措置法17條1項",
+  "lawsuit_id": "74881",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74881",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/881/074881_hanrei.pdf"
+}

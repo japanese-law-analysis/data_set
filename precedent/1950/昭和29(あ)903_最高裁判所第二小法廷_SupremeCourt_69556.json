@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 6,
+    "day": 18
+  },
+  "case_number": "昭和29(あ)903",
+  "case_name": "貸金業等の取締に関する法律違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第96号329頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 11,
+    "day": 2
+  },
+  "gist": "貸金業には報酬または利益を得る意思若しくは現にこれを得たことを必要とするか",
+  "case_gist": "貸金業には必ずしも報酬または利益を得る意思若しくは現にこれを得たことを必要としない。",
+  "ref_law": "貸金業等の取締に関する法律2条",
+  "lawsuit_id": "69556",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=69556",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/556/069556_hanrei.pdf"
+}

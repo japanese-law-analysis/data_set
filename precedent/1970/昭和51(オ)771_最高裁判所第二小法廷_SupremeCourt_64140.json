@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 3,
+    "day": 23
+  },
+  "case_number": "昭和51(オ)771",
+  "case_name": "地位確認",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第126号295頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和49(ネ)157",
+  "original_date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 4,
+    "day": 30
+  },
+  "gist": "書面に記載された合意の内容と反する事実を認定することと経験則違反",
+  "case_gist": "首肯するに足る特段の事情を示すことなく、当事者問の合意の内容を記載した書面の文言に反する事実を認定した原審の事実認定には、経験則違反がある。",
+  "ref_law": "民訴法394条",
+  "lawsuit_id": "64140",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64140",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/140/064140_hanrei.pdf"
+}

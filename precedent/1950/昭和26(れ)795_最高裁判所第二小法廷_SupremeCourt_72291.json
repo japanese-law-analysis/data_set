@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 11,
+    "day": 16
+  },
+  "case_number": "昭和26(れ)795",
+  "case_name": "窃盗、傷害等",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第56号1041頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 3,
+    "day": 12
+  },
+  "lawsuit_id": "72291",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=72291",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/291/072291_hanrei.pdf"
+}

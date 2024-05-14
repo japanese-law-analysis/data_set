@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 6,
+    "day": 21
+  },
+  "case_number": "昭和42(オ)555",
+  "case_name": "建物明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第91号427頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_case_number": "昭和40(ネ)287",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 1,
+    "day": 31
+  },
+  "gist": "私文書の作成名義人の印影が右作成名義人の印章によつて顕出された場合と右私文書の真正な成立の推定",
+  "case_gist": "私文書の作成名義人の印影が右作成名義人の印章によつて顕出されたことが認められたときは、反証のないかぎり、右印影は、右作成名義人の意思に基づいて顕出されたものと推定され、右私文書は、真正に成立したものと推定される。",
+  "ref_law": "民訴法326条",
+  "lawsuit_id": "70296",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70296",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/296/070296_hanrei.pdf"
+}

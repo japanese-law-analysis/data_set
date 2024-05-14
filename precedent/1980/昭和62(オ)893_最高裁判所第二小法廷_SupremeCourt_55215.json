@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 12,
+    "day": 18
+  },
+  "case_number": "昭和62(オ)893",
+  "case_name": "貸金",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第41巻8号1592頁",
+  "original_court_name": "福岡高等裁判所\n        　宮崎支部",
+  "original_case_number": "昭和61(ネ)202",
+  "original_date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 3,
+    "day": 30
+  },
+  "gist": "不動産競売手続における配当金が同一担保権者の有する数個の被担保債権のすべてを消滅させるに足りない場合と弁済充当の方法",
+  "case_gist": "不動産競売手続における配当金が同一担保権者の有する数個の被担保債権のすべてを消滅させるに足りない場合には、弁済充当の指定に関する特約があつても、その配当金は、民法四八九条ないし四九一条の規定に従つて右数個の債権に充当される。",
+  "ref_law": "民法488条，民法489条，民法490条，民法491条，民事執行法85条，民事執行法188条",
+  "lawsuit_id": "55215",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55215",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/215/055215_hanrei.pdf"
+}

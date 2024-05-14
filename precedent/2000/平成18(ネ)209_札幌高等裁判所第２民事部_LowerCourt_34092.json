@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 1,
+    "day": 26
+  },
+  "case_number": "平成18(ネ)209",
+  "case_name": "損害賠償請求控訴事件",
+  "court_name": "札幌高等裁判所第２民事部",
+  "result": "破棄自判",
+  "original_court_name": "札幌地方裁判所",
+  "original_case_number": "平成17(ワ)1161",
+  "original_result": "その他",
+  "gist": "交通事故を起こした車両の同乗者が，事故の発生を知り，運転者に事故現場に戻ることを提案した上で現場に戻り，低速で走行するうちに，真冬の北国の早朝に，雪の積もっている道路に負傷して倒れていると考えられる被害者を発見した場合には，同人に条理上の救護等の義務が発生する。",
+  "lawsuit_id": "34092",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=34092",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/092/034092_hanrei.pdf",
+  "contents": ""
+}

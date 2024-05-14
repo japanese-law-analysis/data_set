@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 1,
+    "day": 30
+  },
+  "case_number": "昭和43(オ)443",
+  "case_name": "所有権移転登記手続請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第94号121頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和42(ネ)223",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 12,
+    "day": 19
+  },
+  "gist": "組合を当事者とする訴訟の係属中にされた組合の清算結了登記と当該組合の当事者能力",
+  "case_gist": "清算手続中の組合を当事者とする訴訟の係属中、右組合が清算を結了したとしてその旨の登記を了しても、当該組合は法人格を失い当事者能力を欠くに至るものとはいえない。",
+  "ref_law": "民法73条，民法83条，民訴法45条",
+  "lawsuit_id": "70336",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70336",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/336/070336_hanrei.pdf"
+}

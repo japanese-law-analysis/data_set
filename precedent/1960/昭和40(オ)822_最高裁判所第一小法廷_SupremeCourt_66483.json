@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 7,
+    "day": 14
+  },
+  "case_number": "昭和40(オ)822",
+  "case_name": "所有権移転登記請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第84号51頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和38(ネ)1410",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 3,
+    "day": 29
+  },
+  "gist": "敷地賃借権譲渡につき地主の承諾を得ることの履行不能が当事者の責に帰すべからざる事由によるとした判断に審理不尽理由不備があるとされた事例",
+  "lawsuit_id": "66483",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66483",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/483/066483_hanrei.pdf"
+}

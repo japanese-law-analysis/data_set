@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 4,
+    "day": 10
+  },
+  "case_number": "昭和29(あ)597",
+  "case_name": "業務上横領",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集刑　第113号5頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 1,
+    "day": 16
+  },
+  "gist": "刑訴第四一一条第一号にあたる事例―審理不尽、理由不備の違法",
+  "case_gist": "農業協同組合参事として組合員に対する金員の貸付けにつき包括的権限を有している者が組合員に対して制度上認められている仮払金名義により金員を貸出す行為が業務上横領の罪を構成するとする理由として、仮払金の制度、定款の規定等を審理することなく、単に「農業協同組合法並びに組合の定款の定めるところに準拠することなく、且つ正規の貸出手続によらないで、その業務上保管に係る組合公金を擅に仮払金名義で支出して……融通したことを認めるに充分であるから……なお組合の公金を不法に領得したものということができる」とするのは、審理不尽、理由不備の違法あることを免れない。",
+  "ref_law": "刑法253条，刑訴法411条1号，刑訴法413条本文，農業協同組合法42条",
+  "lawsuit_id": "60742",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60742",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/742/060742_hanrei.pdf"
+}

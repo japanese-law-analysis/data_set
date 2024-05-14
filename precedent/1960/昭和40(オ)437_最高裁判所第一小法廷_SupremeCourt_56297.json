@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 11,
+    "day": 30
+  },
+  "case_number": "昭和40(オ)437",
+  "case_name": "家屋明渡等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第21巻9号2477頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和38(ネ)409",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 1,
+    "day": 18
+  },
+  "gist": "不法行為に基づく損害賠償債権を自働債権とし不法行為以外の原因による債権を受働債権とする相殺の許否",
+  "case_gist": "民法第五〇九条は、不法行為の被害者をして現実の弁済により損害の填補をうけしめるとともに、不法行為の誘発を防止することを目的とするものであり、不法行為に基づく損害賠償債権を自働債権とし、不法行為による損害賠償債権以外の債権を受働債権として相殺をすることまでも禁止するものではないと解するのが相当である。",
+  "ref_law": "民法509条",
+  "lawsuit_id": "56297",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56297",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/297/056297_hanrei.pdf"
+}

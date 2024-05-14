@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 4,
+    "day": 21
+  },
+  "case_number": "平成19(ワ)7753",
+  "case_name": "損害賠償請求事件",
+  "court_name": "大阪地方裁判所第１５民事部",
+  "gist": "石綿製品を取り扱う被告会社で，石綿製品の組立て及び研磨作業等に従事していた従業員が石綿肺等に罹患したことについて，被告会社の安全配慮義務違反ないし不法行為を認め，同従業員及び近親者の各慰謝料請求等を認容した事例",
+  "lawsuit_id": "80190",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=80190",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/190/080190_hanrei.pdf",
+  "contents": ""
+}

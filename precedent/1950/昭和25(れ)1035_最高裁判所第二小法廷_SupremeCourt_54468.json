@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 10,
+    "day": 6
+  },
+  "case_number": "昭和25(れ)1035",
+  "case_name": "賭場開張図利、同教唆、常習賭博等",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第4巻10号1951頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 5,
+    "day": 12
+  },
+  "gist": "一　起訴にかかる三回の賭博行為による常習性の認定と実験則\n二　四年前の賭博前科と起訴にかかる一回の賭博行為による常習性の認定と実験則",
+  "case_gist": "一　昭和二三年三月二九日頃、同年六月一日頃及び同月一二日頃の三回に亘り「カブ」外一種の賭博を反覆したという事実によつて、賭博の常習性を認定しても、実験則に反しない。\n二　昭和一九年九月一〇日賭博罪により罰金刑に処せられておりながらさらに昭和二三年一〇月一四日麻雀賭博をしたことによつて、賭博の常習性を認定しても実験則に反しない。",
+  "ref_law": "刑法186条1項，旧刑訴法336条，旧刑訴法337条",
+  "lawsuit_id": "54468",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54468",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/468/054468_hanrei.pdf"
+}

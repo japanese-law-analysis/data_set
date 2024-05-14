@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 12,
+    "day": 15
+  },
+  "case_number": "昭和32(オ)1222",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第15巻11号2852頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 8,
+    "day": 28
+  },
+  "gist": "不特定物の売買における目的物受領後の不完全履行による契約解除の可否。",
+  "case_gist": "不特定物の売買において給付されたものに瑕疵のあることが受領後に発見された場合、買主がいわゆる瑕疵担保責任を問うなど、瑕疵の存在を認識した上で右給付を履行として容認したと認められる事情が存しない限り、買主は、取替ないし追完の方法による完全履行の請求権を有し、また、その不完全な給付が売主の責に帰すべき事由に基づくときは、債務不履行の一場合として、損害賠償請求権および契約解除権をも有するものと解すべきである。",
+  "ref_law": "民法415条，民法541条，民法570条",
+  "lawsuit_id": "52879",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52879",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/879/052879_hanrei.pdf"
+}

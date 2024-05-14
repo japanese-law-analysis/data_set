@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 10,
+    "day": 10
+  },
+  "case_number": "昭和27(れ)60",
+  "case_name": "傷害致死",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集刑　第68号187頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 6,
+    "day": 30
+  },
+  "gist": "証拠調をしない極めて重要な証拠を他の証拠と綜合して事実を認定した判決の違法と刑訴法第四一一条",
+  "case_gist": "原判決挙示の諸証拠で原審において証拠調べを経ていないものの中には極めて重要なものがあり、且つ証拠調べを経たことの明白な証拠のみでは原判決の事実を認定するに十分でないときは、刑訴四一一条に該当する。",
+  "ref_law": "旧刑訴法336条，新刑訴法411条",
+  "lawsuit_id": "65156",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=65156",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/156/065156_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 6,
+    "day": 21
+  },
+  "case_number": "昭和41(オ)52",
+  "case_name": "売掛代金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第22巻6号1297頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和40(ネ)654",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 10,
+    "day": 1
+  },
+  "gist": "訴訟代理人である弁護士の登録取消後同人に対してされた訴訟行為の効力",
+  "case_gist": "訴訟代理人である弁護士の登録取消後同人に対してされた訴訟行為は無効である。",
+  "ref_law": "弁護士法17条，民訴法79条",
+  "lawsuit_id": "55042",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55042",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/042/055042_hanrei.pdf"
+}

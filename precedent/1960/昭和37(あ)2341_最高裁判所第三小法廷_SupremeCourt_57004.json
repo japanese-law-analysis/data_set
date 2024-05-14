@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 2,
+    "day": 26
+  },
+  "case_number": "昭和37(あ)2341",
+  "case_name": "旅館業法違反、売春防止法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第17巻1号15頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 9,
+    "day": 24
+  },
+  "gist": "売春防止法第一四条のいわゆる両罰規定の法意。",
+  "case_gist": "売春防止法第一四条は、業務主たる人の代理人、使用人その他の従業者が同法第九条等に違反した行為につき、業務主に右行為者らの選任、監督その他違反行為を防止するために必要な注意を尽さなかつた過失の存在を推定した規定と解すべく、したがつて業務主において右に関する注意を尽したことの証明がなされない限り、業務主もまた刑責を免れないとする法意である。",
+  "ref_law": "売春防止法14条，売春防止法11条",
+  "lawsuit_id": "57004",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57004",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/004/057004_hanrei.pdf"
+}

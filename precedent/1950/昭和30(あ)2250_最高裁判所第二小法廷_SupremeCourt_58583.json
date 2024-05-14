@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 2,
+    "day": 26
+  },
+  "case_number": "昭和30(あ)2250",
+  "case_name": "名誉毀損",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第123号423頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 6,
+    "day": 27
+  },
+  "gist": "労働組合法第一条第二項を適用すべき場合にあたらない一事例",
+  "case_gist": "原判決の認定によれば、本件行為は、被告人等が、判示のような邪推の下に、被告人と同じく日傭労務者で判示ａ労働組合の組合員である判示Ａを排斥し連絡員を辞職せしめるためになされたというのであるから、右が労働組合法一条一項所定の目的達成のために為された行為に当らないことは明白であり、従つて本件につき同法一条二項を適用しなかつた原判決には所論のような違法はない。",
+  "ref_law": "労働組合法1条2項，刑法35条",
+  "lawsuit_id": "58583",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58583",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/583/058583_hanrei.pdf"
+}

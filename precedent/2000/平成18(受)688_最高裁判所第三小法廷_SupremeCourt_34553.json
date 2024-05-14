@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 4,
+    "day": 24
+  },
+  "case_number": "平成18(受)688",
+  "case_name": "損害賠償請求事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第224号261頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成17(ネ)4250",
+  "original_date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 1,
+    "day": 18
+  },
+  "gist": "内縁の夫の運転する自動車に同乗中に第三者の運転する自動車との衝突事故により傷害を負った内縁の妻が第三者に対して損害賠償を請求する場合にその賠償額を定めるに当たり内縁の夫の過失を被害者側の過失として考慮することの可否",
+  "case_gist": "内縁の夫が内縁の妻を同乗させて運転する自動車と第三者が運転する自動車とが衝突し，それにより傷害を負った内縁の妻が第三者に対して損害賠償を請求する場合において，その損害賠償額を定めるに当たっては，内縁の夫の過失を被害者側の過失として考慮することができる。",
+  "ref_law": "民法722条2項，民法第4編第2章第1節　婚姻の成立",
+  "lawsuit_id": "34553",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=34553",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/553/034553_hanrei.pdf",
+  "contents": ""
+}

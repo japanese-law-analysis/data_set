@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 2,
+    "day": 15
+  },
+  "case_number": "昭和36(オ)367",
+  "case_name": "所有権回復等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第64号455頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 11,
+    "day": 30
+  },
+  "gist": "競落代金支払前に抵当債務が消減した場合の競落人の所有権取得。",
+  "case_gist": "右の場合に、もはや競落人は、競落代金の支払によつて所有権を取得することはできない（昭和三七年八月二八日第三小法廷判決参照）。",
+  "ref_law": "競売法2条",
+  "lawsuit_id": "65982",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=65982",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/982/065982_hanrei.pdf"
+}

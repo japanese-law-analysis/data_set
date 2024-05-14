@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 10,
+    "day": 23
+  },
+  "case_number": "平成20(受)1043",
+  "case_name": "求償金請求事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第63巻8号1849頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "平成19(ネ)468",
+  "original_date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 3,
+    "day": 19
+  },
+  "gist": "市町村が設置する中学校の教諭が生徒に与えた損害を国家賠償法１条１項，３条１項に従い賠償した都道府県が当該中学校を設置する市町村に対して同条２項に基づき取得する求償権の範囲",
+  "case_gist": "市町村が設置する中学校の教諭がその職務を行うについて故意又は過失によって違法に生徒に損害を与えた場合において，当該教諭の給料その他の給与を負担する都道府県が国家賠償法１条１項，３条１項に従い上記生徒に対して損害を賠償したときは，当該都道府県は，同条２項に基づき，賠償した損害の全額を当該中学校を設置する市町村に対して求償することができる。",
+  "ref_law": "国家賠償法1条1項，国家賠償法3条，学校教育法5条，市町村立学校職員給与負担法1条，地方財政法9条",
+  "lawsuit_id": "38094",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=38094",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/094/038094_hanrei.pdf",
+  "contents": ""
+}

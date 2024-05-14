@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 12,
+    "day": 12
+  },
+  "case_number": "昭和43(オ)638",
+  "case_name": "為替手形金請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第93号585頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和41(ネ)783",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 4,
+    "day": 9
+  },
+  "gist": "原因債務の時効消滅と手形抗弁",
+  "case_gist": "手形債務者は、原因債務が時効消滅したことを理由として、原因関係上の当事者たる手形所持人からの手形金請求を拒むことができる。",
+  "ref_law": "手形法17条，民法173条1号",
+  "lawsuit_id": "70346",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70346",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/346/070346_hanrei.pdf"
+}

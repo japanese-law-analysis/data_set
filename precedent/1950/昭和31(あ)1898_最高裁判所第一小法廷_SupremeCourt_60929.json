@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 11,
+    "day": 1
+  },
+  "case_number": "昭和31(あ)1898",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第115号311頁",
+  "original_court_name": "福岡高等裁判所\n        　宮崎支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 3,
+    "day": 30
+  },
+  "gist": "事前選挙運動と認められる一事例",
+  "case_gist": "所論は事前の選挙運動を禁止している公職選挙法一二九条の適用を非難するが、現審の是認した第一審判決は「当時世上一般は、報道機関や世評あるいはいわゆる政界人の動き等を通じ極めて近い将来に衆議院が解散され総選挙が行われることを予想していた時期であつた」ことを認めて、被告人Ａ、同Ｂ、同Ｃ、同Ｄ、同Ｅの本件犯行を事前の選挙運動に該当すると判示しているのであつて、右判断はこれを是認することができる。",
+  "ref_law": "公職選挙法129条，公職選挙法239条1号",
+  "lawsuit_id": "60929",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60929",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/929/060929_hanrei.pdf"
+}

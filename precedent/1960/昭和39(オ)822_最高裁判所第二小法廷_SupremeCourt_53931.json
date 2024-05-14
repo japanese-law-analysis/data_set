@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 8,
+    "day": 2
+  },
+  "case_number": "昭和39(オ)822",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第19巻6号1368頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和38(ネ)52",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 4,
+    "day": 3
+  },
+  "gist": "建物の一部の賃借人が他の部分を不法に占拠して賃借部分と併用している行為が著しい不信行為であるとして無催告の賃貸借契約の解除が許容された事例。",
+  "case_gist": "賃貸人の所有建物の一部の賃借人が、他の部分について賃貸人から賃貸の交渉を受けたにかかわらず、これに対する諾否を明らかにしないまま、五ケ月あまりの間、当該部分を不法に占拠して賃借部分と併用している等原判示の事情（原判決理由参照）がある場合には、賃借人の右行為は賃貸借契約の継続を著しく困難ならしめる不信行為に該当し、賃貸人は、催告なしに賃貸借契約を解除することができる。",
+  "ref_law": "民法616条，民法594条1項，民法541条",
+  "lawsuit_id": "53931",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53931",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/931/053931_hanrei.pdf"
+}

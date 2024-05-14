@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 4,
+    "day": 26
+  },
+  "case_number": "昭和48(オ)766",
+  "case_name": "建物収去土地明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第28巻3号527頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和47(ネ)285",
+  "original_date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 4,
+    "day": 26
+  },
+  "gist": "土地賃貸借の合意解除が地上建物の賃借人に対抗できるとされた事例",
+  "case_gist": "土地賃貸借が合意解除された当時、地上建物につき土地賃借人と合資会社との間に賃貸借が締結されていた場合においても、右会社は土地賃借人が従前同建物で経営していた事業を自己が代表者となつて会社組織にしたものにすぎず、かつ、右解除の際、土地賃借人が会社設立について言及しなかつたため土地賃貸人が右の事実を全く知らなかつたなど判示のような特別の事情があるときは、土地賃貸人は当該合意解除をもつて右会社に対抗することができる。",
+  "ref_law": "民法545条1項，民法601条",
+  "lawsuit_id": "52118",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52118",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/118/052118_hanrei.pdf"
+}

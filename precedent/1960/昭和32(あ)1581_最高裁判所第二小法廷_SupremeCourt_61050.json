@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 3,
+    "day": 25
+  },
+  "case_number": "昭和32(あ)1581",
+  "case_name": "職業安定法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第132号739頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 5,
+    "day": 27
+  },
+  "gist": "刑法第一八条の合憲性。",
+  "case_gist": "一　罰金不完納の場合の労役場留置は、憲法一八条にいう「犯罪による処罰」に当たることは明白であるから、刑法一八条が憲法一八条に違反するとなし得ないことは自から明らかである。\n二　刑法一八条が憲法一一条一三条に違反するものでないことも昭和二四年（れ）第一八九〇号、同二五年六月七日大法廷判決（刑集第四巻六号九六一頁）および昭和二三年（れ）第一四二六号、同二四年一〇月五日大法廷判決（刑集三巻一〇号一六四八頁）の趣旨に徴し明らかである。",
+  "ref_law": "憲法11条，憲法13条，憲法18条，刑法18条",
+  "lawsuit_id": "61050",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61050",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/050/061050_hanrei.pdf"
+}

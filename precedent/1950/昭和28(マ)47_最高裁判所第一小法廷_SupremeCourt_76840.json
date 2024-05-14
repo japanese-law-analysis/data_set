@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 4,
+    "day": 1
+  },
+  "case_number": "昭和28(マ)47",
+  "case_name": "農地買収計画訴願裁決取消請求事件につきなした上告棄却の判決に対する異議の申立",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "却下",
+  "article_info": "集民　第8号589頁",
+  "original_court_name": "最高裁判所",
+  "original_case_number": "昭和26(オ)660",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 3,
+    "day": 12
+  },
+  "lawsuit_id": "76840",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=76840",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/840/076840_hanrei.pdf"
+}

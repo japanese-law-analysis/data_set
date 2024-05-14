@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 11,
+    "day": 27
+  },
+  "case_number": "平成17(オ)886",
+  "case_name": "不当利得返還請求事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第222号275頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成15(ネ)6002",
+  "original_date": {
+    "era": "Heisei",
+    "year": 17,
+    "month": 2,
+    "day": 24
+  },
+  "gist": "消費者契約法９条１号と憲法２９条",
+  "case_gist": "消費者契約法９条１号は，憲法２９条に違反しない。",
+  "ref_law": "憲法29条，消費者契約法9条",
+  "lawsuit_id": "33838",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=33838",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/838/033838_hanrei.pdf",
+  "contents": ""
+}

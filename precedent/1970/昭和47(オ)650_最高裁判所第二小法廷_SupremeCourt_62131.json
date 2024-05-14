@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 7,
+    "day": 6
+  },
+  "case_number": "昭和47(オ)650",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第109号473頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和46(ネ)299",
+  "original_date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 3,
+    "day": 24
+  },
+  "gist": "自動車損害賠償保障法一〇条所定の道路以外の場所のみにおいて運行の用に供するため同法五条の適用はなく運転免許も自動車登録も必要ではなく税法上減価償却資産中の機械設備として取り扱われている自動車と同法三条",
+  "case_gist": "自動車損害賠償保障法一〇条所定の道路以外の場所のみにおいて運行の用に供するため同法五条の適用はなく、運転免許も自動車登録も必要ではなく、税法上の減価償却資産中の機械設備として取り扱われている自動車であつても、同法三条の適用は排除されない。",
+  "ref_law": "自動車損害賠償保障法3条，自動車損害賠償保障法5条，自動車損害賠償保障法10条",
+  "lawsuit_id": "62131",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62131",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/131/062131_hanrei.pdf"
+}

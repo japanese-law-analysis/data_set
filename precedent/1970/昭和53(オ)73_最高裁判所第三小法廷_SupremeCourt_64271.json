@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 12,
+    "day": 5
+  },
+  "case_number": "昭和53(オ)73",
+  "case_name": "賃料増額",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集民　第125号783頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和50(ネ)1086",
+  "original_date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 9,
+    "day": 29
+  },
+  "gist": "土地の賃貸借契約を一部解除した賃貸人が解除した部分につき損害金として残余の部分につき賃料として金員の支払を求めたのに対し賃借人が全額を賃料として弁済のため供託した場合と供託の効力",
+  "case_gist": "土地の賃貸人が、一括して賃貸した土地の一部につき賃貸借契約を解除し、賃借人に対し右部分については損害金として残余の部分については賃料として金員の支払を求め、賃借人が右土地の全部につき全額を賃料として弁済のため供託した場合には、右供託は、右賃料部分に関しては有効な弁済供託があつたものと解するのが相当である。",
+  "ref_law": "民法494条",
+  "lawsuit_id": "64271",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64271",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/271/064271_hanrei.pdf"
+}

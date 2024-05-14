@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 9,
+    "day": 12
+  },
+  "case_number": "昭和42(オ)672",
+  "case_name": "所有権確認、移転登記手続請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第92号239頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_case_number": "昭和37(ネ)28",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 3,
+    "day": 31
+  },
+  "gist": "民訴法第一九四条第一項を準用して判示の誤謬の更正が許されると認められた事例",
+  "case_gist": "認定した売買契約成立の日時についての判示の誤謬が記録上明白なものであるときは、右誤謬が当事者の申立の誤りおよび提出された証拠内容の誤りに基づくものであつても、民訴法第一九四条第一項を準用して誤謬の更正をすることが許される。",
+  "ref_law": "民訴法194条1項",
+  "lawsuit_id": "66636",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66636",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/636/066636_hanrei.pdf"
+}

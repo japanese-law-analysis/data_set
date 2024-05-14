@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 2,
+    "day": 24
+  },
+  "case_number": "昭和32(オ)961",
+  "case_name": "貸金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第15巻2号301頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 7,
+    "day": 17
+  },
+  "gist": "控訴棄却の申立なしにその判決をすることと民訴法第一八六条。",
+  "case_gist": "控訴の申立がある以上控訴裁判所はその当否について判断し応答すべきものであつて、控訴棄却の申立はなくても、控訴の理由がないと認められるときは、その旨の裁判をすることができる。",
+  "ref_law": "民訴法186条，民訴法377条，民訴法384条",
+  "lawsuit_id": "54873",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54873",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/873/054873_hanrei.pdf"
+}

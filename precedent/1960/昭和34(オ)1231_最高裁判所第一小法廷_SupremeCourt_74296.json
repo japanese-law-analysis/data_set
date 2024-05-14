@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 3,
+    "day": 15
+  },
+  "case_number": "昭和34(オ)1231",
+  "case_name": "宿泊飲食代金並びに貸金等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第59号273頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 9,
+    "day": 28
+  },
+  "gist": "営業の主体の判定基準を示した事例",
+  "case_gist": "旅館業経営において、旅館の建物の所有名義は夫となつているが、その妻をもつて旅館営業の行政許可を受け、この営業に関する公租公課はすべて妻に対し賦課徴収されているほか同旅館の電話の加入名義も妻名義で、妻自身もその経営の衝に当り少くとも対外的には一般に妻名義を使用している場合は、たとえ夫が同旅館の業務に自ら携わり、旅館組合の会合には常に出席し、その他経営について夫の意見が尊重され、あるいは夫の意のままに運営されるところがあつたとしても、それは特段の事情がない限り右夫婦の内部関係における援助指導の関係に止るとみられ、右営業に関し生じた債権債務は名実ともに妻に帰属すると認めるのが相当である。",
+  "ref_law": "商法4条1項",
+  "lawsuit_id": "74296",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74296",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/296/074296_hanrei.pdf"
+}

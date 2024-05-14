@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 12,
+    "day": 18
+  },
+  "case_number": "昭和55(あ)1319",
+  "case_name": "業務上過失傷害、道路交通法違反、道路運送車両法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第220号787頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 6,
+    "day": 24
+  },
+  "gist": "道交法の報告義務の規定と憲法３８条一項",
+  "ref_law": "憲法38条1項",
+  "lawsuit_id": "61771",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61771",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/771/061771_hanrei.pdf"
+}

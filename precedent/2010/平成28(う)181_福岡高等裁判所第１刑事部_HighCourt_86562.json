@@ -1,0 +1,21 @@
+{
+  "trial_type": "HighCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 28,
+    "month": 6,
+    "day": 24
+  },
+  "case_number": "平成28(う)181",
+  "case_name": "薬事法違反被告事件",
+  "court_name": "福岡高等裁判所第１刑事部",
+  "result": "棄却",
+  "article_info": "第69巻1号1頁",
+  "original_court_name": "福岡地方裁判所\n        　飯塚支部",
+  "original_case_number": "平成27(わ)174",
+  "gist": "薬事法（平成２５年法律第８４号による改正前のもの）２条１４項に規定する指定薬物を所持する罪の故意が認められる場合",
+  "case_gist": "所持する薬物の薬理作用を認識し，そのような薬理作用があるために当該薬物が薬事法（平成２５年法律第８４号による改正前のもの）２条１４項に規定する指定薬物として指定されている薬物と同様に規制され得る同種のものであることを認識し，指定薬物が含有されていないと信じたことに合理的な理由があったなどの特異な事情が認められない場合は，同号に規定する指定薬物を所持する罪の故意が認められる。",
+  "lawsuit_id": "86562",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail3?id=86562",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/562/086562_hanrei.pdf"
+}

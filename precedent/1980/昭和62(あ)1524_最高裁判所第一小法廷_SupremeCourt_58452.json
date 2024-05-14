@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 63,
+    "month": 9,
+    "day": 20
+  },
+  "case_number": "昭和62(あ)1524",
+  "case_name": "覚せい剤取締法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第250号91頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 11,
+    "day": 9
+  },
+  "gist": "控訴審が被告人本人による証人尋問を許さなかったのは憲法三七条二項に違反するとの主張が欠前提とされた事例",
+  "ref_law": "憲法37条2項",
+  "lawsuit_id": "58452",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58452",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/452/058452_hanrei.pdf"
+}

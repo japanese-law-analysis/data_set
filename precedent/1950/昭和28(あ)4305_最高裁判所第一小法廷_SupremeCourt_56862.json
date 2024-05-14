@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 5,
+    "day": 20
+  },
+  "case_number": "昭和28(あ)4305",
+  "case_name": "窃盗未遂",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第8巻5号706頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 6,
+    "day": 16
+  },
+  "gist": "証拠調請求の撤回と取消決定および当事者の意見聴取の要否",
+  "case_gist": "裁判所が、当事者の請求により証拠調をする旨の決定をしたのち、当事者が公判廷で右請求を撤回した場合には、右決定を取り消す必要はなく、また検察官および被告人または弁護人の意見を聴く必要もない。",
+  "ref_law": "刑訴法297条，刑訴法298条，刑訴規則190条",
+  "lawsuit_id": "56862",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56862",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/862/056862_hanrei.pdf"
+}

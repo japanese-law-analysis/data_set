@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 9,
+    "day": 17
+  },
+  "case_number": "昭和38(オ)719",
+  "case_name": "離婚請求、離婚反訴請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第18巻7号1461頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 3,
+    "day": 27
+  },
+  "gist": "民法第七七〇条第一項第二号にいう悪意の遺棄に当らないとされた事例。",
+  "case_gist": "妻が婚姻関係の破綻について主たる責任を負い、夫からの扶助を受けないようになつたのもみずからの原因によるなど原判決認定の事情（原判決理由参照）のもとにおいては、夫が妻と同居を拒み、これを扶助しないといても、民法第七七〇条第一項第二号にいう悪意の遺棄に当らないというべきである。",
+  "ref_law": "民法770条1項2号，民法752条",
+  "lawsuit_id": "53876",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53876",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/876/053876_hanrei.pdf"
+}

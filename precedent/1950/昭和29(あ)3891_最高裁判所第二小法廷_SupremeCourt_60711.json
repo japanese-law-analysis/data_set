@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 5,
+    "day": 20
+  },
+  "case_number": "昭和29(あ)3891",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第105号753頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 9,
+    "day": 29
+  },
+  "gist": "第一審が公訴事実よりも供与額を少なく認定した場合、その差額につき特に判決の理由において説明することを要するか",
+  "case_gist": "第一審が、被告人Ａが昭和二七年九月二五日頃その自宅でＢに一二、〇〇〇円を供与したとの公訴事実（第三の９）について、判示第三の８の如くＢに対する五、〇〇〇円だけの供与の事実を認定したのは正当である。而してこのような場合に、公訴事実の一二、〇〇〇円と右認定の五、〇〇〇円との差額七、〇〇〇円を認めなかつた理由を特に説明する必要のないことは原判決の説示するとおりであつて、何等所論理由不備の違法はない。",
+  "ref_law": "刑訴法335条1項，刑訴法44条1項，刑訴法378条4号",
+  "lawsuit_id": "60711",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60711",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/711/060711_hanrei.pdf"
+}

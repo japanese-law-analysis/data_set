@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 2,
+    "day": 2
+  },
+  "case_number": "平成16(受)1787",
+  "case_name": "組合員たる地位の不存在確認等請求事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第61巻1号86頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成15(ネ)4195",
+  "original_date": {
+    "era": "Heisei",
+    "year": 16,
+    "month": 7,
+    "day": 15
+  },
+  "gist": "従業員と使用者との間でされた従業員に対し特定の労働組合から脱退する権利を行使しないことを義務付ける合意と公序良俗違反",
+  "case_gist": "従業員と使用者との間において従業員が特定の労働組合に所属し続けることを義務付ける内容の合意がされた場合において，同合意のうち，従業員に上記労働組合から脱退する権利をおよそ行使しないことを義務付けて脱退の効力そのものを生じさせないとする部分は，公序良俗に反し無効である。",
+  "ref_law": "労働組合法第2章　労働組合，民法90条，憲法21条1項，憲法28条",
+  "lawsuit_id": "34093",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=34093",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/093/034093_hanrei.pdf",
+  "contents": ""
+}

@@ -1,0 +1,20 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 3,
+    "day": 29
+  },
+  "case_number": "平成18(ネ)791",
+  "case_name": "相続回復等請求控訴事件",
+  "court_name": "名古屋高等裁判所民事第１部",
+  "original_court_name": "名古屋地方裁判所",
+  "original_case_number": "平成17(ワ)2139",
+  "original_result": "その他",
+  "gist": "相続財産の侵害に対する相続回復請求権という独自の権利を認めることはできず，被控訴人の主張は不法行為に基づく損害賠償請求に帰着するところ，同請求権は３年の消滅時効期間の経過により消滅したとして，被控訴人の請求を棄却した事例",
+  "lawsuit_id": "34822",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=34822",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/822/034822_hanrei.pdf",
+  "contents": ""
+}

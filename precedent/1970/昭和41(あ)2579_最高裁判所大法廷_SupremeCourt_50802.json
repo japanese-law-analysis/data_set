@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 9,
+    "day": 16
+  },
+  "case_number": "昭和41(あ)2579",
+  "case_name": "公務執行妨害",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "刑集　第24巻10号1345頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 8,
+    "day": 26
+  },
+  "gist": "一　公共企業体等労働関係法一七条一項の合憲性\n二　公共企業体等労働関係法一七条一項違反の争議行為と労働組合法一条二項の適用",
+  "case_gist": "一　公共企業体等労働関係法一七条一項は、憲法二八条に違反しない。\n二　公共企業体等労働関係法一七条一項に違反してなされた争議行為にも、労働組合法一条二項の適用がある。",
+  "ref_law": "憲法28条，労働組合法1条，公共企業体等労働関係法17条1項，公共企業体等労働関係法3条",
+  "lawsuit_id": "50802",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50802",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/802/050802_hanrei.pdf"
+}

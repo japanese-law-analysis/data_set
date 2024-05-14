@@ -1,0 +1,16 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 17,
+    "month": 5,
+    "day": 2
+  },
+  "case_number": "平成16特(わ)3592",
+  "case_name": "薬事法違反",
+  "court_name": "東京地方裁判所刑事第３部",
+  "gist": "被告人に対し，医薬品の無許可販売罪の成立を認めた上，執行猶予が付された事案",
+  "lawsuit_id": "33044",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=33044",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/044/033044_hanrei.pdf"
+}

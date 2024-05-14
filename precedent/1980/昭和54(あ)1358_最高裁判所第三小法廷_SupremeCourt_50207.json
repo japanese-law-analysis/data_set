@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 3,
+    "day": 8
+  },
+  "case_number": "昭和54(あ)1358",
+  "case_name": "わいせつ図画販売",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第37巻2号15頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 6,
+    "day": 27
+  },
+  "gist": "一　刑法一七五条と憲法二一条\n\n二　刑法一七五条にいう「猥褻ノ図面」にあたるとされた事例",
+  "case_gist": "一　刑法一七五条は、憲法二一条に違反しない。\n\n二　性器及びその周辺部分を黒く塗りつぶして修正してあるが、その修正の範囲が狭く、かつ、不十分で、現実の性交等の状況を詳細、露骨かつ具体的に伝える写真を随所に多数含み、物語性や芸術性・思想性など性的刺激を緩和させる要素が全く未当らず、全体として、もつぱら見る者の好色的興味にうつたえると認められる本件写真誌（判文参照）は、憲法一七五条にいう「猥褻ノ図面」にあたる。",
+  "ref_law": "刑法175，憲法21",
+  "lawsuit_id": "50207",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50207",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/207/050207_hanrei.pdf"
+}

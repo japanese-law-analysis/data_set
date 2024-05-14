@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 11,
+    "day": 15
+  },
+  "case_number": "昭和24(オ)189",
+  "case_name": "建物所有権確認、建物所有権移転登記手続請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第5巻12号735頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 6,
+    "day": 6
+  },
+  "gist": "民法第五五七条にいわゆる「契約ノ履行ニ著手」したものと認められる一事例",
+  "case_gist": "家屋の買主が、約定の明渡期限後売主に対ししばしば明渡を求め、かつ、売主が明渡をすればいつでも約定残代金の支払をなし得べき状態にあつたときは、現実に右代金の提供をしなくても、民法第五五七条にいわゆる「契約ノ履行ニ著手」したものと認められる。",
+  "ref_law": "民法557条",
+  "lawsuit_id": "55939",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55939",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/939/055939_hanrei.pdf"
+}

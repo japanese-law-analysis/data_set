@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 3,
+    "day": 26
+  },
+  "case_number": "昭和46(ク)50",
+  "case_name": "人身保護請求棄却の決定に対する特別抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集民　第102号369頁",
+  "original_court_name": "神戸地方裁判所\n        　明石支部",
+  "original_case_number": "昭和45(人)1",
+  "original_date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 1,
+    "day": 20
+  },
+  "gist": "人身保護法に基づく救済請求を決定をもつて棄却することと憲法三二条・八二条",
+  "case_gist": "人身保護法に基づく救済請求を同法一一条により決定をもつて棄却することは憲法三二条・八二条に違反しない。",
+  "ref_law": "憲法52条，憲法82条，人身保護法11条",
+  "lawsuit_id": "64067",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64067",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/067/064067_hanrei.pdf"
+}

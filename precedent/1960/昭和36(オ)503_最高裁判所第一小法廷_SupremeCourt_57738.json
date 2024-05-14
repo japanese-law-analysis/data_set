@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 5,
+    "day": 10
+  },
+  "case_number": "昭和36(オ)503",
+  "case_name": "売掛代金請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第16巻5号1066頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 2,
+    "day": 13
+  },
+  "gist": "油糧砂糖配給公団の売掛代金債権と民法第一七三条の適用",
+  "case_gist": "油糧砂糖配給公団の有する油糧売却代金債権は、民法第一七三条の短期消滅時効にかからない。",
+  "ref_law": "民法173条",
+  "lawsuit_id": "57738",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57738",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/738/057738_hanrei.pdf"
+}

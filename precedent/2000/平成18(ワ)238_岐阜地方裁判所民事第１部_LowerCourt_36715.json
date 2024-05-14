@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 4,
+    "day": 10
+  },
+  "case_number": "平成18(ワ)238",
+  "case_name": "債務不存在確認等請求事件",
+  "court_name": "岐阜地方裁判所民事第１部",
+  "result": "その他",
+  "gist": "原告が，原告が運営する病院において，急性心筋梗塞の治療の際，医師の過失により損害を被ったとして５年以上にわたり入院したまま退去しない被告（患者）に対し，入院契約が終了したとして病院からの退去などを求めた事案で，これが認められた事例。",
+  "lawsuit_id": "36715",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=36715",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/715/036715_hanrei.pdf",
+  "contents": ""
+}

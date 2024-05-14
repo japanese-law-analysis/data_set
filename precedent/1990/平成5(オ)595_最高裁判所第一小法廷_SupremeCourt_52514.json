@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 6,
+    "month": 1,
+    "day": 20
+  },
+  "case_number": "平成5(オ)595",
+  "case_name": "株主権確認",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第48巻1号1頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成4(ネ)967",
+  "original_date": {
+    "era": "Heisei",
+    "year": 4,
+    "month": 12,
+    "day": 15
+  },
+  "gist": "一　商法二六〇条二項一号にいう重要な財産の処分に当たるか否かの判断基準\n二　会社の総資産の約一・六パーセントに相当する価額の株式の譲渡が商法二六〇条二項一号にいう重要な財産の処分に当たらないとはいえないとされた事例",
+  "case_gist": "一　商法二六〇条二項一号にいう重要な財産の処分に当たるか否かは、当該財産の価額、その会社の総資産に占める割合、保有目的、処分行為の態様及び会社における従来の取扱い等の事情を総合的に考慮して判断すべきである。\n二　株式が、帳簿価額では七八〇〇万円で会社の総資産の約一・六パーセントに相当し、適正時価を把握し難く、その譲渡が、代価いかんによっては会社の資産及び損益に著しい影響を与え得るものであり、営業のため通常行われる取引に属さないなど判示の事実関係の下においては、右株式の譲渡は、商法二六〇条二項一号にいう重要な財産の処分に当たらないとはいえない。",
+  "ref_law": "商法260条",
+  "lawsuit_id": "52514",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52514",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/514/052514_hanrei.pdf"
+}

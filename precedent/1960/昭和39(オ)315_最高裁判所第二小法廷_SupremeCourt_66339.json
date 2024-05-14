@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 10,
+    "day": 30
+  },
+  "case_number": "昭和39(オ)315",
+  "case_name": "所有権移転登記手続請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第75号1067頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 12,
+    "day": 9
+  },
+  "gist": "部分林収益分収持分の譲渡契約において営林局長の許可を停止条件とする旨の約定がない場合における右契約の効力。",
+  "case_gist": "部分林収益分収持分の譲渡契約において営林局長の許可を停止条件とする旨の約定がなされていなくても、右許可により権利移転の効力を生ずる。",
+  "ref_law": "国有林野部分林規則（明治32年勅令362号）3条",
+  "lawsuit_id": "66339",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66339",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/339/066339_hanrei.pdf"
+}

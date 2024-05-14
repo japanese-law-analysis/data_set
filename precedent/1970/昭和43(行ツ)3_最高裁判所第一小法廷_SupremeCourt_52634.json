@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 11,
+    "day": 16
+  },
+  "case_number": "昭和43(行ツ)3",
+  "case_name": "不作為の違法確認等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第26巻9号1573頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和42(行コ)29",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 10,
+    "day": 25
+  },
+  "gist": "私的独占の禁止及び公正取引の確保に関する法律四五条一項に基づく措置要求を不問に付する旨の公正取引委員会の決定と抗告訴訟",
+  "case_gist": "私的独占の禁止及び公正取引の確保に関する法律四五条一項に基づく措置要求を不問に付する旨の公正取引委員会の決定は、抗告訴訟の対象となる行政処分にあたらない。",
+  "ref_law": "行政事件訴訟法3条，私的独占の禁止及び公正取引の確保に関する法律45条1項",
+  "lawsuit_id": "52634",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52634",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/634/052634_hanrei.pdf"
+}

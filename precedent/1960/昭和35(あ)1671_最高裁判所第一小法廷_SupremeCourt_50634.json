@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 4,
+    "day": 26
+  },
+  "case_number": "昭和35(あ)1671",
+  "case_name": "児童福祉法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "刑集　第16巻4号449頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 6,
+    "day": 2
+  },
+  "gist": "児童福祉法第六〇条第一項の罪と売春防止法第一二条の罪とが想像的競合となる事例",
+  "case_gist": "児童をして多数の婦女とともに自己の占有もしくは管理する場所に居住させ、売春させることを業としたときは、一個の行為にして児童福祉法第六〇条第一項の罪と売春防止法第一二条の罪との二個の罪名に触れる場合にあたる。",
+  "ref_law": "児童福祉法34条1項6号，児童福祉法60条1項，売春防止法12条，刑法54条1項",
+  "lawsuit_id": "50634",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50634",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/634/050634_hanrei.pdf"
+}

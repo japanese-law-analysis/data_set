@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 12,
+    "day": 8
+  },
+  "case_number": "昭和51(行ツ)28",
+  "case_name": "給与並びに慰藉料等",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第125号815頁",
+  "original_court_name": "高松高等裁判所",
+  "original_case_number": "昭和50(行コ)3",
+  "original_date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 12,
+    "day": 25
+  },
+  "gist": "他の事業場における争議行為への参加と年次有給休暇の成否",
+  "case_gist": "その所属する事業場以外の事業場における争議行為に休暇中の労働者が参加したかどうかは、年次有給休暇の成否に影響しない。",
+  "ref_law": "労働基準法39条",
+  "lawsuit_id": "64157",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64157",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/157/064157_hanrei.pdf"
+}

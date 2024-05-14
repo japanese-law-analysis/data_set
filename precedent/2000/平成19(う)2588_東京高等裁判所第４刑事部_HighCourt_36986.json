@@ -1,0 +1,21 @@
+{
+  "trial_type": "HighCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 4,
+    "day": 24
+  },
+  "case_number": "平成19(う)2588",
+  "case_name": "廃棄物の処理及び清掃に関する法律違反被告事件",
+  "court_name": "東京高等裁判所第４刑事部",
+  "result": "棄却",
+  "article_info": "第61巻2号1頁",
+  "original_court_name": "水戸地方裁判所",
+  "gist": "家屋解体工事により生じた木くずのうちチップ原料用に選別されて再生利用としてチップ製造を行う業者に無償で処分を委託されたものが廃棄物の処理及び清掃に関する法律２条４項にいう「産業廃棄物」に当たるとされた事例",
+  "case_gist": "家屋解体業者が解体工事により生じた木くずをチップ原料用に選別した上，再生利用としてチップ製造を行う業者に対し無償で処分を委託した場合であっても，当該木くずは，その受託業者の再生利用が製造事業として確立し継続したものとなっておらず，ぞんざいに扱われて不法投棄等がされる危険性がある以上，廃棄物の処理及び清掃に関する法律２条４項にいう「産業廃棄物」に当たる。",
+  "lawsuit_id": "36986",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail3?id=36986",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/986/036986_hanrei.pdf",
+  "contents": "(1)\nb c\nb c\nc b\nb b\nc\nc\nc\nc\nc\n(2)\n(3)\n(4)\nc\n( )\n"
+}

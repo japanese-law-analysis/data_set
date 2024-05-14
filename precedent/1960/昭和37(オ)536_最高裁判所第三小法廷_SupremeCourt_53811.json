@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 12,
+    "day": 21
+  },
+  "case_number": "昭和37(オ)536",
+  "case_name": "立木引渡請求本訴、損害賠償請求反訴",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第19巻9号2187頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "昭和33(ネ)362",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 1,
+    "day": 30
+  },
+  "gist": "物資需給調整規則違反の行為が無効とされた事例。",
+  "case_gist": "臨時物資需給調整法に基づく木炭需給調整規則（昭和二四年農林省令第七四号）施行当時、木炭の生産者が同規則第二条、第一四条に違反して集荷業者でない者との間に締結した木炭譲渡契約は、私法上その効力を有しないものと解すべきである。",
+  "ref_law": "民法90条，臨時物資需給調整法1条，木炭需給調整規則（昭和24年農林省令74号）2条，木炭需給調整規則（昭和24年農林省令74号）14条",
+  "lawsuit_id": "53811",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53811",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/811/053811_hanrei.pdf"
+}

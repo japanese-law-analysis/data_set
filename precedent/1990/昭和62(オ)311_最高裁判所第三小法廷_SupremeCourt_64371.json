@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 4,
+    "month": 7,
+    "day": 14
+  },
+  "case_number": "昭和62(オ)311",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第165号233頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和61(ネ)896",
+  "original_date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 12,
+    "day": 3
+  },
+  "gist": "一　死刑の確定裁判を受けた者が刑法一一条二項に基づき拘置されている場合における死刑の時効の進行の有無\n二　死刑の確定裁判を受けた者につき長期間にわたる拘置を継続した後に死刑を執行することと憲法三六条にいう「残虐な刑罰」",
+  "case_gist": "一　死刑の確定裁判を受けた者が刑法一一条二項に基づき拘置されている場合には、死刑の時効は進行しない。\n二　死刑の確定裁判を受けた者につき長期間にわたる拘置を継続した後に死刑を執行することは、憲法三六条にいう「残虐な刑罰」に当たらない。",
+  "ref_law": "刑法11条2項，刑法32条，刑法33条，刑法34条，憲法36条",
+  "lawsuit_id": "64371",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64371",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/371/064371_hanrei.pdf"
+}

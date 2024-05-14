@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 3,
+    "day": 11
+  },
+  "case_number": "昭和44(オ)540",
+  "case_name": "残存建物収去土地明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第102号245頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和43(ネ)361",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 2,
+    "day": 14
+  },
+  "gist": "一、仮執行宣言の申立が却下された場合と不服申立の方法\n二、右不服申立に対する裁判",
+  "case_gist": "一、第一審において仮執行宣言の申立が却下された場合には、附帯控訴により不服の申立をなすことを妨げない。\n二、右附帯控訴にもかかわらず、控訴裁判所において仮執行の宣言が相当でないと判断するときは、その旨を判決の理由中において説示すれば足り、判決の主文において附帯控訴を棄却する旨を宣言する要はない。",
+  "ref_law": "民訴法196条，民訴法372条",
+  "lawsuit_id": "64008",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64008",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/008/064008_hanrei.pdf"
+}

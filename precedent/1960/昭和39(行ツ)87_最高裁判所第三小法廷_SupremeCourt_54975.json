@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 12,
+    "day": 24
+  },
+  "case_number": "昭和39(行ツ)87",
+  "case_name": "法律解釈指定通達取消請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第22巻13号3147頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和37(ネ)3077",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 7,
+    "day": 31
+  },
+  "gist": "通達の取消の訴が許されないとされた事例",
+  "case_gist": "昭和三五年三月八日付衛環発第八号都道府県等衛生主管部局長あて厚生省公衆衛生局環境衛生部長通知は、宗教団体の経営する墓地の管理者は埋葬等を請求する者が他の宗教団体の信者であることのみを理由としてその請求を拒むことはできないからこの趣旨にそつて事務処理をすべき旨を求めた行政組織内部における命令にすぎず、従来の法律の解釈、事務の取扱を変更するものではあるが、墓地の管理者らにあらたに埋葬の受忍義務を課する等これらの者の権利義務に直接具体的な法律上の影響を及ぼすものではなく、墓地の経営者からその取消を求める訴を提起することは許されない。",
+  "ref_law": "行政事件訴訟法3条2項，墓地、埋葬等に関する法律13条，墓地、埋葬等に関する法律21条",
+  "lawsuit_id": "54975",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54975",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/975/054975_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 11,
+    "day": 30
+  },
+  "case_number": "昭和53(オ)765",
+  "case_name": "工事代金預託等",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第125号763頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和49(ネ)1895",
+  "original_date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 1,
+    "day": 27
+  },
+  "gist": "注文者の請負人に対する目的物の瑕疵修補に代わる損害賠償債権を自働債権とし請負人の注文者に対する工事代金債権を受働債権とする相殺が当事者間の特約により許されないとされた事例",
+  "case_gist": "請負工事の目的物の瑕疵をめぐり紛争が生じたため、当事者間において、請負人のなすべき修補工事の内容を特定したうえ、注文者は予め弁護士である第三者に工事残代金を預託し、同人に請負人が右修補義務を履行したかどうかの判断権を委ね、右第三者がその履行があつたものと科断したときは、預託金を請負人に支払い、当事者双方は相互にその余の一切の請求権を放棄する旨を覚書で定めたなど判示の事情があるときは、注文者は自己独自の判断に基づき工事の目的物に瑕疵があるとしてその瑕疵修補に代わる損害賠償債権を自働債権とし請負人の工事残代金債権を受働債権とする相殺を主張することは、許されない。",
+  "ref_law": "民法505条，民法634条",
+  "lawsuit_id": "64272",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64272",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/272/064272_hanrei.pdf"
+}

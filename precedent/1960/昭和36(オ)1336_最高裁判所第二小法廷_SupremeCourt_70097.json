@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 9,
+    "day": 6
+  },
+  "case_number": "昭和36(オ)1336",
+  "case_name": "建物収去土地明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第67号505頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 7,
+    "day": 26
+  },
+  "gist": "土地の売買契約がなされるとともに、その土地につきなされていた賃貸借契約が合意解除された場合において右売買契約が債務不履行により解除されたときに賃貸借契約は復活するか。",
+  "case_gist": "特約がないかぎり、当然に賃貸借契約は復活しない。",
+  "ref_law": "民法545条1項",
+  "lawsuit_id": "70097",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70097",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/097/070097_hanrei.pdf"
+}

@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 16,
+    "month": 4,
+    "day": 23
+  },
+  "case_number": "平成14(受)248",
+  "case_name": "管理費等請求事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第58巻4号959頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成13(ネ)3618",
+  "original_date": {
+    "era": "Heisei",
+    "year": 13,
+    "month": 10,
+    "day": 31
+  },
+  "gist": "マンション管理組合が組合員である区分所有者に対して有する管理費及び特別修繕費に係る債権が民法１６９条所定の債権に当たるとされた事例",
+  "case_gist": "マンション管理組合が組合員である区分所有者に対して有する管理費及び特別修繕費に係る債権が，管理規約の規定に基づいて，区分所有者に対して発生するものであり，その具体的な額は総会の決議によって確定し，月ごとに支払われるものであるときは，当該債権は民法１６９条所定の債権に当たる。\n\n(補足意見がある。）",
+  "ref_law": "民法169条，建物の区分所有等に関する法律19条，建物の区分所有等に関する法律30条1項",
+  "lawsuit_id": "52360",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52360",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/360/052360_hanrei.pdf",
+  "contents": ""
+}

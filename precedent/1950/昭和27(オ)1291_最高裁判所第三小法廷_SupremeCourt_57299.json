@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 4,
+    "day": 5
+  },
+  "case_number": "昭和27(オ)1291",
+  "case_name": "借地権確認請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第9巻4号431頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 12,
+    "day": 18
+  },
+  "gist": "対抗力のある賃借権と第三者に対する建物収去土地明渡請求の有無",
+  "case_gist": "罹災地借地借家臨時処理法第一〇条により第三者に対抗できる賃借権を有する者は、その土地に建物を有する第三者に対し、右建物の収去、土地の明渡を請求することができる。",
+  "ref_law": "罹災都市借地借家臨時処理法10条，民法第3編第1章第2節，民法601条",
+  "lawsuit_id": "57299",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57299",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/299/057299_hanrei.pdf"
+}

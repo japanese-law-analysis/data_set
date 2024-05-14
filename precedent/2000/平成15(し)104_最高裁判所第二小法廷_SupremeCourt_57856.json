@@ -1,0 +1,21 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 16,
+    "month": 6,
+    "day": 24
+  },
+  "case_number": "平成15(し)104",
+  "case_name": "再審請求棄却決定に対する異議申立て棄却決定に対する特別抗告事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "その他",
+  "article_info": "集刑　第285号501頁",
+  "original_court_name": "札幌高等裁判所",
+  "gist": "再審請求事件の特別抗告審において申立人の死亡により再審請求事件の手続の終了宣言がされた事例",
+  "ref_law": "刑訴法439条1項",
+  "lawsuit_id": "57856",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57856",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/856/057856_hanrei.pdf"
+}

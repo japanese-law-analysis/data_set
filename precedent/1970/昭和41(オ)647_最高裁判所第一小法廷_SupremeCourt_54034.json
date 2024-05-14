@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 7,
+    "day": 16
+  },
+  "case_number": "昭和41(オ)647",
+  "case_name": "建物収去土地明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第24巻7号982頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和38(ネ)1455",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 3,
+    "day": 16
+  },
+  "gist": "代物弁済形式の担保権の実行に伴う法律関係につき民法三八八条の類推適用による法定地上権の成立が認められなかつた事例",
+  "case_gist": "土地に対する抵当権の設定当時において地上に建物が存在しなかつた場合には、右抵当権と同一債権の担保を目的として重ねて右土地につき停止条件付代物弁済契約が結ばれた当時には地上に債務者所有の建物が存在したときでも、右代物弁済契約の条件成就後の法律関係につき、民法三八八条の類推適用による法定地上権の成立を認めることはできない。",
+  "ref_law": "民法388条，民法482条",
+  "lawsuit_id": "54034",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54034",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/034/054034_hanrei.pdf"
+}

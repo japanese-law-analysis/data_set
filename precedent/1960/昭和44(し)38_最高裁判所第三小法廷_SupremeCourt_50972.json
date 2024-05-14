@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 7,
+    "day": 14
+  },
+  "case_number": "昭和44(し)38",
+  "case_name": "保釈許可取消、保釈請求却下の決定に対する特別抗告",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第23巻8号1057頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 6,
+    "day": 5
+  },
+  "gist": "勾留状の発せられていない公訴事実を裁量保釈の審査の一資料とすることの可否",
+  "case_gist": "被告人が甲、乙、丙の三個の公訴事実について起訴され、そのうち甲事実のみについて勾留状が発せられている場合において、裁量保釈の許否を審査するにあたり、甲事実の事案の内容や性質、被告人の経歴、行状、性格等の事情を考察するための一資料として乙、丙各事実を考慮することはさしつかえない。",
+  "ref_law": "刑訴法90条",
+  "lawsuit_id": "50972",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50972",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/972/050972_hanrei.pdf"
+}

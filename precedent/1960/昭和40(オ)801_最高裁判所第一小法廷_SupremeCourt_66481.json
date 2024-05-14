@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 12,
+    "day": 8
+  },
+  "case_number": "昭和40(オ)801",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第85号623頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和39(ネ)497",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 4,
+    "day": 27
+  },
+  "gist": "一　最高裁における訴訟手続受継の申立（破産による中断の場合）が却下された事例\n二　上告人会社が上告状（昭四〇・五・一二）、上告理由書（昭四〇・六・二九）を提出し、上告理由書提出期間も経過して、一件記録が最高裁判所に到着後上告人会社が破産（昭四〇・八・一四）になり訴訟手続中断した場合において、民訴法第二二二条第一項にのつとり、第四〇一条にのつとる判決言渡がされた事例",
+  "case_gist": "一　省略（決定理由参照）\n二　本件（昭和四〇年（オ）第八〇一号約束手形金請求事件）の訴訟手続受継申立に対する却下決定参照。なお本件は被上告人らの上告人会社に対する約束手形金請求事件であつて一、二審共上告人会社敗訴となり、上告となつた事案である。",
+  "ref_law": "民訴法222条1項，民訴法401条",
+  "lawsuit_id": "66481",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66481",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/481/066481_hanrei.pdf"
+}

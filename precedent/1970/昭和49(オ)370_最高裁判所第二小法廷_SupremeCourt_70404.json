@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 10,
+    "day": 25
+  },
+  "case_number": "昭和49(オ)370",
+  "case_name": "土地明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第113号83頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和47(ネ)2367",
+  "original_date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 1,
+    "day": 18
+  },
+  "gist": "バツテイング練習場として使用する目的でされた土地の賃貸借と借地法の適用の有無",
+  "case_gist": "バツテイング練習場として使用する目的で賃貸借がされた場合には、たとえ当初からその土地上にバツテイング練習場の経営に必要な事務所用等の建物を築造、所有することが予定されていたとしても、特段の事情のないかぎり、その土地の賃貸借は、借地法一条にいう「建物ノ所有ヲ目的トスル」賃貸借ということができない。",
+  "ref_law": "借地法1条",
+  "lawsuit_id": "70404",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70404",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/404/070404_hanrei.pdf"
+}

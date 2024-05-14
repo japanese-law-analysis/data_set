@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 12,
+    "day": 3
+  },
+  "case_number": "昭和24(れ)1332",
+  "case_name": "物価統制令違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第15号53頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 4,
+    "day": 4
+  },
+  "gist": "物價統制令に違反してなした數個の販賣行爲の日時が接近し又は同日頃である場合と罪數",
+  "case_gist": "物價統制令違反の所爲は統制額を超えた客観的な販賣の事實毎に犯罪が成立するものであるから、被告人が判示のようにたとい日時が接近しており又は同日頃であつても、Ａ他六名に對し各別に數量と代價とを定めて粳精米を販賣した以上、七個の違反行爲をしたものであつて原判決が右判示事實について刑法第四五條前段の併合罪を以て處斷したのは正當である。",
+  "ref_law": "刑法45條",
+  "lawsuit_id": "70721",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70721",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/721/070721_hanrei.pdf"
+}

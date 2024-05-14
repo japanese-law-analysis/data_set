@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 9,
+    "day": 25
+  },
+  "case_number": "昭和54(オ)296",
+  "case_name": "預金払戻",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第127号475頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和52(ネ)774",
+  "original_date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 11,
+    "day": 29
+  },
+  "gist": "定期預金の期限前払戻につき民法四七八条による免責が認められた事例",
+  "case_gist": "定期預金の期限前払戻を請求した者が、預金証書と届出印鑑を所持しているほか、年末資金として預金の一部を必要とすることと残額を再び預け入れることを申し入れ、払戻請求書に預金者の住所をほぼ正確に記載したなど原判示の事実関係のもとでは、払戻しをした銀行の係員に過失がなく、払戻は債権の準占有者に対する弁済として有効である。",
+  "ref_law": "民法478条，民法666条",
+  "lawsuit_id": "62239",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62239",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/239/062239_hanrei.pdf"
+}

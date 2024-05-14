@@ -1,0 +1,16 @@
+{
+  "trial_type": "LaborCase",
+  "date": {
+    "era": "Heisei",
+    "year": 27,
+    "month": 6,
+    "day": 19
+  },
+  "case_number": "平成25(行コ)211",
+  "case_name": "遺族補償年金等不支給決定処分取消請求控訴事件（原審・大阪地方裁判所平成２３年（行ウ）第１７８号）",
+  "court_name": "大阪高等裁判所",
+  "field": "労働",
+  "lawsuit_id": "85457",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail6?id=85457",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/457/085457_hanrei.pdf"
+}

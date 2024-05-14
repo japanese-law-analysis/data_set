@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 3,
+    "day": 13
+  },
+  "case_number": "昭和27(オ)535",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第10巻3号202頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 5,
+    "day": 30
+  },
+  "gist": "罹災都市借地借家臨時処理法第二条第一項にいう「現に建物所有の目的で使用する」場合にあたらない事例",
+  "case_gist": "強制疎開跡地約三二坪を普通建物所有の目的で賃借しそのうち約六坪の地上に約五坪の臨時応急的なバラツクを建設使用しているのみで、残地約二六坪を疎開時の残材を約三尺の高さに堆積せしめたまま放置しているときは、右残地については未だ罹災都市借地借家臨時処理法第二条第一項にいう「現に建物所有の目的で使用する」ものということはできない。",
+  "ref_law": "罹災都市借地借家臨時処理法2条",
+  "lawsuit_id": "57327",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57327",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/327/057327_hanrei.pdf"
+}

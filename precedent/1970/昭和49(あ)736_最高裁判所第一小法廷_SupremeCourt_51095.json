@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 3,
+    "day": 4
+  },
+  "case_number": "昭和49(あ)736",
+  "case_name": "建造物侵入",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "刑集　第30巻2号79頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 2,
+    "day": 27
+  },
+  "gist": "建造物侵入罪の客体となるいわゆる囲繞地にあたるとされた事例",
+  "case_gist": "国立大学の構内に在る附置研究所建物に接してその周辺に存在し、かつ、管理者が既存の門塀等の施設と新設の金網柵とを連結して完成した一連の囲障を設置することにより、建物の附属地として建物利用のために供されるものであることが明示された本件土地（判文参照）は、右金網柵が通常の門塀に準じ外部との交通を阻止しうる程度の構造を有するものである以上、囲障設置以前における右土地の管理、利用状況等からして、それが本来建物固有の敷地と認めうるものかどうか、また、囲障設備が仮設的構造をもち、その設置期間も初めから一時的なものとして予定されていたかどうかを問わず、同研究所建物のいわゆる囲繞地として、建造物侵入罪の客体にあたる。",
+  "ref_law": "刑法130条",
+  "lawsuit_id": "51095",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51095",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/095/051095_hanrei.pdf"
+}

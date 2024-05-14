@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 10,
+    "day": 13
+  },
+  "case_number": "昭和53(あ)1046",
+  "case_name": "覚せい剤取締法違反、銃砲刀剣類所持等取締法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第213号361頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 5,
+    "day": 2
+  },
+  "gist": "数個の罪を一罪である旨主張して憲法三九条、三一条違反をいう諭旨が単なる法令違反の主張として処理された事例",
+  "ref_law": "憲法39条，憲法31条",
+  "lawsuit_id": "60287",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60287",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/287/060287_hanrei.pdf"
+}

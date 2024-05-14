@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 5,
+    "day": 29
+  },
+  "case_number": "昭和57(行ツ)163",
+  "case_name": "境界確定",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第40巻4号603頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和38(ネ)1179",
+  "original_date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 6,
+    "day": 30
+  },
+  "gist": "町村の境界確定の基準",
+  "case_gist": "町村の境界に争論がある場合において、明治以降当該境界を変更又は確定する法定の措置がとられたことがなく、江戸時代における関係町村の当該係争地域に対する支配・管理・利用等のおおよその区分線を知り得るときは、これを基準として境界を確定すべきである。",
+  "ref_law": "地方自治法5条1項，地方自治法9条9項",
+  "lawsuit_id": "52691",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52691",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/691/052691_hanrei.pdf"
+}

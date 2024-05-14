@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 11,
+    "day": 17
+  },
+  "case_number": "昭和24(れ)1380",
+  "case_name": "常習賭博",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第14号669頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 4,
+    "day": 1
+  },
+  "gist": "五回に亘る同種賭博の累行と常習性の認定",
+  "case_gist": "賭博の常習とは、賭博を反覆累行する習癖を指し、所論のようにその者の生活において賭博が常態化していることを要するものではない。されば原判決が判示賭博の外五回に亘りいずれも同種の賭博を累行した事蹟に徴し常習を認定したことは經驗則に照し肯認し得るところであつて、原判決には所論の違法は存しない。",
+  "ref_law": "刑法186條1項，舊刑訴法336條，舊刑訴法360條1項",
+  "lawsuit_id": "74832",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74832",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/832/074832_hanrei.pdf"
+}

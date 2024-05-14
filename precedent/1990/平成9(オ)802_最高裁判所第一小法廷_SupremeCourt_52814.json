@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 10,
+    "month": 2,
+    "day": 26
+  },
+  "case_number": "平成9(オ)802",
+  "case_name": "遺留分減殺",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第52巻1号274頁",
+  "original_court_name": "広島高等裁判所",
+  "original_case_number": "平成7(ネ)299",
+  "original_date": {
+    "era": "Heisei",
+    "year": 8,
+    "month": 11,
+    "day": 29
+  },
+  "gist": "相続人に対する遺贈と民法一〇三四条にいう目的の価額",
+  "case_gist": "相続人に対する遺贈が遺留分減殺の対象となる場合においては、右遺贈の目的の価額のうち受遺者の遺留分額を超える部分のみが、民法一〇三四条にいう目的の価額に当たる。",
+  "ref_law": "民法1034条",
+  "lawsuit_id": "52814",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52814",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/814/052814_hanrei.pdf"
+}

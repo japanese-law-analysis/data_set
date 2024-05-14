@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 9,
+    "day": 27
+  },
+  "case_number": "昭和26(オ)634",
+  "case_name": "登記原因無効確認並びに所有権移転登記手続請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第9巻10号1409頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 3,
+    "day": 9
+  },
+  "gist": "一　継親子関係に基く準血族の関係と家を同じくすることの要否\n二　継親子関係に基く準血族の関係が消滅しない一事例",
+  "case_gist": "一　家を同じくすることは、継親子に基く準血族の関係を成立させるための要件であるが、その存続のための要件ではないと解するのが相当である。\n二　継母と継子の子（継孫）との間に一旦継親子関係に基く準血族の関係が成立した以上、その後、右継母がその配偶者たる実父と相携えて家を去り、次いで右実父が死亡しても、前記準血族の関係は、未だ消滅しないと解するのが相当である。",
+  "ref_law": "旧民法728条，旧民法729条",
+  "lawsuit_id": "56071",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56071",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/071/056071_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 3,
+    "day": 18
+  },
+  "case_number": "昭和50(オ)727",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第117号193頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和49(ネ)634",
+  "original_date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 4,
+    "day": 15
+  },
+  "gist": "不起訴の合意にあたらない場合",
+  "case_gist": "交通事故に基づく損害賠償請求につき、当事者間に成立した和解契約中の「右合意により、本件損害賠償問題は一切円満解決したので、今後本件に関しては如何なる事情が生じても決して異議の申立、訴訟等をしないことを確認する」旨の本旨は、債務者が示談による約定を履行したときは債権者において将来異議の申立、訴の提起等は一切しない旨の合意を意味するにすぎず、債務者がその約定を履行すると否とにかかわらず、右示談内容につき不起訴の合意が成立したことを意味するものではない。",
+  "ref_law": "民訴法第2編第1章",
+  "lawsuit_id": "64101",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64101",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/101/064101_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 10,
+    "day": 24
+  },
+  "case_number": "昭和33(あ)1331",
+  "case_name": "麻薬取締法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第12巻14号3407頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 6,
+    "day": 16
+  },
+  "gist": "控訴審における書面審理と憲法第三七条第一項。",
+  "case_gist": "控訴審において、公開法廷で公判審理が行われ、右期日に被告人は適法な召喚状の送達を受けたが出頭せず、弁護人の控訴趣旨書に基ずく弁論および検察官の意見の陳述の後弁論が終結された以上右手続は憲法第三七条第一項に違反しない。",
+  "ref_law": "憲法37条1項，刑訴法389条，刑訴法390条",
+  "lawsuit_id": "50588",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50588",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/588/050588_hanrei.pdf"
+}

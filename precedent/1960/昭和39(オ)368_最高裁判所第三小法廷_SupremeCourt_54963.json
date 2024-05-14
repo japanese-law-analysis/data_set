@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 5,
+    "day": 30
+  },
+  "case_number": "昭和39(オ)368",
+  "case_name": "損害賠償等請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第21巻4号961頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和35(ネ)2019",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 11,
+    "day": 27
+  },
+  "gist": "夫の負傷によつて妻の被つた精神的苦痛を理由とする妻の慰籍料請求が認められなかつた事例",
+  "case_gist": "夫が交通事故によつて負傷し後遺症があつても、それが原審認定の程度にとどまり、そのために不具者となつて妻の一生の負担となるほどのものではなく、その他原判決判示のような諸般の事情（原判決理由参照）にあるときは、妻が夫の右負傷によつて被つた自己の精神的苦痛を理由として慰籍料を請求することはできない。",
+  "ref_law": "民法715条，民法710条，民法711条",
+  "lawsuit_id": "54963",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54963",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/963/054963_hanrei.pdf"
+}

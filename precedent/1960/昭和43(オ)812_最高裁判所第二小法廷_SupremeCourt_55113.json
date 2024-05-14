@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 12,
+    "day": 20
+  },
+  "case_number": "昭和43(オ)812",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第22巻13号3033頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和40(ネ)590",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 5,
+    "day": 14
+  },
+  "gist": "建物の朽廃による建物の賃貸借契約の終了が認められないとされた事例",
+  "case_gist": "建物の土台の一部が低下し、柱の一部も土台との接合部において腐蝕し、このため建物が傾斜している場合であつても、土台を固着し、柱の腐蝕部分は切り取つて継ぎ足し、これを土台に定着させる等通常の補修を加えれば、倒壊の危険を免れ、なお相当期間建物の効用を果たすことができるときは、建物の朽廃によりその賃貸借契約が終了したと認めることはできない。",
+  "ref_law": "民法第3編第2章第7節第3款（賃貸借ノ終了）",
+  "lawsuit_id": "55113",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55113",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/113/055113_hanrei.pdf"
+}

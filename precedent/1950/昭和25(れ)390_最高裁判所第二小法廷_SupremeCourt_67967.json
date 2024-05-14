@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 9,
+    "day": 8
+  },
+  "case_number": "昭和25(れ)390",
+  "case_name": "贈賄",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第19号205頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 12,
+    "day": 24
+  },
+  "gist": "被告人と共犯關係ありとして有罪の確定判決を受けた者を證人とする場合に宣誓を命じないことの正否",
+  "case_gist": "原棄公判廷において證人Ａを訊問するに當り、原審が同證人に宣誓をなさしめなかつたことは記録上明らかであるが、舊刑訴法第二〇一條第一項第三號は被告人と共犯關係ありとして、有罪の確定判決を受けた者をも包含するものと解すべきであるから（大審院昭和四年（れ）第四二七號同年五月三〇日判決參照）原審が右證人に宣誓を命じなかつたことは正當である。",
+  "ref_law": "舊刑訴法201條1項3號",
+  "lawsuit_id": "67967",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=67967",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/967/067967_hanrei.pdf"
+}

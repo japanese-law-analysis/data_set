@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 12,
+    "day": 15
+  },
+  "case_number": "昭和24(れ)723",
+  "case_name": "贈賄故買、同寄蔵",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第15号371頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 11,
+    "day": 17
+  },
+  "gist": "公判の公開と公判調書の記載",
+  "case_gist": "舊刑訴第六〇條第二項第四號には特に「公開ヲ禁ジタルトキハ其ノ旨及理由」を公判調書に記載すべきものと規定されているのであつて、原則として公開してなさるべき公判手續を公開した場合には手續上當然のこととしてその旨公判調書に記載する必要はないものとせられている。これと同旨の見解は當裁判所大法廷の判例とするところである。（昭和二三年第二一九號同年六月一四日大法廷判決、判例集第二卷第七號六八〇頁以下参照）されば原審公判調書に特に公開を禁止した旨の記載がない本件においては所論公判の審理は、公開の法廷で行われたものと認められるのである。",
+  "ref_law": "舊刑訴法60條，舊刑訴法64條",
+  "lawsuit_id": "70826",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70826",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/826/070826_hanrei.pdf"
+}

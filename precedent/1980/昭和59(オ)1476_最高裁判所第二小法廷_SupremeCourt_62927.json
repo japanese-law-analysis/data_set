@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 4,
+    "day": 12
+  },
+  "case_number": "昭和59(オ)1476",
+  "case_name": "損害賠償等",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "却下",
+  "article_info": "集民　第144号461頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_case_number": "昭和57(ネ)161",
+  "original_date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 7,
+    "day": 19
+  },
+  "gist": "必要的共同訴訟と二重上告",
+  "case_gist": "必要的共同訴訟の共同訴訟人の一人が上告を提起したのちに他の共同訴訟人が提起した上告は、二重上告として不適法である。",
+  "ref_law": "民訴法62条1項，民訴法231条，民訴法378条，民訴法396条",
+  "lawsuit_id": "62927",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62927",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/927/062927_hanrei.pdf"
+}

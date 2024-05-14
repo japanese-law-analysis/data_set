@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 1,
+    "day": 17
+  },
+  "case_number": "昭和49(オ)8",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第114号1頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和47(ネ)368",
+  "original_date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 10,
+    "day": 23
+  },
+  "gist": "民訴法二七九条と責問権の放棄",
+  "case_gist": "裁判所が受命裁判官をして尋問させた証人及び本人について民訴法二七九条各号該当の事由がなかつたとしても、当事者が右証拠調につき遅滞なく異議を述べなかつたときは、責問権を放棄したものと解すべきである。",
+  "ref_law": "民訴法141条，民訴法265条1項，民訴法279条，民訴法342条",
+  "lawsuit_id": "62202",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62202",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/202/062202_hanrei.pdf"
+}

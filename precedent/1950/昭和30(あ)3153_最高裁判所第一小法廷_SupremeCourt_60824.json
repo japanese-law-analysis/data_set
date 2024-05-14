@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 6,
+    "day": 21
+  },
+  "case_number": "昭和30(あ)3153",
+  "case_name": "食糧管理法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第113号797頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 9,
+    "day": 29
+  },
+  "gist": "一　主要食糧の闇売買における私法上の効果の有無と食糧管理法違反罪の成否\n二　食糧管理法第三一条と刑法第一九条の適用",
+  "case_gist": "一　主要食糧を闇買いした被告人がこれを他に譲渡した場合においては、闇買い行為が司法上無効たると否とを問わず、第一審判決に示す法条（食糧管理法施行令八条、同施行規則三九条等）を適用して処断することを得るものというべきである。\n二　食糧管理法三一条の場合に刑法一九条の適用のあることは勿論である。",
+  "ref_law": "食糧管理法9条，食糧管理法31条，食糧管理法施行令6条，食糧管理法施行令8条，食糧管理法施行規則39条，刑法19条",
+  "lawsuit_id": "60824",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60824",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/824/060824_hanrei.pdf"
+}

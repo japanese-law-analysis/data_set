@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 12,
+    "day": 26
+  },
+  "case_number": "昭和30(あ)1885",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第111号1129頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 5,
+    "day": 19
+  },
+  "gist": "選挙運動より供与を受けた金銭中に他の選挙人又は選挙運動者に交付すべき金銭が含まれていた場合、全部の金銭に対する受供与罪の成否",
+  "case_gist": "一　被告人等が供与を受けた金銭中に他の選挙人又は選挙運動者に交付すべき金銭が含まれていたとしても、選挙運動の報酬と不可分の関係にあるのであるから全部の金銭について受供与罪が成立する。\n\n二　公職選挙法違反事件において、審判の対象として認定されていない金員を被告人から没収した判決は、刑訴第四一一条第一号により破棄を免れない。",
+  "ref_law": "公職選挙法221条1項4号，公職選挙法224条，刑訴法411条1号",
+  "lawsuit_id": "75805",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=75805",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/805/075805_hanrei.pdf"
+}

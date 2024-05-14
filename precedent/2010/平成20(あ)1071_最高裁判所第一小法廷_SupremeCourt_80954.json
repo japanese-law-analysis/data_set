@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 12,
+    "day": 20
+  },
+  "case_number": "平成20(あ)1071",
+  "case_name": "行政書士法違反被告事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "刑集　第64巻8号1291頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_case_number": "平成19(う)339",
+  "original_date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 5,
+    "day": 13
+  },
+  "gist": "観賞ないしは記念のための品として作成された家系図が，行政書士法１条の２第１項にいう「事実証明に関する書類」に当たらないとされた事例",
+  "case_gist": "個人の観賞ないしは記念のための品として作成され，対外的な関係で意味のある証明文書として利用されることが予定されていなかった本件家系図は，行政書士法１条の２第１項にいう「事実証明に関する書類」に当たらない。\n(補足意見がある。）",
+  "ref_law": "行政書士法1条の2第1項，行政書士法19条1項，行政書士法（平成20年法律第3号による改正前のもの）21条2号",
+  "lawsuit_id": "80954",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=80954",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/954/080954_hanrei.pdf",
+  "contents": ""
+}

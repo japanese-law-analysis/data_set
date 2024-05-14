@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 8,
+    "day": 30
+  },
+  "case_number": "昭和30(あ)3532",
+  "case_name": "貸金業等の取締に関する法律違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第10巻8号1292頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 10,
+    "day": 31
+  },
+  "gist": "貸金業等の取締に関する法律第七条にいわゆる預り金にあたる事例",
+  "case_gist": "出資金または融資金等の名義を用いたとしても、元本額またはそれ以上の額を弁済期に返還することを約旨として不特定多数の者から金銭を受け入れることは、貸金業等の取締に関する法律第七条にいわゆる預り金にあたる。",
+  "ref_law": "貸金業等の取締に関する法律7条",
+  "lawsuit_id": "51433",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51433",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/433/051433_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 7,
+    "day": 10
+  },
+  "case_number": "昭和33(あ)380",
+  "case_name": "器物毀棄",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第12巻11号2500頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 12,
+    "day": 27
+  },
+  "gist": "刑法第二六一条の器物毀棄罪と告訴権者。",
+  "case_gist": "地方裁判所支部庁舎の玄関扉のガラス等を破壊した器物毀棄の罪については、当該地方裁判所長が適法な告訴権を有する。",
+  "ref_law": "刑法261条，刑法264条，刑訴法230条，国有財産法2条1項，国有財産法3条，国有財産法5条，下級裁判所会計事務規程2条，下級裁判所会計事務規程87条",
+  "lawsuit_id": "50603",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50603",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/603/050603_hanrei.pdf"
+}

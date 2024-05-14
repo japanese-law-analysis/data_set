@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 8,
+    "day": 5
+  },
+  "case_number": "昭和27(あ)1938",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第67号59頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 2,
+    "day": 25
+  },
+  "gist": "控訴趣意書提出期間経過後に弁護人が国選された場合と憲法第三七条第三項",
+  "case_gist": "本件につき原審訴訟記録をみれば、裁判所から被告人に弁護人を選任するかどうかの問合せをした旨の記載なく、控訴趣意書提出の最終日たる昭和二六年一二月七日を経過して公判期日の二日前たる昭和二七年二月九日に至り始めて弁護人が国選されていること所論のとおりであるが、弁護人は公判期日に出頭して被告人提出の控訴趣意書に基いて弁論し、異議なく弁論を終了したことが認められる。このような場合には憲法三七条三項の違背があるといえない。",
+  "ref_law": "憲法37条3項，刑訴法36条，刑訴法289条，刑訴法391条",
+  "lawsuit_id": "64872",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64872",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/872/064872_hanrei.pdf"
+}

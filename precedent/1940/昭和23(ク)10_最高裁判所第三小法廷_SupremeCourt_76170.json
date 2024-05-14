@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 4,
+    "day": 21
+  },
+  "case_number": "昭和23(ク)10",
+  "case_name": "仮処分執行取消決定に対する即時抗告事件につきなした決定に対する抗告",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "却下",
+  "article_info": "集民　第1号149頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和22(ラ)11",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 12,
+    "day": 20
+  },
+  "lawsuit_id": "76170",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=76170",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/170/076170_hanrei.pdf"
+}

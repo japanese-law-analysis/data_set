@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 2,
+    "day": 18
+  },
+  "case_number": "昭和41(あ)1208",
+  "case_name": "道路交通法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第162号437頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 4,
+    "day": 26
+  },
+  "gist": "道路標識による最高速度の規制と公知の事実",
+  "case_gist": "東京都内においては、普通自動車の最高速度を原則として四〇キロメートル毎時とする規制が、東京都公安委員会の設置する道路標識によりなされている事実は、公知の事実に属する。",
+  "ref_law": "刑訴法317条，道路交通法9条2項，道路交通法22条2項，東京都道路交通規則6条",
+  "lawsuit_id": "58970",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58970",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/970/058970_hanrei.pdf"
+}

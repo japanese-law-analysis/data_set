@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 12,
+    "day": 24
+  },
+  "case_number": "昭和48(オ)1074",
+  "case_name": "遺言書真否確認等請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第28巻10号2152頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和47(ネ)1496",
+  "original_date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 7,
+    "day": 12
+  },
+  "gist": "遺言者の押印を欠ぐ自筆遺言証書が有効とされた事例",
+  "case_gist": "英文の自筆遺言証書に遺言者の署名が存するが押印を欠く場合において、同人が遺言書作成の約一年九か月前に日本に帰化した白系ロシア人であり、約四〇年間日本に居住していたが、主としてロシア語又は英語を使用し、日本語はかたことを話すにすぎず、交際相手は少数の日本人を除いてヨーロッパ人に限られ、日常の生活もまたヨーロッパの様式に従い、印章を使用するのは官庁に提出する書類等特に先方から押印を要求されるものに限られていた等原判示の事情（原判決理由参照）があるときは、右遺言書は有効と解すべきである。",
+  "ref_law": "民法960条，民法967条，民法968条",
+  "lawsuit_id": "55144",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55144",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/144/055144_hanrei.pdf"
+}

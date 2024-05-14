@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 9,
+    "day": 2
+  },
+  "case_number": "昭和43(行ツ)10",
+  "case_name": "固定資産税等異議申立棄却決定取消等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第28巻6号1033頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和40(行コ)47",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 10,
+    "day": 24
+  },
+  "gist": "地方税法七三条の四第一項六号及び三四八条二項一二号所定の「学術の研究を目的とする」法人の意義",
+  "case_gist": "地方税法七三条の四第一項六号及び三四八条二項一二号所定の「学術の研究を目的とする」法人とは、その定款又は寄附行為の目的条項に日本学術会議法一〇条に定める区分によつて示されるような意味における人文科学及び自然科学の学理的研究並びにその応用に関する研究を行う趣旨を掲げ、かつ、その組織運営及び活動の実体からみて右研究という目的にそつていると認められる法人をいい、必ずしも学術に関する法人として文部大臣の設立許可を受けたもののみに限定されない。",
+  "ref_law": "地方税法73条の4第1項6号，地方税法348条2項12号",
+  "lawsuit_id": "54146",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54146",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/146/054146_hanrei.pdf"
+}

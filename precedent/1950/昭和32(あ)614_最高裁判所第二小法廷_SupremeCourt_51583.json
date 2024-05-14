@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 6,
+    "day": 19
+  },
+  "case_number": "昭和32(あ)614",
+  "case_name": "職業安定法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第11巻6号1695頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 2,
+    "day": 7
+  },
+  "gist": "大赦令により赦免され、刑の言渡の効力を失つた前科を量刑当否の判断の資料に供すること等の適否",
+  "case_gist": "大赦令により赦免され、刑の言渡の効力を失つた前科であつても、第一審においてその前科調書を証拠として取り調べ、右受刑の事実を審問し、または第二審においてこれを前審の量刑当否の判断の資料に供したからといつて、違法ということはできない。",
+  "ref_law": "大赦令（昭和20年勅令579号）1条1項44号，恩赦令（大正元年勅令23号）3条1号，恩赦法（昭和22年法律20号）3条1号，刑訴法381条",
+  "lawsuit_id": "51583",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51583",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/583/051583_hanrei.pdf"
+}

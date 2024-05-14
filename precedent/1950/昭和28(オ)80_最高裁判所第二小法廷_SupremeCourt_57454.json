@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 10,
+    "day": 28
+  },
+  "case_number": "昭和28(オ)80",
+  "case_name": "換地指定並びに引渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第9巻11号1727頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 12,
+    "day": 27
+  },
+  "gist": "都市計画法および特別都市計画法による区画整理に際し、土地所有者または関係人の特定の土地を換地または換地予定地として指定を求める権利の有無",
+  "case_gist": "都市計画法および特別都市計画法による区画整理の施行に際し、土地所有者または関係者は、特定の土地を換地または換地予定地として、指定すべきことを要求する権利を有しない。",
+  "ref_law": "都市計画法12条（昭和29年5月法律第120号による削除前），特別都市計画法13条，耕地整理法30条",
+  "lawsuit_id": "57454",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57454",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/454/057454_hanrei.pdf"
+}

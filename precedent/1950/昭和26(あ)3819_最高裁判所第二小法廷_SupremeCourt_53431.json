@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 5,
+    "day": 8
+  },
+  "case_number": "昭和26(あ)3819",
+  "case_name": "詐欺、背任",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第7巻5号965頁",
+  "original_court_name": "広島高等裁判所\n        　松江支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 8,
+    "day": 29
+  },
+  "gist": "一　詐欺罪と背任行為\n二　控訴裁判所が第一審判決には法令の適用に誤がありとしてこれを破棄した場合と控訴審における訴因変更の要否",
+  "case_gist": "一　他人の事務を処理する者が自己の利益を図り任務に関して本人を欺き財物を交付せしめたときは、詐欺罪が成立し、別に背任罪を構成しない。\n二　第一審裁判所が、基礎状記載の訴因と同一の背任罪を認定して刑法第二四七条を適用したが、背任罪として判示したのは法令の誤解であつて判示自体により詐欺の事実が確定されているものと認められる場合には、控訴裁判所は第一審判決を破棄した上、法令適用の誤を正すべきであつて、控訴審において背任の訴因を詐欺の訴因に変更する手続を必要としない。",
+  "ref_law": "刑法246条，刑法247条，刑訴法256条，刑訴法312条，刑訴法380条",
+  "lawsuit_id": "53431",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53431",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/431/053431_hanrei.pdf"
+}

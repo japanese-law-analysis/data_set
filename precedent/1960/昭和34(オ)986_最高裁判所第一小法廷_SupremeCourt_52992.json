@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 9,
+    "day": 1
+  },
+  "case_number": "昭和34(オ)986",
+  "case_name": "沈船所有権確認請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第14巻11号1991頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 7,
+    "day": 17
+  },
+  "gist": "一　沈没船所有権移転の対抗要件\n二　沈没船の引渡があつたと認むべき事例",
+  "case_gist": "一　海底三五尋以上の海深にあつて引揚困難な沈没船の所有権移転を第三者に対抗するには、たとえ公称屯数二〇屯以上の場合でも、民法第一七八条にいう引渡があれば足りる。\n二　原判示のような事情（原判決理由参照）のもとで、沈没船売買契約書、保険会社の損害品売渡証、関係漁場使用に関する漁業協同組合長名義の承諾書等関係書類授受があつたときは、当該沈没船につき民法第一七八条にいう引渡があつたものと認むるのが相当である。",
+  "ref_law": "商法686条，商法687条，民法178条",
+  "lawsuit_id": "52992",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52992",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/992/052992_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 2,
+    "day": 16
+  },
+  "case_number": "昭和38(オ)802",
+  "case_name": "賃借権不存在確認並びに土地明渡請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第77号391頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "昭和37(ネ)274",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 4,
+    "day": 24
+  },
+  "gist": "他人が借地権を有することを知つて買い受けた土地の買主が右借地権を否定した場合の権利濫用の成否。",
+  "case_gist": "土地を買い受ける当時、同土地に他人が貸借権を有することを買主が知つていたという事実だけでは、当該買主がその他人の賃借権を否定することをもつて、直ちに権利の濫用であり、信義則に反するとは断定しえない。",
+  "ref_law": "建物保護ニ関スル法律1条，民法1条",
+  "lawsuit_id": "77717",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77717",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/717/077717_hanrei.pdf"
+}

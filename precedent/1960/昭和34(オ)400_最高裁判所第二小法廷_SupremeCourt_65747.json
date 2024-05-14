@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 4,
+    "day": 1
+  },
+  "case_number": "昭和34(オ)400",
+  "case_name": "外国人退去強制令書発付処分取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第41号17頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 12,
+    "day": 15
+  },
+  "lawsuit_id": "65747",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=65747",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/747/065747_hanrei.pdf"
+}

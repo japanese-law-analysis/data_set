@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 11,
+    "day": 6
+  },
+  "case_number": "昭和41(オ)1236",
+  "case_name": "転付命令に基づく請求（民訴法一九八条二項に基づく申立あり）",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集民　第101号407頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和41(ネ)16",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 8,
+    "day": 29
+  },
+  "gist": "上告審において民訴法一九八条二項の損害賠償を命じた事例",
+  "case_gist": "（省略）",
+  "ref_law": "民訴法198条2項",
+  "lawsuit_id": "63991",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63991",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/991/063991_hanrei.pdf"
+}

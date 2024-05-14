@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 63,
+    "month": 9,
+    "day": 16
+  },
+  "case_number": "昭和62(あ)944",
+  "case_name": "覚せい剤取締法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第42巻7号1051頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 7,
+    "day": 15
+  },
+  "gist": "所持品検査及び採尿手続に違法があつてもこれにより得られた証拠の証拠能力は否定されないとした事例",
+  "case_gist": "警察官が被告人をその意思に反して警察署に連行したうえ、その状況を直接利用して所持品検査及び採尿を行つた場合に、その手続に違法があつても、連行の際に被告人が落とした紙包みの中味が覚せい剤であると判断され、その時点で被告人を逮捕することが許された本件事情の下では（判文参照）、その違法の程度はいまだ重大であるとはいえず、右手続により得られた覚せい剤等の証拠の証拠能力は否定されない。",
+  "ref_law": "憲法35条，警察官職務執行法2条1項ないし3項，刑訴法1条，刑訴法218条1項，刑訴法221条",
+  "lawsuit_id": "50365",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50365",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/365/050365_hanrei.pdf"
+}

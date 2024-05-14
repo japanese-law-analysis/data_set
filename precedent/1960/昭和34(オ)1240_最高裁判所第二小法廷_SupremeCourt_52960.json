@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 9,
+    "day": 2
+  },
+  "case_number": "昭和34(オ)1240",
+  "case_name": "知事選挙の当選の効力に関する争訟",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第14巻11号2061頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 9,
+    "day": 19
+  },
+  "gist": "砂利採取事業を行なう会社は地方自治法第一四二条にいう「請負」をする法人にあたるか。",
+  "case_gist": "知事の許可を受けて砂利採取事業を行なう株式会社は地方自治法第一四二条にいう「請負」をする法人に該当しない。",
+  "ref_law": "地方自治法142条，河川法17条ノ2",
+  "lawsuit_id": "52960",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52960",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/960/052960_hanrei.pdf"
+}

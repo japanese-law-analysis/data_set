@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 6,
+    "day": 30
+  },
+  "case_number": "昭和37(あ)79",
+  "case_name": "収賄、背任、横領、銃砲刀剣類等所持取締令違反、贈賄",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第18巻5号236頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 12,
+    "day": 25
+  },
+  "gist": "刑法第七条の公務員に当るとされた事例。",
+  "case_gist": "丸亀市モーターボート整備員（判文参照）は、刑法第七条の「法令ニ依リ公務ニ従事スル職員」に当る。",
+  "ref_law": "地方自治法172条2項，地方公務員法3条3項3号，刑法7条",
+  "lawsuit_id": "57006",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57006",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/006/057006_hanrei.pdf"
+}

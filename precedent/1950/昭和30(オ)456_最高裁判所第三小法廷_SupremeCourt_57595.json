@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 6,
+    "day": 26
+  },
+  "case_number": "昭和30(オ)456",
+  "case_name": "離婚無効確認請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第10巻6号748頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 12,
+    "day": 25
+  },
+  "gist": "離婚無効確認の訴と確認の利益",
+  "case_gist": "原告が被告に対し裁判上の離婚を求める意思があるからといつて、協議離婚の無効確認を求める利益がないということはできない。",
+  "ref_law": "民訴法225条，民法763条，人事訴訟手続法1条",
+  "lawsuit_id": "57595",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57595",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/595/057595_hanrei.pdf"
+}

@@ -1,0 +1,16 @@
+{
+  "trial_type": "LaborCase",
+  "date": {
+    "era": "Heisei",
+    "year": 26,
+    "month": 6,
+    "day": 5
+  },
+  "case_number": "平成24(ネ)3123等",
+  "case_name": "地位確認等請求控訴，同附帯控訴事件（原審・東京地方裁判所形成２３年（ワ）第１４２８号等地位確認等請求事件",
+  "court_name": "東京高等裁判所",
+  "field": "労働",
+  "lawsuit_id": "84989",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail6?id=84989",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/989/084989_hanrei.pdf"
+}

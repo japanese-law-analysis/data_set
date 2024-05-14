@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 10,
+    "day": 16
+  },
+  "case_number": "昭和42(あ)3003",
+  "case_name": "商法違反、業務上横領",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第23巻10号1359頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 10,
+    "day": 17
+  },
+  "gist": "一　商法四九四条にいう「不正の請託」の意義\n二　商法四九四条にいう「不正の請託」にあたるとされた事例",
+  "case_gist": "一　会社役員等が経営上の不正や失策の追及を免れるため、株主総会における公正な発言または公正な議決権の行使を妨げることを株主に依頼することは、商法四九四条にいう「不正の請託」に該当する。\n二　株式会社の役員に会社の新製品開発に関する経営上の失策があり、来るべき株主総会において株主からその責任追及が行なわれることが予想されているときに、右会社の役員が、いわゆる総会屋たる株主またはその代理人に報酬を与え、総会の席上他の一般株主の発言を押えて、議案を会社原案のとおり成立させるよう議事進行をはかることを依頼することは、商法四九四条の「不正の請託」にあたる。",
+  "ref_law": "商法494条",
+  "lawsuit_id": "50860",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50860",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/860/050860_hanrei.pdf"
+}

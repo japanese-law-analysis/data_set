@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 1,
+    "day": 22
+  },
+  "case_number": "昭和36(オ)857",
+  "case_name": "保証債務履行請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第64号107頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 4,
+    "day": 17
+  },
+  "gist": "準消費貸借と更改。",
+  "case_gist": "貸金を目的とする準消費貸借契約がなされた場合に、利息弁済期の変更、新保証人、新担保の設定があつたからといつて直ちにこれを更改であるといわねばならない理はない。",
+  "ref_law": "民法513条，民法588条",
+  "lawsuit_id": "66014",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66014",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/014/066014_hanrei.pdf"
+}

@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 3,
+    "day": 10
+  },
+  "case_number": "平成20(ネ)196",
+  "case_name": "謝罪等請求控訴事件",
+  "court_name": "名古屋高等裁判所金沢支部         　第１部",
+  "result": "棄却",
+  "original_court_name": "金沢地方裁判所",
+  "original_case_number": "平成17(ワ)382",
+  "original_result": "棄却",
+  "gist": "第二次世界大戦中に中国大陸から日本国内へ連行され，港湾荷役作業等の労働に従事した者ないしその遺族である控訴人らが，被控訴人らの強制連行，強制労働により精神的苦痛等を被ったとして，被控訴人らに謝罪広告の掲載と損害賠償を求めたのに対し，控訴人らの不法行為ないし被控訴人会社の債務不履行を理由とする請求権は，いずれも日中共同声明によって裁判上訴求する権能を失ったとして，控訴人らの請求を棄却した原判決を維持した事例",
+  "lawsuit_id": "80138",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=80138",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/138/080138_hanrei.pdf",
+  "contents": ""
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 11,
+    "day": 27
+  },
+  "case_number": "昭和37(オ)379",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第76号325頁",
+  "original_court_name": "仙台高等裁判所\n        　秋田支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 1,
+    "day": 18
+  },
+  "gist": "村長に契約締結の権限ありと信ずるにつき正当の事由がないとされた事例。",
+  "case_gist": "村長が契約を締結にするにつき村議会の議決を経ているか否かに関し、相手方において右議決の有無を調査したことすら認め得ず、その他原判示の事実関係のもとにおいては、村長に右契約締結の権限ありと信ずるにつき正当の事由があるとはいえない。",
+  "ref_law": "地方自治法96条1項8号，民法110条",
+  "lawsuit_id": "63805",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63805",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/805/063805_hanrei.pdf"
+}

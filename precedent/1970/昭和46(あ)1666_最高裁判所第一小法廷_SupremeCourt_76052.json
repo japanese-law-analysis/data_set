@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 12,
+    "day": 23
+  },
+  "case_number": "昭和46(あ)1666",
+  "case_name": "わいせつ図画販売目的所持、わいせつ図画販売",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第182号721頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 6,
+    "day": 9
+  },
+  "gist": "わいせつ文書等の頒布等の禁止と憲法一三条",
+  "case_gist": "わいせつ文書等の頒布等を禁止した刑法一七五条は、憲法一三条に違反しない。",
+  "ref_law": "憲法13条，刑法175条",
+  "lawsuit_id": "76052",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=76052",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/052/076052_hanrei.pdf"
+}

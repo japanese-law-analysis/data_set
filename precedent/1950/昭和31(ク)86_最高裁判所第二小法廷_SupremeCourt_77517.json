@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 5,
+    "day": 4
+  },
+  "case_number": "昭和31(ク)86",
+  "case_name": "仮処分執行取消決定に対する抗告につきなした原決定取消決定に対する抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "却下",
+  "article_info": "集民　第22号43頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和30(ラ)149",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 12,
+    "day": 27
+  },
+  "lawsuit_id": "77517",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77517",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/517/077517_hanrei.pdf"
+}

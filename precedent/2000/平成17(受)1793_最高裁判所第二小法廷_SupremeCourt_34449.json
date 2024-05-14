@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 3,
+    "day": 30
+  },
+  "case_number": "平成17(受)1793",
+  "case_name": "離婚等請求本訴，同反訴事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集民　第223号767頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成17(ネ)1742",
+  "original_date": {
+    "era": "Heisei",
+    "year": 17,
+    "month": 7,
+    "day": 6
+  },
+  "gist": "離婚の訴えにおける別居後離婚までの間の子の監護費用の支払を求める旨の申立てと裁判所の審理判断の要否",
+  "case_gist": "離婚の訴えにおいて，別居後単独で子の監護に当たっている当事者から他方の当事者に対し，別居後離婚までの期間における子の監護費用の支払を求める旨の申立てがあった場合には，裁判所は，離婚請求を認容する際に，人事訴訟法３２条１項所定の子の監護に関する処分を求める申立てとして，その当否について審理判断しなければならない。",
+  "ref_law": "人事訴訟法32条1項，民法766条1項，民法771条",
+  "lawsuit_id": "34449",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=34449",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/449/034449_hanrei.pdf",
+  "contents": ""
+}

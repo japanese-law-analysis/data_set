@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 2,
+    "month": 7,
+    "day": 19
+  },
+  "case_number": "昭和62(オ)1083",
+  "case_name": "債務弁済否認に基づく金銭返還",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第44巻5号837頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_case_number": "昭和61(ネ)144",
+  "original_date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 6,
+    "day": 24
+  },
+  "gist": "給与支給機関が地方公務員等共済組合法一一五条二項に基づきＤ組合の組合員である地方公務員の給与から貸付金残額を控除して右組合に払い込む行為と破産法七二条二号による否認",
+  "case_gist": "給与支給機関が、地方公務員等共済組合法一一五条二項に基づき、Ｄ組合の組合員である地方公務員の給与から未返済の貸付金に相当する金額を控除してこれを右組合に払い込む行為は、破産法七二条二号による否認の対象となる。",
+  "ref_law": "地方公務員等共済組合法115条2項，破産法72条2号",
+  "lawsuit_id": "52736",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52736",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/736/052736_hanrei.pdf"
+}

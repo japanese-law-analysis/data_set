@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 6,
+    "day": 27
+  },
+  "case_number": "昭和42(オ)851",
+  "case_name": "建物収去土地明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第91号517頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和40(ネ)508",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 4,
+    "day": 17
+  },
+  "gist": "旧借地法第一二条（昭和四一年法律第九三号による改正前のもの）による地代増額請求の効果の発生時期",
+  "case_gist": "旧借地法第一二条（昭和四一年法律第九三号による改正前のもの）による地代増額請求権の行使による適正額の増額の効果は、増額請求の意思表示が相手方に到達した時に発生するものと解すべく、現行借地法第一二条第二、第三項が新設されても同条項施行前の増額請求については、同様に解すべきである。",
+  "ref_law": "借地法12条2項，借地法12条3項，旧借地法12条（昭和41年法律第93号による改正前のもの）",
+  "lawsuit_id": "70304",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70304",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/304/070304_hanrei.pdf"
+}

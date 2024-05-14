@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 5,
+    "day": 23
+  },
+  "case_number": "昭和24(れ)3126",
+  "case_name": "食糧管理法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第17号745頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 11,
+    "day": 29
+  },
+  "gist": "單なる情状に過ぎない前科を被告人の公判廷における供述だけで認定することの適否",
+  "case_gist": "しかし被告人の前科は、罪となるべき事實ではなく、單なる情状に過ぎないから、これについて厳格を證據説明を必要としないものであるのみならず原判決が證據として採用したのは被告人の原審公判廷における供述である。さうして公判廷における被告人の供述が憲法第三八條第三項にいわゆる本人の自白中に含まれないことは既に當裁判所の判例（昭和二三年（れ）第一六八號同年七月二九日大法廷判決昭和二三年（れ）第一五四四號同二四年四月二〇日大法廷判決）に示されている通りである。",
+  "ref_law": "刑訴應急措置法10條3項，舊刑訴法336條，舊刑訴法360條1項，憲法38條3項",
+  "lawsuit_id": "74966",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74966",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/966/074966_hanrei.pdf"
+}

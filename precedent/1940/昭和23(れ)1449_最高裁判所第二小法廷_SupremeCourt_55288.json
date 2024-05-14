@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 2,
+    "day": 22
+  },
+  "case_number": "昭和23(れ)1449",
+  "case_name": "強盗幇助",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第3巻2号230頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 8,
+    "day": 9
+  },
+  "gist": "検事の事実及び法律の適用についての意見の陳べ方",
+  "case_gist": "控訴審において、証拠調を終つた後に、検事が「原判決と同様に審判せられるを相当と思料する」と述べたときは、適法に、事実及び法律の適用について意見を陳述したものというべきである。",
+  "ref_law": "旧刑訴法349条，旧刑訴法407条",
+  "lawsuit_id": "55288",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55288",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/288/055288_hanrei.pdf"
+}

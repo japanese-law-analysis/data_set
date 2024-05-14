@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 3,
+    "day": 26
+  },
+  "case_number": "昭和59(あ)1699",
+  "case_name": "傷害致死",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第41巻2号182頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 11,
+    "day": 22
+  },
+  "gist": "傷害致死につき誤想過剰防衛であるとされた事例",
+  "case_gist": "空手三段の在日外国人が、酩酊した甲女とこれをなだめていた乙男とが揉み合ううち甲女が尻もちをついたのを目撃して、甲女が乙男から暴行を受けているものと誤解し、甲女を助けるべく両者の間に割つて入つたところ、乙男が防衛のため両こぶしを胸に前辺りに上げたのを自分に殴りかかつてくるものと誤信し、自己及び甲女の身体を防衛しようと考え、とつさに空手技の回し蹴りを乙男の顔面付近に当て、同人を路上に転倒させ、その結果後日死亡するに至らせた行為は、誤信にかかる急迫不正の侵害に対する防衛手段として相当性を逸脱し、誤想過剰防衛に当たる。",
+  "ref_law": "刑法36条，刑法38条，刑法205条1項",
+  "lawsuit_id": "50315",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50315",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/315/050315_hanrei.pdf"
+}

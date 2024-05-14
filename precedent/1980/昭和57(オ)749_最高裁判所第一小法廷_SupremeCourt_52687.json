@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 11,
+    "day": 27
+  },
+  "case_number": "昭和57(オ)749",
+  "case_name": "配当異議",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第40巻7号1205頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和55(ネ)1719",
+  "original_date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 3,
+    "day": 30
+  },
+  "gist": "保証人・物上保証人の両資格を兼ねる者と弁済による代位の割合",
+  "case_gist": "保証人又は物上保証人とその両資格を兼ねる者との間の弁済による代位の割合は、両資格を兼ねる者も一人として、全員の頭数に応じた平等の割合であると解するのが相当である。",
+  "ref_law": "民法501条",
+  "lawsuit_id": "52687",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52687",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/687/052687_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 5,
+    "day": 24
+  },
+  "case_number": "昭和30(あ)3263",
+  "case_name": "尊属殺人",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第10巻5号734頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 9,
+    "day": 17
+  },
+  "gist": "刑法第二〇〇条の罪は犯人の身分により構成すべき犯罪か",
+  "case_gist": "刑法第二〇〇条の罪は、犯人の身分により構成すべき犯罪ではなく、単に卑属親たる身分があるがため、特にその刑を加重するに過ぎないものである。",
+  "ref_law": "刑法200条，刑法65条",
+  "lawsuit_id": "51431",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51431",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/431/051431_hanrei.pdf"
+}

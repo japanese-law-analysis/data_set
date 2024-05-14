@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 12,
+    "day": 22
+  },
+  "case_number": "昭和44(オ)135",
+  "case_name": "債務金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第26巻10号1991頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和42(ネ)1914",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 11,
+    "day": 29
+  },
+  "gist": "民法六五〇条二項前段の代弁済請求権と相殺",
+  "case_gist": "受任者が民法六五〇条二項前段に基づいて有する代弁済請求権に対しては、委任者は、受任者に対する債権をもつて相殺することはできない。",
+  "ref_law": "民法505条1項，民法650条2項",
+  "lawsuit_id": "52637",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52637",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/637/052637_hanrei.pdf"
+}

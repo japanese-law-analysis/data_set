@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 4,
+    "day": 23
+  },
+  "case_number": "昭和55(オ)255",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第36巻4号727頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和53(ネ)1523",
+  "original_date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 11,
+    "day": 30
+  },
+  "gist": "道路法四七条四項の規定に基づく車両制限令一二条所定の道路管理者の認定をある期間留保したことが国家賠償法一条一項にいう違法性を欠くとされた事例",
+  "case_gist": "道路法四七条四項の規定に基づく車両制限令一二条所定の道路管理者の認定が約五か月間留保されても、判示の事実関係のもとにおいては、道路行政上比較衡量的判断を含む合理的な行政裁量の行使として許容される範囲内にとどまり、国家賠償法一条一項にいう違法性を欠くものと解すべきである。",
+  "ref_law": "道路法47条4項，車両制限令12条，国家賠償法1条1項",
+  "lawsuit_id": "54256",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54256",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/256/054256_hanrei.pdf"
+}

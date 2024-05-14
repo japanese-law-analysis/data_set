@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 9,
+    "day": 12
+  },
+  "case_number": "昭和58(あ)774",
+  "case_name": "道路交通法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第232号91頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 4,
+    "day": 19
+  },
+  "gist": "韓国人であるため差別的科刑を受けたと認められないとして憲法一四条違反の主張が欠前提とされた事例",
+  "ref_law": "憲法14条",
+  "lawsuit_id": "58330",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58330",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/330/058330_hanrei.pdf"
+}

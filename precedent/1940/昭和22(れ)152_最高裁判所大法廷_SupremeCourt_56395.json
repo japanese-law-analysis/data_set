@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 11,
+    "day": 17
+  },
+  "case_number": "昭和22(れ)152",
+  "case_name": "殺人",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第2巻12号1558頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 9,
+    "day": 26
+  },
+  "gist": "自白と抑留若しくは勾禁との間に因果關係のないことが明らかな場合と刑訴應急措置法第一〇條第二項",
+  "case_gist": "刑訴應急措置法第一〇條第二項の「不當に長く抑留若しくは勾禁された後の自白」というのは、抑留若しくは勾禁が自白を生んだ場合ばかりでなく抑留若しくは勾禁の期間が長きに亘つて、その後に初めて自白があつたような場合には、抑留若しくは勾禁と自白との間に因果關係があつたと見る趣旨と解すべきである。從つて反對に自白と抑留若しくは勾禁の生活との間に因果關係がないことが明らかである場合は右の自白に含まれないものと見るのが相當である。",
+  "ref_law": "刑訴應急措置法10條2項",
+  "lawsuit_id": "56395",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56395",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/395/056395_hanrei.pdf"
+}

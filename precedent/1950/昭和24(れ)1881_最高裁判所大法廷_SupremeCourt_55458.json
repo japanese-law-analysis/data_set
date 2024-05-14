@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 1,
+    "day": 20
+  },
+  "case_number": "昭和24(れ)1881",
+  "case_name": "強盗、同予備、窃盗",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "刑集　第8巻1号41頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 12,
+    "day": 13
+  },
+  "gist": "一　予備罪と中止未遂の関係\n二　第一審判決の不定期刑を第二審が定期刑にする場合と旧刑訴第四〇三条",
+  "case_gist": "一　予備罪には中止未遂の観念を容れる余地がない。\n二　第一審が旧少年法第八条に従い、懲役二年六月以上四年以下の不定期刑を言い渡した被告人が控訴の申立をした事件において、第二審がその判決時において既に成人となつていた被告人に対し、右不定期刑の中間位である三年三月より重い懲役四年の定期刑を言い渡したときは旧刑訴第四〇三条に違反する。註。田中、井上、谷村各裁判官は中間説に同調",
+  "ref_law": "刑法43条，刑法237条，刑法10条，旧刑訴法403条，旧少年法8条",
+  "lawsuit_id": "55458",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55458",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/458/055458_hanrei.pdf"
+}

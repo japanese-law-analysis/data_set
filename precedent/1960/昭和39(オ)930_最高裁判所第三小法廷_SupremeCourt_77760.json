@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 5,
+    "day": 31
+  },
+  "case_number": "昭和39(オ)930",
+  "case_name": "所有権移転登記手続請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第83号645頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和38(ネ)1002",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 5,
+    "day": 14
+  },
+  "gist": "外国人の財産取得に関する政令による大臣の認可があるかあるいはその認可を要しなくなることを条件として非居住外国人が本邦内の土地を買い受けたものとの主張がありかつその事実があると認定された事例",
+  "lawsuit_id": "77760",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77760",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/760/077760_hanrei.pdf"
+}

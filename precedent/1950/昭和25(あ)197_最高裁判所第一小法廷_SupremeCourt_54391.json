@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 6,
+    "day": 15
+  },
+  "case_number": "昭和25(あ)197",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第4巻6号1003頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 2,
+    "day": 15
+  },
+  "gist": "一　判決書における契印の欠缺と刑訴法第四一一條\n二　合議体による判決書の契印",
+  "case_gist": "一　新刑訴法においては判決書に契印がないということだけでは判決を破棄すべき法令違反ではない。（刑訴法第三七八條、第三七九條參照）\n二　判決書に裁判官全員又は裁判長が契印しなければ判決書の各葉が連續しないとはいえない、されば原判決書の各葉に陪席裁判官一人の契印がある以上その連續に欠くるところは認められない。",
+  "ref_law": "刑訴法規則58條2項，刑訴法379條，刑訴法411條，刑訴規則55條，刑訴規則58條2項",
+  "lawsuit_id": "54391",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54391",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/391/054391_hanrei.pdf"
+}

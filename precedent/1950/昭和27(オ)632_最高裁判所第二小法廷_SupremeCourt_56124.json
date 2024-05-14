@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 4,
+    "day": 2
+  },
+  "case_number": "昭和27(オ)632",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第8巻4号782頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 6,
+    "day": 21
+  },
+  "gist": "融通手形の振出人が受取人に対し融通手形の抗弁をもつて対抗し得ない場合",
+  "case_gist": "金額および満期日を同じくする約束手形を融通手形として相互に交換的に振り出し交付するにあたり、相互にこれを対価とする合意がある場合において、一方の手形金の支払がなされたときは、反対の事情のないかぎり、他方の手形の振出人は、その受取人に対して融通手形の抗弁をもつて対抗し得ない。",
+  "ref_law": "手形法17条，手形法77条",
+  "lawsuit_id": "56124",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56124",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/124/056124_hanrei.pdf"
+}

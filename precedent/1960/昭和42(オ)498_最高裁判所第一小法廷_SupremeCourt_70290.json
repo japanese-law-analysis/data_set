@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 9,
+    "day": 7
+  },
+  "case_number": "昭和42(オ)498",
+  "case_name": "賃借権不存在確認等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第88号357頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和39(ネ)1231",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 1,
+    "day": 30
+  },
+  "gist": "土地使用関係が賃貸借ではなく使用貸借であると認められた事例",
+  "case_gist": "土地の借主が、約三年の間に礼金または賃料として三回にわたつて一万円ないし一万五〇〇〇円を支払い、貸主が特段の異議を留めることなく受領していた場合であつても、右金額が適正賃料額に比してかなり低額であり、かつ、その金額は借主において一方的に定めたものであつて、貸主との協議に基づくものでないうえに、必ずしも定期的に支払われたものでない等、原判示の事情（原判決理由参照）のもとにおいては、借主の土地使用関係は、賃貸借ではなく使用貸借と認めるのが相当である。",
+  "ref_law": "民法593条，民法601条",
+  "lawsuit_id": "70290",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70290",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/290/070290_hanrei.pdf"
+}

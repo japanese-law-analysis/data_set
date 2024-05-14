@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 6,
+    "day": 29
+  },
+  "case_number": "昭和29(オ)749",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第10巻6号774頁",
+  "original_court_name": "福岡高等裁判所\n        　宮崎支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 7,
+    "day": 19
+  },
+  "gist": "取締役会の招集手続の省略",
+  "case_gist": "株式会社の取締役の全員が会社の業務執行に関する事項につき協議決定したときは、たとえ取締役会の招集手続を経ない旨の明示の同意なしにその手続を経なかつた場合でも、当該事項につき取締役会の決議がなされたものと解すべきである。",
+  "ref_law": "商法259条ノ2，商法259条ノ3，商法260条，商法265条",
+  "lawsuit_id": "57526",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57526",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/526/057526_hanrei.pdf"
+}

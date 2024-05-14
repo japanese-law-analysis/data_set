@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 9,
+    "day": 26
+  },
+  "case_number": "昭和48(オ)1214",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第112号709頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和46(ネ)1341",
+  "original_date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 7,
+    "day": 31
+  },
+  "gist": "不法行為による受傷の後遺症に基づく損害賠償請求権の消滅時効が右後遺症の顕在化した時から進行するものとされた事例",
+  "case_gist": "不法行為による受傷の後遺症が顕在化したのちにおいて、症状は徐々に軽快こそすれ、悪化したとは認められないなど、受傷したのちの治療経過が原審認定のとおり（原判決理由参照）である場合には、右後遺症が顕在化した時が民法七二四条にいう損害を知つた時にあたり、その時から後遺症に基づく損害賠償請求権の消滅時効が進行する。",
+  "ref_law": "民法724条",
+  "lawsuit_id": "66785",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66785",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/785/066785_hanrei.pdf"
+}

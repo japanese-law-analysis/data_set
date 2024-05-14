@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 8,
+    "day": 30
+  },
+  "case_number": "昭和35(オ)994",
+  "case_name": "抵当権並びに競売無効確認登記抹消請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第62号317頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 2,
+    "day": 16
+  },
+  "gist": "控訴審判決が控訴の適否（控訴期間遵守の如何）に関する判断を示さなかつたことが違法でないとされた事例",
+  "lawsuit_id": "63642",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63642",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/642/063642_hanrei.pdf"
+}

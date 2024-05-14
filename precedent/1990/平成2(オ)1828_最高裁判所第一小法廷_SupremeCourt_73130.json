@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 5,
+    "month": 12,
+    "day": 16
+  },
+  "case_number": "平成2(オ)1828",
+  "case_name": "土地所有権移転登記抹消登記手続等及び共同訴訟参加",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集民　第170号757頁",
+  "original_court_name": "高松高等裁判所",
+  "original_case_number": "昭和63(ネ)318",
+  "original_date": {
+    "era": "Heisei",
+    "year": 2,
+    "month": 9,
+    "day": 27
+  },
+  "gist": "特定の土地の分割方法を定めた遺言の存在を知らないでされた遺産分割協議の意思表示に要素の錯誤がないとはいえないとされた事例",
+  "case_gist": "特定の土地につきおおよその面積と位置を示して分割した上それぞれを相続人甲、乙、丙に相続させる趣旨の分割方法を定めた遺言が存在したのに、相続人丁が右土地全部を相続する旨の遺産分割協議がされた場合において、相続人の全員が右遺言の存在を知らなかったなど判示の事実関係の下においては、甲のした遺産分割協議の意思表示に要素の錯誤がないとはいえない。",
+  "ref_law": "民法95条，民法907条，民法908条",
+  "lawsuit_id": "73130",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=73130",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/130/073130_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 3,
+    "day": 11
+  },
+  "case_number": "昭和38(あ)2502",
+  "case_name": "墳墓発掘",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第18巻3号99頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 10,
+    "day": 3
+  },
+  "gist": "刑法第一八九条の「発掘」の意義。",
+  "case_gist": "刑法第一八九条の「発掘」とは、墳墓の覆土の全部または一部を除去し、もしくは墓石等を破壊解体して、墳墓を損壊する行為をいい、必ずしも墳墓内の棺桶、遺骨、死体等を外部に露出させることを要しない。",
+  "ref_law": "刑法189条",
+  "lawsuit_id": "50717",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50717",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/717/050717_hanrei.pdf"
+}

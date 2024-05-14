@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 5,
+    "day": 27
+  },
+  "case_number": "昭和50(オ)128",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第120号595頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和48(ネ)500",
+  "original_date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 11,
+    "day": 21
+  },
+  "gist": "収用地と非収用地にまたがつて存在する一棟の建物全部の解体撤去の代執行が適法であるとされた事例",
+  "case_gist": "収用地と非収用地にまたがつて存在する一棟の建物について、収用地にかかる部分のみを切り取り撤去することが建物全体の効用を著しく損い、建築構造上も残存建物を維持することが危険であり、これを維持するには多額の補強、補修費を要する等判示の事情がある場合には、右建物全部の解体撤去の代執行は適法である。",
+  "ref_law": "行政代執行法2条，土地収用法（昭和42年法律第74号による改正前のもの）98条，土地収用法（昭和42年法律第74号による改正前のもの）99条",
+  "lawsuit_id": "74507",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74507",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/507/074507_hanrei.pdf"
+}

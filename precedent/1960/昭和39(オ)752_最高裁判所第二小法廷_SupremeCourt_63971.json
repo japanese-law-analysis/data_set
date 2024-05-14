@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 3,
+    "day": 5
+  },
+  "case_number": "昭和39(オ)752",
+  "case_name": "株主総会決議取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第78号61頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "昭和37(ネ)509",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 3,
+    "day": 18
+  },
+  "gist": "株券の発行前における株式の譲渡の効力",
+  "case_gist": "株券発行前になされた株式の譲渡は、会社設立後、通常、株券を発行しうる合理的期間経過後になされた場合であつても、会社に対してその効力を生じない。",
+  "ref_law": "商法204条2項",
+  "lawsuit_id": "63971",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63971",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/971/063971_hanrei.pdf"
+}

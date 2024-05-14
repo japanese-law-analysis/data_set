@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 12,
+    "day": 7
+  },
+  "case_number": "昭和35(オ)1283",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第63号445頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 7,
+    "day": 14
+  },
+  "gist": "一　隠れたる取立委任裏書の性質\n二　形式的資格を欠く場合の手形権利者の権利行使方法",
+  "case_gist": "一　隠れたる取立委任の場合、取立委任の合意は単に当事者間の人的抗弁事由に止まる。\n二　形式的資格を欠く場合でも、手形所持人が債務者に対し実質的権利者であることを証明した場合は、債務者は支払を拒否することはできない。",
+  "ref_law": "手形法16条，手形法18条",
+  "lawsuit_id": "65823",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=65823",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/823/065823_hanrei.pdf"
+}

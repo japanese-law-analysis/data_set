@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 2,
+    "day": 2
+  },
+  "case_number": "昭和32(オ)463",
+  "case_name": "離婚並びに慰藉料請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第14巻1号47頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 2,
+    "day": 16
+  },
+  "gist": "婚姻事件と職権による当事者尋問の要否",
+  "case_gist": "婚姻事件においても、証拠調の限度は、裁判所が既に得た心証の程度により自由にこれを定めることができ、必ずしもつねに職権による当事者本人尋問の施行を要するものではない。",
+  "ref_law": "民訴法259条，人事訴訟手続法12条",
+  "lawsuit_id": "53591",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53591",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/591/053591_hanrei.pdf"
+}

@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 5,
+    "day": 25
+  },
+  "case_number": "平成21(わ)1420",
+  "case_name": "傷害被告事件",
+  "court_name": "大阪地方裁判所第１２刑事部",
+  "gist": "犯人性が争われている傷害被告事件について，被告人の犯人性を肯定する方向の事実は相応に認められるが，被害者の犯人識別供述は犯人にそれなりに似ているという限度でしか評価できない等の問題がある上，被告人が犯人であることと矛盾し得る方向の事実や，犯人性を支える証拠の信用性に疑問を生ぜしめる事情があることを考慮すると，被告人が犯人であることについて合理的な疑いが残るとして，被告人を無罪とした事案",
+  "lawsuit_id": "80663",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=80663",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/663/080663_hanrei.pdf",
+  "contents": ""
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 9,
+    "month": 2,
+    "day": 25
+  },
+  "case_number": "平成6(オ)1014",
+  "case_name": "配当異議",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第51巻2号432頁",
+  "original_court_name": "高松高等裁判所",
+  "original_case_number": "平成5(ネ)358",
+  "original_date": {
+    "era": "Heisei",
+    "year": 6,
+    "month": 3,
+    "day": 17
+  },
+  "gist": "物上保証人に対する不動産競売事件において作成された配当表につき競売申立てに係る被担保債権の債務者が配当異議の訴えを提起することの許否",
+  "case_gist": "物上保証人に対する不動産競売事件において作成された配当表につき、競売申立てに係る被担保債権の債務者は、右被担保債権その他自己に対．する債権への配当額に変動を生じ得る範囲において、配当異議の訴えを提起することができる。",
+  "ref_law": "民事執行法89条，民事執行法90条，民事執行法188条，民訴法45条，民訴法第2編第1章訴",
+  "lawsuit_id": "52528",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52528",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/528/052528_hanrei.pdf"
+}

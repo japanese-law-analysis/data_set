@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 2,
+    "day": 17
+  },
+  "case_number": "昭和54(オ)204",
+  "case_name": "値合損失金本訴、証拠金返還反訴",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第132号139頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和51(ネ)2107",
+  "original_date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 11,
+    "day": 30
+  },
+  "gist": "商品取引員がいわゆる仕手の買建の注文に応じなかつた行為が仕手とは別に買建をしていた者に対する不法行為にあたらないとされた事例",
+  "case_gist": "ゴムの先物取引について商品取引員がいわゆる仕手の買建の注文に応じなかつたことがゴム相場の暴落の一因となつていても、当時ゴム相場の過熱に対する不安が業界に広がつており、商品取引員において、仕手に対し穏便な取引を求めても仕手がこれを拒絶したので、仕手が委託証拠金として売買代金全額を納付することをその買建の注文に応じる条件としたなど原判示の事実関係のもとにおいては、商品取引員の右の行為は、仕手とは別に買建をしていた者に対する不法行為にあたらない。",
+  "ref_law": "民法709条，商品取引所法97条1項",
+  "lawsuit_id": "74542",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74542",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/542/074542_hanrei.pdf"
+}

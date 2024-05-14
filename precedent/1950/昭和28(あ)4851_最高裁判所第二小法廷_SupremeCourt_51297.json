@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 6,
+    "day": 17
+  },
+  "case_number": "昭和28(あ)4851",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第9巻7号1153頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 9,
+    "day": 25
+  },
+  "gist": "刑訴第三二四条第一項の趣旨",
+  "case_gist": "刑訴第三二四条第一項は、被告人以外の者の公判準備または公判期日における供述で被告人の自白、自認を内容とするものは、証拠法上すべての関係において被告人の自白、自認と同一であるということを規定したものではない。",
+  "ref_law": "刑訴法324条1項",
+  "lawsuit_id": "51297",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51297",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/297/051297_hanrei.pdf"
+}

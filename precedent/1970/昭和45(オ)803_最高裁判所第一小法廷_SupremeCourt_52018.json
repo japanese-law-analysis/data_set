@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 3,
+    "day": 9
+  },
+  "case_number": "昭和45(オ)803",
+  "case_name": "建物所有権確認等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第26巻2号213頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和43(ネ)2446",
+  "original_date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 6,
+    "day": 10
+  },
+  "gist": "賃借地上にある建物の売主と敷地賃借権譲渡の承諾取得義務",
+  "case_gist": "賃借地上にある建物の売買契約が締結された場合においては、特別の事情のないかぎり、売主は、買主に対し、その建物の敷地の賃借権をも譲渡したものであつて、それに伴い、その賃借権譲渡につき賃貸人の承諾を得る義務を負うものと解すべきである。",
+  "ref_law": "民法87条，民法555条，民法601条，民法612条",
+  "lawsuit_id": "52018",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52018",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/018/052018_hanrei.pdf"
+}

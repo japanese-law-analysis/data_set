@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 1,
+    "day": 21
+  },
+  "case_number": "昭和26(あ)2837",
+  "case_name": "賍物故買、食糧管理法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第8巻1号64頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 5,
+    "day": 24
+  },
+  "gist": "贓物たる粳籾を故買した罪とこれを運搬移動した食糧管理法違反の罪とは牽連犯か併合罪か",
+  "case_gist": "粳籾を贓物である情を知りながら買い受けた贓物故買の罪とこれを運搬移動した食糧管理法違反の罪とは、牽連犯ではなく、併合罪である。",
+  "ref_law": "刑法45条，刑法54条，刑法256条，食糧管理法31条，食糧管理法9条1項，食糧管理法施行規則29条（昭和25年2月当時のもの）",
+  "lawsuit_id": "55599",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55599",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/599/055599_hanrei.pdf"
+}

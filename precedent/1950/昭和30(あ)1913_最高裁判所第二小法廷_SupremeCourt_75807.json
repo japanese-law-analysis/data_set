@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 10,
+    "day": 5
+  },
+  "case_number": "昭和30(あ)1913",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第109号171頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 5,
+    "day": 19
+  },
+  "gist": "公職選挙法違反罪において選挙権、被選挙権停止の効果は法律の定める手続によらないものか",
+  "case_gist": "所論選挙権並びに被選挙権の停止は、公職選挙法二五二条の明定するところであり、同条によれば、同条所定の罪につき、同条所定の刑に処せられたものは、同条所定の期間内選挙権及び被選挙権を有しないというのであつて、右権利の停止は、同条所定の処刑の事実に伴うて当然に生ずる法律上の効果であつて、特に何らの手続を要するものでなく、被告人が正当な法律の手続によつて、刑に処せられた以上選挙権等の停止は右処刑に伴う法律上当然の効果であるから、ひつきよう、法律の定める手続によつて、なされたものに帰する。",
+  "ref_law": "公職選挙法252条，憲法31条",
+  "lawsuit_id": "75807",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=75807",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/807/075807_hanrei.pdf"
+}

@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 2,
+    "day": 25
+  },
+  "case_number": "昭和51(あ)1060",
+  "case_name": "兇器準備集合、建造物侵入",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第203号205頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 4,
+    "day": 27
+  },
+  "gist": "分割審理、退廷裁判、迅速裁判保障条項違反をいう違憲主張が欠前提とされた事例",
+  "ref_law": "憲法31条，憲法37条1項",
+  "lawsuit_id": "61695",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61695",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/695/061695_hanrei.pdf"
+}

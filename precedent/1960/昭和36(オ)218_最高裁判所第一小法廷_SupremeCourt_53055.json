@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 2,
+    "day": 15
+  },
+  "case_number": "昭和36(オ)218",
+  "case_name": "解雇無効確認等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第16巻2号294頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 11,
+    "day": 30
+  },
+  "gist": "昭和二五年九月二六日連合国総司令部経済科学局Ｄ労働課長の私鉄経営者協会に対してなした談話の性質および効力",
+  "case_gist": "昭和二五年九月二六日連合国総司令部経済科学局Ｄ労働課長の私鉄経営者協会に対してなした談話は、私鉄企業が同年七月一八日付連合国最高司令官の内閣総理大臣あて書簡にいわゆる「その他の重要産業」に該当する旨の解釈の表示であつて、当時においては、わが国の国家機関および国民に対し最終的権威をもつていたものと解すべきである。",
+  "ref_law": "昭和25年7月18日付連合国最高司令官の内閣総理大臣あて書簡，昭和25年9月26日連合国総司令部経済科学局D労働課長の私鉄経営者協会に対してなした談話",
+  "lawsuit_id": "53055",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53055",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/055/053055_hanrei.pdf"
+}

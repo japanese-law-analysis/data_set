@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 3,
+    "day": 3
+  },
+  "case_number": "昭和23(れ)1435",
+  "case_name": "強盗殺人",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第8号35頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 9,
+    "day": 2
+  },
+  "gist": "檢證現場における證人訊問の調書につき被告人の證人訊問の請求がない場合と該調書の證據力",
+  "case_gist": "原判決が、判示事實を認定するに當り、原審における證人Ａ、同Ｂの各訊問調書をそれぞれ證據として採用していること、右各證人は、昭和二三年四月二一日原審が現状檢證した際に訊問し、その訊問には被告人が立會つていないことは、所論のとおりである。ついで、八月二六日の公判期日において、右各證人訊問調書につき適法な證據調をした際にも被告人又は辯護人から、前記證人訊問の請求はなされた事跡がない。されば、右證人訊問調書を證據にとつたことは違法であるということはできない。（昭和二三年（れ第二九四號、同七月二九日大法廷判決参照）",
+  "ref_law": "憲法37條2項，舊刑訴應急措置法12條1項",
+  "lawsuit_id": "74676",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74676",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/676/074676_hanrei.pdf"
+}

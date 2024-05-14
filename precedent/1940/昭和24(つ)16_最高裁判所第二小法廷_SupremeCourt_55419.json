@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 4,
+    "day": 6
+  },
+  "case_number": "昭和24(つ)16",
+  "case_name": "不起訴処分に対する刑訴二六二条に基く請求事件につきなした抗告棄却の決定に対する特別抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "その他",
+  "article_info": "刑集　第3巻4号469頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 3,
+    "day": 3
+  },
+  "gist": "弁護士を代理人として刑訴法第二六二条第一項の請求をすることの適否",
+  "case_gist": "刑訴法二六二条第一項の請求は、弁護士を代理人としてすることができる。",
+  "ref_law": "刑訴法262条，刑訴法施行法9条",
+  "lawsuit_id": "55419",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55419",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/419/055419_hanrei.pdf"
+}

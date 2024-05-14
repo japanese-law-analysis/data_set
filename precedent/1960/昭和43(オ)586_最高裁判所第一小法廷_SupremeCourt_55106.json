@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 11,
+    "day": 21
+  },
+  "case_number": "昭和43(オ)586",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第22巻12号2765頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和41(ネ)444",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 3,
+    "day": 21
+  },
+  "gist": "不動産の二重売買の場合の履行不能を理由とする損害賠償債権をもつてする留置権の主張の許否",
+  "case_gist": "不動産の二重売買において、第二の買主のため所有権移転登記がされた場合、第一の買主は、第二の買主の右不動産の所有権に基づく明渡請求に対し、売買契約不履行に基づく損害賠償債権をもつて、留置権を主張することは許されない。",
+  "ref_law": "民法295条",
+  "lawsuit_id": "55106",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55106",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/106/055106_hanrei.pdf"
+}

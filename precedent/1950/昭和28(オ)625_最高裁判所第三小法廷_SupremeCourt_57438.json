@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 4,
+    "day": 19
+  },
+  "case_number": "昭和28(オ)625",
+  "case_name": "農地委員会解散命令無効確認並に慰藉料請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第9巻5号534頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 4,
+    "day": 15
+  },
+  "gist": "国家賠償と賠償責任の負担者",
+  "case_gist": "公権力の行使に当る公務員の職務行為に基く損害については、国または公共団体が賠償の責に任じ、職務の執行に当つた公務員は、行政機関としての地位においても、個人としても、被害者に対しその責任を負担するものではない。",
+  "ref_law": "国家賠償法1条，民法709条",
+  "lawsuit_id": "57438",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57438",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/438/057438_hanrei.pdf"
+}

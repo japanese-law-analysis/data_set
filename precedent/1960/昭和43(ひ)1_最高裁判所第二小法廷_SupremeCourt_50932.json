@@ -1,0 +1,22 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 1,
+    "day": 25
+  },
+  "case_number": "昭和43(ひ)1",
+  "case_name": "上訴費用補償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "その他",
+  "article_info": "刑集　第23巻1号78頁",
+  "original_court_name": "最高裁判所",
+  "gist": "刑訴法三六八条の法意",
+  "case_gist": "刑訴法三六八条は、検察官のみが上訴をした場合において、上訴が棄却され、または取り下げられる等、上訴が不当であつたことが判明したときに、当該審級の裁判所が被告人に対し、その審級において生じた費用を補償することを認めた規定であつて、検察官の上訴により破棄し差し戻されたその後の審級において、検察官の主張が窮極において否定された場合にまで適用されるものではない。",
+  "ref_law": "刑訴法368条，刑訴法370条，刑訴規則234条",
+  "lawsuit_id": "50932",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50932",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/932/050932_hanrei.pdf"
+}

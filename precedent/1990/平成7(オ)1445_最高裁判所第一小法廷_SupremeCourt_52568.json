@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 11,
+    "month": 1,
+    "day": 21
+  },
+  "case_number": "平成7(オ)1445",
+  "case_name": "債権確認",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第53巻1号1頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成6(ネ)3964",
+  "original_date": {
+    "era": "Heisei",
+    "year": 7,
+    "month": 3,
+    "day": 29
+  },
+  "gist": "建物賃貸借契約継続中に賃借人が賃貸人に対し敷金返還請求権の存在確認を求める訴えにつき確認の利益があるとされた事例",
+  "case_gist": "建物賃貸借契約継続中に賃借人が賃貸人に対し敷金返還請求権の存在確認を求める訴えは、その内容が右賃貸借契約終了後建物の明渡しがされた時においてそれまでに生じた敷金の被担保債権を控除しなお残額があることを条件とする権利の確認を求めるものであり、賃貸人が賃借人の敷金交付の事実を争って敷金返還義務を負わないと主張しているときは、確認の利益がある。",
+  "ref_law": "民訴法134条，民法619条2項",
+  "lawsuit_id": "52568",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52568",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/568/052568_hanrei.pdf"
+}

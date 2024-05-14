@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 5,
+    "day": 31
+  },
+  "case_number": "昭和29(ク)131",
+  "case_name": "訴状却下命令に対する抗告につきなした抗告棄却の決定に対する再抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "その他",
+  "article_info": "集民　第14号283頁",
+  "original_court_name": "神戸地方裁判所",
+  "original_case_number": "昭和28(ソ)1",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 4,
+    "day": 13
+  },
+  "lawsuit_id": "77017",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77017",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/017/077017_hanrei.pdf"
+}

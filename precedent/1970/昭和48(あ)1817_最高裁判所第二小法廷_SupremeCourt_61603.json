@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 9,
+    "day": 21
+  },
+  "case_number": "昭和48(あ)1817",
+  "case_name": "詐欺",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第193号343頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 6,
+    "day": 15
+  },
+  "gist": "量刑不当の主張に対し、補足意見が付された事例",
+  "ref_law": "刑訴法411条",
+  "lawsuit_id": "61603",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61603",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/603/061603_hanrei.pdf"
+}

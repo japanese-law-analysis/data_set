@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 12,
+    "day": 24
+  },
+  "case_number": "昭和28(あ)514",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第8巻13号2343頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 12,
+    "day": 13
+  },
+  "gist": "累犯加重事由である前科の認定と憲法第三八条第三項および刑訴第三一九条第二項",
+  "case_gist": "累犯加重の事由である前科の事実を被告人の自白だけで認定しても、憲法第三八条第三項および刑訴第三一八条第二項に違反しない。",
+  "ref_law": "刑法56条，刑法57条，憲法38条3項，刑訴法319条2項",
+  "lawsuit_id": "56884",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56884",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/884/056884_hanrei.pdf"
+}

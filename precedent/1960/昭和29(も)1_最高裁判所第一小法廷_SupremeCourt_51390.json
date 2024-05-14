@@ -1,0 +1,21 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 6,
+    "day": 23
+  },
+  "case_number": "昭和29(も)1",
+  "case_name": "刑事補償の請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第14巻8号1071頁",
+  "gist": "昭和二五年政令第三二五号違反被告事件につき平和条約発効により免訴の言渡があつた場合に刑事補償の請求ができるか。",
+  "case_gist": "昭和二五年政令第三二五号違反被告事件につき抑留拘禁された被告人に対し、平和条約発効により犯罪後の法令により刑が廃止された場合にあたるとして免訴の言渡があつた場合に、刑事補償法によりその抑留拘禁（平和条約発効の日以後の勾留を含む）による補償の請求をすることはできない。",
+  "ref_law": "刑事補償法1条，刑事補償法25条",
+  "lawsuit_id": "51390",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51390",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/390/051390_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 8,
+    "month": 2,
+    "day": 26
+  },
+  "case_number": "平成8(行ト)12",
+  "case_name": "補助参加の申出却下の決定に対する特別抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "民集　第50巻2号274頁",
+  "original_court_name": "福岡高等裁判所\n        　那覇支部",
+  "original_case_number": "平成7(行ケ)3",
+  "original_date": {
+    "era": "Heisei",
+    "year": 8,
+    "month": 1,
+    "day": 23
+  },
+  "gist": "職務執行命令訴訟における補助参加の許否と憲法三二条",
+  "case_gist": "地方自治法一五一条の二第三項による職務執行命令訴訟については、民訴法の補助参加に関する規定を準用する余地はなく、このように解しても憲法三二条に違反するものではない。",
+  "ref_law": "憲法32条，地方自治法151条の2，行政事件訴訟法6条，行政事件訴訟法7条，民訴法64条",
+  "lawsuit_id": "55884",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55884",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/884/055884_hanrei.pdf"
+}

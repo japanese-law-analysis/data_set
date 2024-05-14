@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 11,
+    "day": 5
+  },
+  "case_number": "昭和22(れ)3",
+  "case_name": "強盗傷人",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第1巻号1頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 5,
+    "day": 19
+  },
+  "gist": "一　事實認定と刑訴應急措置法第一三條第二項\n二　共犯者の一人の加えた傷害と共犯者全員に對する強盜傷人罪の成立",
+  "case_gist": "一　所論は畢竟原判決の事實の認定を非難する趣意に歸するからこのような所論は刑訴應急措置法第一三條第二項の規定により、適法な上告の理由ということができない。\n二　およそ強盜の共犯者中の一人の施用した財物奪取の手段としての暴行の結果、被害者に傷害を生ぜしめたときは、その共犯者の全員につき強盜傷人罪は成立するのであつて、このことは強盜傷人罪が所謂結果犯たるの故に外ならない。",
+  "ref_law": "刑訴應急措置法13条2項，刑法60條，刑法240條前段",
+  "lawsuit_id": "56450",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56450",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/450/056450_hanrei.pdf"
+}

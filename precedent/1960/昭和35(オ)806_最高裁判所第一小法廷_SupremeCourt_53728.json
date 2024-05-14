@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 9,
+    "day": 14
+  },
+  "case_number": "昭和35(オ)806",
+  "case_name": "東京都議会議員当選無効確認等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第15巻8号2063頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 4,
+    "day": 13
+  },
+  "gist": "一　長瀬なる候補者がある場合の「ヤナセ」と記載された投票の効力。\n二　長瀬なる候補者がある場合の「柳瀬」、「成瀬」と記載された投票の効力。\n三　長瀬なる候補者がある場合の「長井」、「ナガイ」、「ながい」と記載された投票の効力。",
+  "case_gist": "一　「ヤナセ」と記載された投票は、候補者長瀬に対する有効投票とは認められない。\n二　「柳瀬」「成瀬」と記載された投票は、候補者長瀬に対する有効投票とは認められない。\n三　「長井」「ナガイ」「ながい」と記載された投票は、候補者長瀬に対する有効投票とは認められない。",
+  "ref_law": "公職選挙法67条，公職選挙法68条7号",
+  "lawsuit_id": "53728",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53728",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/728/053728_hanrei.pdf",
+  "contents": ""
+}

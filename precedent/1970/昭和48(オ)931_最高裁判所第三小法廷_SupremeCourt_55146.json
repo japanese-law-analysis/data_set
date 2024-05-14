@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 12,
+    "day": 24
+  },
+  "case_number": "昭和48(オ)931",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第28巻10号2140頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和48(ネ)251",
+  "original_date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 6,
+    "day": 13
+  },
+  "gist": "約束手形の受取人欄の変造と手形法一六条一項の適用",
+  "case_gist": "約束手形の受取人欄が変造された場合であつても、その手形面上変造後の受取人から現在の所持人へ順次連続した裏書の記載があるときは、右所持人は、振出人に対する関係においても手形法七七条一項一号、一六条一項により適法な所持人と推定される。",
+  "ref_law": "手形法16条1項，手形法69条，手形法77条1項",
+  "lawsuit_id": "55146",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55146",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/146/055146_hanrei.pdf"
+}

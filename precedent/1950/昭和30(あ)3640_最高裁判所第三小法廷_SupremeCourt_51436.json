@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 11,
+    "day": 19
+  },
+  "case_number": "昭和30(あ)3640",
+  "case_name": "業務上横領",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "刑集　第11巻12号3073頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 10,
+    "day": 21
+  },
+  "gist": "身分的共犯の処罰。",
+  "case_gist": "村長、助役が収入役と共謀の上、収入役の保管にかかる新制中学校建設資金の寄附金を横領したときは、刑法第六五条第一項により同法第二五三条に該当する共犯となるが、村長、助役は業務上物の占有者たる身分がないから、同法第二五二条第一項の刑を科すべきものである。",
+  "ref_law": "刑法65条，刑法253条，刑法252条",
+  "lawsuit_id": "51436",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51436",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/436/051436_hanrei.pdf"
+}

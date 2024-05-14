@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 12,
+    "day": 1
+  },
+  "case_number": "昭和38(オ)1035",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第20巻10号2017頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和34(ネ)294",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 5,
+    "day": 29
+  },
+  "gist": "一　労働基準法に基づく災害補償と慰藉料との関係\n二　労働基準法第七五条の療養補償債務の履行遅滞となる時期\n三　労働基準法第七六条の休業補償債務の履行遅滞となる時期",
+  "case_gist": "一　加害者である第三者が被災労働者に支払つた慰藉料は、使用者が労働基準法に基づいて被災労働者に支払うべき災害補償の額に影響を及ぼさない。\n二　労働基準法第七五条に基づく使用者の療養補償債務は、少なくとも、当該補償の事由が生じた月の末日の経過とともに履行遅滞となるものと解すべきである。\n三　労働基準法第七六条に基づく使用者の休業補償債務は、少なくとも、当該休業期間の属する月の末日の経過とともに履行遅滞となるものと解すべきである。",
+  "ref_law": "労働基準法84条2項，労働基準法75条，労働基準法76条，労働基準法施行規則39条，民法711条，民法412条",
+  "lawsuit_id": "53840",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53840",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/840/053840_hanrei.pdf"
+}

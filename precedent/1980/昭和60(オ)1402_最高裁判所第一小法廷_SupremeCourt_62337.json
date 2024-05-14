@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 63,
+    "month": 10,
+    "day": 13
+  },
+  "case_number": "昭和60(オ)1402",
+  "case_name": "預金請求事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第155号5頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和58(ネ)1673",
+  "original_date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 7,
+    "day": 19
+  },
+  "gist": "銀行総合口座取引における預金払戻権限を有すると称する者への貸越しと民法四七八条の類推適用",
+  "case_gist": "銀行総合口座取引において、銀行が権限を有すると称する者からの普通預金払戻請求に応じて貸越しをするにつき銀行として尽くすべき相当の注意を用いたときは、民法四七八条の類推適用により、銀行は、右貸越しによつて生じた貸金債権を自働債権とする定期預金債権との相殺をもつて真実の預金者に対抗することができる。",
+  "ref_law": "民法478条",
+  "lawsuit_id": "62337",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62337",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/337/062337_hanrei.pdf"
+}

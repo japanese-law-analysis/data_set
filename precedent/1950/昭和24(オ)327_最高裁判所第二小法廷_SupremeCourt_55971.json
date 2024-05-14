@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 6,
+    "day": 12
+  },
+  "case_number": "昭和24(オ)327",
+  "case_name": "農地買収計画除外請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第7巻6号649頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 11,
+    "day": 19
+  },
+  "gist": "自作農創設特別措置法による農地の買収と民法第九四条第二項",
+  "case_gist": "自作農創設特別措置法による農地買収処分については、民法第九四条第二項の適用はない。",
+  "ref_law": "自作農創設特別措置法3条1項，民法94条2項",
+  "lawsuit_id": "55971",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55971",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/971/055971_hanrei.pdf"
+}

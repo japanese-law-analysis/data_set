@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 16,
+    "month": 12,
+    "day": 13
+  },
+  "case_number": "平成16(受)988",
+  "case_name": "保険金請求事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第58巻9号2419頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成15(ネ)1929",
+  "original_date": {
+    "era": "Heisei",
+    "year": 16,
+    "month": 3,
+    "day": 4
+  },
+  "gist": "保険金の支払事由を火災によって損害が生じたこととする火災保険契約の約款に基づき火災保険金の支払を請求する場合における火災発生の偶然性についての主張立証責任",
+  "case_gist": "保険金の支払事由を火災によって損害が生じたこととする火災保険契約の約款に基づき，保険者に対して火災保険金の支払を請求する者は，火災発生が偶然のものであることを主張，立証すべき責任を負わない。",
+  "ref_law": "商法629条，商法641条，商法665条，民法91条，民訴法第2編第4章第1節　総則",
+  "lawsuit_id": "52412",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52412",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/412/052412_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 1,
+    "day": 26
+  },
+  "case_number": "昭和45(オ)836",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第102号137頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和43(ネ)257",
+  "original_date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 4,
+    "day": 30
+  },
+  "gist": "自動車の所有者と身分関係のある者が私用のため運転中起こした事故につき所有者に運行供用者責任が認められた事例",
+  "case_gist": "甲が所有して営業に用いている自動車を、その承諾なしに乙が私用のために運転して事故を起こしたが、甲は自動車およびその鍵を容易に持ち出すことができる状態に置いており、乙は、甲と姻族関係にあつて近所に居住し、以前にも数回甲およびその家人から右自動車を借り受けたことがあり、事故当日、乙は、甲の子丙を同乗させてこれと交代で運転していたものであつて、当時の使用は一時的なものでただちに返還することを予定していたなど判示の事実関係のもとにおいては、甲は、右事故につき、自己のため自動車を運行の用に供するものとしての責任を負うべきである。",
+  "ref_law": "自動車損害賠償保障法5条",
+  "lawsuit_id": "64054",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64054",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/054/064054_hanrei.pdf"
+}

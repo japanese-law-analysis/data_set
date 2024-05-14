@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 12,
+    "day": 10
+  },
+  "case_number": "昭和45(オ)712",
+  "case_name": "土地建物所有権移転登記抹消登記手続請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第24巻13号2004頁",
+  "original_court_name": "福岡高等裁判所\n        　宮崎支部",
+  "original_case_number": "昭和43(ネ)153",
+  "original_date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 4,
+    "day": 27
+  },
+  "gist": "予告登記の効力",
+  "case_gist": "乙が甲から所有権移転登記を経た不動産について、甲より登記原因の無効を理由とする所有権移転登記抹消登記手続請求の訴が提起され、その予告登記がされたのち右訴の口頭弁論の終結前に乙から第三者丙に所有権移転登記がされ、ついで右訴について甲勝訴の判決が確定した場合において、甲の丙に対する右所有権移転登記の抹消登記手続請求の訴を排斥することは、予告登記の存在により、妨げられるものではない。",
+  "ref_law": "民法177条，不動産登記法3条",
+  "lawsuit_id": "53200",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53200",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/200/053200_hanrei.pdf"
+}

@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 5,
+    "day": 17
+  },
+  "case_number": "平成16(行ウ)75等",
+  "case_name": "所得税更正処分等取消請求事件",
+  "court_name": "名古屋地方裁判所民事第９部",
+  "result": "棄却",
+  "gist": "１　市長による都市計画法５６条１項の規定に基づく土地の買取りが強制収用の実質を有しないとして，土地を売却した納税者の所得税に対する租税特別措置法３３条の４第１項１号の特例措置の適用が否定された事例\n　２　税務署長が市長との事前協議において納税者に対する都市計画法５６条１項の規定に基づく土地の買取りに租税特別措置法３３条の４第１項１号の特例措置が適用されることを確認していたとしても，当該納税者の所得税について上記特例措置の適用を否定することが信義則に反するものではないとされた事例",
+  "lawsuit_id": "34952",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=34952",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/952/034952_hanrei.pdf",
+  "contents": ""
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 12,
+    "day": 25
+  },
+  "case_number": "昭和25(す)201",
+  "case_name": "昭和二二年勅令第一号違反被告事件につきなした上告棄却の判決に対する刑訴五〇一条による疑義申立",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第4巻13号2880頁",
+  "original_court_name": "最高裁判所\n        　函館支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 10,
+    "day": 6
+  },
+  "gist": "刑訴法第五〇一条にいわゆる「裁判の解釈について疑があるとき」の意義",
+  "case_gist": "刑訴法第五〇一条にいわゆる「裁判の解釈について疑があるとき」とは、判決主文の趣旨が明瞭でなく、その解釈につき疑義がある場合のことである。",
+  "ref_law": "刑訴法501条",
+  "lawsuit_id": "54460",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54460",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/460/054460_hanrei.pdf"
+}

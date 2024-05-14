@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 4,
+    "month": 7,
+    "day": 9
+  },
+  "case_number": "平成1(行ツ)89",
+  "case_name": "裁決取消",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第165号143頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和59(行ケ)260",
+  "original_date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 4,
+    "day": 27
+  },
+  "gist": "弁護士法八条、九条、三六条二項と憲法二二条一項",
+  "case_gist": "弁護士法八条、九条、三六条二項は、憲法二二条一項に違反しない。",
+  "ref_law": "憲法22条1項，弁護士法8条，弁護士法9条，弁護士法36条2項",
+  "lawsuit_id": "63016",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63016",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/016/063016_hanrei.pdf"
+}

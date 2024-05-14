@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 6,
+    "day": 23
+  },
+  "case_number": "昭和40(オ)886",
+  "case_name": "貸金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第21巻6号1492頁",
+  "original_court_name": "福岡高等裁判所\n        　宮崎支部",
+  "original_case_number": "昭和39(ネ)53",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 5,
+    "day": 10
+  },
+  "gist": "いわゆる過怠約款を付した割賦払債務の消滅時効の起算点",
+  "case_gist": "割賦金弁済契約において、割賦払の約定に違反したときは債務者は債権者の請求により償還期限にかかわらず直ちに残債務全額を弁済すべき旨の約定がされた場合には、一回の不履行があつても、各割賦金債務について約定弁済期の到来ごとに順次消滅時効が進行し、債権者が特に残債務全額の弁済を求める旨の意思表示をしたときにかぎり、その時から右全額について消滅時効が進行するものと解すべきである。",
+  "ref_law": "民法166条",
+  "lawsuit_id": "55006",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55006",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/006/055006_hanrei.pdf"
+}

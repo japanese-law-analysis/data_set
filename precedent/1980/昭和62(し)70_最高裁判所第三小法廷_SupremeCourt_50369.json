@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 63,
+    "month": 11,
+    "day": 29
+  },
+  "case_number": "昭和62(し)70",
+  "case_name": "国選弁護人報酬支給決定に対する異議申立棄却決定に対する特別抗告",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第42巻9号1389頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 6,
+    "day": 22
+  },
+  "gist": "国選弁護人に支給すべき報酬額の決定に対する不服申立の可否",
+  "case_gist": "国選弁護人に支給すべき報酬額の決定に対しては刑訴法に準拠する不服申立をすることは許されず、このように解しても憲法三二条、三七条三項に違反しない。",
+  "ref_law": "憲法32条，憲法37条3項，刑訴法38条2項，刑訴法419条，刑訴法428条，刑事訴訟費用等に関する法律8条2項",
+  "lawsuit_id": "50369",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50369",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/369/050369_hanrei.pdf"
+}

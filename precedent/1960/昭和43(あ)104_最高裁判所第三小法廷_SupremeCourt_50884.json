@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 3,
+    "day": 11
+  },
+  "case_number": "昭和43(あ)104",
+  "case_name": "港則法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第23巻3号121頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 12,
+    "day": 15
+  },
+  "gist": "港則法二四条一項にいう「ごみその他これに類する廃物」にあたるとされた事例",
+  "case_gist": "相当量の夾雑物が混在する本件「し尿」（原判文参照）は、港則法二四条一項にいう「ごみその他これに類する廃物」にあたる。",
+  "ref_law": "港則法1条，港則法24条1項，港則法41条2号",
+  "lawsuit_id": "50884",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50884",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/884/050884_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 1,
+    "day": 28
+  },
+  "case_number": "昭和26(あ)3968",
+  "case_name": "織物消費税法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第8巻1号117頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 7,
+    "day": 3
+  },
+  "gist": "通告処分の拘束力",
+  "case_gist": "間接国税の犯則者に通告処分がなされた場合でも、犯則者がその通告の旨を履行しないため、成規の告発を経て一旦適法に公訴の提起があつた以上、裁判所はその通告処分の内容に拘束されることなく、没収品に該当する物品として通告されていない物について没収を科することができる。",
+  "ref_law": "国税犯則取締法14条1項",
+  "lawsuit_id": "55609",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55609",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/609/055609_hanrei.pdf"
+}

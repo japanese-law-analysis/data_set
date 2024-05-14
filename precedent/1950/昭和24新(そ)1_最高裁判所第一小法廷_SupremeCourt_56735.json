@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 12,
+    "day": 11
+  },
+  "case_number": "昭和24新(そ)1",
+  "case_name": "強盗傷人被告事件に対する非常上告の申立",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "刑集　第6巻11号1294頁",
+  "original_court_name": "福岡地方裁判所\n        　飯塚支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 6,
+    "day": 30
+  },
+  "gist": "一　少年法第五一条の法意。\n\n二　少年法第五一条の解釈をあやまり不定期刑を科した判決と刑訴第四五八条第一号但書にいわゆる「被告人のため不利益」な判決。",
+  "case_gist": "一　少年法第五一条にいわゆる「一〇年以上一五年以下において懲役又は禁錮を科する」とは、一〇年から一五年までの間の定期の懲役または禁錮を科するという趣旨である。\n\n二　無期刑をもつて処断すべき少年に対し、少年法第五一条を適用しながら、その解釈をあやまり懲役一〇年以上一五年以下の不定期刑を科した判決は、刑訴第四五八条第一号但書にいわゆる「被告人のため不利益」なものと断定することはできない。",
+  "ref_law": "少年法51條，刑訴法458條1号",
+  "lawsuit_id": "56735",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56735",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/735/056735_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 12,
+    "day": 10
+  },
+  "case_number": "昭和46(オ)47",
+  "case_name": "請求異議等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集民　第104号607頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和43(ネ)1440",
+  "original_date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 9,
+    "day": 18
+  },
+  "gist": "和解調書に記載されなかつた債権債務と裁判上の和解の解釈",
+  "case_gist": "裁判上の和解の内容および効力については、原則として和解調書に記載されたところからこれを判断すべきであり、和解調書に記載されなかつた債権債務を和解条項中の債務と関連させて、その効力を論ずることは許されない。",
+  "ref_law": "民訴法203条",
+  "lawsuit_id": "62047",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62047",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/047/062047_hanrei.pdf"
+}

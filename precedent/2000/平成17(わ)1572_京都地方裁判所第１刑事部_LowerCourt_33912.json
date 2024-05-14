@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 11,
+    "day": 15
+  },
+  "case_number": "平成17(わ)1572",
+  "case_name": "強盗致傷",
+  "court_name": "京都地方裁判所第１刑事部",
+  "result": "却下",
+  "gist": "警察官の脅迫、弁護人選任権行使の妨害及び利益誘導による取調べは、重大な違法がある上、被告人の黙秘権を著しく侵害しており、その結果作成された警察官調書と、上記違法な取調べの影響を遮断する措置が講じられることなく作成された検察官調書は、いずれもその任意性に疑いがあるとして、上記各供述調書の取調べ請求が却下された事例",
+  "lawsuit_id": "33912",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=33912",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/912/033912_hanrei.pdf",
+  "contents": ""
+}

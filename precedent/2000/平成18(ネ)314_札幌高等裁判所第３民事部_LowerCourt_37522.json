@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 3,
+    "day": 26
+  },
+  "case_number": "平成18(ネ)314",
+  "case_name": "配転無効確認等",
+  "court_name": "札幌高等裁判所第３民事部",
+  "result": "その他",
+  "original_court_name": "札幌地方裁判所",
+  "original_case_number": "平成14(ワ)1958",
+  "original_result": "その他",
+  "gist": "会社の従業員あるいは元従業員らが，同人らに対する会社の配置転換命令は違法であるとして，各配転命令によって生じた精神的苦痛に対する慰謝料の支払を求めたのに対し，業務上の必要性及び配転障害事由の有無等を検討の上，一部の者につき慰謝料請求を認め，その余の者らにつきこれを認めなかった事例",
+  "lawsuit_id": "37522",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=37522",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/522/037522_hanrei.pdf",
+  "contents": ""
+}

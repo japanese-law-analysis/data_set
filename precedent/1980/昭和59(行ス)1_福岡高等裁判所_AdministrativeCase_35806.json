@@ -1,0 +1,18 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 1,
+    "day": 14
+  },
+  "case_number": "昭和59(行ス)1",
+  "case_name": "移送申立却下決定に対する抗告事件（原審・大分地方裁判所昭和５８年（行ウ）第９号）",
+  "court_name": "福岡高等裁判所",
+  "field": "行政",
+  "gist": "総理府（現総務庁）恩給局長が恩給法８０条２項に基づいてした公務扶助料受給権を失わせる旨の処分について，その事務手続に関与した県知事が，行政事件訴訟法１２条３項にいう「事案の処理に当たつた下級行政機関」に当たらないとされた事例",
+  "lawsuit_id": "35806",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=35806",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/806/035806_hanrei.pdf",
+  "contents": ""
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 9,
+    "day": 10
+  },
+  "case_number": "昭和29(オ)898",
+  "case_name": "損害賠償並びに慰藉料請求",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第12巻13号1969頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 9,
+    "day": 15
+  },
+  "gist": "一　旅券法第一三条第一項第五号の合憲性。\n二　旅券法第一三条第一項第五号により外務大臣のなした旅券発給拒否の処分が違法でないとされた事例。",
+  "case_gist": "一　旅券法第一三条第一項第五号は、外国旅行の自由に対し、公共の福祉のため合理的な制限を定めたもので、憲法第二二条第二項に違反しない。\n二　原審認定の事実関係（原判決参照）、特に占領治下我国の当面する国際情勢の下において、外務大臣が上告人らのモスコー国際経済会議への参加を旅券法第一三条第一項第五号にあたると判断してなした旅券発給拒否の処分は、違法とはいえない。",
+  "ref_law": "憲法22条，旅券法13条1項5号",
+  "lawsuit_id": "52824",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52824",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/824/052824_hanrei.pdf"
+}

@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 2,
+    "day": 26
+  },
+  "case_number": "平成16(ワ)448",
+  "case_name": "損害賠償請求事件",
+  "court_name": "岐阜地方裁判所",
+  "result": "棄却",
+  "gist": "水位調節のための洗堰から越流した河川において，改修計画に基づく改修，整備の段階に対応する安全性を備えていたとして，河川管理の瑕疵があるとはいえないとされた事例",
+  "lawsuit_id": "38251",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=38251",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/251/038251_hanrei.pdf",
+  "contents": ".\n.\n"
+}

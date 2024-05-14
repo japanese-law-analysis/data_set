@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 8,
+    "day": 26
+  },
+  "case_number": "昭和40(オ)68",
+  "case_name": "株主総会決議取消等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第20巻6号1289頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和38(ネ)872",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 10,
+    "day": 22
+  },
+  "gist": "一　特別の利害関係を有する取締役と取締役会の定足数の算定\n二　議決時に定足数を欠くにいたつた取締役会の決議の効力",
+  "case_gist": "一　株式会社の取締役会の定足数は、決議に特別の利害関係を有する取締役の員数を控除して算定すべきではない。\n二　株式会社の取締役会の定足数は、開会時に充足されただけでは足りず、討議・議決の全過程を通じて維持されるべきであり、議決時にこれを欠くにいたつた場合には、当該決議は無効というべきである。",
+  "ref_law": "商法260条ノ2，商法239条5項，商法240条2項",
+  "lawsuit_id": "53992",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53992",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/992/053992_hanrei.pdf"
+}

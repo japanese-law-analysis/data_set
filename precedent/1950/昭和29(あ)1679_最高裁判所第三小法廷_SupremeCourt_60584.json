@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 5,
+    "day": 8
+  },
+  "case_number": "昭和29(あ)1679",
+  "case_name": "名誉毀損",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第113号453頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 4,
+    "day": 15
+  },
+  "gist": "刑法第二三〇条第一項にいう「事実ヲ摘示シ人ノ名誉ヲ毀損シタル者」にあたる一事例",
+  "case_gist": "相手方に対し「この泥棒が」と申向けたにすぎない場合にも、相手方の社会的地位を害するに足るべき具体的事実を述べたものと認め得る場合がある。",
+  "ref_law": "刑法230条1項",
+  "lawsuit_id": "60584",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60584",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/584/060584_hanrei.pdf"
+}

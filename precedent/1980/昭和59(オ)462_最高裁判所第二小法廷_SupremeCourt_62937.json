@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 9,
+    "day": 28
+  },
+  "case_number": "昭和59(オ)462",
+  "case_name": "幼児引渡等",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第142号381頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和58(ネ)463",
+  "original_date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 12,
+    "day": 22
+  },
+  "gist": "幼児引渡義務と養育費等の不当利得返還義務との間の同時履行関係の有無",
+  "case_gist": "幼児を養育していた者から親権者への幼児引渡義務と親権者から右養育者への養育費等の不当利得返還義務とは、同時履行の関係に立たない。",
+  "ref_law": "民法533条，民法703条，民法820条",
+  "lawsuit_id": "62937",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62937",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/937/062937_hanrei.pdf"
+}

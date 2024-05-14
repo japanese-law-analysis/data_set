@@ -1,0 +1,15 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Heisei",
+    "year": 30,
+    "month": 12,
+    "day": 13
+  },
+  "case_number": "平成30(行コ)86",
+  "case_name": "遺族厚生年金不支給処分取消等請求控訴事件",
+  "court_name": "大阪高等裁判所",
+  "lawsuit_id": "90176",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=90176",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/176/090176_hanrei.pdf"
+}

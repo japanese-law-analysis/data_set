@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 1,
+    "day": 25
+  },
+  "case_number": "昭和23(れ)905",
+  "case_name": "詐欺",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第3巻1号58頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 5,
+    "day": 15
+  },
+  "gist": "詐欺の公訴事實につき賍物収受の事實を認定したことの正否",
+  "case_gist": "本件公判請求書記載の詐欺の公訴事実と原審認定の判示賍物収受の事実とを彼此對照するにその間事犯の態様に差異は認められるがいずれも他人の所有にかかる財物を不法に領得する犯罪たる點において互に密接の關係を有するからその基本たる事實關係においては同一であると解するを相當とする。",
+  "ref_law": "旧刑訴法410條18号",
+  "lawsuit_id": "55406",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55406",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/406/055406_hanrei.pdf"
+}

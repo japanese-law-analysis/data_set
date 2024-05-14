@@ -1,0 +1,17 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Reiwa",
+    "year": 2,
+    "month": 11,
+    "day": 6
+  },
+  "case_number": "令和1(行ウ)239",
+  "case_name": "納付告知処分取消請求事件",
+  "court_name": "東京地方裁判所",
+  "gist": "国税徴収法３９条に基づく第二次納税義務に係る納付告知書による告知処分が適法とされた事例",
+  "case_gist": "国税徴収法３９条に基づく第二次納税義務に係る納付告知書による告知処分につき，原告（株式会社）の代表者（滞納者）が原告に対してした，当該代表者の原告に対する求償債権についての債務免除が，実質的にみて「必要かつ合理的な理由」に基づくものであるとする原告の主張は採用することができず，上記債務免除は同条にいう「債務の免除」に当たるなどとして，上記処分を適法とした事例",
+  "lawsuit_id": "90167",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=90167",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/167/090167_hanrei.pdf"
+}

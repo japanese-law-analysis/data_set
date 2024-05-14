@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 2,
+    "day": 26
+  },
+  "case_number": "昭和25(あ)1603",
+  "case_name": "強盜、窃盜",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第61号633頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 4,
+    "day": 3
+  },
+  "gist": "追起訴事実に対する弁護権",
+  "case_gist": "追起訴の場合には、被告人において特段の限定をしない以上、被告人がはじめにした弁護人選任の効力は、同一機会に追起訴され且つ一つの事件として併合審理された事件の全部に及ぶものと解することは、当裁判所の判例とするところである。（昭和二六年（あ）第六五四号同年六月二八日第一小法廷判決、集五巻七号一三〇三頁）。",
+  "ref_law": "刑訴法30条，刑訴規則18条，刑訴規則18条の2（昭和26年最高裁判所規則15号により追加）",
+  "lawsuit_id": "70982",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70982",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/982/070982_hanrei.pdf"
+}

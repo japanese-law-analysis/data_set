@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 3,
+    "day": 8
+  },
+  "case_number": "昭和31(オ)277",
+  "case_name": "株主総会決議無効確認請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第16巻3号473頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 12,
+    "day": 27
+  },
+  "gist": "一　会社が発行する株式総数中に未発行部分がある場合に、株式総数を増加する旨の定款変更をなしうるか\n二　再評価積立金の資本組入による一部有償交付新株の発行を条件とする株式総数増加の定款変更決議の適否",
+  "case_gist": "一　会社が発行する株式総数中に未発行部分がある場合でも、発行済株式総数の四倍を超えない範囲内で会社が発行する株式総数を増加する旨の定款変更をなしうる。\n二　再評価積立金の資本組入による一部有償交付新株の発行を条件として、発行済株式総数に右新株発行総数を加えた数の四倍を超えない範囲内で会社が発行する株式総数を増加する旨の定款変更決議も違法とはいえない。",
+  "ref_law": "商法347条，株式会社の再評価積立金の資本組入に関する法律3条，株式会社の再評価積立金の資本組入に関する法律4条，株式会社の再評価積立金の資本組入に関する法律7条",
+  "lawsuit_id": "56207",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56207",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/207/056207_hanrei.pdf"
+}

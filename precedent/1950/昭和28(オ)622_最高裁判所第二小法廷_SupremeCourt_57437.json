@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 10,
+    "day": 7
+  },
+  "case_number": "昭和28(オ)622",
+  "case_name": "預金返還請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第9巻11号1616頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 4,
+    "day": 30
+  },
+  "gist": "酌婦としての稼働契約に伴い消費賃借名義で交付された金員の返還請求の許容",
+  "case_gist": "酌婦としての稼働契約が公序良俗に反し無効である場合には、これに伴い消費賃借名義で交付された金員の返還請求は許されない。",
+  "ref_law": "民法90条，民法708条",
+  "lawsuit_id": "57437",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57437",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/437/057437_hanrei.pdf"
+}

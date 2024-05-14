@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 12,
+    "day": 3
+  },
+  "case_number": "昭和38(オ)425",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第81号269頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和34(ネ)1055",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 12,
+    "day": 25
+  },
+  "gist": "刑事判決確定までの検察官の差押継続が不法行為とならないとされた事例",
+  "case_gist": "密輸の被疑者が搭乗した船舶につき、刑事判決確定まで検察官が差押を継続したとしても、原判示事情（原判決引用の一審判決理由参照）のもとにおいては、右検察官の処置は船舶所有者に対する不法行為とならない。",
+  "ref_law": "民法709条，旧関税法83条",
+  "lawsuit_id": "66218",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66218",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/218/066218_hanrei.pdf"
+}

@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 5,
+    "day": 19
+  },
+  "case_number": "平成18(あ)2030",
+  "case_name": "商法違反被告事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第62巻6号1623頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_case_number": "平成17(う)21",
+  "original_date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 9,
+    "day": 5
+  },
+  "gist": "銀行がした融資に係る頭取らの特別背任行為につき，当該融資の申込みをしたにとどまらず，その実現に積極的に加担した融資先会社の実質的経営者に，特別背任罪の共同正犯の成立が認められた事例",
+  "case_gist": "銀行がした融資に係る頭取らの特別背任行為につき，当該融資の申込みをしたにとどまらず，融資の前提となるスキーム（判文参照）を頭取らに提案してこれに沿った行動を取り，同融資の担保となる物件の担保価値を大幅に水増しした不動産鑑定書を作らせるなどして，同融資の実現に積極的に加担した融資先会社の実質的経営者は，上記特別背任行為に共同加功をしたということができる。",
+  "ref_law": "商法（平成17年法律第87号による改正前のもの）486条1項，刑法60条，刑法65条，刑法247条",
+  "lawsuit_id": "36359",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=36359",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/359/036359_hanrei.pdf",
+  "contents": ""
+}

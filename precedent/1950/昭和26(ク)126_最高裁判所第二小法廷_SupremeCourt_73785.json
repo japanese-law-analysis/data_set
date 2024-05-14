@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 8,
+    "day": 11
+  },
+  "case_number": "昭和26(ク)126",
+  "case_name": "懲戒処分不服事件につき、訴状却下の命令に対する抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "却下",
+  "article_info": "集民　第5号233頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和26(行ナ)5",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 6,
+    "day": 4
+  },
+  "lawsuit_id": "73785",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=73785",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/785/073785_hanrei.pdf"
+}

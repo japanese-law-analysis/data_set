@@ -1,0 +1,17 @@
+{
+  "trial_type": "IPCase",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 4,
+    "day": 20
+  },
+  "case_number": "昭和47(オ)395",
+  "case_name": "特許権の通常実施権設定登録等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "right_type": "特許権",
+  "lawsuit_type": "民事訴訟",
+  "lawsuit_id": "52085",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail7?id=52085",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/085/052085_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 3,
+    "day": 12
+  },
+  "case_number": "昭和23(れ)1038",
+  "case_name": "物価統制令違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第8号209頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 6,
+    "day": 14
+  },
+  "gist": "連續一罪として起訴せられた數行爲の中或行爲につき有罪を言渡した場合他の行爲につき無罪言渡の要否",
+  "case_gist": "數個の行爲が連續一罪として公判に付せられた場合において裁判所が各行爲について審理を遂げた上、そのうちの或行爲は有罪であると認めたときはその有罪の部分についてのみ主文において刑の言渡をなし、舊刑訴法第三六〇條所定の理由を付せば足り他の部分について特に無罪の言渡を爲すべきではなく且判決理由にこれを説明する必要もない。",
+  "ref_law": "舊刑訴法360條1項，刑法55條（改正前）",
+  "lawsuit_id": "74658",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74658",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/658/074658_hanrei.pdf"
+}

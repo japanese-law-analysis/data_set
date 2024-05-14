@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 4,
+    "day": 13
+  },
+  "case_number": "昭和24(オ)126",
+  "case_name": "請求異議",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第5巻5号242頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 5,
+    "day": 24
+  },
+  "gist": "一　裁判上の和解により建物を収去してその敷地を明け渡すべき義務のある者から建物を借り受けその敷地を占有する者と民訴第二〇一条第一項にいわゆる承継人\n二　民訴第五一九条第一項にいゆる債務者の一般承継人の解釈",
+  "case_gist": "一　裁判上の和解により建物を収去しその敷地を明け渡すべき義務のある者から建物を借り受けその敷地を占有する者は、民訴第二〇一条第一項にいわゆる承継人にあたる。\n二　民訴第五一九条第一項にいわゆる債務者の一般承継人には、判決の効力の及ぶ債務者の特定承継人をも含む趣旨に解釈すべきである。",
+  "ref_law": "民訴法201条1項，民訴法203条，民訴法519条1項",
+  "lawsuit_id": "55926",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55926",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/926/055926_hanrei.pdf"
+}

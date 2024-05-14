@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 5,
+    "day": 15
+  },
+  "case_number": "昭和23(れ)14",
+  "case_name": "窃盗、加重逃走",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第2号79頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 11,
+    "day": 1
+  },
+  "gist": "情状論と心神耗弱の主張の有無",
+  "case_gist": "辯護人は原審において、心身耗弱を事由とする刑の減輕の事實上の主張をしたというけれども、原審公判調書によれば、辯護人はその辯論において、兩被告人の精神状態を縷述し、諸般の事情を斟酌の上、刑の執行猶豫を求める旨述べたということは明らかであるけれども、辯護人が被告人等の精神状態について鑑定の申請をした形跡もないし、これは畢竟執行猶豫を相當とする情状論と解すべきであつて、刑事訴訟法第第三六〇條にいわゆる刑の減輕の事由たる事質上の主張をしたものとはうけとれない。",
+  "ref_law": "刑訴法360條",
+  "lawsuit_id": "70583",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70583",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/583/070583_hanrei.pdf"
+}

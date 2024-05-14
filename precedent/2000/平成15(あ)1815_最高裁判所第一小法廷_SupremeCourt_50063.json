@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 16,
+    "month": 7,
+    "day": 12
+  },
+  "case_number": "平成15(あ)1815",
+  "case_name": "大麻取締法違反，出入国管理及び難民認定法違反被告事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第58巻5号333頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成13(う)1407",
+  "original_date": {
+    "era": "Heisei",
+    "year": 15,
+    "month": 7,
+    "day": 7
+  },
+  "gist": "１　おとり捜査の許容性\n２　大麻の有償譲渡を企図していると疑われる者を対象にして行われたおとり捜査が適法とされた事例",
+  "case_gist": "１　直接の被害者がいない薬物犯罪等の捜査において，通常の捜査方法のみでは犯罪の摘発が困難である場合に，機会があれば犯罪を行う意思があると疑われる者を対象にして行われるおとり捜査は，刑訴法１９７条１項に基づく任意捜査として許容される。\n２　大麻の有償譲渡を企図していると疑われる者を対象にして行われた本件おとり捜査（判文参照）は，麻薬取締官において，取引の場所を準備し，大麻を買い受ける意向を示し，取引の場に大麻を持参するように仕向けたとしても，適法である。",
+  "ref_law": "刑訴法197条1項",
+  "lawsuit_id": "50063",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50063",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/063/050063_hanrei.pdf"
+}

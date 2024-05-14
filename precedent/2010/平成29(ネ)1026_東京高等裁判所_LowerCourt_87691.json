@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 30,
+    "month": 2,
+    "day": 15
+  },
+  "case_number": "平成29(ネ)1026",
+  "case_name": "賃金請求控訴事件",
+  "court_name": "東京高等裁判所",
+  "result": "その他",
+  "original_court_name": "東京地方裁判所",
+  "original_case_number": "平成24(ワ)14472",
+  "lawsuit_id": "87691",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=87691",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/691/087691_hanrei.pdf"
+}

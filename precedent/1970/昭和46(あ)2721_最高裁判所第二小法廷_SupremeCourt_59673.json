@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 4,
+    "day": 5
+  },
+  "case_number": "昭和46(あ)2721",
+  "case_name": "道路交通法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第184号3頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 11,
+    "day": 11
+  },
+  "gist": "一　判決宣告の性質\n二　裁判長の被告人に対する訓戒の性質",
+  "case_gist": "一　判決の宣告は、すでに内部的に成立している判決を告知して、これを外部的にも成立させる手続である。\n二　裁判長の被告人に対する訓戒は、判決宣告に付随する処置の一つであり、その性質上、審理および判決に関与した裁判官でなければこれをなしえないというものではない。",
+  "ref_law": "刑訴法315条但書，刑訴規則35条，刑訴規則221条",
+  "lawsuit_id": "59673",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59673",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/673/059673_hanrei.pdf"
+}

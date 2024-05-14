@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 27,
+    "month": 3,
+    "day": 20
+  },
+  "case_number": "平成26(行ケ)2",
+  "case_name": "選挙無効請求事件",
+  "court_name": "名古屋高等裁判所民事第3部",
+  "result": "棄却",
+  "gist": "平成２６年１２月１４日施行の衆議院議員総選挙について，愛知県，岐阜県及び三重県内の選挙区の選挙人らが，公職選挙法１３条１項及び別表第１の定める衆議院議員小選挙区選出議員の選挙区割規定は，人口に比例した選挙区を定めなければならないという憲法上の要求に反しているから違憲無効であり，同規定により定められた選挙区割りにより実施された前記選挙区の選挙も無効であるとしてされた選挙の無効請求が棄却された事例",
+  "lawsuit_id": "85012",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=85012",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/012/085012_hanrei.pdf"
+}

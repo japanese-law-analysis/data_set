@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 30,
+    "month": 10,
+    "day": 24
+  },
+  "case_number": "平成28(ネ)3783",
+  "case_name": "国家賠償請求控訴事件",
+  "court_name": "東京高等裁判所",
+  "result": "棄却",
+  "original_court_name": "東京地方裁判所",
+  "original_case_number": "平成24(ワ)36185",
+  "lawsuit_id": "88421",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=88421",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/421/088421_hanrei.pdf"
+}

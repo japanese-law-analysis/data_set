@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 9,
+    "day": 18
+  },
+  "case_number": "昭和35(あ)2624",
+  "case_name": "たばこ専売法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第17巻8号1715頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 10,
+    "day": 28
+  },
+  "gist": "たばこ専売法第七五条第一項所定のたばこを他に順次譲り渡した場合、その各譲渡人からそのたばこの価額を追徴することの適否。",
+  "case_gist": "たばこ専売法第七五条第一項所定のたばこを、甲乙丙丁と順次譲り渡し（売買）たときは、甲乙丙の各譲渡にかかるたばこの個数と価額に応ずる各金額を、譲渡人である甲乙丙から各別に追徴すべきである。",
+  "ref_law": "たばこ専売法75条1項，たばこ専売法75条2項",
+  "lawsuit_id": "50642",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50642",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/642/050642_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 12,
+    "day": 1
+  },
+  "case_number": "昭和41(オ)60",
+  "case_name": "所有権移転登記手続請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第85号481頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和40(ネ)367",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 10,
+    "day": 29
+  },
+  "gist": "不動産の処分を委ねられた者が自己の名で譲渡した場合本人に効力が及ぶか",
+  "case_gist": "不動産の処分を委ねられた者が、代理の形式によらず自己の名で該不動産を第三者に譲渡した場合でも、所有権は本人から該第三者に移転する。",
+  "ref_law": "民法99条",
+  "lawsuit_id": "66556",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66556",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/556/066556_hanrei.pdf"
+}

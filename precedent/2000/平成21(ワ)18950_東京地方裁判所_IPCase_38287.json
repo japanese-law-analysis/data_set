@@ -1,0 +1,18 @@
+{
+  "trial_type": "IPCase",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 12,
+    "day": 16
+  },
+  "case_number": "平成21(ワ)18950",
+  "case_name": "特許権侵害差止請求反訴",
+  "court_name": "東京地方裁判所",
+  "right_type": "特許権",
+  "lawsuit_type": "民事訴訟",
+  "lawsuit_id": "38287",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail7?id=38287",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/287/038287_hanrei.pdf",
+  "contents": "Kodak Wratten filter No.15\nFluorescein electronic endoscopy: a novel method for detection of early stage\ngastric cancer not evident to routine endoscopy\nFi\ngure12. Schematic diagram of fluorescence electronic endoscopic system. White p\naper stained with fluorescein was used as the observed object\nA black and white charge-coupled device (CCD) behind the objective lens of\nthe endoscope (GIF-XQ 200, Olympus) picks up the photons of light reflected fro\nm tissue and generates electronic signals for, sequentially, red (R), green (G), and\nblue (B) reflected light. The video processor (CV-200, Olympus) receives these\n3 electronic signals and reconstructs them on a color television monitor. (Fig. 1\n2)\nReconstruction of the R,G, and B channels on the monitor results in an image\nthat shows the stains to be white (bright blue + green + red) and the paper yellow\n(only green+ red) (Fig.13)\nFig.1a-d\nFig.1a-d\nEVIS LUCERA SPECTRUM\nEVIS LUCERA OLYMPUS GIF TYPE FQ260Z\n"
+}

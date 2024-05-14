@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 5,
+    "day": 12
+  },
+  "case_number": "昭和54(あ)621",
+  "case_name": "道路交通法違反、業務上過失傷害",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第34巻3号185頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 2,
+    "day": 14
+  },
+  "gist": "起訴状謄本の不送達と公訴時効停止の効力",
+  "case_gist": "刑訴法二五四条一項の規定は、起訴状の謄本が法定の期間内に被告人に送達されなかつたため決定で公訴が棄却される場合にも適用があり、公訴の提起により進行を停止していた公訴時効は、右公訴棄却決定の確定した時から再びその進行を始める。",
+  "ref_law": "刑訴法254条1項，刑訴法271条2項，刑訴法339条1項1号",
+  "lawsuit_id": "51180",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51180",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/180/051180_hanrei.pdf"
+}

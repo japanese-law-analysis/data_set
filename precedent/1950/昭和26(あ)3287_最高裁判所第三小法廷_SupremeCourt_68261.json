@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 2,
+    "day": 24
+  },
+  "case_number": "昭和26(あ)3287",
+  "case_name": "食糧管理法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第74号353頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 7,
+    "day": 20
+  },
+  "gist": "主要食糧の買受罪と輸送罪との関係",
+  "case_gist": "主要食糧を違法に買受けた者がこれを違法に輸送した場合といえども、その輸送の罪（食糧管理法九条、三一条、同法施行令一一条、同法施行規則二九条一項の罪）が成立することもちろんである。",
+  "ref_law": "刑法45条，食糧管理法9条，食糧管理法施行令11条，食糧管理法施行規則29条",
+  "lawsuit_id": "68261",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=68261",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/261/068261_hanrei.pdf"
+}

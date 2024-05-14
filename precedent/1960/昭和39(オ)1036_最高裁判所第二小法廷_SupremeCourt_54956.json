@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 4,
+    "day": 28
+  },
+  "case_number": "昭和39(オ)1036",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第21巻3号780頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和38(ネ)1334",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 5,
+    "day": 25
+  },
+  "gist": "家屋賃借人の内縁の夫が賃借人の死後において家屋に居住できるとされた事例",
+  "case_gist": "家屋賃借人の唯一の相続人が行先不明で生死も判然としない場合において、家屋賃借人の内縁の夫が賃借人の死亡後もひきつづき家屋に居住する等判示の事情があるときは、内縁の夫は、家屋の居住につき右相続人の賃借権を援用して賃貸人に対抗することができる。",
+  "ref_law": "民法601条，民法896条",
+  "lawsuit_id": "54956",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54956",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/956/054956_hanrei.pdf"
+}

@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 11,
+    "day": 29
+  },
+  "case_number": "平成19(ワ)161",
+  "case_name": "弁護士報酬請求事件",
+  "court_name": "京都地方裁判所第３民事部",
+  "gist": "住民らが，平成14年改正前の地方自治法242条の2第7項に基づき，原告らが提起して一部勝訴が確定した住民訴訟の弁護士報酬のうち「相当と認められる額」を請求し，その一部につき認容された事例",
+  "lawsuit_id": "35512",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=35512",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/512/035512_hanrei.pdf",
+  "contents": ""
+}

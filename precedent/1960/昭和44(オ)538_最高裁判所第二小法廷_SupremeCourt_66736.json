@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 9,
+    "day": 12
+  },
+  "case_number": "昭和44(オ)538",
+  "case_name": "所有権確認等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第96号579頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和41(ネ)1667",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 2,
+    "day": 25
+  },
+  "gist": "請負契約に基づき建築された建物所有権が原始的に注文者に帰属するとされた事例",
+  "case_gist": "注文者が、請負契約の履行として、請負人に対し、全工事代金の半額以上を棟上げのときまでに支払い、その後も工事の進行に応じ残代金の支払をして来たような場合には、特段の事情のないかぎり、建築された建物の所有権は、引渡をまつまでもなく、完成と同時に原始的に注文者に帰属するものと解するのが相当である。",
+  "ref_law": "民法632条",
+  "lawsuit_id": "66736",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66736",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/736/066736_hanrei.pdf"
+}

@@ -1,0 +1,21 @@
+{
+  "trial_type": "HighCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 2,
+    "day": 17
+  },
+  "case_number": "平成18(ラ)6",
+  "case_name": "後見開始審判に対する即時抗告事件",
+  "court_name": "広島高等裁判所岡山支部         　第２部",
+  "result": "棄却",
+  "article_info": "第59巻1号1頁",
+  "original_court_name": "岡山家庭裁判所",
+  "gist": "成年後見人選任の当否と後見開始の審判に対する即時抗告",
+  "case_gist": "後見開始の審判に対する即時抗告において成年後見人選任の不当を抗告理由とすることはできない。",
+  "lawsuit_id": "34732",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail3?id=34732",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/732/034732_hanrei.pdf",
+  "contents": ""
+}

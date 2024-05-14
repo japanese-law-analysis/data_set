@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 8,
+    "day": 20
+  },
+  "case_number": "昭和27(あ)6880",
+  "case_name": "酒税法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第98号125頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 10,
+    "day": 30
+  },
+  "gist": "審理不尽にあたらない一事例",
+  "case_gist": "上告趣意第二点は審理不尽の主張であるが当事者何れの側からも所論証人Ａの証人尋問の請求はなかつたのであつて、殊に所在不明であること記録上明らかな証人を職権で尋問しなければならないとの主張は全く理由がない。",
+  "ref_law": "刑訴法378条4号",
+  "lawsuit_id": "72642",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=72642",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/642/072642_hanrei.pdf"
+}

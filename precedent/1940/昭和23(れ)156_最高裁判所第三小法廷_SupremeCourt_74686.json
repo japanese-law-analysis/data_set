@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 7,
+    "day": 6
+  },
+  "case_number": "昭和23(れ)156",
+  "case_name": "強盗",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第3号35頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 12,
+    "day": 22
+  },
+  "gist": "共同被告人の供述と補強證據",
+  "case_gist": "原判決は、被告人の原審公判廷における自白を唯一の證據として原判示の犯罪事實を認定したのではなく、原審公判廷における被告人の供述の外、共同被告人Ａの供述及び證人Ｂに對する豫審訊問調書記載の判示に照應する被害顛末の供述をも證據として犯罪事實を認定しているのである。共同被告人の供述も補強證據とならないことはなく、本件では更に被害者の供述をも證據に引用しているのであるから、原判決は所論のように證據とならないものを證據として犯罪事實を認定した違法はない。",
+  "ref_law": "憲法38條3項，刑訴應急措置法10條3項",
+  "lawsuit_id": "74686",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74686",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/686/074686_hanrei.pdf"
+}

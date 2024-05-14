@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 7,
+    "day": 3
+  },
+  "case_number": "昭和25(あ)1712",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第49号23頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 5,
+    "day": 8
+  },
+  "gist": "控訴裁判所が刑訴第二七二条の告知をしなかつたため弁護人の国選がみられ控訴趣意書差出期間を経過した場合と憲法第三七条第三項",
+  "case_gist": "原審裁判所が控訴申立事件を受理するや直ちに被告人に弁護人の選任を請求することができる旨告知せず、又被告人も亦これが請求をしないで控訴趣意提出期間を経過しその後になつて始めて被告人は右請求をなし原裁判所が弁護人を選任したため、同弁護人は控訴趣意書を提出することができなくなつたからといつて、原裁判所は、被告人に対しその弁護人に依頼する権利の行使を妨げたものではなく被告人に対しては右権利行使の機会を与えているのであるから、原裁判所の右措置は何等憲法第三七条第三項に違反するものではない。",
+  "ref_law": "憲法37条3項，刑訴法272条，刑訴法404条，刑訴法規則177条",
+  "lawsuit_id": "75055",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=75055",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/055/075055_hanrei.pdf"
+}

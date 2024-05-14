@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 2,
+    "day": 28
+  },
+  "case_number": "平成18(行コ)5",
+  "case_name": "遺族補償年金等不支給処分取消（通称　札幌東労基署長遺族補償等不支給処分取消）",
+  "court_name": "札幌高等裁判所第３民事部",
+  "result": "棄却",
+  "original_court_name": "札幌地方裁判所",
+  "original_case_number": "平成15(行ウ)24",
+  "original_result": "その他",
+  "gist": "地方銀行の課長が勤務中にくも膜下出血により死亡した場合について，銀行の営業譲渡に伴う業務等による過労，精神的ストレスの他に発症の原因は見いだせないから，業務と死亡との間には相当因果関係があるとして，遺族からの労災遺族補償給付等の不支給処分取消請求を認めた事例",
+  "lawsuit_id": "36092",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=36092",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/092/036092_hanrei.pdf",
+  "contents": ""
+}

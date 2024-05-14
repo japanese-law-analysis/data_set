@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 1,
+    "day": 27
+  },
+  "case_number": "昭和28(あ)4840",
+  "case_name": "器物毀棄、同教唆",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集刑　第112号139頁",
+  "original_court_name": "福岡高等裁判所\n        　宮崎支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 9,
+    "day": 25
+  },
+  "gist": "適法な告訴があつたものと認められる事例",
+  "case_gist": "Ａ所有の田圃にＢが植付け所有した稲苗を土中に埋没させて毀棄した事件において、告訴状がＡ名義でなされていても、他の証拠によつて、右告訴が苗の被害者Ｂの委任によるものであることがうかがわれ、またＢ自身も検察官に対し告訴の意思を表示している場合は、適法な告訴があるものと認めるべきである。",
+  "ref_law": "刑訴法230条，刑訴法338条4号",
+  "lawsuit_id": "60547",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60547",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/547/060547_hanrei.pdf"
+}

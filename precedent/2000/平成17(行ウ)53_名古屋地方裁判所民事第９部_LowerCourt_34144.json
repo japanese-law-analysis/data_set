@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 12,
+    "day": 13
+  },
+  "case_number": "平成17(行ウ)53",
+  "case_name": "法人税更正処分取消等請求",
+  "court_name": "名古屋地方裁判所民事第９部",
+  "result": "棄却",
+  "gist": "土地が原告，その子会社，土地開発公社に順次売却された場合に，原告の子会社に対する土地売却が租税負担回避等を目的とした通謀虚偽表示であり，子会社の土地開発公社に対する土地売却利益が原告に帰属するとしてなされた法人税等の更正処分等が適法とされた事例",
+  "lawsuit_id": "34144",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=34144",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/144/034144_hanrei.pdf",
+  "contents": ""
+}

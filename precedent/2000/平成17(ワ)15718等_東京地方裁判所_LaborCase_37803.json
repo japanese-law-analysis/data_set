@@ -1,0 +1,17 @@
+{
+  "trial_type": "LaborCase",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 2,
+    "day": 7
+  },
+  "case_number": "平成17(ワ)15718等",
+  "case_name": "損害賠償請求事件（通称　東京都立高等学校教職員再雇用選考損害賠償）",
+  "court_name": "東京地方裁判所",
+  "field": "労働",
+  "lawsuit_id": "37803",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail6?id=37803",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/803/037803_hanrei.pdf",
+  "contents": "161,900 9 160,500 51 9,642,600\n160,500 60 9,630,000\n"
+}

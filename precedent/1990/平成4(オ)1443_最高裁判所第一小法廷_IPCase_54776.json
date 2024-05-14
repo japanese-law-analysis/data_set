@@ -1,0 +1,17 @@
+{
+  "trial_type": "IPCase",
+  "date": {
+    "era": "Heisei",
+    "year": 9,
+    "month": 7,
+    "day": 17
+  },
+  "case_number": "平成4(オ)1443",
+  "case_name": "著作権侵害差止等",
+  "court_name": "最高裁判所第一小法廷",
+  "right_type": "商標権",
+  "lawsuit_type": "民事訴訟",
+  "lawsuit_id": "54776",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail7?id=54776",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/776/054776_hanrei.pdf"
+}

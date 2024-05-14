@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 5,
+    "day": 18
+  },
+  "case_number": "昭和35(あ)2073",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第142号217頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 7,
+    "day": 26
+  },
+  "gist": "占有離脱物と認められないとした事例",
+  "case_gist": "列車の終着駅で出口近くの座席に乗つていた被害者が網棚の上にシヨルダーバツグを置き忘れたまま下車し、同一車内の他の乗客はまだ全部降りきらないうちに、かねて乗客の持物を狙つて乗車していた犯人がこれを持ち去つたという事情の下においては右シヨルダーバツグは、未だ被害者の占有を離れたものではないと認むべきである。",
+  "ref_law": "刑法254条，刑法235条",
+  "lawsuit_id": "75955",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=75955",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/955/075955_hanrei.pdf"
+}

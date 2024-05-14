@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 5,
+    "day": 29
+  },
+  "case_number": "昭和43(オ)369",
+  "case_name": "土地所有権確認並びに木材引渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第23巻6号1034頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和41(ネ)560",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 12,
+    "day": 26
+  },
+  "gist": "仮処分の目的物の引渡請求訴訟係属中目的物が換価されその売得金が供託された場合と請求認容判決の主文",
+  "case_gist": "仮処分の目的物の引渡請求訴訟係属中に、目的物が執行裁判所によつて換価され、売得金が供託された場合において、その請求を認容する判決の主文は、目的物の引渡を命ずるものであつても、売得金の引渡を命ずるものであつてもよい。",
+  "ref_law": "民訴法191条，民訴法750条，民訴法756条",
+  "lawsuit_id": "54128",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54128",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/128/054128_hanrei.pdf"
+}

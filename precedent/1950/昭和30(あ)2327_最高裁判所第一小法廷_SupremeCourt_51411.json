@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 3,
+    "day": 29
+  },
+  "case_number": "昭和30(あ)2327",
+  "case_name": "職業安定法違反、労働基準法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第10巻3号415頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 6,
+    "day": 30
+  },
+  "gist": "労働基準法第六条にいわゆる「他人の就業に介入し」の意義",
+  "case_gist": "労働基準法第六条にいわゆる「他人の就業に介入し」とは、同法第八条の労働関係の当業者間に第三者が介在して、その労働関係の開始、存続等について媒介または周旋をなす等その労働関係について、何らかの因果関係を有する関与をなす場合をいうものと解するを相当とする。",
+  "ref_law": "労働基準法6条，労働基準法8条，労働基準法118条",
+  "lawsuit_id": "51411",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51411",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/411/051411_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 12,
+    "day": 24
+  },
+  "case_number": "昭和25(れ)723",
+  "case_name": "銃砲火薬類取締法施行規則違反",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "刑集　第6巻11号1346頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 7,
+    "day": 27
+  },
+  "gist": "鉄砲火薬類取締法施行規則第四五条と昭和二二年法律第七二号「日本国憲法施行の際現に効力を有する命令の規定の効力等に関する法律」第一条",
+  "case_gist": "鉄砲火薬類取締法施行規則第四五条の規定は、昭和二二年法律第七二号「日本告憲法施行の際現に効力を有する命令の規定の効力等に関する法律」第一条により昭和二三年一月一日以降は国法としての効力を失つたものである。",
+  "ref_law": "憲法98条1項，鉄砲火薬類取締法（明治43年法律53号）14条，鉄砲火薬類取締法施行規則22条，鉄砲火薬類取締法施行規則45条，「日本国憲法施行の際現に効力を有する命令の規定の効力等に関する法律」（昭和22年法律72号）1条，命令ノ条項違反ニ関スル罰則ノ件（昭和23年法律84号）",
+  "lawsuit_id": "53408",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53408",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/408/053408_hanrei.pdf"
+}

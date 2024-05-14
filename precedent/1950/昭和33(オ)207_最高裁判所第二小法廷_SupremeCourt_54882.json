@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 5,
+    "day": 8
+  },
+  "case_number": "昭和33(オ)207",
+  "case_name": "貸金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第13巻5号571頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 11,
+    "day": 12
+  },
+  "gist": "出資の受入、預り金及び金利等の取締等に関する法律第五条第一項の法意。",
+  "case_gist": "出資の受入、預り金及び金利等の取締等に関する法律第五条第一項の規定は、日歩三〇銭を超えない利息の約定または賠償額の予定について、利息制限法の適用を除外する趣旨ではない。",
+  "ref_law": "出資の受入、預り金及び金利等の取締等に関する法律5条1項，利息制限法1条1項，利息制限法4条1項",
+  "lawsuit_id": "54882",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54882",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/882/054882_hanrei.pdf"
+}

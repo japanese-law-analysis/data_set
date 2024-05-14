@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 8,
+    "day": 30
+  },
+  "case_number": "昭和32(オ)837",
+  "case_name": "農地調整法第四条による賃借権取得の承認取消等及び農地売渡処分等並変更請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第14巻10号1957頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 6,
+    "day": 14
+  },
+  "gist": "売渡計画樹立前の日を売渡の時期とする農地売渡処分の効力発生時期。",
+  "case_gist": "売渡計画樹立前の日を売渡の時期する農地売渡処分は、売渡通知書交付の時に農地の所有権を売渡の相手方に移転する効力を生ずる。",
+  "ref_law": "自作農創設特別措置法21条，自作農創設特別措置法22条，自作農創設特別措置法18条",
+  "lawsuit_id": "53608",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53608",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/608/053608_hanrei.pdf"
+}

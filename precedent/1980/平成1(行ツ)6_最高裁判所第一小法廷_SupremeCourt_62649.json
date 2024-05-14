@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 12,
+    "day": 21
+  },
+  "case_number": "平成1(行ツ)6",
+  "case_name": "選挙無効",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第158号695頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_case_number": "昭和62(行ケ)1",
+  "original_date": {
+    "era": "Showa",
+    "year": 63,
+    "month": 10,
+    "day": 27
+  },
+  "gist": "岡山県議会議員の定数並びに選挙区及び各選挙区において選挙すべき議員の数に関する条例（昭和五七年岡山県条例第二一号）の議員定数配分規定の適法性",
+  "case_gist": "岡山県議会議員の定数並びに選挙区及び各選挙区において選挙すべき議員の数に関する条例（昭和五七年岡山県条例第二一号）の議員定数配分規定は、昭和六二年四月一二日の岡山県議会議員選挙当時、公職選挙法一五条七項に違反していたものとはいえない。",
+  "ref_law": "岡山県議会の議員の定数並びに選挙区及び各選挙区において選挙すべき議員の数に関する条例（昭和57年岡山県条例第21号）2条，公職選挙法15条7項",
+  "lawsuit_id": "62649",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62649",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/649/062649_hanrei.pdf"
+}

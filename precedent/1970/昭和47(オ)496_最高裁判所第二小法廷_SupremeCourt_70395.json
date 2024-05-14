@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 12,
+    "day": 20
+  },
+  "case_number": "昭和47(オ)496",
+  "case_name": "家賃金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第113号655頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和44(ネ)531",
+  "original_date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 1,
+    "day": 27
+  },
+  "gist": "一、商法九一条二項にいう相当の担保を供したときの意味\n二、所有権又は賃貸権限を有しない者から不動産を賃借した者が真の権利者から同一物をさらに賃借した場合とはじめの賃貸借の帰すう",
+  "case_gist": "一、商法九一条一項により合名会社の社員の持分を差し押えた債権者のした強制退社予告の効力を失わせる同条二項にいう相当の担保を供したときとは、差押債権者との間で、担保物権を設定し、又は保証契約を締結した場合をいい、差押債権者の承諾を伴わない担保物権設定又は保証契約締結の単なる申込みは、右担保の供与にはあたらない。\n二、所有権又は賃貸権限を有しない者から不動産を賃借した者が同一物について真の権利者とさらに賃貸借契約を締結したときは、はじめの賃貸借は賃貸人の使用収益させる義務の履行不能によつて終了に帰する。",
+  "ref_law": "商法91条，民法601条",
+  "lawsuit_id": "70395",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70395",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/395/070395_hanrei.pdf"
+}

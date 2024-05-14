@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 7,
+    "day": 2
+  },
+  "case_number": "昭和24(れ)136",
+  "case_name": "偽造公文書行使、公文書偽造、窃盗",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第12号23頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 11,
+    "day": 17
+  },
+  "gist": "刑の執行を猶豫しない判決と憲法第一四條",
+  "case_gist": "刑の執行猶豫を與えないことが憲法第一四條に違反するものでないことは既に當裁判所の判例（昭和二三年（れ）第七〇號、同年五月二六日大法廷判決）とするところである。",
+  "ref_law": "刑法25條，憲法14條",
+  "lawsuit_id": "74830",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74830",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/830/074830_hanrei.pdf"
+}

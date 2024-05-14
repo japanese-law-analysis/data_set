@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 2,
+    "day": 26
+  },
+  "case_number": "昭和48(オ)1018",
+  "case_name": "地上権確認および地上権設定登記手続履行請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第111号173頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "昭和44(ネ)278",
+  "original_date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 5,
+    "day": 21
+  },
+  "gist": "法定地上権の存続期間",
+  "case_gist": "民法三八八条所定の地上権には、借地法が適用され、当事者間で協議が調わない場合には、同法二条一項によつてその存続期間が定まる。",
+  "ref_law": "民法388条，借地法2条1項",
+  "lawsuit_id": "62150",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62150",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/150/062150_hanrei.pdf"
+}

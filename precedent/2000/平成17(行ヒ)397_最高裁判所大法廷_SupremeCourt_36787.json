@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 9,
+    "day": 10
+  },
+  "case_number": "平成17(行ヒ)397",
+  "case_name": "行政処分取消請求事件",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第62巻8号2029頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成17(行コ)127",
+  "original_date": {
+    "era": "Heisei",
+    "year": 17,
+    "month": 9,
+    "day": 28
+  },
+  "gist": "市町村の施行に係る土地区画整理事業の事業計画の決定と抗告訴訟の対象",
+  "case_gist": "市町村の施行に係る土地区画整理事業の事業計画の決定は，抗告訴訟の対象となる行政処分に当たる。\n（補足意見及び意見がある。）",
+  "ref_law": "土地区画整理法（平成17年法律第34号による改正前のもの）52条1項，土地区画整理法6条1項，土地区画整理法54条，行政事件訴訟法3条1項，行政事件訴訟法3条2項",
+  "lawsuit_id": "36787",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=36787",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/787/036787_hanrei.pdf",
+  "contents": ""
+}

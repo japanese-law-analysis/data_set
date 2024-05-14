@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 3,
+    "day": 23
+  },
+  "case_number": "昭和57(あ)987",
+  "case_name": "威力業務妨害",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第38巻5号2030頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 6,
+    "day": 28
+  },
+  "gist": "弁護士の業務用鞄の奪取隠匿行為が刑法二三四条にいう「威力ヲ用ヒ」た場合にあたるとされた事例",
+  "case_gist": "弁護士からその業務にとつて重要な書類が在中する鞄を奪取して隠匿する行為は、刑法二三四条にいう「威力ヲ用ヒ」た場合にあたる。",
+  "ref_law": "刑法234条，軽犯罪法1条31号",
+  "lawsuit_id": "50277",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50277",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/277/050277_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 5,
+    "day": 31
+  },
+  "case_number": "昭和36(あ)678",
+  "case_name": "威力業務妨害、往来妨害",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第147号439頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 12,
+    "day": 5
+  },
+  "gist": "刑法第二三四条にいう「業務」の意議。",
+  "case_gist": "刑法第二三四条にいう「業務」の意義に関する原判示は正当である。\n\n　（原判示の要旨）刑法第二三四条にいわゆる「業務」とはひろく職業その他継続して従事する事務又は事業であつて社会上の地位として事実上平穏に行われているものを総称するものと解するを相当とする。",
+  "ref_law": "刑法234条",
+  "lawsuit_id": "61325",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61325",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/325/061325_hanrei.pdf"
+}

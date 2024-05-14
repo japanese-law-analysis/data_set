@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 4,
+    "day": 5
+  },
+  "case_number": "昭和30(オ)604",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第10巻4号330頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 5,
+    "day": 10
+  },
+  "gist": "賃貸借の合意解約により転借権が当然消滅すると解すべき場合",
+  "case_gist": "家屋の賃貸人が、家屋の一部の転貸借につき近く予想される賃借人の家屋退去に至るまでの間を限つて承諾を与えたものであり、転借人もそのことを知つていたときは、右転借権は賃借人の家屋退去と同時に消滅するものと解すべきである。",
+  "ref_law": "民法612条，民法第3編第2章第7節第3款（617条の前），借家法4条",
+  "lawsuit_id": "57611",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57611",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/611/057611_hanrei.pdf"
+}

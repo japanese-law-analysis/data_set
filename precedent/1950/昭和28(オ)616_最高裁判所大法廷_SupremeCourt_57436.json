@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 3,
+    "day": 23
+  },
+  "case_number": "昭和28(オ)616",
+  "case_name": "固定資産税賦課取消請求",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第9巻3号336頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 4,
+    "day": 20
+  },
+  "gist": "一　土地に対する固定資産税の納税義務者\n二　地方税法第三四三条、第三五九条の合憲性",
+  "case_gist": "一　土地台帳若しくは土地補充課税台帳に一月一日に所有者として登録されている者は、納期において所有権を有しなくてもその年の四月一日に始まる年度の固定資産税の納税義務を負う。\n二　地方税法第三四三条および第三五九条は憲法第一一条、第一二条、第一四条、第二九条、第三〇条、第六五条に違反しない。",
+  "ref_law": "地方税法343条，地方税法359条，憲法11条，憲法12条，憲法14条，憲法29条，憲法30条，憲法65条，憲法84条",
+  "lawsuit_id": "57436",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57436",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/436/057436_hanrei.pdf"
+}

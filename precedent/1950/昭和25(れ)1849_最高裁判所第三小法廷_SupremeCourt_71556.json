@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 4,
+    "day": 3
+  },
+  "case_number": "昭和25(れ)1849",
+  "case_name": "臨時物資需給調整法違反物価統制令違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第43号43頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 7,
+    "day": 6
+  },
+  "gist": "証拠調を経ない書面を引用して証拠の内容を摘示しても判決破棄の理由とならない場合",
+  "case_gist": "原判決が証拠として「原審（第一審）第二回公判調書中被告人の供述として、御読聞けの……犯罪報告書記載の犯罪事実は販売目的の各代金額の点を除いてその余はその通り相違ない旨並びに右犯罪報告書中の上記除外の点を除いて判示第三と同趣旨の記載」と摘示しながら、右犯罪報告書につき原審で証拠調を経ていない場合でも、右公判調書に記載してある被告人の供述が、裁判官の読み聞かせた犯罪報告書の内容を援用することなく、具体的に原判示第三と同趣旨の犯罪事実を自供したものであつて、この供述記載の内容を表示するため前記のように摘示したものと解しうるときは、原判決破棄の理由とならない。",
+  "ref_law": "旧刑訴法340条1項，旧刑訴法360条1項",
+  "lawsuit_id": "71556",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=71556",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/556/071556_hanrei.pdf"
+}

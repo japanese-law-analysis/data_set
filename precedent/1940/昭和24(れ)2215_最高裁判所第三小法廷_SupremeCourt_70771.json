@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 12,
+    "day": 26
+  },
+  "case_number": "昭和24(れ)2215",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第15号675頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 6,
+    "day": 4
+  },
+  "gist": "當該事件記録中に編綴されていない盗難届を適法な證據調をして採證することの適否",
+  "case_gist": "論旨は、第二審判決が證據として引用している被害者Ａの盗難届は本件記録中に編綴せられていないから、右の判決は虚無の證據を斷罪の資に供したものであると非難しているが、記録を調べてみると右の盗難届については、第二審公判廷において適法な證據調がなされており、裁判長は被告人に對してこれを讀聞かせ又はその要旨を告げて意見辯解の有無を問うているのであるから、この盗難届が本件記録中に編綴されていないで、別刷Ｂの記録中に編綴されていたとしても、如何なる内容の盗難届を被告人に示してか不明であるとか虚無の證據を引用したものであるとかいう非難はあたらない。",
+  "ref_law": "旧刑訴法336條，旧刑訴法338條",
+  "lawsuit_id": "70771",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70771",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/771/070771_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 12,
+    "day": 26
+  },
+  "case_number": "昭和29(あ)2245",
+  "case_name": "放火未遂",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第111号995頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 4,
+    "day": 27
+  },
+  "gist": "供述調書の任意性調査にあたつて審理不尽の違法を認めた一事例",
+  "case_gist": "被告人に対する司法警察員の供述調書（自白）の任意性が一審以来争われ、控訴審における事実の取調に際しても弁護人から反証の申請がある場合において、各自白の趣旨が一貫せず且つ一審において右任意性立証のため取調べた当時の司法警察職員の尋問調書の内容も、ただ抽象的形式的に強制の事実を否定するに過ぎず、しかも犯罪事実の認定自体についても疑問の余地のあるような場合にあつては、控訴審が弁護人の証拠申請をすべて却下し職権による調査も行わないで、ただ、右自白調書等が、検挙後短時日間に繰返されていることと右司法警察員の供述記載とだけを綜合して右自白の任意性を認めるに十分であるとするのは、審理不尽の違法あるものというべきである。",
+  "ref_law": "刑訴法411条1号3号",
+  "lawsuit_id": "75608",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=75608",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/608/075608_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 12,
+    "day": 25
+  },
+  "case_number": "昭和26(あ)5052",
+  "case_name": "業務上横領、背任",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "刑集　第7巻13号2721頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 11,
+    "day": 13
+  },
+  "gist": "組合長が組合の定款に違反し組合名義で経営して事業に組合資金を支出した場合と業務上横領罪の成否",
+  "case_gist": "Ａ組合の組合長が、組合の定款に違反し組合の総会および理事会の議決を経ずに、独断で組合名義をもつて貨物自動車営業を経営し、これに組合資金を支出した場合においても、右支出が専ら組合自身のためになされたものと認められるときは、不法領得の意思を欠くものとして業務上横領罪を構成しない。",
+  "ref_law": "刑法253条",
+  "lawsuit_id": "54624",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54624",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/624/054624_hanrei.pdf"
+}

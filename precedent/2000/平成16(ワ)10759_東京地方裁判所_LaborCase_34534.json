@@ -1,0 +1,17 @@
+{
+  "trial_type": "LaborCase",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 1,
+    "day": 20
+  },
+  "case_number": "平成16(ワ)10759",
+  "case_name": "賃金等請求事件（通称　オリエンタルモーター賃金請求）",
+  "court_name": "東京地方裁判所",
+  "field": "労働",
+  "lawsuit_id": "34534",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail6?id=34534",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/534/034534_hanrei.pdf",
+  "contents": ""
+}

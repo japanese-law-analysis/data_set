@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 17,
+    "month": 6,
+    "day": 17
+  },
+  "case_number": "平成16(受)997",
+  "case_name": "特許権侵害差止請求事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第59巻5号1074頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成15(ネ)1223",
+  "original_date": {
+    "era": "Heisei",
+    "year": 16,
+    "month": 2,
+    "day": 27
+  },
+  "gist": "専用実施権を設定した特許権者がその特許権に基づく差止請求をすることの可否",
+  "case_gist": "特許権者は，その特許権について専用実施権を設定したときであっても，当該特許権に基づく差止請求権を行使することができる",
+  "ref_law": "特許法68条、特許法77条1項、2項、特許法100条1項",
+  "lawsuit_id": "52413",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52413",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/413/052413_hanrei.pdf"
+}

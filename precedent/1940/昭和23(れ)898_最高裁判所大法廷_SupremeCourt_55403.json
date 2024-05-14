@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 5,
+    "day": 18
+  },
+  "case_number": "昭和23(れ)898",
+  "case_name": "窃盗、同未遂、賍物牙保",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第3巻6号793頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 2,
+    "day": 23
+  },
+  "gist": "作成の日附が言渡期日と異る判決書の正否",
+  "case_gist": "原判決書は辯論終結後判決言渡迄の間に作成されたものであることが明かであるから、その日附（同年一月三〇日）が所論のように判決言渡の日と異つて居ても、何ら違法ではなく、論旨は理由がない。",
+  "ref_law": "舊刑訴法66條，舊刑訴法67條，舊刑訴法71條1項，舊刑訴法60條2項1號",
+  "lawsuit_id": "55403",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55403",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/403/055403_hanrei.pdf"
+}

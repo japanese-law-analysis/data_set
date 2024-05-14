@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 7,
+    "day": 1
+  },
+  "case_number": "昭和26(れ)1643",
+  "case_name": "贈賄",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第6巻7号869頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 2,
+    "day": 22
+  },
+  "gist": "昭和二五年最高裁規則第三〇号第五条の合憲性",
+  "case_gist": "昭和二五年最高裁規則第三〇号旧刑事訴訟法事件の控訴審及び上告審における審判の特例に関する規則第五条は、違憲でない。",
+  "ref_law": "昭和25年最高裁規則30号5条",
+  "lawsuit_id": "54648",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54648",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/648/054648_hanrei.pdf"
+}

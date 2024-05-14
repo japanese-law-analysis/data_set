@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 6,
+    "day": 27
+  },
+  "case_number": "昭和35(オ)827",
+  "case_name": "不動産抵当権設定登記抹消等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第66号743頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 4,
+    "day": 20
+  },
+  "gist": "商品取引所法第九三条に違反する売買取引の取次の受託および取次行為の効力。",
+  "case_gist": "右違反は、商品取引所法第一五五条により罰則を受けることはあつても、右個々の行為は公序良俗に反するものでないから無効ではない。",
+  "ref_law": "商品取引所法93条，商品取引所法155条，民法90条",
+  "lawsuit_id": "65897",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=65897",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/897/065897_hanrei.pdf"
+}

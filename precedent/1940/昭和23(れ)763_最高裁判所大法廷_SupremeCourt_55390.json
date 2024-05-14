@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 2,
+    "day": 9
+  },
+  "case_number": "昭和23(れ)763",
+  "case_name": "物価統制令違反",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "刑集　第3巻2号141頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 5,
+    "day": 21
+  },
+  "gist": "刑法第五五條削除の日以後の複數の犯罪行爲を判示する方法",
+  "case_gist": "刑法第五五條の削除せられた昭和二二年一一月十五日以後における複數の犯罪行爲を判示するには、その行爲が同一罪質であり、手段、方法等において共通した分子を持つものであつても、その各個の行爲の内容を一々具体的に判示し更に日時、場所等を明らかにすることにより一の行爲を他の行爲より區別し得る程度に特定し、以つて少くとも各個の行爲に對し、法令を適用するに妨げなき限度に判示することを要するものといわねばならぬ。",
+  "ref_law": "刑法55條，舊刑訴法360條1項",
+  "lawsuit_id": "55390",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55390",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/390/055390_hanrei.pdf"
+}

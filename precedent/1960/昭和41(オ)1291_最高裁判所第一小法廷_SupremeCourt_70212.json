@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 4,
+    "day": 6
+  },
+  "case_number": "昭和41(オ)1291",
+  "case_name": "競売無効確認再審請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第87号9頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_case_number": "昭和39(ネ)205",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 8,
+    "day": 31
+  },
+  "gist": "当事者の期日変更申請を許容しなかつた措置が民訴法第一五二条に違反した場合と控訴取下げの効果",
+  "case_gist": "控訴審において、当事者の期日変更申請を許容しなかつた措置が民訴法第一五二条に違反したとしても、該期日に当事者双方が出頭しない限り、その後の期間の経過とともに控訴取下げの効果は擬制せられる。",
+  "ref_law": "民訴法152条，民訴法238条，民訴法363条",
+  "lawsuit_id": "70212",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70212",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/212/070212_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 10,
+    "day": 23
+  },
+  "case_number": "昭和44(あ)806",
+  "case_name": "侮辱",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第173号561頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 3,
+    "day": 3
+  },
+  "gist": "侮辱と憲法二一条",
+  "case_gist": "「Ａ吸血鬼」「暴力所長Ｂを追放せよ」と記載したビラを乗用車の車体に貼付して市内の目抜通りを行進するように公然他人を侮辱する行為は、言論の自由の乱用であつて、憲法二一条の保障する言論の自由の範囲内に属すると認めることができないことは当裁判所の判例（昭和二八年（オ）第一二四一号、同三一年七月四日大法廷判決、民集一〇巻七号七八五頁）の趣旨に照らして明らかである。",
+  "ref_law": "刑法231条，憲法21条",
+  "lawsuit_id": "59483",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59483",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/483/059483_hanrei.pdf"
+}

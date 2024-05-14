@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 7,
+    "month": 4,
+    "day": 28
+  },
+  "case_number": "平成6(行ツ)215",
+  "case_name": "所得税の重加算税賦課決定処分取消",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第49巻4号1193頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成5(行コ)23",
+  "original_date": {
+    "era": "Heisei",
+    "year": 6,
+    "month": 6,
+    "day": 28
+  },
+  "gist": "確定的な脱税の意思に基づき顧問税理士に株式等の売買による多額の雑所得のあることを秘匿して過少な申告を記載した確定申告書を作成させたことなどにより所得税の確定申告が重加算税の賦課要件を満たすとされた事例",
+  "case_gist": "納税者が、三箇年にわたり、株式等の売買による多額の雑所得を申告すべきことを熟知しながら、確定的な脱税の意思に基づき、顧問税理士の質問に対して右所得のあることを否定し、同税理士に過少な申告を記載した確定申告書を作成させてこれを提出したなど判示の事実関係の下においては、架空名義の利用や資料の隠匿等の積極的な行為が存在しないとしても、右各確定申告は、国税通則法六八条一項所定の重加算税の賦課要件を満たす。",
+  "ref_law": "国税通則法68条1項，税理士法1条，税理士法41条の3",
+  "lawsuit_id": "57070",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57070",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/070/057070_hanrei.pdf"
+}

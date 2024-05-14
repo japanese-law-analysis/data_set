@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 5,
+    "day": 14
+  },
+  "case_number": "昭和23(れ)1921",
+  "case_name": "強盗傷人",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第3巻6号721頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 6,
+    "day": 4
+  },
+  "gist": "刑法第四二條第一項「未ダ官ニ發覺セザル前」の意義",
+  "case_gist": "刑法第四二條第一項の「未ダ官ニ發覺セザル前」とは犯罪の事實が全く官に發覺しない場合は勿論、犯罪の事實は発覺していても犯人の何人たるかが發覺していない場合をも包含するのであるが犯罪事實及び犯人の何人たるかが官に判明しているが犯人の所在だけが判明しない場合を包含しないものと解すべきである。",
+  "ref_law": "刑法42條1項",
+  "lawsuit_id": "55342",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55342",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/342/055342_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 5,
+    "day": 26
+  },
+  "case_number": "昭和38(オ)849",
+  "case_name": "第三者異議・反訴家屋退去請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第73号665頁",
+  "original_court_name": "福岡高等裁判所\n        　宮崎支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 5,
+    "day": 9
+  },
+  "gist": "期日の指定を受けた訴訟代理人の辞任と本人に対する右期日指定の効力。",
+  "case_gist": "口頭弁論期日の指定及び呼出状の送達をうけた訴訟代理人が辞任しても、右指定および呼出の効力は、本人にも及ぶものであるから、指定の口頭弁論期日に本人が出頭しなかつたために生ずる不利益は、本人が甘受しなければならない。",
+  "ref_law": "民訴法81条1項，民訴法152条1項",
+  "lawsuit_id": "63924",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63924",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/924/063924_hanrei.pdf"
+}

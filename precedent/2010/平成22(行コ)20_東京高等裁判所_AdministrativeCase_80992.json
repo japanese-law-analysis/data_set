@@ -1,0 +1,17 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 6,
+    "day": 23
+  },
+  "case_number": "平成22(行コ)20",
+  "case_name": "行政文書一部不開示決定処分取消等請求控訴事件（原審・東京地方裁判所平成20年(行ウ)第231号）",
+  "court_name": "東京高等裁判所",
+  "field": "行政",
+  "lawsuit_id": "80992",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=80992",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/992/080992_hanrei.pdf",
+  "contents": ""
+}

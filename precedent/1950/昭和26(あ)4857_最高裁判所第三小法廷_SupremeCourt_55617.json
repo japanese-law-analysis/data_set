@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 11,
+    "day": 17
+  },
+  "case_number": "昭和26(あ)4857",
+  "case_name": "詐欺",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第7巻11号2185頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 10,
+    "day": 4
+  },
+  "gist": "一　労働基準法第八五条第一、二項と訴訟の必要的前置手続\n二　労働基準法第七九条にいわゆる業務上死亡と認められない一事例",
+  "case_gist": "一　労働基準法第八五条第一、二項は訴訟の必要的前置手続を定めたものではない。\n\n二　東京都練馬区ａ町ｂ内Ａに雇われている大工が、平常どおり、その日の作業を終り、就業時間経過後に、右職場を離れて、任意に、東上線電車に乗車し、自宅に帰る途中、誤つてその車輛から顛落死亡した場合は、労働基準法第七九条にいわゆる業務上の死亡にあたらない。",
+  "ref_law": "労働基準法85条1項，労働基準法85条2項，労働基準法79条，刑法246条",
+  "lawsuit_id": "55617",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55617",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/617/055617_hanrei.pdf"
+}

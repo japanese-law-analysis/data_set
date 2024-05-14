@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 12,
+    "day": 10
+  },
+  "case_number": "平成20(受)284",
+  "case_name": "教育債務履行等請求事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第63巻10号2463頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成18(ネ)5308",
+  "original_date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 10,
+    "day": 31
+  },
+  "gist": "学校による生徒募集の際に説明，宣伝された教育内容や指導方法の一部が変更され，これが実施されなくなったことが，親の期待，信頼を損なう違法なものとして不法行為を構成する場合",
+  "case_gist": "学校による生徒募集の際に説明，宣伝された教育内容や指導方法の一部が変更され，これが実施されなくなったことが，親の期待，信頼を損なう違法なものとして不法行為を構成するのは，当該学校において生徒が受ける教育全体の中での当該教育内容や指導方法の位置付け，当該変更の程度，当該変更の必要性，合理性等の事情に照らし，当該変更が，学校設置者や教師に教育内容や指導方法の変更につき裁量が認められることを考慮してもなお，社会通念上是認することができないものである場合に限られる。",
+  "ref_law": "民法709条",
+  "lawsuit_id": "38246",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=38246",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/246/038246_hanrei.pdf",
+  "contents": ""
+}

@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 4,
+    "day": 14
+  },
+  "case_number": "昭和25(オ)295",
+  "case_name": "預ヶ金請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第8号651頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 7,
+    "day": 17
+  },
+  "gist": "不法原因による給付を返還すべき合意に基く返還請求と民法第七〇八条",
+  "case_gist": "不法原因による給付であつても、右給付を返還すべき合意が成立したときは、右合意に基く返還請求については民法第七〇八条の適用はない。",
+  "lawsuit_id": "76277",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=76277",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/277/076277_hanrei.pdf"
+}

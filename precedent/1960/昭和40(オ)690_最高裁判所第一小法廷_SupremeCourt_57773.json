@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 4,
+    "day": 14
+  },
+  "case_number": "昭和40(オ)690",
+  "case_name": "手付金返還請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第20巻4号649頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和38(ネ)1633",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 3,
+    "day": 26
+  },
+  "gist": "売買の目的土地の大部分が都市計画街路の境域内に存するために売買の目的物に隠れた瑕疵があるとされた事例。",
+  "case_gist": "買主が原判示規模の居宅（原判決理由参照）の敷地として使用する目的を表示して買い受けた土地の約八割の部分が都市計画街路の境域内に存するため、たとえ買主が右居宅を建築しても、早晩、都市計画事業の実施により、その全部または一部を撤去しなければならない場合において、右計画街路の公示が、売買契約成立の一〇数年以前に、告示の形式でなされたものであるため、買主において買受土地中の前記部分が右計画街路の境域内に存することを知らなかつたことについて過失があるといえないときは、売買の目的物に隠れた瑕疵があると解するのが相当である。",
+  "ref_law": "民法570条",
+  "lawsuit_id": "57773",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57773",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/773/057773_hanrei.pdf"
+}

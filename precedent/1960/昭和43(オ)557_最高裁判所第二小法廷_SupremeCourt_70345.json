@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 11,
+    "day": 15
+  },
+  "case_number": "昭和43(オ)557",
+  "case_name": "損害賠償請求、同附帯控訴事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第93号315頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和41(ネ)691",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 2,
+    "day": 29
+  },
+  "gist": "控訴の特別委任を受けた第一審訴訟代理人は本人の死亡後控訴審において請求の拡張をする訴訟代理権を有するか",
+  "case_gist": "積極",
+  "ref_law": "民訴法81条，民訴法85条，民訴法232条1項",
+  "lawsuit_id": "70345",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70345",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/345/070345_hanrei.pdf"
+}

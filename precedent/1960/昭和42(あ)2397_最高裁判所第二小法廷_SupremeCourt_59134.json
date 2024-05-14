@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 2,
+    "day": 23
+  },
+  "case_number": "昭和42(あ)2397",
+  "case_name": "強姦",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第166号229頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 9,
+    "day": 21
+  },
+  "gist": "少年法第二〇条による検察官送致決定をした裁判官が後にその刑事事件の審判に関与することと憲法第三一条第一項",
+  "case_gist": "少年法第二〇条による検察官送致決定をした裁判官が、後にその刑事事件の審判に関与しても裁判官除斥の原因とならず、憲法第三七条第一項に違反するものでないことは、当裁判所大法廷判決（昭和二四年新（れ）第一〇四号同二五年四月一二日判決、刑集四巻四号五三五頁）の趣旨に徴して明らかである。",
+  "ref_law": "憲法37条1項，少年法20条",
+  "lawsuit_id": "59134",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59134",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/134/059134_hanrei.pdf"
+}

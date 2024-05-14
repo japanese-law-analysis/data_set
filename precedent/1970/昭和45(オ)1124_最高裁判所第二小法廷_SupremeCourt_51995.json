@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 12,
+    "day": 21
+  },
+  "case_number": "昭和45(オ)1124",
+  "case_name": "換地代金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第27巻11号1649頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和44(ネ)722",
+  "original_date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 8,
+    "day": 27
+  },
+  "gist": "土地区画整理事業による換地を目的とする売買と換地清算交付金請求権の移転",
+  "case_gist": "土地区画整理事業による換地処分の確定後換地につき売買による所有権の移転があつても、右換地に関する清算交付金請求権は、整理事業施行者に対する関係において、当然にはこれに伴つて移転しない。",
+  "ref_law": "土地区画整理法94条，土地区画整理法104条1項，土地区画整理法104条7項，土地区画整理法129条",
+  "lawsuit_id": "51995",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51995",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/995/051995_hanrei.pdf"
+}

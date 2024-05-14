@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 6,
+    "month": 5,
+    "day": 12
+  },
+  "case_number": "平成2(オ)1474",
+  "case_name": "建物滅失登記抹消登記手続等",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第48巻4号1005頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成1(ネ)1894",
+  "original_date": {
+    "era": "Heisei",
+    "year": 2,
+    "month": 6,
+    "day": 29
+  },
+  "gist": "甲建物について滅失の事実がないのにその旨の登記がされた後に別の乙建物として表示の登記等がされた場合における甲建物の根抵当権者による右各登記の抹消請求の可否",
+  "case_gist": "甲建物について、滅失の事実がないのにその旨の登記がされて登記用紙が閉鎖された後、別の乙建物として表示の登記及び所有権保存登記がされた場合、登記を経由していた甲建物の根抵当権者は、乙建物の所有名義人に対し乙建物の表示の登記及び所有権保存登記の抹消登記手続を、甲建物の所有名義人であった者に対し甲建物の滅失の登記の抹消登記手続をそれぞれ請求することができる。",
+  "ref_law": "民法369条，不動産登記法93条，不動産登記法93条ノ11",
+  "lawsuit_id": "52461",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52461",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/461/052461_hanrei.pdf"
+}

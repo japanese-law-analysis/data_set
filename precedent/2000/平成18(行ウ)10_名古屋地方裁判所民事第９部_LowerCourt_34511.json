@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 2,
+    "day": 22
+  },
+  "case_number": "平成18(行ウ)10",
+  "case_name": "在留期間更新申請不許可処分取消請求事件",
+  "court_name": "名古屋地方裁判所民事第９部",
+  "result": "棄却",
+  "gist": "日本人の配偶者等の在留資格を有するスリランカ国籍の原告が，在留期間更新を申請したところ，日本人の配偶者等の在留資格に該当する活動を行うことが十分に立証されていないなどとして不許可処分を受けたので，その取消しを求めたが棄却された事例。",
+  "lawsuit_id": "34511",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=34511",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/511/034511_hanrei.pdf",
+  "contents": "3 1\n"
+}

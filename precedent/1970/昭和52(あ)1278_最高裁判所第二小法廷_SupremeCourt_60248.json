@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 12,
+    "day": 21
+  },
+  "case_number": "昭和52(あ)1278",
+  "case_name": "覚せい剤取締法違反、関税法違反、旅券不実記載、旅券法違反、銃砲刀剣類所持等取締法違反、火薬類取締法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第208号545頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 6,
+    "day": 8
+  },
+  "gist": "覚せい剤取締法の輸入罪と無許可輸入未遂罪との罪数関係について意見が付された事例",
+  "ref_law": "覚取法13条，覚取法41条1項，覚取法41条2項，関税法111条1項，関税法111条2項，刑法45条，刑法54条1項前",
+  "lawsuit_id": "60248",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60248",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/248/060248_hanrei.pdf"
+}

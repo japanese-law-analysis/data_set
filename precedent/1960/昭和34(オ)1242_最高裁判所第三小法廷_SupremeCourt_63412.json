@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 1,
+    "day": 30
+  },
+  "case_number": "昭和34(オ)1242",
+  "case_name": "引受債務履行請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第58号377頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 7,
+    "day": 22
+  },
+  "gist": "民訴法第一八七条第三項の「従前訊問ヲ為シタル証人ニ付当事者カ更ニ訊問ノ申出ヲ為シタルトキ」の意義",
+  "case_gist": "当事者甲の申し出により従前尋問された証人につき相手方乙からの尋問申出があつた場合には、民訴法第一八七条第三項による尋問を必要としない。\n（補足意見がある）",
+  "ref_law": "民訴法187条3項",
+  "lawsuit_id": "63412",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63412",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/412/063412_hanrei.pdf"
+}

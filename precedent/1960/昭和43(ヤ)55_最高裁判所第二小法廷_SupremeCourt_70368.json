@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 2,
+    "day": 28
+  },
+  "case_number": "昭和43(ヤ)55",
+  "case_name": "建物収去土地明渡請求上告事件に対する再審申立",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "却下",
+  "article_info": "集民　第94号503頁",
+  "original_court_name": "最高裁判所",
+  "original_case_number": "昭和43(オ)736",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 11,
+    "day": 15
+  },
+  "gist": "再審の対象たる判決に判断遺脱があるが右判決を結局正当として再審を却下した事例",
+  "case_gist": "（省略）",
+  "ref_law": "民訴法428条",
+  "lawsuit_id": "70368",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70368",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/368/070368_hanrei.pdf"
+}

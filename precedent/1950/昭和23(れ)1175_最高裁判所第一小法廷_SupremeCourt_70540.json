@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 11,
+    "day": 27
+  },
+  "case_number": "昭和23(れ)1175",
+  "case_name": "強盗傷人、傷害",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第69号877頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 5,
+    "day": 1
+  },
+  "gist": "弁護権の不法制限とならない一事例。",
+  "case_gist": "原審裁判所が所論検証並びに証人訊問をする旨を弁護人永田菊四郎に通知した形跡がないこと並びに同弁護人がその検証及び証人訊問に立会わなかつたこと及び原判決が右証人中Ａの供述記載を証拠として採用したとしても右検証及び証人訊問には相弁護人が立会い、同証人に対して訊問をしているばかりでなく、原審第三回公判期日には右相弁護人の外弁護人永田菊四郎も出頭した公判延において裁判長は前記Ａに対する証人訊問調書につき適式な証據調を行つた後被告人に対し意見弁解の有無を問い且つ利益の証據を提出し得る旨並びに供述者を証人として訊問を求むることを得る旨告げたところ、被告人は無い旨答え、各弁護人は利益の証拠はない旨供述したことが明らかであるから不法に弁護権を制限した違法があるとはいえない。",
+  "ref_law": "憲法37条3項",
+  "lawsuit_id": "70540",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70540",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/540/070540_hanrei.pdf"
+}

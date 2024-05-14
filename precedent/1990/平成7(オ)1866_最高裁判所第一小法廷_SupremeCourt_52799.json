@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 9,
+    "month": 11,
+    "day": 13
+  },
+  "case_number": "平成7(オ)1866",
+  "case_name": "遺言無効確認等",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第51巻10号4144頁",
+  "original_court_name": "高松高等裁判所",
+  "original_case_number": "平成6(ネ)365",
+  "original_date": {
+    "era": "Heisei",
+    "year": 7,
+    "month": 6,
+    "day": 26
+  },
+  "gist": "一　遺言者が遺言を撤回する遺言を更に別の遺言をもって撤回することにより当初の遺言の効力が復活する場合\n二　遺言者が遺言を撤回する遺言を更に別の遺言をもって撤回した場合において当初の遺言の効力の復活が認められた事例",
+  "case_gist": "一　遺言者が遺言を撤回する遺言を更に別の遺言をもって撤回した場合において、遺言書の記載に照らし、遺言者の意思が当初の遺言の復活を希望するものであることが明らかなときは、当初の遺言の効力が復活する。\n二　遺言者が、甲遺言を乙遺言をもって撤回した後更に乙遺言を無効とし甲遺言を有効とする内容の丙遺言をしたときは、甲遺言の効力が復活する。",
+  "ref_law": "民法1022条，民法1025条",
+  "lawsuit_id": "52799",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52799",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/799/052799_hanrei.pdf"
+}

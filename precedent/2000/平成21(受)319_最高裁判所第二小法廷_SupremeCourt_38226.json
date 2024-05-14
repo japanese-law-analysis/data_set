@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 12,
+    "day": 4
+  },
+  "case_number": "平成21(受)319",
+  "case_name": "不当利得返還等請求事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集民　第232号529頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成20(ネ)1825",
+  "original_date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 11,
+    "day": 20
+  },
+  "gist": "更生会社であった貸金業者において，届出期間内に届出がされなかった更生債権である過払金返還請求権につきその責めを免れる旨主張することが，信義則に反せず，権利の濫用にも当たらないとされた事例",
+  "case_gist": "更生会社であった貸金業者において，届出期間内に届出がされなかった更生債権である過払金返還請求権につきその責めを免れる旨主張することは，管財人又は更生会社が，顧客に対し，過払金返還請求権が発生している可能性があることやその届出をしないと更正会社がその責めを免れることにつき注意を促さず，保全管理人が上記貸金業者の発行したカードは従前どおり使用することができる旨の社告を新聞に掲載したなど判示の事情があったとしても，信義則に反するものではなく，権利の濫用にも当たらない。",
+  "ref_law": "民法1条2項，民法１条3項，旧会社更生法（平成14年法律第154号による改正前のもの）241条，会社更生法204条1項",
+  "lawsuit_id": "38226",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=38226",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/226/038226_hanrei.pdf",
+  "contents": ""
+}

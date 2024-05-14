@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 12,
+    "day": 20
+  },
+  "case_number": "昭和38(オ)334",
+  "case_name": "婚姻予約不履行に基く損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第17巻12号1708頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 11,
+    "day": 20
+  },
+  "gist": "婚姻予約不履行による慰藉料の請求が認められた事例",
+  "case_gist": "当事者がいずれも高等学校卒業直後であり、男性においてなお大学に進学して学業を継続しなければならないときに肉体関係を結ぶに至つた場合でも、将来夫婦となることを約して肉体関係を結んだものであり、その後も男性において休暇で帰省するごとに肉体関係を継続し、双方の両親も男性の大学卒業後は婚姻させてもよいとの考えで当事者間の右の関係を黙認していたなど判示の事情のもとで、男性が正当の理由がなくて右女性との婚姻を拒絶したときは、右女性は婚姻予約不履行による慰藉料を請求することができる。",
+  "ref_law": "民法第4編親族第2章第1節婚姻の成立，民法415条",
+  "lawsuit_id": "53865",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53865",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/865/053865_hanrei.pdf"
+}

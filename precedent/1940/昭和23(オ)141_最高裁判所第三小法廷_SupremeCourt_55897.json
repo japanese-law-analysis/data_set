@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 4,
+    "day": 12
+  },
+  "case_number": "昭和23(オ)141",
+  "case_name": "市会並県会議員選挙無効",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第3巻4号112頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 10,
+    "day": 18
+  },
+  "gist": "一　県会議員選挙の効力に関し異議を申し立てるべき選挙管理委員会。\n二　投票箱運送中の事故による投票の散乱と選挙の効力。",
+  "case_gist": "一　県会議員選挙と市会議員選挙とが同時に行われた場合でも、県会議員選挙の効力に関し異議のある者は、市選挙管理委員会にこれを申し立てるべきでなく、県選挙管理委員会に申し立てなければならない。\n二　投票箱運送中に鍵が破損したため、投票が散乱した事実があつたとしても、それだけで直ちに選挙の公正が害されたものとし選挙を無効とすることはできない。",
+  "ref_law": "地方自治法66条，地方自治法67条",
+  "lawsuit_id": "55897",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55897",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/897/055897_hanrei.pdf"
+}

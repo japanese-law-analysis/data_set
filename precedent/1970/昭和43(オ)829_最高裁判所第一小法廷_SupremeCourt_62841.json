@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 10,
+    "day": 12
+  },
+  "case_number": "昭和43(オ)829",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第107号19頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和40(ネ)1097",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 5,
+    "day": 30
+  },
+  "gist": "借家法一条の二に基づく解約を理由とする家屋明渡請求訴訟において原告の申立がないのに立退料の支払と引換えに明渡請求を認容した原判決につき被告からの上告を棄却した事例",
+  "case_gist": "借家法一条の二に基づく解約を理由とする家屋明渡請求訴訟において原審が、原告の申立がないのに、立退料の支払と引換えに明渡請求を認容した場合でも、立退料の提供がなくても解約申入につき正当事由を具備している以上、被告からの上告は理由がない。",
+  "ref_law": "借家法1条の2",
+  "lawsuit_id": "62841",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62841",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/841/062841_hanrei.pdf"
+}

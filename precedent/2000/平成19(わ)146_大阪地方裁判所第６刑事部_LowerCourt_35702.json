@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 10,
+    "day": 15
+  },
+  "case_number": "平成19(わ)146",
+  "case_name": "建造物侵入未遂（訴因変更後−建造物侵入），危険運転致傷，窃盗被告事件",
+  "court_name": "大阪地方裁判所第６刑事部",
+  "gist": "警察署の塀の上によじ上った行為について，被告人に警察署の敷地内に入る意図がなく，塀自体は建造物に当たらないから，建造物侵入罪は成立しないとされた事例",
+  "lawsuit_id": "35702",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=35702",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/702/035702_hanrei.pdf",
+  "contents": ""
+}

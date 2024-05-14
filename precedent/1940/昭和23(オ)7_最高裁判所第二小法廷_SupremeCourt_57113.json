@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 4,
+    "day": 17
+  },
+  "case_number": "昭和23(オ)7",
+  "case_name": "仮処分命令異議",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第2巻4号104頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 12,
+    "day": 11
+  },
+  "gist": "一　弁論の再開申請の不採用と弁論の不当制限。\n二　判決言渡期間の通知。",
+  "case_gist": "一　裁判所が当事者の弁論再開の申請を採用しなかつたため、新たな証拠及び抗弁の提出ができなかつたとしても、それは、証拠及び抗弁を不当に制限したことにはならない。\n二　口頭弁論期日の呼出状で判決言渡の期日を通知することは適法である。",
+  "ref_law": "民訴法133条，民訴法137条，民訴法144条，民訴法154条，民訴法190条",
+  "lawsuit_id": "57113",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57113",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/113/057113_hanrei.pdf"
+}

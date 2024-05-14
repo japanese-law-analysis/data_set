@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 5,
+    "day": 18
+  },
+  "case_number": "昭和33(オ)743",
+  "case_name": "売渡代金残金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第60号679頁",
+  "original_court_name": "仙台高等裁判所\n        　秋田支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 5,
+    "day": 8
+  },
+  "gist": "売主が商人である事実のみの確定と買主側に対する商法第五一一条第一項の適用の有無",
+  "case_gist": "売主が商人であるとしても、単にそれだけで取引の相手方のためにも商行為が成立し、商法第五一一条第一項が買主側に適用されるとはかぎらない。",
+  "ref_law": "商法511条1項",
+  "lawsuit_id": "77583",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77583",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/583/077583_hanrei.pdf"
+}

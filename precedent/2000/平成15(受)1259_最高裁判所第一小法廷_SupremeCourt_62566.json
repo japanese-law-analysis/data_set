@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 16,
+    "month": 7,
+    "day": 8
+  },
+  "case_number": "平成15(受)1259",
+  "case_name": "株主総会決議不存在確認，株主権確認請求事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第214号687頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成14(ネ)2762",
+  "original_date": {
+    "era": "Heisei",
+    "year": 15,
+    "month": 4,
+    "day": 16
+  },
+  "gist": "株式会社の代表取締役らが当該会社の全株式を売却したことにつき詐欺による取消し又は錯誤による無効が認められないとした原審の判断に違法があるとされた事例",
+  "case_gist": "株式会社の代表取締役甲らが容易に現金化が可能な約１０億円の純資産を有する当該会社の全株式を合計２億円で売却したことにつき，それが不自然ではないといえるような特段の事情が存在しない上，上記売却は，甲らの全面的な信頼を受けて甲らの資産管理を受託していた乙が甲らの財産の保全，増加に必要であるとして提案し，甲らがこれに全面的に従ってされたものであり，乙が，買主である会社の全株式を有しており，その結果，労せずして多額の利益を得たといえるなど判示の事情の下においては，上記売却につき詐欺による取消し又は錯誤による無効が認められないとした原審の判断には，違法がある。",
+  "ref_law": "民法95条，民法96条1項",
+  "lawsuit_id": "62566",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62566",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/566/062566_hanrei.pdf"
+}

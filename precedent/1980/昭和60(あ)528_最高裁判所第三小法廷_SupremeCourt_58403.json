@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 11,
+    "day": 19
+  },
+  "case_number": "昭和60(あ)528",
+  "case_name": "道路交通法違反、道路運送車両法違反、自動車損害賠償保障法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第241号195頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 3,
+    "day": 15
+  },
+  "gist": "無免許運転の罪に係る事件において、免許拒否を定めた道路交通法九〇条一項但書の規定及び当該免許拒否処分の違憲（一三条、三一条、三七条、三九条）を主張することの適否",
+  "ref_law": "憲法13条，憲法31条，憲法37条，憲法39条，道交法90条1項",
+  "lawsuit_id": "58403",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58403",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/403/058403_hanrei.pdf"
+}

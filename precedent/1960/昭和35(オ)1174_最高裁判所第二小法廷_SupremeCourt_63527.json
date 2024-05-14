@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 10,
+    "day": 12
+  },
+  "case_number": "昭和35(オ)1174",
+  "case_name": "第三者異議",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第62号867頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 7,
+    "day": 27
+  },
+  "gist": "占有改定の方法による質物の引渡と質権の成否。",
+  "case_gist": "右の場合には、民法第三四五条の法意に徴し、質権は有効に成立しない。",
+  "ref_law": "民法342条，民法345条",
+  "lawsuit_id": "63527",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63527",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/527/063527_hanrei.pdf"
+}

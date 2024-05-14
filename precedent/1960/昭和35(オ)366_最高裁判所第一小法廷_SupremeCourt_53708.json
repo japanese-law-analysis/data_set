@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 6,
+    "day": 8
+  },
+  "case_number": "昭和35(オ)366",
+  "case_name": "漁業権登録請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第15巻6号1533頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 12,
+    "day": 24
+  },
+  "gist": "漁業免許当時設立されていなかつた漁業協同組合の漁業法第一四条第四項、第七項による漁業権共有請求権の有無。",
+  "case_gist": "漁業免許当時地元地区内に住所を有し当該漁業を営んでいた者を組合員とする漁業協同組合は、右漁業免許当時未だ設立されていなくても漁業法第一四条第四項、第七項によつて、免許された漁業権の共有を請求することができる。",
+  "ref_law": "漁業法14条4項，漁業法14条7項",
+  "lawsuit_id": "53708",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53708",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/708/053708_hanrei.pdf"
+}

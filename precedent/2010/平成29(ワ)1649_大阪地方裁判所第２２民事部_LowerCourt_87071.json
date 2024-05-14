@@ -1,0 +1,16 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 29,
+    "month": 8,
+    "day": 30
+  },
+  "case_number": "平成29(ワ)1649",
+  "case_name": "損害賠償請求事件",
+  "court_name": "大阪地方裁判所第２２民事部",
+  "gist": "インターネット上の掲示板において，他人の顔写真やアカウント名を利用して他人になりすまし，第三者に対する中傷等を行ったことについて，名誉権及び肖像権の侵害が認められた事例",
+  "lawsuit_id": "87071",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=87071",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/071/087071_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 9,
+    "day": 19
+  },
+  "case_number": "昭和52(オ)5",
+  "case_name": "売得金",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第121号247頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_case_number": "昭和49(ネ)95",
+  "original_date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 10,
+    "day": 29
+  },
+  "gist": "共同相続人がその全員の合意によつて遺産を構成する特定不動産を第三者に売却した場合における代金債権の性質",
+  "case_gist": "共同相続人が全員の合意によつて遺産を構成する特定不動産を第三者に売却した場合における代金債権は、分割債権であり、各相続人は相続分に応じて個々にこれを行使することができる。",
+  "ref_law": "民法898条，民法899条，民法907条2項",
+  "lawsuit_id": "64206",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64206",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/206/064206_hanrei.pdf"
+}

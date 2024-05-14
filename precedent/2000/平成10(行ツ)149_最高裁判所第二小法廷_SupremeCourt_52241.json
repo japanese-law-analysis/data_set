@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 15,
+    "month": 12,
+    "day": 19
+  },
+  "case_number": "平成10(行ツ)149",
+  "case_name": "第二次納税義務告知処分取消請求事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第57巻11号2292頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成9(行コ)42",
+  "original_date": {
+    "era": "Heisei",
+    "year": 10,
+    "month": 2,
+    "day": 19
+  },
+  "gist": "いわゆる一括支払システムに関する契約においてされた国税徴収法２４条２項による告知書の発出の時点で譲渡担保権を実行することを内容とする合意の効力",
+  "case_gist": "いわゆる一括支払システムに関する契約において譲渡担保権者と納税者との間でされた国税徴収法２４条２項による告知書の発出の時点で譲渡担保権を実行することを内容とする合意は，同条５項の趣旨に反して無効である。\n（補足意見がある。）",
+  "ref_law": "国税徴収法24条，民法91条",
+  "lawsuit_id": "52241",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52241",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/241/052241_hanrei.pdf"
+}

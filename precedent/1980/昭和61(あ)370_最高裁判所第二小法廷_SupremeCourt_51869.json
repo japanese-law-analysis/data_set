@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 10,
+    "day": 1
+  },
+  "case_number": "昭和61(あ)370",
+  "case_name": "売春防止法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第40巻6号477頁",
+  "original_court_name": "福岡高等裁判所\n        　宮崎支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 2,
+    "day": 25
+  },
+  "gist": "売春防止法一三条一項所定の「情を知つて」と確定的認識の要否",
+  "case_gist": "売春防止法一三条一項の「情を知つて」というためには、同項に規定する建物等の提供者において、その提供を受ける者が売春を行う場所を提供することを業とし、かつ、右建物等をその業のために使用するものであることについて、確定的な認識を有することまでは必要でない。",
+  "ref_law": "売春防止法13条1項",
+  "lawsuit_id": "51869",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51869",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/869/051869_hanrei.pdf"
+}

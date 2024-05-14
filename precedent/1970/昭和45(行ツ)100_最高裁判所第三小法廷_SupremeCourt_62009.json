@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 5,
+    "day": 27
+  },
+  "case_number": "昭和45(行ツ)100",
+  "case_name": "建物滅失登記申請事件等の受理処分取消請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第115号7頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和44(行コ)17",
+  "original_date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 7,
+    "day": 28
+  },
+  "gist": "相隣接する二棟の建物のそれぞれの一部に工事が加えられて連結された場合において、右二棟の建物が建物としての独立性を失つたとの判断が違法とされた事例",
+  "case_gist": "既に所有権及び抵当権に関する登記がされている二棟の相隣接する建物につき、それぞれの二階部分の隔壁のうち巾一・八メートルの部分を除去し、そこに建具をはめ込み、両建物の二階部分の高低差〇・九五メートルを階段で補い、その部分を通行可能にしたという事実があつても、それだけで右二棟の建物としての独立性を失い一棟の建物になつたものと判断することは違法である。",
+  "ref_law": "不動産登記法15条",
+  "lawsuit_id": "62009",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62009",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/009/062009_hanrei.pdf"
+}

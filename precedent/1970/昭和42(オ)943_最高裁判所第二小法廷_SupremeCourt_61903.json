@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 6,
+    "day": 18
+  },
+  "case_number": "昭和42(オ)943",
+  "case_name": "詐害行為取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第103号141頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和38(ネ)1189",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 4,
+    "day": 18
+  },
+  "gist": "債務引受契約ならびに相殺契約が一体として詐害行為になるとされた事例",
+  "case_gist": "甲と乙とが、判示事情のもとにおいて、甲の第三者に対する債権につき乙が債務引受をしたうえこれと乙の甲に対する債権とを対当額で相殺する契約をした場合、甲の右各行為は一体として詐害行為になると解すべきである。",
+  "ref_law": "民法424条",
+  "lawsuit_id": "61903",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61903",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/903/061903_hanrei.pdf"
+}

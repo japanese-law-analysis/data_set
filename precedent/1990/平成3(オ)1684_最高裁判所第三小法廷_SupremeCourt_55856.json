@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 7,
+    "month": 7,
+    "day": 18
+  },
+  "case_number": "平成3(オ)1684",
+  "case_name": "土地所有権移転登記手続請求本訴、土地明渡請求反訴",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第49巻7号2664頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和62(ネ)2283",
+  "original_date": {
+    "era": "Heisei",
+    "year": 2,
+    "month": 6,
+    "day": 26
+  },
+  "gist": "共有に属する要役地のために地役権設定登記手続を求める訴えと固有必要的共同訴訟",
+  "case_gist": "共有に属する要役地のために地役権設定登記手続を求める訴えは、固有必要的共同訴訟に当たらない。",
+  "ref_law": "民訴法62条，民法252条，民法280条",
+  "lawsuit_id": "55856",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55856",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/856/055856_hanrei.pdf"
+}

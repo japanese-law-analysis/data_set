@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 3,
+    "day": 4
+  },
+  "case_number": "昭和31(あ)530",
+  "case_name": "収賄",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第14巻3号288頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 1,
+    "day": 19
+  },
+  "gist": "収賄罪が成立する事例。",
+  "case_gist": "農地委員会（後に農業委員会、以下同じ）書記兼事務局長として、同委員会の議案の作成、農地の買収売渡に関し現地の実測調査および関係人の資金信用状態を調査しこれを同委員会に復命する等、同委員会会長の職務に附随する一切の事務に従事する者が、甲から、既に国に買収され乙に売渡となつた農地を買戻し再度取得できるよう便宜な取計ありたい旨の請託を受け、その報酬として金員を収受したときは、収賄罪が成立する。",
+  "ref_law": "刑法197条",
+  "lawsuit_id": "51536",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51536",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/536/051536_hanrei.pdf"
+}

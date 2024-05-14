@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 9,
+    "month": 7,
+    "day": 1
+  },
+  "case_number": "平成8(オ)255",
+  "case_name": "ゴルフクラブ会員権等存在確認",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第51巻6号2452頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成6(ネ)3274",
+  "original_date": {
+    "era": "Heisei",
+    "year": 7,
+    "month": 9,
+    "day": 21
+  },
+  "gist": "一　事情変更の原則と契約締結時の当事者の予見可能性及び帰責事由\n二　ゴルフクラブ入会契約締結後のゴルフ場ののり面の崩壊という事情の変更とゴルフ場経営会社の予見可能性及び帰責事由",
+  "case_gist": "一　事情変更の原則を適用するためには、契約締結後の事情の変更が、契約締結時の当事者にとって予見することができず、かつ、右当事者の責めに帰することのできない事由によって生じたものであることが必要である。\n二　自然の地形を変更してゴルフ場を造成したゴルフ場経営会社は、ゴルフクラブ入会契約締結後にゴルフ場ののり面が崩壊したとしても、事情変更の原則の適用に関しては、特段の事情のない限り、右崩壊について予見不可能であったとはいえず、また、これについて帰責事由がなかったということもできない。",
+  "ref_law": "民法1条2項，民法第3編第2章契約",
+  "lawsuit_id": "54796",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54796",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/796/054796_hanrei.pdf"
+}

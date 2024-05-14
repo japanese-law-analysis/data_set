@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 5,
+    "day": 8
+  },
+  "case_number": "昭和45(あ)1579",
+  "case_name": "所得税法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第28巻4号67頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 5,
+    "day": 25
+  },
+  "gist": "土地の売渡しの仲介をした宅地建物取引業者が土地所有者との契約により当該売渡しにかかる土地の再評価税を自己の負担において代納付した場合と経費の計上時期",
+  "case_gist": "土地の売渡しの仲介をした宅地建物取引業者が土地所有者との契約により当該売渡しにかかる土地の再評価税を自己の負担において代納付した場合、その代納付金が当該土地の仲介手数料を得た年度の収入を得るために被告人が支出した費用であつて、代納付義務が同年度に債務として成立し、その金額も算定可能であつたときは、右代納付金は同年度の経費として計上すべきである。",
+  "ref_law": "所得税法（昭和40年法律33号による改正前のもの）10条2項，所得税法（昭和40年法律33号による改正前のもの）9条1項4号，資産再評価法36条",
+  "lawsuit_id": "50985",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50985",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/985/050985_hanrei.pdf"
+}

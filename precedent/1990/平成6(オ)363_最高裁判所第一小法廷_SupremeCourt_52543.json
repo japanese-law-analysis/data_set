@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 9,
+    "month": 2,
+    "day": 27
+  },
+  "case_number": "平成6(オ)363",
+  "case_name": "約束手形金",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第51巻2号686頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成5(ネ)741",
+  "original_date": {
+    "era": "Heisei",
+    "year": 5,
+    "month": 11,
+    "day": 19
+  },
+  "gist": "満期の日として振出日より前の日が記載されている確定日払の約束手形の効力",
+  "case_gist": "満期の日として振出日より前の日が記載されている確定日払の約束手形は、無効である。",
+  "ref_law": "手形法75条",
+  "lawsuit_id": "52543",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52543",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/543/052543_hanrei.pdf"
+}

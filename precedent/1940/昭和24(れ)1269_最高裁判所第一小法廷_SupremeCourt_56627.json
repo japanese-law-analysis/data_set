@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 10,
+    "day": 20
+  },
+  "case_number": "昭和24(れ)1269",
+  "case_name": "賍物故買",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第3巻10号1660頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 3,
+    "day": 9
+  },
+  "gist": "他の自轉車の車体に取付けた賍物たる自轉車の車輪等の賍物性",
+  "case_gist": "盜賍たる婦人用自轉車の車輪二個（タイヤーチユウブ附）及び「サドル」を取り外し、これらを他の男子用自轉車の車体に取り付けても車輪及び「サドル」の賍物性に變りはない。",
+  "ref_law": "刑法256條，民法243條，民法244條，民法246條",
+  "lawsuit_id": "56627",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56627",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/627/056627_hanrei.pdf"
+}

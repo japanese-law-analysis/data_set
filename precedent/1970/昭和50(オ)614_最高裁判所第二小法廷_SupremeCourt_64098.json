@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 11,
+    "day": 1
+  },
+  "case_number": "昭和50(オ)614",
+  "case_name": "立替支払請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第119号149頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和47(ネ)150",
+  "original_date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 2,
+    "day": 14
+  },
+  "gist": "いわゆる内整理のための債権者委員会の決議の効力",
+  "case_gist": "いわゆる内整理のための債権者委員会の決議は、その表決に加わらなかつた債権者を当然に拘束する効力を有するものではない。",
+  "ref_law": "民法91条，破産法179条，破産法306条",
+  "lawsuit_id": "64098",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64098",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/098/064098_hanrei.pdf"
+}

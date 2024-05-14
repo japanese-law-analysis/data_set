@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 11,
+    "month": 6,
+    "day": 10
+  },
+  "case_number": "平成8(行ツ)54",
+  "case_name": "課税処分取消請求事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第193号315頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成7(行コ)44",
+  "original_date": {
+    "era": "Heisei",
+    "year": 7,
+    "month": 11,
+    "day": 27
+  },
+  "gist": "相続税の期限内申告書において相続財産に属する特定の財産が納付すべき税額の計算の基礎とされていなかったことについて国税通則法六五条四項にいう「正当な理由」がある場合",
+  "case_gist": "相続財産に属する特定の財産を計算の基礎としない相続税の期限内申告書が提出された場合において、納税者が当該財産が相続財産に属さないか又は属する可能性が小さいことを客観的に裏付けるに足りる事実を認識して期限内申告書を提出したときは、国税通則法六五条四項にいう「正当な理由」がある。",
+  "ref_law": "国税通則法65条1項，国税通則法65条4項，相続税法11条，相続税法27条",
+  "lawsuit_id": "62811",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62811",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/811/062811_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 2,
+    "day": 16
+  },
+  "case_number": "昭和47(オ)210",
+  "case_name": "貸金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第27巻1号149頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和45(ネ)135",
+  "original_date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 11,
+    "day": 18
+  },
+  "gist": "公正証書に関する請求異議訴訟における債権者の応訴が当該債権の消滅時効を中断しない場合",
+  "case_gist": "公正証書に関する請求異議訴訟において、債権者が応訴して債権の存在を主張した場合でも、右証書の作成嘱託についての代表権欠缺を理由に請求が認容され、その債権の存否が判断されなかつたときは、右債権につき、裁判上の請求に準ずる消滅時効中断の効力は生じない。",
+  "ref_law": "民法147条1号，民法149条",
+  "lawsuit_id": "52081",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52081",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/081/052081_hanrei.pdf"
+}

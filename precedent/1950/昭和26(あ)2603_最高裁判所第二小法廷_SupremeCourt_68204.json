@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 3,
+    "day": 18
+  },
+  "case_number": "昭和26(あ)2603",
+  "case_name": "貸金業等の取締に関する法律違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第76号369頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 5,
+    "day": 16
+  },
+  "gist": "貸付金利の高率は貸金業等の取締に関する法律違反罪成立の要件か",
+  "case_gist": "貸金業等の取締に関する法律違反になるためには金利の高率であることを要件とするものとは解せられない。",
+  "ref_law": "貸金業等の取締に関する法律2条，貸金業等の取締に関する法律5条",
+  "lawsuit_id": "68204",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=68204",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/204/068204_hanrei.pdf"
+}

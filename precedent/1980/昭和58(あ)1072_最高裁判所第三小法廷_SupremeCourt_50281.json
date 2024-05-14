@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 7,
+    "day": 18
+  },
+  "case_number": "昭和58(あ)1072",
+  "case_name": "建造物損壊",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第40巻5号438頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 7,
+    "day": 12
+  },
+  "gist": "刑法二六〇条の「他人ノ」建造物に当たるとされた事例",
+  "case_gist": "被告人所有の建物につき根抵当権の設定を受けた甲が抵当権実行の結果自らこれを競落して、同人に対する所有権移転登記が経由された後、執行官が右建物につき不動産引渡命令の執行をしようとした際、被告人が同建物の損壊に及んだ等の判示の事実関係の下では、たとえ被告人が右根抵当権設定の意思表示は甲の側の詐欺によるものとしてこれを取り消したから同建物は依然として自己所有の物であると主張し、将来民事訴訟等において右詐欺の主張が認められる可能性を否定し去ることができないとしても、同建物は刑法２６０条の「他人ノ」建造物に当たるというべきである。",
+  "ref_law": "刑法260条",
+  "lawsuit_id": "50281",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50281",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/281/050281_hanrei.pdf"
+}

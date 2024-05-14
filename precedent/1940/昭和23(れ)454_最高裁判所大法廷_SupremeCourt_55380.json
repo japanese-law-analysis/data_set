@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 4,
+    "day": 6
+  },
+  "case_number": "昭和23(れ)454",
+  "case_name": "物価統制令違反",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "刑集　第3巻4号445頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 3,
+    "day": 30
+  },
+  "gist": "第一審における被告人の自白のみを採つて斷罪の證據にした判決の違法",
+  "case_gist": "所論の第一審における被告人の自白のみを採つて斷罪の證據にした原判決は、正に所論の如く憲法第三八條第三項（及び刑訴應急措置法第一〇條第三項）違反の判決であつて此の點に關する論旨は理由あり。",
+  "ref_law": "憲法38條3項，刑訴應急措置法10條3項",
+  "lawsuit_id": "55380",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55380",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/380/055380_hanrei.pdf"
+}

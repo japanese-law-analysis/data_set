@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 7,
+    "day": 13
+  },
+  "case_number": "昭和25(し)21",
+  "case_name": "上訴権回復請求棄却決定に対する特別抗告申立",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第4巻7号1311頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 2,
+    "day": 10
+  },
+  "gist": "上訴權回復請求の事由の止んだ一事例",
+  "case_gist": "原決定が引用する申立人提出の上訴期間回復申立書には申立人は賍物故買被告事件について、第二審の有罪判決のあつたことは、昭和二四年一二月二六日大阪高等檢察庁檢事から申聞けられた旨の記載があるので原決定が申立人はその時前記第二審判決のあつたことを知つたものと認め同日を以つて申立人又はその代人が上訴の提起期間内に上訴を爲すことのできなかつた事由は止んだものと判斷したのは正當である。してみれば申立人の本件特別抗告の理由とするところは、憲法違反とはいうれども、その實質は舊刑訴法上の問題であつて憲法問題ではないから、刑訴應急措置法第一八條の特別抗告の適法な理由とならない。",
+  "ref_law": "舊刑訴法387條，舊刑訴法388條",
+  "lawsuit_id": "54457",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54457",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/457/054457_hanrei.pdf"
+}

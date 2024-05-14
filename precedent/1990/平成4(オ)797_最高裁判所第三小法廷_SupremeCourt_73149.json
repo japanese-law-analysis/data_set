@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 5,
+    "month": 3,
+    "day": 30
+  },
+  "case_number": "平成4(オ)797",
+  "case_name": "著作権登録抹消等請求本訴、同反訴",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第168号599頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和63(ネ)4174",
+  "original_date": {
+    "era": "Heisei",
+    "year": 4,
+    "month": 1,
+    "day": 21
+  },
+  "gist": "詩人の著作物を収録し生存中にその承諾の下に出版された編集著作物の編集に関与した者の編集著作権が否定された事例",
+  "case_gist": "詩人の著作物を収録し、生存中にその承諾の下に出版された編集著作物について、詩人以外の者が編集に関与したとしても、収録する詩等の範囲及び掲載順の確定、題名の決定等を詩人自らが行い、関与者は詩人の意向に全面的に従っていたなど判示の事実関係の下においては、関与者に当該編集著作物の編集著作権があるとはいえない。",
+  "ref_law": "旧著作権法（明治32年法律第39号）14条，著作権法12条",
+  "lawsuit_id": "73149",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=73149",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/149/073149_hanrei.pdf"
+}

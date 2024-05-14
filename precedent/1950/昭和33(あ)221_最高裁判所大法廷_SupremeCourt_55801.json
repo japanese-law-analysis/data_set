@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 12,
+    "day": 9
+  },
+  "case_number": "昭和33(あ)221",
+  "case_name": "収賄、加重収賄",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第13巻12号3186頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 12,
+    "day": 26
+  },
+  "gist": "刑法第一九七条は憲法第一四条に違反するか。",
+  "case_gist": "公務員の収賄を処罰することを定めた刑法第一九七条は、憲法第一四条に違反しない。",
+  "ref_law": "刑法197条，憲法14条",
+  "lawsuit_id": "55801",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55801",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/801/055801_hanrei.pdf"
+}

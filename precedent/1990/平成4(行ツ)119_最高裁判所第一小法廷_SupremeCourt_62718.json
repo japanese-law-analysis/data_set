@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 7,
+    "month": 2,
+    "day": 23
+  },
+  "case_number": "平成4(行ツ)119",
+  "case_name": "不当労働行為救済命令取消請求、補助参加申立",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "却下",
+  "article_info": "集民　第174号319頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_case_number": "平成3(行コ)3",
+  "original_date": {
+    "era": "Heisei",
+    "year": 4,
+    "month": 2,
+    "day": 24
+  },
+  "gist": "高等裁判所が判決の形式でした補助参加の許否に関する裁判に対する上告と最高裁判所の審理の対象",
+  "case_gist": "高等裁判所が補助参加の許否に関する裁判を判決の形式で行った場合には、右判決に対する上告についての最高裁判所の審理の対象は、民訴法四一九条ノ二所定の抗告理由の有無の範囲に限られる。",
+  "ref_law": "民訴法66条，民訴法393条，民訴法419条ノ2，裁判所法7条2号",
+  "lawsuit_id": "62718",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62718",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/718/062718_hanrei.pdf"
+}

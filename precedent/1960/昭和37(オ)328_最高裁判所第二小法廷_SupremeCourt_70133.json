@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 8,
+    "day": 30
+  },
+  "case_number": "昭和37(オ)328",
+  "case_name": "土地建物所有権確認登記抹消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第67号361頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 1,
+    "day": 26
+  },
+  "gist": "一　弁論再開の不許と証拠提出の不当制限\n二　国家賠償と賠償責任の負担者",
+  "case_gist": "一　裁判所が当事者の弁論再開の申請を採用しなかつたため、新たな証拠の提出ができなかつたとしても、証拠提出を不当に制限したことにはならない（昭和二三年（オ）第七号、同年四月一七日第二小法廷判決、民集二巻四号一〇四頁参照）。\n二　公務員の職務執行に基づく損害については、国家または公共団体がその責任を負い、当該公務員は被害者に対し、その責任を負担しない。",
+  "ref_law": "民訴法133条，民訴法137条，国家賠償法1条，民法709条",
+  "lawsuit_id": "70133",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70133",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/133/070133_hanrei.pdf"
+}

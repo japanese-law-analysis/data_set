@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 3,
+    "day": 15
+  },
+  "case_number": "昭和37(オ)577",
+  "case_name": "車輛代金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第65号181頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 10,
+    "day": 11
+  },
+  "gist": "自白の拘束力の喪失と他の証拠による証明。",
+  "case_gist": "書証の成立について自白があるとした判決は、その自白が撤回され自白の拘束力がないとしても、他の証拠によつても右成立を認めうるとしている以上、判決の結論に影響を及ぼすべき違法をきたさない。",
+  "ref_law": "民訴法257条",
+  "lawsuit_id": "66120",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66120",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/120/066120_hanrei.pdf"
+}

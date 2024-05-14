@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 10,
+    "day": 23
+  },
+  "case_number": "平成21(レ)100",
+  "case_name": "貸金請求控訴事件",
+  "court_name": "名古屋地方裁判所民事第８部",
+  "gist": "出資の受入れ，預かり金及び金利等の取締りに関する法律（平成１８年法律第１１５号による改正前のもの）５条１項の定める年利１０９．５％の２倍を超える月２割の利息約定を定めた金銭消費貸借契約につき，貸主が違法な高金利による利益を得ようとしたものとして，当該金銭消費貸借契約自体が公序良俗に違反し無効であるとされた事例",
+  "lawsuit_id": "80078",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=80078",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/078/080078_hanrei.pdf",
+  "contents": "6 5\n3 4\n2 4\n1 1\n"
+}

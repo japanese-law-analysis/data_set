@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 4,
+    "day": 8
+  },
+  "case_number": "昭和40(あ)1573",
+  "case_name": "強姦致傷、強姦、殺人、死体遺棄、窃盗",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第20巻4号207頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 6,
+    "day": 24
+  },
+  "gist": "人を殺害した後被害者が身につけていた財物を奪取した行為が窃盗罪にあたるとされた事例",
+  "case_gist": "野外において人を殺害した後、領得の意思を生じ、右犯行直後その現場で、被害者が身につけていた腕時計を奪取する行為は、窃盗罪を構成する。",
+  "ref_law": "刑法235条",
+  "lawsuit_id": "50757",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50757",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/757/050757_hanrei.pdf"
+}

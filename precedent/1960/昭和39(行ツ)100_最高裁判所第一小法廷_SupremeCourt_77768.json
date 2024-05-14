@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 2,
+    "day": 18
+  },
+  "case_number": "昭和39(行ツ)100",
+  "case_name": "市長当選無効確認請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第77号417頁",
+  "original_court_name": "福岡高等裁判所\n        　宮崎支部",
+  "original_case_number": "昭和38(ナ)5",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 8,
+    "day": 31
+  },
+  "gist": "公職選挙法第二五一条の二にいう選挙運動総括主宰者の意義。",
+  "case_gist": "公職選挙法第二五一条の二に規定する「選挙運動を総括主宰した者」とは、実質上選挙運動の中心的存在として、選挙運動に関する事務全体を掌握し指揮する立場にあつた者を指称するものと解すべきである。",
+  "ref_law": "公職選挙法251条の2",
+  "lawsuit_id": "77768",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77768",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/768/077768_hanrei.pdf"
+}

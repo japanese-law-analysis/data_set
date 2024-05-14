@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 7,
+    "day": 16
+  },
+  "case_number": "昭和37(オ)1013",
+  "case_name": "所有権確認等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第74号603頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 6,
+    "day": 14
+  },
+  "gist": "法律上一筆の土地と認められないとされた事例。",
+  "case_gist": "土地台帳付属地図に「ａ番の内」と表示された部分が存在する場合に、該表示か判示のような事情（本判決理由参照）によってなされたものであり、かつ、該部分が土地台帳に一筆として登録された事実が認められないときは、これを法律上一筆の土地とみることはできない。",
+  "ref_law": "民法86条1項，旧土地台帳規則（明治32年勅令39号）1条，旧土地台帳規則（明治32年勅令39号）2条，旧地租法16条",
+  "lawsuit_id": "66033",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66033",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/033/066033_hanrei.pdf"
+}

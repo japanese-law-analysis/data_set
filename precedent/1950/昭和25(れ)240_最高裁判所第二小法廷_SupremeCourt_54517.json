@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 6,
+    "day": 30
+  },
+  "case_number": "昭和25(れ)240",
+  "case_name": "食糧緊急措置令違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第4巻6号1139頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 12,
+    "day": 26
+  },
+  "gist": "米換算による主要食糧不正受配量の摘示と麺類、穀粉等による換算比率摘示の要否",
+  "case_gist": "食糧緊急措置令第一〇條による主要食糧不正受配の事實摘示として米換算による不正受配量の摘示がある以上、必ずしも麺類穀粉等による換算比率まで摘示する必要はない。",
+  "ref_law": "食糧緊急措置令10條，舊刑訴法360條1項",
+  "lawsuit_id": "54517",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54517",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/517/054517_hanrei.pdf"
+}

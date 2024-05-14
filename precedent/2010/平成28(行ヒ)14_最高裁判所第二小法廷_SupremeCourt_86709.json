@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 29,
+    "month": 4,
+    "day": 21
+  },
+  "case_number": "平成28(行ヒ)14",
+  "case_name": "特別支給の老齢厚生年金決定取消請求事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第71巻4号726頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成26(行コ)479",
+  "original_date": {
+    "era": "Heisei",
+    "year": 27,
+    "month": 9,
+    "day": 9
+  },
+  "gist": "厚生年金保険法附則８条の規定による老齢厚生年金について厚生年金保険法（平成２４年法律第６３号による改正前のもの）４３条３項の規定による年金の額の改定がされるために同項所定の期間を経過した時点において当該年金の受給権者であることの要否",
+  "case_gist": "厚生年金保険法附則８条の規定による老齢厚生年金について厚生年金保険法（平成２４年法律第６３号による改正前のもの）４３条３項の規定による年金の額の改定がされるためには，被保険者である当該年金の受給権者が，その被保険者の資格を喪失し，かつ，被保険者となることなくして被保険者の資格を喪失した日から起算して１月を経過した時点においても，当該年金の受給権者であることを要する。",
+  "ref_law": "厚生年金保険法（平成２４年法律第６３号による改正前のもの）４３条３項，厚生年金保険法附則８条",
+  "lawsuit_id": "86709",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=86709",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/709/086709_hanrei.pdf"
+}

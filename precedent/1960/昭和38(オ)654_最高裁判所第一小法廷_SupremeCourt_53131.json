@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 3,
+    "day": 4
+  },
+  "case_number": "昭和38(オ)654",
+  "case_name": "占有保持請求本訴ならびに建物収去土地明渡請求反訴事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第19巻2号197頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "昭和34(ネ)572",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 3,
+    "day": 11
+  },
+  "gist": "占有の訴に対して本権に基づく反訴を提起することの許否。",
+  "case_gist": "占有の訴に対しては、本権に基づく反訴を提起することができる。",
+  "ref_law": "民法202条2項，民訴法239条",
+  "lawsuit_id": "53131",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53131",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/131/053131_hanrei.pdf"
+}

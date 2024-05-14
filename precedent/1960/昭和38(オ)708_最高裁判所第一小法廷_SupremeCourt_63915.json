@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 11,
+    "day": 26
+  },
+  "case_number": "昭和38(オ)708",
+  "case_name": "未墾地買収処分無効請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第76号315頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 3,
+    "day": 30
+  },
+  "gist": "対象たる土地の地積に過誤ある未墾地買収処分の効力。",
+  "case_gist": "対象たる土地の実測面積が一町一畝二六歩あるのを一町歩として行つた未墾地買収処分を、無効ということはできない。",
+  "ref_law": "自作農創設特別措置法30条，自作農創設特別措置法34条，自作農創設特別措置法9条",
+  "lawsuit_id": "63915",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63915",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/915/063915_hanrei.pdf"
+}

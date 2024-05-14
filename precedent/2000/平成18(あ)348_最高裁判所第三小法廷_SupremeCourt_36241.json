@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 3,
+    "day": 27
+  },
+  "case_number": "平成18(あ)348",
+  "case_name": "受託収賄被告事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第62巻3号250頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成15(う)1892",
+  "original_date": {
+    "era": "Heisei",
+    "year": 17,
+    "month": 12,
+    "day": 19
+  },
+  "gist": "参議院議員が，本会議における代表質問においてある施策の実現のため有利な取り計らいを求める質問をされたい旨の請託を受け，さらに，他の参議院議員を含む国会議員に対し国会審議の場において同旨の質疑等を行うよう勧誘説得されたい旨の請託を受けて金員を受領したことが，その職務に関し賄賂を収受したものとされた事例",
+  "case_gist": "参議院議員が，ある施策の実現を目指す者から，参議院本会議において内閣総理大臣の演説に対して所属会派を代表して質疑するに当たり，その施策の実現のため有利な取り計らいを求める質問をされたい旨の請託を受け，さらに，他の参議院議員を含む国会議員に対し国会審議の場において同旨の質疑等を行うよう勧誘説得されたい旨の請託を受け，これらの報酬として金員を受領したことは，その職務に関し賄賂を収受したものであって，受託収賄罪に当たる。",
+  "ref_law": "刑法197条1項",
+  "lawsuit_id": "36241",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=36241",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/241/036241_hanrei.pdf",
+  "contents": ""
+}

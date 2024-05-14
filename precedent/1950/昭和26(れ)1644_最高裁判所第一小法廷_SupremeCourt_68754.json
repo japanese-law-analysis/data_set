@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 10,
+    "day": 25
+  },
+  "case_number": "昭和26(れ)1644",
+  "case_name": "詐欺",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第55号397頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 3,
+    "day": 8
+  },
+  "gist": "封鎖預金の不正払戻行為と刑法第二四六条第二項",
+  "case_gist": "原判決の確定した事実は、要するに被告人の所為は判示架空の商取引を偽造し、判示銀行係員を欺いてその旨誤信させ、よつて判示小切手に封鎖支払の認証を受けて財産上不法の利益を得たというのであるから、刑法二四六条二項の詐欺罪を構成すること論を俟たない。",
+  "ref_law": "刑法246条2項，金融緊急措置令1条",
+  "lawsuit_id": "68754",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=68754",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/754/068754_hanrei.pdf"
+}

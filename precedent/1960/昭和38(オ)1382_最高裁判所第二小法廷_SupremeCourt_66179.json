@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 9,
+    "day": 25
+  },
+  "case_number": "昭和38(オ)1382",
+  "case_name": "調停調書無効確認請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第75号483頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 7,
+    "day": 10
+  },
+  "gist": "民事調停法第一六条の法意。",
+  "case_gist": "民事調停法第一六条は、合意成立の際調停調書が作成されていることを要求しているものではない。",
+  "ref_law": "民事調停法16条",
+  "lawsuit_id": "66179",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66179",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/179/066179_hanrei.pdf"
+}

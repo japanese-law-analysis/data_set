@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 9,
+    "day": 29
+  },
+  "case_number": "昭和39(し)77",
+  "case_name": "公職選挙法違反被告事件につきなした正式裁判請求棄却決定の取消決定に対する特別抗告",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第19巻6号749頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 11,
+    "day": 4
+  },
+  "gist": "略式命令謄本の送達前になされた正式裁判請求の適否。",
+  "case_gist": "略式命令謄本送達前になされた不適法な正式裁判請求も、右請求当時、同文の謄本が既に検察官および他の共同被告人に対しては送達されており、かつ、請求を受けた裁判所がこれを不適法として棄却する前に、請求人に対する送達が完了したときには、その瑕疵が治癒されると解すべきである。",
+  "ref_law": "刑訴法465条1項，刑訴法468条1項，刑訴規則34条本文",
+  "lawsuit_id": "50751",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50751",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/751/050751_hanrei.pdf"
+}

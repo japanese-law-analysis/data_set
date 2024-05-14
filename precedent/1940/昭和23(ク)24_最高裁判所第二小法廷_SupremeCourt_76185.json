@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 10,
+    "day": 23
+  },
+  "case_number": "昭和23(ク)24",
+  "case_name": "強制執行停止決定に対する抗告事件につきなした抗告棄却の決定に対する再抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "却下",
+  "article_info": "集民　第1号459頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和23(ラ)5",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 8,
+    "day": 10
+  },
+  "lawsuit_id": "76185",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=76185",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/185/076185_hanrei.pdf"
+}

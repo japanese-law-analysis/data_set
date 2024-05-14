@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 6,
+    "day": 11
+  },
+  "case_number": "昭和28(あ)5662",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第8巻6号865頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 11,
+    "day": 28
+  },
+  "gist": "公職選挙法第一四八条第三項にいう新聞紙の意義",
+  "case_gist": "公職選挙法第一四八条第三項にいう新聞紙とは、当該選挙の選挙期日の公示または告示の日前六箇月以来、現実に毎月三回以上頒布されてきたものであることを要する。",
+  "ref_law": "公職選挙法148条，公職選挙法142条，公職選挙法243条3号",
+  "lawsuit_id": "54740",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54740",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/740/054740_hanrei.pdf"
+}

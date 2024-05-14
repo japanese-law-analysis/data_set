@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 11,
+    "day": 13
+  },
+  "case_number": "昭和41(オ)984",
+  "case_name": "土地建物所有権確認所有権取得登記手続請求",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第22巻12号2510頁",
+  "original_court_name": "広島高等裁判所",
+  "original_case_number": "昭和38(ネ)169",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 5,
+    "day": 13
+  },
+  "gist": "所有権に基づく登記手続請求の訴訟において被告が自己に所有権があることを主張して請求棄却の判決を求めることは原告のための取得時効を中断する効力を生ずるか",
+  "case_gist": "所有権に基づく登記手続請求の訴訟において、被告が自己に所有権があることを主張して請求棄却の判決を求め、その主張が判決によつて認められた場合には、右主張は、裁判上の請求に準ずるものとして、原告のための取得時効を中断する効力を生ずるものと解すべきである。",
+  "ref_law": "民法147条",
+  "lawsuit_id": "55055",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55055",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/055/055055_hanrei.pdf"
+}

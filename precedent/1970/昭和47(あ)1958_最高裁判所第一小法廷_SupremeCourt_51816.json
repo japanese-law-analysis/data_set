@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 4,
+    "day": 3
+  },
+  "case_number": "昭和47(あ)1958",
+  "case_name": "業務上過失傷害、傷害、道路交通法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "刑集　第29巻4号111頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 9,
+    "day": 20
+  },
+  "gist": "自動車の運転者が傷害の故意に基づき車両の運転によって人を負傷さもて逃走した場合と道路交通法七二条一項前段の救護義務違反の成否",
+  "case_gist": "自動車の運転者が傷害の故意に基づき車両の運転によって人を負傷させその場から逃走した場合であっても、道路交通法七二条一項前段、一一七条の救護義務違反罪が成立する。",
+  "ref_law": "道路交通法72条1項，道路交通法117条，刑法204条",
+  "lawsuit_id": "51816",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51816",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/816/051816_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 9,
+    "day": 24
+  },
+  "case_number": "昭和56(行ツ)43",
+  "case_name": "行政処分取消",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第133号487頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和55(行コ)54",
+  "original_date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 11,
+    "day": 25
+  },
+  "gist": "地方公務員災害補償基金の従たる事務所の長がした補償に関する決定の取消の訴と再審査請求の経由",
+  "case_gist": "地方公務員災害補償基金の従たる事務所の長がした補償に関する決定の取消の訴は、地方公務員災害補償基金審査会に対する再審査請求の裁決を経た上で提起しなければならない。",
+  "ref_law": "地方公務員災害補償法51条，地方公務員災害補償法56条，行政事件訴訟法8条1項",
+  "lawsuit_id": "64368",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64368",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/368/064368_hanrei.pdf"
+}

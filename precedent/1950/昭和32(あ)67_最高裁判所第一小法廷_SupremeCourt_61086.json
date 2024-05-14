@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 9,
+    "day": 12
+  },
+  "case_number": "昭和32(あ)67",
+  "case_name": "窃盗、詐欺、強盗殺人同未遂等",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第120号341頁",
+  "original_court_name": "福岡高等裁判所\n        　宮崎支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 12,
+    "day": 5
+  },
+  "gist": "いわゆる闇取引と詐欺罪",
+  "case_gist": "欺罔手段によつて相手方の財物に対する支配権を侵害した以上、相手方が闇取引のため財物を交付したのであつても詐欺罪が成立するものであることは、当裁判所の判例とするところである。（集四巻七号一一六八頁、集四巻一二号二四七五頁）",
+  "ref_law": "刑法246条",
+  "lawsuit_id": "61086",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61086",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/086/061086_hanrei.pdf"
+}

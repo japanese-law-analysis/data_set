@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 1,
+    "day": 26
+  },
+  "case_number": "昭和36(オ)574",
+  "case_name": "建物明渡等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第58号365頁",
+  "original_court_name": "仙台高等裁判所\n        　秋田支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 3,
+    "day": 9
+  },
+  "gist": "口頭弁論期日告知後の訴訟代理人の辞任と右期日告知の効力",
+  "case_gist": "口頭弁論期日において訴訟代理人に次回期日の告知がなされた後、訴訟代理人が辞任しても、右期日の告知の効力は本人に及ぶから、その出頭なくして期日を開き弁論を終結しても違法でない。",
+  "ref_law": "民訴法154条，民訴法125条1項",
+  "lawsuit_id": "63723",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63723",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/723/063723_hanrei.pdf"
+}

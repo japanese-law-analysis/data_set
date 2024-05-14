@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 12,
+    "day": 12
+  },
+  "case_number": "昭和28(オ)307",
+  "case_name": "農地売渡計画訴願裁決取消請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第29号231頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 2,
+    "day": 11
+  },
+  "lawsuit_id": "76718",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=76718",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/718/076718_hanrei.pdf"
+}

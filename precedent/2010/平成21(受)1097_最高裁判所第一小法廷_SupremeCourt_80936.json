@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 12,
+    "day": 16
+  },
+  "case_number": "平成21(受)1097",
+  "case_name": "持分所有権移転登記手続，遺産確認，共有物分割請求本訴，持分所有権移転登記手続請求反訴事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第64巻8号2050頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成20(ネ)2959",
+  "original_date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 3,
+    "day": 11
+  },
+  "gist": "不動産の所有権が，元の所有者から中間者に，次いで中間者から現在の所有者に，順次移転したにもかかわらず，登記名義がなお元の所有者の下に残っている場合において，現在の所有者が元の所有者に対し，元の所有者から現在の所有者に対する真正な登記名義の回復を原因とする所有権移転登記手続を請求することは許されるか",
+  "case_gist": "不動産の所有権が，元の所有者から中間者に，次いで中間者から現在の所有者に，順次移転したにもかかわらず，登記名義がなお元の所有者の下に残っている場合において，現在の所有者が元の所有者に対し，元の所有者から現在の所有者に対する真正な登記名義の回復を原因とする所有権移転登記手続を請求することは許されない。",
+  "ref_law": "民法177条",
+  "lawsuit_id": "80936",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=80936",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/936/080936_hanrei.pdf",
+  "contents": ""
+}

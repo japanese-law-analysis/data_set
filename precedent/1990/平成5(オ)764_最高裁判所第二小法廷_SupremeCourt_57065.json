@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 8,
+    "month": 6,
+    "day": 24
+  },
+  "case_number": "平成5(オ)764",
+  "case_name": "離婚等",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第50巻7号1451頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成3(ネ)4316",
+  "original_date": {
+    "era": "Heisei",
+    "year": 5,
+    "month": 1,
+    "day": 27
+  },
+  "gist": "日本に居住する日本人のドイツに居住するドイツ人に対する離婚請求訴訟につき日本の国際裁判管轄が肯定された事例",
+  "case_gist": "日本に居住する日本国籍の夫がドイツに居住するドイツ国籍の妻に対する離婚請求訴訟を日本の裁判所に提起した場合において、妻が先にドイツの裁判所に提起した離婚請求訴訟につき妻の請求を認容する旨の判決が確定し、同国では右両名の婚姻は既に終了したとされているが、日本では、右判決は民訴法二〇〇条二号の要件を欠くため効力がなく、婚姻はいまだ終了しておらず、夫がドイツの裁判所に離婚請求訴訟を提起しても婚姻の終了を理由に訴えが不適法とされる可能性が高いときは、夫の提起した離婚請求訴訟につき日本の国際裁判管轄を肯定すべきである。",
+  "ref_law": "民訴法第1編第1章裁判所，民訴法200条",
+  "lawsuit_id": "57065",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57065",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/065/057065_hanrei.pdf"
+}

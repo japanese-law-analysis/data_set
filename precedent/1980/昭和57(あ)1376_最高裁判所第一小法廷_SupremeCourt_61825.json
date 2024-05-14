@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 12,
+    "day": 16
+  },
+  "case_number": "昭和57(あ)1376",
+  "case_name": "覚せい剤取締法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第229号659頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 8,
+    "day": 31
+  },
+  "gist": "覚せい剤のいわゆる自己使用行為及び自己使用目的の所持行為を処罰することと憲法一一条、一三条、九七条",
+  "ref_law": "憲法11条，憲法13条，憲法97条，覚せい剤法41条の2第1項1号，覚せい剤法41条の2第1項3号",
+  "lawsuit_id": "61825",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61825",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/825/061825_hanrei.pdf"
+}

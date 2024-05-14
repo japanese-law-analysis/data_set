@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 1,
+    "day": 16
+  },
+  "case_number": "昭和38(オ)509",
+  "case_name": "弁護士懲戒処分に対する異議",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第71号107頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 2,
+    "day": 25
+  },
+  "gist": "弁護士法第二〇条の趣旨に反し弁護士の品位を失うべき非行と認められた事例。",
+  "case_gist": "弁護士が、所属弁護士会に届出でた法律事務所を職務上の本拠とせず、同弁護士会の区域外の自宅で主として執務し、かつ職業上使用する封筒、名刺に届出事務所以外の場所を記載使用したことは、職務上の本拠を不明瞭ならしめ、弁護士法第二〇条の趣旨に反し、ひいては弁護士たる品位を失うべき非行にあたる。",
+  "ref_law": "弁護士法20条，弁護士法56条",
+  "lawsuit_id": "74416",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74416",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/416/074416_hanrei.pdf"
+}

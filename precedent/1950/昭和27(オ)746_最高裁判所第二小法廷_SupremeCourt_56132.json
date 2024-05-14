@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 12,
+    "day": 18
+  },
+  "case_number": "昭和27(オ)746",
+  "case_name": "行政処分取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第7巻12号1506頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 6,
+    "day": 30
+  },
+  "gist": "訴願書に訴願人の住所でない場所を住所と記載して訴願を提起した場合、右場所の居住者の訴願裁決書の受領と出訴期間",
+  "case_gist": "訴願書に訴願人の住所でない場所を住所と記載して訴願を提起した場合は、住所と記載された場所の居住者に訴願裁決書の受領を委任した趣旨と解すべく、右居住者が訴願裁決書を受領したときは、その日から出訴期間は進行する。",
+  "ref_law": "自作農創設特別措置法47条の2，行政事件訴訟特例法5条",
+  "lawsuit_id": "56132",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56132",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/132/056132_hanrei.pdf"
+}

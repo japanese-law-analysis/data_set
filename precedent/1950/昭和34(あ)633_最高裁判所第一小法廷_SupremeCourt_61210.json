@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 7,
+    "day": 16
+  },
+  "case_number": "昭和34(あ)633",
+  "case_name": "モーターボート競争法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第130号591頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 2,
+    "day": 27
+  },
+  "gist": "弁護人の出頭と必要的弁護事件の裁判言渡期日における開廷の要件",
+  "case_gist": "刑訴法二八九条はいわゆる必要的弁護事件を審理する場合には弁護人がなければ開廷することができない旨を規定する法意であつて、弁護人の出頭を当該事件についての裁判言渡期日における開廷の要件として規定するものではないからこの点に関する原審の訴訟手続には何等法令に違背するところはない。",
+  "ref_law": "刑訴法289条，憲法27条3項",
+  "lawsuit_id": "61210",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61210",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/210/061210_hanrei.pdf"
+}

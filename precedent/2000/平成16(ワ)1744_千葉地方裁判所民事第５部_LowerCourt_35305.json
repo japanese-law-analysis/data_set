@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 8,
+    "day": 30
+  },
+  "case_number": "平成16(ワ)1744",
+  "case_name": "損害賠償請求事件，違約金等請求事件",
+  "court_name": "千葉地方裁判所民事第５部",
+  "result": "その他",
+  "gist": "たこ焼き店のフランチャイズ契約の締結に際して，フランチャイザーが，自営業を営んだことのない主婦のフランチャイジー候補者に対し，その自己資金だけでは開業することが困難となるであろうことを告げず，初期投資総額の見込額等を記載した文書を交付せずに，加入金等を入金させた後にその不返還を定めた契約書に署名押印させたことが，同候補者に対し同契約を締結してフランチャイジーになるか否かを判断するに足りる必要かつ十分な情報を適時かつ正確に提供・開示すべき信義則上の義務を尽くしたとはいえないとされた事例",
+  "lawsuit_id": "35305",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=35305",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/305/035305_hanrei.pdf",
+  "contents": ""
+}

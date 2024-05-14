@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 4,
+    "day": 13
+  },
+  "case_number": "昭和42(行ツ)16",
+  "case_name": "町議会議員当選無効請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第87号83頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和40(行ケ)4",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 10,
+    "day": 26
+  },
+  "gist": "一　出納責任者等の犯罪行為が当選に相当の影響を与えなかつたことの明らかな場合と公職選挙法第二五一条の二第一項の適用\n二　公職選挙法第二一一条の訴訟における検察官の原告たる地位",
+  "case_gist": "一　出納責任者等の犯罪行為が当選に相当の影響を与えなかつたことが明らかな場合においても、公職選挙法第二五一条の二第一項によつて連座による当選無効を認めるのを妨げるものではない。\n二　公職選挙法第二一一条の訴訟において、担当検察官の交替、変更あるいは二名以上の検察官の事件担当の事実があつたとしても、検察官としての原告の地位自体の同一性は失われるものではない。",
+  "ref_law": "公職選挙法211条，公職選挙法251条の2",
+  "lawsuit_id": "70310",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70310",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/310/070310_hanrei.pdf"
+}

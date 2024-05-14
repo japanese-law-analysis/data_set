@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 6,
+    "day": 30
+  },
+  "case_number": "昭和38(オ)1294",
+  "case_name": "物件引渡等請求",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第19巻4号1143頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和37(ネ)319",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 8,
+    "day": 19
+  },
+  "gist": "売買契約解除による原状回復義務と保証人の責任。",
+  "case_gist": "特定物の売買契約における売主のための保証人は、特に反対の意思表示のないかぎり、売主の債務不履行により契約が解除された場合における原状回復義務についても、保証の責に任ずるものと解するのが相当である。",
+  "ref_law": "民法446条，民法447条，民法545条",
+  "lawsuit_id": "56277",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56277",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/277/056277_hanrei.pdf"
+}

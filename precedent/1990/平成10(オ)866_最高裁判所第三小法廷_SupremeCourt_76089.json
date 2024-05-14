@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 11,
+    "month": 12,
+    "day": 14
+  },
+  "case_number": "平成10(オ)866",
+  "case_name": "取締役会決議無効確認、臨時株主総会決議不存在確認等請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第195号715頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成9(ネ)2504",
+  "original_date": {
+    "era": "Heisei",
+    "year": 10,
+    "month": 1,
+    "day": 22
+  },
+  "gist": "商法二〇三条二項による指定及び会社に対する通知を欠く株式の共有者につき会社の側から議決権の行使を認めることの可否",
+  "case_gist": "株式が数人の共有に属する場合において、商法二〇三条二項による株主の権利を行使すべき者の指定及び会社に対する通知を欠くときは、共有者全員が議決権を共同して行使する場合を除き、会社の側から議決権の行使を認めることはできない。",
+  "ref_law": "商法203条2項",
+  "lawsuit_id": "76089",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=76089",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/089/076089_hanrei.pdf"
+}

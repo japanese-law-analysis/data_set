@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 9,
+    "day": 19
+  },
+  "case_number": "平成18(ワ)1713",
+  "case_name": "建物耐力補強工事請求事件",
+  "court_name": "京都地方裁判所第３民事部",
+  "gist": "既存不適格建物を目的物とした賃貸借契約において，賃貸人に，民法６０６条所定の修繕義務として，目的物に建築基準法の基準を満たす耐震工事をする義務があるとは認められなかった事例。",
+  "lawsuit_id": "35222",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=35222",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/222/035222_hanrei.pdf",
+  "contents": ""
+}

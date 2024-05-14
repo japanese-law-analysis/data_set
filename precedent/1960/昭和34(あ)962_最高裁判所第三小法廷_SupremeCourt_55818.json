@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 8,
+    "day": 30
+  },
+  "case_number": "昭和34(あ)962",
+  "case_name": "強盗殺人",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第14巻10号1418頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 4,
+    "day": 3
+  },
+  "gist": "不法原因に基く給付と強盗殺人罪（刑法第二三六条第二項、第二四〇条後段）の成立。",
+  "case_gist": "麻薬密売買にことよせて他人を誘き出し、その所持する麻薬購入資金を預かり同人のため保管中、該金員を不法に領得する目的をもつて同人を殺害し同人から事実上右金員の返還請求を受けることのない結果を生ぜしめて返還を免れたときは、たとえ右金員の授受は不法原因に基く給付であるがため被害者に返還請求権がないとしても刑法第二三六条第二項、第二四〇条後段の罪が成立する。",
+  "ref_law": "刑法236条，刑法240条",
+  "lawsuit_id": "55818",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55818",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/818/055818_hanrei.pdf"
+}

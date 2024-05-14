@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 12,
+    "day": 6
+  },
+  "case_number": "平成22(行コ)4",
+  "case_name": "財産管理を怠る事実の違法確認請求控訴事件（原審・札幌地方裁判所平成１６年（行ウ）第８号）",
+  "court_name": "札幌高等裁判所第２民事部",
+  "result": "破棄自判",
+  "original_court_name": "札幌地方裁判所",
+  "original_case_number": "平成16(行ウ)8",
+  "original_result": "その他",
+  "gist": "市がその所有する土地を神社施設の敷地として無償で使用させている現状は，違憲状態ではあるが，その違憲性を解消する手段として合理的で現実的な手段を控訴人が提案している以上，控訴人において本件神社物件の撤去及び土地明渡しを請求しないことを，控訴人の財産管理上の裁量権を逸脱又は濫用するものと評価することはできず，地方自治法２４２条の２第１項３号所定の「財産の管理を怠る事実」には該当しないとして，一審判決中控訴人敗訴部分を取り消して被控訴人らの請求をいずれも棄却した事例。",
+  "lawsuit_id": "80926",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=80926",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/926/080926_hanrei.pdf",
+  "contents": ""
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 4,
+    "day": 19
+  },
+  "case_number": "昭和25(あ)1258",
+  "case_name": "恐喝",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第44号195頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 3,
+    "day": 24
+  },
+  "gist": "犯罪場所の判示の程度",
+  "case_gist": "犯罪の場所については犯罪構成要件に属しないから、犯行の同一性を特定し相当法条を適用し得る程度の判示があれば足りることは当裁判所判例の存するところである（昭和二四年（れ）第一七、五〇号同年一二月二二日。第一小法廷）。",
+  "ref_law": "刑訴法335条1項",
+  "lawsuit_id": "70909",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70909",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/909/070909_hanrei.pdf"
+}

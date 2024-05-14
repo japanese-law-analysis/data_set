@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 7,
+    "day": 20
+  },
+  "case_number": "平成17(ワ)2097",
+  "case_name": "損害賠償請求事件",
+  "court_name": "さいたま地方裁判所第６民事部",
+  "original_court_name": "さいたま地方裁判所",
+  "gist": "労災事故によって頸髄損傷の傷害を負ったとして提起された安全配慮義務違反に基づく損害賠償請求事件について，事故状況に関する原告本人の供述，頸髄損傷と診断した医師の診断書等の信用性を否定して，労災事故発生の事実が認められないとして請求を棄却した事例。",
+  "lawsuit_id": "35078",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=35078",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/078/035078_hanrei.pdf",
+  "contents": "/\n3 4\n"
+}

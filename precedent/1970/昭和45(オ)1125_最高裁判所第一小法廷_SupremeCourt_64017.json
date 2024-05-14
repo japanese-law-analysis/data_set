@@ -1,0 +1,21 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 4,
+    "day": 22
+  },
+  "case_number": "昭和45(オ)1125",
+  "case_name": "家屋収去土地明渡損害賠償請求（補正命令）",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "その他",
+  "article_info": "集民　第102号547頁",
+  "gist": "上告状および上告理由書の上告人表示欄の補正を命じた事例",
+  "case_gist": "（省略）",
+  "ref_law": "民訴法228条，民訴法567条，民訴法570条，民訴法597条",
+  "lawsuit_id": "64017",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64017",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/017/064017_hanrei.pdf"
+}

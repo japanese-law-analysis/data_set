@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 7,
+    "day": 29
+  },
+  "case_number": "昭和23(れ)335",
+  "case_name": "物価統制令違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第2巻9号1058頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 3,
+    "day": 2
+  },
+  "gist": "刑の執行を猶豫すべき情状と刑訴法第三六〇條第二項にいわゆる「刑ノ減兔ノ原由タル事實」",
+  "case_gist": "刑訴法第三六〇條第二項にいわゆる「刑ノ減兔ノ原由タル事實」とは刑の法律上減輕又は兔除を爲すべき事由を指すのであつて、刑の執行を猶豫すべき情状を含まない。",
+  "ref_law": "刑訴法360條2項，刑訴法410條20號",
+  "lawsuit_id": "56532",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56532",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/532/056532_hanrei.pdf"
+}

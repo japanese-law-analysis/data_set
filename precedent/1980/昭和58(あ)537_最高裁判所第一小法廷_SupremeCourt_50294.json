@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 9,
+    "day": 21
+  },
+  "case_number": "昭和58(あ)537",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第37巻7号1070頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 4,
+    "day": 4
+  },
+  "gist": "是非弁別能力を有する刑事未成年者を利用して窃盗を行つた者につき窃盗の間接正犯が成立するとされた事例",
+  "case_gist": "自己の日頃の言動に畏怖し意思を抑圧されている一二歳の養女を利用して窃盗を行つたと認められる判示の事実関係のもとにおいては、たとえ同女が是非善悪の判断能力を有する者であつたとしても、右利用者につき窃盗の間接正犯が成立する。",
+  "ref_law": "刑法41条，刑法60条，刑法61条，刑法235条",
+  "lawsuit_id": "50294",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50294",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/294/050294_hanrei.pdf"
+}

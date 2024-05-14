@@ -1,0 +1,18 @@
+{
+  "trial_type": "IPCase",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 12,
+    "day": 25
+  },
+  "case_number": "平成19(ワ)4544",
+  "case_name": "特許権侵害差止請求事件",
+  "court_name": "東京地方裁判所",
+  "right_type": "特許権",
+  "lawsuit_type": "民事訴訟",
+  "lawsuit_id": "35581",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail7?id=35581",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/581/035581_hanrei.pdf",
+  "contents": "a\nb\na\nb\na\nb\nc\nd\ne\na\nb\na\nb 1\nc 2\na\nb 1\nc 2\na\nb 1\nc 2\na\nb 1\nc 2\na\n4 a\nb\na\nc\na\nd\nc\na\nb\nc\nd\nelectronic ballast\nsub-circuit\ntiming resistor\npreheat resistor preheat frequency\nramp\ndisconnect\nramp\nramping\nramp\n"
+}

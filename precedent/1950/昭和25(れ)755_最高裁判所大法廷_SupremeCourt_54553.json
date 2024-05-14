@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 11,
+    "day": 28
+  },
+  "case_number": "昭和25(れ)755",
+  "case_name": "贈賄、収賄",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第5巻12号2429頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 1,
+    "day": 26
+  },
+  "gist": "戦時刑事特別法廃止法律附則第二項と憲法第九条",
+  "case_gist": "憲法九条は、将来に対し戦争の放棄、戦力の不保持、交戦権の否認を宣言したものであつて、戦時刑事特別法廃止法律が過去の戦時中の行爲に関して当時施行されて居た戦時刑事特別法の適用ある旨を規定したことは憲法九条の何等の関りもあるものではない。されば本件過去の戦時中の収賄行為について戦時刑事特別法を適用した原判決は何等違法はない。",
+  "ref_law": "憲法9条，戦時刑事特別法廃止法律（昭和20年12月法律47条）附則2項，戦時刑事特別法（昭和18年10月法律107号）18条の2",
+  "lawsuit_id": "54553",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54553",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/553/054553_hanrei.pdf"
+}

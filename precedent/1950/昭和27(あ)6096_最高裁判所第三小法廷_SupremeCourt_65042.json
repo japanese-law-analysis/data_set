@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 4,
+    "day": 6
+  },
+  "case_number": "昭和27(あ)6096",
+  "case_name": "窃盗、酒税法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第94号125頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 3,
+    "day": 31
+  },
+  "gist": "判例違反の主張を具体的に説明しない上告の適否",
+  "case_gist": "論旨援用のその余の高等裁判所判例については、原判決が如何なる趣旨でこれらの判例に反するかの具体的説明を欠いているから、判例違反の論旨として不適法である。",
+  "ref_law": "刑訴法405条3号，刑訴規則253条",
+  "lawsuit_id": "65042",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=65042",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/042/065042_hanrei.pdf"
+}

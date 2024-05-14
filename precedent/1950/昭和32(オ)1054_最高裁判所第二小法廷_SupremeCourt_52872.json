@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 7,
+    "day": 4
+  },
+  "case_number": "昭和32(オ)1054",
+  "case_name": "裁決取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第12巻11号1697頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 7,
+    "day": 31
+  },
+  "gist": "選挙立会人（開票立会人）に投票を点検せしめることなくまた意見を聴くこともなく投票の効力を決定した違法と選挙の効力。",
+  "case_gist": "選挙事務従事者が有効と判断した投票および白票の大部分について、選挙立会人（開票立会人）に点検せしめることなく、また意見を聴くこともなく選挙長（開票管理者）がその効力を決定した場合、その選挙は無効とすべきである。",
+  "ref_law": "公職選挙法66条，公職選挙法67条，公職選挙法205条1項",
+  "lawsuit_id": "52872",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52872",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/872/052872_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 12,
+    "day": 22
+  },
+  "case_number": "昭和34(オ)378",
+  "case_name": "家屋明渡等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第15巻12号2893頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 2,
+    "day": 13
+  },
+  "gist": "賃借人の相続人が数名ある場合と解除の意思表示。",
+  "case_gist": "賃借人が死亡し、相続人として妻および子がある場合は、特段の事情の認められないかぎり、子のみに対する賃貸借解除の意思表示を有効ということはできない。",
+  "ref_law": "民法544条",
+  "lawsuit_id": "52967",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52967",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/967/052967_hanrei.pdf"
+}

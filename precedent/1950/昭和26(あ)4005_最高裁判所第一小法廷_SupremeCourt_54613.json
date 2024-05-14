@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 3,
+    "day": 5
+  },
+  "case_number": "昭和26(あ)4005",
+  "case_name": "関税法違反、昭和二二年政令第一六五号違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "刑集　第7巻3号478頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 5,
+    "day": 21
+  },
+  "gist": "関税法旧第七六条の二の犯罪と同第八三条による沒収または追徴",
+  "case_gist": "昭和二五年四月三〇日法律第一一七号による改正前の関税法第七六条の二の犯罪にかかる貨物については同法第八三条によつてこれが沒収またはその原価の追徴をすることはできない。",
+  "ref_law": "昭和23年法律107号による改正後で、昭和25年4月30日法律117号による改正前の関税法76条の2，昭和23年法律107号による改正後で、昭和25年4月30日法律117号による改正前の関税法83条",
+  "lawsuit_id": "54613",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54613",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/613/054613_hanrei.pdf"
+}

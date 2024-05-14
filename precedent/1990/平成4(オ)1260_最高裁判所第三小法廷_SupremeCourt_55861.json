@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 7,
+    "month": 7,
+    "day": 18
+  },
+  "case_number": "平成4(オ)1260",
+  "case_name": "檀徒の地位確認",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第49巻7号2717頁",
+  "original_court_name": "高松高等裁判所",
+  "original_case_number": "平成3(ネ)391",
+  "original_date": {
+    "era": "Heisei",
+    "year": 4,
+    "month": 4,
+    "day": 30
+  },
+  "gist": "宗教法人における檀徒の地位が法律上の地位に当たるとされた事例",
+  "case_gist": "宗教法人において檀信徒名簿が備え付けられていて檀徒であることが右法人の代表役員を補佐する機関である総代に選任されるための要件とされ、予算編成、不動産の処分等の右法人の維持経営に係る諸般の事項の決定につき、総代による意見の表明を通じて檀徒の意見が反映される体制となっており、檀徒による右法人の維持経営の妨害行為が除名処分事由とされているという判示の事実関係の下においては、右法人における檀徒の地位は、具体的な権利義務ないし法律関係を含む法律上の地位ということができる。",
+  "ref_law": "裁判所法3条，民訴法225条",
+  "lawsuit_id": "55861",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55861",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/861/055861_hanrei.pdf"
+}

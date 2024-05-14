@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 9,
+    "day": 20
+  },
+  "case_number": "昭和26(れ)797",
+  "case_name": "傷害致死",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第5巻10号1937頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 3,
+    "day": 2
+  },
+  "gist": "一　傷害致死罪の成立と致死の結果の予見の要否\n二　二人以上の者が共謀しないで他人に暴行を加え傷害致死の結果を生じその傷害を生ぜしめた者を知ることができない場合の罪責",
+  "case_gist": "一　傷害致死罪の成立には傷害と死亡、との間の因果関係の存在を必要とするにとどまり、致死の結果についての予見は必要としないのであるから、原判決が所論傷害の結果たる致死の予見について判示しなかつたからといつて、原判決には所論理由不備の違法は存しない。\n二　二人以上の者が共謀しないで、他人に暴行を加え傷害致死の結果を生ぜしめた者を知ることができない場合は、共同暴行者はいずれも傷害致死の責任を負う。",
+  "ref_law": "刑法205条1項，刑法207条，旧刑訴法360条1項",
+  "lawsuit_id": "54675",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54675",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/675/054675_hanrei.pdf"
+}

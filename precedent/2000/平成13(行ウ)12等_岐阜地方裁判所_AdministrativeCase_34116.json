@@ -1,0 +1,19 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Heisei",
+    "year": 16,
+    "month": 5,
+    "day": 27
+  },
+  "case_number": "平成13(行ウ)12等",
+  "case_name": "公金返還，公金差止等請求事件",
+  "court_name": "岐阜地方裁判所",
+  "field": "行政",
+  "gist": "地方自治法が平成１４年法律第４号により改正された後に，訴えの追加的変更によって提起された違法な財務会計行為をしたとする市長個人に対して当該市の住民が市に代位してした損害賠償を求める訴えが，却下された事例",
+  "case_gist": "地方自治法が平成１４年法律第４号により改正された後に，訴えの追加的変更によって提起された違法な財務会計行為をしたとする市長個人に対して当該市の住民が市に代位してした損害賠償を求める訴えにつき，前記改正後にする訴えの追加的変更は，同改正後の同法２４２条の２第１項４号によることが必要と解され，個人としての市長には被告適格がないとして，前記訴えを却下した事例",
+  "lawsuit_id": "34116",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=34116",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/116/034116_hanrei.pdf",
+  "contents": ""
+}

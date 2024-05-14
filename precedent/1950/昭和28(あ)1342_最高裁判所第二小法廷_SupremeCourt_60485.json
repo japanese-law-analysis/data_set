@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 9,
+    "day": 14
+  },
+  "case_number": "昭和28(あ)1342",
+  "case_name": "賍物収受",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集刑　第114号641頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 12,
+    "day": 26
+  },
+  "gist": "刑訴法第四一一条三号に該当する一事例",
+  "case_gist": "Ａの本件被告人に対する本件衣料切符用紙譲渡の事実に関する警察殊に検察庁における供述には、にわかに措信し得ない前記のような諸点の事由があるにもかかわらず、同人の検察官に対する第一、二回供述調書の信用性乃至証明力について更に一段の深い検討を加えず、これを証拠に採つて事実を認定した原判決及び第一審判決には、いずれもその判決に影響を及ぼすべき重大な事実の誤認を疑うに足る顕著な事由があつて、共にこれを破棄しなければ著しく正義に反するものと認められる。",
+  "ref_law": "刑訴法411条3号",
+  "lawsuit_id": "60485",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60485",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/485/060485_hanrei.pdf"
+}

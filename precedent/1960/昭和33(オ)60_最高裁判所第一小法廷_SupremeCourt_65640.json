@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 12,
+    "day": 13
+  },
+  "case_number": "昭和33(オ)60",
+  "case_name": "競売売得金に対する優先権確認請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第63号591頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 10,
+    "day": 11
+  },
+  "gist": "破産者の通謀虚偽表示につき破産管財人は民法第九四条第二項の第三者にあたるか。",
+  "case_gist": "破産者が相手方と通じてある財産についてなした虚偽の意思表示ある場合、破産管財人は、その選任によつて当然に、右財産が破産財団に属するかどうかを主張するについて法律利害関係を有するに至り、民法第九四条第二項の第三者となる。",
+  "ref_law": "民法94条2項",
+  "lawsuit_id": "65640",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=65640",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/640/065640_hanrei.pdf"
+}

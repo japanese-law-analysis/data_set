@@ -1,0 +1,17 @@
+{
+  "trial_type": "LaborCase",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 7,
+    "day": 26
+  },
+  "case_number": "平成17(ワ)19115",
+  "case_name": "賃金等請求事件（通称　千代田ビル管財割増賃金請求）",
+  "court_name": "東京地方裁判所",
+  "field": "労働",
+  "lawsuit_id": "36464",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail6?id=36464",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/464/036464_hanrei.pdf",
+  "contents": "3 5\n8:00 17:00\n22:00 6:00\n8:00 12:00 3.5\n13:00 16:30\n6:00 8:00\n17:30 19:30\n18:00 20:30 2.5\n2 3\n2 3\n3 2\n3 5\n1 4\n3 1 2\n1 5\n8.5\n"
+}

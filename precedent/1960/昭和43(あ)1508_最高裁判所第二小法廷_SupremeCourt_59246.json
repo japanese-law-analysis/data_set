@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 3,
+    "day": 14
+  },
+  "case_number": "昭和43(あ)1508",
+  "case_name": "業務上過失傷害",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集刑　第170号685頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 6,
+    "day": 21
+  },
+  "gist": "控訴審の判断に採証法則違背ないし重大な事実誤認の疑いがあるとされた事例",
+  "case_gist": "被告人の弁解にそう証拠もあるのに、単に被告人が捜査段階でその証拠にそう弁解をしていないことなど（判文参照）を理由に、右弁解を排斥するのは、採証法則違背ないし重大な事実誤認の疑いがある。",
+  "ref_law": "刑法211条，刑訴法411条1号，刑訴法411条3号",
+  "lawsuit_id": "59246",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59246",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/246/059246_hanrei.pdf"
+}

@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 30,
+    "month": 2,
+    "day": 7
+  },
+  "case_number": "平成29(行ケ)1",
+  "case_name": "選挙無効請求事件",
+  "court_name": "名古屋高等裁判所民事第４部",
+  "result": "棄却",
+  "gist": "平成２９年１０月２２日に施行された衆議院議員総選挙の小選挙区選挙の選挙区割りに関する公職選挙法の規定及び同規定の定める選挙区割りは，憲法の投票価値の平等の要求に反する状態にあったというべきであるが，辛うじて憲法上要求される合理的期間内における是正がされなかったとはいえないとして，選挙無効確認請求が棄却された事例。",
+  "lawsuit_id": "87861",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=87861",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/861/087861_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 10,
+    "day": 13
+  },
+  "case_number": "昭和24(れ)1057",
+  "case_name": "常習賭博",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第3巻10号1650頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 2,
+    "day": 19
+  },
+  "gist": "憲法第三八條第三項と刑訴法第三一九條第二項",
+  "case_gist": "憲法第三八條第三項にいわゆる「本人の自白」と云う中には、判決裁判所の公判廷における被告人の自白を含まないと解しても右解釋は刑訴法第三一九條第二項の規定と矛盾しない。",
+  "ref_law": "憲法38條3項，刑訴法319條2項",
+  "lawsuit_id": "56620",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56620",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/620/056620_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 2,
+    "day": 21
+  },
+  "case_number": "昭和43(オ)1169",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第94号389頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和43(ネ)508",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 6,
+    "day": 27
+  },
+  "gist": "一、使用人の偽造手形の振出について民法七一五条の使用者責任が認められた事例\n二、過失相殺の割合と事実審の裁量",
+  "case_gist": "一、（省略）\n二、過失相殺における過失をしんしゃくした割合は事実審の裁量に属する。",
+  "ref_law": "民法715条，民法722条",
+  "lawsuit_id": "70320",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70320",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/320/070320_hanrei.pdf"
+}

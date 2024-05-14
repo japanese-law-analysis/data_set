@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 8,
+    "day": 7
+  },
+  "case_number": "昭和32(オ)508",
+  "case_name": "離婚届出無効確認請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第13巻10号1251頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 3,
+    "day": 25
+  },
+  "gist": "協議離婚届出書作成後の飜意と届出の効力。",
+  "case_gist": "合意により協議離婚届書を作成した一方の当事者が、届出を相手方に委託した後、協議離婚を飜意し、右飜意を市役所戸籍係員に表示しており、相手方によつて届出がなされた当時、離婚の意思を有しないことが明確であるときは、相手方に対する飜意の表示または届出委託の解除の事実がなくとも、協議離婚届出が無効でないとはいえない。",
+  "ref_law": "民法763条，民法764条，民法742条，民法802条",
+  "lawsuit_id": "56217",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56217",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/217/056217_hanrei.pdf"
+}

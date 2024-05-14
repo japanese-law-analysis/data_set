@@ -1,0 +1,18 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 12,
+    "day": 19
+  },
+  "case_number": "昭和60(行ス)61",
+  "case_name": "被告変更申立却下決定に対する即時抗告申立事件（原審・東京地方裁判所昭和６０年（行ク）第１０５号）",
+  "court_name": "東京高等裁判所",
+  "field": "行政",
+  "gist": "県の地方振興局長がした生活保護受給廃止決定処分及び県知事がした右処分の審査請求に対する棄却裁決の各取消しを求める訴えにおいて，被告を厚生省に変更することの許可を求める申立てにつき，右訴えは，被告を国と表示して提起されたもので，被告とすべき者を誤った訴えであるが，厚生省は，およそ行政事件訴訟における当事者能力を欠くものであるから，行政事件訴訟法１５条にいう「新たな被告」に当たらず，このような者への変更申立ては許されないとした事例",
+  "lawsuit_id": "35917",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=35917",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/917/035917_hanrei.pdf",
+  "contents": ""
+}

@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 23,
+    "month": 2,
+    "day": 22
+  },
+  "case_number": "平成21(受)1260",
+  "case_name": "土地建物共有持分権確認請求事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第65巻2号699頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成20(ネ)6006",
+  "original_date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 4,
+    "day": 15
+  },
+  "gist": "「相続させる」旨の遺言により遺産を相続させるものとされた推定相続人が遺言者の死亡以前に死亡した場合における当該遺言の効力",
+  "case_gist": "遺産を特定の推定相続人に単独で相続させる旨の遺産分割の方法を指定する「相続させる」旨の遺言は，当該遺言により遺産を相続させるものとされた推定相続人が遺言者の死亡以前に死亡した場合には，当該「相続させる」旨の遺言に係る条項と遺言書の他の記載との関係，遺言書作成当時の事情及び遺言者の置かれていた状況などから，遺言者が，上記の場合には，当該推定相続人の代襲者その他の者に遺産を相続させる旨の意思を有していたとみるべき特段の事情のない限り，その効力を生ずることはない。",
+  "ref_law": "民法887条，民法908条，民法985条",
+  "lawsuit_id": "81092",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=81092",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/092/081092_hanrei.pdf",
+  "contents": ""
+}

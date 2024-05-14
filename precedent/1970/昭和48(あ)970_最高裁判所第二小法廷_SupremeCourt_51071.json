@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 12,
+    "day": 16
+  },
+  "case_number": "昭和48(あ)970",
+  "case_name": "宅地建物取引業法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第28巻10号833頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 3,
+    "day": 22
+  },
+  "gist": "宅地建物取引業法（昭和四六年法律第一一〇号による改正前のもの）一二条一項にいう「宅地建物取引業を営む」の意義",
+  "case_gist": "宅地建物取引業法（昭和四六年法律第一一〇号による改正前のもの）一二条一項にいう「宅地建物取引業を営む」とは、営利の目的で反復継続して行う意思のもとに宅地建物取引業法二条二号所定の行為をなすことをいう。",
+  "ref_law": "宅地建物取引業法2条2号，宅地建物取引業法（昭和46年法律110号による改正前のもの）3条1項，宅地建物取引業法（昭和46年法律110号による改正前のもの）12条1項，宅地建物取引業法（昭和46年法律110号による改正前のもの）24条2号",
+  "lawsuit_id": "51071",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51071",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/071/051071_hanrei.pdf"
+}

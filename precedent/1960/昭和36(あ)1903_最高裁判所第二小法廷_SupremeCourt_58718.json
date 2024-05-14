@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 1,
+    "day": 24
+  },
+  "case_number": "昭和36(あ)1903",
+  "case_name": "道路運送法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第150号249頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 6,
+    "day": 22
+  },
+  "gist": "自動車運送事業の経営の全面的な免許制の合憲性。",
+  "case_gist": "自動車運送事業の経営の全面的な免許制が憲法第一三条、第二二条の各規定に違反するものでないことは、当裁判所大法廷の判例（昭和三五年（あ）第二八五四号同三八年一二月四日判決）の趣旨に徴し明らかである。",
+  "ref_law": "道路運送法1条，道路運送法2条，道路運送法4条，道路運送法128条1号，憲法13条，憲法22条",
+  "lawsuit_id": "58718",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58718",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/718/058718_hanrei.pdf"
+}

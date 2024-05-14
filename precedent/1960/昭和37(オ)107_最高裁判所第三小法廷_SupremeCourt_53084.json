@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 11,
+    "day": 17
+  },
+  "case_number": "昭和37(オ)107",
+  "case_name": "詐害行為取消請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第18巻9号1851頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 7,
+    "day": 5
+  },
+  "gist": "債務者の適正価格による財産処分行為が詐害行為にあたるとされた事例。",
+  "case_gist": "債務超過の債務者が、とくにある債権者と通謀して、右債権者だけに優先的に債権の満足を得させる意図のもとに、自己の有する重要な財産を右債権者に売却して、右売買代金債権と同債権者の有する債権とを相殺する旨の約定をした場合には、たとえ右売買価格が適正価格であるとしても、右売却行為は民法第四二四条所定の詐害行為にあたるものと解すべきである。",
+  "ref_law": "民法424条",
+  "lawsuit_id": "53084",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53084",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/084/053084_hanrei.pdf"
+}

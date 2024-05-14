@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 1,
+    "day": 21
+  },
+  "case_number": "昭和45(オ)771",
+  "case_name": "和解無効確認、抹消登記の回復登記請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第105号13頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和43(ネ)2791",
+  "original_date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 5,
+    "day": 20
+  },
+  "gist": "訴訟の終了を宣言した判決の既判力の範囲",
+  "case_gist": "訴訟上の和解が成立したことによつて訴訟が終了したことを宣言した判決は、訴訟が終了したことを確定する訴訟判決であつて、訴訟上の和解が有効であるとの点について既判力を有しない。",
+  "ref_law": "民訴法199条1項，民訴法203条",
+  "lawsuit_id": "62001",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62001",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/001/062001_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 3,
+    "day": 13
+  },
+  "case_number": "昭和57(あ)1367",
+  "case_name": "競馬法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第38巻5号1984頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 8,
+    "day": 31
+  },
+  "gist": "競馬法三二条の二にいう「その競走に関して賄ろを収受し」た場合にあたるとされた事例",
+  "case_gist": "競馬の騎手が、勝馬投票をしようとする者に対し、特定の競走に関して、自己が騎乗して出走する予定の競走馬の体調、勝敗の予想等の情報を提供し、その対価として利益の供与を受けたときは、競馬法三二条の二にいう「その競走に関して賄ろを収受し」た場合にあたる。",
+  "ref_law": "競馬法32条の2",
+  "lawsuit_id": "50250",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50250",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/250/050250_hanrei.pdf"
+}

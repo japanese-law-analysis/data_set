@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 11,
+    "day": 27
+  },
+  "case_number": "昭和40(オ)417",
+  "case_name": "補償金請求",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第22巻12号2808頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和38(ネ)528",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 1,
+    "day": 30
+  },
+  "gist": "平和条約第一四条（ａ）項２（１）による在外資産の喪失と国に対する補償請求の許否",
+  "case_gist": "平和条約が締結された結果、同条約第一四条（ａ）項２（１）の規定により在外資産を喪失した者は、国に対しその喪失による損害について補償を請求することはできない。",
+  "ref_law": "日本国との平和条約14条（ａ）項2（1），憲法29条3項",
+  "lawsuit_id": "54996",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54996",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/996/054996_hanrei.pdf"
+}

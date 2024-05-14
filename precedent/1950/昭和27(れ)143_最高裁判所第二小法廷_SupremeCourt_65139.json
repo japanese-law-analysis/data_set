@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 10,
+    "day": 31
+  },
+  "case_number": "昭和27(れ)143",
+  "case_name": "背任、業務上横領、無尽業法違反、公正証書原本不実記載行使",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第68号837頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 9,
+    "day": 29
+  },
+  "lawsuit_id": "65139",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=65139",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/139/065139_hanrei.pdf"
+}

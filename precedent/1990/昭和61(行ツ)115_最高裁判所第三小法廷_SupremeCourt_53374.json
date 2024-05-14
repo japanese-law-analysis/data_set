@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 4,
+    "month": 7,
+    "day": 14
+  },
+  "case_number": "昭和61(行ツ)115",
+  "case_name": "所得税更正処分等取消",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第46巻5号492頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和60(行コ)41",
+  "original_date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 3,
+    "day": 31
+  },
+  "gist": "個人の居住の用に供される不動産を取得するための借入金の利子と所得税法三八条一項にいう「資産の取得に要した金額」",
+  "case_gist": "個人の居住の用に供される不動産の譲渡による譲渡所得の金額の計算上、当該不動産の取得のために代金の全部又は一部の借入れをした場合における借入金の利子は、当該不動産の使用開始の日以前の期間に対応するものに限り、所得税法三八条一項にいう「資産の取得に要した金額」に含まれる。",
+  "ref_law": "所得税法38条1項",
+  "lawsuit_id": "53374",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53374",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/374/053374_hanrei.pdf"
+}

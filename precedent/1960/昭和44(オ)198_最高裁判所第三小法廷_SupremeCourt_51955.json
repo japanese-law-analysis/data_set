@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 11,
+    "day": 4
+  },
+  "case_number": "昭和44(オ)198",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第23巻11号1951頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和42(ネ)1027",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 12,
+    "day": 13
+  },
+  "gist": "権利能力なき財団が認められた事例",
+  "case_gist": "財団法人設立のため、その趣旨に賛同する者から寄附金を収受し、役員として理事長、理事、評議員を選出し、常勤執行機関として事務総局事務総長を選任したうえ、右寄附金中の一定額を基本財産として特定個人名義で銀行に定期預金とし、民法所定の事項を含む寄附行為を作成して、財団法人設立許可申請手続を推進していたものは、いわゆる権利能力なき財団と認めるのが相当である。",
+  "ref_law": "民法34条，民法43条",
+  "lawsuit_id": "51955",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51955",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/955/051955_hanrei.pdf"
+}

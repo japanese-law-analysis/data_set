@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 6,
+    "day": 21
+  },
+  "case_number": "昭和33(あ)1008",
+  "case_name": "職業安定法違反、暴行",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第138号523頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 4,
+    "day": 7
+  },
+  "gist": "数名の求職者についての職業紹介（職業安定法第六三条第二号違反）は包括一罪か、併合罪か。",
+  "case_gist": "職業安定法第六三条第二号違反の罪は、各求職者ごとに成立し、職業犯のような集合犯ではないから、数名の求職者についての雇用関係の斡旋行為の成立時期を異にするときは、包括一罪をもつて問擬すべきものでなく、併合罪として処断すべきものであるとした原判示は正当である。",
+  "ref_law": "職業安定法63条2号，刑法45条",
+  "lawsuit_id": "61114",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61114",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/114/061114_hanrei.pdf"
+}

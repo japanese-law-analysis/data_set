@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 11,
+    "day": 19
+  },
+  "case_number": "昭和28(あ)2072",
+  "case_name": "傷害",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第88号581頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 12,
+    "day": 16
+  },
+  "gist": "証人尋問期日通知書の送達の不適法と憲法第三七条第二項（証人尋問期日通知書の送達に関する違背とその治癒）",
+  "case_gist": "証人尋問期日通知書の送達が不適法であつたため弁護人が出頭できなかつた違法があつたとしても、原審第二回公判期日に所論の各証人尋問調書は朗読されており、これに対し弁護人から何らの請求も異議の申立もなされておらず、却つて弁護人において尋問調書を弁論に援用しているのであるから、右違法は判決に影響を及ぼすものとは認められないのであつて、所論は理由がない。",
+  "ref_law": "憲法37条2項，刑訴法157条，刑訴法393条，刑訴法411条1号",
+  "lawsuit_id": "72715",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=72715",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/715/072715_hanrei.pdf"
+}

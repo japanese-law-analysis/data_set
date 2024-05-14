@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 6,
+    "day": 27
+  },
+  "case_number": "昭和59(あ)1087",
+  "case_name": "収賄",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第40巻4号369頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 7,
+    "day": 12
+  },
+  "gist": "市長の再選後に担当すべき職務に関し受託収賄罪が成立するとされた事例",
+  "case_gist": "市の発注する工事に関し入札参加者の氏名及び入札の執行を管理する職務権限をもつ市長が、任期満了の前に、再選された場合に具体的にその職務を執行することが予定されていた市庁舎の建設工事の入札等につき請託を受けて賄賂を収受したときは、受託収賄罪が成立する。",
+  "ref_law": "刑法197条1項（昭和55年法律30号による改正前のもの）",
+  "lawsuit_id": "50311",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50311",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/311/050311_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 6,
+    "day": 7
+  },
+  "case_number": "昭和29(オ)89",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第9巻7号865頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 12,
+    "day": 22
+  },
+  "gist": "賃貸中の建物を自己使用の目的で買受けた場合と解約申入の正当事由の判断",
+  "case_gist": "賃貸中の建物を自己使用の目的で買受た者が、解約できるものは、必ずしも建物買受後、事情の変動を生じた場合に限るものではなく、新所有者の解約申入に正当事由があるかどうかは、右買受の前後の事情一切を参酌し、賃借人側の居住の安定と新所有者の自己使用の必要との双方の利害を比較考量して判断すべきである。",
+  "ref_law": "借家法1条ノ2",
+  "lawsuit_id": "57549",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57549",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/549/057549_hanrei.pdf"
+}

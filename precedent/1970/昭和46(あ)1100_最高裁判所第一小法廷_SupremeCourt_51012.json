@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 5,
+    "day": 4
+  },
+  "case_number": "昭和46(あ)1100",
+  "case_name": "業務上過失死傷",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "刑集　第26巻4号255頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 3,
+    "day": 26
+  },
+  "gist": "信号が黄色燈火表示に変つた場合と自動車運転者の業務上の注意義務",
+  "case_gist": "車両が最高制限速度をこえる速度で交差点に接近中、その対面信号が黄色灯火表示に変つたのが、最高制限速度で走行していたとしても交差点入口までに安全に停止することができない地点であつた場合には、該車両がそのまま交差点を通過しようとしたからといつて、その運転者に黄色燈火表示を無視した注意義務違反があるということはできない。",
+  "ref_law": "刑法211条前段，道路交通法4条4項，道路交通法施行令（昭和45年政令227号による改正前のもの）2条1項",
+  "lawsuit_id": "51012",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51012",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/012/051012_hanrei.pdf"
+}

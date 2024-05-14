@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 12,
+    "month": 7,
+    "day": 17
+  },
+  "case_number": "平成8(あ)831",
+  "case_name": "わいせつ誘拐、殺人、死体遺棄被告事件（再審事件あり（無罪）：宇都宮地方裁判所平成１４年（た）第４号）",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第54巻6号550頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成5(う)848",
+  "original_date": {
+    "era": "Heisei",
+    "year": 8,
+    "month": 5,
+    "day": 9
+  },
+  "gist": "いわゆるＭＣＴ１１８ＤＮＡ型鑑定の証拠としての許容性",
+  "case_gist": "科学的原理が理論的正確性を有するいわゆるＭＣＴ１１８ＤＮＡ型鑑定は、技術を習得した者により科学的に信頼される方法で実施された場合には証拠として用いることが許される。",
+  "ref_law": "刑訴法317条，刑訴法318条，刑訴法321条4項",
+  "lawsuit_id": "51227",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51227",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/227/051227_hanrei.pdf"
+}

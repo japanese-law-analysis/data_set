@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 3,
+    "day": 7
+  },
+  "case_number": "昭和28(あ)5352",
+  "case_name": "麻薬取締法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第10巻3号293頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 10,
+    "day": 22
+  },
+  "gist": "阿片を採取した残滓である、阿片アルカロイドを含有するケシガラと昭和二八年法律第一四号および昭和二九年法律第七一号による改正前の各麻薬取締法の麻薬。",
+  "case_gist": "阿片を採取した残滓である、阿片アルカロイドを含有するケシガラは、昭和二八年法律第一四号および昭和二九年法律第七一号による改正前の各麻薬取締法の麻薬にあたる。",
+  "ref_law": "旧麻薬取締法（昭和23年法律123号）1条4号，旧麻薬取締法（昭和23年法律123号）3条1項，旧麻薬取締法（昭和23年法律123号）57条，麻薬取締法（昭和28年法律14号）2条1号別表24，麻薬取締法（昭和28年法律14号）65条，麻薬取締法（昭和28年法律14号）附則2項16項，あへん法附則7号8号",
+  "lawsuit_id": "51302",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51302",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/302/051302_hanrei.pdf"
+}

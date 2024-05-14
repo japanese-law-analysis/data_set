@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 6,
+    "day": 9
+  },
+  "case_number": "昭和22(れ)334",
+  "case_name": "収賄",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第2巻7号658頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 10,
+    "day": 23
+  },
+  "gist": "警察官による不法拘禁とその手續の合法性",
+  "case_gist": "勾留状なくして被告人を警察に留置した違法があつたとしてもそれが爲爾後の手續がすべて違法になるものではない。",
+  "ref_law": "憲法33條，憲法34條",
+  "lawsuit_id": "55223",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55223",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/223/055223_hanrei.pdf"
+}

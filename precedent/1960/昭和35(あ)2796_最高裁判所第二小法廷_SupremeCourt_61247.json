@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 5,
+    "day": 24
+  },
+  "case_number": "昭和35(あ)2796",
+  "case_name": "強盗殺人",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第138号163頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 10,
+    "day": 3
+  },
+  "gist": "強盗殺人行為に対する擬律",
+  "case_gist": "一　刑法第二四〇条後段の罪は、強盗犯人が故意に人を死に致した場合及び傷害に因り人を死に致した場合の両者を包含するものであつて、強盗罪と殺人罪との結合罪又は強盗罪と傷害致死罪との結合罪にほかならず、従つて、強盗殺人罪についてはただ刑法第二四〇条後段のみを適用すれば足ること、つとに大審院判例の示すところであつて、今なお、これを変更するの要を認めない。\n二　註。大審院判例大正一一年（れ）第一二五三号同年一二月二二判決刑集一巻八一五頁昭和八年（れ）第一四六一号同年一一月三〇日判決刑集一二巻二一七七頁",
+  "ref_law": "刑法240条，刑法199条",
+  "lawsuit_id": "61247",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61247",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/247/061247_hanrei.pdf"
+}

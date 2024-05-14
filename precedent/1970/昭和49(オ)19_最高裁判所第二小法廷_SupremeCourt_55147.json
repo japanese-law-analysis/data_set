@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 12,
+    "day": 6
+  },
+  "case_number": "昭和49(オ)19",
+  "case_name": "配当異議",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第28巻10号1841頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和46(ネ)268",
+  "original_date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 10,
+    "day": 25
+  },
+  "gist": "抵当権の実行による競売手続と債務者又は抵当不動産の所有者を原告とする配当異議訴訟の適否",
+  "case_gist": "抵当権の実行による不動産競売手続において配当表が作成された場合、配当期日に出頭した債務者又は抵当不動産の所有者が債権者の債権に対し異議を申し立て期日に異議が完結しなかつたときは、右債務者又は所有者は、配当表に対する異議の訴を提起することができる。",
+  "ref_law": "民訴法698条，競売法33条2項",
+  "lawsuit_id": "55147",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55147",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/147/055147_hanrei.pdf"
+}

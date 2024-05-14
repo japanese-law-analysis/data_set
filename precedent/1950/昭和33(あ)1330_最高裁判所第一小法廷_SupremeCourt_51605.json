@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 4,
+    "day": 23
+  },
+  "case_number": "昭和33(あ)1330",
+  "case_name": "横須賀市風紀取締条例違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第13巻4号450頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 5,
+    "day": 17
+  },
+  "gist": "一　横須賀市風紀取締条例は憲法第三一条、地方自治法第一四条に違反するか\n二　右条例第二条の趣旨",
+  "case_gist": "一　横須賀市風紀取締条例（昭和二六年横須賀市条例第七三号）は、憲法第三一条、地方自治法第一四条に違反しない。\n二　右条例第二条は、売春の主体を女性のみに限定しているものではない。",
+  "ref_law": "憲法31条，憲法34条，地方自治法14条，横須賀市風紀取締条例2条，横須賀市風紀取締条例7条",
+  "lawsuit_id": "51605",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51605",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/605/051605_hanrei.pdf"
+}

@@ -1,0 +1,18 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Heisei",
+    "year": 28,
+    "month": 11,
+    "day": 30
+  },
+  "case_number": "平成27(行ウ)421",
+  "case_name": "固定資産税等賦課処分取消請求事件",
+  "court_name": "東京地方裁判所",
+  "field": "行政",
+  "gist": "駐車場が地方税法３４９条の３の２第１項に定める併用住宅の敷地の用に供されている土地に該当する場合",
+  "case_gist": "駐車場が地方税法３４９条の３の２第１項に定めるいわゆる併用住宅（その一部を人の居住の用に供する家屋で政令で定めるもの）の敷地の用に供されている土地に該当するといえるためには，当該併用住宅である家屋を維持し又はその効用を果たすために使用されている一画地の土地に含まれていれば足り，専ら当該住宅の居住者のための施設であることや専ら居住者自らが利用する施設であることを要しない。",
+  "lawsuit_id": "86950",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=86950",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/950/086950_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 2,
+    "day": 11
+  },
+  "case_number": "昭和39(オ)936",
+  "case_name": "請求異議等",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第77号379頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_case_number": "昭和38(ネ)91",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 5,
+    "day": 13
+  },
+  "gist": "不動産引渡命令に対する請求意義の訴の許否。",
+  "case_gist": "競売法第三二条第二項により準用される民訴法第六八七条によつて発せられた不動産引渡命令は、その性質が執行の方法にほかならないから、右命令の相手方をされた者がその執行の排除を求めるために請求異議の訴を提起することは許されない。",
+  "ref_law": "競売法32条2項，民訴法687条，民訴法559条1号，民訴法545条",
+  "lawsuit_id": "77761",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77761",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/761/077761_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 11,
+    "day": 26
+  },
+  "case_number": "昭和44(あ)2105",
+  "case_name": "業務上過失致死",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集刑　第182号163頁",
+  "original_court_name": "仙台高等裁判所\n        　秋田支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 9,
+    "day": 11
+  },
+  "gist": "訴因と異なる態様の過失を認定するにつき訴因変更手続を要するとされた事例",
+  "case_gist": "被告人の過失が、訴因においては、酒に酔い注意力が散漫になつたのであるから運転を断念すべきであるのに自車の運転を開始し、的確な前方注視ができないまま漫然進行した過失であるとされているのに対し、自車を運転進行中、路上に仰臥していた被害者を発見して一旦停止し、下車して同人を道路左端に移し再び発進した際、右被害者の動静に注意し前方を注視しながら進行することを怠つた過失であると認定するには、訴因の変更手続を必要とする。",
+  "ref_law": "刑訴法312条",
+  "lawsuit_id": "76044",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=76044",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/044/076044_hanrei.pdf"
+}

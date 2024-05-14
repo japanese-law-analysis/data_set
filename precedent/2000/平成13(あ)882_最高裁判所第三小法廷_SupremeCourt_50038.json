@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 13,
+    "month": 11,
+    "day": 12
+  },
+  "case_number": "平成13(あ)882",
+  "case_name": "覚せい剤取締法違反，有印私文書偽造，同行使被告事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第55巻6号731頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "平成12(う)486",
+  "original_date": {
+    "era": "Heisei",
+    "year": 13,
+    "month": 5,
+    "day": 8
+  },
+  "gist": "覚せい剤取締法４１条の２第１項にいう覚せい剤の所持に当たらないとされた事例",
+  "case_gist": "夜間相当数の客が出入りするいわゆるラブホテルの４階の客室に宿泊した者が，同室の窓から直線距離で約１２ｍ，水平距離で約４ｍ離れた同ホテル敷地内の駐車場の通路上に，覚せい剤の入ったセカンドバッグを投げ，同バッグを取り戻しに行くことなく翌朝までこれを放置し，一時同バッグを投げたこと自体の記憶も不確かになっていた上，その間に同バッグが第三者によって発見されるまで６時間以上経過していたなど判示の事実関係の下では，同バッグが発見された時点において，その覚せい剤を所持していたとはいえない。",
+  "ref_law": "覚せい剤取締法14条，覚せい剤取締法41条の2第1項",
+  "lawsuit_id": "50038",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50038",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/038/050038_hanrei.pdf"
+}

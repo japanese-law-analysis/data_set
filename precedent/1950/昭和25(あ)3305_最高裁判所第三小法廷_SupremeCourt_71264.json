@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 3,
+    "day": 11
+  },
+  "case_number": "昭和25(あ)3305",
+  "case_name": "賍物寄藏",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第62号343頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 8,
+    "day": 2
+  },
+  "gist": "検察官が在監者をいわゆる在延証人として尋問した場合と証言の証拠能力",
+  "case_gist": "所論の証人Ａがたとえ当時本件に関連する窃盗被告事件のため未決勾留中で上田拘置所に在監していたのを検察官の命令で第一審公判延に出頭させ、検察官からいわゆる在延証人として尋問したものであつてもその故を以つて同証人が検察官に畏怖迎合して供述したものとは速断できないのであつて、所論は結局事実審の専権に属する証拠の証明力に関する判断を非難するもので採るを得ない。",
+  "ref_law": "刑訴法143条，刑訴法318条",
+  "lawsuit_id": "71264",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=71264",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/264/071264_hanrei.pdf"
+}

@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 12,
+    "day": 26
+  },
+  "case_number": "平成16(行ウ)42",
+  "case_name": "損害賠償行為請求事件",
+  "court_name": "京都地方裁判所第３民事部",
+  "gist": "京都市が行った教職員への委託料の支出が地方自治法204条の2に反する違法な支出であるとして，京都市長に対して，支出決定を行った職員を相手方として地方自治法243条の2所定の損害賠償命令をし，支出の根拠となる政策決定を行った市職員を相手方として損害賠償請求をするよう命じた事例",
+  "lawsuit_id": "35605",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=35605",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/605/035605_hanrei.pdf",
+  "contents": ""
+}

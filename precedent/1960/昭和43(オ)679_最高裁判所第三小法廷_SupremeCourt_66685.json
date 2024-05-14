@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 10,
+    "day": 8
+  },
+  "case_number": "昭和43(オ)679",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第92号501頁",
+  "original_court_name": "高松高等裁判所",
+  "original_case_number": "昭和41(ネ)81",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 3,
+    "day": 29
+  },
+  "gist": "受取人欄白地の手形による支払のための呈示の効力",
+  "case_gist": "白地手形による支払のための呈示は無効であつてその呈示期間経過後の補充により右呈示が遡つて有効になるものでないことは当裁判所の判例であり（昭三三年三月七日第二小法廷判決、民集一二巻三号五一一頁）、右につき、受取人欄白地の手形を別異に解することはできない。",
+  "ref_law": "手形法38条，手形法53条，手形法10条，手形法77条",
+  "lawsuit_id": "66685",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66685",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/685/066685_hanrei.pdf"
+}

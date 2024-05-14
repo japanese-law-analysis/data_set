@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 3,
+    "day": 28
+  },
+  "case_number": "昭和37(あ)1931",
+  "case_name": "背任、業務上横領",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第17巻2号166頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 7,
+    "day": 18
+  },
+  "gist": "刑法第二四七条にいわゆる「財産上ノ損害ヲ加ヘタルトキ」の意義。",
+  "case_gist": "刑法第二四七条にいわゆる「財産上ノ損害ヲ加ヘタルトキ」とは、財産上の実害を発生させた場合のみでなく、実害発生の危険を生じさせた場合をも包含する。",
+  "ref_law": "刑法247条",
+  "lawsuit_id": "57002",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57002",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/002/057002_hanrei.pdf"
+}

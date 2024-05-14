@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 5,
+    "day": 31
+  },
+  "case_number": "昭和26(あ)1728",
+  "case_name": "酒税法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第64号817頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 10,
+    "day": 13
+  },
+  "gist": "懲役刑と罰金刑と併科する場合に、特に併科を相当とする情状を判示することの要否",
+  "case_gist": "懲役刑と罰金刑とを併科するに当つて特に併科を相当とする情状を判示する必要はない。",
+  "ref_law": "酒税法（昭和24年法律43号による改正前）60条，刑訴法335条，刑訴法378条4号",
+  "lawsuit_id": "64516",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64516",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/516/064516_hanrei.pdf"
+}

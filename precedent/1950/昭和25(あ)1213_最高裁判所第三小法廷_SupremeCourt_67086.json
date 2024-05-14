@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 8,
+    "day": 9
+  },
+  "case_number": "昭和25(あ)1213",
+  "case_name": "窃盗、賍物故買",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第51号301頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 3,
+    "day": 23
+  },
+  "gist": "一　「被告人の自白の真実であることが肯認され得るもの」云々の意味\n\n二　補強証拠としての共同被告人の供述",
+  "case_gist": "所論昭和二三年（れ）第一一二号、同年七月一四日大法廷判決の判例は「自白を補強する証拠はそれによつて自白の真実であることが肯認され得るものであることを要するが補強証拠の種類については法定の制限はない」云々と言い、共同被告人の供述と難も補強証拠たるに妨ない趣旨を判示したものであつて「被告人の自白の真実である事が肯認され得るもの」云々の意味は前掲昭和二四年（れ）第八二九号、同二五年一一月二九日大法廷判決に「被告人の自白の真実性が保障せられると認められる」云々というのと同趣旨であつて、それ以外何等特別の判示をしたものではない。",
+  "ref_law": "憲法38条3項，刑訴法319条2項",
+  "lawsuit_id": "67086",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=67086",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/086/067086_hanrei.pdf"
+}

@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 11,
+    "day": 24
+  },
+  "case_number": "平成22(行ウ)2",
+  "case_name": "個人情報非開示決定処分取消及び個人情報開示処分義務付け請求事件",
+  "court_name": "岐阜地方裁判所",
+  "result": "その他",
+  "gist": "本巣市議会による，本巣市個人情報保護条例に基づく「議会の規律に関する検討委員会の議事録及び議事を録音しているもの」の開示請求についての非公開決定が違法であるとされ，処分の取消及び情報の開示の義務付けが認められた事例",
+  "lawsuit_id": "81158",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=81158",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/158/081158_hanrei.pdf",
+  "contents": ""
+}

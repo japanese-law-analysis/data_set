@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 2,
+    "day": 23
+  },
+  "case_number": "昭和33(オ)616",
+  "case_name": "未墾地買収無効確認請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第58号853頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 2,
+    "day": 26
+  },
+  "gist": "未墾地買収計画を地主に通知することの要否",
+  "case_gist": "農地委員会は、未墾地買収計画を定めたときは、遅滞なくその旨を公告し一定書類を一定期間縦覧に供すれば足り、地主に通知することを要しない。",
+  "ref_law": "自作農創設特別措置法31条4項",
+  "lawsuit_id": "63318",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63318",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/318/063318_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 14,
+    "month": 3,
+    "day": 12
+  },
+  "case_number": "平成12(受)890",
+  "case_name": "配当異議事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第56巻3号555頁",
+  "original_court_name": "高松高等裁判所",
+  "original_case_number": "平成11(ネ)315",
+  "original_date": {
+    "era": "Heisei",
+    "year": 12,
+    "month": 3,
+    "day": 31
+  },
+  "gist": "抵当権の物上代位の目的となる債権に対する転付命令の効力",
+  "case_gist": "抵当権の物上代位の目的となる債権に対する転付命令は，これが第三債務者に送達される時までに抵当権者により当該債権の差押えがなされなかったときは，その効力を妨げられない。",
+  "ref_law": "民法304条1項，民法372条，民事執行法159条，民事執行法160条，民事執行法193条",
+  "lawsuit_id": "52303",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52303",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/303/052303_hanrei.pdf"
+}

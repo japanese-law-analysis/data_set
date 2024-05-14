@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 3,
+    "day": 13
+  },
+  "case_number": "昭和57(行ツ)78",
+  "case_name": "懲戒処分取消",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第40巻2号258頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和53(行コ)2",
+  "original_date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 11,
+    "day": 27
+  },
+  "gist": "市町村教育委員会が地方教育行政の組織及び運営に関する法律三八条一項の内申をしない場合と都道府県教育委員会の任命権の行使",
+  "case_gist": "市町村教育委員会が地方教育行政の組織及び運営に関する法律三八条一一項の内申をしない場合であつても、内申をしないことが、服務監督者としてとるべき措置を怠るものであり、人事管理上著しく適正を欠くときは、都道府県教育委員会は、県費負担教職員に対し懲戒その他の任命権の行使をすることができる。",
+  "ref_law": "地方教育行政の組織及び運営に関する法律37条1項，地方教育行政の組織及び運営に関する法律38条1項，地方教育行政の組織及び運営に関する法律43条1項",
+  "lawsuit_id": "52173",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52173",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/173/052173_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 6,
+    "day": 18
+  },
+  "case_number": "昭和37(オ)1404",
+  "case_name": "利得償還請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第66号547頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 9,
+    "day": 18
+  },
+  "gist": "小切手の割引取得者は民法第九六条第三項の第三者に該当するか。",
+  "case_gist": "小切手を割引により取得した者は、小切手振出の原因関係たる売買契約の取消につき、民法第九六条第三項の第三者に該当しない。",
+  "ref_law": "民法96条",
+  "lawsuit_id": "66072",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66072",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/072/066072_hanrei.pdf"
+}

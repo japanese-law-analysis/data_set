@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 2,
+    "month": 2,
+    "day": 20
+  },
+  "case_number": "昭和59(オ)1088",
+  "case_name": "立替金",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第159号151頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和58(ネ)686",
+  "original_date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 6,
+    "day": 27
+  },
+  "gist": "割賦販売法三〇条の四第一項新設前の個品割賦購入あつせんにおける売買契約上の抗弁とあつせん業者に対する対抗の可否",
+  "case_gist": "割賦販売法三〇条の四第一項新設前の個品割賦購入あつせんにおいて、購入者とあつせん業者の加盟店である販売業者との売買契約が販売業者の商品引渡債務の不履行を原因として合意解除された場合であつても、購入者とあつせん業者間の立替払契約においてかかる場合には購入者が右業者の履行請求を拒みうる旨の特別の合意があるとき又はあつせん業者において販売業者の右不履行に至るべき事情を知り若しくは知り得べきでありながら立替払を実行したなど右不履行の結果をあつせん業者に帰せしめるのを信義則上相当とする特段の事情があるときでない限り、購入者は、右合意解除をもつてあつせん業者の履行請求を拒むことはできない。",
+  "ref_law": "民法1条2項，民法650条1項，割賦販売法2条3項2号，割賦販売法30条の4",
+  "lawsuit_id": "62922",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62922",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/922/062922_hanrei.pdf"
+}

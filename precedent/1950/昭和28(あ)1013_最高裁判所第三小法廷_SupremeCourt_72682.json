@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 2,
+    "day": 2
+  },
+  "case_number": "昭和28(あ)1013",
+  "case_name": "強盗殺人、窃盗",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第92号9頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 12,
+    "day": 25
+  },
+  "gist": "訴因変更とならない事例",
+  "case_gist": "本件起訴状には強取物件として「衣類等十点等」と記載されており、第一審判決は右物件の内容点数、所有関係等を明示したにすぎないのであるから、それによつて訴因の同一性は何ら害されていないばかりでなく（刑訴二五六条三項後段参照）、被告人等の防禦に事実上不利益を及ぼす虞れのなかつたことは、本件訴訟の経過に徴し明らかであるから、原判決が、所論控訴趣意を排斥したことは、因より正当である。",
+  "ref_law": "刑訴法256条3項後段，刑訴法312条",
+  "lawsuit_id": "72682",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=72682",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/682/072682_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 1,
+    "day": 23
+  },
+  "case_number": "昭和24(れ)2020",
+  "case_name": "食糧管理法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第39号599頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 6,
+    "day": 3
+  },
+  "gist": "一部の証拠を判決に挙示することを怠つた証拠説明の不備と再上告理由",
+  "case_gist": "論旨第一点についていえば、所論の点に関する第二審判決の欠陷はただ所論検事の聴取書中に引用された所論送付書の記載を証拠として判決に挙示することを忘れただけのことであり、右送付書の記載さえ判決に挙示されて居れば第二審判決には何等欠陷はなかつたのである。そして原審はかかる場合でも判決挙示の他の証拠で判示犯罪事実が認められれば差支ないものと判断したのであり、論旨は結局原審の右判断を攻撃するに帰するもので、右判断が憲法上の判断でないこと、いうを俟たない。",
+  "ref_law": "旧刑訴法336条，旧刑訴法410条19号，旧刑訴法360条1項，刑訴応急措置法17条",
+  "lawsuit_id": "66945",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66945",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/945/066945_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 16,
+    "month": 7,
+    "day": 13
+  },
+  "case_number": "平成16(行フ)4",
+  "case_name": "訴訟救助決定に対する抗告審の取消決定に対する許可抗告事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "民集　第58巻5号1599頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成16(行ス)6",
+  "original_date": {
+    "era": "Heisei",
+    "year": 16,
+    "month": 4,
+    "day": 19
+  },
+  "gist": "訴訟上の救助の決定に対し訴訟の相手方当事者が即時抗告をすることの許否",
+  "case_gist": "訴訟上の救助の決定に対し，訴訟の相手方当事者は，即時抗告をすることができる。\n（反対意見がある。）",
+  "ref_law": "民訴法82条1項，民訴法86条",
+  "lawsuit_id": "52419",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52419",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/419/052419_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 6,
+    "day": 12
+  },
+  "case_number": "昭和26(あ)1035",
+  "case_name": "殺人",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第65号171頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 10,
+    "day": 19
+  },
+  "gist": "犯罪の経緯、動機を記載した起訴状の適否",
+  "case_gist": "犯罪の経緯、動機を記載した起訴状は刑訴二五六条六項の規定に違反するものとは認められない。",
+  "ref_law": "刑訴法256条6項",
+  "lawsuit_id": "68022",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=68022",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/022/068022_hanrei.pdf"
+}

@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 5,
+    "day": 2
+  },
+  "case_number": "昭和29(あ)1566",
+  "case_name": "関税法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集刑　第125号91頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 4,
+    "day": 12
+  },
+  "lawsuit_id": "58559",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58559",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/559/058559_hanrei.pdf"
+}

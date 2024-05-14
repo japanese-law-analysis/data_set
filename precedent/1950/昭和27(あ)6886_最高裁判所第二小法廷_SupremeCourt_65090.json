@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 4,
+    "day": 25
+  },
+  "case_number": "昭和27(あ)6886",
+  "case_name": "強盜致傷",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第79号347頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 11,
+    "day": 27
+  },
+  "lawsuit_id": "65090",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=65090",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/090/065090_hanrei.pdf"
+}

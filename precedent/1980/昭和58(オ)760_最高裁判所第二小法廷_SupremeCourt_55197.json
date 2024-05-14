@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 5,
+    "day": 29
+  },
+  "case_number": "昭和58(オ)760",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第41巻4号723頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_case_number": "昭和57(ネ)46",
+  "original_date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 3,
+    "day": 29
+  },
+  "gist": "一部保険における保険者の請求権代位の範囲",
+  "case_gist": "一部保険の保険者が第三者の行為によつて生じた保険事故に係る損害の一部を被保険者に填補した場合において、被保険者が第三者に対して有する債権の額が損害額を下回るときは、右保険者は、右債権のうち填補した金額の損害額に対する割合に応じた債権を取得する。",
+  "ref_law": "商法662条1項",
+  "lawsuit_id": "55197",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55197",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/197/055197_hanrei.pdf"
+}

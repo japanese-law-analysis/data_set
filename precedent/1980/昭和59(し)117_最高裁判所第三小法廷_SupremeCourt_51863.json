@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 12,
+    "day": 18
+  },
+  "case_number": "昭和59(し)117",
+  "case_name": "刑の執行猶予言渡取消請求事件についてした即時抗告棄却決定に対する特別抗告",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第38巻12号3051頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 10,
+    "day": 22
+  },
+  "gist": "余罪につき未決勾留日数の裁定算入及び法定通算により現実には刑の執行の余地のない実刑判決が確定した場合と刑法二六条二号",
+  "case_gist": "刑の執行猶予の判決確定後に、同判決確定前に犯した他の罪につき禁錮以上の実刑に処する判決が確定したときは、右実刑判決が、未決勾留日数の裁定算入及び法定通算により、現実に刑の執行をなしうる余地がないものであつても、刑法二六条二号に該当する。",
+  "ref_law": "刑法26条2号",
+  "lawsuit_id": "51863",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51863",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/863/051863_hanrei.pdf"
+}

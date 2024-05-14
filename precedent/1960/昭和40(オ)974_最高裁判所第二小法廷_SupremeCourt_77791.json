@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 4,
+    "day": 1
+  },
+  "case_number": "昭和40(オ)974",
+  "case_name": "建物収去土地明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第83号1頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和32(ネ)1021",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 2,
+    "day": 25
+  },
+  "gist": "一　罹災都市借地借家臨時処理法第二条に基づく賃借申出の拒絶の意思表示に正当事由がないとされた事例\n二　前項の正当事由の存否を判断すべき標準時期",
+  "case_gist": "一　罹災都市借地借家臨時処理法第二条に基づく賃借申出に対する拒絶の意思表示は、原審認定の事実関係（原判決理由参照）のもとにおいては、正当事由がないと解すべきである。\n二　前項の正当事由の存否については、右賃借申出の時（したがつて右拒絶の意思表示の時）を標準として決すべきであり、事実審の口頭弁論終結時を標準とすべきではない。",
+  "ref_law": "罹災都市借地借家臨時処理法2条",
+  "lawsuit_id": "77791",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77791",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/791/077791_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 6,
+    "day": 30
+  },
+  "case_number": "昭和36(ク)419",
+  "case_name": "夫婦同居申立事件の審判に対する抗告棄却決定に対する特別抗告",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "民集　第19巻4号1089頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和36(ラ)196",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 9,
+    "day": 30
+  },
+  "gist": "一　家事審判法第九条第一項乙類第一号の夫婦の同居その他夫婦間の協力扶助に関する処分の審判についての規定の合憲性\n二　夫婦の同居義務等に関する審判の効力",
+  "case_gist": "一　家事審判法第九条第一項乙類第一号の夫婦の同居その他夫婦間の協力扶助に関する処分の審判についての規定は、憲法第三二条、第八二条に違反しない。\n二　夫婦の同居義務等を前提とする審判が確定した場合でも右同居義務等自体については、別に訴を提起することを妨げるものではない。\n\n（補足意見および意見がある。）",
+  "ref_law": "憲法32条，憲法82条，民法752条，家事審判法9条1項乙類1号，家事審判法7条，家事審判法15条",
+  "lawsuit_id": "56260",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56260",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/260/056260_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 7,
+    "day": 14
+  },
+  "case_number": "昭和56(オ)117",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第133号279頁",
+  "original_court_name": "仙台高等裁判所\n        　秋田支部",
+  "original_case_number": "昭和53(ネ)123",
+  "original_date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 12,
+    "day": 3
+  },
+  "gist": "漁業協同組合の理事に水産業協同組合法三五条の二第三項の規定による損害賠償責任が認められた事例",
+  "case_gist": "水産業協同組合の理事が、漁業権の放棄に対する補償金を組合員に配分するに際し、他の組合員については過去三年間の水揚高の合計を基準にして配分額を算定しているのに、格別の理由もなく一部の組合員についてだけ過去一年間のみの水揚高を基準にして配分額を算定することは、不当な職務の執行にあたり、水産業協同組合法三五条の二第三項の規定による損害賠償責任を免れることができない。",
+  "ref_law": "水産業協同粗合法35条の2第3項",
+  "lawsuit_id": "64363",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64363",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/363/064363_hanrei.pdf"
+}

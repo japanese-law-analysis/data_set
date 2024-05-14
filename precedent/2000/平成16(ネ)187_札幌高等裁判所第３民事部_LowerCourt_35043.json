@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 6,
+    "day": 28
+  },
+  "case_number": "平成16(ネ)187",
+  "case_name": "損害賠償等請求控訴事件",
+  "court_name": "札幌高等裁判所第３民事部",
+  "result": "棄却",
+  "original_court_name": "札幌地方裁判所",
+  "original_case_number": "平成11(ワ)2154",
+  "original_result": "棄却",
+  "gist": "本件は，第２次世界大戦中，中国人である控訴人らないしその被相続人らが，被控訴人らによって中国から強制的に我が国の事業場へ連行され，同所において劣悪な生活環境及び労働条件等の下で労働を強制され，これにより名誉を毀損されるとともに精神的苦痛等の損害を被ったとして，控訴人ら（相続人を含む。）が被控訴人らに対し，名誉回復の措置としての謝罪広告の掲載，慰謝料の支払いを求めたが，それらの請求が認められなかった事例",
+  "lawsuit_id": "35043",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=35043",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/043/035043_hanrei.pdf",
+  "contents": "栾\n"
+}

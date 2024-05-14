@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 3,
+    "day": 29
+  },
+  "case_number": "昭和35(オ)1041",
+  "case_name": "境界確定並びに損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第65号325頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 7,
+    "day": 1
+  },
+  "gist": "山林境界の基点たる立木の「根元」の意義が不明確ではなくて原判決の主文不明確の違法がないとされた事例。",
+  "case_gist": "原判決が山林境界の基点として判示する山頂の檜立木根元とは、該立木の根元の中心点をいうものと解するのが相当であり、主文不明確の違法は生じない。",
+  "ref_law": "民訴法191条1項1号，民訴法225条",
+  "lawsuit_id": "65803",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=65803",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/803/065803_hanrei.pdf"
+}

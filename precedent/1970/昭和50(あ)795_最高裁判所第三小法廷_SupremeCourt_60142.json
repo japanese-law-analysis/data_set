@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 5,
+    "day": 2
+  },
+  "case_number": "昭和50(あ)795",
+  "case_name": "脅迫、銃砲刀剣類所持等取締法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "その他",
+  "article_info": "集刑　第196号355頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 3,
+    "day": 11
+  },
+  "gist": "上告取下の撤回を認めないとした事例",
+  "case_gist": "本件申立の趣旨は、一たん上告を取り下げた後原判決の謄本を読むと事実に全く相反する判断により有罪とされているので、上告の取下を撤回するというが、所論のような理由によつて上告取下を無効ということはできず、また上告取下の撤回も許されない。",
+  "ref_law": "刑訴法359条",
+  "lawsuit_id": "60142",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60142",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/142/060142_hanrei.pdf"
+}

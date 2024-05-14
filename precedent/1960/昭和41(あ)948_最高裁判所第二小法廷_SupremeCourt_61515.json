@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 12,
+    "day": 23
+  },
+  "case_number": "昭和41(あ)948",
+  "case_name": "物価統制令違反、薬事法違反、関税法違反、臨時物資需給調整法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第161号809頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 2,
+    "day": 17
+  },
+  "gist": "物価統制令・臨時物資需給調整法による物資の価格及び需給に関する統制の合憲性",
+  "case_gist": "本件のように需要に比して供給数量の僅少な医薬品（ストレプトマイシン、ヂヒドロストレプトマイシン）の取引について、法による統制を加え、これに違反する者を処罰することが憲法第二五条の趣旨に反するものでないことは、当裁判所の判例（昭和二五年（あ）第二一〇六号同二六年一二月五日大法廷判決・刑集五巻一三号二四七一頁、同二三年（れ）第二八一号同二五年二月一日大法廷判決・刑集四巻二号八八頁）の趣旨に徴し明らかである。",
+  "ref_law": "憲法25条，物価統制令3条，物価統制令9条ノ2，物価統制令33条，物価統制令34条，臨時物資需給調整法1条，臨時物資需給調整法4条",
+  "lawsuit_id": "61515",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61515",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/515/061515_hanrei.pdf"
+}

@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 2,
+    "day": 16
+  },
+  "case_number": "昭和45(あ)2037",
+  "case_name": "常習賭博、賭博場開帳図利",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第183号151頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 9,
+    "day": 11
+  },
+  "gist": "被告人がやくざの組長である旨の判示と憲法一四条",
+  "ref_law": "憲法14条",
+  "lawsuit_id": "59561",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59561",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/561/059561_hanrei.pdf"
+}

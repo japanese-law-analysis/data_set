@@ -1,0 +1,19 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 6,
+    "day": 24
+  },
+  "case_number": "平成20(行コ)61",
+  "case_name": "懲戒処分取消請求控訴事件（原審・東京地方裁判所平成１９年（行ウ）第４７７号）",
+  "court_name": "東京高等裁判所",
+  "field": "行政",
+  "gist": "司法書士法４７条１号に基づく戒告の行政処分性",
+  "case_gist": "戒告とは，当該司法書士に対し，その非行の責任を確認させ，反省を求め，再び過ちのないように戒めることであり，また，司法書士法又は東京司法書士会会則に，戒告に伴って生ずる法的効果を定めた規定はないから，同法４７条１号に基づく戒告は，被戒告者の権利義務を形成し，又はその範囲を確定することが法律上認められているものとはいえず，抗告訴訟の対象となる行政処分に当たらない。",
+  "lawsuit_id": "37197",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=37197",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/197/037197_hanrei.pdf",
+  "contents": ""
+}

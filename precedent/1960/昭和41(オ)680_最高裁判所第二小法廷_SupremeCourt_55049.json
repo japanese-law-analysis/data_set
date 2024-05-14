@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 9,
+    "day": 29
+  },
+  "case_number": "昭和41(オ)680",
+  "case_name": "建物収去、土地明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第21巻7号2010頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和39(ネ)221",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 4,
+    "day": 6
+  },
+  "gist": "一　土地賃借権の無断譲受人が地上建物に増築等の工事をした場合と建物買収請求権\n二　所有者の異なる数筆の土地に跨つて存在する建物と建物買取請求権",
+  "case_gist": "一　借地権者から建物とともに借地権を譲りうけた第三者が、該借地権譲受について賃貸人の承諾のえられぬまま、右建物に増築等の工事を施したときは、判示のような場合を除き、譲受当時の原状に回復したうえでなければ買取請求権を行使できないものと解すべきである。\n二　所有者の異なる数筆の土地に跨つて存在する建物についての借地法第一〇条の建物買取請求権は、当該賃貸人の所有地上に存する建物部分が区分所有権の対象となる場合にかぎり、その部分についてのみ認められるものと解すべきである。",
+  "ref_law": "借地法10条",
+  "lawsuit_id": "55049",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55049",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/049/055049_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 10,
+    "day": 27
+  },
+  "case_number": "昭和62(オ)209",
+  "case_name": "損害賠償等",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集民　第158号117頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和61(ネ)851",
+  "original_date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 11,
+    "day": 27
+  },
+  "gist": "犬を連れた歩行者の転倒について同人を自転車に乗って追い抜いた者に不法行為法上責められるべき注意義務違反がないとされた事例",
+  "case_gist": "犬を連れた歩行者をその後方から自転車に乗って追い抜いた際、犬が驚いて不規則な動作をしたため歩行者が平衡を失って路上に転倒した場合、右歩行者が人車の通行する公道上を、降雨の中、右手に洋傘をさし左手に二本の引き綱に繋いだ犬二匹を連れて不安定な体勢で歩行していたなど判示の事実関係の下においては、右自転車の運転者に不法行為法上責められるべき注意義務違反はない。",
+  "ref_law": "民法709条",
+  "lawsuit_id": "62987",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62987",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/987/062987_hanrei.pdf"
+}

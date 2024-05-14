@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 5,
+    "day": 28
+  },
+  "case_number": "平成19(ネ)923",
+  "case_name": "損害賠償請求控訴事件",
+  "court_name": "名古屋高等裁判所民事第１部",
+  "result": "その他",
+  "original_court_name": "名古屋地方裁判所",
+  "original_case_number": "平成16(ワ)4547",
+  "original_result": "棄却",
+  "gist": "経営破綻した大手スーパーの社債の購入者らが，同社債のリスク説明が不十分であった等として証券会社等に損害賠償を求めた事案について，証券会社には投資家を勧誘する際に大きな損失をもたらす危険がある社債の商品特性を説明する義務があった等として，これを全部棄却した原判決を変更し，一部の購入者の証券会社に対する請求の一部を認容した事例",
+  "lawsuit_id": "37932",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=37932",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/932/037932_hanrei.pdf",
+  "contents": ""
+}

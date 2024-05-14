@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 11,
+    "day": 9
+  },
+  "case_number": "昭和23(れ)713",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第5号167頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 4,
+    "day": 24
+  },
+  "gist": "量刑不當と上告の適否",
+  "case_gist": "刑事訴訟法應急的措置法第一二條第二項により刑事訴訟法第四一二條は廢止され原審の量刑不當を上告の理由とすることは出來なくなつたのである。",
+  "ref_law": "刑訴應急措置法12條2項，刑訴法412條",
+  "lawsuit_id": "74766",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74766",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/766/074766_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 3,
+    "day": 19
+  },
+  "case_number": "昭和39(オ)218",
+  "case_name": "地代請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第19巻2号473頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和38(ネ)198",
+  "original_date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 11,
+    "day": 15
+  },
+  "gist": "法定地上権の地代確定訴訟の第一審判決の言渡後その確定前にされた右地代債権に対する転付命令の効力。",
+  "case_gist": "法定地上権の地代確定訴訟における第一審判決の言渡後その確定前にその地代債権に対して発せられた転付命令は、第一審判決において認められた地代の額の範囲内においては、無効とはいえない。",
+  "ref_law": "民法388条，民訴法601条",
+  "lawsuit_id": "53139",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53139",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/139/053139_hanrei.pdf"
+}

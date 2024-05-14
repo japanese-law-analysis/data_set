@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 7,
+    "day": 13
+  },
+  "case_number": "平成20(あ)835",
+  "case_name": "建造物侵入，危険運転致傷，窃盗被告事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第63巻6号590頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成19(う)1583",
+  "original_date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 4,
+    "day": 11
+  },
+  "gist": "警察署の塀の上部に上がった行為について建造物侵入罪の成立が認められた事例",
+  "case_gist": "警察署庁舎建物及び中庭への外部からの交通を制限し，みだりに立入りすることを禁止するために設置された高さ約２．４ｍの本件塀は，建造物侵入罪の客体に当たり，中庭に駐車された捜査車両を確認する目的で本件塀の上部に上がった行為は，建造物侵入罪を構成する。",
+  "ref_law": "刑法130条",
+  "lawsuit_id": "37832",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=37832",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/832/037832_hanrei.pdf",
+  "contents": ""
+}

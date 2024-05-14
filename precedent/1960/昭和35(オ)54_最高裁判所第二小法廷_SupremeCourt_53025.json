@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 10,
+    "day": 7
+  },
+  "case_number": "昭和35(オ)54",
+  "case_name": "源泉徴収所得税並びに加算税決定取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第14巻12号2421頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 10,
+    "day": 27
+  },
+  "gist": "一　商法上不適法な配当と所得税法にいう利益配当。\n二　いわゆる株主相互金融会社（原判決参照）における株主優待金と所得税法にいう利益配当。",
+  "case_gist": "一　いわゆる蛸配当、株主平等の原則に反する配当等のように、商法上不適法な配当であつても、所得税法上の利益配当のうちに含まれる。\n二　いわゆる株主相互金融会社（原判決参照）における株主優待金は所得税法上の利益配当にあたらない。",
+  "ref_law": "所得税法9条1項2号，所得税法37条，商法290条，商法293条",
+  "lawsuit_id": "53025",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53025",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/025/053025_hanrei.pdf"
+}

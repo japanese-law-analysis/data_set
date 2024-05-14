@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 3,
+    "day": 18
+  },
+  "case_number": "平成19(行ウ)9",
+  "case_name": "損害賠償請求行為請求事件",
+  "court_name": "京都地方裁判所第３民事部",
+  "result": "棄却",
+  "gist": "原告らが，?市の福祉事務所長が市の保育所の保育料の徴収を怠り，市長も福祉事務所長が徴収を怠ることを阻止すべき指揮監督上の義務に反して保育料の徴収を怠り，また，?市長が市営住宅の賃料の徴収を怠り，よって市に損害を加えたとして，被告市長に対し，市長及び福祉事務所長にその損害の賠償を請求するよう求めた住民訴訟において，?保育料については滞納処分を行う費用が滞納処分による回収額を上回り，損害が発生したとは認められず，?賃料についても損害が発生したとは認められないとして，請求が棄却された事例。",
+  "lawsuit_id": "80109",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=80109",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/109/080109_hanrei.pdf",
+  "contents": ""
+}

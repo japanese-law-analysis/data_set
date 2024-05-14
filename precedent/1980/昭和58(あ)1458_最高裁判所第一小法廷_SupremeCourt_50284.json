@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 3,
+    "day": 3
+  },
+  "case_number": "昭和58(あ)1458",
+  "case_name": "いかつり漁業等の取締りに関する省令違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第40巻2号175頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 9,
+    "day": 12
+  },
+  "gist": "一　刑訴法三二三条二号にいう「業務の通常の過程において作成された書面」に当たることの判断資料\n二　刑訴法三二三条二号にいう「業務の通常の過程において作成された書面」に当たるとされた事例",
+  "case_gist": "一　刑訴法三二三条二号にいう「業務の通常の過程において作成された書面」に当たるか否かを判断するについては、当該書面自体の形状、内容だけでなく、その作成者の証言等も資料とすることができる。\n二　漁船団の取決めに基づき船団所属の各漁船の乗組員から定時に発せられる操業位置等についての無線通信を、船団所属の一漁船の通信業務担当者がその都度機械的に記録した書面は、前記各漁船の操業位置等を認定するための証拠として、刑訴法三二三条二号にいう「業務の通常の過程において作成された書面」に当たる。",
+  "ref_law": "刑訴法323条2号",
+  "lawsuit_id": "50284",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50284",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/284/050284_hanrei.pdf"
+}

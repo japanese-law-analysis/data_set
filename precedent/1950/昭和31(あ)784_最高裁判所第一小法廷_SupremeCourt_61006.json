@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 3,
+    "day": 28
+  },
+  "case_number": "昭和31(あ)784",
+  "case_name": "不法監禁",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第118号615頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 1,
+    "day": 31
+  },
+  "gist": "労働組合法第一条第一項の目的達成のための正当行為と認められない事例",
+  "case_gist": "被告人等が組合員等大衆とともにＡ課長等の周囲にスクラムを組み交互に右大衆を指揮して、スクラムを組んでいるものを交替させたり、労働歌を高唱させたり、”ワツショ、ワツショ”と掛声をかけて同課長等の周囲を駈け廻らせたり、或は自らスクラムに参加したりして、気勢をあふり、約二時間五十分にわたり多衆の包囲と威圧により前記課長等の脱出を不能ならしめた事実関係の下においては、被告人等の所為が労働組合法一条一項の目的達成のためにする正当行為であると認めることはできない。",
+  "ref_law": "労働組合法1条1項，憲法28条",
+  "lawsuit_id": "61006",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61006",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/006/061006_hanrei.pdf"
+}

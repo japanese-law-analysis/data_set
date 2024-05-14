@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 12,
+    "day": 13
+  },
+  "case_number": "昭和31(し)44",
+  "case_name": "控訴棄却決定に対する異議申立棄却の決定に対する特別抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第116号157頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 7,
+    "day": 14
+  },
+  "lawsuit_id": "61024",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61024",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/024/061024_hanrei.pdf"
+}

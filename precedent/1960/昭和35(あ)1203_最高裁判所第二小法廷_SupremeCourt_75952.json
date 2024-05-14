@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 11,
+    "day": 8
+  },
+  "case_number": "昭和35(あ)1203",
+  "case_name": "道路交通取締法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第145号41頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 4,
+    "day": 18
+  },
+  "gist": "記録の謄写を上告審が許さなかつたことを不服とする上告理由の適否。",
+  "case_gist": "所論は、違憲をいうが、当庁で記録の謄写が許されなかつたことに対し不服を申立てるに過ぎず、原判決に対する攻撃とは認められないから上告適法の理由に当らない。\n\n　註、上告論旨は、被告人（弁護人なし）は上告趣意書を作成するため記録の謄写を求めたが許されなかつた。公判調書の閲覧だけでは上告趣意書の作成は不可能である。弁護人には謄写権を認めながら、被告人本人にはこれを認めないのは、実質上、上訴権を奪うことになるとして憲法一四条、三二条違反を主張した。",
+  "ref_law": "刑訴法40条，刑訴法49条，刑訴法405条",
+  "lawsuit_id": "75952",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=75952",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/952/075952_hanrei.pdf"
+}

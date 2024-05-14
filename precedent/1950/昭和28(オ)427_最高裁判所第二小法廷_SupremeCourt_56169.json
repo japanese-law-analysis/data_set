@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 12,
+    "day": 4
+  },
+  "case_number": "昭和28(オ)427",
+  "case_name": "行政処分取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第7巻12号1369頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 3,
+    "day": 30
+  },
+  "gist": "町長解職請求代表者から解職請求者署名簿の署名につき地方自治法第八一条第二項、第七四条の二第一項の規定による証明を求められた町選挙管理委員会と解職請求理由の当否の審査権限の有無",
+  "case_gist": "町選挙管理委員会が町長解職請求代表者から、地方自治法第八一条第二項、第七四条の二第一項の規定により解職請求者署名簿の提出を受け、これに署名した者が選挙人名簿に記載されたものであることの証明を求められた場合、同委員会は、解職請求理由の内容の当否について審査権限を有するものではない、",
+  "ref_law": "地方自治法81条2項，地方自治法74条の2第1項",
+  "lawsuit_id": "56169",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56169",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/169/056169_hanrei.pdf"
+}

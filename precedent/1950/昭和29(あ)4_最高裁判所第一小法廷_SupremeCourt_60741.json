@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 5,
+    "day": 12
+  },
+  "case_number": "昭和29(あ)4",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集刑　第105号209頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 12,
+    "day": 9
+  },
+  "gist": "公開裁判の原則に反する旨の違憲の主張が前提を欠く一事例",
+  "case_gist": "控訴審が公開の公判廷で事実の取調を行つた上第一審判決の事実誤認を認めて破棄自判した場合においては、たとえその認定した訴因が第一審判決の認定した訴因と異り（但し訴因変更手続は適法になされている）、かつ控訴審判決の挙示する証拠が第一審における証拠のみであるときでも、これを目して憲法の保障する公開裁判の原則に反するとの主張はその前提を欠くものである。",
+  "ref_law": "憲法37条1項，憲法82条1項，刑訴法393条，刑訴法400条",
+  "lawsuit_id": "60741",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60741",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/741/060741_hanrei.pdf"
+}

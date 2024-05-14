@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 4,
+    "day": 27
+  },
+  "case_number": "平成16(ワ)12784",
+  "case_name": "損害賠償請求事件",
+  "court_name": "大阪地方裁判所第１２民事部",
+  "gist": "原告所有の競輪場を賃借して約２８年間にわたり競輪事業を行っていた一部事務組合が，原告による多額の設備投資の約３年後に，契約書上の期間満了の３か月前に解約通知をし，何ら補償措置を講じることなく競輪事業から撤退して賃貸借契約を終了させたことは，契約上の信義則に反し債務不履行を構成するとして，上記組合の解散に伴いその債務を承継した被告らに対する損害賠償請求が一部認容された事例",
+  "lawsuit_id": "34730",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=34730",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/730/034730_hanrei.pdf",
+  "contents": "3 4\n2 4 5\n"
+}

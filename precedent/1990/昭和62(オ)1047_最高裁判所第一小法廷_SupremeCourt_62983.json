@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 2,
+    "month": 11,
+    "day": 8
+  },
+  "case_number": "昭和62(オ)1047",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第161号191頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_case_number": "昭和60(ネ)98",
+  "original_date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 5,
+    "day": 28
+  },
+  "gist": "運航委託契約により船舶の運航を受託した者につき船長に対する安全配慮義務が認められた事例",
+  "case_gist": "運航委託契約により船舶の運航を受託した者が、船舶を自己の業務の中に一体的に従属させ、船内事故の被害者で直接の契約関係にない船長に対し指揮監督権を行使する立場にあり、船長かち実質的に労務の供給を受けていたという事実関係の下においては、右受託者は、船長に対し信義則上の安全配慮義務を負う。",
+  "ref_law": "民法1条2項，民法415条，民法643条，民法656条",
+  "lawsuit_id": "62983",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62983",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/983/062983_hanrei.pdf"
+}

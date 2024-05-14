@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 12,
+    "day": 17
+  },
+  "case_number": "昭和32(オ)247",
+  "case_name": "訴願裁決取消請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第11巻13号2200頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 12,
+    "day": 25
+  },
+  "gist": "一　選挙の効力に関する異議と当選の効力に関する異議とを一つの申立手続で申し立てることの可否\n二　公職選挙法第四九条第二号の「やむを得ない用務又は事故」の疎明があつたと認められない事例",
+  "case_gist": "一　選挙の効力に関する異議と当選の効力に関する異議とは一つの申立手続で申し立てることができる。\n二　不在者投票用封筒および投票用紙請求書の疎明事由記載欄に「私用」、「私事」、「Ｄ大学に私用」、「旅行」、「私用旅行」、「東京旅行」、「花見招待」、「お花見」、「私用遊覧」、「Ｅ山参拝」と記載しただけでは、公職選挙法第四九条第二号にいう「やむを得ない用務又は事故」の疎明があつたものとはいえない。",
+  "ref_law": "公職選挙法202条，公職選挙法206条，公職選挙法49条本文2号，公職選挙法施行令52条",
+  "lawsuit_id": "57678",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57678",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/678/057678_hanrei.pdf"
+}

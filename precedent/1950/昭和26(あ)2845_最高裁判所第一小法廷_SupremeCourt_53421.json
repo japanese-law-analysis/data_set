@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 3,
+    "day": 26
+  },
+  "case_number": "昭和26(あ)2845",
+  "case_name": "酒税法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第7巻3号636頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 5,
+    "day": 21
+  },
+  "gist": "刑訴第四〇二条に違反しない一事例",
+  "case_gist": "第一審が被告人を判示第一の事実につき罰金八万円、第二の事実につき罰金五千円に処し、右罰金を完納することができないときは金五百円を一日に換算した期間被告人を労役場に留置すべき旨の判決をし、これに対して被告人より控訴のあつた場合、控訴審が右第一審判決を破棄し、被告人を原判示第一の事実につき罰金五万円、第二の事実につき罰金五千円に処し、右罰金を完納することができないときは金三百円を一日に換算した期間被告人を労役場に留置すべき旨の判決をしたとしても、刑が被告人に重く変更されたものということはできない。",
+  "ref_law": "刑訴法402条",
+  "lawsuit_id": "53421",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53421",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/421/053421_hanrei.pdf"
+}

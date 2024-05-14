@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 12,
+    "month": 12,
+    "day": 15
+  },
+  "case_number": "平成12(あ)840",
+  "case_name": "不動産侵奪被告事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第54巻9号1049頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成11(う)1332",
+  "original_date": {
+    "era": "Heisei",
+    "year": 12,
+    "month": 5,
+    "day": 16
+  },
+  "gist": "使用貸借の目的とされた土地の無断転借人が土地上の簡易施設を改造して本格的店舗を構築した行為が不動産の侵奪に当たるとされた事例",
+  "case_gist": "使用貸借の目的とされた土地の無断転借人が、同土地とともに、鉄パイプの骨組みに、トタンの波板等をくぎ付けして屋根にし、側面にビニールシートを結び付けるなどした同土地上の簡易施設の引渡しを受け、これを改造して、内壁、床面、天井を有し、シャワーや便器を設置した八個の個室からなる本格的店舗を構築し、解体・撤去の困難さを格段に増加させた行為（判文参照）は、不動産の侵奪に当たる。",
+  "ref_law": "刑法（平成7年法律第91号による改正前のもの）235条の2",
+  "lawsuit_id": "51222",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51222",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/222/051222_hanrei.pdf"
+}

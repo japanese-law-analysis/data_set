@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 3,
+    "day": 15
+  },
+  "case_number": "昭和41(あ)2522",
+  "case_name": "道路交通法違反、業務上過失傷害",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第162号949頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 10,
+    "day": 11
+  },
+  "gist": "刑訴法第二九一条第二項の規定は控訴審に準用されるか",
+  "case_gist": "所論は憲法第三八条第一項違反等違憲をいう点もあるが、必ずしも被告人の出頭を要しない控訴審の手続において、刑訴法第二九一条第二項の規定が準用されないことは明白というべきであるから、右違憲の主張は前提を欠く。",
+  "ref_law": "憲法38条1項，刑訴法291条2項",
+  "lawsuit_id": "59024",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59024",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/024/059024_hanrei.pdf"
+}

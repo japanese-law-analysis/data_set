@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 3,
+    "day": 23
+  },
+  "case_number": "昭和48(あ)679",
+  "case_name": "弁護士法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集刑　第199号861頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 1,
+    "day": 30
+  },
+  "gist": "弁護士法七二条の「業とする」の意義と認定証拠",
+  "case_gist": "弁護士法七二条にいわゆる「業とする」とは、反覆継続して行う意思のもとに同条列記の行為をすることをいうものと解されるところ、およそ、ある種行為に対する反覆継続の意思の有無を認定するにあたつては、当該本人が同種行為をどの程度行つているかを認定するに若くはないのであつて、それが適切な証拠調に基づいて認定されるものである限り、起訴事実以外の被告人の同種行為の存在を間接事実として右意思を認定することを妨げない。",
+  "ref_law": "弁護士法72条",
+  "lawsuit_id": "59936",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59936",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/936/059936_hanrei.pdf"
+}

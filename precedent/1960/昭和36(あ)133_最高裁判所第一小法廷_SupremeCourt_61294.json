@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 8,
+    "day": 17
+  },
+  "case_number": "昭和36(あ)133",
+  "case_name": "横領",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第139号81頁",
+  "original_court_name": "福岡高等裁判所\n        　宮崎支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 12,
+    "day": 23
+  },
+  "lawsuit_id": "61294",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61294",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/294/061294_hanrei.pdf"
+}

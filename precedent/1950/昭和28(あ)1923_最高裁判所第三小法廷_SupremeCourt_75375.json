@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 10,
+    "day": 12
+  },
+  "case_number": "昭和28(あ)1923",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第99号65頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 3,
+    "day": 19
+  },
+  "lawsuit_id": "75375",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=75375",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/375/075375_hanrei.pdf"
+}

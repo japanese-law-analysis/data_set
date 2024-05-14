@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 3,
+    "day": 2
+  },
+  "case_number": "昭和39(ク)114",
+  "case_name": "遺産分割審判に対する抗告棄却決定に対する抗告",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "民集　第20巻3号360頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和38(ラ)177",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 2,
+    "day": 14
+  },
+  "gist": "一　家事審判法第九条第一項乙類第一〇号の遺産の分割に関する処分の審判の合憲性\n二　遺産の分割に関する処分の審判の前提となる権利関係の存否を右審判中で審理判断することの可否",
+  "case_gist": "一　家事審判法第九条第一項乙類第一〇号の遺産の分割に関する処分の審判は、憲法第三二条、第八二条に違反しない。\n二　家庭裁判所は、遺産の分割に関する処分の審判の前提となる相続権、相続財産等の権利関係の存否を、右審判中で、審理判断することができる。",
+  "ref_law": "民法906条，民法907条，家事審判法9条1項乙類10号，家事審判法7条，家事審判法15条，家事審判規則6条，憲法32条",
+  "lawsuit_id": "53939",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53939",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/939/053939_hanrei.pdf"
+}

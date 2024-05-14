@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 6,
+    "day": 5
+  },
+  "case_number": "昭和42(あ)3064",
+  "case_name": "礼拝所不敬、窃盗、窃盗未遂",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第22巻6号427頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 11,
+    "day": 7
+  },
+  "gist": "深夜墓碑を押し倒した行為が刑法第一八八条第一項にいう公然の行為にあたるとされた事例",
+  "case_gist": "県道につながる村道に近接し、他人の住家も遠からぬ位置に散在する場所にある共同墓地において、墓碑を押し倒した被告人らの行為は、たまたま、その行為が午前二時ごろに行なわれたもので、当時通行人などがなかつたとしても、刑法第一八八条第一項にいう公然の行為にあたる。",
+  "ref_law": "刑法188条1項",
+  "lawsuit_id": "50861",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50861",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/861/050861_hanrei.pdf"
+}

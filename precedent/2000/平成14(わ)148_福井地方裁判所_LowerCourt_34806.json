@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 5,
+    "day": 10
+  },
+  "case_number": "平成14(わ)148",
+  "case_name": "殺人被告事件",
+  "court_name": "福井地方裁判所",
+  "result": "その他",
+  "gist": "被告人が，当時８５歳と高齢であった被害者を，金属製の凶器を用いて殴打するなどの暴行を加えて殺害したという殺人の事案で，被告人は，捜査・公判を通じて，被害者を殺害したことを否認し，無罪である旨主張した。裁判所は，直接証拠がなく，被告人の自白もない本件において，状況証拠により被告人が本件犯行の犯人であり，少なくとも被害者が死んでもかまわないという程度の殺意（未必の殺意）をもって，被害者に対して攻撃を加えて殺害したものであると認定した事例。",
+  "lawsuit_id": "34806",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=34806",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/806/034806_hanrei.pdf",
+  "contents": ""
+}

@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 12,
+    "day": 12
+  },
+  "case_number": "昭和44(あ)1454",
+  "case_name": "日本国とアメリカ合衆国との間の相互協力及び安全保障条約第六条に基づく施設及び区域並びに日本国における合衆国軍隊の地位に関する協定の実施に伴う刑事特別法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第174号667頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 6,
+    "day": 18
+  },
+  "lawsuit_id": "59402",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59402",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/402/059402_hanrei.pdf"
+}

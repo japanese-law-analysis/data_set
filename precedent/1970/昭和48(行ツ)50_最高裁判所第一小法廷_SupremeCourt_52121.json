@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 10,
+    "day": 11
+  },
+  "case_number": "昭和48(行ツ)50",
+  "case_name": "御浜町議会議員選挙の効力に関する審査申立の裁決取消請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第27巻9号1148頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和46(行ケ)3",
+  "original_date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 1,
+    "day": 30
+  },
+  "gist": "市町村の議会の議員または長の選挙において選挙人名簿に公職選挙法二七条一項に基づき転出表示をされている者に対し投票を許した場合と選挙の効力",
+  "case_gist": "市町村の議会の議員または長の選挙において、選挙人名簿に公職選挙法二七条一項に基づき当該市町村から他市町村へ転出した旨の表示をされている者に対し、右の表示が誤つていることを明らかにする資料の提出等によりその住所要件の存在を確認しうるというような特別の事情がないのに、投票を許すことは、選挙無効の原因となりうる。",
+  "ref_law": "公職選挙法27条1項，公職選挙法44条，公職選挙法205条1項",
+  "lawsuit_id": "52121",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52121",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/121/052121_hanrei.pdf"
+}

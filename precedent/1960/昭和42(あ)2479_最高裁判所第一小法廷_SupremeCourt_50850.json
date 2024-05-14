@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 11,
+    "day": 7
+  },
+  "case_number": "昭和42(あ)2479",
+  "case_name": "銃砲刀剣類等所持取締法違反、銃砲刀剣類所持等取締法違反、火薬類取締法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第22巻12号1335頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 9,
+    "day": 26
+  },
+  "gist": "累犯関係の有無の決定基準",
+  "case_gist": "累犯関係の有無は、前刑の執行を終りまたは執行の免除があつた日から五年の期間内に、犯罪の実行行為をしたか否かを基準にして決すべきものであつて、五年の期間内に、犯罪行為の着手があつたか否かのみを基準にして決すべきものではない。",
+  "ref_law": "刑法56条1項",
+  "lawsuit_id": "50850",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50850",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/850/050850_hanrei.pdf"
+}

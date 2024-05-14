@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 7,
+    "day": 8
+  },
+  "case_number": "昭和33(あ)723",
+  "case_name": "外国人登録法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第12巻11号2397頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 3,
+    "day": 25
+  },
+  "gist": "外国人登録法第三条第一項、第一八条第一項第二号の罪が成立する事例。",
+  "case_gist": "終戦後密入国した外国人が本邦に入つたときから六〇日を超えて在留した後、恰も自己が終戦前より本邦に在留しながら外国人登録申請を怠つていた旨虚偽の登録申請をしたときは、たとい本邦に入つた後六〇日を超えた後であつても虚偽の登録申請をした罪が成立する。",
+  "ref_law": "外国人登録法3条1項，外国人登録法18条1項1号，外国人登録法18条1項2号",
+  "lawsuit_id": "50610",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50610",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/610/050610_hanrei.pdf"
+}

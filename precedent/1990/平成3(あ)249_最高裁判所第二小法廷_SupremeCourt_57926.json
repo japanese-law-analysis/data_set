@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 3,
+    "month": 12,
+    "day": 6
+  },
+  "case_number": "平成3(あ)249",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第258号893頁",
+  "original_court_name": "仙台高等裁判所\n        　秋田支部",
+  "original_date": {
+    "era": "Heisei",
+    "year": 3,
+    "month": 2,
+    "day": 19
+  },
+  "gist": "追徴に関する高裁判例違反の主張が不利益主張であるとして不適法とされた事例",
+  "ref_law": "公選法224条",
+  "lawsuit_id": "57926",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57926",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/926/057926_hanrei.pdf"
+}

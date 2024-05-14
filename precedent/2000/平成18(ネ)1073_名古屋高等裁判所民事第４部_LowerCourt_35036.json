@@ -1,0 +1,20 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 6,
+    "day": 14
+  },
+  "case_number": "平成18(ネ)1073",
+  "case_name": "慰謝料請求控訴事件",
+  "court_name": "名古屋高等裁判所民事第４部",
+  "original_court_name": "名古屋地方裁判所",
+  "original_case_number": "平成17(ワ)4952",
+  "original_result": "棄却",
+  "gist": "うつ状態で治療中の従業員の主治医に対し，使用者が当該従業員の承諾を得ないでその組合活動，職場環境等に関する事情説明のための書面及び資料を送付したことが，当該従業員に対する不法行為に当たるとされた事例",
+  "lawsuit_id": "35036",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=35036",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/036/035036_hanrei.pdf",
+  "contents": ""
+}

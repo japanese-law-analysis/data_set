@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 2,
+    "day": 21
+  },
+  "case_number": "昭和30(あ)212",
+  "case_name": "賍物故買",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "刑集　第12巻2号288頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 12,
+    "day": 22
+  },
+  "gist": "公訴事実の同一性を欠く一事例",
+  "case_gist": "「被告人は昭和二七年一二月三〇日頃の午後一一時半頃肩書自宅において、Ａが川崎市ａＢ化学工業株式会社工場内より同工場長某の管理にかかる銅製艶付板三二枚（価格九万六千円相当）を窃取するに際し、同人から例の銅板を会社から持出すからリヤカーを貸して呉れと頼まれてこれを貸与しよつて同人の右窃盗の犯行を容易ならしめて幇助した」との窃盗幇助の公訴事実と、「被告人は昭和二七年一二月三一日頃肩書自宅において、Ａから、同人が他より窃取して来たものであることの情を知りながら、銅製艶付板三二枚（価格九万六千円相当）を金三万円で買受け賍物の故買をした」との賍物故買の事実との間には、公訴事実の同一性がない。",
+  "ref_law": "刑訴法312条1項，刑法235条，刑法256条2項",
+  "lawsuit_id": "50438",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50438",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/438/050438_hanrei.pdf"
+}

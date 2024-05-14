@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 3,
+    "month": 12,
+    "day": 20
+  },
+  "case_number": "平成2(行ツ)138",
+  "case_name": "違法支出金補填",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第45巻9号1503頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和63(行コ)26",
+  "original_date": {
+    "era": "Heisei",
+    "year": 2,
+    "month": 4,
+    "day": 26
+  },
+  "gist": "上司の権限に属する財務会計上の行為を専決により処理した補助職員と地方自治法二四二条の二第一項四号にいう「当該職員」",
+  "case_gist": "地方公営企業の管理者が、訓令等の事務処理上の明確な定めにより、その権限に属する財務会計上の行為をあらかじめ特定の補助職員に専決させることとしている場合には、右補助職員は、専決により処理した財務会計上の行為の適否が問題とされている代位請求住民訴訟において、地方自治法二四二条の二第一項四号にいう「当該職員」に該当する。",
+  "ref_law": "地方自治法242条の2第1項4号，地方公営企業法34条",
+  "lawsuit_id": "52474",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52474",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/474/052474_hanrei.pdf"
+}

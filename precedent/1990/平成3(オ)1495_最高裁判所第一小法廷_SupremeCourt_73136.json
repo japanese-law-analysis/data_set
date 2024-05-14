@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 5,
+    "month": 11,
+    "day": 25
+  },
+  "case_number": "平成3(オ)1495",
+  "case_name": "損害賠償請求本訴、不当利得返還請求反訴",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第170号553頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_case_number": "平成1(ネ)30",
+  "original_date": {
+    "era": "Heisei",
+    "year": 3,
+    "month": 6,
+    "day": 27
+  },
+  "gist": "いわゆるファイナンス・リース契約において利用者がリース物件の使用ができなかったからといってリース料の支払義務を免れることができないとされた事例",
+  "case_gist": "いわゆるファイナンス・リース契約において、利用者がリース物件の引渡しを受けていないのにリース業者にこれを受領した旨の受領書を交付し、その後リース業者が販売店からその経営不振を理由にリース物件を引き揚げたなど判示の事実関係の下においては、利用者は、リース物件を使用することができなかったからといって、リース料の支払義務を免れることはできない。",
+  "ref_law": "民法601条",
+  "lawsuit_id": "73136",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=73136",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/136/073136_hanrei.pdf"
+}

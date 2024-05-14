@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 7,
+    "day": 3
+  },
+  "case_number": "昭和27(あ)6626",
+  "case_name": "麻薬取締法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第97号71頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 4,
+    "day": 5
+  },
+  "gist": "主文において何人から没収するかを明示していない判決は違法か",
+  "case_gist": "所論没収が何人に対して為されたかは第一審判決主文の上では明らかでないけれども領置目録の記載によれば主文記載のモルヒネが被告人Ａの所有であることが明らかであるから右没収は被告人Ａに対して為されたものであることが判る。従つてこの点に対する原審の判断は正当である。（昭和一二年（れ）第一四四二号同年一〇月二九日大審院第三刑事部判決参照。）",
+  "ref_law": "刑法19条",
+  "lawsuit_id": "75317",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=75317",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/317/075317_hanrei.pdf"
+}

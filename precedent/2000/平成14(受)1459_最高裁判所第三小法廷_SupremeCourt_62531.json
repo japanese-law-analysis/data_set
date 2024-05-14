@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 16,
+    "month": 7,
+    "day": 13
+  },
+  "case_number": "平成14(受)1459",
+  "case_name": "土地明渡請求事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第214号953頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成13(ネ)3637",
+  "original_date": {
+    "era": "Heisei",
+    "year": 14,
+    "month": 6,
+    "day": 20
+  },
+  "gist": "農地の賃借権の時効取得と農地法３条の適用の有無",
+  "case_gist": "時効による農地の賃借権の取得については，農地法３条の規定の適用はない。",
+  "ref_law": "農地法3条，民法163条，民法601条",
+  "lawsuit_id": "62531",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62531",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/531/062531_hanrei.pdf"
+}

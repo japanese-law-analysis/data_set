@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 9,
+    "day": 1
+  },
+  "case_number": "昭和24(れ)1499",
+  "case_name": "準強盗、窃盗",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "刑集　第3巻10号1541頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 2,
+    "day": 23
+  },
+  "gist": "準強盜につき事實摘示の明確を缺く判決の一例",
+  "case_gist": "判示事實の前半では準強盜を後半では強盜と認められるような記載をして準強盜の罰條を適用した判決は、法令適用の基礎事實を明確にしなかつたので破棄差戻を相當とする。\n事実認定の判示に当り、その前半においては、屋内で金品を物色中家人が目を覚したので逮捕を免かれたい気持から迫これを脅迫したと判示しながら、その後半においては、右の脅迫により金品を強取したと判示して準強盗に問擬した判決は、準強盗か強盗か法令適用の基本たる事実認定の判示に疑義のある違法の判決である。",
+  "ref_law": "刑法236條1項，刑法238條，舊刑訴法410條19號",
+  "lawsuit_id": "55443",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55443",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/443/055443_hanrei.pdf"
+}

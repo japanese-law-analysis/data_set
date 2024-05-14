@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 3,
+    "day": 26
+  },
+  "case_number": "昭和44(あ)1212",
+  "case_name": "殺人、死体遺棄、窃盗、強盗致死、同致傷",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第175号511頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 4,
+    "day": 30
+  },
+  "gist": "死刑を求める検察官控訴と憲法三九条",
+  "case_gist": "検察官が控訴を申し立て第一審判決の刑より重い刑の判決を求めることが憲法三九条に違反しないことは、昭和二四年新（れ）第二二号同二五年九月二七日大法廷判決（刑集四巻九号一八〇五頁）の判示するとおりであり、検察官が死刑の判決を求める場合もその例外とは解されない。",
+  "ref_law": "憲法39条後段，刑訴法351条1項",
+  "lawsuit_id": "59391",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59391",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/391/059391_hanrei.pdf"
+}

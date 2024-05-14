@@ -1,0 +1,15 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Reiwa",
+    "year": 1,
+    "month": 5,
+    "day": 16
+  },
+  "case_number": "平成28(行ウ)222",
+  "case_name": "共同訴訟参加申出事件",
+  "court_name": "東京地方裁判所",
+  "lawsuit_id": "89380",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=89380",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/380/089380_hanrei.pdf"
+}

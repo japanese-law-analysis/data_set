@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 11,
+    "day": 24
+  },
+  "case_number": "昭和63(行ツ)40",
+  "case_name": "不動産登記申請却下決定取消",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第43巻10号1220頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和62(行コ)36",
+  "original_date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 12,
+    "day": 22
+  },
+  "gist": "共有者の一人が相続人なくして死亡したときとその持分の帰すう",
+  "case_gist": "共有者の一人が死亡し、相続人の不存在が確定し、相続債権者や受遺者に対する清算手続が終了したときは、その持分は、民法九五八条の三に基づく特別縁故者に対する財産分与の対象となり、右財産分与がされないときに、同法二五五条により他の共有者に帰属する。\n(反対意見がある。)",
+  "ref_law": "民法255条，民法958条の3",
+  "lawsuit_id": "52769",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52769",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/769/052769_hanrei.pdf"
+}

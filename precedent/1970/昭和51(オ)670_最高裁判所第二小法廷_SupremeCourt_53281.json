@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 12,
+    "day": 17
+  },
+  "case_number": "昭和51(オ)670",
+  "case_name": "広告料請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第30巻11号1052頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和49(ネ)2201",
+  "original_date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 2,
+    "day": 26
+  },
+  "gist": "日本電信電話公社の電話番号簿掲載の広告料債権と民法一七三条一号",
+  "case_gist": "日本電信電話公社の電話番号簿掲載の広告料債権は、民法一七三条一号所定の債権ないしこれに準ずる債権にあたらない。",
+  "ref_law": "民法173条1号",
+  "lawsuit_id": "53281",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53281",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/281/053281_hanrei.pdf"
+}

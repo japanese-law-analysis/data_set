@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 6,
+    "day": 1
+  },
+  "case_number": "平成22(う)62",
+  "case_name": "公職選挙法違反被告事件",
+  "court_name": "札幌高等裁判所刑事部",
+  "result": "棄却",
+  "original_court_name": "札幌地方裁判所",
+  "original_case_number": "平成21(わ)1258",
+  "original_result": "その他",
+  "gist": "第４５回衆議院議員総選挙に際し，特定の候補者の選挙運動者であった被告人が，その立候補届出前に３４名，立候補届出後に１名の選挙運動者に対し，それぞれ，前者については公示の前後を通じて，後者については公示の後に，特定の選挙区の選挙人に電話をかけて同候補者への投票を呼びかけるなどの選挙運動をすることを依頼し，その報酬として金銭を供与する約束をしたという公職選挙法違反被告事件において，公示の前に電話をかけてその相手と話した行為（公示前の電話かけ）は，後援会活動あるいは政治活動にすぎず，公職選挙法にいう選挙運動には当たらないという弁護人の主張を排斥して選挙運動に当たるとした原審の判断を肯定し，被告人側の控訴を棄却した事例",
+  "lawsuit_id": "80338",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=80338",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/338/080338_hanrei.pdf",
+  "contents": ""
+}

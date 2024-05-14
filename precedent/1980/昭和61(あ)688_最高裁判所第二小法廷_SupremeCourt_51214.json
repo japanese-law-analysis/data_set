@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 3,
+    "day": 24
+  },
+  "case_number": "昭和61(あ)688",
+  "case_name": "みのしろ金目的拐取、拐取者みのしろ金取得等、逮捕監禁、同致傷、銃砲刀剣類所持等取締法違反、火薬類取締法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第41巻2号173頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 5,
+    "day": 19
+  },
+  "gist": "一　刑法第二二五条の二にいう「近親其他被拐取者ノ安否ヲ憂慮スル者」の意義\n\n二　刑法第二二五条の二にいう「近親其他被拐取者ノ安否ヲ憂慮スル者」に当たるとされた事例",
+  "case_gist": "一　刑法二二五条の二にいう「近親其他被拐取者ノ安否ヲ憂慮スル者」には、単なる同情から被拐取者の安否を気づかうにすぎないとみられる第三者は含まれないが、近親のほか、被拐取者の安否を親身になつて憂慮するのが社会通念上当然とみられる特別な関係にある者も含まれる。\n二　Ａ銀行の代表取締役社長が拐取された場合における同銀行幹部らは、刑法二二五条の二にいう「近親其他被拐取者ノ安否ヲ憂慮スル者」に当たる。",
+  "ref_law": "刑法225条ノ2，（第一審判決は、刑事裁判月報第一七巻第九号八九二頁以下に登載）",
+  "lawsuit_id": "51214",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51214",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/214/051214_hanrei.pdf"
+}

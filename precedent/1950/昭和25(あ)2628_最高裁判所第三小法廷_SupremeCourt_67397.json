@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 7,
+    "day": 15
+  },
+  "case_number": "昭和25(あ)2628",
+  "case_name": "銃砲等所持禁止令違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第66号225頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 8,
+    "day": 31
+  },
+  "gist": "刑訴法第四一一条に該当しない一事例（起訴状謄本の送達が適式でなくても被告人が異議を述べていないとき）",
+  "case_gist": "かりに、起訴状謄本の送達が適式でなかつたとしても、本件においては、被告人が異議を述べていないのであつてかかる場合には刑訴四二条の問題とならない。",
+  "ref_law": "刑訴法271条，刑訴法309条，刑訴法411条",
+  "lawsuit_id": "67397",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=67397",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/397/067397_hanrei.pdf"
+}

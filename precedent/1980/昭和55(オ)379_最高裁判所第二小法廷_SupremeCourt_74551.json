@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 11,
+    "day": 25
+  },
+  "case_number": "昭和55(オ)379",
+  "case_name": "未払賃金等支払",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第140号505頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和51(ネ)2749",
+  "original_date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 12,
+    "day": 20
+  },
+  "gist": "就業規則における生理休暇規定の一方的不利益変更の合理性判断の基準",
+  "case_gist": "使用者が就業規則中の「女子従業員は毎月生理休暇を必要日数だけとることができる。そのうち年間二四日を有給とする。」との規定の後段を「そのうち月二日を限度とし、一日につき基本給の一日分の六八パーセントを補償する。」と一方的に変更した場合において、右変更が合理的なものであるか否かを判断するに当たつては、変更の内容及び必要性の両面からの考察が要求され、右変更により従業員の被る不利益の程度、右変更との関連の下に行われた賃金の改善状況のほか、有給生理休暇の取得についての濫用の有無、労働組合との交渉の経過、他の従業員の対応、関連会社の取扱い、我が国社会における生理休暇制度の一般的状況等の諸事情を総合勘案する必要がある。",
+  "ref_law": "労働基準法89条",
+  "lawsuit_id": "74551",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74551",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/551/074551_hanrei.pdf"
+}

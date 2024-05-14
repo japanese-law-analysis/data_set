@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 3,
+    "day": 7
+  },
+  "case_number": "昭和40(オ)825",
+  "case_name": "土地所有権移転登記手続請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第90号561頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和38(ネ)835",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 4,
+    "day": 27
+  },
+  "gist": "譲渡担保と買戻期間",
+  "case_gist": "期限の定めのない債務のための不動産の譲渡担保においては、債務者が債権者に対し債務を弁済して担保物の返還を受けうる期間について、民法第五八〇条の適用はない。",
+  "ref_law": "民法580条",
+  "lawsuit_id": "66485",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66485",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/485/066485_hanrei.pdf"
+}

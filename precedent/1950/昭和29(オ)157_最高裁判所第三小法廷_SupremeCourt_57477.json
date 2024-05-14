@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 7,
+    "day": 23
+  },
+  "case_number": "昭和29(オ)157",
+  "case_name": "超過勤務手当金請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第11巻7号1331頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 12,
+    "day": 16
+  },
+  "gist": "一　市町村立小学校及び中学校並びに青年学校職員の俸給その他の給与の負担に関する政令（昭和二三年政令第二八号）における給与項目列挙の趣旨\n二　市町村立小学校教員の超過勤務手当の支払義務者",
+  "case_gist": "一　市町村立小学校及び中学校並びに青年学校職員の俸給その他の給与の負担に関する政令（昭和二三年政令第二八号）における給与項目の列挙は、限定的列挙と解すべきであつて、右政令にいう俸給のうちには、超過勤務手当は含まれないものと解すべきである。\n\n二　市町村立小学校教員の超過勤務手当の支払義務者は（昭和二三年政令第二八号施行当時において）、市町村である。",
+  "ref_law": "学校教育法5条，市町村立小学校及び中学校並びに青年学校職員の俸給その他の給与の負担に関する政令（昭和23年政令28号）",
+  "lawsuit_id": "57477",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57477",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/477/057477_hanrei.pdf"
+}

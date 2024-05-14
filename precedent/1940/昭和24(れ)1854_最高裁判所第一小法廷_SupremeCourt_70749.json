@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 12,
+    "day": 8
+  },
+  "case_number": "昭和24(れ)1854",
+  "case_name": "窃盗未遂",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第15号235頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 5,
+    "day": 20
+  },
+  "gist": "窃盜の障害未遂に該る一場合と審理不盡の有無",
+  "case_gist": "原判決は「全家不在に乘じて同家六畳間の箪笥の抽出等から同人所有の衣類等を窃取しようとしていた際たま〈家人が外出先から歸つて來たためその目的を遂げなかつたものである」旨を判示している。それ故、本件の未遂は、外界の事情に刺激されることなしに犯人が内心的原因により全く任意に中止したものではなく「全家不在に乘じて」窃盜の實行に着手していた際「たまたま家人が外出先から歸つて來た」と言う外界に生起した客観的原因により未遂に終つたものであることは、原判決において明らかに判示されている。従つて、本件を障害未遂と認定した原判決は、相當であつて所論の審理不盡の違法を認めることはできない。",
+  "ref_law": "刑法243條，刑訴法410條20號",
+  "lawsuit_id": "70749",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70749",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/749/070749_hanrei.pdf"
+}

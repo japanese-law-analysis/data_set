@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 5,
+    "day": 29
+  },
+  "case_number": "昭和38(オ)204",
+  "case_name": "有体動産引渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第18巻4号715頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 11,
+    "day": 10
+  },
+  "gist": "動産の強制競売における競落人の善意無過失が認められた事例。",
+  "case_gist": "動産の強制競売において代金が執行吏に交付されてその集計点検中に、競売物件につき所有権を主張する第三者が現われたが、執行吏がこれを取り上げず、そのまま代金の授受を終り、競落物件の引渡しがなされた等判示の事情がある場合には、競落人がたとえ右主張のあつた事実を知つていても、民法第一八六条第一項の善意の推定を覆えすには足りず、また、他に特段の事情のないかぎり、競落人において右動産の所有権者を確認するための調査をしなかつたとしても過失があるとはいえない。",
+  "ref_law": "民法186条1項，民法192条，民訴法577条2項",
+  "lawsuit_id": "53121",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53121",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/121/053121_hanrei.pdf"
+}

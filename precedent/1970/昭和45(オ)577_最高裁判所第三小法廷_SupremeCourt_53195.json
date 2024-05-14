@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 10,
+    "day": 27
+  },
+  "case_number": "昭和45(オ)577",
+  "case_name": "建物明渡請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第24巻11号1655頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和43(ネ)465",
+  "original_date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 3,
+    "day": 26
+  },
+  "gist": "更生会社の管財人を当事者とする訴訟の係属中に管財人が追加選任された場合と訴訟手続の中断",
+  "case_gist": "更生会社の管財人を当事者とする訴訟の係属中に、新たに管財人が追加選任されたときは、民訴法二一二条一項の類推適用により訴訟手続は中断し、従来の管財人と新管財人とが共同してその訴訟手続を受け継ぐことを要する。",
+  "ref_law": "民訴法212条1項，会社更生法96条，会社更生法97条",
+  "lawsuit_id": "53195",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53195",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/195/053195_hanrei.pdf"
+}

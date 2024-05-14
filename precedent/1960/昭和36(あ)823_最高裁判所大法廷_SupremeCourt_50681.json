@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 11,
+    "day": 30
+  },
+  "case_number": "昭和36(あ)823",
+  "case_name": "威力業務妨害",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第20巻9号1076頁",
+  "original_court_name": "札幌高等裁判所\n        　函館支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 2,
+    "day": 21
+  },
+  "gist": "一　国鉄の事業ないし業務は刑法第二三三条第二三四条にいう業務に含まれるか\n二　国鉄の業務と民営鉄道の業務との間の法律上の保護の差異と憲法第一四条",
+  "case_gist": "一　国定の行なう事業ないし業務は、刑法第二三三条、第二三四条にいう業務に含まれる。\n二　国鉄の業務が、これに対する妨害に対し、業務妨害罪または公務執行妨害罪の保護を受け、民営鉄道の業務との間に、法律上の保護に差異があることは、憲法第一四条に違反しない。",
+  "ref_law": "刑法233条，刑法234条，刑法95条1項，憲法14条",
+  "lawsuit_id": "50681",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50681",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/681/050681_hanrei.pdf"
+}

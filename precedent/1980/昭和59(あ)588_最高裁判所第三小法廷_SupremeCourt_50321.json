@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 63,
+    "month": 1,
+    "day": 19
+  },
+  "case_number": "昭和59(あ)588",
+  "case_name": "業務上堕胎、保護者遺棄致死、死体遺棄",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第42巻1号1頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 3,
+    "day": 29
+  },
+  "gist": "堕胎により出生させた未熟児を放置した医師につき保護者遺棄致死罪が成立するとされた事例",
+  "case_gist": "妊婦の依頼を受け、妊娠第二六週に入つた胎児の堕胎を行つた産婦人科医師が、右堕胎により出生した未熟児に適切な医療を受けさせれば生育する可能性のあることを認識し、かつ、そのための措置をとることが迅速容易にできたにもかかわらず、同児を自己の医院内に放置して約五四時間後に死亡するに至らせたときは、業務上堕胎罪に併せて保護者遺棄致死罪が成立する。",
+  "ref_law": "刑法45条，刑法214条，刑法218条1項，刑法219条",
+  "lawsuit_id": "50321",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50321",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/321/050321_hanrei.pdf"
+}

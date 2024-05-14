@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 10,
+    "day": 31
+  },
+  "case_number": "昭和59(行ツ)324",
+  "case_name": "選挙無効",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第146号13頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和58(行ケ)70",
+  "original_date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 8,
+    "day": 7
+  },
+  "gist": "千葉県議会議員の選挙区等に関する条例（昭和四九年千葉県条例第五五号）の議員定数配分規定の適法性",
+  "case_gist": "千葉県議会議員の選挙区等に関する条例（昭和四九年千葉県条例第五五号）の議員定数配分規定は、昭和五八年四月一〇日の千葉県議会議員選挙当時、公職選挙法一五条七項に違反していたものである。",
+  "ref_law": "千葉県議会議員の選挙区等に関する条例（昭和49年千葉県条例第55号）2条，公職選挙法15条7項",
+  "lawsuit_id": "62948",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62948",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/948/062948_hanrei.pdf"
+}

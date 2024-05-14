@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 4,
+    "day": 5
+  },
+  "case_number": "昭和43(オ)943",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第27巻3号419頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和41(ネ)641",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 6,
+    "day": 5
+  },
+  "gist": "一、身体傷害による財産上および精神上の損害の賠償請求における請求権および訴訟物の個数\n二、不法行為による損害賠償の一部請求と過失相殺",
+  "case_gist": "一、同一事故により生じた同一の身体傷害を理由として財産上の損害と精神上の損害との賠償を請求する場合における請求権および訴訟物は、一個である。\n二、不法行為に基づく一個の損害賠償請求権のうちの一部が訴訟上請求されている場合に、過失相殺をするにあたつては、損害の全額から過失割合による減額をし、その残額が請求額をこえないときは右残額を認容し、残額が請求額をこえるときは請求の全額を認容することができるものと解すべきである。",
+  "ref_law": "民訴法186条，民訴法224条1項，民法709条，民法710条，民法722条2項",
+  "lawsuit_id": "51932",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51932",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/932/051932_hanrei.pdf"
+}

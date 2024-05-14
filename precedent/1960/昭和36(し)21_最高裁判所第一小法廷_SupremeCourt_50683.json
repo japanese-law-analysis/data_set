@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 6,
+    "day": 14
+  },
+  "case_number": "昭和36(し)21",
+  "case_name": "裁判官忌避申立却下決定に対する異議についてなした棄却決定に対する特別抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第15巻6号974頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 4,
+    "day": 11
+  },
+  "gist": "共犯者に対して有罪の判決をした裁判官と忌避の原因。",
+  "case_gist": "裁判官が共犯者に対して被告人との共謀にかかる公訴事実につき有罪の判決をしたことだけでは、被告人に対する右公訴事実につき審判をするにあたつて忌避の原因とはならない。",
+  "ref_law": "刑訴法20条，刑訴法21条",
+  "lawsuit_id": "50683",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50683",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/683/050683_hanrei.pdf"
+}

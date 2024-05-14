@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 11,
+    "day": 22
+  },
+  "case_number": "昭和48(オ)711",
+  "case_name": "建物収去土地明渡等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第110号535頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和46(ネ)795",
+  "original_date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 3,
+    "day": 30
+  },
+  "gist": "建物買取請求権が消滅するものと認められた事例",
+  "case_gist": "第三者が賃借土地の上に存する建物の所有権を取得した場合において、賃貸人が賃借権の譲渡を承諾しない間に賃貸借が賃料不払のため解除されたときは、借地法一〇条に基づく第三者の建物買取請求権は、これによつて消滅するものと解すべきであり、この理は、第三者が賃借人の賃料滞納の事実を知らず、かつ、知らないことについて過失がなかつた場合においても同様である。",
+  "ref_law": "借地法10条",
+  "lawsuit_id": "62170",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62170",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/170/062170_hanrei.pdf"
+}

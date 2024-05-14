@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 5,
+    "day": 29
+  },
+  "case_number": "平成18(ワ)428",
+  "case_name": "土地明渡等請求事件",
+  "court_name": "岐阜地方裁判所民事第１部",
+  "result": "その他",
+  "gist": "本件各土地を所有する原告らが，本件各土地を賃借し競馬場を運営している被告に対し，賃借契約が終了し無権原の占有であるとして，所有権に基づき本件各土地の明け渡しを求めていたが，これが認めらた事例",
+  "lawsuit_id": "36914",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=36914",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/914/036914_hanrei.pdf",
+  "contents": ""
+}

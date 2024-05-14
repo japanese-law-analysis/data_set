@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 2,
+    "day": 8
+  },
+  "case_number": "昭和23(れ)1668",
+  "case_name": "強盗傷人",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第3巻2号113頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 10,
+    "day": 4
+  },
+  "gist": "共同正犯の成立要件としての「共謀」の意義",
+  "case_gist": "共同正犯が成立するために必要な「共謀」とは、数人相互の間に共同犯行の認識があることをいう。",
+  "ref_law": "刑法60条",
+  "lawsuit_id": "55310",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55310",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/310/055310_hanrei.pdf"
+}

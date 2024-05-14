@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 2,
+    "day": 16
+  },
+  "case_number": "昭和24(れ)1955",
+  "case_name": "有毒飲食物等取締令違反、業務上過失致死傷",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第16号473頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 5,
+    "day": 30
+  },
+  "gist": "一　判決謄本の不備と上告理由\n二　メタノールの含有量に關する審理の程度",
+  "case_gist": "一　判決の謄本の不備は、原判決に何等の影響を及ぼさないこというまでもなく、そして、原判決の原本には、裁判長判事中野保雄、判事亀崎尚弘、判事渡邊好人の署名捺印が存し、同判事三名はいずれも現存の裁判官であること公知の事實であるから、論旨は採ることができない。\n二　所論報告書によれば、本件アルコール中に一立方センチメール中一ミリグラム以上のメタノールを含有することを認めることができるからそれ以上幾何のメタノールを含有するか明らかでなくとも原判決には證據上の違法は存しない。",
+  "ref_law": "舊刑訴法68條，舊刑訴法70條，舊刑訴法42條，舊刑訴法360條1項，有毒飲食物等取締令1條1項",
+  "lawsuit_id": "74879",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74879",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/879/074879_hanrei.pdf"
+}

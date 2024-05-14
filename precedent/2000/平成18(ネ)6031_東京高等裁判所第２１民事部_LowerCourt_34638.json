@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 4,
+    "day": 26
+  },
+  "case_number": "平成18(ネ)6031",
+  "case_name": "請負代金請求控訴，同附帯控訴",
+  "court_name": "東京高等裁判所第２１民事部",
+  "result": "破棄自判",
+  "original_court_name": "東京地方裁判所",
+  "original_case_number": "平成18(ワ)2759",
+  "original_result": "その他",
+  "gist": "会員となった顧客に対して不動産競売物件の記録を提供するなどの業務を行う者が，顧客に対し，不動産競売物件に関する競売手続の情報を提供した上で，上記顧客との間で，当該不動産の占有者との間で明渡しに関する和解交渉を行うことなどを請け負う旨の請負契約を締結し，約定の業務を遂行したとして報酬の支払を請求した事案につき，上記請負契約は弁護士法第７２条本文に違反する事項を目的とする契約として民法第９０条により無効であるとした事例",
+  "lawsuit_id": "34638",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=34638",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/638/034638_hanrei.pdf",
+  "contents": ""
+}

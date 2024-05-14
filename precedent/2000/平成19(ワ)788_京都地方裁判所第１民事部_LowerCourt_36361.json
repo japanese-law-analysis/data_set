@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 4,
+    "day": 24
+  },
+  "case_number": "平成19(ワ)788",
+  "case_name": "遺産確認請求事件",
+  "court_name": "京都地方裁判所第１民事部",
+  "result": "その他",
+  "gist": "遺産中に存する金銭債権は，相続開始ととももに法律上当然に分割されるが，共同相続人全員がこれを遺産分割の対象とすることに合意すれば，遺産確認の訴えの対象とすることが許されるとした事例",
+  "lawsuit_id": "36361",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=36361",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/361/036361_hanrei.pdf",
+  "contents": ""
+}

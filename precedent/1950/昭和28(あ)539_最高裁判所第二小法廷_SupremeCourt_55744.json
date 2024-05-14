@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 4,
+    "day": 22
+  },
+  "case_number": "昭和28(あ)539",
+  "case_name": "公務執行妨害、傷害",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第9巻5号911頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 10,
+    "day": 20
+  },
+  "gist": "刑事訴訟に関する手続を法律で定めることと憲法第七七条",
+  "case_gist": "法律により刑事に関する訴訟手続を規定することは憲法第七七条に違反しない。",
+  "ref_law": "憲法77条",
+  "lawsuit_id": "55744",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55744",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/744/055744_hanrei.pdf"
+}

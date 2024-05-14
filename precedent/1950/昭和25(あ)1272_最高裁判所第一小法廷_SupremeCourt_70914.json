@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 2,
+    "day": 8
+  },
+  "case_number": "昭和25(あ)1272",
+  "case_name": "銃砲等所持禁止令違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第40号343頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 5,
+    "day": 6
+  },
+  "gist": "銃砲等所持禁止令の合憲性と同違反罪に対する日本の裁判所の裁判権の有無",
+  "case_gist": "所論の銃砲等所持禁止令が昭和二〇年勅令第五四二号ポツダム宣言の受諾に伴い発する命令に関する件（同年一二月八日貴族院において、同月十八日衆議院においてそれぞれ承諾を与えられ法律と同一の効力を有するに至つた緊急勅令）に基ずくものであつて、憲法に違反するものではないこと、従つて銃砲等所持禁止令違反の事件については日本の裁判所がその裁判権を有するものであることは当裁判所昭和二二年（れ）第二七九号同二三年六月二三日大法廷判決の趣旨とするところである。",
+  "ref_law": "銃砲等所持禁止令1条，昭和20年勅令542号ポツダム宣言の受諾に伴い発する命令に関する件，憲法98条",
+  "lawsuit_id": "70914",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70914",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/914/070914_hanrei.pdf"
+}

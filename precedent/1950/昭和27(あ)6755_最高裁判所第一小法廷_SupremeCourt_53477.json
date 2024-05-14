@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 5,
+    "day": 7
+  },
+  "case_number": "昭和27(あ)6755",
+  "case_name": "昭和二二年勅令第九号違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第7巻5号954頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 9,
+    "day": 9
+  },
+  "gist": "昭和二二年勅令第九号第二条にいわゆる「婦女に売淫させることを内容とする契約」の意味",
+  "case_gist": "昭和二二年勅令第九号第二条にいわゆる「婦女に売淫をさせることを内容とする契約」とは、その契約の相手方が当該婦女であると否とを問わず結局において直接又は間接に多かれ少かれ婦女を束縛または強制して売淫をさせる結果を招来し婦女の個人的自由の伸張を阻害すべき内容を有する契約を指称するものである。",
+  "ref_law": "昭和22年勅令9号2条",
+  "lawsuit_id": "53477",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53477",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/477/053477_hanrei.pdf"
+}

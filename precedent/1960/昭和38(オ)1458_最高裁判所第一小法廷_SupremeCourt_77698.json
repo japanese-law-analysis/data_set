@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 5,
+    "day": 26
+  },
+  "case_number": "昭和38(オ)1458",
+  "case_name": "賃料請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第83号605頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和37(ネ)1627",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 9,
+    "day": 19
+  },
+  "gist": "他人の物の賃貸借において賃借人が賃料支払を拒否できるとされた事例",
+  "case_gist": "他人の物の賃貸借において、賃貸人がその物の所有者に対抗できる何らの権限をも有しないため、賃借人が、その物に対する使用収益に関して、現実に所有者から不法占有を理由とする損害賠償の請求等を受けて、その責に任じなければならない事態となつたときは、賃借人は賃貸人に対する賃料の支払を拒否し得るものと解すべきである。",
+  "ref_law": "民法576条，民法533条",
+  "lawsuit_id": "77698",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77698",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/698/077698_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 5,
+    "month": 11,
+    "day": 11
+  },
+  "case_number": "平成2(オ)170",
+  "case_name": "貸金等",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第47巻9号5255頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和63(ネ)65",
+  "original_date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 10,
+    "day": 31
+  },
+  "gist": "給付訴訟において不執行の合意が認定された場合の判決主文",
+  "case_gist": "給付訴訟において、給付請求権について不執行の合意がある旨の主張がされ、その事実が認められる場合には、裁判所は、右請求権について強制執行をすることができないことを判決主文において明らかにすべきである。",
+  "ref_law": "民訴法186条，民訴法191条1項",
+  "lawsuit_id": "55850",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55850",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/850/055850_hanrei.pdf"
+}

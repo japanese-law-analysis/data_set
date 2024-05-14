@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 12,
+    "day": 16
+  },
+  "case_number": "昭和29(オ)492",
+  "case_name": "所有權確認請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第8巻12号2158頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 4,
+    "day": 19
+  },
+  "gist": "所有権に基ずく給付の訴が許される場合と所有権確認の訴の適否",
+  "case_gist": "所有権に基ずき給付の訴をなすことを得る場合においても、その基本たる権利関係につき即時確定の利益があると認められる限り、これが存否確認の訴を提起することは不適法でない。",
+  "ref_law": "民訴法225条",
+  "lawsuit_id": "56191",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56191",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/191/056191_hanrei.pdf"
+}

@@ -1,0 +1,15 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Reiwa",
+    "year": 5,
+    "month": 12,
+    "day": 15
+  },
+  "case_number": "令和3(ワ)1509",
+  "case_name": "損害金請求事件",
+  "court_name": "横浜地方裁判所",
+  "lawsuit_id": "92664",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=92664",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/664/092664_hanrei.pdf"
+}

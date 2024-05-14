@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 5,
+    "month": 9,
+    "day": 10
+  },
+  "case_number": "平成3(行ツ)46",
+  "case_name": "開発許可処分等取消",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第47巻7号4955頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成2(行コ)57",
+  "original_date": {
+    "era": "Heisei",
+    "year": 2,
+    "month": 11,
+    "day": 28
+  },
+  "gist": "工事が完了し検査済証が交付された後における開発許可の取消しを求める訴えの利益",
+  "case_gist": "都市計画法二九条による許可を受けた開発行為に関する工事が完了し、当該工事の検査済証の交付がされた後においては、右許可の取消しを求める訴えの利益は失われる。\n\n（補足意見がある。）",
+  "ref_law": "行政事件訴訟法9条，都市計画法29条，都市計画法81条1項1号",
+  "lawsuit_id": "52784",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52784",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/784/052784_hanrei.pdf"
+}

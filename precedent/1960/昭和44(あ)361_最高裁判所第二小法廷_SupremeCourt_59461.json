@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 6,
+    "day": 18
+  },
+  "case_number": "昭和44(あ)361",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第171号1019頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 12,
+    "day": 10
+  },
+  "gist": "労務賃名義の金銭支払が公職選挙法二二一条一項一号の金銭供与にあたるとされた事例",
+  "case_gist": "選挙運動のために使用する労務者として雇い、労務賃名義で公職選挙法一九七条の二第一項二号（い）（ろ）所定の基本日額および超過勤務手当相当額を支払つて、その領収証を徴収し、かつ、そのことを選挙管理委員会に報告した場合においても、その者に候補者のための投票依頼または投票勧誘等の選挙運動を依頼し、その報酬として右労務賃名義の金員を支払つたものであるときは、その支払は、同法二二一条一項一号にいう選挙運動者に対する金銭の供与にあたる。",
+  "ref_law": "公職選挙法197条の2第1項，公職選挙法221条1項1号",
+  "lawsuit_id": "59461",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59461",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/461/059461_hanrei.pdf"
+}

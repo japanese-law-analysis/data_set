@@ -1,0 +1,19 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 5,
+    "day": 29
+  },
+  "case_number": "平成20(行ウ)1",
+  "case_name": "自動車税減免申請却下処分取消等請求事件",
+  "court_name": "名古屋地方裁判所",
+  "field": "行政",
+  "gist": "地方税法１６２条にいう「天災その他特別の事情がある場合」の意義と自動車税の減免に関する都道府県知事の裁量権",
+  "case_gist": "地方税法１６２条にいう「天災その他特別の事情がある場合」とは，天災により自動車に損傷を受けた場合のように，納税義務者に何ら責任のないことが客観的に明らかな事情によって当該自動車を運行することができなくなった場合等をいい，自動車税を減免するか否かについては，自動車税の法的性格を踏まえ，都道府県知事及びその委任を受けた都道府県税事務所長の合理的な裁量にゆだねる趣旨であると解するのが相当である。",
+  "lawsuit_id": "37094",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=37094",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/094/037094_hanrei.pdf",
+  "contents": ""
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 9,
+    "day": 28
+  },
+  "case_number": "昭和45(あ)689",
+  "case_name": "業務上過失致死傷",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第25巻6号783頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 2,
+    "day": 26
+  },
+  "gist": "道路交通法三七条二項にいう「既に右折している車両等」の意義",
+  "case_gist": "道路交通法三七条二項にいう「既に右折している車両等」とは、単に右折中であるというだけでは足りず、右折を完了している状態またはそれに近い状態にある車両等をいう。",
+  "ref_law": "道路交通法37条2項",
+  "lawsuit_id": "51002",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51002",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/002/051002_hanrei.pdf"
+}

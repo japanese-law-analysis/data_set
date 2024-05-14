@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 5,
+    "day": 30
+  },
+  "case_number": "昭和54(オ)1104",
+  "case_name": "約束手形金",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第34巻3号521頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和51(ネ)1980",
+  "original_date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 8,
+    "day": 3
+  },
+  "gist": "約束手形の所持人と裏書人との間において支払猶予の特約がされた場合と所持人の裏書人に対する手形上の請求権の消滅時効の起算点",
+  "case_gist": "約束手形の所持人と裏書人との間において裏書人の手形上の債務につき支払猶予の特約がされた場合には、所持人の裏書人に対する手形上の請求権の消滅時効は、右猶予期間が満了した時から進行する。",
+  "ref_law": "手形法70条2項，手形法77条1項8号，民法166条1項",
+  "lawsuit_id": "53349",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53349",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/349/053349_hanrei.pdf"
+}

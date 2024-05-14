@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 1,
+    "day": 28
+  },
+  "case_number": "昭和26(オ)646",
+  "case_name": "不動産所有権移転登記請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第8巻1号276頁",
+  "original_court_name": "広島高等裁判所\n        　松江支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 8,
+    "day": 29
+  },
+  "gist": "仮装の売買契約に基き所有権移転登記を受けた者がその後、真実の売買契約により所有権を取得した場合とその登記の対抗力",
+  "case_gist": "仮装の売買契約に基き不動産の所有権移転登記を受けた者が、その後真実の売買契約によりその所有権を取得し、右登記が現在の実体的権利状態と合致するに至つたときは、その時以後、買主は右所有権の取得を第三者に対抗することができる。",
+  "ref_law": "民法177条",
+  "lawsuit_id": "57258",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57258",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/258/057258_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 3,
+    "day": 18
+  },
+  "case_number": "昭和39(オ)1013",
+  "case_name": "商号使用禁止損害賠償等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第78号351頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_case_number": "昭和37(ネ)181",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 6,
+    "day": 15
+  },
+  "gist": "一　「Ａ」と「ＡＢ」との商号の類似性の有無。\n二　類似商号であるとされた事例。",
+  "case_gist": "一　「Ａ」と「ＡＢ」の両商号は、その文字呼称において「Ａ」が共通であり、後者はこれに「Ｂ」の文字を加えたものにすぎないから、右の両商号は類似商号に該当する。\n二　「Ａ」と「ＡＢ」とは、原審認定の事実関係のもとで、類似商号ということができる。",
+  "ref_law": "商法20条",
+  "lawsuit_id": "63938",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63938",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/938/063938_hanrei.pdf"
+}

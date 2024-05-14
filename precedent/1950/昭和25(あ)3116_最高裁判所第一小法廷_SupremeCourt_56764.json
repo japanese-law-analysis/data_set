@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 12,
+    "day": 18
+  },
+  "case_number": "昭和25(あ)3116",
+  "case_name": "営利誘拐、誘拐、職業安定法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第6巻11号1319頁",
+  "original_court_name": "札幌高等裁判所\n        　函館支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 10,
+    "day": 4
+  },
+  "gist": "売笑婦とその抱主との関係と職業安定法第五条第一項にいう「雇用関係」",
+  "case_gist": "売笑婦とその抱主との契約関係は、職業安定法第５条１項にいわゆる「雇用関係」にあたる。",
+  "ref_law": "職業安定法5条1項，職業安定法63条2号",
+  "lawsuit_id": "56764",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56764",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/764/056764_hanrei.pdf"
+}

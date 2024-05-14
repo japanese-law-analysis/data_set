@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 2,
+    "day": 19
+  },
+  "case_number": "昭和39(オ)321",
+  "case_name": "抵当権設定登記抹消登記手続等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第77号483頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和37(ネ)572",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 12,
+    "day": 4
+  },
+  "gist": "現実の契約日時と相違する日時で登記原因の記載がなされている登記の効力。",
+  "case_gist": "昭和三三年一二月一六日の抵当権設定契約を原因とする登記の記載が昭和三三年一〇月一五日付抵当権設定契約に因るものとされていても、右の程度の相違は登記の無効をきたさない。",
+  "ref_law": "不動産登記法117条",
+  "lawsuit_id": "77738",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77738",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/738/077738_hanrei.pdf"
+}

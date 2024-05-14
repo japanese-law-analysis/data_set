@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 4,
+    "day": 15
+  },
+  "case_number": "昭和43(オ)1355",
+  "case_name": "建物収去土地明渡等請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第95号117頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和41(ネ)953",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 9,
+    "day": 26
+  },
+  "gist": "特約に定められた催告期間より短い期間を指定した催告と契約解除",
+  "case_gist": "催告期間を定める特約の付された契約において、債権者が債務者に対し特約所定の期間より短い期間を指定して債務の履行を催告した場合でも、催告の時から特約所定の期間を経過しかつその期間が相当と認められるときには、債権者は契約を解除することができる。",
+  "ref_law": "民法541条",
+  "lawsuit_id": "66667",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66667",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/667/066667_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 4,
+    "day": 18
+  },
+  "case_number": "昭和40(オ)1499",
+  "case_name": "請求異議",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第21巻3号671頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和38(ネ)154",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 9,
+    "day": 22
+  },
+  "gist": "親権者が自らおよび子の法定代理人として約束手形を共同で振り出した場合において利益相反関係を生じないとされた事例",
+  "case_gist": "親権者が子の法定代理人として約束手形を振り出し、自らもその共同振出人となつた場合において、右手形が子を主債務者とし親権者をその連帯保証人とする借受金の支払のために振り出されたものであるときには、子と親権者との間に民法第八二六条所定の利益相反関係は生じない。",
+  "ref_law": "民法826条",
+  "lawsuit_id": "54994",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54994",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/994/054994_hanrei.pdf"
+}

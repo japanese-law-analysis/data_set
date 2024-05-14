@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 4,
+    "day": 23
+  },
+  "case_number": "昭和45(オ)46",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第25巻3号388頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和43(ネ)1684",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 10,
+    "day": 30
+  },
+  "gist": "賃貸土地の所有者がその所有権とともにする賃貸人たる地位の譲渡と賃借人の承諾の要否",
+  "case_gist": "賃貸借の目的となつている土地の所有者が、その所有権とともに賃貸人たる地位を他に譲渡する場合には、賃貸人の義務の移転を伴うからといつて、特段の事情のないかぎり、賃借人の承諾を必要としない。",
+  "ref_law": "民法466条，民法601条",
+  "lawsuit_id": "53193",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53193",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/193/053193_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 9,
+    "day": 1
+  },
+  "case_number": "昭和35(オ)462",
+  "case_name": "訴願裁決取消請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第14巻11号2005頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 1,
+    "day": 29
+  },
+  "gist": "一　候補者の長男である投票管理者が自ら代理投票補助者としてした代理投票の効力\n二　代理投票の違法管理の故に無効とされる投票はいわゆる潜在的無効投票か",
+  "case_gist": "一　候補者の長男である投票管理者が自ら代理投票補助者としてした代理投票は無効である。\n二　代理投票の違法管理の故に無効とされる投票はいわゆる潜在的無効投票ではない。",
+  "ref_law": "公職選挙法48条，公職選挙法209条の2",
+  "lawsuit_id": "53021",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53021",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/021/053021_hanrei.pdf"
+}

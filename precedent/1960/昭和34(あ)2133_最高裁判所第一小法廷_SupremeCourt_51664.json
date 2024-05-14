@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 3,
+    "day": 24
+  },
+  "case_number": "昭和34(あ)2133",
+  "case_name": "公務執行妨害、傷害",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第14巻4号462頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 10,
+    "day": 17
+  },
+  "gist": "証拠物たる録音テープの証拠調の方法。",
+  "case_gist": "本件のような本人不知の間に録音された証拠物たる録音テープの証拠調は、公判廷でこれを展示し、かつ、録音再生器により再生する方法によるべきである。",
+  "ref_law": "刑訴法306条，刑訴法305条",
+  "lawsuit_id": "51664",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51664",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/664/051664_hanrei.pdf"
+}

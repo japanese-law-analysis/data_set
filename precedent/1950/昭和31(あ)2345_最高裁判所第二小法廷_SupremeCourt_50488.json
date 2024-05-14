@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 10,
+    "day": 3
+  },
+  "case_number": "昭和31(あ)2345",
+  "case_name": "横領、外国人登録法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第12巻14号3199頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 5,
+    "day": 22
+  },
+  "gist": "外国人登録法第一三条第一項にいう「携帯」。",
+  "case_gist": "外国人登録法第一三条第一項にいう「携帯」とは、同法の規定する職員から呈示を求められたときは、直ちに呈示できるように所持することをいう。",
+  "ref_law": "外国人登録法13条1項",
+  "lawsuit_id": "50488",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50488",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/488/050488_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 11,
+    "day": 26
+  },
+  "case_number": "昭和27(オ)1252",
+  "case_name": "農地買収計画取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第8巻11号2117頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 8,
+    "day": 10
+  },
+  "gist": "宅地買収計画によつて買収目的地の範囲を正確に知ることができないとしても計画が違法でないとされた事例",
+  "case_gist": "宅地の買収計画によつて、現に賃借人等が使用中の宅地について買収計画が定められたことを十分に推知される場合は、計画に図面の添付がなくても、それがため計画そのものは必ずしも違法とすることはできない。",
+  "ref_law": "自作農創設特別措置法15条3項，自作農創設特別措置法6条5項",
+  "lawsuit_id": "56102",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56102",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/102/056102_hanrei.pdf"
+}

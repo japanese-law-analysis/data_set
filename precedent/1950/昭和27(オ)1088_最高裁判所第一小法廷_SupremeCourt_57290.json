@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 1,
+    "day": 31
+  },
+  "case_number": "昭和27(オ)1088",
+  "case_name": "借地権確認本訴並ニ建物収去土地明渡反訴請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第11巻1号150頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 10,
+    "day": 6
+  },
+  "gist": "罹災都市借地借家臨時処理法第一〇条の適用を受ける借地権者",
+  "case_gist": "罹災都市借地借家臨時処理法第一〇条の適用を受ける罹災建物の敷地の借地権者は、必ずしも、右建物の滅失当時、その借地権または建物につき登記を有した者に限らないと解すべきである。",
+  "ref_law": "罹災都市借地借家臨時処理法10条",
+  "lawsuit_id": "57290",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57290",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/290/057290_hanrei.pdf"
+}

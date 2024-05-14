@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 4,
+    "day": 12
+  },
+  "case_number": "昭和24新(れ)104",
+  "case_name": "窃盗、建造物侵入",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第4巻4号535頁",
+  "original_court_name": "広島高等裁判所\n        　松江支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 6,
+    "day": 1
+  },
+  "gist": "除斥又は忌避の理由が認められない一事例と憲法第三七條第一項",
+  "case_gist": "簡易裁判所判事として起訴前の強制處分に關與し且つ、起訴後第一回公判期日までの間に地方裁判所判事として保釋請求却下の決定をした判事が、地方裁判所判事として第一審の審理判決をしたことは所論の通りであるが、そのために同判事が職務から除斥されることがないことは勿論、忌避の理由があるものとも認められないから、第一審の判決が憲法第三七條第一項に違反するとはいえない論旨は理由がない。",
+  "ref_law": "刑訴法21條，憲法37條1項",
+  "lawsuit_id": "56737",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56737",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/737/056737_hanrei.pdf"
+}

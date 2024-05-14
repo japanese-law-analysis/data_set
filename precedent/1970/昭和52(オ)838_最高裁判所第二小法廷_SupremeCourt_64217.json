@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 5,
+    "day": 1
+  },
+  "case_number": "昭和52(オ)838",
+  "case_name": "約束手形金",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第124号13頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和50(ネ)421",
+  "original_date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 4,
+    "day": 28
+  },
+  "gist": "民訴法四四八条に基づいて口頭弁論が終結された場合に同法四四七条二項の書面を被告に送達することなく判決が言い渡されたときとその効果",
+  "case_gist": "手形訴訟が被告不出頭の期日に通常の手続に移行され、民訴法四四八条に基づき同法四四七条二項の書面を被告に事前に送達せずに口頭弁論が終結された場合において、右書面がその後も被告に送達されないまま判決が言い渡されても、そのことは控訴裁判所が右判決を取り消すべき理由とならない。",
+  "ref_law": "民訴法386条，民訴法447条2項，民訴法448条",
+  "lawsuit_id": "64217",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64217",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/217/064217_hanrei.pdf"
+}

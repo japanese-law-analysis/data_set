@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 2,
+    "day": 24
+  },
+  "case_number": "昭和43(あ)248",
+  "case_name": "業務上横領、詐欺",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第170号347頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 12,
+    "day": 18
+  },
+  "gist": "裁判長の認印を欠く公判調書の効力。",
+  "case_gist": "公判調書に、裁判所書記官の署名押印がある以上裁判長もしくは裁判官の認印が欠けていることの一事だけで直ちにこれを無効と解すべきではない（昭和三〇年（あ）第一二〇号同三二年八月二三日第二小法廷判決、刑集一一巻八号二一〇三頁参照）。",
+  "ref_law": "刑訴法48条，刑訴規則37条，刑訴規則46条",
+  "lawsuit_id": "59284",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59284",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/284/059284_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 10,
+    "day": 19
+  },
+  "case_number": "昭和25(オ)291",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第5巻11号612頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 5,
+    "day": 30
+  },
+  "gist": "強迫による手形行為の取消と人的抗弁",
+  "case_gist": "強迫による手形行為取消の抗弁は、手形法第一七条にいわゆる「人的関係に基く抗弁」である。",
+  "ref_law": "手形法17条",
+  "lawsuit_id": "56018",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56018",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/018/056018_hanrei.pdf"
+}

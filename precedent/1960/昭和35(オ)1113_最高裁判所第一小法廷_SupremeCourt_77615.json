@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 4,
+    "day": 12
+  },
+  "case_number": "昭和35(オ)1113",
+  "case_name": "貸金請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第60号167頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 6,
+    "day": 15
+  },
+  "gist": "主債務者に対する確定判決の保証人に対する効力",
+  "case_gist": "主債務者に対する債務存在の確定判決の効力は、当事者を異にするその債務の保証人には及ばない。",
+  "ref_law": "民訴法201条",
+  "lawsuit_id": "77615",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77615",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/615/077615_hanrei.pdf"
+}

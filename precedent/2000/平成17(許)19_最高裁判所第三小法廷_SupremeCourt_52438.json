@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 17,
+    "month": 12,
+    "day": 6
+  },
+  "case_number": "平成17(許)19",
+  "case_name": "債権差押命令申立て一部却下決定に対する執行抗告棄却決定に対する許可抗告事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "破棄自判",
+  "article_info": "民集　第59巻10号2629頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成17(ラ)512",
+  "original_date": {
+    "era": "Heisei",
+    "year": 17,
+    "month": 4,
+    "day": 26
+  },
+  "gist": "保険医療機関，指定医療機関等の指定を受けた病院又は診療所が社会保険診療報酬支払基金に対して取得する診療報酬債権と民事執行法１５１条の２第２項に規定する「継続的給付に係る債権」",
+  "case_gist": "健康保険法上の保険医療機関，生活保護法上の指定医療機関等の指定を受けた病院又は診療所が社会保険診療報酬支払基金に対して取得する診療報酬債権は，民事執行法１５１条の２第２項に規定する「継続的給付に係る債権」に当たる",
+  "ref_law": "民事執行法151条の2，民事執行法151条，社会保険診療報酬支払基金法1条，社会保険診療報酬支払基金法15条1項，2項，健康保険法63条3項1号，健康保険法76条，国民健康保険法36条3項，国民健康保険法45条，生活保護法49条，生活保護法53条，児童福祉法20条，児童福祉法21条の3",
+  "lawsuit_id": "52438",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52438",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/438/052438_hanrei.pdf"
+}

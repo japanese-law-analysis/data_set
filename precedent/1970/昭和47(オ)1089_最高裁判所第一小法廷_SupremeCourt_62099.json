@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 4,
+    "day": 26
+  },
+  "case_number": "昭和47(オ)1089",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集民　第109号225頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和44(ネ)678",
+  "original_date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 6,
+    "day": 28
+  },
+  "gist": "転補後に署名捺印された単独判決と判決手続の適法性",
+  "case_gist": "一人の裁判官により審理されていた事件の判決原本の署名捺印が当該裁判官転補後に行なわれたときは、その判決手続は違法となる。",
+  "ref_law": "裁判所法47条，民訴法191条3項，民訴法387条",
+  "lawsuit_id": "62099",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62099",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/099/062099_hanrei.pdf"
+}

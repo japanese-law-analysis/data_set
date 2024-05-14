@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 7,
+    "day": 17
+  },
+  "case_number": "昭和34(あ)1320",
+  "case_name": "有印公文書偽造",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第143号415頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 5,
+    "day": 28
+  },
+  "gist": "同一の公文書に関する有形偽造と無形偽造との認識の齟齬。",
+  "case_gist": "同一の公文書に関する有形偽造と無形偽造とは、罪質を同じくし、その間の認識の齟齬は、実行せられた偽造の結果に対する故意の責任を阻却するものでなく、かつ両者その法定刑を同じくするから、刑法三八条二項の制約を受けるものではない。",
+  "ref_law": "刑法38条1項，刑法38条2項，刑法155条，刑法156条",
+  "lawsuit_id": "58702",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58702",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/702/058702_hanrei.pdf"
+}

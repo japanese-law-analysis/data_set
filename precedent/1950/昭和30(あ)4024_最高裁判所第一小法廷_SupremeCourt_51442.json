@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 6,
+    "day": 28
+  },
+  "case_number": "昭和30(あ)4024",
+  "case_name": "職業安定法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第10巻6号949頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 11,
+    "day": 21
+  },
+  "gist": "職業安定法第六三条第二号の罪と同法第六四条第一号の罪につき併合罪加重をなす場合と刑法施行法第三条第三項。",
+  "case_gist": "職業安定法第六三条第二号の罪と同法第六四条第一号の罪につき併合罪加重をなす場合には刑法施行法第三条第三項を適用すべきでない。",
+  "ref_law": "職業安定法63条2号，職業安定法64条1号，刑法施行法3条3項，刑法45条，刑法47条",
+  "lawsuit_id": "51442",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51442",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/442/051442_hanrei.pdf"
+}

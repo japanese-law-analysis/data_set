@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 4,
+    "day": 17
+  },
+  "case_number": "昭和53(オ)1047",
+  "case_name": "建物収去土地明渡",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第126号639頁",
+  "original_court_name": "福岡高等裁判所\n        　那覇支部",
+  "original_case_number": "昭和53(ネ)1",
+  "original_date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 7,
+    "day": 4
+  },
+  "gist": "土地の不特定の一部を目的とする賃貸借において賃借部分を特定して引き渡すべき賃貸人の債務と民法四〇六条以下の適用",
+  "case_gist": "土地の一部を目的とする賃貸借において、その契約の趣旨に適した部分が相当数あるときは、その賃借部分を特定して引き渡すべき賃貸人の債務には、選択債務に関する民法四〇六条以下の規定の適用がある。",
+  "ref_law": "民法406条，民法601条",
+  "lawsuit_id": "64239",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64239",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/239/064239_hanrei.pdf"
+}

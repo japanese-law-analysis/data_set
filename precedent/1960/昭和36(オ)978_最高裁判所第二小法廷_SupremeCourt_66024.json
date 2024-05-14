@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 12,
+    "day": 13
+  },
+  "case_number": "昭和36(オ)978",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第70号249頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 5,
+    "day": 31
+  },
+  "gist": "一　控訴審において請求の一部が減縮された場合における控訴判決の主文\n二　時機に後れた防禦方法として抗弁が却下された事例",
+  "case_gist": "控訴審において請求の一部が減縮された場合に、残余部分について第一審判決を変更する理由のないときには、控訴棄却の主文をもつて判決すべきである（昭和二四年一一月八日第三小法廷判決、民集三巻一一号四九五頁等参照）。",
+  "ref_law": "民訴法232条，民訴法384条，民訴法139条",
+  "lawsuit_id": "66024",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66024",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/024/066024_hanrei.pdf"
+}

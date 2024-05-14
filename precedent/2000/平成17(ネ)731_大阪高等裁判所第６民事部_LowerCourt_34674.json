@@ -1,0 +1,20 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 1,
+    "day": 18
+  },
+  "case_number": "平成17(ネ)731",
+  "case_name": "損害賠償請求控訴事件",
+  "court_name": "大阪高等裁判所第６民事部",
+  "result": "その他",
+  "original_court_name": "大阪地方裁判所",
+  "original_case_number": "平成15(ワ)3262",
+  "gist": "株式代表訴訟において，食品販売会社の元取締役らが，商品に無認可添加物が混入していることを認識したにもかかわらずこれを秘して販売継続を決定し，通報者に対して口止め料を支払うなどした行為が，会社に対する善管注意義務に違反するとして，会社の社会的信用が失墜したことや加盟店に対する営業補償が必要になったこと等による損害の一部につき元取締役らの会社に対する賠償責任が認められた事例",
+  "lawsuit_id": "34674",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=34674",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/674/034674_hanrei.pdf",
+  "contents": ""
+}

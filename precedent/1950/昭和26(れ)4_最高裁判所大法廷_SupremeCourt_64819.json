@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 12,
+    "day": 24
+  },
+  "case_number": "昭和26(れ)4",
+  "case_name": "銃砲火薬類取締法施行規則違反",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集刑　第71号307頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 4,
+    "day": 20
+  },
+  "lawsuit_id": "64819",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64819",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/819/064819_hanrei.pdf"
+}

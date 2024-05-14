@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 1,
+    "day": 22
+  },
+  "case_number": "昭和29(あ)3198",
+  "case_name": "公入札妨害恐喝",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第11巻1号50頁",
+  "original_court_name": "仙台高等裁判所\n        　秋田支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 9,
+    "day": 7
+  },
+  "gist": "一　刑法第九六条ノ三第二項にいわゆる「公正ナル価格」の意義\n二　右条項にいわゆる「不正ノ利益」の意義\n三　刑法第九六条ノ三第二項にいわゆる「談合」の意義",
+  "case_gist": "一　刑法第九六条ノ三第二項にいわゆる「公正ナル価格」とは、入札を離れて客観的に測定さるべき価格をいうのではなく、その入札において公正な自由競争が行われたならば成立したであろう落札価格をいうのである。\n二　右条項にいわゆる「不正ノ利益」とは、談合による利益が社会通念上いわゆる「祝儀」の程度を越え、不当に高額である場合をいう。\n三　刑法第九六条ノ三第二項にいわゆる「談合」とは、競売、入札の競争に加わる者がたがいに通謀し、その中の特定の者を落札者ないし競落者たらしめるため、他の者は一定の価格以下または以上に入札または付値しないことを協定することである。",
+  "ref_law": "刑法96条ノ3",
+  "lawsuit_id": "51359",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51359",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/359/051359_hanrei.pdf"
+}

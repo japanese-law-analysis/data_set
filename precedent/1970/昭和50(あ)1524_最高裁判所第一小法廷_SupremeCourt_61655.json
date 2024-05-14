@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 3,
+    "day": 11
+  },
+  "case_number": "昭和50(あ)1524",
+  "case_name": "銃砲刀剣類所持等取締法違反、業務上過失致死、同傷害、道路交通法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第203号303頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 6,
+    "day": 25
+  },
+  "gist": "令状主義違反の違憲主張（三三条、三五条、三一条違反）が欠前提とされた事例",
+  "ref_law": "憲法33条，憲法35条，憲法31条",
+  "lawsuit_id": "61655",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61655",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/655/061655_hanrei.pdf"
+}

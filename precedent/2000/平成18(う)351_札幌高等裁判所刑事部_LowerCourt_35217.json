@@ -1,0 +1,20 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 9,
+    "day": 13
+  },
+  "case_number": "平成18(う)351",
+  "case_name": "傷害被告事件",
+  "court_name": "札幌高等裁判所刑事部",
+  "result": "棄却",
+  "original_court_name": "函館地方裁判所",
+  "original_case_number": "平成17(わ)265",
+  "gist": "被害者の母親と交際していた被告人が，当時６歳の被害者の両腕等に燃焼中のタバコの先を押しつけるなどして全治約１か月を要する傷害を負わせたとの公訴事実について，犯罪の証明がないとして無罪を言い渡した原判決には証拠の取捨選択及び評価の誤りがあるとした検察官控訴に対し，被告人が被害者にタバコの火を押しつけたと認定するにはなお合理的な疑いが残るとして棄却した事例",
+  "lawsuit_id": "35217",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=35217",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/217/035217_hanrei.pdf",
+  "contents": ".\n.\n.\n.\n"
+}

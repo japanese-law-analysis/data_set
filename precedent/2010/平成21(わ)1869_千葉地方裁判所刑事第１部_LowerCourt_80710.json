@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 5,
+    "day": 26
+  },
+  "case_number": "平成21(わ)1869",
+  "case_name": "各殺人被告事件",
+  "court_name": "千葉地方裁判所刑事第１部",
+  "gist": "精神疾患にり患していた息子の両親である被告人両名が，息子の暴力から身を守るために，息子の首を電気コードで強く締め付けて殺害したという事案につき，過剰防衛の成立を認めた上，本件に至った経緯について同情すべき点が多々あるなどして，被告人両名に懲役３年，５年間執行猶予を言い渡した事例",
+  "lawsuit_id": "80710",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=80710",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/710/080710_hanrei.pdf",
+  "contents": ""
+}

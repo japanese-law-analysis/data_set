@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 10,
+    "day": 3
+  },
+  "case_number": "昭和31(あ)1069",
+  "case_name": "外国為替及び外国貿易管理法違反、関税法違反",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "刑集　第16巻10号1401頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 1,
+    "day": 27
+  },
+  "gist": "支払手段無許可輸入罪の成否。",
+  "case_gist": "米国軍票等を密輸入しようとして着衣等に隠匿し税関空港内為替管理所（外貨申告所）を通過しても、同税関内旅具検査所において発見され、これを税関外に持ち出すに至らなかつたときは（判文参照）、いまだ外国為替及び外国貿易管理法（昭和三三年法律第一五六号による改正前のもの）第四五条、第七〇条第一九号の無許可輸入罪は成立しない。",
+  "ref_law": "外国為替及び外国貿易管理法（昭和33年法律156号による改正前のもの）45条，外国為替及び外国貿易管理法（昭和33年法律156号による改正前のもの）70条19号，外国為替管理令19条，日本国とアメリカ合衆国との間の安全保障条約3条に基く行政協定の実施に伴う外国為替管理令等の臨時特例に関する政令（昭和27年政令127号）4条1項",
+  "lawsuit_id": "51469",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51469",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/469/051469_hanrei.pdf"
+}

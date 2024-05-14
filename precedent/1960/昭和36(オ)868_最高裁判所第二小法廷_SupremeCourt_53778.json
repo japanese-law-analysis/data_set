@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 11,
+    "day": 9
+  },
+  "case_number": "昭和36(オ)868",
+  "case_name": "売掛代金残請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第16巻11号2270頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 4,
+    "day": 19
+  },
+  "gist": "責任の限度額ならびに保証期間の定めのない根保証の相続性。",
+  "case_gist": "継続的売買取引について将来負担することあるべき債務についてした責任の限度額ならびに期間の定めのない連帯保証契約における保証人たる地位は、特段の事由のないかぎり、当事者その人と終始するものであつて、保証人の死亡後生じた債務については、その相続人においてこれが保証債務を負担するものではない。",
+  "ref_law": "民法446条",
+  "lawsuit_id": "53778",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53778",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/778/053778_hanrei.pdf"
+}

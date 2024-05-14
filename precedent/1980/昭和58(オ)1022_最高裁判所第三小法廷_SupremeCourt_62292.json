@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 63,
+    "month": 12,
+    "day": 20
+  },
+  "case_number": "昭和58(オ)1022",
+  "case_name": "商業宣伝放送差止等請求事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第155号377頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和56(ネ)970",
+  "original_date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 5,
+    "day": 31
+  },
+  "gist": "市営地下鉄の列車内における商業宣伝放送に違法性がないとされた事例",
+  "case_gist": "市営地下鉄の列車内における商業宣伝放送は、業務放送の後に「次は○○前です。」又は「○○へお越しの方は次でお降りください。」という企業への降車駅案内を兼ね、一駅一回五秒を基準とする方式で行われ、一般乗客にそれ程の嫌悪感を与えるものではないなど原判示の事情の下においては、これを違法ということはできない。\n\n（補足意見がある。）",
+  "ref_law": "民法415条，民法709条，民法710条",
+  "lawsuit_id": "62292",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62292",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/292/062292_hanrei.pdf"
+}

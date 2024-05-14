@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 4,
+    "day": 23
+  },
+  "case_number": "昭和39(オ)902",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第22巻4号964頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和37(ネ)2039",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 4,
+    "day": 27
+  },
+  "gist": "共同行為者の流水汚染により惹起された損害と各行為者の賠償すべき損害の範囲",
+  "case_gist": "共同行為者各自の行為が客観的に関連し共同して流水を汚染し違法に損害を加えた場合において、各自の行為がそれぞれ独立に不法行為の要件を備えるときは、各自が、右違法な加害行為と相当因果関係にある全損害について、その賠償の責に任ずべきである。",
+  "ref_law": "民法709条，民法719条，国家賠償法2条1項",
+  "lawsuit_id": "53934",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53934",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/934/053934_hanrei.pdf"
+}

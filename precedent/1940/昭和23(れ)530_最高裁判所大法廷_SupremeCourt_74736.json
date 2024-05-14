@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 3,
+    "day": 23
+  },
+  "case_number": "昭和23(れ)530",
+  "case_name": "臨時物資需給調整法並に物価統制令違反",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第8号343頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 2,
+    "day": 13
+  },
+  "gist": "再上告の提起期間",
+  "case_gist": "本件再上告は昭和二二年二月十三日に本件につき上告審として言渡した判決に對し刑訴應急措置法第十七條の規定にもとずいて申立てられたものであるが右規定にもとずく上告も舊刑訴法にいわゆる上告に外ならないのであるからその提起期間は同法第四一八條に定める所により五日である。",
+  "ref_law": "舊刑訴法418條",
+  "lawsuit_id": "74736",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74736",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/736/074736_hanrei.pdf"
+}

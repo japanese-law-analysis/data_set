@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 3,
+    "day": 26
+  },
+  "case_number": "昭和23(れ)1111",
+  "case_name": "村会議員選挙罰則違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第8号395頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 7,
+    "day": 30
+  },
+  "gist": "舊刑訴法第二〇一條第一項第五號違反の證人訊問と同證人の證言を採證しなかつた判決の正否",
+  "case_gist": "所論第二審におけるＡに對する證人訊問は同人は舊刑訴法第二〇一條第一項第五號に該當する者であるのに、之に宣誓せしめて訊問したのは同條違反であり、延いて憲法第三八條第一項に違反するものであるとしても、第二審判決は同證人の證言は之を證據に採つてはいないのであるから、假令右條違反があるとしても舊刑訴法第四一一條の規定に依り判決（第二審判決）に影響を及ぼさないものである。",
+  "ref_law": "舊刑訴法411條，舊刑訴法201條1項5號",
+  "lawsuit_id": "74662",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74662",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/662/074662_hanrei.pdf"
+}

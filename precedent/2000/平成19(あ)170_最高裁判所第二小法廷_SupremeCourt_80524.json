@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 8,
+    "day": 27
+  },
+  "case_number": "平成19(あ)170",
+  "case_name": "詐欺被告事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第295号1頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 12,
+    "day": 1
+  },
+  "gist": "詐欺罪の事案につき宗教上の教義の真偽を判断しているから信教の自由を侵害しているとの違憲主張が欠前提処理された事例",
+  "ref_law": "憲法20条1項，憲法76条1項，刑法246条1項",
+  "lawsuit_id": "80524",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=80524",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/524/080524_hanrei.pdf",
+  "contents": ""
+}

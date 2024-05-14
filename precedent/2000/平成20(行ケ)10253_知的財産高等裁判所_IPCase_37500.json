@@ -1,0 +1,18 @@
+{
+  "trial_type": "IPCase",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 3,
+    "day": 26
+  },
+  "case_number": "平成20(行ケ)10253",
+  "case_name": "審決取消請求事件",
+  "court_name": "知的財産高等裁判所",
+  "right_type": "特許権",
+  "lawsuit_type": "行政訴訟",
+  "lawsuit_id": "37500",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail7?id=37500",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/500/037500_hanrei.pdf",
+  "contents": "ASE:Amplified Spontaneous Emission\n° × °\n° × °\n°\n1 2 3 4\nmm\n≈\nHigh Pulse Rate Power System with Resonant Power Supply\nmm\n0.43 m/s\n30mm 100pps\n360 15 23\n15 23\n480 VAC/40 amp 1200 VDC 50 amp\nEcgar Maxwell Kaiser Ale\n1 2 3\noscillator,\noscillator,\nmm\n≈\n360 15 23\n.\n09/034,870\nmm 330\n0.43 m/s\n30mm\n100pps\nHIGH PULSE RATE\nPULSE POWER SYSTEM WITH RESONANT POWER SUPPLY\n"
+}

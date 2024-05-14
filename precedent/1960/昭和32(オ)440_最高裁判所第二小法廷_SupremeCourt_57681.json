@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 5,
+    "day": 26
+  },
+  "case_number": "昭和32(オ)440",
+  "case_name": "未墾土地買収計画取消等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第15巻5号1365頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 1,
+    "day": 25
+  },
+  "gist": "実測面積の表示を欠く未墾地買収計画の適否。",
+  "case_gist": "未墾地買収においては、買収目的地の実測面積の表示を欠いた買収計画であつても、買収目的地の特定性が動かない限り、違法ではない。",
+  "ref_law": "自作農創設特別措置法31条1項，自作農創設特別措置法31条2項，自作農創設特別措置法34条，自作農創設特別措置法10条",
+  "lawsuit_id": "57681",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57681",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/681/057681_hanrei.pdf"
+}

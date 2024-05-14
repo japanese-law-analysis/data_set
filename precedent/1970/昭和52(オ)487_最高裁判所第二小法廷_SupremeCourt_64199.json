@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 12,
+    "day": 9
+  },
+  "case_number": "昭和52(オ)487",
+  "case_name": "約束手形金小切手金",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第122号313頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和50(ネ)437",
+  "original_date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 2,
+    "day": 15
+  },
+  "gist": "手形行為の表見代理における第三者",
+  "case_gist": "民法一一〇条に第三者とあるのは代理人と法律行為をした直接の相手方をいうものと解すべきであり、権限のない者の振り出した約束手形につき、本人が民法一一〇条に基づき振出人とし，ての責任を負うべきときは、受取人からその手形の裏書譲渡を受けた者に対しても、その者の善意悪意を問わず、振出人としての責任を免れえないものと解するのが相当である。",
+  "ref_law": "民法110条，手形法8条",
+  "lawsuit_id": "64199",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64199",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/199/064199_hanrei.pdf"
+}

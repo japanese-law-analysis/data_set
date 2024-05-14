@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 4,
+    "day": 8
+  },
+  "case_number": "昭和34(あ)2120",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第14巻5号540頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 10,
+    "day": 29
+  },
+  "gist": "公職選挙法第二二一条にいわゆる受供与の罪との関係。",
+  "case_gist": "被告人が供与を受けた選挙買収金員を以て、その独自の裁量に基いて更に他を買収した場合には、前の受供与罪と後の供与罪との間に吸収の問題を生ずべき余地は存しない。",
+  "ref_law": "公職選挙法221条",
+  "lawsuit_id": "51663",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51663",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/663/051663_hanrei.pdf"
+}

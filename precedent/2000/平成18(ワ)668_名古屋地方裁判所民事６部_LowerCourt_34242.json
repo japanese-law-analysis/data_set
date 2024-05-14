@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 1,
+    "day": 26
+  },
+  "case_number": "平成18(ワ)668",
+  "case_name": "損害賠償請求",
+  "court_name": "名古屋地方裁判所民事６部",
+  "result": "棄却",
+  "gist": "裁判所構内の拘置所仮監において弁護人から同所に居る被告人への文書の差入れの申出を受けた拘置所職員が同所が仮の接見場所であることを理由として差入れの申出に応じなかったことが違法でないとされた事例",
+  "lawsuit_id": "34242",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=34242",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/242/034242_hanrei.pdf",
+  "contents": ""
+}

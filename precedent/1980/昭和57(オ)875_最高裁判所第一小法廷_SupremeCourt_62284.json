@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 2,
+    "day": 16
+  },
+  "case_number": "昭和57(オ)875",
+  "case_name": "所有権確認等",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第141号227頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和55(ネ)419",
+  "original_date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 5,
+    "day": 27
+  },
+  "gist": "公簿上相隣接する二筆の土地の中間に第三者所有の土地が介在する場合と右二筆の土地の所有名義人間において境界確定を求めることの許否",
+  "case_gist": "公簿上相隣接する二筆の土地の所有名義人間における境界確定を求める訴えにおいて、右両土地の中間に第三者所有の土地が介在しているときは、右訴えは、当事者適格を欠く不適法な訴えとなるものと解すべきである。",
+  "ref_law": "民訴法45条，民訴法第2編第1章訴",
+  "lawsuit_id": "62284",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62284",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/284/062284_hanrei.pdf"
+}

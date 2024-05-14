@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 12,
+    "day": 24
+  },
+  "case_number": "昭和29(す)492",
+  "case_name": "恐喝、脅迫被告事件につきなした上告棄却の決定に対する刑訴五〇一条による解釈の申立",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第101号971頁",
+  "original_court_name": "最高裁判所",
+  "original_case_number": "昭和29(あ)2791",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 12,
+    "day": 1
+  },
+  "lawsuit_id": "75727",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=75727",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/727/075727_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 10,
+    "day": 24
+  },
+  "case_number": "昭和46(オ)521",
+  "case_name": "転付債権（工事代金）請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第28巻7号1504頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "昭和44(ネ)198",
+  "original_date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 3,
+    "day": 4
+  },
+  "gist": "債権仮差押命令送達前に第三債務者が債務支払のために振り出した小切手が右送達後に支払われた場合と民法四八一条一項",
+  "case_gist": "第三債務者が債権仮差押命令の送達を受ける前に債務者に対し債務支払のために小切手を振り出していた場合には、右送達後にその小切手が支払われたとしても、第三債務者は右債務の消滅を仮差押債権者に対抗することができる。",
+  "ref_law": "民法481条1項，民訴法598条，民訴法750条3項",
+  "lawsuit_id": "55138",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55138",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/138/055138_hanrei.pdf"
+}

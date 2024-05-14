@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 10,
+    "day": 29
+  },
+  "case_number": "平成22(ワ)1728",
+  "case_name": "発信者情報開示等請求事件",
+  "court_name": "京都地方裁判所第３民事部",
+  "result": "その他",
+  "gist": "インターネット上の電子掲示板にされた書き込みが名誉毀損に当たるとして，経由プロバイダに対する発信者情報の開示請求(プロバイダ責任制限法4条1項)を認容した事案",
+  "lawsuit_id": "80913",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=80913",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/913/080913_hanrei.pdf",
+  "contents": ""
+}

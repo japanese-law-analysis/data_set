@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 6,
+    "day": 18
+  },
+  "case_number": "昭和39(オ)144",
+  "case_name": "建物収去土地明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第19巻4号976頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和38(ネ)1393",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 10,
+    "day": 14
+  },
+  "gist": "賃借地の無断転貸が賃貸人に対する信頼関係を破壊するに足りない特段の事情があるとされた事例。",
+  "case_gist": "宅地の賃借人が賃借地上に判示事情のある同居の家族に建物を建築させてこれにその敷地を転貸した場合には、右転貸につき賃貸人の承諾がなくても、賃貸人に対する信頼関係を破壊するに足りない特段の事情があるというべきである。",
+  "ref_law": "民法612条",
+  "lawsuit_id": "56289",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56289",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/289/056289_hanrei.pdf"
+}

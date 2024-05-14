@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 5,
+    "day": 26
+  },
+  "case_number": "昭和23(れ)70",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第2巻5号517頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 10,
+    "day": 20
+  },
+  "gist": "刑の執行を猶豫しない判決と憲法第一四條",
+  "case_gist": "原審が被告人に對し刑の執行猶豫の恩典を與えないのは「すべて國民は法の下に平等である」との憲法第一四の趣旨に反するものであると主張するが、同條は人種、信條、性別、社曾的身分又は門地により政治的經濟的又は社曾的關係において、すべての國民を差別的に取扱わない旨を規定して居るのであつて、原審が被告人に對し刑の執行猶豫の言渡をしないのは同條所定の事由によりて被告人を差別待遇したのでわなく事實審として所論の辨償の事實をも參酌した上犯罪の情状からみて刑の執行猶豫の言渡をすることができないと判斷したのであるから、何等同條に反するものでない。",
+  "ref_law": "刑法25條，憲法14條",
+  "lawsuit_id": "55385",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55385",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/385/055385_hanrei.pdf"
+}

@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 9,
+    "day": 26
+  },
+  "case_number": "平成16(ワ)1076",
+  "case_name": "保険金請求事件",
+  "court_name": "さいたま地方裁判所第2民事部",
+  "gist": "都市計画法上の市街化調整区域に指定され，かつ農業振興地域の土地上の建物について，住宅火災保険契約に基づく保険金請求に際し，保険契約者の故意もしくは重過失による免責及び不実申告による免責が認められなかった事例",
+  "lawsuit_id": "33883",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=33883",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/883/033883_hanrei.pdf",
+  "contents": ""
+}

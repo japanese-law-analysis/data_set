@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 11,
+    "day": 7
+  },
+  "case_number": "平成15(ワ)1150",
+  "case_name": "損害賠償請求",
+  "court_name": "名古屋地方裁判所民事第３部",
+  "result": "その他",
+  "gist": "交通事故により胸部打撲等の傷害を負った被害者が搬送先病院を経て転送先病院で死亡したことから，被害者の遺族である原告らが，交通事故の加害者のみでなく，搬送先及び転送先病院をも被告として提起した損害賠償請求事件につき，搬送先病院の医師は，被害者が受傷４日後に意識消失，黒色便失禁等の症状を呈したのであるから，上部消化管出血を疑って直ちに消化管内視鏡検査を実施すべき注意義務があったのにこれを怠ったため死亡させたとして，加害者に対する請求のみでなく，搬送先病院に対する請求をも認容した事例",
+  "lawsuit_id": "34032",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=34032",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/032/034032_hanrei.pdf",
+  "contents": ""
+}

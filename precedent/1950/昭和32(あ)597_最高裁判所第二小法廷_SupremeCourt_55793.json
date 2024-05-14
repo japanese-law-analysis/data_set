@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 8,
+    "day": 8
+  },
+  "case_number": "昭和32(あ)597",
+  "case_name": "外国為替及び外国貿易管理法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第13巻10号2739頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 1,
+    "day": 31
+  },
+  "gist": "一　外国為替及び外国貿易管理法第四五条にいう支払手段の範囲\n二　空路によつて同条にいう輸出をなす場合とその既遂時期",
+  "case_gist": "一　外国為替及び外国貿易管理法第四五条にいう支払手段は、適法に取得されたものだけにこれを限局して解すべきものではない。\n二　同条にいう輸出は、それが空路による場合は、外国向けの航空機に同条所定の物件を積載することによつて既遂となるものと解するのが相当である。",
+  "ref_law": "外国為替及び外国貿易管理法45条，外国為替及び外国貿易管理法70条18号（旧19号），外国為替及び外国貿易管理法1条，外国為替及び外国貿易管理法6条1項7号",
+  "lawsuit_id": "55793",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55793",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/793/055793_hanrei.pdf"
+}

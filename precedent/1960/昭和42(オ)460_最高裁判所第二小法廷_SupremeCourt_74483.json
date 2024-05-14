@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 12,
+    "day": 15
+  },
+  "case_number": "昭和42(オ)460",
+  "case_name": "貸金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第89号427頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和39(ネ)248",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 1,
+    "day": 30
+  },
+  "gist": "一　理由不備の違法があるとされた事例\n二　株式会社の一人の清算人がした自己あてにした取引の効力",
+  "case_gist": "かりに株式会社の清算手続が清算人ひとりですることができるとしても、その清算人は、特段の事情のないかぎり清算会社と取引することができず、これに違反する取引は無効である。",
+  "ref_law": "民訴法395条1項6号，商法430条2項，商法265条",
+  "lawsuit_id": "74483",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74483",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/483/074483_hanrei.pdf"
+}

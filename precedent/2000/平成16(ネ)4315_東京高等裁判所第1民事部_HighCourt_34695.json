@@ -1,0 +1,22 @@
+{
+  "trial_type": "HighCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 17,
+    "month": 1,
+    "day": 19
+  },
+  "case_number": "平成16(ネ)4315",
+  "case_name": "預金払戻請求事件",
+  "court_name": "東京高等裁判所第1民事部",
+  "result": "その他",
+  "article_info": "第58巻1号6頁",
+  "original_court_name": "千葉地方裁判所",
+  "original_case_number": "平成15(ワ)1482",
+  "gist": "自動継続特約付きの定期預金債権の消滅時効の起算点",
+  "case_gist": "自動継続特約付きの定期預金債権の消滅時効は，預金者から継続停止の申出がされた後の満期日の翌日から進行する。",
+  "lawsuit_id": "34695",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail3?id=34695",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/695/034695_hanrei.pdf",
+  "contents": ""
+}

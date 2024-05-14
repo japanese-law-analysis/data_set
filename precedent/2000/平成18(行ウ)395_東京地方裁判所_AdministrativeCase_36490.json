@@ -1,0 +1,19 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 9,
+    "day": 28
+  },
+  "case_number": "平成18(行ウ)395",
+  "case_name": "所得税更正処分取消請求事件",
+  "court_name": "東京地方裁判所",
+  "field": "行政",
+  "gist": "割賦払で個人の居住の用に供される不動産を取得した場合の割賦金と所得税法３８条１項にいう「資産の取得に要した金額」",
+  "case_gist": "個人の居住の用に供される不動産の譲渡による譲渡所得の金額の計算上，当該不動産を割賦払で取得した場合の割賦金については，割払契約において購入代価と割賦払期間中の利息に相当する部分とが明らかに区分されている場合，当該利息相当額のうち，当該資産の使用を開始するまでの期間に対応するものは，所得税法３８条１項にいう「資産の取得に要した金額」に含まれる。",
+  "lawsuit_id": "36490",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=36490",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/490/036490_hanrei.pdf",
+  "contents": ""
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 7,
+    "day": 12
+  },
+  "case_number": "昭和24(れ)1220",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第12号405頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 3,
+    "day": 28
+  },
+  "gist": "窃盜罪における目的物の所有者を判決の事實摘示に判示することの要否",
+  "case_gist": "窃盜罪は他人の所持を侵害する行爲であるから、その目的物の所有者と所持者とが異る場合において其物の所有者を判決の理由に判示する必要はない。",
+  "ref_law": "刑法235條，舊刑訴法360條1項",
+  "lawsuit_id": "74819",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74819",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/819/074819_hanrei.pdf"
+}

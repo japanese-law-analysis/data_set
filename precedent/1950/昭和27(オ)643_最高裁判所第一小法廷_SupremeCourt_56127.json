@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 5,
+    "day": 7
+  },
+  "case_number": "昭和27(オ)643",
+  "case_name": "村長選挙の効力に関す訴願裁決取消請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第7巻5号532頁",
+  "original_court_name": "仙台高等裁判所\n        　秋田支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 4,
+    "day": 17
+  },
+  "gist": "一　立候補届受理に際し選挙長の公職選挙法第八九条違反についての実質的審査義務\n二　立候補届出期間経過後候補者を辞した者が公職選挙法第八六条第四項の候補者となることの適否",
+  "case_gist": "一　選挙長は、立候補届受理に際し、その者が公職選挙法第八九条に違反した候補者であるかどうかを審査する義務がない。\n二　立候補届出期間経過後候補者を辞した者が公職選挙法第六八条第四項によつて再び候補者となることは違法ではない。",
+  "ref_law": "公職選挙法89条1項本文，公職選挙法86条4項",
+  "lawsuit_id": "56127",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56127",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/127/056127_hanrei.pdf"
+}

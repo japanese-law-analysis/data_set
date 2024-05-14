@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 1,
+    "day": 22
+  },
+  "case_number": "平成20(受)468",
+  "case_name": "不当利得返還等請求事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第63巻1号247頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成19(ネ)3941",
+  "original_date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 12,
+    "day": 13
+  },
+  "gist": "継続的な金銭消費貸借取引に関する基本契約が，利息制限法所定の制限を超える利息の弁済により発生した過払金をその後に発生する新たな借入金債務に充当する旨の合意を含む場合における，上記取引により生じた過払金返還請求権の消滅時効の起算点",
+  "case_gist": "継続的な金銭消費貸借取引に関する基本契約が，借入金債務につき利息制限法１条１項所定の制限を超える利息の弁済により過払金が発生したときには，弁済当時他の借入金債務が存在しなければ上記過払金をその後に発生する新たな借入金債務に充当する旨の合意を含む場合は，上記取引により生じた過払金返還請求権の消滅時効は，特段の事情がない限り，上記取引が終了した時から進行する。",
+  "ref_law": "民法166条1項，民法703条，利息制限法1条1項",
+  "lawsuit_id": "37212",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=37212",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/212/037212_hanrei.pdf",
+  "contents": ""
+}

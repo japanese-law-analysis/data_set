@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 6,
+    "day": 25
+  },
+  "case_number": "昭和39(オ)1482",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第79号519頁",
+  "original_court_name": "高松高等裁判所",
+  "original_case_number": "昭和33(ネ)337",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 10,
+    "day": 6
+  },
+  "gist": "代物弁済契約の目的物の価値について要素の錯誤があるとされた事例。",
+  "case_gist": "甲が乙の言により、乙所有の土地（六反九畝二三歩）が水田に適する土地であつて、乙に対する損害賠償債権額一〇〇万円にほぼ見合うものと信じて右土地を目的とする代物弁済契約を締結したが、右土地は現状のままでは殆んど耕作に適しない不毛地であり、それを耕地に造成するには多額の経費を要して到底引き合わず、右土地の価格がいうに足りないもの（反当り二〇〇〇円ないし二五〇〇円）であるときは、右代物弁済契約における甲の意思表示は、目的物件の価値について錯誤があり、右錯誤は、法律行為の要素に関するものであるといえる。",
+  "ref_law": "民法95条，民法482条",
+  "lawsuit_id": "74447",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74447",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/447/074447_hanrei.pdf"
+}

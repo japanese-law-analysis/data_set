@@ -1,0 +1,18 @@
+{
+  "trial_type": "IPCase",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 3,
+    "day": 30
+  },
+  "case_number": "平成21(行ケ)10158",
+  "case_name": "審決取消請求事件",
+  "court_name": "知的財産高等裁判所",
+  "right_type": "特許権",
+  "lawsuit_type": "行政訴訟",
+  "lawsuit_id": "80049",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail7?id=80049",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/049/080049_hanrei.pdf",
+  "contents": ""
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 3,
+    "day": 7
+  },
+  "case_number": "昭和60(行ツ)197",
+  "case_name": "営業不許可処分取消請求事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第156号299頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和60(行コ)14",
+  "original_date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 9,
+    "day": 25
+  },
+  "gist": "公衆浴場法二条二項及び大阪府公衆浴場法施行条例二条と憲法二二条一項",
+  "case_gist": "公衆浴場法二条二項及び大阪府公衆浴場法施行条例二条は、憲法二二条一項に違反しない。",
+  "ref_law": "憲法22条1項，公衆浴場法2条2項，大阪府公衆浴場法施行条例2条",
+  "lawsuit_id": "62347",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62347",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/347/062347_hanrei.pdf"
+}

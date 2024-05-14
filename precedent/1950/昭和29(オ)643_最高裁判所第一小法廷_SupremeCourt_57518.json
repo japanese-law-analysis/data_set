@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 11,
+    "day": 15
+  },
+  "case_number": "昭和29(オ)643",
+  "case_name": "株主総会決議取消請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第10巻11号1423頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 5,
+    "day": 26
+  },
+  "gist": "一　昭和二五年法律第一六七号による改正前の商法第二五一条の削除と裁判所の裁量権\n二　株主総会の決議に軽微でない手続上の瑕疵がある場合と裁判所の裁量権",
+  "case_gist": "一　昭和二五年法律第一六七号による改正前の商法第二五一条が削除された後は、裁判所に右削除前と同様な裁量権があると解すべきではない。\n二　予め株主総会決議事項の通知をしなかつたというような軽微でない手続上の瑕疵があるときは、裁判所は右決議取消の請求を認容すべきである。",
+  "ref_law": "商法247条，商法251条（昭和25年法律167号による削除前のもの）",
+  "lawsuit_id": "57518",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57518",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/518/057518_hanrei.pdf"
+}

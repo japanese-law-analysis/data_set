@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 6,
+    "day": 13
+  },
+  "case_number": "昭和40(オ)1308",
+  "case_name": "損害賠償請求事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第21巻6号1447頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和39(ネ)95",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 8,
+    "day": 16
+  },
+  "gist": "不法行為によつて身体を害された者の配偶者および子が自己の権利として慰藉料の請求ができないとされた事例",
+  "case_gist": "被害者が、不法行為によつて、全治まで一年以上を要する左大腿部骨折等の重傷をこうむり、手術等の治療をうけたが、現在においても、左下肢が約三〇度外旋位をとつて約三・五センチメートル短縮し、大腿囲、下腿囲とも狭少となり、股、膝関節の運動領域に障害を残し、正座は不能で、歩行も約一キロメートル以上は苦痛のため不可能な状態である等原審認定の事実関係（原判決およびその引用する第一審判決参照）のもとにおいては、まだ、被害者の配偶者および子は、自己の権利として慰藉料を請求することができるものとはいえない。",
+  "ref_law": "民法709条，民法710条，民法711条",
+  "lawsuit_id": "54986",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54986",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/986/054986_hanrei.pdf"
+}

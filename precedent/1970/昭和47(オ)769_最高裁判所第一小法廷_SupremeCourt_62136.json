@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 2,
+    "day": 8
+  },
+  "case_number": "昭和47(オ)769",
+  "case_name": "家屋明渡等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第108号169頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和44(ネ)169",
+  "original_date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 4,
+    "day": 27
+  },
+  "gist": "民事調停における法定代理権証明の方法",
+  "case_gist": "未成年者の法定代理人が未成年者を代理して民事調停行為をなす場合には、民事訴訟法五二条を準用して、その法定代理権は書面によつて証明すべきものと解するのが相当であるが、過去の民事調停行為についての法定代理権の存否は、書面のみに限らず、他の証拠方法をもつて証明することができるものと解すべきである。",
+  "ref_law": "民事調停法22条，非訟事件手続法7条，民訴法52条",
+  "lawsuit_id": "62136",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62136",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/136/062136_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 12,
+    "day": 25
+  },
+  "case_number": "昭和34(し)49",
+  "case_name": "審判請求棄却決定に対する抗告についてなした棄却決定に対する特別抗告",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第13巻13号3360頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 8,
+    "day": 5
+  },
+  "gist": "刑法第二三〇条第一項または第二三一条にいう「公然」にあたらない事例。",
+  "case_gist": "甲の乙に対する発言が、甲のほかに同人の母および妻の二人だけが居合わせた甲の自宅玄関内で行われたときは、刑法第二三〇条第一項または第二三一条にいう「公然」なされたものということはできない。",
+  "ref_law": "刑法230条1項，刑法231条",
+  "lawsuit_id": "55821",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55821",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/821/055821_hanrei.pdf"
+}

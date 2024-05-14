@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 1,
+    "day": 14
+  },
+  "case_number": "昭和36(オ)172",
+  "case_name": "転付債権支払請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第71号25頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 11,
+    "day": 7
+  },
+  "gist": "「整理財産に属する債務」にあたるとされた事例。",
+  "case_gist": "一　甲の本件報酬債権に対応する訴外法人の債務は、「旧日本占領地域に本店を有する会社の本邦内にある財産の整理に関する政令」（昭和二四年政令第二九一号）第八条第一項にいう「整理財産に属する債務」にあたる。\n二　右政令第七条第一項第一号にいう「特殊整理に要する費用に係る債務」は、同政令第八条第一項にいう「整理財産に属する債務」にあたる。",
+  "ref_law": "旧日本占領地域に本店を有する会社の本邦内にある財産の整理に関する政令（昭和24年政令291号）7条1項1号，旧日本占領地域に本店を有する会社の本邦内にある財産の整理に関する政令（昭和24年政令291号）8条1項，旧日本占領地域に本店を有する会社の本邦内にある財産の整理に関する政令（昭和24年政令291号）28条",
+  "lawsuit_id": "74346",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74346",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/346/074346_hanrei.pdf"
+}

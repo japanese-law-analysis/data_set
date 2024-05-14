@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 7,
+    "day": 1
+  },
+  "case_number": "昭和55(オ)1045",
+  "case_name": "配当異議",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第136号207頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和54(ネ)3087",
+  "original_date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 7,
+    "day": 30
+  },
+  "gist": "仮差押登記後に設定登記がされた抵当権と任意競売手続における配当",
+  "case_gist": "任意競売の対象である不動産について登記のある抵当権を有する者は、右抵当権に優先する仮差押の登記がある場合であつても、その被担保債権につき配当要求をすることなしに仮差押債権者と同順位で配当を受けることができる。",
+  "ref_law": "民法369条1項，民訴法737条1項，民訴法（昭和54年法律第4号による改正前のもの）646条，競売法33条2項",
+  "lawsuit_id": "70422",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70422",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/422/070422_hanrei.pdf"
+}

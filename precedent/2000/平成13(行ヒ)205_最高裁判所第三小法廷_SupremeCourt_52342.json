@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 13,
+    "month": 12,
+    "day": 18
+  },
+  "case_number": "平成13(行ヒ)205",
+  "case_name": "選挙の効力に対する裁決取消請求、独立当事者参加申出事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第55巻7号1823頁",
+  "original_court_name": "福岡高等裁判所\n        　宮崎支部",
+  "original_case_number": "平成13(行ケ)1",
+  "original_date": {
+    "era": "Heisei",
+    "year": 13,
+    "month": 4,
+    "day": 11
+  },
+  "gist": "公職選挙法施行令６３条３項に違反して投票箱に入れられなかったために無効票と確定された不在者投票の内容を取り調べて公職選挙法２０５条１項に定める選挙の結果に異動を及ぼすおそれの有無を判断することの許否",
+  "case_gist": "選挙の効力に関する争訟を審理する選挙管理委員会又は裁判所が，投票管理者が公職選挙法施行令６３条３項に違反して投票箱に入れなかったために無効票と確定された不在者投票の内容について，いずれの候補者に対する投票であるかなどを取り調べ，その結果を選挙人が表明した意思として取り扱って公職選挙法２０５条１項に定める選挙の結果に異動を及ぼすおそれの有無を判断することは，許されない。",
+  "ref_law": "公職選挙法205条1項，公職選挙法施行令63条3項",
+  "lawsuit_id": "52342",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52342",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/342/052342_hanrei.pdf"
+}

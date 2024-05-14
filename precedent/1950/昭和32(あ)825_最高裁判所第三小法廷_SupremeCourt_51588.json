@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 10,
+    "day": 18
+  },
+  "case_number": "昭和32(あ)825",
+  "case_name": "強盗傷人",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第11巻10号2675頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 2,
+    "day": 28
+  },
+  "gist": "共謀による強盗傷人の一罪として処断すべき事例",
+  "case_gist": "甲乙相図り夜間路上で丙に対し顔面を殴打し踏みつける等の暴行を加えているうち、強盗を決意した甲が丙の腕時計を強奪したところ、これを目撃した乙もこれに応じ、ここに甲乙共謀の上、更に丙に対し手あるいは木片等で顔、頭等を殴打し、「金を出せ」と申し向ける等の暴行脅迫を加え、同人から現金を強奪し、前示暴行により丙をして顔面打撲症を負わしめ、なお逃げる同人を追いかけ、同人をして同所から七〇米位離れた民家にガラス戸を割つて飛び込ましめ、その際ガラスの破片で右手背に挫傷を負わしめたときは、甲乙は共謀による強盗傷人の一罪として処断すべきである。",
+  "ref_law": "刑法240条前段，刑法60条",
+  "lawsuit_id": "51588",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51588",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/588/051588_hanrei.pdf"
+}

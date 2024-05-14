@@ -1,0 +1,17 @@
+{
+  "trial_type": "LaborCase",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 5,
+    "day": 20
+  },
+  "case_number": "平成18(ワ)19133",
+  "case_name": "地位確認等請求事件（通称　財団法人日本美術刀剣保存協会雇止）",
+  "court_name": "東京地方裁判所",
+  "field": "労働",
+  "lawsuit_id": "80401",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail6?id=80401",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/401/080401_hanrei.pdf",
+  "contents": "2 3\n"
+}

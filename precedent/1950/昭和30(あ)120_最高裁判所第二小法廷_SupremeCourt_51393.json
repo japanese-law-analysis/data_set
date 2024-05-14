@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 8,
+    "day": 23
+  },
+  "case_number": "昭和30(あ)120",
+  "case_name": "単純逃走、殺人",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第11巻8号2103頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 12,
+    "day": 13
+  },
+  "gist": "裁判長の認印を欠く公判調書の効力",
+  "case_gist": "裁判長の認印若しくは裁判長に差支あるときの他の裁判官の一人の認印を欠く公判調書は、刑訴規則第四六条の規定に違反するものであるが、その作成権限ある裁判所書記官補の署名押印があり、他方第一審において所定の期間内に被告人または弁護人から同公判調書の記載の正確性について異議の申立がなされた形跡がなく、また原審において右法令違反について控訴趣意として主張もなされておらず、且つ原審の数回に及ぶ公判においても被告人または弁護人から何らの主張もなされていない場合には、右公判調書は前記認印を欠く一事によつてこれを無効とすべきものではないと解するを相当とする。",
+  "ref_law": "刑訴法48条，刑訴法51条，刑訴規則37条，刑訴規則46条，刑訴規則48条",
+  "lawsuit_id": "51393",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51393",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/393/051393_hanrei.pdf"
+}

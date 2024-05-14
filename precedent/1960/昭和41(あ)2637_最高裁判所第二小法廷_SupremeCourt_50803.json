@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 10,
+    "day": 12
+  },
+  "case_number": "昭和41(あ)2637",
+  "case_name": "業務上過失致死、業務上過失傷害、道路交通法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第21巻8号1040頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 9,
+    "day": 20
+  },
+  "gist": "交通事故発生後直ちにもよりの警察署の警察官にした事故報告にあたらないとされた事例",
+  "case_gist": "自動車の運転中に人身事故を惹起したことを知りながら、救護の措置をとることなく自宅に向う途中、事故現場から約七・七キロメートル離れた地点でもはや逃げ切れないと観念し、事故現場から手近なまたは最も便宜な警察署もしくは派出所が他にあるのに、事故発生の約二〇分後現場から約一四・三キロメートル離れた警察署の警察官に事故発生等の報告をしても、事故発生後直ちにもよりの警察署の警察官に報告したものとはいえない。",
+  "ref_law": "道路交通法72条1項後段，道路交通法119条1項10号",
+  "lawsuit_id": "50803",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50803",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/803/050803_hanrei.pdf"
+}

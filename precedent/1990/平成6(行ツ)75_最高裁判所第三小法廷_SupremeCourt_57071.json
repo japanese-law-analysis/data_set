@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 7,
+    "month": 12,
+    "day": 19
+  },
+  "case_number": "平成6(行ツ)75",
+  "case_name": "更正処分取消",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第49巻10号3121頁",
+  "original_court_name": "福岡高等裁判所\n        　宮崎支部",
+  "original_case_number": "平成5(行コ)3",
+  "original_date": {
+    "era": "Heisei",
+    "year": 6,
+    "month": 2,
+    "day": 28
+  },
+  "gist": "資産の低額譲渡と法人税法二二条二項にいう収益の額",
+  "case_gist": "譲渡時における適正な価額より低い対価をもって資産の譲渡が行われた場合には、右適正な価額が法人税法二二条二項にいう資産の譲渡に係る収益の額に当たる。",
+  "ref_law": "法人税法22条2項",
+  "lawsuit_id": "57071",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57071",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/071/057071_hanrei.pdf"
+}

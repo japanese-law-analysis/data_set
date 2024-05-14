@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 6,
+    "month": 4,
+    "day": 21
+  },
+  "case_number": "平成2(オ)1456",
+  "case_name": "損害賠償請求本訴、同反訴",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第172号379頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和60(ネ)1860",
+  "original_date": {
+    "era": "Heisei",
+    "year": 2,
+    "month": 6,
+    "day": 28
+  },
+  "gist": "当事者が損害賠償の額を予定した場合における過失相殺の可否",
+  "case_gist": "当事者が損害賠償の額を予定した場合においても、債務不履行に関し債権者に過失があったときは、特段の事情のない限り、裁判所は、損害賠償の責任及びその金額を定めるにつき、これをしんしゃくすべきである。",
+  "ref_law": "民法418条，民法420条1項",
+  "lawsuit_id": "62656",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62656",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/656/062656_hanrei.pdf"
+}

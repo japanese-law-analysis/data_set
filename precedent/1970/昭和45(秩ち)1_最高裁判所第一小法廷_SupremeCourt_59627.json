@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 6,
+    "day": 11
+  },
+  "case_number": "昭和45(秩ち)1",
+  "case_name": "法廷等の秩序維持に関する法律に基づく監置に対する抗告を棄却した決定に対する特別抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第176号553頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 3,
+    "day": 29
+  },
+  "gist": "氏名の記載のない届出書面によつてなされた代理人選任の効力",
+  "case_gist": "氏名を記載することができない合理的な理由がないのに、届出人たる選任者が、その氏名の記載のない届出書面によつてした代理人選任は、無効である。",
+  "ref_law": "法廷等の秩序維持に関する規則13条2項",
+  "lawsuit_id": "59627",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59627",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/627/059627_hanrei.pdf"
+}

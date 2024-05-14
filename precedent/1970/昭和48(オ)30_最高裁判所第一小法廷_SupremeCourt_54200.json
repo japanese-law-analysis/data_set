@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 9,
+    "day": 2
+  },
+  "case_number": "昭和48(オ)30",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第28巻6号1152頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和46(ネ)531",
+  "original_date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 10,
+    "day": 18
+  },
+  "gist": "賃借家屋明渡債務と敷金返還債務との間の同時履行関係の有無",
+  "case_gist": "家屋の賃貸借終了に伴う賃借人の家屋明渡債務と賃貸人の敷金返還債務とは、特別の約定のないかぎり、同時履行の関係に立たない。",
+  "ref_law": "民法533条，民法619条2項",
+  "lawsuit_id": "54200",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54200",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/200/054200_hanrei.pdf"
+}

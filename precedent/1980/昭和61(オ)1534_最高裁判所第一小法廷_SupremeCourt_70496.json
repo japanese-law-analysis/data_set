@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 12,
+    "day": 17
+  },
+  "case_number": "昭和61(オ)1534",
+  "case_name": "債務不存在確認請求本訴、損害賠償請求反訴",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集民　第152号281頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和60(ネ)2050",
+  "original_date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 9,
+    "day": 10
+  },
+  "gist": "上訴審が本案判決の一部を変更する場合と民訴法一九八条二項の申立に対する裁判",
+  "case_gist": "上訴審が本案判決の一部を変更する場合においては、民訴法一九八条二項の申立のうち変更しない部分に対応する申立部分を棄却する旨の裁判をすべきである。",
+  "ref_law": "民訴法198条2項",
+  "lawsuit_id": "70496",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70496",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/496/070496_hanrei.pdf"
+}

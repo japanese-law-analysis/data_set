@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 8,
+    "day": 12
+  },
+  "case_number": "昭和32(あ)2459",
+  "case_name": "商法違反（特別背任）",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第14巻10号1360頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 9,
+    "day": 5
+  },
+  "gist": "一　商法違反（特別背任）罪における背任目的の主従と同罪の成否。\n\n二　商法違反（特別背任）罪における背任目的の変更と訴因変更手続の要否。",
+  "case_gist": "一　主として、第三者に不法に融資して自己の利益を図る目的がある以上、たとえ従として右融資により本人のため事故金を回収してその補填を図る目的があつたとしても、なお商法第四八六条第一項違反（特別背任）の罪の成立を免れない。\n\n二　商法第四八六条第一項違反（特別背任）罪につき、「第三者の利益を図る目的をもつて」という訴因を、判決で「自己の利益を図る目的をもつて」と変更して認定するには、訴因変更の手続を必要としない。",
+  "ref_law": "商法486条1項，刑訴法312条",
+  "lawsuit_id": "55789",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55789",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/789/055789_hanrei.pdf"
+}

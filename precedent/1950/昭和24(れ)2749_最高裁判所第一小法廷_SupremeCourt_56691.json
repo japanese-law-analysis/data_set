@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 4,
+    "day": 13
+  },
+  "case_number": "昭和24(れ)2749",
+  "case_name": "食糧緊急措置令違反、贈賄、収賄",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第4巻1号555頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 7,
+    "day": 12
+  },
+  "gist": "昭和二二年食糧緊急措置令の効力と昭和二二年法律第七二號第一條にいわゆる「日本國憲法施行の際現に効力を有する命令」",
+  "case_gist": "食糧緊急措置令が昭和二一年二月一七日舊憲法第八條に基いて制定された緊急勅令であることは所論のとおりである。されば右措置令は法律に代わるべきものであり、そしてその後適法に帝國議會（昭和二一年八月二七日に衆議院、同年九月一七日に貴族院）の承諾を經たのであるから將來に向つても法律と同一の効力を失うものでないことは多言を要しない。それ故同令は昭和二二年法律第七二號第一條にいわゆる「日本國憲法施行の際現に効力を有する命令」にあたるものではなく從つて昭和二二年一二月三一を限り失効するものではないと解するのを相當とする。",
+  "ref_law": "昭和21年食糧緊急措置令1條，昭和22年法律72號1條",
+  "lawsuit_id": "56691",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56691",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/691/056691_hanrei.pdf"
+}

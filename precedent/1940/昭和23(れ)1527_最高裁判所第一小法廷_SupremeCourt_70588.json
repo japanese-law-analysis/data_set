@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 2,
+    "day": 24
+  },
+  "case_number": "昭和23(れ)1527",
+  "case_name": "建造物損壊、窃盗",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第7号571頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 9,
+    "day": 13
+  },
+  "gist": "窃盜と建造物損壊行爲との關係",
+  "case_gist": "原判決は、認定事實第一において、建造物損壊を認め、これを獨立の犯罪として取扱つたものである。判示の右事實は必ずしも窃盜罪の性質上その手段として通常用いらるべき行爲ということはできないから原審はこれを刑法第五四條にいわゆる犯罪（窃盜罪）の手段と見ずして獨立の犯罪として取扱つたのは正當である。",
+  "ref_law": "刑法235條，刑法260條，刑法54條",
+  "lawsuit_id": "70588",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70588",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/588/070588_hanrei.pdf"
+}

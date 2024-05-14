@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 2,
+    "day": 28
+  },
+  "case_number": "昭和37(あ)673",
+  "case_name": "弁護士法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第18巻2号73頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 2,
+    "day": 15
+  },
+  "gist": "弁護士法第七二条前段の罪の成立要件。",
+  "case_gist": "弁護士法第七二条前段の罪は、弁護士でない者が法定の除外事由がないのに、報酬を得る目的をもつて、同条前段所定の訴訟事件等に関して、鑑定、代理、仲裁若しくは和解その他の法律事務を取り扱うことにより成立し、業としてこれらの法律事務を取り扱うことを要しない。",
+  "ref_law": "弁護士法72条",
+  "lawsuit_id": "50700",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50700",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/700/050700_hanrei.pdf"
+}

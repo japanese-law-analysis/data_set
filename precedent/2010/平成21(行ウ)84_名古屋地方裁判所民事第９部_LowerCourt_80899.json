@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 10,
+    "day": 28
+  },
+  "case_number": "平成21(行ウ)84",
+  "case_name": "公共下水道負担金決定処分取消請求事件",
+  "court_name": "名古屋地方裁判所民事第９部",
+  "gist": "それぞれ公共下水道事業を行っていた市町村が合併した場合において，合併後の地方公共団体が，合併前の各市町村が定めていた公共下水道事業の受益者負担金の算定方法をそのまま維持する条例を定め，その結果，同一地方公共団体内でありながら合併前の市町村の区域ごとに受益者負担金の算定方法が異なることになっても，当該条例の規定は憲法１４条１項に違反しないとされた事例。",
+  "lawsuit_id": "80899",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=80899",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/899/080899_hanrei.pdf",
+  "contents": ""
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 2,
+    "day": 27
+  },
+  "case_number": "昭和39(行ツ)110",
+  "case_name": "商標登録出願拒絶査定不服抗告審判審決取消請求事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第22巻2号399頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和37(行ナ)201",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 9,
+    "day": 29
+  },
+  "gist": "称呼において比較的近似するが類似でないと認められた商標の事例",
+  "case_gist": "糸一般を指定商品とし「しようざん」の称呼をもつ商標と硝子繊維糸のみを指定商品とし「ひようざん」の称呼をもつ商標とでは、右両商標が外観および観念において著しく異なり、かつ、硝子繊維糸の取引では、商標の称呼のみによつて商標を識別しひいて商品の出所を知り品質を認識するようなことがほとんど行なわれないのが実情であるときは、両者は類似でないと認めるのが相当である。",
+  "ref_law": "旧商標法（大正10年法律第99号）2条1項9号",
+  "lawsuit_id": "53940",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53940",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/940/053940_hanrei.pdf"
+}

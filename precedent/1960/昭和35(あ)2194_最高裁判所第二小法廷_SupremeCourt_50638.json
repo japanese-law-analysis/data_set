@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 5,
+    "day": 26
+  },
+  "case_number": "昭和35(あ)2194",
+  "case_name": "贈賄、詐欺、詐欺幇助、収賄",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第15巻5号842頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 9,
+    "day": 8
+  },
+  "gist": "当事者の弁論再開の請求とこれに対する決定の要否。",
+  "case_gist": "当事者から終結した弁論の再開請求がなされたときは、裁判所は、その請求を容れて再開するか、又はその必要なしと認めて却下するか、いずれかの決定を与えなければならないものと解するを相当する。",
+  "ref_law": "刑訴法313条1項",
+  "lawsuit_id": "50638",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50638",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/638/050638_hanrei.pdf"
+}

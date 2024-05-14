@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 4,
+    "day": 13
+  },
+  "case_number": "昭和48(す)90",
+  "case_name": "詐欺、窃盗被告事件の上告棄却の決定に対する異議申立",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第187号267頁",
+  "original_court_name": "最高裁判所",
+  "original_case_number": "昭和47(あ)2299",
+  "original_date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 3,
+    "day": 8
+  },
+  "gist": "上告棄却決定に対する異議申立が、裁判の内容に誤りのあることを理由とするものでなく（住居表示の訂正を求めるもの）、かつ期間後の申立であつて不適法とされた事例",
+  "ref_law": "刑訴法415条1項",
+  "lawsuit_id": "59970",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59970",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/970/059970_hanrei.pdf"
+}

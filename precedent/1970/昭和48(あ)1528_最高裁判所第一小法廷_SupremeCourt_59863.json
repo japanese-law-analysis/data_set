@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 9,
+    "day": 20
+  },
+  "case_number": "昭和48(あ)1528",
+  "case_name": "傷害、覚せい剤取締法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第190号113頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 5,
+    "day": 30
+  },
+  "gist": "累犯加重に関する規定の適用を遺脱した違法と刑訴法四一一条（ただし、被告人上告の場合）",
+  "ref_law": "刑訴法411条",
+  "lawsuit_id": "59863",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59863",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/863/059863_hanrei.pdf"
+}

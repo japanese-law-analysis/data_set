@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 3,
+    "day": 30
+  },
+  "case_number": "昭和40(あ)837",
+  "case_name": "道路交通法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第158号629頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 3,
+    "day": 3
+  },
+  "gist": "運転免許証の提示を求められたことを違憲（第二一条）と主張した論旨が前提を欠くとして斥けられた事例。",
+  "case_gist": "憲法第二一条違反をいう点もあるが、本件で取締りに当つた警察官は道路交通法第六七条第一項に基いて、単に運転免許証の「提示」を求めただけであつて、検閲をしたものではないから、所論はその前提を欠く。",
+  "ref_law": "憲法21条，道路交通法67条1項",
+  "lawsuit_id": "58952",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58952",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/952/058952_hanrei.pdf"
+}

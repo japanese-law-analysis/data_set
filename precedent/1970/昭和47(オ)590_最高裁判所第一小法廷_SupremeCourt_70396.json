@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 10,
+    "day": 24
+  },
+  "case_number": "昭和47(オ)590",
+  "case_name": "請求異議",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集民　第113号47頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和43(ネ)1893",
+  "original_date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 3,
+    "day": 15
+  },
+  "gist": "一、敷地不法占有と家屋収去請求の相手方\n二、土地所有権に基づく家屋収去土地明渡の確定判決の事実審口頭弁論終結前に家屋を譲り受けた第三者に対する右確定判決の効力",
+  "case_gist": "一、地上家屋が第三者に譲渡されたにもかかわらず、所有権移転登記がされないで登記簿上譲渡人所有名義のままになつている場合であつても、敷地所有者から右譲渡人に対し、敷地不法占有を理由として家屋収去請求をすることは許されない。\n二、敷地所有者の土地所有権に基づく家屋収去土地明渡の確定判決の事実審口頭弁論終結前に、被告から地上家屋を譲り受けた第三者は、その所有権移転登記が口頭弁論終話後にされた場合においても、右確定料決につき、民訴法二〇一条所定の口頭弁論終結後の承継人にはあたらない。\n（一、二につき反対意見がある）",
+  "ref_law": "民法176条，民法177条，民訴法201条，民訴法545条",
+  "lawsuit_id": "70396",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70396",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/396/070396_hanrei.pdf"
+}

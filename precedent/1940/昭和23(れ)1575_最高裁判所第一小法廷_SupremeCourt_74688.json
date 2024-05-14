@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 3,
+    "day": 3
+  },
+  "case_number": "昭和23(れ)1575",
+  "case_name": "放火",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第8号49頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 9,
+    "day": 15
+  },
+  "gist": "司法警察官の被告人に對する訊問調書が強要によるものであると被告人が主張する場合裁判所が強要なしと認め證據に採つたことの正否",
+  "case_gist": "所論の司法警察官の被告人に對する訊問調書が司法警察官の強要によつて被告人のした自白に基き作成されたものであることの主張が、肯認され得ないものであることは、上告趣意第一點についての説明の通りであるから、所論のように原審公判廷において被告人が右調書は司法警察官の強要によつてした自白に基き作成されたものだと強く主張しただけで證據を取捨する裁量權を有する原審が所論のような證明をしなければ右訊問調書を證據として引用することができないとはいえない。所論は結局原判決の證據の採否を非難するに歸着するものであるから上告適法の理由とはならない。",
+  "ref_law": "憲法38條2項，刑訴應急措置法10條2項",
+  "lawsuit_id": "74688",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74688",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/688/074688_hanrei.pdf"
+}

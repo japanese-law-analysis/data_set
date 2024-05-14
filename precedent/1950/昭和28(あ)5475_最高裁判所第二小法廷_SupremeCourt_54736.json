@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 6,
+    "day": 16
+  },
+  "case_number": "昭和28(あ)5475",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第8巻6号878頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 10,
+    "day": 2
+  },
+  "gist": "公判期日における訴訟手続の証明資料の一例",
+  "case_gist": "第一審公判調書に「証拠に関する事項、別紙証拠関係目録記載のとおり」と記載されているにかかわらずその別紙が添付されていない場合（調書作成当時は添付されていたものと推察される）に、上級審の職権調査により第一審に関与した裁判官または書記官補の提出した回答書は、右の公判調書に記載のない部分の起訴手続を証明する資料となる。",
+  "ref_law": "刑訴法52条，刑訴規則44条",
+  "lawsuit_id": "54736",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54736",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/736/054736_hanrei.pdf"
+}

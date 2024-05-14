@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 12,
+    "day": 26
+  },
+  "case_number": "昭和28(あ)5086",
+  "case_name": "背任",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第9巻14号3011頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 10,
+    "day": 21
+  },
+  "gist": "控訴審において訴因変更が許される事例",
+  "case_gist": "控訴審が事実の取調を進めるにつれ、検察官から訴因変更の申出がある場合に、訴訟記録並びに原裁判所および控訴裁判所において取り調べた証拠によつて原判決を破棄し自判しても被告人の防禦に実質的利益を害しないと認められるようなときは、訴因変更を許すべきものである。",
+  "ref_law": "刑訴法404条，刑訴法312条，刑訴法400条，刑訴法393条",
+  "lawsuit_id": "56882",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56882",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/882/056882_hanrei.pdf"
+}

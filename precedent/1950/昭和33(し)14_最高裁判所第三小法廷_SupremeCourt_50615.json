@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 5,
+    "day": 27
+  },
+  "case_number": "昭和33(し)14",
+  "case_name": "再審の抗告棄却決定に対する特別抗告",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第12巻8号1683頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 4,
+    "day": 9
+  },
+  "gist": "一　再審を開始するか否かの手続は憲法にいう「裁判の対審」か\n二　刑訴法第四三五条第六号の「明らかな証拠」の意義\n三　同号の「原判決において認めた罪より軽い罪」の意義",
+  "case_gist": "一　確定判決に対する再審を開始するか否かの手続は、憲法にいう「裁判の対審」に当たらない\n二　刑訴法第四三五条第六号にいう「明らかな証拠」というのは証拠能力もあり証明力も高度のものをいい、被告人が弁護人に宛てた書信の如きを含まない\n三　同条同号の「原判決において認めた罪より軽い罪」というのは法定刑の軽い罪をいい、心神耗弱の主張を含まない",
+  "ref_law": "憲法37条1項，憲法82条1項，刑訴法435条6号，刑訴法445条，刑法39条2号，刑訴規則283条",
+  "lawsuit_id": "50615",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50615",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/615/050615_hanrei.pdf"
+}

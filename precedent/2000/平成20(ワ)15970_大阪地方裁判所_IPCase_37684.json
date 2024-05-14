@@ -1,0 +1,18 @@
+{
+  "trial_type": "IPCase",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 6,
+    "day": 4
+  },
+  "case_number": "平成20(ワ)15970",
+  "case_name": "損害賠償請求事件",
+  "court_name": "大阪地方裁判所",
+  "right_type": "不正競争",
+  "lawsuit_type": "民事訴訟",
+  "lawsuit_id": "37684",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail7?id=37684",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/684/037684_hanrei.pdf",
+  "contents": ""
+}

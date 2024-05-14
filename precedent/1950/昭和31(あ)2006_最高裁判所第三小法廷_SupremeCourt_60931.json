@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 12,
+    "day": 4
+  },
+  "case_number": "昭和31(あ)2006",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第116号1頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 4,
+    "day": 5
+  },
+  "gist": "憲法第三八条第二項にいう「不当に長く抑留若しくは拘禁された後の自白」にあたらない一事例",
+  "case_gist": "記録によれば、被告人は昭和三〇年三月七日逮捕され、同月一〇日勾留状の執行を受け、同月一四日、一五日及び二二日の三回に検察官に対して自白したものであるが、関係者数名あり金銭授受の趣旨が問題であることその他本件事案の模様に照らし、逮捕後八日ないし一六日になされた右各自白は、当裁判所大法廷屡次の判例（昭和二三年（れ）四三五号同年一〇月六日宣告、昭和二六年（れ）一六八八号同三〇年六月二二日宣告）の趣旨に徴し不当に長く拘禁された後の自白であるということはできない。",
+  "ref_law": "憲法38条2項，刑訴法319条1項",
+  "lawsuit_id": "60931",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60931",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/931/060931_hanrei.pdf"
+}

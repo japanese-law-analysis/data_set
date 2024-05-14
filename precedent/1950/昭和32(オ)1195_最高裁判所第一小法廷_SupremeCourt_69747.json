@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 2,
+    "day": 26
+  },
+  "case_number": "昭和32(オ)1195",
+  "case_name": "詐害行為取消請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第35号549頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 9,
+    "day": 27
+  },
+  "gist": "一般債権者に優先する抵当権の目的たる不動産の処分行為に対する否認権の行使。",
+  "case_gist": "一般債権者に優先する抵当権の目的たる不動産の処分行為については、右抵当権によつて担保される債権額を超える限度においてのみ、否認権を行使することができ、かつ、右目的物が不可分な一筆の建物であるときは、右の限度において価額の償還を求め得るにとどまる。",
+  "lawsuit_id": "69747",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=69747",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/747/069747_hanrei.pdf"
+}

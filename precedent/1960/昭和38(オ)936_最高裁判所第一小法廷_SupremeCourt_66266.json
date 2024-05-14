@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 11,
+    "day": 25
+  },
+  "case_number": "昭和38(オ)936",
+  "case_name": "売買契約不存在確認等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第81号137頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和32(ネ)1225",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 4,
+    "day": 27
+  },
+  "gist": "確認の利益の有無につき審理不尽の違法があるとされた事例",
+  "case_gist": "手附倍戻しにより売買契約が解除されて終了したと主張して右売買契約が存在しないことの確認を求める訴は、文言どおり解すれば、過去の法律関係の確認を求めるのと異なるところがないが、右売買契約が解除された結果生ずべき現在の権利または法律関係について直接に確認または給付を求める趣旨が窺えないでもないから、原審としては、右請求につきいかなる理由で確認の利益を認めたかを明らかにするか、これを認め得ないのであれば、原告が現在の権利または法律関係についていかなる請求をなすものであるか、その訴旨を釈明して審理すべきである。",
+  "ref_law": "民訴法225条，民訴法395条1項6号",
+  "lawsuit_id": "66266",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66266",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/266/066266_hanrei.pdf"
+}

@@ -1,0 +1,23 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 7,
+    "day": 30
+  },
+  "case_number": "昭和27(マ)79",
+  "case_name": "人身保護法による釈放請求",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第6巻7号699頁",
+  "original_case_number": "昭和27(マ)79",
+  "gist": "平和条約発効後の戦犯者の国籍の喪失または変更とこれに対する刑の執行義務",
+  "case_gist": "戦犯者として刑が科せられた当時日本国民であり、かつ、その後引き続き平和条約発効の直前まで日本国民として拘禁されていた者に対しては、日本国は平和条約第一一条により刑の執行の事務を負い、平和条約発効後における国籍の喪失または変更は、右義務に影響を及ぼさない。",
+  "ref_law": "平和条約11条",
+  "lawsuit_id": "57367",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57367",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/367/057367_hanrei.pdf",
+  "contents": ""
+}

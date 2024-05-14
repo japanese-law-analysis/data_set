@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 6,
+    "month": 2,
+    "day": 8
+  },
+  "case_number": "平成5(オ)950",
+  "case_name": "離婚",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第171号417頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成4(ネ)1271",
+  "original_date": {
+    "era": "Heisei",
+    "year": 5,
+    "month": 3,
+    "day": 10
+  },
+  "gist": "未成熟子がいる有責配偶者からの離婚請求が認容された事例",
+  "case_gist": "有責配偶者である夫からされた離婚請求であっても、別居が一三年余に及び、夫婦間の未成熟の子は三歳の時から一貫して妻の監護の下で育てられて間もなく高校を卒業する年齢に達していること、夫が別居後も妻に送金をして子の養育に無関心ではなかったこと、夫の妻に対する離婚に伴う経済的給付も実現が期待できることなど判示の事実関係の下においては、右離婚請求は、認容されるべきである。",
+  "ref_law": "民法1条2項，民法770条",
+  "lawsuit_id": "62731",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62731",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/731/062731_hanrei.pdf"
+}

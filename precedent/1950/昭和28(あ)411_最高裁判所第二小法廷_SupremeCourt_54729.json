@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 2,
+    "day": 2
+  },
+  "case_number": "昭和28(あ)411",
+  "case_name": "賍物故買、金属屑回収業に関する条例違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第9巻2号157頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 12,
+    "day": 26
+  },
+  "gist": "昭和二六年福岡県条例第五二号（金属屑回収業に関する条例）第一〇条にいう帳簿の従業員による不記載と同条例第一六条第一八条の適用",
+  "case_gist": "昭和二六年福岡県条例第五二号（金属屑回収業に関する条例）第一〇条にいう業者備付帳簿の記載方を担当する従業員が、その帳場に所定の事項を記載せず、又は虚偽の記載をなした場合、当該従業員は同条令第一八条、第一六条により処罰を免れないものと解するを相当とする。",
+  "ref_law": "昭和26年福岡県条例52号金属屑回収業に関する条例",
+  "lawsuit_id": "54729",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54729",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/729/054729_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 3,
+    "day": 15
+  },
+  "case_number": "昭和25(れ)1701",
+  "case_name": "賍物故買、物価統制令違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第41号833頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 9,
+    "day": 14
+  },
+  "gist": "憲法第三七条に所謂「迅速を欠いた裁判」と破棄理由の有無",
+  "case_gist": "一件記録によれば本件審理の経過は論旨の指摘するとおりである。しかし、憲法第三七条に所謂裁判所の迅速を欠いた場合においても、唯それだけでは原判決には影響なく、従つてこれにより原判決を破棄する理由となすに足りないと解すべきことは当裁判所大法廷の判例とするところである（昭和二三年（れ）第一〇七一号同年一二月二二日大法廷判決参照）",
+  "ref_law": "憲法37条1項，旧刑訴法411条",
+  "lawsuit_id": "67912",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=67912",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/912/067912_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 1,
+    "day": 21
+  },
+  "case_number": "昭和28(オ)323",
+  "case_name": "未墾地買収計畫に対する訴願裁決の取消等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第9巻1号12頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 2,
+    "day": 24
+  },
+  "gist": "肥培管理が行われたことのある土地で農地と認められなかった一事例",
+  "case_gist": "大正一二、三年頃杉の伐採跡の伐根を除去し草を刈る等して開墾し全体に桐苗を植え数年間は肥料を施し、時々土を掘起してやわらかくする等昭和一七、八年頃までは引続き手入をし肥培管理をしたが、その後ほとんど手入をせず昭和二二年頃から再び下草を刈る等の手入をし、現在では目通リ直径七寸乃至一尺二寸位高さ七、八間位の桐の木が全区域にわたつて約三間の間隔で密生し植林による山林と異らない土地は農地とは認め難い。",
+  "ref_law": "自作農創設特別措置法2條1項",
+  "lawsuit_id": "57418",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57418",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/418/057418_hanrei.pdf"
+}

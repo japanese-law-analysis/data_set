@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 4,
+    "day": 23
+  },
+  "case_number": "昭和46(オ)198",
+  "case_name": "不動産登記抹消等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第30巻3号306頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和38(ネ)889",
+  "original_date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 12,
+    "day": 3
+  },
+  "gist": "財団法人が目的の範囲外の事業を行うためにした財産の売却につきその無効を主張することが信義則に反するとされた事例",
+  "case_gist": "病院を経営する財団法人が寄附行為の定める目的の範囲外の事業を行うために病院の敷地及び建物の全部とその備品器具等を売却した場合であつても、その代金の授受及び物件の引渡等を終わり、一年四か月を経て右事業のための寄附行為変更の認可があつたのち、買主から右売買物件の買戻方の申出がされたのに右法人においてその資金も病院経営の意思もないとしてこれを拒絶したため、買主は右物件全部を第三者に譲渡し、右第三者がこれを使用して引き続き病院を経営しているなど判示の事実関係のもとにおいて、右法人が売買の時から七年一〇か月余を経過したのちにその無効を主張し、右物件の返還又はこれに代わる損害の賠償を求めることは、信義則上許されない。",
+  "ref_law": "民法1条2項，民法43条",
+  "lawsuit_id": "53206",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53206",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/206/053206_hanrei.pdf"
+}

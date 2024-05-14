@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 7,
+    "day": 29
+  },
+  "case_number": "昭和24(オ)184",
+  "case_name": "請求に関する異議並びに家屋賃貸借契約存続確認請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第6巻7号684頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 7,
+    "day": 8
+  },
+  "gist": "一　控訴提起後第一審裁判所に控訴権抛棄書を提出した場合における控訴権抛棄の効力\n二　弁護士が相手方の委託を受けて為す事実行為と旧弁護士法第二四条第一号\n\n三　控訴の取下を伴わない控訴提起後の控訴権抛棄の効力。",
+  "case_gist": "一　控訴人が、控訴提起後第一審裁判所に控訴権抛棄書を提出した場合においても、同書面が記録に綴付されて控訴裁判所に到達すれば、控訴権の抛棄は効力を生じる。\n二　被控訴人の代理人弁護士が、控訴人の委託を受け控訴権抛棄書を事実上裁判所に持参し提出する行為は、旧弁護士法第二四条第一号に違反しない。\n\n三　控訴提起後控訴権の抛棄を為す場合において、控訴の取下を同時にしなくても、控訴権の抛棄は有効である。",
+  "ref_law": "民訴法365条，旧弁護士法24条1号，弁護士法25条1号",
+  "lawsuit_id": "57132",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57132",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/132/057132_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 8,
+    "month": 6,
+    "day": 24
+  },
+  "case_number": "平成7(オ)823",
+  "case_name": "宗教法人役員地位不存在確認",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集民　第179号389頁",
+  "original_court_name": "広島高等裁判所",
+  "original_case_number": "平成4(ネ)268",
+  "original_date": {
+    "era": "Heisei",
+    "year": 6,
+    "month": 12,
+    "day": 21
+  },
+  "gist": "宗教法人である寺院の前住職の長男であるにすぎない者は前住職の五男が右法人の代表役員及び責任役員の地位にないことの確認を求める訴えについて原告適格を有しないとされた事例",
+  "case_gist": "宗教法人である寺院の前住職の長男であるにすぎない甲は、右法人においては、宗教上の地位である住職の地位にある者を代表役員及び責任役員に充てることになっているが、長男の権利放棄が長男以外の者を住職に任命するための要件にはなっておらず、その他に甲が右法人の代表役員等の地位について何らかの法律上の利害関係を有する地位にあることを肯認するに足りる事情が認められないときは、前住職の五男が右法人の代表役員及び責任役員の地位にないことの確認を求める訴えについて原告適格を有しない。",
+  "ref_law": "民訴法45条，民訴法225条，宗教法人法18条",
+  "lawsuit_id": "76127",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=76127",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/127/076127_hanrei.pdf"
+}

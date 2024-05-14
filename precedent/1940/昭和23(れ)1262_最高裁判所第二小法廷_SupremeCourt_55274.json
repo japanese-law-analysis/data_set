@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 12,
+    "day": 18
+  },
+  "case_number": "昭和23(れ)1262",
+  "case_name": "恐喝",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第2巻14号1825頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 5,
+    "day": 31
+  },
+  "gist": "一　第三者を解して財物の交付を受けた場合における恐喝罪の成立\n二　被告人の恐喝行爲についてのみ判示し他の共犯者に觸れない判決の正否",
+  "case_gist": "一　被告人が直接被害者から、財物の交付を受けようと、第三者を介してこれを受けようと、恐喝罪の成否に影響するところはない。\n二　被告人が恐喝行爲をするに當つて、他に共犯關係に立つものがあつたとしても、被告人の犯罪行爲を判示するには、被告人自身の「罪トナルヘキ事實」を明らかにすればよい。",
+  "ref_law": "刑法249條，刑訴法360條1項",
+  "lawsuit_id": "55274",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55274",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/274/055274_hanrei.pdf"
+}

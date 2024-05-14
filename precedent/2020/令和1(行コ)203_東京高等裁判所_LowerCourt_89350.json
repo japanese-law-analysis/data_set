@@ -1,0 +1,19 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Reiwa",
+    "year": 2,
+    "month": 2,
+    "day": 13
+  },
+  "case_number": "令和1(行コ)203",
+  "case_name": "命令服従義務不存在確認請求控訴事件",
+  "court_name": "東京高等裁判所",
+  "result": "棄却",
+  "original_court_name": "東京地方裁判所",
+  "original_case_number": "平成28(行ウ)143",
+  "lawsuit_id": "89350",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=89350",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/350/089350_hanrei.pdf",
+  "contents": ""
+}

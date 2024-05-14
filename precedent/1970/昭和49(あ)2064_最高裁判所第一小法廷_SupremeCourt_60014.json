@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 1,
+    "day": 23
+  },
+  "case_number": "昭和49(あ)2064",
+  "case_name": "覚せい剤取締法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第195号21頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 8,
+    "day": 20
+  },
+  "gist": "証拠調手続を経ない証拠を判断の資料にした場合の判決への影響",
+  "case_gist": "控訴審が事実誤認の有無を審査するにあたり、証拠調手続を経ていない証拠をその資料に供したのは違法たるを免れないが、右証拠は第一審判決の挙示する証拠には含まれておらず、また、その挙示する証拠によれば所論の事実を優に認定するに足りるから、右違法は判決に影響を及ぼすものではない。",
+  "ref_law": "刑訴法411条1号",
+  "lawsuit_id": "60014",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60014",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/014/060014_hanrei.pdf"
+}

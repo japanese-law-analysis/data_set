@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 2,
+    "day": 1
+  },
+  "case_number": "昭和27(あ)5866",
+  "case_name": "昭和二四年佐賀県条例第五二号違反、公務執行妨害、傷害",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第9巻2号119頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 10,
+    "day": 2
+  },
+  "gist": "昭和二四年佐賀県条例第五二号の合憲性",
+  "case_gist": "昭和二四年佐賀県条例第五二号は憲法第二一条等に違反するものではない。",
+  "ref_law": "憲法12条，憲法21条，憲法28条，憲法98条，昭和24年佐賀県条例52号",
+  "lawsuit_id": "54704",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54704",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/704/054704_hanrei.pdf"
+}

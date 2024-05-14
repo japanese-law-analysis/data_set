@@ -1,0 +1,18 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 10,
+    "day": 29
+  },
+  "case_number": "昭和58(行ウ)162",
+  "case_name": "違法公金支出差止請求事件",
+  "court_name": "東京地方裁判所",
+  "field": "行政",
+  "gist": "都特別区がいわゆるＯＡ機器メーカーとの間で締結した電子計算処理装置の賃貸借契約の基づく借上経費の支出命令の差止めを求めて，同区長を被告として提起された住民訴訟につき，右支出命令権限は，同区規則により，配当予算の範囲内において，企画部企画課長に委任されているところ，右借上経費について現実に支出命令の権限が行使されるのは，常に，予算が配当された後であるから，将来の会計年度に支出すべき分についても右権限の行使をし得る者は企画部企画課長以外にはないので，右権限を有しない右区長には被告適格がないとして，右住民訴訟が不適法とされた事例",
+  "lawsuit_id": "36043",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=36043",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/043/036043_hanrei.pdf",
+  "contents": ""
+}

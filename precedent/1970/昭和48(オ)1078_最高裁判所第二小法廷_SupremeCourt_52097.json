@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 1,
+    "day": 31
+  },
+  "case_number": "昭和48(オ)1078",
+  "case_name": "農地明渡請求本訴、農地賃借権設定許可申請手続請求反訴",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第29巻1号53頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和47(ネ)989",
+  "original_date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 7,
+    "day": 12
+  },
+  "gist": "農地賃貸借契約に付された確定期限到来後における賃借権設定許可申請手続義務の帰すう",
+  "case_gist": "農地について締結された賃貸借契約に確定期限が付されている場合において賃借権設定許可申請手続がされないままその期限が到来したときは、賃貸人の賃借人に対する右許可申請手続義務は消滅する。",
+  "ref_law": "農地法3条1項本文，農地法3条4項，民法601条",
+  "lawsuit_id": "52097",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52097",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/097/052097_hanrei.pdf"
+}

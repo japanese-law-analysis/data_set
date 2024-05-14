@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 3,
+    "month": 3,
+    "day": 19
+  },
+  "case_number": "昭和62(行ツ)109",
+  "case_name": "審決取消",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第45巻3号209頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和57(行ケ)205",
+  "original_date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 4,
+    "day": 30
+  },
+  "gist": "特許請求の範囲の記載文言自体は訂正されていなくても発明の詳細な説明及び図面の訂正により特許請求の範囲の減縮があつたとされる場合",
+  "case_gist": "特許請求の範囲の記載文言自体は訂正されていない場合でも、特許請求の範囲に記載されている「固定部材」の技術的意義が一義的に明確とはいえず、発明の詳細な説明及び図面から接着剤（接着層）をもつて「固定部材」とする記載をすべて削除する訂正審決が確定したときは、特許請求の範囲に記載されている「固定部材」は、接着剤（接着層）を含まないものに減縮される。",
+  "ref_law": "特許法36条，特許法126条",
+  "lawsuit_id": "52745",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52745",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/745/052745_hanrei.pdf"
+}

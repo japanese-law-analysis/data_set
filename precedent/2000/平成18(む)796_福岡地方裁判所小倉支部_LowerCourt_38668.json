@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 10,
+    "day": 18
+  },
+  "case_number": "平成18(む)796",
+  "case_name": "証拠開示請求に対する裁定決定",
+  "court_name": "福岡地方裁判所小倉支部",
+  "result": "棄却",
+  "lawsuit_id": "38668",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=38668",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/668/038668_hanrei.pdf",
+  "contents": ""
+}

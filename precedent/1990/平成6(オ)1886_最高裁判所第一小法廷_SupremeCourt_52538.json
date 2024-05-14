@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 9,
+    "month": 9,
+    "day": 4
+  },
+  "case_number": "平成6(オ)1886",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第51巻8号3718頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_case_number": "平成5(ネ)190",
+  "original_date": {
+    "era": "Heisei",
+    "year": 6,
+    "month": 5,
+    "day": 31
+  },
+  "gist": "公正証書の内容となる法律行為の法令違反等に関する公証人の調査義務",
+  "case_gist": "公証人は、法律行為についての公正証書を作成するに当たり、聴取した陳述により知り得た事実など自ら実際に経験した事実及び当該嘱託と関連する過去の職務執行の過程において実際に経験した事実を資料として審査をすれば足り、その結果、法律行為の法令違反、無効及び無能力による取消し等の事由が存在することについて具体的な疑いが生じた場合に限って、嘱託人などの関係人に対して必要な説明を促すなどの積極的な調査をすべき義務を負う。",
+  "ref_law": "公証人法26条，公証人法施行規則（昭和24年法務府令第9号）13条，国家賠償法1条1項",
+  "lawsuit_id": "52538",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52538",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/538/052538_hanrei.pdf"
+}

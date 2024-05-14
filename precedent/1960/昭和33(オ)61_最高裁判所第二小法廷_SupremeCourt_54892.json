@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 3,
+    "day": 18
+  },
+  "case_number": "昭和33(オ)61",
+  "case_name": "売掛代金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第14巻4号483頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 10,
+    "day": 30
+  },
+  "gist": "食品衛生法第二一条による食肉販売の営業許可を受けない者のした食肉買入契約の効力。",
+  "case_gist": "食品衛生法第二一条による食肉販売の営業許可を受けない者のした食肉の買入契約は無効ではない。",
+  "ref_law": "食品衛生法21条，食品衛生法施行令5条9号，民法90条",
+  "lawsuit_id": "54892",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54892",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/892/054892_hanrei.pdf"
+}

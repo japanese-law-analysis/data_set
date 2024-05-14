@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 2,
+    "day": 22
+  },
+  "case_number": "昭和50(オ)472",
+  "case_name": "所有権移転登記手続",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第33巻1号79頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和49(ネ)241",
+  "original_date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 2,
+    "day": 28
+  },
+  "gist": "実体上の無効原因がある公正証書に基づく不動産の強制競売手続が完結した場合と競落人の所有権取得",
+  "case_gist": "公正証書を債務名義とする不動産の強制競売において、競落許可決定が確定し競落代金の支払がされて競売手続が完結した場合には、右公正証書に実体上の無効原因があつても、これを理由として競落人による右不動産の所有権取得の効果をくつがえすことはできない。",
+  "ref_law": "民訴法559条3号，民訴法686条",
+  "lawsuit_id": "53247",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53247",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/247/053247_hanrei.pdf"
+}

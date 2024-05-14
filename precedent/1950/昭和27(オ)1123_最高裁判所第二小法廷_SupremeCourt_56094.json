@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 5,
+    "day": 29
+  },
+  "case_number": "昭和27(オ)1123",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第7巻5号623頁",
+  "original_court_name": "広島高等裁判所\n        　松江支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 10,
+    "day": 24
+  },
+  "gist": "民訴第一五二条第四項にいわゆる「己ムコトヲ得サル事由」があると認められない一事例",
+  "case_gist": "口頭弁論期日変更申立書に、当該期日の十数日前脳溢血症を発し、三ケ月間絶対安静を必要とする旨の診断書が添付されているに止まり、その他の事情（たとえば、訴訟代理人を選任することができないか等）を明らかにする何等の資料もないときは、民訴第一五二条第四項にいわゆる「己ムコトヲ得サル事由」があるものとは認められない。",
+  "ref_law": "民訴法152条4項",
+  "lawsuit_id": "56094",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56094",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/094/056094_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 12,
+    "day": 24
+  },
+  "case_number": "昭和23(れ)882",
+  "case_name": "銃砲等所持禁止令違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第6号437頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 5,
+    "day": 11
+  },
+  "gist": "判決書の作成日に開かれた公判廷にその判決に關與した判事が出席しなかつた場合と右判決書作成日附の眞否",
+  "case_gist": "前記五月四日の公判廷に第一回の公判廷に出席した判事Ａが列席していなかつたことから、直ちに同判事が同日出勤せず從つて同日合議が成立せず判決書の作成もなされなかつたものと認めなければならないものではない。然らば原判決書の日附が虚僞であつて眞實の作成年月日を記載していないと云う所論は到底採用することはできない。",
+  "ref_law": "刑訴法68條，刑訴法71條",
+  "lawsuit_id": "70684",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70684",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/684/070684_hanrei.pdf"
+}

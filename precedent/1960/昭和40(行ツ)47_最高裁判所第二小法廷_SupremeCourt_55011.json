@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 11,
+    "day": 1
+  },
+  "case_number": "昭和40(行ツ)47",
+  "case_name": "審決取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第22巻12号2383頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和37(行ナ)169",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 3,
+    "day": 23
+  },
+  "gist": "東京国際見本市への出品と発明の新規性の喪失",
+  "case_gist": "東京国際見本市は、旧特許法（大正一〇年法律第九六号）第六条第一項所定の博覧会等に該当せず、同見本市への出品について、発明の新規性喪失の除外例を認めることはできない。",
+  "ref_law": "旧特許法（大正10年法律第96号）6条1項",
+  "lawsuit_id": "55011",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55011",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/011/055011_hanrei.pdf"
+}

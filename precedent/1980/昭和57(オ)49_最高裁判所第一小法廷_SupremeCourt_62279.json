@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 2,
+    "day": 9
+  },
+  "case_number": "昭和57(オ)49",
+  "case_name": "損害賠償、仮執行の原状回復",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第141号165頁",
+  "original_court_name": "高松高等裁判所",
+  "original_case_number": "昭和55(ネ)196",
+  "original_date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 10,
+    "day": 27
+  },
+  "gist": "公立高校の生徒が体育自習授業の終了間際に起こした同級生に対する集団暴行による傷害事故について事故現場付近で他の学級の体育授業を行いながら右自習の監督もしていた教諭に安全保持上の過失があるとされた事例",
+  "case_gist": "公立高校の生徒が体育自習授業の終了間際の体育用具の後片付け中に同級生に対し体操用マットではさんで踏みつける等の集団暴行を加えて重傷を負わせた事故について、右暴行が事故現場付近で他の学級の体育授業を行いながら右自習の監督もしていた教諭の監視しうる場所で公然と行われた等原判示の事実関係のもとにおいては、同教諭に生徒の安全保持上の過失がある。",
+  "ref_law": "国家賠償法1条1項",
+  "lawsuit_id": "62279",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62279",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/279/062279_hanrei.pdf"
+}

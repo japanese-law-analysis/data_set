@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 63,
+    "month": 10,
+    "day": 21
+  },
+  "case_number": "昭和60(オ)522",
+  "case_name": "株券引渡等請求事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集民　第155号55頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和59(ネ)860",
+  "original_date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 1,
+    "day": 18
+  },
+  "gist": "執行不能を条件とする代償請求が将来の給付の訴えとしての訴訟要件を欠くとされた事例",
+  "case_gist": "株式譲渡承認の申請手続と右承認を条件とする株券の指図による占有移転を命ずる判決の執行不能を条件とする代償請求は、将来の給付の訴えとしての訴訟要件を欠く。",
+  "ref_law": "民訴法226条，民事執行法31条2項",
+  "lawsuit_id": "62341",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62341",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/341/062341_hanrei.pdf"
+}

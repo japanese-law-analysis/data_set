@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 5,
+    "day": 6
+  },
+  "case_number": "昭和49(行ツ)94",
+  "case_name": "不当労働行為救済命令取消請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第30巻4号409頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和47(行コ)70",
+  "original_date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 5,
+    "day": 29
+  },
+  "gist": "いわゆる社外工につきその受入会社が労働組合法七条の使用者にあたるとされた事例",
+  "case_gist": "油圧器の製造販売を目的とする会社が、油圧装置の設計図を作成させるため、社外の設計請負業者から長期にわたりその従業員の派遣を受け、これをいわゆる社外工として会社の作業場内で就労させている場合において、右請負業者が実質的には社外工の単なるグループにすぎないものであつて独立の使用者としての実体を有せず、各社外工はそれぞれ個人の技能、信用によつて会社に受け入れられているものであり、その勤務及び作業に関しては専ら会社が自己の従業員と同様に指揮監督を行い、また、社外工の賃金額についても会社が実質的にこれを決定しているなど判示のような事情があるときは、会社は、右社外工に対する関係において労働組合法七条の使用者にあたる。",
+  "ref_law": "労働組合法7条",
+  "lawsuit_id": "53237",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53237",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/237/053237_hanrei.pdf"
+}

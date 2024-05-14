@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 11,
+    "day": 5
+  },
+  "case_number": "昭和56(オ)523",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第134号183頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和55(ネ)1294",
+  "original_date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 2,
+    "day": 17
+  },
+  "gist": "畜犬の飼主に保管上の過失を認めた事例",
+  "case_gist": "飼主が散歩に連れて行こうとして檻から出した畜犬が公道に飛び出し、進行中の原動機付自転車に接触して転倒させ、運転者を負傷させるなど原判示のような事情があるときは、飼主に畜犬保管上の過失がある。",
+  "ref_law": "民法718条1項",
+  "lawsuit_id": "66895",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66895",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/895/066895_hanrei.pdf"
+}

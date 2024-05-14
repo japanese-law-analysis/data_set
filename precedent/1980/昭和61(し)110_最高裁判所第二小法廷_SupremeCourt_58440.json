@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 1,
+    "day": 21
+  },
+  "case_number": "昭和61(し)110",
+  "case_name": "裁判の解釈を求める申立事件についてした裁判官忌避申立却下決定に対する異議申立棄却決定に対する特別抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第245号487頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 6,
+    "day": 26
+  },
+  "gist": "裁判官忌避申立却下の裁判と不服申立の利益",
+  "ref_law": "刑訴法21条，刑訴法24条，刑訴法25条，刑訴法428条2項，刑訴法433条",
+  "lawsuit_id": "58440",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58440",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/440/058440_hanrei.pdf"
+}

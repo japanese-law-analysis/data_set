@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 12,
+    "day": 19
+  },
+  "case_number": "昭和29(あ)1565",
+  "case_name": "麻薬取締法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第122号739頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 4,
+    "day": 7
+  },
+  "gist": "麻薬取締法の法意",
+  "case_gist": "麻薬取締法は、麻薬が人間に対しはなはだしい害毒を流す特質を有することを考慮し、その害毒の流布を防止するため、あらゆる角度から麻薬に関する行為を列挙して、これを処罰の対象としたものと解するを相当とする。そして、麻薬の譲受と譲渡とでは相手方を異にし、行為の態様を異にする別個独立の行為であることはいうをまたない。",
+  "ref_law": "旧麻薬取締法（昭和23年法律123号）4条，刑法45条",
+  "lawsuit_id": "60577",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60577",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/577/060577_hanrei.pdf"
+}

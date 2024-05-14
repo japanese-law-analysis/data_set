@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 12,
+    "day": 16
+  },
+  "case_number": "昭和27(オ)813",
+  "case_name": "和解調書無効確認請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第9巻14号2013頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 7,
+    "day": 3
+  },
+  "gist": "一　弁護士法第二五条第一号違反行為の一事例\n二　弁護士法第二五条第一号違反の訴訟行為の効力",
+  "case_gist": "一　甲乙間に成立した和解契約の履行確保のため、甲が乙の委託により乙の代理人として選任した弁護士丙の裁判上の和解の申立に基き、甲乙間に右和解契約どおりの内容の和解調書が作成されたところ、その後乙が丙に対する代理権授与の真実を争い甲に対し右和解の無効確認の訴訟を提起した場合において、丙が甲の代理人としてこれに応訴し訴訟を迫行したときは、丙の右訴訟行為は、弁護士法第二五条第一号に違反するものと解するのが相当である。\n二　弁護士法第二五条第一号違反の訴訟行為であつても、相手方がこれにつき異議を述べなかつたときは、訴訟法上完全に効力を生じ、相手方は、後日に至りその無効を主張することは許されないものと解するのが相当である。",
+  "ref_law": "弁護士法25条",
+  "lawsuit_id": "57350",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57350",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/350/057350_hanrei.pdf"
+}

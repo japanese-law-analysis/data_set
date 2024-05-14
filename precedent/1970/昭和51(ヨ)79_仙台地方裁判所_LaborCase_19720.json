@@ -1,0 +1,17 @@
+{
+  "trial_type": "LaborCase",
+  "date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 2,
+    "day": 18
+  },
+  "case_number": "昭和51(ヨ)79",
+  "case_name": "明治屋組合事務所使用妨害",
+  "court_name": "仙台地方裁判所",
+  "field": "労働",
+  "lawsuit_id": "19720",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail6?id=19720",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/720/019720_hanrei.pdf",
+  "contents": "主　　　文\n債務者は、別紙物件目録記載の組合事務所につき、債権者及びその構成員、訪問\n者らが正当な組合活動に必要な限度でなす占有使用を妨げてはならない。\n（別紙物件目録省略）\n"
+}

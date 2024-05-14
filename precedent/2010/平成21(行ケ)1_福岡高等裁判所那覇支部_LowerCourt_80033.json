@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 3,
+    "day": 9
+  },
+  "case_number": "平成21(行ケ)1",
+  "case_name": "選挙無効",
+  "court_name": "福岡高等裁判所那覇支部",
+  "result": "棄却",
+  "gist": "いわゆる１人別枠制を採用した衆議院議員選挙区画定審議会設置法及びこれを前提とした現行の選挙区割り（公職選挙法１３条及び別表第１）は，平成２１年８月３０日に施行された衆議院議員総選挙の当時，一般に合理性を有するとは考えられないほどの投票価値の不平等を内在するものとして，全体として違憲状態にあったものであるが，国会が，憲法上要求される合理的な期間内にその是正を行わなかったものと評価することはできないから，上記選挙区割りは，いまだ違憲というには至っていなかったというべきである。",
+  "lawsuit_id": "80033",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=80033",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/033/080033_hanrei.pdf",
+  "contents": ""
+}

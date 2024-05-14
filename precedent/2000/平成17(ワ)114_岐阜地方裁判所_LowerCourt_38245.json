@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 6,
+    "day": 18
+  },
+  "case_number": "平成17(ワ)114",
+  "case_name": "損害賠償請求事件",
+  "court_name": "岐阜地方裁判所",
+  "result": "その他",
+  "gist": "不整脈である心房細動の患者に電気的除細動を実施した後の抗凝固療法が不十分であったとして医師の過失を認めた事例",
+  "lawsuit_id": "38245",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=38245",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/245/038245_hanrei.pdf",
+  "contents": ""
+}

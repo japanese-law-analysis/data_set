@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 4,
+    "day": 27
+  },
+  "case_number": "昭和25(れ)1791",
+  "case_name": "恐喝",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第44号689頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 9,
+    "day": 30
+  },
+  "gist": "権利実行の手段としての恐喝にあたらない事例",
+  "case_gist": "原判決は、その判示のごときＡが原審相被告人Ｂに無断で同人の住所及び氏名を冐用し、禁制品である手巻タバコを小包郵便で他に発送したという不都合な所為につき、被告人が原審共同被告人Ｂと共謀し、右Ａを恐喝して右の事情を内密に済ませるという名義の下にＡから金員を喝取することを企て、判示のごとき恐喝行為をしたという事実を認定したものであることは原判文上明瞭であつて所論のように、被告人が所論権利実行の手段として右のごとき恐喝をしたことは原審の認定しないところであり、また、被告人も原審において、右のごとき事実関係を主張した形迹はみとめられないのである所論は理由がない。",
+  "ref_law": "刑法249条1項，刑法60条，旧刑訴法409条",
+  "lawsuit_id": "71542",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=71542",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/542/071542_hanrei.pdf"
+}

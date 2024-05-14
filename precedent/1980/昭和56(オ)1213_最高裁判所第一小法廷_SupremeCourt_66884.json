@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 3,
+    "day": 24
+  },
+  "case_number": "昭和56(オ)1213",
+  "case_name": "売買代金",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第138号361頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和55(ネ)262",
+  "original_date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 9,
+    "day": 22
+  },
+  "gist": "船舶の発航により商法八四二条八号所定の先取特権を消滅させた行為が不法行為にあたらないとされた事例",
+  "case_gist": "船舶所有者がその所有の船舶につき第三者が商法八四二条八号所定の先取特権を有することを知りながらこれを発航させて右先取特権を消滅させるに至つたとしても、右船舶所有者が船舶発航前に先取特権者の権利行使を妨げる行為をしたなどの特段の事情のない限り、右発航行為をもつて先取特権者の権利を違法に侵害した不法行為にあたるということはできない。",
+  "ref_law": "民法709条，商法842条8号，商法847条2項",
+  "lawsuit_id": "66884",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66884",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/884/066884_hanrei.pdf"
+}

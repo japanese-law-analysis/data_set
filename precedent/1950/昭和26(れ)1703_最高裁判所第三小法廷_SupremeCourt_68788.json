@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 11,
+    "day": 27
+  },
+  "case_number": "昭和26(れ)1703",
+  "case_name": "詐欺",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第57号449頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 4,
+    "day": 16
+  },
+  "gist": "上告趣意書に引用すべき判例を具体的に示したことにならない一事例",
+  "case_gist": "所論「大正一五年九月二五日の判例」というだけでは論旨に引用する判例を具体的に示したことにならない（刑訴規制第二五三条）。",
+  "ref_law": "刑訴法407条，刑訴規則253条",
+  "lawsuit_id": "68788",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=68788",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/788/068788_hanrei.pdf"
+}

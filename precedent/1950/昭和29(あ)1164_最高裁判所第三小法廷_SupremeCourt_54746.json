@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 1,
+    "day": 11
+  },
+  "case_number": "昭和29(あ)1164",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第9巻1号14頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 2,
+    "day": 10
+  },
+  "gist": "一　刑訴第三二一条第一項第二号後段の調書の取調時期\n二　同号但書にいわゆる「前の供述を信用すべき特別の状況」の判断",
+  "case_gist": "一　刑訴第三二一条第一項第二号後段の調書の証拠調をその証人尋問期日の後の期日に行つたところで憲法第三七条第二項に反しない。\n二　同号但書にいわゆる「前の供述を信用すべき特別の情況」は必ずしも外部的な特別の事情によらなくても、その供述の内容自体によつて判断することができる。",
+  "ref_law": "刑訴法321条1項2号，刑訴法298条，刑訴法300条，憲法37条2項",
+  "lawsuit_id": "54746",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54746",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/746/054746_hanrei.pdf"
+}

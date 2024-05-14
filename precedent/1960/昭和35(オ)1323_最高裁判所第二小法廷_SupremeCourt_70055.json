@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 9,
+    "day": 13
+  },
+  "case_number": "昭和35(オ)1323",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第67号541頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 8,
+    "day": 9
+  },
+  "gist": "同時履行の抗弁についての釈明義務。",
+  "case_gist": "同時履行の抗弁の提出がないかぎり、裁判所は、進んで引換給付の判決をすべきものではなく、また、同時履行の抗弁の提出を促すべく釈明する義務を負うものではない（昭和二七年一一月二七日第一小法廷判決、民集六巻一〇号一〇六二頁参照）。",
+  "ref_law": "民法533条，民訴法127条",
+  "lawsuit_id": "70055",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70055",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/055/070055_hanrei.pdf"
+}

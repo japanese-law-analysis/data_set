@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 7,
+    "day": 9
+  },
+  "case_number": "昭和57(あ)568",
+  "case_name": "覚せい剤取締法違反、関税法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第228号185頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 3,
+    "day": 12
+  },
+  "gist": "共謀共同正犯における共謀の事実につき補強証拠を欠く旨の憲法三八条三項違反の主張が欠前提とされた事例",
+  "ref_law": "憲法38条3項",
+  "lawsuit_id": "58261",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58261",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/261/058261_hanrei.pdf"
+}

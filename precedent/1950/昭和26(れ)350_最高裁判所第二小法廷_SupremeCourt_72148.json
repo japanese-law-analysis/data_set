@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 9,
+    "day": 14
+  },
+  "case_number": "昭和26(れ)350",
+  "case_name": "賭場開帳図利",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第52号459頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 10,
+    "day": 11
+  },
+  "gist": "従犯であるとの主張と旧刑訴法第三六〇条第二項",
+  "case_gist": "共同正犯としての公訴事実に対し従犯であると主張することは、単なる事実の否認の一種であつて、旧刑訴法第三六〇条第二項に定める主張に当らないことは、当裁判所の判例として示すところである（昭和二四年（れ）第一四三五号、同二六年三月一五日第一小法廷判決、昭和二四年（れ）第二四四五号、同二五年二月二八日第三小法廷判決）",
+  "ref_law": "刑訴法60条，刑訴法62条，旧刑訴法360条2項",
+  "lawsuit_id": "72148",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=72148",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/148/072148_hanrei.pdf"
+}

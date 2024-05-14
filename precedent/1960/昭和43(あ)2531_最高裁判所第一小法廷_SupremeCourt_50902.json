@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 9,
+    "day": 4
+  },
+  "case_number": "昭和43(あ)2531",
+  "case_name": "道路交通法違反、業務上過失傷害",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第23巻9号1085頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 10,
+    "day": 15
+  },
+  "gist": "第一審判決後被告人の妻によつて選任された弁護人と控訴申立権",
+  "case_gist": "第一審判決後被告人の妻によつて選任された弁護人には、被告人のため控訴申立をする権限がない。",
+  "ref_law": "刑訴法30条2項，刑訴法351条1項，刑訴法353条，刑訴法355条",
+  "lawsuit_id": "50902",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50902",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/902/050902_hanrei.pdf"
+}

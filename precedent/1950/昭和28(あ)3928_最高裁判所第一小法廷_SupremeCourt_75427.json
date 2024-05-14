@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 5,
+    "day": 6
+  },
+  "case_number": "昭和28(あ)3928",
+  "case_name": "名誉毀損",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第95号55頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 6,
+    "day": 29
+  },
+  "gist": "名誉毀損罪の成立する一事例",
+  "case_gist": "原判決の是認した第一審判決が適法に確定したところは、判示家屋北側道路の通行人にも容易に聴取れる状況の下における判示場所で、「盗人野郎、詐欺野郎、馬鹿野郎」と連呼し、次で、「手前の祖父は詐欺して懲役に行つたではないか」との事実を摘示して呶鳴つたというのであるから、公然、すなわち、不特定、多数の者に見聞し得る状態において、右連呼と祖父に関する事実と相俟つてＡ自身の社会的評価を受くべき具体的な事項（すなわち性行）を摘示したものというべく、従つて、原判決には所論の法令違反は認められない。註。判示場所とは家屋内土間を指す。",
+  "ref_law": "刑法230条",
+  "lawsuit_id": "75427",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=75427",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/427/075427_hanrei.pdf"
+}

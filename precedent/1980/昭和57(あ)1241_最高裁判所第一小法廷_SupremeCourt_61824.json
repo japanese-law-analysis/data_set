@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 10,
+    "day": 28
+  },
+  "case_number": "昭和57(あ)1241",
+  "case_name": "監禁、強要未遂",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第244号117頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 6,
+    "day": 25
+  },
+  "gist": "監禁罪及び強要未遂罪の成立が肯定された事例",
+  "ref_law": "刑法220条1項，刑法223条1項，刑法223条3項",
+  "lawsuit_id": "61824",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61824",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/824/061824_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 4,
+    "month": 10,
+    "day": 30
+  },
+  "case_number": "平成4(行ツ)63",
+  "case_name": "納税債務不存在確認",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第166号545頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成3(行コ)54",
+  "original_date": {
+    "era": "Heisei",
+    "year": 3,
+    "month": 12,
+    "day": 24
+  },
+  "gist": "地方税法（昭和六三年法律第一一〇号による改正前のもの）一二四条二項、五項に基づいてされた料理飲食等消費税の決定通知の性質",
+  "case_gist": "地方税法（昭和六三年法律第一一〇号による改正前のもの）一二四条二項、五項に基づいてされた料理飲食等消費税の決定通知は、右税の納入義務を確定する効果を持つ行政処分の性質を有する。",
+  "ref_law": "地方税法（昭和63年法律第110号による改正前のもの）124条2項，地方税法（昭和63年法律第110号による改正前のもの）124条5項",
+  "lawsuit_id": "65309",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=65309",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/309/065309_hanrei.pdf"
+}

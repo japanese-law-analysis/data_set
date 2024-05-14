@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 12,
+    "day": 26
+  },
+  "case_number": "昭和41(行ツ)102",
+  "case_name": "所得税課税金額に対する更正決定取消等請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第26巻10号2083頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和38(ネ)136",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 7,
+    "day": 30
+  },
+  "gist": "一、譲渡所得に対する課税の趣旨\n二、不動産の売買において代金の支払が長期の割賦弁済による場合と譲渡所得の帰属年度",
+  "case_gist": "一、譲渡所得に対する課税は、資産の値上りによりその資産の所有者に帰属する増加益を所得として、その資産が所有者から他に移転するのを機会に、これを清算して課税する趣旨のものと解すべきである。\n二、甲所有の不動産が、代金の支払は長期にわたる割賦弁済による約定のもとに、乙に売り渡された場合であつても、売買契約の成立当日所有権移転登記が経由され、当該不動産の所有権が確定的に乙に移転したときは、甲につき、譲渡所得の全部が右契約（登記）の日の属する年度に発生したものとして、これに対する課税をすべきである。",
+  "ref_law": "旧所得税法（昭和22年法律第27号）9条1項8号，旧所得税法（昭和22年法律第27号）10条1項",
+  "lawsuit_id": "52627",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52627",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/627/052627_hanrei.pdf"
+}

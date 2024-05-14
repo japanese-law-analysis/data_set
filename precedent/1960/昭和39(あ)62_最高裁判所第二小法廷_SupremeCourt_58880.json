@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 12,
+    "day": 11
+  },
+  "case_number": "昭和39(あ)62",
+  "case_name": "司法書士法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第153号647頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 12,
+    "day": 25
+  },
+  "gist": "司法書士法第一九条第一項の解釈。",
+  "case_gist": "弁護士を除く司法書士でない者が継続反覆の意思をもつて同法第一条第一項所定の書類を作成するときは、報酬を得る目的の有無にかかわりなく同条に規定する司法書士の業務を行つたものというべきである。",
+  "ref_law": "司法書士法19条1項，司法書士法1条1項",
+  "lawsuit_id": "58880",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58880",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/880/058880_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 8,
+    "month": 9,
+    "day": 27
+  },
+  "case_number": "平成7(オ)1914",
+  "case_name": "貸金等",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第50巻8号2395頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成2(ネ)3063",
+  "original_date": {
+    "era": "Heisei",
+    "year": 7,
+    "month": 5,
+    "day": 31
+  },
+  "gist": "連帯保証債務の物上保証人に対する抵当権の実行と主債務の消滅時効の中断",
+  "case_gist": "甲の債務者乙の連帯保証人である丙の債務を担保するため、丁が物上保証人となった場合において、甲が丁に対して競売を申し立て、その手続が進行することは、乙の主債務の消滅時効の中断事由に該当しない。",
+  "ref_law": "民法147条，民法148条，民法149条，民法153条，民法155条，民法434条，民法458条，民事執行法45条2項，民事執行法188条",
+  "lawsuit_id": "52571",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52571",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/571/052571_hanrei.pdf"
+}

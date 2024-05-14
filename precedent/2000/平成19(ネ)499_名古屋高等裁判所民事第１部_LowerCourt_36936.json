@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 9,
+    "day": 18
+  },
+  "case_number": "平成19(ネ)499",
+  "case_name": "損害賠償等請求控訴事件",
+  "court_name": "名古屋高等裁判所民事第１部",
+  "result": "棄却",
+  "original_court_name": "名古屋地方裁判所",
+  "original_case_number": "平成17(ワ)2441",
+  "original_result": "棄却",
+  "gist": "被控訴人自由民主党名古屋市会議員団（被控訴人団）の団長を務めていた被控訴人Ａが，同団長として，愛知県警察本部に対し，控訴人が被控訴人団管理の金員を横領したとして被害届を提出し，これを報道機関に明らかにしたことにより，控訴人の名誉が毀損されたとして，控訴人が損害賠償金の支払を求めるとともに，謝罪文の掲載を求めたところ，これらをいずれも棄却した原判決が維持された事例",
+  "lawsuit_id": "36936",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=36936",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/936/036936_hanrei.pdf",
+  "contents": ""
+}

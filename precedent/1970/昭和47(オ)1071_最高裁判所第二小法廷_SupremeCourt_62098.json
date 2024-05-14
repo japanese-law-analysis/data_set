@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 9,
+    "day": 7
+  },
+  "case_number": "昭和47(オ)1071",
+  "case_name": "土地所有権移転登記手続請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第110号21頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和46(ネ)411",
+  "original_date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 7,
+    "day": 13
+  },
+  "gist": "売買を原因とする所有権移転登記手続が保証書によつてなされる場合と買主の代金支払義務の履行",
+  "case_gist": "不動産の売買契約において、売買代金の支払が所有権移転登記手続に必要な一切の書類と引換えに支払う旨が約された場合に、売主が、登記済証が滅失したため保証書による登記手続をしょうとするときには、買主に対し保証書その他の登記申請に要する書類を提供したとしても、登記官吏に対し不動産登記法四四条ノ二第二項所定の申出をしないかぎり、買主は代金支払債務の履行を拒絶しうるものと解すべきである。",
+  "ref_law": "民法533条",
+  "lawsuit_id": "62098",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62098",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/098/062098_hanrei.pdf"
+}

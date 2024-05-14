@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 4,
+    "day": 24
+  },
+  "case_number": "昭和43(オ)115",
+  "case_name": "家屋明渡請求等",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第95号183頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和39(ネ)2255",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 10,
+    "day": 25
+  },
+  "gist": "代理人による登記申請と委任状",
+  "case_gist": "所有権移転登記申請手続が登記義務者の意思に基づいてなされたものである以上、代理人による登記申請書に適式の代理委任状その他代理権限を証する書面が添付されなかつたことの一事によつて、右登記が効力を生じえないと解すべきものではない。",
+  "ref_law": "不動産登記法35条1項",
+  "lawsuit_id": "66655",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66655",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/655/066655_hanrei.pdf"
+}

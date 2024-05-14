@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 9,
+    "month": 3,
+    "day": 14
+  },
+  "case_number": "平成5(オ)921",
+  "case_name": "遺産確認等請求本訴、共有持分権不存在中間確認請求反訴",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第182号553頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成3(ネ)3483",
+  "original_date": {
+    "era": "Heisei",
+    "year": 4,
+    "month": 12,
+    "day": 17
+  },
+  "gist": "所有権確認請求訴訟で敗訴した原告が後訴において共有持分の取得を主張することが前訴の確定判決の既判力に抵触して許されないとされた事例",
+  "case_gist": "丙の共同相続人である甲乙間の土地の所有権確認請求訴訟において、甲の請求を棄却する旨の判決が確定した場合には、甲、乙がそれぞれ右土地の所有権を単独で取得したと主張して争っており、甲が事実審口頭弁論終結前に生じていた丙の死亡による相続の事実を主張しなかったこと、右判決が双方の主張を排斥して右土地が丙の所有である旨判断したこと、右判決の確定後に乙が右土地の所有権を主張したために甲が後訴を提起するに至ったことなどの事情があるとしても、甲が後訴において相続による右土地の共有持分の取得を主張することは、前訴の確定判決の既判力に抵触して許されない。\n\n（補足意見及び反対意見がある。）",
+  "ref_law": "民訴法199条，民法898条",
+  "lawsuit_id": "65310",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=65310",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/310/065310_hanrei.pdf"
+}

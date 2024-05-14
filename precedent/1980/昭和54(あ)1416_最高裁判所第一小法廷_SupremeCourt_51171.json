@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 12,
+    "day": 9
+  },
+  "case_number": "昭和54(あ)1416",
+  "case_name": "艦船覆没、詐欺、漁業法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第34巻7号513頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 7,
+    "day": 12
+  },
+  "gist": "刑法一二六条二項にいう艦船の「破壊」にあたるとされた事例",
+  "case_gist": "人の現在する漁船（二六七総トン、鋼質船）の船底部約三分の一を厳寒の千島列島ウルツプ島海岸の砂利原に乗り上げさせて坐礁させたうえ、同船機関室内の海水取入れパイプのバルブを開放して同室内に約一九・四トンの海水を取り入れ、自力離礁を不可能ならしめて、同船の航行能力を失わせた等の事実関係のもとにおいては、船体自体に破損が生じていなくても、右所為は刑法一二六条二項にいう艦船の「破壊」にあたる。",
+  "ref_law": "刑法126条2項",
+  "lawsuit_id": "51171",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51171",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/171/051171_hanrei.pdf"
+}

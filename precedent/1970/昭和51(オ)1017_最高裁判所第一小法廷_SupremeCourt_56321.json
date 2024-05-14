@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 3,
+    "day": 31
+  },
+  "case_number": "昭和51(オ)1017",
+  "case_name": "離婚請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第31巻2号365頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和47(ネ)432",
+  "original_date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 6,
+    "day": 29
+  },
+  "gist": "大韓民国民法九〇九条を適用して親権者を父と指定することが法例三〇条により許されない場合",
+  "case_gist": "大韓民国国籍を有する父には扶養能力がなく、扶養能力を有する母が子を監護養育している場合に、離婚に伴う未成年の子の親権者を父に限定する大韓民国民法九〇九条を適用して親権者を父と指定することは、わが国の公序良俗に反し、法例三〇条により許されない。",
+  "ref_law": "法例30条，民法819条2項，大韓民国民法909条",
+  "lawsuit_id": "56321",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56321",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/321/056321_hanrei.pdf"
+}

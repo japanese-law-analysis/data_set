@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 10,
+    "day": 29
+  },
+  "case_number": "昭和48(オ)792",
+  "case_name": "土地所有権移転登記抹消登記手続請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第116号405頁",
+  "original_court_name": "福岡高等裁判所\n        　宮崎支部",
+  "original_case_number": "昭和46(ネ)9",
+  "original_date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 5,
+    "day": 16
+  },
+  "gist": "買収令書の交付に代わる公告の瑕疵が公告後約二五年後にされた買収令書の交付によつて補正された事例",
+  "case_gist": "本件農地買収処分には、買収令書の交付に代わる公告手続に瑕疵があつたが、所論の買収令書の交付によつて右瑕疵が補正されたので、右買収処分は有効である。",
+  "ref_law": "農地法施行法2条1項1号，自作農創設特別措置法9条但書",
+  "lawsuit_id": "66795",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66795",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/795/066795_hanrei.pdf"
+}

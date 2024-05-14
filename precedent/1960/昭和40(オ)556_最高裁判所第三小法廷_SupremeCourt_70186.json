@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 5,
+    "day": 2
+  },
+  "case_number": "昭和40(オ)556",
+  "case_name": "抹消登記請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第87号423頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和39(ネ)506",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 3,
+    "day": 26
+  },
+  "gist": "一　行政事件訴訟法第四五条・第三九条による通知の懈怠と当該訴訟手続の効力\n二　農地の所有権移転についての知事の許可の性質",
+  "case_gist": "一　行政事件訴訟法第四五条・第三九条による通知の懈怠は、当該訴訟手続の効力に影響しない。\n二　農地の所有権移転についての知事の許可の制度は、その買受人の適格性を審査してその許否を決することを趣旨とするものである。",
+  "ref_law": "行政事件訴訟法45条，行政事件訴訟法39条，農地調整法4条",
+  "lawsuit_id": "70186",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70186",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/186/070186_hanrei.pdf"
+}

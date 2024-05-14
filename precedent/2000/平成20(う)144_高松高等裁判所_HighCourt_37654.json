@@ -1,0 +1,22 @@
+{
+  "trial_type": "HighCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 12,
+    "day": 18
+  },
+  "case_number": "平成20(う)144",
+  "case_name": "虚偽有印公文書作成，事後収賄被告事件",
+  "court_name": "高松高等裁判所",
+  "result": "破棄自判",
+  "article_info": "第61巻4号15頁",
+  "original_court_name": "高松地方裁判所",
+  "original_case_number": "平成18(わ)557",
+  "gist": "地方公共団体の長らが請負業者と口頭で約束して履行させたのとは明らかに異なる内容の契約書を作成した行為が虚偽有印公文書作成罪に当たるとされた事例",
+  "case_gist": "地方公共団体の長及び職員が，請負業者に機器の台数，金額等を決めて設置させることを口頭で約束して履行させながら，その後，契約高が地方議会の議決を要するものであることに気付き，その手続を回避し，会計監査で不正が発見されないように，明らかに異なる台数，金額等の工事請負契約書を作成したなど判示の事実関係の下では，虚偽有印公文書作成罪が成立する。",
+  "lawsuit_id": "37654",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail3?id=37654",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/654/037654_hanrei.pdf",
+  "contents": ""
+}

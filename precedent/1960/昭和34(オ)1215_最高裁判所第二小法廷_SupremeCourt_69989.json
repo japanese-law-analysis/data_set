@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 3,
+    "day": 3
+  },
+  "case_number": "昭和34(オ)1215",
+  "case_name": "行政処分無効確認請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第49号101頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 9,
+    "day": 7
+  },
+  "gist": "買収令書の交付に代る公告が当然無効と認められた事例。",
+  "case_gist": "農地所有権が登記簿上の住所から転居した際、郵便局にその旨届出をしておいたため、買収令書の交付に代る公告が行われた昭和二四年三月三一日当時においては、登記簿上の旧住所あての郵便物は転送されすべて新住所で受領されており、買収計画に関する同年二月二一日附の県農地委員会の訴願裁決書（あて先は、いつたん旧住所を記載の上新住所に訂正されている。）等もその頃新住所で受領されていたにかかわらず、旧住所あての右裁決書がいつたん返送された等の理由で、買収令書の交付を試みることすらしないで、ただちに買収令書の交付が不可能なものとしてなされた買収令書の交付に代る公告は、当然無効のものと解すべきである。",
+  "lawsuit_id": "69989",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=69989",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/989/069989_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 5,
+    "day": 8
+  },
+  "case_number": "昭和31(あ)3426",
+  "case_name": "関税法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第13巻5号657頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 8,
+    "day": 9
+  },
+  "gist": "一　関税逋脱事件について通告を経ない告発が適法と認められた事例\n二　納税義務者でない者につき関税逋脱の共同正犯が成立するか",
+  "case_gist": "一　イ、関税逋脱事件につき税関長が懲役の刑に処するのを相当として、通告をすることなく告発したときは、判決が罰金刑であつたからといつて、右告発が遡つて不適法にはならない。\nロ、法人のために行為する者について、税関長が懲役の刑に処するのを相当として直接告発する場合においては、法人に対しても通告なしに告発することができる。\n二　納税義務者でない者が納税義務者と共同して関税を逋脱したときは、関税補達の罪の共同正犯となる。",
+  "ref_law": "旧関税法75条，旧関税法82条の3，旧関税法97条，刑法65条1項，刑法60条",
+  "lawsuit_id": "51503",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51503",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/503/051503_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 12,
+    "day": 17
+  },
+  "case_number": "昭和26(あ)8",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第70号611頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 11,
+    "day": 7
+  },
+  "gist": "憲法違反の主張が前提を欠く一事例",
+  "case_gist": "原判決が量刑の一事情として判示の事情と共に、本件犯罪が前刑の執行猶予期間内の犯行であることをも斟酌すれば第一審の科刑は不当でないと判示したに止り、所論の前科あるものは常に執行猶予を言渡し得ないとの法律判断をしたものではないときは、憲法一三条、一四条違反の主張はその前提を欠く。",
+  "ref_law": "憲法13条，憲法14条，刑法25条",
+  "lawsuit_id": "75181",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=75181",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/181/075181_hanrei.pdf"
+}

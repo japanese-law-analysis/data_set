@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 9,
+    "day": 11
+  },
+  "case_number": "昭和44(し)53",
+  "case_name": "裁判官忌避申立却下決定に対する即時抗告棄却決定に対する特別抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "その他",
+  "article_info": "刑集　第23巻9号1100頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 8,
+    "day": 9
+  },
+  "gist": "一　いわゆる付審判請求事件における被疑者の忌避申立権の有無\n二　特別抗告と原決定を取り消しても実益がないようになつたときの措置",
+  "case_gist": "一　刑訴法二六二条以下に規定するいわゆる付審判請求事件における被疑者は、同法二一条一項により、裁判官忌避の申立をすることができる。\n二　忌避申立の対象とされた裁判官が、当該事件の審理を担当する裁判所の合議体の構成を離れたときは、特別抗告の論旨につき判断するまでもなく、同裁判官に対する忌避申立を却下した第一審決定およびこれを維持した原決定を取り消す実益を欠くに至つたものとして、特別抗告を棄却すべきである。",
+  "ref_law": "刑訴法20条，刑訴法21条，刑訴法262条，刑訴法265条，刑訴法266条，刑訴法267条，刑訴法433条1項，刑訴規則13条",
+  "lawsuit_id": "50975",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50975",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/975/050975_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 5,
+    "day": 4
+  },
+  "case_number": "昭和37(オ)1291",
+  "case_name": "貸金請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第79号1頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和36(ネ)86",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 9,
+    "day": 26
+  },
+  "gist": "信用取引による証拠金代用として差し入れられた特定株券の返還能力の場合における特約の存否につき審理不尽の違法があるとされた事例。",
+  "case_gist": "信用取引による証拠金代用として差し入れられた株券の「預り証」に、預託された株券を特定するに足りる記載がなされず、その他原判示の事実関係のもとにおいては、反対の意思表示のないかぎり前記預託の対象たる特定株券の返還不能の場合には同種同数の株券（不特定物）をもつて返還する旨の合意が黙示でなされていると認定する余地があるから、この点に関する審理を尽さないで前記合意の存在を否定するのは違法である。",
+  "ref_law": "証券取引法49条，証券取引法51条",
+  "lawsuit_id": "74380",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74380",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/380/074380_hanrei.pdf"
+}

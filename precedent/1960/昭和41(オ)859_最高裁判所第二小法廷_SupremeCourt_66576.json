@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 1,
+    "day": 20
+  },
+  "case_number": "昭和41(オ)859",
+  "case_name": "買戻権の行使による所有権移転登記請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集民　第86号123頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "昭和39(ネ)48",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 4,
+    "day": 25
+  },
+  "gist": "農地の買戻による目的物の引渡と県知事の許可",
+  "case_gist": "県知事の許可がないかぎり、農地の買戻は効力を発生しないから、売戻人の目的物の明渡義務も発生しない。",
+  "ref_law": "民法579条，農地法3条",
+  "lawsuit_id": "66576",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66576",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/576/066576_hanrei.pdf"
+}

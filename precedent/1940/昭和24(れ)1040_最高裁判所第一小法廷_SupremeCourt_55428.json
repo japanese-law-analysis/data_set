@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 8,
+    "day": 18
+  },
+  "case_number": "昭和24(れ)1040",
+  "case_name": "強盗",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第3巻9号1498頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 3,
+    "day": 4
+  },
+  "gist": "審理に關與しない裁判官による判決言渡の適否",
+  "case_gist": "從來審理に關與しなかつた裁判官が、判決の言渡に關與しても何ら違法ではない。",
+  "ref_law": "舊刑訴法354條",
+  "lawsuit_id": "55428",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55428",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/428/055428_hanrei.pdf"
+}

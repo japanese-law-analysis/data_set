@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 3,
+    "day": 24
+  },
+  "case_number": "昭和23(れ)1734",
+  "case_name": "臨時物資需給調整法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第8号361頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 10,
+    "day": 15
+  },
+  "gist": "舊刑訴法第三九九條の合憲性",
+  "case_gist": "控訴審における檢察官の附帯控訴は、所論のごとく刑事訴訟法における當事者對當の原則に反するところは全々存しないそして附帯控訴の制度を認めるか否かは刑事訴訟法の内容の當不當の問題で憲法適否の問題でなく、舊刑訴法第三九九條の規定は憲法違反ということができないことは夙に當裁判所の判例とするところである。（昭和二三年（れ）第二二四號同年二月四日大法廷判決）",
+  "ref_law": "舊刑訴法399條，憲法37條1項",
+  "lawsuit_id": "74698",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74698",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/698/074698_hanrei.pdf"
+}

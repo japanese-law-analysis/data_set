@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 63,
+    "month": 4,
+    "day": 8
+  },
+  "case_number": "昭和59(オ)594",
+  "case_name": "引受債務履行請求本訴、建物所有権移転仮登記等抹消登記手続請求反訴事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集民　第154号11頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和56(ネ)1471",
+  "original_date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 2,
+    "day": 28
+  },
+  "gist": "物上保証人からされた被担保債権の将来の弁済を原因とする抵当権設定登記又はいわゆる仮登記担保権の仮登記の抹消登記手続請求における弁済と抹消登記手続義務との関係",
+  "case_gist": "物上保証人からされた被担保債権の将来の弁済を原因とする抵当権設定登記又はいわゆる仮登記担保権の仮登記の抹消登記手続を求める請求は、将来物上保証人が被担保債権を弁済することを条件としても、認容することができる。",
+  "ref_law": "民法474条，民法533条",
+  "lawsuit_id": "62324",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62324",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/324/062324_hanrei.pdf"
+}

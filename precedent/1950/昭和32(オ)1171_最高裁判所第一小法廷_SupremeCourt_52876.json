@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 6,
+    "day": 14
+  },
+  "case_number": "昭和32(オ)1171",
+  "case_name": "商品代金請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第12巻9号1492頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 9,
+    "day": 16
+  },
+  "gist": "一　和解が要素の錯誤によつて無効とされた事例\n二　契約の要素に錯誤があつた場合と民法第五七〇条の適用の有無",
+  "case_gist": "一　仮差押の目的となつているジヤムが一定の品質を有することを前提として和解契約をなしたところ、右ジヤムが原判示の如き（原判決理由参照）粗悪品であつたときは、右和解は要素に錯誤があるものとして無効であると解すべきである\n二　契約の要素に錯誤があつて無効であるときは、民法第五七〇条の瑕疵担保の規定の適用は排除される",
+  "ref_law": "民法696条，民法95条，民法570条",
+  "lawsuit_id": "52876",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52876",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/876/052876_hanrei.pdf"
+}

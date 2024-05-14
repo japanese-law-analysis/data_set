@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 1,
+    "day": 19
+  },
+  "case_number": "昭和24(れ)2090",
+  "case_name": "食糧管理法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第16号55頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 5,
+    "day": 26
+  },
+  "gist": "公判廷における證人申請却下決定の有無と公判調書の證明力",
+  "case_gist": "公判廷において裁判長か辯護人の證人申請を却下すると決定を言渡したかどうかのごとき公判期日における訴訟手續については、公判調書のみによつて立證すべきものであつて他の資料によつて立證を許されないものであることは舊刑訴法第六四條の定めているところである。されば所論のように原審第二回公判調書に裁判長は辯護人の證人申請を却下するとの決定を言渡した旨記載されてある以上かゝる決定をしたものと認めざるを得ない。",
+  "ref_law": "舊刑訴法64條",
+  "lawsuit_id": "74889",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74889",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/889/074889_hanrei.pdf"
+}

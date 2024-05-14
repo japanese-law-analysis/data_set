@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 11,
+    "day": 30
+  },
+  "case_number": "昭和23(れ)1088",
+  "case_name": "強盗、住居侵入",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第5号549頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 4,
+    "day": 17
+  },
+  "gist": "強盜罪における脅迫",
+  "case_gist": "原判決の引用する證據によれば、被告人等五名は原判示のように強盜を共謀して夜半Ａ方に侵入し同人外四名の家人に對し短刀その他拳銃のように見せかけた兇器様のもの等を突きつけて「靜かにしろ」「靜かにしないと撃つぞ」「騒ぐと殺すぞ」等と申向けて脅迫した事實が認め得られるので、かかる脅迫は相手方の反抗を不可能にすべき性質のものであること言うまでもないのであるから、原審が右の脅迫による財物の強取を強盜罪と認めて刑法第二三六條を適用したことは正當であつて原判決には所論のように審理不盡に基く擬律錯誤の違法はない。",
+  "ref_law": "刑法236條",
+  "lawsuit_id": "74660",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74660",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/660/074660_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 10,
+    "day": 4
+  },
+  "case_number": "昭和29(あ)3348",
+  "case_name": "放火",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第11巻10号2456頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 6,
+    "day": 28
+  },
+  "gist": "刑訴法第三一九条第二項に違反しない事例",
+  "case_gist": "二個の放火事実中、第一事実について被告人の動機についての供述が、争なき第二事実の動機と相通ずるものがあり、実況見分書中建物焼失の事実並びに火災発見者の火災発見時刻、および燃上地点に関する供述記載が、被告人が公判廷において自白する建物焼毀の事実並びに点火の位置、時刻と照応する場合、右動機を共通にする事実および実況見分書の記載は自白の補強証拠として欠くるところがない。",
+  "ref_law": "刑訴法319条2項，憲法38条3項",
+  "lawsuit_id": "51362",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51362",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/362/051362_hanrei.pdf"
+}

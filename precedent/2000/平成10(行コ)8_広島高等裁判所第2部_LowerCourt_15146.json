@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 15,
+    "month": 7,
+    "day": 29
+  },
+  "case_number": "平成10(行コ)8",
+  "case_name": "損害賠償請求控訴事件(原審・広島地方裁判所平成元年(行ウ)第9号)",
+  "court_name": "広島高等裁判所第2部",
+  "original_court_name": "広島地方裁判所",
+  "original_case_number": "平成1(行ウ)9",
+  "lawsuit_id": "15146",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=15146",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/146/015146_hanrei.pdf",
+  "contents": ""
+}

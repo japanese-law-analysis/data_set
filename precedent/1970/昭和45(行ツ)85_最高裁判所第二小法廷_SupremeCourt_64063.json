@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 2,
+    "day": 9
+  },
+  "case_number": "昭和45(行ツ)85",
+  "case_name": "再審の審決取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第102号169頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和45(行ケ)8",
+  "original_date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 5,
+    "day": 29
+  },
+  "gist": "審決に対する出訴期間中にされた右審決に対する再審の請求の適否",
+  "case_gist": "審決に対する出訴期間中にされた右審決に対する再審の請求は不適法として許されず、そのかしは補正の方法がなく、また、再審の請求に対する審決があるまでの間に前記出訴期間が満了してもそれによつて右かしが治癒されることはない。",
+  "ref_law": "特許法171条1項",
+  "lawsuit_id": "64063",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64063",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/063/064063_hanrei.pdf"
+}

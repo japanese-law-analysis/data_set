@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 10,
+    "day": 22
+  },
+  "case_number": "昭和24(れ)1733",
+  "case_name": "強盗、住居侵入",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第3巻10号1673頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 5,
+    "day": 21
+  },
+  "gist": "歎願書の性質",
+  "case_gist": "参考として提出せられた歎願書の如きものは、その書類の性質上證據書類とはいえない。",
+  "ref_law": "舊刑訴法340條",
+  "lawsuit_id": "56645",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56645",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/645/056645_hanrei.pdf"
+}

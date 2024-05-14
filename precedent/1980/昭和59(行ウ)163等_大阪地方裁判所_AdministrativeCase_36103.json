@@ -1,0 +1,18 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 8,
+    "day": 6
+  },
+  "case_number": "昭和59(行ウ)163等",
+  "case_name": "更正処分取消請求事件",
+  "court_name": "大阪地方裁判所",
+  "field": "行政",
+  "gist": "納税者の実額主張が課税庁の推計による所得額算出に対する有効な反証となるためには，推計を不要とする程度の合理的な立証が要求されるものであって，売上金額についていえば，すベての取引先に対する総売上額を主張・立証すベきものであり，納税者主張の売上金額が売上げの一部であり，他に売上げが存する蓋然性が認められるときには，総売上金額についての立証を尽くさないまま経費実額だけを主張・立証しても，課税庁の推計による所得算出に対する有効な反証とはならないとした事例",
+  "lawsuit_id": "36103",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=36103",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/103/036103_hanrei.pdf",
+  "contents": ""
+}

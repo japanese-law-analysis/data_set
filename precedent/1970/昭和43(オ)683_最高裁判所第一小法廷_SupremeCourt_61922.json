@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 6,
+    "day": 17
+  },
+  "case_number": "昭和43(オ)683",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第103号135頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和38(ネ)1400",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 3,
+    "day": 29
+  },
+  "gist": "立退料の提供と借家法一条の二にいう正当事由",
+  "case_gist": "家屋の賃貸人が解約申入に際し、賃借人の家屋明渡により被る移転費用その他の損失を補償するため、いわゆる立退料等の名目による金員を提供すべき旨申し出で、右金員の支払と引換に家屋を明渡すことを求めたときは、そのことも、他の諸事情と相互に補完し合つて解約申入の正当事由を構成するものと解すべきである。",
+  "ref_law": "借家法1条ノ2",
+  "lawsuit_id": "61922",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61922",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/922/061922_hanrei.pdf"
+}

@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 2,
+    "day": 16
+  },
+  "case_number": "平成18(ワ)550",
+  "case_name": "損害賠償",
+  "court_name": "東京地方裁判所民事第３４部",
+  "result": "棄却",
+  "gist": "近視矯正手術であるレーシック手術について、同手術の適応及び照射径の設定を誤った過失があるとは認められず、説明義務違反も認められないとして患者からの損害賠償請求が棄却された事例",
+  "lawsuit_id": "34205",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=34205",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/205/034205_hanrei.pdf",
+  "contents": ""
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 6,
+    "day": 19
+  },
+  "case_number": "昭和34(オ)79",
+  "case_name": "建物收去土地明渡等請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第61号245頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 9,
+    "day": 29
+  },
+  "gist": "請求の併合の判断の順位の適否を判断した事例。",
+  "case_gist": "原告先代がその主張する和解契約により係争家屋を買付けた事実が認められるならば、原告は被告に対し家屋収去、土地明渡の請求をする必要がなく、単に家屋明渡の請求をすれば足り、右家屋の売買が認められない場合にのみ、原告は被告に対し家屋収去、土地明渡の請求をする必要がある事件において、原告が第一審で第一次請求として家屋収去、土地明渡を求め、予備的に家屋明渡を請求し、これに対し第一審判決が右予備的に附加した請求を第一次的に判断して原告の請求を容認したとしても、原告が控訴審において控訴棄却を申立てて第一審判決の維持を求め、また控訴審の口頭弁論を通じ右第一審判決の判断の順序につきなんら不服を申立てない場合には、右判断の順序は原告の意思に沿うものといえる。",
+  "ref_law": "民訴法227条",
+  "lawsuit_id": "63484",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63484",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/484/063484_hanrei.pdf"
+}

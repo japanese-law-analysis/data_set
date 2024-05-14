@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 2,
+    "day": 17
+  },
+  "case_number": "昭和43(し)53",
+  "case_name": "勾留請求却下の裁判に対する準抗告申立についての決定および勾留の裁判に対する特別抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第170号329頁",
+  "original_court_name": "仙台地方裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 6,
+    "day": 12
+  },
+  "gist": "勾留請求却下後における被疑者の身柄拘束の有無および適否と準抗告審の裁判の効力",
+  "case_gist": "勾留請求却下の裁判に対する検察官の準抗告に対し、準抗告裁判所が、単に、被疑者につき刑訴法六〇条所定の要件の存否を判断して右裁判を取消し、かつ勾留の裁判をしたものであるときは、勾留請求却下後における被疑者の身柄拘束の有無および適否は、ただちに原決定および勾留の裁判の効力に影響を及ぼすものとはいえない。",
+  "ref_law": "憲法31条，憲法33条，刑訴法60条，刑訴法207条，刑訴法429条",
+  "lawsuit_id": "59353",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59353",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/353/059353_hanrei.pdf"
+}

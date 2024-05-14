@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 7,
+    "month": 7,
+    "day": 6
+  },
+  "case_number": "平成4(行ツ)68",
+  "case_name": "休業補償給付等不支給処分取消",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第49巻7号1833頁",
+  "original_court_name": "福岡高等裁判所\n        　那覇支部",
+  "original_case_number": "平成3(行コ)3",
+  "original_date": {
+    "era": "Heisei",
+    "year": 3,
+    "month": 12,
+    "day": 24
+  },
+  "gist": "労働者災害補償保険法による保険給付に関する処分について審査請求をした日から三箇月を経過しても決定がないときに再審査請求の手続を経ないで処分の取消しの訴えを提起することの可否",
+  "case_gist": "労働者災害補償保険法による保険給付に関する決定に不服のある者は、労働者災害補償保険審査官に対して審査請求をした日から三箇月を経過しても決定がないときは、審査請求に対する決定及び労働保険審査会に対する再審査請求の手続を経ないで、処分の取消しの訴えを提起することができる。",
+  "ref_law": "労働者災害補償保険法35条1項，労働者災害補償保険法37条，行政事件訴訟法8条1項，行政事件訴訟法8条2項1号",
+  "lawsuit_id": "55873",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55873",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/873/055873_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 3,
+    "day": 6
+  },
+  "case_number": "昭和46(オ)555",
+  "case_name": "建物収去土地明渡建物退去請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第108号371頁",
+  "original_court_name": "福岡高等裁判所\n        　宮崎支部",
+  "original_case_number": "昭和45(ネ)60",
+  "original_date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 3,
+    "day": 31
+  },
+  "gist": "土地賃貸借契約において土地の一部についての債務の不履行を理由に契約全部を解除することができるとされた事例",
+  "case_gist": "四三坪余の土地の賃貸借契約の締結に際し、賃貸人において将来その土地の一部をみずから使用する予定であつたため、賃貸期間を右土地の一部八坪余（甲部分）については一〇年間、残余の部分三五坪（乙部分）については二〇年間と定めたうえ、賃借人において、地上に建築する建物のうち甲部分の土地上に存在する部分につき、一〇年経過後にこれを区分遮断して賃貸人に売り渡し、かつ、これをその敷地甲部分の土地とともに明け渡す旨の特約をしたなど原判示の事情（原判決理由参照）がある場合に、賃借人が右特約に基づく債務の履行をしなかつたときは、賃貸人は、右債務の不履行を理由として、賃貸借契約全部を解除することができる。",
+  "ref_law": "民法541条，民法601条",
+  "lawsuit_id": "62050",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62050",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/050/062050_hanrei.pdf"
+}

@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 5,
+    "day": 21
+  },
+  "case_number": "昭和25(れ)398",
+  "case_name": "昭和二三年政令第二〇一号違反教唆、同幇助",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第81号111頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 10,
+    "day": 28
+  },
+  "lawsuit_id": "67968",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=67968",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/968/067968_hanrei.pdf"
+}

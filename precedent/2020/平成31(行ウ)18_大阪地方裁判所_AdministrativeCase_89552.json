@@ -1,0 +1,16 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Reiwa",
+    "year": 2,
+    "month": 1,
+    "day": 23
+  },
+  "case_number": "平成31(行ウ)18",
+  "case_name": "公文書部分公開決定処分取消請求事件",
+  "court_name": "大阪地方裁判所",
+  "field": "行政",
+  "lawsuit_id": "89552",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=89552",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/552/089552_hanrei.pdf"
+}

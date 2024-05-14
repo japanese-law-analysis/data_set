@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 11,
+    "day": 10
+  },
+  "case_number": "昭和36(オ)841",
+  "case_name": "市議会議員選挙無効確認等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第15巻10号2480頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 5,
+    "day": 10
+  },
+  "gist": "候補者の通称を記載した投票に公職選挙法第六八条の二の適用の有無。",
+  "case_gist": "候補者の通称を記載した投票にも公職選挙法第六八条の二の適用がある。",
+  "ref_law": "公職選挙法68条の2",
+  "lawsuit_id": "53776",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53776",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/776/053776_hanrei.pdf"
+}

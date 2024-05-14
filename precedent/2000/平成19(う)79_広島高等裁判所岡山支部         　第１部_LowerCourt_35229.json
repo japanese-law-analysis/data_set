@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 8,
+    "day": 8
+  },
+  "case_number": "平成19(う)79",
+  "case_name": "殺人、銃砲刀剣類所持等取締法違反被告事件",
+  "court_name": "広島高等裁判所岡山支部         　第１部",
+  "result": "棄却",
+  "original_court_name": "岡山地方裁判所",
+  "original_case_number": "平成18(わ)520",
+  "original_result": "その他",
+  "gist": "殺人、銃砲刀剣類所持等取締法違反被告事件について、\n（１）　被告人は、殺意がなかったと主張するが、自宅から刺身包丁を持ち出して準備し、被害者の胸部をほぼ一直線に突き刺して心臓に達する刺切創を負わせたことなどに照らして確定的故意があったと認められ、原判決に影響を及ぼす事実誤認は認められない。\n（２）　冷酷かつ残虐な計画的殺人であることに徴すると、被害者に１回攻撃を加えただけで重ねて攻撃しなかったこと、犯行後、被害者を病院に連れて行こうとしたこと、警察官に犯行を申告して自首をした上、救急車の要請をしたことなど、被告人のため斟酌すべき諸事情を十分考慮しても、被告人を懲役１３年に処した原判決の量刑が重すぎ不当であるとはいえない。\nとして、控訴を棄却した事案",
+  "lawsuit_id": "35229",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=35229",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/229/035229_hanrei.pdf",
+  "contents": ""
+}

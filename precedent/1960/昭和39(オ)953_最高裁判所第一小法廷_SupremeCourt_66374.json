@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 12,
+    "day": 16
+  },
+  "case_number": "昭和39(オ)953",
+  "case_name": "立木所有権確認請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第81号469頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "昭和36(ネ)481",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 5,
+    "day": 27
+  },
+  "gist": "立木法の適用を受けない立木と取引の対象の可否−右の場合における特定の方法はどうか",
+  "case_gist": "立木法の適用を受けない立木でも、右立木のみを土地から分離して独立して取引の対象とすることができる。右の場合において、一定の地番の上に生育の立木という以上、その立木の範囲は確定していると解するのが相当である。",
+  "ref_law": "民法176条，民法178条，立木ニ関スル法律2条",
+  "lawsuit_id": "66374",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66374",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/374/066374_hanrei.pdf"
+}

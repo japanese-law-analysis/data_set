@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 2,
+    "day": 14
+  },
+  "case_number": "昭和59(オ)467",
+  "case_name": "否認権行使",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第144号109頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和57(ネ)2377",
+  "original_date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 1,
+    "day": 25
+  },
+  "gist": "破産法七四条一項にいう「支払ノ停止」があつたとはいえないとされた事例",
+  "case_gist": "債務者が債務整理の方法等について弁護士と相談し、右弁護士との間で破産申立の方針を決めたとしても、他に特段の事情のない限り、破産法七四条一項にいう「支払ノ停止」があつたとはいえない。",
+  "ref_law": "破産法74条",
+  "lawsuit_id": "62938",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62938",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/938/062938_hanrei.pdf"
+}

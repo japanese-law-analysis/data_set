@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 4,
+    "day": 14
+  },
+  "case_number": "昭和24(れ)2750",
+  "case_name": "臨時物資需給調整法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第4巻1号572頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 8,
+    "day": 8
+  },
+  "gist": "昭和二二年閣令商工外八省令第一號指定生産資材割當規則第一一條の法意",
+  "case_gist": "臨時物資需給調整法に基いて發せられた昭和二二年一月閣令商工、農林、大藏、内務、文部、厚生、運輸、遞信、司法省令第一號、指定生産資材割當規則第一一條は指定生産資材の取引が物價の統制に關する法令に違反したときは、その取引が他面指定生産資材割當規則の規定に違反しても、物價の統制に關する法令のみを適用し臨時物資需給調整法の罰則の適用を全然排除する趣旨ではない。",
+  "ref_law": "臨時物資需給調整法1條、臨時物資需給調整法4條，昭和22年1月24日閣令商工外八省令1號指定生産資材割當規則7條，昭和22年1月24日閣令商工外八省令1號指定生産資材割證當規則11條",
+  "lawsuit_id": "56692",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56692",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/692/056692_hanrei.pdf"
+}

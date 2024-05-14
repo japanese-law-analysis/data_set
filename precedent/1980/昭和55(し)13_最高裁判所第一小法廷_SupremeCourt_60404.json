@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 2,
+    "day": 13
+  },
+  "case_number": "昭和55(し)13",
+  "case_name": "強姦致傷等被告事件についてした国選弁護士を解任しない旨の措置等に対する特別抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第217号91頁",
+  "original_court_name": "宇都宮地方裁判所\n        　栃木支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 1,
+    "day": 16
+  },
+  "gist": "裁判所が国選弁護人の解任届に関してとつた措置が刑訴法四三三条一項にいう決定にあたらないとされた事例",
+  "ref_law": "刑訴法433条1項",
+  "lawsuit_id": "60404",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60404",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/404/060404_hanrei.pdf"
+}

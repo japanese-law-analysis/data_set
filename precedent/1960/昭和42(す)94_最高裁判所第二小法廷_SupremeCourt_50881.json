@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 5,
+    "day": 17
+  },
+  "case_number": "昭和42(す)94",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "その他",
+  "article_info": "刑集　第21巻4号491頁",
+  "original_court_name": "最高裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 3,
+    "day": 15
+  },
+  "gist": "上告棄却決定前に被告人が死亡していたことを理由として右決定に対する弁護人からの異議申立が認められた事例",
+  "case_gist": "上告棄却決定後、適法な異議申立期間内に、弁護人から右決定前に被告人が死亡していたことを理由として公訴棄却の決定を求める旨の異議の申立があり、右死亡の事実が明らかな場合には、右決定を取り消し、被告人に対する公訴を棄却すべきである。",
+  "ref_law": "刑訴法414条，刑訴法386条1項3号，刑訴法386条2項，刑訴法385条2項，刑訴法428条2項，刑訴法428条3項，刑訴法422条，刑訴法426条2項，刑訴法404条，刑訴法339条1項4号",
+  "lawsuit_id": "50881",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50881",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/881/050881_hanrei.pdf"
+}

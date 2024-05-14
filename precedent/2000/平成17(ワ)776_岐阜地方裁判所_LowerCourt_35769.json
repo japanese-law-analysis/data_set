@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 10,
+    "day": 19
+  },
+  "case_number": "平成17(ワ)776",
+  "case_name": "不動産登記抹消手続請求事件",
+  "court_name": "岐阜地方裁判所",
+  "result": "その他",
+  "gist": "本件土地の共有者である原告が，収用部分を超える部分の任意買収が錯誤により無効等であるとして，持分一部移転登記の抹消登記手続を求めたのに対し，被告が同時履行の抗弁により対価の支払があるまでは登記手続を拒む等の主張をし，錯誤無効及び同時履行の抗弁のいずれも認められたので，原告の金銭の支払と引換えに被告に対し抹消登記手続を命じた判決",
+  "lawsuit_id": "35769",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=35769",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/769/035769_hanrei.pdf",
+  "contents": ""
+}

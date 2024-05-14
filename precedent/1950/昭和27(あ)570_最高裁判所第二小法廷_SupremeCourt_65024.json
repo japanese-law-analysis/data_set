@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 7,
+    "day": 31
+  },
+  "case_number": "昭和27(あ)570",
+  "case_name": "公文書偽造",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第85号619頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 12,
+    "day": 17
+  },
+  "gist": "刑法第一五九条第一項の適用",
+  "case_gist": "いやしくも真正の文書として使用する目的で偽造せられた以上始めから情を知つた者に交付する場合でも行使の目的で文書を偽造したものに該当する。",
+  "ref_law": "刑法159条1項",
+  "lawsuit_id": "65024",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=65024",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/024/065024_hanrei.pdf"
+}

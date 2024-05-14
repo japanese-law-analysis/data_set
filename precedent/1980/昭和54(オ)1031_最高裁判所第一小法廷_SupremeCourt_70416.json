@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 6,
+    "day": 17
+  },
+  "case_number": "昭和54(オ)1031",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第136号89頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和53(ネ)268",
+  "original_date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 6,
+    "day": 28
+  },
+  "gist": "手形の不渡届に対する異議申立手続の不履行を理由とする損害賠償請求事件において損害額の認定に違法があるとされた事例",
+  "case_gist": "手形の振出人が、不渡届に対する異議申立手続を怠つた銀行の債務不履行により手形金の支払を余儀なくされたため手形金相当額の損害を被つたといえるためには、右振出人が手形所持人に対して手形金の支払義務を負つていなかつたことが必要であり、したがつて、右支払義務の存否について格別の判断を加えることなく、振出人が手形金の支払を余儀なくされたことから直ちにこれと同額の損害を被つたものと認定することは違法である。",
+  "ref_law": "民法415条，民法416条1項，民訴法395条1項6号",
+  "lawsuit_id": "70416",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70416",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/416/070416_hanrei.pdf"
+}

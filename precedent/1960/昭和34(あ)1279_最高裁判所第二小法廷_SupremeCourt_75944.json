@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 12,
+    "day": 14
+  },
+  "case_number": "昭和34(あ)1279",
+  "case_name": "道路交通取締法違反教唆",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第145号541頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 5,
+    "day": 27
+  },
+  "gist": "刑訴法第三九〇条但書の出頭命令と裁判所の裁量。",
+  "case_gist": "控訴審においては、被告人は、原則として公判期日に出頭することを要せず（刑訴三九〇条本分）、公判期日に対する被告人の召喚は、召喚とはいつても、その性質は、右期日を被告人に通知し自ら欲すれば出頭する機会与える意味をもつに過ぎず（昭和二四年新（れ）第五一九号、同二七年一月二日第一小法廷判決、刑集六巻一二号一四〇一頁）、ただ、例外としていわゆる軽微事件以外の事件について、被告人の出頭がその権利の保護のため重要であると認めるときは、被告人の出頭を命ずることができる（同三九〇条但書）のであるが、被告人の出頭を命ずるかどうかは、裁判所の裁量に属するところである。",
+  "ref_law": "刑訴法390条，刑訴法273条2項",
+  "lawsuit_id": "75944",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=75944",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/944/075944_hanrei.pdf"
+}

@@ -1,0 +1,18 @@
+{
+  "trial_type": "IPCase",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 10,
+    "day": 15
+  },
+  "case_number": "平成19(ワ)16747",
+  "case_name": "損害賠償請求事件",
+  "court_name": "大阪地方裁判所",
+  "right_type": "著作権",
+  "lawsuit_type": "民事訴訟",
+  "lawsuit_id": "38146",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail7?id=38146",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/146/038146_hanrei.pdf",
+  "contents": "- -\n- -\nCapital Market Servi\nces,LLC\nVT Trader\n- -\n- -\n- -\n---- User License Switch\n---- Frame-2 0-100 line\n#### Moving Trend\n- -\n---- Soft Fix Revise & SW Control\n---- Trade Control Switch\n#### LossCutLine Control\n---- User License Switch\n- -\n---- Frame-2 0-100 line\n#### Moving Trend\nMACD\nGainMA\n---- Soft Fix Revise & SW Control\n- -\n---- Trade Control Switch\n#### LossCutLine Control\n- -\nXa Project\nXa Project Xa Project\n- -\n.txt Page1 P\nage\nStream\n- -\n- -\n- -\n- -\n- -\n- -\n- -\n- -\n- -\n- -\nShort Name\nNotes Update: / /\n- -\n- -\n#### Option Data Se\nt\nTrade Parameter type(TradeType)\nPrice price\n1pt Spread OpTypeA OpTypeB PreProcessSw Env\nelopeSw TrendCloseSw FixPt GMASw GMAPer G\nMATp BoxCancelSw LimitSw LimitPt DownLimitS\nw DownLimitPts LossCutSw LossCutPt LossCutMg\nn LossCutPer DESw DESw2 DEniroSw SystemDE\nniro MACDFS_Sw MACDFS_SA ROTSw ROTPOI\nNT\n- -\n- -\n"
+}

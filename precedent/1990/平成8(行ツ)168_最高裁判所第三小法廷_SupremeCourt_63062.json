@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 10,
+    "month": 2,
+    "day": 24
+  },
+  "case_number": "平成8(行ツ)168",
+  "case_name": "登録免許税額認定処分取消",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第187号169頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成7(行コ)130",
+  "original_date": {
+    "era": "Heisei",
+    "year": 8,
+    "month": 4,
+    "day": 22
+  },
+  "gist": "登録免許税法二五条に基づいて登記官の行う登録免許税額の納付の事実の確認と抗告訴訟の対象",
+  "case_gist": "登録免許税法二五条に基づいて登記官の行う登録免許税額の納付の事実の確認は、抗告訴訟の対象となる行政処分に当たらない。",
+  "ref_law": "登録免許税法25条，行政事件訴訟法3条",
+  "lawsuit_id": "63062",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63062",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/062/063062_hanrei.pdf"
+}

@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 8,
+    "day": 30
+  },
+  "case_number": "平成18(あ)334",
+  "case_name": "窃盗被告事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第60巻6号479頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成17(う)2637",
+  "original_date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 1,
+    "day": 18
+  },
+  "gist": "刑法２４４条１項と内縁の配偶者",
+  "case_gist": "刑法２４４条１項は，内縁の配偶者に適用又は類推適用されない。",
+  "ref_law": "刑法244条1項",
+  "lawsuit_id": "33471",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=33471",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/471/033471_hanrei.pdf",
+  "contents": ""
+}

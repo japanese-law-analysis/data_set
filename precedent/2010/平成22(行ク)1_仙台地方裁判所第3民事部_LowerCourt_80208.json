@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 5,
+    "day": 14
+  },
+  "case_number": "平成22(行ク)1",
+  "case_name": "執行停止申立事件（本案・当庁平成２２年（行ウ）第１号運転免許取消処分取消請求事件）",
+  "court_name": "仙台地方裁判所第3民事部",
+  "gist": "運転免許取消処分を受けた申立人の仕事，生活及び家族の状況等を考慮すると，申立人には，同処分の執行により生ずる「重大な損害を避けるため緊急の必要がある」と認め，かつ本案について理由がないとはいえないことから，同処分の執行停止を認めた事例",
+  "lawsuit_id": "80208",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=80208",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/208/080208_hanrei.pdf",
+  "contents": ""
+}

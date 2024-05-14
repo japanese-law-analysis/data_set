@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 10,
+    "day": 6
+  },
+  "case_number": "昭和28(せ)234",
+  "case_name": "強盗傷人被告事件につきなした訴訟費用の負担を命ずる裁判に対するその執行の免除の申立",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第7巻10号1897頁",
+  "original_court_name": "最高裁判所",
+  "original_case_number": "昭和28(あ)2000",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 9,
+    "day": 8
+  },
+  "gist": "訴訟費用負担の執行免除の申立が不適法な一事例",
+  "case_gist": "訴訟費用の負担を命ぜられた者たる被告人から特に申立についての委任をうけなかつた場合に、国選弁護人のなした執行免除の申立は不適法である。",
+  "ref_law": "刑訴法500条",
+  "lawsuit_id": "55750",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55750",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/750/055750_hanrei.pdf"
+}

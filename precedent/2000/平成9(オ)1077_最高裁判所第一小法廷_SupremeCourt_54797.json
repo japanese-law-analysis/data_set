@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 12,
+    "month": 9,
+    "day": 7
+  },
+  "case_number": "平成9(オ)1077",
+  "case_name": "建物明渡請求事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第54巻7号2349頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "平成8(ネ)40",
+  "original_date": {
+    "era": "Heisei",
+    "year": 9,
+    "month": 3,
+    "day": 12
+  },
+  "gist": "宗教団体がその包括する宗教法人の代表役員に充てられていた主管に対してした罷免処分が宗教法人法七八条一項の規定に違反しないとされた事例",
+  "case_gist": "宗教団体甲の管長が、その包括する宗教法人である宗教団体乙の主管として甲及び乙の各規則の定めに従い乙の代表役員に充てられた丙に対し、丙が甲と乙との被包括関係を廃止するため右各規則に定める手続に反して乙の責任役員を解任しその是正に応じなかったことを理由として、丙を乙の主管から罷免したなど判示の事実関係の下においては、右罷免処分は、宗教法人法七八条一項の規定に違反しない。宗教団体がその包括する宗教法人の代表役員等に対してした不利益の取扱いにつき宗教法人法七八条一、二項の規定が適用される場合",
+  "ref_law": "宗教法人法26条，宗教法人法78条1項",
+  "lawsuit_id": "54797",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54797",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/797/054797_hanrei.pdf"
+}

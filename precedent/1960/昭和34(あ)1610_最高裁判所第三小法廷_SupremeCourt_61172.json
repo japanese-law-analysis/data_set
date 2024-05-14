@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 6,
+    "day": 20
+  },
+  "case_number": "昭和34(あ)1610",
+  "case_name": "公正証書原本不実記載、同行使",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集刑　第138号509頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 7,
+    "day": 16
+  },
+  "lawsuit_id": "61172",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61172",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/172/061172_hanrei.pdf"
+}

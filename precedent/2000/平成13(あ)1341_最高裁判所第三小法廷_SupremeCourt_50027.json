@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 14,
+    "month": 2,
+    "day": 8
+  },
+  "case_number": "平成13(あ)1341",
+  "case_name": "窃盗，有印私文書偽造，同行使，詐欺被告事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第56巻2号71頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成13(う)986",
+  "original_date": {
+    "era": "Heisei",
+    "year": 13,
+    "month": 7,
+    "day": 17
+  },
+  "gist": "消費者金融会社の係員を欺いてローンカードを交付させた上これを利用して同社の現金自動入出機から現金を引き出した場合の罪責",
+  "case_gist": "消費者金融会社の係員を欺いてローンカードを交付させた上これを利用して同社の現金自動入出機から現金を引き出した場合には，同係員を欺いて同カードを交付させた点につき詐欺罪が成立し，同カードを利用して現金自動入出機から現金を引き出した点につき窃盗罪が成立する。",
+  "ref_law": "刑法235条，刑法246条1項",
+  "lawsuit_id": "50027",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50027",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/027/050027_hanrei.pdf"
+}

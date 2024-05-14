@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 5,
+    "day": 29
+  },
+  "case_number": "昭和27(あ)6731",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第7巻5号1192頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 5,
+    "day": 6
+  },
+  "gist": "刑法第四〇条にいう「・唖者」に該当しない一事例",
+  "case_gist": "聴能は後天的の傷害があるために自由ではないが、言語機能には障害がない者は、刑法第四〇条にいう「・唖者」とはいえない。",
+  "ref_law": "刑法40条",
+  "lawsuit_id": "54711",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54711",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/711/054711_hanrei.pdf"
+}

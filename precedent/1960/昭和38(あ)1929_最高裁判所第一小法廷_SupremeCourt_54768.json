@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 8,
+    "day": 13
+  },
+  "case_number": "昭和38(あ)1929",
+  "case_name": "道路交通法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第18巻7号437頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 6,
+    "day": 13
+  },
+  "gist": "歩道上の駐車と道路交通法第四八条第一項。",
+  "case_gist": "道路交通法第四八条第一項の規定は、歩道と車道の区別のある道路においては車両が歩道上に駐車することを許していないものと解すべきである。",
+  "ref_law": "道路交通法48条1項",
+  "lawsuit_id": "54768",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54768",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/768/054768_hanrei.pdf"
+}

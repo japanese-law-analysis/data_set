@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 2,
+    "day": 20
+  },
+  "case_number": "昭和29(あ)3062",
+  "case_name": "賍物故買、賍物収受、賍物牙保、業務上横領、火薬類取締法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第117号1125頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 8,
+    "day": 4
+  },
+  "gist": "公判調書に「公開を禁じたこと及びその理由」の記載のない場合と裁判公開の推定",
+  "case_gist": "原審公判調書に公開法廷において開廷された旨の記載がないから公判が公開法廷においてなされたか否か確認することができないとして、憲法八二条違反を主張するが、裁判が公開法廷においてなされたことは刑訴規則四四条により公判調書の必要記載事項とされていないのであるから、公判調書にその点の記載がないからといつて公開されなかつたということはできない。むしろ同条八号の「公開を禁じたこと及びその理由」の記載がない以上公開されたものと推定すべきである。",
+  "ref_law": "刑訴規則44条，憲法82条",
+  "lawsuit_id": "60652",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60652",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/652/060652_hanrei.pdf"
+}

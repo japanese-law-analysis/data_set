@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 12,
+    "day": 27
+  },
+  "case_number": "昭和23(れ)424",
+  "case_name": "食糧管理法違反",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第2巻14号1940頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 3,
+    "day": 22
+  },
+  "gist": "一　新憲法施行前に終了した拘禁と憲法第三四條\n二　勾留の違法と上告理由",
+  "case_gist": "一　被告人は昭和二一年五月六日勾留せられ、同月二九日保釋せられたことは記載上明白である。從つて右勾留による拘禁は、日本國憲法施行以前に既に終了したのであるから、右拘禁を以て、日本國憲法第三四條に反するものと主張する論旨は、憲法に遡及の効果を認めんとするものであつて、法律上、根據のないところである。\n二　勾留處分の違法不當に對しては、別途に救濟の方法によるべきであつて、右は第二審判決に影響を及ぼさないこと明白であるから、これをもつて、上告または再上告の理由とすることはできない。（昭和二三年（れ）第六五號事件、同年七月一四日宣告大法廷判決參照）。",
+  "ref_law": "憲法34條，刑訴法411條",
+  "lawsuit_id": "55377",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55377",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/377/055377_hanrei.pdf"
+}

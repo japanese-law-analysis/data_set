@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 1,
+    "day": 17
+  },
+  "case_number": "昭和26(あ)4315",
+  "case_name": "昭和二二年勅令第一号違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第59号261頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 10,
+    "day": 17
+  },
+  "gist": "酪農業に関する活動が昭和二二年勅令第一号にいわゆる「政治上の活動」に該る場合",
+  "case_gist": "原判決の是認した第一審判決の確定した判示第一、第二の被告人の所為は、いずれも、酪農業に対する政府及び地方公共団体の施策、活動の企画、決定を推進、支持するものであつて、所論に引用の当裁判所の判例にいわゆる政治上の活動に該当し、所論のような純然たる経済上、社会上の活動ではないと解するを相当とするから、被告人を所論勅令一号一五条一項に違反し政治上の活動をなした者として同勅令一六条によつて処断した第一審判決を是認した原判決は所論引用の判例と異なる判断を示したものとはいえない。",
+  "ref_law": "昭和22年勅令1号15条1項，刑訴法405条",
+  "lawsuit_id": "71816",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=71816",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/816/071816_hanrei.pdf"
+}

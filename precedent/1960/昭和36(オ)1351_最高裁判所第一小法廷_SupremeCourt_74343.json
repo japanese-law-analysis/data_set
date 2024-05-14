@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 3,
+    "day": 8
+  },
+  "case_number": "昭和36(オ)1351",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第59号89頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 6,
+    "day": 30
+  },
+  "gist": "民訴法第三九一条にいわゆる「引用」の趣旨",
+  "case_gist": "民訴第三九一条にいわゆる「第一審判決理由の引用」とは、原判決の記載そのままを引用することを要するの謂ではなく、これに附加し、訂正し、あるいは削除を施した上で引用することを妨げない趣旨である。",
+  "ref_law": "民訴法391条",
+  "lawsuit_id": "74343",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74343",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/343/074343_hanrei.pdf"
+}

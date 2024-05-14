@@ -1,0 +1,16 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Reiwa",
+    "year": 1,
+    "month": 9,
+    "day": 26
+  },
+  "case_number": "平成31(行コ)96",
+  "case_name": "消費税更正処分等取消請求控訴事件",
+  "court_name": "東京高等裁判所",
+  "field": "行政",
+  "lawsuit_id": "92271",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=92271",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/271/092271_hanrei.pdf"
+}

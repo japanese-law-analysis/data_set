@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 11,
+    "day": 10
+  },
+  "case_number": "昭和60(行ツ)81",
+  "case_name": "通知処分取消",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集民　第152号155頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "昭和58(行コ)16",
+  "original_date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 11,
+    "day": 12
+  },
+  "gist": "納税者が租税特別措置法二六条一項の規定により事業所得の金額を計算し確定申告をした場合と国税通則法二三条一項一号による更正の請求の許否",
+  "case_gist": "納税者が租税特別措置法二六条一項の規定により事業所得の金額を計算し確定申告をした場合には、たとえ実際に要した必要経費の金額が右規定による必要経費の金額を超えるため納付すべき税額が多くなつたとしても、納税者としては、そのことを理由として国税通則法二三条一項一号による更正の請求をすることはできない。",
+  "ref_law": "租税特別措置法26条，国税通則法23条1項1号",
+  "lawsuit_id": "70492",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70492",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/492/070492_hanrei.pdf"
+}

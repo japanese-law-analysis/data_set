@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 10,
+    "month": 9,
+    "day": 10
+  },
+  "case_number": "平成5(オ)1211",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第189号703頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成3(ネ)1981",
+  "original_date": {
+    "era": "Heisei",
+    "year": 5,
+    "month": 3,
+    "day": 3
+  },
+  "gist": "受訴裁判所の裁判所書記官が原告からの誤った回答に基づき被告の就業場所が不明であるとして実施した訴状等の付郵便送達が適法とされた事例",
+  "case_gist": "受訴裁判所の裁判所書記官が、原告からの誤った回答に基づき被告の就業場所が不明であるとして訴状等の付郵便送達を実施した場合であっても、右裁判所書記官が原告に対し被告の就業場所等につき照会をし、これに対して原告から被告の就業場所が不明である旨の回答がされ、右回答内容等に格別疑念を抱かせるものは認められないなど判示の事実関係の下においては、右裁判所書記官による被告の就業場所の存否に関する認定資料の収集につき裁量権の範囲を逸脱し、あるいはこれに基づく判断が合理性を欠くなどの事情があるとはいえず、右付郵便送達は適法である。",
+  "ref_law": "民訴法103条2項，民訴法107条1項1号，旧民訴法172条",
+  "lawsuit_id": "63036",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63036",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/036/063036_hanrei.pdf"
+}

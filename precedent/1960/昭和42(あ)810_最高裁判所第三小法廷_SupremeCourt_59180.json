@@ -1,0 +1,21 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 10,
+    "day": 3
+  },
+  "case_number": "昭和42(あ)810",
+  "case_name": "外国人登録法違反（勾留に関する処分）",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集刑　第164号695頁",
+  "gist": "上告審において第一審判決（有罪、懲役刑の実刑）および控訴審判決（控訴棄却）を破棄し事件を第一審に差し戻す旨の判決があつたのちになされた勾留更新決定の理由に刑訴法第三四四条が用いられなかつた事例",
+  "case_gist": "（判文）被告人に対する外国人登録法違反被告事件について、昭和四一年九月四日被告人に対してした勾留は、なお勾留の理由（刑訴法六〇条一項前段および後段二号）が存続し、かつ、これを継続する必要があるものと認め、昭和四二年一〇月一三日から勾留期間を更新する。",
+  "ref_law": "刑訴法60条・344条",
+  "lawsuit_id": "59180",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59180",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/180/059180_hanrei.pdf"
+}

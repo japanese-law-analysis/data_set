@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 3,
+    "day": 22
+  },
+  "case_number": "昭和35(あ)2596",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第16巻3号291頁",
+  "original_court_name": "札幌高等裁判所\n        　函館支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 10,
+    "day": 18
+  },
+  "gist": "一　公職選挙法第二五三条の二の規定と憲法第一三条および第七六条第三項\n二　刑訴規則第一七九条の二の規定の趣旨と同条違憲の主張の適否",
+  "case_gist": "一　公職選挙法第二五三条の二の規定（いわゆる百日裁判の規定）は、憲法第一三条および第七六条三項に違反しない。\n二　刑訴規則第一七九条の二の規定（いわゆる継続審理の規定）は、訴訟進行に関する訓示規定に外ならず、同条が憲法第一三条、第三七条第一項および第七六条第三項に違反する旨の主張は上告適法の理由とならない。",
+  "ref_law": "公職選挙法253条の2，刑訴規則197条の2，刑訴法405条1号，憲法13条，憲法37条1項，憲法76条3項",
+  "lawsuit_id": "51713",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51713",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/713/051713_hanrei.pdf"
+}

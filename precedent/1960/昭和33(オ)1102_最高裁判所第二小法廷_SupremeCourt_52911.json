@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 2,
+    "day": 2
+  },
+  "case_number": "昭和33(オ)1102",
+  "case_name": "退隠料等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第16巻2号178頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 8,
+    "day": 29
+  },
+  "gist": "一　旧行政裁判所判定の新憲法下における効力\n二　刑の言渡に基づく退隠料受給資格の喪失と復権の効力",
+  "case_gist": "一　旧行政裁判所の判決は、その言渡と同時に確定力を生じ、新憲法の下においても、当事者はもとより裁判所も、同判決によつて確定された権利関係に反する主張、判断をなし得ないものと解すべきである。\n二　刑の言渡に基づき退隠料受給資格を喪失した者は、復権令によりその資格を回復することがない。",
+  "ref_law": "旧行政裁判所法19条，裁判所法施行法2条2項，民訴応急措置法附則3項，京都市有給吏員退隠料、退職給与金、死亡給与金及遺族扶助料条例11条3号，復権令（昭和27年政令119号）2条，恩赦法11条",
+  "lawsuit_id": "52911",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52911",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/911/052911_hanrei.pdf"
+}

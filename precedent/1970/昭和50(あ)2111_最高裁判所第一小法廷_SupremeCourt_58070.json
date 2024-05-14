@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 6,
+    "day": 22
+  },
+  "case_number": "昭和50(あ)2111",
+  "case_name": "強盗殺人、死体遺棄、死体損壊、詐欺",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第210号301頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 10,
+    "day": 8
+  },
+  "gist": "一　違法な別件逮捕・勾留であるとの主張が欠前提とされた事例\n\n二　死刑の合憲性\n\n三　死刑事件",
+  "ref_law": "憲法31条，憲法33条，憲法34条，憲法36条",
+  "lawsuit_id": "58070",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58070",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/070/058070_hanrei.pdf"
+}

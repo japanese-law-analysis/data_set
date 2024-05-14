@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 2,
+    "day": 25
+  },
+  "case_number": "昭和49(行ツ)28",
+  "case_name": "法人税課税処分取消請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第114号231頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和46(行コ)64",
+  "original_date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 1,
+    "day": 31
+  },
+  "gist": "延払条件付譲渡に係る経理の一部が法定の延払基準の方法に従つていない場合と延払経理による課税の特例の適用",
+  "case_gist": "資産の延払条件付譲渡に係る確定決算の経理が、翌事業年度に計上すべき賦払金を係争事業年度の収益に計上した点において、法定の延払基準の方法に従つたものでないときは、右違法な部分のみを除外して延払経理による課税の特例の適用を認めることはできない。",
+  "ref_law": "法人税法（昭和42年法律第21号による改正前のもの）63条，法人税法施行令124条",
+  "lawsuit_id": "62203",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62203",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/203/062203_hanrei.pdf"
+}

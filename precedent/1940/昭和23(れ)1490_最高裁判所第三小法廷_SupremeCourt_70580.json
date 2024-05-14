@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 2,
+    "day": 15
+  },
+  "case_number": "昭和23(れ)1490",
+  "case_name": "偽造公文書行使、昭和二一年勅令第三一一号違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第7号399頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 5,
+    "day": 19
+  },
+  "gist": "正式の通帳なくして配給主食糧を受領することと詐欺罪の成立",
+  "case_gist": "配給主食糧は正式の通帳なくては配給所の係員はこれを交付することは許されないものである。かかる物資を正式の通帳を所持する如く装い、これを受領すべき正當の理由がないに拘はらず、配給所の係員を欺いて交付させ受領した以上、刑法第二四六條第一項の詐欺罪が成立したものというに充分である。金銭的計算關係において自己が不當の利益を得、若しくは相手方が不當の損害を蒙ることは右第一項の詐欺罪成立の要件ではない（配給物資は正規に割當てられた分量以外は受取ることを許されないものである、これを欺罔手段によつて割當量以上に受領することは不當の利益といい得ることも勿論である）。",
+  "ref_law": "刑法246條",
+  "lawsuit_id": "70580",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70580",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/580/070580_hanrei.pdf"
+}

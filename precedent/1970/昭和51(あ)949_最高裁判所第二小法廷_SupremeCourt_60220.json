@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 8,
+    "day": 11
+  },
+  "case_number": "昭和51(あ)949",
+  "case_name": "公務執行妨害",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第205号359頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 4,
+    "day": 27
+  },
+  "gist": "官公庁の労働争議で派生した暴力事犯に公務執行罪を適用するのは、憲法一四条、二八条に反するとの主張を欠前提で処理した事例",
+  "ref_law": "憲法14条，憲法28条，刑法95条",
+  "lawsuit_id": "60220",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60220",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/220/060220_hanrei.pdf"
+}

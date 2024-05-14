@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 5,
+    "day": 26
+  },
+  "case_number": "昭和38(オ)31",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第18巻4号667頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 10,
+    "day": 24
+  },
+  "gist": "家屋の贈与につき履行が終つたものとされた事例。",
+  "case_gist": "病気のため入院中の内縁の夫が、同棲に使用していたその所有家屋を妻に贈与するに際して、自己の実印を該家屋を買受けたときの契約書とともに妻に交付する等判示事実関係のもとにおいては、簡易の引渡による該家屋の占有移転があつたものとみるべきであるから、これにより、右贈与の履行が終つたものと解すべきである。",
+  "ref_law": "民法550条，民法182条2項",
+  "lawsuit_id": "53123",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53123",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/123/053123_hanrei.pdf"
+}

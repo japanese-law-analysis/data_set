@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 11,
+    "day": 1
+  },
+  "case_number": "昭和31(あ)206",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第115号285頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 12,
+    "day": 21
+  },
+  "gist": "判例と相反する判断をしたものと認められない事例",
+  "case_gist": "他人のカメラを自己の鞄の中に入れて持ち出す際にこれを売ろうとかと自分の家で使つて見ようという判然とした考がなくても、人に見付からなければ家まで持つて帰ろうと思つて持帰ることは、すなわち他人の物を自己の所有物としようという意思があつて、特段の事情のない限り領得の意思があると認めるべきであるとする判断は、不法領得の意思とは、権利者を排除して他人の物を自己の所有物としてその経済的用法に従いこれを利用若しくは処分する意思に外ならないとする判例と相反する判断をしたものではない。",
+  "ref_law": "刑法235条",
+  "lawsuit_id": "60934",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60934",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/934/060934_hanrei.pdf"
+}

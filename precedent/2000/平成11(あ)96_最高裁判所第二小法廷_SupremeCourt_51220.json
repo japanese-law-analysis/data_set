@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 12,
+    "month": 7,
+    "day": 12
+  },
+  "case_number": "平成11(あ)96",
+  "case_name": "詐欺被告事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第54巻6号513頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成10(う)1413",
+  "original_date": {
+    "era": "Heisei",
+    "year": 10,
+    "month": 12,
+    "day": 9
+  },
+  "gist": "相手方の同意を得ないで相手方との会話を録音したテープの証拠能力が認められた事例",
+  "case_gist": "詐欺の被害を受けたと考えた者が、相手方の説明内容に不審を抱き、後日の証拠とするため、相手方との会話を録音することは、たとえそれが相手方の同意を得ないで行われたものであっても、違法ではなく、その録音テープの証拠能力は否定されない。",
+  "ref_law": "刑訴法317条",
+  "lawsuit_id": "51220",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51220",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/220/051220_hanrei.pdf"
+}

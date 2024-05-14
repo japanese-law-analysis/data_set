@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 12,
+    "month": 3,
+    "day": 14
+  },
+  "case_number": "平成8(オ)380",
+  "case_name": "親子関係不存在確認請求事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集民　第197号375頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成7(ネ)3014",
+  "original_date": {
+    "era": "Heisei",
+    "year": 7,
+    "month": 10,
+    "day": 25
+  },
+  "gist": "婚姻関係が終了していることと嫡出の推定を受ける子に対する親子関係不存在確認の訴えの許否",
+  "case_gist": "夫と妻との婚姻関係が終了してその家庭が崩壊しているとの事情が存在することの一事をもって、夫が、民法七七二条により嫡出の推定を受ける子に対して、親子関係不存在確認の訴えを提起することは許されない。",
+  "ref_law": "民法772条，民法775条，人事訴訟手続法第2章親子関係事件ニ関スル手続",
+  "lawsuit_id": "62797",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62797",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/797/062797_hanrei.pdf"
+}

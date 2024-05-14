@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 2,
+    "day": 22
+  },
+  "case_number": "昭和29(あ)786",
+  "case_name": "麻薬取締法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集刑　第117号1247頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 2,
+    "day": 20
+  },
+  "lawsuit_id": "60749",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60749",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/749/060749_hanrei.pdf"
+}

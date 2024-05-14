@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 15,
+    "month": 1,
+    "day": 31
+  },
+  "case_number": "平成14(許)23",
+  "case_name": "不動産仮差押命令申立て却下決定に対する抗告棄却決定に対する許可抗告事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "破棄自判",
+  "article_info": "民集　第57巻1号74頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "平成14(ラ)218",
+  "original_date": {
+    "era": "Heisei",
+    "year": 14,
+    "month": 7,
+    "day": 18
+  },
+  "gist": "既に発せられた仮差押命令と同一の被保全債権に基づき異なる目的物に対し更に仮差押命令の申立てをすることの許否",
+  "case_gist": "特定の目的物について既に仮差押命令を得た債権者は，これと異なる目的物について更に仮差押えをしなければ，金銭債権の完全な弁済を受けるに足りる強制執行をすることができなくなるおそれがあるとき，又はその強制執行をするのに著しい困難を生ずるおそれがあるときには，既に発せられた仮差押命令と同一の被保全債権に基づき，異なる目的物に対し，更に仮差押命令の申立てをすることができる。\n(補足意見がある。)",
+  "ref_law": "民事保全法13条，民事保全法20条，民事保全法21条",
+  "lawsuit_id": "52378",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52378",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/378/052378_hanrei.pdf"
+}

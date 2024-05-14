@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 12,
+    "day": 27
+  },
+  "case_number": "昭和35(オ)655",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第14巻14号3253頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 3,
+    "day": 12
+  },
+  "gist": "債権者のする破産宣告の申立と時効中断事由。",
+  "case_gist": "債権者のする破産宣告の申立は、債権の消滅時効の中断事由たる裁判上の請求にあたる。",
+  "ref_law": "民法147条1号，民法149条",
+  "lawsuit_id": "54928",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54928",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/928/054928_hanrei.pdf"
+}

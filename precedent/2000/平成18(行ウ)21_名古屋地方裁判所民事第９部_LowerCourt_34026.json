@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 11,
+    "day": 30
+  },
+  "case_number": "平成18(行ウ)21",
+  "case_name": "裁決取消等請求",
+  "court_name": "名古屋地方裁判所民事第９部",
+  "result": "棄却",
+  "gist": "江南市立小学校の職員である原告が，通勤用自動車を学校用地に駐車することは行政財産の目的外使用に当たらないとして，学校施設等に通勤用自動車を駐車する上での手続や使用料徴収について定めた要綱の無効確認，駐車を妨害することの禁止，及び同要綱に関して地方公務員法８条２項３号に基づいて申し立てた苦情処理を市公平委員会が不受理としたことの取消しを求めた訴訟について，無効確認及び不受理の取消しについては不適法として訴えを却下し，妨害禁止については請求を棄却した事例",
+  "lawsuit_id": "34026",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=34026",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/026/034026_hanrei.pdf",
+  "contents": ""
+}

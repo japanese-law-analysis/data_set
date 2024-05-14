@@ -1,0 +1,18 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 9,
+    "day": 26
+  },
+  "case_number": "昭和53(行ウ)120",
+  "case_name": "権利変換処分取消請求事件",
+  "court_name": "東京地方裁判所",
+  "field": "行政",
+  "gist": "１　都市再開発法による権利変換計画が，同法７７条２項所定の従前の価額と右計画に基づいて与えられる施設建築物の一部等の価額との間に著しい差額が生じてはならないとする価額の均衡の原則に適合しているかどうかを裁判所が審査する場合には，従前の価額について同法８５条所定の裁決の申請及び訴えの提起がなく，したがって清算金の関係では右価額が確定しているときであっても，右価額を証拠によって認定することができ，また，認定しなければならないとした事例　\n２　都がした都市再開発法による第一種市街地再開発事業の権利変換処分が，手続上又は内容上の瑕疵がなく，適法であるとされた事例",
+  "lawsuit_id": "35879",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=35879",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/879/035879_hanrei.pdf",
+  "contents": ""
+}

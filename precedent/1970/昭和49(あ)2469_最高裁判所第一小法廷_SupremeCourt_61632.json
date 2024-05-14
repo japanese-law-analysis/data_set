@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 9,
+    "day": 11
+  },
+  "case_number": "昭和49(あ)2469",
+  "case_name": "兇器準備集合、公務執行妨害、傷害、建造物侵入",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第197号317頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 9,
+    "day": 17
+  },
+  "gist": "いったん公判期日に出頭した被告人が法廷の秩序維持のため退廷を命ぜられたとき裁判所は刑訴法三四一条により当日の公判審理を行うことができるか",
+  "case_gist": "いったん公判期日に出頭した被告人が裁判長から法廷の秩序維持のため退廷を命ぜられたときは、裁判所は刑訴法三四一条に基づき、被告人不在のまま当日の公判審理を行うことができる。",
+  "ref_law": "刑訴法341条",
+  "lawsuit_id": "61632",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61632",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/632/061632_hanrei.pdf"
+}

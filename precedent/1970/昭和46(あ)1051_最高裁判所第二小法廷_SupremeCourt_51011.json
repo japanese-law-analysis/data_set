@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 9,
+    "day": 22
+  },
+  "case_number": "昭和46(あ)1051",
+  "case_name": "強姦致傷",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第25巻6号769頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 3,
+    "day": 25
+  },
+  "gist": "強姦と被害者の負傷との間に因果関係が認められた事例",
+  "case_gist": "被害者の傷害が、共犯者の一名によつて強姦された後、さらに他の共犯者らによって強姦されることの危険を感じた被害者が、詐言を用いてその場をのがれ、暗夜人里離れた地理不案内な田舎道を数百米逃走し救助を求めるに際し、転倒などして受けたものである場合には、右傷害は強姦によって生じたものというを妨げない。",
+  "ref_law": "刑法181条",
+  "lawsuit_id": "51011",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51011",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/011/051011_hanrei.pdf"
+}

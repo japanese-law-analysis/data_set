@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 9,
+    "day": 18
+  },
+  "case_number": "昭和36(オ)475",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第75号255頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 1,
+    "day": 30
+  },
+  "gist": "釈明権不行使、審理不尽の違法があるとされた事例。",
+  "case_gist": "Ｅ連盟が自然人でも法人でもないことから、直ちに同連盟に消費貸借上の債務負担能力がないと判断したことは、釈明権不行使、審理不尽の違法がある。",
+  "ref_law": "民訴法394条，民法43条",
+  "lawsuit_id": "65992",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=65992",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/992/065992_hanrei.pdf"
+}

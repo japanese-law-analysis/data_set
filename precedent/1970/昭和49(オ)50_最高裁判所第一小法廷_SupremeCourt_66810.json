@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 7,
+    "day": 19
+  },
+  "case_number": "昭和49(オ)50",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集民　第118号291頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和44(ネ)1300",
+  "original_date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 9,
+    "day": 28
+  },
+  "gist": "法律行為解釈の基準",
+  "case_gist": "法律行為の解釈にあたつては、当事者の目的、当該法律行為をするに至つた事情、慣習及び取引の通念などを斟酌しながら合理的にその意味を明らかにすべきものである。",
+  "ref_law": "民法91条",
+  "lawsuit_id": "66810",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66810",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/810/066810_hanrei.pdf"
+}

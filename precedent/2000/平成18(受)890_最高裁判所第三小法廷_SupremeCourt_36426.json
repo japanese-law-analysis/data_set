@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 6,
+    "day": 10
+  },
+  "case_number": "平成18(受)890",
+  "case_name": "預託金返還請求事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集民　第228号195頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "平成17(ネ)682",
+  "original_date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 2,
+    "day": 2
+  },
+  "gist": "会社分割に伴いゴルフ場の事業を承継した会社が預託金会員制のゴルフクラブの名称を引き続き使用している場合における上記会社の預託金返還義務の有無",
+  "case_gist": "預託金会員制のゴルフクラブの名称がゴルフ場の事業主体を表示するものとして用いられている場合において，会社分割に伴いゴルフ場の事業が他の会社又は設立会社に承継され，事業を承継した会社が上記名称を引き続き使用しているときには，上記会社が会社分割後遅滞なく当該ゴルフクラブの会員によるゴルフ場施設の優先的利用を拒否したなどの特段の事情がない限り，上記会社は，会社法２２条１項の類推適用により，会員が分割をした会社に交付した預託金の返還義務を負う。",
+  "ref_law": "会社法22条1項，会社法757条，会社法762条1項，商法（平成17年法律第87号による改正前のもの）373条，商法（平成17年法律第87号による改正前のもの）374条の16",
+  "lawsuit_id": "36426",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=36426",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/426/036426_hanrei.pdf",
+  "contents": ""
+}

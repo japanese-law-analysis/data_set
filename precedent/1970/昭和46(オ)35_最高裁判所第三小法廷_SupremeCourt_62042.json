@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 12,
+    "day": 7
+  },
+  "case_number": "昭和46(オ)35",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第104号583頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和44(ネ)261",
+  "original_date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 7,
+    "day": 29
+  },
+  "gist": "下請負人の被用者の起こした事故につき元請負人が運行供用者責任を負うとされた事例",
+  "case_gist": "埋立用のぼたの運搬の仕事の請負人甲からその一部を下請けした乙の被用者丙が、乙所有の貨物自動車を運転中に事故を起こした場合において、甲は、乙から自動車および丙ら運転手の派遣を受け、甲の被用者とともに甲の指揮監督のもとに、仕事に従事させていたものであり、事故当時は、丙が作業開始前、朝食をとつたうえで作業現場に赴くため、食堂に行く途中であつたなど判示の事実関係があるときは、甲は右事故につき自動車損害賠償保障法三条による運行供用者としての責任を負う。",
+  "ref_law": "自動車損害賠償保障法3条",
+  "lawsuit_id": "62042",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62042",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/042/062042_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 15,
+    "month": 4,
+    "day": 14
+  },
+  "case_number": "平成13(あ)1317",
+  "case_name": "建造物等以外放火，暴行被告事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第57巻4号445頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成13(う)177",
+  "original_date": {
+    "era": "Heisei",
+    "year": 13,
+    "month": 7,
+    "day": 17
+  },
+  "gist": "１　刑法１１０条１項にいう「公共の危険」の意義\n２　市街地の駐車場において放火された自動車から付近の２台の自動車に延焼の危険が及んだことなどをもって刑法１１０条１項にいう「公共の危険」の発生が認められた事例",
+  "case_gist": "１　刑法１１０条１項にいう「公共の危険」は，同法１０８条及び１０９条１項に規定する建造物等に対する延焼の危険に限られるものではなく，不特定又は多数の人の生命，身体又は前記建造物等以外の財産に対する危険も含まれる。\n２　市街地の駐車場において，放火された自動車から付近の２台の自動車に延焼の危険が及んだことなど判示の事実関係の下では，刑法１１０条１項にいう「公共の危険」の発生が認められる。",
+  "ref_law": "刑法110条1項",
+  "lawsuit_id": "50026",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50026",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/026/050026_hanrei.pdf"
+}

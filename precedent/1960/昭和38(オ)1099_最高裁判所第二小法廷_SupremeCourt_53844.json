@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 1,
+    "day": 21
+  },
+  "case_number": "昭和38(オ)1099",
+  "case_name": "建物収去土地明渡等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第20巻1号42頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和37(ネ)2472",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 5,
+    "day": 30
+  },
+  "gist": "所有権移転請求権保全の仮登記のなされた土地の仮換地の上に存する建物について抵当権が設定された場合と建物競落人の法定地上権。",
+  "case_gist": "所有権移転請求権保全の仮登記のなされた土地の仮換地の上に存する右土地所有者の所有する建物について抵当権が設定された場合には、右建物の競落人は、法定地上権を取得するが、右仮登記に基づいて所有権移転の本登記を経た者に対しては、右法定地上権をもつて対抗することができない。",
+  "ref_law": "民法388条，不動産登記法7条，土地区画整理法99条",
+  "lawsuit_id": "53844",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53844",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/844/053844_hanrei.pdf"
+}

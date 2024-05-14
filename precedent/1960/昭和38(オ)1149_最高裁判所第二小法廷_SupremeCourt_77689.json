@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 6,
+    "day": 4
+  },
+  "case_number": "昭和38(オ)1149",
+  "case_name": "不正競争行為差止請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第79号289頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和36(ネ)1629",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 5,
+    "day": 29
+  },
+  "gist": "商品名として「ライナー」、製造所名として「ライナービヤー株式会社」という表示を付された雑酒たる発ぽう酒は「ビール」と誤認されるか。",
+  "case_gist": "雑酒たる発ぽう酒の容器、包装および広告に、商品名として、単に「ライナー」と表示するとともに、製造者の商号である「ライナービヤー株式会社」およびその英語名である「ＬＩＮＥＲ　ＢＥＥＲ　Ｃｏ．，ＬＴＤ」と表示したとしても、これをもつて直ちに「ビール」との誤認混同を生ずることはないと解するのが相当である。",
+  "ref_law": "不正競争防止法1条5号",
+  "lawsuit_id": "77689",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77689",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/689/077689_hanrei.pdf"
+}

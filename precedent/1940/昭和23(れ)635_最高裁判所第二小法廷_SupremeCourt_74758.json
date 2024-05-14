@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 10,
+    "day": 16
+  },
+  "case_number": "昭和23(れ)635",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第4号459頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 4,
+    "day": 24
+  },
+  "gist": "一　最低限度の生活を營み得ないで罪を犯した場合と憲法第二五條第一項\n二　被告人に實刑を科するため家族が生活困難に陷る場合と憲法第二五條第一項",
+  "case_gist": "一　かりに最低限度の生活すら營み得ないで罪を犯したとしても、その行爲が憲法第二五條第一項の規定あるによつて正當化され或は實刑を兔れるわけのものではない。昭和二二年（れ）第二〇五號同二三年九月二九日大法廷判決參照）。\n二　被告人に實刑を科するため、その家族が生活困難に陷るとしてもその判決は憲法第二五條に違反するものでないことは、先に當裁判所の判例として示したところである（昭和二二年（れ）第一〇五號同二三年四月七日大法廷判決）。",
+  "ref_law": "憲法25條1項",
+  "lawsuit_id": "74758",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74758",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/758/074758_hanrei.pdf"
+}

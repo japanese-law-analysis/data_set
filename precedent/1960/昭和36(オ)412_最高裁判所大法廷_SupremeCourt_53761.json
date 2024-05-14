@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 6,
+    "day": 24
+  },
+  "case_number": "昭和36(オ)412",
+  "case_name": "損害賠償等請求",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第18巻5号854頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 1,
+    "day": 30
+  },
+  "gist": "民法第七二二条第二項により被害者の過失を斟酌するについて必要な被害者の弁識能力の程度。",
+  "case_gist": "民法第七二二条第二項により被害者の過失を斟酌するには、被害者たる未成年者が、事理を弁識するに足る知能を具えていれば足り、行為の責任を弁識するに足る知能を具えていることを要しないものと解すべきである。",
+  "ref_law": "民法722条2項",
+  "lawsuit_id": "53761",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53761",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/761/053761_hanrei.pdf"
+}

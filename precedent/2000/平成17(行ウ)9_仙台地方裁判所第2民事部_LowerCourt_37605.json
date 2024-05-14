@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 4,
+    "day": 13
+  },
+  "case_number": "平成17(行ウ)9",
+  "case_name": "損害賠償履行請求事件",
+  "court_name": "仙台地方裁判所第2民事部",
+  "gist": "原告らが，学校法人が大学開設時に文部大臣（当時）に対して提出した財産目録の監査を担当した公認会計士に過失があり，当該公認会計士が適切な監査を実施していれば大学設置認可はされず，これを前提とする市の補助金も支出されなかったとして，市に対し，当該公認会計士及び同人の所属する監査法人に対して上記補助金相当額の損害賠償を請求するよう求めた請求が認容された事例（住民訴訟）",
+  "lawsuit_id": "37605",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=37605",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/605/037605_hanrei.pdf",
+  "contents": ""
+}

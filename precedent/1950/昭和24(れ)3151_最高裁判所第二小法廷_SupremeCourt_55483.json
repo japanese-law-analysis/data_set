@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 6,
+    "day": 29
+  },
+  "case_number": "昭和24(れ)3151",
+  "case_name": "物価統制令違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第5巻7号1341頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 11,
+    "day": 22
+  },
+  "gist": "物価統制令第一三条の二違反の罪の判決には統制額の判示及び該統制額を指定した物価庁告示の適用を示すことを要するか",
+  "case_gist": "物価統制令第一三条の二違反の罪の判決には、法定の統制額を判示することも、該統制額を指定した物価庁告示の適用を示すことも、その必要がない。",
+  "ref_law": "物価統制令13条の2，旧刑訴法360条1項",
+  "lawsuit_id": "55483",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55483",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/483/055483_hanrei.pdf"
+}

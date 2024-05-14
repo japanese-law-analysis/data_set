@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 4,
+    "day": 2
+  },
+  "case_number": "昭和39(オ)842",
+  "case_name": "建物収去土地明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第78号515頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和36(ネ)2463",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 3,
+    "day": 13
+  },
+  "gist": "土地賃借権の存在を知つて土地を買受けた者に対しては土地上に登記した建物を有しない土地賃借人もこれに土地賃借権を主張しうるか。",
+  "case_gist": "土地の賃借人は、その土地の上に登記した建物を有しないかぎり、右賃借権の存在を知つて土地所有権を取得した第三者に対しても土地賃借権を主張することができない。",
+  "ref_law": "建物保護法1条1項",
+  "lawsuit_id": "63974",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63974",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/974/063974_hanrei.pdf"
+}

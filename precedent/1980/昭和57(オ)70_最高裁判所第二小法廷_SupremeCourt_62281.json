@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 9,
+    "day": 30
+  },
+  "case_number": "昭和57(オ)70",
+  "case_name": "境界確認等本訴、境界確認及び土地所有権確認等反訴",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第139号587頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "昭和55(ネ)142",
+  "original_date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 10,
+    "day": 13
+  },
+  "gist": "取得時効の要件が具備されたのち当該不動産の占有者がその占有を喪失した場合と時効援用の可否",
+  "case_gist": "民法一六二条所定の取得時効の要件が具備された場合、当該不動産の占有者は、時効期間の経過後右不動産の占有を喪失しても、これが時効利益の放棄に該当しない限り、右時効の援用権者として、これを援用しうるものというべきである。",
+  "ref_law": "民法162条，民法164条",
+  "lawsuit_id": "62281",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62281",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/281/062281_hanrei.pdf"
+}

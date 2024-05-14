@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 9,
+    "day": 19
+  },
+  "case_number": "昭和62(あ)1462",
+  "case_name": "岐阜県青少年保護育成条例違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第43巻8号785頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 11,
+    "day": 25
+  },
+  "gist": "岐阜県青少年保護育成条例六条二項、六条の六第一項本文、二一条五号の規定と憲法二一条一項（補足意見がある）",
+  "case_gist": "有害図書の自動販売機への収納を禁止処罰する岐阜県青少年保護育成条例六条二項、六条の六第一項本文、二一条五号の規定は、憲法二一条一項に違反しない。",
+  "ref_law": "憲法21条1項，岐阜県青少年保護育成条例6条1項，岐阜県青少年保護育成条例6条2項，岐阜県青少年保護育成条例6条の6第1項，岐阜県青少年保護育成条例21条5号，岐阜県青少年保護育成条例施行規則2条，昭和54年7月1日岐阜県告示539号",
+  "lawsuit_id": "50356",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50356",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/356/050356_hanrei.pdf"
+}

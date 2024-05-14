@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 11,
+    "day": 26
+  },
+  "case_number": "昭和54(オ)549",
+  "case_name": "所有権移転登記、所有権移転登記抹消登記等",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第36巻11号2296頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和52(ネ)252",
+  "original_date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 1,
+    "day": 30
+  },
+  "gist": "一　訴訟行為と民法八二五条の適用の有無\n二　父母が共同で親権を行う場合と民法八二六条一項の規定による特別代理人の選任申立権者\n三　民法八二六条一項の規定に基づいて選任された特別代理人が未成年者を代理してした行為が利益相反行為にあたるとされた事例",
+  "case_gist": "一　訴訟行為には民法八二五条は適用されない。\n二　民法八二六条一項の規定による特別代理人の選任申立は、父母が共同で親権を行う場合においても、その一方が単独ですることができる。\n三　民法八二六条一項の規定に基づいて選任された特別代理人が親権者のした未成年者所有不動産の担保提供行為を追認することは、その被担保債務について特別代理人自身も連帯保証人となつているときは、同法条にいう「利益が相反する行為」にあたる。",
+  "ref_law": "民法825条，民法826条1項，民訴法49条",
+  "lawsuit_id": "55161",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55161",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/161/055161_hanrei.pdf"
+}

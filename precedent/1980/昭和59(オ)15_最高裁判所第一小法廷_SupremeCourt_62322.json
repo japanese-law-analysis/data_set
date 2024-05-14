@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 9,
+    "day": 21
+  },
+  "case_number": "昭和59(オ)15",
+  "case_name": "損害賠償等請求事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集民　第157号635頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_case_number": "昭和55(ネ)203",
+  "original_date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 10,
+    "day": 17
+  },
+  "gist": "一　商法（昭和五六年法律第七四号による改正前のもの）二六六条ノ三第一項前段所定の損害賠償債務の履行遅滞となる時期\n二　商法（昭和五六年法律第七四号による改正前のもの）二六六条ノ三第一項前段所定の損害賠償債務の遅延損害金の利率",
+  "case_gist": "一　商法（昭和五六年法律第七四号による改正前のもの）二六六条ノ三第一項前段所定の損害賠償債務は、履行の請求を受けた時に履行遅滞となる。\n二　商法（昭和五六年法律第七四号による改正前のもの）二六六条ノ三第一項前段所定の損害賠償債務の遅延損害金の利率は、年五分である。",
+  "ref_law": "商法（昭和56年法律第74号による改正前のもの）266条ノ3，民法404条，民法412条",
+  "lawsuit_id": "62322",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62322",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/322/062322_hanrei.pdf"
+}

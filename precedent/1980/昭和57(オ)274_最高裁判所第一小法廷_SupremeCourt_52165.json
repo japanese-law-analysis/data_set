@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 3,
+    "day": 20
+  },
+  "case_number": "昭和57(オ)274",
+  "case_name": "不動産所有権移転登記",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第40巻2号450頁",
+  "original_court_name": "広島高等裁判所",
+  "original_case_number": "昭和56(ネ)137",
+  "original_date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 11,
+    "day": 26
+  },
+  "gist": "一、民法九二一条三号にいう相続財産と相続債務\n二、限定承認に伴う清算手続の未了と民法九二九条違反の弁済による損害額の算定",
+  "case_gist": "一、民法九二一条三号にいう相続財産には相続債務も含まれる。\n二、民法九二九条に違反する弁済による損害額は、限定承認に伴う清算手続が未だ完了していない場合であつても、同法九二七条一項所定の期間が満了したのちは、算定が不能であるとはいえない。",
+  "ref_law": "民法921条3号，民法927条1項，民法929条，民法934条",
+  "lawsuit_id": "52165",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52165",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/165/052165_hanrei.pdf"
+}

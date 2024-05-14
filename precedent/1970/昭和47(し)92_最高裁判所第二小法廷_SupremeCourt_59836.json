@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 3,
+    "day": 30
+  },
+  "case_number": "昭和47(し)92",
+  "case_name": "検察官のした押収物の還付に関する処分に対する準抗告事件についてした決定に対する特別抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "その他",
+  "article_info": "集刑　第186号551頁",
+  "original_court_name": "中野簡易裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 10,
+    "day": 26
+  },
+  "gist": "原決定が刑訴法四三〇条の準抗告を「却下」したことは違法であるとしてこれを取り消したうえ準抗告申立は利益を欠くとしてこれを棄却された事例",
+  "ref_law": "刑訴法411条1号，刑訴法430条",
+  "lawsuit_id": "59836",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59836",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/836/059836_hanrei.pdf"
+}

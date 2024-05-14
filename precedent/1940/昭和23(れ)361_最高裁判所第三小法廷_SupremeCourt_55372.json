@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 6,
+    "day": 22
+  },
+  "case_number": "昭和23(れ)361",
+  "case_name": "強盗、窃盗",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第2巻7号711頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 3,
+    "day": 22
+  },
+  "gist": "一　被告人の自白による強盗共謀の事實認定と論理法則\n二　強盗犯人が他人を脅迫しているときその傍に佇立していた共犯者の責任と共同正犯",
+  "case_gist": "一　被告人と他の共犯者との間に本件強盗の意思がどう連絡されたかについて原審の審理は簡に失するの嫌いはあるが被告人は原審公判廷で本件犯罪事實をすべて認めているのであるから原審が被告人に強盗の共謀があつたものと認定したことは、所論のように論理法則に反するものと言うことはできない。\n二　夜間において他の共犯者がブリキ製のピストルを被害者に突きつけ脅迫した際に被告人がその傍に佇立していたことは、被害者を畏怖せしめるに役立つこと論を俟たないから原判決が被告人の行爲を強盗罪の共同正犯と認定したことはもとより違法ではない。",
+  "ref_law": "刑法236條，刑法60條",
+  "lawsuit_id": "55372",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55372",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/372/055372_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 9,
+    "day": 16
+  },
+  "case_number": "昭和33(あ)1143",
+  "case_name": "強姦致傷",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第127号213頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 5,
+    "day": 20
+  },
+  "gist": "公判調書は公判期日当日付で作成することを要するか―作成日をその日付とすることは違法か。",
+  "case_gist": "公判文書は所論のように、必ずしも公判期日当日付をもつて作成することを要するものではなく、その作成日をその日付として記載してもなんら違法ではない。",
+  "ref_law": "刑訴法48条，刑訴規則44条",
+  "lawsuit_id": "75937",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=75937",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/937/075937_hanrei.pdf"
+}

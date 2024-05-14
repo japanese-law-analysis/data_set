@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 11,
+    "day": 10
+  },
+  "case_number": "昭和25(れ)1180",
+  "case_name": "臨時物資需給調整法違反、貿易等臨時措置令違反、隠匿物資等緊急措置令違反、物価統制令違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第35号437頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 4,
+    "day": 11
+  },
+  "gist": "ゴム製品の統制額に関する告示の廃止と旧刑訴法第三六三条にいわゆる「刑ノ廃止」",
+  "case_gist": "所論ゴム製品については、その統制額を指定した物価庁告示が既に廃止せられたことは所論のとおりであるけれども、右告示による統制指定の廃止は、本件のごとくその廃止以前に犯された物価統制令第三条違反の罪に対しては、旧刑訴第三六三所定の「犯罪後ノ法令ニ因リ刑ノ廃止アリタトキ」に該らないとすることは、当裁判所判例（昭和二三年（れ）第八〇〇号、同二五年一〇月一一日大法廷判決）の示すところである。従つて論旨は理由がない。",
+  "ref_law": "昭和24年12月5日物価庁告示979号，旧刑訴法363条2号",
+  "lawsuit_id": "71410",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=71410",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/410/071410_hanrei.pdf"
+}

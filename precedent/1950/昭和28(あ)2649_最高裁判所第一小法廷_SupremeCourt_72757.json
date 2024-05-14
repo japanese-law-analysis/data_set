@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 10,
+    "day": 22
+  },
+  "case_number": "昭和28(あ)2649",
+  "case_name": "銃砲刀劍類等所持取締令違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第87号715頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 4,
+    "day": 16
+  },
+  "gist": "一　銃砲刀剣類等所持取締令の効力\n二　右違反と免訴",
+  "case_gist": "一　銃砲刀剣類等所持取締令は、昭和二〇年勅令第五四二号に基いて発せられた有効な命令である。\n二　右命令違反の所為は平和条約発効後も免訴とならない。",
+  "ref_law": "銃砲刀剣類等所持取締令，昭和20年勅令542号",
+  "lawsuit_id": "72757",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=72757",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/757/072757_hanrei.pdf"
+}

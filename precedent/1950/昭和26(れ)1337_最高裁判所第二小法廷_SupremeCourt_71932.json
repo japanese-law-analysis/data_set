@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 11,
+    "day": 2
+  },
+  "case_number": "昭和26(れ)1337",
+  "case_name": "関税法の罰則等の特例に関する勅令違反、貿易等臨時措置令違反等",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第56号157頁",
+  "original_court_name": "広島高等裁判所\n        　松江支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 12,
+    "day": 20
+  },
+  "lawsuit_id": "71932",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=71932",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/932/071932_hanrei.pdf"
+}

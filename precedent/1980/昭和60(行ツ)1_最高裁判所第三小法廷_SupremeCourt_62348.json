@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 63,
+    "month": 7,
+    "day": 19
+  },
+  "case_number": "昭和60(行ツ)1",
+  "case_name": "不当労働行為救済命令取消請求事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第154号373頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和58(行コ)86",
+  "original_date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 8,
+    "day": 30
+  },
+  "gist": "使用者が労働組合からの従業員食堂の使用申入れを許諾しなかつたこと等が不当労働行為に該当しないとされた事例",
+  "case_gist": "労働組合が、組合活動のため使用者の施設を自由に使用することができるとの見解のもとに、従業員食堂の使用につき使用者と真摯な協議を尽くさず、使用者の許諾を得ないまま実力を行使してこれを使用し続けてきた場合において、使用者が、労働組合からの従業員食堂の使用申入れを許諾しなかつたこと、また、許諾のないまま従業員食堂において開かれた組合員集会等の中止を命令し、組合幹部に対し警告書を交付したことは不当労働行為に該当しない。\n\n（補足意見がある。）",
+  "ref_law": "労働組合法7条1号，労働組合法7条3号",
+  "lawsuit_id": "62348",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62348",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/348/062348_hanrei.pdf"
+}

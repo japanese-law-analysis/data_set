@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 4,
+    "day": 9
+  },
+  "case_number": "昭和38(テ)6",
+  "case_name": "仮差押異議（特別上告）",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第65号473頁",
+  "original_court_name": "札幌高等裁判所\n        　函館支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 12,
+    "day": 4
+  },
+  "gist": "民訴法第四〇九条ノ二第二項の合憲性。",
+  "case_gist": "合憲（昭和三〇年（テ）第一七号同三一年一二月一一日第三小法廷判決、民集一〇巻一五五〇頁参照）。",
+  "lawsuit_id": "66271",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66271",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/271/066271_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 9,
+    "day": 29
+  },
+  "case_number": "昭和56(オ)27",
+  "case_name": "土地建物所有権移転登記抹消登記",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第133号497頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和54(ネ)220",
+  "original_date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 9,
+    "day": 29
+  },
+  "gist": "更正登記手続を命ずる判決主文",
+  "case_gist": "被告の単独所有名義を原告らと被告との共有名義に更正すべき旨の登記手続を命ずる判決主文においては、更正後の登記事項として、原告らの共有持分だけでなく、被告に帰属する共有持分をも明らかにすべきである。\n\n（意見がある。）",
+  "ref_law": "不動産登記法56条，不動産登記法66条，民訴法191条1項，民訴法224条1項",
+  "lawsuit_id": "64366",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64366",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/366/064366_hanrei.pdf"
+}

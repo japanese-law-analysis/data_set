@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 4,
+    "day": 12
+  },
+  "case_number": "昭和47(オ)845",
+  "case_name": "土地所有権移転登記手続等請求および建物収去土地明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第109号79頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和44(ネ)652",
+  "original_date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 3,
+    "day": 30
+  },
+  "gist": "登記の欠缺を主張することができないいわゆる背信的悪意者にあたるとされた事例",
+  "case_gist": "甲が乙所有の土地を買い受けて占有している事実を知つている乙の親族丙が、甲の所有権取得登記がされていないのに乗じ、甲の所有権取得の効果を対抗要件の欠缺により失わしめる目的で、乙との間の土地交換契約により右土地の所有権を取得しその旨の登記を経た等判示の事情がある場合には、丙はいわゆる背信的悪意者として、甲の土地所有権取得についての登記の欠缺を主張する正当な利益を有しない。",
+  "ref_law": "民法177条",
+  "lawsuit_id": "62140",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62140",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/140/062140_hanrei.pdf"
+}

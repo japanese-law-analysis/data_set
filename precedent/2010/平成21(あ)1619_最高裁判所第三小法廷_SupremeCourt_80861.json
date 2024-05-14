@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 3,
+    "day": 16
+  },
+  "case_number": "平成21(あ)1619",
+  "case_name": "傷害，児童福祉法違反，児童買春，児童ポルノに係る行為等の処罰及び児童の保護等に関する法律違反被告事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第300号95頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 9,
+    "day": 8
+  },
+  "gist": "高等裁判所の判決中の判断がその上告審である最高裁判所の決定において否定された場合における上記判決の刑訴法４０５条３号の「判例」該当性",
+  "ref_law": "刑訴法405条3号",
+  "lawsuit_id": "80861",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=80861",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/861/080861_hanrei.pdf",
+  "contents": ""
+}

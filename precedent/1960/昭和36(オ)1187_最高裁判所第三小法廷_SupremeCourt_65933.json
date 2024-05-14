@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 12,
+    "day": 17
+  },
+  "case_number": "昭和36(オ)1187",
+  "case_name": "稲毛所有権確認田地引渡請求再審",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第70号279頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 7,
+    "day": 26
+  },
+  "gist": "偽証罪で告発された証人に対する起訴猶予処分と有罪判決の可能性。",
+  "case_gist": "偽証罪で告発された証人が起訴猶予処分を受けた場合でも、後日起訴されて有罪判決を受ける可能性が残つているから、再審のため民訴法第四二〇条第二項の要件を具えることが不可能となつたとはいえない。",
+  "ref_law": "民訴法420条1項7号，民訴法420条2項",
+  "lawsuit_id": "65933",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=65933",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/933/065933_hanrei.pdf"
+}

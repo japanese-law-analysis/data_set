@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 9,
+    "day": 14
+  },
+  "case_number": "昭和31(れ)8",
+  "case_name": "物価統制令違反、贈賄",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集刑　第114号695頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 6,
+    "day": 29
+  },
+  "gist": "公訴時効完成により刑訴法第四一一条により免訴を言渡した一事例",
+  "case_gist": "贈賄の事実については、原判決の言渡後、本件を当裁判所が受理した昭和三一年六月二二日までに既に三年以上経過し、しかも、その間公訴時効の中断の事実のないことは記録上明らかであるので、右の罪に対する公訴の時効が完成したものであるから、共に被告人に免訴の言渡をすべきであつて、この点において原判決は破棄を免れない。よつて、刑訴施行法二条、三条の二、刑訴四一一条により、原判決破棄の上、旧刑訴四四八条、四五五条、三六三条三号、四号により被告人を免訴すべきものとする。",
+  "ref_law": "刑法198条，刑訴法411条5号，旧刑訴法281条5号，旧刑訴法363条4号",
+  "lawsuit_id": "61034",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61034",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/034/061034_hanrei.pdf"
+}

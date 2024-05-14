@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 29,
+    "month": 3,
+    "day": 13
+  },
+  "case_number": "平成28(受)944",
+  "case_name": "貸金請求事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集民　第255号43頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成27(ネ)4048",
+  "original_date": {
+    "era": "Heisei",
+    "year": 28,
+    "month": 2,
+    "day": 4
+  },
+  "gist": "貸金の支払を求める旨の支払督促が，当該支払督促の当事者間で締結された保証契約に基づく保証債務履行請求権について消滅時効の中断の効力を生ずるものではないとされた事例",
+  "case_gist": "ＡのＸに対する貸金債務についてＹがＸとの間で保証契約を締結した場合において，ＹがＸから金員を借り受けた旨が記載された公正証書が上記保証契約の締結の趣旨で作成され, 上記公正証書に記載されたとおりＹが金員を借り受けたとしてＸがＹに対して貸金の支払を求める旨の支払督促の申立てをしたとの事情があっても，上記支払督促は，上記保証契約に基づく保証債務履行請求権について消滅時効の中断の効力を生ずるものではない。",
+  "ref_law": "民法１４７条１号，民法１５０条",
+  "lawsuit_id": "86588",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=86588",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/588/086588_hanrei.pdf"
+}

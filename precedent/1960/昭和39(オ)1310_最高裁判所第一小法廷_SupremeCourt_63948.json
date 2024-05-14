@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 3,
+    "day": 11
+  },
+  "case_number": "昭和39(オ)1310",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第78号267頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和36(ネ)364",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 8,
+    "day": 5
+  },
+  "gist": "賃貸家屋の無断改造工事が賃貸借の目的物保管義務に違反しないとされた事例。",
+  "case_gist": "賃借人が賃借家屋の無断改造工事をした場合でも、それが容易に復元できる簡易なものであり、もしくは浸水を防止するため必要であつた等、原判示の事情（原判決理由参照）がある場合には賃貸借の目的物保管義務に違反しないものと解すべきである。",
+  "ref_law": "民法400条，民法594条",
+  "lawsuit_id": "63948",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63948",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/948/063948_hanrei.pdf"
+}

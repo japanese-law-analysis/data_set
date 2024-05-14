@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 6,
+    "day": 6
+  },
+  "case_number": "昭和25(あ)619",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第65号103頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 2,
+    "day": 4
+  },
+  "gist": "「盗んだと犯人がいつておれば盗まれたものに相違ない」旨の盗難被害始末書の証拠能力",
+  "case_gist": "「木炭四俵が盗まれたとのお尋ねについては気附きませんでしたが、盗んだと犯人がいつておれば盗まれたものに相違ない。」旨の盗難被害始末書は証拠能力が極めて乏しいものではあるが、被告人が証拠とすることに同意した場合には証拠能力がないということはできないから自白の補強証拠とすることができる。",
+  "ref_law": "刑訴法326条，憲法37条2項，憲法38条3項",
+  "lawsuit_id": "67605",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=67605",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/605/067605_hanrei.pdf"
+}

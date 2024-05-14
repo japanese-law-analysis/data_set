@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 2,
+    "day": 14
+  },
+  "case_number": "昭和43(オ)552",
+  "case_name": "求償金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第94号311頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和41(ネ)75",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 2,
+    "day": 29
+  },
+  "gist": "債務者に代位して債務者の権利を主張する訴を提起した債権者が右権利を譲り受けたうえ従前の訴を右権利を自己の権利として主張する訴に変更する手続をとつた場合と従前の訴の提起に基づく右権利の消滅時効中断の効果",
+  "case_gist": "債務者に代位して債務者の権利を主張する訴を提起した債権者が、その訴訟の係属中に債務者から右権利を譲り受けたうえ、従前の訴を右権利を自己の権利として主張する訴に変更する手続をとつた場合においても、訴訟物自体には変更がないから、従前の訴の取下の効果は発生せず、その訴の提起に基づく右権利の消滅時効中断の効果も消滅しない。",
+  "ref_law": "民法147条，民法149条，民法423条，民訴法232条，民訴法235条，民訴法237条",
+  "lawsuit_id": "70344",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70344",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/344/070344_hanrei.pdf"
+}

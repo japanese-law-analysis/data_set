@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 13,
+    "month": 11,
+    "day": 22
+  },
+  "case_number": "平成10(オ)989",
+  "case_name": "第三者異議事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第55巻6号1033頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成9(ネ)3117",
+  "original_date": {
+    "era": "Heisei",
+    "year": 10,
+    "month": 2,
+    "day": 5
+  },
+  "gist": "遺留分減殺請求権を債権者代位の目的とすることの可否",
+  "case_gist": "遺留分減殺請求権は，遺留分権利者が，これを第三者に譲渡するなど，権利行使の確定的意思を有することを外部に表明したと認められる特段の事情がある場合を除き，債権者代位の目的とすることができない。",
+  "ref_law": "民法423条1項，民法1031条",
+  "lawsuit_id": "52231",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52231",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/231/052231_hanrei.pdf"
+}

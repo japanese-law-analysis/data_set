@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 4,
+    "day": 15
+  },
+  "case_number": "昭和53(あ)1760",
+  "case_name": "爆発物取締罰則違反、殺人予備、兇器準備結集、兇器準備集合、強盗予備、公務執行妨害、建造物侵入、威力業務妨害",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第217号421頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 5,
+    "day": 31
+  },
+  "gist": "爆発物取締罰則四条等の違憲をいう主張が前提を欠くとされた事例―いわゆる赤軍派大菩薩峠事件―",
+  "ref_law": "憲法19条，憲法31条，憲法36条，爆発則4条",
+  "lawsuit_id": "60295",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60295",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/295/060295_hanrei.pdf"
+}

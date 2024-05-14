@@ -1,0 +1,20 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 6,
+    "day": 18
+  },
+  "case_number": "平成19(く)45",
+  "case_name": "証拠開示に関する裁定請求棄却決定に対する即時抗告",
+  "court_name": "札幌高等裁判所刑事部",
+  "result": "棄却",
+  "original_court_name": "札幌地方裁判所",
+  "original_result": "棄却",
+  "gist": "弁護人による主張関連証拠の開示命令を求める裁定請求を棄却した原決定に対する即時抗告を棄却した事例",
+  "lawsuit_id": "38730",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=38730",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/730/038730_hanrei.pdf",
+  "contents": ""
+}

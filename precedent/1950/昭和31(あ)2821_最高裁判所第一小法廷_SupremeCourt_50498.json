@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 4,
+    "day": 10
+  },
+  "case_number": "昭和31(あ)2821",
+  "case_name": "麻薬取締法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第12巻5号818頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 6,
+    "day": 18
+  },
+  "gist": "麻薬取締法第二四条第一項にいわゆる麻薬の譲渡にあたる事例",
+  "case_gist": "麻薬の売却斡旋方を依頼してこれを他人に引渡すがごときは、麻薬取締法第二四条第一項にいわゆる麻薬の譲渡にあたる",
+  "ref_law": "麻薬取締法24条1項，麻薬取締法12条1項",
+  "lawsuit_id": "50498",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50498",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/498/050498_hanrei.pdf"
+}

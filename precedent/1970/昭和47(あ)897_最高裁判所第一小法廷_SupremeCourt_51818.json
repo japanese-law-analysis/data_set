@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 3,
+    "day": 15
+  },
+  "case_number": "昭和47(あ)897",
+  "case_name": "道路交通法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "刑集　第27巻2号128頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 3,
+    "day": 22
+  },
+  "gist": "非反則行為として通告手続を経ないで起訴された事実が反則行為に該当するものと判明した場合と公訴提起の効力",
+  "case_gist": "非反則行為として通告手続を経ないで起訴された事実が、公判審理の結果反則行為に該当するもの判明した場合には、刑訴法三三八条四号により公訴を棄却すべきである。",
+  "ref_law": "道路交通法118条1項2号，道路交通法125条1項，道路交通法125条2項，道路交通法130条，道路交通法別表，道路交通法（昭和46年法律98号による改正前のもの）118条1項3号，道路交通法（昭和46年法律98号による改正前のもの）別表，刑訴法338条4号",
+  "lawsuit_id": "51818",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51818",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/818/051818_hanrei.pdf"
+}

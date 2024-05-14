@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 4,
+    "day": 20
+  },
+  "case_number": "昭和34(オ)206",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第16巻4号884頁",
+  "original_court_name": "福岡高等裁判所\n        　宮崎支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 12,
+    "day": 8
+  },
+  "gist": "白地手形の振出と認められた事例",
+  "case_gist": "組合代表者が約束手形用紙の振出人欄に当該組合の印を押捺しただけで、記名その他の手形記載事項全部を空白としたまま、これを受取人に交付した場合でも、右空白部分の補充を受取人に委託する意思であるときは、白地手形が振り出されたものとするのが相当である。",
+  "ref_law": "手形法10条",
+  "lawsuit_id": "57709",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57709",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/709/057709_hanrei.pdf"
+}

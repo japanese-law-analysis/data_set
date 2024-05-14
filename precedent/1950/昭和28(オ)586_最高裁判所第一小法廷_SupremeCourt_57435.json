@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 1,
+    "day": 31
+  },
+  "case_number": "昭和28(オ)586",
+  "case_name": "売掛代金請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第11巻1号161頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 3,
+    "day": 11
+  },
+  "gist": "自己名義をもつて薬局開設の登録申請をすることを他人に許容した者と商法第二三条の責任",
+  "case_gist": "他人の依頼に基き、自己名義をもつて薬局開設の登録申請をすることを他人に許容した者は、その登録がなくても、当該薬局の取引上の債務につき、商法第二三条による責任を負担するものと解すべきである。",
+  "ref_law": "商法23条",
+  "lawsuit_id": "57435",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57435",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/435/057435_hanrei.pdf"
+}

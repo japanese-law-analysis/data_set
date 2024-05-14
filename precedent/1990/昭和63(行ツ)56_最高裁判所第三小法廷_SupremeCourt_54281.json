@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 4,
+    "month": 12,
+    "day": 15
+  },
+  "case_number": "昭和63(行ツ)56",
+  "case_name": "酒類販売業免許拒否処分取消",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第46巻9号2829頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和54(行コ)37",
+  "original_date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 11,
+    "day": 26
+  },
+  "gist": "酒税法九条、一〇条一〇号と憲法二二条一項",
+  "case_gist": "酒税法九条、一〇条一〇号は、憲法二二条一項に違反しない。\n（補足意見及び反対意見がある。）",
+  "ref_law": "憲法22条1項，酒税法9条，酒税法10条10号",
+  "lawsuit_id": "54281",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54281",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/281/054281_hanrei.pdf"
+}

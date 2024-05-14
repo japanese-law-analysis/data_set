@@ -1,0 +1,16 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 29,
+    "month": 9,
+    "day": 25
+  },
+  "case_number": "平成27(ワ)8642",
+  "case_name": "地位確認等請求事件",
+  "court_name": "大阪地方裁判所第５民事部",
+  "gist": "傷害致死の公訴事実で起訴されて起訴休職中であった原告につき，起訴休職期間の上限を２年とする就業規則には合理性があり，起訴休職期間満了後に「雇用関係を維持しがたい場合」に当たるとしてされた原告に対する解雇は有効であるとして，原告の地位確認及び賃金等の請求が棄却され，当事者間に再雇用の合意があったとも認められないとして，原告の予備的な損害賠償請求も棄却された事例。",
+  "lawsuit_id": "87156",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=87156",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/156/087156_hanrei.pdf"
+}

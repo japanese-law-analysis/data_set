@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 10,
+    "day": 26
+  },
+  "case_number": "昭和37(あ)1221",
+  "case_name": "物価統制令違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第144号817頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 4,
+    "day": 23
+  },
+  "gist": "いわゆるダフヤの所為と物価統制令違反罪の成立。",
+  "case_gist": "いわゆるダフヤの所為が物価統制令第九条ノ二、第一三条ノ二第一項に該当することは、当裁判所の判例（昭和三二年（あ）第一〇三九号、同三六年二月二一日第三小法廷決定刑集一五巻二号三七八頁）とするところであるから、論旨は採用できない。\n\n（事実）\n一、被告人は昭和三五年二月二〇頃正当価格七二〇円の急行あかつき号三等上段寝台券一枚を不当に高価の額である一、三〇〇円で売渡し二、同年五月初頃正当価格七二〇円の急行銀河号三等上段寝台券一枚を不正に高価の額である一、三〇〇円で売り渡したものである。",
+  "ref_law": "物価統制令9条ノ2，物価統制令34条，物価統制令13条ノ2",
+  "lawsuit_id": "61347",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61347",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/347/061347_hanrei.pdf"
+}

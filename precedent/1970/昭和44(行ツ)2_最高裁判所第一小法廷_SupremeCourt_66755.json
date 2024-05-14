@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 7,
+    "day": 16
+  },
+  "case_number": "昭和44(行ツ)2",
+  "case_name": "市長選挙の選挙の効力に関する裁決取消並びに選挙無効",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第100号239頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和42(行ケ)6",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 9,
+    "day": 16
+  },
+  "gist": "選挙人にあらかじめ配布された入場券が住所不明として返戻された場合に当該選挙人であるとして入場券を持参しない者が投票に来たときの取扱い",
+  "case_gist": "選挙人にあらかじめ配布された入場券が住所不明として返戻された場合において、当該選挙人であるとして入場券を持参しない者が投票に来たときは、投票事務従事者において「その理由をただし」、また、本人であることの確認には生年月日の対照をもつてすることが、選挙事務の取扱いとして至当というべきであるが、これを欠いたからといつて、その取扱いがただちに選挙の規定に違反するものということはできない。\n\n（参照）\n\n　一審　福岡高裁昭和四三年九月一六日判決（行裁例集一九巻八・九号一四六三頁）",
+  "ref_law": "公職選挙法43条，公職選挙法施行令35条",
+  "lawsuit_id": "66755",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66755",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/755/066755_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 7,
+    "day": 14
+  },
+  "case_number": "昭和49(オ)1196",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第115号403頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和48(ネ)1516",
+  "original_date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 9,
+    "day": 19
+  },
+  "gist": "自動車損害賠償保障法施行規則二七条一項所定の請求書と損害の査定",
+  "case_gist": "政府が自動車損害賠償保障法七二条に基づき損害をてん補するにあたつては、被害者等の提出した同法施行規則二七条一項所定の請求書中に請求金額及びその算出基礎の記載がなくても、これに拘束されることなく、損害査定のうえそのてん補をすることを妨げない。",
+  "ref_law": "自動車損害賠償保障法72条，自動車損害賠償保障法施行規則27条1項",
+  "lawsuit_id": "62193",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62193",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/193/062193_hanrei.pdf"
+}

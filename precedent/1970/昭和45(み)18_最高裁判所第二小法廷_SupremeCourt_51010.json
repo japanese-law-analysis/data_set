@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 2,
+    "day": 3
+  },
+  "case_number": "昭和45(み)18",
+  "case_name": "判決訂正の申立",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第25巻1号1頁",
+  "original_court_name": "最高裁判所",
+  "original_case_number": "昭和43(あ)1445",
+  "original_date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 12,
+    "day": 18
+  },
+  "gist": "原判決をした小法廷を構成する裁判官の退官による定足数の不足と、その判決に対する訂正申立についての裁判をなすべき裁判所の構成",
+  "case_gist": "原判決をした小法廷を構成する裁判官が退官したため、右小法廷判決に対する判決訂正の申立について裁判しようとする時において、その定足数を欠くときは、新たに任命された裁判官を加えた小法廷で右訂正申立についての裁判をなすべきである。",
+  "ref_law": "刑訴法415条，刑訴法416条，刑訴規則270条，最高裁判所裁判事務処理規則2条2項",
+  "lawsuit_id": "51010",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51010",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/010/051010_hanrei.pdf"
+}

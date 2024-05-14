@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 2,
+    "day": 9
+  },
+  "case_number": "昭和23(れ)146",
+  "case_name": "殺人、住居侵入",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第3巻2号130頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 11,
+    "day": 5
+  },
+  "gist": "一　被告人の犯罪事實を認める供述と否認する供述についての採證の自由\n二　證據の採否についての理由判示の要否\n三　證人の警察における供述が公判廷における供述と相反する場合と採證の自由",
+  "case_gist": "一　被告人の犯罪事實を認める記述と否認する記述とがある場合にその何れを採るかは裁判官の自由心證に委ねられているところである。\n二　證據の採否について一々その理由を判示する必要はない。\n三　證人の警察における供述が公判廷における供述と相反する場合にその何れを採るかは一に裁判官の自由心證に委ねられているのである。公判廷の供述であるからと云つて必ずこれを採用しなければならないという法則はないのである。",
+  "ref_law": "舊刑訴法337條，舊刑訴法360條1項",
+  "lawsuit_id": "55293",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55293",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/293/055293_hanrei.pdf"
+}

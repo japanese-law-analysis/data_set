@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 9,
+    "day": 22
+  },
+  "case_number": "平成21(わ)25",
+  "case_name": "有印私文書偽造・同行使，詐欺被告事件",
+  "court_name": "仙台地方裁判所第2刑事部",
+  "gist": "売買契約書等を偽造・行使し，売却価格を偽って実際よりも低い価格で担保権を解除させ，その差額相当の財産上不法の利益を得たといういわゆる中抜き詐欺の事案において，被告人との共謀に関する共犯者らの供述の信用性に疑問があることなどから，被告人と共犯者らとの共謀が認められないとして無罪を言い渡した事例（確定）",
+  "lawsuit_id": "81011",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=81011",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/011/081011_hanrei.pdf",
+  "contents": ""
+}

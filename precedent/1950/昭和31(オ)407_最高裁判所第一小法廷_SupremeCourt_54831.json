@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 2,
+    "day": 5
+  },
+  "case_number": "昭和31(オ)407",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第13巻1号51頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 1,
+    "day": 30
+  },
+  "gist": "改造途中の工作物を賃借人が建物として完成させた場合の附合の成否",
+  "case_gist": "二階建アパートの階下の一画の区分所有権者が、これを賃貸の目的で改造するために取りこわし、柱および基礎工事等を残すだけの工作物とした上で、右工作物を、賃借人の負担で改造する約束で賃貸し、賃借人において約旨に従い建物として完成させた場合には、賃借人の工事により附加された物の附合により、右建物は工作物所有者の所有に帰したものと解すべきである。",
+  "ref_law": "民法242条，民法86条1項",
+  "lawsuit_id": "54831",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54831",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/831/054831_hanrei.pdf"
+}

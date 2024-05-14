@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 7,
+    "day": 18
+  },
+  "case_number": "昭和27(あ)1043",
+  "case_name": "詐欺、恐喝未遂、窃盗",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第85号69頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 11,
+    "day": 27
+  },
+  "gist": "前科が累犯加重されるには、後の罪につき、前の罪の執行終了時期から五年以内に有罪判決の言渡があつたことを要するか",
+  "case_gist": "前科が累犯加重の理由となるのは、前後の罪の刑がいずれも懲役刑であつて、前の罪の刑につき執行を終り又は執行の免除があつた日から五年以内にさらに後の罪を犯し懲役刑に処すべき場合であれば足りるのであり、後の罪につき右の五年以内に有罪判決の言渡があつたことを要するものでないと解するを相当とする。さればこの趣旨に出でた原判決は正当であつて、これと異なる所論は独自の見解を主張するに過ぎず、採用のかぎりでない（昭和二三年（れ）第九七九号同年一一月一一日第一小法廷判決、集二巻一二号一五一八頁参照。）",
+  "ref_law": "刑法56条1項",
+  "lawsuit_id": "64826",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64826",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/826/064826_hanrei.pdf"
+}

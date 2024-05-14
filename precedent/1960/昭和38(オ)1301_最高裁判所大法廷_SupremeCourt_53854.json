@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 11,
+    "day": 2
+  },
+  "case_number": "昭和38(オ)1301",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第20巻9号1674頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和37(ネ)1808",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 6,
+    "day": 24
+  },
+  "gist": "白地手形による訴提起と時効の中断",
+  "case_gist": "白地手形のまま手形金請求の訴を提起した場合でも、右訴提起の時に時効の中断があつたものと解すべきである。",
+  "ref_law": "手形法10条，手形法71条，民法149条",
+  "lawsuit_id": "53854",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53854",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/854/053854_hanrei.pdf"
+}

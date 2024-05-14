@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 8,
+    "day": 31
+  },
+  "case_number": "平成15(ワ)18664",
+  "case_name": "損害賠償請求",
+  "court_name": "東京地方裁判所民事第３４部",
+  "result": "棄却",
+  "gist": "テグレトールの服用後に全身に発疹が生じるなどしたため，被告病院を受診した患者が，約２０日後に死亡したことにつき，担当医師らにスティーブンス・ジョンソン症候群（ＳＪＳ）に対する適切な治療等を行うべき義務を怠った過失があるとは認められないとして，患者からの損害賠償請求が棄却された事例",
+  "lawsuit_id": "35091",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=35091",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/091/035091_hanrei.pdf",
+  "contents": ""
+}

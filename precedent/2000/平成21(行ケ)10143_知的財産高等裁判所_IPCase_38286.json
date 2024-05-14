@@ -1,0 +1,18 @@
+{
+  "trial_type": "IPCase",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 12,
+    "day": 21
+  },
+  "case_number": "平成21(行ケ)10143",
+  "case_name": "審決取消請求事件",
+  "court_name": "知的財産高等裁判所",
+  "right_type": "特許権",
+  "lawsuit_type": "行政訴訟",
+  "lawsuit_id": "38286",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail7?id=38286",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/286/038286_hanrei.pdf",
+  "contents": "Delphi Vol.15\nstring TIntStr\nWindows Delphi\nstring TIntStr\nstring result\nTIntStr Carry integer\ncalcResult\ncalcResult mod 10 string result\nstring index\nDelphi\nTIntStr Integer\nstring TIntStr\nstring index\nDelphi Object Pascal\nDelphi\nDelphi\nstring\nDelphi\nObject Pascal\nObject Pascal\nstring TIntStr\nstring index\nDelphi\nDelphi Microsoft Windows\nDelphi Object Pascal\nDelphi\nDelphi 2.0\nDelphi\nDelphi\nstring string Delphi 1.0\nASCII Delphi 2.0\nvar\nName: string 45 ;\nstring Delphi Object Pascal\nDelphi string\nstring\nlabel Edit\nstring string\nTIntStr\ntype\nTIntStr = string;\nstring\nDelphi\nObject Pascal string\nDelphi\ntype type\ntype\ntype\n= ;\nTNamae\ntype\nTNamae = String 20 ;\ntype Integer Real\nvar\nAoyamaHikari: TNamae;\nAoyamaHikari TNamae type\nString\ntype Delphi\nTIntStr\nTIntStr string TIntStr\nstring\nstring index\nstring index\nTIntStr string Intstr 3\nstring\nindex\nIntstr 3\nIntstr string\nindex Intstr 1 Intstr\n2 Intstr 3\nIntstr 1 Intstr n\nIntstr string index\nstring index\nstring index\nstring TIntStr\nDelphi\nDelphi\nTIntStr Integer\nTIntStr Integer\nTIntStr\nInt64 TIntStr TIntStr Int64\nInt64 Integer integer\nTIntStr\nInteger Integer\n64bit\n128bit 256bit... integer\nDelphi string\nDelphi string\nDelphi string\nTIntStr string Intstr 3\nstring\nindex\ngetdigit TIntStr Keta\nTdigit\nTdigit = 0..9;\nfunction getdigit N:TIntStr;Keta:integer :Tdigit;\nbegin\nif Keta length N or Keta 1 then result := 0\nelse result := StrToIntDef Copy N,length N -Keta+1,1 ,0 ;\nend;\nIntStrAddPositive\nIntStrDecPositive\nresult TIntStr =stirng =string\nresult := InttoStr calcResult mod 10 + result;\nfunction IntStrAddPositive N1, N2:TIntStr :TIntStr; N1+N2\nvar\ni,calcResult,N1Length,N2Length:integer;\nCarry:Tdigit;\nbegin\nresult := '';\nN1Length := length N1 ;\nN2Length := length N2 ;\nCarry := 0;\ni:=1;\nwhile i =N1Length or i =N2Length do\nbegin\ncalcResult := getdigit N1,i +getdigit N2,i + Carry;\nCarry := calcResult div 10;\nresult := InttoStr calcResult mod 10 + result;\nInc i ;\nend;\nif Carry 0 then result := Inttostr Carry + result;\nend;\nIntStrAddPositive N1, N2:TIntStr TIntStr N1 N2\nN1 N2 N1\nN2 TIntStr\nN1 N2\nDelphi\nDelphi\nStrToIntDef\nStringToIntDef StrToIntDef\nIntToStr\nDelphi\nDelphi string\nstring\nlabel Edit\nDelphi\nLabel\nEdit string\nstring\nDelphi Object Pascal\nDelphi Object\nPascal\nObject Pascal\nstring TIntStr\n"
+}

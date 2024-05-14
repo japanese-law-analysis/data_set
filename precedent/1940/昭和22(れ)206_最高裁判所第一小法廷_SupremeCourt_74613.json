@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 4,
+    "day": 8
+  },
+  "case_number": "昭和22(れ)206",
+  "case_name": "詐欺",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第1号611頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 9,
+    "day": 23
+  },
+  "gist": "連續犯たる數個の詐欺行爲事實の判示方法",
+  "case_gist": "連續一罪を構成する數個の詐欺の事實を判示するに當つては、必ずしも各個の犯罪行爲を逐一個別的に明確に説示することを要するものと言うことはできない。その行爲の内容の表示は、同一罪質を有する複數のものであることを理解し得べき程度に具體的になされるをもつて足るのである。すなわち、行爲の始期及び終期を明かにし、各個の行爲に共通する詐欺の手段、賍物、賍額その他を一括する等の方法をもつて數個の行爲を總括して表示すれば事足ると言うことができる。",
+  "ref_law": "刑法55條，刑訴法360條",
+  "lawsuit_id": "74613",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74613",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/613/074613_hanrei.pdf"
+}

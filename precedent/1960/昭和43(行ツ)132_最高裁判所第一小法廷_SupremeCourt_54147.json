@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 6,
+    "day": 26
+  },
+  "case_number": "昭和43(行ツ)132",
+  "case_name": "町議会議員当選無効の裁決取消請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第23巻7号1279頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和42(行ケ)9",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 9,
+    "day": 16
+  },
+  "gist": "混記の疑いのある投票が候補者の旧姓名を記載したものとして有効とされた事例",
+  "case_gist": "町議会議員選挙において、「Ｄ英雄」「Ｄ秀男」「Ｄ英男」「Ｄ英夫」および「Ｄ（平仮名）ひでお」と記載された投票は、候補者中にＤ八州男およびＤ寅一なる者がある場合においても、候補者Ｃ英男が、Ｄ部落においてＤ要の子として出生し、以後養子縁組により改姓するに至るまで二十余年間Ｄ姓を称し、また、要はもと町長を勤めた知名士で、候補者Ｃ英男はその子として知られている等原判示の事情（原判決理由参照）があるときは、これを同候補の旧姓名を記載したその有効得票と解すべきである。",
+  "ref_law": "公職選挙法68条",
+  "lawsuit_id": "54147",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54147",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/147/054147_hanrei.pdf",
+  "contents": ""
+}

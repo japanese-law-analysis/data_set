@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 6,
+    "day": 8
+  },
+  "case_number": "昭和41(オ)88",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第87号985頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和37(ネ)1955",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 10,
+    "day": 29
+  },
+  "gist": "差押令状による物件の差押えが違法でないとされた事例",
+  "case_gist": "「被疑者氏名、Ｄ外三名」、「罪名、賭博」、「検索すべき場所、甲府市ａ町ｂ番地麻雀荘ＥことＡ方居宅（含営業所）及附属建物」、「差押えるべき物、本件に関係ありと思料される帳簿、メモ、書類等」と記載された捜索差押令状によつて麻雀牌および計算棒を差し押えても、国家賠償法第一条第一項にいう違法な行為にあたらない。",
+  "ref_law": "国家賠償法1条1項，刑訴法219条，憲法35条",
+  "lawsuit_id": "70242",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70242",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/242/070242_hanrei.pdf"
+}

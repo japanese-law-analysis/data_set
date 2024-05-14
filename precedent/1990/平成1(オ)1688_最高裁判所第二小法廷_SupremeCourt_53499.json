@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 4,
+    "month": 11,
+    "day": 6
+  },
+  "case_number": "平成1(オ)1688",
+  "case_name": "不当利得返還",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第46巻8号2625頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "昭和63(ネ)11",
+  "original_date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 9,
+    "day": 18
+  },
+  "gist": "共同抵当権の目的不動産が同一の物上保証人の所有に属する場合と後順位抵当権者の代位",
+  "case_gist": "共同抵当権の目的たる甲・乙不動産が同一の物上保証人の所有に属する場合において、甲不動産の代価のみを配当するときは、甲不動産の後順位抵当権者は、民法三九二条二項後段の規定に基づき、先順位の共同抵当権者に代位して乙不動産に対する抵当権を行使することができる。",
+  "ref_law": "民法392条，民法500条，民法501条",
+  "lawsuit_id": "53499",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53499",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/499/053499_hanrei.pdf"
+}

@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 23,
+    "month": 6,
+    "day": 3
+  },
+  "case_number": "平成22(受)285",
+  "case_name": "土地所有権確認請求事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第237号9頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成20(ネ)5492",
+  "original_date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 10,
+    "day": 14
+  },
+  "gist": "土地を時効取得したと主張する者が，当該土地は所有者が不明であるから国庫に帰属していたとして，国に対し当該土地の所有権を有することの確認を求める訴えにつき，確認の利益を欠くとされた事例",
+  "case_gist": "表題部所有者の登記も所有権の登記もない土地を時効取得したと主張する者が，当該土地は所有者が不明であるから国庫に帰属していたとして，国に対し当該土地の所有権を有することの確認を求める訴えは，次の(1)〜(3)の事情の下では，確認の利益を欠く。\n(1)　国は，当該土地が国の所有に属していないことを自認している。\n(2)　国は，上記の者が主張する取得時効の起算点よりも前に当該土地の所有権を失った。\n(3)　上記の者において，当該土地につき自己を表題部所有者とする登記の申請をした上で保存登記の申請をする手続を尽くしたにもかかわらず所有名義を取得することができなかったなどの事情もうかがわれない。",
+  "ref_law": "民訴法134条，民法239条2項",
+  "lawsuit_id": "81374",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=81374",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/374/081374_hanrei.pdf",
+  "contents": ""
+}

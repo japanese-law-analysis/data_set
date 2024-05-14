@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 11,
+    "day": 13
+  },
+  "case_number": "昭和56(オ)313",
+  "case_name": "保険金",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第134号209頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和55(ネ)663",
+  "original_date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 12,
+    "day": 23
+  },
+  "gist": "材料置場における荷降ろし作業中の人身事故が自動車損害賠償保障法三条にいう自動車の「運行によつて」生じたものとはいえないとされた事例",
+  "case_gist": "運転者が、古電柱を積載した自動車を国道に面する材料置場に駐車させ、同乗していた作業員とともに、昼食をとり、更に約一時間休憩したのち、右古電柱の荷降ろし作業を開始した等の原判示の事実関係のもとにおいては、右作業中に荷台から古電柱が落下して作業員が死亡した事故は、自動車損害賠償保障法三条にいう自動車の「運行によつて」生じたものとはいえない。",
+  "ref_law": "自動車損害賠償保障法3条",
+  "lawsuit_id": "66889",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66889",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/889/066889_hanrei.pdf"
+}

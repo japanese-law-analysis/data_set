@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 7,
+    "day": 10
+  },
+  "case_number": "平成19(ネ)85",
+  "case_name": "損害賠償請求控訴事件",
+  "court_name": "札幌高等裁判所第２民事部",
+  "result": "破棄自判",
+  "original_court_name": "札幌地方裁判所",
+  "original_case_number": "平成12(ワ)529",
+  "original_result": "その他",
+  "gist": "パチンコ業者がパチンコ店の出店を計画していたところ，地元のパチンコ業者らが近くに児童遊園を設置して社会福祉法人にこれを寄附したため，パチンコ店開業に必要な風営法上の許可を得ることができなくなった。本件は，被控訴人であるパチンコ業者が，控訴人である地元のパチンコ業者ら及び社会福祉法人に対して，共同不法行為に基づき，上記不許可により被った損害の賠償を求めた事案である。差戻前控訴審判決は，被控訴人の請求を認容した一審判決を取り消してこれを棄却したが，上告審は，地元パチンコ業者らは風営法の規制を利用して被控訴人のパチンコ店開業を妨害し，その営業の自由を侵害したから不法行為を構成するとして，差戻前控訴審判決を破棄して差し戻した。差戻審である当審は，寄附の準備行為が出店計画の相当前から行われていたなど，上告審が前提とした差戻前控訴審の確定した事実関係と異なる事実関係を認定した上で，上記寄附は違法とはいえないとし，差戻前控訴審判決と同一の結論に達した。",
+  "lawsuit_id": "37901",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=37901",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/901/037901_hanrei.pdf",
+  "contents": "C\nC C C C\nC\nC C\nac d e\n4 ab f g\nh\nab i j k l m n o p q\nr s ac t u v w x y z d\ne f g\n12 10\na\n289,260,000 18.2559 5,280,700,000\n1,2\na\na\na\na\na a\na\nH\na\na\na\na\na\na a\n"
+}

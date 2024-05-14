@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 9,
+    "day": 30
+  },
+  "case_number": "昭和28(あ)4975",
+  "case_name": "横領",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第8巻9号1561頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 10,
+    "day": 21
+  },
+  "gist": "前刑の確定判決に違法のある場合と累犯加重",
+  "case_gist": "所論前刑の判決は確定し刑の執行を終つたことは、記録上明らかである。右判決に所論のような違法があつたとしても、判決が確定した場合においては、その刑の執行を終つた日から五年内に更に罪を犯し有期懲役に処すべきときは、刑法五六条一項の再犯として取扱うべきは当然であるから、原判決には何等の違法はない。―註、少年に対し定期刑を言い渡した違法を指す。",
+  "ref_law": "刑法56条1項",
+  "lawsuit_id": "55743",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55743",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/743/055743_hanrei.pdf"
+}

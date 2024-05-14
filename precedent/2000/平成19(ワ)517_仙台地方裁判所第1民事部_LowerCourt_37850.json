@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 6,
+    "day": 26
+  },
+  "case_number": "平成19(ワ)517",
+  "case_name": "損害賠償請求事件",
+  "court_name": "仙台地方裁判所第1民事部",
+  "gist": "利用者が，ごみ収集車にごみを積み込んでいるときに，回転板に右腕を巻き込まれる事故に遭ったのは，自分で回転板を操作したことによる自損事故であるが，そばにいた従業員にも利用者が積込みをするのを制止しなかった過失があるとして，その使用者に民法７１５条，７０９条に基づく損害賠償責任が認められた事例",
+  "lawsuit_id": "37850",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=37850",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/850/037850_hanrei.pdf",
+  "contents": ""
+}

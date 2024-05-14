@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 12,
+    "day": 20
+  },
+  "case_number": "昭和29(あ)62",
+  "case_name": "傷害致死",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第9巻14号2899頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 11,
+    "day": 25
+  },
+  "gist": "刑訴附則（昭和二八年法律第一七二号により改正されたもの）第六項の規定と憲法第一四条および第三二条",
+  "case_gist": "刑訴附則（昭和二八年法律第一七二号により改正されたもの）第六項の規定は、憲法第一四条および第三二条に違反しない。",
+  "ref_law": "憲法14条，憲法32条，刑訴法（昭和28年法律172号による改正前及び改正後のもの）393条，刑訴法附則（昭和28年法律172号による改正されたもの）6項",
+  "lawsuit_id": "56929",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56929",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/929/056929_hanrei.pdf"
+}

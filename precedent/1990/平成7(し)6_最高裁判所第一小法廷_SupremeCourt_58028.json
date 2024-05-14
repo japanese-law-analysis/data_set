@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 7,
+    "month": 2,
+    "day": 13
+  },
+  "case_number": "平成7(し)6",
+  "case_name": "保護処分取消し事件についてした抗告棄却決定に対する再抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第265号3頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 6,
+    "month": 12,
+    "day": 26
+  },
+  "gist": "保護処分執行終了後の保護処分の取消しに関する再抗告は，不服申立ての利益を欠く（いわゆる山形マット死事件の保護処分取消し申立事件）",
+  "ref_law": "少年法27条の2第1項",
+  "lawsuit_id": "58028",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58028",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/028/058028_hanrei.pdf"
+}

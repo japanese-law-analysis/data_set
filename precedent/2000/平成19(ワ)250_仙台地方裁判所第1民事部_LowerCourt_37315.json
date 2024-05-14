@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 1,
+    "day": 27
+  },
+  "case_number": "平成19(ワ)250",
+  "case_name": "損害賠償請求事件",
+  "court_name": "仙台地方裁判所第1民事部",
+  "gist": "担当医師には，急性胆管炎にり患していた患者に，速やかに保存的治療，経皮経肝的胆管ドレナージを行わなかった過失が認められるが，速やかにこれらの治療をしていたならば救命できた高度の蓋然性があるとはいえないとして，医療水準に基づいた適切な医療を受けられなかったことによる慰謝料の支払が命じられた事例",
+  "lawsuit_id": "37315",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=37315",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/315/037315_hanrei.pdf",
+  "contents": "retrospective\n2 3 4\n2 1\n"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 12,
+    "day": 23
+  },
+  "case_number": "昭和50(オ)203",
+  "case_name": "執行文付与に対する異議",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第122号581頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和49(ネ)892",
+  "original_date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 10,
+    "day": 29
+  },
+  "gist": "土地所有権に基づき建物収去土地明渡を命ずる確定判決の基礎となつた口頭弁論の終結後に建物の所有権を取得した者がその終結前に経由した所有権移転仮登記に基づく本登記を経由した場合と口頭弁論終結後の承継人",
+  "case_gist": "土地所有権に基づき建物収去土地明渡を命ずる確定判決の基礎となつた事実審口頭弁論の終結後に債務者から建物の所有権を取得した者は、その終結前に経由していた所有権移転仮登記に基づく本登記を経由した場合であつても、仮登記の時にさかのぼつて被告適格を承継するものではなく、口頭弁論終結後の承継人にあたる。",
+  "ref_law": "民法176条，民法177条，不動産登記法7条2項，民訴法201条1項",
+  "lawsuit_id": "64091",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64091",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/091/064091_hanrei.pdf"
+}

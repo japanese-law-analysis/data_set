@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 3,
+    "day": 25
+  },
+  "case_number": "昭和48(オ)403",
+  "case_name": "土地建物明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第31巻2号320頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和44(ネ)1145",
+  "original_date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 1,
+    "day": 25
+  },
+  "gist": "いわゆる根仮登記担保権の極度額",
+  "case_gist": "一定の継続的取引から発生する不特定の債権を担保するためのいわゆる根仮登記担保権の極度額は、設定契約上、特段の定めがない場合には、目的不動産の適正な評価額をその額とした趣旨であると解すべきであり、このことは、特段の事情がない限り、根仮登記担保権が根抵当権と併用された場合でも異ならない。",
+  "ref_law": "民法398条ノ2，民法482条，不動産登記法2条",
+  "lawsuit_id": "56317",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56317",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/317/056317_hanrei.pdf"
+}

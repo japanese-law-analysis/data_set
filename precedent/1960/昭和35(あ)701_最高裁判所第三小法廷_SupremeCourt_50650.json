@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 7,
+    "day": 25
+  },
+  "case_number": "昭和35(あ)701",
+  "case_name": "贈賄、業務、上横領",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第15巻7号1216頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 2,
+    "day": 25
+  },
+  "gist": "一　農林漁業金融公庫法第一七条、第一九条第二項の各規定の合憲性。\n二　刑訴法第四一一条第一号にあたらない事例。",
+  "case_gist": "一　農林漁業金融公庫法第一七条、第一九条第二項の各規定は憲法第一四条第一項に違反しない。\n二　農林中央金庫の職員に対し贈賄した行為に対する法令の適用として刑法第一九八条が掲げられている以上、農林漁業金融公庫法第一九条第二項の規定によるべき場合に、誤つて、同法第一七条を表示したとしても、刑訴第四一一条第一号にいわゆる判決に影響を及ぼす違法があるとはいえない。",
+  "ref_law": "憲法14条1項，農林漁業金融公庫法17条，農林漁業金融公庫法19条2項，刑法198条，刑訴法411条1号",
+  "lawsuit_id": "50650",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50650",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/650/050650_hanrei.pdf"
+}

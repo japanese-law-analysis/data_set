@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 12,
+    "day": 20
+  },
+  "case_number": "昭和31(オ)754",
+  "case_name": "和解無効確認請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第24号529頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 5,
+    "day": 28
+  },
+  "lawsuit_id": "77466",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77466",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/466/077466_hanrei.pdf"
+}

@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 7,
+    "day": 16
+  },
+  "case_number": "平成20(わ)2165",
+  "case_name": "詐欺被告事件",
+  "court_name": "大阪地方裁判所第２刑事部",
+  "gist": "著名な刑事弁護士であった被告人が，刑事事件の相談のため被告人のもとを訪れた被害者に対し，事件をうまく処理するために，被害者が管理している現金をしばらくの間被告人の下で預かり，確実に保管した上返還する旨の嘘を述べて，被害者から９０００万円をだまし取った詐欺の事案について，同現金は成功報酬の担保として受け取ったものであったとの弁護人の主張を認めず，懲役３年の判決が言い渡された事例",
+  "lawsuit_id": "37941",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=37941",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/941/037941_hanrei.pdf",
+  "contents": ""
+}

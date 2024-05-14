@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 2,
+    "day": 2
+  },
+  "case_number": "昭和35(オ)707",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第58号505頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 3,
+    "day": 21
+  },
+  "gist": "延滞家賃の支払催告をなし更にその二日後に解除の意思表示をした場合に相当期間を定めた催告があつたと認められなかつた事例",
+  "case_gist": "一七カ月分の延滞家賃の支払の催告書が賃借人に到達した二日後に賃貸借解除の意思表示が到達するなど原審認定の諸事情のもとでは、右催告は、民法第五四一条にいう相当期間を定めてなされたものとは解せられない。",
+  "ref_law": "民法541条",
+  "lawsuit_id": "63614",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63614",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/614/063614_hanrei.pdf"
+}

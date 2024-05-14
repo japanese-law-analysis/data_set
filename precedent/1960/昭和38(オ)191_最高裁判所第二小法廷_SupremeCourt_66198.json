@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 6,
+    "day": 26
+  },
+  "case_number": "昭和38(オ)191",
+  "case_name": "必要費償還請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第74号297頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 11,
+    "day": 14
+  },
+  "gist": "家屋賃借人において修繕義務を負う特約がある場合の大修繕。",
+  "case_gist": "家屋賃借人において修繕義務を負う特約がある場合でも大修繕は特別の事情のない限り賃借人において負担する義務がないと、一般的にいうことはできない。",
+  "ref_law": "民法606条",
+  "lawsuit_id": "66198",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66198",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/198/066198_hanrei.pdf"
+}

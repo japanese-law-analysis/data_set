@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 1,
+    "day": 31
+  },
+  "case_number": "昭和28(あ)4721",
+  "case_name": "関税法違反、同幇助",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第11巻1号405頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 9,
+    "day": 24
+  },
+  "gist": "関税法（昭和二五年四月三〇日法律第一一七号による改正前のもの）第八三条第三項の法意",
+  "case_gist": "関税法（昭和二五年四月三〇日法律第一一七号による改正前のもの）第八三条第三項の規定による追徴は、同法第七六条の密輸出の幇助をした者に対しても、「犯罪ニ係ル貨物又ハ其ノ犯罪行為ノ用ニ供シタル船舶」の原価または価額に相当する金額の全額につき言渡すことができる。",
+  "ref_law": "関税法（昭和25年4月30日法律117号による改正前のもの）83条，関税法（昭和25年4月30日法律117号による改正前のもの）76条",
+  "lawsuit_id": "51294",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51294",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/294/051294_hanrei.pdf"
+}

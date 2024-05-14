@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 6,
+    "day": 26
+  },
+  "case_number": "昭和26(あ)1777",
+  "case_name": "傷害、恐喝",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第6巻6号860頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 10,
+    "day": 28
+  },
+  "gist": "証拠書類にあたる書面",
+  "case_gist": "司法警察員又は検察官作成の被害者の供述調書、被害者の被害届、被害者に対する医師の診断書、司法警察員作成の被告人の供述調書、被告人の前科調書等は、単にこれらの書面の意義が証拠となるだけで、その存在や状態が証拠となるものでない場合、「証拠書類」であつて、「書面の意義が証拠となる証拠物」ではない。",
+  "ref_law": "刑訴法305条，刑訴法306条，刑訴法307条",
+  "lawsuit_id": "54586",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54586",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/586/054586_hanrei.pdf"
+}

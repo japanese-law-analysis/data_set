@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 11,
+    "day": 15
+  },
+  "case_number": "昭和48(オ)318",
+  "case_name": "離婚等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第27巻10号1323頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和47(ネ)181",
+  "original_date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 12,
+    "day": 23
+  },
+  "gist": "民法七七〇条一項一号の不貞な行為の意義",
+  "case_gist": "民法七七〇条一項一号の不貞な行為とは、配偶者のある者が、自由な意思にもとづいて、配偶者以外の者と性的関係を結ぶことをいい、相手方の自由な意思にもとづくものであるか否かは問わない。",
+  "ref_law": "民法770条1項1号",
+  "lawsuit_id": "52108",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52108",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/108/052108_hanrei.pdf"
+}

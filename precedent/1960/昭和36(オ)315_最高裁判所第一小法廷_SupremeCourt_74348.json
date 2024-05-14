@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 1,
+    "day": 30
+  },
+  "case_number": "昭和36(オ)315",
+  "case_name": "共有権確認並びに所有権移転登記抹消登記請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集民　第71号499頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 10,
+    "day": 31
+  },
+  "gist": "一　共同相続人の一人が勝手にした単独所有の登記の他の共同相続人に対する効力\n二　共有持分に基づく登記抹消請求の許否",
+  "case_gist": "一　甲乙両名が共同相続した不動産につき乙が勝手に単独所有権取得の登記をし、さらに第三取得者丙が乙から移転登記をうけた場合、甲は乙丙に対し自己の持分を登記なくして対抗できる。\n二　右の場合、甲が乙丙に対し請求できるのは、甲の持分についてのみの一部抹消（更正）登記手続であつて、各登記の全部抹消を求めることは許されない。",
+  "ref_law": "民法177条，民法249条，不動産登記法63条",
+  "lawsuit_id": "74348",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74348",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/348/074348_hanrei.pdf"
+}

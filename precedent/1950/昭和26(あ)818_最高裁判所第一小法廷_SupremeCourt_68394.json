@@ -1,0 +1,24 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 9,
+    "day": 27
+  },
+  "case_number": "昭和26(あ)818",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第53号723頁",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 12,
+    "day": 23
+  },
+  "lawsuit_id": "68394",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=68394",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/394/068394_hanrei.pdf"
+}

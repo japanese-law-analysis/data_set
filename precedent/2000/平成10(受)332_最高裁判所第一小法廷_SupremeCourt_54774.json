@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 12,
+    "month": 9,
+    "day": 7
+  },
+  "case_number": "平成10(受)332",
+  "case_name": "著作権侵害差止等請求本訴、同反訴事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第54巻7号2481頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成9(ネ)1927",
+  "original_date": {
+    "era": "Heisei",
+    "year": 10,
+    "month": 7,
+    "day": 17
+  },
+  "gist": "印刷用書体の著作物性",
+  "case_gist": "印刷用書体が著作権法二条一項一号にいう著作物に該当するためには、従来の印刷用書体に比して顕著な特徴を有するといった独創性及びそれ自体が美術鑑賞の対象となり得る美的特性を備えていなければならない。",
+  "ref_law": "著作権法2条1項1号，著作権法2条2項，著作権法10条1項4号",
+  "lawsuit_id": "54774",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54774",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/774/054774_hanrei.pdf"
+}

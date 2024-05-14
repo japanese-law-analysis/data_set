@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 3,
+    "day": 7
+  },
+  "case_number": "昭和31(オ)61",
+  "case_name": "地方自治法に基く警察予算支出禁止",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第16巻3号445頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 8,
+    "day": 9
+  },
+  "gist": "一　地方公共団体の議会の議決と地方自治法第二四三条の二第四項の訴訟\n二　法令審査権と国会の両院における法律制定の議事手続\n三　市町村警察を廃止しその事務を都道府県警察に移した昭和二九年法律第一六二号警察法は、憲法第九二条に違反するか",
+  "case_gist": "一　地方公共団体の議会の議決があつた公金の支出についても、地方自治法第二四三条の二第四項の訴訟によりその禁止、制限等を求めることができる。\n二　裁判所の法令審査権は、国会の両院における法律制定の議事手続の適否には及ばないと解すべきである。\n三　市町村警察を廃止しその事務を都道府県警察に移した昭和二九年法律第一六二号警察法は、憲法第九二条に違反するものではない。",
+  "ref_law": "地方自治法243条の2，憲法59条，憲法81条，憲法92条，旧警察法（昭和22年法律196号）40条，警察法（昭和29年法律162号）36条",
+  "lawsuit_id": "56210",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56210",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/210/056210_hanrei.pdf"
+}

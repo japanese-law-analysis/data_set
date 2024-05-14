@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 7,
+    "day": 8
+  },
+  "case_number": "昭和26(あ)2776",
+  "case_name": "関税法違反、同幇助",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第7巻7号1462頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 4,
+    "day": 10
+  },
+  "gist": "一　被告人の容貌体格を証拠とすることができるか\n二　公判廷における右証拠の取調方法",
+  "case_gist": "一　被告人の容貌体格は、被告人と犯人の同一性を証明するための証拠とすることできる。\n二　公判廷で被告人の容貌体格を取り調べるのは検証の性質を有するが、特段の方法を用いる必要がなくかつ被告人に証拠の証明力を争う機会が与えられていたような場合には、特段の証拠調手続を履践する必要がない。",
+  "ref_law": "刑訴法306条，刑訴法128条，刑訴法308条，刑訴規則44条1項23号",
+  "lawsuit_id": "53420",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53420",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/420/053420_hanrei.pdf"
+}

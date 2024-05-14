@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 4,
+    "day": 23
+  },
+  "case_number": "昭和23(れ)1805",
+  "case_name": "詐欺",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第3巻5号621頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 10,
+    "day": 11
+  },
+  "gist": "刑法第五六條の「五年内ニ更ニ罪ヲ犯シ」の意義",
+  "case_gist": "しかし刑法第五六條に「五年内ニ更ニ罪ヲ犯シ」とあるのは五年の期間内に犯罪の着手があればよいので、その終了の時を標準とすべきものではない。そしてその犯罪が所論のような連続犯であつても連続犯の性質上その解釋を異にする理由がない。",
+  "ref_law": "刑法56條",
+  "lawsuit_id": "55323",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55323",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/323/055323_hanrei.pdf"
+}

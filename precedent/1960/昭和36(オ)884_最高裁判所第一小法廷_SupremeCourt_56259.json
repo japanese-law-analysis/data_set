@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 1,
+    "day": 23
+  },
+  "case_number": "昭和36(オ)884",
+  "case_name": "詐害行為取消請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第18巻1号87頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 3,
+    "day": 31
+  },
+  "gist": "商法第一四一条と民法第四二四条の関係。",
+  "case_gist": "商法第一四一条の適用または準用ある会社についての詐害設立取消には、民法第四二四条を適用する余地はない。",
+  "ref_law": "商法141条，有限会社法75条1項，民法424条",
+  "lawsuit_id": "56259",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56259",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/259/056259_hanrei.pdf"
+}

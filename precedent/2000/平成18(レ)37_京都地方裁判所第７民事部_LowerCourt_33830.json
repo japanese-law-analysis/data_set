@@ -1,0 +1,20 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 11,
+    "day": 8
+  },
+  "case_number": "平成18(レ)37",
+  "case_name": "敷金返還請求控訴事件",
+  "court_name": "京都地方裁判所第７民事部",
+  "result": "棄却",
+  "original_court_name": "木津簡易裁判所",
+  "original_case_number": "平成17(ハ)170",
+  "gist": "いわゆる敷引特約が消費者契約法１０条により無効とされた事例",
+  "lawsuit_id": "33830",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=33830",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/830/033830_hanrei.pdf",
+  "contents": ""
+}

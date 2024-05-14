@@ -1,0 +1,15 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 31,
+    "month": 3,
+    "day": 22
+  },
+  "case_number": "平成29(ワ)131",
+  "case_name": "損害賠償請求事件",
+  "court_name": "鳥取地方裁判所",
+  "lawsuit_id": "88625",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=88625",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/625/088625_hanrei.pdf"
+}

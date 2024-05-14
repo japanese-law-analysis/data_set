@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 12,
+    "day": 17
+  },
+  "case_number": "昭和44(あ)2266",
+  "case_name": "実用新案法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第24巻13号1765頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 9,
+    "day": 25
+  },
+  "gist": "刑訴法二三五条一項にいう「犯人を知つた日」の意義",
+  "case_gist": "刑訴法二三五条一項にいう「犯人を知つた日」とは、犯罪行為終了後の日を指すものであり、告訴権者が犯罪の継続中に犯人を知つたとしても、その日を親告罪における告訴の起算日とすることはできない。",
+  "ref_law": "刑訴法235条1項",
+  "lawsuit_id": "50953",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50953",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/953/050953_hanrei.pdf"
+}

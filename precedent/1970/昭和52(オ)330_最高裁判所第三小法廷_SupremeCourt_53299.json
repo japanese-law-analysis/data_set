@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 12,
+    "day": 6
+  },
+  "case_number": "昭和52(オ)330",
+  "case_name": "別段預金債権",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第31巻7号961頁",
+  "original_court_name": "仙台高等裁判所\n        　秋田支部",
+  "original_case_number": "昭和51(ネ)81",
+  "original_date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 1,
+    "day": 19
+  },
+  "gist": "破産法一〇四条二号の規定に違反してされた相殺を有効とする破産管財人と破産債権者との合意の効力",
+  "case_gist": "破産法一〇四条二号の規定に違反してされた相殺を有効とする合意は、破産管財人と破産債権者との間でされた場合であつても、特段の事情のない限り無効である。",
+  "ref_law": "破産法104条",
+  "lawsuit_id": "53299",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53299",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/299/053299_hanrei.pdf"
+}

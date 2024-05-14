@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 17,
+    "month": 10,
+    "day": 24
+  },
+  "case_number": "平成17(し)406",
+  "case_name": "勾留理由開示の期日調書の謄写を許可しないとの裁判に対する準抗告棄却決定に対する特別抗告事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第59巻8号1442頁",
+  "original_court_name": "新潟地方裁判所",
+  "original_case_number": "平成17(む)56",
+  "original_date": {
+    "era": "Heisei",
+    "year": 17,
+    "month": 10,
+    "day": 6
+  },
+  "gist": "公訴提起後第１回公判期日前に弁護人が申請した起訴前の勾留理由開示の期日調書の謄写を許可しなかった裁判官の処分に対する不服申立て",
+  "case_gist": "公訴提起後第１回公判期日前に弁護人が申請した起訴前の勾留理由開示の期日調書の謄写について裁判官が刑訴法４０条１項に準じて行った不許可処分に対しては，同法４２９条１項２号による準抗告を申し立てることはできず，同法３０９条２項により異議を申し立てることができる。",
+  "ref_law": "刑訴法40条1項，刑訴法280条1項，3項，刑訴法309条2項，刑訴法429条1項2号，刑訴規則86条",
+  "lawsuit_id": "50102",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50102",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/102/050102_hanrei.pdf"
+}

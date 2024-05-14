@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 4,
+    "day": 16
+  },
+  "case_number": "昭和29(あ)3921",
+  "case_name": "関税法違反、昭和二五年政令第三二五号違反",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "刑集　第12巻6号923頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 11,
+    "day": 19
+  },
+  "gist": "密輸出行為の用に供した船舶が全然別の事件のため没収の言渡がされ、その執行を終つた場合と、右船舶の価額を本事件の被告人から追徴することの適否",
+  "case_gist": "別事件である乙の関税法違反被告事件の証拠物として押収中の船舶を検察庁から一時借受けた甲が、右船舶を密輸出行為の用に供したため、更に押収されたところ、別事件の乙に対し右船舶を没収する旨の有罪判決が確定し、その執行として検察官は右船舶を売却処分に付し、その売却代金を国の歳入に組み入れ没収の執行を終つたときは、被告人甲に対しては、右船舶の価額を追徴することは許されない",
+  "ref_law": "旧関税法（明治32年法律61号―昭和23年法律107号により改正のもの）83条",
+  "lawsuit_id": "50428",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50428",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/428/050428_hanrei.pdf"
+}

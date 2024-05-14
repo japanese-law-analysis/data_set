@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 9,
+    "day": 28
+  },
+  "case_number": "昭和28(オ)474",
+  "case_name": "売買前渡金返還、損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第10巻9号1197頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 3,
+    "day": 18
+  },
+  "gist": "請求の基礎に変更のない事例",
+  "case_gist": "売買代金前渡金一〇万円の残金七万円の返還請求を、前渡金残金五万円と別途貸金二万円の支払請求に変更した場合、その変更が、始め被告の弁済金五万円を、三万円前渡金に、二万円別途貸金に合意充当したものと主張し、後に五万円全額前渡金に合意充当した旨主張を改めたことによるものであるときは、貸金請求の追加についても、請求の基礎に変更はない。",
+  "ref_law": "民訴法232条",
+  "lawsuit_id": "57429",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57429",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/429/057429_hanrei.pdf"
+}

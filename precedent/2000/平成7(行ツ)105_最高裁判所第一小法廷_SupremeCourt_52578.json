@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 12,
+    "month": 1,
+    "day": 27
+  },
+  "case_number": "平成7(行ツ)105",
+  "case_name": "審決取消請求事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第54巻1号69頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成2(行ケ)49",
+  "original_date": {
+    "era": "Heisei",
+    "year": 7,
+    "month": 2,
+    "day": 8
+  },
+  "gist": "甲無効審判請求がされた後に当該特許について同一の事実及び同一の証拠に基づく乙無効審判請求が成り立たない旨の確定審決の登録がされた場合における甲無効審判請求の帰すう",
+  "case_gist": "甲無効審判請求がされた後に当該特許について同一の事実及び同一の証拠に基づく乙無効審判請求が成り立たない旨の確定審決の登録がされたとしても、甲無効審判請求が不適法となるものではない。",
+  "ref_law": "特許法167条",
+  "lawsuit_id": "52578",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52578",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/578/052578_hanrei.pdf"
+}

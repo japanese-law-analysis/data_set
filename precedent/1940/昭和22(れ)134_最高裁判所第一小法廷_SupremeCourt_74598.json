@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 12,
+    "day": 10
+  },
+  "case_number": "昭和22(れ)134",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第1号193頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 9,
+    "day": 6
+  },
+  "gist": "舊憲法時代の前科と累犯加重",
+  "case_gist": "舊憲法時代の前科がある場合、この事實を認定して累犯の加重をすることは正當である。",
+  "ref_law": "刑法56條，刑法57條",
+  "lawsuit_id": "74598",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74598",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/598/074598_hanrei.pdf"
+}

@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 5,
+    "day": 7
+  },
+  "case_number": "平成20(わ)365",
+  "case_name": "殺人被告事件",
+  "court_name": "仙台地方裁判所第1刑事部",
+  "gist": "殺人被告事件につき，被告人に責任能力があったとするには合理的な疑いが残るとして被告人を無罪にした事案",
+  "lawsuit_id": "37671",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=37671",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/671/037671_hanrei.pdf",
+  "contents": ""
+}

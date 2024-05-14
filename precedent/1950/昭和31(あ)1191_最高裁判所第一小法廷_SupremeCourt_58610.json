@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 4,
+    "day": 18
+  },
+  "case_number": "昭和31(あ)1191",
+  "case_name": "物品税法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第118号919頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 3,
+    "day": 3
+  },
+  "gist": "蓄音器、ラジオ聴取機の部分品を材料として蓄音器、ラジオ聴取機を製造する者と物品税の納付義務",
+  "case_gist": "蓄音器、ラジオ聴取機の部分品を材料として蓄音器、ラジオ聴取機を製造する者は、物品税法第一二条に規定する原料免税の方法をとらないかぎり、製造場より移出される当該完成品の価格に応じ、同法所定の物品税を納付する義務を免れない。",
+  "ref_law": "物品税法4条，物品税法12条，物品税法施行規則22条の2，物品税施行規則24条",
+  "lawsuit_id": "58610",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58610",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/610/058610_hanrei.pdf"
+}

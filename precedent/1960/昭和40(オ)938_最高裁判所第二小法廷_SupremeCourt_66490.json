@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 9,
+    "day": 16
+  },
+  "case_number": "昭和40(オ)938",
+  "case_name": "債務不存在確認控訴、同反訴請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第84号391頁",
+  "original_court_name": "広島高等裁判所",
+  "original_case_number": "昭和38(ネ)115",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 6,
+    "day": 2
+  },
+  "gist": "市長に手形振出の権限があると信ずべき正当の理由があるといえないとされた事例",
+  "case_gist": "市長が無期限で振り出した約束手形の受取人が、該手形につき単に市長に確かめただけで、市の予算の執行としてまたは市議会の議決を経たうえで右手形が振り出されたものか否か等につき調査をしなかつた場合には、右受取人には過失があるというべきであるから、民法第一一〇条所定の権限があると信ずべき正当の理由があるとはいえない。",
+  "ref_law": "民法110条，地方自治法（昭和38年法律99号による改正前）96条，地方自治法（昭和38年法律99号による改正前）239条の2",
+  "lawsuit_id": "66490",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66490",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/490/066490_hanrei.pdf"
+}

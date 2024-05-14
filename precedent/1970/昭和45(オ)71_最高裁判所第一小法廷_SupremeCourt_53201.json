@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 11,
+    "day": 12
+  },
+  "case_number": "昭和45(オ)71",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第24巻12号1901頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和44(ネ)1222",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 11,
+    "day": 19
+  },
+  "gist": "取締役会の決議により株主に新株引受権を付与するにあたり株式申込の際に払込金額と同額の申込証拠金を添えることを要する等の条件を定めることは許されるか",
+  "case_gist": "株式会社が、取締役会の決議により株主に新株引受権を付与するにあたり、株主が新株引受権を行使する条件として、右会社の資金計画を予定どおり達成するための手続を行なうに必要最少限度の期間を見込み、払込期日よりも若干前の日を申込期間の末日としたうえ、株式申込の際に払込金額と同額の申込証拠金を添えることを要することと定め、かつ、その申込証拠金が払込期日に払込金に充当されるまでの期間中これに利息をつけない旨を定めることは許される。",
+  "ref_law": "商法280条ノ2，商法280条ノ4，商法280条ノ5，商法280条ノ7，商法280条ノ9",
+  "lawsuit_id": "53201",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53201",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/201/053201_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 6,
+    "day": 6
+  },
+  "case_number": "昭和37(オ)425",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第66号437頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 2,
+    "day": 13
+  },
+  "gist": "唯一の証拠方法でない場合の証拠調の要否。",
+  "case_gist": "当事者の申し出た証拠方法については、唯一の証拠方法の場合を除き、審理の経過からみて必要がないと認めるときは、その取調べを要しない。",
+  "ref_law": "民訴法259条",
+  "lawsuit_id": "66109",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66109",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/109/066109_hanrei.pdf"
+}

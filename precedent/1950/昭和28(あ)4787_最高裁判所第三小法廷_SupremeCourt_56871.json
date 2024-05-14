@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 10,
+    "day": 4
+  },
+  "case_number": "昭和28(あ)4787",
+  "case_name": "職業安定法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第9巻11号2150頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 9,
+    "day": 22
+  },
+  "gist": "職業安定法にいう職業紹介の意義",
+  "case_gist": "職業安定法にいう職業紹介とは、求人および求職の申込を受けて本人者と求職者の間に介在し、両者間における雇用関係成立のための便宜をはかり、その成立を容易ならしめる行為を指称し、必ずしも、雇用関係の現場にあつて直接これに関与介入するのは要はないと解すべきである。",
+  "ref_law": "職業安定法5条1項，職業安定法63条",
+  "lawsuit_id": "56871",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56871",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/871/056871_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 1,
+    "day": 25
+  },
+  "case_number": "昭和53(行ツ)98",
+  "case_name": "登記申請却下処分取消",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第126号39頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和52(行コ)30",
+  "original_date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 3,
+    "day": 30
+  },
+  "gist": "仲裁判断に基づく登記申請と執行判決の要否",
+  "case_gist": "仲裁判断に基づいて登記申請をするには執行判決を要する。",
+  "ref_law": "不動産登記法27条，民訴法802条",
+  "lawsuit_id": "64300",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64300",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/300/064300_hanrei.pdf"
+}

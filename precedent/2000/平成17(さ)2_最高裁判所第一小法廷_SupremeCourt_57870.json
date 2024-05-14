@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 17,
+    "month": 12,
+    "day": 12
+  },
+  "case_number": "平成17(さ)2",
+  "case_name": "道路交通法違反被告事件についてした略式命令に対する非常上告事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集刑　第288号747頁",
+  "original_court_name": "松阪簡易裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 17,
+    "month": 3,
+    "day": 9
+  },
+  "gist": "「普通車は軽車（３６０）に限る」という条件が付された普通自動車免許で上記条件を超える普通貨物自動車（軽四）を運転した免許条件違反行為を昭和４０年法律第９６号附則２条４項及び５条４項の規定する無免許運転行為と誤認してされた略式命令に対する非常上告",
+  "ref_law": "刑訴法338条4号，刑訴法458条1号，道路交通法91条，道路交通法119条1項15号，道路交通法125条1項，昭和40年法律第96号附則2条4項，昭和40年法律第96号附則5条4項",
+  "lawsuit_id": "57870",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57870",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/870/057870_hanrei.pdf"
+}

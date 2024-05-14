@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 12,
+    "day": 12
+  },
+  "case_number": "昭和25(れ)1284",
+  "case_name": "賍物故買",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第4巻12号2543頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 5,
+    "day": 30
+  },
+  "gist": "一　満一五歳又は満一六歳の未成年者の供述の証拠能力\n二　刑法第二四四条と賍物",
+  "case_gist": "一　満一五才又は満一六才の未成年者であるというだけで事理を弁える能力がないということはできないのであるから、これらの者の供述は証拠能力を欠くものではない。その供述を信用し得るものとして証拠として採用するか否かは事実審たる裁判所の自由裁量に委ねられている問題である。\n二　刑法第二四四条は、同条所定の者の間において行われた窃盗罪及びその未遂罪に関しその犯人の処罰につき特例を設けたに過ぎないのであつて、その犯罪の成立を否定したものではないから、右窃盗罪によつて奪取された物は賍物たる性質を失わない。",
+  "ref_law": "旧刑訴法337条，刑法244条，刑法256条",
+  "lawsuit_id": "54486",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54486",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/486/054486_hanrei.pdf"
+}

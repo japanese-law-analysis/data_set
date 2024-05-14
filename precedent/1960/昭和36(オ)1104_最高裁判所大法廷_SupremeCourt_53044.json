@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 3,
+    "day": 17
+  },
+  "case_number": "昭和36(オ)1104",
+  "case_name": "借地権確認等請求",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第19巻2号453頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和35(ネ)2789",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 7,
+    "day": 21
+  },
+  "gist": "建物の登記が所在地番の表示において実際と相違する場合と「建物保護ニ関スル法律」第一条第一項。",
+  "case_gist": "地上権ないし賃借権の設定された土地の上の建物についてなされた登記が、錯誤または遺漏により、建物所在地番の表示において実際と多少相違していても、建物の種類、構造、床面積等の記載とあいまち、その登記の表示全体において、当該建物の同一性を認識できる程度の軽微な相違であるような場合には、「建物保護ニ関スル法律」第一条第一項にいう「登記シタル建物ヲ有スル」場合にあたるものと解すべきである。",
+  "ref_law": "建物保護ニ関スル法律1条",
+  "lawsuit_id": "53044",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53044",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/044/053044_hanrei.pdf"
+}

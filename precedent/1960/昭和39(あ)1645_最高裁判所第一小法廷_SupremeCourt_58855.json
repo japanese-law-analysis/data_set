@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 2,
+    "day": 4
+  },
+  "case_number": "昭和39(あ)1645",
+  "case_name": "窃盗未遂、公務執行妨害、傷害、窃盗",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第154号591頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 6,
+    "day": 22
+  },
+  "gist": "窃盗犯の見張行為は窃盗犯の実行行為の一部であるか。−見張と共同正犯−",
+  "case_gist": "窃盗犯の見張行為は窃盗犯の実行行為の一部と解するを相当とする（昭和二三年（れ）第三五一号同年七月二〇日第三小法廷判決、刑集二巻八号九七九頁参照）。",
+  "ref_law": "刑法235条，刑法60条",
+  "lawsuit_id": "58855",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58855",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/855/058855_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 2,
+    "day": 2
+  },
+  "case_number": "昭和56(オ)927",
+  "case_name": "供託金還付請求権存在確認本訴、同反訴",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第38巻3号431頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和55(ネ)2791",
+  "original_date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 6,
+    "day": 25
+  },
+  "gist": "債務者が破産宣告を受けた場合と先取特権者の物上代位権",
+  "case_gist": "先取特権者は、債務者が破産宣告を受けた場合であつても、目的債権を差し押えて物上代位権を行使することができる。",
+  "ref_law": "民法304条1項但書，破産法92条",
+  "lawsuit_id": "52159",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52159",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/159/052159_hanrei.pdf"
+}

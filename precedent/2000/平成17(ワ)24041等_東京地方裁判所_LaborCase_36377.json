@@ -1,0 +1,17 @@
+{
+  "trial_type": "LaborCase",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 3,
+    "day": 16
+  },
+  "case_number": "平成17(ワ)24041等",
+  "case_name": "損害賠償等請求事件（通称　スカイマーク団交拒否損害賠償）",
+  "court_name": "東京地方裁判所",
+  "field": "労働",
+  "lawsuit_id": "36377",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail6?id=36377",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/377/036377_hanrei.pdf",
+  "contents": ""
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 2,
+    "day": 10
+  },
+  "case_number": "昭和46(あ)1136",
+  "case_name": "公文書毀棄",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集刑　第183号111頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 4,
+    "day": 1
+  },
+  "gist": "上告審において真犯人が別にいることを検察官が認めたことにより原判決に事実誤認の疑いがあるとして破棄自判（無罪）された事例",
+  "case_gist": "公文書毀棄の公訴事実を肯認しうる証拠として犯行を目撃したとするＹの証言しかなく、被告人は一貫として犯行を否認し、被告人にとって有利なＦほか四名の証言も存在する場合に、上告審になって、真犯人が別におり起訴猶予処分に付された旨の検察官の答弁書が提出されたときは、前記Ｙの証言を信用して被告人に対し有罪の言渡をした一、二審判決には重大な事実誤認の疑いがあるものとしてこれを破棄すべきものである。",
+  "ref_law": "刑訴法411条3号，刑法258条",
+  "lawsuit_id": "61579",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61579",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/579/061579_hanrei.pdf"
+}

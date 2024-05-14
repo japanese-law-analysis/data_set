@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 12,
+    "day": 6
+  },
+  "case_number": "昭和25(あ)3442",
+  "case_name": "収賄、贈賄",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第58号99頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 10,
+    "day": 7
+  },
+  "gist": "判決における追徴金の誤算と刑訴第四一一条",
+  "case_gist": "原判決は、その認定事実によれば被告人Ａの収受した賄賂の価額は総計一万四千三百七十五円となるにも拘らず、同被告人に対し金一万四千五百七十五円の追徴を命じている。これは原審の誤算にもとずくものであること明白であり、もとより失当たるを免れ得ないところではあるが、かかる軽微な誤算があるとしても（執行に際し適当に措置し得ない訳ではないのであるから）いまだそれにより原判決を破棄しなければ著しく正義に反するものとは認められない。",
+  "ref_law": "刑法197条ノ4，刑訴法411条",
+  "lawsuit_id": "67512",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=67512",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/512/067512_hanrei.pdf"
+}

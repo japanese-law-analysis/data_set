@@ -1,0 +1,19 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 26,
+    "month": 8,
+    "day": 7
+  },
+  "case_number": "平成24(ネ)1001",
+  "case_name": "金員返還請求控訴事件",
+  "court_name": "名古屋高等裁判所民事第3部",
+  "original_court_name": "名古屋地方裁判所",
+  "original_case_number": "平成23(ワ)5227",
+  "original_result": "棄却",
+  "gist": "介護付有料老人ホームの「入居一時金」の初期償却の合意について，入居時の初期償却は，消費者契約法１０条により無効にならないとされたが，居室を転居する際に締結した転居契約における入居一時金についての再度の初期償却が消費者契約法１０条により無効であるとされた事例\n上記入居一時金につき，一定の期間で入居一時金を月割り均等償却する旨の合意が，その始期を入居契約締結日の属する月とされ，入居不可能な期間を含む点において，消費者契約法１０条により無効であるとされた事例",
+  "lawsuit_id": "84456",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=84456",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/456/084456_hanrei.pdf"
+}

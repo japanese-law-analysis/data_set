@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 5,
+    "day": 31
+  },
+  "case_number": "昭和30(あ)3957",
+  "case_name": "傷害、公職選挙法違反等",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集刑　第119号93頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 10,
+    "day": 11
+  },
+  "lawsuit_id": "60846",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60846",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/846/060846_hanrei.pdf"
+}

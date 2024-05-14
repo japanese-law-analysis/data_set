@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 3,
+    "day": 7
+  },
+  "case_number": "昭和24(れ)2542",
+  "case_name": "昭和二二年政令第一六五号違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第4巻3号322頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 7,
+    "day": 15
+  },
+  "gist": "昭和二二年政令第一六護號にいわゆる「收受」の意義",
+  "case_gist": "昭和二二年政令第一六護號にいわゆる「收受」とは同令第一條所定の財産につき所持即ち實力的支配關係（昭和二三年（れ）第九五六號同二四年五月一八日最高裁判所大法廷判決參照）を承繼的に取得する意味に解すべきである。",
+  "ref_law": "昭和22年政令165號1條2項",
+  "lawsuit_id": "56678",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56678",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/678/056678_hanrei.pdf"
+}

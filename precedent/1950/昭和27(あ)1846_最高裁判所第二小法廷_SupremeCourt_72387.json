@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 8,
+    "day": 26
+  },
+  "case_number": "昭和27(あ)1846",
+  "case_name": "恐喝",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第86号265頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 9,
+    "day": 27
+  },
+  "gist": "恐喝罪の成立要件としての「害悪の通告」にあたる一事例",
+  "case_gist": "本件は被告人が新聞「Ａ」に記事を掲載した事実を処罰の対象としているものではなく、記事の掲載を種に金員を喝取した恐喝の事実を処罰の対象としたものである。そして記事の掲載を種に金員を喝取する場合に右掲載を種とすることが恐喝罪が成立するためのいわゆる害悪の通告に当ることは言を要しないところである。それゆえ所論違憲（言論、出版の自由）の主張は、その前提を欠くものであつて失当である。",
+  "ref_law": "刑法249条，憲法21条",
+  "lawsuit_id": "72387",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=72387",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/387/072387_hanrei.pdf"
+}

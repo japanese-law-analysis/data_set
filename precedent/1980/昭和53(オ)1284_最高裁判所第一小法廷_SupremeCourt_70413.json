@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 7,
+    "day": 8
+  },
+  "case_number": "昭和53(オ)1284",
+  "case_name": "寄託物返還本訴、証券引渡反訴",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第136号429頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和48(ネ)697",
+  "original_date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 8,
+    "day": 9
+  },
+  "gist": "倉荷証券の裏書人欄に裏書人である会社の記名及び会社印の押捺はあるがその代表機関の署名ないし記名捺印がない裏書を適式として扱う商慣習法又は商慣習の存否",
+  "case_gist": "倉荷証券の裏書人欄に裏書人である会社の記名がされ、かつ、倉荷証券を発行した倉庫営業者にあらかじめ届出がされた右裏書人の会社印が押捺されている場合には、会社の代表機関が会社のためにすることを示して署名ないし記名捺印をしなくても、これを適式の裏書として扱う旨の商慣習法又は商慣習の存在は認められない。",
+  "ref_law": "民法92条，手形法13条，商法1条，商法519条，商法603条",
+  "lawsuit_id": "70413",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70413",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/413/070413_hanrei.pdf"
+}

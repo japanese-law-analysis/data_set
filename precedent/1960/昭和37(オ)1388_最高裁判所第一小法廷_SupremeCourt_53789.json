@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 12,
+    "day": 12
+  },
+  "case_number": "昭和37(オ)1388",
+  "case_name": "農地買収処分無効確認等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第17巻12号1682頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 9,
+    "day": 18
+  },
+  "gist": "利害関係を有する者が農地委員会として関与してなされた自作農創設特別措置法第三条の規定に基づく農地買収計画樹立決議の効力。",
+  "case_gist": "利害関係を有する者が農地委員会長として関与してなされた自作農創設特別措置法三条の規定に基づく農地買収計画樹立決議は、違法ではあるが、他に著しく決議の公正を害する特段の事由の認められないかぎり無効ではない。",
+  "ref_law": "農地調整法15条ノ12，自作農創設特別措置法3条，自作農創設特別措置法16条1項，自作農創設特別措置法18条1項",
+  "lawsuit_id": "53789",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53789",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/789/053789_hanrei.pdf"
+}

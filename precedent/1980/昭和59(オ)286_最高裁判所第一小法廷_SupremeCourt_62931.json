@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 11,
+    "day": 20
+  },
+  "case_number": "昭和59(オ)286",
+  "case_name": "請負代金",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第149号141頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和57(ネ)1586",
+  "original_date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 11,
+    "day": 16
+  },
+  "gist": "代理受領を承認した第三債務者がその債務を債務者に支払つた場合における債権者の第三債務者に対する不法行為に基づく損害賠償請求権と保証人に対する履行請求権との関係",
+  "case_gist": "貸金の債務者が債権者に対し、担保の目的で、自己の第三債務者に対する請負代金債権の代理受領を委任した場合において、第三債務者が右委任契約の内容を了承し、右請負代金を債権者に直接支払うことを約しながらこれを債務者に支払つたときは、債権者は、第三債務者に対し、右代理受領により右貸金債権の満足が得られるという財産上の利益が侵害されたこと自体を損害として、不法行為に基づく損害賠償請求権を行使することができ、債権者が債務者の連帯保証人に対して履行請求権を有することは、右損害発生の障害となるものではないというべきである。",
+  "ref_law": "民法709条",
+  "lawsuit_id": "62931",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62931",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/931/062931_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 4,
+    "day": 7
+  },
+  "case_number": "昭和34(オ)59",
+  "case_name": "離縁請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第15巻4号706頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 10,
+    "day": 17
+  },
+  "gist": "一民法第八一四条第一項第三号の法意。\n二縁組を継続し難い重大な事由があると認められた事例。\n三民訴法第三五条第六号にいわゆる「不服ヲ申立テラレタル前審の裁判」の意義。",
+  "case_gist": "一民法第八一四条第一項第三号にいわゆる「縁組を継続し難い重大な事由」は、当事者双方又は一方の有責事由に限られない。\n二原審認定に係る事実関係（原判決理由参照）の下においては、民法第八一四条第一項第三号にいわゆる「縁組を継続し難い重大な事由」があると認めるのを相当とする。\n三　民訴法第三五条第六号にいわゆる「不服ヲ申立テラレタル前審ノ裁判」とは、当該事件における直接又は間接の下級審の裁判を指すものと解すべきものである。",
+  "ref_law": "民法814条1項3号，民訴法35条6号",
+  "lawsuit_id": "53679",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53679",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/679/053679_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 1,
+    "day": 29
+  },
+  "case_number": "昭和29(あ)2076",
+  "case_name": "賍物故買、窃盗、職業安定法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第11巻1号305頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 5,
+    "day": 17
+  },
+  "gist": "裁判官が他の被告事件の公判審理により被告事件の内容を予め知つていた場合と刑訴法第二五六条第六項",
+  "case_gist": "被告人甲に対する窃盗事件の第一回公判期日において同被告人から窃盗の事実を自認する陳述を聴取しその証拠書類の取調をした裁判官が、同被告人より右窃盗の賍物を故買したことを公訴事実とする被告人乙に対する賍物故買事件（別件）を、前記甲に対する事件の第二回公判期日冒頭において、これに併合審理することとし、乙に対し起訴状の朗読に始まる審理をすることは、乙に対する起訴状朗読前予め判決裁判所の裁判官がその公訴事実と密接の関係ある事実の証拠資料の一部を了知していることになるけれども、刑訴第二五六条第六項に違反するものということはできない。",
+  "ref_law": "刑訴法256条6項，刑訴法296条",
+  "lawsuit_id": "51333",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51333",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/333/051333_hanrei.pdf"
+}

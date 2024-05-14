@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 9,
+    "day": 27
+  },
+  "case_number": "平成13(ワ)800",
+  "case_name": "損害賠償請求事件",
+  "court_name": "岐阜地方裁判所民事２部",
+  "result": "その他",
+  "gist": "胎児の吸引分娩が奏功しなかった場合に，同児に対する治療を実施しつつ，帝王切開手術への準備をすべきであったなどとして，医師に対し損害賠償を命じた事例",
+  "lawsuit_id": "33766",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=33766",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/766/033766_hanrei.pdf",
+  "contents": ""
+}

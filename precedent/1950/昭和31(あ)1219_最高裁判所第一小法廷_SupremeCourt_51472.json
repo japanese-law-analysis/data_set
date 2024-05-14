@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 10,
+    "day": 25
+  },
+  "case_number": "昭和31(あ)1219",
+  "case_name": "強姦致死、殺人",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第10巻10号1455頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 3,
+    "day": 24
+  },
+  "gist": "殺意ある者が犯した強姦致死の擬律",
+  "case_gist": "死亡の結果につき故意を有し、暴行を以つて婦女を姦淫し因つて死に致した所為は強姦致死罪および殺人の罪名に触れるものとする。",
+  "ref_law": "刑法177条，刑法181条，刑法199条，刑法54条1項",
+  "lawsuit_id": "51472",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51472",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/472/051472_hanrei.pdf"
+}

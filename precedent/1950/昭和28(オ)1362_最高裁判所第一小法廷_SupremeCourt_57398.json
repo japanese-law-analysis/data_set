@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 2,
+    "day": 24
+  },
+  "case_number": "昭和28(オ)1362",
+  "case_name": "農地境界査定処分無効確認請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第9巻2号217頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 11,
+    "day": 25
+  },
+  "gist": "農業委員会がした農地の境界に関する通知は行政処分か",
+  "case_gist": "農業委員会が農地の境界に関し農地所有者に対してした通知は行政事件訴訟特例法第一条にいう行政処分とはいえない。",
+  "ref_law": "行政事件訴訟特例法1条",
+  "lawsuit_id": "57398",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57398",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/398/057398_hanrei.pdf"
+}

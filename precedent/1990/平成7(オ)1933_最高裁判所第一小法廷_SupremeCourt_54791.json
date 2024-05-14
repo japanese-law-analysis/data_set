@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 9,
+    "month": 4,
+    "day": 10
+  },
+  "case_number": "平成7(オ)1933",
+  "case_name": "離婚等",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第51巻4号1972頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成6(ネ)4215",
+  "original_date": {
+    "era": "Heisei",
+    "year": 7,
+    "month": 6,
+    "day": 26
+  },
+  "gist": "離婚請求を認容するに際し別居後離婚までの間の子の監護費用の支払を命ずることの可否",
+  "case_gist": "離婚の訴えにおいて、別居後単独で子の監護に当たっている当事者から他方の当事者に対し、別居後離婚までの期間における子の監護費用の支払を求める旨の申立てがあった場合には、裁判所は、離婚請求を認容するに際し、右申立てに係る子の監護費用の支払を命ずることができる。",
+  "ref_law": "人事訴訟手続法15条1項，民法766条1項，民法771条",
+  "lawsuit_id": "54791",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54791",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/791/054791_hanrei.pdf"
+}

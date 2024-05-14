@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 9,
+    "day": 12
+  },
+  "case_number": "昭和36(あ)2378",
+  "case_name": "汽車顛覆致死等被告事件（松川事件）",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第17巻6号661頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 8,
+    "day": 8
+  },
+  "gist": "一　刑訴法第四〇五条にいう「判例と相反する判断をした」というためにはその判断が原判決に示されていることを要するか\n二　自白がその信用性に疑いがあつて有罪の証拠とすることは許されないとされた事例",
+  "case_gist": "一　刑訴法第四〇五条にいう「判例と相反する判断をした」というためには、その判例と相反する法律判断が原判決に示されているのでなければならない。\n二　本件のように被告人と実行行為とを結びつける証拠が、自白のほかになく、その自白が明らかに事実に反しまたは不合理不自然な幾多のものを含み（判文参照）、その信用性に疑いのあるときは、これをもつて有罪の証拠とすることは許されない。\n（二について補足意見、少数意見がある。）",
+  "ref_law": "刑訴法405条2号，刑訴法405条3号，刑訴法318条",
+  "lawsuit_id": "57787",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57787",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/787/057787_hanrei.pdf"
+}

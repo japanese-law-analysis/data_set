@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 8,
+    "day": 21
+  },
+  "case_number": "昭和27(あ)1250",
+  "case_name": "詐欺、業務上横領",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第67号145頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 10,
+    "day": 9
+  },
+  "gist": "被告人の弁護人選任権を妨げたものといゝ得ない例−被告人の意思を確かめず国選した場合",
+  "case_gist": "第一審裁判所が被告人の私選弁護人選任の意思を確かめずして、被告人のため国選弁護人を選任したものであるとしても、必ずしもこれによつて被告人が自らその弁護人を選任することを妨げたものといい得ないこと勿論である。",
+  "ref_law": "憲法37条3項，刑訴法30条，刑訴法289条",
+  "lawsuit_id": "64843",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64843",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/843/064843_hanrei.pdf"
+}

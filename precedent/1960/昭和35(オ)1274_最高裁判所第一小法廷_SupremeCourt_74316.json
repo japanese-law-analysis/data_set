@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 3,
+    "day": 15
+  },
+  "case_number": "昭和35(オ)1274",
+  "case_name": "建物収去土地明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第59号321頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 8,
+    "day": 1
+  },
+  "gist": "一　賃料額の合意と賃貸借の成立\n二　建物所在の地番表示を誤つた所有権保存登記に建物保護法上の登記の効力があるとされた事例",
+  "case_gist": "一　賃料額が具体的に決まらなくても、後日協定すべき相当賃料を支払う旨の合意があれば、賃貸借は有効に成立する。\n二　家屋台帳の記載の誤りに基因し、所有権保存登記の建物所在表示が現実の地番と異つて記載されていても、原判決認定の事情（原判決の引用する第一審判決理由参照）から、社会通念上右番地の記載によつて当該建物を表示するにつき同一性を認識できる場合には、右建物保存登記は、現実の敷地の賃貸借につき建物保護法第一条第一項に規定する建物の登記としての効力を有する。",
+  "ref_law": "民法601条，建物保護に関する法律1条1項",
+  "lawsuit_id": "74316",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74316",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/316/074316_hanrei.pdf"
+}

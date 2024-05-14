@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 9,
+    "day": 22
+  },
+  "case_number": "昭和50(オ)766",
+  "case_name": "約束手形金",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第121号251頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和48(ネ)591",
+  "original_date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 3,
+    "day": 31
+  },
+  "gist": "人的抗弁の存在につき手彫所持人の前者が善意であつても、信義則上、人的抗弁をもつて所持人に対抗することができるとされた事例",
+  "case_gist": "甲会社の乙銀行に対する借入金債務を連帯保証人丙及び丁が弁済し、右借入金債務の担保として甲会社が乙銀行に裏書譲渡していた約束手形を丙及び丁が乙銀行から無担保裏書を受けて取得した場合において、甲会社が丙の主宰するワンマン会社ないしは同族会社であつて、丁は丙の三女で本件手形に関する限り丙と実質上も経済上も一体とみることができるなど、判示のような事情があるときは、乙銀行から丙及び丁への裏書は、信義則上、乙銀行から甲会社への戻裏書と同一に評価すべきであり、振出人は、甲会社に対抗することができる人的抗弁をもつて、善意の乙銀行の介在にかかわらず、丙及び丁に対しても対抗することができる。",
+  "ref_law": "民法1条2項，手形法17条",
+  "lawsuit_id": "64104",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64104",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/104/064104_hanrei.pdf"
+}

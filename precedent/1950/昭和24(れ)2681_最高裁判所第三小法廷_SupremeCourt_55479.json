@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 3,
+    "day": 27
+  },
+  "case_number": "昭和24(れ)2681",
+  "case_name": "強盗殺人、強盗、窃盗、住居侵入",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第5巻4号686頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 8,
+    "day": 22
+  },
+  "gist": "強盗の共犯のうちの一人が強盗の機会において為した殺人の行為につき他の者も責任を負う場合の一例",
+  "case_gist": "強盗共犯の一人が強盗に着手した後家人に騒がれて逃走し追跡されているうち、巡査に発見され追い付かれて逮捕されようとした際逮捕を免れるため同巡査に切りつけ死に至らしめたときは、その強盗殺人の行為につき他の共犯も責任を負うべきである。",
+  "ref_law": "刑法60条，刑法240条",
+  "lawsuit_id": "55479",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55479",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/479/055479_hanrei.pdf"
+}

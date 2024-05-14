@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 6,
+    "day": 23
+  },
+  "case_number": "昭和38(オ)1412",
+  "case_name": "離婚、慰謝料請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第74号167頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 9,
+    "day": 3
+  },
+  "gist": "離婚の訴における親権者指定申立の要否。",
+  "case_gist": "裁判上の離婚の場合には、親権者指定の申立がなくても、離婚の判決をする裁判所が、職権をもって、父母の一方を親権者と指定することを要すると解すべきである。",
+  "ref_law": "民法819条2項",
+  "lawsuit_id": "66187",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66187",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/187/066187_hanrei.pdf"
+}

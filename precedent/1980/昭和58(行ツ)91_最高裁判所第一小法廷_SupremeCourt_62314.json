@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 63,
+    "month": 1,
+    "day": 21
+  },
+  "case_number": "昭和58(行ツ)91",
+  "case_name": "補償金増額請求事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集民　第153号101頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和53(行コ)13",
+  "original_date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 4,
+    "day": 27
+  },
+  "gist": "輪中堤（堤防）の敷地が収用された場合に右輪中堤の文化財的価値が土地収用法（昭和四二年法律第七四号による改正前のもの）八八条による損失補償の対象となり得ないとされた事例",
+  "case_gist": "江戸時代初期から水害より村落共同体を守つてきた輪中堤の典型の一つとして歴史的、社会的、学術的価値を内包している輪中堤（堤防）の文化財的価値は、その敷地の不動産としての市場価格の形成に影響を与えないものとして、土地収用法（昭和四二年法律第七四号による改正前のもの）八八条による損失補償の対象となり得ない。",
+  "ref_law": "土地収用法（昭和42年法律第74号による改正前のもの）88条",
+  "lawsuit_id": "62314",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62314",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/314/062314_hanrei.pdf"
+}

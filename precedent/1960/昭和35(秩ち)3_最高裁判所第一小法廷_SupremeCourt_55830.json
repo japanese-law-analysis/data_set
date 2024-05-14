@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 9,
+    "day": 21
+  },
+  "case_number": "昭和35(秩ち)3",
+  "case_name": "法廷等の秩序維持に関する法律による制裁事件に対する抗告についてなした棄却決定に対する特別抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第14巻11号1498頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 8,
+    "day": 18
+  },
+  "gist": "法廷等の秩序維持に関する法律第二条にもとづく監置決定の合憲性。",
+  "case_gist": "法廷等の秩序維持に関する法律第二条にもとづき当該被告事件の弁護人を非公開の法廷で監置処分にしても、憲法第三一条、第三四条、第三七条第三項および第八二条に違反するものではない。",
+  "ref_law": "法廷等の秩序維持に関する法律2条，憲法31条，憲法34条，憲法37条，憲法82条",
+  "lawsuit_id": "55830",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55830",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/830/055830_hanrei.pdf"
+}

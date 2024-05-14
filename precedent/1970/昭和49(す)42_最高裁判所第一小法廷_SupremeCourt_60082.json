@@ -1,0 +1,20 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 4,
+    "day": 25
+  },
+  "case_number": "昭和49(す)42",
+  "case_name": "裁判官を忌避する旨（標題は解任請求）の申立",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "却下",
+  "article_info": "集刑　第192号405頁",
+  "gist": "忌避申立（標題は解任請求）を原因に示していないから不適法であると簡易却下した事例",
+  "ref_law": "刑訴法24条1項",
+  "lawsuit_id": "60082",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60082",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/082/060082_hanrei.pdf"
+}

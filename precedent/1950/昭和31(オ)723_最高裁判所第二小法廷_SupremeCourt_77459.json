@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 12,
+    "day": 28
+  },
+  "case_number": "昭和31(オ)723",
+  "case_name": "建物収去土地明渡再審請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第29号873頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 5,
+    "day": 19
+  },
+  "gist": "民訴法四二〇条第一項第三号に該当しない一事例",
+  "case_gist": "最終の口頭弁論期日に訴訟復代理人として出頭した者に代理権が存しなかつたとしてもその者が弁論その他実質的に本案に関する訴訟行為を為さなかつたときは、当時既にその攻撃防禦の方法の提出を了り右が判決に影響を及ぼす蓋然性がないと認められる限り、右期日に為された最終弁論に基いて為された判決に民訴第四二〇条第一項第三号所定の再審事由が存するものと謂うことを得ない。",
+  "lawsuit_id": "77459",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77459",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/459/077459_hanrei.pdf"
+}

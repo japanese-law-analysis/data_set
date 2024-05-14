@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 2,
+    "day": 21
+  },
+  "case_number": "昭和26(れ)2124",
+  "case_name": "強姦致死、窃盜",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第6巻2号266頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 5,
+    "day": 31
+  },
+  "gist": "捜索押収令状の表示の誤記と押収物の証拠力",
+  "case_gist": "本件捜索、押収令状の捜索押収の場所の表示が弘前市ａ町Ａ方となつていることは所論のとおりであるが、記録三二五丁の報告書に被告人本人の立ち寄る所として弘前市大字ａ町実母Ａ当五十六歳方なる旨の記載があるとの原審証人Ｂ、同Ｃの各供述記載とによれば、前記令状の表示は、同市同町Ｃ方の名違いであつて、結局氏名の誤記であることが認められるから、原判決が前記のごとく単に表示が誤つたに過ぎないと判断したのは正当であるといわなければならない。従つて原判決が仮りに右ゴム靴の押収手続に右のごとき違法があるとしても、該押収物について裁判所が適法に証拠調をした以上はこれを証拠とすることのできることは当然であると解する旨説明したことは結局是認できるのである。",
+  "ref_law": "刑訴応急措置法7条",
+  "lawsuit_id": "55642",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55642",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/642/055642_hanrei.pdf"
+}

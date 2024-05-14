@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 2,
+    "day": 7
+  },
+  "case_number": "昭和42(行ツ)109",
+  "case_name": "判定取消請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第111号61頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和40(行コ)23",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 9,
+    "day": 29
+  },
+  "gist": "地方公務員の宿日直手当請求権について地方公務員法四六条の措置要求がされた場合と右請求権の消滅時効の中断",
+  "case_gist": "地方公務員の宿日直手当請求権についてされた地方公務員法四六条の措置要求には、右請求権の消滅時効を中断する効力はない。",
+  "ref_law": "地方公務員法46条，地方自治法236条，民法147条",
+  "lawsuit_id": "61905",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61905",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/905/061905_hanrei.pdf"
+}

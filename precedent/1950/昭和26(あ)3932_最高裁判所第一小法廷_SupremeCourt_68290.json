@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 4,
+    "day": 9
+  },
+  "case_number": "昭和26(あ)3932",
+  "case_name": "物価統制令違反、経済関係罰則ノ整備ニ関スル法律違反、業務上横領",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第78号285頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 9,
+    "day": 4
+  },
+  "gist": "具体的事項についての委任命令は昭和二二年法律第七二号日本国憲法施行の際現に効力を有する命令の規定の効力等に関する法律の規定により失効するか",
+  "case_gist": "昭和十九年勅令二六八号は、経済関係罰則整備に関する法律第二条の具体的委任に基き制定されたものであり、かかる委任命令が昭和二二年法律七二号日本国憲法施行の際現に効力を有する命令の規定の効力等に関する法律第一条にいう「命令」に包含されないことは当裁判所の判例の趣旨とするところである。",
+  "ref_law": "経済関係罰則の整備に関する法律2条，昭和19年勅令268号経済関係罰則の整備に関する法律に基く経済団体指定に関する件，昭和22年法律72号日本国憲法施行の際現に効力を有する命令の規定の効力等に関する法律1条",
+  "lawsuit_id": "68290",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=68290",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/290/068290_hanrei.pdf"
+}

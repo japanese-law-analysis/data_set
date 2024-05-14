@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 12,
+    "day": 25
+  },
+  "case_number": "昭和27(あ)4654",
+  "case_name": "公文書偽造、同行使、私文書偽造、同行使、詐欺、恐喝",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第90号487頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 6,
+    "day": 21
+  },
+  "gist": "文書偽造罪における行使の目的",
+  "case_gist": "文書偽造罪において行使の目的ありというには、何人かによつて真正な文書と誤信せられる危険あることを意識して文書を偽造するをもつて足りる。偽造者自らこれを行使する意思あることを要するものではない。",
+  "ref_law": "刑法155条，刑法159条",
+  "lawsuit_id": "69265",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=69265",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/265/069265_hanrei.pdf"
+}

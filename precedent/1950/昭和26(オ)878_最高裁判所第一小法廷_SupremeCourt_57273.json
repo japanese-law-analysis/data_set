@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 2,
+    "day": 11
+  },
+  "case_number": "昭和26(オ)878",
+  "case_name": "所有権確認並びに所有権移転登記手続請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第8巻2号429頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 8,
+    "day": 10
+  },
+  "gist": "一　同一審級における同一証人の再尋問と宣誓の要否\n二　宣誓を欠く証人尋問手続の違法と責問権\n三　民事上告審判特例法の違憲を上告理由とすることの適否",
+  "case_gist": "一　同一審級において同一証人を再び尋問する場合においても、尋問事項を異にするときは、宣誓をなさしめることを要する。\n二　宣誓せしむべき証人を宣誓せしめずして尋問した場合と雖も、当事者が遅滞なく異議を述べないときは、責問権を失う。\n三　最高裁判所における民事上告事件の審判の特例に関する法律が違憲であることを上告理由とすることは許されない。",
+  "ref_law": "民訴法285条，民訴法141条，民訴法394条",
+  "lawsuit_id": "57273",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57273",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/273/057273_hanrei.pdf"
+}

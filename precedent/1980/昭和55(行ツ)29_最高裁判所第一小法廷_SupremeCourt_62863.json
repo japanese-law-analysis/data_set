@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 11,
+    "day": 1
+  },
+  "case_number": "昭和55(行ツ)29",
+  "case_name": "たばこ小売人不指定処分等取消",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第143号135頁",
+  "original_court_name": "福岡高等裁判所\n        　宮崎支部",
+  "original_case_number": "昭和54(行コ)2",
+  "original_date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 12,
+    "day": 26
+  },
+  "gist": "たばこ専売法三一条一項三号所定のたばこ小売人不指定の事由に関し日本専売公社の内部規程の定める距離制限を違憲とする論旨が排斥された事例",
+  "case_gist": "たばこ専売法三一条一項三号所定のたばこ小売人不指定の事由に関し日本専売公社の内部規程であるたばこ小売人指定関係規程五条一項二号の定める距離制限にふれることを理由としてされた不指定処分については、憲法二二条一項違反の問題を生ずるものではない。",
+  "ref_law": "憲法22条1項，たばこ専売法31条1項3号",
+  "lawsuit_id": "62863",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62863",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/863/062863_hanrei.pdf"
+}

@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 4,
+    "month": 10,
+    "day": 26
+  },
+  "case_number": "平成1(あ)518",
+  "case_name": "詐欺、業務上横領、贈賄",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第261号167頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 3,
+    "day": 31
+  },
+  "gist": "いわゆる撚糸工連事件（理事長による詐欺，業務上横領，贈賄事件）",
+  "lawsuit_id": "57893",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57893",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/893/057893_hanrei.pdf"
+}

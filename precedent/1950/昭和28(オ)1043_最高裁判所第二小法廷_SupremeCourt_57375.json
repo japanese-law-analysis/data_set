@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 2,
+    "day": 18
+  },
+  "case_number": "昭和28(オ)1043",
+  "case_name": "建物収去土地明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第9巻2号195頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 9,
+    "day": 21
+  },
+  "gist": "罹災都市借地借家臨時処理法第二条に基く賃借権と対抗力",
+  "case_gist": "罹災都市借地借家臨時処理法第二条に基く賃借権は、その登記および地上建物の登記がなくても、右賃借権設定後その土地につき所有権取得の登記をした第三取得者に対抗し得る。",
+  "ref_law": "罹災都市借地借家臨時処理法2条",
+  "lawsuit_id": "57375",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57375",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/375/057375_hanrei.pdf"
+}

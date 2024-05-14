@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 12,
+    "day": 14
+  },
+  "case_number": "昭和45(オ)719",
+  "case_name": "土地建物抵当権設定登記抹消登記手続請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第27巻11号1586頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和44(ネ)1477",
+  "original_date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 4,
+    "day": 24
+  },
+  "gist": "抵当不動産の第三取得者と抵当権の被担保債権の消滅時効の援用",
+  "case_gist": "抵当不動産の譲渡を受けた第三者は、抵当権の被担保債権の消滅時効を援用することができる。",
+  "ref_law": "民法145条，民法166条，民法369条",
+  "lawsuit_id": "52015",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52015",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/015/052015_hanrei.pdf"
+}

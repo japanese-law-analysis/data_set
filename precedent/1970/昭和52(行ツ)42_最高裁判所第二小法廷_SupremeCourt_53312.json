@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 3,
+    "day": 10
+  },
+  "case_number": "昭和52(行ツ)42",
+  "case_name": "裁決取消",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第32巻2号176頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和50(行ケ)92",
+  "original_date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 12,
+    "day": 22
+  },
+  "gist": "地方海難審判庁の原因解明裁決に対する受審人及び指定海難関係人の第二審請求権の有無",
+  "case_gist": "地方海難審判庁のした原因解明裁決に対しては、受審人及び指定海難関係人は高等海難審判庁に第二審の請求をすることができない。",
+  "ref_law": "海難審判法4条，海難審判法46条",
+  "lawsuit_id": "53312",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53312",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/312/053312_hanrei.pdf"
+}

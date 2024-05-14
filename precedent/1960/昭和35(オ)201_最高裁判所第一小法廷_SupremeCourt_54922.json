@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 3,
+    "day": 2
+  },
+  "case_number": "昭和35(オ)201",
+  "case_name": "請求異議",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第15巻3号337頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 11,
+    "day": 17
+  },
+  "gist": "土地所有権に基づく収去明渡の確定判決の執行債務者が右土地所有権の共同相続持分の一部を取得した場合の執行の許否。",
+  "case_gist": "甲の乙に対する土地所有権に基づく建物収去、土地明渡の確定判決の事実審口頭弁論終結後、甲の死亡により土地所有権が丙丁らに共同相続された場合、乙が丙からその土地共有持分を取得したとしても、丙以外の共同相続人らは、民法第四二九条の法意に従い、乙に対して右判決を執行し得る。",
+  "ref_law": "民法899条，民法429条，民訴法201条，民訴法545条",
+  "lawsuit_id": "54922",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54922",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/922/054922_hanrei.pdf"
+}

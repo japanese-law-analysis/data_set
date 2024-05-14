@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 1,
+    "day": 31
+  },
+  "case_number": "昭和43(し)5",
+  "case_name": "少年保護（強姦致傷）事件についてした初等少年院送致決定に対する抗告棄却決定に対する再抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第166号39頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 12,
+    "day": 28
+  },
+  "lawsuit_id": "59354",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59354",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/354/059354_hanrei.pdf"
+}

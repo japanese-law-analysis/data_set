@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 1,
+    "day": 28
+  },
+  "case_number": "昭和39(オ)618",
+  "case_name": "債務引受金請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第77号153頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 2,
+    "day": 27
+  },
+  "gist": "第三者の債権侵害にあたらないとされた事例。",
+  "case_gist": "鉱業所鉱員が他から金銭を借り受けその支払をしないまま同鉱業所を退職し遠隔地に転居するに際し、同鉱業所労務係員が右不払の事実を知りながら、右鉱員の依頼によりその家財道具を人目につかぬように出発後荷造りして送つてやつたため、前記金銭債権の取立てが不能になつたとしても、右退職転居が同鉱員の自発的意思に出たものであり、右労務係員の積極的な働きかけによるものでない等原審認定の事情（原判決理由参照）のもとでは、前記金銭債権を第三者たる右労務係員が侵害したものとはいえない。",
+  "ref_law": "民法709条",
+  "lawsuit_id": "77749",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77749",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/749/077749_hanrei.pdf"
+}

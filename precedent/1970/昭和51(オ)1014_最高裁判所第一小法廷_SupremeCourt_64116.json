@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 3,
+    "day": 30
+  },
+  "case_number": "昭和51(オ)1014",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第123号401頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和50(ネ)1433",
+  "original_date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 6,
+    "day": 23
+  },
+  "gist": "書面によらない贈与がその履行を終つたのと同視すべき状態にあるとして民法五五〇条に基づく取消が許されないとされた事例",
+  "case_gist": "土地の書面によらない贈与が、贈与者の死に臨み実子に対する財産分けとしてされたものであり、その死亡後二〇年余を経たのちにその家督相続人と受贈者が右土地を家督相続人の相続した土地の一部と交換し、家督相続人において右交換土地を分筆し、受贈者との間で仮換地のうち換地処分後に受贈者が取得すべき土地の範囲を定め、その実測図面を作成してこれを受贈者に交付したなど原判決判示のような事情があるときには、右贈与は、遅くとも右実測図面が交付された時には、民法五五〇条との関係ではその履行を終つたのと同視すべき状態となり、その後に右家督相続人の相続人が同条に基づいてこれを取り消すことは許されない。",
+  "ref_law": "民法550条",
+  "lawsuit_id": "64116",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64116",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/116/064116_hanrei.pdf"
+}

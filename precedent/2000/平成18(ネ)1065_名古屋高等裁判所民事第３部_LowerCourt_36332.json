@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 4,
+    "day": 17
+  },
+  "case_number": "平成18(ネ)1065",
+  "case_name": "自衛隊のイラク派兵差止等請求控訴事件",
+  "court_name": "名古屋高等裁判所民事第３部",
+  "result": "棄却",
+  "original_court_name": "名古屋地方裁判所",
+  "original_case_number": "平成16(ワ)695",
+  "original_result": "その他",
+  "gist": "１　イラクにおいて航空自衛隊が行っている空輸活動は，武力行使を禁止したイラク特措法２条２項，活動地域を非戦闘地域に限定した同条３項に違反し，かつ，憲法９条１項に違反する活動を含むものではあるが，これによる控訴人の平和的生存権に対する侵害は認められないとして，控訴人による自衛隊のイラク派遣に対する違憲確認の訴え及び派遣差止めの訴えを却下した原判決を維持した事例\n２　控訴人の平和的生存権に対する侵害がないことに加え，外務省が，駐レバノン共和国特命全権大使として米英軍のイラク攻撃及びこれに対する日本政府の支持に反対した控訴人に対し退職勧奨したことが違法であるとはいえないとして，控訴人による国家賠償請求を棄却した原判決を維持した事例",
+  "lawsuit_id": "36332",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=36332",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/332/036332_hanrei.pdf",
+  "contents": ""
+}

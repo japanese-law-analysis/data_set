@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 9,
+    "day": 8
+  },
+  "case_number": "昭和53(オ)1144",
+  "case_name": "譴責処分無効確認",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第139号393頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和49(ネ)326",
+  "original_date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 6,
+    "day": 29
+  },
+  "gist": "労働者が就業時間外に職場外において職務遂行に関係なくビラを配布したことを理由として右労働者を懲戒することが許されるとされた事例",
+  "case_gist": "労働者の配布したビラの内容が、大部分事実に基づかず、又は事実を誇張歪曲して使用者を非難攻撃し、全体として使用者を中傷誹議するもので、右ビラの配布により労働者の使用者に対する不信感を醸成して企業秩序を乱し、又はそのおそれがあつたときは、右ビラの配布は、就業時間外に職場外において職務遂行に関係なく行われたものであつても、就業規則に定める懲戒事由の一つである「その他特に不都合な行為があつたとき」にあたり、使用者が、これを理由に懲戒として労働者を譴責したことにつき、裁量権の範囲を逸脱したものとは認められない。",
+  "ref_law": "労働基準法89条",
+  "lawsuit_id": "62229",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62229",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/229/062229_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 3,
+    "month": 4,
+    "day": 19
+  },
+  "case_number": "平成2(行ツ)192",
+  "case_name": "最高裁判所規則取消",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第45巻4号518頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "平成2(行コ)6",
+  "original_date": {
+    "era": "Heisei",
+    "year": 2,
+    "month": 8,
+    "day": 23
+  },
+  "gist": "裁判所の支部を廃止する旨を定めた最高裁判所規則の取消しを求める訴訟と裁判所法三条一項にいう法律上の争訟",
+  "case_gist": "福岡地方裁判所及び福岡家庭裁判所の各甘木支部を廃止する旨を定めた最高裁判所規則について、右支部の管轄区域内に居住する者が、具体的な紛争を離れ、抽象的に右規則の憲法違反を主張してその取消しを求める訴訟は、裁判所法三条一項にいう法律上の争訟に当たらない。",
+  "ref_law": "憲法77条1項，憲法81条，裁判所法3条1項，裁判所法31条1項，裁判所法31条の5，地方裁判所及び家庭裁判所支部設置規則及び家庭裁判所出張所設置規則の一部を改正する規則（平成元年最高裁判所規則第5号）",
+  "lawsuit_id": "52478",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52478",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/478/052478_hanrei.pdf"
+}

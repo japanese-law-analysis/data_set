@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 6,
+    "day": 27
+  },
+  "case_number": "昭和30(オ)344",
+  "case_name": "建物収去土地明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第11巻6号1154頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 1,
+    "day": 31
+  },
+  "gist": "期間を定めて登記と引換に代金債務の履行を催告した場合と債務者の提供の方法。",
+  "case_gist": "登記と引換に支払うべき代金債務につき、期間を定めて履行の催告があつた場合に、債務者において催告期間の末日に代金を持参して登記所に出頭したときは、適法な弁済の提供をしたものと認むべきであつて、その提供に先だちあらかじめその日時を債権者に通知することは必要ではない。",
+  "ref_law": "民法493条，民法541条",
+  "lawsuit_id": "57584",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57584",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/584/057584_hanrei.pdf"
+}

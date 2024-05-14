@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 12,
+    "day": 24
+  },
+  "case_number": "平成19(ワ)7942",
+  "case_name": "損害賠償請求",
+  "court_name": "東京地方裁判所民事第３４部",
+  "result": "その他",
+  "lawsuit_id": "80326",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=80326",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/326/080326_hanrei.pdf",
+  "contents": ""
+}

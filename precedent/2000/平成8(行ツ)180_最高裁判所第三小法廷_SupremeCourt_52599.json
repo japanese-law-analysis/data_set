@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 13,
+    "month": 3,
+    "day": 13
+  },
+  "case_number": "平成8(行ツ)180",
+  "case_name": "林地開発行為許可処分取消請求事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第55巻2号283頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "平成7(行コ)8",
+  "original_date": {
+    "era": "Heisei",
+    "year": 8,
+    "month": 5,
+    "day": 15
+  },
+  "gist": "林地開発許可の取消訴訟と開発区域の周辺住民の原告適格",
+  "case_gist": "土砂の流出又は崩壊，水害等の災害により生命，身体等に直接的な被害を受けることが予想される範囲の地域に居住する者は，森林法（平成１１年法律第８７号による改正前のもの）１０条の２による開発許可の取消訴訟の原告適格を有する。",
+  "ref_law": "行政事件訴訟法9条，森林法（平成11年法律第87号による改正前のもの）10条の2",
+  "lawsuit_id": "52599",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52599",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/599/052599_hanrei.pdf"
+}

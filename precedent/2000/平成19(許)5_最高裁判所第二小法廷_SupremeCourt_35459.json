@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 11,
+    "day": 30
+  },
+  "case_number": "平成19(許)5",
+  "case_name": "文書提出命令に対する抗告審の変更決定に対する許可抗告事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "破棄差戻",
+  "article_info": "民集　第61巻8号3186頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成18(ラ)1348",
+  "original_date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 1,
+    "day": 10
+  },
+  "gist": "銀行が法令により義務付けられた資産査定の前提として債務者区分を行うために作成し，保存している資料は，民訴法２２０条４号ニ所定の「専ら文書の所持者の利用に供するための文書」に当たるか",
+  "case_gist": "銀行が，法令により義務付けられた資産査定の前提として，監督官庁の通達において立入検査の手引書とされている「金融検査マニュアル」に沿って債務者区分を行うために作成し，保存している資料は，民訴法２２０条４号ニ所定の「専ら文書の所持者の利用に供するための文書」に当たらない。",
+  "ref_law": "民訴法220条4号ニ，金融機能の再生のための緊急措置に関する法律6条，銀行法25条",
+  "lawsuit_id": "35459",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=35459",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/459/035459_hanrei.pdf",
+  "contents": ""
+}

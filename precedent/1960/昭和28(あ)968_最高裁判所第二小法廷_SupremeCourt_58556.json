@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 6,
+    "day": 8
+  },
+  "case_number": "昭和28(あ)968",
+  "case_name": "出入国管理令違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第143号43頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 12,
+    "day": 8
+  },
+  "gist": "出入国管理令六〇条の合憲性。",
+  "case_gist": "当裁判所の判例（昭和二九年（あ）第三八九号、同三二年一二月二五日大法廷判決、刑集一一巻一四号三三七七頁）の趣旨によれば、出入国管理令六〇条は出国それ自体を法律上制限するものではなく、単に出国の手続に関する措置を定めたものであり、事実上かかる手続的措置のために外国旅行の自由が制限せられる結果を招来するような場合があるとしても、出入国の公正な管理を行う目的を達成する公共の福祉のために設けられたもので、憲法二二条二項に違反するものではないと解すべきであり、旅券法の運用の違憲を云為して出入国管理令六〇条の違憲を主張する所論は、採るをえない。",
+  "ref_law": "出入国管理令60条，憲法22条2項",
+  "lawsuit_id": "58556",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58556",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/556/058556_hanrei.pdf"
+}

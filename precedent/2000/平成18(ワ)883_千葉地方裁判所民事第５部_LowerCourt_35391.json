@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 9,
+    "day": 6
+  },
+  "case_number": "平成18(ワ)883",
+  "case_name": "配当異議",
+  "court_name": "千葉地方裁判所民事第５部",
+  "gist": "不動産に対する担保権の実行としての競売手続において，競売対象不動産の所有権の帰属を審理の対象として配当異議の訴えを提起することは許されない。",
+  "lawsuit_id": "35391",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=35391",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/391/035391_hanrei.pdf",
+  "contents": ""
+}

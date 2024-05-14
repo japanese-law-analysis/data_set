@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 2,
+    "day": 5
+  },
+  "case_number": "昭和33(あ)1248",
+  "case_name": "外国為替及び外国貿易管理法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第13巻1号27頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 5,
+    "day": 28
+  },
+  "gist": "本邦入国者が入国に際し別送して輸入しようとする自動車と輸入貿易管理令（昭和三一・一一・一四政令第三四二号による改正前のもの）第一四条第二号別表第二にいわゆる「携帯品」。",
+  "case_gist": "本邦入国者が、入国に際し、別送して輸入しようとする自動車は、それが入国者の出発地または経由地において積み出されたものでないかぎり、輸入貿易管理令（昭和三一年一一月一四日政令第三四二号による改正前のもの）第一四条第二号別表第二にいわゆる「携帯品」と認めることはできない。",
+  "ref_law": "輸入貿易管理令8条，輸入貿易管理令14条2号，輸入貿易管理令別表2",
+  "lawsuit_id": "51602",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51602",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/602/051602_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 6,
+    "day": 5
+  },
+  "case_number": "昭和30(オ)601",
+  "case_name": "農地買収に対する訴願裁決取消請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第10巻6号656頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 4,
+    "day": 21
+  },
+  "gist": "農地買収計画に関する訴願裁決の取消を求める請求を買収処分無効確認請求に変更し、さらに買収処分取消請求に変更した場合の買収処分の取消を求める訴の出訴期間。",
+  "case_gist": "農地買収計画の違法を理由に、これを是認した訴願裁決の取消を求める訴訟の係属中、買収令書の交付があり、請求を買収処分の無効確認請求に変更しさらに買収処分取消請求に変更した場合は、その請求変更が買収処分に対する出訴期間経過後であつても、右請求中買収の実体的違法を攻撃する部分に限り、その訴は出訴期間内に提起されたものと解すべきである。",
+  "ref_law": "自作農創設特別措置法7条，自作農創設特別措置法9条，自作農創設特別措置法47条の2，民訴法232条，民訴法235条",
+  "lawsuit_id": "57610",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57610",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/610/057610_hanrei.pdf"
+}

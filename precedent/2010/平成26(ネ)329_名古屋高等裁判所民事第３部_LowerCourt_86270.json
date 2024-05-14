@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 28,
+    "month": 7,
+    "day": 28
+  },
+  "case_number": "平成26(ネ)329",
+  "case_name": "損害賠償請求控訴事件",
+  "court_name": "名古屋高等裁判所民事第３部",
+  "original_court_name": "津地方裁判所",
+  "original_case_number": "平成21(ワ)712",
+  "gist": "都市計画法に基づく開発許可により造成された宅地が陥没し，同地上の家屋で居住することができなくなったことに関し，上記開発許可等の際には上記陥没事故を予見することはできなかったとして国家賠償法１条１項等に基づく損害賠償請求が棄却された事例",
+  "lawsuit_id": "86270",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=86270",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/270/086270_hanrei.pdf"
+}

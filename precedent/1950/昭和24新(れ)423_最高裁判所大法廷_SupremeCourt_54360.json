@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 10,
+    "day": 11
+  },
+  "case_number": "昭和24新(れ)423",
+  "case_name": "漁業法施行規則違反",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第4巻10号2029頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 10,
+    "day": 12
+  },
+  "gist": "漁業法施行規則（明示四三年一一月一二日農商務省令第二五号）第四七条の合憲性（第一三条）",
+  "case_gist": "漁業法施行規則四七条は、以上のような趣旨により、爆発物又は有毒物を使用して採捕した水産動植物の所持を禁止しているのであるから、この規定は公共の福祉の要請に基くものと認められる。なるほど個々の場合についてみれば、右の水産動植物の所持の禁止が無用のことのように思われる場合もあらうが、これを全体として高い立場から観れば、右の禁止規定が公共の福祉のために必要なものであること明らかである。従つて所論のようにこの規定を憲法第一三条に違反するものということはできない。",
+  "ref_law": "憲法13条，漁業法施行規則（明治43・11・12、農商務省令25号）47条，漁業法施行規則（明治43・11・12、農商務省令25号）60条",
+  "lawsuit_id": "54360",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54360",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/360/054360_hanrei.pdf"
+}

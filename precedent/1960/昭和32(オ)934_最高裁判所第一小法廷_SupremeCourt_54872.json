@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 3,
+    "day": 31
+  },
+  "case_number": "昭和32(オ)934",
+  "case_name": "公売処分無効確認並びに所有権取得登記の抹消登記手続請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第14巻4号663頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 6,
+    "day": 28
+  },
+  "gist": "登記簿上不動産の所有名義人となつている国税滞納者に対する滞納処分として右不動産を公売処分に付した国が、登記の欠缺を主張するにつき正当の利益を有する第三者にあたらないとされた場合と公売処分の効力。",
+  "case_gist": "登記簿上不動産の所有名義人となつている国税滞納者に対する滞納処分として右不動産を公売処分に付した国が、登記の欠缺を主張するにつき正当の利益を有する第三者にあたらないとされる場合には、公売処分は、目的不動産の所有権を競落人に取得させる効果を生じないとする意味において、無効と解すべきである。",
+  "ref_law": "民法177条，旧国税徴収法（明治30年法律21号）10条，旧国税徴収法（明治30年法律21号）24条，行政事件訴訟特例法1条",
+  "lawsuit_id": "54872",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54872",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/872/054872_hanrei.pdf",
+  "contents": ""
+}

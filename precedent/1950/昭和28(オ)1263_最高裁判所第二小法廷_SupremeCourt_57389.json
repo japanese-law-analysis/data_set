@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 7,
+    "day": 20
+  },
+  "case_number": "昭和28(オ)1263",
+  "case_name": "損害金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第10巻8号947頁",
+  "original_court_name": "札幌高等裁判所\n        　函館支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 10,
+    "day": 5
+  },
+  "gist": "審理不尽の違法がある一事例",
+  "case_gist": "同一取引に関する民事、刑事両事件が、同時に、構成員の過半数を同じくする二裁判所に係属する場合において、一裁判所が先ず刑事事件について判決し、民事事件の当事者の一方が、右刑事判決の認定事実と異る相手方主張事実についての自白を取消し右認定に沿う事実を真実に合致するものと主張するとき、他の裁判所が右刑事判決言渡より約二月を経て弁論を終結した民事事件の判決において、右の自白が真実に反する証拠なしとしてその取消を否定するにつき、前記刑事判決において認定した事実を顧慮した形跡がないときは、審理不尽の違法がある。",
+  "ref_law": "民訴法395条6号",
+  "lawsuit_id": "57389",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57389",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/389/057389_hanrei.pdf"
+}

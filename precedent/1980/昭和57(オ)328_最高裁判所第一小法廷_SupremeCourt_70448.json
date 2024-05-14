@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 7,
+    "day": 1
+  },
+  "case_number": "昭和57(オ)328",
+  "case_name": "手付金等",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第136号217頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_case_number": "昭和56(ネ)58",
+  "original_date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 12,
+    "day": 16
+  },
+  "gist": "競売手続中の他人の不動産の売主が履行期に所有権移転登記手続等の義務を履行しなかつたとしても履行遅滞の責任がないとされた事例",
+  "case_gist": "競売手続中の他人の不動産の売主が履行期に所有権移転登記手続等の義務を履行しなかつたとしても、それが競落許可決定に対し即時抗告の申立がされたことによるなど原判示のような事情がある場合においては、売主の責に帰することのできない事由によるものとして履行遅滞の責任を負わない。",
+  "ref_law": "民法415条，民法541条，民法560条",
+  "lawsuit_id": "70448",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70448",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/448/070448_hanrei.pdf"
+}

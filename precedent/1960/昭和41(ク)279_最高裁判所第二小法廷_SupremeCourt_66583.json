@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 9,
+    "day": 5
+  },
+  "case_number": "昭和41(ク)279",
+  "case_name": "不動産競売手続開始決定に対する異議申立却下決定に対する抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集民　第84号307頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和41(ラ)213",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 6,
+    "day": 11
+  },
+  "gist": "競売法による競売手続において口頭弁論ないし当事者の審尋を経ないで審理裁判することは憲法に違反するか",
+  "case_gist": "抵当権実行のためにする不動産競売手続の性質は非訟事件であるから、競売開始決定に対する異議に関する即時抗告事件において、口頭弁論ないし当事者の審尋を経ないで審理裁判することは当裁判所の判例に照らし（最判昭和三三年三月五日大法廷判決民集一二巻三号三八一頁）、憲法に違反しない。",
+  "ref_law": "憲法32条",
+  "lawsuit_id": "66583",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66583",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/583/066583_hanrei.pdf"
+}

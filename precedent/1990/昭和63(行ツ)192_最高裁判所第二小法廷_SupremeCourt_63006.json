@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 2,
+    "month": 3,
+    "day": 23
+  },
+  "case_number": "昭和63(行ツ)192",
+  "case_name": "所得税更正処分取消",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第159号339頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和61(行コ)46",
+  "original_date": {
+    "era": "Showa",
+    "year": 63,
+    "month": 9,
+    "day": 27
+  },
+  "gist": "給与所得者の自家用自動車の譲渡による損失の金額をその給与所得の金額から控除することができないとされた事例",
+  "case_gist": "給与所得者が、自家用自動車を譲渡した場合において、当該自動車の全走行距離の約八パーセントを通勤のために使用しているにすぎないなど判示の事情の下においては、当該自動車は所得税法六九条二項にいう「生活に通常必要でない資産」に当たり、その譲渡所得の金額の計算上生じた損失の金額を同人の給与所得の金額から控除することはできない。",
+  "ref_law": "所得税法62条1項，所得税法69条，所得税法施行令25条，所得税法施行令178条",
+  "lawsuit_id": "63006",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63006",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/006/063006_hanrei.pdf"
+}

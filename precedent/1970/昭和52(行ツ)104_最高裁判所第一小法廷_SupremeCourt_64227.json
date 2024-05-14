@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 3,
+    "day": 15
+  },
+  "case_number": "昭和52(行ツ)104",
+  "case_name": "農地買収無効確認等農地買収売渡等無効確認",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第126号243頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和50(行コ)24",
+  "original_date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 5,
+    "day": 18
+  },
+  "gist": "自作農創設特別措置法（昭和二二年法律第二四一号による改正前のもの）四条二項の規定により在村地主とみなされるための要件",
+  "case_gist": "不在地主が自作農創設特別措置法（昭和二二年法律第二四一号による改正前のもの）四条二項の規定により在村地主とみなされるためには、離村の原因が同法施行令（昭和二三年政令第三六号による改正前のもの）一条所定の特別の事由によるものであれば足り、右事由が存しなかつたならば在村しみずから小作地を耕作することができたことを要しない。",
+  "ref_law": "自作農創設特別措置法（昭和22年法律第241号による改正前のもの）4条2項，自作農創設特別措置法施行令（昭和23年政令第36号による改正前のもの）1条",
+  "lawsuit_id": "64227",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64227",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/227/064227_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 7,
+    "day": 20
+  },
+  "case_number": "昭和34(オ)113",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第16巻8号1583頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 11,
+    "day": 26
+  },
+  "gist": "一　賃貸人の債務不履行による土地賃貸借解除と損害賠償の範囲\n二　転貸禁止の特約の有無は借地権の評価に影響するか",
+  "case_gist": "一　賃貸人の債務不履行による土地賃貸借解除に基づき賃借人の賃貸人に対して請求する借地権喪失による損害賠償の範囲は、右解除当時における当該借地権の価格によるべきである。\n二　土地賃貸借解除に基づく賃借人の賃貸人に対して請求する損害賠償額算定の基準としての借地権の評価につき、転貸禁止の特約の有無は影響しない。",
+  "ref_law": "民法543条，民法545条3項",
+  "lawsuit_id": "52953",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52953",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/953/052953_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 9,
+    "day": 7
+  },
+  "case_number": "昭和52(行ツ)81",
+  "case_name": "懲戒処分取消",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第125号37頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和47(行コ)35",
+  "original_date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 3,
+    "day": 15
+  },
+  "gist": "地方公務員法三七条一項により禁止された争議行為を企てその遂行を共謀しそそのかしあおる行為をしたこと及び右争議行為を行わないことを決定した教職員組合の分会長に暴行を加える等の行為をしたことを理由としてされた公立学校の教諭に対する懲戒処分が裁量権の範囲を逸脱しこれを濫用したものとはいえないとされた事例",
+  "case_gist": "（省略）",
+  "ref_law": "地方公務員法29条1項，地方公務員法37条1項",
+  "lawsuit_id": "64236",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64236",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/236/064236_hanrei.pdf"
+}

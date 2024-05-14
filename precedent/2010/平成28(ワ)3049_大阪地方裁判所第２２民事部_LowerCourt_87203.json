@@ -1,0 +1,16 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 29,
+    "month": 10,
+    "day": 12
+  },
+  "case_number": "平成28(ワ)3049",
+  "case_name": "損害賠償請求事件",
+  "court_name": "大阪地方裁判所第２２民事部",
+  "gist": "被疑者である原告に対する警察官の取調べの際の言動が相当性を欠き，国家賠償法１条１項の適用上違法であるとされた事例",
+  "lawsuit_id": "87203",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=87203",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/203/087203_hanrei.pdf"
+}

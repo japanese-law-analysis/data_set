@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 3,
+    "day": 4
+  },
+  "case_number": "昭和23(ク)2",
+  "case_name": "耕作禁止小作調停事件の調停前の措置としてなされた決定に対する抗告事件につきなした抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "却下",
+  "article_info": "集民　第1号93頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和22(ラ)7",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 9,
+    "day": 29
+  },
+  "lawsuit_id": "76190",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=76190",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/190/076190_hanrei.pdf"
+}

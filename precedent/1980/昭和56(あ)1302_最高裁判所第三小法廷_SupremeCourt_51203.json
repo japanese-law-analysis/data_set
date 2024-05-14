@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 12,
+    "day": 22
+  },
+  "case_number": "昭和56(あ)1302",
+  "case_name": "有印私文書偽造、同行使、道路交通法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第35巻9号953頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 7,
+    "day": 15
+  },
+  "gist": "他人の氏名が限られた範囲で被告人を指称するものとして通用していた場合において右氏名を用いて交通切符中の供述書を作成した所為と私文書偽造罪の成否",
+  "case_gist": "遁刑中であることが発覚するのを恐れて義弟と同一の氏名を使用して生活していた被告人が、右氏名を使用して交通切符中の供述書を作成した場合は、その氏名がたまたまある限られた範囲において被告人を指称するものとして通用していたとしても、私文書偽造罪が成立する。",
+  "ref_law": "刑法159条1項",
+  "lawsuit_id": "51203",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51203",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/203/051203_hanrei.pdf"
+}

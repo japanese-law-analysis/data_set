@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 5,
+    "day": 2
+  },
+  "case_number": "昭和52(オ)676",
+  "case_name": "破産債権確定",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第124号23頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和51(ネ)2073",
+  "original_date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 3,
+    "day": 1
+  },
+  "gist": "受益と損失との間に因果関係がないとして不当利得の成立が否定された事例",
+  "case_gist": "約束手形の所持人が、手形の買戻請求権ないし遡求権を行使することなく、振出人に対する手形債権と振出人の手形所持人に対する預金返還請求権とを対当額において相殺する意思表示をすることにより手形上の権利の満足実現を図つたために、手形の裏書人が買戻請求権ないし遡求権の行使を免れ、結果において利得するところがあつたとしても、裏書人の利得と振掛人がその預金返還請求権の一部を相殺によつて失つた損失との間に民法七〇三条の予定する法律上の因果関係があるということはできない。（意見がある。）",
+  "ref_law": "民法703条",
+  "lawsuit_id": "64211",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64211",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/211/064211_hanrei.pdf"
+}

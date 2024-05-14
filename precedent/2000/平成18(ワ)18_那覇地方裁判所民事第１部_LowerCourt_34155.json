@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 1,
+    "day": 15
+  },
+  "case_number": "平成18(ワ)18",
+  "case_name": "求償金請求事件",
+  "court_name": "那覇地方裁判所民事第１部",
+  "result": "その他",
+  "gist": "国有地に被告が出現させた池に幼児が転落して溺死した事故に関して国が所有者責任に基づいて支払った損害賠償金について，民法７１７条３項に基づいて，被告に対する全額の求償を認めた事案",
+  "lawsuit_id": "34155",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=34155",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/155/034155_hanrei.pdf",
+  "contents": ""
+}

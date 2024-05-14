@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 4,
+    "day": 15
+  },
+  "case_number": "昭和31(あ)1671",
+  "case_name": "傷害",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集刑　第124号203頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 2,
+    "day": 27
+  },
+  "gist": "訴因変更を要しない一事例。―傷害罪における犯行時刻の差異―",
+  "case_gist": "記録によると、被告人Ａに対する起訴状記載の公訴事実には犯行時刻を午後九時頃とあるのを午後一〇時過頃としたほか第一審判決認決事実は公訴事実と全く同一であり、判決で認定した傷害の具体的犯罪構成事実は起訴状記載の傷害の訴因と一致していることが明らかである。すなわち、両者は、ともに、被告人が同年月日、同番地の同じ上で同じ被害者五名の身体を数回ずつ足蹴にする暴行をなし、よつて各被害者にいずれも同一の部位、程度、状態の打撲傷を与え傷害罪を犯したのと事実を記載しているのである。そうして本件において訴因変更手続をとらないで犯罪の時刻だけを右のように公訴事実と異るものとして認定しても、被告人の防禦に実質的な不利益を生ずる虞がないと認められるから違法ではない",
+  "ref_law": "刑訴法312条",
+  "lawsuit_id": "58618",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58618",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/618/058618_hanrei.pdf"
+}

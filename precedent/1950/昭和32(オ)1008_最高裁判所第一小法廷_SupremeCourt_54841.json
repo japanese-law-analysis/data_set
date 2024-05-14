@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 6,
+    "day": 18
+  },
+  "case_number": "昭和32(オ)1008",
+  "case_name": "土地明渡借地権確認等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第13巻6号737頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 7,
+    "day": 20
+  },
+  "gist": "賃貸借の無権代理人が賃貸した土地を取得した場合の効力。",
+  "case_gist": "無権代理人甲が乙の所有地を丙に賃貸した後、乙からその土地の譲渡を受けて所有権を取得したときは、丙との賃貸借は、甲についてその効力を生ずるものと解すべきである。",
+  "ref_law": "民法113条，民法117条",
+  "lawsuit_id": "54841",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54841",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/841/054841_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 12,
+    "day": 14
+  },
+  "case_number": "昭和61(あ)1226",
+  "case_name": "酒税法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第43巻13号841頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 9,
+    "day": 29
+  },
+  "gist": "酒税法七条一項、五四条一項の規定と憲法三一条、一三条",
+  "case_gist": "酒税法七条一項、五四条一項の規定は、自己消費目的の酒類製造を処罰する場合においても、憲法三一条、一三条に違反しない。",
+  "ref_law": "憲法13条，憲法31条，酒税法7条1項，酒税法54条1項",
+  "lawsuit_id": "50336",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50336",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/336/050336_hanrei.pdf"
+}

@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 3,
+    "day": 25
+  },
+  "case_number": "平成21(ワ)16348",
+  "case_name": "発信者情報開示請求事件",
+  "court_name": "大阪地方裁判所第２３民事部",
+  "gist": "インターネットのブログ上に，発信者が，刑事裁判において無罪とされた者について実際に犯罪行為を行ったとの印象を与える書込みをしたことが，名誉毀損に当たるとして，経由プロバイダに対する発信者情報の開示請求（プロバイダ責任制限法４条１項）を認容した事案。",
+  "lawsuit_id": "80135",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=80135",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/135/080135_hanrei.pdf",
+  "contents": ""
+}

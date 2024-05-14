@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 2,
+    "day": 1
+  },
+  "case_number": "平成14(ワ)669",
+  "case_name": "差額賃金支払等請求事件（通称　東部スポーツ解雇）",
+  "court_name": "宇都宮地方裁判所第一民事部",
+  "result": "その他",
+  "gist": "労働条件変更の同意について，契約書を提出しなければ働くことができないと誤信した点に動機の錯誤があり，動機は黙示に表示されていたとして，錯誤無効を認めた例，退職届を提出していない労働者に対する「職を解く」旨の辞令の交付が解雇に該当するとした例，退職に至る過程に使用者の債務不履行を認めた例",
+  "lawsuit_id": "36390",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=36390",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/390/036390_hanrei.pdf",
+  "contents": ""
+}

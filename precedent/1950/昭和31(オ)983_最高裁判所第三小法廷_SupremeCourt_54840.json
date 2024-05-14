@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 5,
+    "day": 20
+  },
+  "case_number": "昭和31(オ)983",
+  "case_name": "合資会社代表社員除名宣告請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第12巻7号1086頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 8,
+    "day": 3
+  },
+  "gist": "合資会社の社員の決議と社員に対する予めの通知の要否",
+  "case_gist": "合資会社の社員の決議については、予め社員に対し、相当期間を定めて決議事項を通知することは、法律上必要ではない",
+  "ref_law": "商法68条，商法86条1項，商法147条，商法232条1項，商法232条2項，民法62条",
+  "lawsuit_id": "54840",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54840",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/840/054840_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 2,
+    "month": 10,
+    "day": 25
+  },
+  "case_number": "平成2(行ツ)130",
+  "case_name": "不作為の違法確認",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第161号51頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和61(行コ)58",
+  "original_date": {
+    "era": "Heisei",
+    "year": 2,
+    "month": 4,
+    "day": 25
+  },
+  "gist": "道路法施行法五条一項に基づく使用貸借による権利と地方自治法二三八条一項四号にいう「地上権、地役権、鉱業権その他これらに準ずる権利」",
+  "case_gist": "道路法施行法五条一項に基づく使用貸借による権利は、地方自治法二三八条一項四号にいう「地上権、地役権、鉱業権その他これらに準ずる権利」に当たらない。",
+  "ref_law": "道路法施行法5条1項，民法593条，地方自治法238条1項4号，地方自治法242条1項，地方自治法242条の2第1項",
+  "lawsuit_id": "62675",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62675",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/675/062675_hanrei.pdf"
+}

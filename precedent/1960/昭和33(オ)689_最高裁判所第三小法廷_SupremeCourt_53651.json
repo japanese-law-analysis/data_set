@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 11,
+    "day": 20
+  },
+  "case_number": "昭和33(オ)689",
+  "case_name": "弁済行為否認金員返還請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第16巻11号2293頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 5,
+    "day": 30
+  },
+  "gist": "一　約束手形の裏書人たる破産者が被裏書人から手形を受け戻すにつき手形金額の支払をした場合と破産法第七三条第一項の類推適用の有無\n二　破産法第七三条第一項にいう「手形ノ支払」と「債務者ノ一人又ハ数人ニ対スル手形上ノ権利」の意義",
+  "case_gist": "一　約束手形の裏書人たる破産者が被裏書人から手形を受け戻すにつき手形金額の支払をした場合には破産法第七三条第一項は類推適用のされない。\n二　破産法第七三条第一項にいう「手形ノ支払」とは、約束手形にあつては振出人の支払を指し、「債務者ノ一人又ハ数人ニ対スル手形上ノ権利」とは、手形所持人の前者に対する遡及権を指すにほかならない。",
+  "ref_law": "破産法73条，破産法72条，手形法43条，手形法53条，手形法777条1項，手形法77条1項",
+  "lawsuit_id": "53651",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53651",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/651/053651_hanrei.pdf"
+}

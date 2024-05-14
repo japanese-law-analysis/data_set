@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 2,
+    "day": 12
+  },
+  "case_number": "昭和32(あ)902",
+  "case_name": "外国貿易管理法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第123号273頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 3,
+    "day": 14
+  },
+  "gist": "立会の機会が与えられたのに被告人が立ち合わないで証人尋問がなされた場合の該手続の適否―その証人尋問調書の証拠能力",
+  "case_gist": "立会の機会が与えられたのに被告人が立ち合わないで証人尋問がなされたからといつてその尋問手続を違法とする理由はなく、又その証人尋問調書が証拠能力を有しないいわれもない（刑訴三二一条二項参照）。",
+  "ref_law": "憲法37条，刑訴法157条，刑訴法321条",
+  "lawsuit_id": "58657",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58657",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/657/058657_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 5,
+    "day": 13
+  },
+  "case_number": "昭和23(ク)6",
+  "case_name": "金銭債務臨時調停法第七条の裁判に対する再審申立事件につきなした決定に対する抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "その他",
+  "article_info": "民集　第2巻5号112頁",
+  "original_court_name": "札幌地方裁判所",
+  "original_case_number": "昭和22(カ)1",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 10,
+    "day": 21
+  },
+  "gist": "民事訴訟法の規定により不服の申立のできる決定と民訴応急措置法第七条の抗告。",
+  "case_gist": "高等裁判所に抗告のできる地方裁判所の決定については、民訴応急措置法第七条による抗告の申立は許されない。",
+  "ref_law": "民訴応急措置7条，裁判所法16条2号",
+  "lawsuit_id": "57120",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57120",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/120/057120_hanrei.pdf"
+}

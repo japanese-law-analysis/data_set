@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 63,
+    "month": 3,
+    "day": 31
+  },
+  "case_number": "昭和59(オ)1293",
+  "case_name": "土地所有権確認等請求事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集民　第153号627頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和57(ネ)2364",
+  "original_date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 8,
+    "day": 16
+  },
+  "gist": "将来の給付の訴えを提起することのできる請求としての適格を有しないものとされた事例",
+  "case_gist": "共有者の一人が共有物を他に賃貸して得る収益につきその持分割合を超える部分の不当利得返還を求める他の共有者の請求のうち事実審の口頭弁論終結時後に係る請求部分は、将来の給付の訴えを提起することのできる請求としての適格を有しない。",
+  "ref_law": "民訴法226条",
+  "lawsuit_id": "62318",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62318",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/318/062318_hanrei.pdf"
+}

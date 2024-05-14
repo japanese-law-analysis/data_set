@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 4,
+    "day": 14
+  },
+  "case_number": "昭和24新(れ)313",
+  "case_name": "賍物牙保",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第4巻1号587頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 8,
+    "day": 16
+  },
+  "gist": "被告人に對する前科調書の證據調をすることは憲法第三九條に違反するか",
+  "case_gist": "第一審裁判所が被告人に對する前科調書の證據調をしたことだけでは前犯に對する確定判決に判示された犯行について再び審理裁判したものでなく右確定判決の効力を動かすこともなく憲法第三九條に違反するものではない。",
+  "ref_law": "憲法39條",
+  "lawsuit_id": "56746",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56746",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/746/056746_hanrei.pdf"
+}

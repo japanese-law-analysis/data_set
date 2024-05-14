@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 2,
+    "day": 17
+  },
+  "case_number": "昭和30(オ)665",
+  "case_name": "法令審査、世田谷特別区長選任無効確認等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第10巻2号86頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 4,
+    "day": 25
+  },
+  "gist": "特別区長選任無効確認を求める住民の訴の適否",
+  "case_gist": "特別区長選任無効確認を求める住民の訴は、その具体的権利義務に関係がないから不適法である。",
+  "ref_law": "行政事件訴訟特例法1条，地方自治法281条の2",
+  "lawsuit_id": "57613",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57613",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/613/057613_hanrei.pdf"
+}

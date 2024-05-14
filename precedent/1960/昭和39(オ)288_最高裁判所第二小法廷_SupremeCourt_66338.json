@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 12,
+    "day": 10
+  },
+  "case_number": "昭和39(オ)288",
+  "case_name": "定期預金払戻請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第81号381頁",
+  "original_court_name": "広島高等裁判所\n        　松江支部",
+  "original_case_number": "昭和36(ネ)11",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 12,
+    "day": 25
+  },
+  "gist": "無記名定期預金債権者の判定の事例",
+  "case_gist": "甲が乙に案内されて銀行に赴き、係員に対し、預金の金員および自己の印鑑（第三者名義）を提出して、無記名定期預金をする旨の申出をなし、係員から該銀行発行の無記名定期預金証書の交付を受け、右印鑑とともに保管していた等原判示事実関係（原判決理由参照）のもとにおいては、たとい乙において右銀行係員に対し、右預金を暗に自己の預金であるかのように装つた疑があるとしても、右預金の債権者は甲であると認めるを相当とする。",
+  "ref_law": "民法666条",
+  "lawsuit_id": "66338",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66338",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/338/066338_hanrei.pdf"
+}

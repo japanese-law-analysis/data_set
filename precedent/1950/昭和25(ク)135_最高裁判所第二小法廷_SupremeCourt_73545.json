@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 10,
+    "day": 27
+  },
+  "case_number": "昭和25(ク)135",
+  "case_name": "判事忌避申立事件の決定に対する抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "却下",
+  "article_info": "集民　第5号711頁",
+  "original_court_name": "広島高等裁判所",
+  "original_case_number": "昭和25(ラ)13",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 10,
+    "day": 31
+  },
+  "lawsuit_id": "73545",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=73545",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/545/073545_hanrei.pdf"
+}

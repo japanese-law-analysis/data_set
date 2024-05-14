@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 10,
+    "day": 1
+  },
+  "case_number": "昭和45(オ)250",
+  "case_name": "請求異議",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第101号7頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和41(ネ)1949",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 11,
+    "day": 21
+  },
+  "gist": "公正証書の記載の一部が事実に合致しない場合とその効力",
+  "case_gist": "公正証書に当該請求権の発生原因として記載されている事実が多少真実の事実と一致しないところがあつても、その記載により当該請求権の同一性が認識できる以上は当該公正証書は真実の請求権と一致する部分にかぎり当該請求についての債務名義としての効力を有するものと解すべきである。",
+  "ref_law": "民訴法559条3",
+  "lawsuit_id": "64024",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64024",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/024/064024_hanrei.pdf"
+}

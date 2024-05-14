@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 4,
+    "day": 10
+  },
+  "case_number": "昭和22(れ)155",
+  "case_name": "尊属遺棄致死",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第2巻4号320頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 7,
+    "day": 24
+  },
+  "gist": "酌量減軽又は刑の執行猶豫を受ける情状があるとの主張と刑訴第三六〇條第二項",
+  "case_gist": "刑事訴訟法第三六〇條第二項の法律上刑の加重減免の原由たる事實上の主張とは、或る事實が存する以上必らず刑を加重減免すべきものと法律が特に規定しておる事由を指すのであつて、刑の裁量の標準となる諸般の情状に關する主張の如き謂うのではない。從つて酌量減輕或は刑の執行猶豫を受くるに適する情状があると云うが如き主張は之に該當しない。",
+  "ref_law": "刑訴法360條2項",
+  "lawsuit_id": "56397",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56397",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/397/056397_hanrei.pdf"
+}

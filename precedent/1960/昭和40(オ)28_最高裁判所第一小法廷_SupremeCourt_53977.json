@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 10,
+    "day": 31
+  },
+  "case_number": "昭和40(オ)28",
+  "case_name": "不動産登記抹消登記等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第22巻10号2350頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和36(ネ)621",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 9,
+    "day": 7
+  },
+  "gist": "賃借権の譲渡転貸許容の特約がされその旨の登記がされている土地賃貸借において賃借権の消滅を第三者に対抗するためにはその旨の登記を経ることを要するか",
+  "case_gist": "建物所有を目的とする土地賃貸借において、賃借権の譲渡、賃借物の転貸を許容する旨の特約があり、かつ、その賃借権の設定および右特約について登記がされているときは、賃貸人が右賃借権の消滅を第三者に対抗するためには、民法第一七七条の規定の類推適用により、その旨の登記を経由しなければならない。",
+  "ref_law": "民法177条，民法601条，民法612条，借地法1条",
+  "lawsuit_id": "53977",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53977",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/977/053977_hanrei.pdf"
+}

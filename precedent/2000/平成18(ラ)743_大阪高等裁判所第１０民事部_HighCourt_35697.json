@@ -1,0 +1,21 @@
+{
+  "trial_type": "HighCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 9,
+    "day": 20
+  },
+  "case_number": "平成18(ラ)743",
+  "case_name": "養子縁組許可申立却下審判に対する抗告事件",
+  "court_name": "大阪高等裁判所第１０民事部",
+  "result": "その他",
+  "article_info": "第60巻3号1頁",
+  "original_court_name": "大阪家庭裁判所",
+  "gist": "後見人が自己の直系卑属である未成年者被後見人を養子とするため民法７９４条の許可申立てをした場合における裁判所の審査すべき範囲",
+  "case_gist": "後見人が，自己の直系卑属である未成年者被後見人を養子とするため，民法７９４条の養子縁組許可を申し立てた場合，裁判所は，当該被後見人の財産的地位に対する危険を排除するという観点から当該養子縁組の当否を吟味すれば足り，子の福祉確保の観点からその当否を審査すべきではない。",
+  "lawsuit_id": "35697",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail3?id=35697",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/697/035697_hanrei.pdf",
+  "contents": ""
+}

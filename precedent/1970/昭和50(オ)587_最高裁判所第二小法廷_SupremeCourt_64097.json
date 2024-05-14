@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 5,
+    "day": 1
+  },
+  "case_number": "昭和50(オ)587",
+  "case_name": "預金返還",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第124号1頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和47(ネ)150",
+  "original_date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 3,
+    "day": 19
+  },
+  "gist": "定期預金債権の準占有者にあたらないものとされた事例",
+  "case_gist": "預金者のために架空人名義の定期預金の預入行為をした者について、同人が右預金につき届け出られた印章を所持しており、また、右預金の預金証書を紛失したと称し、その紛失の届出が同人からされている旨の警察署の証明書を銀行に提出して預金証書の再交付を受けるなど判示のような事実があつても、これら事実から直ちにこの者が定期預金債権の準占有者にあたるということはできない。",
+  "ref_law": "民法478条",
+  "lawsuit_id": "64097",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64097",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/097/064097_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 3,
+    "day": 24
+  },
+  "case_number": "昭和50(あ)1159",
+  "case_name": "殺人、殺人未遂",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "刑集　第32巻2号408頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 4,
+    "day": 30
+  },
+  "gist": "被告人の責任能力について事実誤認の疑いがあるとされた事例",
+  "case_gist": "被告人の精神分裂病の既往歴、犯行時の右疾病による欠陥状態（人格水準低下、感情鈍麻）の存在、犯行の動機についての妄想の関与及び犯行に際しての奇異な行動など（判文参照）の事情がうかがわれる本件においては、犯行が精神分裂病の寛解期にされたことのほか、犯行の動機の存在、犯行の計画性、犯行後の証拠隠滅工作を含む一連の行動を重視し、是非善悪の判断が可能な精神状態にあつた旨の鑑定意見を裏付けとして、被告人の精神状態の著しい欠陥、障害はなかつたものと認めた原判決は、被告人の限定責任能力を認めなかつた点において事実を誤認した疑いがあり、破棄を免れない。",
+  "ref_law": "刑法39条2項，刑訴法411条3号",
+  "lawsuit_id": "51824",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51824",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/824/051824_hanrei.pdf"
+}

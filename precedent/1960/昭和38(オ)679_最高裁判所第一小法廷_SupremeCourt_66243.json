@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 10,
+    "day": 8
+  },
+  "case_number": "昭和38(オ)679",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第75号635頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 2,
+    "day": 22
+  },
+  "gist": "家賃領収書交付債務の不履行と家賃支払債務の履行の拒絶の可否。",
+  "case_gist": "家賃の支払いとその受取証書の交付とは同時履行の関係にあると解すべきであるが、借家人が受取証書の交付を受けないで異議なく家賃の支払いをした場合には、さきに支払つた家賃について受取証書の交付のないことを理由として、その後の家賃の支払いを拒絶することはできない。",
+  "ref_law": "民法486条，民法533条",
+  "lawsuit_id": "66243",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66243",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/243/066243_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 1,
+    "day": 22
+  },
+  "case_number": "昭和24(オ)179",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第7巻1号56頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 6,
+    "day": 27
+  },
+  "gist": "一　不法原因給付の返還の特約の効力\n二　不法原因給付の返還の特約に基く返還義務の履行のため振り出された手形の請求と民法第七〇八条",
+  "case_gist": "一　不法原因給付の返還の特約は、有効である\n二　不法原因給付の返還の特約に基く返還義務の履行のため振り出された手形の請求には、民法七〇八条は適用がない。",
+  "ref_law": "民法90条，民法708条",
+  "lawsuit_id": "57131",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57131",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/131/057131_hanrei.pdf"
+}

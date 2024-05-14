@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 3,
+    "day": 6
+  },
+  "case_number": "昭和28(し)8",
+  "case_name": "騒擾被告事件における裁判官忌避申立却下決定に対する抗告事件について為した抗告棄却の決定に対する特別抗告の申立",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第75号445頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 1,
+    "day": 14
+  },
+  "gist": "警察署検察庁等との年末恒例の宴席に出席した裁判官の裁判と公平な裁判所の裁判",
+  "case_gist": "裁判官が裁判所、検察庁、警察署及び新聞報道関係者の出席する警察署主催の年末恒例の宴席に出席したというだけの理由では不公平な裁判をする虞があるとすることはできない。（事案は、平市における騒擾事件）",
+  "ref_law": "憲法37条1項，刑訴法21条1項",
+  "lawsuit_id": "69502",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=69502",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/502/069502_hanrei.pdf"
+}

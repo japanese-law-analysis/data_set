@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 7,
+    "month": 12,
+    "day": 5
+  },
+  "case_number": "平成6(オ)440",
+  "case_name": "土地所有権移転登記手続",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第177号341頁",
+  "original_court_name": "高松高等裁判所",
+  "original_case_number": "平成5(ネ)50",
+  "original_date": {
+    "era": "Heisei",
+    "year": 5,
+    "month": 12,
+    "day": 7
+  },
+  "gist": "単独名義で相続の登記を経由した共同相続人の一人から不動産を譲り受けた者と相続回復請求権の消滅時効の援用",
+  "case_gist": "相続財産である不動産について単独名義で相続の登記を経由した共同相続人の一人甲が、甲の本来の相続持分を超える部分が他の相続人に属することを知っていたか、又は右部分を含めて甲が単独相続をしたと信ずるにつき合理的な事由がないために、他の共同相続人に対して相続回復請求権の消滅時効を援用することができない場合には、甲から右不動産を譲り受けた第三者も右時効を援用することはできない。",
+  "ref_law": "民法884条",
+  "lawsuit_id": "76119",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=76119",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/119/076119_hanrei.pdf"
+}

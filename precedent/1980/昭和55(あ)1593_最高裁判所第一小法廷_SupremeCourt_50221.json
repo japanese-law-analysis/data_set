@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 4,
+    "day": 25
+  },
+  "case_number": "昭和55(あ)1593",
+  "case_name": "覚せい剤取締法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第35巻3号116頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 9,
+    "day": 4
+  },
+  "gist": "覚せい剤使用罪における訴因の特定",
+  "case_gist": "覚せい剤使用の日時を「昭和五四年九月二六日ころから同年一〇月三日までの間」、その場所を「広島県ａ郡ｂ町内及びその周辺」、その使用量、使用方法を「若干量を自己の身体に注射又は服用して施用し」との程度に表示してある公訴事実の記載は、検察官において起訴当時の証拠に基づきできる限り特定したものである以上、覚せい剤使用罪の訴因の特定に欠けるところはない。",
+  "ref_law": "刑訴法256条3項，覚せい剤取締法19条",
+  "lawsuit_id": "50221",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50221",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/221/050221_hanrei.pdf"
+}

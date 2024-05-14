@@ -1,0 +1,17 @@
+{
+  "trial_type": "LaborCase",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 2,
+    "day": 3
+  },
+  "case_number": "平成16(ワ)472",
+  "case_name": "解雇無効確認等請求事件（通称　新日本管財割増賃金請求）",
+  "court_name": "東京地方裁判所",
+  "field": "労働",
+  "lawsuit_id": "34536",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail6?id=34536",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/536/034536_hanrei.pdf",
+  "contents": ""
+}

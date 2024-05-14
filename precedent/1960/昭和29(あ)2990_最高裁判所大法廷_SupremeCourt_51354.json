@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 1,
+    "day": 27
+  },
+  "case_number": "昭和29(あ)2990",
+  "case_name": "あん摩師、はり師、きゆう師及び柔道整復師法違反",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "刑集　第14巻1号33頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 6,
+    "day": 29
+  },
+  "gist": "一　あん摩師、はり師、きゆう師及び柔道整復師法第一二条、第一四条により禁止処罰される医業類似行為\n二　右第一二条、第一四条の合憲性",
+  "case_gist": "一　あん摩師、はり師、きゆう師及び柔道整復師法第一二条、第一四条が医業類似行為を業とすることを禁止処罰するのは、人の健康に害を及ぼす虞のある業務行為に限局する趣旨と解しなければならない。\n二　右のような禁止処罰は公共の福祉上必要であるから前記第一二条、第一四条は憲法第二二条に反するものではない。",
+  "ref_law": "あん摩師、はり師、きゆう師及び柔道整復師法12条，あん摩師、はり師、きゆう師及び柔道整復師法14条，憲法22条",
+  "lawsuit_id": "51354",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51354",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/354/051354_hanrei.pdf"
+}

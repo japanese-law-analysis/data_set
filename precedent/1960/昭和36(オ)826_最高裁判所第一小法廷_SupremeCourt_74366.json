@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 1,
+    "day": 30
+  },
+  "case_number": "昭和36(オ)826",
+  "case_name": "所有権確認詐害行為取消等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第71号527頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 3,
+    "day": 29
+  },
+  "gist": "特定物引渡請求権者は詐害行為取消権を有するか。",
+  "case_gist": "特定物引渡請求権を有する者も、その目的物を債務者が処分することにより無資力となつた場合には、右処分行為を詐害行為として取り消すことができるものと解すべきである。",
+  "ref_law": "民法424条",
+  "lawsuit_id": "74366",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74366",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/366/074366_hanrei.pdf"
+}

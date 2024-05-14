@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 17,
+    "month": 7,
+    "day": 14
+  },
+  "case_number": "平成16(受)930",
+  "case_name": "損害賠償請求事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第59巻6号1569頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成15(ネ)5110",
+  "original_date": {
+    "era": "Heisei",
+    "year": 16,
+    "month": 3,
+    "day": 3
+  },
+  "gist": "公立図書館の職員が図書の廃棄について不公正な取扱いをすることと当該図書の著作者の人格的利益の侵害による国家賠償法上の違法",
+  "case_gist": "公立図書館の職員である公務員が，閲覧に供されている図書の廃棄について，著作者又は著作物に対する独断的な評価や個人的な好みによって不公正な取扱いをすることは，当該図書の著作者の人格的利益を侵害するものとして国家賠償法上違法となる。",
+  "ref_law": "国家賠償法1条1項，図書館法2条，図書館法3条，憲法13条，憲法19条，憲法21条1項",
+  "lawsuit_id": "52410",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52410",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/410/052410_hanrei.pdf"
+}

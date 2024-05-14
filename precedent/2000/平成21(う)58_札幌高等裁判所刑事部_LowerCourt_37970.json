@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 8,
+    "day": 27
+  },
+  "case_number": "平成21(う)58",
+  "case_name": "業務上過失致死傷",
+  "court_name": "札幌高等裁判所刑事部",
+  "result": "破棄自判",
+  "original_court_name": "札幌地方裁判所",
+  "original_case_number": "平成20(わ)1237",
+  "original_result": "その他",
+  "gist": "小型船舶の船長である被告人が，河口付近海域の波浪状況等を自ら確認することなく，河川上流のマリーナから出航した過失により，同海域付近で大波を受けた結果，乗船者のうち２名に傷害を負わせ，１名を海中に転落させて死亡させた業務上過失致死傷事件について，被告人を禁錮１年６月の実刑に処した原判決を破棄し，保護観察付き執行猶予とした事例",
+  "lawsuit_id": "37970",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=37970",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/970/037970_hanrei.pdf",
+  "contents": ""
+}

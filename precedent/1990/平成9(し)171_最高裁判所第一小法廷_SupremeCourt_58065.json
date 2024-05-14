@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 9,
+    "month": 10,
+    "day": 2
+  },
+  "case_number": "平成9(し)171",
+  "case_name": "裁判官忌避申立て却下の裁判に対する準抗告棄却決定に対する特別抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第272号1頁",
+  "original_court_name": "前橋地方裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 9,
+    "month": 9,
+    "day": 2
+  },
+  "gist": "忌避申立て簡易却下の裁判に対する準抗告が利益を欠くとして不適法とされた事例",
+  "ref_law": "刑訴法21条，刑訴法24条，刑訴法429条1項1号",
+  "lawsuit_id": "58065",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58065",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/065/058065_hanrei.pdf"
+}

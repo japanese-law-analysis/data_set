@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 4,
+    "day": 27
+  },
+  "case_number": "昭和56(あ)1829",
+  "case_name": "暴行、傷害",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第227号257頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 10,
+    "day": 29
+  },
+  "gist": "原審において主張判断を経ない事項についての判例違反の主張が不適法とされた事例",
+  "lawsuit_id": "58203",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58203",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/203/058203_hanrei.pdf"
+}

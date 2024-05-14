@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 11,
+    "day": 6
+  },
+  "case_number": "昭和39(行ツ)95",
+  "case_name": "農地買収無効確認請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第24巻12号1721頁",
+  "original_court_name": "東京地方裁判所",
+  "original_case_number": "昭和37(行)132",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 6,
+    "day": 24
+  },
+  "gist": "行政事件訴訟法三六条にいう「目的を達することができない」の意義",
+  "case_gist": "行政事件訴訟法三六条にいう「目的を達することができない」とは、処分の無効等を前提とする現在の法律関係に関する訴の形態を法律上とることができないことをいい、具体的に勝訴の見込みがないことまでをもいうものではない。",
+  "ref_law": "行政事件訴訟法36条",
+  "lawsuit_id": "53153",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53153",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/153/053153_hanrei.pdf"
+}

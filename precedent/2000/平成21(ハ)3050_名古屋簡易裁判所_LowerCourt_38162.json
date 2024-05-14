@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 7,
+    "day": 15
+  },
+  "case_number": "平成21(ハ)3050",
+  "case_name": "給料支払請求事件",
+  "court_name": "名古屋簡易裁判所",
+  "gist": "被告との間の労働契約に基づき月給制で給料の支払を受けていた原告が，被告の廃業に伴い月の途中で解雇された場合に，１か月に満たない給料の額について，労働基準法施行規則２５条の計算方法に準じ，月によって定められた賃金を，その月の日数から公休日を控除した所定労働日数で除し，勤務日数を乗じて算定した事例",
+  "lawsuit_id": "38162",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=38162",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/162/038162_hanrei.pdf",
+  "contents": ""
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 12,
+    "day": 12
+  },
+  "case_number": "昭和26(オ)798",
+  "case_name": "選挙運動に関する支出金額の制限超過による当選無効訴訟",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第6巻11号1175頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 10,
+    "day": 27
+  },
+  "gist": "候補者が乗車した場合の選挙運動用自動車の費用を選挙運動費用に加算することの要否",
+  "case_gist": "選挙運動のため用いられている自動車に候補者が乗車した場合は、右乗車中の自動車の費用は選挙運動費用に加算するを要しない。",
+  "ref_law": "公職選挙法（昭和27年法律307号による改正前のもの）141条，公職選挙法（昭和27年法律307号による改正前のもの）197条，公職選挙法（昭和27年法律307号による改正前のもの）198条",
+  "lawsuit_id": "57269",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57269",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/269/057269_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 12,
+    "day": 24
+  },
+  "case_number": "昭和31(オ)148",
+  "case_name": "請求異議",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第11巻14号2363頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 11,
+    "day": 19
+  },
+  "gist": "弁護士法第二五条第一号に違背する行為に基いて作成された公正証書の効力",
+  "case_gist": "弁護士法第二五条第一号に違背する行為に基いて作成された公正証書は無効と解すべきである。",
+  "ref_law": "弁護士法25条1号",
+  "lawsuit_id": "57646",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57646",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/646/057646_hanrei.pdf"
+}

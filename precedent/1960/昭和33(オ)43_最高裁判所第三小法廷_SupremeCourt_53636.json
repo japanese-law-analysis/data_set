@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 4,
+    "day": 26
+  },
+  "case_number": "昭和33(オ)43",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第14巻6号1064頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 10,
+    "day": 31
+  },
+  "gist": "唯一の証拠方法を取調べなくても違法でないとされた事例。",
+  "case_gist": "証人尋問が唯一の証拠方法であつても、右尋問期日に証人および申請当事者が出頭せず、しかも従来その当事者は病気、示談、調停などを理由として期日の延期または訴訟手続の停止申請をくり返すだけで訴提起以来数回行われた口頭弁論期日に一度も出張したことがたく訴訟代理人の選任もしない等の経過から見て、たとえ証人尋問のため新期日を指定しても右当事者が出頭し証人尋問を行うことを期待し難い事情のあるときは、その取調をしないで審理を終結しても違法ではない。",
+  "ref_law": "民訴法259条",
+  "lawsuit_id": "53636",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53636",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/636/053636_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 12,
+    "day": 20
+  },
+  "case_number": "昭和60(オ)483",
+  "case_name": "離縁",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集民　第146号379頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和59(ネ)337",
+  "original_date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 1,
+    "day": 30
+  },
+  "gist": "縁組を継続し難い重大な事由があるとされた事例",
+  "case_gist": "農業及び祭祀の承継を目的としてされた成年者を養子とする縁組において、会社に勤務しつつ農作業に従事することを了解していた養子の農業の手伝い方などをめぐつて養父母と養子との間に感情的対立が昂じ、互いに暴言やいやがらせの言動が重なり、養子が養父母に対し押し倒したり足蹴にするなどの暴行を加えたことがあるなど判示の事実関係があるときは、民法八一四条一項三号にいう「縁組を継続し難い重大な事由」があるものと認めるのが相当である。",
+  "ref_law": "民法814条1項3号",
+  "lawsuit_id": "62962",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62962",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/962/062962_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 9,
+    "day": 30
+  },
+  "case_number": "昭和46(オ)563",
+  "case_name": "慰藉料請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第103号569頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和45(ネ)1099",
+  "original_date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 3,
+    "day": 15
+  },
+  "gist": "被用者の不法行為に基づく責任と民法七一五条に基づく使用者の責任との関係",
+  "case_gist": "被用者の不法行為に基づく損害賠償債務に関する確定判決の存在は、民法七一五条に基づく使用者に対する損害賠償請求訴訟において、その賠償額の認定に影響を及ぼすものではない。",
+  "ref_law": "民法709条，民法715条",
+  "lawsuit_id": "62051",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62051",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/051/062051_hanrei.pdf"
+}

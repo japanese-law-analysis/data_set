@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 12,
+    "day": 26
+  },
+  "case_number": "昭和32(オ)657",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第15巻12号3075頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 4,
+    "day": 25
+  },
+  "gist": "加害行為と損害の発生との間の因果関係を肯定した事例。",
+  "case_gist": "丁が甲振出名義の約束手形を偽造して受取人乙に交付し、乙がこれを丙に対し負担する売掛代金債務の支払方法としてその情を知らない丙に裏書譲渡し、丙が振出名義人甲に対し手形金請求訴訟をしている間に乙に対し有する右売掛代金債権および手形の遡及権がともに時効により消滅し、よつて丙に損害が発生した場合、手形偽造者丁は、単に丙において時効中断の措置をとり損害の発生を防止する余地があつたというだけで、手形の偽造交付行為と右損害の発生との間の因果関係を否定し、丙に対する不法行為による責任を免れることはできない。",
+  "ref_law": "民法709条",
+  "lawsuit_id": "53599",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53599",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/599/053599_hanrei.pdf"
+}

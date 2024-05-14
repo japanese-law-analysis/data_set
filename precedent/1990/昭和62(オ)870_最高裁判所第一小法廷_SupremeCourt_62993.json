@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 2,
+    "month": 7,
+    "day": 5
+  },
+  "case_number": "昭和62(オ)870",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第160号187頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和60(ネ)2126",
+  "original_date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 3,
+    "day": 17
+  },
+  "gist": "契約準備段階にある当事者の一方が契約の締結を拒否したことにつき不法行為責任を負うとされた事例",
+  "case_gist": "売買契約締結の過程において、その目的物、代金の額及び支払時期、契約締結の時期などを当事者の双方が了解し、買主となる者が、売主となる者に確実に契約が成立するとの期待を抱かせるに至ったにもかかわらず、一方的、無条件に契約の締結を拒否し、これを正当視すべき特段の事情もないなど原判示の事実関係の下においては、買主となる者は、売主となる者に対し、信義則上の義務違反を理由とする不法行為責任を負う。",
+  "ref_law": "民法1条2項，民法709条",
+  "lawsuit_id": "62993",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62993",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/993/062993_hanrei.pdf"
+}

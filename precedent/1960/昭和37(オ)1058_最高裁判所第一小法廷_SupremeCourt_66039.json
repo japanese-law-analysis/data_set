@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 5,
+    "day": 23
+  },
+  "case_number": "昭和37(オ)1058",
+  "case_name": "所有権移転登記手続請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第66号127頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 6,
+    "day": 22
+  },
+  "gist": "被告の登記名義回復を条件とする将来の給付請求が許された事例。",
+  "case_gist": "甲の乙に対する所有権移転登記が抹消されて甲が登記名義を回復したとき甲は丙に対し売買を原因とする所有権移転登記をせよとの丙の請求は、将来の給付請求として許される。",
+  "ref_law": "民訴法226条",
+  "lawsuit_id": "66039",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66039",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/039/066039_hanrei.pdf"
+}

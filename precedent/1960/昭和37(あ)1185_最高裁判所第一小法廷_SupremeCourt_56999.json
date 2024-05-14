@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 11,
+    "day": 1
+  },
+  "case_number": "昭和37(あ)1185",
+  "case_name": "外国為替及び外国貿易管理法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第16巻11号1483頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 3,
+    "day": 20
+  },
+  "gist": "外国為替及び外国貿易管理法第六条第一項第六号の非住居者にあたるとされた事例。",
+  "case_gist": "非住居者である個人経営の外国商社の経営者が来日して、日時の経過により住居者扱いとなつても、その経営にかかる海外にある商社が、従来どおりの実態をもつて営業を継続している場合は、その海外にある商社自体は、外国為替及び外国貿易管理法上非住居者である。",
+  "ref_law": "外国為替及び外国貿易管理法6条1項5号，外国為替及び外国貿易管理法6条1項6号，外国為替及び外国貿易管理法27条，外国為替及び外国貿易管理法70条7号",
+  "lawsuit_id": "56999",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56999",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/999/056999_hanrei.pdf"
+}

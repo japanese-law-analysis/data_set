@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 11,
+    "day": 8
+  },
+  "case_number": "平成22(行ク)37",
+  "case_name": "仮の義務付け申立て事件",
+  "court_name": "名古屋地方裁判所民事第9部",
+  "gist": "道路運送法９条の３第１項に基づき地方運輸局長に対し運賃の据置きを申請したが却下処分を受けたタクシー業者の，その申請に対する認可処分の仮の義務付けを求める申立てが認容された事例",
+  "lawsuit_id": "81082",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=81082",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/082/081082_hanrei.pdf",
+  "contents": ""
+}

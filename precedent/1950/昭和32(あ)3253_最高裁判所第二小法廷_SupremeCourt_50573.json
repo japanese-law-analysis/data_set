@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 10,
+    "day": 8
+  },
+  "case_number": "昭和32(あ)3253",
+  "case_name": "横領",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第12巻14号3237頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 11,
+    "day": 11
+  },
+  "gist": "不動産のいわゆる二重売買が横領罪を構成する事例。",
+  "case_gist": "甲がその所有にかかる不動産を第三者に売却し所有権が移転したものと認められる場合に、未だその旨の登記を了していないことを奇貨とし、乙に対し右不動産を売却しその旨の登記を了する所為は、横領罪を構成する。",
+  "ref_law": "刑法252条1項",
+  "lawsuit_id": "50573",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50573",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/573/050573_hanrei.pdf"
+}

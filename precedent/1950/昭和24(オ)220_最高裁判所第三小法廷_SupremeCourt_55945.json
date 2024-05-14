@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 1,
+    "day": 30
+  },
+  "case_number": "昭和24(オ)220",
+  "case_name": "仮処分申請",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第5巻1号1頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 7,
+    "day": 23
+  },
+  "gist": "組合除名による解雇と解雇失業による損害を避けるための仮処分申請",
+  "case_gist": "労働組合の組合員が、除名されたときは解雇するとの労働協約に基き解雇された後は、解雇失業という著しい損害を避けるためには、使用者を相手方として解雇処分の効力停止の仮処分申請をすべきであつて、組合を相手として組合員除名処分の効力停止を求める仮処分申請をすべきではない。",
+  "ref_law": "民訴法760条",
+  "lawsuit_id": "55945",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55945",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/945/055945_hanrei.pdf"
+}

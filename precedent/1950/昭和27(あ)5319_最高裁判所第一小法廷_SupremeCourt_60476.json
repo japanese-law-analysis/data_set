@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 8,
+    "day": 30
+  },
+  "case_number": "昭和27(あ)5319",
+  "case_name": "詐欺",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集刑　第114号573頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 8,
+    "day": 7
+  },
+  "gist": "詐欺罪における騙取行為にあたらない事例",
+  "case_gist": "町の土木委員として町の土木予算を知る甲が、請負人乙の代理人として町と工事請負契約を締結するにあたり、甲乙間の内部関係において乙に右予算額よりはるかに低額で請負うことを承諾させた事実があるにかかわらず、町の係員には右事実を秘し、あたかも乙は町の予算額で請負うものの如く申し向けて契約を結び、公示完了により乙に代つて右代金を受領し、乙の承諾した代金との差額を領得したとしても、甲の右所為は町との関係において詐欺罪を構成するものとはいえない。",
+  "ref_law": "刑法246条",
+  "lawsuit_id": "60476",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60476",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/476/060476_hanrei.pdf"
+}

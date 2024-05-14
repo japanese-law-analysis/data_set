@@ -1,0 +1,20 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 9,
+    "month": 3,
+    "day": 6
+  },
+  "case_number": "平成8(あ)1244",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第270号401頁",
+  "gist": "刑訴法３２１条１項２号後段の合憲性",
+  "ref_law": "憲法37条2項，刑訴法321条1項2号後段",
+  "lawsuit_id": "58033",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58033",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/033/058033_hanrei.pdf"
+}

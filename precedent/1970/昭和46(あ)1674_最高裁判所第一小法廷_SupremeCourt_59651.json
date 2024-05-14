@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 10,
+    "day": 12
+  },
+  "case_number": "昭和46(あ)1674",
+  "case_name": "傷害",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第181号709頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 6,
+    "day": 25
+  },
+  "gist": "被告人が暴力団員であることと憲法一四条",
+  "ref_law": "憲法14条",
+  "lawsuit_id": "59651",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59651",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/651/059651_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 9,
+    "day": 28
+  },
+  "case_number": "昭和28(オ)686",
+  "case_name": "登記抹消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第10巻9号1213頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 4,
+    "day": 18
+  },
+  "gist": "必要的共同訴訟にあたらない事例",
+  "case_gist": "売買を原因として不動産の所有権移転登記を得た者、および、同人から抵当権設定登記と代物弁済契約による所有権移転請求権保全の仮登記を得た者を共同被告として、右不動産の所有者として売買の不存在を主張する者から、登記の抹消を求める訴は、訴訟の目的が共同訴訟人の全員につき合一にのみ確定すべき場合にあたらない。",
+  "ref_law": "民訴法62条",
+  "lawsuit_id": "57442",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57442",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/442/057442_hanrei.pdf"
+}

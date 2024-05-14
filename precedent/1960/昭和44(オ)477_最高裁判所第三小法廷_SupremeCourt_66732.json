@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 9,
+    "day": 2
+  },
+  "case_number": "昭和44(オ)477",
+  "case_name": "所有権確認等請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第96号469頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和43(ネ)132",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 1,
+    "day": 29
+  },
+  "gist": "株式会社の業務執行に関する意思決定権限の代表取締役に対する委任",
+  "case_gist": "株式会社は、法令がとくに取締役会の決議事項であると定めたものを除いて、取締役会に属する業務執行に関する意思決定の権限を、定款をもつて、代表取締役に委任することができる。",
+  "ref_law": "商法260条，商法261条",
+  "lawsuit_id": "66732",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66732",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/732/066732_hanrei.pdf"
+}

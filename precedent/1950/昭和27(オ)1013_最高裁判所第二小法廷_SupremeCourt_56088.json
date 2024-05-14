@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 11,
+    "day": 26
+  },
+  "case_number": "昭和27(オ)1013",
+  "case_name": "不動産等引渡及び登記抹消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第8巻11号2098頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 10,
+    "day": 2
+  },
+  "gist": "現物出資およびその履行の有無と判定の資料",
+  "case_gist": "定款に記載された現物出資およびその履行が真実有効になされたかどうかは、人証その他一般の証拠から判定し得るのであつて、必ずしも会社設立のため作成された書類のみによつて決定しなければならぬものではない。",
+  "ref_law": "商法168条1項5号",
+  "lawsuit_id": "56088",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56088",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/088/056088_hanrei.pdf"
+}

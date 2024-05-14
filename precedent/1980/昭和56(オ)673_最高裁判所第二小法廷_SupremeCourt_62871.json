@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 12,
+    "day": 20
+  },
+  "case_number": "昭和56(オ)673",
+  "case_name": "火力発電所建設差止め",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第146号339頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和54(ネ)544",
+  "original_date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 3,
+    "day": 31
+  },
+  "gist": "一定の地域の代表として環境権に基づき火力発電所の操業の差止め等の訴えを提起した者に原告適格がないとされた事例",
+  "case_gist": "一定の地域の代表と主張して、環境権に基づき火力発電所の操業の差止め等を請求する訴訟を提起、追行している者は、当該地域の住民からの授権により訴訟追行権を取得するなど任意的訴訟担当の要件を具備していない以上、当該訴訟につき原告適格を有しない。",
+  "ref_law": "民訴法45条",
+  "lawsuit_id": "62871",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62871",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/871/062871_hanrei.pdf"
+}

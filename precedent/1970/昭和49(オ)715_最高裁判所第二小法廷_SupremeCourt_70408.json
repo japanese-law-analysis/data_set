@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 11,
+    "day": 8
+  },
+  "case_number": "昭和49(オ)715",
+  "case_name": "退職金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第113号145頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和48(ネ)204",
+  "original_date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 4,
+    "day": 16
+  },
+  "gist": "賃金に該当する退職金の請求権の消滅時効",
+  "case_gist": "賃金に該当する退職金の請求権は、労働基準法一一五条に基づき二年間これを行使しないことにより時効消滅する。",
+  "ref_law": "労働基準法115条",
+  "lawsuit_id": "70408",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70408",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/408/070408_hanrei.pdf"
+}

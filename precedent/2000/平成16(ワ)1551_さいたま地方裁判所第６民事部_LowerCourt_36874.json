@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 6,
+    "day": 4
+  },
+  "case_number": "平成16(ワ)1551",
+  "case_name": "損害賠償請求控訴事件",
+  "court_name": "さいたま地方裁判所第６民事部",
+  "gist": "交通事故によって低髄液圧症候群を発症したとして提起された不法行為による損害賠償請求事件について，事故によって原告が低髄液圧症候群を発症したとするには合理的な疑いがあるとして事故との因果関係を否定し，事故による傷病は頸椎捻挫であるとして，後遺障害等級１２級（労働能力喪失率１４％），労働能力喪失期間１０年を前提とする損害賠償を認めた事例",
+  "lawsuit_id": "36874",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=36874",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/874/036874_hanrei.pdf",
+  "contents": "MRI\n3,411,960 5.83 19,891,726\n6,269,400 0.92 7.7217 44,537,591\nCT X\nMRI\nCT\nGdMRI\nGdMRI\nMRI\nMRI\nGd\nMRI RI CT\nGdMRI\nGdMRI\n2,037,828 177 365 988,207\n2,037,828 0.14 7.7217 2,202,969\nXP MRI\n"
+}

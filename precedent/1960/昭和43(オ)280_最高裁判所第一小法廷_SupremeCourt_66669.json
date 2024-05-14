@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 9,
+    "day": 11
+  },
+  "case_number": "昭和43(オ)280",
+  "case_name": "所有権確認、登記抹消請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第96号497頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和37(ネ)2677",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 12,
+    "day": 20
+  },
+  "gist": "会社の代表取締役が不動産を買い受けた場合においてこれが右代表取締役個人のためにした売買契約であるとした事実認定に経験則違背の違法があるとされた事例",
+  "case_gist": "会社の代表取締役が他から不動産を買い受けた場合において、売主がその買主として信用のある個人を望み、各種会社、団体の役員をつとめ社会的信用のある右代表者個人をその最適任者と考え、売買契約においても右代表者個人の名義を使用したとしても、右会社が個人会社の実態を有し、その代金およびその後の維持費が会社の経理から支出され、右不動産が専ら会社の用に供せられていた等判示の事情があるときには、右売買契約を右代表者個人のためにされたものとすることは、経験則に反して許されない。",
+  "ref_law": "商法504条，民訴法394条",
+  "lawsuit_id": "66669",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66669",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/669/066669_hanrei.pdf"
+}

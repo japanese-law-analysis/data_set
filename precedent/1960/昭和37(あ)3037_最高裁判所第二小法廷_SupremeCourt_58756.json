@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 1,
+    "day": 24
+  },
+  "case_number": "昭和37(あ)3037",
+  "case_name": "道路運送法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第150号255頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 11,
+    "day": 29
+  },
+  "gist": "道路運送法第一〇一条第一項は憲法第一二条第一四条に違反するか。",
+  "case_gist": "道路運送法第一〇一条第一項が憲法第一二条、第一四条に違反しないことは、当裁判所の判例（昭和三五年（あ）第二八五四号道路運送法違反被告事件同三八年一二月四日宣告大法廷判決）の趣旨とするところである。",
+  "ref_law": "道路運送法101条1項，道路運送法128条の3第2号，憲法12条，憲法14条",
+  "lawsuit_id": "58756",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58756",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/756/058756_hanrei.pdf"
+}

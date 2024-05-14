@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 12,
+    "day": 16
+  },
+  "case_number": "昭和56(あ)1481",
+  "case_name": "業務上過失傷害",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第229号653頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 9,
+    "day": 3
+  },
+  "gist": "一　追従車の運転者において先行車が急停止することはないと信頼して運転することの可否\n二　車間距離の不保持と追突の原因たる過失",
+  "case_gist": "一　消極\n二　道交法二六条の要求する車間距離を保持しない走行は、その際生じた追突と必ずしも常に因果関係ある過失となるものではないが、時速約五〇キロメートルで走行する普通乗用車同士の車間距離が約一二メートルにすぎない等の事実関係の下では、右車間距離での走行は因果関係ある過失となる。",
+  "ref_law": "刑法211条",
+  "lawsuit_id": "61797",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61797",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/797/061797_hanrei.pdf"
+}

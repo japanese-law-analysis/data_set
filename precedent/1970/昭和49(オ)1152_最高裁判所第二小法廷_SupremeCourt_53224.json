@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 2,
+    "day": 13
+  },
+  "case_number": "昭和49(オ)1152",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第30巻1号1頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和46(ネ)457",
+  "original_date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 9,
+    "day": 11
+  },
+  "gist": "売買契約が民法五六一条により解除された場合と目的物の引渡を受けていた買主の使用利益返還義務",
+  "case_gist": "売買契約に基づき目的物の引渡を受けていた買主は、民法五六一条により右契約を解除した場合でも、原状回復義務の内容として、解除までの間目的物を使用したことによる利益を売主に返還しなければならない。",
+  "ref_law": "民法545条，民法561条",
+  "lawsuit_id": "53224",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53224",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/224/053224_hanrei.pdf"
+}

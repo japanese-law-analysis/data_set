@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 10,
+    "day": 13
+  },
+  "case_number": "昭和27(テ)6",
+  "case_name": "家屋収去・土地明渡請求",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第8巻10号1846頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 8,
+    "day": 25
+  },
+  "gist": "民訴第三九三条および裁判所法第一六条第三号の規定の合憲性",
+  "case_gist": "民訴第三九三条および裁判所法第一六条第三号の規定は憲法第三二条、第七六条、第八一条のいずれにも違反しない。（本件特別上告の適否については少数意見がある。）",
+  "ref_law": "民訴法393條，裁判所法16條3号，日本國憲法32條，日本國憲法76條，日本國憲法81條",
+  "lawsuit_id": "56147",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56147",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/147/056147_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 3,
+    "day": 22
+  },
+  "case_number": "昭和42(あ)1388",
+  "case_name": "昭和二五年東京都条例第四四号集会、集団行進及び集団示威運動に関する条例違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第166号495頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 3,
+    "day": 27
+  },
+  "gist": "違憲の語を用い憲法の条文を掲げていてもその内容が具体的でなく適法な憲法違反の主張と認められない事例",
+  "case_gist": "昭和二五年東京都条例第四四号集会、集団行進及び集団示威運動に関する条例および同条例に基づき東京都公安委員会が附した本件許可条件はいずれも憲法第二一条に違反する、同条例の運用は憲法第二一条、第三一条に違反するというのみであつて、原判決に対する不服の理由を具体的に明示したものとはいえない上告論旨（判文参照）は、たとい違憲の語を用い、憲法の条件を掲げるところがあつても、刑訴法第四〇五条所定の適法な憲法違反の主張とは認められない。",
+  "ref_law": "刑訴法405条",
+  "lawsuit_id": "59087",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59087",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/087/059087_hanrei.pdf"
+}

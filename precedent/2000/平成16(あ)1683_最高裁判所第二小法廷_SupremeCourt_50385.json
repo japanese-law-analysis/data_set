@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 2,
+    "day": 20
+  },
+  "case_number": "平成16(あ)1683",
+  "case_name": "廃棄物の処理及び清掃に関する法律違反被告事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第60巻2号182頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "平成16(う)5",
+  "original_date": {
+    "era": "Heisei",
+    "year": 16,
+    "month": 7,
+    "day": 6
+  },
+  "gist": "工場から排出された産業廃棄物を同工場敷地内に掘られた穴に投入して埋め立てることを前提にその穴のわきに野積みした行為が廃棄物の処理及び清掃に関する法律１６条違反の罪に当たるとされた事例",
+  "case_gist": "工場から排出された産業廃棄物を，同工場敷地内に掘られた穴に投入して埋め立てることを前提に，その穴のわきに野積みした行為（判文参照）は，廃棄物の処理及び清掃に関する法律１６条違反の罪に当たる。",
+  "ref_law": "廃棄物の処理及び清掃に関する法律16条，廃棄物の処理及び清掃に関する法律（平成15年法律第93号による改正前のもの）25条8号",
+  "lawsuit_id": "50385",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50385",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/385/050385_hanrei.pdf"
+}

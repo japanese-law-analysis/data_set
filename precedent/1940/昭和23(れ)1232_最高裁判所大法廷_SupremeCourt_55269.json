@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 2,
+    "day": 9
+  },
+  "case_number": "昭和23(れ)1232",
+  "case_name": "強盗傷人、公務執行妨害",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第3巻2号151頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 7,
+    "day": 5
+  },
+  "gist": "勾留期間満了前になした勾留更新の決定の合法性及び合憲性",
+  "case_gist": "論旨は、本件被告人に對する數度の勾留更新の決定が前勾留期間満了の三日前乃至一二日前になされたことを非難している。しかし勾留繼続の必要が豫測される場合に於ては、前勾留期間満了の若干日前に豫め更新の決定をすることは何等差支えないことであるばかりでなく、更新決定の執行は、その原本を被告人に示してこれを爲すべきものであるから、被告人に送達する日時の餘裕を見込んで萬全を期するためにそのことが必要な場合さえもある。從つてこれを以て舊刑事訴訟法第一一三條の規定の精神に著しく背反し、憲法第三一條に牴觸するものと主張する論旨は理由がない。",
+  "ref_law": "舊刑訴法113條，憲法31條",
+  "lawsuit_id": "55269",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55269",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/269/055269_hanrei.pdf"
+}

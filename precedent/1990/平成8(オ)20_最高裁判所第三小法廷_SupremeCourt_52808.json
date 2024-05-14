@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 10,
+    "month": 3,
+    "day": 10
+  },
+  "case_number": "平成8(オ)20",
+  "case_name": "共有持分売却代金",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第52巻2号319頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成7(ネ)825",
+  "original_date": {
+    "era": "Heisei",
+    "year": 7,
+    "month": 9,
+    "day": 20
+  },
+  "gist": "遺留分減殺請求を受けるよりも前に遺贈の目的を譲渡した受遺者が遺留分権利者に対してすべき価額弁償の額の算定",
+  "case_gist": "遺留物減殺請求を受けるよりも前に遺贈の目的を譲渡した受遺者が遺留分権利者に対して価額弁償すべき額は、譲渡の価額がその当時において客観的に相当と認められるべきものであったときは、右価額を基準として算定すべきである。",
+  "ref_law": "民法1031条，民法1040条1項",
+  "lawsuit_id": "52808",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52808",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/808/052808_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 10,
+    "day": 18
+  },
+  "case_number": "昭和43(オ)655",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第92号625頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和42(ネ)550",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 3,
+    "day": 12
+  },
+  "gist": "交通事故による損害賠償において金床陶歯による義歯の架工は通常生ずべき損害の範囲に属するか",
+  "case_gist": "交通事故による損害賠償において金床陶歯による義歯の架工（治療費等一切を含めて一六一、五〇〇円相当）は、通常生ずべき損害の範囲に属する。",
+  "ref_law": "民法709条，民法416条1項",
+  "lawsuit_id": "66684",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66684",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/684/066684_hanrei.pdf"
+}

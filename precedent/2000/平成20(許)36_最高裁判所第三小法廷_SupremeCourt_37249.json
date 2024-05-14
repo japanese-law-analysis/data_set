@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 1,
+    "day": 27
+  },
+  "case_number": "平成20(許)36",
+  "case_name": "秘密保持命令申立て却下決定に対する抗告棄却決定に対する許可抗告事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "破棄自判",
+  "article_info": "民集　第63巻1号271頁",
+  "original_court_name": "知的財産高等裁判所",
+  "original_case_number": "平成20(ラ)10002",
+  "original_date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 7,
+    "day": 7
+  },
+  "gist": "特許権又は専用実施権の侵害差止めを求める仮処分事件において特許法１０５条の４第１項に基づく秘密保持命令の申立てをすることの許否",
+  "case_gist": "特許権又は専用実施権の侵害差止めを求める仮処分事件は，特許法１０５条の４第１項柱書き本文に規定する「特許権又は専用実施権の侵害に係る訴訟」に該当し，上記仮処分事件においても，同項に基づく秘密保持命令の申立てをすることが許される。",
+  "ref_law": "特許法100条1項，特許法105条の4第1項，民事保全法23条2項",
+  "lawsuit_id": "37249",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=37249",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/249/037249_hanrei.pdf",
+  "contents": ""
+}

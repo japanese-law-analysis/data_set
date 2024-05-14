@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 5,
+    "day": 2
+  },
+  "case_number": "昭和39(行ツ)32",
+  "case_name": "審査決定等取消請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第22巻5号1067頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和36(ネ)467",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 12,
+    "day": 10
+  },
+  "gist": "旧法人税法（昭和二二年法律第二八号）第九条第五項による繰越欠損金額の損金算入の特典は会社合併により承継されるか",
+  "case_gist": "被合併会社が、旧法人税法（昭和二二年法律第二八号）第九条第五項により、青色申告者として有した繰越欠損金額の損金算入の特典は、合併により、合併後存続する会社に承継されない。",
+  "ref_law": "旧法人税法（昭和22年法律第28号）9条，旧法人税法（昭和22年法律第28号）3条，商法103条",
+  "lawsuit_id": "54972",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54972",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/972/054972_hanrei.pdf"
+}

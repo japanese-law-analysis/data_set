@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 3,
+    "day": 15
+  },
+  "case_number": "昭和46(行ツ)52",
+  "case_name": "単位不認定等違法確認請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第31巻2号234頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_case_number": "昭和45(行コ)2",
+  "original_date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 4,
+    "day": 9
+  },
+  "gist": "大学における授業科目の単位授与（認定）行為と司法審査",
+  "case_gist": "大学における授業科目の単位授与（認定）行為は、一般市民法秩序と直接の関係を有するものであることを肯認するに足りる特段の事情のない限り、司法審査の対象にならない。",
+  "ref_law": "裁判所法3条1項，大学設置基準（昭和31年文部省令第28号）31条",
+  "lawsuit_id": "56314",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56314",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/314/056314_hanrei.pdf"
+}

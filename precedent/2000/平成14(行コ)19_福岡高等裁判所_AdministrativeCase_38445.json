@@ -1,0 +1,17 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Heisei",
+    "year": 14,
+    "month": 10,
+    "day": 10
+  },
+  "case_number": "平成14(行コ)19",
+  "case_name": "審査請求却下裁決取消請求訴訟控訴事件（原審・佐賀地方裁判所平成14年（行ウ）第2号）",
+  "court_name": "福岡高等裁判所",
+  "field": "行政",
+  "lawsuit_id": "38445",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=38445",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/445/038445_hanrei.pdf",
+  "contents": ""
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 3,
+    "day": 28
+  },
+  "case_number": "昭和25(れ)910",
+  "case_name": "麻薬取締規則違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "刑集　第6巻3号526頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 12,
+    "day": 23
+  },
+  "gist": "一　麻薬取締規則第四六条の決意\n二　麻薬取締規則第二三条の法意\n三　麻薬取締規則第四二条の法意",
+  "case_gist": "一　麻薬使用者が麻薬取締規則第四六条所定の報告書を提出するにあたつて、同条第三号にいわゆる年末に現在した麻薬は、その現在するに至つた事情の如何を問わずその数量中に加算しなければならない。\n二　麻薬取締規則第二三条は、麻薬取締法第三条等のように、麻薬取扱者はその業務の目的以外のために所定の行為をしてはならない趣旨ではない。\n三　麻薬取締規則第四二条は、麻薬取扱者に対しては、麻薬の入手経路所持の目的の如何を問わず、一般に所持と認められる凡ての場合について麻薬の所持を認めているものと解せられる。",
+  "ref_law": "麻薬取締規則46条，麻薬取締規則23条，麻薬取締規則42条，麻薬取締法3条",
+  "lawsuit_id": "55585",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55585",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/585/055585_hanrei.pdf"
+}

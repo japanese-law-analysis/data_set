@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 2,
+    "day": 4
+  },
+  "case_number": "昭和40(オ)1074",
+  "case_name": "農地法第三条第一項に基く許可申請手続請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第82号317頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和39(ネ)916",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 6,
+    "day": 15
+  },
+  "gist": "小切手による弁済提供が債務の本旨に従うものといえないとされた事例",
+  "case_gist": "原判決が確定した事実関係（原判決理由参照）のもとにおいては、本件小切手の提供は、売買代金支払のための債務の本旨に従つた弁済の提供と認められない。",
+  "ref_law": "民法493条",
+  "lawsuit_id": "66402",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66402",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/402/066402_hanrei.pdf"
+}

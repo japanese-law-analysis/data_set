@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 11,
+    "day": 26
+  },
+  "case_number": "昭和37(オ)701",
+  "case_name": "依願免職処分無効確認請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第17巻11号1429頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 3,
+    "day": 22
+  },
+  "gist": "地方公務員の退職願の撤回が信義に反しないとされた事例。",
+  "case_gist": "町の支所長が、町長の都合に基づく強引な勧告に応じて退職願を提出したが、即日撤回を決意し、翌日町長に宛てた退職願を取り消すとの書面を町役場に送付した場合は、その間、町長において辞令書を郵便に付し、また後任の事務取扱者を任命した事実があつても、当時の客観的情勢としては急速に後任者の発令をする必要が認められなかつたことをも勘案すれば、右退職願の撤回は、信義に反するものとはいえない。",
+  "ref_law": "地方公務員法27条2項，民法1条2項",
+  "lawsuit_id": "56269",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56269",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/269/056269_hanrei.pdf"
+}

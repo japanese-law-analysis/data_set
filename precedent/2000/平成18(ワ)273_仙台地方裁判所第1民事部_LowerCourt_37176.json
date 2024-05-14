@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 12,
+    "day": 16
+  },
+  "case_number": "平成18(ワ)273",
+  "case_name": "損害賠償請求事件",
+  "court_name": "仙台地方裁判所第1民事部",
+  "gist": "担当看護師が，輸液ポンプから，劇薬であるリドカインが入ったボトル，点滴ラインを取り外して，別の輸液ポンプに付け替えるに当たって，点滴量を調整するクレンメを閉じなかった過失により，患者の体内に大量のリドカインを急速注入させ，その結果，患者が心肺停止状態に陥り，意識不明のまま死亡したとして，担当看護師を雇用し，病院を開設している国立大学法人に，不法行為又は債務不履行に基づいて，患者の遺族に対する損害賠償責任が認められた事例",
+  "lawsuit_id": "37176",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=37176",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/176/037176_hanrei.pdf",
+  "contents": "level\n"
+}

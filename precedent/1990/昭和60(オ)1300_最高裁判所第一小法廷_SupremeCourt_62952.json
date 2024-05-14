@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 2,
+    "month": 2,
+    "day": 22
+  },
+  "case_number": "昭和60(オ)1300",
+  "case_name": "売買代金",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第159号169頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和59(ネ)3332",
+  "original_date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 8,
+    "day": 7
+  },
+  "gist": "商法四三条二項の準用する三八条三項にいう「善意の第三者」",
+  "case_gist": "商法四三条二項の準用する三八条三項にいう「善意の第三者」には、代理権に加えられた制限を知らなかつたことにつき過失のある第三者は含まれるが、重大な過失のある第三者は含まれない。",
+  "ref_law": "商法38条3項，商法43条2項",
+  "lawsuit_id": "62952",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62952",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/952/062952_hanrei.pdf"
+}

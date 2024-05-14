@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 8,
+    "day": 9
+  },
+  "case_number": "昭和24(れ)1492",
+  "case_name": "窃盗、銃砲等所持禁止令違反、逃亡未遂",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第13号123頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 3,
+    "day": 31
+  },
+  "gist": "單獨正犯に刑法第六〇條を適用した判決と理由齟齬の有無",
+  "case_gist": "判示第一の（二）の事實は被告人の單獨正犯として判示したものでありこの事實に對しても刑法第六〇條を適用したことは正に不要の法條を適用したものである。しかし判示第一の窃盜事實に對しては、刑法第二三五號を適用しているので被告人に對する刑の基礎は明らかにされているから、所論の如き理由齟齬はない。",
+  "ref_law": "舊刑訴法410條19號，舊刑訴法360條1項",
+  "lawsuit_id": "70729",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70729",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/729/070729_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 6,
+    "month": 4,
+    "day": 19
+  },
+  "case_number": "平成3(オ)1233",
+  "case_name": "約束手形金",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第48巻3号922頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成2(ネ)43",
+  "original_date": {
+    "era": "Heisei",
+    "year": 3,
+    "month": 4,
+    "day": 26
+  },
+  "gist": "社会福祉法人の理事の退任についての登記と民法一一二条の適用",
+  "case_gist": "社会福祉法人の理事の退任につき登記がされた場合には、その後その者が右法人の代表者として第三者とした取引については、客観的な障害のため第三者が登記簿を閲覧することが不可能ないし著しく困難であるような特段の事情がない限り、民法一一二条の規定は適用されない。",
+  "ref_law": "民法112条，社会福祉事業法27条",
+  "lawsuit_id": "52483",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52483",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/483/052483_hanrei.pdf"
+}

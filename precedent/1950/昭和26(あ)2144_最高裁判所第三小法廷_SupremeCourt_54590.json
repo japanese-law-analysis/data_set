@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 12,
+    "day": 18
+  },
+  "case_number": "昭和26(あ)2144",
+  "case_name": "恐喝、暴行",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第5巻13号2527頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 5,
+    "day": 8
+  },
+  "gist": "恐喝罪の公訴事実中に被告人の経歴素行性格等を記載した起訴状と刑訴第二五條第六項",
+  "case_gist": "一般の犯罪事実を起訴状に記載するに当り、犯罪事実と何ら関係がないのに拘らず、被告人の悪性を強調する趣旨で被告人に前科数犯あることを掲げるごときは、刑訴二五六條六項の規定の趣旨から避くべきであることも論がないところである。しかし、本件で起訴された恐喝罪の公訴事実のように、一般人を恐れさせるような被告人の経歴、素行、性格等に関する事実を相手方が知つているのに乗じて恐喝の罪を犯した場合には、本件起訴状に所論のような被告人の経歴、素行、性格等に関し近隣に知られていた事実の記載があるからとて違法であるということはできない。",
+  "ref_law": "刑法249條，刑訴法256條6項",
+  "lawsuit_id": "54590",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54590",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/590/054590_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 7,
+    "day": 17
+  },
+  "case_number": "昭和54(オ)225",
+  "case_name": "土地建物所有権移転登記等",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第35巻5号950頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和53(ネ)471",
+  "original_date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 12,
+    "day": 7
+  },
+  "gist": "債権担保の目的でされた代物弁済予約を原因とする所有権移転請求権保全の仮登記と民法三九五条",
+  "case_gist": "債権担保の目的でされた代物弁済予約を原因とする所有権移転請求権保全の仮登記のある不動産につき設定された短期賃借権には、民法三九五条の規定は類推適用されない。",
+  "ref_law": "民法395条，民法482条",
+  "lawsuit_id": "53353",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53353",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/353/053353_hanrei.pdf"
+}

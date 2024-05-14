@@ -1,0 +1,20 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 9,
+    "day": 28
+  },
+  "case_number": "平成19(レ)18",
+  "case_name": "給水加入権利金請求控訴事件",
+  "court_name": "千葉地方裁判所民事第２部",
+  "result": "棄却",
+  "original_court_name": "東金簡易裁判所",
+  "original_case_number": "平成18(ハ)336",
+  "gist": "競売不動産の旧所有者が水道企業団に対して競売不動産に設置された給水装置に係る給水申込加入金を支払った場合において，競落人が競売不動産の旧所有者に対して給水加入金相当額の支払をすることなく給水装置及びこれに付設された量水器を使用することに法律上の原因がないとはいえないとされた事例",
+  "lawsuit_id": "35362",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=35362",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/362/035362_hanrei.pdf",
+  "contents": ""
+}

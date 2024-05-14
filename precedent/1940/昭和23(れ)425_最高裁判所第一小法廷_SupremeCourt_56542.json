@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 7,
+    "day": 22
+  },
+  "case_number": "昭和23(れ)425",
+  "case_name": "強盗、同未遂、窃盗、銃砲等所持禁止令違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第2巻9号995頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 12,
+    "day": 6
+  },
+  "gist": "一　日本刀を携帯して強盗することを共謀して見張をした者の日本刀不法所持についての責任\n二　屋外の見張りと強盜の共同正犯",
+  "case_gist": "一　日本刀を携帯して強盗することを共謀し、その見張をした者は、その日本刀を嘗て手にしたことがなくても、銃砲等所持禁止令違反の共同正犯である。\n二　數人が強盜の實行を共謀し、そのうち一人が屋外の見張りをしただけであつても、他の共犯者の實行行爲を介して自己の犯罪敢行の意思を實現したものと認められる場合には、なお強盜の共同正犯たるの責を兔れない。",
+  "ref_law": "銃砲等所持禁止令1条，刑法60条，刑法236條1項",
+  "lawsuit_id": "56542",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56542",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/542/056542_hanrei.pdf"
+}

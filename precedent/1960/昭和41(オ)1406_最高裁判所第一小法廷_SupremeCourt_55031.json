@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 7,
+    "day": 6
+  },
+  "case_number": "昭和41(オ)1406",
+  "case_name": "家屋収去、土地明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第21巻6号1543頁",
+  "original_court_name": "高松高等裁判所",
+  "original_case_number": "昭和41(ネ)131",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 10,
+    "day": 12
+  },
+  "gist": "建物とともに敷地賃借権が転々譲渡された場合と建物買取請求権",
+  "case_gist": "建物とともに敷地の賃借権が転々譲渡され、賃借権の各譲渡について賃貸人の承諾のない場合であつても、賃借権存続期間中に譲りうけた最後の譲受人は、建物買取請求権を有する。",
+  "ref_law": "借地法10条",
+  "lawsuit_id": "55031",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55031",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/031/055031_hanrei.pdf"
+}

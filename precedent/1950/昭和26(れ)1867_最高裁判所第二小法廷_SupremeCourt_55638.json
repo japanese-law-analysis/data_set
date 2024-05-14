@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 2,
+    "day": 15
+  },
+  "case_number": "昭和26(れ)1867",
+  "case_name": "収賄、物価統制令違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第6巻2号257頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 3,
+    "day": 13
+  },
+  "gist": "勾留及び保釈の決定をした裁判官がその被告事件について審判することの合憲性",
+  "case_gist": "起訴後第一回公判期日までの間に、被告人の勾留及び保釈の決定をした裁判官が、その被告事件につき第一審の審理判決をしたとしても、憲法第三七条第一項に違反しない。",
+  "ref_law": "憲法37条1項，旧刑訴法24条，旧刑訴法25条",
+  "lawsuit_id": "55638",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55638",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/638/055638_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 1,
+    "day": 27
+  },
+  "case_number": "昭和39(オ)889",
+  "case_name": "賃金請求再審",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第86号177頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和37(ム)5",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 4,
+    "day": 15
+  },
+  "gist": "民訴法第四二〇条第一項第六号および第七号にいう「判決ノ証拠ト為リタル」の意義",
+  "case_gist": "民訴法第四二〇条第一項第六号および第七号にいう「判決ノ証拠ト為リタル」とは、再審の訴をもつて不服を申し立てられた確定判決の理由中において当該証拠を事実認定の資料としていることをいう。",
+  "ref_law": "民訴法420条1項6号，民訴法420条1項7号",
+  "lawsuit_id": "66368",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66368",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/368/066368_hanrei.pdf"
+}

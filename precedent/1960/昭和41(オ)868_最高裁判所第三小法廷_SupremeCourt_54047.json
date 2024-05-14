@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 3,
+    "day": 14
+  },
+  "case_number": "昭和41(オ)868",
+  "case_name": "株主総会決議取消請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第21巻2号378頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和40(ネ)2826",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 5,
+    "day": 17
+  },
+  "gist": "株主である取締役の解任に関する株主総会の決議について右株主は特別利害関係人にあたるか",
+  "case_gist": "株主である取締役は、当該取締役の解任に関する株主総会の決議については、商法第二三九条第五項にいう特別の利害関係を有する者にあたらない。",
+  "ref_law": "商法239条5項",
+  "lawsuit_id": "54047",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54047",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/047/054047_hanrei.pdf"
+}

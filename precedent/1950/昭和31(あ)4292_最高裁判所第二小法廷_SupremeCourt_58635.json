@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 3,
+    "day": 13
+  },
+  "case_number": "昭和31(あ)4292",
+  "case_name": "賍物故買",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第118号341頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 10,
+    "day": 23
+  },
+  "gist": "病気の被告人の防禦権制限の有無",
+  "case_gist": "原審が被告人質問のため数回被告人を召喚したにもかかわらず被告人において病気のためこれに応じなかつたところから被告人質問はこれをしない旨決定して結審したからといつて原審裁判官がその良心に反して裁判をしたということはできない。",
+  "ref_law": "刑訴法278条，刑訴規則183条",
+  "lawsuit_id": "58635",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58635",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/635/058635_hanrei.pdf"
+}

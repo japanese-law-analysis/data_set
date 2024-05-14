@@ -1,0 +1,18 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Heisei",
+    "year": 28,
+    "month": 1,
+    "day": 13
+  },
+  "case_number": "平成27(行コ)286",
+  "case_name": "相続税更正及び加算税賦課決定取消請求控訴事件",
+  "court_name": "東京高等裁判所",
+  "field": "行政",
+  "gist": "相続の対象である共同住宅の敷地の外延部に設けられた歩道状空地の価額の算定について，財産評価基本通達２４にいう「私道の用に供されている宅地」には該当しないとされた事例",
+  "case_gist": "相続の対象である共同住宅の敷地の外延部に設けられた歩道状空地の価額の算定について，同敷地に含まれる土地はいずれも公道に接しており，同空地は接道義務を果たすために設けられたものではなく，同空地も含めて建物敷地の一部として建ぺい率等が算定されているなど判示の事情の下では，財産評価基本通達２４にいう「私道の用に供されている宅地」には該当しない。",
+  "lawsuit_id": "87420",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=87420",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/420/087420_hanrei.pdf"
+}

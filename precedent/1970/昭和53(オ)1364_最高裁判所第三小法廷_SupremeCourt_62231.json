@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 7,
+    "day": 10
+  },
+  "case_number": "昭和53(オ)1364",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第127号225頁",
+  "original_court_name": "大阪高等裁判所\n        　金沢支部",
+  "original_case_number": "昭和49(ネ)1805",
+  "original_date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 9,
+    "day": 20
+  },
+  "gist": "株式会社が既存の債務の支払のため満期に支払われる蓋然性の少ない約束手形を振り出した場合と取締役の損害賠償責任",
+  "case_gist": "株式会社が既存の債務の支払のため満期に支払われる蓋然性の少ない約束手形を振り出しても、取締役は、特段の事情のない限り、右手形振出自体につき商法二六六条の三第一項による損害賠償責任を負うものではない。",
+  "ref_law": "商法266条ノ3第1項",
+  "lawsuit_id": "62231",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62231",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/231/062231_hanrei.pdf"
+}

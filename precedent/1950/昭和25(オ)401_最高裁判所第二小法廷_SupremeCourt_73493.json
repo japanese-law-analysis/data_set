@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 6,
+    "day": 1
+  },
+  "case_number": "昭和25(オ)401",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第4号869頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 10,
+    "day": 14
+  },
+  "lawsuit_id": "73493",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=73493",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/493/073493_hanrei.pdf"
+}

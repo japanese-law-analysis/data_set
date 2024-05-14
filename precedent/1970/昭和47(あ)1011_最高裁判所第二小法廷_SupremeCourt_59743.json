@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 9,
+    "day": 5
+  },
+  "case_number": "昭和47(あ)1011",
+  "case_name": "業務上過失致死傷",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第185号169頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 4,
+    "day": 20
+  },
+  "gist": "「一審判決が改正前の行為時法を適用しなかつたのは憲法三一条違反」との主張に対し、実質は法令違反の主張で不適法としたうえ、括弧書で、同判決が行為時法を適用したことは判文上明らかである旨の判示を加えられた事例",
+  "lawsuit_id": "59743",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59743",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/743/059743_hanrei.pdf"
+}

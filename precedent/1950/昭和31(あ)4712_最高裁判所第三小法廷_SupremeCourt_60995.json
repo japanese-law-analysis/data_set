@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 5,
+    "day": 28
+  },
+  "case_number": "昭和31(あ)4712",
+  "case_name": "賍物故買",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第119号67頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 12,
+    "day": 11
+  },
+  "gist": "訴因変更手続を要しない一事例。−起訴状記載の事実と一審判決認定事実との間における日時の差異−",
+  "case_gist": "起訴状記載の事実と一審判決認定事実との間には、所論指摘のような日時の差異があるけれども、元来犯罪日時は罪となるべき事実ではなく、これを特定する一要素に過ぎないものであるから、右のような僅かの日時の差異（起訴状では昭和三一年四月一一日となつていて、第一審判決では同年同月二〇日と認定）があるだけでは、いまだ右両事実の同一性が害されたとも認められないし、また、本件審理の経過に徴して見ても一審判決の右認定が被告人の防禦に実質的な不利益を与えるものとも認めることができないから、所論訴因変更の手続はこれを必要としないと解するを相当とする。",
+  "ref_law": "刑訴法312条",
+  "lawsuit_id": "60995",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60995",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/995/060995_hanrei.pdf"
+}

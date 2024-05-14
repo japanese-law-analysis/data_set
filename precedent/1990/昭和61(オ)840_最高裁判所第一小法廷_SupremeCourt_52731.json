@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 3,
+    "month": 11,
+    "day": 28
+  },
+  "case_number": "昭和61(オ)840",
+  "case_name": "従業員地位確認等",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第45巻8号1270頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和53(ネ)1384",
+  "original_date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 3,
+    "day": 27
+  },
+  "gist": "いわゆる時間外労働の義務を定めた就業規則と労働者の義務",
+  "case_gist": "使用者が、労働基準法（昭和六二年法律第九九号による改正前のもの）三六条所定の書面による協定を締結し、これを所轄労働基準監督署長に届け出た場合において、当該事業場に適用される就業規則に右協定の範囲内で一定の業務土の事由があれば労働契約に定める労働時間を延長して時間外労働をさせることができる旨を定めているときは、当該就業規則の規定の内容が合理的なものである限り、労働者は、その定めるところに従い、労働契約に定める労働時間を超えて時間外労働をする義務を負う。\n（補足意見がある。）",
+  "ref_law": "労働基準法（昭和62年法律第99号による改正前のもの）32条，労働基準法（昭和62年法律第99号による改正前のもの）36条，労働基準法（昭和62年法律第99号による改正前のもの）89条，労働基準法93条",
+  "lawsuit_id": "52731",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52731",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/731/052731_hanrei.pdf"
+}

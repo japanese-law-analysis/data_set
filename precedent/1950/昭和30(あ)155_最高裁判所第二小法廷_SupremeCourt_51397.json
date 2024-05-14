@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 6,
+    "day": 8
+  },
+  "case_number": "昭和30(あ)155",
+  "case_name": "尼崎市売春等取締条例違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第11巻6号1638頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 12,
+    "day": 6
+  },
+  "gist": "尼崎市売春等取締条例第三条の趣旨",
+  "case_gist": "昭和二七年尼崎市条例第四号（尼崎市売春等取締条例）第三条は報酬を受け若しくは受ける約束で性交またはこれと類似の行為をするものを処罰するのであり、女性のみを処罰の対象とするものではない。",
+  "ref_law": "憲法14条，尼崎市売春等取締条例（昭和27年尼崎市条例4号）",
+  "lawsuit_id": "51397",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51397",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/397/051397_hanrei.pdf"
+}

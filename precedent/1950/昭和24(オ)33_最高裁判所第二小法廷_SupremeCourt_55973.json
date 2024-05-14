@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 9,
+    "day": 15
+  },
+  "case_number": "昭和24(オ)33",
+  "case_name": "売掛代金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第4巻9号395頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 11,
+    "day": 6
+  },
+  "gist": "一　売買代金支払のため振り出された小切手の呈示期間経過後に支払銀行に対してなされた小切手金の払込と弁済の効力\n二　判決の基本たる口頭弁論に臨席しない裁判官の判決関与と不服申立なき部分の破棄",
+  "case_gist": "一　売買当事者間に特段の契約があるか又は特段の慣習が存在しないかぎり、売買代金支払のため振り出された小切手の呈示期間経過後に買主が自己の取引銀行（支払銀行）の口座に小切手資金の払込をしただけでは、代金支払の効果を発生しない。\n二　判決の基本たる口頭弁論に臨席しない判事が関与した判決の一部につき上告のなされた場合、上告裁判所は、不服申立のない部分についても破棄すべきである。",
+  "ref_law": "民法484条，民訴法187条1項，民訴法395条1項1号，民訴法396条，民訴法385条",
+  "lawsuit_id": "55973",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55973",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/973/055973_hanrei.pdf"
+}

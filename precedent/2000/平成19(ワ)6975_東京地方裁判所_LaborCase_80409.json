@@ -1,0 +1,17 @@
+{
+  "trial_type": "LaborCase",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 3,
+    "day": 9
+  },
+  "case_number": "平成19(ワ)6975",
+  "case_name": "地位確認等請求事件（通称　東和システム割増賃金請求）",
+  "court_name": "東京地方裁判所",
+  "field": "労働",
+  "lawsuit_id": "80409",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail6?id=80409",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/409/080409_hanrei.pdf",
+  "contents": ".\n2 1\n6 7\n"
+}

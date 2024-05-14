@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 10,
+    "day": 15
+  },
+  "case_number": "昭和29(あ)267",
+  "case_name": "売春等取締条例違反",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第12巻14号3305頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 11,
+    "day": 30
+  },
+  "gist": "地方公共団体が制定する売春取締に関する条例の合憲性。",
+  "case_gist": "地方公共団体が売春の取締について各別に条例を制定する結果、その取扱に差別を生ずることがあつても、憲法第一四条に違反しない。",
+  "ref_law": "憲法14条，憲法94条，地方自治法14条1項，地方自治法14条5項，地方自治法2条3項1号，地方自治法2条3項7号",
+  "lawsuit_id": "50422",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50422",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/422/050422_hanrei.pdf"
+}

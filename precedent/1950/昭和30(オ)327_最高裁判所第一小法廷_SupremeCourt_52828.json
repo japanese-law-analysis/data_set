@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 6,
+    "day": 5
+  },
+  "case_number": "昭和30(オ)327",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第12巻9号1296頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 1,
+    "day": 13
+  },
+  "gist": "甲を代理して締結された売買契約について乙のなした追認が有効と認められた事例",
+  "case_gist": "家督相続開始の当時、被相続人の長男甲はすでに戦死しており、法律上、被相続人の長女乙が相続人であるにかかわらず、同人らの母は右戦死の事実を知らず、被相続人の所有に属していた係争不動産を甲において相続したものと考え、甲の代理人としてこれを第三者に売り渡す契約を締結した場合において、後日、真の家督相続人である乙が右売買契約を追認したときは、民法第一一三条、第一一六条の類推適用によつて、右契約は、その締結の日に遡つて、乙のため効力を生ずるものと解するを相当とする",
+  "ref_law": "民法113条，民法116条",
+  "lawsuit_id": "52828",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52828",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/828/052828_hanrei.pdf"
+}

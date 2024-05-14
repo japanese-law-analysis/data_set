@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 5,
+    "day": 17
+  },
+  "case_number": "昭和23(れ)2017",
+  "case_name": "強盗予備",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第10号177頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 10,
+    "day": 11
+  },
+  "gist": "強盜の豫備をなし其の以後の行爲を中止した者の責任",
+  "case_gist": "しかし原審の認定したクロールエチールの買入Ａ、Ｂ、Ｃ、等を仲間に引入れた事實、日本刀の入手等によつて既に豫備としては既遂になつて居るのである。従つて其以後の行為を中止したからといつて未遂にならない。原審が中止未遂の法條を適用しなかつたのは當然である。なほ原審公判調書を見ても辯護人が所論のような主張をした形跡はないから、原判決に舊刑事訴訟法第三六〇條第二項違反はない。",
+  "ref_law": "刑法237條，刑法43條",
+  "lawsuit_id": "70637",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70637",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/637/070637_hanrei.pdf"
+}

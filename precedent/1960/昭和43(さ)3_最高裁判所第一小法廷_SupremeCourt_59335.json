@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 2,
+    "day": 27
+  },
+  "case_number": "昭和43(さ)3",
+  "case_name": "業務上過失傷害被告事件の略式命令に対する非常上告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集刑　第170号595頁",
+  "original_court_name": "松戸簡易裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 3,
+    "day": 26
+  },
+  "lawsuit_id": "59335",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59335",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/335/059335_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 4,
+    "day": 23
+  },
+  "case_number": "昭和38(あ)2437",
+  "case_name": "詐欺",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第151号71頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 9,
+    "day": 14
+  },
+  "gist": "各個の包括一罪をなす詐欺罪の訴因特定方法。",
+  "case_gist": "本件公訴事実は同一被害者に対し、一定期間反覆継続して行われた単一意思の発現と認めらるる同種の詐欺行為を包括して、一個の詐欺罪とし、八名の被害者につき各個の訴因毎に、被害者、詐欺の行われた日時（始期と終期）、場所及び被害物件の総計その価格の総額等を明示しているのであるから、詐欺罪の訴因の特定について欠くることなく、右一罪の内容をなす個々の行為につき、更に、日時場所等によりこれを特定する要なき旨の原審の判断は、違法とは認められない。",
+  "ref_law": "刑法246条1項，刑法45条，刑訴法256条",
+  "lawsuit_id": "76014",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=76014",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/014/076014_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 3,
+    "day": 19
+  },
+  "case_number": "昭和26(あ)3918",
+  "case_name": "貿易等臨時措置令違反幇助、関税法違反、同幇助",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第76号415頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 5,
+    "day": 10
+  },
+  "gist": "一　密輸入貨物の表示を「内容不詳」とした公訴事実の記載と事実の特定\n二　内容不詳の密輸入貨物の原価の認定",
+  "case_gist": "一　密輸入貨物の表示に「内容不詳」の附記があるとしても、密輸幇助事件の公訴事実の記載として罪となるべき事実の特定につき何ら欠くるところはない。\n二　内容不詳の密輸入貨物の原価をその三倍が三万円を超えないものと認めることは違法でない。",
+  "ref_law": "刑訴法256条3項，関税法（昭和23年法律107号による改正のもの）76条1項但書",
+  "lawsuit_id": "68289",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=68289",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/289/068289_hanrei.pdf"
+}

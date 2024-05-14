@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 1,
+    "day": 20
+  },
+  "case_number": "昭和41(オ)457",
+  "case_name": "第三者異議",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第21巻1号16頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和40(ネ)624",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 1,
+    "day": 27
+  },
+  "gist": "相続放棄と登記",
+  "case_gist": "相続人は、相続の放棄をした場合には相続開始時にさかのぼつて相続開始がなかつたと同じ地位に立ち、当該相続放棄の効力は、登記等の有無を問わず、何人に対してもその効力を生ずべきものと解すべきであつて、相続の放棄をした相続人の債権者が、相続の放棄後に、相続財産たる未登記の不動産について、右相続人も共同相続したものとして、代位による所有権保存登記をしたうえ、持分に対する仮差押登記を経由しても、その仮差押登記は無効である。",
+  "ref_law": "民法939条1項（昭和37年法律40号による改正前のもの），民法939条，民法177条，民法909条",
+  "lawsuit_id": "54027",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54027",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/027/054027_hanrei.pdf"
+}

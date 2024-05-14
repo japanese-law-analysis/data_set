@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 7,
+    "day": 28
+  },
+  "case_number": "昭和40(オ)73",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第84号229頁",
+  "original_court_name": "福岡高等裁判所\n        　宮崎支部",
+  "original_case_number": "昭和38(ネ)14",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 10,
+    "day": 12
+  },
+  "gist": "共同不法行為者に対する共同訴訟は必要的共同訴訟か",
+  "case_gist": "共同不法行為者に対する共同訴訟は必要的共同訴訟ではない。",
+  "ref_law": "民訴法62条，民法719条",
+  "lawsuit_id": "66470",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66470",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/470/066470_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 3,
+    "day": 23
+  },
+  "case_number": "昭和57(オ)1356",
+  "case_name": "取締役会決議不存在確認等",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第141号417頁",
+  "original_court_name": "高松高等裁判所",
+  "original_case_number": "昭和54(ネ)58",
+  "original_date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 9,
+    "day": 21
+  },
+  "gist": "有限会社の社員総会における定款変更決議不存在確認の訴えの適否",
+  "case_gist": "有限会社の社員総会における定款変更決議がその決議の内容となつている事項の変更そのものについて格別の法的拘束力を有しないものであつても、その決議の内容が総会議事録等に記載されているときは、その決議の不存在の確認を求める訴えは適法である。",
+  "ref_law": "有限会社法41条，有限会社法48条，商法252条",
+  "lawsuit_id": "62273",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62273",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/273/062273_hanrei.pdf"
+}

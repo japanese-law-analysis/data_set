@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 10,
+    "day": 13
+  },
+  "case_number": "昭和49(行ツ)107",
+  "case_name": "審決取消",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第31巻6号805頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和48(行ケ)91",
+  "original_date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 9,
+    "day": 18
+  },
+  "gist": "発明が未完成な場合と特許出願の拒絶理由",
+  "case_gist": "特許出願にかかる発明が発明として未完成のものである場合には、特許法二九条一項柱書にいう発明にあたらないことを理由として、特許出願について拒絶をすべきである。",
+  "ref_law": "特許法2条1項，特許法29条1項，特許法49条1号",
+  "lawsuit_id": "53231",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53231",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/231/053231_hanrei.pdf"
+}

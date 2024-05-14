@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 5,
+    "day": 7
+  },
+  "case_number": "昭和27(あ)5551",
+  "case_name": "傷害",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第95号129頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 5,
+    "day": 12
+  },
+  "lawsuit_id": "75293",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=75293",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/293/075293_hanrei.pdf"
+}

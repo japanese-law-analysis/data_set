@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 5,
+    "day": 12
+  },
+  "case_number": "昭和25(れ)31",
+  "case_name": "酒税法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第17号595頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 11,
+    "day": 14
+  },
+  "gist": "昭和二四年法律第四三號による改正前の酒税法第一四條同第六〇條の罪の成否と酒類製造の目的との關係",
+  "case_gist": "昭和二四年法律第四三號による改正前の酒税法第一四條第六〇條の罪は、政府の免許を受けないで酒類を製造することによつて成立するものであつて、その製造が自家用の目的に出でたると販賣の目的に出でたるとは罪の成否並びにその決定刑に何等の關係のないところである。",
+  "ref_law": "酒税法14條，酒税法60條（昭和24年法律42號による改正前）",
+  "lawsuit_id": "75111",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=75111",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/111/075111_hanrei.pdf"
+}

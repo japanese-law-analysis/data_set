@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 4,
+    "day": 14
+  },
+  "case_number": "昭和37(オ)782",
+  "case_name": "災害補償金請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第83号127頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_case_number": "昭和35(ネ)32",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 4,
+    "day": 16
+  },
+  "gist": "労働者災害補償審査会に対する審査または仲裁の請求と災害補償請求権の消滅時効の中断",
+  "case_gist": "労働者災害補償審査会に対する審査または仲裁の請求は、災害補償請求権の消滅時効につき、中断の効力を有するものと解すべきである。",
+  "ref_law": "労働基準法（昭和31年法律126号による改正前）86条，労働基準法（昭和31年法律126号による改正前）85条4項",
+  "lawsuit_id": "77684",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77684",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/684/077684_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 12,
+    "day": 14
+  },
+  "case_number": "昭和28(あ)2891",
+  "case_name": "窃盗未遂、同教唆等",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "刑集　第10巻12号1655頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 5,
+    "day": 7
+  },
+  "gist": "刑訴法第四〇〇条但書に違反する一事例",
+  "case_gist": "第一審裁判所が鑑定その他の証拠調をした上、被告人には是非善悪を弁別しこれに基いて行動する能力があると認めるに足る精神状態の存在は認められないから被告人は犯行当時心神喪失の状態にあつたとして無罪の判決を言渡したのに、控訴審が何ら事実の取調をしないで訴訟記録および第一審裁判所で取り調べた証拠だけによつて第一審判決を破棄し、自ら被告人は犯行当時心神耗弱の状態に在つたものとして有罪の判決を言い渡すのは刑訴第四〇〇条但書の許さないところである。",
+  "ref_law": "刑法39条，刑訴法400条但書",
+  "lawsuit_id": "51279",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51279",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/279/051279_hanrei.pdf"
+}

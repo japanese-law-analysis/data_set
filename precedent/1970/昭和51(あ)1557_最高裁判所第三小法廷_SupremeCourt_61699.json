@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 2,
+    "day": 18
+  },
+  "case_number": "昭和51(あ)1557",
+  "case_name": "暴力行為等処罰ニ関スル法律違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第203号101頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 8,
+    "day": 17
+  },
+  "gist": "いわゆるアイヌ問題に関する一審判決の説示が被告人の表現の自由を侵害したとして違憲（一九条、二一条一項違反）をいう主張が「欠前提」とされた事例",
+  "ref_law": "憲法19条，憲法21条1項",
+  "lawsuit_id": "61699",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61699",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/699/061699_hanrei.pdf"
+}

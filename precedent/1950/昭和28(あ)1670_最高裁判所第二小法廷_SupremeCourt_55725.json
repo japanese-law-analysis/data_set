@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 8,
+    "day": 20
+  },
+  "case_number": "昭和28(あ)1670",
+  "case_name": "僞造公文書行使",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第8巻8号1363頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 12,
+    "day": 11
+  },
+  "gist": "物品税証紙は刑法第一五五条第三項の文書といえるか",
+  "case_gist": "物品税証紙は刑法第一五五条第三項の文書に該当する。",
+  "ref_law": "刑法155条3項，物品税法16条ノ23，物品税法8条，物品税法10条，物品税法施行規則37条ノ4，物品税法施行規則37条ノ5，物品税法施行規則37条ノ7，物品税法施行規則37条ノ8，物品税法施行規則37条ノ9，昭和26年5月25日大蔵省告示678号",
+  "lawsuit_id": "55725",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55725",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/725/055725_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 12,
+    "month": 12,
+    "day": 15
+  },
+  "case_number": "平成12(あ)451",
+  "case_name": "不動産侵奪、恐喝被告事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "刑集　第54巻9号923頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成11(う)892",
+  "original_date": {
+    "era": "Heisei",
+    "year": 12,
+    "month": 2,
+    "day": 18
+  },
+  "gist": "公園予定地の一部に無権原で簡易建物を構築するなどした行為が不動産の侵奪に当たるとされた事例",
+  "case_gist": "東京都の公園予定地の一部に、無権原で、角材を土台とし、要所に角材の柱を立て、多数の角材等からなる屋根部分を接合し、周囲をビニールシート等で覆うなど容易に倒壊しない骨組みを有する簡易建物を構築し、相当期間退去要求にも応じなかった行為（判文参照）は、不動産の侵奪に当たる。",
+  "ref_law": "刑法235条の2",
+  "lawsuit_id": "51221",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51221",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/221/051221_hanrei.pdf"
+}

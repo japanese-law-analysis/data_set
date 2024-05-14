@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 6,
+    "day": 22
+  },
+  "case_number": "昭和39(ク)265",
+  "case_name": "遺産分割審判に対する抗告につきなした決定に対する抗告の申立",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集民　第83号881頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和37(ラ)192",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 11,
+    "day": 17
+  },
+  "gist": "家事審判法第七条第一三条第一四と憲法第三二条",
+  "case_gist": "家事審判に対する不服申立は抗告訴訟によるべきであるとして、家事審判法第七条、第一三条、第一四条の憲法第三二条違背をいう所論は、家事審判に対する上訴制度について立法政策上の意見を述べるに帰着し、右憲法の条規違背をいうに当らないと解される。",
+  "ref_law": "憲法32条，家事審判法7条，家事審判法13条，家事審判法14条",
+  "lawsuit_id": "77765",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77765",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/765/077765_hanrei.pdf"
+}

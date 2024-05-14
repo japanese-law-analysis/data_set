@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 9,
+    "day": 27
+  },
+  "case_number": "昭和43(オ)555",
+  "case_name": "家屋明渡等請求，同附帯控訴事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第92号453頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和41(ネ)737",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 2,
+    "day": 29
+  },
+  "gist": "家屋の賃借人の賃貸人に対する傷害行為が他の債務不履行とあいまつて賃貸借契約の即時解除の原因となるとされた事例",
+  "case_gist": "家屋の共同賃借人のうち中心的地位にある一人が右家屋の明渡をめぐる紛争から賃貸人と口論したあげく同人に重傷を負わせたうえ、ガレージを無断築造する等判示の事情がある場合には、賃貸人は、即時右賃貸借契約を解除しうるものと解すべきである。",
+  "ref_law": "民法541条",
+  "lawsuit_id": "66681",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66681",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/681/066681_hanrei.pdf"
+}

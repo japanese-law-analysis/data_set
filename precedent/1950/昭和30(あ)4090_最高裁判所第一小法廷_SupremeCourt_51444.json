@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 1,
+    "day": 24
+  },
+  "case_number": "昭和30(あ)4090",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第11巻1号270頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 11,
+    "day": 8
+  },
+  "gist": "海中に取り落した物件について所持の認められる一事例",
+  "case_gist": "海中に取り落した物件については、落主の意にもとづきこれを引き揚げようとする者が、その落下場所の大体の位置を指示し、その引揚方を人に依頼した結果、その人が該物件をその附近で発見したときは、依頼者がその発見された事実を知らなくても、依頼者はその物件に対し所持即ち事実上の支配管理を有するものと解すべきである。",
+  "ref_law": "刑法235条，刑法254条",
+  "lawsuit_id": "51444",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51444",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/444/051444_hanrei.pdf"
+}

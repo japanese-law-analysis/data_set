@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 12,
+    "day": 11
+  },
+  "case_number": "昭和27(あ)4463",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第70号483頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 6,
+    "day": 6
+  },
+  "gist": "記録に編綴された国選弁護人選任書写の記載要件",
+  "case_gist": "国選弁護人の選任者の原本は同人に送達され記録にはその写を綴りおくのであるから右写の裁判長の名下に押印がなくとも差支ない。",
+  "ref_law": "刑訴規則29条",
+  "lawsuit_id": "75287",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=75287",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/287/075287_hanrei.pdf"
+}

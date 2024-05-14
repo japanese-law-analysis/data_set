@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 11,
+    "day": 30
+  },
+  "case_number": "平成17(ワ)3753",
+  "case_name": "貸金返還等請求事件",
+  "court_name": "名古屋地方裁判所民事第８部",
+  "gist": "新株引受権の贈与が否認された場合において，受贈者が否認権行使時までに新株引受権を行使して株式を取得した上，その株式を売却していたときは，受贈者が破産管財人に償還すべき価額は否認権行使時における当該株式の時価によるべきであるとされた事例",
+  "lawsuit_id": "36127",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=36127",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/127/036127_hanrei.pdf",
+  "contents": ""
+}

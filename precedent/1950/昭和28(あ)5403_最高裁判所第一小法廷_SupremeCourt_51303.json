@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 12,
+    "day": 19
+  },
+  "case_number": "昭和28(あ)5403",
+  "case_name": "横領",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第11巻13号3316頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 10,
+    "day": 22
+  },
+  "gist": "設立中の株式会社の財産について横領罪の成立する一事例",
+  "case_gist": "株式会社設立のため出資された資金によつて建設された建物が、会社設立前でも出資者の組合財産であると認められる場合は、その組合の事業を委されている者がこれを自己名義に保存登記をした上、自己の債務の弁済に供するため他に譲渡した場合は横領罪を構成する。",
+  "ref_law": "刑法252条，民法667条，民法668条，商法535条，商法536条",
+  "lawsuit_id": "51303",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51303",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/303/051303_hanrei.pdf"
+}

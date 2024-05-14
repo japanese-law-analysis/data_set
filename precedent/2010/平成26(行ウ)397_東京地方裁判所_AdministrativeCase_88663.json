@@ -1,0 +1,16 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Heisei",
+    "year": 30,
+    "month": 3,
+    "day": 28
+  },
+  "case_number": "平成26(行ウ)397",
+  "case_name": "行政文書不開示決定処分取消請求事件",
+  "court_name": "東京地方裁判所",
+  "gist": "１　政府に設置された原子力発電所事故調査・検証委員会が事故関係者から事情を聴取した聴取結果書中，個人の氏名又は職名の記述が，行政機関の保有する情報の公開に関する法律５条１号ただし書イの情報を構成しないと判断された事例\n２　政府に設置された原子力発電所事故調査・検証委員会が事故関係者から事情を聴取した聴取結果書中，個人の氏名又は職名の記述が，行政機関の保有する情報の公開に関する法律５条１号ただし書ロの情報を構成しないと判断された事例",
+  "lawsuit_id": "88663",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=88663",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/663/088663_hanrei.pdf"
+}

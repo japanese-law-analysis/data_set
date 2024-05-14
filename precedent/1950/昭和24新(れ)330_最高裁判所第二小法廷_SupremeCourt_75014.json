@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 4,
+    "day": 28
+  },
+  "case_number": "昭和24新(れ)330",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第17号459頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 9,
+    "day": 21
+  },
+  "gist": "憲法違反を主張しながら實質において刑訴法の解釋を非難する上告の適否",
+  "case_gist": "論旨は、憲法第三一條違反と主張するけれども、刑訴法第二二七條第二二三條に關する原判決の解釋が誤でないものなら所論といえども原判決は法律に定める手續によらずして斷罪したものであるとは主張しないものであるから、その實質は原判決の刑訴法の解釋を非難するに止まり憲法違反の問題ではないから論旨も亦刑訴法第四〇五條に規定する事由にあたらないこと明らかである。",
+  "ref_law": "憲法31條，刑訴法405條",
+  "lawsuit_id": "75014",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=75014",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/014/075014_hanrei.pdf"
+}

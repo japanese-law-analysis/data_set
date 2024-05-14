@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 4,
+    "day": 24
+  },
+  "case_number": "昭和29(あ)2287",
+  "case_name": "覚せい剤取締法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第10巻4号608頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 5,
+    "day": 25
+  },
+  "gist": "令状の執行を受くべき者以外の所有に属する物の押収の適否",
+  "case_gist": "捜査差押が、令状掲記の場所において差押の目的たる物につきなされた以上、押収品が、令状の執行を受くべき者以外の者の所有に属するというだけでは、右差押を違法ならしめるものではない。",
+  "ref_law": "刑訴法218条，刑訴法219条",
+  "lawsuit_id": "51340",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51340",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/340/051340_hanrei.pdf"
+}

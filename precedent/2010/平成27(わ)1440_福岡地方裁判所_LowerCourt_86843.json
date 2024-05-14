@@ -1,0 +1,15 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 29,
+    "month": 6,
+    "day": 2
+  },
+  "case_number": "平成27(わ)1440",
+  "case_name": "殺人被告事件",
+  "court_name": "福岡地方裁判所",
+  "lawsuit_id": "86843",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=86843",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/843/086843_hanrei.pdf"
+}

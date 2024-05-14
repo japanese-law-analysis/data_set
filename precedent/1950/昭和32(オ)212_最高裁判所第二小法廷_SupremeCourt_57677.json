@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 10,
+    "day": 4
+  },
+  "case_number": "昭和32(オ)212",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第11巻10号1703頁",
+  "original_court_name": "広島高等裁判所\n        　松江支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 12,
+    "day": 7
+  },
+  "gist": "民訴法第三九五条第一項第一号に該当する違法のある事例",
+  "case_gist": "基本たる口頭弁論に関与しない裁判官の関与した判決は、民訴第三九五条第一項第一号に該当する違法があるものと解すべきである。",
+  "ref_law": "民訴法187条1項，民訴法395条1項1号",
+  "lawsuit_id": "57677",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57677",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/677/057677_hanrei.pdf"
+}

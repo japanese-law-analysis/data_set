@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 4,
+    "month": 12,
+    "day": 18
+  },
+  "case_number": "平成2(オ)1259",
+  "case_name": "取締役報酬",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第46巻9号3006頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成1(ネ)1967",
+  "original_date": {
+    "era": "Heisei",
+    "year": 2,
+    "month": 5,
+    "day": 30
+  },
+  "gist": "取締役の報酬を無報酬に変更する旨の株主総会決議と報酬請求権の帰すう",
+  "case_gist": "取締役の報酬につき、株主総会がこれを無報酬に変更する旨の決議をしても、当該取締役は、右変更に同意しない限り、報酬請求権を失わない。",
+  "ref_law": "商法269条",
+  "lawsuit_id": "53502",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53502",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/502/053502_hanrei.pdf"
+}

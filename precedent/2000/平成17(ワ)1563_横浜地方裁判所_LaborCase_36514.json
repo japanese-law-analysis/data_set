@@ -1,0 +1,17 @@
+{
+  "trial_type": "LaborCase",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 10,
+    "day": 12
+  },
+  "case_number": "平成17(ワ)1563",
+  "case_name": "雇用契約上の地位確認等請求事件（通称　キャプテン・レディ解雇）",
+  "court_name": "横浜地方裁判所",
+  "field": "労働",
+  "lawsuit_id": "36514",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail6?id=36514",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/514/036514_hanrei.pdf",
+  "contents": ""
+}

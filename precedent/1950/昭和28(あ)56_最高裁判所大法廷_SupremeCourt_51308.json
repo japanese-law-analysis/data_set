@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 10,
+    "day": 24
+  },
+  "case_number": "昭和28(あ)56",
+  "case_name": "建造物侵入、公務執行妨害等",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "刑集　第10巻10号1500頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 10,
+    "day": 31
+  },
+  "gist": "団体行動権の行使と認められない一事例",
+  "case_gist": "某会社がその従業員一三名に対し解雇通知および同会社への立入禁止の通告をしたのに対し、同会社労働組合側では右解雇通知の当否を調査し、不当なものについては法定の手続によつて救済を求むべく事後の対策を協議中にもかかわらず、右解雇および立入禁止の通告を受けた二名およびこれを関知した同会社従業員でもなく同会社労働組合員でもない一〇名の者が、同組合の右解雇通知に対する闘争態勢を強化し同会社をして右措置を撤回せしめようと企図して、同組合とかかわりなく同会社本社構内にほしいままに立入つた所為は、団体行動権の行使ということはできない。",
+  "ref_law": "憲法28条，労働組合法1条2項，労働関係調整法6条，労働関係調整法7条，刑法35条",
+  "lawsuit_id": "51308",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51308",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/308/051308_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 4,
+    "day": 4
+  },
+  "case_number": "昭和35(あ)2303",
+  "case_name": "風俗営業取締法違反",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第16巻4号377頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 8,
+    "day": 15
+  },
+  "gist": "風俗営業等取締法第三条に基づく東京都風俗営業等取締法施行条例第二二条（営業時間の制限）の合憲性",
+  "case_gist": "風俗営業等取締法第三条に基づく東京都風俗営業等取締法施行条例第二二条は、憲法第一三条、第二二条第一項、第二五条に違反しない。",
+  "ref_law": "風俗営業等取締法3条，風俗営業等取締法7条2項，東京都風俗営業等取締法施行条例（昭和34年3月20日東京都条例10号）22条，憲法13条，憲法22条1項，憲法25条",
+  "lawsuit_id": "50640",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50640",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/640/050640_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 8,
+    "day": 2
+  },
+  "case_number": "昭和37(オ)611",
+  "case_name": "損害賠償請求同附帯上告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第22巻8号1525頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_case_number": "昭和35(ネ)106",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 1,
+    "day": 22
+  },
+  "gist": "一、企業主が生命または身体を侵害されたことにより生ずる財産上の損害額の算定基準\n二、附帯上告が上告理由と同一の理由に基づく場合とその提起期間",
+  "case_gist": "一、企業主が生命または身体を侵害されたため企業に従事することができなくなつたことによつて生ずる財産上の損害額は、特段の事情のないかぎり、企業収益中に占める企業主の労務その他企業に対する個人的寄与に基づく収益部分の割合によつて算定すべきである。\n二、附帯上告が上告理由と同一の理由に基づく場合において上告審で口頭弁論が開かれたときは、該附帯上告は右口頭弁論の終結時までに提起されなければならない。",
+  "ref_law": "民法709条，民法416条1項，民訴法396条，民訴法374条",
+  "lawsuit_id": "53817",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53817",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/817/053817_hanrei.pdf"
+}

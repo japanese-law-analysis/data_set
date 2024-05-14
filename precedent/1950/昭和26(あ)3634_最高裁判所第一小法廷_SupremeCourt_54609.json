@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 4,
+    "day": 17
+  },
+  "case_number": "昭和26(あ)3634",
+  "case_name": "傷害、麻薬取締法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第6巻4号678頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 5,
+    "day": 31
+  },
+  "gist": "麻薬取締法第三条にいわゆる麻薬の譲渡にあたる一事例",
+  "case_gist": "原判決は被告人Ａが麻薬をＢに売却方に依頼して交付した事実を認定しているのであるが、原判決の挙げている証拠によればその事実は、麻薬取締法三条にいわゆる麻薬を譲り渡したものに該当するのであるから、同四一一条を適用して原判決を破棄しなければ著しく正義に反するものとは認められない。",
+  "ref_law": "麻薬取締法3条",
+  "lawsuit_id": "54609",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54609",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/609/054609_hanrei.pdf"
+}

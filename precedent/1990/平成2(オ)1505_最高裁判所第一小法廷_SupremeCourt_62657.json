@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 2,
+    "month": 12,
+    "day": 6
+  },
+  "case_number": "平成2(オ)1505",
+  "case_name": "人身保護",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第161号291頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成2(人)9",
+  "original_date": {
+    "era": "Heisei",
+    "year": 2,
+    "month": 9,
+    "day": 7
+  },
+  "gist": "意思能力のある子に対する監護が人身保護法及び同規則にいう拘束に当たるとされた事例",
+  "case_gist": "被拘束者が、現在、一二歳八月で意思能力があり、監護者として拘束者（母親）を選択し、請求者（父親）の監護を拒絶する意向を表明しているとしても、被拘束者が、新興宗教の信者となった拘束者の影響の下に、いまだ十分な意思能力が備わっていたとはいえない一一歳五月ころ同教に入信してその道場に通い、一二歳四月ころ以降、拘束者らと共に同教の施設において社会から隔離された集団生活を続け、監護者の選択につき必要な資料・情報に接することのないまま、右のような意向を表明するに至ったものであるときは、意思能力のある子がその自由意思に基づいて監護者の下にとどまっているとはいえない特段の事情があり、拘束者の被拘束者に対する監護は人身保護法及び同規則にいう拘束に当たる。",
+  "ref_law": "人身保護法2条1項，人身保護規則3条，人身保護規則5条",
+  "lawsuit_id": "62657",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62657",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/657/062657_hanrei.pdf"
+}

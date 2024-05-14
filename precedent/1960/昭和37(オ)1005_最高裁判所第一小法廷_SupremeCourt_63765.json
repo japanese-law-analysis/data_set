@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 2,
+    "day": 20
+  },
+  "case_number": "昭和37(オ)1005",
+  "case_name": "貸室明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第72号223頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 5,
+    "day": 15
+  },
+  "gist": "時効消滅後の債権による相殺と相殺を主張しうる債権額確定の時点。",
+  "case_gist": "時効消滅後の債権による相殺は、相殺適状にあつた時点の債権額の限度でなしうるものであつて、相殺の意思表示の時点における債権額につき対当額で相殺されると解すべきではない。",
+  "ref_law": "民法508条，民法145条",
+  "lawsuit_id": "63765",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63765",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/765/063765_hanrei.pdf"
+}

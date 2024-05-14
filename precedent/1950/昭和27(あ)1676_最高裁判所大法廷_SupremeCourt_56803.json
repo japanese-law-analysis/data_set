@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 11,
+    "day": 10
+  },
+  "case_number": "昭和27(あ)1676",
+  "case_name": "電気事業法違反",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "刑集　第8巻11号1791頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 1,
+    "day": 28
+  },
+  "gist": "公益事業令失効後従前の電気事業法第三三条違反の所為は免訴すべきか",
+  "case_gist": "電気事業法第三三条違反の所為は、公益事業令が昭和二七年一〇号二四日かぎりで失効した後においては、刑の廃止があつたものとして免訴すべきである。",
+  "ref_law": "刑法6条，刑訴法411条5号，刑訴法337号2号，電気事業法（昭和6年法律61号）33条，公益事業令（昭和25年政令343号）1条，公益事業令（昭和25年政令343号）83条，公益事業令附則1項，公益事業令附則2項，公益事業令附則3項，ポツダム宣言の受諾に伴い発する命令に関する件の廃止に関する法律（昭和27年法律81号）1項，ポツダム宣言の受諾に伴い発する命令に関する件の廃止に関する法律（昭和27年法律81号）2項，電気及びガスに関する臨時措置に関する法律（昭和27年法律341号）",
+  "lawsuit_id": "56803",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56803",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/803/056803_hanrei.pdf"
+}

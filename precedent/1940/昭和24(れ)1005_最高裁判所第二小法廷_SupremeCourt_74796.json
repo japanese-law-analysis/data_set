@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 7,
+    "day": 2
+  },
+  "case_number": "昭和24(れ)1005",
+  "case_name": "強盗殺人、同未遂",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第12号49頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 1,
+    "day": 25
+  },
+  "gist": "近親者に精神病者がある被告人の精神鑑定の要否",
+  "case_gist": "しかし被告人の近親者に精神病者があつても被告人に精神異常の疑のないときには精神鑑定をしなくても違法ではない。",
+  "ref_law": "舊刑訴法219條，舊刑訴法337條",
+  "lawsuit_id": "74796",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74796",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/796/074796_hanrei.pdf"
+}

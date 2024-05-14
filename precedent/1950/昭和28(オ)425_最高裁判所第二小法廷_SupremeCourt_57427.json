@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 11,
+    "day": 20
+  },
+  "case_number": "昭和28(オ)425",
+  "case_name": "村会議員除名議決取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第7巻11号1246頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 3,
+    "day": 11
+  },
+  "gist": "議会の運営と全く関係のない議員の議場外における個人的行為は懲罰事由となるか",
+  "case_gist": "議会の運営と全く関係のない議員の議場外における個人的行為は、懲罰事由とすることができない。",
+  "ref_law": "地方自治法134条",
+  "lawsuit_id": "57427",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57427",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/427/057427_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 6,
+    "day": 12
+  },
+  "case_number": "昭和30(あ)4004",
+  "case_name": "殺人、尊属殺人未遂、強盗致傷教唆",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第10巻6号810頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 10,
+    "day": 10
+  },
+  "gist": "妻を殺害し同一機会に更に妻の母を殺害せんとしたときと刑法第二〇〇条の罪責",
+  "case_gist": "妻を殺害したのと同一機会に、殺意をもつて妻の母にも加害したがその目的を遂げなかつた所為は、尊属殺人未遂罪にあたる。",
+  "ref_law": "刑法200条，民法728条2項",
+  "lawsuit_id": "51441",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51441",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/441/051441_hanrei.pdf"
+}

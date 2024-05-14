@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 9,
+    "day": 21
+  },
+  "case_number": "昭和51(あ)907",
+  "case_name": "銃砲刀剣類所持等取締法違反、火薬類取締法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第201号435頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 5,
+    "day": 12
+  },
+  "gist": "所論引用の判例が所論のような判示をしているものではないとして判例違反の主張を斥けた事例",
+  "lawsuit_id": "60217",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60217",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/217/060217_hanrei.pdf"
+}

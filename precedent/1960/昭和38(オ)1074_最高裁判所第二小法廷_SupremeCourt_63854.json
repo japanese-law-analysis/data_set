@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 4,
+    "day": 30
+  },
+  "case_number": "昭和38(オ)1074",
+  "case_name": "債権弁済期限未到来確認等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第78号805頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和34(ネ)1666",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 6,
+    "day": 5
+  },
+  "gist": "三重県、和歌山県、奈良県一帯において材木取引業者間の債務決済につき行なわれている「売り権」と呼ばれる慣行による契約の性質。",
+  "case_gist": "三重県、和歌山県、奈良県一帯において材木取引業者間の債務決済につき行なわれている通称「売り権」と呼ばれる慣行に従う契約は、いわゆる流質型の、強い効力を有する譲渡担保に該当せず、処分清算型の、弱い効力を有する譲渡担保と解すべきである。",
+  "ref_law": "民法第2編第10章，民法92条",
+  "lawsuit_id": "63854",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63854",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/854/063854_hanrei.pdf"
+}

@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 2,
+    "day": 7
+  },
+  "case_number": "平成14(行ウ)52",
+  "case_name": "産業廃棄物処分業変更許可処分取消請求事件",
+  "court_name": "さいたま地方裁判所第４民事部",
+  "gist": "産業廃棄物処理施設の周囲３ｋｍ以内に居住又は勤務する住民に産業廃棄物処分業変更許可取消訴訟の原告適格を認めた上で，法律所定の許可を受けていない施設を「その事業の用に供する施設」としてなされた産業廃棄物処分業変更許可は違法を帯びるとされた事例",
+  "lawsuit_id": "34472",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=34472",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/472/034472_hanrei.pdf",
+  "contents": ""
+}

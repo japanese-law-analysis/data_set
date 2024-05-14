@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 6,
+    "day": 25
+  },
+  "case_number": "昭和34(あ)204",
+  "case_name": "収賄",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第130号281頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 12,
+    "day": 22
+  },
+  "gist": "控訴判決書が控訴趣意書記載の事実を引用した場合に控訴趣意書を判決書に添付すること要否。",
+  "case_gist": "控訴判決書が控訴趣意書記載の事実を引用できることは刑訴規則二四六条の定めるところであり、この場合、判決書の謄本または抄本に原則五七条五項の記載は必要ではあるが、所論のように控訴趣意書を判決書に添付することは必要ではない。",
+  "ref_law": "刑訴規則246条，刑訴規則57条5項",
+  "lawsuit_id": "61184",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61184",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/184/061184_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 13,
+    "month": 6,
+    "day": 28
+  },
+  "case_number": "平成11(受)922",
+  "case_name": "損害賠償等請求事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第55巻4号837頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成8(ネ)4844",
+  "original_date": {
+    "era": "Heisei",
+    "year": 11,
+    "month": 3,
+    "day": 30
+  },
+  "gist": "１　言語の著作物の翻案の意義　\n２　表現それ自体でない部分又は表現上の創作性がない部分において既存の言語の著作物との同一性を有する著作物を創作する行為と翻案",
+  "case_gist": "１　言語の著作物の翻案とは，既存の著作物に依拠し，かつ，その表現上の本質的な特徴の同一性を維持しつつ，具体的表現に修正，増減，変更等を加えて，新たに思想又は感情を創作的に表現することにより，これに接する者が既存の著作物の表現上の本質的な特徴を直接感得することのできる別の著作物を創作する行為をいう。\n２　思想，感情若しくはアイデア，事実若しくは事件など表現それ自体でない部分又は表現上の創作性がない部分において既存の言語の著作物と同一性を有するにすぎない著作物を創作する行為は，既存の著作物の翻案に当たらない。",
+  "ref_law": "著作権法2条1項1号，著作権法27条，著作権法第7章権利侵害",
+  "lawsuit_id": "52267",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52267",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/267/052267_hanrei.pdf"
+}

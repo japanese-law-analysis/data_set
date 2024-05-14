@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 1,
+    "day": 21
+  },
+  "case_number": "昭和40(オ)813",
+  "case_name": "養子縁組無効確認請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第82号123頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和38(ネ)741",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 4,
+    "day": 5
+  },
+  "gist": "人事訴訟における自白の効果",
+  "case_gist": "養子縁組事件においても、当事者が自白すれば、裁判所は、自由心証によつて真実であるかどうかを判断し、真実と認めれば、これを事実認定の資料とすることを妨げられるものではない。",
+  "ref_law": "人事訴訟手続法10条，人事訴訟手続法26条",
+  "lawsuit_id": "66482",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66482",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/482/066482_hanrei.pdf"
+}

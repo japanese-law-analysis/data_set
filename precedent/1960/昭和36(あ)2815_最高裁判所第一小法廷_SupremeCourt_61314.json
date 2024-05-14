@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 4,
+    "day": 12
+  },
+  "case_number": "昭和36(あ)2815",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第141号783頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 11,
+    "day": 17
+  },
+  "gist": "将来行なわるべき選挙が特定されているとした事例",
+  "case_gist": "原判決の支持した第一審判決によれば被告人は昭和三五年一一月二〇日施行された衆議院議員総選挙に際し（中略）かねて右選挙に立候補の決意を有していたＡの選挙運動者であるＢ某及Ｃ某両名から右Ａに当選を得せしめる目的で投票取りまとめ方を依頼されその報酬として現金の供与をうけたものであるというのであり、このような場合はやがて施行されるであろう選挙の運動というを妨げないものと解されるから、所論のように選挙が特定されていないものというを得ない（大審院昭和一一年（れ）第一〇〇二号同年七月六日第二刑事部判決、刑集一五巻九四三頁参照）。",
+  "ref_law": "公職選挙法129条，公職選挙法239条，公職選挙法221条1項1号，公職選挙法221条1項4号",
+  "lawsuit_id": "61314",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61314",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/314/061314_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 4,
+    "day": 24
+  },
+  "case_number": "昭和29(あ)2502",
+  "case_name": "入札談合",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第10巻4号617頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 6,
+    "day": 16
+  },
+  "gist": "刑法第九六条ノ三にいう公正なる価格を害する目的で談合した一事例",
+  "case_gist": "被告人が、自由競争によれば百六十五万円位で入札する予定であつたものを、談合の上、被告人の会社の入札金額を百九十二万八千円と記載し、他の入札金額をこれよりも高額に記入させて入札せしめた場合には刑法第九六条ノ三にいう公正なる価格を害する目的で談合したものである。",
+  "ref_law": "刑法96条ノ3",
+  "lawsuit_id": "51345",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51345",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/345/051345_hanrei.pdf"
+}

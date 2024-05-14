@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 4,
+    "day": 30
+  },
+  "case_number": "昭和26(オ)866",
+  "case_name": "認知請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第8巻4号861頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 11,
+    "day": 13
+  },
+  "gist": "認知の訴の性質",
+  "case_gist": "認知の訴は、現行法上これを形成の訴と解すべきものである。",
+  "ref_law": "民法787条，人事訴訟手続法32条",
+  "lawsuit_id": "56084",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56084",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/084/056084_hanrei.pdf"
+}

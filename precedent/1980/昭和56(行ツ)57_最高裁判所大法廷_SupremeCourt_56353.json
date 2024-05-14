@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 11,
+    "day": 7
+  },
+  "case_number": "昭和56(行ツ)57",
+  "case_name": "選挙無効",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第37巻9号1243頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和55(行ケ)184",
+  "original_date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 12,
+    "day": 23
+  },
+  "gist": "公職選挙法一三二条、同法別表第一及び同法附則七項ないし九項による選挙区及び議員数の定めの合憲性",
+  "case_gist": "公職選挙法一三条、同法別表第一及び同法附則七項ないし九項による選挙区及び議員数の定めは、昭和五五年六月二二日の衆議院議員選挙当時、憲法一四条一項、一五条一項、三項、四四条但し書に違反していたものと断定することはできない。\n（補足意見及び反対意見がある。）",
+  "ref_law": "憲法14条1項，憲法15条1項，憲法15条3項，憲法44条但書，公職選挙法13条，公職選挙法別表第1，公職選挙法附則7項ないし9項",
+  "lawsuit_id": "56353",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56353",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/353/056353_hanrei.pdf"
+}

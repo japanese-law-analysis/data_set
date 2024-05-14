@@ -1,0 +1,18 @@
+{
+  "trial_type": "IPCase",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 7,
+    "day": 3
+  },
+  "case_number": "平成18(ワ)10470",
+  "case_name": "不正競争行為差止等請求事件",
+  "court_name": "大阪地方裁判所",
+  "right_type": "不正競争",
+  "lawsuit_type": "民事訴訟",
+  "lawsuit_id": "34889",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail7?id=34889",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/889/034889_hanrei.pdf",
+  "contents": ""
+}

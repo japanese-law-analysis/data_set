@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 12,
+    "day": 13
+  },
+  "case_number": "昭和36(ク)22",
+  "case_name": "準禁治産宣告の審判に対する即時抗告についてなした棄却決定に対する再抗告",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "民集　第15巻11号2795頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_case_number": "昭和35(ラ)17",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 10,
+    "day": 31
+  },
+  "gist": "浪費者であることを理由として準禁治産を宣告する制度と憲法第一三条および同第二九条。",
+  "case_gist": "浪費者であることを理由として準禁治産を宣告する制度は、憲法第一三条および同第二九条に違反しない。",
+  "ref_law": "憲法13条，憲法29条，民法11条",
+  "lawsuit_id": "53082",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53082",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/082/053082_hanrei.pdf"
+}

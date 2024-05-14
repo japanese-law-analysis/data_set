@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 11,
+    "day": 19
+  },
+  "case_number": "昭和50(す)237",
+  "case_name": "兇器準備集合等被告事件についてした上告棄却決定に対する異議申立",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "その他",
+  "article_info": "集刑　第198号487頁",
+  "original_court_name": "最高裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 10,
+    "day": 30
+  },
+  "gist": "弁護人の氏名を欠落した上告棄却決定理由中の一部を更正した事例",
+  "ref_law": "刑訴法415",
+  "lawsuit_id": "60163",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60163",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/163/060163_hanrei.pdf"
+}

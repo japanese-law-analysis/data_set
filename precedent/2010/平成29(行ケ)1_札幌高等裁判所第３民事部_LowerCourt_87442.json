@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 30,
+    "month": 2,
+    "day": 6
+  },
+  "case_number": "平成29(行ケ)1",
+  "case_name": "選挙無効請求",
+  "court_name": "札幌高等裁判所第３民事部",
+  "result": "棄却",
+  "gist": "平成２９年１０月２２日に行われた衆議院議員総選挙について，北海道第１区ないし第１２区の選挙人である原告らが，衆議院小選挙区選出議員の選挙の選挙区割りに関する公職選挙法の規定は憲法に違反し無効であるから，これに基づき施行された選挙も無効であるなどと主張したが，上記規定及びこれに従って改定された選挙区割りが憲法の規定に違反すると認めることはできないとして，原告の請求を棄却した。",
+  "lawsuit_id": "87442",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=87442",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/442/087442_hanrei.pdf"
+}

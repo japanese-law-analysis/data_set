@@ -1,0 +1,16 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Reiwa",
+    "year": 2,
+    "month": 2,
+    "day": 5
+  },
+  "case_number": "令和1(行コ)247",
+  "case_name": "行政文書不開示決定処分取消請求控訴事件",
+  "court_name": "東京高等裁判所",
+  "field": "行政",
+  "lawsuit_id": "92264",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=92264",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/264/092264_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 9,
+    "day": 18
+  },
+  "case_number": "昭和37(オ)225",
+  "case_name": "建物収去、土地明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第75号265頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 12,
+    "day": 15
+  },
+  "gist": "真宗大谷派の末寺が解散した場合の財産の帰属について事実たる慣習が認められた事例。",
+  "case_gist": "真宗大谷派の末寺であつて寺院規則を有しない寺が解散する場合には、総代の同意を得て、住職の承継者と目すべきものに残余財産を帰属せしめるという事実たる慣習が存在する。",
+  "ref_law": "民法92条，宗教法人令14条，宗教法人法50条",
+  "lawsuit_id": "66083",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66083",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/083/066083_hanrei.pdf"
+}

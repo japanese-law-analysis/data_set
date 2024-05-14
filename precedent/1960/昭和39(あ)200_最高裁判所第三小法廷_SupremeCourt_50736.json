@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 4,
+    "day": 16
+  },
+  "case_number": "昭和39(あ)200",
+  "case_name": "建造物損壊、建造物侵入、侮辱等",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第19巻3号143頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 11,
+    "day": 27
+  },
+  "gist": "刑法第九二条にいう外国国章の除去にあたるとされた事例。",
+  "case_gist": "中華民国駐大阪総領事館邸の一階正面出入口上部中央に掲げられた、青天白日の同国国章を刻んだ横額の前面に、これとほぼ同形の、白地に黒く「台湾共和国大阪総領事館」と大書したベニヤ板製看板を、針金を用い、右横額上部の釘等に巻きつけ、これに重なり合うように密接して垂下させ、右国章を遮蔽する所為は、刑法第九二条にいう除去にあたる。」",
+  "ref_law": "刑法92条",
+  "lawsuit_id": "50736",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50736",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/736/050736_hanrei.pdf"
+}

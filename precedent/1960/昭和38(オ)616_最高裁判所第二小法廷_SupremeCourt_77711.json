@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 4,
+    "day": 22
+  },
+  "case_number": "昭和38(オ)616",
+  "case_name": "審決取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第83号283頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和35(行ナ)112",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 3,
+    "day": 5
+  },
+  "gist": "セメント混合材として精製された硅藻土に対する旧商標法施行規則所定の商品類別の適用",
+  "case_gist": "セメント混合材としてその純度、形状を調整された硅藻土であつても、旧商標法施行規則（大正一〇年農商務省令第三六号）第一五条所定の商品類別第一三類に属し、第七〇類には属しない。",
+  "ref_law": "旧商標法施行規則（大正10年農商務省令36号）15条",
+  "lawsuit_id": "77711",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77711",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/711/077711_hanrei.pdf"
+}

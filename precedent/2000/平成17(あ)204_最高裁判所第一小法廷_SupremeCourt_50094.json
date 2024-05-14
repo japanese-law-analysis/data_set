@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 17,
+    "month": 12,
+    "day": 13
+  },
+  "case_number": "平成17(あ)204",
+  "case_name": "電磁的公正証書原本不実記録，同供用被告事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第59巻10号1938頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成15(う)1597",
+  "original_date": {
+    "era": "Heisei",
+    "year": 16,
+    "month": 12,
+    "day": 3
+  },
+  "gist": "新株の引受人が会社から第三者を通じて間接的に融資を受けた資金によってした新株の払込みが無効であるとして商業登記簿の原本である電磁的記録に増資の記録をさせた行為につき電磁的公正証書原本不実記録罪の成立が認められた事例",
+  "case_gist": "甲社の増資の際，新株の引受人である乙社が，甲社から丙社，丙社から乙社へと順次融資により移動した甲社の資金により新株の払込みをし，上記融資により甲社が取得した丙社に対する債権が丙社との合意などから甲社の実質的な資産と評価することができないなど判示の事情の下においては，上記払込みは無効であり，甲社の商業登記簿の原本である電磁的記録に上記増資の記録をさせた行為は，電磁的公正証書原本不実記録罪に当たる。",
+  "ref_law": "商法280条の7，刑法157条1項",
+  "lawsuit_id": "50094",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50094",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/094/050094_hanrei.pdf"
+}

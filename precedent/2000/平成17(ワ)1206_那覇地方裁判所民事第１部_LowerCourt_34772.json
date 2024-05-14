@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 5,
+    "day": 30
+  },
+  "case_number": "平成17(ワ)1206",
+  "case_name": "損害賠償請求事件",
+  "court_name": "那覇地方裁判所民事第１部",
+  "result": "その他",
+  "gist": "原告が，被告である地方公共団体に対し，被告との間でごみ処理施設の建設を目的とする工事請負契約を締結したにもかかわらず，被告が原告とは別に建設を依頼した会社がごみ処理施設を完成させたため，被告との間における請負契約が履行不能となったとして，債務不履行に基づく，損害賠償の支払を求めたのに対し，契約が成立していないという被告の主張を排斥して，原告の請求を一部認容した事案",
+  "lawsuit_id": "34772",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=34772",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/772/034772_hanrei.pdf",
+  "contents": ""
+}

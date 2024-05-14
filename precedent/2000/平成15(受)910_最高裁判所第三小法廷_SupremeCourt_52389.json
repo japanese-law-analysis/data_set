@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 16,
+    "month": 4,
+    "day": 20
+  },
+  "case_number": "平成15(受)910",
+  "case_name": "地位確認等請求事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第58巻4号841頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_case_number": "平成13(ネ)40",
+  "original_date": {
+    "era": "Heisei",
+    "year": 15,
+    "month": 2,
+    "day": 27
+  },
+  "gist": "大学が全学生，教官等により組織され学生の課外活動を推進する事業を行う権利能力のない社団の解散を決定することができるとされた事例",
+  "case_gist": "大学の学長を会長とし，全学生，教官等を会員として組織され，大学により設立を承認されて学生の課外活動を推進する事業を行う権利能力のない社団が，その事務室は大学構内にあり，課外活動を行う学生のサークルに対する大学の共用施設の提供や全学生から徴収した会費等を原資とする援助金の交付などに関する事務を行っていたこと，同社団の組織及び事業内容は，大学及びその教育活動と密接な関係を有するものであったこと，しかるに，同社団の運営が承認の趣旨に反するものとなり，その改善が困難であることなど判示の事情の下においては，大学は，上記承認を取り消してその解散を決定することができる。",
+  "ref_law": "民法33条，民法68条，学校教育法52条",
+  "lawsuit_id": "52389",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52389",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/389/052389_hanrei.pdf"
+}

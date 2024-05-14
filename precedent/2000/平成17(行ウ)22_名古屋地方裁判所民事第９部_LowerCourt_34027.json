@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 11,
+    "day": 16
+  },
+  "case_number": "平成17(行ウ)22",
+  "case_name": "厚生年金保険遺族給付不支給処分無効確認等請求",
+  "court_name": "名古屋地方裁判所民事第９部",
+  "result": "棄却",
+  "gist": "死亡した厚生年金保険の被保険者と重婚的内縁関係にあった原告が提起した，社会保険庁長官等のした厚生年金保険遺族給付不支給処分等の無効確認を求める事案が棄却された事例",
+  "lawsuit_id": "34027",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=34027",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/027/034027_hanrei.pdf",
+  "contents": "1 1\n2 2\n3 3\n4 4\n"
+}

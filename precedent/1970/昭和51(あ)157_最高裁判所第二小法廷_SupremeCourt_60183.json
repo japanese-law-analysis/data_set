@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 7,
+    "day": 19
+  },
+  "case_number": "昭和51(あ)157",
+  "case_name": "爆発物取締罰則違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第201号215頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 12,
+    "day": 18
+  },
+  "gist": "爆発物取締罰則一条の規定違憲（三一条違反）の主張が立法政策の問題であつて憲法適否問題ではないとして処理された事例",
+  "ref_law": "憲法31条",
+  "lawsuit_id": "60183",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60183",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/183/060183_hanrei.pdf"
+}

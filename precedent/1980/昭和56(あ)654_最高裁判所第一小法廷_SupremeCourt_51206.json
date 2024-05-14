@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 7,
+    "day": 16
+  },
+  "case_number": "昭和56(あ)654",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "刑集　第35巻5号557頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 3,
+    "day": 27
+  },
+  "gist": "原判決中未決勾留日数算入の部分のみが破棄された事例\n（反対意見がある）",
+  "case_gist": "原判決の違法が、現実に存在しない未決勾留日数を裁量により本刑に算入した点のみにある場合においては、原判決中、未決勾留日数算入の部分のみを破棄し、その余の部分に対する上告を棄却すべきである。",
+  "ref_law": "刑法21条，刑訴法357条，刑訴法410条1項",
+  "lawsuit_id": "51206",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51206",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/206/051206_hanrei.pdf"
+}

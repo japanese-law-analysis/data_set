@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 10,
+    "day": 14
+  },
+  "case_number": "昭和32(オ)326",
+  "case_name": "強制執行異議",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第14巻12号2481頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 12,
+    "day": 28
+  },
+  "gist": "公正証書につき請求異議の訴が許されない事例。",
+  "case_gist": "公正証書作成のための代理委任状の印影と右委任状の真正を証するための印鑑証明書の印影とが相違していても、右委任状が真正に成立したものである以上、これら印影の相違を理由とする請求異議の訴は許されない。",
+  "ref_law": "民訴法559条3号，民訴法560条，民訴法545条，公証人法32条",
+  "lawsuit_id": "52889",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52889",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/889/052889_hanrei.pdf"
+}

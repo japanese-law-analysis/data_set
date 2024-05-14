@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 6,
+    "day": 24
+  },
+  "case_number": "昭和42(オ)747",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第24巻6号712頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_case_number": "昭和39(ネ)88",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 3,
+    "day": 29
+  },
+  "gist": "手形法一六条一項の適用を求める主張があると解すべき場合",
+  "case_gist": "原告が、連続した裏書の記載のある手形を所持し、その手形に基づき手形金の請求をしている場合には、当然に、手形法一六条一項の適用を求める主張があるものと解すべきである。",
+  "ref_law": "手形法16条1項，手形法77条1項1号，民訴法186条",
+  "lawsuit_id": "55087",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55087",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/087/055087_hanrei.pdf"
+}

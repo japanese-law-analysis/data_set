@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 5,
+    "day": 14
+  },
+  "case_number": "昭和32(オ)391",
+  "case_name": "引受債務金請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第13巻5号609頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 2,
+    "day": 13
+  },
+  "gist": "履行の提供と同時履行の抗弁権の消滅。",
+  "case_gist": "双務契約の当事者の一方は、相手方の履行の提供があつても、その提供が継続されないかぎり、同時履行の抗弁権を失うものではない。",
+  "ref_law": "民法533条",
+  "lawsuit_id": "54858",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54858",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/858/054858_hanrei.pdf"
+}

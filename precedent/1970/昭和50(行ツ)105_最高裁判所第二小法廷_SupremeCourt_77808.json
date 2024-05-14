@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 6,
+    "day": 30
+  },
+  "case_number": "昭和50(行ツ)105",
+  "case_name": "町長当選の効力に関する裁決取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集民　第118号163頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_case_number": "昭和50(行ケ)1",
+  "original_date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 9,
+    "day": 5
+  },
+  "gist": "町長選挙における投票の効力の判定事例",
+  "case_gist": "（省略）",
+  "ref_law": "公職選挙法67条，公職選挙法68条",
+  "lawsuit_id": "77808",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77808",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/808/077808_hanrei.pdf",
+  "contents": "( )\n( )\n( )\n( )\n( ) ( ) ( )\n( ) ( ) ( )\n( ) ( ) ( ) ( ) ( ) ( )\n"
+}

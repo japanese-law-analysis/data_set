@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 12,
+    "day": 4
+  },
+  "case_number": "昭和27(オ)601",
+  "case_name": "選挙無効確認請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第6巻11号1103頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 5,
+    "day": 6
+  },
+  "gist": "投票記載所の机上に候補者の氏を記載した小紙片が放置されていた場合と公職選挙法第二〇五条にいわゆる選挙の規定違反",
+  "case_gist": "候補者の氏を記載した小紙片が選挙事務担当者の知らぬ間に、投票記載所の机上に一、二時間放置されていたからといつて、公職選挙法第二〇五条にいわゆる選挙の規定に違反するものということはできない。",
+  "ref_law": "公職選挙法205条",
+  "lawsuit_id": "57333",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57333",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/333/057333_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 4,
+    "day": 25
+  },
+  "case_number": "昭和24(つ)14",
+  "case_name": "簡易裁判所のなした異議申立却下決定に対する特別抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第9号447頁",
+  "original_court_name": "水戸簡易裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 2,
+    "day": 22
+  },
+  "gist": "捜査報告書と證據調",
+  "case_gist": "所論の書面は、いずれも司法警察職員の作成した捜査報告書である、右書面は被告人以外の者が作成した供述書で供述者の署名押印はあるが刑訴第三二一條第三二四條所定の證據とすることのできる要件は一つも具えていない、檢察官は右書面は刑訴法第三二三條第一項第一號の書面であると主張するが同條の書面は、その成立並に内容において信用度が特に高い書面であるからこれを證據とすることができるものとしたのであるから本件警察職員の作成した捜査報告書の如きものは、右第三二三條所定の書面に該當しないことは明かである、してみれば右書面を辯護人の異議があつたに拘らず、これを受理し證據調をすることは違法である。",
+  "ref_law": "刑訴法321條，刑訴法324條，刑訴法323條1項1號",
+  "lawsuit_id": "70698",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70698",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/698/070698_hanrei.pdf"
+}

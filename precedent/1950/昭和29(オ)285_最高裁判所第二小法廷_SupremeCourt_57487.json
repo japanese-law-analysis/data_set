@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 4,
+    "day": 13
+  },
+  "case_number": "昭和29(オ)285",
+  "case_name": "建物売渡代金残額請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第10巻4号388頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 3,
+    "day": 4
+  },
+  "gist": "一　当事者の一方だけが出頭した場合における民訴第一八七条第二項の手続\n二　当事者の一方だけが出頭した場合における民訴第一八七条第二項の手続と調書の記載",
+  "case_gist": "一　民訴第一八七条第二項の手続を履践すべき場合、当事者の一方が口頭弁論期日に欠席したときは、裁判長は出頭した当事者に双方に係る従前の口頭弁論の結果を陳述させることができる。\n二　裁判官の更迭があつた場合、口頭弁論調書に、当事者の一方だけが出頭し「前回までの口頭弁論調書にもとづいて従前の口頭弁論の結果を陳述」したとの記載があるときは、出頭当事者において双方に係る従前の口頭弁論の結果を陳述したものと解すべきである。",
+  "ref_law": "民訴法187条2項",
+  "lawsuit_id": "57487",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57487",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/487/057487_hanrei.pdf"
+}

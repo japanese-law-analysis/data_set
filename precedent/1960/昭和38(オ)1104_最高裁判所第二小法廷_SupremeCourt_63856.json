@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 4,
+    "day": 17
+  },
+  "case_number": "昭和38(オ)1104",
+  "case_name": "売買契約履行本訴並びに反訴請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第73号249頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 6,
+    "day": 25
+  },
+  "gist": "民訴法第一八七条第三項後段は審級を異にした場合に適用あるか。",
+  "case_gist": "第一審裁判所が尋問した証人につき控訴審で再尋問の申出があつた場合、民訴法第一八七条第三項後段を適用することを要しない。",
+  "ref_law": "民訴法187条3項後段",
+  "lawsuit_id": "63856",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63856",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/856/063856_hanrei.pdf"
+}

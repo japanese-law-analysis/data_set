@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 4,
+    "day": 24
+  },
+  "case_number": "平成17(ワ)1768",
+  "case_name": "損害賠償",
+  "court_name": "東京地方裁判所民事第８部",
+  "result": "その他",
+  "lawsuit_id": "36362",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=36362",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/362/036362_hanrei.pdf",
+  "contents": "1 1\n2 2\n3 3\n1 1 2\n2 3\n2 3 1\n3 1\n1 3\n3 1 2\n6 7\n"
+}

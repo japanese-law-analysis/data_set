@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 12,
+    "day": 26
+  },
+  "case_number": "昭和26(あ)708",
+  "case_name": "物価統制令違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第6巻12号1470頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 12,
+    "day": 16
+  },
+  "gist": "差戻前の第一審における弁護人選任の差戻後の第一審における効力",
+  "case_gist": "差戻前の第一審においてした弁護人の選任は、差戻後の第一審においてはその効力を有しない。",
+  "ref_law": "刑訴法32条2項",
+  "lawsuit_id": "53439",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53439",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/439/053439_hanrei.pdf"
+}

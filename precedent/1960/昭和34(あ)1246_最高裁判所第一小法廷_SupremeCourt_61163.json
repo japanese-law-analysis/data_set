@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 2,
+    "day": 1
+  },
+  "case_number": "昭和34(あ)1246",
+  "case_name": "詐欺",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第141号83頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 4,
+    "day": 22
+  },
+  "gist": "多数の出資者に対する三、七五一回にわたる詐欺罪の罪数",
+  "case_gist": "詐欺の目的をもつて「財政経済会」の名称で匿名組合を設立し、一、三四八名の出資者に対し各別に欺罔手段を施し、三、七五一回にわたり金員、株券などを騙取した場合においては、出資者一人ごとに独立の詐欺罪を構成する。",
+  "ref_law": "刑法246条1項，刑法45条",
+  "lawsuit_id": "61163",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61163",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/163/061163_hanrei.pdf"
+}

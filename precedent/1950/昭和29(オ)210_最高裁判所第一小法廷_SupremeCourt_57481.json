@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 4,
+    "day": 28
+  },
+  "case_number": "昭和29(オ)210",
+  "case_name": "裁決取消並びに選挙無効請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第9巻5号603頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 1,
+    "day": 27
+  },
+  "gist": "市長および市議会議員全員の辞職とその選挙の効力を争う訴の利益",
+  "case_gist": "市長および市議会議員全員が辞職したときは、その選挙の効力を争う訴の利益は消滅する。",
+  "ref_law": "民訴法第2編第1章訴，公職選挙法203条",
+  "lawsuit_id": "57481",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57481",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/481/057481_hanrei.pdf"
+}

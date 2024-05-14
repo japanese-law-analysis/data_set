@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 4,
+    "day": 21
+  },
+  "case_number": "昭和37(オ)1339",
+  "case_name": "代物弁済契約不存在確認等請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第73号287頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 5,
+    "day": 30
+  },
+  "gist": "親権者の一方がその子と利益相反し他の親権者が利益相反関係にない場合と民法第八二六条の適用。",
+  "case_gist": "民法第八二六条は、親権者の一方がその子と利益相反し他の親権者が利益相反関係にない場合にも適用がある（同旨、昭和三七年（オ）第一三四〇号同三九年四月二一日第三小法廷判決、裁判集（民）第七三号二九九頁）。",
+  "ref_law": "民法826条",
+  "lawsuit_id": "63777",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63777",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/777/063777_hanrei.pdf"
+}

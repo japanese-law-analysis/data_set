@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 7,
+    "day": 19
+  },
+  "case_number": "昭和29(あ)1017",
+  "case_name": "関税法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第119号991頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 12,
+    "day": 11
+  },
+  "gist": "関税法（昭和二九年法律第六一号による改正前のもの）第七五条の法意",
+  "case_gist": "関税法（昭和二九年法律第六一号による改正前のもの）第七五条は、貨物をいわゆる通関手続を経ないで輸出する所為に対しては適用がなく、関税を逋脱する意思をもつて貨物を輸入する所為だけを処罰するものと解するのを相当とする。",
+  "ref_law": "関税法（昭和29年法律61号による改正前のもの）75条，関税法（昭和29年法律61号による改正前のもの）76条",
+  "lawsuit_id": "60565",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60565",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/565/060565_hanrei.pdf"
+}

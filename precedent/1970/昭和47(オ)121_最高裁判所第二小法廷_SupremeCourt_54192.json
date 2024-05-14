@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 11,
+    "day": 7
+  },
+  "case_number": "昭和47(オ)121",
+  "case_name": "共有物分割請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第29巻10号1525頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和42(ネ)686",
+  "original_date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 10,
+    "day": 28
+  },
+  "gist": "共同相続人の一部から遺産を構成する特定不動産の共有持分権を譲り受けた第三者が共有関係解消のためにとるべき裁判手続",
+  "case_gist": "共同相続人の一部から遺産を構成する特定不動産の共有持分権を譲り受けた第三者が当該共有関係の解消のためにとるべき裁判手続は、遺産分割審判ではなく、共有物分割訴訟である。",
+  "ref_law": "民法258条1項，民法907条2項",
+  "lawsuit_id": "54192",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54192",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/192/054192_hanrei.pdf"
+}

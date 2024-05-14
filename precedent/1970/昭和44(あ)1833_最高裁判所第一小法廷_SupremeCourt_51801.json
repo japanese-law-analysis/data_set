@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 9,
+    "day": 24
+  },
+  "case_number": "昭和44(あ)1833",
+  "case_name": "業務上過失致死傷",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "刑集　第24巻10号1380頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 7,
+    "day": 31
+  },
+  "gist": "右折車両の運転者の後方注意義務",
+  "case_gist": "右折しようとする車両の運転者は、その時の道路および交通の状態その他の具体的状況に応じた適切な右折準備態勢に入つたのちは、特段の事情がない限り、後方を同一方向に進行する車両があつても、その運転者において、交通法規の諸規定に従い、追突等の事故を回避するよう正しい運転をするであろうことを期待して運転すれば足り、それ以上に、違法異常な運転をする者のありうることまでを予想して周到な後方安全確認をなすべき注意義務はない。",
+  "ref_law": "刑法211条前段，道路交通法28条，道路交通法34条",
+  "lawsuit_id": "51801",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51801",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/801/051801_hanrei.pdf"
+}

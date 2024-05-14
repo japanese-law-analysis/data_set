@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 6,
+    "day": 27
+  },
+  "case_number": "昭和42(オ)1445",
+  "case_name": "貸金請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第22巻6号1427頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和41(ネ)644",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 9,
+    "day": 27
+  },
+  "gist": "賃貸借終了後いわゆる権利金の返還を請求できないとされた事例",
+  "case_gist": "期間の定のない店舗の賃貸借において、右店舗の場所的利益の対価としての性質を有する権利金名義の金員が賃借人から賃貸人に交付されていた場合には、賃貸借がその成立後二年九箇月で合意解除されたとしても、賃借人は、当然には、賃貸人に対して右金員の返還を請求することができるものではない。",
+  "ref_law": "民法601条",
+  "lawsuit_id": "55070",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55070",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/070/055070_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 2,
+    "day": 24
+  },
+  "case_number": "昭和33(あ)440",
+  "case_name": "殺人未遂",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第137号243頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 1,
+    "day": 30
+  },
+  "gist": "刑訴法第二二七条、第二二八条の証人尋問に立会う検察官の証人尋問権。",
+  "case_gist": "刑訴二二七条、二二八条の証人尋問に立会う検察官には同一五七条三項の準用により証人尋問権があると解される。",
+  "ref_law": "刑訴法227条，刑訴法228条，刑訴法157条3項",
+  "lawsuit_id": "61146",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61146",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/146/061146_hanrei.pdf"
+}

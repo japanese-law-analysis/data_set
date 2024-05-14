@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 7,
+    "day": 20
+  },
+  "case_number": "昭和47(行ツ)24",
+  "case_name": "市議会議員当選の効力に関する訴願裁決取消請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第106号561頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_case_number": "昭和46(行ケ)2",
+  "original_date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 12,
+    "day": 24
+  },
+  "gist": "市議会議員選挙において候補者に中野光弘と白沢実とがある場合に「中野実」「中の実」と記載された投票の効力",
+  "case_gist": "市議会議員選挙において候補者に中野光弘と白沢実とがある場合に、「中野実」「中の実」と記載された投票は、中野光弘候補が同じころ執行された県議会議員選挙に同じ政党の公認をうけて立候補した荒木実と共同して選挙活動をしていた事実があつても、中野光弘に対する有効投票と解することはできない。",
+  "ref_law": "公職選挙法68条7号",
+  "lawsuit_id": "77806",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77806",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/806/077806_hanrei.pdf"
+}

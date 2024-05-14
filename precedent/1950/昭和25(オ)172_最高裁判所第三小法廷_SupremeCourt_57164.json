@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 4,
+    "day": 15
+  },
+  "case_number": "昭和25(オ)172",
+  "case_name": "農地買収計画取消請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第6巻4号414頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 3,
+    "day": 28
+  },
+  "gist": "自作農創設特別措置法上の住所と認められない一事例",
+  "case_gist": "大阪において十数人の雇人を使用して金融業等を営む株式会社を経営し、大阪府豊中市所在の同人次男宅から右営業所に通勤し、妻も次男宅に同居しており、兵庫県津名郡ａ町には月二、三回数日間帰るにすぎない者は、同町において主要な人々を招いて帰郷挨拶の宴会を催したことがあり、同町で配給物資の配給を受け選挙権を持ち町民税を納めていた事実があつても、同町に住所を有するものと認めなければならないものではない。",
+  "ref_law": "自作農創設特別措置法3条1項1号，民法21条",
+  "lawsuit_id": "57164",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57164",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/164/057164_hanrei.pdf"
+}

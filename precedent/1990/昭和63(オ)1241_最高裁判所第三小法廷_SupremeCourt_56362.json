@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 5,
+    "month": 3,
+    "day": 2
+  },
+  "case_number": "昭和63(オ)1241",
+  "case_name": "総会決議不存在確認",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第47巻4号2833頁",
+  "original_court_name": "福岡高等裁判所\n        　宮崎支部",
+  "original_case_number": "昭和62(ネ)34",
+  "original_date": {
+    "era": "Showa",
+    "year": 63,
+    "month": 6,
+    "day": 29
+  },
+  "gist": "事業協同組合の「専務理事は理事長が欠員のときはその職務を行う」旨の定款にいう欠員には理事長が任期満了によつて退任した場合は含まないと解された事例",
+  "case_gist": "事業協同組合の定款に「専務理事は理事長が欠員のときはその職務を行う」旨の定めがあるが、同組合の定款によれば、理事長及び専務理事を含む役員の全員につき同時に任期が満了する旨及び任期満了によつて退任した役員は後任の役員が就任するまで役員の職務を行う旨の定めがあるなど判示の事実関係の下においては、右の定款にいう欠員には、理事長が任期満了によつて退任した場合は含まないと解すべきである。",
+  "ref_law": "中小企業等協同組合法36条1項，中小企業等協同組合法42条，商法258条1項，商法261条3項",
+  "lawsuit_id": "56362",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56362",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/362/056362_hanrei.pdf"
+}

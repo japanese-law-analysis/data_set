@@ -1,0 +1,19 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 9,
+    "month": 4,
+    "day": 28
+  },
+  "case_number": "平成4(あ)168",
+  "case_name": "住居侵入、強盗殺人、強盗強姦、常習累犯窃盗",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第270号533頁",
+  "gist": "死刑事件（徳島・愛知連続強盗殺人事件）",
+  "lawsuit_id": "57953",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57953",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/953/057953_hanrei.pdf"
+}

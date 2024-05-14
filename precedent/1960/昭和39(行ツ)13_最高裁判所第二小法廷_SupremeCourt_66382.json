@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 12,
+    "day": 3
+  },
+  "case_number": "昭和39(行ツ)13",
+  "case_name": "温泉掘さく許可処分取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第81号321頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和38(ネ)458",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 9,
+    "day": 30
+  },
+  "gist": "処分による権利利益の侵害が直ちに判明しないような場合と出訴期間",
+  "case_gist": "温泉掘さく許可処分に基づく掘さくにより自己の温泉湧出量に影響を受けたことを主張して、右許可処分の取消を訴求するような場合においても、その訴の提起が右許可処分の日から一年を経過した後であるときは、出訴の遅延につき正当な事由の主張も疎明もないかぎり、不適法な訴と認むべきである。",
+  "ref_law": "行政事件訴訟特例法5条",
+  "lawsuit_id": "66382",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66382",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/382/066382_hanrei.pdf"
+}

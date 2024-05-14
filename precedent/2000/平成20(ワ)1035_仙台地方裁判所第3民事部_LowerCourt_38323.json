@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 11,
+    "day": 20
+  },
+  "case_number": "平成20(ワ)1035",
+  "case_name": "保険金請求事件",
+  "court_name": "仙台地方裁判所第3民事部",
+  "gist": "被保険者がいったん縊頚行為による自殺を試みたものの，これを中断した後に縊頚行為の影響で嘔吐し，吐物を吐き出せず窒息死したと認められる事案において，商法及び保険約款にいう「自殺」には該当しないと判示した事例。",
+  "lawsuit_id": "38323",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=38323",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/323/038323_hanrei.pdf",
+  "contents": ""
+}

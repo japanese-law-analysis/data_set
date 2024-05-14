@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 10,
+    "day": 19
+  },
+  "case_number": "平成21(受)708",
+  "case_name": "詐害行為取消等請求事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第235号93頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成20(ネ)2283",
+  "original_date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 1,
+    "day": 23
+  },
+  "gist": "詐害行為取消訴訟の訴訟物である詐害行為取消権は，取消債権者が有する個々の被保全債権に対応して複数発生するか",
+  "case_gist": "詐害行為取消訴訟の訴訟物である詐害行為取消権は，取消債権者が有する個々の被保全債権に対応して複数発生するものではない。\n（補足意見がある。）",
+  "ref_law": "民法424条，民訴法246条",
+  "lawsuit_id": "80772",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=80772",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/772/080772_hanrei.pdf",
+  "contents": ""
+}

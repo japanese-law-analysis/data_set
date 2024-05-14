@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 3,
+    "month": 1,
+    "day": 25
+  },
+  "case_number": "平成2(行ツ)145",
+  "case_name": "参議院議員選挙無効等",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第45巻1号1頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_case_number": "平成1(行ケ)1",
+  "original_date": {
+    "era": "Heisei",
+    "year": 2,
+    "month": 5,
+    "day": 30
+  },
+  "gist": "参議院選挙区選出議員の選挙の投票が候補者又は候補者以外の実在人のいずれを記載したか不明なものとして無効とされた事例",
+  "case_gist": "嶋崎均という氏名の候補者がいる参議院選挙区選出議員の選挙において、「しまさきゆずる」、「しまざきゆずる」と読むことのできる投票は、同一県内から選出された衆議院議員に嶋崎譲という氏名の者が実在し、右候補者も右嶋崎譲も共に著名人であるなど判示の事情の下においては、右両名のいずれを記載したか不明なものとして、無効である。",
+  "ref_law": "公職選挙法67条，公職選挙法68条1項2号，公職選挙法68条1項7号",
+  "lawsuit_id": "57049",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57049",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/049/057049_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 15,
+    "month": 6,
+    "day": 12
+  },
+  "case_number": "平成13(行ヒ)274",
+  "case_name": "債権差押処分無効確認等請求事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第57巻6号563頁",
+  "original_court_name": "福岡高等裁判所\n        　宮崎支部",
+  "original_case_number": "平成11(行コ)6",
+  "original_date": {
+    "era": "Heisei",
+    "year": 13,
+    "month": 7,
+    "day": 13
+  },
+  "gist": "債務整理事務の委任を受けた弁護士が委任事務処理のため委任者から受領した金銭を預け入れるために弁護士の個人名義で開設した普通預金口座に係る預金債権の帰属",
+  "case_gist": "債務整理事務の委任を受けた弁護士甲が，委任事務処理のため委任者乙から受領した金銭を預け入れるために甲の名義で普通預金口座を開設し，これに上記金銭を預け入れ，その後も預金通帳及び届出印を管理して，預金の出し入れを行っていた場合には，当該口座に係る預金債権は，甲に帰属する。\n（補足意見がある。）",
+  "ref_law": "民法649条，民法666条",
+  "lawsuit_id": "52345",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52345",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/345/052345_hanrei.pdf"
+}

@@ -1,0 +1,24 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 10,
+    "day": 11
+  },
+  "case_number": "昭和26(れ)1194",
+  "case_name": "昭和二二年政令第一六五号違反、昭和二〇年勅令第五四二号「ポツダム」宣言受諾ニ伴ヒ発スル命令ニ関スル件ニ基ク真珠又ハ真珠製品取引ノ禁止ニ関スル件違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第54号671頁",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 3,
+    "day": 30
+  },
+  "lawsuit_id": "68556",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=68556",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/556/068556_hanrei.pdf"
+}

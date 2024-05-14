@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 12,
+    "day": 11
+  },
+  "case_number": "昭和44(オ)551",
+  "case_name": "持分払戻請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第23巻12号2447頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和43(ネ)593",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 3,
+    "day": 11
+  },
+  "gist": "中小企業等協同組合法に基づく協同組合の脱退組合員に対する持分払戻と持分計算の基礎となる組合財産の評価方法",
+  "case_gist": "中小企業等協同組合法に基づく協同組合の組合員が組合から脱退した場合における払戻持分の計算の基礎となる組合財産の評価は、いわゆる帳簿価額によるべきではなく、協同組合の事業の継続を前提とし、なるべく有利にこれを一括譲渡する場合の価額を標準とすべきものと解するのが相当である。",
+  "ref_law": "中小企業等協同組合法20条",
+  "lawsuit_id": "51974",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51974",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/974/051974_hanrei.pdf"
+}

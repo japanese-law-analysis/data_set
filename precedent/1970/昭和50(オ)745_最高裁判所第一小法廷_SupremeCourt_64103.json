@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 9,
+    "day": 14
+  },
+  "case_number": "昭和50(オ)745",
+  "case_name": "執行文付与",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第125号57頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和49(ネ)1490",
+  "original_date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 3,
+    "day": 28
+  },
+  "gist": "新会社の設立につき旧会社の債務の支払を免れることを目的とするなどの事情が存する場合において旧会社に対する債務名義につき新会社に対する強制執行のため執行文付与を命ずることができないとされた事例",
+  "case_gist": "新会社の設立について旧会社の負担する債務の支払を免れることを目的とするなど判示の事情が存する場合においても、旧会社と新会社を同一の法人格と解し、又は法人格否認の法理に基づいて、旧会社に対する債務名義につき新会社に対する強制執行のため執行文の付与を命ずることはできない。",
+  "ref_law": "民法33条，商法52条，商法428条，民訴法521条",
+  "lawsuit_id": "64103",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64103",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/103/064103_hanrei.pdf"
+}

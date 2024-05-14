@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 7,
+    "day": 19
+  },
+  "case_number": "昭和31(オ)290",
+  "case_name": "当選無効請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第10巻7号915頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 12,
+    "day": 20
+  },
+  "gist": "投票の効力に関する当事者の主張と裁判所の判断",
+  "case_gist": "裁判所は当事者の主張に拘束せられることなく投票の効力を判断することができる。",
+  "ref_law": "公職選挙法207条，公職選挙法219条，民訴法186条",
+  "lawsuit_id": "57655",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57655",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/655/057655_hanrei.pdf"
+}

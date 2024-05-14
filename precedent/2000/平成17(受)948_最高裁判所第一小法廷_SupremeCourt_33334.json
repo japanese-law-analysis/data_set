@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 7,
+    "day": 20
+  },
+  "case_number": "平成17(受)948",
+  "case_name": "所有権確認請求事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第60巻6号2499頁",
+  "original_court_name": "福岡高等裁判所\n        　宮崎支部",
+  "original_case_number": "平成16(ネ)41",
+  "original_date": {
+    "era": "Heisei",
+    "year": 17,
+    "month": 1,
+    "day": 28
+  },
+  "gist": "１　動産譲渡担保が重複設定されている場合における後順位譲渡担保権者による私的実行の可否\n２　構成部分の変動する集合動産を目的とする譲渡担保の設定者が目的動産につき通常の営業の範囲を超える売却処分をした場合における処分の相手方による承継取得の可否",
+  "case_gist": "１　動産譲渡担保が同一の目的物に重複して設定されている場合，後順位譲渡担保権者は私的実行をすることができない。\n２　構成部分の変動する集合動産を目的とする対抗要件を備えた譲渡担保の設定者が，その目的物である動産につき通常の営業の範囲を超える売却処分をした場合，当該譲渡担保の目的である集合物から離脱したと認められない限り，当該処分の相手方は目的物の所有権を承継取得することはできない。",
+  "ref_law": "（１，２につき）民法369条（譲渡担保）",
+  "lawsuit_id": "33334",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=33334",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/334/033334_hanrei.pdf",
+  "contents": ""
+}

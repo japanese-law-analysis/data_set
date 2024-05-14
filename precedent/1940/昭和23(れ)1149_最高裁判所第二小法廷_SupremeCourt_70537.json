@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 4,
+    "day": 2
+  },
+  "case_number": "昭和23(れ)1149",
+  "case_name": "傷害",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第9号41頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 7,
+    "day": 14
+  },
+  "gist": "受傷に關し安靜約二週間を要すと記載された醫師診斷書の眞否と被害者の歩行",
+  "case_gist": "顔面挫創を受けた被害者が、受傷後三日後に自から歩いて警察署に出頭し告訴をした事實があるからといつて、「向後約二週間安靜加療を要するものと認める」という右被害者に對する醫師診斷書の記載を措信してはならないという道理はない。",
+  "ref_law": "刑法204條，舊刑訴法337條",
+  "lawsuit_id": "70537",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70537",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/537/070537_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 6,
+    "day": 22
+  },
+  "case_number": "昭和28(あ)4071",
+  "case_name": "収賄",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第9巻7号1179頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 10,
+    "day": 13
+  },
+  "gist": "賄賂と認められる一事例",
+  "case_gist": "東京都某区役所教育課学事係長たる被告人が、その職務に関する某小学校建設促進に尽力した謝礼として、同建設促進委員長から金五千円を記念品料として贈与されるに当り、被告人外関係者数名に対する記念品料が区役所内区議会副議長室において一場の儀式の許に右委員長から公然と贈呈され、被告人等の上司たる教育課長が代つてこれを受領した事実があつても、被告人の収受した右金五千円について賄賂たる性質が失われるものということはできない。",
+  "ref_law": "刑法197条1項前段",
+  "lawsuit_id": "51291",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51291",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/291/051291_hanrei.pdf"
+}

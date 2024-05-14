@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 13,
+    "month": 1,
+    "day": 30
+  },
+  "case_number": "平成9(あ)428",
+  "case_name": "詐欺，窃盗，昏酔盗，住居侵入，強盗殺人，鉄砲刀剣類所持等取締法違反，火薬類取締法違反被告事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第280号29頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_date": {
+    "era": "Heisei",
+    "year": 9,
+    "month": 3,
+    "day": 11
+  },
+  "gist": "死刑事件（富山の社長夫婦射殺事件）",
+  "lawsuit_id": "58056",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58056",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/056/058056_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 8,
+    "day": 23
+  },
+  "case_number": "昭和25(あ)1798",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第67号193頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 5,
+    "day": 10
+  },
+  "gist": "量刑にあたつて被告人が現職の警察官である点を考慮することと憲法第一四条",
+  "case_gist": "原判決が被告人等の量刑を考察するにあたつて、「本件犯行の動機、態様その他諸般の情状殊に被告人等が当時犯罪検挙の職責を有する司法巡査でありながらその着用した制服を利用して犯したものである点を顧慮」したというのは、司法巡査という職業に伴う社会的道義的責任の重大さを情状として参酌したという趣旨に解すべきであるから、これを以て所論のように憲法一四条の平等の原則に違背するものと云い得ない。",
+  "ref_law": "憲法14条，刑訴法335条",
+  "lawsuit_id": "64404",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64404",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/404/064404_hanrei.pdf"
+}

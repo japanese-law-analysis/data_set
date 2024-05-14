@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 3,
+    "day": 20
+  },
+  "case_number": "昭和26(あ)2311",
+  "case_name": "麻薬取締法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第7巻3号606頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 3,
+    "day": 30
+  },
+  "gist": "処罰規定の新設と所持罪",
+  "case_gist": "物の所持の継続中あらたにその物の所持を禁止する刑罰法規が施行せられた場合においては、その施行後継続せられる所持に対しては法令上特にその適用を除外する明文の存しない限りその新法規が適用せられる。",
+  "ref_law": "麻薬取締法3条，麻薬取締法4条，麻薬取締法57条，麻薬取締法65条，麻薬取締法74条",
+  "lawsuit_id": "54597",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54597",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/597/054597_hanrei.pdf"
+}

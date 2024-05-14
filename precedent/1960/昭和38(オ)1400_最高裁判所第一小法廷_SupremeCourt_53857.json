@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 12,
+    "day": 1
+  },
+  "case_number": "昭和38(オ)1400",
+  "case_name": "株式払込金返還請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第20巻10号2036頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和33(ネ)815",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 9,
+    "day": 11
+  },
+  "gist": "新株引受申込期間経過後に裁判所の許可なくして追加指定された株式払込取扱銀行のなした株式払込金保管証明に基づく責任",
+  "case_gist": "銀行が新株発行会社と通謀して仮装払込につき株式払込金保管証明をした場合には、右銀行が新株引受申込期間経過後に、裁判所の許可なく、株式払込取扱銀行とし追加指定されても、右銀行は、該証明にかかる金額の払込がなかつたものであることをもつて会社に対抗することができない。",
+  "ref_law": "商法189条2項",
+  "lawsuit_id": "53857",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53857",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/857/053857_hanrei.pdf"
+}

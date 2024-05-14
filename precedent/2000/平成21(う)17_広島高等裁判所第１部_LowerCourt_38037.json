@@ -1,0 +1,19 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 6,
+    "day": 25
+  },
+  "case_number": "平成21(う)17",
+  "case_name": "傷害致死，傷害被告事件",
+  "court_name": "広島高等裁判所第１部",
+  "original_court_name": "広島地方裁判所",
+  "original_case_number": "平成19(わ)539",
+  "gist": "本件公訴事実中傷害致死の点について，原判決は，被告人が自己の生命身体を防衛するため，防衛に必要な程度を超える暴行を行った旨認定したのに対し，被告人が控訴し，被告人の暴行は相当な防衛行為であったとして，原判決の事実誤認を主張したところ，本件の証拠関係のもとでは，被告人の一連の暴行が，防衛のためにやむを得ない程度を超えていたことが証明されているとまでいうことはできないとして，正当防衛の成立を認め，無罪の言渡しをした事案",
+  "lawsuit_id": "38037",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=38037",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/037/038037_hanrei.pdf",
+  "contents": ""
+}

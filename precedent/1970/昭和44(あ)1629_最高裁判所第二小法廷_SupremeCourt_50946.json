@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 5,
+    "day": 25
+  },
+  "case_number": "昭和44(あ)1629",
+  "case_name": "公務執行妨害、傷害",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "刑集　第27巻5号1115頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 4,
+    "day": 1
+  },
+  "gist": "労働基準法所定の労働時間の制限を超える公務の執行と公務執行妨害罪の成否",
+  "case_gist": "法令により公務に従事する者とみなされる日本国鉄道職員であつて労働基準法の適用を受ける者に対する職務命令が、同法所定の労働時間の制限を超えて就労することをその内容としており、かつ、その者の就労が右制限を超えたからといつて、そのために、職務の執行が具体的権限を欠いて違法となり、その者に対する公務執行妨害罪の成立が妨げられるものではない。",
+  "ref_law": "刑法7条，刑法95条1項，日本国有鉄道法34条1項，労働基準法32条1項",
+  "lawsuit_id": "50946",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50946",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/946/050946_hanrei.pdf"
+}

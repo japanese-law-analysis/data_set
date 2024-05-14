@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 3,
+    "day": 13
+  },
+  "case_number": "昭和57(オ)184",
+  "case_name": "遺産確認",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第40巻2号389頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和55(ネ)985",
+  "original_date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 10,
+    "day": 20
+  },
+  "gist": "遺産確認の訴えの適法性",
+  "case_gist": "共同相続人間において特定の財産が被相続人の遺産に属することの確認を求める訴えは、適法である。",
+  "ref_law": "民訴法225条，民法898条",
+  "lawsuit_id": "52162",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52162",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/162/052162_hanrei.pdf"
+}

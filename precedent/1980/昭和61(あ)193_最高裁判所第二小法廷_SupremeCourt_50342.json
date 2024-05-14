@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 3,
+    "day": 14
+  },
+  "case_number": "昭和61(あ)193",
+  "case_name": "業務上過失傷害、業務上過失致死",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第43巻3号262頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 12,
+    "day": 27
+  },
+  "gist": "運転者が認識していない後部荷台の同乗者を被害者とする業務上過失致死罪が成立するとされた事例",
+  "case_gist": "貨物自動車の運転者が制限最高速度の二倍を超える高速度で走行中、ハンドル操作を誤り自車を信号柱に激突させて後部荷台の同乗者を死亡させた場合には、たとえ運転者において同乗の事実を認識していなかつたとしても、業務上過失致死罪が成立する。",
+  "ref_law": "刑法211条",
+  "lawsuit_id": "50342",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50342",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/342/050342_hanrei.pdf"
+}

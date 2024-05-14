@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 4,
+    "day": 24
+  },
+  "case_number": "昭和41(オ)10",
+  "case_name": "売掛代金請求",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第22巻4号1043頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和40(ネ)144",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 10,
+    "day": 14
+  },
+  "gist": "一、商法第五〇四条本文の法意\n二、商法第五〇四条但書にいう「履行ノ請求」に伴う法律関係",
+  "case_gist": "一、商法第五〇四条本文は、本人のための商行為の代理については、代理人が本人のためにすることを示さなくても、その行為は本人に対して効力を生ずるものとして、いわゆる顕名主義に対する例外を認めたものである。\n二、相手方において、代理人が本人のためにすることを知らなかつたときは、商法第五〇四条但書によつて、相手方と代理人との間にも本人相手方間におけると同一の法律関係が生じ、相手方が、その選択に従い、本人との法律関係を否定し、代理人との法律関係を主張したときは、本人は、もはや相手方に対し、右本人粗手方間の法律関係を主張することができない。",
+  "ref_law": "商法504条，民法99条1項，民法100条",
+  "lawsuit_id": "54012",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54012",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/012/054012_hanrei.pdf"
+}

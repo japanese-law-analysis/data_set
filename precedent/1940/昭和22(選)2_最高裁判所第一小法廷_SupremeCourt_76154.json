@@ -1,0 +1,19 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 9,
+    "day": 15
+  },
+  "case_number": "昭和22(選)2",
+  "case_name": "参議院議員選挙無効",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "その他",
+  "article_info": "集民　第1号1頁",
+  "lawsuit_id": "76154",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=76154",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/154/076154_hanrei.pdf",
+  "contents": ""
+}

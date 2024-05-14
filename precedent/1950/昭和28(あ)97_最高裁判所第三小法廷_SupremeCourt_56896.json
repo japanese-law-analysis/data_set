@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 7,
+    "day": 6
+  },
+  "case_number": "昭和28(あ)97",
+  "case_name": "窃盗幇助、賍物故買",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第8巻7号1047頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 11,
+    "day": 26
+  },
+  "gist": "労役場留置期間を一定の日数をもつて定めることの適否",
+  "case_gist": "罰金を完納することができない場合の労役場留置期間を言渡すにあたり、一定の日数をもつて右期間を定めても、刑法第一八条に則つている以上、違法ではない。",
+  "ref_law": "刑法18条",
+  "lawsuit_id": "56896",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56896",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/896/056896_hanrei.pdf"
+}

@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 7,
+    "day": 15
+  },
+  "case_number": "平成20(ワ)2855",
+  "case_name": "臨時代議員会会長選挙無効確認請求事件",
+  "court_name": "大阪地方裁判所第４民事部",
+  "gist": "社団法人である都道府県医師会の会長たる理事を選出するための選挙において議長の定めた様式と異なる様式の投票用紙によりされた投票が無効であるなどと主張して，当該選挙の結果選出された会長の地位の不存在確認を求めた対立候補者らの請求が棄却された事例",
+  "lawsuit_id": "37861",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=37861",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/861/037861_hanrei.pdf",
+  "contents": ""
+}

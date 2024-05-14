@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 5,
+    "day": 6
+  },
+  "case_number": "昭和22(れ)315",
+  "case_name": "業務上過失致死，同傷害",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第2号39頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 10,
+    "day": 31
+  },
+  "gist": "踏切警手の業務上の注意義務の一場合",
+  "case_gist": "豫て時間表によつて同時刻頃下り第二七一號列車も上り列車と相前後して右踏切を通過することが判つている筈であるから踏切警手としては、かかる場合獨り上り列車のみならず、當然下り列車の通過の有無をもたしかめた上で踏切を遮斷するか否かを決定し、事故の發生を未然に防止すべき業務上の注意義務がある。",
+  "ref_law": "刑法211條",
+  "lawsuit_id": "70518",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70518",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/518/070518_hanrei.pdf"
+}

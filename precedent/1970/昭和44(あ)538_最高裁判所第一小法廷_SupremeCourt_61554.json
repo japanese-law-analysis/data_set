@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 2,
+    "day": 3
+  },
+  "case_number": "昭和44(あ)538",
+  "case_name": "偽造私文書行使、詐欺未遂",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集刑　第183号83頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 1,
+    "day": 28
+  },
+  "gist": "文書の形状などから、それが偽造であるとの点につき事実誤認の疑いがあり、したがつてその行使による訴訟詐欺未遂の点にも事実誤認の疑いがあるとされた事例",
+  "ref_law": "刑訴法411条3号",
+  "lawsuit_id": "61554",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61554",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/554/061554_hanrei.pdf"
+}

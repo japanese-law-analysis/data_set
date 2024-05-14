@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 9,
+    "day": 15
+  },
+  "case_number": "昭和36(ヤ)3",
+  "case_name": "異議却下決定取消請求の判決に対する再審",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "却下",
+  "article_info": "集民　第54号219頁",
+  "original_court_name": "最高裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 4,
+    "day": 24
+  },
+  "lawsuit_id": "63764",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63764",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/764/063764_hanrei.pdf"
+}

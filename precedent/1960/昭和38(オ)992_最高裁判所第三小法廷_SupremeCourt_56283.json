@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 6,
+    "day": 29
+  },
+  "case_number": "昭和38(オ)992",
+  "case_name": "株主総会決議無効確認請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第19巻4号1045頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和37(ネ)2145",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 6,
+    "day": 20
+  },
+  "gist": "一　新株の発行があつた場合と新株発行に関する株主総会決議無効確認の訴の利益。\n二　確定判決で無効でないと確認された決議の内容を再確認した決議に関する株主総会決議無効確認の訴と訴の利益。",
+  "case_gist": "一　新株がすでに発行された後は、新株発行無効の訴を提起しないかぎり、当該新株の発行を無効とするに由なく、新株発行に関する株主総会決議無効確認の訴は、確認の利益がない。\n二　株主総会決議無効確認の訴を提起して請求棄却の確定判決を受けた者が、後の株主総会で行なわれた右決議内容再確認の決議に対し、更に無効確認の訴を提起しても、訴の利益はない。",
+  "ref_law": "商法252条，商法280条ノ2，商法280条ノ15，民訴法225条",
+  "lawsuit_id": "56283",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56283",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/283/056283_hanrei.pdf"
+}

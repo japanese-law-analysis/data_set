@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 3,
+    "day": 26
+  },
+  "case_number": "平成20(あ)2253",
+  "case_name": "電磁的公正証書原本不実記録，同供用，横領被告事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第63巻3号291頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成20(う)699",
+  "original_date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 11,
+    "day": 7
+  },
+  "gist": "他人所有の建物を同人のために預かり保管していた者が，金銭的利益を得ようとして，同建物の電磁的記録である登記記録に不実の抵当権設定仮登記を了したことにつき，電磁的公正証書原本不実記録罪及び同供用罪とともに，横領罪が成立するとされた事例",
+  "case_gist": "甲会社から乙及び丙に順次譲渡されたものの，所有権移転登記が未了のため甲会社が登記簿上の所有名義人であった建物を，甲会社の実質的代表者として丙のために預かり保管していた被告人が，甲会社が名義人であることを奇貨とし，乙及び丙から原状回復にしゃ口して解決金を得ようと企て，上記建物に係る電磁的記録である登記記録に不実の抵当権設定仮登記を了した場合には，電磁的公正証書原本不実記録罪及び同供用罪とともに，横領罪が成立する。",
+  "ref_law": "刑法252条1項，刑法157条1項，刑法158条1項，不動産登記法106条",
+  "lawsuit_id": "37501",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=37501",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/501/037501_hanrei.pdf",
+  "contents": ""
+}

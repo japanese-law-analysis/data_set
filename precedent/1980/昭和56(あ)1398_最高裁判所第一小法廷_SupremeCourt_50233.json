@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 10,
+    "day": 13
+  },
+  "case_number": "昭和56(あ)1398",
+  "case_name": "兇器準備集合、火炎びん使用等の処罰に関する法律違反、公務執行妨害、傷害",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第37巻8号1139頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 7,
+    "day": 7
+  },
+  "gist": "土地管轄についての瑕疵が治癒されたと認められた事例",
+  "case_gist": "刑訴法一九条により移送を受けた被告事件について、その当時土地管轄があることが明らかでなかつたとしても、その後管轄違の申立がされるまでの間に土地管轄が具備されるに至つた場合には（判文参照）、土地管轄についての右瑕疵は治癒される。",
+  "ref_law": "刑訴法2条，刑訴法6条，刑訴法9条，刑訴法19条，刑訴法329条，刑訴法331条，刑訴法378条1号，刑訴法398条，刑訴法399条，刑訴法412条",
+  "lawsuit_id": "50233",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50233",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/233/050233_hanrei.pdf"
+}

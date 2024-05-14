@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 12,
+    "day": 25
+  },
+  "case_number": "昭和26(オ)773",
+  "case_name": "村長選挙運動に関する支出金額超過に因る当選無効",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第6巻12号1290頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 9,
+    "day": 17
+  },
+  "gist": "選挙区内に住居を有しない候補者の選挙運動のために選挙区内に滞在する費用は選挙運動費用か",
+  "case_gist": "選挙区内に住居を有しない候補者が、選挙運動のためにその区域内の一定の場所に滞留する場合、その場所を設けるのに必要な費用およびその場所においてする日常の衣食の費用等は選挙運動の費用とみるべきではない。",
+  "ref_law": "公職選挙法198条",
+  "lawsuit_id": "57267",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57267",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/267/057267_hanrei.pdf"
+}

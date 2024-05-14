@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 8,
+    "day": 7
+  },
+  "case_number": "昭和49(秩ち)2",
+  "case_name": "監置決定に対する抗告の棄却決定に対する特別抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第193号235頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 7,
+    "day": 8
+  },
+  "gist": "憲法三一条、三四条違反の主張が具体性を欠いて不適法とされた事例",
+  "ref_law": "法廷秩序維持規則18条，法廷秩序維持規則16条",
+  "lawsuit_id": "60088",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60088",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/088/060088_hanrei.pdf"
+}

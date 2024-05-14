@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 3,
+    "day": 25
+  },
+  "case_number": "昭和50(あ)2349",
+  "case_name": "森林法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第31巻2号96頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 11,
+    "day": 5
+  },
+  "gist": "森林窃盗罪と刑法二四二条",
+  "case_gist": "刑法二四二条は、森林法一九七条の森林窃盗罪に適用されない。",
+  "ref_law": "憲法31条，森林法（昭和49年法律39号による改正前のもの）197条，刑法235条，刑法242条",
+  "lawsuit_id": "51107",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51107",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/107/051107_hanrei.pdf"
+}

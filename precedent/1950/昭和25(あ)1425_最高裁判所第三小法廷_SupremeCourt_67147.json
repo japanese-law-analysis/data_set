@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 8,
+    "day": 9
+  },
+  "case_number": "昭和25(あ)1425",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第51号363頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 4,
+    "day": 15
+  },
+  "gist": "所持禁止の財物に対する窃盗罪の成立",
+  "case_gist": "刑法における財物取罪の規定は人の財物に対する事実上の所持を保護せんとするものであつて、これを所持するものが法律上その所持を禁じられて居る場合でも現実にこれを所持して居る事実がある以上社会の法的秩序を維持する必要上物の所持という事実上の状態それ自体が保護せられみだりに不正手段によつてこれを侵すことを許さぬものであることは当裁判所判例の示すところである（昭和二四年（れ）第二八九〇号同二五年四月一一日第三小法廷判決）。さればＡが事実上所持していた本件濁酒が所論の如く所有並に所持を禁じられていたものであるとしても被告人が不正手段によつて同人の所持を奪つた判示行為に対し窃盗罪として処断した原判決は正当であるばかりでなくまた判例に反するものでもない。",
+  "ref_law": "刑法235条",
+  "lawsuit_id": "67147",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=67147",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/147/067147_hanrei.pdf"
+}

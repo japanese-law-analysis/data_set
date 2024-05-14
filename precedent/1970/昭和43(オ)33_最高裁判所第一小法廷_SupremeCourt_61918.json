@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 7,
+    "day": 1
+  },
+  "case_number": "昭和43(オ)33",
+  "case_name": "信用回復および損害賠償請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第103号327頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和40(ネ)2586",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 10,
+    "day": 31
+  },
+  "gist": "他行小切手による当座預金への入金と預金の成立",
+  "case_gist": "他行小切手による当座預金への入金は、当該小切手の取立委任と、その取立完了を停止条件とする当座預金契約であるから、受入金融機関は、特別の約定がないかぎり、他行小切手の取立完了前においては、当該小切手の金額に見合う当座支払の義務を負わないものと解すべきである。",
+  "ref_law": "民法666条",
+  "lawsuit_id": "61918",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61918",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/918/061918_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 4,
+    "day": 18
+  },
+  "case_number": "昭和26(れ)2060",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第63号341頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 6,
+    "day": 29
+  },
+  "gist": "共謀共同正犯の一事例――被告人において実行担当者、実行方法を関知しなかつた場合",
+  "case_gist": "被告人はＡＢ等と協力して判示犯罪の実行方を通謀し、被告人自らは右実行々為に加担しなかつたが、賍品の売込先に残つて現物の搬入を持つたというのであり、他の共謀者の実行々為を介して自己の犯罪敢行の意志を実現したものと認めるに十分であるから、被告人において実行担当者、実行方法について関知するところがないとしても共同正犯の罪責を免れるものでないことは、当裁判所の判例に徴し明らかなところである（昭和二三年（れ）第二九六号、同月一〇月六日大法廷判決参照）。",
+  "ref_law": "刑法60条",
+  "lawsuit_id": "68867",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=68867",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/867/068867_hanrei.pdf"
+}

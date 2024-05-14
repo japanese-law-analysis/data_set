@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 11,
+    "day": 1
+  },
+  "case_number": "昭和31(オ)398",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第10巻11号1403頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 2,
+    "day": 21
+  },
+  "gist": "被用者が事業の執行につき第三者に加えた損害と認められた一事例",
+  "case_gist": "いわゆる社交喫茶店が現に営業中、客の飲食した代金の支払に関する紛争から右営業上の被用者がその店の奥で客を殴つて負傷させた場合、右暴行により客の蒙つた損害は、被用者が事業の執行につき加えた損害というべきである。",
+  "ref_law": "民法715条",
+  "lawsuit_id": "57657",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57657",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/657/057657_hanrei.pdf"
+}

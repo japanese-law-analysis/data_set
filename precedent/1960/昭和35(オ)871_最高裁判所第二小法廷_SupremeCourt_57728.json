@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 12,
+    "day": 2
+  },
+  "case_number": "昭和35(オ)871",
+  "case_name": "当選の効力に関する訴願裁決取消等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第14巻13号2944頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 5,
+    "day": 12
+  },
+  "gist": "候補者の代表取締役である会社名を附記し同一姓の他の候補者の氏名を記載した投票の効力。",
+  "case_gist": "ａ組が候補者Ａ久市が代表取締役である会社名であるとしても、他の候補者Ａ道徳の氏名を明記しａ組を附記した投票は右Ａ久市に対する有効投票とはいえない。",
+  "ref_law": "公職選挙法68条本文，公職選挙法68条5号，公職選挙法68条7号",
+  "lawsuit_id": "57728",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57728",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/728/057728_hanrei.pdf"
+}

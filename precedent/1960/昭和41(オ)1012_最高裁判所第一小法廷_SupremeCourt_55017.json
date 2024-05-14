@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 2,
+    "day": 27
+  },
+  "case_number": "昭和41(オ)1012",
+  "case_name": "所有権移転登記手続等請求本訴、所有権確認反訴、同当事者参加",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第23巻2号472頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和37(ネ)1169",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 6,
+    "day": 23
+  },
+  "gist": "仮処分債権者が仮処分登記後にされた登記の抹消登記手続を請求することができるとされた事例",
+  "case_gist": "不動産の譲受人を債権者とし譲渡人を債務者として右不動産について処分禁止の仮処分登記が経由され、その後第三者に対する所有権移転登記が経由された場合において、仮処分債権者たる譲受人より譲渡人に対する本案訴訟としての所有権移転登記手続請求の訴と右第三者に対する所有権取得登記の抹消登記手続請求の訴とが併合して審理され、仮処分債権者の譲渡人に対する請求が認容されるときは、仮処分債権者の第三者に対する右所有権取得登記の抹消登記手続請求を認容することができる。",
+  "ref_law": "民法177条，民訴法755条，不動産登記法4章5節",
+  "lawsuit_id": "55017",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55017",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/017/055017_hanrei.pdf"
+}

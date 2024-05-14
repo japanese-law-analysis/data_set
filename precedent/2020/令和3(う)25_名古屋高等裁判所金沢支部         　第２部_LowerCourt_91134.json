@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Reiwa",
+    "year": 4,
+    "month": 3,
+    "day": 24
+  },
+  "case_number": "令和3(う)25",
+  "case_name": "傷害、公務執行妨害、強盗殺人、銃砲刀剣類所持等取締法違反、殺人未遂、殺人被告事件",
+  "court_name": "名古屋高等裁判所金沢支部         　第２部",
+  "result": "破棄差戻",
+  "original_court_name": "富山地方裁判所",
+  "lawsuit_id": "91134",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=91134",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/134/091134_hanrei.pdf"
+}

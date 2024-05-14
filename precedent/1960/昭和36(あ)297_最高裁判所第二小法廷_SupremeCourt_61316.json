@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 5,
+    "day": 31
+  },
+  "case_number": "昭和36(あ)297",
+  "case_name": "強盗致死",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第138号287頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 11,
+    "day": 29
+  },
+  "gist": "強盗共犯者の一人が殺人をした場合における他の強盗共犯者の罪責。",
+  "case_gist": "強盗の共犯の一人が、強盗に着手した後家人に騒がれて逃走するに際し、逮捕を免れるため家人をその入口附近において日本刀を突き刺し死に至らしめた場合には、これを予期しなかつた他の共犯者も強盗致死罪の罪責を免れない。",
+  "ref_law": "刑法60条，刑法240条",
+  "lawsuit_id": "61316",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61316",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/316/061316_hanrei.pdf"
+}

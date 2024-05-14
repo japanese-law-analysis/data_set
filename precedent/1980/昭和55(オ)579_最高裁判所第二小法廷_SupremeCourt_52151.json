@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 5,
+    "day": 27
+  },
+  "case_number": "昭和55(オ)579",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第37巻4号477頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和53(ネ)2348",
+  "original_date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 2,
+    "day": 28
+  },
+  "gist": "自衛隊の自動車の運転者が運転上の注意義務を怠つたことにより生じた同乗者の死亡事故と国の右同乗者に対する安全配慮義務違反の成否",
+  "case_gist": "自衛隊の会計隊長が、同隊の自動車を運転し、隊員輸送の任務を終了した帰途、路面が雨で濡れ、かつ、アスフアルトが付着して極めて滑走し易い状況にあることを看過し、急に加速した等運転者として道路交通法上当然に負うべき通常の注意義務を怠つたことにより右自動車を反対車線に進入させて対向車に衝突させ、その衝撃によつて右自衛隊の自動車に同乗を命ぜられた者を死亡させたとしても、それだけでは国に右同乗者に対する安全配慮義務違反があるとはいえない。",
+  "ref_law": "民法1条2項，国家公務員法3章6節3款3目公務傷病に対する補償",
+  "lawsuit_id": "52151",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52151",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/151/052151_hanrei.pdf"
+}

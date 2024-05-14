@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 12,
+    "day": 25
+  },
+  "case_number": "昭和32(あ)1893",
+  "case_name": "業務上失火",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第13巻13号3333頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 6,
+    "day": 25
+  },
+  "gist": "公衆浴場経営者の業務上の注意業務。",
+  "case_gist": "市内の、水羽葺住家の多い所で、二段式風呂釜を据えつけ、これに経約一尺高さ四〇尺余の煙突を設置し、石炭を燃やして連日開湯する公衆浴場の経営者は、煙道の適当な箇所に消防署係員の指示する金網を装置するのはもとより、しばしば煙突掃除を同う等の処置をなすべきもので、もし右のような措置をなさず、そのまま多量の燃料を燃やそうとするならば、常に風速に注意して火焚きをし、風勢の激しい日には釜焚きを全く中止する等細心の注意を払い、もつて火災の発生を未然の防止すべき業務上の注意義務がある。",
+  "ref_law": "刑法117条ノ2，刑法116条1項，消防法9条",
+  "lawsuit_id": "55787",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55787",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/787/055787_hanrei.pdf"
+}

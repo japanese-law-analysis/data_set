@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 12,
+    "day": 26
+  },
+  "case_number": "昭和25(れ)1871",
+  "case_name": "昭和二〇年勅令六五七号、昭和二一年勅令第五六七号、私的独占の禁止及び公正取引の確保に関する法律各違反幇助",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第71号777頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 9,
+    "day": 13
+  },
+  "lawsuit_id": "64463",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64463",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/463/064463_hanrei.pdf"
+}

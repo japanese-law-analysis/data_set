@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 3,
+    "day": 28
+  },
+  "case_number": "平成17(ワ)1243",
+  "case_name": "損害賠償請求事件",
+  "court_name": "名古屋地方裁判所民事第８部",
+  "gist": "Ｙ社の提供するインターネットオークションサービスを利用して詐欺の被害にあったＸら７８４名が，Ｙ社に対し，詐欺の被害を生じさせないインターネットオークションシステムを構築すべき注意義務を怠ったとして，債務不履行又は不法行為に基づく損害賠償を求めた事案において，Ｙ社には上記サービスの利用者に対し詐欺等の被害防止に向けた注意喚起を時宜に沿って行う利用契約における信義則上の義務があるがその違反を認めることはできないと判断してＸらの請求を棄却した事例",
+  "lawsuit_id": "36445",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=36445",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/445/036445_hanrei.pdf",
+  "contents": ""
+}

@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 8,
+    "day": 5
+  },
+  "case_number": "平成17(行ウ)10",
+  "case_name": "違法公金支出金返還等請求事件",
+  "court_name": "福島地方裁判所第一民事部",
+  "result": "棄却",
+  "gist": "大学薬学部の誘致に際して，当該学部設置用地を無償貸与に供するため，同用地上に存在した市の普通財産である建物等を廃棄し，撤去費用を支出したことは違法であり，これにより市が損害を被ったとして，市の住民である原告らが，市に対し，地方自治法２４２条の２第１項４号に基づき，当時の市長に対して廃棄された建物等の残存価値及び撤去費用相当額の損害賠償の請求をするよう求めた請求が棄却された事例（住民訴訟）",
+  "lawsuit_id": "37899",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=37899",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/899/037899_hanrei.pdf",
+  "contents": ""
+}

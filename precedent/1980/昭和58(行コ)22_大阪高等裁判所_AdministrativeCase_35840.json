@@ -1,0 +1,18 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 5,
+    "day": 29
+  },
+  "case_number": "昭和58(行コ)22",
+  "case_name": "所得税更正処分等取消請求控訴事件（原審・京都地方裁判所昭和５２年（行ウ）第１４号）",
+  "court_name": "大阪高等裁判所",
+  "field": "行政",
+  "gist": "貸金業者が，利息制限法による制限超過の利率で貸付けを行い，その都度，その元利金を額面額とする約束手形を受け取り，これを取立てに回した上，右額面額を元本として，これに新たな期日までの右利率による利息を加算した金額を額面額とする新たな約束手形を受け取るのと引換えに，右旧手形の決済資金を借主に交付してこれを決済させていた場合につき，右旧手形の決済により同法による制限超過利息が現実に収受されているとして，右制限超過利息に対する課税処分が適法とされた事例",
+  "lawsuit_id": "35840",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=35840",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/840/035840_hanrei.pdf",
+  "contents": ""
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 4,
+    "day": 8
+  },
+  "case_number": "昭和44(オ)1091",
+  "case_name": "登記抹消等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第102号415頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和43(ネ)881",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 7,
+    "day": 15
+  },
+  "gist": "不動産が甲から乙丙丁と順次譲渡され所有権移転登記は甲が同意しないのに甲から直接丁に対し経由された場合において甲が右登記を無効としてその抹消を求めることが許されないとされた事例",
+  "case_gist": "不動産が、その所有者甲から、順次、乙丙を経て丁に譲渡されたが、甲が右譲渡に際し乙に交付した所有権移転登記手続に必要な実印等も、右各譲渡に伴い乙丙を経て丁に交付されていたので、丁がこれを使用して甲から中間を省略して直接丁へ所有権移転登記を経由した場合には、右登記は、現在の実体上の権利関係に合致するものであり、甲が、丁において右登記をなすことになかなか同意しようとしなかつたとしても、甲から他へ所有権移転登記がなされるにつき、甲に全く登記申請の意思がなかつたとはいえないから、甲は、右登記を無効として、その抹消を求めることは許されない。",
+  "ref_law": "民法177条",
+  "lawsuit_id": "64004",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64004",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/004/064004_hanrei.pdf"
+}

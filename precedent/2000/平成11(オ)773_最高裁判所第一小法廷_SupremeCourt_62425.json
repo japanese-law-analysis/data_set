@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 12,
+    "month": 1,
+    "day": 27
+  },
+  "case_number": "平成11(オ)773",
+  "case_name": "所有権移転登記抹消登記手続請求事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集民　第196号239頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "平成10(ネ)328",
+  "original_date": {
+    "era": "Heisei",
+    "year": 11,
+    "month": 2,
+    "day": 3
+  },
+  "gist": "甲名義の不動産につき乙、丙が順次相続したことを原因として直接丙に対してされた所有権移転登記を甲の共同相続人丁及び乙に対する所有権移転登記並びに乙から丙に対する持分全部移転登記に更正することの可否",
+  "case_gist": "甲名義の不動産につき、甲から乙、乙から丙への順次の相続を原因として直接丙に対する所有権移転登記がされているときに、右登記を甲の共同相続人丁及び乙に対する所有権移転登記並びに乙から丙に対する持分全部移転登記に更正することはできない。",
+  "ref_law": "民法882条，民法896条，民法898条，不動産登記法63条，不動産登記法66条",
+  "lawsuit_id": "62425",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62425",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/425/062425_hanrei.pdf"
+}

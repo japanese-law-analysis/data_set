@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 4,
+    "day": 27
+  },
+  "case_number": "昭和36(オ)420",
+  "case_name": "建物保存登記抹消登記手続請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第60号451頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 1,
+    "day": 30
+  },
+  "gist": "詐害行為の悪意の時点",
+  "case_gist": "登記の時に悪意でも、それに先立つ本契約当時に善意であれば、詐害行為は成立しない。",
+  "ref_law": "民法424条",
+  "lawsuit_id": "77661",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77661",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/661/077661_hanrei.pdf"
+}

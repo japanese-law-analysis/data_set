@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 9,
+    "day": 27
+  },
+  "case_number": "平成21(あ)1485",
+  "case_name": "窃盗未遂被告事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第301号299頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 7,
+    "day": 30
+  },
+  "gist": "被告人に工場の金属部品を盗むという認識があったと認定するにはなお合理的な疑いが残るとした原判断が是認された事例",
+  "ref_law": "刑訴法411条",
+  "lawsuit_id": "81223",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=81223",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/223/081223_hanrei.pdf",
+  "contents": ""
+}

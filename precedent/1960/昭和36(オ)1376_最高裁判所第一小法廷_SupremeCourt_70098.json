@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 8,
+    "day": 8
+  },
+  "case_number": "昭和36(オ)1376",
+  "case_name": "株主総会決議無効確認等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第67号245頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 6,
+    "day": 15
+  },
+  "gist": "いわゆる同族会社における株主総会の招集手続は口頭の通知をもつてすることが許されるか。",
+  "case_gist": "同族会社における株主総会の招集手続について、有限会社法第三八条等の特別規定はないから、商法第二三二条の手続によらねばならない。",
+  "ref_law": "商法232条",
+  "lawsuit_id": "70098",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70098",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/098/070098_hanrei.pdf"
+}

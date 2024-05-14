@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 2,
+    "month": 9,
+    "day": 27
+  },
+  "case_number": "昭和63(オ)1570",
+  "case_name": "貸金",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第44巻6号1007頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和63(ネ)273",
+  "original_date": {
+    "era": "Showa",
+    "year": 63,
+    "month": 7,
+    "day": 13
+  },
+  "gist": "手形に保証の趣旨で裏書をした者が原因債務につき保証をしたものと推認するのが相当とされた事例",
+  "case_gist": "甲が乙から三回にわたって金銭を借り受けた場合に、丙が、乙とは旧知の仲で右貸借の紹介老でもあり、その貸借の都度、甲に同行して乙と直接会い、その場において、乙の求めに応じ、甲振出の約束手形に保証の趣旨で裏書をして乙に交付し、甲の支払拒絶後は、右三回目の貸金の弁済を求める乙の強い意向に沿う行動をとるなど判示の事情があるときは、丙は、他に特段の事情がない限り、乙に対し、右三回目の貸金債務につき保証をしたものと推認するのが相当である。",
+  "ref_law": "民法446条，手形法15条，手形法77条，民訴法185条",
+  "lawsuit_id": "52752",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52752",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/752/052752_hanrei.pdf"
+}

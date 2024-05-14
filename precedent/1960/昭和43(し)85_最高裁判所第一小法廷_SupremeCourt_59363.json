@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 11,
+    "day": 13
+  },
+  "case_number": "昭和43(し)85",
+  "case_name": "審判請求棄却決定に対する抗告棄却決定に対する特別抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第169号367頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 9,
+    "day": 19
+  },
+  "gist": "刑訴法第三六六条第一項はいわゆる審判請求事件についてされた抗告棄却の決定に対し在監者が特別抗告申立書を差し出す場合に準用されるか",
+  "case_gist": "在監者の上訴申立に関する刑訴法第三六六条第一項は、いわゆる審判請求事件についてされた抗告棄却の決定に対し、右請求をした在監者が特別抗告の申立書を差し出す場合には準用ないし類推適用されないものと解すべきである。",
+  "ref_law": "刑訴法366条1項，刑訴法262条1項，刑訴法433条",
+  "lawsuit_id": "59363",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59363",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/363/059363_hanrei.pdf"
+}

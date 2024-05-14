@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 9,
+    "day": 8
+  },
+  "case_number": "昭和40(オ)210",
+  "case_name": "損害賠償等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第20巻7号1325頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和39(ネ)1117",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 12,
+    "day": 17
+  },
+  "gist": "他人の権利を売買の目的とした場合の売主の担保責任と債務不履行による責任",
+  "case_gist": "他人の権利を目的とする売買の売主が、その責に帰すべき事由によつて、該権利を取得してこれを買主に移転することができない場合には、買主は、売主に対し、民法第五六一条但書の適用上、担保責任としての損害賠償の請求ができないときでも、なお債務不履行一般の規定に従つて損害賠償の請求をすることができるものと解するのが相当である。",
+  "ref_law": "民法561条，民法415条",
+  "lawsuit_id": "53972",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53972",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/972/053972_hanrei.pdf"
+}

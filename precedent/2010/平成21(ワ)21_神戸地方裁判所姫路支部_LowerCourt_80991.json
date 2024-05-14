@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 12,
+    "day": 8
+  },
+  "case_number": "平成21(ワ)21",
+  "case_name": "労働契約上の地位確認請求事件（通称　三菱重工業黙示の労働契約）",
+  "court_name": "神戸地方裁判所姫路支部",
+  "gist": "請負会社に雇用され，同社・注文会社（被告）間の業務請負契約に基づき，被告で就労していた労働者（原告）が，上記契約は，労働者の供給を目的とするもので無効であり，かつ同目的を有する原告・請負会社間の雇用契約も無効であって，原告・被告間には就労開始当初から期限の定めのない黙示の労働契約が成立している等として，被告に対し，労働契約上の権利を有する地位にあることの確認を求めた事案につき，請求を棄却した事例",
+  "lawsuit_id": "80991",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=80991",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/991/080991_hanrei.pdf",
+  "contents": ""
+}

@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Reiwa",
+    "year": 1,
+    "month": 6,
+    "day": 27
+  },
+  "case_number": "平成29(ネ)1296",
+  "case_name": "損害賠償請求控訴事件",
+  "court_name": "東京高等裁判所",
+  "result": "その他",
+  "original_court_name": "横浜地方裁判所",
+  "original_case_number": "平成27(ワ)3214",
+  "lawsuit_id": "89945",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=89945",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/945/089945_hanrei.pdf"
+}

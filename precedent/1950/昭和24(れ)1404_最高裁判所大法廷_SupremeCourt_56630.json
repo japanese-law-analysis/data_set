@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 3,
+    "day": 15
+  },
+  "case_number": "昭和24(れ)1404",
+  "case_name": "横領",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第4巻3号366頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 2,
+    "day": 26
+  },
+  "gist": "執行猶予中の者であること左判決文に記載することの合憲性",
+  "case_gist": "数個の犯罪が併合罪の関係にあるか否かを明かにする必要上、判決理由の冒頭に被告人が執行猶予の判決を受けたこと及びその判決の確定した日時を記載したからといつて、右確定判決に判示された犯行につき再び審理裁判したものでない以上、憲法第三九條に違反するものではなく、憲法第一三條第一四條にも違反しない。",
+  "ref_law": "日本國憲法13條，日本國憲法14條，日本國憲法39條，刑法45條",
+  "lawsuit_id": "56630",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56630",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/630/056630_hanrei.pdf"
+}

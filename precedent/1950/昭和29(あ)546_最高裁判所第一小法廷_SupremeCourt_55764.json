@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 9,
+    "day": 30
+  },
+  "case_number": "昭和29(あ)546",
+  "case_name": "犯人蔵匿",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第8巻9号1575頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 1,
+    "day": 26
+  },
+  "gist": "犯人蔵匿罪の成立と法廷刑が罰金以上の刑であることの認識の要否",
+  "case_gist": "被告人において被蔵匿者が密入国者であることを認識してこれを蔵匿した以上、その刑が罰金以上であることの認識がなくても、犯人蔵匿罪が成立する。",
+  "ref_law": "刑法103条，刑法38条1項，刑法38条3項，出入国管理令70条",
+  "lawsuit_id": "55764",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55764",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/764/055764_hanrei.pdf"
+}

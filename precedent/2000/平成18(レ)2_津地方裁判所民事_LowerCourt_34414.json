@@ -1,0 +1,19 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 8,
+    "day": 17
+  },
+  "case_number": "平成18(レ)2",
+  "case_name": "不当利得返還等請求控訴事件",
+  "court_name": "津地方裁判所民事",
+  "result": "棄却",
+  "original_court_name": "尾鷲簡易裁判所",
+  "gist": "いわゆる消費者金融会社の営業の譲渡を受けて当該譲渡会社の商号を続用した譲受会社が，譲渡会社の債務については責めに任じないとの免責登記をしていた場合であっても，顧客の譲渡会社に対する過払金返還債務の支払を拒むことが信義則に反するとされた事例。",
+  "lawsuit_id": "34414",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=34414",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/414/034414_hanrei.pdf",
+  "contents": ""
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 5,
+    "day": 28
+  },
+  "case_number": "昭和30(あ)354",
+  "case_name": "麻薬取締法違反、犯人蔵匿",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第105号1043頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 11,
+    "day": 11
+  },
+  "gist": "麻薬取締法にいう「所持」と重畳的所持",
+  "case_gist": "本件麻薬の所持が麻薬取締法にいう所持に当らないという主張であるが、同法にいう所持は必ずしも物理的な握持関係ではなく、法律的な観念であるから、所論のような事実であつても、また重畳的にも所持を認定することができないことはない。",
+  "ref_law": "麻薬取締法3条",
+  "lawsuit_id": "60833",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60833",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/833/060833_hanrei.pdf"
+}

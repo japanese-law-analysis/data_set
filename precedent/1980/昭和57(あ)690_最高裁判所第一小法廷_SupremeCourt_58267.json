@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 9,
+    "day": 21
+  },
+  "case_number": "昭和57(あ)690",
+  "case_name": "所得税法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第228号435頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 4,
+    "day": 13
+  },
+  "gist": "言渡裁判所及び言渡日のみを指摘するにとどまる判例違反の主張は、判例の具体的な摘示があるとはいえない",
+  "ref_law": "刑訴法405条",
+  "lawsuit_id": "58267",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58267",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/267/058267_hanrei.pdf"
+}

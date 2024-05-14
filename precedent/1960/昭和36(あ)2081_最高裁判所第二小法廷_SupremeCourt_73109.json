@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 12,
+    "day": 15
+  },
+  "case_number": "昭和36(あ)2081",
+  "case_name": "賍物故買",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第140号465頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 8,
+    "day": 14
+  },
+  "gist": "刑法第一八条は憲法第一三条、第一四条に違反するか。",
+  "case_gist": "刑法一八条が憲法一三条、一四条に違反するものでないことは、当裁判所の判例（昭和二四年（れ）第一八九〇号、同二五年六月七日大法廷判決、刑集四巻六号九五六頁）の趣旨に徴し明らかである。",
+  "ref_law": "刑法18条，憲法13条，憲法14条",
+  "lawsuit_id": "73109",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=73109",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/109/073109_hanrei.pdf"
+}

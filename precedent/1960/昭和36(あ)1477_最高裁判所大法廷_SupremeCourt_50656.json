@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 12,
+    "day": 23
+  },
+  "case_number": "昭和36(あ)1477",
+  "case_name": "アルコール専売法違反",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "刑集　第18巻10号969頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 4,
+    "day": 25
+  },
+  "gist": "アルコール専売法第三七条の犯則アルコールが数人の犯人間に転々譲渡された場合犯人の一人が通告処分の履行として追徴金相当額を納付した後における他の犯人に対する追徴の適否。",
+  "case_gist": "アルコール専売法第三七条の犯則アルコールが数人の犯人の間に転転譲渡された場合、犯人の一人が通告処分の履行として追徴金相当額を納付した後は、他の犯人に対し重ねて同条による追徴の言渡をすることは許されない。",
+  "ref_law": "アルコール専売法29条，アルコール専売法34条1項3号，アルコール専売法37条",
+  "lawsuit_id": "50656",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50656",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/656/050656_hanrei.pdf"
+}

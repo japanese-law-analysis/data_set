@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 5,
+    "day": 31
+  },
+  "case_number": "昭和32(あ)178",
+  "case_name": "建造物侵入、窃盗",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第119号293頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 12,
+    "day": 17
+  },
+  "gist": "一　憲法違反の主張と認められない一事例\n二　刑訴法第二七三条第二項の合憲性",
+  "case_gist": "一　刑訴第二七三条第二項の規定は、憲法第三二条に違反するというだけであつて、何ら原判決に対する不服の理由を示していない主張は、適法な上告理由と認められない。\n二　刑訴二七三条二項は違憲でない。",
+  "ref_law": "刑訴法273条2項，刑訴法405条，刑訴法273条2項，憲法32条",
+  "lawsuit_id": "61054",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61054",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/054/061054_hanrei.pdf"
+}

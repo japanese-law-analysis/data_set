@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 3,
+    "day": 24
+  },
+  "case_number": "昭和43(あ)354",
+  "case_name": "風俗営業等取締法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第170号873頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 1,
+    "day": 18
+  },
+  "gist": "営業の一部廃止と風俗営業等取締法施行条例（昭和三九年福井県条例三九号）一二条にいう「営業所の構造設備の変更」",
+  "case_gist": "営業所内の一部を間仕切してその部分で営業を廃止した場合であつても、残存の営業に充てられる部分の構造設備との相関関係から何らかの構造設備上の変更を生ずることを免かれえないのであつて、風俗営業等取締法施行条例（昭和三九年福井県条例第三九号）一二条にいう「構造設備の変更」に当たると解すべきである。",
+  "ref_law": "風俗営業等取締法1条，風俗営業等取締法3条，風俗営業等取締法7条2項，風俗営業等取締法施行条例（昭和39年福井県条例39号）12条",
+  "lawsuit_id": "59301",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59301",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/301/059301_hanrei.pdf"
+}

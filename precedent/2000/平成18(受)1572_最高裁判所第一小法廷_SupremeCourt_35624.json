@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 1,
+    "day": 24
+  },
+  "case_number": "平成18(受)1572",
+  "case_name": "遺留分減殺，建物明渡等請求事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第62巻1号63頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "平成16(ネ)1102",
+  "original_date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 6,
+    "day": 6
+  },
+  "gist": "受遺者から民法１０４１条１項の規定による価額弁償の意思表示を受けた遺留分権利者が受遺者に対し価額弁償を請求する旨の意思表示をした場合において，当該遺留分権利者が遺贈の目的物について価額弁償請求権を確定的に取得する時期",
+  "case_gist": "遺留分減殺請求を受けた受遺者が民法１０４１条１項の規定により遺贈の目的の価額を弁償する旨の意思表示をし，これを受けた遺留分権利者が受遺者に対して価額弁償を請求する権利を行使する旨の意思表示をした場合には，その時点において，当該遺留分権利者は，遺留分減殺によって取得した目的物の所有権及び所有権に基づく現物返還請求権をさかのぼって失い，これに代わる価額弁償請求権を確定的に取得する。",
+  "ref_law": "民法1041条1項",
+  "lawsuit_id": "35624",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=35624",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/624/035624_hanrei.pdf",
+  "contents": ""
+}

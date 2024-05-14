@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 6,
+    "day": 15
+  },
+  "case_number": "昭和44(オ)531",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第26巻5号984頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和43(ネ)552",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 2,
+    "day": 28
+  },
+  "gist": "一、取締役でないのに取締役就任登記を承諾した者と商法一四条の類推適用\n二、商法一四条の類推適用により取締役でないことを対抗できない登記簿上の取締役と同法二六六条の三所定の取締役としての責任",
+  "case_gist": "一、取締役でないのに取締役として就任の登記をされた者が故意または過失により右登記につき承諾を与えていたときは、同人は、商法一四条の規定の類推適用により、自己が取締役でないことをもつて善意の第三者に対抗することができない。\n二、株式会社において、取締役でないのに取締役として就任の登記をされた者が商法一四条の規定の類推適用により取締役でないことをもつて善意の第三者に対抗することができないときは、右の登記簿上の取締役は、その第三者に対し、同法二六六条の三の規定にいう取締役として、所定の責任を免れることができない。",
+  "ref_law": "商法14条，商法266条の3",
+  "lawsuit_id": "51972",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51972",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/972/051972_hanrei.pdf"
+}

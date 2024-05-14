@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 1,
+    "day": 31
+  },
+  "case_number": "平成17(ワ)771",
+  "case_name": "損害賠償請求",
+  "court_name": "名古屋地方裁判所民事４部",
+  "result": "その他",
+  "gist": "原告らが，原告らの父が被告病院で死亡したのは，?被告病院医師，看護師及び准看護師が，術後に適切な経過観察をしなかったこと，?被告病院の医師が，呼吸困難の際に迅速に気道確保をしなかったこと，?同医師が，術後に適切なドレーンを選択しなかったことなどの過誤によるものと主張して，損害賠償を求めたところ，原告らの請求が一部認容された事例",
+  "lawsuit_id": "34241",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=34241",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/241/034241_hanrei.pdf",
+  "contents": ""
+}

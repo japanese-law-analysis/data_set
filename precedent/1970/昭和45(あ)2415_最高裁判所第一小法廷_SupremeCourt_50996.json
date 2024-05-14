@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 4,
+    "day": 3
+  },
+  "case_number": "昭和45(あ)2415",
+  "case_name": "預金等に係る不当契約の取締に関する法律違反、背任",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "刑集　第29巻4号63頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 10,
+    "day": 7
+  },
+  "gist": "背任罪と預金等に係る不当契約の取締に関する法律五条一項一号の罪は法条競合か",
+  "case_gist": "刑法二四七条の背任の罪と預金等に係る不当契約の取締に関する法律五条一項一号の罪との間にいわゆる法条競合の関係はない。",
+  "ref_law": "刑法第1編第9章，刑法247条，預金等に係る不当契約の取締に関する法律5条1項1号，預金等に係る不当契約の取締に関する法律5条2項，預金等に係る不当契約の取締に関する法律3条",
+  "lawsuit_id": "50996",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50996",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/996/050996_hanrei.pdf"
+}

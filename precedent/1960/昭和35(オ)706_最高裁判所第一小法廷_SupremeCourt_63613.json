@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 2,
+    "day": 15
+  },
+  "case_number": "昭和35(オ)706",
+  "case_name": "登記抹消等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第58号645頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 5,
+    "day": 16
+  },
+  "gist": "一　裁判上の和解に基づく抹消登記が滞納処分の差押の効力に抵触し、国の代位によつて回復登記ができるとされた事例\n二　債権者代位権行使後に債務者としても訴を提起できるか",
+  "case_gist": "一　裁判上の和解が滞納処分の差押に抵触する場合、右和解調書正本に基づいてなされた所有権取得登記の抹消登記に対し、国は所有権を代位行使して右回復登記を求める権利を有する。\n二　債権者が債権者代位の訴を提起した代位権を行使した後は、債務者は代位の目的となつた権利について訴を提起できない。",
+  "ref_law": "国税徴収法（昭和34年改正前）10条，民訴法203条，民法423条，不動産登記法67条",
+  "lawsuit_id": "63613",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63613",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/613/063613_hanrei.pdf"
+}

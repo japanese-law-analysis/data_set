@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 16,
+    "month": 11,
+    "day": 25
+  },
+  "case_number": "平成13(オ)1513",
+  "case_name": "訂正放送等請求事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第58巻8号2326頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成11(ネ)502",
+  "original_date": {
+    "era": "Heisei",
+    "year": 13,
+    "month": 7,
+    "day": 18
+  },
+  "gist": "放送事業者がした真実でない事項の放送により権利の侵害を受けた本人等が放送法４条１項の規定に基づく訂正又は取消しの放送を求める私法上の権利の有無",
+  "case_gist": "放送事業者がした真実でない事項の放送により権利の侵害を受けた本人等は，放送事業者に対し，放送法４条１項の規定に基づく訂正又は取消しの放送を求める私法上の権利を有しない。",
+  "ref_law": "放送法4条，民法723条",
+  "lawsuit_id": "52321",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52321",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/321/052321_hanrei.pdf"
+}

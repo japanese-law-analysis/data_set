@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 7,
+    "day": 22
+  },
+  "case_number": "昭和28(オ)881",
+  "case_name": "強制執行異議",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第9巻9号1143頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 6,
+    "day": 29
+  },
+  "gist": "民訴第五一八条第二項所定の証明書が提出されないのに執行文が附与された場合とその瑕疵の治癒",
+  "case_gist": "民訴第五一八条第二項所定の証明書の提出がなかつたために、当初、執行文の附与手続に瑕疵があつたとしても、その後、執行文附与に対する異議の訴の口頭弁論において条件の到来が証明された以上、右瑕疵は治癒され、その執行文は、これを取消すべきものではない。",
+  "ref_law": "民訴法518条2項，民訴法546条",
+  "lawsuit_id": "56183",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56183",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/183/056183_hanrei.pdf"
+}

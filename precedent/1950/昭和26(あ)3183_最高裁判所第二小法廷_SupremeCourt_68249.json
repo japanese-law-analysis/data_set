@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 4,
+    "day": 3
+  },
+  "case_number": "昭和26(あ)3183",
+  "case_name": "酒税法違反、有毒飲食物等取締令違反、過失致死",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第78号119頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 5,
+    "day": 23
+  },
+  "gist": "一の事実についての自白の補強証拠によつて他の事実についてなされた自白を補強することができるか",
+  "case_gist": "第一審判決が被告人の自白の補強証拠とした試験検定又は鑑定の目的となつた残存の合成清酒及びＡが飲用し又は譲り受けた合成清酒が、仮りに所論のように第一審判決摘示の第一の（四）の事実によつて製造されたものであつたとしても、これら各証拠が右と同一方法によつて合成清酒を製造したという同第一の（一）乃至（三）の事実の補強証拠になり得ないとはいえない。",
+  "ref_law": "刑訴法318条，刑訴法319条2項，刑訴法165条",
+  "lawsuit_id": "68249",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=68249",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/249/068249_hanrei.pdf"
+}

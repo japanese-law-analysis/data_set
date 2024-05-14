@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 10,
+    "day": 27
+  },
+  "case_number": "昭和42(オ)429",
+  "case_name": "所有権移転登記手続請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第21巻8号2171頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和40(ネ)1523",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 12,
+    "day": 23
+  },
+  "gist": "農地を目的とする売買契約締結後に目的物が買主の責に帰すべからざる事情によつて農地でなくなつた場合の売買契約の効力",
+  "case_gist": "農地を目的とする売買契約締結後に、売主が目的物上に土盛りをし、その上に建物が建築され、そのため農地が恒久的に宅地となつた等買主の責に帰すべからざる事情により農地でなくなつた場合には、右売買契約は、知事の許可なし完全に効力を生ずると解するのが相当である。",
+  "ref_law": "農地法2条，農地法5条",
+  "lawsuit_id": "55079",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55079",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/079/055079_hanrei.pdf"
+}

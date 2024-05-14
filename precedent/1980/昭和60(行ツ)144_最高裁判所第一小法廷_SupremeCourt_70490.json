@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 5,
+    "day": 28
+  },
+  "case_number": "昭和60(行ツ)144",
+  "case_name": "行政処分取消",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第151号61頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_case_number": "昭和58(行コ)3",
+  "original_date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 5,
+    "day": 30
+  },
+  "gist": "一　自衛隊演習場内において行われる実弾射撃訓練と抗告訴訟の対象\n\n二　防衛施設局長が行う自衛隊演習場内への立入禁止措置と抗告訴訟の対象",
+  "case_gist": "一　自衛隊演習場内において行われる実弾射撃訓練は、抗告訴訟の対象とならない。\n\n二　自衛隊演習場内における実弾射撃訓練の実施に際し防衛施設局長が行う右演習場内への立入禁止措置は、抗告訴訟の対象とならない。",
+  "ref_law": "行政事件訴訟法3条1項，防衛庁設置法6条1号，防衛庁設置法12号，防衛庁設置法43条，防衛庁設置法53条",
+  "lawsuit_id": "70490",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70490",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/490/070490_hanrei.pdf"
+}

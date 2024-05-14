@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 10,
+    "day": 17
+  },
+  "case_number": "昭和42(あ)2905",
+  "case_name": "業務上過失傷害、道路交通法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第169号125頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 11,
+    "day": 20
+  },
+  "gist": "責任能力の存在が必要とされる時期",
+  "case_gist": "責任能力は、行為の時に存在すれば足り、必ずしも結果発生の時まで存続しなければならないものではない。",
+  "ref_law": "刑法39条",
+  "lawsuit_id": "59164",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59164",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/164/059164_hanrei.pdf"
+}

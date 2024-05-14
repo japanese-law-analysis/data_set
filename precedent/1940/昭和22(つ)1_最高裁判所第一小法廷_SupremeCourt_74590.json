@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 1,
+    "day": 26
+  },
+  "case_number": "昭和22(つ)1",
+  "case_name": "窃盗被告事件につきなした上告棄却決定に対する抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第1号279頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 5,
+    "day": 31
+  },
+  "gist": "裁判所法第七條の法意",
+  "case_gist": "裁判所法第七條第二號によれば、最高裁判所は、特に最高裁判所の權限に屬するものと定められた抗告（刑訴應急措置法第一八條）についてのみ裁判權を有するものである。",
+  "ref_law": "裁判所法7條，民訴應急措置法7條，刑訴應急措置法18條",
+  "lawsuit_id": "74590",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74590",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/590/074590_hanrei.pdf"
+}

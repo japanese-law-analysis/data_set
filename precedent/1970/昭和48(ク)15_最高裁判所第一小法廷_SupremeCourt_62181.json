@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 2,
+    "day": 15
+  },
+  "case_number": "昭和48(ク)15",
+  "case_name": "工事代金請求本訴、立替工事費支払ならびに損害賠償請求反訴事件の口頭弁論期日にした鑑定申出却下決定に対する特別抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "却下",
+  "article_info": "集民　第108号193頁",
+  "original_court_name": "鳥取地方裁判所\n        　米子支部",
+  "original_case_number": "昭和47(ワ)8",
+  "original_date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 12,
+    "day": 22
+  },
+  "gist": "証拠決定と民訴法四一九条ノ二第一項にいう「不服ヲ申立ツルコトヲ得サル決定及命令」",
+  "case_gist": "鑑定申立却下の決定は、民訴法四一九条ノ二第一項にいう「不服ヲ申立ツルコトヲ得サル決定及命令」に当たらないものと解するのが相当である。",
+  "ref_law": "民訴法259条，民訴法419条ノ2",
+  "lawsuit_id": "62181",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62181",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/181/062181_hanrei.pdf"
+}

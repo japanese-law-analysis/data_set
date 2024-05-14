@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 8,
+    "day": 18
+  },
+  "case_number": "昭和31(オ)156",
+  "case_name": "為替手形金請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第13巻10号1275頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 12,
+    "day": 23
+  },
+  "gist": "一、　受取人白地の為替手形の引渡による譲渡と白地補充権\n二、　受取人白地の為替手形の引渡による譲渡と手形法第一七条の適用の有無",
+  "case_gist": "一、　受取人白地の為替手形を引渡により譲り受け、その所持人となつた者は、同時に白地補充権をも取得する。\n二、　受取人白地の為替手形が引渡により譲渡された場合にも、手形法第一七条の適用がある。",
+  "ref_law": "手形法10条，手形法17条",
+  "lawsuit_id": "56206",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56206",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/206/056206_hanrei.pdf"
+}

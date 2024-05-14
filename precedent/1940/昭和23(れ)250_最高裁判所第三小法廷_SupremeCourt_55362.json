@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 6,
+    "day": 1
+  },
+  "case_number": "昭和23(れ)250",
+  "case_name": "食糧管理法違反、物価統制令違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "刑集　第2巻7号613頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 12,
+    "day": 26
+  },
+  "gist": "刑訴應急措置法第一二條第一項違反",
+  "case_gist": "辯護人が公判期日に始末書作成者を證人として申請したに拘わらず刑訴應急措置法第一二條第一項但書の事由なくしてこれを却下し右始末書を證據に採つた判決は違法である。",
+  "ref_law": "刑訴應急措置法12條1項",
+  "lawsuit_id": "55362",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55362",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/362/055362_hanrei.pdf"
+}

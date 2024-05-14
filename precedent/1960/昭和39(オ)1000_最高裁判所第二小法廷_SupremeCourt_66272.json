@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 9,
+    "day": 10
+  },
+  "case_number": "昭和39(オ)1000",
+  "case_name": "家屋明渡等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第80号251頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和30(ネ)412",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 6,
+    "day": 11
+  },
+  "gist": "賃借家屋修繕義務の不履行を理由に賃料支払を拒絶できないとされた事例",
+  "case_gist": "賃貸家屋の僅かな一部が破損したが、その余の部分に著しい支障もなく居住の目的を達することができ、また、賃料が地代家賃統制例の統制に服している等原判決判示の事情のもとにおいては、賃借人は賃貸人の賃貸家屋修繕義務の不履行を理由に賃料全部の支払を拒むことはできない。",
+  "ref_law": "民法606条1項，民法533条",
+  "lawsuit_id": "66272",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66272",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/272/066272_hanrei.pdf"
+}

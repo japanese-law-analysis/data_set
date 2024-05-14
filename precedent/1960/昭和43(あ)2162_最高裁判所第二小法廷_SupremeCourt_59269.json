@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 5,
+    "day": 2
+  },
+  "case_number": "昭和43(あ)2162",
+  "case_name": "業務上過失傷害",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集刑　第171号799頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 9,
+    "day": 25
+  },
+  "gist": "道路交通法四二条の徐行義務と同法三六条による優先通行権との関係",
+  "case_gist": "車両等が、道路交通法四二条にいう「交通整理の行なわれていない交差点で左右の見とおしのきかないもの」に進入しようとする場合において、その車両の進行している道路が同法三六条により優先道路の指定を受けているとき、またはその幅員が明らかに広いため、同条により優先通行権の認められているときには、直ちに停止することができるような速度（同法二条二〇号）にまで減速する義務があると解しがたいことは、当裁判所の判例とするところである（昭和四二年（あ）第二一一号同四三年七月一六日第三小法廷判決、同四二年（あ）第二八八号同四三年一一月一五日第二小法廷判決各参照）。",
+  "ref_law": "道路交通法2条20号，道路交通法36条，道路交通法42条",
+  "lawsuit_id": "59269",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59269",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/269/059269_hanrei.pdf"
+}

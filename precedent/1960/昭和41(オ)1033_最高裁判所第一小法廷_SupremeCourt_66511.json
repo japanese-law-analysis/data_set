@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 3,
+    "day": 23
+  },
+  "case_number": "昭和41(オ)1033",
+  "case_name": "耕作権確認建物収去請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第86号659頁",
+  "original_court_name": "高松高等裁判所",
+  "original_case_number": "昭和40(ネ)308",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 7,
+    "day": 12
+  },
+  "gist": "農地法第六条第五項と耕作権原",
+  "case_gist": "農地法第六条第五項は当該農地の耕作者に対し耕作権原を附与した規定と解すべきものではない。",
+  "ref_law": "農地法6条5項",
+  "lawsuit_id": "66511",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66511",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/511/066511_hanrei.pdf"
+}

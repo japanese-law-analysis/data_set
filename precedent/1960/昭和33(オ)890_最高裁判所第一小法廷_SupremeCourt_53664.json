@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 6,
+    "day": 23
+  },
+  "case_number": "昭和33(オ)890",
+  "case_name": "家屋明渡並びに損害賠償請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第14巻8号1507頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 4,
+    "day": 26
+  },
+  "gist": "賃貸人の地位と転借人の地位との混同と転貸借。",
+  "case_gist": "賃貸人の地位と転借人の地位とが同一人に帰した場合であつても、転貸借は、当事者間にこれを消滅させる合意の成立しない限り、消滅しないものと解すべきである。",
+  "ref_law": "民法601条，民法613条",
+  "lawsuit_id": "53664",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53664",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/664/053664_hanrei.pdf"
+}

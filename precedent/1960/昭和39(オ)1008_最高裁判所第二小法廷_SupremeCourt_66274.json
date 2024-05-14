@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 9,
+    "day": 17
+  },
+  "case_number": "昭和39(オ)1008",
+  "case_name": "所有権確認等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第80号383頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "昭和33(ネ)48",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 5,
+    "day": 25
+  },
+  "gist": "権利が自己に属することを主張しない者に対する確認の利益",
+  "case_gist": "原告の権利を否認する被告において、その権利を第三者の権利であると主張するときでも、その結果原告の権利の行使に障害となることが明らかであるときは、被告に対して権利の確認を求める利益があると解すべきである。",
+  "ref_law": "民訴法225条",
+  "lawsuit_id": "66274",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66274",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/274/066274_hanrei.pdf"
+}

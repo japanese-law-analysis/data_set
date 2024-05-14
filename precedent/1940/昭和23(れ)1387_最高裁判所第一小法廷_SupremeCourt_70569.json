@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 2,
+    "day": 10
+  },
+  "case_number": "昭和23(れ)1387",
+  "case_name": "強盗、住居侵入",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第7号355頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 7,
+    "day": 16
+  },
+  "gist": "舊刑訴法第七二條違反と公判調書の効力",
+  "case_gist": "原審の公判調書は、粗漏であつて、所論の箇所に文字を削除し認印を施してあるにかかわらず欄外にその削除字數の記載がなく、また文字を削除し欄外に削除字數を記載しながら削除した部分に認印を施してなく、從つて、正に舊刑訴第七二條に違反するものであることは所論のとおりである。しかし、同條は訓示的規定であつて右削除の事實は公判調書の記載に照し明瞭であるから、該規定に違反したからと云つてその削除部分は勿論その公判調書を無効なものとはいえない。されば、右の違法は原判決に影響を及ぼさないこと明白であるから、所論は上告適法の理由とならない。",
+  "ref_law": "舊刑訴法72條，舊刑訴法411條",
+  "lawsuit_id": "70569",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70569",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/569/070569_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 3,
+    "day": 27
+  },
+  "case_number": "昭和41(オ)815",
+  "case_name": "預金返還請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第27巻2号376頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和38(ネ)214",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 5,
+    "day": 4
+  },
+  "gist": "銀行が無記名定期預金の預金者と認定した者に対して貸付をした場合における貸付債権をもつてする相殺と民法四七八条の類推適用",
+  "case_gist": "銀行が、無記名定期預金につき真実の預金者と異なる者を預金者と認定し、この者に対し、右預金と相殺する予定のもとに貸付をし、その後右の相殺をするときには、民法四七八条の類推適用がある。",
+  "ref_law": "民法478条",
+  "lawsuit_id": "51890",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51890",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/890/051890_hanrei.pdf"
+}

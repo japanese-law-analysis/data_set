@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 3,
+    "day": 13
+  },
+  "case_number": "昭和32(あ)2177",
+  "case_name": "収賄",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第12巻3号533頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 6,
+    "day": 15
+  },
+  "gist": "収賄罪を構成する一事例",
+  "case_gist": "京都市中央市民病院の薬剤科部長として薬剤の調剤、製剤、検査、保管、整理等の事務を担任している者が、同病院の薬品の購入につき要求伝票を作成することは、その本来の職務と密接な関係にある行為に属し、薬品の購入に対する謝礼として薬品会社の社員より財物を収受し、饗応を受ける所為は収賄罪を構成する。",
+  "ref_law": "刑法197条，京都中央市民病院事務分掌規則",
+  "lawsuit_id": "51569",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51569",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/569/051569_hanrei.pdf"
+}

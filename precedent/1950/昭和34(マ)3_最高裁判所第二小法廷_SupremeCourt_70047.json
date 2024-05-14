@@ -1,0 +1,20 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 3,
+    "day": 27
+  },
+  "case_number": "昭和34(マ)3",
+  "case_name": "強制処分即時執行命令並びに滞納処分即時取消命令の申立",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "却下",
+  "article_info": "集民　第35号729頁",
+  "original_court_name": "最高裁判所",
+  "original_case_number": "昭和34(オ)138",
+  "lawsuit_id": "70047",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70047",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/047/070047_hanrei.pdf"
+}

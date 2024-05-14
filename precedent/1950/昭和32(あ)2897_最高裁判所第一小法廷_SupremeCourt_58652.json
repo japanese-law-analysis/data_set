@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 4,
+    "day": 17
+  },
+  "case_number": "昭和32(あ)2897",
+  "case_name": "酒税法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第124号485頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 10,
+    "day": 29
+  },
+  "gist": "刑訴法第四一一条にあたらない一事例。―酒税法違反（焼酎製造）における事認定―",
+  "case_gist": "第一審判決は仕込原料の量の記載が適切でないだけで製造した焼酎の量において起訴状と異るところはない。それ故、刑訴四一一条一号、三号を適用すべきものとは認められない",
+  "ref_law": "酒税法7条，酒税法54条，刑訴法411条",
+  "lawsuit_id": "58652",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58652",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/652/058652_hanrei.pdf"
+}

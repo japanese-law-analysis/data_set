@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 9,
+    "day": 30
+  },
+  "case_number": "昭和27(あ)3152",
+  "case_name": "詐欺",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第86号1203頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 4,
+    "day": 30
+  },
+  "gist": "刑訴法第四一一条にあたらない一事例（中間の確定判決を見落した判決）",
+  "case_gist": "原判決には所論の瑕疵があるが、右は未だ刑訴四一一条により原判決を破棄すべき事由にあたらない。（註。右瑕疵は、中間に確定判決があるのを見落して、全部を併合罪として単一の刑を言渡したものを指す。）",
+  "ref_law": "刑訴法411条",
+  "lawsuit_id": "72460",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=72460",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/460/072460_hanrei.pdf"
+}

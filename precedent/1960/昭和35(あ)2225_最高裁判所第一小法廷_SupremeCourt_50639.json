@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 5,
+    "day": 4
+  },
+  "case_number": "昭和35(あ)2225",
+  "case_name": "麻薬取締法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第15巻5号763頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 8,
+    "day": 20
+  },
+  "gist": "一　麻薬施用者の麻薬の不正交付と麻薬取締法第四一条の診療簿記載義務\n二　同法第四一条、第七一条の合憲性",
+  "case_gist": "一　麻薬取締法第四一条の診療簿記載義務は、麻薬施用者が同法第二七条第三項に違反して不正に麻薬を交付した場合でも、これを免れ得ない\n二　同法第四一条、第七一条の規定は憲法第三八条第一項に違反しない",
+  "ref_law": "麻薬取締法27条3項，麻薬取締法41条，麻薬取締法71条，憲法38条1項",
+  "lawsuit_id": "50639",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50639",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/639/050639_hanrei.pdf"
+}

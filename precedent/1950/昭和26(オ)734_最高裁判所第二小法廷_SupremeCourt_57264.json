@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 12,
+    "day": 26
+  },
+  "case_number": "昭和26(オ)734",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第6巻12号1338頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 9,
+    "day": 10
+  },
+  "gist": "現に賃借人居住中の家屋を買い受けた者の賃貸借解約申入が正当事由なしと判断すべき一事情。",
+  "case_gist": "現に賃借人居住中の家屋を自ら使用する目的で買い受け賃貸借解約の申入をした場合には、その買受に際し賃借人につき家屋明渡の意思の有無を確めないのみならず、その後も賃借人に対し移転先の提供等家屋明渡後における住居の安定の保障について考慮を払つた形跡がないという事実は、右解約の申入につき正当事由がないと判断すべき一事情たり得る。",
+  "ref_law": "借家法1条ノ2",
+  "lawsuit_id": "57264",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57264",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/264/057264_hanrei.pdf"
+}

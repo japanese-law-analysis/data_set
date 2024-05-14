@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 5,
+    "day": 27
+  },
+  "case_number": "昭和57(オ)1088",
+  "case_name": "売掛代金",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第139号23頁",
+  "original_court_name": "福岡高等裁判所\n        　宮崎支部",
+  "original_case_number": "昭和56(ネ)93",
+  "original_date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 9,
+    "day": 30
+  },
+  "gist": "訴訟手続の中断中に審理及び判決がされた場合と上告理由",
+  "case_gist": "訴訟手続の中断中に審理及び判決がされた場合は、代理権欠缺の場合と同視することができ、民訴法三九五条一項四号の趣旨に則り上告の理由がある。",
+  "ref_law": "民訴法395条1項4号",
+  "lawsuit_id": "62268",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62268",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/268/062268_hanrei.pdf"
+}

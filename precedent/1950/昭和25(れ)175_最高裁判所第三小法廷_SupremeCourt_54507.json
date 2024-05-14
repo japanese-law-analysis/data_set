@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 6,
+    "day": 6
+  },
+  "case_number": "昭和25(れ)175",
+  "case_name": "窃盗、物価統制令違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第4巻6号928頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 11,
+    "day": 21
+  },
+  "gist": "共同占有における窃盜罪の成立",
+  "case_gist": "原審舉示の證據によれば少なくとも判示係長も占有を有して居たことが認められる。共同占有の場合、共同占有者の占有を奪つて自己單獨の占有に移す行爲は窃盜を以て目すべきこと大審院判例の認める處で其解釋は正當である。",
+  "ref_law": "刑法235條",
+  "lawsuit_id": "54507",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54507",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/507/054507_hanrei.pdf"
+}

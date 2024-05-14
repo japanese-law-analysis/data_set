@@ -1,0 +1,20 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 1,
+    "day": 23
+  },
+  "case_number": "平成15(う)82",
+  "case_name": "詐欺，殺人，死体遺棄，電磁的公正証書原本不実記録・同供用，威力業務妨害，詐欺未遂",
+  "court_name": "福岡高等裁判所宮崎支部",
+  "result": "棄却",
+  "original_court_name": "宮崎地方裁判所",
+  "original_case_number": "平成11(わ)307",
+  "gist": "事実誤認，量刑不当の論旨には理由がないとして，懲役１０月及び死刑判決を維持した事例",
+  "lawsuit_id": "34354",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=34354",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/354/034354_hanrei.pdf",
+  "contents": "\u0001\nm\nm\n"
+}

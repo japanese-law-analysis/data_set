@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 10,
+    "day": 8
+  },
+  "case_number": "昭和51(オ)576",
+  "case_name": "建物収去土地明渡請求、同附帯",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第119号35頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和49(ネ)124",
+  "original_date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 3,
+    "day": 30
+  },
+  "gist": "土地とその地上建物の各所有者の間に親子・夫婦の関係があるときと法定地上権の成否",
+  "case_gist": "抵当権設定当時に土地とその地上建物が別個の所有者に属するときには法定地上権を設定したものとみなすことはできず、この理は両所有者の間に親子・夫婦の関係があるときでも同様である。",
+  "ref_law": "民法388条",
+  "lawsuit_id": "64134",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64134",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/134/064134_hanrei.pdf"
+}

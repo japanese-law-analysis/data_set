@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 9,
+    "day": 14
+  },
+  "case_number": "昭和35(あ)632",
+  "case_name": "労働基準法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "刑集　第16巻9号1366頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 2,
+    "day": 22
+  },
+  "gist": "労働基準法第六〇条第三項と第三二条第一項との関係。",
+  "case_gist": "労働基準法第六〇条第三項の規定は、満十五才以上で満十八才に満たない年少労働者の労働時間の規整に関する基準規定であつて、労働者一般の労働時間の規整に関する同法第三二条第一項の特別規定である。",
+  "ref_law": "労働基準法60条3項，労働基準法32条1項，少年法37条1項3号",
+  "lawsuit_id": "51720",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51720",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/720/051720_hanrei.pdf"
+}

@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 11,
+    "day": 20
+  },
+  "case_number": "昭和55(あ)943",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第220号235頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 4,
+    "day": 11
+  },
+  "gist": "公職選挙法一三八条、二三九条三号の合憲性（憲法一五条、二一条）\n\n公職選挙法二五二条の合憲性（憲法一四条、一五条、四四条、三一条）",
+  "ref_law": "憲法14条，憲法15条，憲法21条，憲法44条，憲法31条，公選法138条，公選法239条，公選法252条",
+  "lawsuit_id": "58177",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58177",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/177/058177_hanrei.pdf"
+}

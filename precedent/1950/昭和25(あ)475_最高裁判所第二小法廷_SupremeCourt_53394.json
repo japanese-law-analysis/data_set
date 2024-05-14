@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 1,
+    "day": 23
+  },
+  "case_number": "昭和25(あ)475",
+  "case_name": "誣告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第7巻1号46頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 12,
+    "day": 1
+  },
+  "gist": "一　申告事実の虚偽たることの未必的認識と誣告罪の成立の主観的要件\n二　軽々になされた告発と誣告罪の成立",
+  "case_gist": "一　誣告罪が成立するためには、その主観的要件として申告者が申告した事実につき、その虚偽たることを確定的に認識していたことを必要とするものではなく、未必的な認識があれば足りる。\n二　犯罪ありと思料して他人を告発した場合でも、告発者において告発した事実の虚偽たることにつき未必的な認識を有し、且つ右告発が極めて軽々になされたものであつて、その適法性を認めることができない以上、誣告罪の成立を妨げるものではない。",
+  "ref_law": "刑法172条，刑法38条1項，刑訴法239条1項",
+  "lawsuit_id": "53394",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53394",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/394/053394_hanrei.pdf"
+}

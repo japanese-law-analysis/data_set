@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 12,
+    "day": 11
+  },
+  "case_number": "平成19(ワ)360",
+  "case_name": "損害賠償請求事件",
+  "court_name": "名古屋地方裁判所民事第７部",
+  "gist": "１　市が発注したごみ焼却施設建設工事の一般競争入札において，入札参加者間に談合が存在したと認定された事例\n２　談合による損害額が民訴法２４８条に基づき契約金額の５パーセントと算定された事例\n３　談合による損害賠償請求権に係る民法７２４条前段の消滅時効の起算点について，被害者である市が損害を知った時が，市において公正取引委員会の審決書及び同審決書における認定判断の根拠となった資料を入手し，その内容を把握した時点であると認定された事例",
+  "lawsuit_id": "38426",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=38426",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/426/038426_hanrei.pdf",
+  "contents": ""
+}

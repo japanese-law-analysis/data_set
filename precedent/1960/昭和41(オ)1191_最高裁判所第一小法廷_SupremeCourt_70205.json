@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 9,
+    "day": 21
+  },
+  "case_number": "昭和41(オ)1191",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第88号493頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和41(ネ)793",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 8,
+    "day": 5
+  },
+  "gist": "最高裁判所の判決により損害を受けたとして国家賠償法第一条第一項にもとづき右損害の賠償を求める請求が棄却された事例",
+  "case_gist": "最高裁判所がたばこ専売法違反被告事件についてした本件上告判決には、同法第二九条第二項、第七一条第五号の解釈に誤りがないから、右解釈に誤りのあることを前提として、国家賠償法第一条第一項にもとづき、最高裁判所の右判決による損害の賠償を求める請求は理由がない。",
+  "ref_law": "国家賠償法1条1項",
+  "lawsuit_id": "70205",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70205",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/205/070205_hanrei.pdf"
+}

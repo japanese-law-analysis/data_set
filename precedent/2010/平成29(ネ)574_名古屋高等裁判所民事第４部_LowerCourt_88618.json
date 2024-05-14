@@ -1,0 +1,19 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 31,
+    "month": 2,
+    "day": 7
+  },
+  "case_number": "平成29(ネ)574",
+  "case_name": "違約金等支払請求控訴事件",
+  "court_name": "名古屋高等裁判所民事第４部",
+  "original_court_name": "名古屋地方裁判所",
+  "original_case_number": "平成27(ワ)1974",
+  "original_result": "棄却",
+  "gist": "建設中のビルについて被控訴人との間で定期建物賃貸借契約の予約契約を締結して，予約金を被控訴人に預託した控訴人が，被控訴人の債務不履行を理由とする解除，瑕疵担保責任を理由とする解除及び予約契約で合意された約定解除権に基づく解除を主張して，予約金の返還を求めたが，いずれの解除も認められないとして，請求が棄却された事例",
+  "lawsuit_id": "88618",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=88618",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/618/088618_hanrei.pdf"
+}

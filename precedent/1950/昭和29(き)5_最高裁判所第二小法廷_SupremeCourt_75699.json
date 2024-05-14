@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 5,
+    "day": 14
+  },
+  "case_number": "昭和29(き)5",
+  "case_name": "窃盗被告事件につきなした上告棄却の決定に対する再審請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第95号407頁",
+  "original_court_name": "最高裁判所",
+  "original_case_number": "昭和28(あ)5546",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 3,
+    "day": 10
+  },
+  "lawsuit_id": "75699",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=75699",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/699/075699_hanrei.pdf"
+}

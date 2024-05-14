@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 12,
+    "day": 26
+  },
+  "case_number": "昭和48(あ)2464",
+  "case_name": "昭和二五年東京都条例第四四号集会、集団行進及び集団示威運動に関する条例違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第198号1025頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 10,
+    "day": 3
+  },
+  "gist": "一、許可条件違反のだ行進を指導した場合につき可罰的違法性を欠くなどとして昭和二五年東京都条例第四四号集会、集団行進及び集団示威運動に関する条例五条の罪の成立を否定した一審判決を破棄した原判決に対する違憲（二一条、三一条違反）の主張が単なる法令違反の主張として不適法処理された事例\n二、条件付許可処分の違憲（三一条、二一条違反）の主張が欠前提とされた事例",
+  "ref_law": "憲法21条，憲法31条",
+  "lawsuit_id": "59897",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59897",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/897/059897_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 9,
+    "day": 22
+  },
+  "case_number": "昭和28(オ)1122",
+  "case_name": "町長解職請求者署名無効確認等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第9巻10号1278頁",
+  "original_court_name": "秋田地方裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 9,
+    "day": 7
+  },
+  "gist": "地方公共団体の長の解職賛否投票後の解職請求者署名簿の署名の効力に関する訴の利益",
+  "case_gist": "地方公共団体の長の解職賛否投票で有効投票の過半数が解職に賛成であつた場合、右投票の効力について争訟の提起がない以上、解雇請求者署名簿の署名の効力に関する訴は、これを維持する利益が失われる。",
+  "ref_law": "地方自治法81条，地方自治法74条の2，地方自治法85条1項，公職選挙法202条，公職選挙法203条",
+  "lawsuit_id": "56150",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56150",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/150/056150_hanrei.pdf"
+}

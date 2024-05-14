@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 2,
+    "day": 6
+  },
+  "case_number": "昭和49(あ)2093",
+  "case_name": "覚せい剤取締法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第195号245頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 8,
+    "day": 26
+  },
+  "gist": "共犯者の供述のみに基づき事実を認定したとして違憲（三八条三項違反）をいう主張が原判決の結論に影響がない違憲の主張として不適法とされた事例",
+  "ref_law": "憲法38条3項",
+  "lawsuit_id": "60016",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60016",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/016/060016_hanrei.pdf"
+}

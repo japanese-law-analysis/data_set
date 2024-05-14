@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 5,
+    "day": 7
+  },
+  "case_number": "昭和27(あ)59",
+  "case_name": "窃盜",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第7巻5号946頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 10,
+    "day": 29
+  },
+  "gist": "刑訴第二〇条第七号にいわゆる前審の裁判に関与したときにあたらない事例",
+  "case_gist": "控訴審において第一審判決を破棄差戻する旨の判決に関与した裁判官は、その事件の最後の控訴審の審判に関与しても除斥されない。",
+  "ref_law": "刑訴法20条7号",
+  "lawsuit_id": "53472",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53472",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/472/053472_hanrei.pdf"
+}

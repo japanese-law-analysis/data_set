@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 4,
+    "day": 26
+  },
+  "case_number": "昭和42(あ)1884",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第22巻4号342頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 6,
+    "day": 20
+  },
+  "gist": "刑訴法第四一一条第一号にあたらないとされた事例―判断遺脱の場合",
+  "case_gist": "第一審判決が、併合罪の関係にある数個の訴因中の一個に対する判断を遺脱し、残りの訴因についてのみ有罪の判決をした違法があるのに、原判決がこれを看過し、量刑不当を理由にこれを破棄したうえ、第一審判決の認定判示した事実に法令を適用して自判した違法があつても、右違法により被告人に重大な法律上の利益の侵害を生ずるような事情がなく（判文参照）、かつ、検察官の上告がない場合には、原判決を破棄しなければ著しく正義に反するものとは認められない。",
+  "ref_law": "刑訴法378条3号，刑訴法411条1号",
+  "lawsuit_id": "50839",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50839",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/839/050839_hanrei.pdf"
+}

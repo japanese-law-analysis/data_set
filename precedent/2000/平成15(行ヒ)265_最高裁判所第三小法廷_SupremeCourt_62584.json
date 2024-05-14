@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 16,
+    "month": 6,
+    "day": 8
+  },
+  "case_number": "平成15(行ヒ)265",
+  "case_name": "審決取消請求事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第214号373頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成15(行ケ)183",
+  "original_date": {
+    "era": "Heisei",
+    "year": 15,
+    "month": 7,
+    "day": 15
+  },
+  "gist": "他人の肖像，氏名等を含む商標について商標登録を受けるために必要な当該他人の承諾の有無を判断する基準時",
+  "case_gist": "他人の肖像又は他人の氏名，名称，その著名な略称等を含む商標について商標登録を受けるために必要な当該他人の承諾の有無を判断する基準時は，商標登録査定又は拒絶査定の時（拒絶査定に対する審判が請求された場合には，これに対する審決の時）である。",
+  "ref_law": "商標法4条1項8号，商標法4条3項",
+  "lawsuit_id": "62584",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62584",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/584/062584_hanrei.pdf"
+}

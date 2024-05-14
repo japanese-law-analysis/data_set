@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 2,
+    "day": 19
+  },
+  "case_number": "昭和24(オ)91",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第6巻2号95頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 3,
+    "day": 31
+  },
+  "gist": "一　家屋所有者の家屋の所持の態様\n二　賃貸借中の家屋についての所有者の所持と「自己ノ為メニスル意思」",
+  "case_gist": "一　家屋（空家、以下同じ。）の所有者が、これに錠をかけて鍵を所持し、又は標札貼紙等により自己の占有中である事実が第三者にもわかるようにしておかないからといつて、必ずしも所有者に家屋の所持がないとはいえない。\n二　家屋の所有者が、その家屋の隣家に居住し、常に出入口を監視して容易に他人の侵入を制止できる状況にあるときは、所有者はその家屋を所持するものといえる。\n三　家屋の所有者が自らこれを所持する場合に、その家屋を他に賃貸中であつても、所有者は必ずしもその所持につき「自己ノ為ニスル意思」がないとはいえない。",
+  "ref_law": "民法180条",
+  "lawsuit_id": "57149",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57149",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/149/057149_hanrei.pdf"
+}

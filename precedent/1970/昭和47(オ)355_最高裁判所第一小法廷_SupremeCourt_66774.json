@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 6,
+    "day": 17
+  },
+  "case_number": "昭和47(オ)355",
+  "case_name": "社員総会決議無効確認請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第112号119頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和43(ネ)2661",
+  "original_date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 12,
+    "day": 22
+  },
+  "gist": "有限会社の取締役相互間における辞任の申合せと撤回",
+  "case_gist": "有限会社の取締役が、その相互間において新取締役選任の決議の手続に入るまでに辞任すべき旨を申し合わせても、後にその申合せを撤回して辞任の手続をとらないことは許される。",
+  "ref_law": "有限会社法32条，商法254条3項，民法651条，民法540条2項",
+  "lawsuit_id": "66774",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66774",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/774/066774_hanrei.pdf"
+}

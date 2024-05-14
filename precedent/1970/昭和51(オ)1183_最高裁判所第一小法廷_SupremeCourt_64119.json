@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 12,
+    "day": 12
+  },
+  "case_number": "昭和51(オ)1183",
+  "case_name": "所有権確認土地引渡並びに登記抹消",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第122号323頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和38(ネ)784",
+  "original_date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 7,
+    "day": 12
+  },
+  "gist": "明治四年八月大蔵省達第三九号「荒蕪不毛地払下ニ付一般ニ入札セシム」に基づき海岸寄洲及び海面として払下を受けた地域について民法上の土地所有権が認められた事例",
+  "case_gist": "明治四年八月大蔵省達第三九号「荒蕪不毛地払下ニ付一般ニ入札セシム」に基づき明治五年八月国から海岸寄洲及び海面を判示の事実関係のもとにおいて払下を受けた者は、右払下により海面下の地所につき排他的総括支配権を取得し、右排他的総括支配権は民法施行とともに民法上の土地所有権に移行したと解するのが相当である。",
+  "ref_law": "民法175条，民法施行法36条，明治4年8月大蔵省達39号「荒蕪不毛地払下ニ付一般ニ入札セシム」",
+  "lawsuit_id": "64119",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64119",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/119/064119_hanrei.pdf"
+}

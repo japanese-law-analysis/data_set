@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 30,
+    "month": 10,
+    "day": 23
+  },
+  "case_number": "平成29(ネ)935",
+  "case_name": "協定遵守請求控訴，同附帯控訴事件",
+  "court_name": "名古屋高等裁判所民事第２部",
+  "original_court_name": "名古屋地方裁判所",
+  "original_case_number": "平成28(ワ)3609",
+  "gist": "電力会社が，火力発電所の建設及び操業に関して漁業協同組合との間で締結した協議書に基づいて，次期石炭灰処分場建設計画に関し，当該漁業協同組合との協議に応ずる義務を負うものとはいえないとされた事例。",
+  "lawsuit_id": "88382",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=88382",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/382/088382_hanrei.pdf"
+}

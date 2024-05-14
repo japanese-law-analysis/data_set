@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 4,
+    "day": 8
+  },
+  "case_number": "昭和22(れ)222",
+  "case_name": "食糧管理法違反、物価統制令違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第2巻4号307頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 10,
+    "day": 2
+  },
+  "gist": "併科刑又は選擇刑の定める場合における法定刑の對照",
+  "case_gist": "原判決が、上記食糧管理法第三一條の法定刑と物價統制令第三三條の法定刑を對照するに當り、刑法施行法第三條の適用を明示しなかつた瑕疵はあるが、結局併科刑又は選擇刑の輕い刑種の罰金を度外視し、これを不問に附して重い刑種の懲役のみを對照比較し、その長期も短期も同じであるから刑法第一〇條第三項を適用し自由裁量によつて犯情により食糧管理法違反罪の法定刑に從い處斷したのは、固より適法である。",
+  "ref_law": "刑法10条，食糧管理法31条，刑法施行法3条3項，物価統制令33条",
+  "lawsuit_id": "56415",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56415",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/415/056415_hanrei.pdf"
+}

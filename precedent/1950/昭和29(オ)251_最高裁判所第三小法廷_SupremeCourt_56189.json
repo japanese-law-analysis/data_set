@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 7,
+    "day": 5
+  },
+  "case_number": "昭和29(オ)251",
+  "case_name": "商標登録願拒絶査定審決取消請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第9巻9号1020頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 2,
+    "day": 19
+  },
+  "gist": "石鹸を指定商品とする商標「Ｄ」と商標法第二条第一項第一一号",
+  "case_gist": "石鹸を指定商品とする商標「Ｄ」は株式会社Ｅ社代理部取扱商品と誤認を生ぜしめるおそれがあり、商標法第二条第一項第一一号にあたる。",
+  "ref_law": "商標法2条1項本文11号",
+  "lawsuit_id": "56189",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56189",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/189/056189_hanrei.pdf"
+}

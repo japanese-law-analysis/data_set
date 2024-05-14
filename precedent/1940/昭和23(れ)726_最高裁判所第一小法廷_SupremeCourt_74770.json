@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 10,
+    "day": 28
+  },
+  "case_number": "昭和23(れ)726",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第4号583頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 3,
+    "day": 15
+  },
+  "gist": "刑訴法上の非難と再上告の理由",
+  "case_gist": "本件は、大阪高裁が上告審としてした判決に對する再上告であるにも拘わらず、所論はすべて原審が刑訴第三四二條の解釋又はその適用を誤つたとの非難を縷述するだけで、何等憲法適否の問題に觸れた主張をしてないのである。從つて論旨はいずれも再上告適法の理由とはならない。",
+  "ref_law": "刑訴應急措置法17条1項",
+  "lawsuit_id": "74770",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74770",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/770/074770_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 3,
+    "month": 11,
+    "day": 19
+  },
+  "case_number": "平成2(オ)435",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集民　第163号487頁",
+  "original_court_name": "高松高等裁判所",
+  "original_case_number": "昭和63(ネ)350",
+  "original_date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 12,
+    "day": 25
+  },
+  "gist": "交差点を直進する自動車運転者に交差点内で右折のため停止している車両の後続車が停止車両の側方を通過して右折することまでの予見義務がないとされた事例",
+  "case_gist": "直進車が、反対方向から進行してきた車両が交差点内で直進車の通過を待って右折するために停止していることを確認した上、青色信号に従って交差点内に進入したところ、右停止車両の後続車がその左横を通過して、直進車の有無、状況の確認を怠って右折進行を続けたため交差点内で直進車と衝突したなど判示の事実関係の下においては、直進車の運転者には、特別の事情のない限り、そのような後続車が自車の進路前方に進入してくることまでも予想して、その有無、動静に注意して交差点を進行すべき注意義務はない。",
+  "ref_law": "民法709条，道路交通法36条4項，道路交通法37条",
+  "lawsuit_id": "62666",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62666",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/666/062666_hanrei.pdf"
+}

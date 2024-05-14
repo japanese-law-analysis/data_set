@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 3,
+    "day": 3
+  },
+  "case_number": "昭和29(あ)2024",
+  "case_name": "麻薬取締法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第9巻3号405頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 5,
+    "day": 12
+  },
+  "gist": "麻薬取締法第六七条第一項にいう常習の認定",
+  "case_gist": "反覆累行された麻薬取締法第一二条第一項の違反行為の態様、回数、数量等に基いて、同法第六七条第一項の常習性を認定しても差支えない。",
+  "ref_law": "麻薬取締法67条，麻薬取締法66条，麻薬取締法64条，麻薬取締法12条1項",
+  "lawsuit_id": "51330",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51330",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/330/051330_hanrei.pdf"
+}

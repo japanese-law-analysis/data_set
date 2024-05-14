@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 4,
+    "day": 28
+  },
+  "case_number": "昭和41(オ)1042",
+  "case_name": "鉱泉地共有持分権移転登記手続請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第21巻3号496頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和40(ネ)1308",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 6,
+    "day": 29
+  },
+  "gist": "共同代表の定めがあるのに代表取締役が単独で代表権限を行使した場合に商法第二六二条の類推適用があるとされた事例",
+  "case_gist": "共同代表の定めがあり、その旨の登記がある場合において、当該代表取締役が単独で代表権限を行使できる者であると見られる外観をもつて代表取締役の名称を使用しているのに対し、これを他の代表取締役全員が黙認していた等原審認定の事実関係（原判決理由参照）のもとでは、当該代表取締役が単独で行なつた法律行為についても、会社は、商法第二六二条の規定の類推適用により善意の第三者に対してその責に任ずるものと解するのが相当である。",
+  "ref_law": "商法262条，商法261条，商法12条",
+  "lawsuit_id": "55018",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55018",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/018/055018_hanrei.pdf"
+}

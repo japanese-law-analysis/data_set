@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 10,
+    "day": 10
+  },
+  "case_number": "昭和36(オ)15",
+  "case_name": "根抵当権抹消登記手続等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第17巻11号1313頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 10,
+    "day": 10
+  },
+  "gist": "売買一方の予約に基づき売買本契約が成立した場合における詐害行為の要件具備の時期。",
+  "case_gist": "売買一方の予約に基づいて売買本契約が成立した場合は、売買予約締結当時を基準として詐害行為の要件の具備の有無を判断すべきである。",
+  "ref_law": "民法424条",
+  "lawsuit_id": "53052",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53052",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/052/053052_hanrei.pdf"
+}

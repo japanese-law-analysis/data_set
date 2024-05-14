@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 5,
+    "day": 12
+  },
+  "case_number": "昭和26(あ)3770",
+  "case_name": "賍物運搬、詐欺",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第80号331頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 6,
+    "day": 21
+  },
+  "gist": "数名の被告人にかかる各別異の事件が併合されている場合における検察官の冒頭陳述の方式（程度）。",
+  "case_gist": "検察官の冒頭陳述は、数名の被告人にかかる各別異の事件が併合されている場合においても、いかなる証拠によつていかなる事実を明らかにするのかを明示しなければならないものではない。",
+  "ref_law": "刑訴法296条",
+  "lawsuit_id": "64622",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64622",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/622/064622_hanrei.pdf"
+}

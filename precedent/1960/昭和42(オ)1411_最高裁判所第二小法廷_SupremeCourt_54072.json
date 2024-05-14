@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 3,
+    "day": 29
+  },
+  "case_number": "昭和42(オ)1411",
+  "case_name": "請求異議",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第22巻3号725頁",
+  "original_court_name": "高松高等裁判所",
+  "original_case_number": "昭和42(ネ)173",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 9,
+    "day": 28
+  },
+  "gist": "執行債務者の所在不明による執行不能と時効中断",
+  "case_gist": "金銭債権の強制執行として執行吏に対し動産に対する強制執行を委任しても、執行債務者の所在不明のため執行不能に終つた場合には、右金銭債権につき時効中断の効力は生じない。",
+  "ref_law": "民法147条，民訴法第6編第2章第1節",
+  "lawsuit_id": "54072",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54072",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/072/054072_hanrei.pdf"
+}

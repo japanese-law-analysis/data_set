@@ -1,0 +1,17 @@
+{
+  "trial_type": "IPCase",
+  "date": {
+    "era": "Heisei",
+    "year": 31,
+    "month": 2,
+    "day": 14
+  },
+  "case_number": "平成30(ネ)10046",
+  "case_name": "承継参加申立控訴事件",
+  "court_name": "知的財産高等裁判所",
+  "right_type": "特許権",
+  "lawsuit_type": "民事訴訟",
+  "lawsuit_id": "88443",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail7?id=88443",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/443/088443_hanrei.pdf"
+}

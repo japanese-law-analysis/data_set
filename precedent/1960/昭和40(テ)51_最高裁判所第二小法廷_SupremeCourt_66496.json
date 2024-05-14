@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 2,
+    "day": 25
+  },
+  "case_number": "昭和40(テ)51",
+  "case_name": "仮処分取消申立",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第82号581頁",
+  "original_court_name": "高松高等裁判所",
+  "original_case_number": "昭和40(ウ)7",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 5,
+    "day": 17
+  },
+  "gist": "仮処分債権者の本案敗訴の判決がなされた場合においてこれが未確定でも仮処分取消の事由たる事情の変更が生じたとされた事例",
+  "case_gist": "仮処分債権者が第一、二審ともに本案敗訴の判決を言い渡され、その判決理由の説示から推して上告審で破棄されるおそれがないと認められる場合には、右判決のあつたことをもつて、その確定を待つことなく、仮処分取消の事由たる事情の変更が生じたということができる。",
+  "ref_law": "民訴法756条，民訴報747条",
+  "lawsuit_id": "66496",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66496",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/496/066496_hanrei.pdf"
+}

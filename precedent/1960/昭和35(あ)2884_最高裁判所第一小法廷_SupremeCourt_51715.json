@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 4,
+    "day": 20
+  },
+  "case_number": "昭和35(あ)2884",
+  "case_name": "強姦致傷",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第15巻4号725頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 12,
+    "day": 1
+  },
+  "gist": "強姦致死と強姦致傷について同一の刑を定めている刑法第一八一条は憲法第一三条に違反するか。",
+  "case_gist": "刑法第一八一条が、強姦致死と強姦致傷について同一の刑を定めていても、憲法第一三条に違反しない。",
+  "ref_law": "刑法第181条，憲法13条",
+  "lawsuit_id": "51715",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51715",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/715/051715_hanrei.pdf"
+}

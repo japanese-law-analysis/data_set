@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 4,
+    "day": 14
+  },
+  "case_number": "昭和34(オ)678",
+  "case_name": "請求異議",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第15巻4号765頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 2,
+    "day": 28
+  },
+  "gist": "時効にかかつた譲受債権を自働債権として相殺することの許否。",
+  "case_gist": "消滅時効にかかつた他人の債権を譲り受け、これを自働債権として相殺することは許されない。",
+  "ref_law": "民法506条，民法508条",
+  "lawsuit_id": "53683",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53683",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/683/053683_hanrei.pdf"
+}

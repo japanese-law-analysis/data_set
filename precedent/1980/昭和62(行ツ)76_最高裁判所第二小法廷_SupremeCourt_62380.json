@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 63,
+    "month": 4,
+    "day": 22
+  },
+  "case_number": "昭和62(行ツ)76",
+  "case_name": "損害賠償等請求事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集民　第154号57頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和60(行コ)60",
+  "original_date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 5,
+    "day": 13
+  },
+  "gist": "町の公金の支出のあつた日から一年を経過して住民監査請求がされたことについて地方自治法二四二条二項但書にいう正当な理由があるとはいえないとされた事例",
+  "case_gist": "町の公金九三八万円が秘密裡に用地買収の補償金として支出された場合において、その約四年半後に大見出しに「用地買収費　予算計上せず処理」と掲げ、「用地買収費の九百三十八万円が計上されていない事が明らかになり」などと記載した町の広報誌が全戸配布されたことにより右公金の支出がそのころまでには町の住民にとつて明らかになつたにもかかわらず、この時から四か月余を経過してはじめて右公金の支出について住民監査請求がされたときは、右住民監査請求が右公金の支出のあつた日から一年を経過した後にされたことについて、地方自治法二四二条二項但書にいう正当な理由があるとはいえない。",
+  "ref_law": "地方自治法242条2項，地方自治法242条の2第1項",
+  "lawsuit_id": "62380",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62380",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/380/062380_hanrei.pdf"
+}

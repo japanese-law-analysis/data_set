@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 7,
+    "day": 9
+  },
+  "case_number": "昭和56(行ツ)142",
+  "case_name": "登記申請却下処分取消",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第41巻5号1145頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和55(行コ)11",
+  "original_date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 5,
+    "day": 8
+  },
+  "gist": "土地区画整理法七七条に基づき従前地上の建物を仮換地上に移築するためにした解体と不動産登記法（昭和五八年法律第五一号による改正前のもの）九三条ノ六第一項にいう建物の「滅失」",
+  "case_gist": "土地区画整理法七七条に基づき従前地上の建物を仮換地上に移築するため解体した場合において、その移築後の建物が従前の建物の解体材料の大部分を用い、規模・構造もほとんど同一であるとしても、右解体は不動産登記法（昭和五八年法律第五一号による改正前のもの）九三条ノ六第一項にいう建物の「滅失」に当たる。\n（反対意見がある。）",
+  "ref_law": "不動産登記法（昭和58年法律第51号による改正前のもの）93条ノ6第1項，土地区画整理法77条",
+  "lawsuit_id": "55180",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55180",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/180/055180_hanrei.pdf"
+}

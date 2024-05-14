@@ -1,0 +1,22 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 6,
+    "month": 12,
+    "day": 19
+  },
+  "case_number": "平成6(し)127",
+  "case_name": "刑事補償請求事件についてした刑事補償決定に対する異議申立て棄却決定に対する特別抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "その他",
+  "article_info": "刑集　第48巻8号611頁",
+  "original_court_name": "高松高等裁判所",
+  "gist": "再審判決の一部有罪部分についての執行猶予付き本刑に裁定算入及び法定通算された未決勾留と刑事補償",
+  "case_gist": "再審判決の一部有罪部分についての執行猶予付き本刑に裁定算入及び法定通算された未決勾留は、再審判決確定当時既に執行猶予期間が満了し本刑の執行の可能性がない場合には、刑事補償の対象となる。",
+  "ref_law": "刑事補償法1条1項",
+  "lawsuit_id": "50165",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50165",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/165/050165_hanrei.pdf"
+}

@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 1,
+    "day": 30
+  },
+  "case_number": "平成17(行ウ)126",
+  "case_name": "行政文書不開示決定処分取消請求事件",
+  "court_name": "大阪地方裁判所第７民事部",
+  "gist": "事業者が省エネ法に基づき提出した定期報告書に記載されている事業所ごとの燃料の種類別使用量や電気使用料等の情報が，情報公開法５条２号イの不開示情報に該当しないとして，近畿経済産業局長がした行政文書一部不開示決定が取り消され，開示が命じられた事案",
+  "lawsuit_id": "34145",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=34145",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/145/034145_hanrei.pdf",
+  "contents": ""
+}

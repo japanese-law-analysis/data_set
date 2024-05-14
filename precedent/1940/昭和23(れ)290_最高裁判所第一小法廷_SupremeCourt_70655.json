@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 6,
+    "day": 17
+  },
+  "case_number": "昭和23(れ)290",
+  "case_name": "強盗",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第2号503頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 11,
+    "day": 24
+  },
+  "gist": "犯行當時の酩酊の程度についての判斷明示の要否",
+  "case_gist": "記録によれば犯罪當時被告人が酩酊していて心神喪失又は心神耗弱の状態にあつたとの主張もなく又證據もない。從つて原判決が論旨の言うがごとく犯罪當時被告人の酩酊の程度犯罪能力の如何等につき何等判斷を示さなかつたことは毫も違法の點がないのである。",
+  "ref_law": "刑法39條，刑訴法360條2項",
+  "lawsuit_id": "70655",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70655",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/655/070655_hanrei.pdf"
+}

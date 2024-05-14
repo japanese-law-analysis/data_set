@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 4,
+    "month": 2,
+    "day": 18
+  },
+  "case_number": "昭和63(あ)453",
+  "case_name": "詐欺、商品取引所法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第46巻2号1頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 63,
+    "month": 2,
+    "day": 9
+  },
+  "gist": "商品先物取引に関していわゆる客殺し商法により顧客から委託証拠金名義で現金等の交付を受けた行為について詐欺罪の成立が認められた事例",
+  "case_gist": "商品先物取引に関して、いわゆる客殺し商法により顧客にことさら損失等を与えるとともに、いわゆる向かい玉を建てることにより顧客の損失に見合う利益を会社に帰属させる意図であるのに、顧客の利益のために受託業務を行うものであるかのように装って、取引の委託方を勧誘し、その旨信用した顧客から委託証拠金名義で現金等の交付を受けた行為（判文参照）は、詐欺罪を構成する。",
+  "ref_law": "刑法246条1項",
+  "lawsuit_id": "50376",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50376",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/376/050376_hanrei.pdf"
+}

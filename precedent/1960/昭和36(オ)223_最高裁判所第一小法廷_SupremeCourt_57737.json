@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 4,
+    "day": 12
+  },
+  "case_number": "昭和36(オ)223",
+  "case_name": "退院請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第16巻4号833頁",
+  "original_court_name": "水戸地方裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 2,
+    "day": 6
+  },
+  "gist": "一　精神障害者の拘束につき人身保護法による救済請求が理由ありとされた事例\n二　人身保護規則第三七条所定の処分は裁判所の自由裁量によるか",
+  "case_gist": "一　精神障害者の入院につき、法定の被選任資格なくして選任された保護義務者の同意があつても、右入院は精神衛生法第三三条に定める正当の手続によらない身体の自由の拘束に当り、これに対する救済の請求は、人身保護法第二条及び人身保護規則第四条に定める要件に適否する。\n\n二　人身保護規則第三七条所定の処分は、裁判所の自由裁量による。",
+  "ref_law": "人身保護法2条，人身保護法16条3項，人身保護規則4条，人身保護規則37条，精神衛生法20条2項，精神衛生法33条",
+  "lawsuit_id": "57737",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57737",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/737/057737_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 13,
+    "month": 3,
+    "day": 23
+  },
+  "case_number": "平成12(許)42",
+  "case_name": "破産決定に対する抗告却下決定に対する許可抗告事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "破棄差戻",
+  "article_info": "集民　第201号475頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成12(ラ)1199",
+  "original_date": {
+    "era": "Heisei",
+    "year": 12,
+    "month": 6,
+    "day": 30
+  },
+  "gist": "破産宣告決定の送達を受けた破産者の同決定に対する即時抗告期間",
+  "case_gist": "破産宣告決定の送達を受けた破産者の同決定に対する即時抗告期間は，同決定の公告のあった日から起算して２週間である。",
+  "ref_law": "破産法112条，破産法143条1項，破産法143条2項",
+  "lawsuit_id": "62490",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62490",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/490/062490_hanrei.pdf"
+}

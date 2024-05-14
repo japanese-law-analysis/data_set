@@ -1,0 +1,16 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Reiwa",
+    "year": 3,
+    "month": 1,
+    "day": 27
+  },
+  "case_number": "令和2(行コ)64",
+  "case_name": "所得税更正処分等取消請求控訴事件",
+  "court_name": "東京高等裁判所",
+  "field": "行政",
+  "lawsuit_id": "92282",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=92282",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/282/092282_hanrei.pdf"
+}

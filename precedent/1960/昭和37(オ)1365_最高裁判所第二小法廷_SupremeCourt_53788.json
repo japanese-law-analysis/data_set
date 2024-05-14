@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 3,
+    "day": 17
+  },
+  "case_number": "昭和37(オ)1365",
+  "case_name": "山林等所有権確認等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第21巻2号388頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "昭和35(ネ)137",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 8,
+    "day": 22
+  },
+  "gist": "地役の性質を有する入会権が解体消滅したと認められた事例",
+  "case_gist": "明治二一年町村制の施行後、区の所有であつて当該区の部落民の入り会つていた入会地について、その後六五年間に、部落の統制が次第に当該区会の統制に移行し、区が従前の入会地の一部を処分し、全入会地を管理して使用収益方法を定め、部落民も異議なくこの方法に従つて当該土地の使用収益をするにいたり、また従前部落の入会権行使の統制機関であつた「春寄合」は区会に対する意見具申の機関になつた等慣行の変化があつた場合には、部落民が右土地につき有していた地役の性質を有する入会権は、漸次解体して消滅したと認めるのが相当である。",
+  "ref_law": "民法294条",
+  "lawsuit_id": "53788",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53788",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/788/053788_hanrei.pdf"
+}

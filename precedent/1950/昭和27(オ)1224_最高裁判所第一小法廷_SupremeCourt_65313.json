@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 1,
+    "day": 9
+  },
+  "case_number": "昭和27(オ)1224",
+  "case_name": "農地指定取消請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第30号1頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 8,
+    "day": 29
+  },
+  "lawsuit_id": "65313",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=65313",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/313/065313_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 6,
+    "day": 12
+  },
+  "case_number": "昭和23(れ)129",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第2巻7号668頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 11,
+    "day": 4
+  },
+  "gist": "一　上告趣意書提出期間經過後辯護屆を提出した辯護人の上告趣意書の効力\n二　上告をした第二審辯護人と上告趣意書の提出",
+  "case_gist": "一　辯護人選任屆なくして法定の期間内に提出した上告趣意書は、右期間經過後辯護屆を提出しても、遡つて適法なものとはならない。\n二　第二審における辯護人は、原審辯護人として上告した場合でも、上告審の辯護人として選任せられない以上上告趣意書を提出することはできない。",
+  "ref_law": "刑訴法423條，刑訴法379條，刑訴法41條，刑訴法42條",
+  "lawsuit_id": "55278",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55278",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/278/055278_hanrei.pdf"
+}

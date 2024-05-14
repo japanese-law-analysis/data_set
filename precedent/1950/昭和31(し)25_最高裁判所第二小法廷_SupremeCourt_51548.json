@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 8,
+    "day": 22
+  },
+  "case_number": "昭和31(し)25",
+  "case_name": "覚せい剤取締法違反被告事件につきなした保釈保証金没取決定に対する異議申立決定に対する特別抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "その他",
+  "article_info": "刑集　第10巻8号1273頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 4,
+    "day": 26
+  },
+  "gist": "保釈保証書を差し出した者の保証金没取決定に対する異議申立権の有無",
+  "case_gist": "保釈された者が有罪判決確定後逃亡したることを理由として高等裁判所がなした同人に対する保釈保証金没取決定に対し、さきに同人のため保証書を差し出した者は、刑訴第三五二条の「被告人以外の者で決定を受けたもの」として、自ら異議申立をすることはできない。",
+  "ref_law": "刑訴法96条，刑訴法94条3項，刑訴法352条，刑訴法428条，刑訴法420条1項，刑訴法420条2項",
+  "lawsuit_id": "51548",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51548",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/548/051548_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 1,
+    "day": 17
+  },
+  "case_number": "昭和33(オ)251",
+  "case_name": "土地建物所有権取得登記抹消登記手続等請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第15巻1号1頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 12,
+    "day": 3
+  },
+  "gist": "民法第一一〇条にいわゆる「正当の理由」がないとされた事例。",
+  "case_gist": "病身の夫が家族との不和と療養の関係からさして遠方でない土地に別居中、妻が無断で夫の印章を偽造し、夫の代理名義で夫所有の土地家屋を代金三一〇万円で売却した場合、交渉の行われた場所が当該の家屋であり、家族の収入は妻名義でなす貸間収入で賄われており、成人した子供達が交渉の際同席する等、一応妻に代理権があると信じさせるような事情が存在していたとしても、「夫が病気で別居し、仕送りがないので借金ができ、その整理のため売る」旨告げられながら、直接夫について確かめなかつた場合には、買主には、妻に不動産売却の代理権があると信ずべき正当の理由があるとは言えない。",
+  "ref_law": "民法110条",
+  "lawsuit_id": "54884",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54884",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/884/054884_hanrei.pdf"
+}

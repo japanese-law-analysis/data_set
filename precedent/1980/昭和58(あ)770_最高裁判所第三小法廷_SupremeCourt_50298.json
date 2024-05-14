@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 63,
+    "month": 4,
+    "day": 11
+  },
+  "case_number": "昭和58(あ)770",
+  "case_name": "贈賄",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第42巻4号419頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 2,
+    "day": 10
+  },
+  "gist": "衆議院の委員会で審査中の法律案に関し同委員会に所属しない同院議員に対する贈賄罪が成立するとされた事例",
+  "case_gist": "衆議院議員に対し、同院大蔵委員会で審査中の法律案につき、関係業者の利益のため廃案、修正になるよう、同院における審議、表決に当たつて自らその旨の意思を表明すること及び同委員会委員を含む他の議員に対してその旨説得勧誘することを請託して金員を供与したときは、当該議員が同委員会委員でなくても、贈賄罪が成立する。",
+  "ref_law": "刑法（昭和55年法律30号による改正前のもの）197条1項，刑法（昭和55年法律30号による改正前のもの）198条",
+  "lawsuit_id": "50298",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50298",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/298/050298_hanrei.pdf"
+}

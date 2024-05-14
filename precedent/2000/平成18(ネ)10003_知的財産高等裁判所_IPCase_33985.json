@@ -1,0 +1,18 @@
+{
+  "trial_type": "IPCase",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 12,
+    "day": 26
+  },
+  "case_number": "平成18(ネ)10003",
+  "case_name": "著作権存在確認等請求控訴事件",
+  "court_name": "知的財産高等裁判所",
+  "right_type": "著作権",
+  "lawsuit_type": "民事訴訟",
+  "lawsuit_id": "33985",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail7?id=33985",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/985/033985_hanrei.pdf",
+  "contents": "Centre National d'Etudes Spatiales\nApogee Motor Firing\nP.M.Fitzpatrick\nApogee Boost Motor\nKalman Filter\nStability of Spinning Spacecraft with Partially Liquid-Filled Tanks\nP.M.Fitzpatrick\nP.M.Fitzpatrick\n8 9\n8 9\n7 Kalman Filter\n1 11\n- 87 -- 88 -- 89 -- 90 -\n"
+}

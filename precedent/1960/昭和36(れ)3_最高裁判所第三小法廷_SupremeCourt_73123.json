@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 12,
+    "day": 19
+  },
+  "case_number": "昭和36(れ)3",
+  "case_name": "詐欺",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第140号481頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 7,
+    "day": 25
+  },
+  "gist": "旧刑訴法第四〇三条にいう「原判決ノ刑ヨリ重キ刑ヲ言渡スコトヲ得ス」の趣旨。",
+  "case_gist": "旧刑訴四〇三条にいわゆる「原判決ノ刑ヨリ重キ刑ヲ言渡スコトヲ得ス」というのは、第一審判決の主文における刑よりも重い刑の言渡をなすことを禁ずる趣旨であつて、本件において、被告人の所論騙取材木の数量につき原判決の認定したところが第一審判決の認定したところよりも減少していたからといつて、その科刑が同一である以上、右刑訴の法条に違反し、第一審判決を不利益に変更したものとはいえないから、原判決には所論のような違法は存しない。",
+  "ref_law": "旧刑訴法403条，刑訴法402条",
+  "lawsuit_id": "73123",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=73123",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/123/073123_hanrei.pdf"
+}

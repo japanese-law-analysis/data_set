@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 6,
+    "day": 24
+  },
+  "case_number": "昭和23(れ)300",
+  "case_name": "強盗傷人、窃盗",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第2号595頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 1,
+    "day": 12
+  },
+  "gist": "傷害の部位の一部について認定事實と被害者の供述との間に齟齬ある場合と虚無の證據",
+  "case_gist": "被害者の供述と判示事實との間に傷害の部位の一部である上膊の右左についてのみ齟齬があつたからといつて判決の結果に影響を及ぼすものとはいえないから原判決には所論のように虚無の證據によつて事實を確定したという違法はない。",
+  "ref_law": "刑訴法360條1項，刑訴法410條19號",
+  "lawsuit_id": "70656",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70656",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/656/070656_hanrei.pdf"
+}

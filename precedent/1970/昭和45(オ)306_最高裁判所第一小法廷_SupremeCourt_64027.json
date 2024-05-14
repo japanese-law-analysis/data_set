@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 11,
+    "day": 19
+  },
+  "case_number": "昭和45(オ)306",
+  "case_name": "詐害行為取消請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第101号481頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和41(ネ)623",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 12,
+    "day": 24
+  },
+  "gist": "代物弁済が詐害行為にならないとされた事例",
+  "case_gist": "物件の価額と同額の債務のためにした代物弁済が、判示のように、債務者において、同人に倒産の気配があることを察知した一債権者から、債務の支払かこれに代わる商品の交付を求められ、これを拒絶していたものの、引き続き深更に及ぶ強硬な要求に屈して、やむなく債権者が右物件を持ち去るに任せたというのであるときは、右代物弁済は詐害行為にならない。",
+  "ref_law": "民法424条",
+  "lawsuit_id": "64027",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64027",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/027/064027_hanrei.pdf"
+}

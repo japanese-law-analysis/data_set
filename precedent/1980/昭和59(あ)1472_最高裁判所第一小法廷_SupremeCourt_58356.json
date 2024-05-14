@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 12,
+    "day": 19
+  },
+  "case_number": "昭和59(あ)1472",
+  "case_name": "道路交通法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第241号543頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 9,
+    "day": 27
+  },
+  "gist": "一　道路標識等による最高速度の指定を都道府県公安委員会に委任することと憲法三一条、七三条六号\n二　訴訟費用の負担と憲法二九条、三二条",
+  "case_gist": "一　道路標識等による最高速度の指定を都道府県公安委員会に委任することは、憲法三一条、七三条六号に違反しない。\n二　証人尋問に要した訴訟費用の負担を有罪の言渡しを受けた被告人に命ずることは、憲法二九条、三二条に違反しない。",
+  "ref_law": "憲法29条，憲法31条，憲法32条，憲法73条6号，道路交通法4条，道路交通法22条，刑訴法181条",
+  "lawsuit_id": "58356",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58356",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/356/058356_hanrei.pdf"
+}

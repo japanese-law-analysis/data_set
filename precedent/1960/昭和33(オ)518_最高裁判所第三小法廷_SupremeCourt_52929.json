@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 9,
+    "day": 20
+  },
+  "case_number": "昭和33(オ)518",
+  "case_name": "建物収去、土地明渡請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第14巻11号2227頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 3,
+    "day": 31
+  },
+  "gist": "一　建物取得後借地法第一〇条の買取請求権行使までの間における敷地不法占有と損害の有無。\n二　借地法第一〇条の買取請求権行使後における敷地占有と不当利得の成否。",
+  "case_gist": "一　借地法第一〇条の建物買取請求権が行使された場合、土地賃貸人は、特段の事情がないかぎり、右買取請求権行使以前の期間につき賃料請求権を失うものではないけれども、これがため右期間中は建物取得者の敷地不法占有により賃料相当の損害を生じないとはいい得ない。\n二　借地法第一〇条の建物買取請求権が行使された後、建物取得者は買取代金の支払を受けるまで右建物の引渡を拒むことができるが、これにより敷地をも占有するかぎり、敷地占有に基く不当利得としてその賃料相当額を返還する義務がある。",
+  "ref_law": "借地法10条，民法709条，民法703条",
+  "lawsuit_id": "52929",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52929",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/929/052929_hanrei.pdf"
+}

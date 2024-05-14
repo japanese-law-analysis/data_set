@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 6,
+    "month": 2,
+    "day": 3
+  },
+  "case_number": "平成5(行ツ)175",
+  "case_name": "裁決取消及び同参加",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第171号217頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成4(行ケ)209",
+  "original_date": {
+    "era": "Heisei",
+    "year": 5,
+    "month": 7,
+    "day": 19
+  },
+  "gist": "「Ｃ野（ｃ）」と記載した投票の効力",
+  "case_gist": "公職の候補者Ｃ野ｃ重郎がいる場合に「Ｃ野（ｃ）」と記載した投票は、名の一字に丸括弧が付されていても、公職選挙法六八条一項五号にいう他事を記載した投票に当たらず、右候補者に対する有効な投票である。",
+  "ref_law": "公職選挙法68条1項5号",
+  "lawsuit_id": "62735",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62735",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/735/062735_hanrei.pdf"
+}

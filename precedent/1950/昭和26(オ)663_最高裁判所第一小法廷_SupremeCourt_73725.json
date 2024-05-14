@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 9,
+    "day": 17
+  },
+  "case_number": "昭和26(オ)663",
+  "case_name": "木材代金前渡金返還請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第9号1005頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 6,
+    "day": 9
+  },
+  "gist": "不法原因給付の返還の特約の効力",
+  "case_gist": "不法原因給付の返還の特約は有効である。",
+  "lawsuit_id": "73725",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=73725",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/725/073725_hanrei.pdf"
+}

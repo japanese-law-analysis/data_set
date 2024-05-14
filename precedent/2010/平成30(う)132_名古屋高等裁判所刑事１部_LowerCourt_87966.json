@@ -1,0 +1,16 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 30,
+    "month": 8,
+    "day": 21
+  },
+  "case_number": "平成30(う)132",
+  "case_name": "銃砲刀剣類所持等取締法違反",
+  "court_name": "名古屋高等裁判所刑事１部",
+  "result": "破棄自判",
+  "lawsuit_id": "87966",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=87966",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/966/087966_hanrei.pdf"
+}

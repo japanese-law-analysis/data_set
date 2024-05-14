@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 1,
+    "day": 31
+  },
+  "case_number": "昭和37(オ)643",
+  "case_name": "建物収去土地明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第64号287頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 3,
+    "day": 13
+  },
+  "gist": "借地上の建物の増改築による同一性の喪失のために建物買取請求権ができないとされた事例。",
+  "case_gist": "借地上の建物に対し通常の修理、模様替の範囲を超えた増改築が土地転借人によつて加えられ、建物の同一性を失うに至つた場合には、借地法第一〇条による建物買取請求権を行使することはできない。",
+  "ref_law": "民法612条，借地法10条",
+  "lawsuit_id": "66126",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66126",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/126/066126_hanrei.pdf"
+}

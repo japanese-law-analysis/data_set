@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 7,
+    "day": 15
+  },
+  "case_number": "昭和54(オ)1166",
+  "case_name": "所有権移転登記抹消登記手続",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集民　第130号237頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_case_number": "昭和53(ネ)70",
+  "original_date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 7,
+    "day": 30
+  },
+  "gist": "土地の占有権原につき釈明権の不行使、審理不尽の違法があるとされた事例",
+  "case_gist": "土地所有権に基づく土地明渡請求事件において、被告が抗弁として右土地の買受けを主張するとともに、事情として右土地を買受けの時まで長期にわたり賃借していた旨陳述し、原告も賃貸の事実を認めていたなどの訴訟の経過があるにかかわらず、右の売買の無効を判断しただけで、右の陳述の趣旨を釈明せず、占有権原の存否について審理を尽くさないで明渡認容の判決をしたのは、釈明権不行使及び審理不尽の違法がある。",
+  "ref_law": "民訴法127条，民訴法394条",
+  "lawsuit_id": "64303",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64303",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/303/064303_hanrei.pdf"
+}

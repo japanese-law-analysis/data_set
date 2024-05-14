@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 5,
+    "day": 26
+  },
+  "case_number": "昭和36(オ)924",
+  "case_name": "株金引渡等請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第18巻4号635頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 6,
+    "day": 13
+  },
+  "gist": "銀行が商法第一八九条第二項に基づいて負担する債務は商事債務か。",
+  "case_gist": "株式払込金保管証明をした銀行が商法第一八九条第二項に基づいて負担する、証明金額を支払うべき債務は、商行為によつて生じた債務と解すべきである。",
+  "ref_law": "商法189条，商法503条，商法522条",
+  "lawsuit_id": "53080",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53080",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/080/053080_hanrei.pdf"
+}

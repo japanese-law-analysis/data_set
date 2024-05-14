@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 9,
+    "day": 24
+  },
+  "case_number": "昭和37(オ)108",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第75号409頁",
+  "original_court_name": "仙台高等裁判所\n        　秋田支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 10,
+    "day": 23
+  },
+  "gist": "民法第六三五条但書にいう「土地ノ工作物」の意義等。",
+  "case_gist": "民法第六三五条但書にいう「土地ノ工作物」とは、社会観念上、土地に付着し、継続的に使用されるものと認められる工作物をいうのであつて、工場内に据え付ける機械は、基礎工事によつて土地に固著させられないかぎり、右法条にいう「土地ノ工作物」にあたらないと解すべきである。",
+  "ref_law": "民法635条",
+  "lawsuit_id": "66044",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66044",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/044/066044_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 7,
+    "day": 8
+  },
+  "case_number": "昭和33(あ)411",
+  "case_name": "歯科医師法違反",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第13巻7号1132頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 2,
+    "day": 10
+  },
+  "gist": "歯科技工士による印象採得、咬合採得、試適、嵌入の禁止と憲法第二二条、第一三条。",
+  "case_gist": "歯科技工士はたとい総入歯の作り換えに伴うものであつても、印象採得、咬合採得、試適、嵌入をすることはできないとすることは、公共の福祉のための制限であつて、憲法第二二条、第一三条に違反するものではない。",
+  "ref_law": "歯科技工法20条，歯科医師法17条，歯科医師法29条1項1号，憲法13条，憲法22条",
+  "lawsuit_id": "51636",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51636",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/636/051636_hanrei.pdf"
+}

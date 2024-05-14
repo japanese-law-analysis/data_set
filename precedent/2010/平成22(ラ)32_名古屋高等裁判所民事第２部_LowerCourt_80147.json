@@ -1,0 +1,20 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 4,
+    "day": 5
+  },
+  "case_number": "平成22(ラ)32",
+  "case_name": "任意後見人解任申立て却下審判に対する即時抗告事件",
+  "court_name": "名古屋高等裁判所民事第２部",
+  "result": "棄却",
+  "original_court_name": "名古屋家庭裁判所",
+  "original_result": "却下",
+  "gist": "任意後見契約に関する法律８条に規定されている解任事由として，任意後見受任者の段階及びそれ以前の事由の主張は許されないとした事例",
+  "lawsuit_id": "80147",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=80147",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/147/080147_hanrei.pdf",
+  "contents": ""
+}

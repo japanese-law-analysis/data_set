@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 11,
+    "day": 27
+  },
+  "case_number": "昭和31(あ)2178",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第10巻11号1558頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 4,
+    "day": 10
+  },
+  "gist": "各別に起訴された被告人を異にする相関連する事件の公判が同一の裁判官によつて相前後して開廷審理された場合と憲法第三七条第一項にいわゆる「公平な裁判所の裁判」",
+  "case_gist": "被告人の事件と相関連する事件で別に起訴され、後に被告人の事件と併合審理された相被告人の第一回公判が、被告人の公判より前に開廷された結果、同一の裁判官が相被告人の第一回公判で、後に被告人の審理において提出された証拠を取り調べたからといつて、被告人に憲法第三七条第一項によつて保障された「公平な裁判所の裁判」を受ける権利が侵害されたということはできない。",
+  "ref_law": "憲法第37条1項，刑訴法292条，刑訴法297条，刑訴法313条",
+  "lawsuit_id": "56969",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56969",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/969/056969_hanrei.pdf"
+}

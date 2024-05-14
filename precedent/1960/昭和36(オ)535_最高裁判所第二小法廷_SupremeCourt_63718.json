@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 10,
+    "day": 26
+  },
+  "case_number": "昭和36(オ)535",
+  "case_name": "土地所有権移転登記手続、山林所有権確認並びに所有権取得登記抹消登記手続請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第62号1005頁",
+  "original_court_name": "広島高等裁判所\n        　松江支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 3,
+    "day": 17
+  },
+  "gist": "処分禁止仮処分後にされた移転登記は、仮処分債権者に対抗しうるか。",
+  "case_gist": "処分禁止仮処分前にされた移転契約でも、仮処分後に登記された場合には、所有権移転をもつて仮処分債権者に対抗しえない。",
+  "ref_law": "民訴法755条",
+  "lawsuit_id": "63718",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63718",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/718/063718_hanrei.pdf"
+}

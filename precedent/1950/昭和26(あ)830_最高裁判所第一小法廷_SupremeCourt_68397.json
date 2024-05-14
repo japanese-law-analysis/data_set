@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 9,
+    "day": 27
+  },
+  "case_number": "昭和26(あ)830",
+  "case_name": "強盗、住居侵入",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第53号595頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 12,
+    "day": 14
+  },
+  "gist": "共同審理を受けていない単なる共犯者の供述の証拠能力",
+  "case_gist": "所論証人Ａ、Ｂは、本件住居侵入罪について各被告人と共犯の関係にあるけれども、共同被告人として共同審理を受けた者ではない。このような共同審理を受けていない単なる共犯者が、犯罪事実を自認する供述の証拠能力が、憲法第三八条第三項によつて何等制限を受けるものでないことは大法廷判例の示すとおりである（判例集三巻六号七三四頁）。",
+  "ref_law": "刑訴法318条，憲法38条3項",
+  "lawsuit_id": "68397",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=68397",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/397/068397_hanrei.pdf"
+}

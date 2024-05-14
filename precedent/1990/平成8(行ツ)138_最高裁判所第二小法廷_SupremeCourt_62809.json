@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 10,
+    "month": 6,
+    "day": 12
+  },
+  "case_number": "平成8(行ツ)138",
+  "case_name": "法人税更正処分等取消",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第188号619頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成6(行コ)217",
+  "original_date": {
+    "era": "Heisei",
+    "year": 8,
+    "month": 3,
+    "day": 26
+  },
+  "gist": "役員退職給与として土地を帳簿価額で現物支給した場合において適正な価額との差額が法人税法三六条にいう「損金経理をしなかった金額」に該当するとされた事例",
+  "case_gist": "役員に対する退職給与として法人の固定資産である土地をその帳簿価額である二五〇〇万円で現物支給し、右金額について損金経理をしたが、右土地の支給時における適正な価額は少なくとも一億六〇五三万四三六〇円を下るものではなかったという事実関係の下においては、右土地の支給時における適正な価額と帳簿価額との差額は、法人税法三六条にいう「損金経理をしなかった金額」に該当する。",
+  "ref_law": "法人税法36条",
+  "lawsuit_id": "62809",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62809",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/809/062809_hanrei.pdf"
+}

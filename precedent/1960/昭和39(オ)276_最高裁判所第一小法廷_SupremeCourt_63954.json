@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 11,
+    "day": 19
+  },
+  "case_number": "昭和39(オ)276",
+  "case_name": "土地境界確認等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第76号199頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 10,
+    "day": 18
+  },
+  "gist": "書面の提出または送達のない訴の変更と責問権の喪失。",
+  "case_gist": "訴の変更についての書面の提出または送達の欠缺は、責問権の喪失によつて治癒される（昭和二七年（オ）第二八号同三一年六月一九日第三小法廷判決、民集一〇巻六号六六五頁）。",
+  "ref_law": "民訴法232条，民訴法141条",
+  "lawsuit_id": "63954",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63954",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/954/063954_hanrei.pdf"
+}

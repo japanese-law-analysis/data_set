@@ -1,0 +1,22 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 3,
+    "day": 9
+  },
+  "case_number": "昭和22(れ)218",
+  "case_name": "強盗",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第2巻3号153頁",
+  "original_court_name": "大阪高等裁判所",
+  "gist": "一　第一審の手續上の違法を理由とする上告\n二　被告人の國籍と刑法第二三六條第一項の適用",
+  "case_gist": "一　第二審の手續に法令違反なき限り、第一審の手續に法令違反があつたとしても、これを以て第二審の判決に對する上告の理由とすることはできない。\n二　國内で強盗を犯した被告人が聯合國人であることを證明する資料がない以上は、而して……刑法第二三六條の適用があるのであつて、その被告人が日本國に國籍を有することを積極的に證明する必要はない。",
+  "ref_law": "刑訴法408條，刑訴法411條，刑法1條1項，刑法236條1項",
+  "lawsuit_id": "56413",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56413",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/413/056413_hanrei.pdf"
+}

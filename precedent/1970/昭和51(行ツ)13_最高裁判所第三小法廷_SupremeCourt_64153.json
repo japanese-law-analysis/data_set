@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 10,
+    "day": 12
+  },
+  "case_number": "昭和51(行ツ)13",
+  "case_name": "不動産取得税賦課処分取消請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集民　第119号97頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和49(行コ)5",
+  "original_date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 10,
+    "day": 30
+  },
+  "gist": "昭和三八年法律第八〇号による改正前の地方税のもとにおける不動産取得税の賦課権の消滅時効の起算日",
+  "case_gist": "昭和三八年法律第八〇号による改正前の地方税法のもとにおける不動産取得税の賦課権の消滅時効は、当該不動産の所有権取得の日を基準としてこれを起算すべきであり、右所有権取得についての登記又は申告等の日を基準とすべきではない。",
+  "ref_law": "地方税法（昭和38年法律第80号による改正前のもの）18条1項，地方税法（昭和38年法律第80号による改正前のもの）73条の2",
+  "lawsuit_id": "64153",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64153",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/153/064153_hanrei.pdf"
+}

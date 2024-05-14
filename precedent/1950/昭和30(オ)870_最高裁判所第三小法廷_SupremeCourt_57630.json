@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 3,
+    "day": 26
+  },
+  "case_number": "昭和30(オ)870",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第11巻3号543頁",
+  "original_court_name": "仙台高等裁判所\n        　秋田支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 5,
+    "day": 30
+  },
+  "gist": "共同不法行為と共謀の要否",
+  "case_gist": "民法第七一九条第一項前段の共同不法行為が成立するためには、不法行為者間に意思の共通（共謀）もしくは「共同の認識」のあることは必要でなく、単に客観的に権利侵害が共同でなされれば足りる。",
+  "ref_law": "民法719条",
+  "lawsuit_id": "57630",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57630",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/630/057630_hanrei.pdf"
+}

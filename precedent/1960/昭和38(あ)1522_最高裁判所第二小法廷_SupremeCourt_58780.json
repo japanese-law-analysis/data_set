@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 1,
+    "day": 28
+  },
+  "case_number": "昭和38(あ)1522",
+  "case_name": "窃盗、森林法違反、封印破棄暴力行為等処罰ニ関スル法律違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第158号125頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 5,
+    "day": 8
+  },
+  "gist": "事実誤認等を上告理由として許さないことの合憲性",
+  "case_gist": "第一審の無罪判決を破棄自判により有罪とした第二審判決に対し上訴によつて事実誤認等を争う途が閉されているとしても、違憲といえないことは、当裁判所大法廷判決（昭和二二年（れ）第四三号同二三年三月一〇日宣告、刑集二巻三号一七五頁）の趣旨とするところである。",
+  "ref_law": "憲法81条，刑訴法405条",
+  "lawsuit_id": "58780",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58780",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/780/058780_hanrei.pdf"
+}

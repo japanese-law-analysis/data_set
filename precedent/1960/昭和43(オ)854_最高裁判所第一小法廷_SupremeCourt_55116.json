@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 12,
+    "day": 12
+  },
+  "case_number": "昭和43(オ)854",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第22巻13号2963頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和42(ネ)2941",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 5,
+    "day": 27
+  },
+  "gist": "他人名義で約束手形を振り出した者に手形振出人としての責任が認められた事例",
+  "case_gist": "甲を代表取締役とする会社が手形取引停止処分を受けたため、甲が実兄乙名義で銀行の当座取引口座を設け、その後、半年間に多数回にわたり乙名義を使用して約束手形を振り出しており、乙が経済的な信用や実績のない者であるなど判示の事情のもとにおいては、甲は、右約束手形の振出人として責任を負う。",
+  "ref_law": "手形法75条",
+  "lawsuit_id": "55116",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55116",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/116/055116_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 4,
+    "day": 25
+  },
+  "case_number": "昭和43(オ)1263",
+  "case_name": "小切手金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第95号231頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和42(ネ)1982",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 9,
+    "day": 28
+  },
+  "gist": "被用者の小切手偽造が使用者の事業の執行についてした行為にあたらないときれた事例",
+  "case_gist": "信用組合の預金課長の職務権限が、預金の受払に関する窓口事務、預金通帳の発行、預金に関する伝票・記帳の整理などの事務に限られ、預金獲得のための外部との折衝などの渉外事務、信用組合名義の小切手の作成交付などの事務に及ばず、信用組合の代表者の記名印、代表者印の保管使用も預金課長に許されていなかつたという場合において、預金課長が、第三者と通じ、偽造にかかる信用組合理事長の記名印、代表者印を用いて、信用組合理事長振出名義の小切手を偽造した行為は、外形上もその職務の範囲に属するものでなく、使用者の事業の執行についてした行為にあたらない。",
+  "ref_law": "民法715条1項",
+  "lawsuit_id": "66659",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66659",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/659/066659_hanrei.pdf"
+}

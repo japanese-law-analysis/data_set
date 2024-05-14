@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 4,
+    "day": 23
+  },
+  "case_number": "昭和33(あ)1995",
+  "case_name": "業務上過失致死傷、道路交通取締法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第129号523頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 9,
+    "day": 18
+  },
+  "gist": "自動車運転の業務に従事していたものと認められる事例。",
+  "case_gist": "被告人は第一審判決判事のように自動車の練習並に車洗いのため十数回以上に亘つて小型自動四輪車を運転していたというのであるから予て自動車運転の業務に従事していたものと認めて毫も妨けないものである。",
+  "ref_law": "刑法211条",
+  "lawsuit_id": "61131",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61131",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/131/061131_hanrei.pdf"
+}

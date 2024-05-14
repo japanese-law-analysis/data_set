@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 7,
+    "day": 5
+  },
+  "case_number": "昭和31(あ)17",
+  "case_name": "公文書偽造、同行使、詐欺",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第10巻7号1025頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 12,
+    "day": 6
+  },
+  "gist": "公文書偽造罪の認められる一事例",
+  "case_gist": "Ａ法務社岸和田支局またはＢ地方法務新聞宇治山田支局各名義の各船舶登記証書を作成した場合においても、Ａ法務社岸和田支局なる印の「社」およびＢ地方法務新聞宇治山田支局之印なる印の「新聞」という各文字の処を殊更に不鮮明に押捺し、各その形式外観によつて、一般人をしてＡ法務局岸和田支局またはＢ地方法務局宇治山田支局が権限により作成した公文書たる登記証書であると誤信せしめるに足りるものと認められるときは各公文書偽造罪が成立する。",
+  "ref_law": "刑法155条1項",
+  "lawsuit_id": "51482",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51482",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/482/051482_hanrei.pdf"
+}

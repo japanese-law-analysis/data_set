@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 10,
+    "day": 5
+  },
+  "case_number": "平成19(ワ)824",
+  "case_name": "損害賠償請求事件",
+  "court_name": "京都地方裁判所第６民事部",
+  "result": "その他",
+  "gist": "マンションの建設工事に伴う騒音被害につき不法行為に基づく損害賠償請求が一部認容されたが，景観権ないし景観利益侵害を理由とするマンションの一部撤去・損害賠償請求，プライバシー侵害，日照侵害を理由とする損害賠償請求等が棄却された事例",
+  "lawsuit_id": "80809",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=80809",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/809/080809_hanrei.pdf",
+  "contents": ""
+}

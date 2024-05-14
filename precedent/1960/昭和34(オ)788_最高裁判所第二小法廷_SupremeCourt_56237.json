@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 3,
+    "day": 16
+  },
+  "case_number": "昭和34(オ)788",
+  "case_name": "登記に関する異議",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第16巻3号567頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 5,
+    "day": 29
+  },
+  "gist": "不適切な申請に基づく登記と不動産登記法旧第一五〇条による異議申立の許否",
+  "case_gist": "登記申請書に必要な書面の添付を欠いていても、登記官吏がその申請を受理して登記を完了したときは、不動産登記法旧第一五〇条の異議の方法によつてその抹消を求めることは許されない。",
+  "ref_law": "不動産登記法35条1項4号，不動産登記法36条，不動産登記法49条8号，不動産登記法（昭和35年3月法律14号による改正前）150条，不動産登記法（昭和35年3月法律14号による改正前）149条ノ2",
+  "lawsuit_id": "56237",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56237",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/237/056237_hanrei.pdf"
+}

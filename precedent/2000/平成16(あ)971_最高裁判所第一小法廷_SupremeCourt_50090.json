@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 17,
+    "month": 4,
+    "day": 18
+  },
+  "case_number": "平成16(あ)971",
+  "case_name": "殺人，銃砲刀剣類所持等取締法違反，殺人未遂被告事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第59巻3号302頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成15(う)2803",
+  "original_date": {
+    "era": "Heisei",
+    "year": 16,
+    "month": 3,
+    "day": 25
+  },
+  "gist": "道路を走行中の普通乗用自動車内におけるけん銃発射行為が銃砲刀剣類所持等取締法３条の１３，３１条のけん銃等発射罪に当たるとされた事例",
+  "case_gist": "国道を走行中の普通乗用自動車内において，助手席に乗車していた被害者に対し，背後からけん銃を突き付け発射した行為（判文参照）は，銃砲刀剣類所持等取締法３条の１３，３１条のけん銃等発射罪に当たる。",
+  "ref_law": "銃砲刀剣類所持等取締法3条の13，銃砲刀剣類所持等取締法31条",
+  "lawsuit_id": "50090",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50090",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/090/050090_hanrei.pdf"
+}

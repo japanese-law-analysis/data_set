@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 1,
+    "day": 21
+  },
+  "case_number": "昭和28(あ)2937",
+  "case_name": "公正証書原本不実記載、同行使",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第91号715頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 3,
+    "day": 25
+  },
+  "gist": "法人のために犯罪行為をした法人の代表者の刑事責任",
+  "case_gist": "法人の代表者がその機関たる地位において法人のために犯罪行為をした場合に、法人自体が処罰の対象となり刑事責任を負うかどうかは格別、行為者たる法人の代表者個人がその刑事責任を負担することは、わが刑法上当然である。",
+  "ref_law": "旧商法357条，刑法157条，刑法158条",
+  "lawsuit_id": "72784",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=72784",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/784/072784_hanrei.pdf"
+}

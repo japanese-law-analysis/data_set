@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 7,
+    "day": 19
+  },
+  "case_number": "昭和22(れ)194",
+  "case_name": "住居侵入",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第3号267頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 9,
+    "day": 30
+  },
+  "gist": "一　裁判所法施行令第一條の合憲性及び合法性\n二　裁判所法施行令第一條の合憲性\n三　裁判所法施行令第一條の合法性\n四　最高裁判所と大審院との關係",
+  "case_gist": "一　裁判所法施行令第一條は、憲法第九八條及び第八一條の法意又は裁判所法第七條の規定に反するものではない。\n二　裁判所法施行令第一條は憲法第三二條に違反するものではない。\n三　裁判所法施行令第一條は裁判所法施行法第二條の委任の趣旨に背いた違法はない又裁判所法第一七條に適合しないものでもない。\n四　最高裁判所は大審院の後身でもなく、その承繼者でもなく、兩者の間には同一性を認めることもできないから、大審院に繋屬した事件は、最高裁判所において當然承繼し審判しなければならぬということはない。",
+  "ref_law": "裁判所法施行令1條，裁判所法施行令2條，裁判所法施行令19條，憲法98條，憲法81條，憲法32條，憲法103條，裁判所法7條，裁判所法17條",
+  "lawsuit_id": "74610",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74610",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/610/074610_hanrei.pdf"
+}

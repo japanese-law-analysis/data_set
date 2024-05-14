@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 6,
+    "day": 25
+  },
+  "case_number": "昭和60(し)74",
+  "case_name": "覚せい剤取締法違反被告事件について地方裁判所がした証拠決定に対する特別抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第240号225頁",
+  "original_court_name": "東京地方裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 6,
+    "day": 4
+  },
+  "gist": "証拠決定に対する特別抗告において特別抗告期間内に同一申立人から再度提出された特別抗告申立書と題する書面が、特別抗告の趣意を補充したものとして処理された事例",
+  "ref_law": "刑訴法433条",
+  "lawsuit_id": "61870",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61870",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/870/061870_hanrei.pdf"
+}

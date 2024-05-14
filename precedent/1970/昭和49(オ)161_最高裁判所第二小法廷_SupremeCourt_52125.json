@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 4,
+    "day": 25
+  },
+  "case_number": "昭和49(オ)161",
+  "case_name": "建物明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第29巻4号556頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和47(ネ)1640",
+  "original_date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 9,
+    "day": 29
+  },
+  "gist": "賃借物につき第三者から明渡を求められた賃借人の賃料支払拒絶権",
+  "case_gist": "土地又は建物の賃借人は、賃借物に対する権利に基づき自己に対して明渡を請求することができる第三者からその明渡を求められた場合には、それ以後、賃料の支払を拒絶することができる。",
+  "ref_law": "民法559条，民法576条，民法601条",
+  "lawsuit_id": "52125",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52125",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/125/052125_hanrei.pdf"
+}

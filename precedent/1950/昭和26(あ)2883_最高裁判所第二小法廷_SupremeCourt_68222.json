@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 3,
+    "day": 20
+  },
+  "case_number": "昭和26(あ)2883",
+  "case_name": "別府市条例第三一号違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第76号561頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 4,
+    "day": 5
+  },
+  "gist": "控訴趣意中の一部についての判断を遺脱した判決と刑訴法第四一一条",
+  "case_gist": "原判決が所論控訴趣意第四点について判断を遺脱したものであることは所論のとおりである。論旨（イ）は右違法をもつて憲法三一条違反なりと主張するけれども、その実質は単なる法令違反の主張に帰するのであるから、適法な上告理由にあたらない。記録を調査すると、右控訴趣意第四点は事実誤認又は理由不備の主張であるが、第一審判決に右第四点において主張するが如き事実誤認又は理由不備の違法は認められないから、所論の如き違法があつてもこれを破棄しなければ著しく正義に反するものとは認められない。",
+  "ref_law": "刑訴法392条，刑訴法411条，刑許規則246条",
+  "lawsuit_id": "68222",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=68222",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/222/068222_hanrei.pdf"
+}

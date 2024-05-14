@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 12,
+    "day": 13
+  },
+  "case_number": "昭和42(し)73",
+  "case_name": "勾留期間延長請求事件についてした決定に対する抗告申立",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第165号365頁",
+  "original_court_name": "大阪地方裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 12,
+    "day": 9
+  },
+  "gist": "準抗告裁判所の原裁判取消決定の告知方式違背と勾留期間延長の裁判の効力",
+  "case_gist": "準抗告裁判所が勾留延長却下の原裁判を取り消して勾留期間延長の裁判をするにつき、原裁判取消決定の告知を、謄本送達の方法によらないで単に口頭でした方式違背があつても、右取消決定の告知は実質上されているし、勾留期間延長の裁判は、当然にこれを矛盾するさきの勾留延長却下の裁判を取り消す趣旨をおのずから示しているものであつて、緊急を要した本件の具体的事情のもとでは、右の方式違背は、ただちに勾留期間延長の裁判を無効ならしめるものではない。",
+  "ref_law": "刑訴法429条，刑訴法433条，刑訴規則34条",
+  "lawsuit_id": "59208",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59208",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/208/059208_hanrei.pdf"
+}

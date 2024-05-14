@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 5,
+    "day": 2
+  },
+  "case_number": "昭和24(れ)307",
+  "case_name": "町会議員選挙罰則違反",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第5巻6号989頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 10,
+    "day": 29
+  },
+  "gist": "追放令による覚書非該当の確認申請以前における選挙運動と選挙犯罪の成否",
+  "case_gist": "議員選挙に際してその候補者となろうとする者が、いわゆる追放令による覚書非該当者の確認を求めるため、確認の申請をする以前に、立候補の決意を固め自己の当選を得る目的で他人に対し選挙運動を依頼し且つ投票取まとめのための資金を供与した場合には、事前運動及び金銭供与の選挙犯罪が成立することは明らかである。それは、後になつて審理の結果、覚書該当者となろうが或は非該当者となろうが、前記犯罪の成立には何等の関係がないと言わればならぬ。",
+  "ref_law": "衆議院議員選挙法95条，衆議院議員選挙法112条1項1号，地方自治法73条，公職追放令6条，公職追放令8条2項",
+  "lawsuit_id": "54338",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54338",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/338/054338_hanrei.pdf"
+}

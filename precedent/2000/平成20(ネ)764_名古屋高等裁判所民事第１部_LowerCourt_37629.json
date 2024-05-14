@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 4,
+    "day": 23
+  },
+  "case_number": "平成20(ネ)764",
+  "case_name": "損害賠償請求控訴事件",
+  "court_name": "名古屋高等裁判所民事第１部",
+  "result": "その他",
+  "original_court_name": "名古屋地方裁判所",
+  "original_case_number": "平成18(ワ)3637",
+  "original_result": "棄却",
+  "gist": "冷凍倉庫の固定資産税及び都市計画税について一般倉庫と同じ扱いを受けたことによる過大徴収分相当額の損害賠償請求について，これを棄却した原判決を変更し，除斥期間の経過により消滅する分を除き，その請求の大半が認容された事例",
+  "lawsuit_id": "37629",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=37629",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/629/037629_hanrei.pdf",
+  "contents": ""
+}

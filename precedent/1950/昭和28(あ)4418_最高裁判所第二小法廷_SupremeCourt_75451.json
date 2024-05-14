@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 12,
+    "day": 16
+  },
+  "case_number": "昭和28(あ)4418",
+  "case_name": "恐喝未遂",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集刑　第111号441頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 8,
+    "day": 27
+  },
+  "gist": "審理不尽の違法を理由に破棄差戻した一事例  ―前科調書と前科の推認―",
+  "case_gist": "職権をもつて調査するに被告認に所論前科のあることは前示前科調書（記録一五四丁）によつて推認できるところであり、原審が執行猶予を言い渡したのは、ひつきようこの点に関し審理不尽の違法があるものといわなければならない。",
+  "ref_law": "刑法25条，刑訴法411条1号",
+  "lawsuit_id": "75451",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=75451",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/451/075451_hanrei.pdf"
+}

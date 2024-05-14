@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 9,
+    "day": 7
+  },
+  "case_number": "昭和55(オ)978",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第36巻8号1572頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和53(ネ)1666",
+  "original_date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 7,
+    "day": 15
+  },
+  "gist": "闘犬の襲撃による幼児の死亡事故につき飼主に飼育場所を提供しかつ日常飼育に協力していた者が民法七〇九条の不法行為責任を負うとされた事例",
+  "case_gist": "闘犬の飼主が危険防止のための十全の措置をとらないため右闘犬の襲撃による人身事故等が続発していることを知りながら、飼主に対して飼育場所を提供し、かつ、日常飼育に協力するなど多大の便益を提供していた者が、飼主が不在のためみずから右闘犬の保管に当たつていながら、第三者が右闘犬を容易に連れ出せる程度の施錠装置しかない犬舎を路上に置いたまま漫然外出し、その間に飼主の雇人が酒に酔つて右犬舎から闘犬を連れ出したため、右闘犬が幼児を襲い死亡させた場合には、右便益の提供者は、右事故につき民法七〇九条の不法行為責任を免れない。",
+  "ref_law": "民法709条，民法718条",
+  "lawsuit_id": "55171",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55171",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/171/055171_hanrei.pdf"
+}

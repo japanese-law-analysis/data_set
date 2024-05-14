@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 3,
+    "day": 13
+  },
+  "case_number": "昭和55(オ)669",
+  "case_name": "建物収去土地明渡等",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第35巻2号145頁",
+  "original_court_name": "福岡高等裁判所\n        　宮崎支部",
+  "original_case_number": "昭和43(ネ)167",
+  "original_date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 3,
+    "day": 31
+  },
+  "gist": "土地の賃貸借契約の期間満了を理由とする該土地の明渡請求訴訟の係属中賃貸人の主張する時期よりのちに期間が満了した場合と借地法六条の異議",
+  "case_gist": "土地の賃貸人が賃貸借期間が満了したとして異議を述べ該土地の明渡請求訴訟を提起したところ、右期間満了の時期が賃貸人の主張する時期よりのちであつた場合でも、それが右訴訟の係属中であるときは、右異議は、右期間満了後の土地使用継続に対しても、黙示的に述べられていると解するのが相当である。",
+  "ref_law": "借地法6条",
+  "lawsuit_id": "56349",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56349",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/349/056349_hanrei.pdf"
+}

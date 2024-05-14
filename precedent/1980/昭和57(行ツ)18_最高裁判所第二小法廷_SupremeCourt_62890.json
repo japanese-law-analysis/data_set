@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 12,
+    "day": 5
+  },
+  "case_number": "昭和57(行ツ)18",
+  "case_name": "相続税更正処分取消",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第149号263頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和55(行コ)5",
+  "original_date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 10,
+    "day": 28
+  },
+  "gist": "一　農地の売買契約締結後農業委員会の許可前に買主が死亡した場合における相続税の課税財産\n二　農地の買主の死亡により相続人が取得した当該農地の所有権移転請求権等の相続税の課税財産としての価額",
+  "case_gist": "一　農地の売買契約締結後農業委員会の許可前に買主が死亡した場合における相続税の課税財産は、右売買契約に基づき買主たる被相続人が売主に対して取得した当該農地の所有権移転請求権等の債権的権利である。\n二　農地の買主の死亡により相続人が取得した当該農地の所有権移転請求権等の相続税の課税財産としての価額は、売買契約による当該農地の取得価額相当額と評価すべきである。",
+  "ref_law": "相続税法2条1項，相続税法22条，民法896条",
+  "lawsuit_id": "62890",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62890",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/890/062890_hanrei.pdf"
+}

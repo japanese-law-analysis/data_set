@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 5,
+    "day": 26
+  },
+  "case_number": "平成20(う)271",
+  "case_name": "殺人予備，殺人，有印私文書偽造，同行使，詐欺",
+  "court_name": "札幌高等裁判所刑事部",
+  "result": "棄却",
+  "original_court_name": "函館地方裁判所",
+  "original_case_number": "平成20(わ)38",
+  "original_result": "その他",
+  "gist": "被告人が，勤務する小学校の教職員出張旅費の払戻名下に預金払戻請求書を偽造，行使して信用金庫から現金をだまし取り，その発覚を免れようとして同校の校長を殺害する目的で予備行為に及び，その殺害計画の実行の妨げとなる同校の職員を殺害した事案について，殺人予備に関し自首の成立を認めつつも，原審の懲役２６年の量刑を維持し，検察官及び被告人側双方の控訴を棄却した事例",
+  "lawsuit_id": "37708",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=37708",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/708/037708_hanrei.pdf",
+  "contents": ""
+}

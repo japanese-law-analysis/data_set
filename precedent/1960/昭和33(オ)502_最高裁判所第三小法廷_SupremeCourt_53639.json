@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 7,
+    "day": 19
+  },
+  "case_number": "昭和33(オ)502",
+  "case_name": "土地建物所有権移転登記等請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第14巻9号1779頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 2,
+    "day": 28
+  },
+  "gist": "一　減殺請求後の転得者に対する減殺請求の許否\n二　転得者に対する減殺請求権の消滅時効の起算点",
+  "case_gist": "一　受贈者に対し減殺請求をしたときは、その後に受贈者から贈与の目的物を譲り受けた者に対してさらに減殺の請求をすることはできない。\n二　受贈者から贈与の目的物を譲り受けた者に対する減殺請求権の一年の消滅時効の期間は、遺留分権利者が相続の開始と贈与のあつたことを知つた時から起算すべきである。",
+  "ref_law": "民法1040条，民法1042条",
+  "lawsuit_id": "53639",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53639",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/639/053639_hanrei.pdf"
+}

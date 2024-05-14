@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 11,
+    "month": 3,
+    "day": 9
+  },
+  "case_number": "平成11(許)8",
+  "case_name": "上告受理申立て却下決定に対する許可抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "その他",
+  "article_info": "集民　第192号109頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成10(ネ受)136",
+  "original_date": {
+    "era": "Heisei",
+    "year": 10,
+    "month": 10,
+    "day": 22
+  },
+  "gist": "民訴法三一八条一項の事件に当たらないことを理由として原裁判所が上告受理の申立てを却下することの可否",
+  "case_gist": "民訴法三一八条一項の事件に当たらないことを理由として、原裁判所は、同条五項、同法三一六条一項により上告受理の申立てを却下することができない。",
+  "ref_law": "民訴法316条1項，民訴法318条1項，民訴法318条5項",
+  "lawsuit_id": "62458",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62458",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/458/062458_hanrei.pdf"
+}

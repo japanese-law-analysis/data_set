@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 1,
+    "day": 24
+  },
+  "case_number": "昭和30(あ)2207",
+  "case_name": "業務上過失往来妨害",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第11巻1号230頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 6,
+    "day": 30
+  },
+  "gist": "因果関係が存在すると認められる一事例",
+  "case_gist": "被告人（国鉄信号保安係員）が駅構内ポイントの夜間用標識燈を上下線開通方向に一致させないで取り付けた業務上過失と、列車の機関車の脱線との間には、その間に、転轍手の尖端軌条密着の有無を確認すべき義務を怠つた過失および駅長代理の信号レバーが引けず連動装置が動作しないのにその原因を確認しないまま代用手信号によつて列車を発車させた過失が介入しても、因果関係は存在する。",
+  "ref_law": "刑法129条",
+  "lawsuit_id": "51409",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51409",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/409/051409_hanrei.pdf"
+}

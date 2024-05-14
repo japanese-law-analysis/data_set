@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 12,
+    "day": 11
+  },
+  "case_number": "昭和44(あ)1133",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第23巻12号1617頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 4,
+    "day": 30
+  },
+  "gist": "公職選挙法一九九条の五の趣旨",
+  "case_gist": "公職選挙法一九九条の五は、一定の期間におけるいわゆる後援団体の政治活動としての饗応接待等を規制したものであつて、右期間外に行なわれた後援団体の集会等における饗応接待等は、それが選挙運動と認められる場合にも、処罰の対象とならないという趣旨の規定ではない。",
+  "ref_law": "公職選挙法199条の5",
+  "lawsuit_id": "50937",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50937",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/937/050937_hanrei.pdf"
+}

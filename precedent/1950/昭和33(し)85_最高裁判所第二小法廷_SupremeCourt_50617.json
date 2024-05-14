@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 12,
+    "day": 15
+  },
+  "case_number": "昭和33(し)85",
+  "case_name": "裁判官忌避申立却下決定に対しなした異議申立棄却決定に対する特別抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第12巻16号3545頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 10,
+    "day": 31
+  },
+  "gist": "一　裁判官忌避申立却下決定成立後送達前に、決定をした裁判官が忌避された場合。\n二　刑訴法第二三条にいう「その裁判官所属の裁判所が、決定を」するとの意義。",
+  "case_gist": "一　裁判官忌避申立却下決定の成立後、その送達前に、その決定をした裁判官を忌避する申立があつても、右決定は、訴訟法上適法に構成された裁判所の裁判たる性質を失うものではない。\n二　刑訴第二三条にいう「その裁判官所属の裁判所が、決定を」するというのは、忌避された裁判官所属の裁判所の裁判官をもつて構成される、訴訟法上の意味の裁判所が決定する趣旨である。",
+  "ref_law": "刑訴法23条，刑訴規則34条，刑訴規則11条",
+  "lawsuit_id": "50617",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50617",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/617/050617_hanrei.pdf"
+}

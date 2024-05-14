@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 9,
+    "day": 22
+  },
+  "case_number": "昭和36(オ)1378",
+  "case_name": "建物並びに土地明渡所有権確認等請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第19巻6号1656頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和34(ネ)1612",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 9,
+    "day": 25
+  },
+  "gist": "一　株式会社の代表取締役が取締役会の決議を経ないでした対外的な個々的取引行為の効力。\n二　中小企業等協同組合が代表理事に対し委任できる業務執行の意思決定の権限の範囲。",
+  "case_gist": "一　株式会社の代表取締役が、取締役会の決議を経てすることを要する対外的な個々取引行為を、右決議を経ないでした場合でも、右取引行為は、相手方において右決議を経ていないことを知りまたは知ることができたときでないかぎり、有効である。\n二　中小企業等協同組合は、法令がとくに理事会の決議事項であると定めたものを除いて、理事会に属する業務執行の意思決定の権限を、定款で、代表理事に委任することができる。",
+  "ref_law": "商法260条，商法261条，商法78条1項，民法93条，中小企業等協同組合法33条，中小企業等協同組合法36条の2，中小企業等協同組合法42条",
+  "lawsuit_id": "53753",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53753",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/753/053753_hanrei.pdf"
+}

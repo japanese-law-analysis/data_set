@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 2,
+    "day": 13
+  },
+  "case_number": "昭和25(あ)1792",
+  "case_name": "強盗殺人未遂",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第40号523頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 6,
+    "day": 14
+  },
+  "gist": "被告人及び弁護人が診断書を証拠とすることに同意しその証拠調に意義がない場合と右診断書の証拠能力",
+  "case_gist": "第一審第一回公判において被告人及び弁護人は検察官の提出した所論診断書を証拠とすることに同意し、証拠調に意義なき旨を述べているのみならず、第四回公判期日において手続更新に際しても異議を述べていないことは明らかである。従つて右診断書は刑訴第三二六条により証拠能力がないとはいい得ない。",
+  "ref_law": "刑訴法326条",
+  "lawsuit_id": "71015",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=71015",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/015/071015_hanrei.pdf"
+}

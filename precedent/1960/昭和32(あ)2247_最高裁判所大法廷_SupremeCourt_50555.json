@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 7,
+    "day": 19
+  },
+  "case_number": "昭和32(あ)2247",
+  "case_name": "強盗殺人",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第15巻7号1106頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 7,
+    "day": 8
+  },
+  "gist": "一　明治六年太政官布告第六五号の効力。\n二　死刑の宣告は憲法第三一条に違反するか。\n三　現在の死刑の執行方法の合憲性。",
+  "case_gist": "一　明治六年太政官布告第六五号絞罪器械図式は、現在法律と同一の効力を有するものとして有効に存続している。\n二　絞首刑たる死刑を宣言することは、憲法第三一条に違反しない。\n三　現在の死刑の執行方法が所論のように明治六年太政官布告第六五号の規定どおりに行われていない点があるとしても、それは右抗告で規定した死刑の執行方法の基本的事項に反しているものとは認められず、この一事をもつて憲法第三一条に違反するものとはいえない。",
+  "ref_law": "刑法11条，憲法31条，明治6年太政官布告65号，明治6年太政官布告第65号",
+  "lawsuit_id": "50555",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50555",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/555/050555_hanrei.pdf"
+}

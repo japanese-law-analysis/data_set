@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 12,
+    "day": 22
+  },
+  "case_number": "昭和52(オ)844",
+  "case_name": "取立債権",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第32巻9号1768頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和51(ネ)1252",
+  "original_date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 3,
+    "day": 31
+  },
+  "gist": "土地賃借権の移転と敷金に関する敷金交付者の権利義務関係の承継の有無",
+  "case_gist": "土地賃借権が賃貸人の承諾を得て旧賃借人から新賃借人に移転された場・合であつても、敷金に関する敷金交付者の権利義務関係は、敷金交付者において賃貸人との間で敷金をもつて新賃借人の債務の担保とすることを約し又は新賃借人に対して敷金返還請求権を譲渡するなど特段の事情のない限り、新賃借人に承継されない。",
+  "ref_law": "民法612条，民法619条2項",
+  "lawsuit_id": "53308",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53308",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/308/053308_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 12,
+    "day": 11
+  },
+  "case_number": "昭和43(オ)1172",
+  "case_name": "建物収去土地明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第24巻13号2015頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和37(ネ)105",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 6,
+    "day": 28
+  },
+  "gist": "土地賃借権の無断譲渡が背信行為にあたらない場合における賃借権譲渡人の地位",
+  "case_gist": "土地賃借権の無断譲渡につき、これを賃貸人に対する背信行為と認めるに足りない特段の事情があるため、賃貸人が右無断譲渡を理由に賃貸借契約を解除することができない場合には、譲受人のみが賃借人となり、譲渡人たる前賃借人は、賃貸借契約関係から離脱し、特段の意思表示がないかぎり、賃貸人に対して契約上の債務を負わないものと解するのが相当である。",
+  "ref_law": "民法612条",
+  "lawsuit_id": "53173",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53173",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/173/053173_hanrei.pdf"
+}

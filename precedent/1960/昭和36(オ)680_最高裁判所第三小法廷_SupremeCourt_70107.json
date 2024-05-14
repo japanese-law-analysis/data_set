@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 7,
+    "day": 9
+  },
+  "case_number": "昭和36(オ)680",
+  "case_name": "共有権確認、共有登記手続請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第67号35頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 2,
+    "day": 15
+  },
+  "gist": "後見人としての占有と民法第一八六条第一項の所有の意思。",
+  "case_gist": "後見人が被後見人の所有土地を同人のために占有していたにすぎない場合には、後見人が自ら所有の意思を以て占有したものとはいえない。",
+  "ref_law": "民法186条1項",
+  "lawsuit_id": "70107",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70107",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/107/070107_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 5,
+    "day": 23
+  },
+  "case_number": "昭和36(オ)1360",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第73号547頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 9,
+    "day": 12
+  },
+  "gist": "被用者の故意過失と使用主の故意過失。",
+  "case_gist": "使用主自身の不法行為の成否を判断するにあたり、使用主の履行補助者として事業の執行にあたつた被用者に故意、過失があるときは、民法第七一五条第一項但書にあたるような事由がある場合を除き、使用主に故意、過失があるものと評価されるべきである。",
+  "ref_law": "民法709条，民法715条",
+  "lawsuit_id": "63678",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63678",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/678/063678_hanrei.pdf"
+}

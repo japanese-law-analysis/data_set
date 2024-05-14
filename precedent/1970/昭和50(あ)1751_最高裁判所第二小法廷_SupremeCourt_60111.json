@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 9,
+    "day": 30
+  },
+  "case_number": "昭和50(あ)1751",
+  "case_name": "強制わいせつ致傷",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第201号477頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 6,
+    "day": 24
+  },
+  "gist": "憲法三八条二項、三項違反をいう所論が欠前提とされた例",
+  "ref_law": "憲法38条2項，憲法38条3項",
+  "lawsuit_id": "60111",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60111",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/111/060111_hanrei.pdf"
+}

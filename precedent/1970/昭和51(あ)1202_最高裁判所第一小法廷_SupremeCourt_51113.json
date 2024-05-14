@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 7,
+    "day": 14
+  },
+  "case_number": "昭和51(あ)1202",
+  "case_name": "暴行、器物毀棄、公務執行妨害、公文書毀棄",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "刑集　第31巻4号713頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 6,
+    "day": 9
+  },
+  "gist": "公務員の作成中の文書と刑法二五八条にいう「公務所ノ用ニ供スル文書」",
+  "case_gist": "公務員が公務所の作用として職務権限に基づいて作成中の文書は、それが文書としての意味、内容を備えるに至つた以上、刑法二五八条にいう「公務所ノ用ニ供スル文書」にあたる。",
+  "ref_law": "刑法258条",
+  "lawsuit_id": "51113",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51113",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/113/051113_hanrei.pdf"
+}

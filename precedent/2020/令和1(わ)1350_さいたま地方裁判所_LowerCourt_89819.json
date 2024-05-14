@@ -1,0 +1,15 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Reiwa",
+    "year": 2,
+    "month": 10,
+    "day": 9
+  },
+  "case_number": "令和1(わ)1350",
+  "case_name": "殺人，死体遺棄被告事件",
+  "court_name": "さいたま地方裁判所",
+  "lawsuit_id": "89819",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=89819",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/819/089819_hanrei.pdf"
+}

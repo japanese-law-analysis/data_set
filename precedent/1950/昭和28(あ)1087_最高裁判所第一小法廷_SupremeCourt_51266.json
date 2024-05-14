@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 12,
+    "day": 19
+  },
+  "case_number": "昭和28(あ)1087",
+  "case_name": "収賄",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第11巻13号3300頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 9,
+    "day": 8
+  },
+  "gist": "公務員の斡旋行為が収賄罪にいわゆる「其職務ニ関スル」場合。",
+  "case_gist": "公務員の斡旋行為が当該公務員の担当職務の執行と密接な関係にある場合には、その行為は収賄罪にいわゆる「其職務ニ関スル」ものということができる。",
+  "ref_law": "刑法197条1項",
+  "lawsuit_id": "51266",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51266",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/266/051266_hanrei.pdf"
+}

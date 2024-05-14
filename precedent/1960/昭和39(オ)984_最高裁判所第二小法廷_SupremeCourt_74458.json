@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 5,
+    "day": 21
+  },
+  "case_number": "昭和39(オ)984",
+  "case_name": "離縁請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第79号143頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_case_number": "昭和38(ネ)3",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 6,
+    "day": 26
+  },
+  "gist": "養親子関係の実質的な破壊と「縁組を継続し難い重大な事由」。",
+  "case_gist": "養親子間における実質的な親子関係が客観的に破壊されている場合には、右破壊の原因が全面的にまたは主として離縁を求める者の側にある等、その者からの離縁請求が著しく正義に反するような特段の事情がないかぎり、民法第八一四条第一項第三号所定の「縁組を継続し難い重大な事由」があるといつてさまたげない。",
+  "ref_law": "民法814条1項",
+  "lawsuit_id": "74458",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74458",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/458/074458_hanrei.pdf"
+}

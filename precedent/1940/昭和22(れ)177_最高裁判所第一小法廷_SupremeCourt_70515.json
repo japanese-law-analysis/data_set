@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 12,
+    "day": 9
+  },
+  "case_number": "昭和22(れ)177",
+  "case_name": "強盗",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集刑　第6号131頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 10,
+    "day": 8
+  },
+  "gist": "精神異状の疑濃厚な場合、この點に關する審理を盡さず抽象的な犯罪の動機等により精神状態の正常を認定した判決の違法",
+  "case_gist": "本件で重要な關係にある犯罪の動機が判決において具體的に判示確定されておらず、却つて異常な特殊事情が伏在する疑が濃厚である本件の場合に、この點に關する證據申請を全部却下してその審理をなさず、しかも犯行當事の精神状態を判断説示するのに、前記のように只抽象的な犯罪の動機と犯行後數ケ月を經た原審公判廷における被告人の供述態度等をもつて犯行當時正常の精神状態にあつたと認める旨を説示した原判決は、審理不盡に基く理由不備の違法あるものと言わざるを得ない。",
+  "ref_law": "刑訴法336條，刑訴法360條",
+  "lawsuit_id": "70515",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70515",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/515/070515_hanrei.pdf"
+}

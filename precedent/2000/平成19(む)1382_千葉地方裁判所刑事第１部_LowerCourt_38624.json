@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 2,
+    "day": 12
+  },
+  "case_number": "平成19(む)1382",
+  "case_name": "",
+  "court_name": "千葉地方裁判所刑事第１部",
+  "result": "棄却",
+  "gist": "共犯者や参考人の留置関係の書類について，検察官にはこれを取り寄せて開示する義務がないなどとして，弁護人の証拠開示命令請求を棄却した事例",
+  "lawsuit_id": "38624",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=38624",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/624/038624_hanrei.pdf",
+  "contents": ""
+}

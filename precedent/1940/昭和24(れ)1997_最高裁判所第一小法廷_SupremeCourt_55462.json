@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 12,
+    "day": 15
+  },
+  "case_number": "昭和24(れ)1997",
+  "case_name": "収賄",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第3巻12号1023頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 6,
+    "day": 11
+  },
+  "gist": "費消した賄賂金額を返還した場合における追徴の可否",
+  "case_gist": "原判決は、所論昭和二二年一一月二八日頃收受した本件賄賂は既に被告人において費消した旨判示しており、そして、同年一二月中被告人がこれを飲食費等に消費した事實は記録上明白である。従つて被告人はその賄賂を費消すると共にその利益を享受し終り最早これを没收することができなくなつたものといわなければならない。されば、被告人がその後約一箇年を經た同二三年一二月二〇日頃同額の金圓を贈賄者に返還したとしても、その返還は賄賂そのものの返還ではないから收賄者において既に享受した利益を國庫から追徴される責を免れることは許されないものといわねばならぬ。",
+  "ref_law": "刑法197條ノ4",
+  "lawsuit_id": "55462",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55462",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/462/055462_hanrei.pdf"
+}

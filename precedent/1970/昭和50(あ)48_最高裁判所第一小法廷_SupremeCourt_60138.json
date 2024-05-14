@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 11,
+    "day": 20
+  },
+  "case_number": "昭和50(あ)48",
+  "case_name": "尊属傷害致死",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第198号491頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 12,
+    "day": 9
+  },
+  "gist": "刑法二〇五条二項と憲法一四条一項",
+  "case_gist": "尊属傷害致死に関する刑法二〇五条二項の規定は、憲法一四条一項に違反しない。",
+  "ref_law": "憲法14条1項，刑法205条2項",
+  "lawsuit_id": "60138",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60138",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/138/060138_hanrei.pdf"
+}

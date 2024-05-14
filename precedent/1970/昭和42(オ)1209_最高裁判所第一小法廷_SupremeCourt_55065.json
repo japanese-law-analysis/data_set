@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 4,
+    "day": 16
+  },
+  "case_number": "昭和42(オ)1209",
+  "case_name": "建物所有権確認等本訴、建物明渡反訴請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第24巻4号266頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和41(ネ)2301",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 7,
+    "day": 28
+  },
+  "gist": "未登記建物の所有者がその建物につき家屋台帳上他人の所有名義で登録されていることを承認した場合と民法九四条二項の類推適用",
+  "case_gist": "未登記建物の所有者が、その建物につき家屋台帳上他人の所有名義で登録されていることを知りながら、これを明示または黙示に承認した場合には、その所有者は、右台帳上の名義人から権利の設定を受けた善意の第三者に対し、民法九四条二項の類推適用により、右名義人がその所有権を有しなかつたことをもつて、対抗することができない。",
+  "ref_law": "民法94条2項，家屋台帳法4条1項",
+  "lawsuit_id": "55065",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55065",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/065/055065_hanrei.pdf"
+}

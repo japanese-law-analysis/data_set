@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 2,
+    "month": 5,
+    "day": 1
+  },
+  "case_number": "平成2(行ト)14",
+  "case_name": "執行停止申立却下決定に対する抗告についてした抗告棄却の決定に対する抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集民　第160号1頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成2(行ス)5",
+  "original_date": {
+    "era": "Heisei",
+    "year": 2,
+    "month": 4,
+    "day": 27
+  },
+  "gist": "逃亡犯罪人引渡法二〇条一項に基づき逃亡犯罪人を請求国の官憲に引き渡したことにより同法一四条一項に基づく引渡命令の執行停止の余地がなくなったとされた事例",
+  "case_gist": "逃亡犯罪人引渡法二〇条一項に基づき逃亡犯罪人を請求国の官憲に引き渡したときは、同法一四条一項に基づく引渡命令の執行停止はその余地がなくなる。",
+  "ref_law": "逃亡犯罪人引渡法14条1項，逃亡犯罪人引渡法20条1項，行政事件訴訟法25条",
+  "lawsuit_id": "62684",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62684",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/684/062684_hanrei.pdf"
+}

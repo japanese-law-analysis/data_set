@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 6,
+    "day": 27
+  },
+  "case_number": "昭和26(オ)40",
+  "case_name": "麦類供出通知取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第6巻6号619頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 12,
+    "day": 11
+  },
+  "gist": "食糧確保臨時措置法第七条による農業計画の指示と主要食糧農産物の供出義務",
+  "case_gist": "食糧確保臨時措置法第七条により農業計画を生産者に提示しなければ、生産者の農産物供出義務は生じない。",
+  "ref_law": "食糧確保臨時措置法（昭和23年法律182号）7条",
+  "lawsuit_id": "57240",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57240",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/240/057240_hanrei.pdf"
+}

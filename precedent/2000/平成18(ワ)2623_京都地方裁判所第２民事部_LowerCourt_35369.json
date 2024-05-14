@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 10,
+    "day": 26
+  },
+  "case_number": "平成18(ワ)2623",
+  "case_name": "損害賠償請求事件",
+  "court_name": "京都地方裁判所第２民事部",
+  "gist": "被告京都市が，位置指定図の記載及び現場の状況から，原告ら所有地が位置指定道路に接面していると判断すべきであったのに，同土地と位置指定道路との間には被告京都市の管理する土地があると判断して，ブロックを設置し，原告らの土地開発計画を妨害したことについて，国家賠償責任が肯定された事例",
+  "lawsuit_id": "35369",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=35369",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/369/035369_hanrei.pdf",
+  "contents": "a b\nm\n2 a b b\nb b\na\nb b\nb\nc\nc c c\nc\n4 b\nb\n8 7\n2 1\nb\nc\n8 9\n2 9\n3 10\n1 9\nb\n123,520,000 817.59 151,078\n151,078 0.84 0.71\n234,171\n2 10\n5 1 4\nc\nc c\nc b\nc\nc c b\nc\nb\nb\nb\nc c\nc b\nb\n"
+}

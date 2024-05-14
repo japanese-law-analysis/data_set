@@ -1,0 +1,16 @@
+{
+  "trial_type": "LaborCase",
+  "date": {
+    "era": "Heisei",
+    "year": 28,
+    "month": 4,
+    "day": 27
+  },
+  "case_number": "平成27(行コ)320",
+  "case_name": "遺族補償給付不支給処分決定取消請求控訴事件",
+  "court_name": "東京高等裁判所",
+  "field": "労働",
+  "lawsuit_id": "86910",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail6?id=86910",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/910/086910_hanrei.pdf"
+}

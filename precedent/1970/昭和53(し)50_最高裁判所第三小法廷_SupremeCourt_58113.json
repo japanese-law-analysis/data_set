@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 6,
+    "day": 30
+  },
+  "case_number": "昭和53(し)50",
+  "case_name": "覚せい剤取締法違反被告事件についてした保釈請求却下の裁判に対する準抗告葉却決定に対する特別抗告",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第210号567頁",
+  "original_court_name": "奈良地方裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 5,
+    "day": 30
+  },
+  "gist": "保釈請求却下の裁判をしたことのある裁判官が同一被告人につき他の裁判官がした保釈請求却下の裁判に対する準抗告の審理に関与しても、その一事をもつて直ちに不公平な裁判をするおそれがあるとはいえない",
+  "ref_law": "憲法37条",
+  "lawsuit_id": "58113",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58113",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/113/058113_hanrei.pdf"
+}

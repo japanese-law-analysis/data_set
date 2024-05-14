@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 5,
+    "month": 11,
+    "day": 26
+  },
+  "case_number": "平成1(オ)1792",
+  "case_name": "工作物収去等",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集民　第170号641頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成1(ネ)751",
+  "original_date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 9,
+    "day": 27
+  },
+  "gist": "建築基準法四二条二項の指定により同条一項の道路とみなされている土地上に設置されたブロック塀の収去請求が許されないとされた事例",
+  "case_gist": "建築基準法四二条二項の指定により同条一項の道路とみなされている土地上にブロック塀が設置された場合において、右ブロック塀の設置により既存の通路の幅員が狭められた範囲がブロック二枚分の幅にとどまり、右ブロック塀の外側に既存の通路があって、日常生活上支障が生じていないときは、隣接地の地上建物の所有者は、人格権が侵害されたことを理由として右ブロック塀の収去を求めることができない。",
+  "ref_law": "建築基準法42条1項，建築基準法42条2項，民法198条，民法710条",
+  "lawsuit_id": "73126",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=73126",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/126/073126_hanrei.pdf"
+}

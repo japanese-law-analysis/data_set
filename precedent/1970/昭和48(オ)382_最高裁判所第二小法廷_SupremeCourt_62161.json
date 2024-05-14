@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 4,
+    "day": 25
+  },
+  "case_number": "昭和48(オ)382",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第114号605頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和46(ネ)244",
+  "original_date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 1,
+    "day": 31
+  },
+  "gist": "仮処分異議訴訟における仮処分却下の確定判決と当該仮処分が不法行為であるとして提起された損害賠償訴訟に対する拘束力",
+  "case_gist": "仮処分に対する異議訴訟において、当該仮処分を保全の必要性がないとして取り消し、その仮処分申請を却下する旨の判決が言い渡され、これが確定した場合、この確定判決は、右仮処分が不法行為を構成するとして仮処分債務者によつて提起された仮処分債権者に対する損害賠償訴訟の係属する裁判所を法律上拘束するものとはいえない。",
+  "ref_law": "民法709条，民訴法201条",
+  "lawsuit_id": "62161",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62161",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/161/062161_hanrei.pdf"
+}

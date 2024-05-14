@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 12,
+    "month": 3,
+    "day": 24
+  },
+  "case_number": "平成8(オ)2177",
+  "case_name": "損害賠償請求事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第54巻3号1126頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成7(ネ)2314",
+  "original_date": {
+    "era": "Heisei",
+    "year": 8,
+    "month": 7,
+    "day": 16
+  },
+  "gist": "契約に基づく請求権について訴訟上の和解をすることの委任を受けた弁護士が同契約の債務不履行に基づく損害賠償請求権について和解をすることの具体的委任を受けていなくても右訴訟上の和解において右損害賠償請求権を含めて和解をする権限を有するとされた事例",
+  "case_gist": "建物の利用に関する契約に基づく甲請求権と同契約の債務不履行に基づく損害賠償請求権である乙請求権とが同一建物の利用に関して同一当事者間に生じた一連の紛争に起因するものであるという事情の下においては、甲請求権について訴訟上の和解をすることの委任を受けた弁護士は、乙請求権について和解をすることの具体的委任を受けていなくても、右訴訟上の和解において、乙請求権を含めて和解をする権限を有する。",
+  "ref_law": "民訴法55条2項",
+  "lawsuit_id": "52589",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52589",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/589/052589_hanrei.pdf"
+}

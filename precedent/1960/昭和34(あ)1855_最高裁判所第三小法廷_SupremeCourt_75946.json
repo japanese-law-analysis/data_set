@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 5,
+    "day": 29
+  },
+  "case_number": "昭和34(あ)1855",
+  "case_name": "出入国管理令違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第142号793頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 9,
+    "day": 22
+  },
+  "gist": "外国旅行の自由と公共の福祉",
+  "case_gist": "憲法二二条二項の「外国に移住する自由」には、外国へ一時旅行する自由を含むものと解すべきであるが、外国旅行の自由といえども無制限のままに許されるものではなく、公共の福祉のために合理的な制限に服するものと解すべきであること、および旅券法一三条一項五号の規定は、外国旅行の自由に対し、公共の福祉のために合理的な制限を定めたものであつて、憲法二二条二項に違反しないことは、昭和二九年（オ）第八九八号同三三年九月一〇日大法廷判決（民集一二巻一三号一九六九頁以下）の判示するところである。",
+  "ref_law": "出入国管理令60条，出入国管理令71条，旅券法13条1項5号，憲法22条2項",
+  "lawsuit_id": "75946",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=75946",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/946/075946_hanrei.pdf"
+}

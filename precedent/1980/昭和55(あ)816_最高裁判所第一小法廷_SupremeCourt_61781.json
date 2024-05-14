@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 9,
+    "day": 25
+  },
+  "case_number": "昭和55(あ)816",
+  "case_name": "道路交通法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第218号347頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 4,
+    "day": 8
+  },
+  "gist": "刑訴法二四条の合憲性",
+  "ref_law": "刑訴法24条，憲法32条，憲法37条",
+  "lawsuit_id": "61781",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61781",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/781/061781_hanrei.pdf"
+}

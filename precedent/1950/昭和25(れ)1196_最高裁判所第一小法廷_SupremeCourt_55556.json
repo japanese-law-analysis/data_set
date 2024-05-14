@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 11,
+    "day": 9
+  },
+  "case_number": "昭和25(れ)1196",
+  "case_name": "傷害",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第4巻11号2239頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 4,
+    "day": 25
+  },
+  "gist": "一　傷害罪において暴行と傷害の結果との間に因果関係ありと認められる特異な事例\n二　傷害罪の犯意",
+  "case_gist": "一　被告人が被害者に対して大声で「何をボヤボヤしているのだ」等と悪口を浴せ、矢庭に拳大の瓦の破片を投げつけ、なおも「殺すぞ」等と怒鳴りながら側にあつた鍬を振りあげて追いかける気勢を示したので被害者がこれに驚いて難を避けようとして夢中で逃げ出し、約二十間走り続けるうち過つて鉄棒に躓いて顛倒し、打撲傷を負うた場合には、右傷害の結果は、被告人の暴行によつて生じたものと解するのが相当である。\n二　傷害罪は結果犯であつて、その成立には傷害の原因たる暴行についての意思があれば足り、特に傷害の意思の存在を必要としない。",
+  "ref_law": "刑法204条，刑法208条",
+  "lawsuit_id": "55556",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55556",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/556/055556_hanrei.pdf"
+}

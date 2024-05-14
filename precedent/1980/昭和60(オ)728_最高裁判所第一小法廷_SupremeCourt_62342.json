@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 9,
+    "day": 7
+  },
+  "case_number": "昭和60(オ)728",
+  "case_name": "退職金支払、民訴一九八条二項に基づく損害賠償申立",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集民　第157号433頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和58(ネ)639",
+  "original_date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 2,
+    "day": 6
+  },
+  "gist": "就業規則に退職金は支給時の退職金協定によると定められている場合において退職金協定の失効後に退職し適用すべき協定のない労働者の退職金額が右就業規則を補充するものとして届け出られた退職金協定の支給基準により確定すべきものとされた事例",
+  "case_gist": "就業規則に退職金は支給時の退職金協定によると定められている場合、右就業規則を補充するものとして所轄労働基準監督署長に届け出られた退職金協定の支給基準は、就業規則の一部となつているものであつて、退職金協定が有効期間の満了により失効しても当然には効力を失わず、退職金協定の失効後に退職し適用すべき協定のない労働者については、右支給基準により退職金額を確定すべきである。",
+  "ref_law": "労働基準法89条1項（昭和62年法律第99号による改正前のもの），労働基準法93条",
+  "lawsuit_id": "62342",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62342",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/342/062342_hanrei.pdf"
+}

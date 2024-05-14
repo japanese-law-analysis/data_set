@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 2,
+    "day": 27
+  },
+  "case_number": "昭和58(行ツ)132",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第40巻1号88頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和58(行コ)17",
+  "original_date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 8,
+    "day": 30
+  },
+  "gist": "一　地方自治法二四二条の二第一項四号に基づく代位請求訴訟により同法二四三条の二第一項の損害賠償を求める場合と同条三項所定の賠償命令の要否\n二　普通地方公共団体に対するその長の損害賠償責任と地方自治法二四三条の二の適用の有無",
+  "case_gist": "一　普通地方公共団体の住民が地方自治法二四二条の二第一項四号に基づく代位請求訴訟により同法二四三条の二第一項所定の職員に対し同項の規定による損害賠償を求める場合でも、同条三項所定の賠償命令があることを要しない。\n二　普通地方公共団体に対するその長の損害賠償責任については、地方自治法二四三条の二の適用はない。",
+  "ref_law": "地方自治法242条の2第1項4号，地方自治法243条の2",
+  "lawsuit_id": "52184",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52184",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/184/052184_hanrei.pdf"
+}

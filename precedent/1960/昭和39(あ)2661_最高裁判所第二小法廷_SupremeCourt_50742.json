@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 9,
+    "day": 17
+  },
+  "case_number": "昭和39(あ)2661",
+  "case_name": "斡旋贈賄",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第19巻6号702頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 11,
+    "day": 17
+  },
+  "gist": "刑法第一九八条第二項の斡旋贈賄罪が成立するとされた事例。",
+  "case_gist": "税務署から法人所得の調査を受け、売上の脱漏を発見された有限会社の代表取締役甲が、予て知合の右税務署直税課法人税係乙に対し、その同僚で右調査の担当官であり、法人税の調査並びに賦課に関する職務権限を有する同法人税係丙をして、同人の右職務につき手心を加え甲に利益な取計らいをさせるよう斡旋をなすことを依頼し、右斡旋の謝礼として供与する意思の下に乙に金員を供与したときは、刑法第一九八条第二項の斡旋贈賄罪が成立する。",
+  "ref_law": "刑法197条1項，刑法197条ノ四，刑法198条",
+  "lawsuit_id": "50742",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50742",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/742/050742_hanrei.pdf"
+}

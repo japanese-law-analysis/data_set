@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 3,
+    "day": 10
+  },
+  "case_number": "昭和29(オ)889",
+  "case_name": "貸金請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "却下",
+  "article_info": "民集　第9巻3号273頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 8,
+    "day": 6
+  },
+  "gist": "上告理由の記載が、民事上告事件等訴訟手続規則所定の方式によらないことを理由として上告を却下した事例",
+  "case_gist": "上告理由書に、民事上告事件等訴訟手続規則所定の方式により上告理由を記載していないときは、上告は不適法として却下を免れない。",
+  "ref_law": "民訴法399条ノ3，民訴法399条1項2号，民事上告事件等訴訟手続規則3条，民事上告事件等訴訟手続規則4条，民事上告事件等訴訟手続規則5条，民事上告事件等訴訟手続規則6条",
+  "lawsuit_id": "57547",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57547",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/547/057547_hanrei.pdf"
+}

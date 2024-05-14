@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 8,
+    "day": 23
+  },
+  "case_number": "平成19(ネ)450",
+  "case_name": "帳簿閲覧等請求控訴事件",
+  "court_name": "名古屋高等裁判所民事第１部",
+  "result": "棄却",
+  "original_court_name": "名古屋地方裁判所",
+  "original_case_number": "平成18(ワ)5495",
+  "original_result": "棄却",
+  "gist": "被控訴人の発行済株式の１００分の３以上に当たる株を有する控訴人の被控訴人に対する帳簿又は書類の閲覧及び謄写請求権の行使が，会社法４３３条所定の請求の理由を明らかにしたものとは認められないとした事例",
+  "lawsuit_id": "35480",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=35480",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/480/035480_hanrei.pdf",
+  "contents": ""
+}

@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 3,
+    "day": 16
+  },
+  "case_number": "平成18(ネ)254",
+  "case_name": "保険金",
+  "court_name": "札幌高等裁判所第２民事部",
+  "result": "棄却",
+  "original_court_name": "札幌地方裁判所",
+  "original_case_number": "平成16(ワ)1023",
+  "original_result": "棄却",
+  "gist": "火災により所有建物が全焼した控訴人が，損害保険会社である被控訴人に対し，火災保険契約に基づく保険金の請求をしたところ，火災は，控訴人代表者が，第三者に依頼して，建物に放火させて生じさせたものと推認でき，控訴人の悪意により生じたものとして控訴人の請求が棄却された事例",
+  "lawsuit_id": "34526",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=34526",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/526/034526_hanrei.pdf",
+  "contents": "1 d\nd\n1 3 1 2\n1 3\n1 2\n"
+}

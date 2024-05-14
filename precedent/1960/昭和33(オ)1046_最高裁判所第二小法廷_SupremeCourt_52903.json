@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 7,
+    "day": 7
+  },
+  "case_number": "昭和33(オ)1046",
+  "case_name": "請負代金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第15巻7号1800頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 6,
+    "day": 30
+  },
+  "gist": "一、附帯控訴状の提出及び送達に関し、責問権の喪失が認められた事例。\n二、請負契約の目的物の瑕疵修補に代る損害賠償請求と損害額算定の基準時",
+  "case_gist": "一、控訴審最終口頭弁論期日に附帯控訴状が未だ提出送達されていなかつたとしても、附帯訴代理人がこれに基き附帯控訴の趣旨を陳述したのに対し、附帯控訴人の代理人において何ら異議を止めることなく、附帯控訴棄却の判決を求める旨申立て、そのまま弁論終結に至つたときは、民訴第１４１条により、附帯控訴人は右附帯控訴状の提出送達がなかつたことを上告の理由とし得ないものと解すべきである。\n二、請負契約における仕事の目的物の瑕疵につき、請負人に修補を請求したがこれに応じないので、修補に代る損害の賠償を請求する場合においては、右修補請求の時を基準として損害の額を算定するのが相当である。",
+  "ref_law": "民法634条",
+  "lawsuit_id": "52903",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52903",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/903/052903_hanrei.pdf"
+}

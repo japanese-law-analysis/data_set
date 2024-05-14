@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 16,
+    "month": 2,
+    "day": 13
+  },
+  "case_number": "平成13(受)866等",
+  "case_name": "製作販売差止等請求事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第58巻2号311頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "平成12(ネ)144",
+  "original_date": {
+    "era": "Heisei",
+    "year": 13,
+    "month": 3,
+    "day": 8
+  },
+  "gist": "競走馬の所有者が当該競走馬の名称を無断で利用したゲームソフトを製作，販売した業者に対しいわゆる物のパブリシティ権の侵害を理由として当該ゲームソフトの製作，販売等の差止請求又は不法行為に基づく損害賠償請求をすることの可否",
+  "case_gist": "競走馬の所有者は，当該競走馬の名称を無断で利用したゲームソフトを製作，販売した業者に対し，その名称等が有する顧客吸引力などの経済的価値を独占的に支配する財産的権利（いわゆる物のパブリシティ権）の侵害を理由として当該ゲームソフトの製作，販売等の差止請求又は不法行為に基づく損害賠償請求をすることはできない。",
+  "ref_law": "民法198条，民法199条，民法206条，民法709条，知的財産基本法2条2項",
+  "lawsuit_id": "52332",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52332",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/332/052332_hanrei.pdf"
+}

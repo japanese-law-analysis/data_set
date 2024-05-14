@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 1,
+    "day": 17
+  },
+  "case_number": "平成19(う)171",
+  "case_name": "住居侵入，強盗殺人，死体遺棄被告事件",
+  "court_name": "広島高等裁判所第１部",
+  "result": "棄却",
+  "original_court_name": "広島地方裁判所",
+  "original_case_number": "平成18(わ)1312",
+  "original_result": "その他",
+  "gist": "住居侵入，強盗殺人，死体遺棄被告事件について，原審が無期懲役刑を言い渡した判決に対し，被告人が殺意及び財物奪取の意図はなかったとして事実誤認及び量刑不当を理由として申し立てた控訴を棄却した事案",
+  "lawsuit_id": "36177",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=36177",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/177/036177_hanrei.pdf",
+  "contents": "\u0001\n\u0001\u0001\u0001\n\u0001\n\u0001\n\u0001\n\u0001\n"
+}

@@ -1,0 +1,20 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 12,
+    "day": 22
+  },
+  "case_number": "平成18(行コ)26",
+  "case_name": "公文書非公開決定取消請求控訴事件，同附帯控訴事件",
+  "court_name": "大阪高等裁判所第１４民事部",
+  "result": "その他",
+  "original_court_name": "神戸地方裁判所",
+  "original_case_number": "平成16(行ウ)3",
+  "gist": "学校体罰に関する公文書について兵庫県情報公開条例に基づきされた公文書公開請求につき，兵庫県教育委員会が同条例６条１項前段，後段に該当することなどを理由としてした一部非公開決定が一部取り消された上，非公開事由に該当する情報が記録されている記載部分を除く部分公開が認められた事例",
+  "lawsuit_id": "34851",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=34851",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/851/034851_hanrei.pdf",
+  "contents": ""
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 12,
+    "day": 21
+  },
+  "case_number": "昭和53(行ツ)35",
+  "case_name": "工作物除却命令無効確認",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第32巻9号1723頁",
+  "original_court_name": "高松高等裁判所",
+  "original_case_number": "昭和51(行コ)3",
+  "original_date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 12,
+    "day": 21
+  },
+  "gist": "いわゆる普通河川の管理について定める普通地方公共団体の条例と河川法との関係",
+  "case_gist": "いわゆる普通河川の管理について定める普通地方公共団体の条例において、河川法がいわゆる適用河川又は準用河川について定めるところ以上に強力な河川管理の定めをすることは、同法に違反し、許されない。",
+  "ref_law": "憲法94条，地方自治法2条2項，地方自治法2条3項2号，地方自治法14条1項，河川法4条1項，河川法5条1項，河川法100条1項",
+  "lawsuit_id": "53346",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53346",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/346/053346_hanrei.pdf"
+}

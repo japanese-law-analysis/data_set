@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 10,
+    "month": 2,
+    "day": 13
+  },
+  "case_number": "平成9(オ)966",
+  "case_name": "通行地役権設定登記手続等",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第52巻1号65頁",
+  "original_court_name": "福岡高等裁判所\n        　那覇支部",
+  "original_case_number": "平成7(ネ)45",
+  "original_date": {
+    "era": "Heisei",
+    "year": 9,
+    "month": 1,
+    "day": 30
+  },
+  "gist": "設定登記のされていない通行地役権について承役地の譲受人が登記の欠缺を主張する正当な利益を有する第三者に当たらないと解すべき場合",
+  "case_gist": "通行地役権の承役地が譲渡された場合において、譲渡の時に、右承役地が要役地の所有者によって継続的に通路として使用されていることがその位置、形状、構造等の物理的状況から客観的に明らかであり、かつ、譲受人がそのことを認識していたか又は認識することが可能であったときは、譲受人は、通行地役権が設定されていることを知らなかったとしても、特段の事情がない限り、地役権設定登記の欠缺を主張するについて正当な利益を有する第三者に当たらない。",
+  "ref_law": "民法177条，民法280条",
+  "lawsuit_id": "52815",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52815",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/815/052815_hanrei.pdf"
+}

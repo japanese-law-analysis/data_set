@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 2,
+    "day": 17
+  },
+  "case_number": "昭和29(あ)2350",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第9巻2号321頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 3,
+    "day": 9
+  },
+  "gist": "検察官の証人に対する尋問が特に不当とは認められない一事例",
+  "case_gist": "公職選挙法違反（戸別訪問）被告事件の証人が公判廷で証言をするに当り、被告人から訪問を受けた日時、目的等について記憶を喪失し、又はその記憶が薄らいで正確な供述ができないため、検察官が証人の記憶を呼び起させるため、やむを得ず、証人が前に検察官に対して供述した内容に基いて尋問しても、これをもつて特に不当な尋問ということはできない。",
+  "ref_law": "刑訴法295条，憲法31条",
+  "lawsuit_id": "54752",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54752",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/752/054752_hanrei.pdf"
+}

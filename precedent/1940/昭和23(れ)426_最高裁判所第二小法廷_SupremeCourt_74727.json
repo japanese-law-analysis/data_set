@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 10,
+    "day": 30
+  },
+  "case_number": "昭和23(れ)426",
+  "case_name": "恐喝",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第4号589頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 1,
+    "day": 23
+  },
+  "gist": "一　實行行爲を分擔しなかつた恐喝共謀者の責任\n二　連合國軍事占領裁判所における拘禁と未決勾留日數の通算",
+  "case_gist": "一　被告人等がＡの恐喝につきＡと共謀した事實が認定せられる以上、たとえ、右被告人等が、Ａの恐喝の實行行爲に現實に加擔した事實がなくとも、共同正犯の罪責を免れないことは、既に當裁判所の判例の示すところによつて明らかである。\n二　連合國軍事占領裁判所に事件繋屬中の被告人の拘禁は、刑事訴訟法所定の未決勾留でないことは勿論であつて、原審がこの間の拘禁日數を本刑に算入しなかつたのは、もとより當然である。",
+  "ref_law": "刑法249條，刑法60條，刑法21條",
+  "lawsuit_id": "74727",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74727",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/727/074727_hanrei.pdf"
+}

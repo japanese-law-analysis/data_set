@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 3,
+    "day": 7
+  },
+  "case_number": "昭和26(れ)1800",
+  "case_name": "強盜傷人",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第62号295頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 5,
+    "day": 25
+  },
+  "gist": "正当な権利を有する者がその権利を実行するにあたり詐欺恐喝の手段を用いた場合に関する判例と債権回収の目的でした強盗行為",
+  "case_gist": "法律上、他人より財物の交付を受け又は財産上の利得を領得すべき正当の権利を有する者が、その権利を実行するにあたり、欺罔又は恐喝の手段を用いて義務の履行をなさしめて財産の交付を受け又は財産上の利益を領得するも、詐欺恐喝の罪を構成することなしとした大審院刑事総部連合の判決（大正二年（れ）第一二一一号同年一二月二三日宣告）は、債権を回収するためとはいえ、虚言をもつて被害者をおびき出した上、突如野球用バツトにその頭部を強打して昏倒させ、その所持していた金品を強取した事案に対しては、判例として適切でない。",
+  "ref_law": "刑法236条，刑法246条，刑法249条，刑訴法405条3号",
+  "lawsuit_id": "72006",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=72006",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/006/072006_hanrei.pdf"
+}

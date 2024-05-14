@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 10,
+    "day": 26
+  },
+  "case_number": "昭和25(れ)92",
+  "case_name": "強盗、同未遂、窃盗、住居侵入",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第4巻10号2185頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 10,
+    "day": 20
+  },
+  "gist": "共犯相互間の実行行為について分担行為の判示を欠く場合と判決を破棄すべき理由の有無",
+  "case_gist": "所論原判決の事実摘示があまりにも漠然としていることは事実であつて、かくのごとき省略化は訴訟経済上格別役立つとも思はれない。もつと詳細に判示することが望ましい。けれども犯罪を共謀した者は、実行行為を分担しなくとも、他の共謀者のした実行行為につきその責を免れないものであるから、被告人が共謀したことを判示した以上原判のごとき分担行為を判示しない方法も判決を可否すべき欠点ある判示方法とすることはできない。",
+  "ref_law": "刑法60条，旧刑訴360条1項",
+  "lawsuit_id": "54569",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54569",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/569/054569_hanrei.pdf"
+}

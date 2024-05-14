@@ -1,0 +1,17 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Heisei",
+    "year": 16,
+    "month": 5,
+    "day": 26
+  },
+  "case_number": "平成16(行コ)51",
+  "case_name": "行政文書開示請求控訴事件（原審・東京地方裁判所平成１５年（行ウ）第１４９号）",
+  "court_name": "東京高等裁判所",
+  "field": "行政",
+  "lawsuit_id": "35598",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=35598",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/598/035598_hanrei.pdf",
+  "contents": ""
+}

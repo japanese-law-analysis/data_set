@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 8,
+    "day": 24
+  },
+  "case_number": "昭和29(あ)1661",
+  "case_name": "公職選舉法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第8巻8号1440頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 4,
+    "day": 13
+  },
+  "gist": "選挙運動者が買収のため供与された金員を自ら費消した後その同額を返還した場合と価額の被追徴者",
+  "case_gist": "選挙運動者が買収のため供与された金員を自ら費消した以上、その利益を享受した選挙運動者から価額を追徴すべく、その後同額の金員が供与者等に返還されたからといつて、返還を受けた者から、これを追徴すべきものではない。",
+  "ref_law": "公職選挙法224条，公職選挙法221条",
+  "lawsuit_id": "55751",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55751",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/751/055751_hanrei.pdf"
+}

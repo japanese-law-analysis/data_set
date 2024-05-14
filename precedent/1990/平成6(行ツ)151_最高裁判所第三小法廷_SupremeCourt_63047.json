@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 9,
+    "month": 11,
+    "day": 11
+  },
+  "case_number": "平成6(行ツ)151",
+  "case_name": "物品税賦課決定処分取消",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第186号15頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成5(行コ)12",
+  "original_date": {
+    "era": "Heisei",
+    "year": 6,
+    "month": 3,
+    "day": 30
+  },
+  "gist": "ＦＪ一六〇〇と呼ばれるいわゆるフォーミュラータイプに属する競走用自動車と物品税法にいう小型普通乗用四輪自動車",
+  "case_gist": "専ら自動車競走場における自動車競走のためにのみ使用されるＦＪ一六〇〇と呼ばれるいわゆるフォーミュラータイプに属する競走用自動車は、物品税法一条、別表第二種七号２が課税物品として規定する小型普通乗用四輪自動車に該当する。\n\n（反対意見がある。）",
+  "ref_law": "物品税法1条，物品税法別表第2種7号2",
+  "lawsuit_id": "63047",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63047",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/047/063047_hanrei.pdf"
+}

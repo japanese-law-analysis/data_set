@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 3,
+    "day": 22
+  },
+  "case_number": "昭和30(あ)757",
+  "case_name": "詐欺",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第112号721頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 1,
+    "day": 28
+  },
+  "gist": "不法に弁護権を制限したことにならない一事例",
+  "case_gist": "記録に徴すれば、原審裁判所は公訴趣意書提出最終日より後、第１回公判期日の二四日前に弁護人を選任したものであるが、これより先に被告人から詳細な事実誤認、未決勾留日数の本刑通算要求の主張を記載した公訴趣意書が提出されており、右弁護人は被告人と共に原審第一回公判期日に出席して被告人提出の公訴趣意書中の事実誤認の主張のみについて弁論し、結審されたものであり、被告人及び弁護人からは弁護人選任、弁護人からの公訴趣意書不提出に関し何等異議を述べた形跡がないのであるから、所論違憲の主張は前提を欠くのみならず、原審において弁護権の行使が不当に制限されたものというに足りない。",
+  "ref_law": "刑訴法389条，刑訴法376条",
+  "lawsuit_id": "60883",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60883",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/883/060883_hanrei.pdf"
+}

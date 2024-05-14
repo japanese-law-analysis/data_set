@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 10,
+    "day": 23
+  },
+  "case_number": "昭和45(オ)125",
+  "case_name": "転付債権請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第101号155頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和44(ネ)418",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 11,
+    "day": 21
+  },
+  "gist": "いわゆる不渡異議申立提供金の預託金の返還請求権が手形債権者に転付された場合と支払銀行が手形債務者に対して有する反対債権をもつてする相殺の許否",
+  "case_gist": "いわゆる不渡異議申立提供金の預託金の返還請求権が手形債権者に転付された場合に、支払銀行が右債権の差押前から手形債務者に対して有する反対債権をもつて被転付債権と相殺することは許される。",
+  "ref_law": "民法646条1項，民法511条，手形法38条",
+  "lawsuit_id": "64021",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64021",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/021/064021_hanrei.pdf"
+}

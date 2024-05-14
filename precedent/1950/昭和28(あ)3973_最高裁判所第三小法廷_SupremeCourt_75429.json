@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 7,
+    "day": 19
+  },
+  "case_number": "昭和28(あ)3973",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第107号571頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 6,
+    "day": 29
+  },
+  "gist": "被告人が負担すべき訴訟費用がないのに之を被告人に負担させた場合と空文",
+  "case_gist": "論旨は原判決が憲法二九条に違反すると主張する。なるほど原審は、「当番の国選弁護人に支給した訴訟費用は被告人の負担とする」との判決をしているけれども、記録上国選弁護人に報酬等を支給した形跡は認められず、被告人に負担させるべき費用は存在しない。従つて判決中右の部分は空文に帰したと同様である。それ故、被告人が現実に訴訟費用を徴収されることを前提として違憲を主張する論旨は、その前提を失い、採用することができない。",
+  "ref_law": "刑訴法181条，憲法29条",
+  "lawsuit_id": "75429",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=75429",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/429/075429_hanrei.pdf"
+}

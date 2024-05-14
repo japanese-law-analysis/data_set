@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 4,
+    "day": 10
+  },
+  "case_number": "昭和33(あ)2038",
+  "case_name": "商標法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第141号729頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 9,
+    "day": 8
+  },
+  "gist": "一　刑訴法三〇五条にいう「証拠書類」は当該事件について作成されたものに限るか\n二　他の民事事件における鑑定人の作成した鑑定書は刑訴法第三二一条第四項にいう「鑑定の経過及び結果を記載した書面」に含まれるか",
+  "case_gist": "一　刑訴三〇五条にいう証拠書類は必ずしも当該事件について作成されたものに限らないことは、すでに当裁判所の判例の趣旨とするところである（昭和二五年（あ）第二九六二号同二七年五月六日第三小法廷判決、刑集六巻五号七三六頁、同二九年（あ）第一四〇一号同年一一月一一日第一小法廷決定、刑集八巻一一号一八三四頁）。\n二　他の民事事件における鑑定人の作成した鑑定書も刑訴法第三二一条第四項にいう鑑定の経過及び結果を記載した書面に含まれる。",
+  "ref_law": "刑訴法305条，刑訴法321条4項，民訴法308条",
+  "lawsuit_id": "61133",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61133",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/133/061133_hanrei.pdf"
+}

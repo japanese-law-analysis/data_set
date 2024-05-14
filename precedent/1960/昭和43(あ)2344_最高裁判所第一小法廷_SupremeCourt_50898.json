@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 10,
+    "day": 2
+  },
+  "case_number": "昭和43(あ)2344",
+  "case_name": "所得税法違反、相互銀行法違反、麻薬取締法違反、相互銀行法違反幇助",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "刑集　第23巻10号1175頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 10,
+    "day": 11
+  },
+  "gist": "相互銀行法二三条の罪が成立するとされた事例",
+  "case_gist": "大蔵大臣の免許を得ることなく、自己の営業資金を調達する目的で、自ら講元となつて講を始め、その講員は、人的あるいは地域的関係によらず掛金の支払能力によつて認定したうえ、個別に交渉してこれに加入させ、講員も講元の個人的資力を信頼して他の講員の氏名も知らないままこれに加入し、講員の掛金不払の際には、講元が自らその支払の責を負うことを約している等の場合には、右講は、個別契約による非組合型のものというべきであり、かかる講を反覆継続して、その掛金を受け入れたときは、相互銀行法三条一項、二条一項一号、二三条の罪が成立する。",
+  "ref_law": "相互銀行法3条1項，相互銀行法2条1項1号，相互銀行法23条",
+  "lawsuit_id": "50898",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50898",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/898/050898_hanrei.pdf"
+}

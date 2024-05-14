@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 3,
+    "day": 29
+  },
+  "case_number": "昭和53(あ)519",
+  "case_name": "物品税法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第214号285頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 2,
+    "day": 17
+  },
+  "gist": "国税犯則取締法一五条が憲法三一条に違反するとの主張を刑訴法四〇八条により処理した事例",
+  "ref_law": "国税犯則取締法15条，憲法31条，刑訴法408条",
+  "lawsuit_id": "58104",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58104",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/104/058104_hanrei.pdf"
+}

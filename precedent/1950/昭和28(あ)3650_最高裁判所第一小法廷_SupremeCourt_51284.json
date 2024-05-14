@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 12,
+    "day": 5
+  },
+  "case_number": "昭和28(あ)3650",
+  "case_name": "業務上横領等",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第11巻13号3157頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 5,
+    "day": 14
+  },
+  "gist": "資材の保管出納の職務に従事する者の保管資材の不正融通行為と刑法第一九七条にいう職務",
+  "case_gist": "日本国有鉄道の用品係主任として、同鉄道所有にかかる資材の保管出納の職務に従事する以上自己保管中の資材を擅に他人に融通してならない職務を有する。",
+  "ref_law": "刑法197条，刑法197条ノ3，刑法198条",
+  "lawsuit_id": "51284",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51284",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/284/051284_hanrei.pdf"
+}

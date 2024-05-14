@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 10,
+    "day": 25
+  },
+  "case_number": "昭和26(あ)4493",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第68号675頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 7,
+    "day": 25
+  },
+  "gist": "刑訴規則第一七九条第三項と刑訴法第二七五条との関係",
+  "case_gist": "刑訴規則一七九条三項は刑訴法二七五条の授権の範囲内と解すべきである。",
+  "ref_law": "刑訴規則179条3項，刑訴法275条",
+  "lawsuit_id": "64687",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64687",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/687/064687_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 4,
+    "day": 5
+  },
+  "case_number": "昭和31(あ)4343",
+  "case_name": "私文書偽造、同行使、詐欺、同未遂",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第118号757頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 10,
+    "day": 10
+  },
+  "gist": "私文書偽造罪の判示方",
+  "case_gist": "私文書偽造罪の判示として「行使の目的を以て」なる文言の記載がなくとも判文の全体からその趣旨が認め得られるときは、判示として欠くるところはない。",
+  "ref_law": "刑法159条1項，刑訴法335条1項",
+  "lawsuit_id": "58636",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58636",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/636/058636_hanrei.pdf"
+}

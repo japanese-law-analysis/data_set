@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 4,
+    "month": 10,
+    "day": 2
+  },
+  "case_number": "平成1(オ)676",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第166号1頁",
+  "original_court_name": "高松高等裁判所",
+  "original_case_number": "昭和61(ネ)131",
+  "original_date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 2,
+    "day": 27
+  },
+  "gist": "タクシー会社におけるストライキに際し労働組合員が行った営業用自動車の運行阻止の行為が正当な争議行為に当たらないとされた事例",
+  "case_gist": "タクシー会社におけるストライキに際し、労働組合員が、車庫に格納された営業用自動車の傍らに座り込むなどして、会社の退去要求に応ぜず、会社は右自動車を車庫から搬出することができなかったなど判示の事実関係の下においては、労働組合員の右行為は、争議行為として正当な範囲にとどまるものとはいえない。",
+  "ref_law": "労働組合法7条",
+  "lawsuit_id": "65296",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=65296",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/296/065296_hanrei.pdf"
+}

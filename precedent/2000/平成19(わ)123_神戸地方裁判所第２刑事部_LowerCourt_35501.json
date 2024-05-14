@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 8,
+    "day": 30
+  },
+  "case_number": "平成19(わ)123",
+  "case_name": "詐欺",
+  "court_name": "神戸地方裁判所第２刑事部",
+  "gist": "詐欺の実行行為否認（排斥）",
+  "lawsuit_id": "35501",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=35501",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/501/035501_hanrei.pdf",
+  "contents": ""
+}

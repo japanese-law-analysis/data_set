@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 4,
+    "day": 3
+  },
+  "case_number": "昭和38(オ)1238",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第18巻4号513頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 7,
+    "day": 22
+  },
+  "gist": "唯一の証拠方法を取り調べなくても違法でないとされた事例。",
+  "case_gist": "当事者が証人および当該当事者本人の尋問を申請したが、二度にわたり指定した右証拠調を行うべき口頭弁論期日に右両名とも出頭せず、また、二度目の口頭弁論期日には右当事者の訴訟代理人も出頭せず、その不出頭の理由を釈明したなんらの書面の提出もなかつたときは、右証人および当事者本人の尋問が右当事者主張の抗弁事実立証のための唯一の証拠方法であつても、その取調べをしないで審理を終結することは違法ではない。",
+  "ref_law": "民訴法259条",
+  "lawsuit_id": "53119",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53119",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/119/053119_hanrei.pdf"
+}

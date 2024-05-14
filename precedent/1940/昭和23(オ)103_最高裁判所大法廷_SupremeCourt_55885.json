@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 6,
+    "day": 29
+  },
+  "case_number": "昭和23(オ)103",
+  "case_name": "市会議員選挙無効",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第3巻7号270頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 9,
+    "day": 20
+  },
+  "gist": "追放覚書該当者が選挙管理委員会委員長の訴訟代理人となることの適否",
+  "case_gist": "昭和二二年一月四日勅令第一号（公職に関する就職禁止、退官、退職等に関する勅令）によつて覚書に該当する者としての指定を受けた者とみなされる者（指定を受けた者を含む）が弁護士として選挙訴訟の被告である府県選挙管理委員会の訴訟代理人となつて訴訟行為をすることは、右勅令第一二条第一三条及び第一五条第五項のいずれにも違反しない。",
+  "ref_law": "昭和22年勅令1号（公職に関する就職禁止、退官、退職等に関する勅令）122条，昭和22年勅令1号（公職に関する就職禁止、退官、退職等に関する勅令）123条，昭和22年勅令1号（公職に関する就職禁止、退官、退職等に関する勅令）125条5項",
+  "lawsuit_id": "55885",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55885",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/885/055885_hanrei.pdf"
+}

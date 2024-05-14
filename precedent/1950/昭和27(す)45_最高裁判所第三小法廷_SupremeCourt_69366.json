@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 4,
+    "day": 1
+  },
+  "case_number": "昭和27(す)45",
+  "case_name": "再決定方の申立",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第63号37頁",
+  "original_court_name": "最高裁判所",
+  "original_case_number": "昭和26(れ)1050",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 10,
+    "day": 9
+  },
+  "lawsuit_id": "69366",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=69366",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/366/069366_hanrei.pdf"
+}

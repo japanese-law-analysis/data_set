@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 1,
+    "day": 24
+  },
+  "case_number": "昭和49(し)124",
+  "case_name": "私的独占の禁止及び公正取引の確保に関する法律違反各被告事件についてした訴訟指揮に対する異議申立の棄却決定に対する特別抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第195号27頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 12,
+    "day": 20
+  },
+  "gist": "訴訟指揮に関する異議申立棄却決定に対する特別抗告が不適法とされた事例（所論援用の判例は、最二小決昭四九・三・一三刑集二八・二・一である。）",
+  "lawsuit_id": "60066",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60066",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/066/060066_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 5,
+    "day": 21
+  },
+  "case_number": "昭和45(オ)66",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第99号187頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和44(ネ)735",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 10,
+    "day": 13
+  },
+  "gist": "唯一の証拠方法である証拠の申出と弁論再開の要否",
+  "case_gist": "口頭弁論終結後唯一の証拠方法である証拠の申出と共に弁論再開の申立があつた場合でも、弁論の再開を命ずると否とは、裁判所の専権に属する。",
+  "ref_law": "民訴法133条，民訴法259条",
+  "lawsuit_id": "70388",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70388",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/388/070388_hanrei.pdf"
+}

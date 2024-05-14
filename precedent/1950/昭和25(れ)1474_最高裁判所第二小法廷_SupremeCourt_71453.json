@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 2,
+    "day": 9
+  },
+  "case_number": "昭和25(れ)1474",
+  "case_name": "物価統制令違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第40号419頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 6,
+    "day": 17
+  },
+  "gist": "昭和二一年一〇月二四日物価庁告示第一三七号（度量器、計算器等）の廃止と刑の廃止",
+  "case_gist": "昭和二一年一〇月二四日物価庁告示第一三七号が昭和二四年八月一五日限り廃止されたことは所論のとおりであるが、物価統制令第三条違反の行為があつた後に同令に基く統制額指定の告示が廃止されても旧刑訴第三六三条にいわゆる「犯罪後ノ法令ニ依リ刑ノ廃止アリタルトキ」に当らないことは当裁判所の判例とするところである。（昭和二三年（れ）第八〇〇号第二五年一〇月一一日大法廷判決参照）",
+  "ref_law": "旧刑訴法363条3号，昭和25年10月24日物価庁告示137号",
+  "lawsuit_id": "71453",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=71453",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/453/071453_hanrei.pdf"
+}

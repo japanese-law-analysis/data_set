@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 2,
+    "day": 17
+  },
+  "case_number": "昭和57(行ツ)46",
+  "case_name": "新潟─小松─ソウル間の定期航空運送事業免許処分取消請求事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第43巻2号56頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和56(行コ)68",
+  "original_date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 12,
+    "day": 21
+  },
+  "gist": "定期航空運送事業免許の取消訴訟と飛行場周辺住民の原告適格",
+  "case_gist": "定期航空運送事業免許に係る路線を航行する航空機の騒音によつて社会通念上著しい障害を受けることとなる飛行場周辺住民は、当該免許の取消しを訴求する原告適格を有する。",
+  "ref_law": "行政事件訴訟法9条，航空法100条，航空法101条",
+  "lawsuit_id": "52172",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52172",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/172/052172_hanrei.pdf"
+}

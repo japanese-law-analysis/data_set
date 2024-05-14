@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 11,
+    "day": 26
+  },
+  "case_number": "昭和32(オ)225",
+  "case_name": "予定損害賠償請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第13巻12号1526頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 12,
+    "day": 14
+  },
+  "gist": "家屋売買における売主の債務不履行の判断に違法があるとされた事例。",
+  "case_gist": "内金受領の時に引き渡し、残金受領の後に所有権移転登記手続をするとの内容の家屋売買契約において、買主側に当初約定の期日に残代金を支払わずにいながらかえつて移転登記申請書類の作成方を強圧的に売主に命じる等の態度があつて、売主として買主に不信をいだき契約の解消を願うのも無理からぬ事情にあつた場合には、売主が一旦引き渡した家屋の占有を取り戻したまま引渡しに応じなかつたとしても、それだけで売主に家屋引渡債務の不履行があるとはいえない。",
+  "ref_law": "民法415条，民訴法394条",
+  "lawsuit_id": "53577",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53577",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/577/053577_hanrei.pdf"
+}

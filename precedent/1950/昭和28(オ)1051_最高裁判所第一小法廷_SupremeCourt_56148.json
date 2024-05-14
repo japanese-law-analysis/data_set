@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 7,
+    "day": 14
+  },
+  "case_number": "昭和28(オ)1051",
+  "case_name": "洋家具代金交付並びに損害賠償請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第9巻9号1038頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 7,
+    "day": 20
+  },
+  "gist": "裁判所が職権で訊問した証人の供述を事実認定の資料とすることの適否",
+  "case_gist": "裁判所が職権で訊問した証人の供述を事実認定の資料に供しても、その証人の訊問がさきに当事者の申請に基き訊問した証人の再訊問であつて、かつその訊問事項も当事者が訊問を求めた事項の範囲を出でないものであるときは、裁判所の右の措置をもつて、弁論主義に違反する違法があるものとなすべきではない。",
+  "ref_law": "民訴法旧261条，民訴法294条",
+  "lawsuit_id": "56148",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56148",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/148/056148_hanrei.pdf"
+}

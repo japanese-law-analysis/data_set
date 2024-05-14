@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 6,
+    "month": 12,
+    "day": 9
+  },
+  "case_number": "平成5(あ)465",
+  "case_name": "覚せい剤取締法違反、同幇助、関税法違反、同幇助",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第48巻8号576頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 5,
+    "month": 3,
+    "day": 30
+  },
+  "gist": "正犯の実行行為が日本国内で行われた場合における日本国外で幇助行為をした者と刑法一条一項",
+  "case_gist": "日本国外で幇助行為をした者であっても、正犯が日本国内で実行行為をした場合には、刑法一条一項の「日本国内ニ於テ罪ヲ犯シタル者」に当たる。",
+  "ref_law": "刑法1条1項，刑法62条1項",
+  "lawsuit_id": "50141",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50141",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/141/050141_hanrei.pdf"
+}

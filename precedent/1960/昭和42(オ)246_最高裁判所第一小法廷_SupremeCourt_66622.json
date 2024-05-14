@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 9,
+    "day": 12
+  },
+  "case_number": "昭和42(オ)246",
+  "case_name": "土地建物所有権移転登記手続請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第92号231頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和36(ネ)730",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 11,
+    "day": 25
+  },
+  "gist": "贈与の主張に対し死因贈与を認定することの適否",
+  "case_gist": "係争家屋の所有権を贈与により取得したとして贈与者の相続人らに対し贈与を原因とする所有権移転登記を求めたのに対し、裁判所が、右贈与の主張は死因贈与の主張を包含するものと解して、死因贈与による所有権移転を認定しても、当事者の主張しない事実を認定したものとはいえない。",
+  "ref_law": "民訴法186条，民法554条",
+  "lawsuit_id": "66622",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66622",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/622/066622_hanrei.pdf"
+}

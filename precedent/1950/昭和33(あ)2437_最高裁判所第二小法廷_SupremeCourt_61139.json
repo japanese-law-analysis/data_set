@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 3,
+    "day": 27
+  },
+  "case_number": "昭和33(あ)2437",
+  "case_name": "昭和二二年勅令第九号違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第129号455頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 10,
+    "day": 25
+  },
+  "gist": "他の同種の違反者が検挙処罰されず被告人のみが起訴処罰された場合と憲法第一四条。",
+  "case_gist": "所論は違憲をいうけれども、犯情の類似した被告人間に処罰上の差異があつても憲法一四条に違反するものではないこと当裁判所の判例（昭和二三年（れ）第四三五号同年一〇月六日大法廷判決、集二巻一一号一二七五頁）とするところであつて、この趣旨は、他の多数の違反者が検挙されず或は起訴されなかつた場合に、被告人のみが起訴処罰された場合にも推し及ぼされるべきものである。従つて、所論のようにたとえ他の同種の違反者が検挙処罰されなかつたからといつて、いやしくも起訴公判に附されてこれが審理の結果被告人を有罪とした原判決を目して憲法一四条に違反すること論ずることはできない。",
+  "ref_law": "憲法14条",
+  "lawsuit_id": "61139",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61139",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/139/061139_hanrei.pdf"
+}

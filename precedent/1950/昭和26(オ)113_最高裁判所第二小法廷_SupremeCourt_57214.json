@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 5,
+    "day": 2
+  },
+  "case_number": "昭和26(オ)113",
+  "case_name": "不動産所有権移転登記抹消手続請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第6巻5号483頁",
+  "original_court_name": "札幌高等裁判所\n        　函館支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 12,
+    "day": 1
+  },
+  "gist": "共有物分割請求訴訟においてその請求を棄却した確定判決の既判力の範囲",
+  "case_gist": "調停により取得した不動産の二分の一の共有持分権に基く分割請求権があることを原因として提起した共有物分割請求訴訟において、その請求を棄却した確定判決の既判力は、判決の理由において、共有権の存否につき判断をしている場合であつても、右の調停により共有持分権を取得したかどうかの点までは及ばない。",
+  "ref_law": "民訴法199条",
+  "lawsuit_id": "57214",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57214",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/214/057214_hanrei.pdf"
+}

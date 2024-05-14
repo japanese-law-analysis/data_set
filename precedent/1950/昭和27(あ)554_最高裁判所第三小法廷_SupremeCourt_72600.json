@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 9,
+    "day": 29
+  },
+  "case_number": "昭和27(あ)554",
+  "case_name": "特別公務員暴行陵虐",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第86号1081頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 12,
+    "day": 7
+  },
+  "gist": "囚人に対する看守の戒護手段が特別公務員暴行凌虐罪にあたる一事例",
+  "case_gist": "既に疲労困憊の極已に独力で歩行することすら不自由で他の受刑者等に背負われて来た本件被害者を以て故ら逃走の虞があるものとして故なく同人に対して鉄砲手錠を施した上素手でその顔面を数回殴打して同人をして蹌踉顛倒するに到らしめた暴行の所為が、本件特別公務員暴行凌虐の犯罪を構成するのであるから、仮りに所論のように右鉄砲手錠を施すこと自体が正当な行為であつたとしてもそのために本件犯罪の成立を阻却するものではない。",
+  "ref_law": "刑法35条，監獄法19条",
+  "lawsuit_id": "72600",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=72600",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/600/072600_hanrei.pdf"
+}

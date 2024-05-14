@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 7,
+    "day": 17
+  },
+  "case_number": "昭和39(あ)569",
+  "case_name": "傷害",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第152号325頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 2,
+    "day": 22
+  },
+  "gist": "具体的に挙示しない判例違反の主張の適否。",
+  "case_gist": "論旨は判例違反をいうのであるが、所論は判例を具体的に示しているとは認められない（所論は判例を引用するにつき、その事件番号、宣告年月日を指示せず、単に事実を説明して大審院判例集一二巻二〇七丁以下参照としているが、右判例集の指定個所に所論引用の判例は発見できない）から、判例違反の主張として不適法である。",
+  "ref_law": "刑訴規則253条，刑訴法405条3号",
+  "lawsuit_id": "69615",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=69615",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/615/069615_hanrei.pdf"
+}

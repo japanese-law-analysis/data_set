@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 10,
+    "day": 16
+  },
+  "case_number": "昭和57(オ)929",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第149号27頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和53(ネ)364",
+  "original_date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 5,
+    "day": 20
+  },
+  "gist": "注射により大腿四頭筋拘縮症となつた事故につき医師の不法行為責任及び債務不履行責任が否定された事例",
+  "case_gist": "昭和三七年六月に出生した新生児がその頃大腿部に注射を受けたため大腿四頭筋拘縮症に罹患する事故が生じたとしても、当該医師が右注射をしたことは当時の医療水準に照らし必要かつ相当な治療行為であり、右医師は右事故につき不法行為責任及び債務不履行責任を負わない。",
+  "ref_law": "民法415条，民法709条",
+  "lawsuit_id": "62885",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62885",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/885/062885_hanrei.pdf"
+}

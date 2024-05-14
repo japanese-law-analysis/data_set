@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 7,
+    "day": 20
+  },
+  "case_number": "平成18(ワ)12949",
+  "case_name": "損害賠償請求",
+  "court_name": "東京地方裁判所民事第３４部",
+  "result": "棄却",
+  "gist": "喘息の既往を有する患者に造影ＣＴ検査を実施したところ，患者に喘息様発作が生じたことにつき，担当医師らが造影ＣＴ検査を実施したことが過失であるとは認められず，説明義務違反も認められないとして，患者からの損害賠償請求が棄却された事例",
+  "lawsuit_id": "35017",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=35017",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/017/035017_hanrei.pdf",
+  "contents": ""
+}

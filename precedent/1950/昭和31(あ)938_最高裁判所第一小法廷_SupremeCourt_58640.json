@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 4,
+    "day": 4
+  },
+  "case_number": "昭和31(あ)938",
+  "case_name": "名誉毀損",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第118号709頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 2,
+    "day": 23
+  },
+  "gist": "刑法第二三〇条ノ二第一項による事実の真実なことの証明がない場合と被告人がその事実を真実であると信じたことが健全な常識に照し相当である場合の責任阻却",
+  "case_gist": "原判決は、Ａに被告人が摘示したような非行があつたという事実を確認しうる証拠は一つも存在しない旨を判示して、原審における弁護人の控訴趣意を排斥しているのである。それ故、所論引用の原判示――被告人が右事実を真実であると信じていたとしても、そう信ずることは健全な常識に照して相当であるとは認め難く、過失があつたものといわざるを得ない。――は、必要のない余論であつて、この点を攻撃する論旨は、判決に影響のない主張に外ならない。",
+  "ref_law": "刑法230条の2第1項",
+  "lawsuit_id": "58640",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58640",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/640/058640_hanrei.pdf"
+}

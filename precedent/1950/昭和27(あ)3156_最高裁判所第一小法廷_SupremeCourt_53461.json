@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 4,
+    "day": 15
+  },
+  "case_number": "昭和27(あ)3156",
+  "case_name": "強盗殺人、死体遺棄、窃盗",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第8巻4号471頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 4,
+    "day": 30
+  },
+  "gist": "一　鑑定の目的物を破壊するについて刑訴第一六八条所定の裁判所の許可を受けなかつた場合と当該鑑定の証拠能力\n二　軽犯罪法第一条第一九号の法意",
+  "case_gist": "一　鑑定の目的物を破壊するについて、刑訴第一六八条所定の裁判所の許可を受けなかつた場合でも、右処置に対し当該強制処分の対象となつた者から異議がなされていない以上、その鑑定の証拠能力を否定すべき理由はない。\n二　軽犯罪法第一条第一九号は、正当の理由なくして変死体又は死胎の現場を変える行為を取り締ろうとする法意であつて、故意に死体を放棄する行為を処罰の対象とする死体遺棄罪とはその罪質を異にする。",
+  "ref_law": "刑訴法168条，刑訴法317条，刑訴法318条，軽犯罪法1条19号，刑法190条",
+  "lawsuit_id": "53461",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53461",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/461/053461_hanrei.pdf"
+}

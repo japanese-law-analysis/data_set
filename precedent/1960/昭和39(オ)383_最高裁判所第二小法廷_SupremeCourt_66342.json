@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 2,
+    "day": 17
+  },
+  "case_number": "昭和39(オ)383",
+  "case_name": "資本減少無効確認請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第86号279頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和38(ネ)195",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 12,
+    "day": 20
+  },
+  "gist": "一　有限会社の資本減少の効力の発生時期\n二　減資による変更登記がなされる以前に提起された減資無効の訴の適否",
+  "case_gist": "一　有限会社における資本減少の効力は、減資実行手続が完了したときに発生し、その登記は、右効力発生の要件ではない。\n二　減資実行手続が完了した以上、減資による変更登記がなされる以前であつても、減資無効の訴を提起することができる。",
+  "ref_law": "商法376条，商法380条1項，有限会社法58条",
+  "lawsuit_id": "66342",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66342",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/342/066342_hanrei.pdf"
+}

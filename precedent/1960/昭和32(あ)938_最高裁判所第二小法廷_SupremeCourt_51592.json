@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 6,
+    "day": 6
+  },
+  "case_number": "昭和32(あ)938",
+  "case_name": "農業協同組合法違反、背任",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第14巻7号943頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 3,
+    "day": 14
+  },
+  "gist": "農業協同組合法第九九条違反の罪を構成する事例。",
+  "case_gist": "農業協同組合の役員が、組合員外の非法人たる河川改修準備委員会に対し、仮払金名義の下に同組合保管金中の一部の金員を貸し付ける所為は、農業協同組合法第九九条違反の罪を構成する。",
+  "ref_law": "農業協同組合法99条，農業協同組合法10条1項1号，農業協同組合法12条1項（昭和29年法律184号により改正前のもの）",
+  "lawsuit_id": "51592",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51592",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/592/051592_hanrei.pdf"
+}

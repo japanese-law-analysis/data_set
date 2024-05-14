@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 11,
+    "day": 4
+  },
+  "case_number": "昭和51(オ)10",
+  "case_name": "請求異議",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第30巻10号915頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和49(ネ)771",
+  "original_date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 9,
+    "day": 23
+  },
+  "gist": "割賦販売法二条のローン提携販売において買主の債務を売主が代位弁済して取得した求償債権の遅延損害金について同法六条が類推適用される場合",
+  "case_gist": "割賦販売法二条のローン提携販売において、買主が代金支払のため売主の保証のもとに金融機関から割賦払の約で借り受けた金員を代位弁済した売主に対する求償債務の支払を遅滞し、売主が留保所有権を行使して商品を取り戻した場合において、買主が右求償債務を一時に支払うべきときは、右求償債務に対する遅延損害金について同法六条が類推適用される。",
+  "ref_law": "割賦販売法2条，割賦販売法6条，割賦販売法29条の4",
+  "lawsuit_id": "53263",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53263",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/263/053263_hanrei.pdf"
+}

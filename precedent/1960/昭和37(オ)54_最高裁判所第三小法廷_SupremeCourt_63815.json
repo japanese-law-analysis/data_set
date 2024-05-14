@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 4,
+    "day": 21
+  },
+  "case_number": "昭和37(オ)54",
+  "case_name": "建物収去土地明渡請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第73号273頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 10,
+    "day": 19
+  },
+  "gist": "清算結了登記と会社人格の消滅。",
+  "case_gist": "株式会社の清算結了の登記があつても、会社を被告とする給付訴訟が係属するときは、清算結了とはいえないから、会社は消滅しない。",
+  "ref_law": "商法54条，商法427条1項，商法430条1項，商法134条",
+  "lawsuit_id": "63815",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63815",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/815/063815_hanrei.pdf"
+}

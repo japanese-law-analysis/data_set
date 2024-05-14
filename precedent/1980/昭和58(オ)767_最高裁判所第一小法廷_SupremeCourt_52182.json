@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 2,
+    "day": 27
+  },
+  "case_number": "昭和58(オ)767",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第40巻1号124頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_case_number": "昭和57(ネ)66",
+  "original_date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 4,
+    "day": 27
+  },
+  "gist": "警察官のパトカーによる追跡を受けて車両で逃走する者が惹起した事故により第三者が損害を被つた場合において右追跡行為が国家賠償法一条一項の適用上違法であるというための要件",
+  "case_gist": "警察官のパトカーによる追跡を受けて車両で逃走する者が惹起した事故により第三者が損害を被つた場合において、右追跡行為が国家賠償法一条一項の適用上違法であるというためには、追跡が現行犯逮捕、職務質問等の職務の目的を遂行するうえで不必要であるか、又は逃走車両の走行の態様及び道路交通状況等から予測される被害発生の具体的危険性の有無・内容に照らして追跡の開始、継続若しくは方法が不相当であることを要する。",
+  "ref_law": "国家賠償法1条1項，警察法2条，警察法65条，警察官職務執行法2条1項，刑訴法212条",
+  "lawsuit_id": "52182",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52182",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/182/052182_hanrei.pdf"
+}

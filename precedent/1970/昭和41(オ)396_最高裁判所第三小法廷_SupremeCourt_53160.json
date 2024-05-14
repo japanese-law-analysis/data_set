@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 4,
+    "day": 20
+  },
+  "case_number": "昭和41(オ)396",
+  "case_name": "土地所有権移転登記抹消登記手続請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第25巻3号290頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和38(ネ)2252",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 12,
+    "day": 22
+  },
+  "gist": "一、司法書士法九条に違反するとされた事例\n二、司法書士法九条に違反する行為の効力",
+  "case_gist": "一、司法書士が、即決和解申立書作成の嘱託を受け、その行為に関連して、即決和解申立の対象となつた法律関係について、和解契約締結の委任を受け、相手方との間に和解契約を締結することは、司法書士法九条に違反して司法書士がその業務の範囲を越えて他人問の事件に関与したことにあたる。\n二、司法書士が司法書士法九条に違反して、和解契約締結の委任を受け相手方との間に和解契約を締結した場合であつても、右和解契約は、同条に違反するのゆえをもつてただちに無効であるとすることはできない。",
+  "ref_law": "司法書士法9条，民法90条",
+  "lawsuit_id": "53160",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53160",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/160/053160_hanrei.pdf"
+}

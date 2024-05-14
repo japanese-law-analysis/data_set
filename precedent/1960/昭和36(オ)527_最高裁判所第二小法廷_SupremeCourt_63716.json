@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 12,
+    "day": 4
+  },
+  "case_number": "昭和36(オ)527",
+  "case_name": "採掘権取得登録抹消等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第76号367頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 2,
+    "day": 28
+  },
+  "gist": "一　詐害行為取消訴訟における被告。\n二　受益者または転得者の悪意についての立証責任。",
+  "case_gist": "一　詐害行為取消訴訟において、被告とすべきものは、財産返還請求の相手方たる受益者または転得者のみで足り、債務者を共同被告とすべきではない（明治四四年三月二四日大審院判決、民録一七輯一一七頁、大正六年三月三一日大審院判決、民録二三輯五九六頁等）。\n二　取消を請求する債権者は受益者または転得者の悪意を立証する必要がなく、受益者または転得者においてその善意であることの立証責任を負うものとすることは、大審院判例の認めるところであつて（大正七年九月二六日大審院判決・民録二四輯一七三〇頁、昭和六年九月一六日大審院判決・民集一〇巻八〇六頁等）、今なお、その変更の必要を認めない。",
+  "ref_law": "民法424条",
+  "lawsuit_id": "63716",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63716",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/716/063716_hanrei.pdf"
+}

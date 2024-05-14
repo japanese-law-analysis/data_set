@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 10,
+    "day": 14
+  },
+  "case_number": "昭和28(あ)2816",
+  "case_name": "業務上横領",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第9巻11号2192頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 3,
+    "day": 30
+  },
+  "gist": "連続する業務上横領行為につき併合罪の成立を認めるべき一事例",
+  "case_gist": "市役所の税務課職員が、市税滞納者から徴収して業務上保管中の滞納税金を連続して着服横領した場合に、その犯行は二年余の長期間に五〇回余り行われたもので各個の犯行が必ずしもはなはだ近接しているものではなく、犯行の共犯者も時によ相異して行為の態様が必ずしも同一ではないし、また各種滞納税金を徴収保管するに従い随時自己の必要に応じて着服横領したものであつて当初から一括して着服しようとする包括的犯意のあつたことが認められないときは、各個の着服行為ごとに一罪が成立し、併合罪となるものと解すべきである。",
+  "ref_law": "刑法253条，刑法45条前段",
+  "lawsuit_id": "56848",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56848",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/848/056848_hanrei.pdf"
+}

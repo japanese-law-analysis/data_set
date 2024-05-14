@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 10,
+    "day": 26
+  },
+  "case_number": "昭和24(れ)1918",
+  "case_name": "昭和二三年政令第二〇一号違反教唆、昭和二一年勅令第三一号違反、威力業務妨害教唆、業務妨害教唆",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "刑集　第9巻11号2313頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 5,
+    "day": 21
+  },
+  "gist": "一　昭和二三年政令第二〇一号第二条第一項違反の罪と平和条約の発効\n二　昭和二三年政令第二〇一号と刑法第二三四条との関係",
+  "case_gist": "一　昭和二三年政令第二〇一号施行当時同令第二条第一項に違反した行為は、平和条約発効後においても同令第三条により処罰することができる。\n二　昭和二三年政令第二〇一号第二条第一項、第三条の規定は、刑法第二三四条の規定に対する特別法である。",
+  "ref_law": "昭和23年7月23日付内閣総理大臣宛連合国最高司令官書簡に基く臨時措置に関する政令（昭和23年政令201号）2条，昭和23年7月23日付内閣総理大臣宛連合国最高司令官書簡に基く臨時措置に関する政令（昭和23年政令201号）3条，刑法234条，刑法54条1項",
+  "lawsuit_id": "56651",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56651",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/651/056651_hanrei.pdf"
+}

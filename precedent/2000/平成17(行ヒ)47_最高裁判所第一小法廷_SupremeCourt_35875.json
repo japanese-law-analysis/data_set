@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 2,
+    "day": 28
+  },
+  "case_number": "平成17(行ヒ)47",
+  "case_name": "保護申請却下処分取消等請求事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集民　第227号313頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成16(行コ)36",
+  "original_date": {
+    "era": "Heisei",
+    "year": 16,
+    "month": 11,
+    "day": 5
+  },
+  "gist": "生活保護を受け始めて間もない時期に外国への渡航費用を支出した者に対する，同渡航費用の金額を超えない金額を生活扶助の金額から減じて差し引く旨の保護変更決定が，適法であるとされた事例",
+  "case_gist": "生活保護を受けている者が，保護を受け始めて間もない時期に，外国への渡航費用として約７万円という金額の支出をすることができたなど判示の事実関係の下においては，同人が，そのころ少なくとも上記渡航費用を支出することができるだけの額の，本来その最低限度の生活の維持のために活用すべき金銭を保有していたことが明らかであり，上記渡航費用の金額を超えない金額を，上記支出をした月の分の生活扶助の金額から減じ，後の月の分の生活扶助から差し引く旨の保護変更決定は，適法である。",
+  "ref_law": "生活保護法4条1項，生活保護法8条1項，生活保護法12条1号，生活保護法25条2項",
+  "lawsuit_id": "35875",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=35875",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/875/035875_hanrei.pdf",
+  "contents": ""
+}

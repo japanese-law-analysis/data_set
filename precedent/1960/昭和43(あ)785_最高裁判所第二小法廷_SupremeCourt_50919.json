@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 10,
+    "day": 3
+  },
+  "case_number": "昭和43(あ)785",
+  "case_name": "入場税法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "刑集　第23巻10号1222頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 2,
+    "day": 22
+  },
+  "gist": "入場税法三条にいう経営者または主催者の意義",
+  "case_gist": "入場税法三条に経営者または主催者とあるのは、いずれも実質的にその責任において経営または主催する者をいい、単なる名義人にすぎない者は、これにあたらない。",
+  "ref_law": "入場税法3条，入場税法28条",
+  "lawsuit_id": "50919",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50919",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/919/050919_hanrei.pdf"
+}

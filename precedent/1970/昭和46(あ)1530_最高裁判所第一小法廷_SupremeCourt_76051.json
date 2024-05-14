@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 12,
+    "day": 23
+  },
+  "case_number": "昭和46(あ)1530",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第182号517頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 6,
+    "day": 25
+  },
+  "gist": "戸別訪問禁止（公選法一三八条）の合憲性",
+  "ref_law": "公選法138条，憲法21条",
+  "lawsuit_id": "76051",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=76051",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/051/076051_hanrei.pdf"
+}

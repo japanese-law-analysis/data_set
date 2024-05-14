@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 12,
+    "day": 15
+  },
+  "case_number": "昭和42(オ)348",
+  "case_name": "所有権移転登記手続（本訴）建物収去・土地明渡（反訴）請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第89号415頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "昭和38(ネ)280",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 12,
+    "day": 27
+  },
+  "gist": "明治二三年当時における登記の効力",
+  "case_gist": "明治二三年当時における法制下においても、登記は公示方法に過ぎず、所有権移転の要件ではないと解すべきである。",
+  "ref_law": "民法177条",
+  "lawsuit_id": "74481",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74481",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/481/074481_hanrei.pdf"
+}

@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 23,
+    "month": 4,
+    "day": 22
+  },
+  "case_number": "平成21(受)1830",
+  "case_name": "不当利得返還請求事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集民　第236号481頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成20(ネ)3106",
+  "original_date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 7,
+    "day": 16
+  },
+  "gist": "司法書士会に新たに入会する者のみに課される負担でその履行が入会の要件となっていないものが司法書士法（平成１４年法律第３３号による改正前のもの）１５条７号にいう「入会金その他の入会についての特別の負担」に当たるか",
+  "case_gist": "司法書士会に新たに入会する者のみに課される負担であっても，その履行が入会の要件となっていないものは，その負担が新たに入会しようとする者の入会を事実上制限するような効果を持つほど重大なものであるなどの特段の事情のない限り，司法書士法（平成１４年法律第３３号による改正前のもの）１５条７号にいう「入会金その他の入会についての特別の負担」に当たらない。",
+  "ref_law": "司法書士法（平成14年法律第33号による改正前のもの）15条，司法書士法（平成14年法律第33号による改正前のもの）15条の2第1項",
+  "lawsuit_id": "81265",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=81265",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/265/081265_hanrei.pdf",
+  "contents": ""
+}

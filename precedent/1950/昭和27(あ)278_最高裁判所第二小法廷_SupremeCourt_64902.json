@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 6,
+    "day": 12
+  },
+  "case_number": "昭和27(あ)278",
+  "case_name": "窃盗、森林窃盗",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第82号735頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 11,
+    "day": 27
+  },
+  "gist": "刑訴法第四一一条にあたらない一事例―併合罪の一につき誤つて累犯加重をしたとき―",
+  "case_gist": "窃盗の犯罪事実の一につき累犯にあたらない場合に累犯加重をした違法があつても、他の犯罪事実につき適法に累犯加重がなされ、その事実を最も重しと認めて併合罪加重をした所定刑期範囲内で処断された趣旨が明であるときは、未だ右違法は刑訴四一一条を適用すべきものとは認められない。",
+  "ref_law": "刑訴法411条，刑法56条，刑法57条，刑法45条",
+  "lawsuit_id": "64902",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64902",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/902/064902_hanrei.pdf"
+}

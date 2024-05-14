@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 4,
+    "day": 8
+  },
+  "case_number": "昭和27(テ)4",
+  "case_name": "借地権確認土地明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第8巻4号829頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 2,
+    "day": 28
+  },
+  "gist": "再上告の適否",
+  "case_gist": "原上告判決の判断が、東京控訴院の判例に反し且つ憲法第七六条第三項に違反したものであるというだけで、原上告判決において法律等が憲法に適合するか否かについて為した判断の不当であることを理由とするものでないときは、再上告適法の理由とはならない。",
+  "ref_law": "民訴法409条ノ2",
+  "lawsuit_id": "56146",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56146",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/146/056146_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 9,
+    "day": 9
+  },
+  "case_number": "昭和55(あ)1803",
+  "case_name": "宅地建物取引業法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "刑集　第36巻8号731頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 9,
+    "day": 24
+  },
+  "gist": "宅地建物取引業法一三条一項、七九条三号の法意",
+  "case_gist": "宅地建物取引業法一三条一項、七九条三号は、自己の名義をもつて他人に宅地建物取引業を営ませる行為につき、その相手方が右取引業を営む免許を受けていると否とにかかわりなく、一律にこれを禁止、処罰する趣旨である。",
+  "ref_law": "宅地建物取引業法13条1項，宅地建物取引業法79条3号",
+  "lawsuit_id": "50223",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50223",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/223/050223_hanrei.pdf"
+}

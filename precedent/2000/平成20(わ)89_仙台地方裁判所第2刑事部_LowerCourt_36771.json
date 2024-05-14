@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 8,
+    "day": 7
+  },
+  "case_number": "平成20(わ)89",
+  "case_name": "殺人等被告事件",
+  "court_name": "仙台地方裁判所第2刑事部",
+  "gist": "一家心中を企てた被告人が，妻及び二女を絞殺し，長男及び長女を刺殺しようとしたが未遂に止まり，その後自宅に放火した事案につき，被告人の完全責任能力を認めて無期懲役に処した事例",
+  "lawsuit_id": "36771",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=36771",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/771/036771_hanrei.pdf",
+  "contents": ""
+}

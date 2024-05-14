@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 6,
+    "day": 13
+  },
+  "case_number": "昭和25(れ)1524",
+  "case_name": "経済関係罰則ノ整備ニ関スル法律違反、贈賄等",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第47号979頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 6,
+    "day": 12
+  },
+  "gist": "六〇余日若しくは七〇余日の拘禁後の自白と不当に長い抑留若しくは拘禁後の自白",
+  "case_gist": "所論予審第一、二回訊問調書記載の被告人Ａの供述が所論の如く六十余日若しくは七十余日の拘禁後になされたものであるとしても、事件の内容、当時における大阪地方裁判所予審事務の著しい輻輳状態等に鑑みると、右程度の拘禁はまことに巳むを得なかつたものと認むべきであつて、不当に長いものということはできない。それゆえ右論旨はいずれも採用し難い。",
+  "ref_law": "憲法38条2項，刑訴応急措置法10条2項",
+  "lawsuit_id": "67858",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=67858",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/858/067858_hanrei.pdf"
+}

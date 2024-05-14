@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 10,
+    "day": 14
+  },
+  "case_number": "昭和53(オ)994",
+  "case_name": "第三者異議",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第137号321頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和52(ネ)444",
+  "original_date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 5,
+    "day": 23
+  },
+  "gist": "集合動産の譲渡担保につき目的物の特定を欠くとされた事例",
+  "case_gist": "譲渡担保設定者の店舗・居宅内に存すべき運搬具、什器、備品、家財一切のうち右設定者所有の物を目的とする譲渡担保契約は、その契約成立の要件としての目的物の外部的、客観的な特定に欠ける。",
+  "ref_law": "民法369条（譲渡担保）",
+  "lawsuit_id": "70415",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70415",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/415/070415_hanrei.pdf"
+}

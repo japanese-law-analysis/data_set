@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 7,
+    "month": 7,
+    "day": 17
+  },
+  "case_number": "平成4(あ)321",
+  "case_name": "受託収賄",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集刑　第266号811頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 4,
+    "month": 3,
+    "day": 3
+  },
+  "gist": "重大な事実誤認の疑いが顕著であるとして第二審の無罪判決を破棄して差し戻した事例",
+  "ref_law": "刑訴法411条3号",
+  "lawsuit_id": "57956",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57956",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/956/057956_hanrei.pdf"
+}

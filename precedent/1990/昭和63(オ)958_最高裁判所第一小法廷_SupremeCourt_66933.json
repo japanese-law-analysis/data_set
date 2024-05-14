@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 4,
+    "month": 10,
+    "day": 29
+  },
+  "case_number": "昭和63(オ)958",
+  "case_name": "新株発行無効確認",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集民　第166号477頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和62(ネ)361",
+  "original_date": {
+    "era": "Showa",
+    "year": 63,
+    "month": 3,
+    "day": 31
+  },
+  "gist": "株主であると主張する者が提起した新株発行不存在確認の訴えが訴えの利益を欠き不適法とされた事例",
+  "case_gist": "株主であると主張する者が提起した新株発行不存在確認の訴えは、その者が、株主でなく、当該新株発行につき他に格別の利害関係を有しないときは、訴えの利益を欠き、不適法である。",
+  "ref_law": "商法280条ノ15，民訴法225条",
+  "lawsuit_id": "66933",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66933",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/933/066933_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 9,
+    "day": 23
+  },
+  "case_number": "昭和32(オ)499",
+  "case_name": "地上物件撤去、土地引渡並び賃借権不存在確認等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第13巻11号1473頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 3,
+    "day": 22
+  },
+  "gist": "特別都市計画事業による換地処分と事業施行者に対する私法上の請求権",
+  "case_gist": "特別都市計画事業による換地処分がなされた場合、従前の土地の所有者は、事業施行者である県知事に対して、換地上の建物収去および換地引渡を求める私法上の請求権を有しない。",
+  "ref_law": "耕地整理法（明治四二年法律第三〇号）17条，土地区画整理法104条",
+  "lawsuit_id": "53594",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53594",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/594/053594_hanrei.pdf"
+}

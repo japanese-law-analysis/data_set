@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 6,
+    "day": 17
+  },
+  "case_number": "昭和39(オ)991",
+  "case_name": "土地建物所有権登記抹消手続等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第83号815頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和37(ネ)863",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 4,
+    "day": 30
+  },
+  "gist": "抵当権設定登記および同登記より順位の劣後する所有権移転請求権保全の仮登記がなされた不動産に対し、滞納処分の公売がなされた場合と右仮登記上の権利の消長",
+  "case_gist": "抵当権設定登記および同登記より順位の劣後する所有権移転請求権保全の仮登記がなされた不動産に対し、旧国税徴収法による滞納処分の例による公売処分がなされた場合には、右仮登記上の権利は消滅するものと解すべきである。",
+  "ref_law": "旧国税徴収法（明治30年法律21号）23条の3，旧国税徴収法（明治30年法律21号）24条，旧国税徴収法（明治30年法律21号）28条",
+  "lawsuit_id": "77764",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77764",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/764/077764_hanrei.pdf"
+}

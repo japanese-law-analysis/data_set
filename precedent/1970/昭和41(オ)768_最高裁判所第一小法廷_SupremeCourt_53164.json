@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 12,
+    "day": 24
+  },
+  "case_number": "昭和41(オ)768",
+  "case_name": "船舶海上保険金請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第24巻13号2187頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和38(ネ)2244",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 4,
+    "day": 18
+  },
+  "gist": "船舶海上保険において主務大臣の認可なしに変更された普通保険約款の拘束力",
+  "case_gist": "船舶海上保険において、保険業者が主務大臣の認可を受けないで普通保険約款を変更し、その約款に基づいて保険契約を締結しても、その変更が保険業者の懇意的な目的に出たものでなく、変更された条項が強行法規もしくは公序良俗に違反しまたはとくに不合理なものである場合でないかぎり、変更後の約款は、保険契約の内容を定めるものとして当事者を拘束する効力を有する。",
+  "ref_law": "民法91条，商法815条，保険業法1条，保険業法10条",
+  "lawsuit_id": "53164",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53164",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/164/053164_hanrei.pdf"
+}

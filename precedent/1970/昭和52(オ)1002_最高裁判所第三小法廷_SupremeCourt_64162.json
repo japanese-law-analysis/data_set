@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 2,
+    "day": 14
+  },
+  "case_number": "昭和52(オ)1002",
+  "case_name": "建物収去土地明渡等",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第123号43頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和50(ネ)809",
+  "original_date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 4,
+    "day": 20
+  },
+  "gist": "借地契約の終了に伴う土地返還請求訴訟と地上建物の所有権の帰属",
+  "case_gist": "土地賃貸借の終了を原因として原状回復義務の履行を求める訴訟において、地上建物の所有権の帰属いかんは、被告の右建物の収去による該土地の明渡義務を定めるについて影響を及ぼすものではない。",
+  "ref_law": "民法616条，民法597条",
+  "lawsuit_id": "64162",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64162",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/162/064162_hanrei.pdf"
+}

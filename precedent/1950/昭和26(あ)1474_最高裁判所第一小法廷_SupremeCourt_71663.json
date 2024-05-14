@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 1,
+    "day": 14
+  },
+  "case_number": "昭和26(あ)1474",
+  "case_name": "傷害、暴行、脅迫",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第91号161頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 10,
+    "day": 26
+  },
+  "gist": "一　起訴状に被告人の経歴を記載することと裁判官の予断\n二　証拠の一部に伝聞に係るものがある場合の証拠説明の程度",
+  "case_gist": "一　起訴状冒頭に「被告人は博徒の親分である」旨の被告人の経歴を示すことは、裁判官に予断を生ぜしめるおそれある事項の記載にあたらない。\n二　所論伝聞にわたる点は、原判決説示のごとく記録に照しその供述中如何なる部分が伝聞にわたるかを判断するに難くはないから、起訴法違反も認められない。註。証拠の標目を掲げるに当り（各伝聞にわたる点を除く）と表示したもの。",
+  "ref_law": "刑訴法256条6項，刑訴法335条1項",
+  "lawsuit_id": "71663",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=71663",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/663/071663_hanrei.pdf"
+}

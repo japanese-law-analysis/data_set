@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 11,
+    "month": 7,
+    "day": 19
+  },
+  "case_number": "平成7(オ)2468",
+  "case_name": "不当利得金請求事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第53巻6号1138頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成5(ネ)868",
+  "original_date": {
+    "era": "Heisei",
+    "year": 7,
+    "month": 7,
+    "day": 27
+  },
+  "gist": "共同相続人相互の間で一部の者が他の者を共同相続人でないものとしてその相続権を侵害している場合に相続回復請求権の消滅時効を援用しようとする者が立証すべき事項",
+  "case_gist": "共同相続人相互の間で一部の者が他の者を共同相続人でないものとしてその相続権を侵害している場合において、相続回復請求権の消滅時効を援用しようとする者は、真正共同相続人の相続権を侵害している共同相続人が、当該相続権侵害の開始時点において、他に共同相続人がいることを知らず、かつ、これを知らなかったことに合理的な事由があったことを立証すべきである。",
+  "ref_law": "民法884条，民訴法第2編第3章第1節総則",
+  "lawsuit_id": "52575",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52575",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/575/052575_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 3,
+    "day": 22
+  },
+  "case_number": "昭和25(れ)1955",
+  "case_name": "業務上横領等",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第42号445頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 8,
+    "day": 16
+  },
+  "gist": "第二審における供述と内容相異る第一審の供述を採用することの適否",
+  "case_gist": "被告人が第二審公判において第一審公判における内容上異る供述をしていることは所論のとおりであり、しかも前者は釈放後の供述であり後者は拘束中の供述ではあるが、唯それだけの事由で原審が前者を斥け後者を採用したことを目して違法であると即断することはできない。",
+  "ref_law": "旧刑訴法337条",
+  "lawsuit_id": "71598",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=71598",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/598/071598_hanrei.pdf"
+}

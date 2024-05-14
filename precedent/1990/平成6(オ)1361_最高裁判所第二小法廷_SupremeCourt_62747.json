@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 7,
+    "month": 1,
+    "day": 20
+  },
+  "case_number": "平成6(オ)1361",
+  "case_name": "ゴルフ会員権名義書換",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集民　第174号29頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成5(ネ)2296",
+  "original_date": {
+    "era": "Heisei",
+    "year": 6,
+    "month": 3,
+    "day": 29
+  },
+  "gist": "ゴルフクラブの預託金制の平日会員としての入会契約について会員権の譲渡を禁止する特約が付されていたものとされた事例",
+  "case_gist": "ゴルフクラブの預託金制の平日会員としての入会契約の関係書類に会員権の譲渡を禁止する旨が直接明記されていなくても、会員募集要項において、正会員の株式の譲渡が自由であることを述べながら平日会員権の譲渡の可否に触れておらず、平日会員権と独立して他に譲渡することのできない家族会員権とを全く同列に扱い、規約の施行細則において正会員の名義書換料を定めながら平日会員については名義書換料を定めていなかったなど判示の事実関係の下においては、右入会契約には会員権の譲渡を禁止する特約が付されていたというべきである。",
+  "ref_law": "民法466条",
+  "lawsuit_id": "62747",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62747",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/747/062747_hanrei.pdf"
+}

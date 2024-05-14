@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 4,
+    "day": 6
+  },
+  "case_number": "昭和23(れ)46",
+  "case_name": "窃盗、住居侵入、強姦致傷",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集刑　第1号585頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 11,
+    "day": 19
+  },
+  "gist": "辯護人を召喚しないで審理した違法とその辯護人の辯論を抛棄する旨の被告人の陳述",
+  "case_gist": "右期日において被告人は同辯護人の辯論を抛棄する旨の陳述を爲したことは前記の通りであるが、元來辯護人は刑事訴訟法上被告人に屬する權利を行使する外、その獨自の立場において被告人の利益を擁護する固有の權利をも有するものであるから、前敍のような辯護人を召喚しないで審理した手續上の瑕疵は、單なる被告人の辯論抛棄の陳述によつて治癒せられるものと解するを得ない。畢竟原審は不法に同辯護人の辯護權の行使を制限したことに歸着するから原判決はこの點において全部破毀を免かれない。",
+  "ref_law": "刑訴法46條，刑訴法320條，刑訴法349條，刑訴法410條11號，刑訴應急措置法11條",
+  "lawsuit_id": "74730",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74730",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/730/074730_hanrei.pdf"
+}

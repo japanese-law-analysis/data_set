@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 2,
+    "day": 9
+  },
+  "case_number": "昭和32(オ)972",
+  "case_name": "解雇無効確認及び給料支払請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第15巻2号189頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 8,
+    "day": 6
+  },
+  "gist": "一　二四時間以上の予告期間の記載を欠く書面による船員雇入契約の解除申入の効力。\n二　雇止手当または送還手当の支払は船員雇入契約解除の効力発生要件か。",
+  "case_gist": "一　二四時間以上の予告期間の記載を欠く書面による船員雇入契約の解除申入は、右書面交付の時から二四時間を経過した時に解除の効力を生ずるものと解すべきである。\n二　雇止手当または送還手当の支払は、船員雇入契約解除の効力発生要件ではない。",
+  "ref_law": "船員法42条，船員法46条，船員法47条，船員法48条，船員法49条",
+  "lawsuit_id": "54874",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54874",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/874/054874_hanrei.pdf"
+}

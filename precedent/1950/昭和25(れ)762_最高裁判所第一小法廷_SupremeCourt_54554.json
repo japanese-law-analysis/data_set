@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 10,
+    "day": 5
+  },
+  "case_number": "昭和25(れ)762",
+  "case_name": "強盗幇助、賍物寄蔵、銃砲等所持禁止令違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第4巻10号1889頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 3,
+    "day": 16
+  },
+  "gist": "積極的に鉄砲等を預る意思の有無と銃砲等所持禁止令違反罪の成否",
+  "case_gist": "鉄砲等を自己の実力支配下に置くという事実の認識がある以上、積極的にその物件を預る意思の下に所持が開始されたか否かというが如き事実は、銃砲等所持禁止令違反罪の成否を左右しない。",
+  "ref_law": "銃砲等所持禁止令1条，銃砲等所持禁止令2条",
+  "lawsuit_id": "54554",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54554",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/554/054554_hanrei.pdf"
+}

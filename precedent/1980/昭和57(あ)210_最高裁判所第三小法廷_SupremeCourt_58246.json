@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 5,
+    "day": 11
+  },
+  "case_number": "昭和57(あ)210",
+  "case_name": "覚せい剤取締法違反、銃砲刀剣類所持等取締法違反、火薬類取締法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第227号333頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 1,
+    "day": 13
+  },
+  "gist": "一　参考人の自白調書について、約束ないし利益誘導があつたことを理由とする判例違反の主張を事案を異にするとし、憲法三八条違反の主張を欠前提として処理した事例\n二　控訴審において被告人不出頭のまま公判を開廷したことを理由とする判例違反の主張を事案を異にするとして処理した事例",
+  "ref_law": "憲法38条1項，憲法38条2項，刑訴法273条2項，刑訴法404条",
+  "lawsuit_id": "58246",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58246",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/246/058246_hanrei.pdf"
+}

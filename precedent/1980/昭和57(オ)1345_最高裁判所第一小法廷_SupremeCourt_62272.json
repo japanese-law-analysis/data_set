@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 63,
+    "month": 3,
+    "day": 31
+  },
+  "case_number": "昭和57(オ)1345",
+  "case_name": "損害賠償請求事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集民　第153号603頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和55(ネ)357",
+  "original_date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 9,
+    "day": 29
+  },
+  "gist": "昭和四六年二月に出生した極小未熟児の保育管理を担当した産婦人科医に光凝固法を実施することを前提とした眼底検査を依頼する義務がないとされた事例",
+  "case_gist": "昭和四六年二月に出生した極小未熟児の保育管理が行われた当時、光凝固法は臨床医学の実践における医療水準としては未熟児網膜症の有効な治療法として確立されていなかつたのであるから、右保育管理を担当した産婦人科医において、治療法として光凝固法があり、熟達の眼科医が適期に実施すればその進行を阻止する効力を有するが、そのためには可及的早期に眼底検査をして本症を発見する必要があること等の事実を知つていても、担当医が本症に罹患した未熟児を扱つた経験がないなど判示の事情の下においては、同医師に光凝固法を実施することを前提とした眼底検査を依頼する義務はない。",
+  "ref_law": "民法415条，民法709条",
+  "lawsuit_id": "62272",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62272",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/272/062272_hanrei.pdf"
+}

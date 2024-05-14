@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 11,
+    "day": 25
+  },
+  "case_number": "昭和41(オ)645",
+  "case_name": "土地賃料増額請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第85号417頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_case_number": "昭和38(ネ)144",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 3,
+    "day": 16
+  },
+  "gist": "増額地代額の算定において、賃借人が土盛りしたことを斟酌しなかつたことが違法でないとされた事例",
+  "lawsuit_id": "66559",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66559",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/559/066559_hanrei.pdf"
+}

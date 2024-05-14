@@ -1,0 +1,15 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 31,
+    "month": 2,
+    "day": 20
+  },
+  "case_number": "平成25(ワ)3707",
+  "case_name": "福島第一原発事故損害賠償請求事件",
+  "court_name": "横浜地方裁判所第５民事部",
+  "lawsuit_id": "89602",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=89602",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/602/089602_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 6,
+    "day": 1
+  },
+  "case_number": "昭和24新(れ)181",
+  "case_name": "詐欺、賍物故買",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第18号43頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 7,
+    "day": 19
+  },
+  "gist": "公訴審を事後審としたこと憲法との關係",
+  "case_gist": "憲法は裁判の審級制度については同第八一條の場合を除くの外立法を以て適當に定めるとろに委ねているものと解すべきことは當裁判所大法廷の判例とするところである。されば新刑訴が控訴審を覆審とせずに事後審としたからといつて、違憲の問題は起らないし、またそれがために所論の量刑不當や採證違反の點について控訴審を受ける妨げともならない。",
+  "ref_law": "刑訴法第2章控訴，憲法81條",
+  "lawsuit_id": "67002",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=67002",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/002/067002_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 7,
+    "day": 16
+  },
+  "case_number": "昭和24(れ)991",
+  "case_name": "市会議員選挙罰則違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第12号655頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 3,
+    "day": 7
+  },
+  "gist": "酒粕配給券の供與が衆議院議員選舉法第一一二條にいわゆる「財産上の利益の供與」にあたると判示したことの正否",
+  "case_gist": "判示酒粕配給券は、それ自體において財産上の利益を伴うものであることは疑を容れないところである。しからば、原判決が本件酒粕配給券の供與をもつて、衆議院議員選舉法第一一二條第一項第一號にいわゆる財産上の利益の供與にあたるものと判示したのは正當であつて、論旨は理由がない。",
+  "ref_law": "衆議院議員選舉法112條1項，舊刑訴法360條1項",
+  "lawsuit_id": "75003",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=75003",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/003/075003_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 8,
+    "month": 2,
+    "day": 8
+  },
+  "case_number": "平成4(オ)993",
+  "case_name": "詐害行為取消、貸金",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第178号215頁",
+  "original_court_name": "仙台高等裁判所\n        　秋田支部",
+  "original_case_number": "昭和63(ネ)91",
+  "original_date": {
+    "era": "Heisei",
+    "year": 4,
+    "month": 3,
+    "day": 18
+  },
+  "gist": "詐害行為が成立した場合に詐害行為取消権によって保全される債権の額と詐害行為後に発生した遅延損害金",
+  "case_gist": "詐害行為が成立した場合に詐害行為取消権によって保全される債権の額には、詐害行為後に発生した遅延損害金も含まれる。",
+  "ref_law": "民法424条",
+  "lawsuit_id": "73152",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=73152",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/152/073152_hanrei.pdf"
+}

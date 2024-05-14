@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 9,
+    "day": 28
+  },
+  "case_number": "昭和34(あ)1156",
+  "case_name": "詐欺",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第13巻11号2993頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 4,
+    "day": 27
+  },
+  "gist": "価格相当の商品の提供と詐欺罪の成立。",
+  "case_gist": "真実を告知するときは相手方が金員を交付しないような場合において、商品の効能などにつき真実に反する誇大な事実を告知してその旨相手方を誤信させ、金員の交付を受けた場合は、たとえ価格相当の商品を提供したとしても詐欺罪が成立する。",
+  "ref_law": "刑法246条",
+  "lawsuit_id": "55807",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55807",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/807/055807_hanrei.pdf"
+}

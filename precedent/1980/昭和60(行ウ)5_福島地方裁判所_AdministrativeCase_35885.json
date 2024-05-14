@@ -1,0 +1,19 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 9,
+    "day": 30
+  },
+  "case_number": "昭和60(行ウ)5",
+  "case_name": "都市計画火葬場決定承認の無効確認請求事件",
+  "court_name": "福島地方裁判所",
+  "field": "行政",
+  "gist": "都市計画法１９条１項に規定する市町村の都市計画の決定について知事がする承認は，抗告訴訟の対象となる行政処分に当たるか",
+  "case_gist": "都市計画法１９条１項に規定する市町村の都市計画の決定について知事がする承認は，抗告訴訟の対象となる行政処分に当たらない。",
+  "lawsuit_id": "35885",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=35885",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/885/035885_hanrei.pdf",
+  "contents": ""
+}

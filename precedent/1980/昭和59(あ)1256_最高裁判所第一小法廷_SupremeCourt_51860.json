@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 9,
+    "day": 12
+  },
+  "case_number": "昭和59(あ)1256",
+  "case_name": "殺人",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "刑集　第39巻6号275頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 8,
+    "day": 23
+  },
+  "gist": "殺人につき防衛の意思を欠くとはいえないとされた事例",
+  "case_gist": "被告人が、自己の経営するスナツク店内において、相手方から一方的にかなり激しい暴行を加えられているうち、憎悪と怒りから調理場にあつた文化包丁を持ち出し、「表に出てこい」などと言いながら出入口へ向かつたところ、相手方から物を投げられ、「逃げる気か」と言つて肩を掴まれるなどしたため、更に暴行を加えられることをおそれ、振り向きざま手にした包丁で相手方の胸部を一突きして殺害した本件事実関係のもとにおいては（判文参照）、被告人の行為は、「表に出てこい」などの言辞があつたからといつて、専ら攻撃の意思に出たものとはいえず、防衛の意思を欠くことにはならない。",
+  "ref_law": "刑法36条",
+  "lawsuit_id": "51860",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51860",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/860/051860_hanrei.pdf"
+}

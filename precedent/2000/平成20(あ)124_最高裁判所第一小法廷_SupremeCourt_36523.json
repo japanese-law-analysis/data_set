@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 6,
+    "day": 25
+  },
+  "case_number": "平成20(あ)124",
+  "case_name": "傷害被告事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第62巻6号1859頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成19(う)2215",
+  "original_date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 12,
+    "day": 25
+  },
+  "gist": "正当防衛に当たる暴行及びこれと時間的，場所的に連続して行われた暴行について，両暴行を全体的に考察して１個の過剰防衛の成立を認めることはできないとされた事例",
+  "case_gist": "相手方の急迫不正の侵害に対し，正当防衛に当たる暴行（以下「第１暴行」という。）を加えて同人を転倒させた被告人が，これと時間的，場所的に連続して暴行（以下「第２暴行」という。）を加えた場合において，相手方が更なる侵害行為に出る可能性のないことを認識した上，防衛の意思ではなく，専ら攻撃の意思に基づき相当に激しい態様の第２暴行を加えたなどの本件事実関係の下では，第１暴行と第２暴行の間には断絶があって，急迫不正の侵害に対して反撃を継続するうちに，その反撃が量的に過剰になったものとは認められず，両暴行を全体的に考察して１個の過剰防衛の成立を認めるのは相当ではない。",
+  "ref_law": "刑法36条",
+  "lawsuit_id": "36523",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=36523",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/523/036523_hanrei.pdf",
+  "contents": ""
+}

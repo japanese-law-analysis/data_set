@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 7,
+    "day": 1
+  },
+  "case_number": "昭和45(オ)1222",
+  "case_name": "建物収去土地明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第103号375頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和38(ネ)562",
+  "original_date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 9,
+    "day": 25
+  },
+  "gist": "一、被控訴人が控訴審においてした書面による請求の趣旨変更の申立およびその申立書添付の物件目録訂正の申立が附帯控訴の申立と認められた事例\n二、いわゆる立件の意義およびその効力",
+  "case_gist": "一、（省略）\n二、裁判所が特定の申立についてするいわゆる立件は、裁判所の内部における事務処理上の手続にすぎないものであつて、それがその申立を審理した口頭弁論の終結後になされたときでも、その申立の訴訟法上の効力に影響を及ぼすものではない。",
+  "ref_law": "民訴法372条，民訴法374条，民訴法367条，民訴法150条，民訴法186条，裁判所法60条",
+  "lawsuit_id": "61988",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61988",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/988/061988_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 10,
+    "day": 24
+  },
+  "case_number": "昭和31(あ)740",
+  "case_name": "賍物運搬",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第12巻14号3368頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 2,
+    "day": 7
+  },
+  "gist": "一　賍物運搬罪の成立する事例。\n二　伝聞証言に証拠能力の認められる事例。",
+  "case_gist": "一　賍品を場所的に移転して、被害者の同品に対する権利の実行を困難ならしめた以上、これを運んだ距離にさほど遠くないものがあつても、賍物運搬罪は成立する。\n二　第一審公判における検察官側の証人甲の証言中に、乙の供述を内容とするいわゆる伝聞部分があつても、同証言に際し被告人側から異議の申立があつた形跡がないばかりでなく、乙はすでに当時の記憶を全く喪失しており、第二審の際は所在不明となつていることが窺われるときは、第一審公判調書中の右の伝聞証言を証拠とすることができる。",
+  "ref_law": "刑法256条2項，刑訴法394条，刑訴法326条，刑訴法324条2項，刑訴法321条1項3号",
+  "lawsuit_id": "50537",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50537",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/537/050537_hanrei.pdf"
+}

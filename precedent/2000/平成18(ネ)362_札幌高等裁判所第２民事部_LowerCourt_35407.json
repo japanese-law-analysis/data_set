@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 11,
+    "day": 9
+  },
+  "case_number": "平成18(ネ)362",
+  "case_name": "損害賠償",
+  "court_name": "札幌高等裁判所第２民事部",
+  "result": "その他",
+  "original_court_name": "札幌地方裁判所",
+  "original_case_number": "平成16(ワ)2149",
+  "original_result": "棄却",
+  "gist": "中学生が同級生のいじめによる暴行で傷害を受けたとして，その中学生と母親が，学校を設置する被控訴人に対して損害賠償を請求したが，その暴行による傷害はいじめによるものではなく偶発的なものであることを理由に，請求を棄却した原審が維持された事例。ただし，控訴人らが控訴審で予備的に追加した，学校関係者が被害発生の経緯等について控訴人らに虚偽の報告をしたことによる損害賠償請求の一部は認容された。",
+  "lawsuit_id": "35407",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=35407",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/407/035407_hanrei.pdf",
+  "contents": "3 1 1\n2 1\n"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 4,
+    "day": 17
+  },
+  "case_number": "昭和26(オ)407",
+  "case_name": "不法行為に因る損害倍賞請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第7巻4号388頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 5,
+    "day": 30
+  },
+  "gist": "委託の趣旨に反する受託金の費消と不法行為の成否",
+  "case_gist": "物品購入を委託された者が、その代金として交付を受けた金員を他に流用費消しても、右費消行為をもつて不法行為にあたるものとはいえない。",
+  "ref_law": "民法709条",
+  "lawsuit_id": "57239",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57239",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/239/057239_hanrei.pdf"
+}

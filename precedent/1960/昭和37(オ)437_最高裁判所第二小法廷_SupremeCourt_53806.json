@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 12,
+    "day": 6
+  },
+  "case_number": "昭和37(オ)437",
+  "case_name": "貸金返還請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第17巻12号1664頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 10,
+    "day": 11
+  },
+  "gist": "無利息無担保の金銭消費貸借は商法第二六五条にいう取引にあたるか。",
+  "case_gist": "株式会社に対しその取締役が無利息、無担保で金銭を貸し付ける行為は、商法第二六五条にいう取引にあたらない。",
+  "ref_law": "商法265条",
+  "lawsuit_id": "53806",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53806",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/806/053806_hanrei.pdf"
+}

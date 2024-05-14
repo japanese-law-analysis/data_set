@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 6,
+    "day": 8
+  },
+  "case_number": "昭和26(あ)211",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第5巻7号1250頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 7,
+    "day": 24
+  },
+  "gist": "控訴審が採用しなかつた証拠について憲法第三七条第二項違反の主張と上告理由",
+  "case_gist": "原審が公判期日外の証人尋問をするに当り勾留中の被告人に実質的に立会の機会を与えていないのは憲法第三七条第二項に違反するというのであるが、原審は、これら証人尋問調書中の供述記載を事実認定或は量刑の資料としたものではなく、単に第一審判決を是認して控訴棄却したに止まることは、原判文自体に徴して極めて明らかである。然らば原判決には原判に影響のある憲法違反があるとの主張は、その前提を欠くものといわなればならない。。",
+  "ref_law": "憲法37条2項，刑訴法393条1項，刑訴法157条，刑訴法405条1号，刑訴法410条1項",
+  "lawsuit_id": "68147",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=68147",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/147/068147_hanrei.pdf"
+}

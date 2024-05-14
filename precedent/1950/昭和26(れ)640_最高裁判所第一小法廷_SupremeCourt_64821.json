@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 12,
+    "day": 25
+  },
+  "case_number": "昭和26(れ)640",
+  "case_name": "食糧管理法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集刑　第71号655頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 12,
+    "day": 18
+  },
+  "gist": "実収高を越えた米麦の供出割当に対する供出不能の主張と旧刑訴法第三六〇条第二項",
+  "case_gist": "米麦の供出割当数量が実収高以上であつた場合には、実収高を越える部分については、供出違反罪は成立しないのであるから、被告人の右の如き主張は、明かに旧刑訴三六〇条二項にいわゆる、法律上犯罪の成立を阻却すべき原由たる事実上の主張にあたる。",
+  "ref_law": "食糧管理法3条，旧刑訴法360条2項",
+  "lawsuit_id": "64821",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64821",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/821/064821_hanrei.pdf"
+}

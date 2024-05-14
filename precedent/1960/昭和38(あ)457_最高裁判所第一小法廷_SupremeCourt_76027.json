@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 6,
+    "day": 4
+  },
+  "case_number": "昭和38(あ)457",
+  "case_name": "経済関係罰則ノ整備ニ関スル法律違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第151号347頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 12,
+    "day": 5
+  },
+  "gist": "経済関係罰則ノ整備ニ関する法律第二条にいう「其ノ職務」にあたるとされた事例。",
+  "case_gist": "本件Ａ株式会社は経済関係罰則ノ整備ニ関スル法律第二条別表乙号三〇にいう「地方鉄道法第十二条ノ規定ニ依ル免許ヲ受ケ地方鉄道業ヲ営ム者」であるが、そのような会社が、線路の一部を電化するためその架線工事を請負わせることは、右会社の本来の事業たる運輸事業自体とはいえないが、前記法律第二条の適用については、右運輸事業を行なうために必要な関係にある事務であると解するのが相当であり、右会社の役職員がこのような事務を担当している場合には、その事務は右法律第二条のいう職務に当るというべきである。",
+  "ref_law": "経済関係罰則ノ整備ニ関スル法律2条，経済関係罰則ノ整備ニ関スル法律別表乙号30",
+  "lawsuit_id": "76027",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=76027",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/027/076027_hanrei.pdf"
+}

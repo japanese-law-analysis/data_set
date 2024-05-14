@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 2,
+    "day": 27
+  },
+  "case_number": "昭和39(行ツ)84",
+  "case_name": "裁決取消請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第22巻2号380頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和32(行ナ)64",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 5,
+    "day": 30
+  },
+  "gist": "一、海上衝突予防法第二五条第一項による航路筋の右側航行が免除される場合\n二、海上衝突予防法第二五条の適用ある狭い水道における同法第一九条第二一条の適用の有無",
+  "case_gist": "一、海上衝突予防法第二五条第一項による航路筋の右側航行は同法の航法に関する諸規定および船員としての通常の経験と慣行に照らして、諸般の事情から、船舶の安全な運航のために狭い水道の右側に就くことはまたは右側を続行することを避けるのが相当である場合には、免除されるものと解すべきである。\n二、海上衝突予防法第二五条の適用ある狭い水道においても、二隻の動力船が互に進路を横切る関係にあり、相当の距離と時間の余裕をもつて衝突のおそれを予測できる状態にあるときは、右両船に同法第一九条および第二一条が適用されるものと解すべきである。",
+  "ref_law": "海上衝突予防法25条，海上衝突予防法19条，海上衝突予防法21条",
+  "lawsuit_id": "53950",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53950",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/950/053950_hanrei.pdf"
+}

@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 9,
+    "day": 28
+  },
+  "case_number": "平成15(行ウ)1",
+  "case_name": "首都機能移転誘致支出金返還請求事件",
+  "court_name": "岐阜地方裁判所民事１部",
+  "result": "棄却",
+  "gist": "被告県が首都機能移転誘致のために平成１３年度及び平成１４年度に４２７１万９８４５円の公金を支出したことは関して，住民である原告ら（選定当事者２名，その余の選定者１３名）から提訴された，地方自治法２４２条の２第１項３号に基づいて被告県が当時の県知事個人及び財務会計行為に専決権限を有していた職員ら個人に対する損害賠償請求又は支払命令を行わないことの違法確認の請求並びに同法２４２条の２第１項４号に基づく上記県知事らに対する損害賠償の各請求が棄却された事例",
+  "lawsuit_id": "33608",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=33608",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/608/033608_hanrei.pdf",
+  "contents": ""
+}

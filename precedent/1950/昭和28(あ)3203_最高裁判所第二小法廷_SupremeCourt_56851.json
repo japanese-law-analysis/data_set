@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 12,
+    "day": 2
+  },
+  "case_number": "昭和28(あ)3203",
+  "case_name": "虚偽診断書作成、医師法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第9巻13号2582頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 2,
+    "day": 28
+  },
+  "gist": "公職選挙法第四九条第三号、同法施行令第五二条第一項第三号に基いて作成される医師の証明書（不在投票者のための証明書）は医師法第二〇条にいわゆる「診断書」にあたるか",
+  "case_gist": "公職選挙法第四九第三号、同法施行令第五二条第一項第三号に基いて作成される選挙人に対する医師の証明書は、その内容が人の健康上の状態に関する判断を包含する限り医師法第二〇条にいわゆる「診断書」と解すべきである。",
+  "ref_law": "公職選挙法49条，同法施行令52条，医師法20条，刑法160条",
+  "lawsuit_id": "56851",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56851",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/851/056851_hanrei.pdf"
+}

@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 6,
+    "day": 17
+  },
+  "case_number": "昭和30(あ)763",
+  "case_name": "麻薬取締法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第106号275頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 1,
+    "day": 27
+  },
+  "lawsuit_id": "60884",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60884",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/884/060884_hanrei.pdf"
+}

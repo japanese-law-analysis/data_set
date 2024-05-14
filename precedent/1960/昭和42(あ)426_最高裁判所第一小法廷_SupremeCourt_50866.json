@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 10,
+    "day": 25
+  },
+  "case_number": "昭和42(あ)426",
+  "case_name": "公衆浴場法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第21巻8号1128頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 11,
+    "day": 30
+  },
+  "gist": "いわゆる「トルコ風呂」は公衆浴場法の規整の対象となるか",
+  "case_gist": "いわゆる「トルコ風呂」は、昭和三九年法律第一二一号による改正前の公衆浴場法の規整の対象となる。",
+  "ref_law": "公衆浴場法（昭和39年法律121号による改正前のもの）2条1項，公衆浴場法（昭和39年法律121号による改正前のもの）7条の2，公衆浴場法（昭和39年法律121号による改正前のもの）8条1号",
+  "lawsuit_id": "50866",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50866",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/866/050866_hanrei.pdf"
+}

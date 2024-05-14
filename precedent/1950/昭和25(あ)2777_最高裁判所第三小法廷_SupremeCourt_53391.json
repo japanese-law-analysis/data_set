@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 5,
+    "day": 6
+  },
+  "case_number": "昭和25(あ)2777",
+  "case_name": "詐欺、業務上横領",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第6巻5号733頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 9,
+    "day": 7
+  },
+  "gist": "控訴趣意書提出最終日指定の後に弁護人選任届の提出された弁護人に対する最終日通知の要否",
+  "case_gist": "控訴趣意提出最終日指定の後に弁護人選任届の提出された弁護人に対しては、右最終日の通知を要しない。",
+  "ref_law": "刑訴規則236条1項",
+  "lawsuit_id": "53391",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53391",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/391/053391_hanrei.pdf"
+}

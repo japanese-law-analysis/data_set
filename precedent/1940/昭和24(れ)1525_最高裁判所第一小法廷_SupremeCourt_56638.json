@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 11,
+    "day": 10
+  },
+  "case_number": "昭和24(れ)1525",
+  "case_name": "恐喝",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第3巻11号1760頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 4,
+    "day": 9
+  },
+  "gist": "一　逮捕状の執行により逮捕された被疑者を受けとつた司法警察官の尋問權及びその尋問調書の證據能力\n二　判決書に被告人の氏名を誤記した判決並びにその判決言渡の適否",
+  "case_gist": "一　司法警察官が逮捕状の執行により逮捕された被疑者を受けとつたときは、刑訴應急措置法第八條第四號舊刑訴第一二七條により尋問する權限を有し、その尋問調書はこれを證據とすることができる。\n二　判決書に記載された被告人の氏名が誤記であること明白な場合には、この判決書に基いて當該被告人に判決を云い渡しても、その判決並びに判決の云渡は違法ではない。",
+  "ref_law": "刑訴應急措置法8條，舊刑訴127條，舊刑訴51條，舊刑訴66條",
+  "lawsuit_id": "56638",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56638",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/638/056638_hanrei.pdf"
+}

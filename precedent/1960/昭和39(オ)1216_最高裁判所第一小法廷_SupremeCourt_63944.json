@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 4,
+    "day": 22
+  },
+  "case_number": "昭和39(オ)1216",
+  "case_name": "預金及利息金等返還請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第78号739頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和38(ネ)1411",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 5,
+    "day": 25
+  },
+  "gist": "破産債権者のする相殺権の行使は否認権の対象となるか。",
+  "case_gist": "破産債権者の相殺権の行使は、破産法第一〇四条の制限に服するのみであつて、同法第七二条各号の否認権の対象となることはないものと解すべきである。",
+  "ref_law": "破産法104条，破産法72条",
+  "lawsuit_id": "63944",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63944",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/944/063944_hanrei.pdf"
+}

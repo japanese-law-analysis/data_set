@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 7,
+    "day": 23
+  },
+  "case_number": "平成21(ネ)390",
+  "case_name": "預金払戻請求控訴事件",
+  "court_name": "名古屋高等裁判所民事第４部",
+  "result": "その他",
+  "original_court_name": "名古屋地方裁判所",
+  "original_case_number": "平成19(ワ)3605",
+  "original_result": "棄却",
+  "gist": "偽造印鑑を使用した預金の払戻しにつき，銀行に過失があると認められた事例",
+  "lawsuit_id": "38001",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=38001",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/001/038001_hanrei.pdf",
+  "contents": ""
+}

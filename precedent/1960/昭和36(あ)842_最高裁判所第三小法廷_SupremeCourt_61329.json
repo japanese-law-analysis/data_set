@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 7,
+    "day": 30
+  },
+  "case_number": "昭和36(あ)842",
+  "case_name": "墳墓発掘",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第147号897頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 2,
+    "day": 22
+  },
+  "gist": "無縁墓地の解釈",
+  "case_gist": "無縁墓地の解釈に関する原判決の判示は、相当である。\n\n　（原判示の要旨）無縁墓地とは、これに葬られた死者を弔うべき縁故者等がいなくなつた墓のある土地の意と解すべく、墓地、埋葬等に関する法律施行規則第三条の無縁墳墓改葬に関する規定の趣旨に鑑みてもかく解するのが相当である。単に墓地の管理寺院と墓地の使用者又はその縁故者とが無関係であるという事だけでは、これを無縁墓地と断ずることはできない。",
+  "ref_law": "刑法189条，墓地、埋葬等に関する法律2条，墓地、埋葬等に関する法律5条2項，同法施行規則2条，同法施行規則3条",
+  "lawsuit_id": "61329",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61329",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/329/061329_hanrei.pdf"
+}

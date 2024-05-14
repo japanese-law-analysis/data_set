@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 10,
+    "day": 26
+  },
+  "case_number": "昭和58(あ)498",
+  "case_name": "艦船覆没、詐欺",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第37巻8号1228頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 3,
+    "day": 8
+  },
+  "gist": "一　刑法一条二項にいう「日本船舶」にあたるとされた事例\n二　公海上における船舶覆没行為につき刑法一条二項により同法一二六条二項の規定の適用があるとされた事例",
+  "case_gist": "一　本件覆没行為の当時船舶法一条三号の要件を備えていたものと認められる本件船舶は、刑法一条二項にいう「日本船舶」にあたる。\n二　公海上で、日本船舶の乗組員が同船舶の船底弁を引き抜き海水を船内に浸入させて人の現在する船舶を覆没させた行為については、刑法一条二項により同法一二六条二項の規定の適用がある。",
+  "ref_law": "刑法1条，刑法126条，船舶法1条",
+  "lawsuit_id": "50292",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50292",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/292/050292_hanrei.pdf"
+}

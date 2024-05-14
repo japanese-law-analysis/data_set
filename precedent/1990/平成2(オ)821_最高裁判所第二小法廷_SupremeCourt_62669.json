@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 2,
+    "month": 10,
+    "day": 29
+  },
+  "case_number": "平成2(オ)821",
+  "case_name": "役員地位不存在確認",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第161号71頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成1(ネ)997",
+  "original_date": {
+    "era": "Heisei",
+    "year": 2,
+    "month": 3,
+    "day": 15
+  },
+  "gist": "宗教法人の代表役員の地位の不存在確認の訴えについて確認の利益が認められないとされた事例",
+  "case_gist": "寺院の住職の選任権又は右住職となる資格を有することを主張するにすぎない者は、右住職が宗教法人の代表役員に就任するものとされている場合であっても、右代表役員の地位の不存在の確認を求める法律上の利益を有しない。",
+  "ref_law": "民訴法225条，宗教法人法18条",
+  "lawsuit_id": "62669",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62669",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/669/062669_hanrei.pdf"
+}

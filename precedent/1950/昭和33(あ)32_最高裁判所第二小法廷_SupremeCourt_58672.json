@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 6,
+    "day": 6
+  },
+  "case_number": "昭和33(あ)32",
+  "case_name": "窃盗、強姦致傷",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第126号171頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 12,
+    "day": 18
+  },
+  "gist": "刑法第一七七条の暴行又は脅迫の程度",
+  "case_gist": "刑法第一七七条にいわゆる暴行脅迫は、その相手方の年令、性別、素行、経歴等やそれがなされた時間、場所の四囲の環境その他具体的事情の如何と相伴つて、相手方の抗拒を不能にし又はこれを著しく困難ならしめるものであれば足りると解すべきである",
+  "ref_law": "刑法177条",
+  "lawsuit_id": "58672",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58672",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/672/058672_hanrei.pdf"
+}

@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 7,
+    "day": 6
+  },
+  "case_number": "平成19(受)95",
+  "case_name": "補償金請求事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第61巻5号1955頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成18(ネ)1007",
+  "original_date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 10,
+    "day": 25
+  },
+  "gist": "災害補償共済規約が「被共済者が急激かつ偶然の外来の事故で身体に傷害を受けたこと」を補償費の支払事由と定めている場合，補償費の支払を請求する者は，被共済者の傷害が同人の疾病を原因として生じたものではないことの主張立証責任を負うか",
+  "case_gist": "災害補償共済規約が「被共済者が急激かつ偶然の外来の事故で身体に傷害を受けたこと」を補償費の支払事由と定め，これとは別に「被共済者の疾病によって生じた傷害については補償費を支払わない」との規定を置いている場合，補償費の支払を請求する者は，被共済者の身体の外部からの作用による事故と被共済者の傷害との間に相当因果関係があることを主張，立証すれば足り，上記傷害が被共済者の疾病を原因として生じたものではないことを主張，立証すべき責任を負わない。",
+  "ref_law": "商法第2編第10章　保険，民法91条，民訴法第2編第4章第1節　総則",
+  "lawsuit_id": "34910",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=34910",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/910/034910_hanrei.pdf",
+  "contents": ""
+}

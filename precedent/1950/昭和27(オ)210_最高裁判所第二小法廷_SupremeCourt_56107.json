@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 3,
+    "day": 12
+  },
+  "case_number": "昭和27(オ)210",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第8巻3号696頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 2,
+    "day": 12
+  },
+  "gist": "共同相続人の一人が相続財産たる家屋の使用借主である場合と他の共同相続人のなす使用貸借の解除",
+  "case_gist": "共同相続人の一人が相続財産たる家屋の使用借主である場合、他の共同相続人においてなす右使用貸借の解除は、民法第二五二条本文の管理行為にあたる。",
+  "ref_law": "民法252条",
+  "lawsuit_id": "56107",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56107",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/107/056107_hanrei.pdf"
+}

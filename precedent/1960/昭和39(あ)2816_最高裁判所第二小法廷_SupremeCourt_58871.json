@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 4,
+    "day": 30
+  },
+  "case_number": "昭和39(あ)2816",
+  "case_name": "児童福祉法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第155号595頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 11,
+    "day": 25
+  },
+  "gist": "児童福祉法第三四条第一項第六号にいう児童に淫行をさせる行為の意義。",
+  "case_gist": "児童福祉法第三四条第一項第六号の児童に淫行をさせる行為のうちには、直接たると間接たるとを問わず児童に対して事実上の影響力を及ぼして児童が淫行をなすことを助長し促進する行為をも包含すると解するを相当とする。",
+  "ref_law": "児童福祉法34条1項6号",
+  "lawsuit_id": "58871",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58871",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/871/058871_hanrei.pdf"
+}

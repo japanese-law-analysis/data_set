@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 3,
+    "day": 11
+  },
+  "case_number": "昭和22(れ)285",
+  "case_name": "強盗、窃盗",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第2巻3号185頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 9,
+    "day": 30
+  },
+  "gist": "一　見張りと強盗の共同正犯\n二　被告人に對する供述の強制と上告の理由",
+  "case_gist": "一　被告人が外二名と共謀の上強盗をすることを企て、被告人は見張りをして、被害者に對しては手も觸れず一言も發しなかつたとしても、又強取された金について一錢の分前にも與らなかつたとしても、強盗の共同正犯の責を免れることはできない。\n二　被告人が供述を強制された事實があつたとしても、原審がその供述を證據として採用していない限り、その判決に對する上告の理由とならない。",
+  "ref_law": "刑法60條，刑法236條，刑訴應急措置法10條",
+  "lawsuit_id": "56433",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56433",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/433/056433_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 6,
+    "day": 12
+  },
+  "case_number": "昭和26(あ)5032",
+  "case_name": "非現住建物等放火未遂",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第82号719頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 10,
+    "day": 30
+  },
+  "gist": "現に人の住居に使用せず又は人の現存しない建造物に対する放火未遂罪の成否",
+  "case_gist": "刑法一一五条の規定する現に人の住居に使用せず又は人の現存しない建造物に対する放火罪が、その未遂をも罰する法意であることは、放火の目的物に、同条所定の事実が存するときは、たとえそれが自己の所有に係る場合と雖も他人の物を焼燬した場合と同様に取扱われ刑法一〇九条一項の犯罪を構成する旨を定めていること、そしてこの場合は同法一一二条によりその未遂罪をも罰していることに照して明らかである。",
+  "ref_law": "刑法115条，刑法109条1項，刑法112条",
+  "lawsuit_id": "64724",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64724",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/724/064724_hanrei.pdf"
+}

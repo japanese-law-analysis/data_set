@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 4,
+    "day": 19
+  },
+  "case_number": "昭和46(し)26",
+  "case_name": "釈明請求に関する異議申立棄却決定に対する特別抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第180号127頁",
+  "original_court_name": "東京地方裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 4,
+    "day": 6
+  },
+  "gist": "釈明請求に関する異議申立棄却決定と刑訴法四三三条一項にいう「この法律により不服を申し立てることができない決定」",
+  "case_gist": "本件釈明請求に関する異議申立棄却決定（注、弁護人から請求のあつた釈明を検察官に求めないこととする裁判長の処分に対する異議申立を棄却したもの）のように、訴訟手続に関し判決前にした決定は、刑訴法四三三条一項にいう「この法律により不服を申し立てることができない決定」にあたらない。",
+  "ref_law": "刑訴法294条，刑訴法309条2，刑訴法309条3項，刑訴法433条1項",
+  "lawsuit_id": "59715",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59715",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/715/059715_hanrei.pdf"
+}

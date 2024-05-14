@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 5,
+    "day": 16
+  },
+  "case_number": "昭和24(れ)139",
+  "case_name": "公務執行妨害",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第5巻6号1157頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 11,
+    "day": 25
+  },
+  "gist": "一　納税者の有志で組織したＡ同盟員と共同して税務署長等に対し納税者に有利な処分を為すべきことを交渉する行為と憲法第二八条\n二　被告人に訴訟費用の負担を命じるその額を明示しない判決と憲法第三一条第三二条",
+  "case_gist": "一　税務署長の税務行政処分に不服な納税者等の有志をもつて組織されたＡ同盟の同盟員等と共同して右税務署の署長、直税課長、庶務課長等に対し、納税者に有利な処分を求むるため交渉することは、憲法第二八条により保障された団結権ないし団体交渉権にもとずくものとはいえない。\n二　判決において訴訟費用は被告人等の連帯負担とする旨言い渡しただけでその訴訟費用の額を明示しないからといつてその判決は検事に対し訴訟費用に関する実質的な裁判をすることを許したものではない。",
+  "ref_law": "憲法28条，憲法31条，憲法32条，刑法95条，旧刑訴法237条，旧刑訴法245条",
+  "lawsuit_id": "54296",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54296",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/296/054296_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 12,
+    "day": 20
+  },
+  "case_number": "昭和51(オ)811",
+  "case_name": "土地建物引渡、所有権移転登記手続請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第119号355頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_case_number": "昭和50(ネ)87",
+  "original_date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 5,
+    "day": 31
+  },
+  "gist": "民法五五七条にいわゆる「契約ノ履行ニ著手」したものと認められた事例",
+  "case_gist": "借家人の居住する建物及びその敷地の売買で、売主が借家人を立ち退かせたうえで土地建物を買主に引き渡す約定である場合、売主が売買直後ごろ一、二度借家人に立退きを要求しただけでその後は借家人を立ち退かせる努力をせずに放置し、他方、買主は、その間しばしば売買の仲介人に対し借家人を立ち退かせて土地建物を引き渡すよう売主に催告されたい旨を依頼し、更にその後売買代金を携えて売主方に赴き、売主に対しこれを受け取るよう求めた場合には、買主に民法五五七条にいわゆる「契約ノ履行ニ著手」があつたものと認めるのが相当である。",
+  "ref_law": "民法557条",
+  "lawsuit_id": "64142",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64142",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/142/064142_hanrei.pdf"
+}

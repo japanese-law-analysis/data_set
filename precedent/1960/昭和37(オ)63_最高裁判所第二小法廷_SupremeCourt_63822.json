@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 12,
+    "day": 11
+  },
+  "case_number": "昭和37(オ)63",
+  "case_name": "立木伐採禁止請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第76号469頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 10,
+    "day": 11
+  },
+  "gist": "他人所有地の立木についての取得時効の成否。",
+  "case_gist": "他人の所有地の立木のみについても、取得時効の要件を具備するかぎり、その所有権を取得し得るものと解するのを相当とする（昭和三八年一二月一三日第二小法廷判決、民集一七巻一二号一六九六頁参照）。",
+  "ref_law": "民法162条",
+  "lawsuit_id": "63822",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63822",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/822/063822_hanrei.pdf"
+}

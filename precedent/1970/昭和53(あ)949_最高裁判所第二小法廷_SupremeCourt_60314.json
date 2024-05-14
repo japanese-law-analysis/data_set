@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 12,
+    "day": 4
+  },
+  "case_number": "昭和53(あ)949",
+  "case_name": "爆発物取締罰則違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第213号899頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 4,
+    "day": 13
+  },
+  "gist": "爆発物取締罰則が法律としての効力を保有することはきわめて明らかであるとして、違憲の主張が不適法とされた事例",
+  "ref_law": "憲法31条，憲法73条，憲法98条",
+  "lawsuit_id": "60314",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60314",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/314/060314_hanrei.pdf"
+}

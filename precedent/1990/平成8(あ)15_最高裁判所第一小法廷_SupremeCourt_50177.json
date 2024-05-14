@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 10,
+    "month": 7,
+    "day": 10
+  },
+  "case_number": "平成8(あ)15",
+  "case_name": "食品衛生法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第52巻5号297頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 7,
+    "month": 10,
+    "day": 31
+  },
+  "gist": "アブラソコムツと食品衛生法四条二号にいう「有害な物質」が含まれる食品",
+  "case_gist": "アブラソコムツは、食品衛生法四条二号にいう「有害な物質」が含まれる食品に当たる。",
+  "ref_law": "食品衛生法4条2号，食品衛生法30条",
+  "lawsuit_id": "50177",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50177",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/177/050177_hanrei.pdf"
+}

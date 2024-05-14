@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 1,
+    "day": 24
+  },
+  "case_number": "昭和27(オ)481",
+  "case_name": "通路妨害排除仮処分命令申請",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第11巻1号59頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 5,
+    "day": 15
+  },
+  "gist": "仮の地位を定める仮処分の適法な限界を超えない一事例。",
+  "case_gist": "乙が甲の賃借地を不法に占有して、その通行を妨害している場合、甲の賃借権についての仮の地位を定める仮処分として、右土地に対する乙の占有を解き、甲の委任する執行吏に保管せしめ、通行の妨害となる物件を撤去して適当の方法で保管し、現状不変更を条件として、右土地の一部を甲に通路として使用せしむべき旨命じても、保全処分の限界を超えるものではなく適法である。",
+  "ref_law": "民訴法760条",
+  "lawsuit_id": "57325",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57325",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/325/057325_hanrei.pdf"
+}

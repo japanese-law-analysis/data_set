@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 3,
+    "day": 10
+  },
+  "case_number": "昭和42(行ツ)28",
+  "case_name": "審決取消請求",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第30巻2号79頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和33(行ナ)30",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 12,
+    "day": 13
+  },
+  "gist": "特許無効の抗告審判で審理判断されなかつた公知事実との対比における特許無効原因を審決取消訴訟において主張することの許否",
+  "case_gist": "特許無効の抗告審判で審理判断されなかつた公知事実との対比における特許無効原因を審決取消訴訟において主張することは、許されない。",
+  "ref_law": "旧特許法（大正10年法律第96号）1条，旧特許法（大正10年法律第96号）4条，旧特許法（大正10年法律第96号）57条1項，旧特許法（大正10年法律第96号）86条，旧特許法（大正10年法律第96号）117条，旧特許法（大正10年法律第96号）128条ノ5",
+  "lawsuit_id": "53170",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53170",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/170/053170_hanrei.pdf"
+}

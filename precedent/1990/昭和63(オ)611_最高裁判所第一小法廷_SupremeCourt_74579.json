@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 5,
+    "month": 2,
+    "day": 25
+  },
+  "case_number": "昭和63(オ)611",
+  "case_name": "横田基地夜間飛行禁止等",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第167号359頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和56(ネ)1791",
+  "original_date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 7,
+    "day": 15
+  },
+  "gist": "国に対しアメリカ合衆国軍隊の使用する航空機の離着陸等の差止めを請求することの可否",
+  "case_gist": "国が日本国とアメリカ合衆国との間の相互協力及び安全保障条約に基づきアメリカ合衆国に対し同国軍隊の使用する施設及び区域として飛行場を提供している場合において、国に対し右軍隊の使用する航空機の離着陸等の差止めを請求することはできない。",
+  "ref_law": "日本国とアメリカ合衆国との間の相互協力及び安全保障条約6条，日本国とアメリカ合衆国との間の相互協力及び安全保障条約第6条に基づく施設及び区域並びに日本国における合衆国軍隊の地位に関する協定2条，民法198条，民法199条",
+  "lawsuit_id": "74579",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74579",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/579/074579_hanrei.pdf"
+}

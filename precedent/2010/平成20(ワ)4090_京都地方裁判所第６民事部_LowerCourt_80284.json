@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 5,
+    "day": 25
+  },
+  "case_number": "平成20(ワ)4090",
+  "case_name": "損害賠償請求事件",
+  "court_name": "京都地方裁判所第６民事部",
+  "result": "その他",
+  "gist": "飲食店従業員が急性左心機能不全により死亡した事案につき，会社に対し，安全配慮義務違反による損害賠償責任を認めるとともに，会社の取締役に対し，長時間労働を前提とした勤務体系や給与体系をとっており，労働者の生命・健康を損なわないような体制を構築していなかったとして会社法429条1項に基づく責任を認めた事例",
+  "lawsuit_id": "80284",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=80284",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/284/080284_hanrei.pdf",
+  "contents": ""
+}

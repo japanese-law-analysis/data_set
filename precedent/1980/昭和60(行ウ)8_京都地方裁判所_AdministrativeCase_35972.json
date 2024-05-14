@@ -1,0 +1,19 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 1,
+    "day": 23
+  },
+  "case_number": "昭和60(行ウ)8",
+  "case_name": "都市公園区域変更処分取消等請求（住民訴訟）事件",
+  "court_name": "京都地方裁判所",
+  "field": "行政",
+  "gist": "市長がした都市公園用地を都市公園区域から除外する都市公園区域変更処分は，地方自治法２４２条の２第１項２号の訴えの対象となるか",
+  "case_gist": "市長がした都市公園用地を都市公園区域から除外する都市公園区域変更処分は，当該土地の財産的価値に着目し財産的効果を生じさせること自体を法律上の目的とするものではないから，地方自治法２４２条の２第１項２号の訴えの対象とならない。",
+  "lawsuit_id": "35972",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=35972",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/972/035972_hanrei.pdf",
+  "contents": ""
+}

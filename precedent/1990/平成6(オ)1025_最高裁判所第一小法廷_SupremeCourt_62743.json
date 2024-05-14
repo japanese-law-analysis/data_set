@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 6,
+    "month": 9,
+    "day": 8
+  },
+  "case_number": "平成6(オ)1025",
+  "case_name": "株式返還",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第173号21頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成5(ネ)313",
+  "original_date": {
+    "era": "Heisei",
+    "year": 6,
+    "month": 1,
+    "day": 27
+  },
+  "gist": "債務の弁済と譲渡担保の目的物の返還との同時履行関係の有無",
+  "case_gist": "債務の弁済と譲渡担保の目的物の返還とは、前者が後者に対し先履行の関係にあり、同時履行の関係に立たない。",
+  "ref_law": "民法369条（譲渡担保），民法533条",
+  "lawsuit_id": "62743",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62743",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/743/062743_hanrei.pdf"
+}

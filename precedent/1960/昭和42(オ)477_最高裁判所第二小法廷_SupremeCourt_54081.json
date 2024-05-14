@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 9,
+    "day": 27
+  },
+  "case_number": "昭和42(オ)477",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第22巻9号2074頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和39(ネ)1102",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 1,
+    "day": 20
+  },
+  "gist": "民法第三九五条の適用のある期間の定のない建物賃貸借につき解約申入の正当事由が認められた事例",
+  "case_gist": "民法第三九五条の適用のある期間の定のない建物賃貸借において、その賃貸借が成立後競落人による解約申入に至るまで、−ほとんど七年に及ぶ長期間を経過したものであるときは、他に特段の事情がないかぎり、その解約申入は借家法第一条ノ二にいう「正当ノ事由」を具備するものというべきである。",
+  "ref_law": "民法395条，民法602条，借家法1条ノ2",
+  "lawsuit_id": "54081",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54081",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/081/054081_hanrei.pdf"
+}

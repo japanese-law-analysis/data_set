@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 6,
+    "day": 28
+  },
+  "case_number": "昭和58(行ツ)85",
+  "case_name": "法人税更正処分取消",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第38巻8号1029頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和56(行コ)34",
+  "original_date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 4,
+    "day": 20
+  },
+  "gist": "欠損金額を減額する更正処分に対して不服申立を経由している場合と当該欠損金の繰戻しによる法人税の還付請求を理由がないとする通知処分に対する不服申立経由の必要",
+  "case_gist": "欠損金の繰戻しによる前年度の法人税の還付請求を理由がないとする通知処分に対し取消の訴えを提起するためには、右通知処分と同時に同一の理由によりされた当該欠損金額を減額する更正処分に対し不服申立を経由している場合であつても、右通知処分に対する不服申立を経由することが必要である。",
+  "ref_law": "国税通則法115条1項，行政事件訴訟法8条1項，法人税法81条6項",
+  "lawsuit_id": "52706",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52706",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/706/052706_hanrei.pdf"
+}

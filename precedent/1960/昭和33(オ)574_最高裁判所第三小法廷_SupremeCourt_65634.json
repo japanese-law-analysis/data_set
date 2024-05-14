@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 10,
+    "day": 10
+  },
+  "case_number": "昭和33(オ)574",
+  "case_name": "配当異議",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第55号543頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 4,
+    "day": 15
+  },
+  "gist": "根抵当権と民法第３７４条",
+  "case_gist": "与信契約が解約された結果根抵当権の被担保債権が確定したときは、右根抵当権は普通の抵当権に転換し、その後の利息については、民法第３７４条が適用されるものと解すべきである。",
+  "lawsuit_id": "65634",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=65634",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/634/065634_hanrei.pdf"
+}

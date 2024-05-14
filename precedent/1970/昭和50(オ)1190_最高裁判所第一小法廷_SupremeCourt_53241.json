@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 11,
+    "day": 25
+  },
+  "case_number": "昭和50(オ)1190",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第30巻10号960頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和50(ネ)974",
+  "original_date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 9,
+    "day": 17
+  },
+  "gist": "「運送人は保険に付された危険によつて生じた貨物の滅失等については損害賠償の責めに任じない」旨の港湾運送約款の解釈",
+  "case_gist": "港湾運送契約の締結に際し、荷送人が、貨物を海上保険に付したうえ、運送人との間で港湾運送約款に基づき「運送人は、保険に付された危険によつて生じた貨物の滅失等については、損害賠償の責めに任じない。」旨の合意をした場合でも、特段の事情のない限り、被保険者である荷送人は、保険金額の範囲内の損害につき、貨物滅失に基づく運送人に対する損害賠償請求権をあらかじめ放棄したものではないと解すべきである。",
+  "ref_law": "民法91条，民法519条，商法569条，商法577条，商法581条，商法629条，商法662条",
+  "lawsuit_id": "53241",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53241",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/241/053241_hanrei.pdf"
+}

@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 4,
+    "day": 25
+  },
+  "case_number": "昭和59(あ)153",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第236号837頁",
+  "original_court_name": "福岡高等裁判所\n        　宮崎支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 12,
+    "day": 22
+  },
+  "gist": "金員の供与が公職選挙法二二一条一項一号及び三号の双方の目的をもって行われた場合の罪数関係",
+  "ref_law": "公選法221条，刑法45条，刑法54条1項",
+  "lawsuit_id": "58359",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58359",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/359/058359_hanrei.pdf"
+}

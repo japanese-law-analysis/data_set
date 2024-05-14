@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 6,
+    "day": 27
+  },
+  "case_number": "昭和52(し)65",
+  "case_name": "被疑者氏名不詳に対する建造物侵入、軽犯罪法違反被疑事件についてした司法警察員のした押収に関する処分に対する準抗告棄却決定に対する特別抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第204号635頁",
+  "original_court_name": "大阪地方裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 5,
+    "day": 19
+  },
+  "gist": "目的の不当性、手段の違法性、嫌疑の不十分等を理由として、捜索差押の違憲を主張とする諭旨が前提を欠くとされた事例",
+  "ref_law": "憲法35条，刑訴法433条",
+  "lawsuit_id": "61735",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61735",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/735/061735_hanrei.pdf"
+}

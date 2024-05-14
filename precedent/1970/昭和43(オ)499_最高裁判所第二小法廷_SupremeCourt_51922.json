@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 4,
+    "day": 25
+  },
+  "case_number": "昭和43(オ)499",
+  "case_name": "雇傭関係存在確認請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第29巻4号456頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和42(ネ)551",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 2,
+    "day": 23
+  },
+  "gist": "除名が無効な場合におけるユニオン・ショップ協定に基づく解雇の効力",
+  "case_gist": "労働組合から除名された労働者に対し使用者がユニオン・ショップ協定に基づく労働組合に対する義務の履行として行う解雇は、右除名が無効な場合には、他に解雇の合理性を裏づける特段の事由がないかぎり、無効である。",
+  "ref_law": "労働組合法第2章，労働組合法第3章，民法627条",
+  "lawsuit_id": "51922",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51922",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/922/051922_hanrei.pdf"
+}

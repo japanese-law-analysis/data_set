@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 2,
+    "day": 16
+  },
+  "case_number": "昭和27(あ)4708",
+  "case_name": "有価証券偽造行使、詐欺未遂",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第92号325頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 7,
+    "day": 8
+  },
+  "gist": "弁護人がした同意の解釈。―被告人が共同被告人の供述調書を証拠とすることに同意したと認められる事例",
+  "case_gist": "所論について原判決を調べてみると、検察官は共同被告人数名の供述調書を同時に証拠として取調を請求し、弁護人はこれに対しなんら異議をとどめず証拠とすることに同意したことが認められる。このように検察官が各証拠の立証関係についてなんら区別を示さなかつた場合は、共同被告人相互の関係においても証拠とする趣旨であること明らかであるから、弁護人において特に同意しない部分を明示しないかぎり、各被告人相互の関係においても同意したものと認めるのが相当であつて、この趣旨に帰する原判決の判断は正当である。",
+  "ref_law": "刑訴法326条，刑訴法321条1項",
+  "lawsuit_id": "72531",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=72531",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/531/072531_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 12,
+    "day": 22
+  },
+  "case_number": "昭和41(行ツ)55",
+  "case_name": "当選無効裁決取消請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第85号817頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和39(行ケ)2",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 3,
+    "day": 30
+  },
+  "gist": "家族と離れ単身知人方に同居した者の住所をその同居先と認めた事例",
+  "case_gist": "妻子とともに甲町に居住するが、夫婦で乙市（甲町に隣接）において飲食店を経営し、かつ自身は同市における共産党の党活動に従事している者が、昭和三八年四月初め単身乙市の知人方に同居し、同所に住民登録をし、同所に寝起し、従前どおり飲食店の仕入や党活動を続け、同年九月さらに乙市内で転居し甲町から妻子を呼び寄せて同居するに至つているときは、その者の同年五月一〇日から八月一〇日の間における住所は、すでに乙市にあつたものと認めることができる。",
+  "ref_law": "公職選挙法9条",
+  "lawsuit_id": "66586",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66586",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/586/066586_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 2,
+    "day": 12
+  },
+  "case_number": "昭和44(オ)1153",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第98号201頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和44(ネ)192",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 7,
+    "day": 30
+  },
+  "gist": "下請負人の被用者の加害行為につき元請負人の使用者責任が認められた事例",
+  "case_gist": "工事の元請負人甲がその従業員乙を工事の責任者として工事現場に詰めさせ、下請負丙の工事施行を指揮監督させ、かつ、丙の被用者で工事の現場責任者である丁に対しても甲の直接の被用者と同様の指揮監督をしていた場合には、甲は丁がその工事の施行中機械の操作をあやまつた過失によりともに作業をしていた戊に損害を与えた行為につき使用者としての責任を負担する。",
+  "ref_law": "民法715条",
+  "lawsuit_id": "66707",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66707",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/707/066707_hanrei.pdf"
+}

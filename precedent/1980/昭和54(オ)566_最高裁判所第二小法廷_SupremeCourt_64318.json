@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 1,
+    "day": 18
+  },
+  "case_number": "昭和54(オ)566",
+  "case_name": "家屋明渡",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第129号27頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和50(ネ)1581",
+  "original_date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 2,
+    "day": 26
+  },
+  "gist": "本案の終局判決後に取り下げられた旧訴と当事者及び訴訟物を同じくする新訴の提起が違法でないとされた事例",
+  "case_gist": "本案の終局判決後に取り下げられた旧訴と当事者及び訴訟物を同じくする新訴の提起であつても、旧訴の取下の事情が判示（判文参照）のようなものであつて、当事者の責に帰すべき事由によるものではなく、また、当事者において同一紛争をむし返して訴訟制度をもてあそぶといつたような不当な意図を有していないときは、右新訴の提起は違法とはいえない。",
+  "ref_law": "民訴法237条2項",
+  "lawsuit_id": "64318",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64318",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/318/064318_hanrei.pdf"
+}

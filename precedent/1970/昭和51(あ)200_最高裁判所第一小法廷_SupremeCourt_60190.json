@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 3,
+    "day": 26
+  },
+  "case_number": "昭和51(あ)200",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第199号893頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 12,
+    "day": 23
+  },
+  "gist": "被告人の供述態度を量刑資料とすることは供述強要にあたるとの違憲（三八条一項違反）主張が欠前提とされた事例",
+  "ref_law": "憲法38条1項",
+  "lawsuit_id": "60190",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60190",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/190/060190_hanrei.pdf"
+}

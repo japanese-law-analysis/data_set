@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 12,
+    "day": 14
+  },
+  "case_number": "昭和53(あ)2288",
+  "case_name": "麻薬取締法違反、覚せい剤取締法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第33巻7号859頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 10,
+    "day": 17
+  },
+  "gist": "麻薬の譲受けと譲渡しが営利の目的で行われた場合の罪数関係",
+  "case_gist": "麻薬の譲受けとその麻薬の譲渡しは、たとえそれが営利の目的で行われたものでも、犯罪の通常の形態として手段又は結果の関係にあるものではなく、右両罪は併合罪の関係にある。",
+  "ref_law": "麻薬取締法64条の2第1項，麻薬取締法64条の2第2項，刑法45条，刑法54条1項",
+  "lawsuit_id": "51157",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51157",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/157/051157_hanrei.pdf"
+}

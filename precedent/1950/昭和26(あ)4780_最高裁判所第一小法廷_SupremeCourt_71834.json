@@ -1,0 +1,24 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 11,
+    "day": 13
+  },
+  "case_number": "昭和26(あ)4780",
+  "case_name": "窃盗、臨時物資需給調整法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第69号285頁",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 10,
+    "day": 18
+  },
+  "lawsuit_id": "71834",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=71834",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/834/071834_hanrei.pdf"
+}

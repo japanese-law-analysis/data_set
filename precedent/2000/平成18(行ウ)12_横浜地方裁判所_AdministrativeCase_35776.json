@@ -1,0 +1,19 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 8,
+    "day": 29
+  },
+  "case_number": "平成18(行ウ)12",
+  "case_name": "建築基準法第４２条２項道路確認請求事件",
+  "court_name": "横浜地方裁判所",
+  "field": "行政",
+  "gist": "いわゆる一括指定の方法により建築基準法４２条２項所定のいわゆるみなし道路の指定がされたことの確認を求める訴えの適法性",
+  "case_gist": "建築基準法４２条２項のいわゆるみなし道路指定は行政処分に当たり，一括指定の方法によるいわゆる２項道路指定の不存在確認を求める訴訟は行政事件訴訟法３条４項にいう処分の存否の確認を求める抗告訴訟であると解されるところ，いわゆる一括指定の方法により建築基準法４２条２項所定のいわゆるみなし道路の指定がされたことの確認を求める訴えは，みなし道路指定処分の存在の確認を求める抗告訴訟であると解するのが相当であって，適法である。",
+  "lawsuit_id": "35776",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=35776",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/776/035776_hanrei.pdf",
+  "contents": ""
+}

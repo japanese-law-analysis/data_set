@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 6,
+    "month": 12,
+    "day": 6
+  },
+  "case_number": "平成4(オ)2051",
+  "case_name": "手形貸付金",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集民　第173号441頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成3(ネ)2891",
+  "original_date": {
+    "era": "Heisei",
+    "year": 4,
+    "month": 8,
+    "day": 28
+  },
+  "gist": "根保証契約の保証の限度額が明示されなかった場合に右限度額が同時に設定された根抵当権の極度額と同額であり両者が併せて右同額の範囲内で債務の支払を保証又は担保するものとされた事例",
+  "case_gist": "信用組合取引約定により負担する現在及び将来の債務の支払を確保するため根保証契約と根抵当権設定契約が同一の当事者間で同時に締結された場合に、根保証契約の保証の限度額が明示されなかったとしても、根抵当権の極度額が債務の額を具体的に想定した上でその範囲内で抵当不動産の担保価値を把握すれば足りるとして定められたなど判示の事実関係の下においては、右根保証契約の保証の限度額は右根抵当権の極度額と同額であり、かつ、両者は併せて右同額の範囲内で債務の支払を保証又は担保するものと解すべきである。",
+  "ref_law": "民法446条",
+  "lawsuit_id": "62711",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62711",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/711/062711_hanrei.pdf"
+}

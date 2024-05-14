@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 7,
+    "day": 22
+  },
+  "case_number": "昭和27(あ)1088",
+  "case_name": "賍物故買",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第85号177頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 12,
+    "day": 10
+  },
+  "gist": "第二審において、第一審判決を破棄自判するに当り、自ら証拠説明をしている場合と、第一審認定の摘示事実の引用",
+  "case_gist": "原判決は、第一審判決中被告人に関する部分を破棄した上、新たに証拠説明をやり直しているから、自ら事実認定をして第一審判決の摘示事実を引用した趣旨と解される。従つて原判決には所論のように理由を附しないという違法はない。",
+  "ref_law": "刑訴法380条，刑訴法397条，刑訴法335条",
+  "lawsuit_id": "64830",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64830",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/830/064830_hanrei.pdf"
+}

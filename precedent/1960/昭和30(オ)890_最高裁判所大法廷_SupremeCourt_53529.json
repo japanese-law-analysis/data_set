@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 4,
+    "day": 5
+  },
+  "case_number": "昭和30(オ)890",
+  "case_name": "国籍存在確認請求",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第15巻4号657頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 7,
+    "day": 30
+  },
+  "gist": "朝鮮人男子と婚姻した内地人女子の平和条約発効後の国籍。",
+  "case_gist": "朝鮮人男子と婚姻した内地人女子で日本の国内法上朝鮮人としての法的地位をもつていた者は、平和条約発効とともに日本国籍を失う。",
+  "ref_law": "憲法10条，日本国との平和条約2条（ａ）項",
+  "lawsuit_id": "53529",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53529",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/529/053529_hanrei.pdf"
+}

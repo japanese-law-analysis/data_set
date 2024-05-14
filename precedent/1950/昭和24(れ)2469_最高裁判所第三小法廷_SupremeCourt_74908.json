@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 2,
+    "day": 21
+  },
+  "case_number": "昭和24(れ)2469",
+  "case_name": "経済関係罰則の整備に関する法律違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第16号545頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 8,
+    "day": 17
+  },
+  "gist": "裁判が迅速を欠いたことを理由とする上告の適否",
+  "case_gist": "裁判に迅速を欠いた違法があるからといつて、原判決を破棄すべきものとすれば、差戻すの外はない。そうすれば裁判の進行は更に一層阻害されて憲法の保障はいよいよ裏切られる矛盾を生ずるであろう。それ故裁判が迅速を欠き、憲法第三七條第一項に違反したとしても、上告の理由とすることができない。",
+  "ref_law": "憲法37條1項",
+  "lawsuit_id": "74908",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74908",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/908/074908_hanrei.pdf"
+}

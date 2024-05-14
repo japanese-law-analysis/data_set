@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 11,
+    "day": 29
+  },
+  "case_number": "昭和41(あ)1286",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第20巻9号1065頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 4,
+    "day": 14
+  },
+  "gist": "公職選挙法第二三五条の二第三号の罪と同法第二四三条第三号の罪との罪数関係",
+  "case_gist": "公職選挙法第一四八条の二第三項の規定に違反して、新聞紙に選挙に関する報道及び評論を掲載した者が、その掲載にかかる新聞紙を頒布した場合には、同法第二三五条の二第三号の罪と、同法第二四三条第三号の罪とが成立し、両者は併合罪となる。",
+  "ref_law": "公職選挙法148条の2第3項，公職選挙法235条の2第3号，公職選挙法243条3号，刑法45条",
+  "lawsuit_id": "50784",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50784",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/784/050784_hanrei.pdf"
+}

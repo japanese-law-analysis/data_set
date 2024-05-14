@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 10,
+    "day": 2
+  },
+  "case_number": "昭和27(あ)2966",
+  "case_name": "公務執行妨害、酒税法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第7巻10号1883頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 5,
+    "day": 7
+  },
+  "gist": "公務執行妨害罪の保護法益",
+  "case_gist": "刑法第九五条は公務員を特別に保護する規定ではなく、公務員によつて執行される公務を保護するものである。",
+  "ref_law": "刑法95条，憲法14条",
+  "lawsuit_id": "55679",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55679",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/679/055679_hanrei.pdf"
+}

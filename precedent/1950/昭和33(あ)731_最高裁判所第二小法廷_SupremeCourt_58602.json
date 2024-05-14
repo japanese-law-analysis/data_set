@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 6,
+    "day": 6
+  },
+  "case_number": "昭和33(あ)731",
+  "case_name": "猥褻物販売、猥褻物販売目的所持",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第126号105頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 11,
+    "day": 12
+  },
+  "lawsuit_id": "58602",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58602",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/602/058602_hanrei.pdf"
+}

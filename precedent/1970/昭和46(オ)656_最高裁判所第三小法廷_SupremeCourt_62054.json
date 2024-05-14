@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 11,
+    "day": 30
+  },
+  "case_number": "昭和46(オ)656",
+  "case_name": "人身保護請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第104号521頁",
+  "original_court_name": "津地方裁判所\n        　伊勢支部",
+  "original_case_number": "昭和46(人)1",
+  "original_date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 6,
+    "day": 22
+  },
+  "gist": "未成年の子を同居させることが子に意思能力があるため人身保護法および同規則にいう拘束にあたらないとされた事例",
+  "case_gist": "父母が離婚し、親権者を父と定められた子らを母が連れ去り同居させるに至つた場合において、当時子らが満一四歳、一二歳および一〇歳に達していて意思能力があるものと認められ、みずからの意思で母のもとにとどまつているものであるときは、母の行為は、人身保護法および同規則にいう拘束にあたらないと解することができる。",
+  "ref_law": "人身保護法2条，人身保護規則3条",
+  "lawsuit_id": "62054",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62054",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/054/062054_hanrei.pdf"
+}

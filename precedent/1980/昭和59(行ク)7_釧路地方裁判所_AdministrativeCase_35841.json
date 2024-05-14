@@ -1,0 +1,18 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 5,
+    "day": 29
+  },
+  "case_number": "昭和59(行ク)7",
+  "case_name": "移送申立事件",
+  "court_name": "釧路地方裁判所",
+  "field": "行政",
+  "gist": "全北海道開発局労働組合が行った争議行為に参加して懲戒処分を受けた同組合帯広支部分会の執行委員長が釧路地方裁判所に提起した同処分の取消しを求める訴えが，右争議行為に参加して同じ日に懲戒処分を受けた同組合の他の組合員が提起した右処分取消しの訴えとの関係で，相互に行政事件訴訟法１３条６号の関連請求に当たるとして，後者の訴えの係属する札幌地方裁判所へ移送された事例",
+  "lawsuit_id": "35841",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=35841",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/841/035841_hanrei.pdf",
+  "contents": ""
+}

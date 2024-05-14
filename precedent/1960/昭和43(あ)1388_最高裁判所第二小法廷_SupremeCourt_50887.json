@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 7,
+    "day": 7
+  },
+  "case_number": "昭和43(あ)1388",
+  "case_name": "業務上過失致死、道路交通法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第23巻8号1033頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 6,
+    "day": 14
+  },
+  "gist": "道路交通法七二条一項前段にいう「負傷者」の意義",
+  "case_gist": "道路交通法七二条一項前段にいう「負傷者」とは、死亡していることが一見明白な者を除き、車両等の交通によつて負傷したすべての者を含む。",
+  "ref_law": "道路交通法72条1項前段，道路交通法117条",
+  "lawsuit_id": "50887",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50887",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/887/050887_hanrei.pdf"
+}

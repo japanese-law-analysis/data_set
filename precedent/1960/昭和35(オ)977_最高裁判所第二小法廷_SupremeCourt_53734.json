@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 5,
+    "day": 31
+  },
+  "case_number": "昭和35(オ)977",
+  "case_name": "所有権保存登記等抹消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第17巻4号588頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 6,
+    "day": 6
+  },
+  "gist": "主たる建物の登記部分のみが無効である場合と附属建物を含めた全部の登記の抹消の許否。",
+  "case_gist": "主たる建物の登記部分のみが無効である場合は、その部分のみの抹消を許すべきであつて、附属建物を含めた全部の登記の抹消を許すべきではない。",
+  "ref_law": "民法177条，不動産登記法",
+  "lawsuit_id": "53734",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53734",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/734/053734_hanrei.pdf"
+}

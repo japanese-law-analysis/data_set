@@ -1,0 +1,18 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Heisei",
+    "year": 28,
+    "month": 9,
+    "day": 23
+  },
+  "case_number": "平成26(行ウ)70",
+  "case_name": "年金債権差押処分等取消請求事件",
+  "court_name": "東京地方裁判所",
+  "field": "行政",
+  "gist": "同一の期間につき二以上の給料等の支払を受ける滞納者について税務署長がした給料等の差押えの違法性",
+  "case_gist": "税務署長が，同一の期間につき二以上の給料等の支払を受ける滞納者について，当該滞納者の一の給料を差し押さえ，第三債務者に対し，差し押さえることができない金額の計算において滞納者が他の支払者から受ける給料等の額や国税徴収法７６条１項４号に掲げる金額をいくらで計算するかについて通知した場合において，当該通知に誤りがあり，具体的に発生する当該給料の支分権について，差押可能金額を超えて差押えをすることになるときは，その差押えは，過大となる金額の限度において違法となる。",
+  "lawsuit_id": "86954",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=86954",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/954/086954_hanrei.pdf"
+}

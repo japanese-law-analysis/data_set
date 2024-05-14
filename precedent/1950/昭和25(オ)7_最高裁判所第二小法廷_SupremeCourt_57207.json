@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 2,
+    "day": 22
+  },
+  "case_number": "昭和25(オ)7",
+  "case_name": "雇傭契約解除無効確認俸給支払請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第6巻2号258頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 11,
+    "day": 29
+  },
+  "gist": "政治活動をしないことを条件とする雇傭契約と基本的人権の制限",
+  "case_gist": "憲法で保障されたいわゆる基本的人権も絶対のものではなく、自己の自由意思に基く特別な公法関係または私法関係上の義務によつて制限を受けるものであつて、自己の自由意思により、校内において政治活動をしないことを条件として教員として学校に雇われた場合には、その契約は無効ではない。",
+  "ref_law": "憲法19条，憲法20条，憲法21条，民法623条",
+  "lawsuit_id": "57207",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57207",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/207/057207_hanrei.pdf"
+}

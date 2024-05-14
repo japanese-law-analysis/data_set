@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 10,
+    "day": 18
+  },
+  "case_number": "昭和40(オ)49",
+  "case_name": "不動産所有権確認等請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第84号583頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和32(ネ)695",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 9,
+    "day": 24
+  },
+  "gist": "代理人の名を示さず本人の名においてなした行為は代理行為として有効か",
+  "case_gist": "代理人が自己の名を示さず本人の名においてなした行為も代理行為として有効である。",
+  "ref_law": "民法99条",
+  "lawsuit_id": "66450",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66450",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/450/066450_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 4,
+    "day": 16
+  },
+  "case_number": "昭和38(あ)2735",
+  "case_name": "詐欺、窃盜",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第151号45頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 10,
+    "day": 21
+  },
+  "gist": "言渡された二個の刑が存する場合の未決勾留日数の裁定通算の方法。",
+  "case_gist": "原判決が原審の未決勾留日数中六〇日を刑期に算入する旨判示しながら、その二個の刑のいずれに、いかに算入するかを明示していない、かかる場合の未決勾留日数の裁定通算は、まず勾留状が発せられた罪に対する刑を本刑として、これに算入すべきことは当裁判所の判例（昭和三七年（あ）第二一七三号同三九年一月二三日第一小法廷判決参照）とするところである。",
+  "ref_law": "刑法21条",
+  "lawsuit_id": "76018",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=76018",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/018/076018_hanrei.pdf"
+}

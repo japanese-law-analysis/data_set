@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 6,
+    "month": 3,
+    "day": 29
+  },
+  "case_number": "平成4(し)120",
+  "case_name": "付審判請求棄却決定に対する抗告棄却決定に対する特別抗告",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第48巻3号1頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 4,
+    "month": 11,
+    "day": 11
+  },
+  "gist": "少年補導員が刑法一九五条一項にいう警察の職務を補助する者に当たらないとされた事例",
+  "case_gist": "大阪府警察本部通達に基づいて警察署長から委嘱を受け、非行少年等の早期発見・補導等を行う少年補導員（判文参照）は、警察署長から私人としての協力を依頼され、警察官と連携しつつ少年の補導等を行うものであって、警察の職務を補助する職務権限を何ら有するものではなく、刑法一九五条一項にいう警察の職務を補助する者に当たらない。",
+  "ref_law": "刑法195条1項，刑訴法262条1項",
+  "lawsuit_id": "50135",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50135",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/135/050135_hanrei.pdf"
+}

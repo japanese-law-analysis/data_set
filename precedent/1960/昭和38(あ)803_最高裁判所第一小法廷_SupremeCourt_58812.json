@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 2,
+    "day": 27
+  },
+  "case_number": "昭和38(あ)803",
+  "case_name": "関税法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第150号547頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 2,
+    "day": 21
+  },
+  "gist": "関税賍物故買罪の成立に必要な賍物に対する認識の程度。",
+  "case_gist": "関税法第一一二条第一項に規定する同法第一一〇条第一項の犯罪にかかる貨物について、これを情を知つて有償で取得する等の罪は、その故買者においてその物が同条項の罪に係る貨物であることの認識があれば足り、同条項第一号と第二号のいずれに該当する行為に係る貨物であるかの事実までも知る必要はない（昭和二八年（あ）第三五七一号、同三〇年九月一六日最高裁判所第二小法廷判決参照）。",
+  "ref_law": "関税法112条1項，関税法110条1項",
+  "lawsuit_id": "58812",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58812",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/812/058812_hanrei.pdf"
+}

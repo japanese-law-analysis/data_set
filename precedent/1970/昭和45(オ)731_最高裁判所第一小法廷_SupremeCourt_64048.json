@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 12,
+    "day": 24
+  },
+  "case_number": "昭和45(オ)731",
+  "case_name": "所有権移転登記手続等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第101号887頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和44(ネ)190",
+  "original_date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 4,
+    "day": 14
+  },
+  "gist": "清算型代物弁済予約の予約権者の後順位債権者に対する清算金の交付と右後順位者の本登記承諾義務との関係",
+  "case_gist": "清算型代物弁済予約の予約権者が、登記簿上利害関係を有する後順位債権者に対して本登記の承諾を求める場合には、右予約権者は、それらの者の債権額および優先順位に応じて清算金を同人らに交付すべき義務があり、同人らは、その交付を受けるのと引換えにのみ右承諾義務の履行をすべき旨を主張しうるものと解すべきである。",
+  "ref_law": "民法482条，民法533条，不動産登記法7条，不動産登記法105条，不動産登記法146条",
+  "lawsuit_id": "64048",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64048",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/048/064048_hanrei.pdf"
+}

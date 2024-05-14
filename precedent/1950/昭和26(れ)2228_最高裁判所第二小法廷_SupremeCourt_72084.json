@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 3,
+    "day": 28
+  },
+  "case_number": "昭和26(れ)2228",
+  "case_name": "公文書偽造、同行使、詐欺未遂",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第62号995頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 8,
+    "day": 4
+  },
+  "gist": "上告趣意に別件についての上告論旨を引用することの可否",
+  "case_gist": "別件についての原審相被告人Ａの弁護人の上告論旨引用は許されない。",
+  "ref_law": "旧刑訴法425条",
+  "lawsuit_id": "72084",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=72084",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/084/072084_hanrei.pdf"
+}

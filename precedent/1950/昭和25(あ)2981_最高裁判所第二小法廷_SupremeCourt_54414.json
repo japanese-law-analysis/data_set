@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 1,
+    "day": 19
+  },
+  "case_number": "昭和25(あ)2981",
+  "case_name": "昭和二二年勅令第一号違反公職選挙法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第5巻1号42頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 10,
+    "day": 27
+  },
+  "gist": "刑訴法第四〇〇条但書の法意",
+  "case_gist": "刑訴法第四〇〇条但書には、それに「及び」の辞句を用いているからといつて、控訴裁判所が訴訟記録並びに第一審で取調べた証拠のみによつて直ちに判決することができると認める場合でも、常に新な証拠を取調べた上でなければ、いわゆる破棄自判ができない旨を規定しているものと解すべきではなく、むしろ、同規定は、控訴裁判所が自ら新らたにかかる取調べを為すことができ、又これを為した場合には、それをも判決の資料と為すことができる旨を規定したものと解すべきである。",
+  "ref_law": "刑訴法400条但書",
+  "lawsuit_id": "54414",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54414",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/414/054414_hanrei.pdf"
+}

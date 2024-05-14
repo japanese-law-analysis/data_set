@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 3,
+    "day": 15
+  },
+  "case_number": "昭和36(あ)1195",
+  "case_name": "横領",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第141号463頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 3,
+    "day": 31
+  },
+  "gist": "横領罪の成立する事例―持分権のある共同預入名義の普通預金からの払戻",
+  "case_gist": "原審の認定したところによれば、第一審判決判示第二事実の預金につき、所論のように被告人に持分権があつたとしても、該預金は、被告人とＡとの共同預入名義となつていて、被告人の勝手に引出せないものであるにかかわらず、被告人がこれをほしいままに払戻を受けたというのであるから、右被告人の行為が横領罪に当ることは当然である。",
+  "ref_law": "刑法252条",
+  "lawsuit_id": "61288",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61288",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/288/061288_hanrei.pdf"
+}

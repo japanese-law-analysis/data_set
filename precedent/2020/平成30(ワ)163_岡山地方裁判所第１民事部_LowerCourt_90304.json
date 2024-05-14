@@ -1,0 +1,16 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Reiwa",
+    "year": 3,
+    "month": 4,
+    "day": 13
+  },
+  "case_number": "平成30(ワ)163",
+  "case_name": "憲法５３条違憲国家賠償請求事件",
+  "court_name": "岡山地方裁判所第１民事部",
+  "result": "棄却",
+  "lawsuit_id": "90304",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=90304",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/304/090304_hanrei.pdf"
+}

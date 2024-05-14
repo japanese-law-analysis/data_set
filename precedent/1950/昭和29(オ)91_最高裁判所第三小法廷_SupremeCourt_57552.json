@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 12,
+    "day": 3
+  },
+  "case_number": "昭和29(オ)91",
+  "case_name": "子の認知請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第11巻13号2009頁",
+  "original_court_name": "仙台高等裁判所\n        　秋田支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 11,
+    "day": 30
+  },
+  "gist": "認知の訴において父子関係の存在が証明されたと認むべき一事例",
+  "case_gist": "認知の訴において、（イ）甲（原告）の母は、受胎可能の期間中乙（被告）と継続的に情交を結んだ事実があり（ロ）右期間中甲の母が乙以外の男と情交関係のあつた事情は認められず（ハ）乙は甲出生の頃甲の母を妻に迎えたい旨申入れた事実があり（ニ）血液型からすれば乙が甲の父であり得べきときは、他に別段の事情のないかぎり、乙は甲の父であると推認すべきである。",
+  "ref_law": "民法787条，民訴法185条，人事訴訟手続法29条ノ2",
+  "lawsuit_id": "57552",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57552",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/552/057552_hanrei.pdf"
+}

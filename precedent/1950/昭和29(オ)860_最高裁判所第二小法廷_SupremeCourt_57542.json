@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 10,
+    "day": 5
+  },
+  "case_number": "昭和29(オ)860",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第10巻10号1239頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 7,
+    "day": 20
+  },
+  "gist": "賃借権の譲渡に対し賃貸人のなす承諾の相手方",
+  "case_gist": "賃借人のなした賃借権の譲渡に対する賃貸人の承諾は、かならずしも譲渡人に対してなすを要せず、譲受人に対してなすを妨げない。",
+  "ref_law": "民法612条",
+  "lawsuit_id": "57542",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57542",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/542/057542_hanrei.pdf"
+}

@@ -1,0 +1,19 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 9,
+    "day": 5
+  },
+  "case_number": "平成20(レ)16",
+  "case_name": "郵便貯金債権返還請求控訴事件",
+  "court_name": "名古屋地方裁判所民事第６部",
+  "original_court_name": "名古屋簡易裁判所",
+  "original_case_number": "平成19(ハ)7383",
+  "gist": "日本郵政公社職員が郵便貯金の権利保全手続についてその権利者Ｘらからの質問に対し誤った説明をしたために，Ｘらが権利消滅前に権利行使をしなかったという事情の下において，Ｘらの郵便貯金払戻請求に対し日本郵政公社又はその承継人が郵便貯金の権利消滅を主張することが権利濫用に当たるとされた事例",
+  "lawsuit_id": "37071",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=37071",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/071/037071_hanrei.pdf",
+  "contents": ""
+}

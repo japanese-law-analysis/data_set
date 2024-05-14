@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 11,
+    "day": 24
+  },
+  "case_number": "平成22(行ウ)1",
+  "case_name": "行政文書非公開決定処分取消及び行政文書公開処分義務付け請求事件",
+  "court_name": "岐阜地方裁判所",
+  "result": "その他",
+  "gist": "本巣市議会による，本巣市情報公開条例に基づく「議会の規律に関する検討委員会（４回分）の会議録及び録音データ」の行政文書公開請求についての行政文書非公開決定が違法であるとされ，処分の取消が認められた事例",
+  "lawsuit_id": "81157",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=81157",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/157/081157_hanrei.pdf",
+  "contents": ""
+}

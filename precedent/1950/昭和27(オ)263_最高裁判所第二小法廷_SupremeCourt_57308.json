@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 11,
+    "day": 20
+  },
+  "case_number": "昭和27(オ)263",
+  "case_name": "買収令書取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第7巻11号1238頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 3,
+    "day": 15
+  },
+  "gist": "農地買収処分の撤回があつたものと認むべき場合の一事例",
+  "case_gist": "農地買収令書の記載に誤りがあり、処分の相手方が正式にこれを受領することを拒んでいる状態において、権限庁が一たん交付した令書の返還を受けてこれを破棄し新たな令書を交付したような場合には、初めの令書に基く処分は撤回され、後の令書により買収処分が実施されたものと解するのが相当である。",
+  "ref_law": "自作農創設特別措置法9条",
+  "lawsuit_id": "57308",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57308",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/308/057308_hanrei.pdf"
+}

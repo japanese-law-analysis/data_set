@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 12,
+    "day": 14
+  },
+  "case_number": "昭和54(オ)801",
+  "case_name": "所有権移転登記抹消登記手続",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第128号229頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和53(ネ)2608",
+  "original_date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 4,
+    "day": 26
+  },
+  "gist": "遺産分割の結果当該不動産を取得しないこととなつた共同相続人による被相続人生存中の不動産譲渡行為と民法九〇九条但書の適用の有無",
+  "case_gist": "被相続人の生存中に権限なくして不動産を第三者に譲渡した共同相続人が遺産分割の結果当該不動産を取得しないこととなつた場合については、民法九〇九条但書の適用がなく、第三者は右共同相続人の法定相続分に応じた共有持分権を取得しない。",
+  "ref_law": "民法909条",
+  "lawsuit_id": "64325",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64325",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/325/064325_hanrei.pdf"
+}

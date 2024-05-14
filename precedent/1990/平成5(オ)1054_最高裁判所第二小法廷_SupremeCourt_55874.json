@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 8,
+    "month": 1,
+    "day": 26
+  },
+  "case_number": "平成5(オ)1054",
+  "case_name": "売買代金返還等",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第50巻1号155頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成4(ネ)1123",
+  "original_date": {
+    "era": "Heisei",
+    "year": 5,
+    "month": 2,
+    "day": 26
+  },
+  "gist": "借地権付き建物に対する強制競売において借地権が存在しなかった場合と民法五六八条一項、二項及び五六六条一項、二項の類推適用",
+  "case_gist": "建物に対する強制競売において、借地権の存在を前提として売却が実施されたことが明らかであるにもかかわらず、代金納付の時点において借地権が存在しなかった場合、買受人は、そのために建物買受けの目的を達することができず、かつ、債務者が無資力であるときは、民法五六八条一項、二項及び五六六条一項、二項の類推適用により、強制競売による建物の売買契約を解除した上、売却代金の配当を受けた債権者に対し、その返還を請求することができる。",
+  "ref_law": "民法566条1項2項，民法568条1項2項，民事執行法60条，民事執行法62条，民事執行法79条",
+  "lawsuit_id": "55874",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55874",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/874/055874_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 6,
+    "day": 3
+  },
+  "case_number": "昭和48(オ)708",
+  "case_name": "地料増額請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第30巻6号571頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和46(ネ)203",
+  "original_date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 4,
+    "day": 16
+  },
+  "gist": "地代家賃統制令の適用のある借地又は借家につき裁判、裁判上の和解又は調停により地代又は家賃の額を定める場合と統制額",
+  "case_gist": "地代家賃統制令の適用のある借地又は借家につき裁判、裁判上の和解又は調停によつて地代又は家賃の額を定める場合には、停止統制額又は認可統制額を超えてでも適正な額を定めることができる。",
+  "ref_law": "地代家賃統制令10条，借地法12条1項，借家法7条1項",
+  "lawsuit_id": "54205",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54205",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/205/054205_hanrei.pdf"
+}

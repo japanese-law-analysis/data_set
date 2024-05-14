@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 9,
+    "day": 26
+  },
+  "case_number": "昭和31(オ)420",
+  "case_name": "詐害行為取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第12巻13号3022頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 2,
+    "day": 7
+  },
+  "gist": "弁済を詐害行為であると認めた判断が違法とされた事例。",
+  "case_gist": "債務超過の状態にある債務者が、一債権者に対しなした弁済が、たとえ原審認定（原判決参照）の如き経緯に出た場合であつても、それが債権者から強く要求された結果、法律上当然弁済すべき債務をやむなく弁済したものと認められる以上、未だこれをもつて債務者が一債権者と通謀し他の債権者を害する意思をもつてなした詐害行為であると解することはできない。",
+  "ref_law": "民法424条",
+  "lawsuit_id": "52857",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52857",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/857/052857_hanrei.pdf"
+}

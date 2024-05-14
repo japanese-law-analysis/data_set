@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 12,
+    "day": 2
+  },
+  "case_number": "昭和40(あ)1064",
+  "case_name": "賍物故買",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第157号427頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 3,
+    "day": 11
+  },
+  "gist": "単に公判期日を変更する場合と公判手続更新の要否。",
+  "case_gist": "本件のように単に公判期日を変更するに止まるような場合には、開廷後裁判官がかわつたときでも、公判手続を更新する必要はないと解すべきである。（昭和二九年（あ）第一〇三四号同二九年六月一六日第二小法廷決定、裁判集九六号二五三頁参照）",
+  "ref_law": "刑訴法276条，刑訴法315条",
+  "lawsuit_id": "58899",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58899",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/899/058899_hanrei.pdf"
+}

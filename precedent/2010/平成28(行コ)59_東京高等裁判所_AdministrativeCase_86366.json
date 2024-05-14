@@ -1,0 +1,18 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Heisei",
+    "year": 28,
+    "month": 6,
+    "day": 15
+  },
+  "case_number": "平成28(行コ)59",
+  "case_name": "検査済証交付処分取消請求控訴事件（原審・東京地方裁判所平成２７年（行ウ）第４３２号）",
+  "court_name": "東京高等裁判所",
+  "field": "行政",
+  "gist": "建築物の周辺住民が建築物の完了検査に係る検査済証交付処分の取消しを求める訴えの利益の有無",
+  "case_gist": "建築物の周辺住民は，建築物の完了検査に係る検査済証交付処分の取消しを求める訴えの利益を有しない。",
+  "lawsuit_id": "86366",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=86366",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/366/086366_hanrei.pdf"
+}

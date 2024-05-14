@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 4,
+    "day": 22
+  },
+  "case_number": "昭和58(行ツ)31",
+  "case_name": "審決取消",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第147号587頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和55(行ケ)170",
+  "original_date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 12,
+    "day": 23
+  },
+  "gist": "商標法五一条一項の規定に基づく商標登録の取消の審判請求が信義則に反し許されない場合",
+  "case_gist": "商標権者甲のした自己の登録商標に類似する商標の使用が乙の業務に係る商品と混同を生ずるものであつても、右使用商標が甲乙間の裁判上の和解において乙が甲にその使用を認めたものであり、しかも、右和解において、乙が甲の登録商標に対する登録異議の申立を取り下げてそれが登録されることを認め、その対価として甲から和解金を受領し、その結果甲が右使用商標を継続して使用したという事実がある場合は、乙が商標法五一条一項に基づき右登録商標の登録を取り消すことについて審判を請求することは、信義則に反するものとして許されない。\n\n（反対意見がある。）",
+  "ref_law": "商標法51条1項，民法1条2項",
+  "lawsuit_id": "62313",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62313",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/313/062313_hanrei.pdf"
+}

@@ -1,0 +1,18 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Heisei",
+    "year": 29,
+    "month": 3,
+    "day": 3
+  },
+  "case_number": "平成25(行ウ)321",
+  "case_name": "相続税更正処分等取消請求事件",
+  "court_name": "東京地方裁判所",
+  "field": "行政",
+  "gist": "借地権の目的となっている宅地（底地）の価額の評価方法",
+  "case_gist": "借地権の目的となっている宅地（底地）の価額の評価方法について，財産評価基本通達（昭和３９年４月２５日付け直審（資）１７国税庁長官通達。ただし，平成２１年５月１３日課評３－６による改正前のもの。以下同じ。）所定の方法により評価した自用地としての価額から，同通達の定めにより評価した借地権の価額を控除した金額によって評価する旨を定める同通達２５の内容は，相続財産である当該宅地の客観的交換価値を算定する上での一般的な合理性を有していると認められる。",
+  "lawsuit_id": "87186",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=87186",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/186/087186_hanrei.pdf"
+}

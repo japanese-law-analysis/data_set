@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 4,
+    "day": 28
+  },
+  "case_number": "昭和40(オ)467",
+  "case_name": "家督相続人選定親族会決議無効確認請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第87号341頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和38(ネ)808",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 1,
+    "day": 20
+  },
+  "gist": "新民法施行後における旧民法による家督相続人選定親族会決議無効確認の訴の利益の有無",
+  "case_gist": "新民法施行後は、旧民法によつてされた家督相続人選定親族会決議の無効確認を求める訴の利益はない。",
+  "ref_law": "旧民法951条，旧民法985条，民法附則23条，民法附則25条，民訴法225条",
+  "lawsuit_id": "70185",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70185",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/185/070185_hanrei.pdf"
+}

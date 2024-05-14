@@ -1,0 +1,16 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 29,
+    "month": 7,
+    "day": 19
+  },
+  "case_number": "平成27(行ウ)186",
+  "case_name": "遺族補償給付等不支給処分取消請求事件",
+  "court_name": "大阪地方裁判所",
+  "gist": "事業場における石綿曝露作業に従事したことが原因で石綿肺及びびまん性胸膜肥厚を発症し，これにより労働者災害補償保険法に基づく傷病補償年金を受給していた者が入院中に誤嚥を起こし低酸素脳症により死亡したことについて，誤嚥の発生及び症状の重篤化は，石綿関連疾患による慢性的な呼吸不全及び全身状態の悪化に伴う嚥下機能障害が寄与したものであるとして，石綿関連疾患と死亡の間の因果関係を肯定し，労働者災害補償保険法に基づく遺族補償給付等を不支給とした処分を取り消した事例",
+  "lawsuit_id": "87000",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=87000",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/000/087000_hanrei.pdf"
+}

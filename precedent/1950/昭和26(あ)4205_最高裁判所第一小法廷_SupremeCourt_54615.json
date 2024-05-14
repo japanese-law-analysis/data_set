@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 2,
+    "day": 19
+  },
+  "case_number": "昭和26(あ)4205",
+  "case_name": "食糧管理法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第7巻2号293頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 9,
+    "day": 5
+  },
+  "gist": "憲法第三七条第一項に違反しない事例",
+  "case_gist": "ただ一人の裁判官が配属せられ且つその裁判官が簡易裁判所裁判官と地裁支部裁判官とを兼任している場合、裁判官が簡易裁判所に略式命令の請求があつた事件につき、これを略式命令不相当として通常公判手続に移し、二回の公判審理とこれに伴う証拠調をした上、地方裁判所において審判するのが相当だとしてさらに地方裁判所支部に移送し、自ら審理判決をしたとしても、その一事をもつて憲法第三七条第一項にいわゆる公平な裁判所の裁判でないということはできない。",
+  "ref_law": "刑訴法463条，刑訴法332条，刑訴法20条，裁判所法33条3項，憲法37条1項",
+  "lawsuit_id": "54615",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54615",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/615/054615_hanrei.pdf"
+}

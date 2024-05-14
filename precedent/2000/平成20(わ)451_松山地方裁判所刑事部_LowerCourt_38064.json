@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 6,
+    "day": 11
+  },
+  "case_number": "平成20(わ)451",
+  "case_name": "窃盗，強盗致傷（認定事実は窃盗），犯人隠避",
+  "court_name": "松山地方裁判所刑事部",
+  "gist": "窃盗事件の一部につき，氏名不詳者と共謀の上行ったという予備的訴因を認定（主位的訴因は被告人単独で行ったとするもの）し，強盗致傷につき，強盗についての共謀はないという弁護人の主張を認めた上，懲役３年６月の実刑が言い渡された事例",
+  "lawsuit_id": "38064",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=38064",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/064/038064_hanrei.pdf",
+  "contents": ""
+}

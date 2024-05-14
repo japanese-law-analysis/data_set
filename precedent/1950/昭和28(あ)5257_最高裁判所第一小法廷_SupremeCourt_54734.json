@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 6,
+    "day": 24
+  },
+  "case_number": "昭和28(あ)5257",
+  "case_name": "職務強要",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第8巻6号951頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 9,
+    "day": 21
+  },
+  "gist": "憲法第二八条の団体交渉にあたらない一事例",
+  "case_gist": "本件Ａ労働者組合と須賀川公共職業安定所間における失業対策事業の適格審査についての交渉のごときものは、憲法第二八条の保障する権利の行使に該当しない。",
+  "ref_law": "憲法28条",
+  "lawsuit_id": "54734",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54734",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/734/054734_hanrei.pdf"
+}

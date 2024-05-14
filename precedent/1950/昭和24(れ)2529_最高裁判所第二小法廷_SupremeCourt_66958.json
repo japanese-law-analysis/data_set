@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 1,
+    "day": 26
+  },
+  "case_number": "昭和24(れ)2529",
+  "case_name": "物価統制令違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第39号767頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 7,
+    "day": 9
+  },
+  "gist": "第一審において懲役四月及罰金五万円を言渡し第二審において罰金一五万円を言渡した場合と不利益変更の禁止",
+  "case_gist": "本件において一審判決は被告人に対し懲役四月及罰金五万円に処する。但懲役刑については一年間その執行を猶予する旨を言渡したに対し、原審は、罰金十五万円に処する旨の判決を言渡したのであつて、懲役刑が罰金刑よりも重い刑であることは刑法第一〇条の明定するところであるから、右原審の刑を以て第一審の刑よりも重いとすることはできない。従つて論旨は理由がない。",
+  "ref_law": "旧刑訴法403条，刑法10条",
+  "lawsuit_id": "66958",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66958",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/958/066958_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 6,
+    "day": 27
+  },
+  "case_number": "昭和38(オ)842",
+  "case_name": "損害賠償請求、同附帯控訴",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第91号461頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和36(ネ)2010",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 4,
+    "day": 24
+  },
+  "gist": "一、民法第七二四条の「損害及ヒ加害者ヲ知リタル時」にあたるとされた事例\n二、一個の債権の数量的な一部についてのみ判決を求める旨を明示して訴を提起した場合と右残部についての消滅時効中断の効力",
+  "case_gist": "一、登記官吏の過失により虚偽の所有権移転登記がされ、これを信頼して土地を買い受け、その地上に建物を建築したものが、右事実関係を知り自己が右土地の所有権を取得しえないことを知つたときは、その時に、右建物を収去することによつて生ずる損害についてもその損害および加害者を知つたものと解するのが相当である。\n二、不法行為に基づく損害賠償債権の一部についてのみ判決を求める旨を明示して訴を提起した場合、訴提起による消滅時効中断の効力はその一部の範囲においてのみ生じ、残部には及ばないと解するのが相当である。",
+  "ref_law": "民法724条，民法147条1号，国家賠償法1条，国家賠償法4条",
+  "lawsuit_id": "70149",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70149",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/149/070149_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 12,
+    "month": 3,
+    "day": 9
+  },
+  "case_number": "平成9(オ)992",
+  "case_name": "損害賠償請求及び独立当事者参加事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第54巻3号960頁",
+  "original_court_name": "福岡高等裁判所\n        　那覇支部",
+  "original_case_number": "平成8(ネ)16",
+  "original_date": {
+    "era": "Heisei",
+    "year": 9,
+    "month": 1,
+    "day": 28
+  },
+  "gist": "交通事故の被害者の保有者に対する損害賠償請求権が第三者に転付された場合と自動車損害賠償保障法一六条一項に基づく被害者の保険会社に対する損害賠償額支払請求権の帰すう",
+  "case_gist": "交通事故の被害者の保有者に対する損害賠償請求権が第三者に転付された場合には、被害者は、転付された債権額の限度において自動車損害賠償保障法一六条一項に基づく損害賠償額の支払請求権を失う。\n（補足意見及び反対意見がある。）",
+  "ref_law": "自動車損害賠償保障法16条1項，自動車損害賠償保障法23条の2第1項，民事執行法159条，民事執行法160条",
+  "lawsuit_id": "52618",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52618",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/618/052618_hanrei.pdf"
+}

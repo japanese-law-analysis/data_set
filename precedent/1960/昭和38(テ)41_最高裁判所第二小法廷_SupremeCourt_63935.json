@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 2,
+    "day": 14
+  },
+  "case_number": "昭和38(テ)41",
+  "case_name": "仮差押異議",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第72号193頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 4,
+    "day": 30
+  },
+  "gist": "民訴法第四〇九条ノ二第二項の規定は憲法第三二条に違反するか。",
+  "case_gist": "民訴法第四〇九条ノ二第二項は憲法第三二条に違反しない。",
+  "ref_law": "民訴法409条ノ2第2項，憲法32条",
+  "lawsuit_id": "63935",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63935",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/935/063935_hanrei.pdf"
+}

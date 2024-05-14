@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 3,
+    "day": 16
+  },
+  "case_number": "昭和24(れ)2741",
+  "case_name": "昭和二二年政令第一六五号違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第16号831頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 6,
+    "day": 20
+  },
+  "gist": "賍物故買罪と昭和二二年政令第一六五號違反罪",
+  "case_gist": "政令第一六五號違反の罪は、占領軍物資であることを認識してこれを買受ける場合に成立し、賍物故買罪は賍物であることを認識してこれを買受ける場合に成立する。この二つの認識が同時に存在する場合には二つの罪が成立するが、その中一つの認識しか存在しない場合には一つの罪のみが成立することは當然である。この兩罪が起訴された場合において、賍物故買罪を無罪としながら、政令第一六五號違反の罪を有罪としたからといつてそれだけで所論のように實驗則に反すると認むべき理據はどこにも存在しないのである。",
+  "ref_law": "刑法38條1項，刑法256條，昭和22年政令165號1條",
+  "lawsuit_id": "74931",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74931",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/931/074931_hanrei.pdf"
+}

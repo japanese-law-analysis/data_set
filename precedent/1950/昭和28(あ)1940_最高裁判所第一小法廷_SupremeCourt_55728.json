@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 10,
+    "day": 15
+  },
+  "case_number": "昭和28(あ)1940",
+  "case_name": "強盗",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第7巻10号1921頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 2,
+    "day": 24
+  },
+  "gist": "刑訴第四三五条第六号後段にいわゆる「原判決において認められた罪より軽い罪を認めるべきとき」の意味と心神耗弱",
+  "case_gist": "刑訴第四三五条第六号後段にいわゆる「原判決において認められた罪より軽い罪を認めるべきとき」とは、原判決が認めた犯罪よりもその法定刑の軽い他の犯罪を認めるべきときをいうのであつて、被告人が心神耗弱者であると認める場合はこれにあたらない。",
+  "ref_law": "刑訴法435条6号，刑法39条2項",
+  "lawsuit_id": "55728",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55728",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/728/055728_hanrei.pdf"
+}

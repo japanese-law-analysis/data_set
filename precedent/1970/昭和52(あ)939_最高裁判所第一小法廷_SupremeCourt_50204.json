@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 5,
+    "day": 22
+  },
+  "case_number": "昭和52(あ)939",
+  "case_name": "建造物侵入、公務執行妨害",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第32巻3号427頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 4,
+    "day": 19
+  },
+  "gist": "公務執行妨害罪における職務にあたるとされた事例―いわゆる徳島専売公社事件―",
+  "case_gist": "日本専売公社徳島地方局社内取締規程に基づいて発せられた本件立入禁止命令及び退去命令の同公社職員による執行は、それが民間企業にみられるのと同じ労使間の紛争を処理するためにとられた措置であつても、公務執行妨害罪における職務にあたる。",
+  "ref_law": "刑法95条1項，日本専売公社法18条1項",
+  "lawsuit_id": "50204",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50204",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/204/050204_hanrei.pdf"
+}

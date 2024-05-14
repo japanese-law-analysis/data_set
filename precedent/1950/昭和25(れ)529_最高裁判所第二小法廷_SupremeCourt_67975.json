@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 7,
+    "day": 28
+  },
+  "case_number": "昭和25(れ)529",
+  "case_name": "銃砲等所持禁止令違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第18号1121頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 7,
+    "day": 14
+  },
+  "gist": "昭和二三年二月二四日附米國第八軍司令部より日本政府内務省保局長宛「日本の刀劍並びに鉄砲の回收、類別及び處分」と題する覺書の効力",
+  "case_gist": "昭和二三年二月二四日附米國第八軍司令部より日本政府内務省保局長宛の「日本の刀劍並びに鉄砲の回收、類別及び處分」と題する覺書は一定の要件の下に、刀劍並に鉄砲の登録申請の受付及び處理を昭和二三年六月一日まで延長を許可したものであつて、一旦成立した銃砲等所持禁止令第一條違反の罪に消長を來すものではない。（昭和二三年（れ）第一、九一五號同二四年五月一日第二小法廷判決參照）",
+  "ref_law": "銃砲等所持禁止令1條，昭和23年2月24日附米國8軍司令部より日本政府内務省警保局長宛覺書",
+  "lawsuit_id": "67975",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=67975",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/975/067975_hanrei.pdf"
+}

@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 11,
+    "day": 27
+  },
+  "case_number": "昭和51(秩ち)3",
+  "case_name": "法廷等の秩序維持に関する法律による制裁事件についてした抗告棄却決定に対する特別抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第202号447頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 11,
+    "day": 2
+  },
+  "gist": "法廷等の秩序維持に関する法律による制裁に対し氏名の記載のない申立書によつてした特別抗告申立の適否（消極）",
+  "ref_law": "法秩法6条，法秩法規則18条，法秩法規則19条",
+  "lawsuit_id": "61715",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61715",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/715/061715_hanrei.pdf"
+}

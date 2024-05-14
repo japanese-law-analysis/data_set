@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 4,
+    "day": 20
+  },
+  "case_number": "昭和35(オ)998",
+  "case_name": "動産所有権確認等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第60号377頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 5,
+    "day": 30
+  },
+  "gist": "所有者から占有権限を伝来取得したと主張する占有者は所有者の包括承継人に対し民法第一八八条の権利推定を援用しうるか",
+  "case_gist": "所有者から物の占有権限を伝来取得したと主張する占有者は、前主たる所有者に対して民法第一八八条の権利推定を援用しえないと同様に、右所有者の包括承継人に対しても、これを援用できない。",
+  "ref_law": "民法188条",
+  "lawsuit_id": "77639",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77639",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/639/077639_hanrei.pdf"
+}

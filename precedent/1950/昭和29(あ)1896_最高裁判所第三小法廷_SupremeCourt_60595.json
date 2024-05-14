@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 5,
+    "day": 29
+  },
+  "case_number": "昭和29(あ)1896",
+  "case_name": "銃砲刀剣類等所持取締令違反、脅迫、威力業務妨害、住居侵入、暴行、傷害",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第113号613頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 4,
+    "day": 27
+  },
+  "gist": "刑法第二三四条にいう「威力」にあたる一事例",
+  "case_gist": "原審は「被告人らは、もし運転中止の要求に応じなければ運転手Ａに対し危害をも加えかねない気勢を示して同人を畏怖せしめた」事実をも認定しているのであるから、かような事実を以て同条にいわゆる「威力」に該るものとした原判決は正当である。",
+  "ref_law": "刑法234条",
+  "lawsuit_id": "60595",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60595",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/595/060595_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 12,
+    "day": 9
+  },
+  "case_number": "昭和54(あ)1289",
+  "case_name": "風俗営業等取締法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第220号463頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 7,
+    "day": 3
+  },
+  "gist": "昭和三九年長崎県条例第六一号風俗営業等取締法施行条例二四条四号と憲法三一条",
+  "case_gist": "昭和三九年長崎県条例第六一号風俗営業等取締法施行条例二四条四号が明確性を欠き憲法三一条に違反するとの主張は、被告会社の従業員がした本件所為が右規定にいう「卑わいな行為」にあたることは明らかであり、右規定は本件に適用される限りにおいては明確性を欠くとはいえないから、前提を欠く。",
+  "ref_law": "憲法31条，風俗営業等取締法3条，風俗営業等取締法施行条例（昭和39年長崎県条例61号）24条4号",
+  "lawsuit_id": "58116",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58116",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/116/058116_hanrei.pdf"
+}

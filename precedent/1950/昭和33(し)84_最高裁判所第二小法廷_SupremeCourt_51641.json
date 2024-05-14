@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 2,
+    "day": 13
+  },
+  "case_number": "昭和33(し)84",
+  "case_name": "保釈保証金没取決定に対する異議申立事件についてなした決定に対する特別抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第13巻2号153頁",
+  "original_court_name": "福岡高等裁判所\n        　宮崎支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 11,
+    "day": 6
+  },
+  "gist": "保釈保証書を差し出した者の保証金没取決定に対する異議申立権の有無。",
+  "case_gist": "保釈された者が有罪判決確定後逃亡したことを理由として高等裁判所がなした同人に対する保釈保証金没取決定に対し、さきに同人のため保証書を差し出した者は、刑訴第三五二条の「被告人以外の者で決定を受けたもの」として、みずから異議申立をすることはできない。",
+  "ref_law": "刑訴法96条，刑訴法94条3項，刑訴法352条，428条，420条1項，420条2項",
+  "lawsuit_id": "51641",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51641",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/641/051641_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 4,
+    "day": 1
+  },
+  "case_number": "昭和47(あ)1481",
+  "case_name": "暴行",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第28巻3号17頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 5,
+    "day": 12
+  },
+  "gist": "準起訴手続によつて審判に付された事件において刑訴法二六二条一項に掲げる罪以外の罪で処罰することの可否",
+  "case_gist": "準起訴裁判所が、相当な嫌疑のもとに刑訴法二六二条一項に掲げる罪が成立すると判断し公訴提起すべきものとして審判に付した以上、公判審理の結果それ以外の罪の成立が認められるにすぎないことになつたとしても、審判に付された事件と公訴事実の同一性が認められるかぎり、この罪で処罰することができる。",
+  "ref_law": "刑訴法262条1項，刑訴法265条，刑訴法338条4号",
+  "lawsuit_id": "51043",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51043",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/043/051043_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 6,
+    "day": 3
+  },
+  "case_number": "昭和50(オ)372",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第118号23頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和45(ネ)3329",
+  "original_date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 1,
+    "day": 29
+  },
+  "gist": "主要取引先の倒産により連鎖的に支払不能に陥つた株式会社の代表取締役に商法二六六条ノ三第一項前段にいう職務を行うについて重大な過失があるとされた事例",
+  "case_gist": "株式会社の代表取締役が、主要な販売取引先の経営状態の悪化を知りながら、右取引先の事業に関する調査を怠り、漫然取引を続け、右取引先から受け取る手形の割引によつて支払が可能であると軽信して、他に支払手段を講ずることなく仕入取引先から原材料を仕入れたところ、右販売取引先の倒産により仕入代金の支払不能に陥つた場合には、右取締役は、該仕入取引に関し、商法二六六条ノ三第一項前段にいう職務を行うについて重大な過失がある。",
+  "ref_law": "商法266条ノ3第1項",
+  "lawsuit_id": "66833",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66833",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/833/066833_hanrei.pdf"
+}

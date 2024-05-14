@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 12,
+    "day": 24
+  },
+  "case_number": "昭和42(オ)1391",
+  "case_name": "所有権移転登記抹消登記手続請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第24巻13号2230頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "昭和40(ネ)280",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 9,
+    "day": 14
+  },
+  "gist": "無権代理行為が追認されたのちに無権代理人が新たに無権代理行為をした場合と民法一一〇条一一二条の類推適用",
+  "case_gist": "無権代理人甲が乙の代理人と称して丙と締結した抵当権設定契約を乙が追認したのち、甲が乙の代理人と称して丁と抵当権設定契約を締結した場合において、丁が甲に乙を代理して右抵当権設定契約をする権限があると信ずべき正当の事由を有するときは、乙は、民法一一〇条および一一二条の類推適用により、甲のした抵当権設定契約につき責に任じなければならない。",
+  "ref_law": "民法110条，民法112条",
+  "lawsuit_id": "53168",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53168",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/168/053168_hanrei.pdf"
+}

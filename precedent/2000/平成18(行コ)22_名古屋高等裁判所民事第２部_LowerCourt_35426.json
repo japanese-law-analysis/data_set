@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 10,
+    "day": 31
+  },
+  "case_number": "平成18(行コ)22",
+  "case_name": "遺族補償年金等不支給処分取消請求控訴事件（通称　名古屋南労基署長遺族補償年金等不支給処分取消）",
+  "court_name": "名古屋高等裁判所民事第２部",
+  "result": "棄却",
+  "original_court_name": "名古屋地方裁判所",
+  "original_case_number": "平成15(行ウ)18",
+  "original_result": "その他",
+  "gist": "電力会社に勤務していた被控訴人の夫がうつ病に罹患して自殺したことが業務に起因するとして，被控訴人が控訴人に対して，労災保険法に基づき遺族補償年金及び葬祭料の支給請求をしたのに対して控訴人がした不支給処分の取消を命じた原判決を維持した事例",
+  "lawsuit_id": "35426",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=35426",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/426/035426_hanrei.pdf",
+  "contents": ""
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 5,
+    "day": 27
+  },
+  "case_number": "昭和51(行ツ)114",
+  "case_name": "採用内定取消処分取消等",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第36巻5号777頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和49(行コ)73",
+  "original_date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 9,
+    "day": 30
+  },
+  "gist": "地方公務員としての採用内定の取消しが抗告訴訟の対象となる処分にあたらないとされた事例",
+  "case_gist": "地方公務員である職員としての採用内定の通知がされた場合において、職員の採用は内規によつて辞令を交付することにより行うこととされ、右採用内定の通知は法令上の根拠に基づくものではないなど、判示の事実関係があるときは、右採用内定の通知は事実上の行為にすぎず、右内定の取消しは、抗告訴訟の対象となる処分にあたらない。",
+  "ref_law": "地方公務員法17条1項，行政事件訴訟法3条2項",
+  "lawsuit_id": "55153",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55153",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/153/055153_hanrei.pdf"
+}

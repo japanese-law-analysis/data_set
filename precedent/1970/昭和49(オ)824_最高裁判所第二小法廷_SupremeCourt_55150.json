@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 12,
+    "day": 20
+  },
+  "case_number": "昭和49(オ)824",
+  "case_name": "配当異議",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第28巻10号2085頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和49(ネ)129",
+  "original_date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 5,
+    "day": 29
+  },
+  "gist": "不動産競売手続において再競売が実施された場合と配当要求の終期",
+  "case_gist": "不動産競売手続において再競売が実施された場合には、再競売の競落期日の終りに至るまで配当要求をすることができる。",
+  "ref_law": "民訴法646条2項，民訴法688条",
+  "lawsuit_id": "55150",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55150",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/150/055150_hanrei.pdf"
+}

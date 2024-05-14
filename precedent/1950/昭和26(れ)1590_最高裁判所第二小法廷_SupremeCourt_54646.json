@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 3,
+    "day": 13
+  },
+  "case_number": "昭和26(れ)1590",
+  "case_name": "強姦未遂",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第7巻3号529頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 1,
+    "day": 30
+  },
+  "gist": "一　強姦の実行着手時期\n二　地方検察庁検察事務官の告訴受理権",
+  "case_gist": "一　被告人は婦女を誘惑して郊外に連れ出し、午後一〇時過頃、人家も稀れなお寺の境内に連れ込み、同所で同女を強姦しようと企て、突然同女の首を締めて境内の方へ押すようにしながら「大きな声をするな殺して逃げてしまえばそれまでだ」と申し向けて脅迫したというのであるから、たとい被告人に所論の如くいまだ猥褻行為に出でんとした直接の姿態がなかつたとしても、これを以て強姦の実行に着手したものというに妨げない。\n二　刑訴応急措置法の適用される事件については、地方検察庁の検察事務官にも告訴を受理する権限がある。",
+  "ref_law": "刑法177条，刑法179条，旧刑訴法272条，刑訴応急措置法19条，検察庁法27条",
+  "lawsuit_id": "54646",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54646",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/646/054646_hanrei.pdf"
+}

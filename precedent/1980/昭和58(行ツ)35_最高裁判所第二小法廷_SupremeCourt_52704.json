@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 10,
+    "day": 26
+  },
+  "case_number": "昭和58(行ツ)35",
+  "case_name": "建築基準法による確認処分取消",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第38巻10号1169頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "昭和57(行コ)5",
+  "original_date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 1,
+    "day": 18
+  },
+  "gist": "工事が完了した場合における建築確認の取消を求める訴えの利益の有無",
+  "case_gist": "建築基準法六条一項による確認を受けた建築物の建築等の工事が完了したときは、右確認の取消を求める訴えの利益は失われる。",
+  "ref_law": "行政事件訴訟法9条，建築基準法6条1項",
+  "lawsuit_id": "52704",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52704",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/704/052704_hanrei.pdf"
+}

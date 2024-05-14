@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 6,
+    "day": 12
+  },
+  "case_number": "昭和31(あ)3767",
+  "case_name": "窃盜、強盗致傷、公務執行妨害",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第13巻6号960頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 9,
+    "day": 21
+  },
+  "gist": "刑法第二三八条の強盗にあたる事例。",
+  "case_gist": "某工場で窃盗した者が、現場から一〇メートル位距つた同工場塀外の路上で、折柄警戒中の巡査に発見せられ、現行犯人として追跡を受け、約六〇メートル進んだ地点で逮捕されようとしたので、これを免れるため、手拳で右巡査の胸部を突くなどの暴行を加え、格闘したが、程なく抵抗を止め、同巡査からシヤツの襟をつかまれて附近の前記工場守衛詰所へ連行される途中、二、三〇メートル進んだ所で、右巡査の隙を窺い、その手を振りきつて逃げ出し、更に、逮捕を免れるため、手拳で同巡査の首辺を殴打し、胸部を突いてその場に顛倒させ或いは足蹴にする等の暴行を加えた場合には、刑法第二三八条にいう「窃盗財物ヲ得テ逮捕ヲ免レル為メ暴行ヲ為シタルトキ」にあたる。",
+  "ref_law": "刑法238条",
+  "lawsuit_id": "51511",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51511",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/511/051511_hanrei.pdf"
+}

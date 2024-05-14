@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 16,
+    "month": 5,
+    "day": 31
+  },
+  "case_number": "平成16(行フ)3",
+  "case_name": "執行停止決定に対する許可抗告事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "その他",
+  "article_info": "集民　第214号309頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成16(行タ)12",
+  "original_date": {
+    "era": "Heisei",
+    "year": 16,
+    "month": 3,
+    "day": 19
+  },
+  "gist": "退去強制令書の収容部分の執行により被収容者が受ける損害と行政事件訴訟法２５条２項に規定する回復の困難な損害",
+  "case_gist": "退去強制令書の収容部分の執行により被収容者が受ける損害は，当然には行政事件訴訟法２５条２項に規定する回復の困難な損害に当たらない。",
+  "ref_law": "行政事件訴訟法25条2項，出入国管理及び難民認定法49条5項，出入国管理及び難民認定法52条5項",
+  "lawsuit_id": "62615",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62615",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/615/062615_hanrei.pdf"
+}

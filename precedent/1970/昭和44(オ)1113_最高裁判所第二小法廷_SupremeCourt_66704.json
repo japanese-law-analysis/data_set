@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 2,
+    "day": 27
+  },
+  "case_number": "昭和44(オ)1113",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第98号295頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和43(ネ)47",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 6,
+    "day": 30
+  },
+  "gist": "加害自動車の車体に自社名を表示することを許諾していた運送契約上の注文主につき、運行供用者責任が否定された事例",
+  "case_gist": "運送業者が、注文主たる会社の許諾を得てその社名を車体に表示した自動車を使用し、同社の注文による運送業務を遂行中に事故を起こした場合でも、右会社が該自動車の運行自体についてなんら支配力を有していなかつたときは、同会社に対し自動車損害賠償保障法三条による運行供用者責任を負わせることはできない。",
+  "ref_law": "自動車損害賠償保障法3条",
+  "lawsuit_id": "66704",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66704",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/704/066704_hanrei.pdf"
+}

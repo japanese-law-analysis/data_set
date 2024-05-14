@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 2,
+    "day": 14
+  },
+  "case_number": "昭和29(あ)3573",
+  "case_name": "傷害、公務執行妨害",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第11巻2号715頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 6,
+    "day": 30
+  },
+  "gist": "刑法第五四条第一項前段にいう「其最モ重キ刑ヲ以テ処断ス」の意義",
+  "case_gist": "刑法第五四条第一項前段にいわゆる「其最モ重キ刑ヲ以テ処断ス」とは、その数個の罪名中もつとも重い刑を定めている法条によつて処断するという趣旨を含むと共に、該法条の下限の刑が他の法条の下限の刑より軽い場合には、各本条の中もつとも重い下限の刑よりも軽く処断することはできないという趣旨を含むものと解するのが相当である。",
+  "ref_law": "刑法54条1項，刑法95条，刑法204条",
+  "lawsuit_id": "51365",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51365",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/365/051365_hanrei.pdf"
+}

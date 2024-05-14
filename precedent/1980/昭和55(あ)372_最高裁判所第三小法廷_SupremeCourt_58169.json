@@ -1,0 +1,20 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 1,
+    "day": 8
+  },
+  "case_number": "昭和55(あ)372",
+  "case_name": "兇器準備集合、建造物侵入",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第225号1頁",
+  "gist": "一　刑法二〇八条の二の規定に関する憲法二一条、三一条違反の主張が欠前提とされた事例\n二　刑法二〇八条の二にいう「集合」の状態の継続と兇器準備集合罪の継続\n三　兇器準備集合罪の成否につき職権判断を示した事例",
+  "ref_law": "刑法208の2，憲法21条，憲法31条",
+  "lawsuit_id": "58169",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58169",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/169/058169_hanrei.pdf"
+}

@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 14,
+    "month": 2,
+    "day": 25
+  },
+  "case_number": "平成9(あ)480",
+  "case_name": "傷害致死，監禁致死，監禁致傷，監禁，傷害，暴行，暴力行為等処罰に関する法律違反，強要被告事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第281号113頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 9,
+    "month": 3,
+    "day": 12
+  },
+  "gist": "刑訴法４１１条を適用すべき事由が認められないとされた事例（いわゆる戸塚ヨットスクール事件）",
+  "ref_law": "刑訴法411条",
+  "lawsuit_id": "58057",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58057",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/057/058057_hanrei.pdf"
+}

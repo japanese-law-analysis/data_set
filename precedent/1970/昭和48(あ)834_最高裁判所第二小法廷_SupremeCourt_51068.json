@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 11,
+    "day": 9
+  },
+  "case_number": "昭和48(あ)834",
+  "case_name": "賭博開帳図利、同幇助",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "刑集　第27巻10号1447頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 3,
+    "day": 27
+  },
+  "gist": "甲事件の裁判確定によりその本刑に法定通算されるべき未決勾留と重複する未決勾留を乙事件の本刑に算入することの適否",
+  "case_gist": "甲事件の裁判確定によりその本刑に法定通算されるべき未決勾留と重複する未決勾留を乙事件の本刑に算入しても、乙事件の裁判当時甲事件の裁判が未確定の状態であるときは、ただちにこれを違法なものとはいえないが、のちに甲事件の裁判が確定し法定通算されるべき未決勾留が、その本刑に通算されて刑の執行に替えられたときは、結局、違法なものとなる。",
+  "ref_law": "刑法21条，刑訴法495条",
+  "lawsuit_id": "51068",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51068",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/068/051068_hanrei.pdf"
+}

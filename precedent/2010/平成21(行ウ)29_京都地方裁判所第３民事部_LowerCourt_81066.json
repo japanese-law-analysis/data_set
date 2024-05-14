@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 12,
+    "day": 21
+  },
+  "case_number": "平成21(行ウ)29",
+  "case_name": "不当利得返還行為請求事件",
+  "court_name": "京都地方裁判所第３民事部",
+  "result": "その他",
+  "gist": "市の教育委員及び委員長，選挙管理委員及び委員長並びに人事委員及び委員長に対して，月額で報酬が支給されていることが違法であるとして，市の住民である原告らが，市長に対し，上記各委員及び委員長に対して支払われた報酬のうち本来支給されるべき額以上に支給された分を返還するよう請求することを求めたが，棄却された事例",
+  "lawsuit_id": "81066",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=81066",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/066/081066_hanrei.pdf",
+  "contents": ""
+}

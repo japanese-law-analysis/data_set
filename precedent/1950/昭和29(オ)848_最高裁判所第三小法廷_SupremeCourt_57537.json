@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 12,
+    "day": 18
+  },
+  "case_number": "昭和29(オ)848",
+  "case_name": "慰藉料等損害賠償請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第10巻12号1559頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 9,
+    "day": 30
+  },
+  "gist": "いわゆる接収建物の賃借人たる国と民法第七一七条にいう占有者",
+  "case_gist": "国が連合国占領軍の接収通知に応じ、建物をその所有者から賃借してこれを同軍の使用に供した場合には、国はその建物の設置保存に関する瑕疵に基因する損害につき、民法第七一七条にいう占有者としてその責に任ずべきである。",
+  "ref_law": "民法717条",
+  "lawsuit_id": "57537",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57537",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/537/057537_hanrei.pdf"
+}

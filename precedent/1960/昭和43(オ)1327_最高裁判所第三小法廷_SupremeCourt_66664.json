@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 4,
+    "day": 15
+  },
+  "case_number": "昭和43(オ)1327",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第95号105頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_case_number": "昭和42(ネ)249",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 9,
+    "day": 26
+  },
+  "gist": "社宅の使用関係の性質",
+  "case_gist": "原判決（引用する第一審判決）の認定した事実関係のもとでは、本件建物の利用関係は賃貸借ではなく、鉱員たる資格の存在をその使用関係存続の前提とする社宅に関する特殊な契約関係であつて、借家法の適用はない。",
+  "ref_law": "借家法1条の2，民法601条",
+  "lawsuit_id": "66664",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66664",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/664/066664_hanrei.pdf"
+}

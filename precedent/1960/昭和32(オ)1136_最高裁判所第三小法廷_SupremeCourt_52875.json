@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 1,
+    "day": 16
+  },
+  "case_number": "昭和32(オ)1136",
+  "case_name": "解散決議無効確認等請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第16巻1号1頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 8,
+    "day": 19
+  },
+  "gist": "一　漁業協同組合の総会の会日当日において招集権者のした開会取止めの処置の効力\n二　漁場協同組合に加入する場合における組合の代表機関の承諾権の有無",
+  "case_gist": "一　漁業協同組合の総会の会日当日において、総会の開会が可能であるかぎり、たとえ開会宣言前であつても、招集権者は、開会の取止めを独断ですることはできない。\n二　漁業協同組合に組合員として加入するについて理事会の決議を要すると解される場合には、組合の代表機関が組合を代表して承諾することはできない。",
+  "ref_law": "水産業協同組合法39条，水産業協同組合法25条，水産業協同組合法32条，水産業協同組合法45条，民法53条，民法54条",
+  "lawsuit_id": "52875",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52875",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/875/052875_hanrei.pdf"
+}

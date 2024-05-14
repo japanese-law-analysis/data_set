@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 4,
+    "day": 12
+  },
+  "case_number": "昭和23(オ)76",
+  "case_name": "土地建物所有権移転登記等請求",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第4巻4号139頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 8,
+    "day": 6
+  },
+  "gist": "契約上家屋明渡の義務ある者に家屋明渡を命ずる裁判と憲法第二五条第一項",
+  "case_gist": "憲法第二五条第一項は、自由な意志に基いて締結した契約により家屋明渡の債務を負担する者に対し、裁判所がその契約の履行として家屋明渡を命ずることを禁ずるものではない。",
+  "ref_law": "憲法25条1項",
+  "lawsuit_id": "55918",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55918",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/918/055918_hanrei.pdf"
+}

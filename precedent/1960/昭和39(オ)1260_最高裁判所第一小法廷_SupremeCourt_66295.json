@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 12,
+    "day": 15
+  },
+  "case_number": "昭和39(オ)1260",
+  "case_name": "家屋明渡等請求、附帯控訴",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第85号647頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和38(ネ)1962",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 7,
+    "day": 31
+  },
+  "gist": "行政財産の貸付と私法の適用",
+  "case_gist": "行政財産の貸付については、貸付について定められた使用許可条項と国有財産法が適用される。",
+  "ref_law": "国有財産法18条，民法612条",
+  "lawsuit_id": "66295",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66295",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/295/066295_hanrei.pdf"
+}

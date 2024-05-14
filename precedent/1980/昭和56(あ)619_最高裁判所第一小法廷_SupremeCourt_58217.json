@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 3,
+    "day": 24
+  },
+  "case_number": "昭和56(あ)619",
+  "case_name": "沖繩の刑法の公務執行妨害",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第230号421頁",
+  "original_court_name": "福岡高等裁判所\n        　那覇支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 2,
+    "day": 27
+  },
+  "gist": "沖繩の復帰に伴う特別措置に関する法律二五条の合憲性",
+  "case_gist": "沖繩の復帰に伴う特別措置に関する法律二五条は、憲法一四条、三一条に違反しない（昭和四七年（あ）第二六一三号同四八年九月一二日大法廷判決参照）。",
+  "ref_law": "憲法14条，憲法31条，沖繩の復帰に伴う特別措置に関する法律25条",
+  "lawsuit_id": "58217",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58217",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/217/058217_hanrei.pdf"
+}

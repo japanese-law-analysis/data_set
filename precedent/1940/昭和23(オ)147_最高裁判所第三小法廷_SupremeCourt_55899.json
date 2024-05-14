@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 11,
+    "day": 8
+  },
+  "case_number": "昭和23(オ)147",
+  "case_name": "所有權移轉登記履行請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第3巻11号485頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 10,
+    "day": 15
+  },
+  "gist": "統制価格ある物の売買価格の推定と時価",
+  "case_gist": "売買は常に時価でなされるとは限らないばかりでなく、特に売買の目的物中に統制価格ある物を含む場合は、統制価格にかかわらずこれより高い時価で売買がなされたものと推定すべきではない。",
+  "ref_law": "民訴法257条",
+  "lawsuit_id": "55899",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55899",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/899/055899_hanrei.pdf"
+}

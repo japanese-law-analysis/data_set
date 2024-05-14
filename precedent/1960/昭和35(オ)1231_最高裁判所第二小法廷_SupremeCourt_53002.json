@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 12,
+    "day": 22
+  },
+  "case_number": "昭和35(オ)1231",
+  "case_name": "当選無効",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第15巻12号2908頁",
+  "original_court_name": "広島高等裁判所\n        　松江支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 8,
+    "day": 5
+  },
+  "gist": "投票の効力に関する当事者の主張について釈明を尽さなかつた違法があるとされた事例。",
+  "case_gist": "開票会で無効とされた投票についての当事者の有効の主張を斥け無効としながら、同種の記載内容の投票であつて開票会で有効とされた投票が検証調書に記載されているにもかかわらず、これらの投票に関する当事者の主張を明確ならしめず、有効とされたままで候補者の得票数を計算し当選の効力を判断したのは、当事者の主張について釈明を尽さなかつた違法があるものといわなければならない。",
+  "ref_law": "公職選挙法208条，公職選挙法219条，民訴法127条",
+  "lawsuit_id": "53002",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53002",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/002/053002_hanrei.pdf"
+}

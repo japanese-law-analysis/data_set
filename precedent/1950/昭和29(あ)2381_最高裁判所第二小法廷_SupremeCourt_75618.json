@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 11,
+    "day": 26
+  },
+  "case_number": "昭和29(あ)2381",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第100号605頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 6,
+    "day": 23
+  },
+  "gist": "証人の供述中の伝聞にかかる部分は証拠とせず、その他の証拠を罪証の用に供したと認められる場合",
+  "case_gist": "第一点所論Ａの供述中伝聞に関する部分は、第一審判決は、これを証拠としなかつたものとみとめるを相当とする。（昭和二七年（あ）五六九四号、同二九年二月一八日第一小法廷判決参照）",
+  "ref_law": "刑訴法335条1項，刑訴法320条，刑訴法324条2項",
+  "lawsuit_id": "75618",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=75618",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/618/075618_hanrei.pdf"
+}

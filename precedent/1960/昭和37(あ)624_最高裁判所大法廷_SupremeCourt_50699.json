@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 1,
+    "day": 20
+  },
+  "case_number": "昭和37(あ)624",
+  "case_name": "外国為替及び外国貿易管理法違反",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第19巻1号9頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 1,
+    "day": 31
+  },
+  "gist": "外国為替及び外国貿易管理法第二七条第一項第三号の合憲性。",
+  "case_gist": "外国為替及び外国貿易管理法第二七条第一項第三号は憲法第二九条に違反しない。",
+  "ref_law": "外国為替及び外国貿易管理法27条1項3号，外国為替及び外国貿易管理法70条7号（旧8号），憲法29条",
+  "lawsuit_id": "50699",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50699",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/699/050699_hanrei.pdf"
+}

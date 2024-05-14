@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 12,
+    "day": 25
+  },
+  "case_number": "昭和34(あ)1973",
+  "case_name": "酒税法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "刑集　第16巻12号1718頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 10,
+    "day": 1
+  },
+  "gist": "一　酒税法第六二条のいわゆる両罰規定における事業主たる法人又は人に対する公訴時効\n二　第一審における証拠とすることの同意を控訴審に至つて撤回することの可否",
+  "case_gist": "一　酒税法第六二条のいわゆる両罰規定における事業主たる法人又は人に対する公訴時効は、その法人又は人に対する法定刑たる罰金刑につき定められた三年の期間を経過することによつて完成する。\n二　第一審における証拠とすることの同意を控訴審に至つて撤回することは、原則として許されない。",
+  "ref_law": "酒税法62条，酒税法55条1項1号，刑訴法250条5号，刑訴法253条，刑訴法411条1号，刑訴法326条",
+  "lawsuit_id": "56983",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56983",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/983/056983_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 10,
+    "day": 19
+  },
+  "case_number": "昭和37(あ)1081",
+  "case_name": "外国人登録法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第144号777頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 4,
+    "day": 11
+  },
+  "gist": "外国人登録法第一一条第一項の合憲性。",
+  "case_gist": "外国人登録法第一一項第一項の規定は不法に本邦に入つた者にも適用されるものと解すべきであり、憲法第三八条第一項に違反するものでないことは、当裁判所の判例（昭和二九年（あ）第二七七七号同三一年一二月六日大法廷判決、刑集一〇巻一二号一七六九頁）の趣旨に徴し明らかである。",
+  "ref_law": "外国人登録法11条1項，憲法38条1項",
+  "lawsuit_id": "61344",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61344",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/344/061344_hanrei.pdf"
+}

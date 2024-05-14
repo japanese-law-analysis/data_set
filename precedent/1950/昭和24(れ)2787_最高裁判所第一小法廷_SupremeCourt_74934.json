@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 3,
+    "day": 9
+  },
+  "case_number": "昭和24(れ)2787",
+  "case_name": "物価統制令違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第16号763頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 9,
+    "day": 7
+  },
+  "gist": "物價統制令第三條にいわゆる「統制額を越えて之を契約し代金を受領した場合」に該る事例",
+  "case_gist": "物價統制令はその第三條において「………價格等ハ其ノ統制額ヲ超エテ之ヲ契約シ、支拂ヒ又ハ受領スルオトヲ得ズ………」と規定し、その第三二條において、「三條ノ規定ニ違反シタル者ハ十年以下ノ懲役又ハ一〇萬圓以下ノ罰金ニ處スル」旨を規定しているのであるから、被告人が判示硫安を現實に引渡さなかつたからといつて、同令第三條にいわゆる統制價格を超えて之を契約し、代金を受領した事實が認められる以上、同條の違反罪は成立するものであつて、物の引渡をまつて成立するものでないから原審が被告人を同令第三三條に問擬したのを違法ということはできない。",
+  "ref_law": "物價統制令3條，物價統制令33條，物價統制令32條",
+  "lawsuit_id": "74934",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74934",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/934/074934_hanrei.pdf"
+}

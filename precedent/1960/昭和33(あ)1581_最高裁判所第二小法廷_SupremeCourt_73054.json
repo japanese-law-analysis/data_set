@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 11,
+    "day": 10
+  },
+  "case_number": "昭和33(あ)1581",
+  "case_name": "横領",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第140号77頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 6,
+    "day": 30
+  },
+  "gist": "訴因変更手続を要しない事例―業務上横領と単純横領。",
+  "case_gist": "本件の如く、業務上横領罪の訴因を肯定した第一審判決の認定に対し、被告人が控訴審において判示金員に対する被告人の占有は業務に基くものでないから業務上横領罪が成立しない旨抗争している場合において控訴審が右の主張を理由があるとして単純横領罪と認定するには訴因変更の手続を経ることを要しないものと解する。",
+  "ref_law": "刑訴法312条，刑法252条，刑法253条",
+  "lawsuit_id": "73054",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=73054",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/054/073054_hanrei.pdf"
+}

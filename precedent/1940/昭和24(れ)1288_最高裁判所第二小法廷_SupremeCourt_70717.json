@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 9,
+    "day": 24
+  },
+  "case_number": "昭和24(れ)1288",
+  "case_name": "強盗、詐欺未遂、窃盗",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第13号563頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 1,
+    "day": 31
+  },
+  "gist": "被害物件の數量が盜難届中の記載と判示に僅少の差異ある場合と犯罪事實の認定",
+  "case_gist": "盜難被害届中被害物件の數量の記載に、判示被害物件の數量と所論のような僅少の差異がありとしても、右盜難届の記載が判示犯罪事實に照應するものと認定する妨げとなるものではない。",
+  "ref_law": "舊刑訴法336條，舊刑訴法337條，舊刑訴法360條1項",
+  "lawsuit_id": "70717",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70717",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/717/070717_hanrei.pdf"
+}

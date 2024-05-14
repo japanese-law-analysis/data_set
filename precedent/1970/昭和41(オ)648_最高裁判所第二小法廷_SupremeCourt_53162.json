@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 11,
+    "day": 6
+  },
+  "case_number": "昭和41(オ)648",
+  "case_name": "共有物分割ならびに所有権確認等反訴請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第24巻12号1803頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和35(ネ)1211",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 3,
+    "day": 23
+  },
+  "gist": "民法二五八条によつてなされる数個の共有物の現物分割が共有者においてそれぞれ各個の物の単独所有権を取得する方法によることが許されるとされた事例",
+  "case_gist": "数個の共有建物が一筆の土地上にあり外形上一団の建物とみられる場合に、民法二五八条により右建物につき現物分割をするには、右建物を一括して分割の対象とし、共有者がそれぞれ各個の建物の単独所有権を取得する方法によることも許される。",
+  "ref_law": "民法258条",
+  "lawsuit_id": "53162",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53162",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/162/053162_hanrei.pdf"
+}

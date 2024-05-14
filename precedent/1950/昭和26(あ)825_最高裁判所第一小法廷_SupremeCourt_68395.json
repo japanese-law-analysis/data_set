@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 6,
+    "day": 5
+  },
+  "case_number": "昭和26(あ)825",
+  "case_name": "酒税法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第65号73頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 1,
+    "day": 31
+  },
+  "gist": "検察官なる名称は官名か",
+  "case_gist": "検察官なる用語は検事総長、次長検事、検事長、検事及び副検事等検察の職務を行う官吏の総称であつて、刑訴規則五六条二項にいわゆる官名と解することができる。",
+  "ref_law": "検察庁法3条，刑訴規則56条2項",
+  "lawsuit_id": "68395",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=68395",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/395/068395_hanrei.pdf"
+}

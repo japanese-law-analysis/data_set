@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 4,
+    "month": 12,
+    "day": 10
+  },
+  "case_number": "平成1(オ)759",
+  "case_name": "根抵当権等抹消登記手続",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第46巻9号2727頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和62(ネ)1237",
+  "original_date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 2,
+    "day": 10
+  },
+  "gist": "一　親権者の代理権濫用の行為と民法九三条ただし書\n二　親権者において子を代理してその所有する不動産を第三者の債務の担保に供する行為と代理権の濫用",
+  "case_gist": "一　親権者が子を代理する権限を濫用して法律行為をした場合において、その行為の相手方が権限濫用の事実を知り又は知り得べかりしときは、民法九三条ただし書の規定の類推適用により、その行為の効果は子には及ばない。\n二　親権者が子を代理してその所有する不動産を第三者の債務の担保に供する行為は、親権者に子を代理する権限を授与した法の趣旨に著しく反すると認められる特段の事情が存しない限り、代理権の濫用には当たらない。",
+  "ref_law": "民法93条ただし書，民法824条",
+  "lawsuit_id": "53501",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53501",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/501/053501_hanrei.pdf"
+}

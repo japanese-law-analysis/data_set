@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 12,
+    "day": 4
+  },
+  "case_number": "昭和28(オ)650",
+  "case_name": "県会議員当選無効異議棄却決定取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第7巻12号1375頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 5,
+    "day": 28
+  },
+  "gist": "公職選挙法第二五二条による被選挙権の停止と恩赦法第一一条にいわゆる既成の効果",
+  "case_gist": "大赦により有罪の判決言渡が効力を失つても、公職選挙法第二五二条により、大赦前被選挙権を有しなかつたことは、恩赦法第一一条にいわゆる既成の効果である。",
+  "ref_law": "公職選挙法252条，恩赦法3条，恩赦法11条",
+  "lawsuit_id": "56173",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56173",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/173/056173_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 2,
+    "day": 21
+  },
+  "case_number": "昭和37(オ)970",
+  "case_name": "土地所有権確認並びに所有権移転登記手続請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第64号515頁",
+  "original_court_name": "広島高等裁判所\n        　松江支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 5,
+    "day": 30
+  },
+  "gist": "山林の所有権取得時効の基礎要件たる占有。",
+  "case_gist": "山林の所有権取得時効の基礎要件たる占有は、時効援用者の単独占有でなければならない。",
+  "ref_law": "民法162条，民法164条",
+  "lawsuit_id": "66152",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66152",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/152/066152_hanrei.pdf"
+}

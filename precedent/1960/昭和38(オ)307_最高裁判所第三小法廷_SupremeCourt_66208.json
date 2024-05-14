@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 10,
+    "day": 27
+  },
+  "case_number": "昭和38(オ)307",
+  "case_name": "建物明渡請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集民　第75号1027頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和36(ネ)1747",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 12,
+    "day": 22
+  },
+  "gist": "延滞家賃の催告と解除の意思表示との間に相当の期間が存すると認められた事例。",
+  "case_gist": "家賃賃貸人が商人である賃借人に対し五月一日に延滞賃料の一八万余円（四年分）の支払催告をしたのち五月五日解除の意思表示をした場合において、五月二日が士曜日、五月三日および五日が休日であつても、その解除の意思表示は催告後相当の期間経過後のものとして有効である。",
+  "ref_law": "民法541条",
+  "lawsuit_id": "66208",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66208",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/208/066208_hanrei.pdf"
+}

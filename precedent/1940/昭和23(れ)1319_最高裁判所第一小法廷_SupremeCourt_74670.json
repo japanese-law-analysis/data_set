@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 3,
+    "day": 10
+  },
+  "case_number": "昭和23(れ)1319",
+  "case_name": "強盗",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第8号179頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 7,
+    "day": 19
+  },
+  "gist": "一　強盜共謀の事實を自白のみによつて認定した判決の正否\n二　強盜の見張行爲と強盜の共同正犯",
+  "case_gist": "一　採證に當つては必ずしも常に犯罪の各部分についてそれぞれ、補強證據を必要とするわけのものではない。それ故所論強盜相談の事實について被告人の自白の外に補強證據を要するとの論旨も理由がない。\n二　原審は、強盜の相談をし被告人が見張行爲を擔當した事實を認定したものであるから強盜の共同正犯として處罰したのは當然である。",
+  "ref_law": "憲法38條3項，刑訴應急措置法10條3項，刑法60條，刑法236條",
+  "lawsuit_id": "74670",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74670",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/670/074670_hanrei.pdf"
+}

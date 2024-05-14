@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 9,
+    "month": 9,
+    "day": 30
+  },
+  "case_number": "平成6(あ)1215",
+  "case_name": "医師法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第51巻8号671頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 6,
+    "month": 11,
+    "day": 15
+  },
+  "gist": "コンタクトレンズの処方のために行われる検眼及びテスト用コンタクトレンズの着脱と医師法一七条にいう「医業」の内容となる医行為",
+  "case_gist": "コンタクトレンズの処方のために行われる検眼及びテスト用コンタクトレンズの着脱の各行為は、いずれも医師法一七条にいう「医業」の内容となる医行為に当たる。",
+  "ref_law": "医師法17条",
+  "lawsuit_id": "50155",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50155",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/155/050155_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 5,
+    "month": 9,
+    "day": 10
+  },
+  "case_number": "平成3(行ツ)103",
+  "case_name": "審決取消",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第47巻7号5009頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成2(行ケ)194",
+  "original_date": {
+    "era": "Heisei",
+    "year": 3,
+    "month": 2,
+    "day": 28
+  },
+  "gist": "時計及び眼鏡等を指定商品とする商標「ＳＥＩＫＯ　ＥＹＥ」中の称呼・観念の生じる部分",
+  "case_gist": "我が国における著名な時計等の製造販売業者の取扱商品ないし商号の略称を表示する文字である「ＳＥＩＫＯ」と、眼鏡と密接に関連しかつ一般的、普遍的な文字である「ＥＹＥ」との結合からなり、時計及び眼鏡等を指定商品とする商標「ＳＥＩＫＯ　ＥＹＥ」中の「ＥＹＥ」の部分のみからは、出所の識別標識としての称呼、観念は生じない。",
+  "ref_law": "商標法（平成3年法律第65号による改正前のもの）4条1項11号",
+  "lawsuit_id": "52782",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52782",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/782/052782_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 1,
+    "day": 14
+  },
+  "case_number": "昭和28(オ)755",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第8巻1号16頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 6,
+    "day": 30
+  },
+  "gist": "借家法第五条による造作買取代金債権は建物に関して生じた債権か",
+  "case_gist": "借家法第五条による造作買取代金債権は、造作に関して生じた債権であつて、建物に関して生じた債権ではない。",
+  "ref_law": "借家法5条，民法295条",
+  "lawsuit_id": "57448",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57448",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/448/057448_hanrei.pdf"
+}

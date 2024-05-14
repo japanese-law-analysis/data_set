@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 3,
+    "day": 11
+  },
+  "case_number": "昭和26(あ)2002",
+  "case_name": "貸金業等の取締に関する法律違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第76号19頁",
+  "original_court_name": "福岡高等裁判所\n        　宮崎支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 5,
+    "day": 11
+  },
+  "gist": "貸金業等の取締に関する法律の附則二、三項の趣旨",
+  "case_gist": "貸金業等の取締に関する法律の附則の規定は届出書が提出されることを前提とした規定であつて届出書を提出せずして引続き貸金を業とする行為まで保護する趣旨ではない。",
+  "ref_law": "貸金業等の取締に関する法律附則2項，貸金業等の取締に関する法律附則3項",
+  "lawsuit_id": "68137",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=68137",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/137/068137_hanrei.pdf"
+}

@@ -1,0 +1,23 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 1,
+    "day": 22
+  },
+  "case_number": "昭和59(ク)258",
+  "case_name": "会社更生事件の更生計画認可決定に対する抗告につきした原決定取消、更生計画不認可の決定に対する抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第144号61頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_case_number": "昭和58(ラ)41",
+  "gist": "更生計画認否の裁判に対する抗告審の裁判と憲法三二条、八二条",
+  "case_gist": "更生計画認否の裁判に対する抗告審の裁判は、公開・対審の手続によらなくても、憲法三二条、八二条に違反しない。",
+  "ref_law": "会社更生法232条，会社更生法237条，憲法32条，憲法82条",
+  "lawsuit_id": "62945",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62945",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/945/062945_hanrei.pdf"
+}

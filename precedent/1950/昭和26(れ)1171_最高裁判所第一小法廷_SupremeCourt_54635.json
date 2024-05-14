@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 10,
+    "day": 25
+  },
+  "case_number": "昭和26(れ)1171",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第5巻11号2300頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 4,
+    "day": 20
+  },
+  "gist": "旧刑事訴訟法事件の控訴審及び上告審における審判の特例に関する規則第五条及び第六条は憲法第三八条第三項に違反するか",
+  "case_gist": "当該審級における公判廷における自白は、所謂憲法三八条三項にいわゆる本人の自白に含まれないと解すべきことは、当裁判所屡似の判例とするところであるから、刑事判決書においても必ずしもかかる公判廷における自白以外の証拠を明示しなければならないものではない。されば刑訴施行法一三条に基く旧刑事訴訟法事件の控訴審等における審判の特例に関する規則第五条、第六条において同条項規定の如き規定をしたからといつて前記憲法の条項に反する道理がない。",
+  "ref_law": "旧刑事訴訟法事件の控訴審及び上告審における審判の特例に関する規則5条，旧刑事訴訟法事件の控訴審及び上告審における審判の特例に関する規則6条，憲法38条3項",
+  "lawsuit_id": "54635",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54635",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/635/054635_hanrei.pdf"
+}

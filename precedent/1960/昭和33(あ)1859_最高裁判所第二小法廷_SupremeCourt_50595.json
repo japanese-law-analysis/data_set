@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 10,
+    "day": 6
+  },
+  "case_number": "昭和33(あ)1859",
+  "case_name": "封印破棄",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第15巻9号1567頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 6,
+    "day": 30
+  },
+  "gist": "刑法第九六条にいう差押の標示を無効ならしめた場合にあたる事例。",
+  "case_gist": "店舗を含む建物について、これを執行吏の保管に移すとともに、その現状を変更しないことを条件として被申請人の使用を許す旨の仮処分命令が執行され、かつ、該建物の占有が執行吏に移つたことを明らかにする公示書が存在する場合、右差押の事実を知りながら被申請人と共謀の上執行吏に無断で右建物の現状を変更する程度に店舗の改装を実施した所為（原判文参照）は、刑法第九六条にいう差押の標示を無効ならしめた罪にあたる。",
+  "ref_law": "刑法96条",
+  "lawsuit_id": "50595",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50595",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/595/050595_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 6,
+    "day": 21
+  },
+  "case_number": "昭和24(れ)191",
+  "case_name": "賍物運搬",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第11号487頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 10,
+    "day": 26
+  },
+  "gist": "共同被告人の供述と補強證據",
+  "case_gist": "原審は判示事實をＡの聽取書の外被告人Ｂについては同人の警察官に對する自白と原審共同被告人Ｃの同様の自白とによつて認めたのである。そして共同被告人の自白と雖も補強證據たり得るものであつて、被告人の自白と共同被告人の自白とを綜合して事實を認定しても差支えないこと當裁判所大法廷の判例とするところで變更の要を見ない。（昭和二三年（れ）第一一二號事件同年七月一四日大法廷判決昭和二三年（れ）第一六七號同年七月一九日大法廷判決）",
+  "ref_law": "憲法38條3項，刑訴應急措置法10條3項",
+  "lawsuit_id": "70752",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70752",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/752/070752_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 3,
+    "day": 25
+  },
+  "case_number": "昭和32(オ)1218",
+  "case_name": "選挙の効力に関する異議",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第12巻4号599頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 10,
+    "day": 22
+  },
+  "gist": "投票所内に理由なく滞留する候補者を投票管理者が退出せしめなかつた違法と選挙の効力",
+  "case_gist": "候補者が投票所内に午前中に約一時間、午後約半時間理由なく滞留し、投票管理者が速に退出せしめなかつた違法は選挙無効の原因になる。",
+  "ref_law": "公職選挙法60条，公職選挙法58条，公職選挙法205条",
+  "lawsuit_id": "53571",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53571",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/571/053571_hanrei.pdf"
+}

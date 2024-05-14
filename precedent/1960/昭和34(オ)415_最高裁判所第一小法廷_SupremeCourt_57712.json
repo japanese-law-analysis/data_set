@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 5,
+    "day": 24
+  },
+  "case_number": "昭和34(オ)415",
+  "case_name": "根抵当権設定登記抹消登記請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第16巻7号1251頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 2,
+    "day": 23
+  },
+  "gist": "偽造の登記申請委任状によつてなされた登記が有効とされた事例",
+  "case_gist": "甲の代理人丙が、その権限をこえて乙との間に甲所有の不動産につき乙のために根抵当権設定契約を締結し、かつ甲名義の偽造登記申請委任状によつてその登記をなした場合、右設定契約を締結しおよび登記申請委任状を乙に交付する等登記申請に協力する関係において、乙が丙に右設定契約の締結ならびに登記の申請について甲の代理権ありと信ずべき正当の理由あるときは、民法第一一〇条の適用あるものと解すべきであつて、したがつて甲は乙に対し右根抵当権設定登記の無効を主張してその抹消を請求することができない。",
+  "ref_law": "不動産登記法35条，民法110条",
+  "lawsuit_id": "57712",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57712",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/712/057712_hanrei.pdf"
+}

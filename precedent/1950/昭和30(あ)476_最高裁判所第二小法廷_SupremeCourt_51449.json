@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 10,
+    "day": 11
+  },
+  "case_number": "昭和30(あ)476",
+  "case_name": "関税法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第11巻10号2571頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 12,
+    "day": 21
+  },
+  "gist": "米国弗表示軍票は旧関税法第一条の貨物か",
+  "case_gist": "米国弗表示軍票は関税定率法（昭和二九年法律第四二号による改正前のもの）第一条別表記載の紙幣に該当し旧関税法第一条の貨物である。",
+  "ref_law": "関税定率法（昭和29年法律42号による改正前のもの）1条，関税定率法別表輸入税表1140，旧関税法（明治32年法律61号）1条",
+  "lawsuit_id": "51449",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51449",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/449/051449_hanrei.pdf"
+}

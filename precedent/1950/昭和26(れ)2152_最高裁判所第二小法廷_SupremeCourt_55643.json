@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 3,
+    "day": 28
+  },
+  "case_number": "昭和26(れ)2152",
+  "case_name": "恐喝",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第6巻3号566頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 7,
+    "day": 10
+  },
+  "gist": "一　刑訴第四一一条にあたらない一事例\n二　旧刑訴法事件の控訴審及び上告審に於ける審判の特例に関する規則（昭和二五年最高裁判所規則第三〇号）第八号にいわゆる「法令を掲げれば足りる」の適用",
+  "case_gist": "一　裁判長が被告人に対し旧刑訴第三四七条第二項による告知をしなくても、各個の証拠につき取調を終える毎に被告人に対し意見の有無を尋ねており、最後に弁護人から「他に立証等ない。」と答えている以上、原判決に刑訴第四一一条にあたる事由あるとはいえない。\n二　旧刑訴法事件の上告審に於ける審判の特例規則第八条には、法令を掲げれば足りるとあるから想像的競合についていずれに対する法益の侵害が犯情重いかについて説明する必要はない。",
+  "ref_law": "旧刑訴法347条2項，旧刑訴法360条1項，刑訴法411条，刑法54条1項前段，刑法10条，旧刑訴事件の上訴審における審判の特例規則8条",
+  "lawsuit_id": "55643",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55643",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/643/055643_hanrei.pdf"
+}

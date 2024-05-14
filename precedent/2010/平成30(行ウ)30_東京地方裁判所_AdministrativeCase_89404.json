@@ -1,0 +1,17 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Reiwa",
+    "year": 1,
+    "month": 11,
+    "day": 15
+  },
+  "case_number": "平成30(行ウ)30",
+  "case_name": "措置命令取消請求事件",
+  "court_name": "東京地方裁判所",
+  "gist": "インターネット上で様々な商品を販売するウェブサイトを運営する法人が，当該ウェブサイトにおいてされた不当景品類及び不当表示防止法５条２号が規定する不当な表示に該当する二重価格表示を表示した事業者に該当するとされた事例",
+  "case_gist": "原告が，①自己が運営するウェブサイト上に，いつ，何を，どこに，どのように表示をするのかという仕組みを自由に決定することができたこと，②本件で問題となった表示の対象商品の販売者であり，その旨が当該ウェブサイトに表示されていたこと等の本件の事実関係の下においては，本件で問題となった各表示の表示者は，いずれも原告であると認められる。",
+  "lawsuit_id": "89404",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=89404",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/404/089404_hanrei.pdf"
+}

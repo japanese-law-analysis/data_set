@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 3,
+    "day": 28
+  },
+  "case_number": "平成18(ワ)1927",
+  "case_name": "弁護士報酬請求事件",
+  "court_name": "京都地方裁判所第３民事部",
+  "gist": "平成14年3月30日法律第4号による改正前の地方自治法242条の2第7項の規定に基づき，住民が，住民訴訟において勝訴した場合において，普通地方公共団体に対し，請求することができる「相当と認められる」弁護士報酬の額につき判断がなされた事例。",
+  "lawsuit_id": "34488",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=34488",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/488/034488_hanrei.pdf",
+  "contents": ""
+}

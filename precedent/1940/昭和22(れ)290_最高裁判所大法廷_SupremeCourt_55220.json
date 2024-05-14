@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 6,
+    "day": 30
+  },
+  "case_number": "昭和22(れ)290",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第2巻7号773頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 11,
+    "day": 17
+  },
+  "gist": "憲法第三七條第一項にいわゆる「公平な裁判所の裁判」の意義と刑訴應急措置法第一三條第二項の合憲性",
+  "case_gist": "憲法第三七條第一項にいう「公平な裁判所の裁判」とは組織構成等において不公平な虞なき裁判所の裁判という意味である（昭和二三年五月五日言渡同年（れ）第一七一號事件大法廷判決参照）所論刑事訴訟法の應急的措置に關する法律第一三條第二項によつて國民が右の如き裁判所の裁判を受ける權利を害されるわけはないから、右法條が憲法第三七條第一項に違反するという主張は當らない。其の他右法律第一三條が違憲のものであるとなすべき理由は見出されない（昭和二三年三月一〇日言渡同二二年（れ）第四三號事件大法廷判決参照）",
+  "ref_law": "刑訴應急措置法13條2項，憲法37條1項",
+  "lawsuit_id": "55220",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55220",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/220/055220_hanrei.pdf"
+}

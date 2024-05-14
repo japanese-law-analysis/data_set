@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 3,
+    "day": 3
+  },
+  "case_number": "平成21(少コ)3748",
+  "case_name": "報酬請求(通常手続移行)",
+  "court_name": "東京簡易裁判所民事第9室",
+  "result": "その他",
+  "lawsuit_id": "80788",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=80788",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/788/080788_hanrei.pdf",
+  "contents": ""
+}

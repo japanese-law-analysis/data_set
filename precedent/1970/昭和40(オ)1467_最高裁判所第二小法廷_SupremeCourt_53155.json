@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 10,
+    "day": 30
+  },
+  "case_number": "昭和40(オ)1467",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第24巻11号1667頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和39(ネ)260",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 9,
+    "day": 27
+  },
+  "gist": "破産管財人の報酬と財団債権である国税その他の公課との優劣",
+  "case_gist": "破産手続において破産財団が財団債権を弁済するに不定する場合、破産管財人の報酬は、財団債権である国税その他の公課に優先して弁済を受けることができる。",
+  "ref_law": "破産法47条，破産法51条",
+  "lawsuit_id": "53155",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53155",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/155/053155_hanrei.pdf"
+}

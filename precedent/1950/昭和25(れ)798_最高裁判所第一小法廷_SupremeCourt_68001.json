@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 3,
+    "day": 15
+  },
+  "case_number": "昭和25(れ)798",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第41号787頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 3,
+    "day": 13
+  },
+  "gist": "聴取書に作成者の捺印を欠いても真正に成立した書類と認められる場合とその書類の証拠能力",
+  "case_gist": "一　所論聴取書の作成者である司法警察官警部代理巡査部長Ａの名下に捺印のないことは所論のとおりである。二　しかし、同書類にはＢの署名拇印並に右Ａの署名が存し各葉の間にＡの印で契印が施され、神戸市生田警察署印が押されており、さらに立会人巡査Ｃの署名押印があり、真正に成立した書類と認め得られるから、捺印を欠くの一事をもつて、所論のように証拠能力のない書類と断じ去ることはできない。",
+  "ref_law": "旧刑訴法71条，旧刑訴法337条",
+  "lawsuit_id": "68001",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=68001",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/001/068001_hanrei.pdf"
+}

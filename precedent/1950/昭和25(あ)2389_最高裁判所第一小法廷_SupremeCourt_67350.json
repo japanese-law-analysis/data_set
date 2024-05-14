@@ -1,0 +1,24 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 5,
+    "day": 31
+  },
+  "case_number": "昭和25(あ)2389",
+  "case_name": "強盗未遂",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第46号823頁",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 7,
+    "day": 20
+  },
+  "lawsuit_id": "67350",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=67350",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/350/067350_hanrei.pdf"
+}

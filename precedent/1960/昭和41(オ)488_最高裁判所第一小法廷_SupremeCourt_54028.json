@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 4,
+    "day": 17
+  },
+  "case_number": "昭和41(オ)488",
+  "case_name": "土地所有権移転登記手続請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第23巻4号785頁",
+  "original_court_name": "長野地方裁判所",
+  "original_case_number": "昭和37(レ)35",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 6,
+    "day": 18
+  },
+  "gist": "共同相続人に対して契約上の義務の履行として所有権移転登記手続を求める訴訟と必要的共同訴訟の成否",
+  "case_gist": "不動産について、被相続人との間に締結された契約上の義務の履行として、所有権移転登記手続を求める訴訟は、その相続人が数人いるときでも、必要的共同訴訟ではない。",
+  "ref_law": "民訴法62条",
+  "lawsuit_id": "54028",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54028",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/028/054028_hanrei.pdf"
+}

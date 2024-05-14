@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 2,
+    "day": 5
+  },
+  "case_number": "昭和32(オ)861",
+  "case_name": "原因無効宅地建物の所有権取得登記等抹消登記請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第13巻1号67頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 5,
+    "day": 13
+  },
+  "gist": "民法第一一〇条の適用と本人の過失の要否。",
+  "case_gist": "民法第一一〇条による本人の責任は、いわゆる正当の理由が本人の過失によつて生じたことを要件とするものではない。",
+  "ref_law": "民法110条",
+  "lawsuit_id": "54870",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54870",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/870/054870_hanrei.pdf"
+}

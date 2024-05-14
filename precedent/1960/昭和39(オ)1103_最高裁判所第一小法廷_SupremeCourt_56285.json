@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 11,
+    "day": 2
+  },
+  "case_number": "昭和39(オ)1103",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第21巻9号2278頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和37(ネ)242",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 6,
+    "day": 15
+  },
+  "gist": "被用者の職務権限内において適法に行なわれたものでない行為についての被害者の悪意・重過失と民法第七一五条",
+  "case_gist": "被用者の取引行為がその外形からみて使用者の事業の範囲内に属すると認められる場合であつても、それが被用者の職務権限内において適法に行なわれたものではなく、かつその相手方が右の事情を知り、または少なくとも重大な過失によつてこれを知らないものであるときは、その相手方である被害者は、民法第七一五条により使用者に対してその取引行為に基づく損害の賠償を請求することができない。",
+  "ref_law": "民法715条",
+  "lawsuit_id": "56285",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56285",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/285/056285_hanrei.pdf"
+}

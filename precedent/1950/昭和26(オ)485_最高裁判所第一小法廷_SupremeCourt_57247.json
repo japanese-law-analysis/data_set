@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 12,
+    "day": 11
+  },
+  "case_number": "昭和26(オ)485",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第6巻11号1139頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 7,
+    "day": 18
+  },
+  "gist": "一　建物賃貸借契約書に用いられた「永久貸与」という文言の解釈\n二　借家法第一条ノ二にいわゆる正当の事由がある一事例",
+  "case_gist": "一　建物賃貸借契約書に用いられた「永久貸与」という文言を、他の証拠等に照らし、単に「長く貸しましよう。長く借りましよう。」という合意をあらわすもので、賃貸借の存続期間を定めたものでないと解釈しても、経験則に違背しない。\n二　他人の賃借居住している家屋を譲り受けた者がなした賃貸借契約申入も、後記事実関係（原判決理由参照）のもとでは、借家法第一条ノ二にいわゆる正当の事由がある。",
+  "ref_law": "民法617条，民法604条，借家法第1条ノ2",
+  "lawsuit_id": "57247",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57247",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/247/057247_hanrei.pdf"
+}

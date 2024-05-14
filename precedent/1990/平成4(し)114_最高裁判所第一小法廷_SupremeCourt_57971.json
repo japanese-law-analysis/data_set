@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 4,
+    "month": 12,
+    "day": 7
+  },
+  "case_number": "平成4(し)114",
+  "case_name": "検察官のした保管記録閲覧不許可処分に対する準抗告申立事件についてした準抗告棄却決定に対する特別抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第261号303頁",
+  "original_court_name": "東京地方裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 4,
+    "month": 10,
+    "day": 26
+  },
+  "gist": "刑事確定訴訟記録の閲覧に関し憲法８２条２項ただし書の解釈の誤りをいう主張が刑事確定訴訟記録法４条２項，刑訴法５３条３項の解釈，適用の誤りをいう単なる法令違反の主張とされた事例",
+  "ref_law": "憲法82条，刑事確定訴訟記録法4条2項，刑訴法53条3項",
+  "lawsuit_id": "57971",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57971",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/971/057971_hanrei.pdf"
+}

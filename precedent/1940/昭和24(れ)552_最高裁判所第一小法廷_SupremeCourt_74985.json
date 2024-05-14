@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 7,
+    "day": 14
+  },
+  "case_number": "昭和24(れ)552",
+  "case_name": "窃盗、強盗未遂、住居侵入",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第12号571頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 11,
+    "day": 18
+  },
+  "gist": "強盜罪において「他人の財物」であることを判示する具體性の程度",
+  "case_gist": "しかし、有罪判決に示すべき強盜罪の一構成要件たる「他人の財物」であることを判示するには、該構成要件に該當するか、否かを判定するに足る程度の具體的事實を掲げさえすれば差支えないものであつて所論のように、目的物の確定數を表示することを要するものではない。そして原判決は、Ａ所有の中古三つ揃背廣服一着外衣類七點位と判示していて該構成要件に該當する具體的事實を判示したものであること明白であるから、原判決には所論の違法はない。",
+  "ref_law": "舊刑訴法360條1項",
+  "lawsuit_id": "74985",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74985",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/985/074985_hanrei.pdf"
+}

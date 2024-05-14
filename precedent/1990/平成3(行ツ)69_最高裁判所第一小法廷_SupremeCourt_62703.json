@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 6,
+    "month": 1,
+    "day": 27
+  },
+  "case_number": "平成3(行ツ)69",
+  "case_name": "公文書非開示決定取消",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集民　第171号135頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成1(行コ)120",
+  "original_date": {
+    "era": "Heisei",
+    "year": 3,
+    "month": 1,
+    "day": 21
+  },
+  "gist": "栃木県知事の交際費に係る公文書の栃木県公文書の開示に関する条例（昭和六一年栃木県条例第一号）六条五号該当性",
+  "case_gist": "栃木県知事の交際費に係る現金出納簿のうち交際の相手方が識別され得るものは、相手方の名称等が外部に公表、披露されることがもともと予定されているものなどを除き、栃木県公文書の開示に関する条例（昭和六一年栃木県条例第一号）において公文書の非開示事由を定めた六条五号により開示しないことができる文書に該当する。",
+  "ref_law": "栃木県公文書の開示に関する条例（昭和61年栃木県条例第1号）6条5号",
+  "lawsuit_id": "62703",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62703",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/703/062703_hanrei.pdf"
+}

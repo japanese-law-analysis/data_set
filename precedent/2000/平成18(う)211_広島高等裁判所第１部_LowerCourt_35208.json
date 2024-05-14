@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 5,
+    "day": 31
+  },
+  "case_number": "平成18(う)211",
+  "case_name": "偽造通貨行使被告事件",
+  "court_name": "広島高等裁判所第１部",
+  "result": "破棄自判",
+  "original_court_name": "広島地方裁判所",
+  "original_case_number": "平成17(わ)463",
+  "original_result": "その他",
+  "gist": "被告人が、聖徳太子の肖像が印刷された偽造の日本銀行券（１万円）９８５枚のうち１０５枚を真正なもののように装い、合計５回にわたって行使した事案について、被告人は、聖徳太子の肖像図柄の旧１万円札に慣れ親しんだ世代であり、本件紙幣９８５枚を共犯者から受け取った時点において、偽札であることに少なくとも未必的に認識していたことが優に認められ、偽造通貨行使罪が成立するにもかかわらず、被告人は本件紙幣を受け取った際、偽造通貨であると認識していたことについては合理的な疑いが残り、かつ、収得後に行使した際の地情性についても合理的な疑いが残ると認定した原判決には、判決に影響を及ぼす事実誤認があるとして、原判決を破棄した上で懲役４年を言い渡した事案",
+  "lawsuit_id": "35208",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=35208",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/208/035208_hanrei.pdf",
+  "contents": ""
+}

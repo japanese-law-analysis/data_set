@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 4,
+    "day": 27
+  },
+  "case_number": "昭和41(オ)970",
+  "case_name": "慰藉料請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第87号305頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和40(ネ)2425",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 5,
+    "day": 20
+  },
+  "gist": "財産上の損害に加え慰籍料を請求しうべき要件",
+  "case_gist": "商取引に関する契約上の金員の支払を求める訴訟において、偽証等の不法行為があつたため敗訴したとしても、それによつて蒙る損害は、一般には財産上の損害だけであり、そのほかになお慰籍を要する精神上の損害もあわせて生じたといい得るためには、侵害された利益に対し、財産価値以外に考慮に値する主観的精神的価値をも認めていたような特別の事情が存在しなければならない。",
+  "ref_law": "民法710条",
+  "lawsuit_id": "70243",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70243",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/243/070243_hanrei.pdf"
+}

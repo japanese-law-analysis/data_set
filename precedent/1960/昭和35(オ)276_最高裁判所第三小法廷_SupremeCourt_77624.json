@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 5,
+    "day": 1
+  },
+  "case_number": "昭和35(オ)276",
+  "case_name": "建物所有権保存登記抹消登記手続請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第60号503頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 12,
+    "day": 19
+  },
+  "gist": "当事者の申し立てない事項につき判決した場合にあたらないとされた事例",
+  "lawsuit_id": "77624",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77624",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/624/077624_hanrei.pdf"
+}

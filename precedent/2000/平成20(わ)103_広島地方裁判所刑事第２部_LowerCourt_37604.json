@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 3,
+    "day": 4
+  },
+  "case_number": "平成20(わ)103",
+  "case_name": "強要，脅迫",
+  "court_name": "広島地方裁判所刑事第２部",
+  "gist": "被告人が，病院長に対し，同病院職員の配置転換を要求し，それを決定させた事案につき，(1)被告人が行った行為が強要罪における脅迫とはならない，(2)被告人の行為が法令行為として違法性を阻却する，(3)被告人は「義務なきことを行わしめた」わけではないと主張して争ったが，いずれの主張も排斥された事例。",
+  "lawsuit_id": "37604",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=37604",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/604/037604_hanrei.pdf",
+  "contents": ""
+}

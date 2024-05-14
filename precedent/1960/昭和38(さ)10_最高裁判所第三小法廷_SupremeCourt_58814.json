@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 2,
+    "day": 4
+  },
+  "case_number": "昭和38(さ)10",
+  "case_name": "道路交通取締法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集刑　第150号399頁",
+  "original_court_name": "愛知中村簡易裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 9,
+    "day": 20
+  },
+  "lawsuit_id": "58814",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58814",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/814/058814_hanrei.pdf"
+}

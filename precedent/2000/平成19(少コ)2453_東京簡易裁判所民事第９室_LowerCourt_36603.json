@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 2,
+    "day": 21
+  },
+  "case_number": "平成19(少コ)2453",
+  "case_name": "不当利得返還等（通常手続移行後）",
+  "court_name": "東京簡易裁判所民事第９室",
+  "result": "棄却",
+  "lawsuit_id": "36603",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=36603",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/603/036603_hanrei.pdf",
+  "contents": ""
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 15,
+    "month": 10,
+    "day": 31
+  },
+  "case_number": "平成12(受)1589",
+  "case_name": "抵当権設定登記抹消登記手続請求事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集民　第211号313頁",
+  "original_court_name": "広島高等裁判所\n        　松江支部",
+  "original_case_number": "平成12(ネ)44",
+  "original_date": {
+    "era": "Heisei",
+    "year": 12,
+    "month": 9,
+    "day": 8
+  },
+  "gist": "取得時効の援用により不動産の所有権を取得してその旨の登記を有する者が当該取得時効の完成後に設定された抵当権に対抗するためその設定登記時を起算点とする再度の取得時効を援用することの可否",
+  "case_gist": "取得時効の援用により不動産の所有権を取得してその旨の登記を有する者は，当該取得時効の完成後に設定された抵当権に対抗するため，その設定登記時を起算点とする再度の取得時効の完成を主張し，援用をすることはできない。",
+  "ref_law": "民法144条，民法145条，民法162条，民法177条，民法397条",
+  "lawsuit_id": "62466",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62466",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/466/062466_hanrei.pdf"
+}

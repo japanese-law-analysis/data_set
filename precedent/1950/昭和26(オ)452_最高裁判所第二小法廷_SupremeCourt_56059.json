@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 9,
+    "day": 4
+  },
+  "case_number": "昭和26(オ)452",
+  "case_name": "土地賃貸借解約許可取消指令取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第7巻9号868頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 6,
+    "day": 20
+  },
+  "gist": "農地調整法第九条三項による賃貸借解約許可を、許可申請書の不実の記載に基く錯誤を理由として取り消すことの可否",
+  "case_gist": "知事が農地調整法第九条第三項によつて農地賃貸借解約を許可した後は、許可申請書に事実にあわない記載があり、錯誤によつて許可したものとしても申請者側に詐欺等の不正行為があつたことが顕著でない限り、それだけの理由で、さきの許可処分を取り消すことはできない。",
+  "ref_law": "農地調整法9条3項",
+  "lawsuit_id": "56059",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56059",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/059/056059_hanrei.pdf"
+}

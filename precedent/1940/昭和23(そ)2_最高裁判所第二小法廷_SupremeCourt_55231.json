@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 2,
+    "day": 8
+  },
+  "case_number": "昭和23(そ)2",
+  "case_name": "窃盗被告事件に対する非常上告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "刑集　第3巻2号124頁",
+  "original_court_name": "千葉地方裁判所\n        　佐倉支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 3,
+    "day": 22
+  },
+  "gist": "連続犯の一部についてなした確定判決の他の部分に對する効力",
+  "case_gist": "右連続犯については、その一部について、さきに東京地裁において有罪の判決の言渡があり、その判決の確定したことは前述のとおりであるから、右確定判決の効力は、當然に、その連続犯の他の一部をなす本件犯罪にも及ぶものと云わなければならぬ。されば、本件公訴にかかる犯罪事實については、舊刑事訴訟法第三六三條第一號に從つて兔訴の言渡をなすべきであるにもかかわらず、被告人に對し、右犯罪につき、重ねて有罪の言渡をした佐倉支部の判決は違法である。",
+  "ref_law": "刑法55條，舊刑訴法363條1號",
+  "lawsuit_id": "55231",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55231",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/231/055231_hanrei.pdf"
+}

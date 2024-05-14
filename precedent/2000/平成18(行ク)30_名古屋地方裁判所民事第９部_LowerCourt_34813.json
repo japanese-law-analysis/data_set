@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 3,
+    "day": 2
+  },
+  "case_number": "平成18(行ク)30",
+  "case_name": "執行停止申立",
+  "court_name": "名古屋地方裁判所民事第９部",
+  "result": "却下",
+  "gist": "歯科医師に対する保険医の登録取消処分等の執行停止の申立てが「本案について理由がないとみえるとき」に該当するとして却下された事例",
+  "lawsuit_id": "34813",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=34813",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/813/034813_hanrei.pdf",
+  "contents": "1 1\n2 2\n3 3\n"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 12,
+    "day": 7
+  },
+  "case_number": "昭和23(れ)808",
+  "case_name": "恐喝",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第6号99頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 5,
+    "day": 11
+  },
+  "gist": "恐喝行爲説示の程度",
+  "case_gist": "原判決理由は右Ａ、Ｂ兩名が被告人の要求に應じないときは如何樣なことをされるかも知れないと意識される樣な言語舉動を示し其爲め右兩名は如何樣のことをされるかも知れないと畏怖心を起したものである旨を説示したと解されるのであつて、如何樣なことをされるかも知れないということは一見漠然としているが、被害者の生命、身體、自由、名譽、財産等の各法意の何れかに對し、何等かの害惡が到來することを認識せしめた旨を説示したものと認め得るから恐喝罪の説示として缺くるところはない。",
+  "ref_law": "刑法249條，刑訴法360條1項",
+  "lawsuit_id": "70677",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70677",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/677/070677_hanrei.pdf"
+}

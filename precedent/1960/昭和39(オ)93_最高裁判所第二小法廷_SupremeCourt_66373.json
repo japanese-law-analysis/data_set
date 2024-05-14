@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 10,
+    "day": 23
+  },
+  "case_number": "昭和39(オ)93",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第75号1013頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 10,
+    "day": 30
+  },
+  "gist": "民訴法第三八一条の法意。",
+  "case_gist": "民訴法第三八一条は、すでに第一審裁判所の終局判決がなされた以上、かりにその管轄が不当に認められたものとしても、控訴審においては、専属管轄に関しないかぎり、訴訟経済の見地から、もはや第一審裁判所の管轄については争うことができない趣旨の規定であり、その不当に管轄を認められた経過が、当事者において第一審で管轄違の抗弁を提出したのに対して、第一審裁判所が判断を誤つた場合たると、判断を遺脱した場合たると、さらにまた、当事者が控訴審になつて初めて管轄違の抗弁を提出した場合たるとを問わない。",
+  "ref_law": "民訴法381条",
+  "lawsuit_id": "66373",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66373",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/373/066373_hanrei.pdf"
+}

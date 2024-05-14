@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 3,
+    "day": 31
+  },
+  "case_number": "昭和34(あ)2198",
+  "case_name": "賍物故買、賍物収受、たばこ専売法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第14巻4号508頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 10,
+    "day": 20
+  },
+  "gist": "犯則物件を譲り受けた場合とたばこ専売法第七五条第二項の追徴。",
+  "case_gist": "日本専売公社の売り渡さない製造たばこを譲り受けた場合には、たとい、右たばこを入手するため代金を支払つたとしても、譲受人から右代金を控除することなく、違反にかかる製造たばこの価額を追徴すべきである。",
+  "ref_law": "たばこ専売法66条1項，たばこ専売法71条1号，たばこ専売法75条",
+  "lawsuit_id": "51665",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51665",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/665/051665_hanrei.pdf"
+}

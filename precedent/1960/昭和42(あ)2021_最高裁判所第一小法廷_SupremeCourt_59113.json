@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 3,
+    "day": 7
+  },
+  "case_number": "昭和42(あ)2021",
+  "case_name": "威力業務妨害",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第166号387頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 7,
+    "day": 20
+  },
+  "gist": "威力業務妨害罪が成立するとされた事例",
+  "case_gist": "農政局干拓事務所から干拓事業の事前調査のための海底のボーリング工事を請負つた開発会社の係長らの右工事実施は、刑法上保護に価する業務であり、一方、作業船に分乗して右工事実施準備中の同人らに対し、多数の漁業協同組合員らとともに、十数隻の漁船に分乗して右作業船の廻りを巡回し、水竿等を振り廻して怒号し、遁走しようとした同船を追跡してその進路を遮り、これにとび移つて進路を指図し、被告人らの要求する港に入港させるにいたらしめた行為は、社会通念上許容せられる限度を越えるものであつて、右業務の基礎となつている干拓事業およびその実施が違憲であつたか否かは、本件威力業務妨害罪の成否または被告人らの本件行為の違法性に関する判断になんら影響を及ぼさない。",
+  "ref_law": "刑法234条",
+  "lawsuit_id": "59113",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59113",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/113/059113_hanrei.pdf"
+}

@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 8,
+    "day": 30
+  },
+  "case_number": "平成18(ネ)622",
+  "case_name": "損害賠償請求，不当利得返還反訴請求各控訴事件",
+  "court_name": "名古屋高等裁判所民事第１部",
+  "result": "棄却",
+  "original_court_name": "名古屋地方裁判所",
+  "original_case_number": "平成13(ワ)2555",
+  "original_result": "その他",
+  "gist": "本件崩落地が崩落し本件被害地及び被害建物に土砂が流入したのは，本件側溝の処理能力や，本件ブロック塀の存在及び強度に通常有すべき安全性を欠くなどの問題があったとは認められず，上記崩落事故は，未曾有の豪雨による不可抗力によるものであったと推認するのが相当であるとした事例",
+  "lawsuit_id": "35479",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=35479",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/479/035479_hanrei.pdf",
+  "contents": ""
+}

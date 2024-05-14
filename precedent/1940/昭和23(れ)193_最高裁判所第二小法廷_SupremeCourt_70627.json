@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 6,
+    "day": 12
+  },
+  "case_number": "昭和23(れ)193",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第2号437頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 10,
+    "day": 31
+  },
+  "gist": "窃盗についての緊急避難の主張と上告の適否",
+  "case_gist": "所論は原判決の認定しない事實をもとにして本件犯行が緊急避難行爲にあたると主張するもので結局原判決の事實の認定を非難し延いてその法律の適用を攻撃するに歸するから日本國憲法の施行に伴う刑事訴訟法の應急的措置に關する法律第一三條第二項によつて上告適法の理由にならない。尤も被告人は原審公判廷で妻が妊娠中であり食糧難でその日の食糧にも事缺くような生活をしていたため本件犯行に及んだと云うような、供述をしているが、犯行の動機を縷々のべているだけのことで、原審も被告人の犯行が緊急己むを得ない、状況の下においてなされたものとは認めなかつたのであるから刑法第三七條第一項を適用しなかつたのはもとより當然で何等所論のような違法はない。",
+  "ref_law": "刑法235條，刑法37條",
+  "lawsuit_id": "70627",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70627",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/627/070627_hanrei.pdf"
+}

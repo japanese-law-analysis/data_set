@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 11,
+    "day": 16
+  },
+  "case_number": "昭和46(オ)699",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第26巻9号1633頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和44(ネ)2499",
+  "original_date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 4,
+    "day": 9
+  },
+  "gist": "新聞記事掲載にあたりその内容を真実と信ずるにつき相当の理由があるとはいえないとされた事例",
+  "case_gist": "生まれつき口の形が変わつている生後三か月の嬰児の窒息による変死について、捜査当局においてはその屍体解剖を終えたばかりで、まだ家族に対する事情聴取もすんでおらず、その死が単なる事故死であるという可能性も考えられ、捜査当局が未だ公の発表をしていない段階において、家族の誰かがこれを殺害したものであるというような印象を読者に与える記事を新聞紙上に掲載するにあたつては、たとえその記事が解剖医および刑事官から取材して得た情報に基づくものであるなど原判示の事情（原判決理由参照）があつても、新聞社の担当者が、裏付取材をしないでその内容を真実と信じたことについては、相当の理由があつたものとはいえない。",
+  "ref_law": "民法709条，民法710条",
+  "lawsuit_id": "52644",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52644",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/644/052644_hanrei.pdf"
+}

@@ -1,0 +1,20 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 6,
+    "month": 12,
+    "day": 8
+  },
+  "case_number": "平成6(し)170",
+  "case_name": "窃盗被疑事件についてした勾留に代わる観護措置取消しの裁判に対する準抗告申立てについての決定に対する特別抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第264号371頁",
+  "gist": "勾留に代わる観護措置を取り消す旨の裁判を変更し右観護措置取消し請求を却下した裁判に対し特別抗告の申立てがされた後，右観護措置がとられた事件が家庭裁判所に送致された場合の特別抗告の効力",
+  "ref_law": "少年法17条5項",
+  "lawsuit_id": "58008",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58008",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/008/058008_hanrei.pdf"
+}

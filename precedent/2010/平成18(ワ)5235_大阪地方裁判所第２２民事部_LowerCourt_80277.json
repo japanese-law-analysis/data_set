@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 5,
+    "day": 19
+  },
+  "case_number": "平成18(ワ)5235",
+  "case_name": "損害賠償請求事件",
+  "court_name": "大阪地方裁判所第２２民事部",
+  "gist": "大阪泉南地域の石綿工場の労働者が石綿肺，肺がん又は中皮腫等に罹患したことについて，国の規制権限不行使に基づく国賠法上の責任が肯定された事例",
+  "lawsuit_id": "80277",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=80277",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/277/080277_hanrei.pdf",
+  "contents": ""
+}

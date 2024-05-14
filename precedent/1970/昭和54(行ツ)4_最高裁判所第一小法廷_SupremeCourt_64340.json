@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 12,
+    "day": 6
+  },
+  "case_number": "昭和54(行ツ)4",
+  "case_name": "公務災害につき公務外認定処分取消",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第128号161頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_case_number": "昭和53(行コ)2",
+  "original_date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 11,
+    "day": 8
+  },
+  "gist": "出勤途中の災害が地方公務員災害補償法一条（昭和四八年法律第七六号による改正前のもの）の公務上の災害にあたらないとされた事例",
+  "case_gist": "地方公務員である保安員として高等学校の保安業務に従事していたものが午後九時より開始される右勤務に服するため自転車により出勤する途中受けた災害は、公務遂行中の災害にあたらない。",
+  "ref_law": "地方公務員災害補償法（昭和48年法律第76号による改正前のもの）1条",
+  "lawsuit_id": "64340",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64340",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/340/064340_hanrei.pdf"
+}

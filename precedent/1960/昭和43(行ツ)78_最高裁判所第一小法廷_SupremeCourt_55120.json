@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 2,
+    "day": 13
+  },
+  "case_number": "昭和43(行ツ)78",
+  "case_name": "審決（特許無効審判審決）取消請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第23巻2号328頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和41(行ケ)155",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 5,
+    "day": 28
+  },
+  "gist": "弁理士法八条二号に違反する提訴の効力",
+  "case_gist": "弁理士が、特許庁に在職中審判官として取り扱つた審判事件につき、退職後、弁理士法八条二号に違反して、右事件の審決の取消訴訟を提起した場合には、相手方が右違反行為に異議を述べているかぎり、提訴を無効と解すべきである。",
+  "ref_law": "弁理士法8条2号",
+  "lawsuit_id": "55120",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55120",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/120/055120_hanrei.pdf"
+}

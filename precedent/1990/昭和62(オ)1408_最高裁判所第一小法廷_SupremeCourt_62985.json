@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 3,
+    "month": 10,
+    "day": 17
+  },
+  "case_number": "昭和62(オ)1408",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第163号365頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "昭和59(ネ)12",
+  "original_date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 7,
+    "day": 31
+  },
+  "gist": "建物賃貸人の失火による火災で焼失した賃貸建物内の衣料品類の損害について賃貸人の債務不履行責任を認めた事例",
+  "case_gist": "木造二階建ての建物の一部を衣料品類販売店舗として賃貸し、建物の火気は主として賃貸人が住居として使用していたその余の部分にあり、賃貸人の使用部分からの失火によって賃貸部分に蔵置保管されていた衣料品類にも被害が及ぶことが当然に予測されていたなど、判示の事実関係の下において、賃貸人は、その使用部分の火気の取扱いの不注意による失火により賃貸部分に蔵置保管されていた衣料品類を焼失させたときは、衣料品類の損害について信義則上債務不履行による賠償義務を負担する。",
+  "ref_law": "民法1条2項，民法415条，民法601条",
+  "lawsuit_id": "62985",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62985",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/985/062985_hanrei.pdf"
+}

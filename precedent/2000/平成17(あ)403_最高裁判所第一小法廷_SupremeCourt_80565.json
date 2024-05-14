@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 7,
+    "day": 17
+  },
+  "case_number": "平成17(あ)403",
+  "case_name": "殺人，殺人未遂，詐欺，傷害，公正証書原本不実記載，同行使被告事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第294号729頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 17,
+    "month": 1,
+    "day": 13
+  },
+  "gist": "死刑の量刑が維持された事例（埼玉・本庄保険金殺人事件）",
+  "lawsuit_id": "80565",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=80565",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/565/080565_hanrei.pdf",
+  "contents": ""
+}

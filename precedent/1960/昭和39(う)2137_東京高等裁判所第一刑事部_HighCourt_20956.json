@@ -1,0 +1,18 @@
+{
+  "trial_type": "HighCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 6,
+    "day": 5
+  },
+  "case_number": "昭和39(う)2137",
+  "case_name": "破壊活動防止法等違反被告事件",
+  "court_name": "東京高等裁判所第一刑事部",
+  "article_info": "第20巻3号351頁",
+  "gist": "破壊活動防止法第三九条第四〇条所定の予備罪の成立しない事例",
+  "case_gist": "本件のような情況(判文参照)においては破壊活動防止法第三九条、第四〇条所定の予備罪は成立しないものと認めるのを相当とする。",
+  "lawsuit_id": "20956",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail3?id=20956",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/956/020956_hanrei.pdf"
+}

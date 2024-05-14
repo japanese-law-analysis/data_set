@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 11,
+    "day": 21
+  },
+  "case_number": "昭和47(オ)723",
+  "case_name": "所有権移転登記抹消登記手続請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第29巻10号1537頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_case_number": "昭和46(ネ)164",
+  "original_date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 4,
+    "day": 28
+  },
+  "gist": "物上保証人に対する抵当権の実行による競売開始決定が債務者に告知された場合と被担保債権の消滅時効の中断",
+  "case_gist": "物上保証人に対する抵当権の実行により、競売裁判所が競売開始決定をし、これを債務者に告知した場合には、被担保債権についての消滅時効は中断する。",
+  "ref_law": "民法147条，民法148条，民法155条，民訴法204条，競売法25条，競売法27条",
+  "lawsuit_id": "54198",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54198",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/198/054198_hanrei.pdf"
+}

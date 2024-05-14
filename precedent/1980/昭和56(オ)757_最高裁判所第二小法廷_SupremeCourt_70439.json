@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 5,
+    "day": 28
+  },
+  "case_number": "昭和56(オ)757",
+  "case_name": "建物明渡等",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第136号31頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "昭和56(ネ)90",
+  "original_date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 5,
+    "day": 13
+  },
+  "gist": "適法な控訴の提起があつたとされた事例",
+  "case_gist": "控訴期間内に控訴人使者の署名捺印のある第一の控訴状が控訴状の提出を委任する旨の控訴人代表者名義の委任状とともに控訴裁判所に提出され、次いで控訴期間経過後に第一の控訴状と同日付をもつて控訴人代表者の署名捺印のある第二の控訴状が提出されたときは、特段の事情のない限り、控訴期間内に第一審判決に対する適法な控訴の提起があつたものと解するのが相当である。",
+  "ref_law": "民訴法244条，民訴法367条，民訴法368条",
+  "lawsuit_id": "70439",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70439",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/439/070439_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 11,
+    "day": 27
+  },
+  "case_number": "昭和25(オ)445",
+  "case_name": "建物明渡及び損害金請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第5巻12号748頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 12,
+    "day": 6
+  },
+  "gist": "一　賃貸借の解約申入を原因とする家屋明渡請求の訴と訴の提起による解約の申入\n二　右の請求事件において訴の提起により解約の効力を認めることの可否",
+  "case_gist": "一　賃貸借の解約申入をしたことを原因とする家屋明渡請求事件において、訴提起前の解約申入の事実が認められないとしても、訴の提起により解約申入の事実を認めることは差支えない。\n二　右の場合、訴の提起に基き解約の効力を認めても、当事者の主張しない事実につき判断したものということはできない。",
+  "ref_law": "借家法3条，民訴法186条",
+  "lawsuit_id": "56030",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56030",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/030/056030_hanrei.pdf"
+}

@@ -1,0 +1,18 @@
+{
+  "trial_type": "IPCase",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 5,
+    "day": 31
+  },
+  "case_number": "平成17(ワ)27477等",
+  "case_name": "損害賠償請求事件",
+  "court_name": "東京地方裁判所",
+  "right_type": "不正競争",
+  "lawsuit_type": "民事訴訟",
+  "lawsuit_id": "34778",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail7?id=34778",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/778/034778_hanrei.pdf",
+  "contents": "6 1 5\na\nb\na\nb\nc\na\na\nb\na\nb\n1 5\na\nb\nc\na\nb\nc\na\nb\nc\na\nb\nc\n"
+}

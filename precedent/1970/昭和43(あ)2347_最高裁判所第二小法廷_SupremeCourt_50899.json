@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 11,
+    "day": 20
+  },
+  "case_number": "昭和43(あ)2347",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第24巻12号1647頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 10,
+    "day": 3
+  },
+  "gist": "選挙に関し買収を共謀した者相互間の授受金員が他の金員と混同した場合における交付罪の成否",
+  "case_gist": "選挙に関し買収を共謀した者相互間で買収を目的とする金員の交付、受交付が行なわれた場合において、供与に使用された交付金の残金が受交付者の手もとで他の金員と混同を生じたのち、供与に使用されたとしても、右の混同のため右残金からだれに、いつ、いくらずつ供与されたか供与罪として特定できないときは、右残金については、供与罪に吸収されることなく、交付罪を構成する。",
+  "ref_law": "公職選挙法221条1項1号，公職選挙法221条1項5号，刑法60条",
+  "lawsuit_id": "50899",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50899",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/899/050899_hanrei.pdf"
+}

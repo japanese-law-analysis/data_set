@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 11,
+    "day": 1
+  },
+  "case_number": "昭和28(あ)5372",
+  "case_name": "傷害、暴行、脅迫",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第110号79頁",
+  "original_court_name": "福岡高等裁判所\n        　宮崎支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 11,
+    "day": 11
+  },
+  "gist": "暴行を加えた直後の脅迫行為と罪数",
+  "case_gist": "犯人が他人に対し暴行を加えた後、さらに別個の害悪を告知し脅迫行為をした場合において、たとえ、右脅迫が暴行行為の直後同一場所でなされたものであつても、暴行罪の外に併合罪の関係にたつ脅迫罪が成立する。",
+  "ref_law": "刑法45条，刑法208条，刑法222条1項",
+  "lawsuit_id": "75514",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=75514",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/514/075514_hanrei.pdf"
+}

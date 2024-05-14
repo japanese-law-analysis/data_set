@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 10,
+    "day": 13
+  },
+  "case_number": "昭和45(オ)331",
+  "case_name": "売買代金請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第101号49頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和43(ネ)1444",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 12,
+    "day": 25
+  },
+  "gist": "一船分の木材を二人が共同して買つた場合の買主の債務の性質",
+  "case_gist": "一船分の木材を二人が共同して買つた場合において、目的物について不可分の特約がなされる等特段の事情のないかぎり、買主両名の債務は可分債務であると解すべきである。",
+  "ref_law": "民法427条",
+  "lawsuit_id": "64030",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64030",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/030/064030_hanrei.pdf"
+}

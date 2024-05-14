@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 2,
+    "day": 13
+  },
+  "case_number": "昭和29(あ)2757",
+  "case_name": "外国為替及び外国貿易管理法違反、関税法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第12巻2号238頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 6,
+    "day": 28
+  },
+  "gist": "旧関税法第八三条第一項による船舶没収が違法な事例",
+  "case_gist": "犯人が旧関税法の密輸出行為の用に供した第三者所有の船舶については、所有者がその占有を犯人に移す際、それが密輸出の用に供せられることの事情につき善意であつたときは、旧関税法第八三条第一項により没収するをえないものである。",
+  "ref_law": "旧関税法（明治32年法律61号―昭和23年法律107号により改正されたもの）83条1項，旧関税法（明治32年法律61号―昭和23年法律107号により改正されたもの）76条，関税法（昭和29年法律61号）118条1項",
+  "lawsuit_id": "50423",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50423",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/423/050423_hanrei.pdf"
+}

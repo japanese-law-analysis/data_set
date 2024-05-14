@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 12,
+    "day": 14
+  },
+  "case_number": "昭和39(オ)597",
+  "case_name": "建物引渡請求並びに賃借権確認請求参加",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第81号427頁",
+  "original_court_name": "高松高等裁判所",
+  "original_case_number": "昭和35(ネ)368",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 1,
+    "day": 31
+  },
+  "gist": "一　特定物の売買における所有権移転時期\n二　履行の著手があつたと認められた事例",
+  "case_gist": "一　特定物の売買契約にあつて、所有権は契約と同時に移転せず、代金完済と同時に移転すると解しなければならないことはない。\n二　建物の買主が終始明渡の要求をなし残代金は即時でも支払いうる状態にあつたこと、および右明渡請求の訴が提起されていたことから、買主においてすでに履行の著手があつたと認めたのは相当である。",
+  "ref_law": "民法176条，民法557条",
+  "lawsuit_id": "66351",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66351",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/351/066351_hanrei.pdf"
+}

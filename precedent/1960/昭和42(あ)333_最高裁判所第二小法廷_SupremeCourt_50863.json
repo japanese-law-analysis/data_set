@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 12,
+    "day": 14
+  },
+  "case_number": "昭和42(あ)333",
+  "case_name": "銃砲刀剣類等所持取締法違反幇助、火薬類取締法違反幇助",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第21巻10号1396頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 12,
+    "day": 20
+  },
+  "gist": "けん銃購入のあつ旋はその不法所持の幇助犯となるか",
+  "case_gist": "他人がけん銃を購入してこれを携帯所持すべきことを認識しながら、その購入のあつ旋をし、同人をしてけん銃を購入所持するに至らせたときは、けん銃の不法所持の幇助犯が成立する。",
+  "ref_law": "銃砲刀剣類等所持取締法3条1項，銃砲刀剣類等所持取締法31条1号，刑法62条1項",
+  "lawsuit_id": "50863",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50863",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/863/050863_hanrei.pdf"
+}

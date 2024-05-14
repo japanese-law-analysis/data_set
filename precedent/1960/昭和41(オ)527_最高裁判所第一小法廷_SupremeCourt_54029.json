@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 10,
+    "day": 27
+  },
+  "case_number": "昭和41(オ)527",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第20巻8号1649頁",
+  "original_court_name": "広島高等裁判所",
+  "original_case_number": "昭和37(ネ)213",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 2,
+    "day": 15
+  },
+  "gist": "建物の貸借関係が使用貸借であると認められた事例",
+  "case_gist": "建物の借主が該建物を含む貸主所有の不動産に賦課された固定資産税等の公租公課の支払を負担する等原判示事実（原判決理由参照）があるとしても、右負担が建物の使用収益に対する対価の意味をもつものと認めるに足りる特段の事情のないかぎり、当該貸借関係は使用貸借であると認めるのが相当である。",
+  "ref_law": "民法593条，民法601条",
+  "lawsuit_id": "54029",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54029",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/029/054029_hanrei.pdf"
+}

@@ -1,0 +1,24 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 11,
+    "day": 21
+  },
+  "case_number": "昭和25(あ)2222",
+  "case_name": "昭和二二年勅令第九号違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第69号689頁",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 6,
+    "day": 12
+  },
+  "lawsuit_id": "71109",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=71109",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/109/071109_hanrei.pdf"
+}

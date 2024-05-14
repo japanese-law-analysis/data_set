@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 4,
+    "day": 20
+  },
+  "case_number": "昭和38(オ)246",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第78号649頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和37(ネ)835",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 11,
+    "day": 5
+  },
+  "gist": "一　店舗について共同占有の成立を認めた事例。\n二　訴額の算定の違法と訴訟行為の効力。",
+  "case_gist": "一　判示の事情のもとでは、本件店舗については、真実の経営者と、経営者名義人の両名による共同占有が成立するものと認めるのが相当である。\n二　かりに訴額の算定について違法であつても、これを看過してなされた訴訟行為の効力は無効とはいえない。",
+  "ref_law": "民法180条，民訴印紙法11条，民訴法22条，民訴法223条",
+  "lawsuit_id": "63888",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63888",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/888/063888_hanrei.pdf"
+}

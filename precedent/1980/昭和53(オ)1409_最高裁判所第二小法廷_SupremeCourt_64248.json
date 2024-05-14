@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 5,
+    "day": 30
+  },
+  "case_number": "昭和53(オ)1409",
+  "case_name": "建物譲渡禁止差止",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第129号651頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和52(ネ)1598",
+  "original_date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 9,
+    "day": 20
+  },
+  "gist": "一　日本住宅公団がその賃貸する住宅について賃借人との間に設定する使用関係の性質\n二　日本住宅公団法施行規則一五条一項にいう特別の必要がある場合と日本住宅公団の賃借人に対する賃貸住宅を他に譲渡してはならない義務の有無",
+  "case_gist": "一　日本住宅公団がその賃貸する住宅について賃借人との間に設定する使用関係は、私法上の賃貸借関係である。\n二　日本住宅公団法施行規則一五条一項にいう特別の必要がある場合においては、日本住宅公団は、その賃貸する住宅を他に譲渡しこれに伴つて賃貸人の地位をその譲受人に承継させてはならない義務を当該住宅の賃借人に対して負うものではない。",
+  "ref_law": "民法601条，日本住宅公団法施行規則15条1項，日本住宅公団法31条1項1号",
+  "lawsuit_id": "64248",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64248",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/248/064248_hanrei.pdf"
+}

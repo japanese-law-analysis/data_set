@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 12,
+    "day": 23
+  },
+  "case_number": "昭和23(オ)85",
+  "case_name": "養子縁組無効確認請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第2巻14号493頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 7,
+    "day": 14
+  },
+  "gist": "一　旧民法第八五一条第一号（新民法第八〇二条第一号）の意義\n二　養子縁組の無効と民法第九三条但書",
+  "case_gist": "一　旧民法第八五一条第一号（新民法第八〇二条第一号）にいわゆる「当事者間に縁組をする意思がないとき」とは、当事者間において真に養親子関係の設定を欲する効果意思を有しない場合を指し、たとえ養子縁組の届出自体については当事者間に意思の一致があつたとしても、それが単に他の目的を達するための便法として仮託されたものに過ぎないときは、養子縁組は、効力を生じない。\n二　養子関係の設定を欲する効果意思のないことによる養子縁組の無効は、絶対的のものであつて民法第九三条但書の適用をまつてはじめて無効となるのではない。",
+  "ref_law": "旧民法851条1号，新民法802条1号，新民法93条但書",
+  "lawsuit_id": "57114",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57114",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/114/057114_hanrei.pdf"
+}

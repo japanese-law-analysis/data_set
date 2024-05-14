@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 2,
+    "day": 21
+  },
+  "case_number": "昭和32(オ)401",
+  "case_name": "阻害行為取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第12巻2号341頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 2,
+    "day": 25
+  },
+  "gist": "債権発生前の債務者の行為と民法第四二四条",
+  "case_gist": "債務者の行為を詐害行為として民法第四二四条を適用するには、その行為が取消権を行使する債務者の債権発生後になされたことが必要である。",
+  "ref_law": "民法424条",
+  "lawsuit_id": "53590",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53590",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/590/053590_hanrei.pdf"
+}

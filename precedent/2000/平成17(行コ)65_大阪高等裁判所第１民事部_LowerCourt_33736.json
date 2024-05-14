@@ -1,0 +1,20 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 7,
+    "day": 20
+  },
+  "case_number": "平成17(行コ)65",
+  "case_name": "介護保険料賦課決定処分取消請求控訴事件（原審・大阪地方裁判所平成１４年（行ウ）第１３６号）",
+  "court_name": "大阪高等裁判所第１民事部",
+  "result": "棄却",
+  "original_court_name": "大阪地方裁判所",
+  "original_case_number": "平成14(行ウ)136",
+  "gist": "介護保険法及びＡ市介護保険条例は憲法１４条，２５条及び１３条に違反しない。",
+  "lawsuit_id": "33736",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=33736",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/736/033736_hanrei.pdf",
+  "contents": ""
+}

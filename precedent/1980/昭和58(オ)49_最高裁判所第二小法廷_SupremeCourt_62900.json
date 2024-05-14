@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 11,
+    "day": 29
+  },
+  "case_number": "昭和58(オ)49",
+  "case_name": "土地建物所有権持分更正登記手続等",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集民　第146号197頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和57(ネ)495",
+  "original_date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 9,
+    "day": 30
+  },
+  "gist": "一　共有登記の一部抹消（更正）登記請求訴訟と共有名義人全員を被告とすることの要否\n二　被相続人の不動産に関する登記義務が共同相続人によつて承継された場合における当該共同相続人の登記義務の性質",
+  "case_gist": "一　自己の持分を登記上侵害されている共同相続人の一人がこれを侵害している他の複数の共同相続人に対して妨害排除としての実質を有する一部抹消（更正）登記手続を請求する訴訟は、右他の共同相続人全員を被告とすべき固有必要的共同訴訟ではない。\n二　被相続人の不動産に関する登記義務が共同相続人によつて承継された場合における当該共同相続人の登記義務は、不可分債務である。",
+  "ref_law": "民訴法62条，民法430条，民法896条，民法898条，不動産登記法63条",
+  "lawsuit_id": "62900",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62900",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/900/062900_hanrei.pdf"
+}

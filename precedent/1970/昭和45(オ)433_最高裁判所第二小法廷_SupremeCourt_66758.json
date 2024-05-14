@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 9,
+    "day": 18
+  },
+  "case_number": "昭和45(オ)433",
+  "case_name": "家屋明渡等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第100号453頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和44(ネ)831",
+  "original_date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 2,
+    "day": 13
+  },
+  "gist": "建物の賃借人から敷金がさしいれられている場合と賃料延滞を理由とする契約解除",
+  "case_gist": "建物の賃借人から賃貸人に対し敷金がさしいれられている場合においても、特段の事情のないかぎり、賃借人が賃料を延滞したときは、これを理由に賃貸人は賃貸借契約を解除することができ、右差入敷金額が一六万円、延滞賃料が二〇万円で、差引をした場合には賃料の延滞分が一か月分にもみたないとしても、右契約解除が信義則に反し権利濫用となるものではない。",
+  "ref_law": "民法619条",
+  "lawsuit_id": "66758",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66758",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/758/066758_hanrei.pdf"
+}

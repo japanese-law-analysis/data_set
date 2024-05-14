@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 11,
+    "day": 29
+  },
+  "case_number": "昭和24(れ)829",
+  "case_name": "賍物寄蔵",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第4巻11号2402頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 2,
+    "day": 1
+  },
+  "gist": "一　被告人の自白も補強証拠となり得るか\n二　補強証拠は犯罪事実の全部にわたつてもれなく必要か",
+  "case_gist": "一　犯罪の客観的構成要件たる事実についての確証が、当該判決裁判所の公判廷における被告人の自白であつても違法ではない。\n二　犯罪の主観的要件に属するものについての直接の証拠は、公判廷外の被告人の自白だけであつても、その客観的構成要件たる事実について他に確証があり、右被告人の自白の真実性が保証せられると認められる以上、それ等の各証拠を綜合して犯罪事実の全体を認定することは適法である。（昭和二三年（れ）第一七四四号同二五年一〇月一一日大法廷判決参照）",
+  "ref_law": "憲法38条3項，刑訴応急措置法10条3項",
+  "lawsuit_id": "54349",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54349",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/349/054349_hanrei.pdf"
+}

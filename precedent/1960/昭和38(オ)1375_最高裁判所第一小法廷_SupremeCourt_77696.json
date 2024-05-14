@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 6,
+    "day": 16
+  },
+  "case_number": "昭和38(オ)1375",
+  "case_name": "相続財産引渡等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第83号769頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和37(ネ)40",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 8,
+    "day": 6
+  },
+  "gist": "相続開始後の遺留分放棄と民法第一〇四三条",
+  "case_gist": "相続開始後の遺留分放棄は、民法第一〇四三条第一項にかかわらず、効力を生ずる。",
+  "ref_law": "民法1043条",
+  "lawsuit_id": "77696",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77696",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/696/077696_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 7,
+    "day": 3
+  },
+  "case_number": "昭和39(オ)58",
+  "case_name": "建物収去土地明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第74号421頁",
+  "original_court_name": "福岡高等裁判所\n        　宮崎支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 11,
+    "day": 11
+  },
+  "gist": "一時使用のための借地権とされた事例。",
+  "case_gist": "土地の賃貸借契約が当初甲市内に散在していた露天商を一時整理収容するために市役所等のあっせんにより期間を一年と限って成立し、その後借地人らの申出によって期間を限って契約が再三更新され、かつ、最終の契約においては、期間を一年三箇月とし賃貸人の許可なく組立式以外の建物の築造を禁止し、夜警以外の居住を禁止するなど原判決の認定の事情のもとにおいては、借地人らが一一年間にわたって適法に占有していたとしても、右借地権を、一時使用のための借地権であると認定することは許されないわけではない。",
+  "ref_law": "借地法9条",
+  "lawsuit_id": "66350",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66350",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/350/066350_hanrei.pdf"
+}

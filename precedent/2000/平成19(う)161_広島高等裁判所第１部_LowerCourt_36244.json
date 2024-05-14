@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 2,
+    "day": 19
+  },
+  "case_number": "平成19(う)161",
+  "case_name": "詐欺被告事件",
+  "court_name": "広島高等裁判所第１部",
+  "result": "破棄自判",
+  "original_court_name": "山口地方裁判所",
+  "original_case_number": "平成18(わ)170",
+  "original_result": "その他",
+  "gist": "寸借名下に現金５万円を詐取したという詐欺事件について、犯行の約３年後に逮捕された被告人の犯人性が争われ、原判決が被告人を有罪としたのに対し、被害者らの犯人識別供述の信用性を検討し、被告人が本件詐欺の犯人である疑いは相当濃厚であるものの、被告人を犯人と認定するのには、なお合理的な疑いを差し挟む余地があるとして無罪を宣告した事例",
+  "lawsuit_id": "36244",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=36244",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/244/036244_hanrei.pdf",
+  "contents": ""
+}

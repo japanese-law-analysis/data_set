@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 7,
+    "day": 16
+  },
+  "case_number": "平成21(ネ)265",
+  "case_name": "貸金請求控訴事件",
+  "court_name": "名古屋高等裁判所民事第４部",
+  "result": "棄却",
+  "original_court_name": "名古屋地方裁判所\n        　一宮支部",
+  "original_case_number": "平成20(ワ)262",
+  "original_result": "棄却",
+  "gist": "連帯保証人が主債務の消滅時効期間経過後に連帯保証債務を履行して主債務を消滅させた場合には，その後主債務の消滅時効を援用した上，不当利得により当該弁済金の返還を受けることはできないとした事例",
+  "lawsuit_id": "37912",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=37912",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/912/037912_hanrei.pdf",
+  "contents": ""
+}

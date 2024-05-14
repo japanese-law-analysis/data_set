@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 2,
+    "day": 21
+  },
+  "case_number": "昭和27(オ)628",
+  "case_name": "農地買収計画取消請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第11巻2号318頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 6,
+    "day": 4
+  },
+  "gist": "農地賃貸借契約上の賃借人の子を自作農創設特別措置法第六条の二にいわゆる「小作地に就き耕作の業務を営んでいた小作農」に該当するものと認めた例",
+  "case_gist": "農地賃貸借契約上の賃借人が老齢のため、昭和１９年以来同居の子に農耕は勿論主食の供出、世帯の切廻し等一切を任せ、自分は多忙の折子の手伝をする程度であつて、この事実を地主も了承していた場合は、右の子は自作農創設特別措置法第六条の二にいわゆる「小作地に就き耕作の業務を営んでいた小作農」にあたる。",
+  "ref_law": "自作農創設特別措置法6条の2第1項",
+  "lawsuit_id": "57336",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57336",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/336/057336_hanrei.pdf"
+}

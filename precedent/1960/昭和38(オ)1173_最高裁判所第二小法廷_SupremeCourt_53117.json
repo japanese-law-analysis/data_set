@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 12,
+    "day": 18
+  },
+  "case_number": "昭和38(オ)1173",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第18巻10号2179頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 6,
+    "day": 28
+  },
+  "gist": "期間の定めのない継続的保証契約と保証人の解約。",
+  "case_gist": "期間の定めのない継続的保証契約は、保証人の主債務者に対する信頼が害されるに至つた等保証人として解約申入をするにつき相当の理由がある場合には、右解約により債権者が信義則上看過できない損害をこうむるような特段の事情がある場合を除いて、保証人から一方的に解約できるものと解するのが相当である。",
+  "ref_law": "民法446条",
+  "lawsuit_id": "53117",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53117",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/117/053117_hanrei.pdf"
+}

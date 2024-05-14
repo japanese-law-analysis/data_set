@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 3,
+    "day": 20
+  },
+  "case_number": "昭和48(あ)2641",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第191号477頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 10,
+    "day": 17
+  },
+  "gist": "一　公民権停止と憲法三一条\n二　公判延における被告人の供述態度を量刑の資料とすることと憲法三八条",
+  "case_gist": "一　公職選挙法二五二条二項所定の選挙権被選挙権に対する制限は、同条項所定の裁判の確定に伴い当然に発生するものであつて、裁判により形成される効果ではない。\n二　原判決が、被告人の公判延における供述態度を量刑の資料としたにとどまる場合は、被告人に不利益な供述を強要したものとはいえない。",
+  "ref_law": "憲法31条，憲法38条，公職選挙法252条2項",
+  "lawsuit_id": "76065",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=76065",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/065/076065_hanrei.pdf"
+}

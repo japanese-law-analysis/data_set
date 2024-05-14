@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 3,
+    "day": 30
+  },
+  "case_number": "平成20(受)909",
+  "case_name": "損害賠償，立替金請求事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "集民　第233号311頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_case_number": "平成19(ネ)192",
+  "original_date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 1,
+    "day": 25
+  },
+  "gist": "金の商品先物取引の委託契約において将来の金の価格は消費者契約法４条２項本文にいう「重要事項」に当たるか",
+  "case_gist": "金の商品先物取引の委託契約において将来の金の価格は消費者契約法４条２項本文にいう「重要事項」に当たらない。",
+  "ref_law": "消費者契約法4条2項，消費者契約法4条4項",
+  "lawsuit_id": "80043",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=80043",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/043/080043_hanrei.pdf",
+  "contents": ""
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 3,
+    "day": 25
+  },
+  "case_number": "昭和51(あ)2041",
+  "case_name": "恐喝、恐喝未遂",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第31巻2号120頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 11,
+    "day": 5
+  },
+  "gist": "懲役刑の執行終了後に処せられた罰金刑の言渡が失効した場合と懲役刑の消滅",
+  "case_gist": "懲役刑の執行終了後一〇年を経過しない間に、罰金刑に処せられ、かつ、その言渡が失効した場合には、懲役刑の言渡は、その執行終了後一〇年を経過した時に効力を失う。",
+  "ref_law": "刑法34条ノ2第1項",
+  "lawsuit_id": "51117",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51117",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/117/051117_hanrei.pdf"
+}

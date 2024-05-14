@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 12,
+    "day": 9
+  },
+  "case_number": "昭和28(オ)1273",
+  "case_name": "未墾地及び物件買収計画取消請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第16号833頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 10,
+    "day": 12
+  },
+  "lawsuit_id": "74110",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74110",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/110/074110_hanrei.pdf"
+}

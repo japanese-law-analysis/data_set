@@ -1,0 +1,20 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 6,
+    "day": 26
+  },
+  "case_number": "昭和54(せ)65",
+  "case_name": "偽造有価証券行使被告事件についてした原審及び第一審の各判決中訴訟費用負担の各裁判に対する裁判の執行免除の申立",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第214号749頁",
+  "gist": "弁護人であつた者からなされた訴訟費用執行免除の申立が、右申立をするについて被告人の委任を欠いたため不適法とされた事例",
+  "ref_law": "刑訴法30条，刑訴法41条，刑訴法500条",
+  "lawsuit_id": "58140",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58140",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/140/058140_hanrei.pdf"
+}

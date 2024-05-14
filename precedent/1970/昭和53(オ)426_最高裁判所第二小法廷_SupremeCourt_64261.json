@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 3,
+    "day": 30
+  },
+  "case_number": "昭和53(オ)426",
+  "case_name": "土地所有権確認等",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第126号377頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和56(ネ)2318",
+  "original_date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 12,
+    "day": 21
+  },
+  "gist": "自作農創設特別措置法九条一項但書の要件を欠く農地買収令書の交付に代わる公告手続の瑕疵が買収対価の受領段階における令書の交付と同視しうる告知行為により補正ないし治癒されるにいたつたものとされた事例",
+  "case_gist": "（省略）",
+  "ref_law": "自作農創設特別措置法9条1項但書",
+  "lawsuit_id": "64261",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64261",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/261/064261_hanrei.pdf"
+}

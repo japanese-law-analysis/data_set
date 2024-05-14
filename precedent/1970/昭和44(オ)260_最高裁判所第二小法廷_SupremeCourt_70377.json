@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 5,
+    "day": 22
+  },
+  "case_number": "昭和44(オ)260",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第99号215頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和41(ネ)283",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 10,
+    "day": 30
+  },
+  "gist": "偽造手形の取得者の損害賠償請求権と手形法上の遡求権との関係",
+  "case_gist": "対価を支払つて偽造手形を取得した手形所持人は、その出捐と手形偽造行為との間に相当因果関係が認められるかぎり、その出捐額につき、ただちに損害賠償請求権を行使することができ、手形の所持人としてその前者に対し手形法上の遡求権を有することによつては、損害賠償の請求を妨げられることはない。",
+  "ref_law": "民法709条，民法715条，手形法43条",
+  "lawsuit_id": "70377",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70377",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/377/070377_hanrei.pdf"
+}

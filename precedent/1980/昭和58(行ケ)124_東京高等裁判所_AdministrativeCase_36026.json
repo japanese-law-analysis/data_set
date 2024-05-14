@@ -1,0 +1,18 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 8,
+    "day": 14
+  },
+  "case_number": "昭和58(行ケ)124",
+  "case_name": "選挙無効請求事件",
+  "court_name": "東京高等裁判所",
+  "field": "行政",
+  "gist": "公職選挙法１４条及び同法別表第二の議員定数配分規定が，昭和５８年６月２６日施行の参議院選挙区選出議員選挙当時において，議員一人当たりの有権者数の最大区と最小区の較差が５．５６対１に達しており，かつ，一部選挙区間においていわゆる逆転現象が生じていたとしても，いまだ憲法１４条１項，１５条１項ないし３項，４３条１項，４４条ただし書に違反するに至っていたものとはいえないとされた事例",
+  "lawsuit_id": "36026",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=36026",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/026/036026_hanrei.pdf",
+  "contents": ""
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 4,
+    "month": 10,
+    "day": 29
+  },
+  "case_number": "平成2(行ツ)147",
+  "case_name": "福島第二原子力発電所原子炉設置許可処分取消",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第166号509頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "昭和59(行コ)9",
+  "original_date": {
+    "era": "Heisei",
+    "year": 2,
+    "month": 3,
+    "day": 20
+  },
+  "gist": "原子炉設置許可の段階における安全審査の対象",
+  "case_gist": "原子炉設置の許可の段階の安全審査においては、当該原子炉施設の基本設計の安全生にかかわる事項のみをその対象とするものと解すべきである。",
+  "ref_law": "核原料物質、核燃料物質及び原子炉の規制に関する法律（昭和52年法律第80号による改正前のもの）23条，核原料物質、核燃料物質及び原子炉の規制に関する法律（昭和52年法律第80号による改正前のもの）24条",
+  "lawsuit_id": "65298",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=65298",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/298/065298_hanrei.pdf"
+}

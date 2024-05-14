@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 6,
+    "day": 23
+  },
+  "case_number": "平成20(あ)305",
+  "case_name": "相続税法違反被告事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第294号527頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 1,
+    "day": 18
+  },
+  "gist": "１　労役場留置期間を定めるに当たり，１日に満たない端数を生じる換算率を定めても刑法１８条４項所定の同期間を定めない違法があるとはいえない\n２　労役場留置期間を定めるに当たり，１日に満たない端数について換算刑の言渡しをしないのは法令違反であるとした高等裁判所の判決は，これに先立つ最高裁判所の判例と相反する判断をしたものであり，刑訴法４０５条３号の高等裁判所の判例に当たらない",
+  "ref_law": "刑法18条4項，刑訴法405条3号",
+  "lawsuit_id": "80547",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=80547",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/547/080547_hanrei.pdf",
+  "contents": ""
+}

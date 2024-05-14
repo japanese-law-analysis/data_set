@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 5,
+    "month": 10,
+    "day": 22
+  },
+  "case_number": "平成3(オ)1476",
+  "case_name": "約束手形金",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第47巻8号5136頁",
+  "original_court_name": "広島高等裁判所",
+  "original_case_number": "平成3(ネ)75",
+  "original_date": {
+    "era": "Heisei",
+    "year": 3,
+    "month": 6,
+    "day": 27
+  },
+  "gist": "約束手形の振出人に対する満期前の手形金請求訴訟の提起ないし訴状の送達と遡求権行使の要件である支払のための呈示としての効力の有無",
+  "case_gist": "約束手形の振出人に対する満期前の手形金請求訴訟の提起ないし訴状の送達は、裏書人に対する満期後の遡求権行使の要件である支払のための呈示としての効力を有しない。",
+  "ref_law": "手形法43条，手形法77条1項4号",
+  "lawsuit_id": "55855",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55855",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/855/055855_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 9,
+    "month": 11,
+    "day": 17
+  },
+  "case_number": "平成6(あ)687",
+  "case_name": "外国人登録法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第51巻10号855頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 6,
+    "month": 5,
+    "day": 19
+  },
+  "gist": "外国人登録原票の登録事項の確認制度を定めた外国人登録法一八条一項一号（平成四年法律第六六号による改正前のもの）、一一条一項（昭和六二年法律第一〇二号による改正前のもの）と憲法一三条、一四条",
+  "case_gist": "外国人登録原票の登録事項の確認制度を定めた外国人登録法一八条一項一号（平成四年法律第六六号による改正前のもの）、一一条一項（昭和六二年法律第一〇二号による改正前のもの）は、憲法一三条、一四条に違反しない。",
+  "ref_law": "憲法13条，憲法14条，外国人登録法（昭和62年法律102号による改正前のもの）11条1項，外国人登録法（平成4年法律66号による改正前のもの）18条1項1号",
+  "lawsuit_id": "50162",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50162",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/162/050162_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 2,
+    "day": 18
+  },
+  "case_number": "昭和27(あ)43",
+  "case_name": "建造物侵入、業務妨害、往来危険",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第14巻2号138頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 10,
+    "day": 29
+  },
+  "gist": "一　汽車電車の往来危険罪の成立要件\n二　電車の往来の危険を生ぜしめた場合にあたらないとされた事例",
+  "case_gist": "一　汽車電車の往来危険罪は、鉄道またはその標識を損壊し、またはその他の方法を以つて、汽車または電車の脱線、顛覆、衝突、破壊等、これら交通機関の往来に危険な結果を生ずる虞のある状態を発生させることにより成立する。\n二　本件の場合（判文参照）、駅の信号操作を放置しても、直ちに電車の往来に危険な結果を生ずる虞ある状態を発生させたものということはできない。",
+  "ref_law": "刑法125条1項",
+  "lawsuit_id": "51256",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51256",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/256/051256_hanrei.pdf"
+}

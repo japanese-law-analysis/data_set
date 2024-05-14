@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 2,
+    "day": 27
+  },
+  "case_number": "昭和43(テ)34",
+  "case_name": "土地明渡請求本訴ならびに損害賠償請求反訴事件の特別上告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第23巻2号497頁",
+  "original_court_name": "広島高等裁判所",
+  "original_case_number": "昭和43(ツ)3",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 8,
+    "day": 12
+  },
+  "gist": "一、民訴規則五〇条と民訴法一七〇条二項および一七三条の適用の有無\n二、口頭弁論を経ないで上告却下の判決を言い渡す場合と判決言渡期日の呼出の要否",
+  "case_gist": "一、民訴規則五〇条にいう「上告受理通知書の送達を受けた日」についても、民訴法一七〇条二項および一七三条が適用される。\n二、口頭弁論を経ないで不適法な上告を却下する判決を言い渡す場合には、判決言渡期日を指定し、指定した期日に公開の法廷において判決を言い渡せば足り、当事者に対し右言渡期日の呼出状を送達することを要しない。",
+  "ref_law": "民訴法152条，民訴法154条，民訴法170条，民訴法173条，民訴法399条，民訴法399条ノ3，民訴規則50条",
+  "lawsuit_id": "55118",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55118",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/118/055118_hanrei.pdf"
+}

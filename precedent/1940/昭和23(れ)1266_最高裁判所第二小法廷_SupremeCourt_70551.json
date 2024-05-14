@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 12,
+    "day": 18
+  },
+  "case_number": "昭和23(れ)1266",
+  "case_name": "強盗、同未遂、窃盗",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第6号323頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 8,
+    "day": 3
+  },
+  "gist": "一　刑訴應急措置法第一二條第一項の法意と裁判所の告知義務\n二　強盜罪の目的物についての判示の程度",
+  "case_gist": "一　裁判所は刑訴應急措置法第一二條第一項の供述者又は作成者の訊問ができることを告知する義務のないことは既に當裁判所の判例とするところである。\n二　強盜罪の目的物たる財物は被告人以外の者の所有又は保管に屬する物であればよいのであるからこれを判示するには犯人以外の者の所有又は保管に屬する如何なる物であるかを明らかにするに足る程度に具體的に判示すればよいのであつてその財物の種類、數量、價格又は何れの財物が何人の所有又は保管に屬するか等について一々詳細正確に判示する必要はない。",
+  "ref_law": "刑訴應急措置法12條1項，刑法236條，刑訴法360條1項",
+  "lawsuit_id": "70551",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70551",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/551/070551_hanrei.pdf"
+}

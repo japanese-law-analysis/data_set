@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 5,
+    "day": 25
+  },
+  "case_number": "昭和35(オ)427",
+  "case_name": "抵当権設定登記手続請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第16巻5号1184頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 12,
+    "day": 23
+  },
+  "gist": "抵当権設定の仮登記後三者が所有権取得登記をした場合における仮登記権利者のなす本登記請求の相手方",
+  "case_gist": "抵当権設定の仮登記がある不動産につき第三者が所有権取得登記をした場合、仮登記権利者は、右第三者に対し直接に本登記手続を請求することができるが、また仮登記義務者に対し本登記手続を請求することもできると解するのが相当である。",
+  "ref_law": "民法177条，不動産登記法2条，不動産登記法7条，不動産登記法54条，不動産登記法55条",
+  "lawsuit_id": "57724",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57724",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/724/057724_hanrei.pdf"
+}

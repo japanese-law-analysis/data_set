@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 4,
+    "day": 24
+  },
+  "case_number": "平成20(受)224",
+  "case_name": "損害賠償等請求事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第63巻4号765頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "平成18(ネ)887",
+  "original_date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 10,
+    "day": 31
+  },
+  "gist": "保全すべき権利が発令時から存在しなかったものと本案訴訟の判決で判断され，仮処分命令が事情の変更により取り消された場合において，当該仮処分命令の保全執行としてされた間接強制決定に基づき取り立てられた金銭につき，不当利得返還請求をすることができるか",
+  "case_gist": "仮処分命令における保全すべき権利が，本案訴訟の判決において，当該仮処分命令の発令時から存在しなかったものと判断され，このことが事情の変更に当たるとして当該仮処分命令を取り消す旨の決定が確定した場合には，当該仮処分命令を受けた債務者は，その保全執行としてされた間接強制決定に基づき取り立てられた金銭につき，債権者に対して不当利得返還請求をすることができる。",
+  "ref_law": "民事執行法172条1項，民事保全法38条1項，民事保全法52条，民法703条",
+  "lawsuit_id": "37543",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=37543",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/543/037543_hanrei.pdf",
+  "contents": ""
+}

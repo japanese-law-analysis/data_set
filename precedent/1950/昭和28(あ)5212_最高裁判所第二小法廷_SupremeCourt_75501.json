@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 8,
+    "day": 26
+  },
+  "case_number": "昭和28(あ)5212",
+  "case_name": "麻薬取締法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第108号235頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 10,
+    "day": 9
+  },
+  "gist": "公判調書に起訴状朗読及び刑訴法第二九一条第二項の手続の記載がない場合とその推認",
+  "case_gist": "本件公判調書は昭和二七年二月一日改正施行された刑訴規則四四条の規定に従い作成されたものであるから、同条の必要的記載事項以外の事項はその記載が省略されているのである。従つて起訴状の朗読及び刑訴二九一条二項の手続が行われた旨公判調書に記載がないのは両手続が適法に履践されたと推認すべきであり、ことに右両手続の行われなかつたことに対する被告人又は弁護人の異議の申立があつた形跡は記録上全然ないところからみても右両手続は現実に行われたものと推認するを相当とする。",
+  "ref_law": "刑訴法52条，刑訴規則44条",
+  "lawsuit_id": "75501",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=75501",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/501/075501_hanrei.pdf"
+}

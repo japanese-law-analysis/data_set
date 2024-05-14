@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 7,
+    "day": 18
+  },
+  "case_number": "昭和61(オ)466",
+  "case_name": "約束手形金",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第148号357頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_case_number": "昭和56(ネ)180",
+  "original_date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 1,
+    "day": 30
+  },
+  "gist": "商法四四五条一項三号にいう「訴ノ提起」と控訴の申立",
+  "case_gist": "商法四四五条一項三号にいう「訴ノ提起」には、控訴の申立は含まれない。",
+  "ref_law": "商法（昭和56年法律第74号による改正前のもの）445条1項3号，民訴法45条",
+  "lawsuit_id": "62976",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62976",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/976/062976_hanrei.pdf"
+}

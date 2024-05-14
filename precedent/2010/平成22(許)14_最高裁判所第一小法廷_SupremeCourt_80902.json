@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 12,
+    "day": 2
+  },
+  "case_number": "平成22(許)14",
+  "case_name": "債権差押命令に対する執行抗告棄却決定に対する許可抗告事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "民集　第64巻8号1990頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "平成22(ラ)78",
+  "original_date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 3,
+    "day": 17
+  },
+  "gist": "構成部分の変動する集合動産を目的とする集合物譲渡担保権の効力は，譲渡担保の目的である集合動産を構成するに至った動産が滅失した場合にその損害をてん補するために譲渡担保権設定者に対して支払われる損害保険金に係る請求権に及ぶか",
+  "case_gist": "構成部分の変動する集合動産を目的とする集合物譲渡担保権の効力は，譲渡担保の目的である集合動産を構成するに至った動産が滅失した場合にその損害をてん補するために譲渡担保権設定者に対して支払われる損害保険金に係る請求権に及ぶ。",
+  "ref_law": "民法304条，民法369条（譲渡担保）",
+  "lawsuit_id": "80902",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=80902",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/902/080902_hanrei.pdf",
+  "contents": ""
+}

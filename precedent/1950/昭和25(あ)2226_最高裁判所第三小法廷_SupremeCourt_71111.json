@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 3,
+    "day": 18
+  },
+  "case_number": "昭和25(あ)2226",
+  "case_name": "臨時物資需給調整法違反、食糧管理法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第62号555頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 7,
+    "day": 11
+  },
+  "gist": "憲法第三七条第三項前段の意義と同条に違反しない一事例",
+  "case_gist": "憲法三七条三項前段所定の権利は被告人が自ら行使すべきもので裁判所は被告人がこの権利を行使する機会を与へその行使を妨げなければよいのである。（昭和二四年（れ）二三八号同年一一月三〇日大法廷判決）。ところで本件記録によれば被告人は第一審第一回公判期日の前日である昭和二四年九月七日弁護人を選任し、同弁護人は右第一回公判期日において異議なく弁論をし、立証準備のため公判期日の延期、続行を求めたことはなく、しかも、裁判所が弁護人の選任を妨げた形跡は毫も認められないのであるから論旨の理由のないことは明らかである。",
+  "ref_law": "憲法37条3項",
+  "lawsuit_id": "71111",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=71111",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/111/071111_hanrei.pdf"
+}

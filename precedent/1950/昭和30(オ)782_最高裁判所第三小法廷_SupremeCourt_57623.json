@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 12,
+    "day": 17
+  },
+  "case_number": "昭和30(オ)782",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第11巻13号2195頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 7,
+    "day": 13
+  },
+  "gist": "控訴審における新たな主張と民訴法第一四〇条の適用",
+  "case_gist": "控訴審における新たな主張事実についても民訴第一四〇条第三項の適用がある。",
+  "ref_law": "民訴法140条",
+  "lawsuit_id": "57623",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57623",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/623/057623_hanrei.pdf"
+}

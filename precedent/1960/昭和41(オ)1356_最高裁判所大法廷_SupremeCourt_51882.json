@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 11,
+    "day": 26
+  },
+  "case_number": "昭和41(オ)1356",
+  "case_name": "土地明渡請求",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第23巻11号2221頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和34(ネ)604",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 8,
+    "day": 23
+  },
+  "gist": "普通建物の所有を目的とする土地の賃貸借契約において期間を三年と定めた場合における賃貸借の存続期間",
+  "case_gist": "いわゆる普通建物の所有を目的とする土地の賃貸借契約において期間を三年と定めた場合には、右存続期間の約定は、借地法一一条により、定めなかつたものとみなされ、右賃貸借の存続期間は、同法二条一項本文により、契約の時から三〇年と解すべきである。",
+  "ref_law": "借地法2条，借地法11条",
+  "lawsuit_id": "51882",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51882",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/882/051882_hanrei.pdf"
+}

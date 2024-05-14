@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 3,
+    "day": 24
+  },
+  "case_number": "昭和24(れ)2910",
+  "case_name": "業務上横領",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第16号895頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 9,
+    "day": 22
+  },
+  "gist": "刑法第二五三條にいわゆる「業務」の意義と民生委員の擔當事務が業務に該る一例",
+  "case_gist": "刑法第二五三條にいわゆる業務とは法令によると慣例によると将に契約によるとを問わず苟も一定の事務を営業として反覆する場合を指稱するのである。從つて本件において判示給與金品の傳達事務が被告人の民生委員としての法令上當然の業務でなくても判示ａ村において判示日時以降民生委員を通して給與金員を支給されることになり被告人が民生委員としてその事務を擔當するに至つた事實のある以上その事務は被告人の業務と解すべきである。",
+  "ref_law": "刑法253條",
+  "lawsuit_id": "74951",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74951",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/951/074951_hanrei.pdf"
+}

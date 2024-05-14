@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 6,
+    "month": 2,
+    "day": 8
+  },
+  "case_number": "平成1(オ)1649",
+  "case_name": "慰藉料",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第48巻2号149頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和62(ネ)3435",
+  "original_date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 9,
+    "day": 5
+  },
+  "gist": "ある者の前科等にかかわる事実が著作物で実名を使用して公表された場合における損害賠償請求の可否",
+  "case_gist": "ある者の前科等にかかわる事実が著作物で実名を使用して公表された場合に、その者のその後の生活状況、当該刑事事件それ自体の歴史的又は社会的な意義その者の事件における当事者としての重要性、その者の社会的活動及びその影響力について、その著作物の目的、性格等に照らした実名使用の意義及び必要性を併せて判断し、右の前科等にかかわる事実を公表されない法的利益がこれを公表する理由に優越するときは、右の者は、その公表によって被った精神的苦痛の賠償を求めることができる。",
+  "ref_law": "民法709条，民法710条",
+  "lawsuit_id": "52442",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52442",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/442/052442_hanrei.pdf"
+}

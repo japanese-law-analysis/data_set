@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 2,
+    "day": 17
+  },
+  "case_number": "昭和49(オ)2",
+  "case_name": "土地所有権確認請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第120号65頁",
+  "original_court_name": "福岡高等裁判所\n        　那覇支部",
+  "original_case_number": "昭和47(ネ)12",
+  "original_date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 10,
+    "day": 24
+  },
+  "gist": "家督相続回復請求権の行使にあたらない場合",
+  "case_gist": "戸籍上家督相続人と表示され右家督相続によつて不動産の所有権を取得したと主張する甲が、右不動産を占有している乙を被告として右不動産所有権の確認を求める請求は、乙が甲の家督相続を争つているときでも、乙が戸籍上家督相続人と表示されておらず、乙みずからが真正家督相続人であると主張しているわけではなく、単に真正家督相続人が判明するまでの間その者のために一種の事務管理として右不動産を管理しているにすぎない場合には、家督相続回復請求権の行使にあたらない。",
+  "ref_law": "旧民法（昭和22年法律第222号による改正前のもの）966条，民法884条",
+  "lawsuit_id": "74500",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74500",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/500/074500_hanrei.pdf"
+}

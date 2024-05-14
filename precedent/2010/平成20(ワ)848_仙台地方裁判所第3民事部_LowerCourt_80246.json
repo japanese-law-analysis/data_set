@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 5,
+    "day": 24
+  },
+  "case_number": "平成20(ワ)848",
+  "case_name": "損害賠償請求事件",
+  "court_name": "仙台地方裁判所第3民事部",
+  "gist": "原告らの子の診療行為を行った被告病院の医師が，その診療行為につき，イレウスを念頭においた鑑別診断及び治療を行うべきであったのに，これを怠った過失があるとして，原告らが被告に対し，民法７１５条に基づく損害賠償を請求し，その一部を認容した事例",
+  "lawsuit_id": "80246",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=80246",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/246/080246_hanrei.pdf",
+  "contents": ""
+}

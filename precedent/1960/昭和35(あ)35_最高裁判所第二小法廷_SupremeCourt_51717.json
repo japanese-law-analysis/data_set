@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 5,
+    "day": 28
+  },
+  "case_number": "昭和35(あ)35",
+  "case_name": "封印破棄",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第14巻7号928頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 12,
+    "day": 14
+  },
+  "gist": "一　第三者の所有かつ占有する者に対する執行と刑法第九六条\n二　手続に瑕疵のある執行と刑法第九六条",
+  "case_gist": "一　執行吏が第三者の所有かつ占有にかかる物件を、仮処分決定の被申請人の所有かつ占有にかかるものと判定してした執行についてなされた標示は、右執行が故意に第三者の権利を侵害する目的でされた場合でない限り、その取消がなされるまでは、刑法第九六条の差押の標示というを妨げない。\n二　執行吏の遵守すべき手続に違反してなされた仮処分の決定の執行についてなされた標示は、執行の瑕疵が重大かつ明白であつて執行行為そのものが当然無効あるいは不存在と認められる場合でない限り、その取消がなされるまでは、刑法第九六条の差押の標示というを妨げない。",
+  "ref_law": "刑法96条",
+  "lawsuit_id": "51717",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51717",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/717/051717_hanrei.pdf"
+}

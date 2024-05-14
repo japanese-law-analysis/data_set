@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 12,
+    "day": 15
+  },
+  "case_number": "昭和31(あ)3570",
+  "case_name": "消防法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第131号949頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 9,
+    "day": 18
+  },
+  "gist": "火災報知機の前面ガラスを損壊して火災発生の虚偽の通報をした場合の適条。",
+  "case_gist": "一　第一審判決には所論のような法令の適用を誤つた違法はない。\n　註。第一審判決の事実および適条\n二　（事実）被告人は昭和三一年二月七日午前一時頃旭川市ａ町ｂ丁目路上において、虚偽の火災通報をしようと企て同所に設置されている旭川市消防管理の火災報知機の発信機の前面ガラスを所携の弁当箱で叩き割つて損壊し、もつて故なく旭川消防署に記載発生の虚偽の通報をしたものである。\n三　（適条）消防法第三九条、第一八条第一項、第四四条第八号　刑法第五四条第一項前段",
+  "ref_law": "消防法39条，消防法18条1項，消防法44条第8号，刑法54条1項前段",
+  "lawsuit_id": "73045",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=73045",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/045/073045_hanrei.pdf"
+}

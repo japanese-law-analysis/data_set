@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 9,
+    "day": 3
+  },
+  "case_number": "昭和36(オ)601",
+  "case_name": "所有権移転登記手続請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第67号399頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 1,
+    "day": 31
+  },
+  "gist": "書面によらない負担付贈与契約の一方の履行と取消。",
+  "case_gist": "書面によらない負担付贈与契約に基づき当事者の一方が債務を履行したときは、書面によらない贈与であることを理由にこれを取消すことはできない。",
+  "ref_law": "民法550条，民法553条",
+  "lawsuit_id": "70106",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70106",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/106/070106_hanrei.pdf"
+}

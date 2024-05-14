@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 8,
+    "day": 12
+  },
+  "case_number": "昭和31(あ)1501",
+  "case_name": "物品税法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第12巻12号2816頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 3,
+    "day": 26
+  },
+  "gist": "パチンコ機械の物品税額。",
+  "case_gist": "パチンコ機械の物品税額は、現行法上現実に移出販売した価格の一二〇分の一〇〇に相当する価格に、一〇〇分の二〇を乗じた価額である。",
+  "ref_law": "物品税法1条1項2種丁類38，物品税法2条1項2種丁類，物品税法3条1項，物品税法3条2項",
+  "lawsuit_id": "50482",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50482",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/482/050482_hanrei.pdf"
+}

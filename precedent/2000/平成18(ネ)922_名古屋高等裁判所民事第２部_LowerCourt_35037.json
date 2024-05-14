@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 6,
+    "day": 15
+  },
+  "case_number": "平成18(ネ)922",
+  "case_name": "道路差止請求控訴事件",
+  "court_name": "名古屋高等裁判所民事第２部",
+  "result": "破棄差戻",
+  "original_court_name": "名古屋地方裁判所",
+  "original_case_number": "平成17(ワ)2358",
+  "original_result": "却下",
+  "gist": "景観権，人格権等に基づき民事訴訟上の道路工事の差止めを求める訴えにつき，本件道路工事の一般的停止を求めるもので，行政訴訟の方法によることなく事業認可ないしその事業計画変更の認可に対する不服を申し立てるものであるから民事訴訟として許容されないとして訴えを却下した原判決を取り消し，原裁判所に差し戻した事例",
+  "lawsuit_id": "35037",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=35037",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/037/035037_hanrei.pdf",
+  "contents": ""
+}

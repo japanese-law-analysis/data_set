@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 2,
+    "day": 26
+  },
+  "case_number": "昭和30(オ)611",
+  "case_name": "和解契約回答請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第13巻2号394頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 5,
+    "day": 14
+  },
+  "gist": "法律上の保護に値しない契約と判定された事例。",
+  "case_gist": "弁護士の提起した訴訟が控訴審に係属中、訴訟外の和解により控訴の取下をなすこととなつたが、同弁護士はかねて裁判所が判決をなす際に当事者の主張を作り上げる弊があることを不満としこれを是正するためとして、被告訴訟代理人たる弁護士との間で、一審判決に記載された権利濫用の抗弁を右被告代理人が主張したか否かにつき同人において記録を調査の上回答する旨約した場合は、当事者はかかる約定に拘束される意思あるものとは解しえられず、右の契約は法律上の保護に値しないものと認めるのが相当である。",
+  "ref_law": "民法399条",
+  "lawsuit_id": "54819",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54819",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/819/054819_hanrei.pdf"
+}

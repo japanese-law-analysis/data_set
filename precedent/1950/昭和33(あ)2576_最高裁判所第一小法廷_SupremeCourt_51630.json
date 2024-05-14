@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 5,
+    "day": 14
+  },
+  "case_number": "昭和33(あ)2576",
+  "case_name": "強姦",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第13巻5号706頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 11,
+    "day": 12
+  },
+  "gist": "供述調書の告訴調書としての効力。",
+  "case_gist": "犯罪の被害者またはその法定代理人の検察官または司法警察員に対する「供述調書」であつても、右被害者らが検察官または司法警察員に対し犯罪事実を申告し犯人の処罰を求める旨の意思表示を録取したものであれば刑訴第二四一条第二項の告訴調書として有効である。",
+  "ref_law": "刑訴法223条，刑訴法241条",
+  "lawsuit_id": "51630",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51630",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/630/051630_hanrei.pdf"
+}

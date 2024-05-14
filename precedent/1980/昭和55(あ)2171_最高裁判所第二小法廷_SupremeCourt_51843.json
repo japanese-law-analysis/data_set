@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 11,
+    "day": 8
+  },
+  "case_number": "昭和55(あ)2171",
+  "case_name": "業務上失火",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第36巻11号879頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 11,
+    "day": 26
+  },
+  "gist": "給油作業の過誤による火災発生の予見可能性があつたとされた事例",
+  "case_gist": "路上の車からＡ重油を店舗内に給油するに際し、店舗外壁に設けられた給油口を開弁せずにコンプレツサーを作動させたため、給油口に連結したビニールホースが裂け、二リツトル程度のＡ重油が霧状となつて飛散し、たまたま店舗内で燃焼中の暖房用ストーブに降りかかつて引火し、店舗等が火炎により焼燬したという本件事実関係（原判文参照）のもとにおいては、右給油作業の過誤により火災を惹起することにつき、予見可能性があつたということができる。",
+  "ref_law": "刑法116条，刑法117条の2",
+  "lawsuit_id": "51843",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51843",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/843/051843_hanrei.pdf"
+}

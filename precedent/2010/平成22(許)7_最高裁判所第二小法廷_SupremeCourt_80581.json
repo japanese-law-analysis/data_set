@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 8,
+    "day": 4
+  },
+  "case_number": "平成22(許)7",
+  "case_name": "人身保護請求棄却決定に対する許可抗告事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "却下",
+  "article_info": "集民　第234号379頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成21(人ナ)9",
+  "original_date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 2,
+    "day": 18
+  },
+  "gist": "人身保護法による釈放の請求を却下又は棄却した高等裁判所の決定は，許可抗告の対象となるか",
+  "case_gist": "人身保護法による釈放の請求を却下又は棄却した高等裁判所の決定は，許可抗告の対象とはならない。",
+  "ref_law": "民訴法337条1項，人身保護法7条，人身保護法11条，人身保護規則21条",
+  "lawsuit_id": "80581",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=80581",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/581/080581_hanrei.pdf",
+  "contents": ""
+}

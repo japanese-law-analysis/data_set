@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 6,
+    "day": 11
+  },
+  "case_number": "昭和44(オ)1075",
+  "case_name": "取立債権請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第24巻6号509頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和44(ネ)784",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 8,
+    "day": 8
+  },
+  "gist": "執行債権の不存在が明白な場合と取立訴訟",
+  "case_gist": "第三債務者は、取立訴訟においては、債務名義の内容である執行債権の存在しないことが明白であつても、取立権の行使が権利の濫用または信義則違反であるとして争うことはできない。",
+  "ref_law": "民訴法623条，民法1条",
+  "lawsuit_id": "55122",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55122",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/122/055122_hanrei.pdf"
+}

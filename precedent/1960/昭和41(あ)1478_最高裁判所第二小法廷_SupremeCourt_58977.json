@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 3,
+    "day": 17
+  },
+  "case_number": "昭和41(あ)1478",
+  "case_name": "非現住建造物放火、詐欺未遂",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第162号1059頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 4,
+    "day": 27
+  },
+  "gist": "放火罪について択一的事実摘示の方法が違法でないとされた事例",
+  "case_gist": "本件放火の手段方法に関する第一審判決の判示につき、理由不備等の違法に当らないとした原判決の判断に誤があるとは認められない。\n（注、第一審判決の判示）\n「……右生石灰に水を注入して之を発熱させ、前記羽目板、木箱、ガソリン類等の可燃物に引火させる方法によつたものか或はその他何等かの手段方法により、同家屋に火を放ち……」",
+  "ref_law": "刑訴法335条1項，刑訴法378条4号",
+  "lawsuit_id": "58977",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58977",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/977/058977_hanrei.pdf"
+}

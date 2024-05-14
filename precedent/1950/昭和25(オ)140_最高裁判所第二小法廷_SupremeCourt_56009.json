@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 9,
+    "day": 25
+  },
+  "case_number": "昭和25(オ)140",
+  "case_name": "建物収去土地明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第7巻9号979頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 3,
+    "day": 25
+  },
+  "gist": "賃借人が賃貸人の承諾なく第三者に賃借物を使用させたときは賃貸人は常に契約を解除しうるか",
+  "case_gist": "賃借人が賃貸人の承諾なく第三者をして賃借物の使用または収益をなさしめた場合でも、賃借人の当該行為を賃貸人に対する背信的行為と認めるにたらない本件の如き特段の事情があるときは、賃貸人は民法第六一二条第二項により契約を解除することはできない。（少数意見および補足意見がある。）",
+  "ref_law": "民法612條",
+  "lawsuit_id": "56009",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56009",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/009/056009_hanrei.pdf"
+}

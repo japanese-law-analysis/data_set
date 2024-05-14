@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 2,
+    "day": 4
+  },
+  "case_number": "平成18(行コ)8",
+  "case_name": "政務調査費返還請求控訴事件",
+  "court_name": "名古屋高等裁判所金沢支部         　第１部",
+  "result": "その他",
+  "original_court_name": "金沢地方裁判所",
+  "original_case_number": "平成17(行ウ)6",
+  "original_result": "棄却",
+  "gist": "金沢市から市議会の２会派に交付された政務調査費のうち，食糧費等として支出された部分が，条例で定められた使途基準に違反するとして，市長に対し，両会派に市への返還を請求するよう命じた事例",
+  "lawsuit_id": "35800",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=35800",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/800/035800_hanrei.pdf",
+  "contents": "1 2\n2 1\n5 3\n7 1 6\n9 3\n10 9\n"
+}

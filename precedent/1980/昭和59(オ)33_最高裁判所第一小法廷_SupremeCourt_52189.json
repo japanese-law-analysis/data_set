@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 63,
+    "month": 4,
+    "day": 21
+  },
+  "case_number": "昭和59(オ)33",
+  "case_name": "損害賠償請求事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第42巻4号243頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和51(ネ)2774",
+  "original_date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 9,
+    "day": 29
+  },
+  "gist": "身体に対する加害行為によつて生じた損害について被害者の心因的要因が寄与しているときと民法七二二条二項の類推適用",
+  "case_gist": "身体に対する加害行為と発生した損害との間に相当因果関係がある場合において、その損害が加害行為のみによつて通常発生する程度、範囲を超えるものであつて、かつ、その損害の拡大について被害者の心因的要因が寄与しているときは、損害賠償額を定めるにつき、民法七二二条二項を類推適用して、その損害の拡大に寄与した被害者の右事情を斟酌することができる。",
+  "ref_law": "民法709条，民法722条2項",
+  "lawsuit_id": "52189",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52189",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/189/052189_hanrei.pdf"
+}

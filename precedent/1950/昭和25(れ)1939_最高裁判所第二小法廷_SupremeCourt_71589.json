@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 4,
+    "day": 13
+  },
+  "case_number": "昭和25(れ)1939",
+  "case_name": "臨時物資需給調整法違反物価統制令違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第43号833頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 10,
+    "day": 28
+  },
+  "gist": "鮮魚商たる被告人の鮮魚販売の業態を卸売業者と認めて卸売業者販売価格を適用した事例",
+  "case_gist": "原判決判示第二及び第三の事実によれば、被告人は鮮魚商であつて前後五回に亘り冷凍あじ、さば合計一、七八五貫をＡ冷凍工業株式会社Ｂ工場より買入れた上、前後二一回に亘り冷凍魚の内一、二六八貫を鮮魚小売組合、共同販売所その他小売業者に売渡したものであるから、原判決が、被告人の右業態に徴し、その買入及び売却の所為を以て、卸売業者としてこれをなしたものと認め、右冷凍魚につき定められた卸売業者販売価格に照し、その統制額違反を論じたことはまことに相当であるといわなければならない。",
+  "ref_law": "物価統制令3条，昭和22年9月1日物価庁告示532号，昭和23年4月19日物価庁告示230号，昭和23年8月11日物価庁告示647号",
+  "lawsuit_id": "71589",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=71589",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/589/071589_hanrei.pdf"
+}

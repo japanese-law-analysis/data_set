@@ -1,0 +1,18 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 12,
+    "day": 23
+  },
+  "case_number": "昭和27(マ)178",
+  "case_name": "琉球住民の地位確認請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "却下",
+  "article_info": "集民　第47号623頁",
+  "lawsuit_id": "69652",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=69652",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/652/069652_hanrei.pdf"
+}

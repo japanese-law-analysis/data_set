@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 7,
+    "day": 29
+  },
+  "case_number": "昭和29(あ)741",
+  "case_name": "麻薬取締法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第8巻7号1217頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 12,
+    "day": 22
+  },
+  "gist": "証人が証言を拒む場合と刑訴第三二一条第一項第三号の適用",
+  "case_gist": "証人が記憶喪失を理由として証人を拒む場合には、刑訴第三二一条第一項第三号により、その麻薬取締官に対する供述調書を証拠とすることを妨げない。",
+  "ref_law": "刑訴法321条1項3号",
+  "lawsuit_id": "56930",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56930",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/930/056930_hanrei.pdf"
+}

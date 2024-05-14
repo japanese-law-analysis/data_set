@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 2,
+    "day": 24
+  },
+  "case_number": "平成17(受)882",
+  "case_name": "損害賠償請求事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第219号541頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_case_number": "平成16(ネ)253",
+  "original_date": {
+    "era": "Heisei",
+    "year": 17,
+    "month": 1,
+    "day": 28
+  },
+  "gist": "未成年者が強盗傷人事件を犯した場合において親権者に同事件に結びつく監督義務違反があったとはいえないとされた事例",
+  "case_gist": "少年院を仮退院した後に保護観察の遵守事項を守らないで遊び歩くなどしていた未成年者が強盗傷人事件を犯した場合において，当該未成年者が間もなく成人に達する年齢にあることなどから，親権者が当該未成年者に及ぼし得る影響力は限定的なものとなっており，当該親権者が上記遵守事項を確実に守らせることのできる適切な手段を有していたとはいい難いこと，当該親権者において当該未成年者が上記事件のような犯罪を犯すことを予測し得る事情があったとはいえないこと，当該未成年者の生活状態が直ちに少年院に再入院させるための手続等を執るべき状態にあったともいえないことなど判示の事情の下では，当該親権者に上記事件に結びつく監督義務違反があったとはいえない。",
+  "ref_law": "民法709条",
+  "lawsuit_id": "62625",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62625",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/625/062625_hanrei.pdf"
+}

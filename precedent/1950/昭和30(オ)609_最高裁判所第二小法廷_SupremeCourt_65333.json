@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 12,
+    "day": 18
+  },
+  "case_number": "昭和30(オ)609",
+  "case_name": "抵当権設定登記抹消手続請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第38号561頁",
+  "original_court_name": "仙台高等裁判所\n        　秋田支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 5,
+    "day": 9
+  },
+  "gist": "代理人でない者の行為と民法第一一〇条の適用",
+  "case_gist": "民法第一一〇条の適用は、何らかの代理権ある者がその権限を踰越してなした行為について論ぜられるべきもので、全然代理権のない者のなした行為には同条の適用はない。",
+  "lawsuit_id": "65333",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=65333",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/333/065333_hanrei.pdf"
+}

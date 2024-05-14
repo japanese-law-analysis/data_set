@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 5,
+    "day": 25
+  },
+  "case_number": "昭和25(れ)1661",
+  "case_name": "横領",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第5巻6号1186頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 6,
+    "day": 23
+  },
+  "gist": "一　使途を定められて寄託された金銭と横領罪\n二　旧刑訴法第四〇四条と憲法第三七条第一項",
+  "case_gist": "一　使途を定められて寄託された金銭については特別の事情のないかぎり受託者は刑法第二五二条にいわゆる「他人ノ物」を占有するものと解すべきであつて、受託者がその金銭について擅に委託の本旨に違つた処分をしたときは横領罪を構成する。\n二　旧刑訴法第四〇四条は、憲法第三七条第一項に違反しない。",
+  "ref_law": "刑法252条，民法657条，憲法37条1項，旧刑訴法404条",
+  "lawsuit_id": "54505",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54505",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/505/054505_hanrei.pdf"
+}

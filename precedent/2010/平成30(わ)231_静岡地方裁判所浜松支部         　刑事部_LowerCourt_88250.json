@@ -1,0 +1,15 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 30,
+    "month": 12,
+    "day": 20
+  },
+  "case_number": "平成30(わ)231",
+  "case_name": "営利略取，逮捕監禁",
+  "court_name": "静岡地方裁判所浜松支部         　刑事部",
+  "lawsuit_id": "88250",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=88250",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/250/088250_hanrei.pdf"
+}

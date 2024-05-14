@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 9,
+    "day": 29
+  },
+  "case_number": "平成20(ワ)1839",
+  "case_name": "慰謝料等請求事件",
+  "court_name": "京都地方裁判所第１民事部",
+  "result": "その他",
+  "gist": "被疑者として逮捕勾留中の少年を取り調べた検察官の言動の中に，少年の尊厳や品位を傷つける言動，虚偽自白を誘発しかねない言動，及び少年と弁護人との間の信頼関係をみだりに破壊しようとする言動があり，違法であるとして，少年及び弁護人の国家賠償法1条1項に基づく損害賠償請求が一部認容された事例",
+  "lawsuit_id": "38243",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=38243",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/243/038243_hanrei.pdf",
+  "contents": "H21.9.29\n"
+}

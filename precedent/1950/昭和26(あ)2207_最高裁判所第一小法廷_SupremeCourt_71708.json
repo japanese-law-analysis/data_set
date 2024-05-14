@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 1,
+    "day": 14
+  },
+  "case_number": "昭和26(あ)2207",
+  "case_name": "麻薬取締法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第91号219頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 1,
+    "day": 31
+  },
+  "gist": "麻薬の譲受行為とその所持とが併合罪となる一事例",
+  "case_gist": "麻薬の譲受とその譲受けた麻薬の所持が、仮りに、所論のごとく、法律上牽連一罪であるとしても、本件では譲受行為が二回あり、且つ譲受行為が千葉市であり、その譲受けた麻薬が東京都内に運搬され、しかも、譲受けた被告人以外の他の被告人も参加して同都内において所持されたものであるから、譲受行為とは別に独立した所持行為があつたものとも解され、いずれにしても併合罪の存することが明白な案件であるから、刑訴四一一条を適用すべきものとは認められない。",
+  "ref_law": "麻薬取締法3条，刑法45条，刑訴法411条",
+  "lawsuit_id": "71708",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=71708",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/708/071708_hanrei.pdf"
+}

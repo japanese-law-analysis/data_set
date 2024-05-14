@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 5,
+    "day": 25
+  },
+  "case_number": "昭和38(オ)1022",
+  "case_name": "行政処分取消請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第79号157頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和37(ネ)1514",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 5,
+    "day": 28
+  },
+  "gist": "農地買収計画中買収の時期のみを変更することの許否。",
+  "case_gist": "農地買収計画の樹立庁が、買収手続の進行状況その他事務の都合から、一たん買収計画中に定めた買収の時期のみを変更することは、許されないものではない。",
+  "ref_law": "自作農創設特別措置法6条",
+  "lawsuit_id": "74398",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74398",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/398/074398_hanrei.pdf"
+}

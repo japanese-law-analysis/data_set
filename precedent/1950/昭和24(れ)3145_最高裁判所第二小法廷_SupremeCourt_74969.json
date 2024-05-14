@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 4,
+    "day": 14
+  },
+  "case_number": "昭和24(れ)3145",
+  "case_name": "詐欺",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第17号175頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 5,
+    "day": 14
+  },
+  "gist": "同一物件を同人から強取した事實と騙取した事實の同一性",
+  "case_gist": "しかし本件公判請求書記載の公訴事實は被告人等が共謀の上Ａからサツカリン一一本を強取したという強盜の事實である原判決認定の事實は被告人等が共謀してＡからサツカリン一一本を騙取した詐欺の事實であるから何れも奪取罪であつて基本となる事實は同一である。從つて原判決の認定した事實は公訴事實と同一性を有し唯その法律判斷を異にするに過ぎないから原判決には所論の如き違法はない論旨は採用できない。",
+  "ref_law": "舊刑訴法291條1項，舊刑訴法410條18號，刑法236條，刑法246條",
+  "lawsuit_id": "74969",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74969",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/969/074969_hanrei.pdf"
+}

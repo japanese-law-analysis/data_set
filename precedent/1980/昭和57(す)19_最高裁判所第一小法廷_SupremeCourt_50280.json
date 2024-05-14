@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 4,
+    "day": 7
+  },
+  "case_number": "昭和57(す)19",
+  "case_name": "道路交通法違反被告事件についてした上告棄却の決定に対する異議申立権の回復請求及び異議の申立",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第36巻4号556頁",
+  "original_date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 12,
+    "day": 22
+  },
+  "gist": "上告棄却決定に対する異議申立と上訴権回復に関する規定の準用の有無",
+  "case_gist": "上告棄却決定に対する異議申立については、上訴権回復に関する規定の準用がある。",
+  "ref_law": "刑訴法362条，刑訴法363条，刑訴法385条2項，刑訴法386条2項，刑訴法414条",
+  "lawsuit_id": "50280",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50280",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/280/050280_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 11,
+    "day": 11
+  },
+  "case_number": "昭和26(オ)319",
+  "case_name": "遊技場（麻雀）営業取消命令の取消請求",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第7巻11号1193頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 4,
+    "day": 20
+  },
+  "gist": "上告理由に第一審記録に添附した上告人の準備書面を引用することの適否",
+  "case_gist": "上告理由に第一審記録に添附した上告人の準備書面を引用することは許されない。",
+  "ref_law": "民訴法398条",
+  "lawsuit_id": "57227",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57227",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/227/057227_hanrei.pdf"
+}

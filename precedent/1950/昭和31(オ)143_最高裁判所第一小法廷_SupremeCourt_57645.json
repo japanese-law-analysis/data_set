@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 9,
+    "day": 12
+  },
+  "case_number": "昭和31(オ)143",
+  "case_name": "建物明渡等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第11巻9号1510頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 11,
+    "day": 5
+  },
+  "gist": "賃料の受領拒絶があつた場合とその後の賃料についての弁済提供の要否",
+  "case_gist": "賃貸人が一たん賃料の受領を拒絶した場合であつても、特段の事情がないかぎり賃借人はその後支払うべき賃料につき弁済の提供をしない以上債務不履行の責を免れない。",
+  "ref_law": "民法493条，民法540条",
+  "lawsuit_id": "57645",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57645",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/645/057645_hanrei.pdf"
+}

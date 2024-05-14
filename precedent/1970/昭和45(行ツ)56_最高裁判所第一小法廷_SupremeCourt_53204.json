@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 4,
+    "day": 15
+  },
+  "case_number": "昭和45(行ツ)56",
+  "case_name": "町議会議員選挙の効力に関する訴願裁決取消請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第25巻3号275頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "昭和43(行ケ)5",
+  "original_date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 3,
+    "day": 23
+  },
+  "gist": "不在者投票の送致の違法と選挙の効力",
+  "case_gist": "不在者投票を投票所の閉鎖時刻までに投票管理者に送致せず、違法にその効力を失わしめたことは、選挙無効の原因となりうる。",
+  "ref_law": "公職選挙法49条，公職選挙法205条1項，公職選挙法施行令60条，公職選挙法施行令65条",
+  "lawsuit_id": "53204",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53204",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/204/053204_hanrei.pdf"
+}

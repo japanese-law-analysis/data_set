@@ -1,0 +1,17 @@
+{
+  "trial_type": "IPCase",
+  "date": {
+    "era": "Heisei",
+    "year": 15,
+    "month": 2,
+    "day": 27
+  },
+  "case_number": "平成14(受)1100",
+  "case_name": "損害賠償，商標権侵害差止等請求事件",
+  "court_name": "最高裁判所第一小法廷",
+  "right_type": "商標権",
+  "lawsuit_type": "民事訴訟",
+  "lawsuit_id": "52352",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail7?id=52352",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/352/052352_hanrei.pdf"
+}

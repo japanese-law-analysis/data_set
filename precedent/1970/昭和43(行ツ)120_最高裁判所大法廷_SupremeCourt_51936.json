@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 4,
+    "day": 30
+  },
+  "case_number": "昭和43(行ツ)120",
+  "case_name": "行政処分取消請求",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第29巻4号572頁",
+  "original_court_name": "広島高等裁判所",
+  "original_case_number": "昭和42(行コ)10",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 7,
+    "day": 30
+  },
+  "gist": "薬事法六条二項、四項（これらを準用する同法二六条二項）と憲法二二条一項",
+  "case_gist": "薬事法六条二項、四項（これらを準用する同法二六条二項）は、憲法二二条一項に違反する。",
+  "ref_law": "憲法22条1項，薬事法6条2項，薬事法6条4項，薬事法26条2項",
+  "lawsuit_id": "51936",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51936",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/936/051936_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 2,
+    "day": 9
+  },
+  "case_number": "昭和42(オ)634",
+  "case_name": "建物収去土地明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第90号245頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和40(ネ)50",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 2,
+    "day": 24
+  },
+  "gist": "民事調停法第一一条にもとづき調停手続に参加した利害関係人にはあたらないとされた事例",
+  "case_gist": "調停手続に利害関係を有する者が調停期日に毎回出頭して居り、当事者双方および調停委員も同人が調停期日に出頭することを希望していた場合でも、これだけでは（原判決理由挙示事実関係参照）同人を民事調停法第一一条にいう、調停手続に参加した利害関係人ということはできない。",
+  "ref_law": "民事調停法11条",
+  "lawsuit_id": "66635",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66635",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/635/066635_hanrei.pdf"
+}

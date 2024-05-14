@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 11,
+    "day": 26
+  },
+  "case_number": "昭和28(あ)1461",
+  "case_name": "強要",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第88号861頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 8,
+    "day": 8
+  },
+  "gist": "刑法第二二三条第一項にいわゆる強要罪にあたる一事例\n―限界を超えた争議行為―",
+  "case_gist": "原審の認定した事実によれば、所論団体交渉の席上被告人が会社側職員に対し労働者側の要求を受諾しないならば、会社に対する辞職願を書けと申向けこれに応じなければ同人等の身体、自由等に対し如何なる危害が及ぶかもしれないと感ぜしめるような態度を示して脅迫し、よつてその場において同人等をして会社に対する辞職願を作成の上交附せしめて、同人等をして義務のないことを行わしめたというのであつて、かかる被告人の所為が旧労働組合法一条一項の目的達成のためにする正当行為と目し得ないものであることは多言を要しないところである。",
+  "ref_law": "憲法28条，旧労働組合法（昭和24年法律174号による改正前のもの）1条，刑法223条，刑法35条",
+  "lawsuit_id": "72695",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=72695",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/695/072695_hanrei.pdf"
+}

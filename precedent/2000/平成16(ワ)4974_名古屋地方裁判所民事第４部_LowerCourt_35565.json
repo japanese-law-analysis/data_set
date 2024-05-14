@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 7,
+    "day": 4
+  },
+  "case_number": "平成16(ワ)4974",
+  "case_name": "損害賠償請求",
+  "court_name": "名古屋地方裁判所民事第４部",
+  "gist": "患者が被告医院で上部消化管造影検査を受けた際，胃がんの可能性を指摘されなかったにもかかわらず，その約１年３か月後に胃がんで死亡するに至った事案において，被告医院には造影画像読影後速やかに内視鏡検査等を行い得る医療機関を紹介し精密検査を受検するよう指導すべき義務を怠った過失があり，造影検査後速やかに内視鏡検査等が実施されていれば，医療水準に見合う治療が開始され，患者が死亡した時点でなお生存していた高度の蓋然性が認められるとされた事例",
+  "lawsuit_id": "35565",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=35565",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/565/035565_hanrei.pdf",
+  "contents": ""
+}

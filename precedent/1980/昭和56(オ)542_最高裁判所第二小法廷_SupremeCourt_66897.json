@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 3,
+    "day": 18
+  },
+  "case_number": "昭和56(オ)542",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集民　第138号293頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_case_number": "昭和54(ネ)40",
+  "original_date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 3,
+    "day": 30
+  },
+  "gist": "所有権留保売買の売主がその目的動産を処分する行為が右動産につき買主の設定した譲渡担保権の侵害にあたらないとされた事例",
+  "case_gist": "所有権留保売買の目的動産につき、買主から譲渡担保権の設定を受けた者が、売主に対し、買主の未払残代金を支払う旨申し入れ、その額の調査に要する期間右の動産の処分を猶予するよう要請し、売主がこれに応じるかのような態度を示していたときでも、売主が猶予する旨約したのでない限り、売主が右動産を他に処分しても右譲渡担保権の侵害にはあたらず、売主は、右譲渡担保権者に対しその担保権の喪失による損害を賠償する責を負わない。",
+  "ref_law": "民法128条，民法134条，民法342条，民法555条，民法709条",
+  "lawsuit_id": "66897",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66897",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/897/066897_hanrei.pdf"
+}

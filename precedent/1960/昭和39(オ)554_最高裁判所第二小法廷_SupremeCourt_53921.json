@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 2,
+    "day": 10
+  },
+  "case_number": "昭和39(オ)554",
+  "case_name": "社員持分不存在並びに無限責任社員に非ざることの確認請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第21巻1号112頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和27(ネ)92",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 12,
+    "day": 10
+  },
+  "gist": "合資会社の社員が他の社員を相手方として無限責任社員でないこと等の確認を求める訴と確認の利益",
+  "case_gist": "合資会社の社員が、他の社員を相手方として、同社員が同会社の無限責任社員ではないことならびに同会社から利益分配を受ける権利、退社のとき持分払戻を受ける権利および解散のとき残余財産の分配を受ける権利を有しないことの確認を求める訴は、即時確定の利益を欠き、不適法である。",
+  "ref_law": "民訴法225条",
+  "lawsuit_id": "53921",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53921",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/921/053921_hanrei.pdf"
+}

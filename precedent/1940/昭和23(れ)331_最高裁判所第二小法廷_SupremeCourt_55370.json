@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 6,
+    "day": 26
+  },
+  "case_number": "昭和23(れ)331",
+  "case_name": "銃砲等所持禁止令違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "刑集　第2巻7号743頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 2,
+    "day": 21
+  },
+  "gist": "列席判事の氏名の記載のない公判調書の効力",
+  "case_gist": "刑訴法第六三條によれば公判調書に署名捺印すべき裁判長は公判に列席したものでなければならないのであつて一人制の場合にはその事件の審理に關與した一人の裁判官でなければならないのに公判調書に列席した判事の氏名が記載してないから公判に列席した判事が公判調書に署名捺印したか否やも不明であるし又公判に列席した判事が果して判事たる資格のあつた者かどうかも不明である。列席判事の何人であるかということは公判において最も重要な事項であるからその氏名の記載を公判調書の記載要件としたものであつて從つてその氏名の記載を欠缺した公判調書は無効であると解すべきである。",
+  "ref_law": "刑訴法63條，刑訴法60條2項2號",
+  "lawsuit_id": "55370",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55370",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/370/055370_hanrei.pdf"
+}

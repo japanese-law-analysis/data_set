@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 10,
+    "day": 4
+  },
+  "case_number": "昭和33(オ)341",
+  "case_name": "土地所有権移転登記手続請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第14巻12号2395頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 12,
+    "day": 26
+  },
+  "gist": "条件成就と認むべき事例。",
+  "case_gist": "土地および温泉使用権を陸軍傷病兵療養所のための敷地および鉱泉として陸軍省に寄附するにあたり、陸軍において将来右用途を廃止したときは無償で返還を受ける旨の特約があつた場合、終戦後陸軍省の廃止にともない、右土地等が大蔵省および厚生省に順次移管され、陸軍省廃止以来国立病院のため使用されているときは、前記特約にいう陸軍の用途廃止という条件は既に成就したものと認めるのが相当である。",
+  "ref_law": "民法127条",
+  "lawsuit_id": "52921",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52921",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/921/052921_hanrei.pdf"
+}

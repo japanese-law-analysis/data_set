@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 9,
+    "day": 9
+  },
+  "case_number": "昭和28(オ)1315",
+  "case_name": "手附金返還請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第9巻10号1247頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 9,
+    "day": 4
+  },
+  "gist": "他人に自己の商号の使用を許諾した者の責任",
+  "case_gist": "売買契約の締結につき、売主に自己の商号の使用を許諾した者は、右売主が売買の合意解除に際し買主に対し手附金を返還することを約した場合、右手附金返還債務につき商法第二三条の規定による責任を免れない。",
+  "ref_law": "商法23条",
+  "lawsuit_id": "56158",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56158",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/158/056158_hanrei.pdf"
+}

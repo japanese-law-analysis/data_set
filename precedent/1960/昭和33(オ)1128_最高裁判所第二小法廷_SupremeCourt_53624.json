@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 11,
+    "day": 24
+  },
+  "case_number": "昭和33(オ)1128",
+  "case_name": "所有権移転登記抹消登記手続等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第15巻10号2573頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 10,
+    "day": 13
+  },
+  "gist": "登記名義人が当該登記の抹消登記手続を求めることが許されるとされた事例。",
+  "case_gist": "甲が乙から宅地を買受けその旨の所有権取得登記を経由したのち、乙の債務不履行を原因として右売買契約が解除された場合には、甲は乙に対し右登記の抹消登記手続を求めることができる。",
+  "ref_law": "不動産登記法26条1項",
+  "lawsuit_id": "53624",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53624",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/624/053624_hanrei.pdf"
+}

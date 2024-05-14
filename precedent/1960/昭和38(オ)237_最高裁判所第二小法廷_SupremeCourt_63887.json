@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 3,
+    "day": 19
+  },
+  "case_number": "昭和38(オ)237",
+  "case_name": "債務不存在確認等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第78号361頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和35(ネ)484",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 12,
+    "day": 5
+  },
+  "gist": "公正証書の作成を嘱託する委任状の記載と公正証書の記載との間にそごがあつても公正証書の無効をきたさないとされた事例。",
+  "case_gist": "公正証書には担保物件として土地および建物を供した旨の記載があるのに、その作成を嘱託した委任状には単に建物を供した旨の記載があるにすぎない場合にも、真実該公正証書記載どおりに作成すべき権限を有していたのに土地の記載を脱落したものであることが明らかなときは、右瑕疵は該公正証書の無効をきたす重大なものとは解されない。",
+  "ref_law": "公証人法32条，公証人法41条",
+  "lawsuit_id": "63887",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63887",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/887/063887_hanrei.pdf"
+}

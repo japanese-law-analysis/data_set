@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 4,
+    "day": 17
+  },
+  "case_number": "昭和57(行ツ)97",
+  "case_name": "換地無効確認",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第41巻3号286頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和53(行コ)53",
+  "original_date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 3,
+    "day": 24
+  },
+  "gist": "照応の原則違反を理由とする換地処分無効確認の訴えの適法性",
+  "case_gist": "照応の原則違反を理由とする換地処分無効確認の訴えは、適法である。",
+  "ref_law": "土地改良法53条1項2号，土地改良法54条，行政事件訴訟法36条",
+  "lawsuit_id": "55190",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55190",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/190/055190_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 3,
+    "day": 28
+  },
+  "case_number": "昭和37(オ)1159",
+  "case_name": "保証債務履行請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第65号321頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 6,
+    "day": 29
+  },
+  "gist": "手形債務の保証の主張と連帯保証の判定。",
+  "case_gist": "本件保証が手形債務の保証であることの主張がある以上、本件保証には商行為性があり連帯保証となると判断したからといつて、当事者の主張しない事項を認定判断したことにはならない。",
+  "ref_law": "民訴法186条，商法501条4号，商法511条2項",
+  "lawsuit_id": "66051",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66051",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/051/066051_hanrei.pdf"
+}

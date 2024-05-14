@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 7,
+    "day": 10
+  },
+  "case_number": "昭和53(行ツ)169",
+  "case_name": "仮換地指定処分無効確認",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第34巻4号596頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和51(行コ)71",
+  "original_date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 8,
+    "day": 31
+  },
+  "gist": "土地区画整理組合による土地区画整理事業における地積の決定の方法の定めと組合の執行細則等への委任",
+  "case_gist": "土地区画整理組合が、原則として公簿地積を基準地積とし例外的に実測地積による方法で土地区画整理事業を施行する場合において、定款には地積決定の方法に関する原則的な基準のみを定め、例外的な措置については定款の委任により執行機関の制定する執行細則等における定めに委ねることも許される。",
+  "ref_law": "土地区画整理法15条11号，土地区画整理法施行令1条1項2号",
+  "lawsuit_id": "53343",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53343",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/343/053343_hanrei.pdf"
+}

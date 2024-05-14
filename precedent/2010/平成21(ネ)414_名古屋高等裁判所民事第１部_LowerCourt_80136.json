@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 1,
+    "day": 20
+  },
+  "case_number": "平成21(ネ)414",
+  "case_name": "損害賠償請求控訴事件",
+  "court_name": "名古屋高等裁判所民事第１部",
+  "result": "その他",
+  "original_court_name": "名古屋地方裁判所",
+  "original_case_number": "平成19(ワ)4932",
+  "original_result": "棄却",
+  "gist": "被控訴人から本件土地を購入した控訴人らが，本件土地の地盤が軟弱で，建物建築に適さず，地盤改良工事が必要であった旨主張して，本件地盤の軟弱性等に関する説明義務違反又は，瑕疵担保責任に基づき，被控訴人に対し，土地改良工事費用合計２５２万円及び遅延損害金を請求した事案につき，地盤が軟弱であって，土地に隠れた瑕疵に当たると認めたうえ，控訴人らの請求を棄却した原判決を変更して，請求の全部を認容した事例",
+  "lawsuit_id": "80136",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=80136",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/136/080136_hanrei.pdf",
+  "contents": ""
+}

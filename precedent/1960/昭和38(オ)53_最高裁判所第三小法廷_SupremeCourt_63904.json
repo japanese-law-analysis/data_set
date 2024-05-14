@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 4,
+    "day": 28
+  },
+  "case_number": "昭和38(オ)53",
+  "case_name": "相続登記抹消等請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第73号421頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 10,
+    "day": 9
+  },
+  "gist": "一　民事訴訟事件で親子関係の存否を判断することの可否。\n\n二　右の場合に適用すべき訴訟法規。",
+  "case_gist": "一　民事訴訟事件において、前提問題として親子関係の存否につき、人事訴訟事件の判決をまたずして、審理判断をなしうる。\n\n二　右の場合、親子関係の存否の認定は、通常の民事訴訟手続で行なわれるべきであつて、人事訴訟法によるべきではない。",
+  "ref_law": "人訴法第2章",
+  "lawsuit_id": "63904",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63904",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/904/063904_hanrei.pdf"
+}

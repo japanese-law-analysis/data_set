@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 10,
+    "day": 9
+  },
+  "case_number": "昭和33(し)72",
+  "case_name": "公職選挙法違反被告事件についてなした公判期日変更申請却下並びに公判期日不出頭許可の決定に対する特別抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第128号211頁",
+  "original_court_name": "千葉地方裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 9,
+    "day": 19
+  },
+  "gist": "公判期日変更申請却下の決定並びに刑訴法第二八五条第二項による公判期日不出頭許可の決定は刑訴法第四三三条第一項にいう「この法律により不服を申し立てることができない決定」に当るか。",
+  "case_gist": "公判期日変更申請却下の決定並びに刑訴法二八五条二項による公判期日不出頭許可の決定は、いずれも訴訟手続に関し判決前にした決定であつて、かかる決定は、刑訴四三三条一項にいう「この法律により不服を申し立てることができない決定」に当らないと解するを相当とする。それ故、本件特別抗告は不適法たるを免れない。",
+  "ref_law": "刑訴法276条，刑訴法285条，刑訴法433条，刑訴規則179条の4",
+  "lawsuit_id": "58693",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58693",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/693/058693_hanrei.pdf"
+}

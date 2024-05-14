@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 3,
+    "day": 24
+  },
+  "case_number": "昭和30(ク)35",
+  "case_name": "教育委員当選の効力に関する訴願裁決取消請求事件の判決に対する上告受理事件につきなした上告却下決定に対する抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "却下",
+  "article_info": "集民　第17号795頁",
+  "original_court_name": "仙台高等裁判所\n        　秋田支部",
+  "original_case_number": "昭和29(ネオ)4",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 11,
+    "day": 9
+  },
+  "lawsuit_id": "77313",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77313",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/313/077313_hanrei.pdf"
+}

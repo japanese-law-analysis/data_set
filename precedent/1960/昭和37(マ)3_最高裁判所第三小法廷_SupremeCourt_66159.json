@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 12,
+    "day": 25
+  },
+  "case_number": "昭和37(マ)3",
+  "case_name": "土地所有権確認請求特別上告事件の即時抗告等に対する異議申立についてなした却下決定に対する異議申立",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "却下",
+  "article_info": "集民　第63号1069頁",
+  "original_court_name": "最高裁判所",
+  "original_case_number": "昭和36(マ)35",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 12,
+    "day": 26
+  },
+  "gist": "最高裁判所のなした決定に対し準抗告は許されるか。",
+  "case_gist": "最高裁判所の決定に対し、民訴法第四一二条の異議（準抗告）の申立は許されない。",
+  "ref_law": "民訴法412条1項，民訴法412条2項，民訴法412条3項",
+  "lawsuit_id": "66159",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66159",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/159/066159_hanrei.pdf"
+}

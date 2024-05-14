@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 6,
+    "day": 30
+  },
+  "case_number": "昭和39(あ)356",
+  "case_name": "業務上過失傷害",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第151号613頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 1,
+    "day": 20
+  },
+  "gist": "浴場業者があせも、ただれ等防止用の白色粉末剤を販売する行為に対する擬律。",
+  "case_gist": "浴場業者が、あせも、ただれ等防止用の白色粉末剤（いわゆる天花粉）を番台に置いて、入浴者の求めに応じて反覆販売する行為は、刑法第二一一条の業務に該当し、これを客に交付する際には、他の薬物もしくは異物でないことを確認すべき業務上の注意義務がある。",
+  "ref_law": "刑法211条，薬事法2条2項",
+  "lawsuit_id": "76033",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=76033",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/033/076033_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 9,
+    "day": 26
+  },
+  "case_number": "昭和48(ク)105",
+  "case_name": "増改築許可申立事件の申立許可決定に対する抗告の棄却決定に対する抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集民　第112号735頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和47(ラ)919",
+  "original_date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 2,
+    "day": 19
+  },
+  "gist": "借地法八条ノ二第二項の借地条件変更に関する裁判の合憲性",
+  "case_gist": "借地法八条ノ二第二項の借地条件変更に関する裁判は、憲法三二条、八二条に違反しない。",
+  "ref_law": "憲法32条，憲法82条，借地法8条ノ2第2項",
+  "lawsuit_id": "66799",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66799",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/799/066799_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 6,
+    "day": 25
+  },
+  "case_number": "昭和30(オ)883",
+  "case_name": "契約保証金返還等請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第11巻6号1143頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 7,
+    "day": 15
+  },
+  "gist": "一　証人尋問の申出をした当事者が費用を予納しなかつた場合と相手方の予納。\n二　証人尋問の申出は尋問終了後に撤回し得るか。",
+  "case_gist": "一　証人尋問の申出をした当事者が費用を予納しなかつた場合に、相手方が予納したときは、裁判所は右証人尋問の手続を採り得る。\n二　証人尋問の申出は、その尋問が終了した後は撤回することを得ない。",
+  "ref_law": "民訴法106条，民訴法275条",
+  "lawsuit_id": "57632",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57632",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/632/057632_hanrei.pdf"
+}

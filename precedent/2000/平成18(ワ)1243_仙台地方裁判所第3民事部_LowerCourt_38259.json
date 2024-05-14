@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 11,
+    "day": 26
+  },
+  "case_number": "平成18(ワ)1243",
+  "case_name": "損害賠償請求事件",
+  "court_name": "仙台地方裁判所第3民事部",
+  "gist": "フランチャイザーが，リロケイト物件に関して勧誘を行う場合には，フランチャイジーになろうとする者に対し，旧店舗の売上実績や，旧店舗と比較して新店舗の売り上げが改善すると判断した理由等，新店舗の売上予測が，旧店舗の売上実績を踏まえてもなお合理的なものであるか否かを判断するための情報を提供すべきであるところ，本件では，被告は，原告に対して，旧店舗の売上実績等を開示しなかったことから，信義則上の保護義務違反としての説明義務違反が認められると判断された事例",
+  "lawsuit_id": "38259",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=38259",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/259/038259_hanrei.pdf",
+  "contents": ""
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 10,
+    "day": 25
+  },
+  "case_number": "昭和52(オ)20",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第122号119頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和47(ネ)1679",
+  "original_date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 9,
+    "day": 22
+  },
+  "gist": "判決における事実欄の証拠摘示に記録中の証拠目録を引用したにすぎない場合について判決に影響を及ぼすことの明らかな法令違背がないとされた事例",
+  "case_gist": "判決の証拠に関する事実摘示として記録中の証拠目録を引用したにすぎない場合は、証拠関係を摘示したことにはならないが、記録及び原判決理由説示に徴し、右摘示を欠いたことは、判決に影響を及ぼすことの明らかな法令違背とはならない。",
+  "ref_law": "民訴法191条",
+  "lawsuit_id": "64182",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64182",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/182/064182_hanrei.pdf"
+}

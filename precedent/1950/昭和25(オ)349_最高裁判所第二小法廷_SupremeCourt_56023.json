@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 12,
+    "day": 28
+  },
+  "case_number": "昭和25(オ)349",
+  "case_name": "人身保護請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第4巻12号683頁",
+  "original_court_name": "京都地方裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 10,
+    "day": 5
+  },
+  "gist": "一　外国人登録令施行規則第一九条の執行者の署名捺印\n二　被保釈者を行政権により拘束することの適否",
+  "case_gist": "一　外国人登録令施行規則第一九条（昭和二五年九月三〇日政令第二九五号による改正前のもの）に規定する執行者の署名捺印がなくても、これにより退去強制令書の執行の要件は違法とはならない。\n二　保釈中退去強制令書により一時拘束したとしても、これをもつてただちに行政権による司法権の侵犯ということはできない。",
+  "ref_law": "外国人登録令（昭和25年9月30日政令295号による改正前のもの）16条，外国人登録令施行規則（昭和25年9月30日政令295号による改正前のもの）19条，刑訴法89条，刑訴法90条，憲法37条",
+  "lawsuit_id": "56023",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56023",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/023/056023_hanrei.pdf"
+}

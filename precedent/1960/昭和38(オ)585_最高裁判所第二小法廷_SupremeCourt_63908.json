@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 2,
+    "day": 21
+  },
+  "case_number": "昭和38(オ)585",
+  "case_name": "建物収去、土地明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第72号235頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 3,
+    "day": 6
+  },
+  "gist": "一審判決に不服である旨の記載のある控訴状の記載と請求原因の事実についての認否の有無。",
+  "case_gist": "ただ単に一審判決の主文に対し不服である旨の控訴状の記載のみでは、請求原因たる事実についての認否を明らかにしているとはいえず、擬制自白が成立しうる。",
+  "ref_law": "民訴法140条，民訴法367条",
+  "lawsuit_id": "63908",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63908",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/908/063908_hanrei.pdf"
+}

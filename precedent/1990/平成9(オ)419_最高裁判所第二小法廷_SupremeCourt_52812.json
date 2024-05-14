@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 10,
+    "month": 1,
+    "day": 30
+  },
+  "case_number": "平成9(オ)419",
+  "case_name": "取立債権",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第52巻1号1頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成7(ネ)2662",
+  "original_date": {
+    "era": "Heisei",
+    "year": 8,
+    "month": 11,
+    "day": 6
+  },
+  "gist": "抵当権者による物上代位権の行使と目的債権の譲渡",
+  "case_gist": "抵当権者は、物上代位の目的債権が譲渡され第三者に対する対抗要件が備えられた後においても、自ら目的債権を差し押さえて物上代位権を行使することができる。",
+  "ref_law": "民法304条，民法372条，民法467条",
+  "lawsuit_id": "52812",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52812",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/812/052812_hanrei.pdf"
+}

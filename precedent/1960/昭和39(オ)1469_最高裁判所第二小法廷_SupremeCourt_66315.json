@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 11,
+    "day": 18
+  },
+  "case_number": "昭和39(オ)1469",
+  "case_name": "実用新案権侵害禁止請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第85号167頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和38(ネ)2391",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 9,
+    "day": 29
+  },
+  "gist": "実用新案法第二六条の法意",
+  "case_gist": "実用新案法第二六条は特許法第七〇条を準用しているから、実用新案の技術的範囲、したがつてまたその権利の範囲は、登録請求の願書添付の明細書にある登録請求の範囲の記載に基づいて定められなければならないが、右範囲の記載の意味内容をより具体的に正確に判断する資料として、右明細書の他の部分に記載されている考案の作用効果を考慮することはなんら差し支えない。",
+  "ref_law": "実用新案法26条，特許法70条",
+  "lawsuit_id": "66315",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66315",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/315/066315_hanrei.pdf"
+}

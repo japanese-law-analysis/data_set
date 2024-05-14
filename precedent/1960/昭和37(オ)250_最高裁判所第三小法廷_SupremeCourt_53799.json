@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 10,
+    "day": 13
+  },
+  "case_number": "昭和37(オ)250",
+  "case_name": "建物収去、土地明渡請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第18巻8号1559頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 9,
+    "day": 28
+  },
+  "gist": "登記簿上表示された建物の一部である現存建物が「建物保護ニ関スル法律」第一条にいう「登記シタル建物」にあたるとされた事例。",
+  "case_gist": "借地上に現存する甲建物が登記簿上借地人の所有として表示された乙建物と構造坪数の点で著しく異なる場合でも、甲建物が乙建物の一部である等両建物間の関係について原審が確定したような事情（原判決理由参照）があるときは、甲建物は、「建物保護ニ関スル法律」第一条にいう「登記シタル建物」にあたると解すべきである。",
+  "ref_law": "建物保護ニ関スル法律1条",
+  "lawsuit_id": "53799",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53799",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/799/053799_hanrei.pdf"
+}

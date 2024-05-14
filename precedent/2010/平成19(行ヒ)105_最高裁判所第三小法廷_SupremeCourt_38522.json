@@ -1,0 +1,30 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 3,
+    "day": 2
+  },
+  "case_number": "平成19(行ヒ)105",
+  "case_name": "所得税納税告知処分取消等請求事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第64巻2号420頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成18(行コ)103",
+  "original_date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 12,
+    "day": 13
+  },
+  "gist": "ホステスの業務に関する報酬の額が一定の期間ごとに計算されて支払われている場合における，所得税法施行令３２２条にいう「当該支払金額の計算期間の日数」の意義",
+  "case_gist": "ホステスの業務に関する報酬の額が一定の期間ごとに計算されて支払われている場合において，所得税法施行令３２２条にいう「当該支払金額の計算期間の日数」は，ホステスの実際の稼働日数ではなく，当該期間に含まれるすべての日数を指す。",
+  "ref_law": "所得税法204条1項6号，所得税法205条2号，所得税法施行令322条",
+  "lawsuit_id": "38522",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=38522",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/522/038522_hanrei.pdf",
+  "contents": ""
+}

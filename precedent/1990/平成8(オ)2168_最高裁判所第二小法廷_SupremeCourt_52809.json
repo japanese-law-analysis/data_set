@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 10,
+    "month": 2,
+    "day": 13
+  },
+  "case_number": "平成8(オ)2168",
+  "case_name": "請求異議",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第52巻1号38頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成7(ネ)5842",
+  "original_date": {
+    "era": "Heisei",
+    "year": 8,
+    "month": 7,
+    "day": 9
+  },
+  "gist": "限定承認をした相続人が死因贈与による不動産の取得を相続債権者に対抗することの可否",
+  "case_gist": "不動産の死因贈与の受贈者が贈与者の相続人である場合において、限定承認がされたときは、死因贈与に基づく限定承認者への所有権移転登記が相続債権者による差押登記よりも先にされたとしても、信義則に照らし、限定承認者は相続債権者に対して不動産の所有権取得を対抗することができない。",
+  "ref_law": "民法1条2項，民法177条，民法554条，民法922条，民法931条",
+  "lawsuit_id": "52809",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52809",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/809/052809_hanrei.pdf"
+}

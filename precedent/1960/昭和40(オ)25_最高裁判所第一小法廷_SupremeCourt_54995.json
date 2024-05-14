@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 7,
+    "day": 11
+  },
+  "case_number": "昭和40(オ)25",
+  "case_name": "株券引渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第22巻7号1313頁",
+  "original_court_name": "広島高等裁判所\n        　松江支部",
+  "original_case_number": "昭和37(ネ)57",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 10,
+    "day": 30
+  },
+  "gist": "問屋の破産と取戻権",
+  "case_gist": "問屋が委託の実行としてした売買により権利を取得した後これを委託者に移転しない間に破産した場合には、委託者は、右権利につき取戻権を行使することができる。",
+  "ref_law": "商法552条，破産法87条",
+  "lawsuit_id": "54995",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54995",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/995/054995_hanrei.pdf"
+}

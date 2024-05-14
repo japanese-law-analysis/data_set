@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 13,
+    "month": 1,
+    "day": 30
+  },
+  "case_number": "平成12(許)17",
+  "case_name": "補助参加申立て却下決定に対する抗告棄却決定に対する許可抗告事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "破棄自判",
+  "article_info": "民集　第55巻1号30頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "平成12(ラ)41",
+  "original_date": {
+    "era": "Heisei",
+    "year": 12,
+    "month": 4,
+    "day": 4
+  },
+  "gist": "取締役会の意思決定が違法であるとして取締役に対し提起された株主代表訴訟において株式会社が取締役を補助するため訴訟に参加することの許否",
+  "case_gist": "取締役会の意思決定が違法であるとして取締役に対し提起された株主代表訴訟において，株式会社は，特段の事情がない限り，取締役を補助するため訴訟に参加することが許される。\n（反対意見がある。）",
+  "ref_law": "民訴法42条，商法267条，商法268条2項",
+  "lawsuit_id": "52315",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52315",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/315/052315_hanrei.pdf"
+}

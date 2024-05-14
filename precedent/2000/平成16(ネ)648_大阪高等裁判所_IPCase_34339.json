@@ -1,0 +1,18 @@
+{
+  "trial_type": "IPCase",
+  "date": {
+    "era": "Heisei",
+    "year": 16,
+    "month": 10,
+    "day": 15
+  },
+  "case_number": "平成16(ネ)648",
+  "case_name": "損害賠償請求控訴事件（中間判決）",
+  "court_name": "大阪高等裁判所",
+  "right_type": "特許権",
+  "lawsuit_type": "民事訴訟",
+  "lawsuit_id": "34339",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail7?id=34339",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/339/034339_hanrei.pdf",
+  "contents": ""
+}

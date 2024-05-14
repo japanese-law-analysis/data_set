@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 10,
+    "day": 31
+  },
+  "case_number": "平成19(ワ)234",
+  "case_name": "損害賠償請求事件",
+  "court_name": "仙台地方裁判所第１民事部",
+  "gist": "アルコールの影響により正常な運転が困難な状態で自動車を走行させて起きた死亡交通事故で，運転者の被害者への加害行為を助長，援助したものとして，運転者と一緒に飲酒，同乗していた者に民法７１９条２項の幇助者の責任が認められたとされた事例",
+  "lawsuit_id": "35747",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=35747",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/747/035747_hanrei.pdf",
+  "contents": ""
+}

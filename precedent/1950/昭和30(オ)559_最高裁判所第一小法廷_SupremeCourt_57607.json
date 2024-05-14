@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 11,
+    "day": 24
+  },
+  "case_number": "昭和30(オ)559",
+  "case_name": "離婚請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第9巻12号1837頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 4,
+    "day": 27
+  },
+  "gist": "多少の落度があつた当事者の民法第七七〇条第一項第五号に基く離婚請求の許否",
+  "case_gist": "婚姻を継続し難い重大な事由にあたる事態を招いたことにつき、夫婦の一方にもいくらかの落度はあつたが、相手方により多くの落度があるた場合には、前者の後者に対する民法第七七〇条第一項第五号に基く離婚請求を認容しても、違法とはいえない。",
+  "ref_law": "民法770条1項5号",
+  "lawsuit_id": "57607",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57607",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/607/057607_hanrei.pdf"
+}

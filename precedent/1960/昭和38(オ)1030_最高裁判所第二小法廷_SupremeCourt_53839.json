@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 12,
+    "day": 23
+  },
+  "case_number": "昭和38(オ)1030",
+  "case_name": "貸金敷金返還請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第20巻10号2211頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和35(ネ)626",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 5,
+    "day": 30
+  },
+  "gist": "民法上いわゆる代償請求権が認められるか",
+  "case_gist": "履行不能が生じたのと同一の原因によつて、債務者が履行の目的物の代償と考えられる利益を取得した場合には、債権者は、右履行不能により受けた損害を限度として、債務者に対し、右利益の償還を求める権利があると解するのが相当である。",
+  "ref_law": "民法536条2項",
+  "lawsuit_id": "53839",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53839",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/839/053839_hanrei.pdf"
+}

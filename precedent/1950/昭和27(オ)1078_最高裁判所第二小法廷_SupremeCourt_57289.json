@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 5,
+    "day": 31
+  },
+  "case_number": "昭和27(オ)1078",
+  "case_name": "所有権移転登記抹消等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第9巻6号774頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 8,
+    "day": 18
+  },
+  "gist": "不動産の二重売買における第二の買主が悪意の場合と第一の買主に対する不法行為責任の有無",
+  "case_gist": "乙が甲から不動産を買い受けて登録を経ないうち、丙が甲から右不動産を買い受けて登記をなし、これをさらに丁に売り渡して登記を経たため、乙がその所有権取得を丁に対抗することができなくなつた場合において、丙がその買受当時甲乙間の売買の事実を知つていたというだけでは、丙は乙に対し不法行為責任を負うものではない。",
+  "ref_law": "民法177条，民法709条",
+  "lawsuit_id": "57289",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57289",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/289/057289_hanrei.pdf"
+}

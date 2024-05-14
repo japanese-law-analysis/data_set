@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 2,
+    "day": 15
+  },
+  "case_number": "昭和54(し)13",
+  "case_name": "脅迫被告事件についてした裁判官忌避申立却下の裁判に対する準抗告棄却決定に対する特別抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第214号57頁",
+  "original_court_name": "前橋地方裁判所\n        　高崎支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 1,
+    "day": 22
+  },
+  "gist": "起訴前の勾留処分を担当したことを理由とする違憲（三七条一項）の主張が理由がないとされた事例",
+  "ref_law": "憲法37条1項，刑訴法21条1項",
+  "lawsuit_id": "58133",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58133",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/133/058133_hanrei.pdf"
+}

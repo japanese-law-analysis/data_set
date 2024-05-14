@@ -1,0 +1,18 @@
+{
+  "trial_type": "IPCase",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 4,
+    "day": 7
+  },
+  "case_number": "平成18(ワ)11429",
+  "case_name": "特許権侵害差止等請求事件",
+  "court_name": "大阪地方裁判所",
+  "right_type": "特許権",
+  "lawsuit_type": "民事訴訟",
+  "lawsuit_id": "37710",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail7?id=37710",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/710/037710_hanrei.pdf",
+  "contents": "12.10-12.11 12.12-13.5 13.6-13.11 13.12-14.5\nGR-b,GR-d,GR-e,     GR-j,GR-k,GR-l\nGR- 27,392 94,392 191,419 58,414 371,617\nGR-n 76,680 207,821 188,443 145,290 618,234\n"
+}

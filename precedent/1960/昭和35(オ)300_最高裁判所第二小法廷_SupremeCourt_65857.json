@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 6,
+    "day": 7
+  },
+  "case_number": "昭和35(オ)300",
+  "case_name": "預り金返還請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第66号453頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 12,
+    "day": 18
+  },
+  "gist": "滞納処分による差押登記後の賃貸借の対抗力。",
+  "case_gist": "建物の賃貸借が国税徴収法（昭和三四年法律第一四七号による改正前のもの）に基づく滞納処分による差押登記後になされた場合には、たとえ賃借人が建物の引渡を受けても、右賃貸借は公売処分により建物の所有権を取得したものに対抗することはできないものと解するのを相当とする。",
+  "ref_law": "借家法1条",
+  "lawsuit_id": "65857",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=65857",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/857/065857_hanrei.pdf"
+}

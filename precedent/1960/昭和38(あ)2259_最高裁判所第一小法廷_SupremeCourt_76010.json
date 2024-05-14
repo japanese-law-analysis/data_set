@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 4,
+    "day": 9
+  },
+  "case_number": "昭和38(あ)2259",
+  "case_name": "傷害致死",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第151号7頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 9,
+    "day": 6
+  },
+  "gist": "高度の高血圧症患者の頬部を強打する行為と死の結果に対する因果関係の存否。",
+  "case_gist": "かねてから高度の高血圧症患者として医師の治療を受けていた被害者（当時四八年の女性）が、被告人に左手掌で右頬部を強打されたため、いたく憤激し、執拗にその不法を難詰しているにつれて、興奮の度を増して行き、ために同女の血圧を急激に上昇せしめ、よつて間もなく（二四時間以内）同女をして脳内出血を惹起せしめ、その結果その後約一二日余で死亡せしめるに至つたという事実関係の下では被告人の暴行と被害者の死亡との間に因果関係がある。",
+  "ref_law": "刑法205条1項",
+  "lawsuit_id": "76010",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=76010",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/010/076010_hanrei.pdf"
+}

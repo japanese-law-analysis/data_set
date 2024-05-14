@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 10,
+    "day": 14
+  },
+  "case_number": "昭和45(あ)710",
+  "case_name": "道路交通法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "刑集　第25巻7号817頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 2,
+    "day": 24
+  },
+  "gist": "一　過失による安全運転義務違反罪の成立要件\n二　道路交通法二条五号という交差点にあたらないとされた事例",
+  "case_gist": "一　過失による道路交通法七〇条（安全運転の義務）違反の罪が成立するためには、他人に危害を及ぼすような速度と方法で運転したこと自体について過失が存することを要する。\n二　川口市ａ町方面から同市ｂ町方面に向かう西川口陸橋に接続する取付道路（幅員九・六メートル）をｂ町方面に向かつて下降し、この取付道路がその南北両側にこれと並行して水平に走る各市街路（幅員各六・二メートル）と合して幅員二二・七メートルの水平道路となつた地点（判文参照）は、道路交通法二条五号にいう交差点にあたらない。",
+  "ref_law": "道路交通法70条，道路交通法119条1項9号，道路交通法119条2項，道路交通法2条5号，道路交通法37条1項，刑法211条",
+  "lawsuit_id": "51810",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51810",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/810/051810_hanrei.pdf"
+}

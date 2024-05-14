@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 8,
+    "month": 10,
+    "day": 29
+  },
+  "case_number": "平成6(あ)611",
+  "case_name": "覚せい剤取締法違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第50巻9号683頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 6,
+    "month": 4,
+    "day": 28
+  },
+  "gist": "今状に基づく捜索の現場で警察官が被告人に暴行を加えた違法があってもそれ以前に発見されていた覚せい剤の証拠能力は否定されないとされた事例",
+  "case_gist": "今状に基づく捜索の現場で警察官が被告人に暴行を加えた違法があっても、その暴行の時点は証拠物たる覚せい剤発見の後であり、被告人の発言に触発されて行われたものであって、証拠物の発見を目的とし捜索に利用するために行われたものとは認められないなど判示の事実関係の下においては、右証拠物を警察官の違法行為の結果収集された証拠として証拠能力を否定することはできない。",
+  "ref_law": "憲法31条，憲法35条，刑訴法1条，刑訴法218条1項，刑訴法317条",
+  "lawsuit_id": "50161",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50161",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/161/050161_hanrei.pdf"
+}

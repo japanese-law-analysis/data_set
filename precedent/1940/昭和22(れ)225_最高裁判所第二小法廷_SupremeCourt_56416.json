@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 3,
+    "day": 20
+  },
+  "case_number": "昭和22(れ)225",
+  "case_name": "窃盗、銃砲等所持禁止令違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第2巻3号253頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 9,
+    "day": 27
+  },
+  "gist": "不當に長い拘禁と上告理由",
+  "case_gist": "第二審判決に對する上告は、その第二審判決自體か、又はその判決の基本となつた審判の訴訟手續が法令に違反したということを理由とするのでなければならないのであつて、かりに被告人に對する拘禁が、不當に長く繼續されたものであつたとしても、不當な拘禁に對しては法律は別途に各種の救濟の方法を規定しているのであつて、被告人に對する拘禁が不當に長かつたというだけのことでは、直ちに原判決それ自體を違法とするものでもなければ、また判決の基本となつた審判の手續に違法の點があつたともいえない。",
+  "ref_law": "憲法38條2項，刑訴應急措置法10條2項，刑訴法409條，刑訴法411條",
+  "lawsuit_id": "56416",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56416",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/416/056416_hanrei.pdf"
+}

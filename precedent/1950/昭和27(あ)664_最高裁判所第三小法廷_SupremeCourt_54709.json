@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 4,
+    "day": 14
+  },
+  "case_number": "昭和27(あ)664",
+  "case_name": "傷害、公務執行妨害、外国人登録令違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "刑集　第7巻4号850頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 8,
+    "day": 21
+  },
+  "gist": "一　刑法第五四条第一項前段の法意\n二　公務執行妨害罪と傷害罪が刑法第五四条第一項前段の関係にある場合に傷害罪所定の罰金刑で処断することは適法か",
+  "case_gist": "一　刑法第五四条第一項前段の一個の行為が数個の罪名に触れる場合に「其最モ重キ刑ヲ以テ処断ス」と規定しているのはその数個の罪名中もつとも重い刑を定めている法条によつて処断するという趣旨と共に他の法条の最下限の刑よりも軽く処断することはできないという趣旨を含むと解するのが相当である。\n二　公務執行妨害罪と傷害罪が刑法第五四条第一項前段の関係にある場合に傷害罪所定の罰金刑で処断するのは刑法第五四条第一項前段の規定の解釈を誤つたもので違法である。",
+  "ref_law": "刑法54条1項，刑法95条，刑法204条",
+  "lawsuit_id": "54709",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54709",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/709/054709_hanrei.pdf"
+}

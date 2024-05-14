@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 11,
+    "day": 1
+  },
+  "case_number": "昭和54(オ)562",
+  "case_name": "土地明渡等",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第128号55頁",
+  "original_court_name": "高松高等裁判所",
+  "original_case_number": "昭和52(ネ)74",
+  "original_date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 2,
+    "day": 15
+  },
+  "gist": "被告に所有権がないことの確認の訴につき確認の利益がないとされた事例",
+  "case_gist": "土地が被告の所有でない旨の消極的確認の訴は、隣接地を所有する原告が、これを道路として使用することが右土地について所有権を主張する被告によつて妨げられており、かつ、被告が右土地を時効取得することを防止するため必要があると主張するだけでは、確認の利益があるとはいえない。",
+  "ref_law": "民訴法225条",
+  "lawsuit_id": "64317",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64317",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/317/064317_hanrei.pdf"
+}

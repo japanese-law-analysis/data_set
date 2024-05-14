@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 10,
+    "day": 8
+  },
+  "case_number": "昭和39(あ)834",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第152号993頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 2,
+    "day": 26
+  },
+  "gist": "選挙運動の法定期間前に公職選挙法第一四二号に違反する文書を頒布し選挙運動を行なつた場合の罪数。",
+  "case_gist": "選挙運動の法定期間前に、公職選挙法第一四二条に違反する文書を頒布し選挙運動を行なつたときは、同法第二三九条第一号の罪および同法第二四三条第三号の罪が成立し、刑法第五四条第一項前段により処断すべきである。",
+  "ref_law": "公職選挙法129条，公職選挙法142条，公職選挙法239条1号，公職選挙法243条3号，刑法54条1項",
+  "lawsuit_id": "69621",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=69621",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/621/069621_hanrei.pdf"
+}

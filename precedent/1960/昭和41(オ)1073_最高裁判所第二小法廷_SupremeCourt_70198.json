@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 8,
+    "day": 25
+  },
+  "case_number": "昭和41(オ)1073",
+  "case_name": "建物収去、土地明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第88号303頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和38(ネ)3122",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 5,
+    "day": 27
+  },
+  "gist": "賃借地の一部転貸が（その賃借人の一家がいわゆる草分けとして約八〇年にわたり当該借地を使用して来た事実をも考慮して）賃貸人に対する背信行為と認められない特別の事情があるとした原審の判断を相当とした事例",
+  "lawsuit_id": "70198",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70198",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/198/070198_hanrei.pdf"
+}

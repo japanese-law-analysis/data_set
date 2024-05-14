@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 3,
+    "day": 9
+  },
+  "case_number": "昭和47(オ)815",
+  "case_name": "立替金、建物並びに土地明渡併合請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第108号395頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和45(ネ)153",
+  "original_date": {
+    "era": "Showa",
+    "year": 47,
+    "month": 4,
+    "day": 27
+  },
+  "gist": "自動車の修理販売等の共同事業契約に土地・建物の利用についての法律関係が含まれていても借地・借家法の適用がないとされた事例",
+  "case_gist": "甲と乙とが自動車の修理販売等を営む丙社の共同経営をするため、（イ）甲は乙に対し土地および工場建物等を賃貸し、乙は丙社に右土地等を使用させる、（ロ）甲乙は丙社の代表取締役となつてその経営にあたり利益を折半する、（ハ）甲が丙社の取締役を辞任・退社するときは、甲と乙とは未払賃料等を清算し乙が賃貸物件についてした増改築部分は鑑定価額をもつて甲が買い取る等を内容とする契約を締結した場合、右契約は共同事業契約と解すべきであつて、右土地建物等の利用関係について借地・借家法の適用はないと解すべきである。",
+  "ref_law": "民法601条，借地法1条，借家法1条の2",
+  "lawsuit_id": "62138",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62138",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/138/062138_hanrei.pdf"
+}

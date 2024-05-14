@@ -1,0 +1,18 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 3,
+    "day": 26
+  },
+  "case_number": "昭和58(行コ)47",
+  "case_name": "損害金請求控訴事件（原審・東京地方裁判所昭和５４年（行ウ）第１２６号）",
+  "court_name": "東京高等裁判所",
+  "field": "行政",
+  "gist": "市長個人を被告人とする刑事訴訟について，弁護人に対する報酬等を市の公金から支出したことは，右訴訟において間接にでも市の行政の合理性等を否定する判断がされれば，市の行政に直接影響を及ぼす場合であったとしても，違法であるとした事例",
+  "lawsuit_id": "35996",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=35996",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/996/035996_hanrei.pdf",
+  "contents": ""
+}

@@ -1,0 +1,19 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 5,
+    "day": 16
+  },
+  "case_number": "昭和61(行ウ)2",
+  "case_name": "損害賠償請求事件",
+  "court_name": "佐賀地方裁判所",
+  "field": "行政",
+  "gist": "公有地の拡大の推進に関する法律１０条に基づいて設立された土地開発公社の財務会計上の行為につき，右公社の設立者である普通地方公共団体の住民は，地方自治法２４２条の２の規定により住民訴訟を提起することができるか",
+  "case_gist": "公有地の拡大の推進に関する法律１０条に基づいて設立された土地開発公社の財務会計上の行為につき，右公社の設立者である普通地方公共団体の住民は，地方自治法２４２条の２の規定により住民訴訟を提起することができない。",
+  "lawsuit_id": "36008",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=36008",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/008/036008_hanrei.pdf",
+  "contents": ""
+}

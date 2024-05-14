@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 2,
+    "day": 23
+  },
+  "case_number": "昭和38(オ)386",
+  "case_name": "株式取引不足金請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第77号515頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和36(ネ)205",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 12,
+    "day": 6
+  },
+  "gist": "株式の取引が昭和二八年大蔵省令第七五号第八条第二項所定の対当売買を行なつた場合に該当しないとされた事例。",
+  "case_gist": "原判決が本件当事者間の本件各株式取引に関し確定した諸般の事情のもとでは、右取引は昭和二八年大蔵省令第七五号第八条第二項約定の対等売買を行なつた場合に該当せず、同令九条の規定による禁止に違背するといえない。",
+  "ref_law": "証券取引法49条に規定する取引及びその保険金に関する省令（昭和28年大蔵省令75号）8条2項，証券取引法49条に規定する取引及びその保険金に関する省令（昭和28年大蔵省令75号）9条",
+  "lawsuit_id": "77706",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77706",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/706/077706_hanrei.pdf"
+}

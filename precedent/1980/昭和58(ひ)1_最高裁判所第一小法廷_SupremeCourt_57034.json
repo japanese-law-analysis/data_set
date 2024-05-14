@@ -1,0 +1,21 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 11,
+    "day": 7
+  },
+  "case_number": "昭和58(ひ)1",
+  "case_name": "費用補償",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "その他",
+  "article_info": "刑集　第37巻9号1353頁",
+  "gist": "併合罪の各一部につき第一審控訴審及び上告審において順次無罪の判決があつた場合と費用の補償請求",
+  "case_gist": "併合罪として起訴された事実上、甲事実につき第一審において、乙事実につき控訴審において、丙事実につき上告審において順次無罪の判決があり、上告審が丙事実の裁判に要した費用を補償する場合において、甲、乙各事実についての無罪判決の各確定後刑訴法一八八条の三第二項所定の期間が経過しているときは、右各事実の裁判に要した費用の補償を請求することは許されない。",
+  "ref_law": "刑訴法188条の3第1項，刑訴法188条の3第2項",
+  "lawsuit_id": "57034",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57034",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/034/057034_hanrei.pdf"
+}

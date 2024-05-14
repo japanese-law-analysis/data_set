@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 6,
+    "day": 21
+  },
+  "case_number": "昭和39(オ)437",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第20巻5号1078頁",
+  "original_court_name": "広島高等裁判所",
+  "original_case_number": "昭和35(ネ)148",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 1,
+    "day": 23
+  },
+  "gist": "一　第三者が市長振出の約束手形を取得するさいの調査について過失があるとして過失相殺を認めた事例\n二　不法行為を理由とする損害賠償請求における過失相殺と当事者による主張の要否",
+  "case_gist": "一　第三者が、市長振出の約束手形に関して当該市に対し損害賠償を求める場合に、その手形を取得するさい、単に右市長に対し手形振出の有無を確かめたのみで、市議会の議決の有無などに関し、当該の市の吏員、市議会などについて調査をしなかつたなど原判決の確定した事実関係（原判決理由参照）のもとでは、右第三者について過失のあることを理由として、過失相殺をしたのは相当である。\n二　不法行為を理由とする損害賠償請求訴訟において、被害者に過失があると認めるときには、裁判所は、当事者からの主張を要しないで、過失相殺をすることができる。",
+  "ref_law": "民法722条，民法44条，民訴法186条",
+  "lawsuit_id": "57763",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57763",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/763/057763_hanrei.pdf"
+}

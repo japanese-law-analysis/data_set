@@ -1,0 +1,18 @@
+{
+  "trial_type": "IPCase",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 11,
+    "day": 22
+  },
+  "case_number": "平成18(行ケ)10524",
+  "case_name": "審決取消請求事件",
+  "court_name": "知的財産高等裁判所",
+  "right_type": "特許権",
+  "lawsuit_type": "行政訴訟",
+  "lawsuit_id": "35416",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail7?id=35416",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/416/035416_hanrei.pdf",
+  "contents": "Pcwp\nPcwp Pav\n10 50kw 100\n500ns\n10kw 0.1 20ms\nYAG\n10 YAG\n10kHz\nITO\n10kHz 30kHz\n150W 10kHz\n150nsec 23\n30kHz 300nsec 45\nITO 10kHz\n30kHz\n30kHz\n10kHz 8K 150nsec\n5.3KW\n50 sec\n10kHz\n20kHz\n10kHz\n"
+}

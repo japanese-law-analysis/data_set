@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 3,
+    "day": 23
+  },
+  "case_number": "平成17(ワ)4665",
+  "case_name": "入学金返還請求",
+  "court_name": "名古屋地方裁判所民事第６部",
+  "result": "その他",
+  "gist": "１　公立大学と学生との在学に関する法律関係を公法上の無名契約（在学契約）と解した事例\n２　公立大学における入学許可の後，入学金を納付する行為は，在学の予約であり，その意思表示には錯誤等民法上の意思表示に関する規定が準用されるとし，学生の錯誤の主張を認め，公立大学法人に対し，入学金の返還を命じた事例",
+  "lawsuit_id": "34692",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=34692",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/692/034692_hanrei.pdf",
+  "contents": ""
+}

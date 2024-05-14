@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 4,
+    "day": 18
+  },
+  "case_number": "昭和29(あ)2523",
+  "case_name": "業務上過失傷害",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "刑集　第12巻6号1090頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 4,
+    "day": 13
+  },
+  "gist": "一　刑法二一一条の業務の意義\n二　免許を受け反覆継続してなす娯楽のための狩猟行為と刑法第二一一条の業務",
+  "case_gist": "一　刑法二一一条にいわゆる業務としは、本来人が社会生活上の地位に基き反覆継続して行う行為であつて、かつその行為は他人の生命身体等に危害を加える虞あるものであることを必要とするけれども、行為者の目的がこれによつて収入を得るにあるとその他の欲望を充たすにあるとは問わないと解すべきである\n二　銃器を使用してなす狩猟行為の如き他人の生命、身体等に危害を及ぼす虞ある行為を、免許を受けて反覆継続してなすときは、その目的が娯楽のためであつても、なおこれを刑法第二一一条にいわゆる業務と認むべきである",
+  "ref_law": "刑法211条",
+  "lawsuit_id": "50421",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50421",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/421/050421_hanrei.pdf"
+}

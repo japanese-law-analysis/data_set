@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 1,
+    "day": 17
+  },
+  "case_number": "昭和34(オ)677",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第64号1頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 3,
+    "day": 23
+  },
+  "gist": "差押船舶の沈没についてその保管の責に任ずる公務員に過失なしとした判断が理由不備とされた事例。",
+  "case_gist": "公務員が関税法違反等被疑事件について船舶を差し押え、その保管を公務員以外の者に依頼した場合において、その船舶が原審認定のような状況（原判決理由参照）のもとで沈没するに至つたとき、該船舶の保管に関し、当該公務員が右の者に対しいかなる指示監督をし、その者がいかなる措置を講じたかについてなんら具体的説明をすることなく、当該公務員に該船舶管理上の過失なしと判断することは、審理不尽、理由不備である。",
+  "ref_law": "国家賠償法1条，民訴法395条1項6号",
+  "lawsuit_id": "65769",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=65769",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/769/065769_hanrei.pdf"
+}

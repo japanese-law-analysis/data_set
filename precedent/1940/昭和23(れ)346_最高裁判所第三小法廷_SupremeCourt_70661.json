@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 6,
+    "day": 22
+  },
+  "case_number": "昭和23(れ)346",
+  "case_name": "強盗、窃盗",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第2号535頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 2,
+    "day": 2
+  },
+  "gist": "判決中の犯行の年次及び引用證據中の誤記と判決の違法",
+  "case_gist": "被告人の本件犯行の年次につき原判決には昭和二一年と記載されていることは所論のとおりであるが原判決が證據に引用しているＡに對する司法警察官の聽取書同人提出の被害品詳細書及びＢ外五名提出の盗難被害に關する屆書等の記載によつても又原審公判調書中の被告人の供述記載によつてもその年次が昭和二二年であることは明白であるから原判決の年次の記載は昭和二二年の誤記であると認められる又原判決が證據として利用した證據書類中にＣ、Ｄの各盗難被害顛末書とあるのはＥ、Ｄの各盗難被害顛末書の誤記であることは記録に編綴されている盗難被害顛末書の記載から明らかである、されば原判決には所論のような違法なく論旨は理由がない。",
+  "ref_law": "刑訴法71條",
+  "lawsuit_id": "70661",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70661",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/661/070661_hanrei.pdf"
+}

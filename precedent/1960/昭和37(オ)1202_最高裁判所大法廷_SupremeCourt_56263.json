@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 7,
+    "day": 14
+  },
+  "case_number": "昭和37(オ)1202",
+  "case_name": "配当表異議",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第19巻5号1263頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和37(ネ)407",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 7,
+    "day": 20
+  },
+  "gist": "第三者が金銭債権に基づき質権付電話加入権に対し強制執行をした場合と右質権者の地位。",
+  "case_gist": "第三者が金銭債権に基づき質権付電話加入権に対し強制執行をしてその換価手続を完了した場合には、右の質権は、当然消滅するとともに、右の質権者は、法律の定めるところにより、その売得金から当然優先弁済を受けることができるものと解するのが相当である。",
+  "ref_law": "民法362条，民訴法625条，民訴法628条1項，民訴法649条2項，電話加入権質に関する臨時特例法1条，電話加入権質に関する臨時特例法5条",
+  "lawsuit_id": "56263",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56263",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/263/056263_hanrei.pdf"
+}

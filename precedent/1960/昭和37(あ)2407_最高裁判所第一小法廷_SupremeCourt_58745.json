@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 11,
+    "day": 28
+  },
+  "case_number": "昭和37(あ)2407",
+  "case_name": "背任、補助金等に係る予算の執行の適正化に関する法律違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第149号133頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 9,
+    "day": 24
+  },
+  "lawsuit_id": "58745",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58745",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/745/058745_hanrei.pdf"
+}

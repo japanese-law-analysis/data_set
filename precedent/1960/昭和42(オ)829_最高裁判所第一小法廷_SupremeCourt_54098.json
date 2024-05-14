@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 3,
+    "day": 7
+  },
+  "case_number": "昭和42(オ)829",
+  "case_name": "貸金請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第22巻3号529頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和40(ネ)447",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 4,
+    "day": 17
+  },
+  "gist": "原告勝訴の第一審判決に対する控訴審で予備的請求が追加された場合において予備的請求を認容するときの主文の判示方法",
+  "case_gist": "原告勝訴の第一審判決に対する控訴審で予備的請求が追加された場合において、控訴審が予備的請求を認容するときは、予備的請求に対する結論が第一次請求に対する第一審判決の主文の文言と合致する場合であつても、控訴棄却の裁判をすべきではなく、第一審判決を取り消し、第一次請求を棄却したうえ、予備的請求を認容する旨の裁判をすべきである。",
+  "ref_law": "民訴法227条，民訴法232条，民訴法384条",
+  "lawsuit_id": "54098",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54098",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/098/054098_hanrei.pdf"
+}

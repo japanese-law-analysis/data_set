@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 12,
+    "day": 24
+  },
+  "case_number": "昭和40(オ)173",
+  "case_name": "報酬金請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第93号863頁",
+  "original_court_name": "高松高等裁判所",
+  "original_case_number": "昭和37(ネ)239",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 11,
+    "day": 30
+  },
+  "gist": "宅地建物取引業者の報酬について法定の最高額をもつて相当額と認めた原審の判断に審理不尽・理由不備の違法があるとされた事例",
+  "case_gist": "（省略）",
+  "ref_law": "宅地建物取引業法（昭和39年法律第166号による改正前のもの）17条，民法648条，商法550条",
+  "lawsuit_id": "70179",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70179",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/179/070179_hanrei.pdf"
+}

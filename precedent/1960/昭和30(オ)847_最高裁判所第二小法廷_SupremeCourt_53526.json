@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 5,
+    "day": 6
+  },
+  "case_number": "昭和30(オ)847",
+  "case_name": "過払金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第14巻7号1127頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 7,
+    "day": 15
+  },
+  "gist": "民法第七〇五条の適用がないと認められた事例。",
+  "case_gist": "家屋の賃料が地代家賃統制令による統制額を超えるものであることを知りながら、債務不履行による責を問われることあるべきをおそれ、賃借人が「後日超過部分については、返還請求をなすべき」旨を特に留保して、やむをえず約定賃料の支払をしたときは、民法第七〇五条の適用はないと解すべきである。",
+  "ref_law": "民法705条，地代家賃統制令3条",
+  "lawsuit_id": "53526",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53526",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/526/053526_hanrei.pdf"
+}

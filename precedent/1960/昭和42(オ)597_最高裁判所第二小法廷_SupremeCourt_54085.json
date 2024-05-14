@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 3,
+    "day": 1
+  },
+  "case_number": "昭和42(オ)597",
+  "case_name": "土地境界確認等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第22巻3号491頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和40(ネ)563",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 2,
+    "day": 27
+  },
+  "gist": "土地所有権の時効取得の要件として無過失でないとされた事例",
+  "case_gist": "相続人が、登記簿に基づいて実地に調査すれば、相続により取得した土地の範囲が甲地を含まないことを容易に知ることができたにもかかわらず、この調査をしなかつたために、甲地が相続した土地に含まれ、自己の所有に属すると信じて占有をはじめたときは、特段の事情のないかぎり、相続人は右占有のはじめにおいて無過失ではないと解するのが相当である。",
+  "ref_law": "民法162条",
+  "lawsuit_id": "54085",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54085",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/085/054085_hanrei.pdf"
+}

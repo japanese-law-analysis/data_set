@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 3,
+    "day": 16
+  },
+  "case_number": "昭和58(オ)1131",
+  "case_name": "養子縁組無効確認",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第141号373頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和57(ネ)1634",
+  "original_date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 5,
+    "day": 31
+  },
+  "gist": "人事訴訟事件の弁論期日において検察官が立会ないし意見陳述をしない場合における当該事件の訴訟手続の適否",
+  "case_gist": "人事訴訟事件について検察官が人事訴訟手続法五条一項、二六条に基づき弁論期日に立会い意見を陳述することは、その期日における事件の審理及び判決をするための手続的要件ではない。",
+  "ref_law": "人事訴訟手続法5条1項，人事訴訟手続法26条",
+  "lawsuit_id": "62293",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62293",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/293/062293_hanrei.pdf"
+}

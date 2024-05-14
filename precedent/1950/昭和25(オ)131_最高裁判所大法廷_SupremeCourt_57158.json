@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 12,
+    "day": 24
+  },
+  "case_number": "昭和25(オ)131",
+  "case_name": "不当処分取消並びに憲法擁護尊重義務履行等請求",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第6巻11号1214頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 4,
+    "day": 24
+  },
+  "gist": "一　憲法第三二条と被害者訴追主義\n二　検察官のした不起訴処分に対する民事訴訟ないし行政訴訟の適否",
+  "case_gist": "一　憲法第三二条は、被害者訴追主義または一般訴追主義を保障した規定ではない。\n二　検察官のした不起訴処分に対する民事訴訟ないし行政訴訟の提起は、わが国法上許されない。",
+  "ref_law": "憲法32条，刑訴法247条，行政事件訴訟特例法1条",
+  "lawsuit_id": "57158",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57158",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/158/057158_hanrei.pdf"
+}

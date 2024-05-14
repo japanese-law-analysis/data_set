@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 12,
+    "day": 3
+  },
+  "case_number": "昭和24(れ)1845",
+  "case_name": "強盗、建造物侵入",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第15号65頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 4,
+    "day": 11
+  },
+  "gist": "被害者の實驗した事實に基ずく推測事項を記載した始末書の證據力",
+  "case_gist": "Ａ提出の始末書の部分は原判示に明らかなように、その前段より續けてこれを讀めば、決して所論のように單なる想像の記載ではなく、同人の實驗した事實に基づく推測事項の記載であることは明瞭である。そしてかゝる事項と雖も有効に證據に採り得ることは、舊刑訴第二〇六條第一項の趣旨に徴しても明らかである。",
+  "ref_law": "刑訴法206條1項，刑訴法337條",
+  "lawsuit_id": "70746",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70746",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/746/070746_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 7,
+    "day": 19
+  },
+  "case_number": "昭和32(あ)897",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第119号1045頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 3,
+    "day": 14
+  },
+  "gist": "執行猶予の期間内に更に犯罪を犯したことを量刑上参酌することと一事不再理の原則",
+  "case_gist": "執行猶予の期間内に更に犯罪を犯したことを量刑上に参酌することは、恰かも素行の善悪を量刑上に参酌すると同様、犯情の一つとして参酌するものであつて、決して所論の如く、前に執行猶予を受けた犯罪に対し重ねて刑罰を科する趣旨のものではない。",
+  "ref_law": "憲法39条，刑法25条",
+  "lawsuit_id": "61093",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61093",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/093/061093_hanrei.pdf"
+}

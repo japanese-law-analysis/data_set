@@ -1,0 +1,21 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 5,
+    "day": 28
+  },
+  "case_number": "昭和57(せ)35",
+  "case_name": "兇器準備集合、公務執行妨害、傷害被告事件に対する訴訟費用負担の裁判の執行免除を求める申立",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第227号1175頁",
+  "original_court_name": "最高裁判所",
+  "gist": "弁護人であつた者からの訴訟費用負担の裁判の執行免除の申立が代理権欠缺を理由に棄却された事例",
+  "ref_law": "刑訴法500条",
+  "lawsuit_id": "60433",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60433",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/433/060433_hanrei.pdf"
+}

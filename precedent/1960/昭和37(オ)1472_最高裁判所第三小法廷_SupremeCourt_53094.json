@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 5,
+    "day": 27
+  },
+  "case_number": "昭和37(オ)1472",
+  "case_name": "待命処分無効確認、判定取消等請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第18巻4号711頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 10,
+    "day": 17
+  },
+  "gist": "違法な任用によつて生じた過員を整理するために行なわれた町吏員の待命処分が違法でないとされた事例。",
+  "case_gist": "町条例所定の定数をこえてなされた町吏員の任用が違法であるとしても、それが特定の町吏員の整理を目的としてことさら過員を生じさせるために行なわれたものでないと認めうる等原判示の事情（原判決理由参照）のもとにおいては、その任用の結果生じた過員を整理するための町吏員の待命処分は、違法でない。",
+  "ref_law": "地方自治法172条，地方公務員法17条，昭和29年法律192号地方公務員法の一部を改正する法律附則3項",
+  "lawsuit_id": "53094",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53094",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/094/053094_hanrei.pdf"
+}

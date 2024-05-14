@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 10,
+    "day": 15
+  },
+  "case_number": "昭和61(し)82",
+  "case_name": "窃盗、福岡県青少年保護育成条例違反保護事件についてした抗告棄却決定に対する再抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第244号53頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 9,
+    "day": 5
+  },
+  "gist": "再抗告事件につき青少年に対する淫行を処罰する福岡県青少年保護育成条例の規定が違憲無効であるとする意見が付された事例",
+  "ref_law": "憲法31条",
+  "lawsuit_id": "61876",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61876",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/876/061876_hanrei.pdf"
+}

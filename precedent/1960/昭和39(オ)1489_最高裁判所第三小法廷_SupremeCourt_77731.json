@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 5,
+    "day": 17
+  },
+  "case_number": "昭和39(オ)1489",
+  "case_name": "売掛代金請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第83号517頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和39(ネ)43",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 9,
+    "day": 28
+  },
+  "gist": "名板貸人を営業主と誤認するについて相手方に重大な過失があるとされた事例",
+  "case_gist": "Ｄ名義で手形を振出す等の行為があつた場合、相手方が該営業主をＢと誤信したのは重大な過失がある。",
+  "ref_law": "商法23条",
+  "lawsuit_id": "77731",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77731",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/731/077731_hanrei.pdf"
+}

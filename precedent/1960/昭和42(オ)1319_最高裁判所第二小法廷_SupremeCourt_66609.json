@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 4,
+    "day": 12
+  },
+  "case_number": "昭和42(オ)1319",
+  "case_name": "株主総会決議不存在確認等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第90号981頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和40(ネ)2377",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 8,
+    "day": 31
+  },
+  "gist": "株主総会決議不存在確認の訴において確認の利益がないとされた事例",
+  "case_gist": "取締役・監査役の選任決議を内容とする株主総会決議の不存在確認の訴は、右取締役・監査役が退任した後においては、現在の法律関係ではなく即時確定の利益を欠くものである。",
+  "ref_law": "民訴法第2編第1章，商法252条",
+  "lawsuit_id": "66609",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66609",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/609/066609_hanrei.pdf"
+}

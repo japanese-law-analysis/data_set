@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 9,
+    "day": 22
+  },
+  "case_number": "昭和39(オ)128",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第20巻7号1367頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和37(ネ)339",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 9,
+    "day": 27
+  },
+  "gist": "一　執行吏の行なう代替執行と国家賠償法第一条第一項\n二　確定判決に基づく強制執行を延期する義務の存否",
+  "case_gist": "一　執行吏が債権者の委任をうけ、いわゆ代替執行を行なつた場合には、その執行行為は国の公権力の行使に当る公務員の職務行為というべきである。\n二　執行吏は、立木収去を命じた確定判決の強制執行をするにあたり、該執行を移植適期まで延期する義務を負わない。",
+  "ref_law": "国家賠償法1条，民法414条2項，民訴法733条",
+  "lawsuit_id": "53896",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53896",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/896/053896_hanrei.pdf"
+}

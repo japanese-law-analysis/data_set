@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 10,
+    "day": 29
+  },
+  "case_number": "昭和54(あ)714",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第216号197頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 3,
+    "day": 6
+  },
+  "gist": "拷問、強制、不当に長い抑留・拘禁等を理由とする違憲（憲法三八条、三六条等違反）主張が欠前提とされた事例",
+  "ref_law": "憲法36条，憲法38条",
+  "lawsuit_id": "60364",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60364",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/364/060364_hanrei.pdf"
+}

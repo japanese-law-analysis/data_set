@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 10,
+    "day": 9
+  },
+  "case_number": "昭和59(オ)696",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第149号21頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和58(ネ)1152",
+  "original_date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 3,
+    "day": 27
+  },
+  "gist": "自動車損害賠償保障法一六条一項に基づく保険会社の被害者に対する損害賠償額支払債務の履行遅滞となる時期",
+  "case_gist": "自動車損害賠償保障法一六条一項に基づく保険会社の被害者に対する損害賠償額支払債務は、期限の定めのない債務であり、被害者から履行の請求を受けた時に履行遅滞となる。",
+  "ref_law": "自動車損害賠償保障法16条1項，民法412条3項",
+  "lawsuit_id": "62942",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62942",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/942/062942_hanrei.pdf"
+}

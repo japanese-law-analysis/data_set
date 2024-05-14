@@ -1,0 +1,18 @@
+{
+  "trial_type": "IPCase",
+  "date": {
+    "era": "Reiwa",
+    "year": 2,
+    "month": 12,
+    "day": 17
+  },
+  "case_number": "令和2(ワ)1330",
+  "case_name": "特許権侵害行為差止等請求事件",
+  "court_name": "東京地方裁判所",
+  "right_type": "特許権",
+  "lawsuit_type": "民事訴訟",
+  "lawsuit_id": "89982",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail7?id=89982",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/982/089982_hanrei.pdf",
+  "contents": ""
+}

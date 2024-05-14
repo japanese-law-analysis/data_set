@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 9,
+    "day": 26
+  },
+  "case_number": "昭和42(オ)790",
+  "case_name": "慰藉料請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第23巻9号1727頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和40(ネ)494",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 4,
+    "day": 12
+  },
+  "gist": "男性に妻のあることを知りながら情交関係を結んだ女性の慰籍料請求",
+  "case_gist": "女性が、男性に妻のあることを知りながら情交関係を結んだとしても、情交の動機が主として男性の詐言を信じたことに原因している場合で、男性側の情交関係を結んだ動機、詐言の内容程度およびその内容についての女性の認識等諸般の事情を斟酌し、女性側における動機に内在する不法の程度に比し、男性側における違法性が著しく大きいものと評価できるときには、貞操等の侵害を理由とする女性の男性に対する慰籍料請求は、許される。",
+  "ref_law": "民法709条，民法710条，民法708条",
+  "lawsuit_id": "54096",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54096",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/096/054096_hanrei.pdf"
+}

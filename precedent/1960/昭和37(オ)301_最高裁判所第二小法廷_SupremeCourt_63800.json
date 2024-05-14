@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 10,
+    "day": 12
+  },
+  "case_number": "昭和37(オ)301",
+  "case_name": "取立命令金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第62号887頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 11,
+    "day": 30
+  },
+  "gist": "上告審における訴訟引受申立の許否。",
+  "case_gist": "上告審において訴訟引受の申立は許されない。",
+  "ref_law": "民訴法74条",
+  "lawsuit_id": "63800",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63800",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/800/063800_hanrei.pdf"
+}

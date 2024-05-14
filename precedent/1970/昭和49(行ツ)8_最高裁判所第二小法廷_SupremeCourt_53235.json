@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 12,
+    "day": 8
+  },
+  "case_number": "昭和49(行ツ)8",
+  "case_name": "行政処分取消",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第32巻9号1617頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和47(行コ)95",
+  "original_date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 10,
+    "day": 24
+  },
+  "gist": "全国新幹線鉄道整備法九条に基づく運輸大臣の工事実施計画の認可と抗告訴訟の対象",
+  "case_gist": "全国新幹線鉄道整備法九条に基づく運輸大臣の工事実施計画の認可は、抗告訴訟の対象とならない。",
+  "ref_law": "全国新幹線鉄道整備法9条1項，行政事件訴訟法3条1項",
+  "lawsuit_id": "53235",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53235",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/235/053235_hanrei.pdf"
+}

@@ -1,0 +1,21 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 9,
+    "day": 14
+  },
+  "case_number": "平成19(ネ)342",
+  "case_name": "証書真否確認等請求控訴事件",
+  "court_name": "福岡高等裁判所第４民事部",
+  "result": "棄却",
+  "original_court_name": "熊本地方裁判所",
+  "original_case_number": "平成18(ワ)981",
+  "original_result": "却下",
+  "gist": "共同相続人の一人である相続人Ａが，他の相続人Ｂ（原審被告）に対してなした自己の相続分を譲渡する旨の私署証書について，その余の相続人Ｃら（原審原告ら）が，(1)Ａは本件証書作成当時，意思能力又は判断能力が欠如していたとして，本件証書の無効確認を求める訴えを提起し，また(2)相続人Ｂが，法定相続分を超えて相続持分権を有しないことの確認を求める訴えを提起したが，(1)については，本件相続分譲渡の効力に関する紛争が，本件証書の真否確認によって，直ちに解決するものとは考えられないから，訴えの利益を欠き，(2)についても，相続人Ｃらには即時確定の利益があるとはいえず，訴えの利益を欠くとして，原審の訴え却下判決に対する本件控訴を棄却した。",
+  "lawsuit_id": "35473",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=35473",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/473/035473_hanrei.pdf",
+  "contents": ""
+}

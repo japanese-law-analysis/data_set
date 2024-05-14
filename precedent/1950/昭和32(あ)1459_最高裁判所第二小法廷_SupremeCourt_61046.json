@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 9,
+    "day": 18
+  },
+  "case_number": "昭和32(あ)1459",
+  "case_name": "業務上横領",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第120号463頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 5,
+    "day": 16
+  },
+  "gist": "刑訴法第三三五条第二項にいう「法律上犯罪の成立を妨げる理由となる事実」の主張にあたらない一事例",
+  "case_gist": "被告人が判示保険会社の外務職員として集取した保険料の中から被告人において流用費消して差支えないものもあつたというがごとき事実は記録上どこからも認められない。所論のそのような弁解は証拠に基かざる事実の主張たるに過ぎない、従つて該主張を目して刑訴法第三三五条第二項にいう「法律上犯罪の成立を妨げる理由となる事実」の主張に該当するものとはいえない。",
+  "ref_law": "刑訴法335条2項",
+  "lawsuit_id": "61046",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61046",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/046/061046_hanrei.pdf"
+}

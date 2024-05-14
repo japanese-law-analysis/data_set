@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 9,
+    "day": 16
+  },
+  "case_number": "昭和40(あ)2014",
+  "case_name": "入札妨害、談合",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第20巻7号790頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 5,
+    "day": 28
+  },
+  "gist": "入札妨害罪の成立に必要な「公ノ入札」が行なわれたか否かの判断基準",
+  "case_gist": "入札妨害罪の成立に必要な「公ノ入札」が行なわれたというためには、権限のある機関によつて、適法に入札に付すべき旨の決定がなされたことが必要であり、かつそれをもつて足りる。",
+  "ref_law": "刑法96条ノ3",
+  "lawsuit_id": "51773",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51773",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/773/051773_hanrei.pdf"
+}

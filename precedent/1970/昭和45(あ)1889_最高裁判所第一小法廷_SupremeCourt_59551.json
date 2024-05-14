@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 6,
+    "day": 17
+  },
+  "case_number": "昭和45(あ)1889",
+  "case_name": "宅地建物取引業法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第180号697頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 8,
+    "day": 27
+  },
+  "lawsuit_id": "59551",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59551",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/551/059551_hanrei.pdf"
+}

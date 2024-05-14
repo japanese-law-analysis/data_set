@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 12,
+    "day": 26
+  },
+  "case_number": "昭和26(あ)269",
+  "case_name": "恐喝",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集刑　第71号885頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 10,
+    "day": 25
+  },
+  "gist": "審判に関与した判事の署名押印を欠く判決の違法と刑訴法第四一一条第一号",
+  "case_gist": "原判決の裁判書には、単にＡ裁判長及びＢ判事の両名のみが署名押印しており、右審判に関与したものと思われるＣ判事の署名押印はなく、またその署名押印いことについての裁判長の事由附記もないときは、刑訴規則五五条に違反したものであり、しかもかかる法令違反は、判決に影響を及ぼすべきものであることは勿論であり刑訴四一一条を適用するを相当とする。",
+  "ref_law": "刑訴法411条1号，刑訴規則55条",
+  "lawsuit_id": "64561",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64561",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/561/064561_hanrei.pdf"
+}

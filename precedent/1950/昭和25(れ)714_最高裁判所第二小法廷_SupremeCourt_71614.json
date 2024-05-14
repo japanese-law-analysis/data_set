@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 2,
+    "day": 2
+  },
+  "case_number": "昭和25(れ)714",
+  "case_name": "物価統制令違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第40号97頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 3,
+    "day": 9
+  },
+  "gist": "氷の販売価格の統制額に関する告示の廃止と刑の廃止",
+  "case_gist": "論旨は氷の販売価格の統制額は昭和二五年三月三一日物価庁告示第二四四号により同年四月五日から廃止されたから原判決後刑の廃止ありたる場合にあたると主張する。しかし告示の廃止が旧刑訴第三六三条の「犯罪後ノ法令ニ依リ刑ノ廃止アルタルトキ」に該当しないことは既に当裁判所の判例としているところである。（昭和二三年（れ）第八〇〇号、同二五年一〇月一一日大法廷判決参照）従つて論旨は理由がない。",
+  "ref_law": "旧刑訴法363条3号，昭和25年3月31日物価庁告示244号",
+  "lawsuit_id": "71614",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=71614",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/614/071614_hanrei.pdf"
+}

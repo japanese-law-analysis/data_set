@@ -1,0 +1,21 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 6,
+    "month": 10,
+    "day": 31
+  },
+  "case_number": "平成6(す)204",
+  "case_name": "道路交通法違反、公然わいせつ、公文書毀棄被告事件についてした跳躍上告申立て棄却決定に対する異議申立て",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第264号197頁",
+  "original_court_name": "最高裁判所",
+  "gist": "跳躍上申立て棄却決定に対する異議の申立てが電報による期間経過後のものとして不適法とされた事例",
+  "ref_law": "刑訴法414条，刑訴法385条1項，刑訴法385条2項",
+  "lawsuit_id": "58538",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58538",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/538/058538_hanrei.pdf"
+}

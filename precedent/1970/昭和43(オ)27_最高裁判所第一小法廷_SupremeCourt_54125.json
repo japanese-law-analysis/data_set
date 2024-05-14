@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 3,
+    "day": 26
+  },
+  "case_number": "昭和43(オ)27",
+  "case_name": "油絵代金返還請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第24巻3号151頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "昭和39(ネ)974",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 10,
+    "day": 12
+  },
+  "gist": "要素の錯誤による意思表示の無効を第三者が主張することが許される場合",
+  "case_gist": "第三者が表意者に対する債権を保全する必要がある場合において、表意者がその意思表示の要素に関し錯誤のあることを認めているときは、表意者みずからは該意思表示の無効を主張する意思がなくても、右第三者は、右意思表示の無効を主張して、その結果生ずる表意者の債権を代位行使することが許される。",
+  "ref_law": "民法95条，民法423条",
+  "lawsuit_id": "54125",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54125",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/125/054125_hanrei.pdf"
+}

@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 2,
+    "month": 12,
+    "day": 20
+  },
+  "case_number": "平成2(し)142",
+  "case_name": "強姦被疑事件について地方裁判所がした勾留期間延長の裁判に対する準抗告棄却決定に対する特別抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第256号497頁",
+  "original_court_name": "大阪地方裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 2,
+    "month": 12,
+    "day": 8
+  },
+  "gist": "起訴前の勾留に関する特別抗告と起訴後におけるその利益",
+  "ref_law": "刑訴法433条",
+  "lawsuit_id": "57919",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57919",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/919/057919_hanrei.pdf"
+}

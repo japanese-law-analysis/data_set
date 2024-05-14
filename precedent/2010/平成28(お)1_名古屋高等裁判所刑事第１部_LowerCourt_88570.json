@@ -1,0 +1,16 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 31,
+    "month": 1,
+    "day": 25
+  },
+  "case_number": "平成28(お)1",
+  "case_name": "再審請求事件",
+  "court_name": "名古屋高等裁判所刑事第１部",
+  "result": "棄却",
+  "lawsuit_id": "88570",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=88570",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/570/088570_hanrei.pdf"
+}

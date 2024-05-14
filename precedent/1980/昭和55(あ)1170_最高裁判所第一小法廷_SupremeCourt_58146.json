@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 2,
+    "day": 19
+  },
+  "case_number": "昭和55(あ)1170",
+  "case_name": "業務上過失致死傷",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集刑　第221号91頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 6,
+    "day": 26
+  },
+  "gist": "業務上過失致死傷事件の過失の成否ないし程度に関し、審理不尽、重大な事実誤認の疑いがあるとして破棄された事例",
+  "ref_law": "刑法211条前，刑訴法411条1号，刑訴法411条3号",
+  "lawsuit_id": "58146",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58146",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/146/058146_hanrei.pdf"
+}

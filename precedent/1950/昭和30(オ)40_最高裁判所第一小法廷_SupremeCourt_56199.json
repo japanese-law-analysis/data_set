@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 9,
+    "day": 29
+  },
+  "case_number": "昭和30(オ)40",
+  "case_name": "貸金請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第9巻10号1484頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 9,
+    "day": 13
+  },
+  "gist": "雇用契約と附属的商行為",
+  "case_gist": "商人が雇主として締結する雇傭契約は、その営業のためにするものと推定すべきである。",
+  "ref_law": "商法503條",
+  "lawsuit_id": "56199",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56199",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/199/056199_hanrei.pdf"
+}

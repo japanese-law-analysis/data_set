@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 12,
+    "day": 22
+  },
+  "case_number": "昭和36(オ)117",
+  "case_name": "利得金償還請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第15巻12号3066頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 10,
+    "day": 17
+  },
+  "gist": "原因債権の存在と利得償還請求権の成否。",
+  "case_gist": "約束手形が売買代金支払のために振り出されたものであるときは、手形債務が時効により消滅しても、なお売買代金債務が存する以上、利得償還請求は許されない。",
+  "ref_law": "手形法85条",
+  "lawsuit_id": "53046",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53046",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/046/053046_hanrei.pdf"
+}

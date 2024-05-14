@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 7,
+    "day": 18
+  },
+  "case_number": "昭和48(あ)2868",
+  "case_name": "兇器準備集合",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第193号173頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 11,
+    "day": 13
+  },
+  "gist": "原審判に司法行政の介入ありとする所論が理由がない旨付記された事例",
+  "lawsuit_id": "59918",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59918",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/918/059918_hanrei.pdf"
+}

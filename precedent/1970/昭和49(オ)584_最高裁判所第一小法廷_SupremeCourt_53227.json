@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 51,
+    "month": 4,
+    "day": 8
+  },
+  "case_number": "昭和49(オ)584",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第30巻3号183頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_case_number": "昭和48(ネ)111",
+  "original_date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 4,
+    "day": 15
+  },
+  "gist": "喪失した白地手形について除権判決を得た者と手形の再発行請求権",
+  "case_gist": "白地手形を喪失した者は、右手形について除権判決を得た場合でも、手形債務者に対し喪失手形と同一の内容の手形の再発行を請求する権利を有しない。",
+  "ref_law": "手形法10条，民訴法785条",
+  "lawsuit_id": "53227",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53227",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/227/053227_hanrei.pdf"
+}

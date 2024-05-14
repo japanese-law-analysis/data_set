@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 9,
+    "day": 26
+  },
+  "case_number": "昭和33(あ)1462",
+  "case_name": "業務上過失傷害、業務上過失往来危険",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第15巻8号1511頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 5,
+    "day": 30
+  },
+  "gist": "因果関係が存在すると認められる事例。",
+  "case_gist": "被告人甲（門司駅門司操車場下り運転室の運転係）が、下り旅客列車の通貨する前に第三信号機と線路との状況に注意する義務を怠つた過失と被告人乙（同駅甲て子取扱所の信号係）が右下り旅客列車が通過する前に下り貨物列車を通過せしめるために反位に開通した転てつ器を、通過後速かに正位に復さなければならない義務を怠つた過失とが一因をなして、右旅客列車を東小倉駅下り貨物二番線に停車中の右貨物列車の後部車輛に追突させ、その衝撃により人を傷害する事故が発生した以上、たとえ右事故が自動閉塞進行機の受け持つ機能区間外で発生したとしても、被告人らの右過失と事故との間に因果関係が存在する。",
+  "ref_law": "刑法211条，刑法129条",
+  "lawsuit_id": "50591",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50591",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/591/050591_hanrei.pdf"
+}

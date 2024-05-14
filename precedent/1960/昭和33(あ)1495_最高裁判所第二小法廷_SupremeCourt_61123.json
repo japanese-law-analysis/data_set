@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 7,
+    "day": 31
+  },
+  "case_number": "昭和33(あ)1495",
+  "case_name": "公衆浴場法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第138号899頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 6,
+    "day": 17
+  },
+  "gist": "旅館営業者につき公衆浴場法第二条第一項、第八条第一号の罪の成立する事例。",
+  "case_gist": "許可を受けて適法に旅館営業を営む者であつても、公衆浴場法第二条第一項による都道府県知事の許可を受けないで、旅館附属の入浴施設を直接入浴のみを目的とする不特定多数の一般人に利用させ、業として公衆浴場を経営したと認められるときは、同法第二条第一項、第八条第一号所定の罪が成立すると解すべきである。",
+  "ref_law": "公衆浴場法2条1項，公衆浴場法8条1号",
+  "lawsuit_id": "61123",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61123",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/123/061123_hanrei.pdf"
+}

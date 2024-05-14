@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 9,
+    "day": 29
+  },
+  "case_number": "昭和24(れ)960",
+  "case_name": "強盗、窃盗",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第3巻10号1620頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 1,
+    "day": 26
+  },
+  "gist": "少年法第五二條が裁判時における少年に對して適用の有無",
+  "case_gist": "少年法第五二條は、裁判時における少年に對しその適用あるものであることその前條の規定と對比することにより明白である。",
+  "ref_law": "少年法52條，少年法53條",
+  "lawsuit_id": "55509",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55509",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/509/055509_hanrei.pdf"
+}

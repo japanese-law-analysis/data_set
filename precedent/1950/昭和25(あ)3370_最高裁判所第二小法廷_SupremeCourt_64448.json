@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 12,
+    "day": 26
+  },
+  "case_number": "昭和25(あ)3370",
+  "case_name": "強盜",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第71号871頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 11,
+    "day": 14
+  },
+  "gist": "裁判所外における証人尋問手続に違法がある判決と憲法第三七条第二項及び刑訴法第四一一条。",
+  "case_gist": "証人を検証現場において尋問するに際し刑事訴訟法一五八条二項、刑事訴訟規則一〇八条一項所定の尋問事項の告知をした形跡が記録上認められない違法があるが、右証拠調の決定は、当事者の意見を聴いて公判延でなされた上、右各証人の尋問においてはいづれも被告人並びに被告人の弁護人が立会い何等異議を述べず殊に弁護人は右各証人に対し尋問している場合には、右法令違反は、単なる訴訟手続の違法に過ぎず、これを以て憲法三七条に違反するとの論旨の当らないことは勿論であるのみならず、刑訴四一一条にも当らない。",
+  "ref_law": "憲法37条2項，刑訴法158条2項，刑訴法411条，刑訴規則108条1項",
+  "lawsuit_id": "64448",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64448",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/448/064448_hanrei.pdf"
+}

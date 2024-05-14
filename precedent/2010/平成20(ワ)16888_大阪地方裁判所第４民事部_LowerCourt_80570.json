@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 22,
+    "month": 7,
+    "day": 14
+  },
+  "case_number": "平成20(ワ)16888",
+  "case_name": "報酬金請求事件",
+  "court_name": "大阪地方裁判所第４民事部",
+  "gist": "株主代表訴訟において一部勝訴した原告に対する商法（平成１７年法律第８７号による改正前のもの）２６８条の２第１項に基づく弁護士報酬相当額として会社に対し８０００万円及びこれに対する遅延損害金の支払が命じられた事例",
+  "lawsuit_id": "80570",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=80570",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/570/080570_hanrei.pdf",
+  "contents": ""
+}

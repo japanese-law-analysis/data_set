@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 4,
+    "day": 12
+  },
+  "case_number": "平成14(ワ)662",
+  "case_name": "損害賠償請求本訴事件、貸金請求反訴事件",
+  "court_name": "岐阜地方裁判所民事第１部",
+  "result": "その他",
+  "gist": "１　本訴原告が本訴被告に対しコンビニエンスストアのフランチャイズ契約を締結するに際し，不法行為があったなどとして損害賠償を求めた事例\n２　反訴原告が反訴被告に対しコンビニエンスストアのフランチャイズ契約の終了に伴い，上記契約上の反訴被告に対する貸付金（反訴被告と反訴原告との間の継続的計算関係（オープンアカウント）における借方残高）の返還を求めた事例",
+  "lawsuit_id": "35482",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=35482",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/482/035482_hanrei.pdf",
+  "contents": ""
+}

@@ -1,0 +1,16 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Reiwa",
+    "year": 3,
+    "month": 12,
+    "day": 9
+  },
+  "case_number": "令和2(行コ)241",
+  "case_name": "納付告知処分取消請求控訴事件",
+  "court_name": "東京高等裁判所",
+  "field": "行政",
+  "lawsuit_id": "92286",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=92286",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/286/092286_hanrei.pdf"
+}

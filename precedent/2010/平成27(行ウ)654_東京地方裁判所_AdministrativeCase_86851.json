@@ -1,0 +1,18 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Heisei",
+    "year": 28,
+    "month": 11,
+    "day": 30
+  },
+  "case_number": "平成27(行ウ)654",
+  "case_name": "不動産取得税賦課処分取消請求事件",
+  "court_name": "東京地方裁判所",
+  "field": "行政",
+  "gist": "１　地方税法７３条の７第２号の３にいう「共有物の分割」の意義\n２　地方税法７３条の７第２号の３にいう「分割前の当該共有物に係る持分の割合」の意義",
+  "case_gist": "１　地方税法７３条の７第２号の３にいう「共有物の分割」には，共有物である一個の不動産を現物分割する場合のみならず，共有物である複数の不動産を一括して分割の対象とし，現物分割，代金分割及び価格賠償の各種方法を適宜織り交ぜて行われる共有物の分割も含まれる。\n２　地方税法７３条の７第２号の３にいう「分割前の当該共有物に係る持分の割合」とは，分割前の全ての分割対象共有物を通じた持分価格の割合を指す。",
+  "lawsuit_id": "86851",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=86851",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/851/086851_hanrei.pdf"
+}

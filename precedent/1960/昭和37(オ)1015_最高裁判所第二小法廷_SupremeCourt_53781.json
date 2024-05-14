@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 12,
+    "day": 27
+  },
+  "case_number": "昭和37(オ)1015",
+  "case_name": "所得金額更正決定取消請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第17巻12号1871頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 5,
+    "day": 26
+  },
+  "gist": "理由附記の不備のため青色申告の更正が違法とされた事例。",
+  "case_gist": "青色申告の更正の理由として「売上計上洩一九〇、五〇〇円」と記載しただけでは、理由附記として不備であつて、更正は違法である。",
+  "ref_law": "法人税法（昭和37年4月法律67号による改正前）32条",
+  "lawsuit_id": "53781",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53781",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/781/053781_hanrei.pdf"
+}

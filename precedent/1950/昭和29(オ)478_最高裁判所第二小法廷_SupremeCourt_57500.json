@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 5,
+    "day": 25
+  },
+  "case_number": "昭和29(オ)478",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第10巻5号554頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 4,
+    "day": 28
+  },
+  "gist": "未登記不動産の譲渡後仮処分決定に基く嘱託により譲渡人のためになされた保存登記の効力",
+  "case_gist": "未登記不動産の譲渡後仮処分決定に基く裁判所の嘱託により譲渡人のためになされた保存登記も、一般の保存登記と同一の効力を有する。",
+  "ref_law": "民法177条，民訴法756条，民訴法748条，民訴法751条，民訴法651条，不動産登記法25条",
+  "lawsuit_id": "57500",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57500",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/500/057500_hanrei.pdf"
+}

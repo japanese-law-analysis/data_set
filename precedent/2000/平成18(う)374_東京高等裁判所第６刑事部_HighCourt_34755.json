@@ -1,0 +1,21 @@
+{
+  "trial_type": "HighCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 18,
+    "month": 6,
+    "day": 13
+  },
+  "case_number": "平成18(う)374",
+  "case_name": "有印私文書偽造，同行使，詐欺被告事件",
+  "court_name": "東京高等裁判所第６刑事部",
+  "result": "棄却",
+  "article_info": "第59巻2号1頁",
+  "original_court_name": "東京地方裁判所",
+  "gist": "刑訴法３２１条３項又は４項の各書面につき作成の真正が立証されたものとして扱うことが許される場合",
+  "case_gist": "刑訴法３２１条３項又は４項の各書面につき，書面の体裁等から作成名義人がその書面を作成したと認めることを疑わせる事情がなく，しかも相手方当事者が作成の真正を争わず，その点に関する反対尋問権を行使しない旨の意思を明示した場合には，作成の真正が立証されたものとして扱うことが許される。",
+  "lawsuit_id": "34755",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail3?id=34755",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/755/034755_hanrei.pdf",
+  "contents": "A B\nB\nB\nB\nB\nB\nB\nB\nB\n"
+}

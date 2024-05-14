@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 1,
+    "day": 21
+  },
+  "case_number": "昭和54(オ)1244",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第36巻1号71頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和53(ネ)708",
+  "original_date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 8,
+    "day": 28
+  },
+  "gist": "面積を表示して売買された土地が表示どおりの面積を有しない場合と売主の買主に対する履行利益の賠償義務の有無",
+  "case_gist": "土地の売買契約において、土地の面積が表示された場合でも、その表示が代金額決定の基礎としてされたにとどまり契約の目的を達成するうえで特段の意味を有するものでないときは、売主は、当該土地が表示どおりの面積を有したとすれば買主が得たであろう利益について、その損害を賠償すべき責めを負わない。",
+  "ref_law": "民法563条3項，民法565条",
+  "lawsuit_id": "54242",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54242",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/242/054242_hanrei.pdf"
+}

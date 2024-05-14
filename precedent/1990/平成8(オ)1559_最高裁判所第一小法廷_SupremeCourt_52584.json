@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 10,
+    "month": 10,
+    "day": 22
+  },
+  "case_number": "平成8(オ)1559",
+  "case_name": "駐車場専用使用権分譲代金返還",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第52巻7号1555頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "平成6(ネ)106",
+  "original_date": {
+    "era": "Heisei",
+    "year": 8,
+    "month": 4,
+    "day": 25
+  },
+  "gist": "マンション駐車場の専用使用権分譲の対価が分譲業者に帰属すべきものとされた事例",
+  "case_gist": "マンション分譲業者が、マンションの分譲に伴い、区分所有者の共有となるべきマンション敷地の一部に駐車場を設け、マンション購入者のうち駐車場の使用を希望する者に対して右駐車場の専用使用権を分譲し、その対価を受領した場合において、分譲業者が営利の目的に基づき自己の利益のために専用使用権を分譲したものであり、専用使用権の分譲を受けた区分所有者もこれと同様の認識を有していたなど判示の事情の下においては、分譲業者が区分所有者全員の委任に基づきその受任者として専用使用権の分譲を行った等と解することはできず、右対価は、専用使用権分譲契約における合意の内容に従って分譲業者に帰属すべきものである。",
+  "ref_law": "建物の区分所有等に関する法律第1章第2節共用部分等",
+  "lawsuit_id": "52584",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52584",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/584/052584_hanrei.pdf"
+}

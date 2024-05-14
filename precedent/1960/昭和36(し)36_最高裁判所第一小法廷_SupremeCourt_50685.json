@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 8,
+    "day": 28
+  },
+  "case_number": "昭和36(し)36",
+  "case_name": "裁判の執行に関する異議申立却下決定に対する即時抗告の棄却決定に対する特別抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第15巻7号1301頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 7,
+    "day": 31
+  },
+  "gist": "一　検察官が執行指揮その他の処分をする以前になされた裁判の執行に関する異議申立の適否。\n二　裁判の執行に関する異議申立の理由。",
+  "case_gist": "一　検察官が裁判の執行指揮その他の処分をする以前になされた裁判の執行に関する異議の申立は不適法である。\n二　裁判の執行に関する異議において、裁判の内容そのものの不当を主張し、あるいは現行刑罰制度ないし行刑制度を非難することは許されない。",
+  "ref_law": "刑訴法502条",
+  "lawsuit_id": "50685",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50685",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/685/050685_hanrei.pdf"
+}

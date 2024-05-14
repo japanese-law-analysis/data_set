@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 5,
+    "month": 1,
+    "day": 25
+  },
+  "case_number": "平成1(オ)548",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第47巻1号310頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和62(ネ)3829",
+  "original_date": {
+    "era": "Heisei",
+    "year": 1,
+    "month": 1,
+    "day": 24
+  },
+  "gist": "逮捕状の更新が繰り返されている時点における捜査機関又は令状発付裁判官の判断の違法を理由とする国家賠償請求の許否",
+  "case_gist": "逮捕状の更新が繰り返されている時点で、逮捕状の請求、発付における捜査機関又は令状発付裁判官の被疑者が罪を犯したことを疑うに足りる相当な理由があったとする判断の違法を主張して、国家賠償を請求することは許されない。",
+  "ref_law": "国家賠償法1条1項，刑訴法199条",
+  "lawsuit_id": "55845",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55845",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/845/055845_hanrei.pdf"
+}

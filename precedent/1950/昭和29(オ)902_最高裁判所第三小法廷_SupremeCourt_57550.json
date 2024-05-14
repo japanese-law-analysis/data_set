@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 12,
+    "day": 24
+  },
+  "case_number": "昭和29(オ)902",
+  "case_name": "前渡金代金返還並びに損害賠償請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第11巻14号2322頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 8,
+    "day": 2
+  },
+  "gist": "一　合意解除の場合と原状回復義務の存否\n二　原告（買主）が法定解除を主張し民法第五四五条により前渡代金の返還を請求している事案において法定解除が認められず合意解除が認められた場合と右請求の当否",
+  "case_gist": "一　合意解除の場合は、民法第五四五条による原状回復義務は生じない。\n二　原告（買主）が、被告（売主）の債務不履行を理由として売買契約の法定解除を主張し、民法第五四五条により、前渡代金の返還を請求している事案において、右法定解除が認められなかつた場合は、たとえ原告の否認する合意解除の事実が認められても、当該訴訟においては、原告の右前渡代金返還の請求は排斥を免れない。",
+  "ref_law": "民法545条，民法703条，民訴法186条",
+  "lawsuit_id": "57550",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57550",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/550/057550_hanrei.pdf"
+}

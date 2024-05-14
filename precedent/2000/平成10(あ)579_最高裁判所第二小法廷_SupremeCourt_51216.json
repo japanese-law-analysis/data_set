@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 12,
+    "month": 12,
+    "day": 20
+  },
+  "case_number": "平成10(あ)579",
+  "case_name": "業務上失火、業務上過失致死傷被告事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第54巻9号1095頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成8(う)190",
+  "original_date": {
+    "era": "Heisei",
+    "year": 10,
+    "month": 3,
+    "day": 25
+  },
+  "gist": "鉄道トンネル内における電力ケーブルの接続工事を施工した業者につきトンネル内での火災発生の予見可能性が認められた事例",
+  "case_gist": "鉄道トンネル内における電力ケーブル接続工事に際し、施工資格を有してその工事に当たった者が、ケーブルに特別高圧電流が流れる場合に発生する誘起電流を接地するための接地銅板を接続器に取り付けることを怠ったため、誘起電流が大地に流されずに、接続器本体の半導電層部に流れて炭化導電路を形成し、長期間にわたり同部分に集中して流れ続けたことにより、火災が発生したという事実関係の下においては、右の者は、炭化導電路の形成という経過を具体的に予見することができなかったとしても、火災発生を予見することができたものというべきである。",
+  "ref_law": "刑法117条の2，刑法211条",
+  "lawsuit_id": "51216",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51216",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/216/051216_hanrei.pdf"
+}

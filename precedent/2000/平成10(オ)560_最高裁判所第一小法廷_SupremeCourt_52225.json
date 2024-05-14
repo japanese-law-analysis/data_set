@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 12,
+    "month": 3,
+    "day": 9
+  },
+  "case_number": "平成10(オ)560",
+  "case_name": "配当異議事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第54巻3号1013頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成9(ネ)2280",
+  "original_date": {
+    "era": "Heisei",
+    "year": 9,
+    "month": 11,
+    "day": 20
+  },
+  "gist": "一　離婚に伴う財産分与として金銭の給付をする旨の合意が詐害行為に該当する場合の取消しの範囲\n二　離婚に伴う慰謝料を支払う旨の合意と詐害行為取消権",
+  "case_gist": "一　離婚に伴う財産分与として金銭の給付をする旨の合意は、民法七六八条三項の規定の趣旨に反してその額が不相当に過大であり、財産分与に仮託してされた財産処分であると認めるに足りるような特段の事情があるときは、不相当に過大な部分について、その限度において詐害行為として取り消されるべきである。\n二　離婚に伴う慰謝料として配偶者の一方が負担すべき損害賠償債務の額を超えた金額を支払う旨の合意は、右損害賠償債務の額を超えた部分について、詐害行為取消権行使の対象となる。",
+  "ref_law": "民法424条，民法710条，民法763条，768条",
+  "lawsuit_id": "52225",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52225",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/225/052225_hanrei.pdf"
+}

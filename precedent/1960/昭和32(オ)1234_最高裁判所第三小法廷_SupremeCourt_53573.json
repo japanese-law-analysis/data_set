@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 2,
+    "day": 23
+  },
+  "case_number": "昭和32(オ)1234",
+  "case_name": "所得金額更正の取消請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第14巻2号265頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 10,
+    "day": 18
+  },
+  "gist": "税務署長がした所得金額更正の減額訂正は所得税法（昭和二四年法律第七六号による改正前）第四六条第四項の更正か。",
+  "case_gist": "税務署長がした所得金額の更正の減額訂正は、所得税法（昭和二四年法律第七六号による改正前）第四六条第四項の更正ではない。",
+  "ref_law": "所得税法（昭和24年法律76号による改正前）46条4項",
+  "lawsuit_id": "53573",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53573",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/573/053573_hanrei.pdf"
+}

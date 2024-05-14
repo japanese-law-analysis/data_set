@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 5,
+    "day": 1
+  },
+  "case_number": "昭和53(行ツ)27等",
+  "case_name": "審決取消請求、同附帯",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第34巻3号431頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和48(行ケ)147",
+  "original_date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 10,
+    "day": 19
+  },
+  "gist": "訂正審判において一部の訂正を許す審決をすることの可否",
+  "case_gist": "願書に添付した明細書又は図面の記載を複数箇所にわたつて訂正することを求める訂正審判の請求において、右訂正が実用新案登録請求の範囲に実質的影響を及ぼすものである場合には、複数の訂正箇所の全部につき一体として訂正を許すか許さないかの審決をしなければならず、たとえ客観的には複数の訂正箇所のうちの一部が他の部分と技術的にみて一体不可分の関係になく、かつ、右の一部の訂正を許すことが請求人にとつて実益のあるときであつても、その箇所についてのみ訂正を許す審決をすることはできない。",
+  "ref_law": "実用新案法39条",
+  "lawsuit_id": "53344",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53344",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/344/053344_hanrei.pdf"
+}

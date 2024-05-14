@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 7,
+    "day": 21
+  },
+  "case_number": "昭和34(オ)396",
+  "case_name": "吏員罷免無効確認請求等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第14巻10号1811頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 1,
+    "day": 26
+  },
+  "gist": "一　町村合併による新町の発足により旧町村の正式議員であつた者が新たに新町の職員として任命された場合と条件附任用に関する地方公務員法第二二条の適用の有無\n二　地方公務員法第二八条第一項第一号、第三号に該当するかどうかの判断と同法第八条第八項の法律問題",
+  "case_gist": "一　町村合併による新町の発足により旧町村の正式職員であつた者が新たに新町の職員として任命されたような場合には、条件附任用に関する地方公務員法第二二条の適用はない。\n二　地方公務員法第二八条第一項第一号、第三号に該当するかどうかの判断は、任命権者の純然たる自由裁量に任された事項ではなく、同条の趣旨にそう一定の客観的標準に照らして決せられるべきものであり、同法第八条の第八項にいう法律問題にあたる。",
+  "ref_law": "地方公務員法22条，地方公務員法8条8項，地方公務員法28条1項",
+  "lawsuit_id": "53676",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53676",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/676/053676_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 3,
+    "day": 6
+  },
+  "case_number": "昭和40(ク)328",
+  "case_name": "家屋明渡上告受理事件についてした上告却下の決定に対する抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集民　第86号449頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和10(ネオ)92",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 6,
+    "day": 23
+  },
+  "gist": "民訴法第四一九条ノ二、裁判所法第七条第二号の規定の合憲性",
+  "case_gist": "民訴法第四一九条ノ二、裁判所法第七条第二号の規定は、憲法第三二条に違反しない。",
+  "ref_law": "憲法32条，裁判所法7条，民訴法419条ノ2",
+  "lawsuit_id": "66495",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66495",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/495/066495_hanrei.pdf"
+}

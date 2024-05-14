@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 6,
+    "day": 4
+  },
+  "case_number": "昭和39(オ)306",
+  "case_name": "建物収去土地明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第79号335頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和35(ネ)260",
+  "original_date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 12,
+    "day": 9
+  },
+  "gist": "賃借地上の建物が第三者の所有に帰したときは賃借権は当然消滅する旨の特約に基づき当該建物の敷地部分のみの賃借権の消滅が認められた事例。",
+  "case_gist": "土地賃貸借契約の当事者間において、賃借地上の建物が第三者の所有に帰したときは賃借権は当然に消滅する旨の特約がなされた場合であつても、賃借人が第三者に譲渡した建物の敷地部分が借地全体からみて少部分であり、しかも、元来その余の部分とは別々の時期に別々に賃借され、従来から明確に区分されて使用されている等原判示の事情（原判決理由参照）があるときは、右建物の敷地部分についてのみ賃借権が消滅したものと解するのが相当である。",
+  "ref_law": "民法612条",
+  "lawsuit_id": "74451",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74451",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/451/074451_hanrei.pdf"
+}

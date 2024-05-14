@@ -1,0 +1,24 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 6,
+    "day": 29
+  },
+  "case_number": "昭和28(あ)68",
+  "case_name": "横領",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第83号603頁",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 11,
+    "day": 18
+  },
+  "lawsuit_id": "69465",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=69465",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/465/069465_hanrei.pdf"
+}

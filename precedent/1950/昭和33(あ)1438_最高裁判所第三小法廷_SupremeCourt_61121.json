@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 4,
+    "day": 28
+  },
+  "case_number": "昭和33(あ)1438",
+  "case_name": "強盗殺人",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第129号557頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 6,
+    "day": 24
+  },
+  "gist": "刑訴法四〇五号の上告理由に当らなら事例。―「日本国憲法は無効であり、これに基礎をおく最高裁判所も適法なものとはいえない」との主張―",
+  "case_gist": "所論は、日本国憲法は旧憲法七三条に従い適法に改正されたものではないから無効であり、これに基礎をおく最高裁判所も適法なものとはいえないというが、右は原判決そのものの違憲違法を主張するものでなく、刑訴四〇五条の上告理由に当らない。",
+  "ref_law": "憲法76条1項，旧憲法73条，刑訴法405条",
+  "lawsuit_id": "61121",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61121",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/121/061121_hanrei.pdf"
+}

@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 6,
+    "day": 14
+  },
+  "case_number": "昭和32(オ)543",
+  "case_name": "土地家屋所有権確認等請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第42号275頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 3,
+    "day": 20
+  },
+  "lawsuit_id": "65488",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=65488",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/488/065488_hanrei.pdf"
+}

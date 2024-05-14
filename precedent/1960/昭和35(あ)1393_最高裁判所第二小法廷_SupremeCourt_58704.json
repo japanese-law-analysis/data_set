@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 6,
+    "day": 5
+  },
+  "case_number": "昭和35(あ)1393",
+  "case_name": "公務執行妨害、傷害",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第143号9頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 5,
+    "day": 16
+  },
+  "gist": "収税官吏の公務執行行為にあたるとした事例。",
+  "case_gist": "国税滞納処分としての山林の差押は登記を嘱託してするものであることは所論のとおりであれけれども、その差押前に収税官吏が滞納者に対して任意に、差押物件所在の場所に赴きその物件の指示を求める等任意協力を求めることもまた収税官吏として職務上許された行為と目すべきであること原判示のとおりであるから、本件収税官吏の公務執行行為を以つて所論のように違法の行為とすることはできない。",
+  "ref_law": "刑法95条1項",
+  "lawsuit_id": "58704",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58704",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/704/058704_hanrei.pdf"
+}

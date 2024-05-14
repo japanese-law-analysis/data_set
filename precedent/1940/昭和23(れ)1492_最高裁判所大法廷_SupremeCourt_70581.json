@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 5,
+    "day": 4
+  },
+  "case_number": "昭和23(れ)1492",
+  "case_name": "外国人登録令違反",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第10号7頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 9,
+    "day": 10
+  },
+  "gist": "外國人登録令第一一條にいわゆる朝鮮人と日本國籍との關係",
+  "case_gist": "外國人登録令第一一條には「朝鮮人はこの勅令の適用については當分の間外國人とみなす」と規定されているから、同令による犯罪を構成するためには、朝鮮人であればよいのであつて、朝鮮人である以上日本の國籍を有すると否とは問うところではないのである。従つて原判決が被告人等を孰れも「日本の國籍を有しない」と表示した點は判決に影響のない無用のことを判示したに過ぎないものである。",
+  "ref_law": "外國人登録令11條，舊刑訴法360條1項",
+  "lawsuit_id": "70581",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70581",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/581/070581_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 4,
+    "day": 24
+  },
+  "case_number": "昭和53(オ)149",
+  "case_name": "約束手形金",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第123号603頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "昭和52(ネ)41",
+  "original_date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 11,
+    "day": 21
+  },
+  "gist": "手形面上印刷された指図文句を抹消することなく指図禁止文句が併記された場合と裏書禁止手形",
+  "case_gist": "手形の振出人が、手形用紙に印刷された指図文句を抹消することなく、指図禁止文句を記載したため、手形面上指図文句と指図禁止文句が併記されている場合には、他に特段の事情のない限り、右手形は裏書禁止手形にあたる。",
+  "ref_law": "手形法11条2項，手形法77条1項",
+  "lawsuit_id": "64252",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64252",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/252/064252_hanrei.pdf"
+}

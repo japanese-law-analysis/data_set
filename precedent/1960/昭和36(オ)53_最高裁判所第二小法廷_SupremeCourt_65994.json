@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 1,
+    "day": 25
+  },
+  "case_number": "昭和36(オ)53",
+  "case_name": "建物収去、土地明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第64号217頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 10,
+    "day": 19
+  },
+  "gist": "裁判上の和解の無効。",
+  "case_gist": "裁判上の和解は、確定判決と異り、一面私法上の契約たる性質をも有し、私法上の無効原因があるときは、初めから無効である。",
+  "ref_law": "民訴法203条",
+  "lawsuit_id": "65994",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=65994",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/994/065994_hanrei.pdf"
+}

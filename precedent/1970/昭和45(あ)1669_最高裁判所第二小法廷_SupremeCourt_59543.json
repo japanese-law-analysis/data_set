@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 2,
+    "day": 1
+  },
+  "case_number": "昭和45(あ)1669",
+  "case_name": "道路交通法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第179号31頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 7,
+    "day": 23
+  },
+  "lawsuit_id": "59543",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59543",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/543/059543_hanrei.pdf"
+}

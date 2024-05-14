@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 14,
+    "month": 10,
+    "day": 21
+  },
+  "case_number": "平成13(あ)1277",
+  "case_name": "住居侵入，窃盗，有印私文書偽造，同行使，詐欺，建造物侵入被告事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第56巻8号670頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "平成13(う)152",
+  "original_date": {
+    "era": "Heisei",
+    "year": 13,
+    "month": 6,
+    "day": 25
+  },
+  "gist": "他人に成り済まして預金口座を開設し銀行窓口係員から預金通帳の交付を受ける行為と刑法２４６条１項の詐欺罪の成否",
+  "case_gist": "他人に成り済まして預金口座を開設し，銀行窓口係員から預金通帳の交付を受ける行為は，刑法２４６条１項の詐欺罪に当たる。",
+  "ref_law": "刑法246条1項",
+  "lawsuit_id": "50025",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50025",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/025/050025_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 6,
+    "day": 11
+  },
+  "case_number": "昭和23(れ)2088",
+  "case_name": "傷害、恐喝未遂",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第11号211頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 9,
+    "day": 7
+  },
+  "gist": "事實審理中に證據調をなすことの可否",
+  "case_gist": "證據調は、被告人に對する訊問終了後一括して之を爲す必要はなく、審理中、随時之を爲すことを得るものである。そこで、原審において所論診斷書に對する證據調の有無を檢するに、審理の途中である昭和二三年七月一日第二回公判期日において、裁判長は所論の診斷書を被告人等に對し讀み聞かせ、證據調をしていることは明らかである。",
+  "ref_law": "舊刑訴法338條1項，舊刑訴廢340條",
+  "lawsuit_id": "70646",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70646",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/646/070646_hanrei.pdf"
+}

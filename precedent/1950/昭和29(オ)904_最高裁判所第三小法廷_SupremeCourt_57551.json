@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 12,
+    "day": 6
+  },
+  "case_number": "昭和29(オ)904",
+  "case_name": "裁決取消請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第9巻13号1960頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 7,
+    "day": 21
+  },
+  "gist": "異議申立期間経過後宥怒事由がないにかかわらず異議・訴願が受理され、棄却の裁決がなされた場合と右裁決の取消を求める法律上の利益の有無",
+  "case_gist": "行政処分に対する異議の申立が、申立期間経過後約三年一〇ケ月を経てなされ、しかもとくにこれを受理すべき宥怒事由も存しない場合には、異議決定庁が申立を受理し棄却の決定をし、これに対する訴願を訴願庁が受理し棄却の裁決をしたとしても、原処分はすでに確定しているもとの解すべきであるから、右裁決の取消を求める法律上の利益は存しない。",
+  "ref_law": "自作農創設特別措置法7条，行政事件訴訟特例法2条，行政事件訴訟特例法5条",
+  "lawsuit_id": "57551",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57551",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/551/057551_hanrei.pdf"
+}

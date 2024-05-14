@@ -1,0 +1,15 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Heisei",
+    "year": 31,
+    "month": 3,
+    "day": 19
+  },
+  "case_number": "平成30(行コ)303",
+  "case_name": "相続税更正処分等取消請求控訴事件",
+  "court_name": "東京高等裁判所",
+  "lawsuit_id": "90127",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=90127",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/127/090127_hanrei.pdf"
+}

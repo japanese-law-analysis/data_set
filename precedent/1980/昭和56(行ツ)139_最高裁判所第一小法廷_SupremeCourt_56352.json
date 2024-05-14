@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 10,
+    "day": 27
+  },
+  "case_number": "昭和56(行ツ)139",
+  "case_name": "所得税更正処分等取消",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第37巻8号1196頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和53(行コ)11",
+  "original_date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 4,
+    "day": 20
+  },
+  "gist": "国税通則法六八条一項による重加算税の賦課決定に対する審査請求において同項所定の加重事由のみが認められない場合と右賦課決定の取消の範囲",
+  "case_gist": "国税通則法六八条一項による重加算税の賦課決定に対する審査請求において、同項所定の加重事由は認められないが、同法六五条所定の過少申告加算税の賦課要件の存在が認められる場合には、国税不服審判所長は、右賦課決定のうち過少申告加算税額に相当する額を超える部分のみを取り消すことができる。",
+  "ref_law": "国税通則法65条，国税通則法68条1項，国税通則法98条2項",
+  "lawsuit_id": "56352",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56352",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/352/056352_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 2,
+    "day": 10
+  },
+  "case_number": "昭和22(れ)120",
+  "case_name": "金融緊急措置令違反",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第2巻2号64頁",
+  "original_court_name": "鳥取地方裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 8,
+    "day": 19
+  },
+  "gist": "一　法人格なき組合に對する金融緊急措置令の適用\n二　形式上一應適法に見える數個の金融操作のからくりによる金融緊急措置令第一條違反罪の成立",
+  "case_gist": "一　數箇の町村農業曾を組合員とし、社會經濟上獨立した製鹽事業主體たる地位を有するＡ組合は、法人格がなくても、金融緊急措置令による金融統制の對象となる。\n二　縣農業曾郡支部の金融課長が、郡内の數個の町村農業曾を組合員とするＢ組合に封鎖支拂の方法で交付される国庫補助金をその支拂通知書がたまたま金融機關宛であるのを利用して現金化し、これを同支部扱いの村農業曾の當座預金として振込み、更に同支部において右Ａ組合の當座預金にこれを振替えたときは、金融緊急措置令第一條の違反となる。",
+  "ref_law": "金融緊急措置令1條，金融緊急措置令2條，金融緊急措置令3條",
+  "lawsuit_id": "56386",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56386",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/386/056386_hanrei.pdf"
+}

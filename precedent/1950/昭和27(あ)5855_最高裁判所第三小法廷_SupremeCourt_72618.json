@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 3,
+    "day": 30
+  },
+  "case_number": "昭和27(あ)5855",
+  "case_name": "背任",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第93号1007頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 9,
+    "day": 19
+  },
+  "gist": "背任罪成立の一事例  ―大審院令と相反する判断をしたことにあたらない場合―",
+  "case_gist": "論旨援用の判例（大審院大正三年十〇月一六日刑録二〇輯一八六七頁）は、「本人に損害を加えたる場合においても」「若しその目的にして本人の利益を図るに在りとすれば」背任罪は成立しないというのである。しかるに原判決は、被告人の「所論保障はその主要な目的が直接本人たるＡ銀行のためでなくして（Ａ銀行の利益をも無視したものではないとしても）同被告人自己の責任である不当貸付の免責を図るがため」であつたという事実を認めて、これを有罪としたのであるから、前記判例に反するところは少しもない。",
+  "ref_law": "刑法247条，刑訴法405条3号，刑訴法408条",
+  "lawsuit_id": "72618",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=72618",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/618/072618_hanrei.pdf"
+}

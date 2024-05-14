@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 6,
+    "day": 24
+  },
+  "case_number": "昭和58(あ)555",
+  "case_name": "有線電気通信法違反、偽計業務妨害",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第40巻4号292頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 3,
+    "day": 31
+  },
+  "gist": "マジツクホンと称する電気機器を電話回線に取り付けた行為につき違法性が否定されないとした事例",
+  "case_gist": "マジツクホンと称する電気機器を加入電話の回線に取り付けた行為は、たとえ同機器を取り付けた者がただ一回通話を試みただけでこれを取り外した等の事情があつたとしても、違法性が否定されるものではない。",
+  "ref_law": "刑法35条，刑法233条，有線電気通信法21条（昭和59年法律87号による改正前のもの）",
+  "lawsuit_id": "50295",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50295",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/295/050295_hanrei.pdf"
+}

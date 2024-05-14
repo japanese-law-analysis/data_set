@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 4,
+    "day": 8
+  },
+  "case_number": "昭和46(オ)27",
+  "case_name": "転付債権請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第102号423頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和44(ネ)2940",
+  "original_date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 10,
+    "day": 29
+  },
+  "gist": "債権仮差押についての民訴法七四九条三項の適用と仮差押の効力の発生時期",
+  "case_gist": "債権の仮差押にも民訴法七四九条三項の規定の適用があり、右規定に基づき、仮差押命令を債務者に送達する前にその執行としてこれを第三債務者に送達した場合においても、仮差押の効力は、第三債務者に対する送達の時に生ずる。",
+  "ref_law": "民訴法749条5項，民訴法748条，民訴法598条5項",
+  "lawsuit_id": "64066",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=64066",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/066/064066_hanrei.pdf"
+}

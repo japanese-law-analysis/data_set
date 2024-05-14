@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 3,
+    "day": 30
+  },
+  "case_number": "昭和24(れ)3060",
+  "case_name": "物価統制令違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第16号985頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 11,
+    "day": 8
+  },
+  "gist": "物價統制令第九條の二にいわゆる不當高價額を決定する標準",
+  "case_gist": "物價統制令第九條の二にいわゆる不當に高價なる額なりや否やは取引當時事實上一般世間に行われているいわゆる闇價格によるものではなく、同種又は類似の物資に對する法令告示等による統制價格をも參酌した社會經濟秩序維持の適正價格を標準とすべきものと解すべきである。",
+  "ref_law": "物價統制令9條の2",
+  "lawsuit_id": "74962",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74962",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/962/074962_hanrei.pdf"
+}

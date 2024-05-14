@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 12,
+    "day": 23
+  },
+  "case_number": "昭和28(あ)882",
+  "case_name": "麻薬取締法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第8巻13号2288頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 12,
+    "day": 26
+  },
+  "gist": "一　占領軍軍事裁判所の裁判と憲法第三九条並びに刑訴第三三七条第一号\n二　刑法第五条但書に基く刑の執行の軽減又は免除とその手続並びに形式",
+  "case_gist": "一　すでに占領軍軍事裁判所の裁判を経た事実について、重てねわが裁判所で処罰しても、憲法第三九条に違反しない。また、右軍事裁判が確定しても、刑訴第三三七条第一号の確定判決を経たときとはいえない。\n二　刑法第五条但書に基く刑の執行の軽減又は免除は、裁判所が、刑の言渡と同時に主文においてなすべきものと解するのが相当である。",
+  "ref_law": "憲法39条，刑訴法337条1号，刑訴法334条，刑法5条",
+  "lawsuit_id": "56894",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56894",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/894/056894_hanrei.pdf"
+}

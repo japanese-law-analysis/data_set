@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 7,
+    "day": 28
+  },
+  "case_number": "昭和44(オ)204",
+  "case_name": "雇傭関係存続確認請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第24巻7号頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和42(ネ)1622",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 11,
+    "day": 29
+  },
+  "gist": "夜半他人の居宅に故なく入り込み住居侵入罪として処罰されたことが懲戒解雇事由にあたらないとされた事例",
+  "case_gist": "会社が、企業運営の刷新を図るため従業員に対し職場諸規則の厳守、信賞必罰の趣旨を強調していた時期に、従業員が、午後一一時二〇分頃他人の居宅に故なく入り込み、住居侵入罪として処罰されたとしても、右行為が会社の業務等に関係のない私生活の範囲内で行なわれたものであり、その受けた刑罰は罰金二五〇〇円の程度にとどまり、会社における職務上の地位も単なる工員であるにすぎなかつた等原判示の事情（原判決理由参照）のもとにおいては、右行為は、「不正不義の行為を犯し、会社の体面を著しく汚した」という右会社の就業規則に定める懲戒解雇事由にはあたらない。",
+  "ref_law": "労働基準法89条",
+  "lawsuit_id": "54158",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54158",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/158/054158_hanrei.pdf"
+}

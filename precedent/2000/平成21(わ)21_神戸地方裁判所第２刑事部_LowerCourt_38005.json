@@ -1,0 +1,16 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 4,
+    "day": 22
+  },
+  "case_number": "平成21(わ)21",
+  "case_name": "",
+  "court_name": "神戸地方裁判所第２刑事部",
+  "lawsuit_id": "38005",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=38005",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/005/038005_hanrei.pdf",
+  "contents": "A B\nC\nD\nC\na b c d\nD\nC\nC\nC\nA\nD\nA\nD\nA\nA C\nC\nC\nD\nD\nE\nF\nE\nD\nC A\n"
+}

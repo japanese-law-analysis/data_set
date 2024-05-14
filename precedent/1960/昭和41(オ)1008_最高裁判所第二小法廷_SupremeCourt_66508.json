@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 12,
+    "day": 23
+  },
+  "case_number": "昭和41(オ)1008",
+  "case_name": "所有権確認請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第85号879頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和39(ネ)2052",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 6,
+    "day": 21
+  },
+  "gist": "訴の交換的変更と旧訴の取下",
+  "case_gist": "第二審において、訴の交換的変更が行われた場合において、相手方が右変更に異議ない旨を述べ、新請求に対し請求棄却を求める旨申し立てたときには、第一審における旧訴については、相手方の暗黙の同意のもとに訴の取下がなされたものと解するのが相当である（昭和四一年一月二一日第二小法廷判決、民集二〇巻一号九四頁参照）。",
+  "ref_law": "民訴法236条",
+  "lawsuit_id": "66508",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66508",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/508/066508_hanrei.pdf"
+}

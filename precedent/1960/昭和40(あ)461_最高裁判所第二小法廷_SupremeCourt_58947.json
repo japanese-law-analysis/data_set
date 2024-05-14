@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 4,
+    "day": 8
+  },
+  "case_number": "昭和40(あ)461",
+  "case_name": "経済関係罰則ノ整備ニ関スル法律違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第159号37頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 12,
+    "day": 10
+  },
+  "gist": "いわゆる必要的共犯の関係にある被告人らの事件が各別に同一裁判所に係属したのに対し併合審理の請求があつた場合と弁論併合の要否",
+  "case_gist": "いわゆる必要的共犯の関係にある被告人らの事件が、各別に同一裁判所に係属している場合に、併合審理の請求があつても、必ずしも弁論を併合しなければならないものではなく、これを併合するかどうかは、右請求を受けた裁判所の裁量事項に属し、極端な裁量権濫用の場合を除いては、違法の問題を生ずる余地はない。",
+  "ref_law": "刑法60条，刑訴法313条",
+  "lawsuit_id": "58947",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58947",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/947/058947_hanrei.pdf"
+}

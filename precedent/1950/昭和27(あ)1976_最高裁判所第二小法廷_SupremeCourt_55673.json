@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 10,
+    "day": 19
+  },
+  "case_number": "昭和27(あ)1976",
+  "case_name": "偽証教唆",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第7巻10号1945頁",
+  "original_court_name": "広島高等裁判所\n        　岡山支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 1,
+    "day": 31
+  },
+  "gist": "一　被告人の黙祕権と偽証教唆罪の成否\n二　刑法第一〇四条の証憑の偽造には証人の偽証を包含するか\n三　証人の証言拒絶権と偽証罪の成否",
+  "case_gist": "一　被告人自体に黙祕権があるからといつて、他人に虚偽の陳述をするように教唆したときは、偽証教唆罪が成立する。\n二　刑法第一〇四条にいわゆる証憑の偽造とは、証拠自体の偽造を指称し、証人の偽証を包含しないと解すべきである。\n三　証人が刑訴第一四六条の証言拒否権を有したとしても、宣誓の上虚偽の陳述をしたときは偽証罪が成立する。",
+  "ref_law": "刑法61条1項，刑法169条，刑法104条，刑訴法311条1項，刑訴法146条，刑訴法154条，刑訴法155条1項",
+  "lawsuit_id": "55673",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55673",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/673/055673_hanrei.pdf"
+}

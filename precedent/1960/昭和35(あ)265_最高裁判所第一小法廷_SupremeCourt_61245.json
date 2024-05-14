@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 6,
+    "day": 16
+  },
+  "case_number": "昭和35(あ)265",
+  "case_name": "詐欺",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第134号87頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 12,
+    "day": 14
+  },
+  "gist": "一　適法な上告理由にあたらない事例\n二　包括一罪と認められる事例",
+  "case_gist": "一　包括一罪として法令を適用したのに対し、右は併合罪であるとして判例違反を主張することは、自己に不利益な主張であつて適法な上告理由にあたらない。\n二　被害者の子女を真実一流歌手として世に出しうる社会的地位背景なくその見込もないのに、その旨欺罔して金員を騙取しようと企て、種々術策を弄してその旨誤信させ、因つて右運動費等の名目で昭和三三年九月三〇日被害者の別宅で二万円、同年一〇月六日頃同本宅で一〇万円、同月一〇日頃同所で二万円、同月一三日頃同所で三万五千円、同月二四日頃同所で壱万円の各交付を受けてこれを騙取所為は、包括一罪を構成する。",
+  "ref_law": "刑法45条，刑法246条1項，刑訴法402条，刑訴法405条2号",
+  "lawsuit_id": "61245",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61245",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/245/061245_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 2,
+    "day": 26
+  },
+  "case_number": "昭和27(あ)4017",
+  "case_name": "外国人登録令違反、外国為替及び外国貿易管理法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第8巻2号194頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 6,
+    "day": 26
+  },
+  "gist": "一　外国人登録令の平和条約発効後における効力\n二　外国人登録法附則第二項および第三項の合憲性",
+  "case_gist": "一　昭和二〇年勅令第五四二号に基いて発せられた外国人登録令は、平和条約が発効したというだけで、直ちに無効となるものではない。\n二　平和条約発効の日から施行された外国人登録法が、その附則第二項及び第三項において、いわゆるポツダム勅令たる外国人登録令を廃止すると共に、廃止前にした行為の罰則の適用については、なお従前の例によるものとしたことは違憲でない。",
+  "ref_law": "ポツダム宣言の受諾に伴い発する命令に関する件の廃止に関する法律（昭和27年法律第81号）1項，ポツダム宣言の受諾に伴い発する命令に関する件の廃止に関する法律（昭和27年法律第81号）2項，外国人登録法附則1項，外国人登録法附則2項，外国人登録法附則3項",
+  "lawsuit_id": "55692",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55692",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/692/055692_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 2,
+    "day": 19
+  },
+  "case_number": "昭和26(あ)268",
+  "case_name": "脅迫、地方税法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第7巻2号242頁",
+  "original_court_name": "高松高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 9,
+    "day": 30
+  },
+  "gist": "一　被告人または弁護人の表示が記名である場合の弁護人選任届の効力\n二　旧地方税法第一二六条ノ二と控訴条件としての告発",
+  "case_gist": "一　弁護人選任届の被告人または弁護人の表示が記名であつても、右弁護人が異議なく公判に立ち会つて弁論し被告人にも異議がなかつた場合には、該弁護人選任届は無効ではない。\n二　地方税法違反について告発を訴訟条件とした旧地方税法一二六条ノ二は、昭和二四年法律一六九号による改正規定で、同法附則により、その前の行為である本件には適用がない。",
+  "ref_law": "刑訴規則18条，旧地方税法126条の2（昭和24年法律165号による改正），旧地方税法附則4項，憲法39条",
+  "lawsuit_id": "54604",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54604",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/604/054604_hanrei.pdf"
+}

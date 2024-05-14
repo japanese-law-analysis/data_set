@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 14,
+    "month": 9,
+    "day": 9
+  },
+  "case_number": "平成11(あ)928",
+  "case_name": "公職選挙法違反被告事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第282号5頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 11,
+    "month": 4,
+    "day": 28
+  },
+  "gist": "公職選挙法（平成６年法律第２号による改正前のもの）１３８条１項，１４２条１項，２項，１４６条１項の合憲性",
+  "ref_law": "憲法14条1項，憲法15条，憲法21条，憲法31条，憲法39条，憲法98条2項，公職選挙法（平成6年法律第2号による改正前のもの）138条1項，公職選挙法（平成6年法律第2号による改正前のもの）142条1項，公職選挙法（平成6年法律第2号による改正前のもの）142条2項，公職選挙法（平成6年法律第2号による改正前のもの）146条1項，公職選挙法（平成6年法律第2号による改正前のもの）255条の3，市民的及び政治的権利に関する国際規約19条，市民的及び政治的権利に関する国際規約25条",
+  "lawsuit_id": "57807",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57807",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/807/057807_hanrei.pdf"
+}

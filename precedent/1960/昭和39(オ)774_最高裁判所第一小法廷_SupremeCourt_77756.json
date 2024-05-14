@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 2,
+    "day": 18
+  },
+  "case_number": "昭和39(オ)774",
+  "case_name": "貸金等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第77号405頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和38(ネ)2275",
+  "original_date": {
+    "era": "Showa",
+    "year": 39,
+    "month": 3,
+    "day": 10
+  },
+  "gist": "基本たる口頭弁論に関与しない裁判官が判決に関与しているものとして民訴法第三九五条第一項第一号により破棄された事例。",
+  "case_gist": "（省略）",
+  "lawsuit_id": "77756",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77756",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/756/077756_hanrei.pdf"
+}

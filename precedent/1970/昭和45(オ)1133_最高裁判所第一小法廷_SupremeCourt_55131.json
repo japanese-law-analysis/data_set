@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 11,
+    "day": 21
+  },
+  "case_number": "昭和45(オ)1133",
+  "case_name": "所有権移転登記等および反訴請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第28巻8号1654頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和42(ネ)1442",
+  "original_date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 9,
+    "day": 16
+  },
+  "gist": "破産管財人が破産者宛の破産債権譲渡の通知書の配達を受けて開披した場合と右譲渡の対抗力",
+  "case_gist": "破産債権である指名債権の譲渡を破産管財人に対抗するには、譲渡人がこれを破産管財人に通知し、又は破産管財人がこれを承諾することを要し、破産者宛の通知が破産管財人に配達され、破産管財人がこれを開披したとしても、破産管財人に対する通知があつたとはいえない。",
+  "ref_law": "民法467条1項，破産法190条1項，破産法190条2項",
+  "lawsuit_id": "55131",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55131",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/131/055131_hanrei.pdf"
+}

@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 2,
+    "day": 1
+  },
+  "case_number": "平成20(く)46",
+  "case_name": "",
+  "court_name": "東京高等裁判所第8刑事部",
+  "result": "棄却",
+  "lawsuit_id": "38648",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=38648",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/648/038648_hanrei.pdf",
+  "contents": ""
+}

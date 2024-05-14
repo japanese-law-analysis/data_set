@@ -1,0 +1,16 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 30,
+    "month": 3,
+    "day": 1
+  },
+  "case_number": "平成25(ワ)9354",
+  "case_name": "損害賠償請求事件",
+  "court_name": "大阪地方裁判所第２２民事部",
+  "gist": "飲食店の店長が過重な労働に従事したことによりうつ病を発症して自殺したことを認め，同店を経営する会社や役員の損害賠償責任を肯定した事例",
+  "lawsuit_id": "87589",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=87589",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/589/087589_hanrei.pdf"
+}

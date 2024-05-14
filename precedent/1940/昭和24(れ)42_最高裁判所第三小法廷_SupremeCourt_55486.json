@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 5,
+    "day": 31
+  },
+  "case_number": "昭和24(れ)42",
+  "case_name": "強盗、強盗幇助",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第3巻6号890頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 7,
+    "day": 19
+  },
+  "gist": "公判手續更新の意義と更新前の手續の瑕疵",
+  "case_gist": "元來、公判手續の更新とは、公判の審理を最初から遣り直すことであつて、前回の公判の續行ではない。判決の基本となるのは、前回の公判の審理ではなく、更新後の公判の審理なのである。從つて更新前の公判手續に所論のような瑕疵があつたとしても、それは舊刑訴法第四一〇條第一〇號若しくは第一一號の場合に該當するものではない。されば、所論の違法は原判決に影響を及ぼさないことが明白である。",
+  "ref_law": "舊刑訴法354條，舊刑訴法410條10號，舊刑訴法410條11號，舊刑訴法411條",
+  "lawsuit_id": "55486",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55486",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/486/055486_hanrei.pdf"
+}

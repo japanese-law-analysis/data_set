@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 4,
+    "day": 24
+  },
+  "case_number": "昭和55(オ)1133",
+  "case_name": "養子縁組無効確認",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第132号603頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_case_number": "昭和54(ネ)368",
+  "original_date": {
+    "era": "Showa",
+    "year": 55,
+    "month": 9,
+    "day": 29
+  },
+  "gist": "夫婦の一方に縁組意思のない夫婦共同養子縁組につきその他方と縁組の相手方との間に単独でも養親子関係を成立させることが民法七九五条本文の趣旨にもとるものではないと認められる特段の事情がないとされた事例",
+  "case_gist": "甲乙夫婦の乙に縁組意思がない夫婦共同の養子縁組につき、甲が永年乙と同居しながら突如別居して単身で縁組の相手方と同居したため乙の家庭と縁組の相手方との間に紛争を生じ、また、縁組により甲乙間の子らの相続分が減少することが乙の意思に反し、かつ、乙の家庭内の円満を害する可能性を多分に含んでいる等、原判示の事実関係のもとにおいては、いまだ甲と相手方との間においてのみ縁組を有効とすることを妨げない特段の事情があるとはいえない。",
+  "ref_law": "民法795条",
+  "lawsuit_id": "74549",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74549",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/549/074549_hanrei.pdf"
+}

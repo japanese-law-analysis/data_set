@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 3,
+    "day": 3
+  },
+  "case_number": "昭和23(れ)1564",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第8号41頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 9,
+    "day": 13
+  },
+  "gist": "證人申請の却下と審理不盡の有無",
+  "case_gist": "どの程度に證人調をするかは事實審たる原裁判所の裁量權に屬するところであるから、辯護人が右兩名を證人として申請したにもかかわらず原審が右申請を却下して證人調をしないで被告人を處斷したからといつて原判決には毛頭審理不盡の違法がない。",
+  "ref_law": "舊刑訴法344條1項",
+  "lawsuit_id": "74685",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74685",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/685/074685_hanrei.pdf"
+}

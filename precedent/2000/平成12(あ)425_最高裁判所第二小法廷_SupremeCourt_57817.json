@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 16,
+    "month": 10,
+    "day": 13
+  },
+  "case_number": "平成12(あ)425",
+  "case_name": "殺人，窃盗被告事件",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第286号357頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 12,
+    "month": 2,
+    "day": 28
+  },
+  "gist": "死刑の量刑が維持された事例（前刑事件の被害女性に対する逆恨み殺人事件）",
+  "lawsuit_id": "57817",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57817",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/817/057817_hanrei.pdf"
+}

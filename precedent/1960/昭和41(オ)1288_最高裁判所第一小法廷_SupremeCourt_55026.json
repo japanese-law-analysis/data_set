@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 7,
+    "day": 20
+  },
+  "case_number": "昭和41(オ)1288",
+  "case_name": "本登記承諾請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第21巻6号1583頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和40(ネ)1766",
+  "original_date": {
+    "era": "Showa",
+    "year": 41,
+    "month": 8,
+    "day": 30
+  },
+  "gist": "民法第一一〇条にいう「正当ノ理由」がないとされた事例",
+  "case_gist": "会社に対する代物弁済予約完結の意思表示を受領した者が、会社印および代表者印を所持しており、会社の債務の弁済あるいは会社所有の不動産に関する登記手続に関与するなど原判決認定のような事情（原判決理由参照）が存在していたとしても、相手方において、右会社がすでに倒産し、代表者が行方不明であることを知つていながら、右受領者に対し代理権の有無についてたしかめるなどの措置に出なかつた場合は、同人に右意思表示を受領する代理権があると信ずべき正当の理由があるとはいえない。",
+  "ref_law": "民法110条",
+  "lawsuit_id": "55026",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55026",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/026/055026_hanrei.pdf"
+}

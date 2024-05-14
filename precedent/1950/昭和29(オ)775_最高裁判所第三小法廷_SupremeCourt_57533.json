@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 2,
+    "day": 7
+  },
+  "case_number": "昭和29(オ)775",
+  "case_name": "土地境界確定請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第10巻2号38頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 8,
+    "day": 6
+  },
+  "gist": "境界確定の訴の当事者が相隣地の所有者であることが争のない場合において事実上相隣地の所有者でない者を当事者としてなされた判決の適否",
+  "case_gist": "境界確定の訴において、当事者が相隣地の所有者であることについて争がない以上、たとえ被告が口頭弁論終結前その所有地を他に譲渡しその所有権移転登記を了したとしても、裁判所が当事者についての要件に欠けるところなしとして判決しても違法でない。",
+  "ref_law": "民訴法45条",
+  "lawsuit_id": "57533",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57533",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/533/057533_hanrei.pdf"
+}

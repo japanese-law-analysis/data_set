@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 3,
+    "day": 19
+  },
+  "case_number": "昭和27(オ)252",
+  "case_name": "約束手形金請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第8巻3号711頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 3,
+    "day": 13
+  },
+  "gist": "手形の呈示があつたと同一の効力を生じたものと認められる一場合。",
+  "case_gist": "甲が約束手形の所持人であつて真の債権者であることを振出人乙が知つている場合に、甲が満期当日支払場所において乙から内金の支払を受け、手形金残額については見返りとして訴外人振出の手形を受け取つた事実がある以上、右手形については当事者間に手形の呈示があつたと同一の効力を生じたものと認めるのが相当である。",
+  "ref_law": "商法517条，手形法77条，手形法38条",
+  "lawsuit_id": "56110",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56110",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/110/056110_hanrei.pdf"
+}

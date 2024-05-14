@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 4,
+    "day": 19
+  },
+  "case_number": "昭和36(あ)2517",
+  "case_name": "自転車競技法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第16巻4号421頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 9,
+    "day": 5
+  },
+  "gist": "自転車競技法第一八条は憲法第三六条に違反するか",
+  "case_gist": "自転車競技法第一八条は、憲法第三六条に違反しない。",
+  "ref_law": "自転車競技法18条，憲法36条",
+  "lawsuit_id": "51734",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51734",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/734/051734_hanrei.pdf"
+}

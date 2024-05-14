@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 1,
+    "day": 30
+  },
+  "case_number": "平成20(ワ)15",
+  "case_name": "損害賠償請求事件",
+  "court_name": "さいたま地方裁判所第５民事部",
+  "gist": "家屋の直近の占有者が自殺した競売物件につき，現況調査を担当した執行官が自殺の事実を調査しなかったことや，執行裁判所が自殺の事実の調査を指示しなかったことに，過失があるとはいえないとした事案。",
+  "lawsuit_id": "37301",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=37301",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/301/037301_hanrei.pdf",
+  "contents": "1 1\n2 2\n"
+}

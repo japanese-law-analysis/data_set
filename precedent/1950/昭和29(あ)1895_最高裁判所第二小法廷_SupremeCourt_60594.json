@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 12,
+    "day": 28
+  },
+  "case_number": "昭和29(あ)1895",
+  "case_name": "傷害、脅迫、銃砲刀剣類等所持取締令違反等",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第116号581頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 3,
+    "day": 30
+  },
+  "gist": "銃砲刀剣類等所持取締令第一五条（昭和三〇年法律五一号による改正前の規定）にいう七首の携帯にあたらない一事例",
+  "case_gist": "刃渡一五糎未満の七首を所持することは許されている場合、それを居宅内で所持する者が、その居宅内でこれを擬して他人を脅迫したからといつて、銃砲刀剣類等所持取締令第一五条（昭和三〇年法律第五一号による改正前の規定）にいう七首の携帯の所為にあたらないものと解するのが相当である。",
+  "ref_law": "銃砲刀剣類等所持取締令（昭和30年法律51号による改正前のもの）2条，銃砲刀剣類等所持取締令（昭和30年法律51号による改正前のもの）15条",
+  "lawsuit_id": "60594",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=60594",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/594/060594_hanrei.pdf"
+}

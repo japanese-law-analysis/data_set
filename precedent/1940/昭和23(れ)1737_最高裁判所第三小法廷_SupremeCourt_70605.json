@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 4,
+    "day": 19
+  },
+  "case_number": "昭和23(れ)1737",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第9号291頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 10,
+    "day": 14
+  },
+  "gist": "昭和二二年法律第一二四號施行後の行爲に廢止前の刑法第五五條を適用せず同第四五條前段を適用した判決の正否",
+  "case_gist": "昭和二二年法律第一二四號施行前の行爲についてはなお廢止前の刑法第五五條が適用されるが右法律施行後の行爲については、同條は適用されないことは右法律附則第四項により明かである。そして原判決の認定した事實によれば被告人の本件行爲は何れも右法律施行後の昭和二三年一月八日に行はれたことが明白であるから、廢止前の刑法第五五條は適用されないものである。從つて原判決が認定した事實に對し刑法第四五條前段の併合罪として所斷したことは正當であつて何等違法はない。",
+  "ref_law": "刑法45條，昭和22年法律124號",
+  "lawsuit_id": "70605",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70605",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/605/070605_hanrei.pdf"
+}

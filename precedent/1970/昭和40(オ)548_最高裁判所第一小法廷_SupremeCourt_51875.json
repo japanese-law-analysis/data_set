@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 12,
+    "day": 16
+  },
+  "case_number": "昭和40(オ)548",
+  "case_name": "損害賠償等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第25巻9号1472頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_case_number": "昭和38(ネ)72",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 2,
+    "day": 5
+  },
+  "gist": "硫黄鉱石売買契約の買主に引取義務が認められた事例",
+  "case_gist": "硫黄鉱区の採掘権を有する甲が鉱石を採掘して乙に売り渡す硫黄鉱石売買契約において、甲は、乙に対し、右契約の存続期間を通じて採掘する鉱石の全量を売り渡す約定があつたなど判示の事情がある場合には、信義則上、乙には、甲が右期間内に採掘した鉱石を引き取る義務があると解すべきである。",
+  "ref_law": "民法1条，民法413条，民法555条",
+  "lawsuit_id": "51875",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51875",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/875/051875_hanrei.pdf"
+}

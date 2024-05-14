@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 10,
+    "day": 7
+  },
+  "case_number": "昭和23(れ)632",
+  "case_name": "強盗",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第2巻11号1287頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 4,
+    "day": 2
+  },
+  "gist": "一　少年法第八條の年齡を算定する時期\n二　心身耗弱若しくは心身喪失の主張のない場合とその審判の要否",
+  "case_gist": "一　少年法第八條の適用をうける少年は、犯罪時においてではなく、判決時において十八歳に滿たない者に限ると解すべきことは既に當裁判所の判例（昭和二二年（れ）第一二一號、昭和二二年一二月一一日第一小法廷判決）の示すとおりである。\n二　被告人が犯行當時飮酒の結果心身耗弱若しくは心神喪失の状態にあつたことについては記録上原審において詮議せられた何等の形跡もなく從つて原審がこれについて特に審判しなかつたからといつて所論の違法ありとすることはできない。",
+  "ref_law": "少年法8條，刑法39條，刑訴法360條2項",
+  "lawsuit_id": "56575",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56575",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/575/056575_hanrei.pdf"
+}

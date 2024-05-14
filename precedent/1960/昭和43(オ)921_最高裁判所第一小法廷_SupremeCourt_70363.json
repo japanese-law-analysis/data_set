@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 3,
+    "day": 6
+  },
+  "case_number": "昭和43(オ)921",
+  "case_name": "建物収去土地明渡請求本訴ならびに土地所有権移転登記請求反訴等",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第94号571頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和40(ネ)1184",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 4,
+    "day": 26
+  },
+  "gist": "本訴原告が土地の売渡によりその所有権を喪失したことを理由に本訴原告のその所有権に基づく請求を棄却するとともに反訴原告が右売渡を受けた買主の占有を基礎とする取得時効により右土地の所有権を取得したことを理由に反訴原告のその所有権に基づく請求を認容することが矛盾しないとされた事例",
+  "case_gist": "（省略）",
+  "ref_law": "民法162条，民法187条，民訴法239条",
+  "lawsuit_id": "70363",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70363",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/363/070363_hanrei.pdf"
+}

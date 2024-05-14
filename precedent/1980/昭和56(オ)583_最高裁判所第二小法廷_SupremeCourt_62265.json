@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 1,
+    "day": 27
+  },
+  "case_number": "昭和56(オ)583",
+  "case_name": "第三者異議",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集民　第141号123頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和54(ネ)980",
+  "original_date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 3,
+    "day": 19
+  },
+  "gist": "建物の壁面に取り付けられた広告用看板の所有者が壁面を占有していないとされた事例",
+  "case_gist": "広告用看板を建物本体の柱にボルト等で接合したうえ接合部分を壁面の一部としてモルタル吹付を施してはめこみ式に密着して取り付けた等の判示の事実関係のもとにおいては、右看板の所有者が建物の壁面を占有しているとはいえない。",
+  "ref_law": "民法180条",
+  "lawsuit_id": "62265",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62265",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/265/062265_hanrei.pdf"
+}

@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 11,
+    "day": 7
+  },
+  "case_number": "平成18(行ウ)6",
+  "case_name": "建築確認処分取消等請求事件",
+  "court_name": "京都地方裁判所第３民事部",
+  "gist": "工事が完了し検査済み証が交付された場合における建築確認及びそれについての裁決の取消しを求める訴え並びに開発行為非該当確認及びそれについての裁決の取消しを求める訴えを訴えの利益を欠くとして却下した事案。2　建築基準法9条1項に基づく建築物の一部除却命令等を京都市長がすることを求めるいわゆる非申請型義務付けの訴えを重大な損害が認められないとして却下した事案",
+  "lawsuit_id": "35511",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=35511",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/511/035511_hanrei.pdf",
+  "contents": ""
+}

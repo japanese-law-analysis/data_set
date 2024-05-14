@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 6,
+    "day": 27
+  },
+  "case_number": "昭和49(オ)717",
+  "case_name": "所有権移転登記手続等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第115号119頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和47(ネ)21",
+  "original_date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 4,
+    "day": 30
+  },
+  "gist": "控訴審において係属中の反訴を追加的に変更する場合の要件",
+  "case_gist": "控訴審において係属中の反訴を追加的に変更するには、その請求の基礎が同一であり、かつ、これにより著しく訴訟手続を遅滞せしめなければ足り、相手方の同意を要しない。",
+  "ref_law": "民訴法232条，民訴法239条，民訴法382条",
+  "lawsuit_id": "62199",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=62199",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/199/062199_hanrei.pdf"
+}

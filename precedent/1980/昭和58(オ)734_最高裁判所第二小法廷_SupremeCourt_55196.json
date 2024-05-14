@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 7,
+    "day": 3
+  },
+  "case_number": "昭和58(オ)734",
+  "case_name": "配当異議等",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第41巻5号1068頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和56(ネ)470",
+  "original_date": {
+    "era": "Showa",
+    "year": 58,
+    "month": 3,
+    "day": 31
+  },
+  "gist": "一　保証又は担保の供与と破産法七二条五号にいう無償行為\n\n二　いわゆる同族会社の代表者で実質的な経営者でもある破産者が当該会社のためにした保証又は担保の供与が破産法七二条五号にいう無償行為に当たる場合",
+  "case_gist": "一　破産者が義務なくして他人のためにした保証又は担保の供与は、債権者の主たる債務者に対する出捐の直接の原因をなす場合であつても、破産者がその行為の対価として経済的利益を受けない限り、破産法七二条五号にいう無償行為に当たる。\n\n二　いわゆる同族会社の代表者で実質的な経営者でもある破産者が義務なくして当該会社のために保証又は担保の供与をしたことを直接の原因として、債権者が当該会社に対して出損をしても、破産者がその行為の対価として経済的利益を受けない場合には、右行為は、破産法七二条五号にいう無償行為に当たる。\n（一、二につき反対意見がある。）",
+  "ref_law": "破産法72条5号",
+  "lawsuit_id": "55196",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55196",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/196/055196_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 12,
+    "day": 2
+  },
+  "case_number": "昭和29(あ)2180",
+  "case_name": "公職選挙法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第8巻12号2061頁",
+  "original_court_name": "広島高等裁判所\n        　松江支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 5,
+    "day": 24
+  },
+  "gist": "正式裁判の請求の起訴状謄本送達の要否",
+  "case_gist": "適法に略式命令の告知を受けた被告人から、正式裁判の請求があつた場合には、改めて被告人に対し起訴状の謄本を送達する必要がないものと解するを相当とする。",
+  "ref_law": "刑訴法271条，刑訴法464条，刑訴法465条，刑訴規則290条，刑訴規則292条（刑訴法463条3項），刑訴規則292条（刑訴法463条4項），刑訴規則292条（刑訴法463条の2）",
+  "lawsuit_id": "56912",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56912",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/912/056912_hanrei.pdf"
+}

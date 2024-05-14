@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 7,
+    "day": 15
+  },
+  "case_number": "昭和54(オ)579",
+  "case_name": "庶民貯金減価損害賠償",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第136号571頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和50(ネ)1894",
+  "original_date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 2,
+    "day": 26
+  },
+  "gist": "政府の経済政策の立案施行と国家賠償責任",
+  "case_gist": "政府が物価の安定等の政策目標を実現するためにとるべき具体的な措置についての判断を誤り、ないしはその措置に適切を欠いたため右目標を達成できなかつたとしても、法律上の義務違反ないし違法行為として、国家賠償法上の損害賠償責任の問題を生ずるものではない。",
+  "ref_law": "国家賠償法1条1項",
+  "lawsuit_id": "70418",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70418",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/418/070418_hanrei.pdf"
+}

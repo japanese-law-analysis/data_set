@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 50,
+    "month": 3,
+    "day": 31
+  },
+  "case_number": "昭和49(あ)1716",
+  "case_name": "兇器準備集合、建造物侵入、公務執行妨害",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第195号741頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 5,
+    "day": 24
+  },
+  "gist": "いわゆる分割審理と被告人の防禦権",
+  "lawsuit_id": "59997",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59997",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/997/059997_hanrei.pdf"
+}

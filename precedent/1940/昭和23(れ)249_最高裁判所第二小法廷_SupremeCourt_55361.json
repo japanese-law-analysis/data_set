@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 6,
+    "day": 12
+  },
+  "case_number": "昭和23(れ)249",
+  "case_name": "強盗傷人、住居侵入",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第2巻7号676頁",
+  "original_court_name": "仙台高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 12,
+    "day": 27
+  },
+  "gist": "一　強盗傷人罪の成立\n二　強盗共犯者の傷害の結果に對する共同責任",
+  "case_gist": "一　強盗に着手した者がその實行行爲中被害者に暴行を加へて傷害の結果を生ぜしめた以上財物の奪取未遂の場合でも強盗傷人罪の既遂をもつて論すべきである。\n二　強盗傷人罪は所謂結果犯であるから強盗共犯者間に被害者に對し傷害を加へるについて意思の連絡がなく又傷害を加へた行爲者に傷害の意思がなくても強盗の實行行爲中共犯者の一人が被害者に暴行を加へて傷害の結果を生ぜしめたときは共犯者全員につき強盗傷人罪が成立するのである。",
+  "ref_law": "刑法240條，刑法60條",
+  "lawsuit_id": "55361",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55361",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/361/055361_hanrei.pdf"
+}

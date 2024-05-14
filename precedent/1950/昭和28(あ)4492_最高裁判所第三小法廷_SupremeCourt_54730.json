@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 1,
+    "day": 11
+  },
+  "case_number": "昭和28(あ)4492",
+  "case_name": "暴行、恐喝",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第9巻1号8頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 7,
+    "day": 21
+  },
+  "gist": "必要弁護事件の判決宣告期日と弁護人立会の要否",
+  "case_gist": "必要弁護事件であつても、判決宣告のためのみに開く公判廷には、弁護人の立会を要するものではない。",
+  "ref_law": "刑訴法289条1項，憲法37条3項，憲法31条",
+  "lawsuit_id": "54730",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54730",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/730/054730_hanrei.pdf"
+}

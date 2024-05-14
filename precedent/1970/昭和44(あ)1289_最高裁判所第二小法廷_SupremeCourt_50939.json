@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 6,
+    "day": 1
+  },
+  "case_number": "昭和44(あ)1289",
+  "case_name": "爆発物取締罰則違反、殺人予備",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第24巻6号253頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 4,
+    "day": 16
+  },
+  "gist": "爆発物取締罰則二条の罪が成立するとされた事例",
+  "case_gist": "他人にダイナマイトの時限爆発装置を携行させて飛行機に搭乗させ、飛行機もろとも爆破して同人を殺害する目的をもつて、ダイナマイト、タイマー、バツテリー等を携行して空港ロビーの便所にはいり、右タイマーにバツテリー、ダイナマイトを連結するなどして時限爆発装置完成のための操作をしているうち、その完成直前誤つてバツテリーの電流をダイナマイトに装置した導火線に通じさせた結果ダイナマイトが爆発し、官に発覚したときは、爆発物取締罰則二条の罪が成立する。",
+  "ref_law": "爆発物取締罰則1条，爆発物取締罰則2条，爆発物取締罰則3条",
+  "lawsuit_id": "50939",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50939",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/939/050939_hanrei.pdf"
+}

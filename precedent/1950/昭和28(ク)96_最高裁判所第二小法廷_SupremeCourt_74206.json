@@ -1,0 +1,26 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 6,
+    "day": 27
+  },
+  "case_number": "昭和28(ク)96",
+  "case_name": "忌避申立却下決定に対する抗告棄却の決定に対する異議の申立につきなした申立却下の決定に対する抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集民　第9号577頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和27(ウ)341",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 12,
+    "day": 25
+  },
+  "lawsuit_id": "74206",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74206",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/206/074206_hanrei.pdf"
+}

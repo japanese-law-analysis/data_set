@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 11,
+    "day": 26
+  },
+  "case_number": "昭和28(あ)760",
+  "case_name": "業務上横領、詐欺",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第88号847頁",
+  "original_court_name": "仙台高等裁判所\n        　秋田支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 11,
+    "day": 26
+  },
+  "gist": "横領した米を利用し他から金員を騙取する行為と詐欺罪の成立",
+  "case_gist": "原審の認定した事実によれば被告人は判示横領にかかる米を利用し欺罔手段を弄して他から金員を騙取し以て新法益を侵害したというのであるから詐欺罪の成立すること勿論であり、原判決は昭和二二年（れ）一〇五号同二三年四月七日言渡の当裁判所大法廷判決（判例集二巻四号二九八頁以下参照）と同旨に出でたものである。",
+  "ref_law": "刑法246条",
+  "lawsuit_id": "72897",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=72897",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/897/072897_hanrei.pdf"
+}

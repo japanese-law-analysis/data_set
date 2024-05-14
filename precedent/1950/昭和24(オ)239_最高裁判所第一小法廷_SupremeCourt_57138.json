@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 1,
+    "day": 22
+  },
+  "case_number": "昭和24(オ)239",
+  "case_name": "所有権移転登記請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第7巻1号65頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 8,
+    "day": 29
+  },
+  "gist": "口頭弁論終結後に提出された「準備書面」と題する書面と相手方への送達の要否",
+  "case_gist": "単に口頭弁論終結後に提出されたにすぎない「準備書面」と題する書面は、民訴第二四三条にいわゆる「準備書面」に該当せず、これを相手方に送達する必要はない。",
+  "ref_law": "民訴法243条1項",
+  "lawsuit_id": "57138",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57138",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/138/057138_hanrei.pdf"
+}

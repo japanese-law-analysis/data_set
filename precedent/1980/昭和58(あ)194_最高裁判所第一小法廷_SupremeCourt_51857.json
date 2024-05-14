@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 60,
+    "month": 6,
+    "day": 11
+  },
+  "case_number": "昭和58(あ)194",
+  "case_name": "受託収賄",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第39巻5号219頁",
+  "original_court_name": "仙台高等裁判所\n        　秋田支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 12,
+    "day": 27
+  },
+  "gist": "市議会議員の会派内における議長候補者選出行為が市議会議員の職務に密接な関係のある行為に当たるとされた事例",
+  "case_gist": "市議会議員が、現職議員によつて構成される会派内において、市議会議長選挙に関し、所属議員の投票を拘束する趣旨で、投票すべき候補者を選出する行為は、市議会議員の職務に密接な関係のある行為として収賄罪にいわゆる職務行為に当たる。",
+  "ref_law": "刑法197条",
+  "lawsuit_id": "51857",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51857",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/857/051857_hanrei.pdf"
+}

@@ -1,0 +1,18 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 1,
+    "day": 24
+  },
+  "case_number": "平成15(ワ)2950",
+  "case_name": "損害賠償請求",
+  "court_name": "名古屋地方裁判所民事１部",
+  "result": "棄却",
+  "gist": "被告が従業員を長時間労働等の過重労働や新規事業等に従事させたために，同人が心理的負荷を受けてうつ病を発症し，その後の異動の強行等によりうつ病を悪化させて自殺したなどとして，従業員の遺族である原告らが，被告に対し，安全配慮義務違反に基づく損害賠償を求めた事案において，被告の安全配慮義務違反を否定して，原告らの請求をいずれも棄却した事例",
+  "lawsuit_id": "34240",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=34240",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/240/034240_hanrei.pdf",
+  "contents": ""
+}

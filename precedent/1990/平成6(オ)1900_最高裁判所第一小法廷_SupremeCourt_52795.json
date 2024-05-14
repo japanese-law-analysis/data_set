@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 10,
+    "month": 2,
+    "day": 26
+  },
+  "case_number": "平成6(オ)1900",
+  "case_name": "不当利得返還",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第52巻1号255頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_case_number": "平成5(ネ)19",
+  "original_date": {
+    "era": "Heisei",
+    "year": 6,
+    "month": 6,
+    "day": 30
+  },
+  "gist": "内縁の夫婦による共有不動産の共同使用と一方の死亡後に他方が右不動産を単独で使用する旨の合意の推認",
+  "case_gist": "内縁の夫婦がその共有する不動産を居住又は共同事業のために共同で使用してきたときは、特段の事情のない限り、両者の間において、その一方が死亡した後は他方が右不動産を単独で使用する旨の合意が成立していたものと推認される。",
+  "ref_law": "民法249条，民法703条，民法第4編第2章第1節婚姻の成立，民訴法247条",
+  "lawsuit_id": "52795",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52795",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/795/052795_hanrei.pdf"
+}

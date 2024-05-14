@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 12,
+    "day": 10
+  },
+  "case_number": "昭和24(れ)1819",
+  "case_name": "暴行",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第3巻12号1933頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 4,
+    "day": 26
+  },
+  "gist": "公訴提起についての検察官の意図と公訴の適否",
+  "case_gist": "公訴の提起について検察官に労働者の争議権を蹂躪する意図があつたとしても、公訴提起の手続が適法に行われている以上、その公訴を不敵法として排斥することはできない。",
+  "ref_law": "旧刑訴法364条6号",
+  "lawsuit_id": "55456",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55456",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/456/055456_hanrei.pdf"
+}

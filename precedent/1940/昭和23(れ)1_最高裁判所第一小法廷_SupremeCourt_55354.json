@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 6,
+    "day": 10
+  },
+  "case_number": "昭和23(れ)1",
+  "case_name": "強盗殺人未遂、窃盗",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第2巻7号661頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 9,
+    "day": 23
+  },
+  "gist": "被告人の疾病と公判手續の停止",
+  "case_gist": "公判期日前、拘置所長から診斷書を添付して、被告人が胃潰瘍のため重態である旨の通報があつたにもかかわらず、裁判所は公判手續停止の決定をしないで第一回公判期日を指定し、手續を進行させても、最終の公判期日に被告人出頭の上、當初からの取調をやりなおして審理を終了し、これにもとずいて判決を言い渡した場合には、その判決手續は違法ではない。",
+  "ref_law": "刑訴法352條，刑訴法410條16號",
+  "lawsuit_id": "55354",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55354",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/354/055354_hanrei.pdf"
+}

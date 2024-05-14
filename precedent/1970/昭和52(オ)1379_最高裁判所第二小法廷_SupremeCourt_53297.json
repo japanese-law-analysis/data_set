@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 53,
+    "month": 7,
+    "day": 17
+  },
+  "case_number": "昭和52(オ)1379",
+  "case_name": "損害賠償",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第32巻5号1000頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和50(ネ)518",
+  "original_date": {
+    "era": "Showa",
+    "year": 52,
+    "month": 9,
+    "day": 28
+  },
+  "gist": "公権力の行使にあたる公務員の失火と失火の責任に関する法律の適用",
+  "case_gist": "公権力の行使にあたる公務員の失火による国又は公共団体の損害賠償責任については、失火の責任に関する法律が適用される。",
+  "ref_law": "国家賠償法1条1項，国家賠償法4条，失火の責任に関する法律",
+  "lawsuit_id": "53297",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53297",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/297/053297_hanrei.pdf"
+}

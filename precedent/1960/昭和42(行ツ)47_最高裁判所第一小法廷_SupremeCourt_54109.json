@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 4,
+    "day": 18
+  },
+  "case_number": "昭和42(行ツ)47",
+  "case_name": "登録実用新案の技術的範囲についての判定に対する行政不服審査法による異議申立についての裁決取消請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第22巻4号936頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和41(行コ)25",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 2,
+    "day": 28
+  },
+  "gist": "一、特許発明または実用新案の技術的範囲についての判定の性質\n二、右判定は行政不服審査の対象となるか",
+  "case_gist": "一、特許発明または実用新案の技術的範囲についての判定は、特許庁のたんなる意見の表明であつて、鑑定的性質を有するにとどまる。\n二、右判定は行政不服審査の対象となりえない。",
+  "ref_law": "（1・2項につき），特許法71条，実用新案法26条，（2項につき），行政不服審査法2条1項，行政不服審査法4条1項",
+  "lawsuit_id": "54109",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54109",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/109/054109_hanrei.pdf"
+}

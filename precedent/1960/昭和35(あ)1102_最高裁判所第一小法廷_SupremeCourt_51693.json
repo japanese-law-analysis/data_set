@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 3,
+    "day": 2
+  },
+  "case_number": "昭和35(あ)1102",
+  "case_name": "誣告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第15巻3号451頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 5,
+    "day": 10
+  },
+  "gist": "誣告罪の罪数。",
+  "case_gist": "たとえ同一人をして刑罰の処分を受けしむる目的をもつて、同一の誣告事項を記載した書面であつても、時期及び作成名義を異にしてこれを二通作成し、各別異の犯罪捜査機関に提出して虚偽の申告をしたときは、その行為は二個の誣告罪にあたり、併合罪の規定を適用すべきものである。",
+  "ref_law": "刑法45条，刑法172条",
+  "lawsuit_id": "51693",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51693",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/693/051693_hanrei.pdf"
+}

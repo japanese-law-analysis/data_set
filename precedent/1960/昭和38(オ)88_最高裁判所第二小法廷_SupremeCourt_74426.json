@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 7,
+    "day": 16
+  },
+  "case_number": "昭和38(オ)88",
+  "case_name": "離婚請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第79号859頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和36(ネ)769",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 10,
+    "day": 22
+  },
+  "gist": "離婚無効確認の訴について確認の利益があるとされた事例",
+  "case_gist": "原被告間に昭和二九年一二月一日離婚判決が言い渡され、同年同月二三日右判決が確定している事実があるからといつて、右確定前である同年一一月九日両者間になされた協議離婚につき、原告不知の間に被告において離婚届を偽造してなしたものであることを理由に、原告がその無効確認を求めて訴を提起することに、法律上の利益がないとはいえない。",
+  "ref_law": "民訴法225条，民法763条，人事訴訟手続法1条",
+  "lawsuit_id": "74426",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74426",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/426/074426_hanrei.pdf"
+}

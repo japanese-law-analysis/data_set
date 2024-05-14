@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 10,
+    "day": 19
+  },
+  "case_number": "昭和25(オ)370",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第5巻11号619頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 10,
+    "day": 28
+  },
+  "gist": "無断で間貸したことを理由として賃貸借を解除しうる一事例",
+  "case_gist": "家屋の賃借人が、賃貸人の承諾を得ずに、次々と数人の者から相当の権利金を取つて右家屋の一部に居住させ、さらにその後他の者から保証金名義で三〇、〇〇〇円を受け取り、瓦斯、電燈、水道の料金をも含めて月々少くとも一、〇〇〇円の賃料を徴し、その一家数人を同居させ右家屋全部の使用を許していた場合においては、賃貸人は無断転貸を理由として賃貸借を解除することができる。",
+  "ref_law": "民法612条",
+  "lawsuit_id": "56025",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56025",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/025/056025_hanrei.pdf"
+}

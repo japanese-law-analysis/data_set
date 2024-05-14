@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 4,
+    "day": 20
+  },
+  "case_number": "昭和35(オ)865",
+  "case_name": "抵当権設定登記回復登記請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第60号359頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 9,
+    "day": 28
+  },
+  "gist": "回復登記と利害関係者の承諾許否",
+  "case_gist": "抵当権者不知の間に不法に抹消された抵当権設定登記の回復登記について、登記上利害関係を有する第三者は承諾を拒みえない。",
+  "ref_law": "民法177条，不動産登記法1条，不動産登記法67条",
+  "lawsuit_id": "77637",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=77637",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/637/077637_hanrei.pdf"
+}

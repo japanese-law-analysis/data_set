@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 7,
+    "day": 29
+  },
+  "case_number": "昭和40(し)53",
+  "case_name": "業務上過失致死等被告事件についてなした異議申立棄却決定に対する特別抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第156号273頁",
+  "original_court_name": "広島高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 6,
+    "day": 25
+  },
+  "gist": "控訴趣意書提出最終日指定の後に弁護人選任届の提出された弁護人に対する最終日通知の要否。",
+  "case_gist": "刑訴規則第二三六条の法意は、控訴趣意書差出最終日の通知は、右最終日の指定後に弁護人選任届の提出された弁護人に対してはこれをすることを要しない趣旨と解すべきである。（昭和二五年（あ）第二七七七号同二七年五月六日第三小法廷判決、刑集六巻五号七三三頁参照）",
+  "ref_law": "刑訴規則236条1項",
+  "lawsuit_id": "61479",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61479",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/479/061479_hanrei.pdf"
+}

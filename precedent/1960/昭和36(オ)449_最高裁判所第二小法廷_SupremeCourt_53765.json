@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 1,
+    "day": 18
+  },
+  "case_number": "昭和36(オ)449",
+  "case_name": "建物明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第17巻1号12頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 1,
+    "day": 31
+  },
+  "gist": "賃料の前払と借家法第一条第一項の適用。",
+  "case_gist": "建物の賃借人は、賃料前払の効果を賃借建物につき所有権を取得した新賃貸人に主張できる。",
+  "ref_law": "借家法1条",
+  "lawsuit_id": "53765",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53765",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/765/053765_hanrei.pdf"
+}

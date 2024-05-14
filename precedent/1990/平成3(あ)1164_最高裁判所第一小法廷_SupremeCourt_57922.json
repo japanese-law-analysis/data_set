@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 4,
+    "month": 3,
+    "day": 18
+  },
+  "case_number": "平成3(あ)1164",
+  "case_name": "労働者派遣事業の適正な運営の確保及び派遣労働者の就業条件の整備等に関する法律違反、覚せい剤取締法違反、出入国管理及び難民認定法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第260号183頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Heisei",
+    "year": 3,
+    "month": 10,
+    "day": 24
+  },
+  "gist": "外国人である被告人の訴訟手続について憲法３１条違反をいう主張が，前提を欠くとされた事例",
+  "ref_law": "憲法31条",
+  "lawsuit_id": "57922",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57922",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/922/057922_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 9,
+    "day": 11
+  },
+  "case_number": "昭和27(オ)972",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第7巻9号918頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 9,
+    "day": 30
+  },
+  "gist": "一　控訴審における訴の変更の拒否\n二　控訴審における訴の変更と憲法三二条\n三　請求の基礎に変更のない請求原因変更の一事例",
+  "case_gist": "一　控訴審においても訴の変更は許される。\n二　控訴審において訴の変更を許すことは、憲法三二条に違反しない。\n三　家屋明渡の請求原因として、当初所有権に基く不法占拠を予備的請求として期間満了による賃貸借の終了を主張し、その後これを全部撤回して借地権の無断譲渡を理由とする契約解除による賃貸借の終了を主張しても、右請求原因の変更は請求の基礎には変更がない。",
+  "ref_law": "民訴法232条（378条）",
+  "lawsuit_id": "56143",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56143",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/143/056143_hanrei.pdf"
+}

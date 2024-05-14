@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 2,
+    "day": 6
+  },
+  "case_number": "昭和25(う)752",
+  "case_name": "窃盗被告事件",
+  "court_name": "広島高等裁判所岡山支部         　第二部",
+  "result": "棄却",
+  "lawsuit_id": "24714",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=24714",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/714/024714_hanrei.pdf",
+  "contents": "/\n"
+}

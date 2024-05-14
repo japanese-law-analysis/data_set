@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 20,
+    "month": 5,
+    "day": 13
+  },
+  "case_number": "平成18(ワ)1296",
+  "case_name": "損害賠償請求事件",
+  "court_name": "仙台地方裁判所第１民事部",
+  "gist": "運転者が，殺意をもって，歩行者専用道路であるアーケード内で，トラックを暴走させ，歩行者を死亡させた事件について，アーケードの設置管理に瑕疵はなく，設置管理者である地方公共団体には国家賠償法２条所定の損害賠償責任はないとされた事例",
+  "lawsuit_id": "36673",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=36673",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/673/036673_hanrei.pdf",
+  "contents": ""
+}

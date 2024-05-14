@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 4,
+    "day": 20
+  },
+  "case_number": "昭和47(オ)395",
+  "case_name": "特許権の通常実施権設定登録等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第27巻3号580頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "昭和42(ネ)1964",
+  "original_date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 12,
+    "day": 23
+  },
+  "gist": "特許権についての通常実施権の許諾と設定登録手続義務",
+  "case_gist": "特許権者から許諾による通常実施権の設定を受けても、その設定登録をする旨の約定が存しないかぎり、実施権者は、特許権者に対し、右権利の設定登録手続を請求することはできない。",
+  "ref_law": "特許法99条1項",
+  "lawsuit_id": "52085",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52085",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/085/052085_hanrei.pdf"
+}

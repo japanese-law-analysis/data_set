@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 11,
+    "day": 16
+  },
+  "case_number": "昭和36(オ)135",
+  "case_name": "抵当権設定登記抹消等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第16巻11号2280頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 35,
+    "month": 11,
+    "day": 10
+  },
+  "gist": "債務の履行不能後目的物の価格が値上りした場合に請求しうる損害賠償額。",
+  "case_gist": "債務の目的物の価格が履行不能後値上りをつづけて来た場合において、履行不能となつた際債務者がその事情を知りまたは知りえたときは、債務者が口頭弁論終結時の価格まで値上りする以前に目的物を他に処分したであろうと予想された場合でないかぎり、右終結時において処分するであろうと予想された場合でなくても、債権者は、右終結時の価格による損害の賠償を請求しうる。",
+  "ref_law": "民法416条2項",
+  "lawsuit_id": "53751",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53751",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/751/053751_hanrei.pdf"
+}

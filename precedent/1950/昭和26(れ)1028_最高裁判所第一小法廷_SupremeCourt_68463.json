@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 10,
+    "day": 18
+  },
+  "case_number": "昭和26(れ)1028",
+  "case_name": "物価統制令違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第54号1083頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 1,
+    "day": 19
+  },
+  "gist": "具体的に違法又は違憲の事実あることの主張に当らない上告理由の適否",
+  "case_gist": "所論は、本件と契約当事者、引渡数量、適用条文等を異にする全然別種の事件を引用して漫然原判決は法律上平等の取扱いを受ける原則を無視し且つ基本的人権を尊重せず罪のない被告人に対し重刑を科した憲法違反があると非難するに過ぎないもので毫も本件につき具体的な違法又は違憲の事実あることを主張するものでないから、適法な上告理由と認め難い。",
+  "ref_law": "刑訴法405条，刑訴法408条",
+  "lawsuit_id": "68463",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=68463",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/463/068463_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 1,
+    "day": 26
+  },
+  "case_number": "昭和34(オ)579",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第58号351頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 3,
+    "day": 14
+  },
+  "gist": "控訴審において訴の一部取下がなされた場合に残余の請求につき控訴棄却の判決がなされたときの効果",
+  "case_gist": "控訴審において訴の一部につき同意ある取下がなされた場合に、残余の請求につき控訴棄却の判決がなされたときには、右残余の請求のみにつき第一審判決を維持したものと解すべきである。（昭和二四年一一月八日第三小法廷判決参照）",
+  "ref_law": "民訴法232条1項，民訴法384条1項",
+  "lawsuit_id": "63463",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=63463",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/463/063463_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 7,
+    "day": 7
+  },
+  "case_number": "昭和24(れ)360",
+  "case_name": "窃盗",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第12号149頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 12,
+    "day": 15
+  },
+  "gist": "第一回公判期日とその召喚状の送達との間に猶豫期間を存しない場合の被告人の出頭と公判手續の適否",
+  "case_gist": "被告人に對する原審第一回公判期日が昭和二三年一二月八日と指定されたにも拘わらず該期日の召喚状が被告人に送達せられたのは同月五日であり、舊刑訴法第三二一條第一項所定の三日の猶豫期間の存しなかつたことは、所論のとおりである。しかし原審公判調書の記載によれば被告人は右期日に出廷し、何等異議を述べず辯論をしていることが窺い得るのであるから、同條第二項より右猶豫期間を存しなかつた瑕疵は治癒されたものと認むべきであり後日上告論旨で手續上の違法として非難され得るものとはいえない。",
+  "ref_law": "舊刑訴法321條1項，舊刑訴法321條2項",
+  "lawsuit_id": "74975",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74975",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/975/074975_hanrei.pdf"
+}

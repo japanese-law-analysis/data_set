@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 38,
+    "month": 1,
+    "day": 17
+  },
+  "case_number": "昭和37(オ)733",
+  "case_name": "家屋明渡等請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第64号21頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 37,
+    "month": 3,
+    "day": 22
+  },
+  "gist": "不法行為における故意か過失かの主張の不明確と弁論主義違背の有無。",
+  "case_gist": "裁判所が不法行為であると判断する場合に、それが故意によるか過失に基づくかを当事者をして主張させなくても弁論主義に反しない。",
+  "ref_law": "民訴法186条，民法709条",
+  "lawsuit_id": "66135",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=66135",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/135/066135_hanrei.pdf"
+}

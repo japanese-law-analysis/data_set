@@ -1,0 +1,18 @@
+{
+  "trial_type": "AdministrativeCase",
+  "date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 9,
+    "day": 25
+  },
+  "case_number": "昭和54(行ウ)2",
+  "case_name": "換地指定処分取消請求事件",
+  "court_name": "前橋地方裁判所",
+  "field": "行政",
+  "gist": "１　土地改良法に基づく換地計画に求められる照応とは，その従前地と換地をそれぞれ全体としてとらえ，それぞれの用途，地積など法律で規定する諸条件を総合勘案してこれがおおむね同一であることをもって足りると解するのが相当であるとして，従前地とこれに対する換地とを個別に取り上げてその各々が照応していることが必要である旨の主張を排斥した事例　\n２　\n土地改良法に基づく換地処分に伴う清算金決定処分につき，従前地及び換地の評価算定基準時を当該土地改良事業の工事概成時とし，その評価方式をいわゆる比例地積方式としたことが違法ではないとされた事例",
+  "lawsuit_id": "36034",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail5?id=36034",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/034/036034_hanrei.pdf",
+  "contents": ""
+}

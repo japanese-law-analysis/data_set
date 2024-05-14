@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 14,
+    "month": 7,
+    "day": 9
+  },
+  "case_number": "平成10(行ツ)239",
+  "case_name": "建築工事続行禁止請求事件",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第56巻6号1134頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成9(行コ)23",
+  "original_date": {
+    "era": "Heisei",
+    "year": 10,
+    "month": 6,
+    "day": 2
+  },
+  "gist": "１　国又は地方公共団体が専ら行政権の主体として国民に対して行政上の義務の履行を求める訴訟の適否\n２　地方公共団体が建築工事の中止命令の名あて人に対して同工事を続行してはならない旨の裁判を求める訴えが不適法とされた事例",
+  "case_gist": "１　国又は地方公共団体が専ら行政権の主体として国民に対して行政上の義務の履行を求める訴訟は，不適法である。\n２　宝塚市が，宝塚市パチンコ店等，ゲームセンター及びラブホテルの建築等の規制に関する条例（昭和５８年宝塚市条例第１９号）８条に基づき同市長が発した建築工事の中止命令の名あて人に対し，同工事を続行してはならない旨の裁判を求める訴えは，不適法である。",
+  "ref_law": "裁判所法3条，行政代執行法1条，宝塚市パチンコ店等，ゲームセンター及びラブホテルの建築等の規制に関する条例（昭和58年宝塚市条例第19号）8条",
+  "lawsuit_id": "52246",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52246",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/246/052246_hanrei.pdf"
+}

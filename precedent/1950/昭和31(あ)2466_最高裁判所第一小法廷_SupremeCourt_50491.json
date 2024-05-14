@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 3,
+    "day": 28
+  },
+  "case_number": "昭和31(あ)2466",
+  "case_name": "業務上横領",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第11巻3号1285頁",
+  "original_court_name": "福岡高等裁判所\n        　宮崎支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 5,
+    "day": 14
+  },
+  "gist": "奄美群島住民に対する裁判権停止期間中に犯された同群島住民の犯罪を裁判権回復後に審判することの適否",
+  "case_gist": "わが国が昭和二〇年一一月二六日付米国海軍軍政府布告第一号等により奄美群島住民に対して裁判権を行使することができなかつた期間中に同群島の住民によつて犯された犯罪に対し、わが国が裁判権を回復した後においてこれを審判することは正当である。",
+  "ref_law": "昭和20年11月26日付米国海軍軍政府布告1号1条，昭和20年11月26日付米国海軍軍政府布告1号5条，昭和27年条約5号日本国との平和条約3条，昭和28年条約33号奄美群島に関する日本国とアメリカ合衆国との間の協定1条，昭和28年条約33号奄美群島に関する日本国とアメリカ合衆国との間の協定6条，刑法253条",
+  "lawsuit_id": "50491",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50491",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/491/050491_hanrei.pdf"
+}

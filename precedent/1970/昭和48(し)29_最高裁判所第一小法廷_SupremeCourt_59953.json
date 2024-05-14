@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 3,
+    "day": 13
+  },
+  "case_number": "昭和48(し)29",
+  "case_name": "付審判請求事件の異議申立棄却決定に対する特別抗告",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第191号345頁",
+  "original_court_name": "京都地方裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 3,
+    "day": 20
+  },
+  "gist": "付審判請求事件の審理手続について不当な措置が認められるが、いまだ刑訴法四一一条を準用すべきものとは認められないとされた事例",
+  "ref_law": "刑訴法262条，刑訴法411条",
+  "lawsuit_id": "59953",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59953",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/953/059953_hanrei.pdf"
+}

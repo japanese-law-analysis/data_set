@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 6,
+    "day": 17
+  },
+  "case_number": "昭和42(あ)1626",
+  "case_name": "軽犯罪法違反等",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第24巻6号280頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 6,
+    "day": 6
+  },
+  "gist": "軽犯罪法一条三三号前段と憲法二一条一項",
+  "case_gist": "軽犯罪法一条三三号前段は、憲法二一条一項に違反しない。",
+  "ref_law": "軽犯罪法1条33号前段，憲法21条1項",
+  "lawsuit_id": "50836",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50836",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/836/050836_hanrei.pdf"
+}

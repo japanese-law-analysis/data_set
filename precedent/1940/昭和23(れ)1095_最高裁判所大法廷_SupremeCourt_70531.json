@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 4,
+    "day": 20
+  },
+  "case_number": "昭和23(れ)1095",
+  "case_name": "賍物故買",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第9号317頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 5,
+    "day": 19
+  },
+  "gist": "原判決の理由中において一字を抹消しながら判事の認印を缺く場合と上告理由",
+  "case_gist": "原判決の理由中においてＢの一字を抹消しながら判事の認印等を缺くことは所論のとおりであるが、かかる違法は判決に影響を及ぼさないこと明白であるから上告理由として採用し得ない。",
+  "ref_law": "舊刑訴法411條",
+  "lawsuit_id": "70531",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70531",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/531/070531_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 12,
+    "day": 11
+  },
+  "case_number": "昭和59(あ)929",
+  "case_name": "道路交通法違反、業務上過失致死、業務上過失傷害",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第238号321頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 59,
+    "month": 5,
+    "day": 31
+  },
+  "gist": "頭部外傷による記憶の喪失と刑訴法三一四条一項本文にいう公判手続停止事由の有無",
+  "case_gist": "被告人は本件事故の頭部外傷により、第一審公判当時、本件事故について記憶の回復がなく、またその見込もなかつたが、右の点を除けば、心身ともに正常な状態に復しており、訴訟当事者として十分の防禦活動をすることができたものであるから、刑訴法三一四条一項本文にいう「心神喪失の状態に在るとき」にあたらない（昭和二九年（し）第四一号同年七月三〇日第二小法廷決定・刑集八巻七号一二三一頁参照）。",
+  "ref_law": "刑訴法314条1項",
+  "lawsuit_id": "61850",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61850",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/850/061850_hanrei.pdf"
+}

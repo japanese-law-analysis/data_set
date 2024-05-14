@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 12,
+    "day": 17
+  },
+  "case_number": "昭和54(オ)1068",
+  "case_name": "老齢福祉年金支給",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第137号601頁",
+  "original_court_name": "札幌高等裁判所",
+  "original_case_number": "昭和50(ネ)106",
+  "original_date": {
+    "era": "Showa",
+    "year": 54,
+    "month": 4,
+    "day": 27
+  },
+  "gist": "国民年金法（昭和四一年法律第六七号による改正前のもの）七九条の二第六項、六五条一項、三項、六項と憲法二五条、一四条",
+  "case_gist": "国民年金法（昭和四一年法律第六七号による改正前のもの）七九条の二第六項、六五条一項、三項、六項の各規定は、憲法二五条、一四条違反の問題を生じない。",
+  "ref_law": "憲法14条，憲法25条，国民年金法（昭和41年法律第67号による改正前のもの）79条の2第6項，国民年金法（昭和41年法律第67号による改正前のもの）65条1項，国民年金法（昭和41年法律第67号による改正前のもの）65条3項，国民年金法（昭和41年法律第67号による改正前のもの）65条6項",
+  "lawsuit_id": "70417",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70417",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/417/070417_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 4,
+    "day": 10
+  },
+  "case_number": "昭和42(オ)1462",
+  "case_name": "転付預金債権支払請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第24巻4号240頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和39(ネ)3101",
+  "original_date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 9,
+    "day": 29
+  },
+  "gist": "譲渡禁止の特約のある債権に対する転付命令の効力",
+  "case_gist": "譲渡禁止の特約のある債権であつても、差押債権者の善意・悪意を問わず、転付命令によつて移転することができるものであつて、これにつき、民法四六六条二項の適用はない。",
+  "ref_law": "民法466条2項，民訴法600条1項，民訴法601条",
+  "lawsuit_id": "55072",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55072",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/072/055072_hanrei.pdf"
+}

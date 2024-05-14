@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 7,
+    "month": 4,
+    "day": 25
+  },
+  "case_number": "平成5(行ツ)38",
+  "case_name": "船員保険被保険者資格確認請求却下処分取消",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集民　第175号133頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成3(行コ)142",
+  "original_date": {
+    "era": "Heisei",
+    "year": 4,
+    "month": 11,
+    "day": 25
+  },
+  "gist": "船員保険法一七条所定の船舶所有者の主たる事務所が所在する都道府県以外の都道府県の知事に対し船員保険の被保険者資格の取得の確認請求がされた場合における右知事の確認の権限と右確認請求の移送義務の有無",
+  "case_gist": "甲が船員保険法一七条所定の船舶所有者に当たるとして、甲の主たる事務所が所在する丙県の知事に船員保険の被保険者資格の取得の確認請求がされた場合に、当該船舶の船舶所有者が甲ではなく丁県に主たる事務所を有する乙であり、当該船員は乙に使用される者として船員保険の被保険者資格を取得したものであるときは、丙県の知事には、その確認の権限がなく、丁県の知事に右確認請求を移送する義務もない。",
+  "ref_law": "船員保険法10条，船員保険法17条，船員保険法21条ノ5，船員保険法（昭和60年法律第34号による改正前のもの）19条ノ2，船員保険法施行令3条1項",
+  "lawsuit_id": "76117",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=76117",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/117/076117_hanrei.pdf"
+}

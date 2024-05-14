@@ -1,0 +1,17 @@
+{
+  "trial_type": "LowerCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 10,
+    "day": 20
+  },
+  "case_number": "平成21(わ)156",
+  "case_name": "傷害致死（認定事実は暴行，傷害致死）",
+  "court_name": "松山地方裁判所刑事部",
+  "gist": "被告人が同居親族に加えた暴行と，死亡との間の因果関係を認め，傷害致死罪の成立を認めた事例",
+  "lawsuit_id": "38262",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail4?id=38262",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/262/038262_hanrei.pdf",
+  "contents": ""
+}

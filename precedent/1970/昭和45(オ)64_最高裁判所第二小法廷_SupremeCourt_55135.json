@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 45,
+    "month": 5,
+    "day": 22
+  },
+  "case_number": "昭和45(オ)64",
+  "case_name": "借地権確認妨害排除請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第24巻5号415頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和34(ネ)1397",
+  "original_date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 10,
+    "day": 31
+  },
+  "gist": "賃貸人の共同相続人に対して賃借権の確認を求める訴訟と必要的共同訴訟の成否",
+  "case_gist": "不動産の賃借人が賃貸人の相続人に対して賃借権の確認を求める訴訟は、相続人が数人あるときでも、必要的共同訴訟ではない。",
+  "ref_law": "民訴法62条，民法430条",
+  "lawsuit_id": "55135",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55135",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/135/055135_hanrei.pdf"
+}

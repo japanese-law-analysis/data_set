@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 12,
+    "month": 6,
+    "day": 27
+  },
+  "case_number": "平成11(あ)1298",
+  "case_name": "窃盗被告事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第54巻5号445頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_case_number": "平成11(う)43",
+  "original_date": {
+    "era": "Heisei",
+    "year": 11,
+    "month": 9,
+    "day": 21
+  },
+  "gist": "住居不定の被告人に対する上告趣意書差出最終日通知書等の付郵便送達が有効とされた事例",
+  "case_gist": "住居不定で身柄を拘束されていない被告人が、控訴審において住居とは認め難い場所を送達場所とし自己を送達受取人として届け出る旨の書面を提出し、上告を申し立てながら、住居又は事務所を届け出ず、送達受取人を選任して届け出ることもなく、上告審あての弁護人選任回答書にも住居として右場所を記載したなど判示の事実関係の下においては、右場所にあてて行った被告人に対する上告趣意書差出最終日通知書等の書留郵便に付する送達は、有効である。",
+  "ref_law": "刑訴法54条，刑訴規則62条1項，刑訴規則63条1項",
+  "lawsuit_id": "51217",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51217",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/217/051217_hanrei.pdf"
+}

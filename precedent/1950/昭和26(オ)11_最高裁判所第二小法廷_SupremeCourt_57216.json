@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 11,
+    "day": 20
+  },
+  "case_number": "昭和26(オ)11",
+  "case_name": "建物明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第7巻11号1211頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 12,
+    "day": 8
+  },
+  "gist": "建物賃借人が賃貸人に無断で建物の一部を営業共同経営契約に基き第三者に使用させる場合と民法第六一二条",
+  "case_gist": "建物賃借人が、第三者との間の飲食店営業共同経営契約（調理販売は右第三者が担当し、賃借人は場所、什器等を提供して売上高の百分の五を取得する約旨）に基き、自己と対等の立場において前記建物の一部を右第三者に使用させているときは、かかる使用関係の設定につき賃貸人の承諾がないかぎり、民法第六一二条第二項による解除の原因となる。",
+  "ref_law": "民法612条（667条）",
+  "lawsuit_id": "57216",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57216",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/216/057216_hanrei.pdf"
+}

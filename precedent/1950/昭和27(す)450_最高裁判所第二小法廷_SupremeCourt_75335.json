@@ -1,0 +1,25 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 12,
+    "day": 1
+  },
+  "case_number": "昭和27(す)450",
+  "case_name": "横領被告事件について当裁判所が言渡した上告棄却の判決に対する刑訴五〇一条による裁判の解釈の申請",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第70号5頁",
+  "original_court_name": "最高裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 11,
+    "day": 7
+  },
+  "lawsuit_id": "75335",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=75335",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/335/075335_hanrei.pdf"
+}

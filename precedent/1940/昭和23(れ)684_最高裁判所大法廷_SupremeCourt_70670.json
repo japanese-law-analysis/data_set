@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 12,
+    "day": 27
+  },
+  "case_number": "昭和23(れ)684",
+  "case_name": "強盗傷人",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集刑　第6号597頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 12,
+    "day": 17
+  },
+  "gist": "虚無の證據による事實認定の違法ある場合",
+  "case_gist": "被告人は原審公判廷において、Ａ及びＢ兩名に對して亂暴を加えなかつた旨の供述をして居り、他の被告人二名も同樣のことを述べているに拘わらず、原判決はこれらの供述と他の證據とを不可分的に綜合して、被告人が亂暴をしたと述べているのは、虚無の證據を援用して事實の認定をした違法がある。",
+  "ref_law": "刑訴法336條",
+  "lawsuit_id": "70670",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70670",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/670/070670_hanrei.pdf"
+}

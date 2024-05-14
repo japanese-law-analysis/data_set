@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 4,
+    "day": 4
+  },
+  "case_number": "昭和25(さ)41",
+  "case_name": "非常上告の申立",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "刑集　第6巻4号578頁",
+  "original_court_name": "木曾福島簡易裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 6,
+    "day": 7
+  },
+  "gist": "一　行為当時廃止されていた罰則を適用した違法と非常上告\n二　法令に違反した原略式命令がなさるべき判決よりも被告人のため不利益でない場合",
+  "case_gist": "一　行為当時既に廃止されていた罰則を適用した確定略式命令は違法であつて、非常上告の理由となる。\n二　確定略式命令が誤つて適用した罰則が、本来適用すべき罰則よりも、その法定刑が軽いときは、旧刑訴第五二〇条第一号但書にいう「原判決被告人ノ為不利益ナルトキ」にあたらない。",
+  "ref_law": "旧刑訴法520条1号，長野県木炭検査規則（左記条例施行日以降廃止），長野県薪炭検査条例（昭和22年9月29日長野県条例28号），長野県薪炭検査条例（昭和22年10月1日施行），薪炭配給規則（昭和22年12月17日農林省令93号による改正後），臨時物資需給調整法（昭和23年3月31日法律16号による改正前）",
+  "lawsuit_id": "54455",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54455",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/455/054455_hanrei.pdf"
+}

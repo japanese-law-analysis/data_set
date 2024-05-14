@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 10,
+    "day": 17
+  },
+  "case_number": "昭和30(オ)750",
+  "case_name": "建物収去土地明渡請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第12巻14号3124頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 6,
+    "day": 1
+  },
+  "gist": "建物が未だ朽廃に達しないと判断された事例。",
+  "case_gist": "木造建物が、その柱、桁、屋根の小屋組などの要部に多少の腐蝕個所がみられても、こちらの部分の構造にもとずく自らの力で屋根を支えて独立に地上に存立し、内部への出入に危険を感じさせることもないなど原審認定の状況（原判決理由参照）にあるときは、右建物は未だ借地法第一七条第一項但書にいう朽廃の程度に達しないものと解すべきである。",
+  "ref_law": "借地法17条1項，借地法2条1項",
+  "lawsuit_id": "52831",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52831",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/831/052831_hanrei.pdf"
+}

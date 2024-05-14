@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 7,
+    "day": 10
+  },
+  "case_number": "昭和25(あ)2715",
+  "case_name": "強盗殺人",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "刑集　第7巻7号1505頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 8,
+    "day": 9
+  },
+  "gist": "刑訴第四一一条第一号にあたる一事例",
+  "case_gist": "強盗殺人の罪により第一審判決が被告人を無期懲役に処したのに対し、検察官および被告人の双方から控訴を申し立て量刑不当を主張した事案において、控訴裁判所が、被告人の控訴趣意書の謄本はこれを検察官に送達しながら、検察官の控訴趣意の謄本を被告人に送達せず、且つ最初の口頭弁論期日に至るまで被告人において右控訴趣意の内容を知りこれに対して弁論の準備をする適当な機会を与えられなかつたと認められる事情があるにかかわらず、検察官の論旨を理由ありとして第一審判決を破棄し、被告人を死刑に処した場合には、刑訴第四一一条第一号に該当する。",
+  "ref_law": "刑訴法411条1号，刑訴規則242条，刑訴規則243条",
+  "lawsuit_id": "53390",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53390",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/390/053390_hanrei.pdf"
+}

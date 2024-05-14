@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 4,
+    "day": 10
+  },
+  "case_number": "昭和48(あ)2712",
+  "case_name": "強盗、暴行、傷害、銃砲刀剣類所持等取締法違反、火薬類取締法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第192号257頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 10,
+    "day": 11
+  },
+  "gist": "上告趣意書に具体的な上告理由の記載がないときの処理",
+  "case_gist": "上告趣意書に具体的な上告理由の記載がないときは、刑訴規則二四〇条に定める方式に違反し、不適法な上告であり、刑訴法三八六条一項二号、四一四条により棄却すべきものである。",
+  "ref_law": "刑訴法386条1項，刑訴法414条，刑訴規則240条",
+  "lawsuit_id": "59910",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=59910",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/910/059910_hanrei.pdf"
+}

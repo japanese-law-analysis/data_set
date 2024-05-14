@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 5,
+    "day": 19
+  },
+  "case_number": "昭和25(す)34",
+  "case_name": "上告棄却の判決に対する疑義申立",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第4巻5号842頁",
+  "original_court_name": "最高裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 2,
+    "day": 24
+  },
+  "gist": "舊刑訴法第五六一條の疑義の申立の意義と上告棄却判決に對する疑義申立の適否",
+  "case_gist": "舊刑訴法五六一條に規定する疑義の申立は、刑の言渡を受けた者がその裁判主文の趣旨につき疑がある場合に言渡をした裁判所に對しその解釋を求める手續であつて、本件申立の如く當裁判所が上告を棄却した判決の理由等につきその當否を論じ、右判決を無効であるとして當裁判所にこれが更生を求めることは疑義の申立として到底許されないところである。即ち本件疑義の申立は不適法として棄却すべきものである。",
+  "ref_law": "舊刑訴法561條",
+  "lawsuit_id": "56772",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=56772",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/772/056772_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 7,
+    "day": 10
+  },
+  "case_number": "昭和26(あ)1580",
+  "case_name": "恐喝、賍物故買、同運搬、賍物牙保",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第6巻7号876頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 11,
+    "day": 29
+  },
+  "gist": "賍物運搬罪成立の一事例",
+  "case_gist": "窃盗の被害者から賍物の回復を依頼されて、これを被害者宅に運搬返還したとしても、結局窃盗犯人に協力してその利益のために賍物の返還を条件に被害者をして多額の金員を交付せしめる等賍物の正常なる回復を困難ならしめた場合には賍物運搬罪が成立する。",
+  "ref_law": "刑法256条2項",
+  "lawsuit_id": "54584",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54584",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/584/054584_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 9,
+    "day": 8
+  },
+  "case_number": "昭和36(あ)1334",
+  "case_name": "入場税法違反",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第139号173頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 36,
+    "month": 4,
+    "day": 13
+  },
+  "gist": "入場券の半片を入場者に返さず、これを再度使用し、入場料金を過少に申告する行為と入場税法第二五条第一項第一号の罪。",
+  "case_gist": "入場税を免かれる意思をもつて入場券の半片を入場者に返さず、これを再度使用し、課税標準額である入場料金を実際の額より過少に申告する行為は、入場税法第二五条第一項第一号の罪に該当する。",
+  "ref_law": "入場税法10条，入場税法19条1項，入場税法19条6項，入場税法25条1項1号，入場税法26条1号，入場税法26号3号",
+  "lawsuit_id": "61293",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61293",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/293/061293_hanrei.pdf"
+}

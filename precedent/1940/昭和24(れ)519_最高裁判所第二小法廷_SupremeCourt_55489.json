@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 24,
+    "month": 9,
+    "day": 10
+  },
+  "case_number": "昭和24(れ)519",
+  "case_name": "詐欺",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "刑集　第3巻10号1585頁",
+  "original_court_name": "福岡高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 12,
+    "day": 27
+  },
+  "gist": "一　舊刑訴法第六九第二項により判決書に記載すべき檢事の氏名\n二　控訴審の公判期日に被告人を召喚することの要否。",
+  "case_gist": "一　舊刑事訴訟法第六九條第二項により判決書に記載すべき檢事の氏名は公判に關與した檢事の氏名であるから、審理又は判決言渡のいずれかの公判に關與した檢事の氏名であればよいのであつて、必ず審理に關與した檢事の氏名でなければならないと解すべき理由はない。\n二　控訴審の公判期日に被告人を召喚する手続がとられていなくても、その期日が被告人に通知されておれば、その控訴審の手続も違法ではない。",
+  "ref_law": "舊刑訴法69條2項，刑訴法404条，刑訴法273条2項，刑訴法390条",
+  "lawsuit_id": "55489",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55489",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/489/055489_hanrei.pdf"
+}

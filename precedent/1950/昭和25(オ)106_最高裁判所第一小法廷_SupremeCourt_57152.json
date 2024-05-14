@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 29,
+    "month": 1,
+    "day": 28
+  },
+  "case_number": "昭和25(オ)106",
+  "case_name": "家屋明渡請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "その他",
+  "article_info": "民集　第8巻1号234頁",
+  "original_court_name": "名古屋高等裁判所\n        　金沢支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 3,
+    "day": 11
+  },
+  "gist": "事情変更による解除権の発生を認め得ない一事例",
+  "case_gist": "家屋売買契約の成立当時、売主は他に居住家屋を所有し、右売買の目的家屋を必要としなかつたところ、その後戦災により居住家屋を焼失したというだけでは、事情変更による解除権の発生を認めるに足りない。",
+  "ref_law": "民法540条",
+  "lawsuit_id": "57152",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57152",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/152/057152_hanrei.pdf"
+}

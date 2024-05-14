@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 44,
+    "month": 4,
+    "day": 25
+  },
+  "case_number": "昭和43(し)109",
+  "case_name": "証拠書類閲覧に関する決定に対し検察官のした異議を棄却する決定に対する特別抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "その他",
+  "article_info": "刑集　第23巻4号275頁",
+  "original_court_name": "横浜地方裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 43,
+    "month": 12,
+    "day": 11
+  },
+  "gist": "検察官に対する供述調書についての証拠開示命令が違法であるとされた事例",
+  "case_gist": "裁判所が、検察官申請証人の採用決定前に、同証人の反対尋問のため必要であるとの理由で、検察官に対し、その所持する当該証人の検察官に対する供述調書を弁護人に閲覧させることを命じた場合、特段の事情のないかぎり、その閲覧の時期を主尋問終了後反対尋問前と指定したとしても、その閲覧が被告人の防禦のため特に重要であるということはできず、また右段階で、証人威迫、罪証隠滅の弊害がないとするのは時期尚早であつて、右証拠開示命令は違法である。",
+  "ref_law": "刑訴法294条，刑訴法299条1項，刑訴法300条，刑訴法321条1項2号",
+  "lawsuit_id": "50927",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50927",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/927/050927_hanrei.pdf"
+}

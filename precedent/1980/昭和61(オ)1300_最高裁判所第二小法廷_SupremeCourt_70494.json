@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 62,
+    "month": 5,
+    "day": 29
+  },
+  "case_number": "昭和61(オ)1300",
+  "case_name": "代表役員資格不存在確認等",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集民　第151号117頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_case_number": "昭和60(ネ)854",
+  "original_date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 7,
+    "day": 29
+  },
+  "gist": "宗教法人の代表役員に就任したと称している者に対する自己が代表役員であること等の確認を求める訴えと確認の利益の有無",
+  "case_gist": "宗教法人の代表役員に就任したと称している者に対し、自己が代表役員であることの確認又は右の者が代表役員でないことの確認を求める訴えは、右法人に対し自己が代表役員であることの確認を求める訴えとともに提起しても、確認の利益を欠く。",
+  "ref_law": "民訴法225条，宗教法人法18条",
+  "lawsuit_id": "70494",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70494",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/494/070494_hanrei.pdf"
+}

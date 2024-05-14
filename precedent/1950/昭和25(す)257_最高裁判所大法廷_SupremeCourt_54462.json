@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 26,
+    "month": 12,
+    "day": 26
+  },
+  "case_number": "昭和25(す)257",
+  "case_name": "上告棄却決定に対する異議申立",
+  "court_name": "最高裁判所大法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第5巻13号2654頁",
+  "original_court_name": "最高裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 25,
+    "month": 7,
+    "day": 3
+  },
+  "gist": "上告棄却決定に対する異義申立の適否",
+  "case_gist": "本件は当裁判所第二小法廷がさきに、本件申立人がした上告の申立について、その上告趣意は刑訴四〇五条各号所定の事由に該当しないものとして、同四一四条、三八六条一項三号により右上告を棄却した決定に対し、別紙のごとき理由により異議を申立てるものであるが、右のごとき当裁判所の決定に対し、異議の申立を許す規定は存在しないのであるから、本件申立は不適法として棄却すべきものである。",
+  "ref_law": "刑訴法386条2項，刑訴法414条",
+  "lawsuit_id": "54462",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54462",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/462/054462_hanrei.pdf"
+}

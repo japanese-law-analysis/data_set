@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 5,
+    "month": 7,
+    "day": 20
+  },
+  "case_number": "平成3(オ)1715",
+  "case_name": "約束手形金",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "民集　第47巻7号4652頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_case_number": "平成2(ネ)1881",
+  "original_date": {
+    "era": "Heisei",
+    "year": 3,
+    "month": 7,
+    "day": 30
+  },
+  "gist": "白地手形の満期が補充された場合とその他の手形要件の白地補充権の消滅時効",
+  "case_gist": "満期及びその他の手形要件を白地として振り出された手形の満期が補充された場合は、右手形のその他の手形要件の白地補充権は、手形上の権利と別個独立に時効によって消滅することなく、手形上の権利が消滅しない限りこれを行使することができる。",
+  "ref_law": "手形法10条，手形法70条1項，手形法77条1項",
+  "lawsuit_id": "52777",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=52777",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/777/052777_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 10,
+    "day": 1
+  },
+  "case_number": "昭和27(あ)6219",
+  "case_name": "酒税法違反",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第87号1頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 6,
+    "day": 27
+  },
+  "gist": "認定事実に関係なき事項について無用の説示をした判決の適否",
+  "case_gist": "所論Ａ及びＢの共犯関係についての原判決の説示は所論の事実ありと仮定して無用の説明をなしたに過ぎないものであるからこの点を捉えて云為する論旨（註、共犯関係については何らの証拠がないから憲法一一条に違反するとする事を指す）は原判決を破棄する理由となすに足りない。",
+  "ref_law": "憲法11条，刑訴法411条，刑訴法396条，刑訴規則246条",
+  "lawsuit_id": "72630",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=72630",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/630/072630_hanrei.pdf"
+}

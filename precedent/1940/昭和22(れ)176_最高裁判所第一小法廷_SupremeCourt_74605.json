@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 23,
+    "month": 1,
+    "day": 29
+  },
+  "case_number": "昭和22(れ)176",
+  "case_name": "詐欺",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "集刑　第1号289頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 22,
+    "month": 10,
+    "day": 6
+  },
+  "gist": "最高裁判所が刑の執行猶豫の判決をすることができる場合",
+  "case_gist": "上告の理由があつて、當裁判所が原判決を破毀して自判する場合に限つて當裁判所は刑の執行猶豫の判決をすることができるのみである。しかるに、被告人は他に何等首肯するに足るような上告理由を述べず唯漫然と執行猶豫を求めているに過ぎないから、これでは上告適法の理由とはならない。",
+  "ref_law": "刑訴法447條，刑訴法448條，刑法25條，刑訴應急措置法13條2項",
+  "lawsuit_id": "74605",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=74605",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/605/074605_hanrei.pdf"
+}

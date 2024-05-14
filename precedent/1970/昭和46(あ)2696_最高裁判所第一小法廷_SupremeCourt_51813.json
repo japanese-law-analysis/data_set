@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 48,
+    "month": 3,
+    "day": 15
+  },
+  "case_number": "昭和46(あ)2696",
+  "case_name": "公正証書原本不実記載、同行使等",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第27巻2号115頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 11,
+    "day": 16
+  },
+  "gist": "住民基本台帳法に基づく住民票の原本と刑法一五七条一項の「権利、義務ニ関スル公正証書ノ原本」",
+  "case_gist": "住民基本台帳法に基づく住民票の原本は、刑法一五七条一項にいう「権利、義務ニ関スル公正証書ノ原本」にあたる。",
+  "ref_law": "住民基本台帳法6条，住民基本台帳法7条，刑法157条1項",
+  "lawsuit_id": "51813",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=51813",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/813/051813_hanrei.pdf"
+}

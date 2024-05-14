@@ -1,0 +1,22 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 27,
+    "month": 4,
+    "day": 24
+  },
+  "case_number": "昭和26(あ)4187",
+  "case_name": "詐欺",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第63号499頁",
+  "original_court_name": "東京高等裁判所",
+  "gist": "旅行者用外食券と刑法第二四六条第一項の財物",
+  "case_gist": "旅行者用外食券もまた財物である。",
+  "ref_law": "刑法246条1項",
+  "lawsuit_id": "68304",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=68304",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/304/068304_hanrei.pdf"
+}

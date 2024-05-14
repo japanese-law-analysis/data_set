@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 17,
+    "month": 3,
+    "day": 11
+  },
+  "case_number": "平成15(あ)434",
+  "case_name": "収賄被告事件",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "刑集　第59巻2号1頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "平成14(う)2021",
+  "original_date": {
+    "era": "Heisei",
+    "year": 15,
+    "month": 1,
+    "day": 29
+  },
+  "gist": "警視庁Ａ警察署地域課に勤務する警察官が同庁Ｂ警察署刑事課で捜査中の事件に関して告発状を提出していた者から現金の供与を受けた行為につき収賄罪が成立するとされた事例",
+  "case_gist": "警視庁Ａ警察署地域課に勤務する警察官が，同庁Ｂ警察署刑事課で捜査中の事件に関して，告発状を提出していた者から，告発状の検討，助言，捜査情報の提供，捜査関係者への働き掛けなどの有利かつ便宜な取り計らいを受けたいとの趣旨の下に供与されるものであることを知りながら，現金の供与を受けたときは，同警察官が同事件の捜査に関与していなかったとしても，刑法１９７条１項前段の収賄罪が成立する。",
+  "ref_law": "刑法197条1項，警察法64条",
+  "lawsuit_id": "50065",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=50065",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/065/050065_hanrei.pdf"
+}

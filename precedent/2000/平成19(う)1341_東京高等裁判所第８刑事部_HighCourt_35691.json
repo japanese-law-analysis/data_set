@@ -1,0 +1,21 @@
+{
+  "trial_type": "HighCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 19,
+    "month": 8,
+    "day": 30
+  },
+  "case_number": "平成19(う)1341",
+  "case_name": "住居侵入，窃盗，建造物侵入（変更後の訴因・常習特殊窃盗）被告事件",
+  "court_name": "東京高等裁判所第８刑事部",
+  "result": "棄却",
+  "article_info": "第60巻3号6頁",
+  "original_court_name": "前橋地方裁判所",
+  "gist": "盗犯等の防止及び処分に関する法律２条３号の定める「門戸牆壁等ヲ踰越損壊シ」に該当するとされた事例",
+  "case_gist": "出入口に付けられた錠等の装置には触れずに，出入口のガラスを身体が出入りすることができるほどの大きさに割り，その割れ間から建造物に侵入した場合には，盗犯等の防止及び処分に関する法律２条３号の定める侵入の態様のうち，「鎖鑰ヲ開キ」ではなく，「門戸牆壁等ヲ踰越損壊シ」に該当する。",
+  "lawsuit_id": "35691",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail3?id=35691",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/691/035691_hanrei.pdf",
+  "contents": ""
+}

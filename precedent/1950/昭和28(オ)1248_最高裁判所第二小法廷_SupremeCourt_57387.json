@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 31,
+    "month": 2,
+    "day": 10
+  },
+  "case_number": "昭和28(オ)1248",
+  "case_name": "土地明渡等請求",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第10巻2号48頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 28,
+    "month": 11,
+    "day": 11
+  },
+  "gist": "借家法第一条第一項の適用のない一事例",
+  "case_gist": "賃貸家屋の所有者が敷地の占有権原を有しない場合、敷地の所有者が、家屋の賃借人に対する土地明渡請求訴訟の進行中、家屋所有者に対し家屋収去土地明渡を命ずる確定判決の執行を容易ならしめるため取毀ち家屋としてその家屋を買受けたときは、家屋賃借人は借家法第一条第一項による保護をうけないものと解するのが相当である。",
+  "ref_law": "借家法1条",
+  "lawsuit_id": "57387",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=57387",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/387/057387_hanrei.pdf"
+}

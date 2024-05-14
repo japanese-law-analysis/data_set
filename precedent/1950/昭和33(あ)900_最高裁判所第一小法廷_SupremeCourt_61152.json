@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 7,
+    "day": 30
+  },
+  "case_number": "昭和33(あ)900",
+  "case_name": "贈賄",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集刑　第130号695頁",
+  "original_court_name": "大阪高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 4,
+    "day": 7
+  },
+  "gist": "刑法第一九七条の五にいう「収受した賄賂」にあたらない事例。",
+  "case_gist": "本件犯行当時の刑法一九七条の四（現行法一九七条の五）により没収または追徴しうるのは、収受した賄賂に限られたものであるが、本件犯行は、原審の是認した第一審判決の認定したとおり「……所得申告納税につき有利な取扱を受けたき趣旨の下に、その報酬として現金二万円を右奥所を介して提供し、以つて賄賂の申込をした」というのであつて、右認定の下においては、右金員は未だ前記刑法一九七条の四の収受した賄賂に当るものということはできない。",
+  "ref_law": "刑法197条の5",
+  "lawsuit_id": "61152",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61152",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/152/061152_hanrei.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 34,
+    "month": 7,
+    "day": 24
+  },
+  "case_number": "昭和32(あ)1302",
+  "case_name": "詐欺",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "棄却",
+  "article_info": "集刑　第130号675頁",
+  "original_court_name": "仙台高等裁判所\n        　秋田支部",
+  "original_date": {
+    "era": "Showa",
+    "year": 32,
+    "month": 4,
+    "day": 30
+  },
+  "gist": "刑訴法第三二一条第一項第三号にいう被告人以外の者が作成した供述書と認められる事例。",
+  "case_gist": "答申書と題する書面で、詐欺被害てん末の事実は不動文字をもつて記載されているが、犯罪の日時、仲介人の氏名、被害金額、買い受けた物品の数量等の余白部分は、被害者がこれを記入して著名、押印をしており、書面全体の形式から被害者の意思にもとづき同人がみずからこれを作成したものと認めることができるときは、右答申書は刑訴第三二一条第一項三号にいう被告人以外の者が作成した供述書に該当する。",
+  "ref_law": "刑訴法321条",
+  "lawsuit_id": "61042",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61042",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/042/061042_hanrei.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 49,
+    "month": 7,
+    "day": 22
+  },
+  "case_number": "昭和46(行ツ)88",
+  "case_name": "債権差押処分取消請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "民集　第28巻5号1008頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和45(行コ)18",
+  "original_date": {
+    "era": "Showa",
+    "year": 46,
+    "month": 6,
+    "day": 30
+  },
+  "gist": "会社更生法一一九条にいう納期限の意義",
+  "case_gist": "会社更生法一一九条所定の租税のうち徴収のために納税の告知を必要とする源泉徴収に係る所得税等に関しては、同条にいう納期限とは、各税法の規定により当該租税を納付すべき本来の期限（法定納期限）ではなく、納税の告知において指定された納付の期限（指定納期限）を指すものと解すべきである。",
+  "ref_law": "会社更生法119条",
+  "lawsuit_id": "54190",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=54190",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/190/054190_hanrei.pdf"
+}

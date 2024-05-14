@@ -1,0 +1,29 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 42,
+    "month": 6,
+    "day": 1
+  },
+  "case_number": "昭和40(オ)1334",
+  "case_name": "損害賠償請求",
+  "court_name": "最高裁判所第一小法廷",
+  "result_type": "判決",
+  "result": "破棄差戻",
+  "article_info": "集民　第87号926頁",
+  "original_court_name": "東京高等裁判所",
+  "original_case_number": "昭和38(ネ)320",
+  "original_date": {
+    "era": "Showa",
+    "year": 40,
+    "month": 8,
+    "day": 30
+  },
+  "gist": "二審における請求の趣旨の拡張の申立が附帯控訴の申立と認められた事例",
+  "case_gist": "二審において、全部勝訴した当事者が、判示の記載のような請求の趣旨の拡張の申立をしたときには、実質的に附帯控訴の申立をしたものと解することができる。",
+  "ref_law": "民訴法232条，民訴法372条，民訴法374条，民訴法378条",
+  "lawsuit_id": "70177",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=70177",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/177/070177_hanrei.pdf"
+}

@@ -1,0 +1,21 @@
+{
+  "trial_type": "HighCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 21,
+    "month": 3,
+    "day": 12
+  },
+  "case_number": "平成20(う)2747",
+  "case_name": "業務妨害被告事件",
+  "court_name": "東京高等裁判所第２刑事部",
+  "result": "棄却",
+  "article_info": "第62巻1号21頁",
+  "original_court_name": "水戸地方裁判所\n        　土浦支部",
+  "gist": "犯罪予告の虚偽通報がなければ遂行されたはずの警察の公務と偽計業務妨害罪にいう「業務」",
+  "case_gist": "犯罪予告の虚偽通報がなければ遂行されたはずの本来の警察の公務は，強制力を付与された権力的なものを含めて，その全体が偽計業務妨害罪にいう「業務」に当たる。",
+  "lawsuit_id": "37950",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail3?id=37950",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/950/037950_hanrei.pdf",
+  "contents": ""
+}

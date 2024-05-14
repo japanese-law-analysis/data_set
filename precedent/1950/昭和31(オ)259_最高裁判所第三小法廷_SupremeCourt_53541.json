@@ -1,0 +1,28 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 33,
+    "month": 3,
+    "day": 25
+  },
+  "case_number": "昭和31(オ)259",
+  "case_name": "借地権明渡請求",
+  "court_name": "最高裁判所第三小法廷",
+  "result_type": "判決",
+  "result": "棄却",
+  "article_info": "民集　第12巻4号589頁",
+  "original_court_name": "名古屋高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 30,
+    "month": 10,
+    "day": 31
+  },
+  "gist": "賃借権に基く給付訴訟の係属と賃借権確認の訴の適否",
+  "case_gist": "賃借権に基き土地の引渡を求める給付訴訟が係属しても、その基本たる賃借権の存否内容につき即時確定の利益の認められる限り、賃借権確認の訴は許されるものと解すべきである。",
+  "ref_law": "民訴法225条，民訴法231条",
+  "lawsuit_id": "53541",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=53541",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/541/053541_hanrei.pdf"
+}

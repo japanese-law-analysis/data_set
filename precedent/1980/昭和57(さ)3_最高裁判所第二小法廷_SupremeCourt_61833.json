@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Showa",
+    "year": 57,
+    "month": 10,
+    "day": 29
+  },
+  "case_number": "昭和57(さ)3",
+  "case_name": "歯科医師法違反幇助被告事件について簡易裁判所がした略式命令に対する非常上告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "判決",
+  "result": "破棄自判",
+  "article_info": "集刑　第229号175頁",
+  "original_court_name": "岸和田簡易裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 56,
+    "month": 9,
+    "day": 12
+  },
+  "gist": "処断刑超過による非常上告（幇助犯についての必要的減軽を看過）",
+  "ref_law": "刑訴法458条",
+  "lawsuit_id": "61833",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=61833",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/833/061833_hanrei.pdf"
+}

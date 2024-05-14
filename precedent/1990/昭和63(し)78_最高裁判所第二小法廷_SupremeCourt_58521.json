@@ -1,0 +1,27 @@
+{
+  "trial_type": "SupremeCourt",
+  "date": {
+    "era": "Heisei",
+    "year": 3,
+    "month": 1,
+    "day": 25
+  },
+  "case_number": "昭和63(し)78",
+  "case_name": "再審請求棄却決定に対する即時抗告棄却決定に対する特別抗告",
+  "court_name": "最高裁判所第二小法廷",
+  "result_type": "決定",
+  "result": "その他",
+  "article_info": "集刑　第257号153頁",
+  "original_court_name": "東京高等裁判所",
+  "original_date": {
+    "era": "Showa",
+    "year": 61,
+    "month": 8,
+    "day": 3
+  },
+  "gist": "旧刑訴法による再審請求事件の特別抗告審において申立人の死亡により再審請求事件の手続の終了宣言がされた事例",
+  "ref_law": "刑訴法施行法2条，刑訴応急措置法18条，旧刑訴法492条",
+  "lawsuit_id": "58521",
+  "detail_page_link": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=58521",
+  "full_pdf_link": "https://www.courts.go.jp/app/files/hanrei_jp/521/058521_hanrei.pdf"
+}
